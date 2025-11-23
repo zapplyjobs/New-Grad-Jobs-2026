@@ -233,7 +233,8 @@ class PostedJobsManager {
       const tempPath = postedJobsPath + '.tmp';
       fs.writeFileSync(tempPath, JSON.stringify(postedJobsArray, null, 2));
       fs.renameSync(tempPath, postedJobsPath);
-      
+      console.log(`💾 Saved ${postedJobsArray.length} posted jobs to database`);
+
     } catch (error) {
       console.error('Error saving posted jobs:', error);
     }
