@@ -53,11 +53,11 @@ function isTechRole(title) {
     { regex: /\b(ml|machine learning|ai) engineer\b/, keyword: 'ML engineer' },
     { regex: /\b(data|database|platform) engineer\b/, keyword: 'data engineer' },
 
-    // Generic "engineer" ONLY if NOT preceded by non-tech context
+    // Generic "engineer" and "engineering" ONLY if NOT preceded by non-tech context
     // Excludes: Sales Engineer, Manufacturing Engineer, Biomedical Engineer, etc.
-    // Uses negative lookbehind to check what comes BEFORE "engineer"
-    { regex: /\bengineer\b(?!\s)/i, keyword: 'engineer',
-      validate: (title) => !/(sales|manufacturing|biomedical|industrial|mechanical|civil|chemical|process)\s+engineer/i.test(title) },
+    // Includes: Systems Engineering, Software Engineering, Hardware Engineering
+    { regex: /\b(engineer|engineering)\b/i, keyword: 'engineer/engineering',
+      validate: (title) => !/(sales|manufacturing|biomedical|industrial|mechanical|civil|chemical|process)\s+(engineer|engineering)/i.test(title) },
 
     // Tech specializations
     { regex: /\b(web|mobile|ios|android|react|angular|vue)\b/, keyword: 'web/mobile dev' },

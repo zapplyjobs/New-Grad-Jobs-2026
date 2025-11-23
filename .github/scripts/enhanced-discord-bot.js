@@ -35,30 +35,8 @@ const CHANNEL_CONFIG = {
   'hr': process.env.DISCORD_HR_CHANNEL_ID
 };
 
-// Location-specific channel configuration
-const LOCATION_CHANNEL_CONFIG = {
-  'remote-usa': process.env.DISCORD_REMOTE_USA_CHANNEL_ID,
-  'new-york': process.env.DISCORD_NY_CHANNEL_ID,
-  'austin': process.env.DISCORD_AUSTIN_CHANNEL_ID,
-  'chicago': process.env.DISCORD_CHICAGO_CHANNEL_ID,
-  'seattle': process.env.DISCORD_SEATTLE_CHANNEL_ID,
-  'redmond': process.env.DISCORD_REDMOND_CHANNEL_ID,
-  'mountain-view': process.env.DISCORD_MV_CHANNEL_ID,
-  'san-francisco': process.env.DISCORD_SF_CHANNEL_ID,
-  'sunnyvale': process.env.DISCORD_SUNNYVALE_CHANNEL_ID,
-  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID
-};
-
 // Check if multi-channel mode is enabled (check for actual values, not just defined)
 const MULTI_CHANNEL_MODE = Object.values(CHANNEL_CONFIG).some(id => id && id.trim() !== '');
-const LOCATION_MODE_ENABLED = Object.values(LOCATION_CHANNEL_CONFIG).some(id => id && id.trim() !== '');
-
-// Debug logging for location mode
-console.log('🔍 DEBUG: LOCATION_MODE_ENABLED =', LOCATION_MODE_ENABLED);
-console.log('🔍 DEBUG: Location channel configuration:');
-Object.entries(LOCATION_CHANNEL_CONFIG).forEach(([key, value]) => {
-  console.log(`  - ${key}: ${value ? `"${value.substring(0, 4)}...${value.substring(value.length - 4)}"` : 'undefined'}`);
-});
 
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
@@ -74,9 +52,11 @@ const { generateJobId, generateEnhancedId } = require('./job-fetcher/utils');
 // Import routing logger and enhanced channel router for debugging
 const RoutingLogger = require('./routing-logger');
 const { getJobChannelDetails } = require('./enhanced-channel-router');
+const JobsDataExporter = require('./jobs-data-exporter');
 
-// Initialize routing logger
+// Initialize routing logger and jobs exporter
 const routingLogger = new RoutingLogger();
+const jobsExporter = new JobsDataExporter();
 
 /**
  * Normalize job object to handle multiple data formats
@@ -239,52 +219,23 @@ class PostedJobsManager {
       if (!fs.existsSync(dataDir)) {
         fs.mkdirSync(dataDir, { recursive: true });
       }
-
-      // Convert Set to array (preserves insertion order, newest last)
-      // DO NOT sort - sorting alphabetically causes newest jobs to be removed if they start with 'a'
-      let postedJobsArray = [...this.postedJobs];
+      
+      // Convert Set to sorted array and limit size to prevent infinite growth
+      let postedJobsArray = [...this.postedJobs].sort();
       const maxEntries = 5000; // Keep last 5000 posted jobs
-
-      console.log(`🔍 DEBUG: Before trimming - array has ${postedJobsArray.length} entries`);
-
-      let removedIds = [];
+      
       if (postedJobsArray.length > maxEntries) {
-        const originalLength = postedJobsArray.length;
-        // Remove oldest entries (beginning of array) to keep newest entries (end of array)
-        const removed = postedJobsArray.slice(0, postedJobsArray.length - maxEntries);
-        removedIds = removed;
         postedJobsArray = postedJobsArray.slice(-maxEntries);
         this.postedJobs = new Set(postedJobsArray);
-        console.log(`🔍 DEBUG: Trimmed from ${originalLength} to ${postedJobsArray.length}`);
-        console.log(`🔍 DEBUG: Removed ${removed.length} oldest IDs (by insertion order): ${removed.slice(0, 3).join(', ')}${removed.length > 3 ? '...' : ''}`);
       }
-
+      
       // Atomic write
       const tempPath = postedJobsPath + '.tmp';
-
-      console.log(`🔍 DEBUG: Writing temp file to ${tempPath}`);
-      const jsonContent = JSON.stringify(postedJobsArray, null, 2);
-      fs.writeFileSync(tempPath, jsonContent);
-      console.log(`🔍 DEBUG: Temp file written (${jsonContent.length} bytes)`);
-
-      console.log(`🔍 DEBUG: Renaming ${tempPath} → ${postedJobsPath}`);
+      fs.writeFileSync(tempPath, JSON.stringify(postedJobsArray, null, 2));
       fs.renameSync(tempPath, postedJobsPath);
-      console.log(`🔍 DEBUG: Rename complete`);
-
-      // Verify the write
-      if (fs.existsSync(postedJobsPath)) {
-        const stats = fs.statSync(postedJobsPath);
-        console.log(`🔍 DEBUG: Verified file exists, size: ${stats.size} bytes`);
-      } else {
-        console.error('❌ CRITICAL: File does not exist after write!');
-      }
-
-      console.log(`💾 Saved ${postedJobsArray.length} posted job IDs to database`);
-
+      
     } catch (error) {
-      console.error('❌ CRITICAL: Error saving posted jobs:', error);
-      console.error('   Stack trace:', error.stack);
-      console.error('   This will cause duplicate job postings!');
+      console.error('Error saving posted jobs:', error);
     }
   }
 
@@ -293,11 +244,7 @@ class PostedJobsManager {
   }
 
   markAsPosted(jobId) {
-    const sizeBefore = this.postedJobs.size;
-    console.log(`  📝 Marking as posted: ${jobId.substring(0, 40)}${jobId.length > 40 ? '...' : ''}`);
-    console.log(`  🔍 DEBUG: Set size before add: ${sizeBefore}`);
     this.postedJobs.add(jobId);
-    console.log(`  🔍 DEBUG: Set size after add: ${this.postedJobs.size} (${this.postedJobs.size > sizeBefore ? 'NEW' : 'DUPLICATE'})`);
     this.savePostedJobs();
   }
 }
@@ -372,209 +319,49 @@ function getJobChannel(job) {
   const description = (job.job_description || '').toLowerCase();
   const combined = `${title} ${description}`;
 
-  // TECH ROLES - Check first (most common for our job board)
-  if (/\b(software engineer|developer|programmer|data scientist|devops|system administrator|systems analyst|IT|technical|backend|frontend|full stack|mobile|cloud|infrastructure|security|qa|test engineer|sre|reliability|platform|machine learning|ai|algorithm)\b/.test(title)) {
-    return CHANNEL_CONFIG.tech;
-  }
-
-  // Sales roles - Check title first to avoid matching company names
-  if (/\b(sales|account executive|account manager|bdr|sdr|business development|customer success|revenue|quota)\b/.test(title)) {
+  // Sales roles - Check first as they're very specific
+  if (/\b(sales|account executive|account manager|bdr|sdr|business development|customer success|revenue|quota)\b/.test(combined)) {
     return CHANNEL_CONFIG.sales;
   }
 
-  // Marketing roles - Check title first
-  if (/\b(marketing|growth|seo|sem|content marketing|brand|campaign|digital marketing|social media|copywriter|creative director)\b/.test(title)) {
+  // Marketing roles
+  if (/\b(marketing|growth|seo|sem|content marketing|brand|campaign|digital marketing|social media|copywriter|creative director)\b/.test(combined)) {
     return CHANNEL_CONFIG.marketing;
   }
 
-  // Finance roles - Check title first
-  if (/\b(finance|accounting|financial analyst|controller|treasury|audit|tax|bookkeep|cfo|actuarial|investment|banker)\b/.test(title)) {
+  // Finance roles
+  if (/\b(finance|accounting|financial analyst|controller|treasury|audit|tax|bookkeep|cfo|actuarial|investment|banker)\b/.test(combined)) {
     return CHANNEL_CONFIG.finance;
   }
 
-  // Healthcare roles - More specific to avoid company name matches
-  if (/\b(healthcare|medical|clinical|nurse|doctor|physician|therapist|pharmaceutical|biotech|hospital|patient care|registered nurse|rn|lpn|md|pa|clinical research)\b/.test(title)) {
+  // Healthcare roles
+  if (/\b(healthcare|medical|clinical|health|nurse|doctor|physician|therapist|pharmaceutical|biotech|hospital|patient care)\b/.test(combined)) {
     return CHANNEL_CONFIG.healthcare;
   }
 
-  // Product Management roles - Check title first
-  if (/\b(product manager|product owner|product marketing|(\bpm\b)|product lead|product strategy|product analyst)\b/.test(title)) {
+  // Product Management roles - Be specific to avoid false positives
+  if (/\b(product manager|product owner|product marketing|(\bpm\b)|product lead|product strategy|product analyst)\b/.test(combined)) {
     return CHANNEL_CONFIG.product;
   }
 
-  // Supply Chain/Operations roles - Check title first
-  if (/\b(supply chain|logistics|operations manager|procurement|inventory|warehouse|distribution|sourcing|fulfillment|shipping)\b/.test(title)) {
+  // Supply Chain/Operations roles - Exclude "people operations"
+  if (/\b(supply chain|logistics|(?<!people )operations manager|procurement|inventory|warehouse|distribution|sourcing|fulfillment|shipping)\b/.test(combined)) {
     return CHANNEL_CONFIG['supply-chain'];
   }
 
-  // Project Management roles - Check title first
-  if (/\b(project manager|program manager|scrum master|agile coach|pmo|project coordinator|delivery manager)\b/.test(title)) {
+  // Project Management roles - Be specific to avoid confusion with Product Management
+  if (/\b(project manager|program manager|scrum master|agile coach|pmo|project coordinator|delivery manager)\b/.test(combined)) {
     return CHANNEL_CONFIG['project-management'];
   }
 
-  // HR roles - Check title first
-  if (/\b(human resources|(\bhr\b)|recruiter|talent acquisition|people operations|compensation|benefits|hiring manager|recruitment|workforce)\b/.test(title)) {
+  // HR roles
+  if (/\b(human resources|(\bhr\b)|recruiter|talent acquisition|people operations|compensation|benefits|hiring manager|recruitment|workforce)\b/.test(combined)) {
     return CHANNEL_CONFIG.hr;
   }
 
-  // FALLBACK: Check descriptions for roles that might have different titles
-  // Only if title didn't match anything specific
-
-  // Healthcare from description (but exclude company names)
-  if (/\b(healthcare|medical|clinical|nurse|doctor|physician|therapist|pharmaceutical|biotech|hospital|patient care|registered nurse|rn|lpn|md|pa|clinical research)\b/.test(description) &&
-      !/\b(health|cardinal|united|osf|ascension|hca|tenet)\b/.test(title)) {
-    return CHANNEL_CONFIG.healthcare;
-  }
-
-  // Finance from description
-  if (/\b(finance|accounting|financial analyst|controller|treasury|audit|tax|bookkeep|cfo|actuarial|investment|banker)\b/.test(description)) {
-    return CHANNEL_CONFIG.finance;
-  }
-
-  // Tech roles from description
-  if (/\b(software engineer|developer|programmer|data scientist|devops|system administrator|systems analyst|IT|technical|backend|frontend|full stack|mobile|cloud|infrastructure|security|qa|test engineer|sre|reliability|platform|machine learning|ai|algorithm)\b/.test(description)) {
-    return CHANNEL_CONFIG.tech;
-  }
-
-  // Default to tech for all remaining roles
+  // Default to tech for all engineering/technical roles
   // This includes: Software Engineer, Data Scientist, DevOps, QA, IT, Security, etc.
   return CHANNEL_CONFIG.tech;
-}
-
-// Determine which location channel a job should go to
-function getJobLocationChannel(job) {
-  const city = (job.job_city || '').toLowerCase().trim();
-  const state = (job.job_state || '').toLowerCase().trim();
-  const title = (job.job_title || '').toLowerCase();
-  const description = (job.job_description || '').toLowerCase();
-  const combined = `${title} ${description} ${city} ${state}`;
-
-  // Metro area city matching (comprehensive)
-  const cityMatches = {
-    // San Francisco Bay Area
-    'san francisco': 'san-francisco',
-    'oakland': 'san-francisco',
-    'berkeley': 'san-francisco',
-    'san jose': 'san-francisco',
-    'palo alto': 'san-francisco',
-    'fremont': 'san-francisco',
-    'hayward': 'san-francisco',
-    'richmond': 'san-francisco',
-    'daly city': 'san-francisco',
-    'alameda': 'san-francisco',
-    'cupertino': 'san-francisco',
-    'santa clara': 'san-francisco',
-    'mountain view': 'mountain-view',
-    'sunnyvale': 'sunnyvale',
-    'san bruno': 'san-bruno',
-
-    // NYC Metro Area
-    'new york': 'new-york',
-    'manhattan': 'new-york',
-    'brooklyn': 'new-york',
-    'queens': 'new-york',
-    'bronx': 'new-york',
-    'staten island': 'new-york',
-    'jersey city': 'new-york',
-    'newark': 'new-york',
-    'hoboken': 'new-york',
-    'white plains': 'new-york',
-    'yonkers': 'new-york',
-
-    // Seattle Metro Area
-    'seattle': 'seattle',
-    'bellevue': 'seattle',
-    'tacoma': 'seattle',
-    'everett': 'seattle',
-    'renton': 'seattle',
-    'kent': 'seattle',
-    'redmond': 'redmond',
-
-    // Austin Metro Area
-    'austin': 'austin',
-    'round rock': 'austin',
-    'cedar park': 'austin',
-    'georgetown': 'austin',
-    'pflugerville': 'austin',
-
-    // Chicago Metro Area
-    'chicago': 'chicago',
-    'naperville': 'chicago',
-    'aurora': 'chicago',
-    'joliet': 'chicago',
-    'evanston': 'chicago',
-    'schaumburg': 'chicago'
-  };
-
-  // City abbreviations
-  const cityAbbreviations = {
-    'sf': 'san-francisco',
-    'nyc': 'new-york'
-  };
-
-  // 1. Check exact city matches first (most reliable)
-  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
-    if (city.includes(searchCity)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 2. Check abbreviations
-  for (const [abbr, channelKey] of Object.entries(cityAbbreviations)) {
-    if (city === abbr || city.split(/\s+/).includes(abbr)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 3. Check title + description for city names
-  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
-    if (combined.includes(searchCity)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 4. State-based fallback (for ALL jobs, not just remote)
-  // If we have a state but no specific city match, map to the main city in that state
-  if (state) {
-    if (state === 'ca' || state === 'california') {
-      return LOCATION_CHANNEL_CONFIG['san-francisco'];
-    }
-    if (state === 'ny' || state === 'new york') {
-      return LOCATION_CHANNEL_CONFIG['new-york'];
-    }
-    if (state === 'tx' || state === 'texas') {
-      return LOCATION_CHANNEL_CONFIG['austin'];
-    }
-    if (state === 'wa' || state === 'washington') {
-      // Check if Redmond is specifically mentioned
-      if (combined.includes('redmond')) {
-        return LOCATION_CHANNEL_CONFIG['redmond'];
-      }
-      return LOCATION_CHANNEL_CONFIG['seattle'];
-    }
-    if (state === 'il' || state === 'illinois') {
-      return LOCATION_CHANNEL_CONFIG['chicago'];
-    }
-  }
-
-  // 5. Remote USA fallback (only if no state/city match)
-  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
-      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
-  }
-
-  // 6. Default fallback: US jobs without specific location channels → remote-usa
-  // This ensures jobs from Phoenix, Denver, Miami, etc. still get posted somewhere
-  // Only apply to confirmed US states to avoid posting Canadian/international jobs
-  const usStates = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt', 'va', 'wa', 'wv', 'wi', 'wy', 'dc',
-    'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota', 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico', 'new york', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania', 'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming', 'district of columbia'];
-
-  if (state && usStates.includes(state)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
-  }
-
-  // No US location match - skip location channels
-  return null;
 }
 
 // Enhanced tag generation
@@ -833,12 +620,33 @@ function loadAndFilterJobs(filters = {}) {
 // Event handlers
 client.once('ready', async () => {
   console.log(`✅ Enhanced Discord bot logged in as ${client.user.tag}`);
-  
+
+  // Fetch guild and channels to populate cache
+  console.log(`🔍 DEBUG: GUILD_ID = "${GUILD_ID}" (type: ${typeof GUILD_ID})`);
+  console.log(`🔍 DEBUG: Bot is member of ${client.guilds.cache.size} guilds`);
+  client.guilds.cache.forEach(g => console.log(`   - ${g.name} (${g.id})`));
+
+  if (GUILD_ID) {
+    try {
+      console.log(`🔍 Attempting to fetch guild: ${GUILD_ID}`);
+      const guild = await client.guilds.fetch(GUILD_ID);
+      console.log(`✅ Guild found: ${guild.name}`);
+      await guild.channels.fetch();
+      console.log(`✅ Loaded ${guild.channels.cache.size} channels from guild`);
+    } catch (error) {
+      console.error(`❌ Failed to fetch guild channels: ${error.message}`);
+      console.error(`   Error code: ${error.code}`);
+      console.error(`   Full error:`, error);
+    }
+  } else {
+    console.warn(`⚠️ DISCORD_GUILD_ID not set`);
+  }
+
   // Only register commands if running interactively (not in GitHub Actions)
   if (!process.env.GITHUB_ACTIONS) {
     await registerCommands();
   }
-  
+
   // Load jobs to post
   let jobs = [];
   try {
@@ -860,6 +668,13 @@ client.once('ready', async () => {
     client.destroy();
     process.exit(0);
     return;
+  }
+
+  // Export all jobs to encrypted JSON for external job boards
+  try {
+    jobsExporter.exportJobs(jobs);
+  } catch (error) {
+    console.log('⚠️ Failed to export jobs data:', error.message);
   }
 
   // Filter out jobs that have already been posted to Discord
@@ -987,39 +802,8 @@ client.once('ready', async () => {
           }
         }
 
-        // Rate limiting between industry and location posts
+        // Rate limiting between posts
         await new Promise(resolve => setTimeout(resolve, 1500));
-
-        // LOCATION POST: Also post to location channel (if applicable)
-        if (LOCATION_MODE_ENABLED) {
-          const locationChannelId = getJobLocationChannel(job);
-          console.log(`  🔍 DEBUG: Job "${job.job_title}" | City: "${job.job_city}" | State: "${job.job_state}" | Location Channel ID: ${locationChannelId ? `"${locationChannelId.substring(0, 4)}..."` : 'null'}`);
-
-          if (locationChannelId && locationChannelId.trim() !== '') {
-            // Use cache instead of API fetch (critical: prevents rate limit hang)
-            const locationChannel = client.channels.cache.get(locationChannelId);
-
-            if (locationChannel) {
-              try {
-                const locationResult = await postJobToForum(job, locationChannel);
-
-                if (locationResult.success) {
-                  console.log(`  ✅ Location: ${locationChannel.name}`);
-                  jobPostedSuccessfully = true;
-                } else {
-                  console.log(`  ⚠️ Location post failed: ${locationChannel.name}`);
-                }
-              } catch (error) {
-                console.error(`  ❌ Location channel error:`, error.message);
-              }
-            } else {
-              console.error(`  ❌ Location channel not found in cache: ${locationChannelId}`);
-            }
-
-            // Rate limiting after location post
-            await new Promise(resolve => setTimeout(resolve, 1500));
-          }
-        }
 
         // Mark as posted if at least one post succeeded
         if (jobPostedSuccessfully) {
