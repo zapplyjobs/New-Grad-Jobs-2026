@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { encryptLog } = require('./encryption-utils');
+const { encryptLog, decryptLog } = require('./encryption-utils');
 
 /**
  * Channel Routing Logger
@@ -65,12 +65,31 @@ class RoutingLogger {
     const auditDir = path.join(process.cwd(), '.github', 'audit');
     fs.mkdirSync(auditDir, { recursive: true });
 
-    const encryptedData = encryptLog(this.routingLog, password);
     const outputPath = path.join(auditDir, 'routing-encrypted.json');
 
+    // Load existing logs and append new entries
+    let allLogs = [];
+    if (fs.existsSync(outputPath)) {
+      try {
+        const existingEncrypted = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
+        const existingLogs = decryptLog(existingEncrypted, password);
+        allLogs = existingLogs;
+        console.log(`📂 Loaded ${existingLogs.length} existing routing entries`);
+      } catch (error) {
+        console.log('⚠️ Failed to load existing logs:', error.message);
+      }
+    }
+
+    // Append new entries
+    allLogs.push(...this.routingLog);
+
+    // Encrypt and save combined logs
+    const encryptedData = encryptLog(allLogs, password);
     fs.writeFileSync(outputPath, JSON.stringify(encryptedData, null, 2));
+
     console.log(`\n🔐 Encrypted routing log saved: ${outputPath}`);
-    console.log(`   Total entries: ${this.routingLog.length}`);
+    console.log(`   New entries: ${this.routingLog.length}`);
+    console.log(`   Total entries: ${allLogs.length}`);
     console.log(`   Timestamp: ${encryptedData.timestamp}`);
   }
 
