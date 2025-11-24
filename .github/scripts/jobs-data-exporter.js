@@ -57,14 +57,31 @@ class JobsDataExporter {
 
   loadExistingData() {
     if (!fs.existsSync(this.outputPath)) {
-      return { metadata: { version: '1.0', created: new Date().toISOString(), lastUpdated: new Date().toISOString(), totalJobs: 0 }, jobs: [] };
+      return {
+        metadata: {
+          version: '1.0',
+          created: new Date().toISOString(),
+          lastUpdated: new Date().toISOString(),
+          totalJobs: 0
+          // REMOVED: source field (security - don't reveal repo name)
+        },
+        jobs: []
+      };
     }
 
     try {
       const encryptedData = JSON.parse(fs.readFileSync(this.outputPath, 'utf8'));
       return this.decrypt(encryptedData);
     } catch (error) {
-      return { metadata: { version: '1.0', created: new Date().toISOString(), lastUpdated: new Date().toISOString(), totalJobs: 0 }, jobs: [] };
+      return {
+        metadata: {
+          version: '1.0',
+          created: new Date().toISOString(),
+          lastUpdated: new Date().toISOString(),
+          totalJobs: 0
+        },
+        jobs: []
+      };
     }
   }
 
@@ -91,8 +108,10 @@ class JobsDataExporter {
         continue;
       }
 
+      // SECURITY: Sanitize job data for public consumption (repo is public)
+      // Remove: source, platform, internal IDs, API references
       const normalizedJob = {
-        id: jobId,
+        id: jobId, // Already sanitized: company-title-location format
         title: job.job_title || job.title,
         company: job.employer_name || job.company_name,
         location: job.job_city || job.location || 'Remote',
@@ -103,8 +122,8 @@ class JobsDataExporter {
         experience: job.job_required_experience || job.experience || 'Entry-Level',
         category: job.category || 'Uncategorized',
         postedDate: job.job_posted_at_datetime_utc || new Date().toISOString(),
-        addedToDatabase: new Date().toISOString(),
-        source: job.source || 'Unknown'
+        addedToDatabase: new Date().toISOString()
+        // REMOVED: source, platform, employmentType (security - don't reveal data sources)
       };
 
       existingData.jobs.push(normalizedJob);
