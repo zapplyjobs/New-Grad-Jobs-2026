@@ -35,8 +35,23 @@ const CHANNEL_CONFIG = {
   'hr': process.env.DISCORD_HR_CHANNEL_ID
 };
 
+// Location-specific channel configuration
+const LOCATION_CHANNEL_CONFIG = {
+  'remote-usa': process.env.DISCORD_REMOTE_USA_CHANNEL_ID,
+  'new-york': process.env.DISCORD_NY_CHANNEL_ID,
+  'austin': process.env.DISCORD_AUSTIN_CHANNEL_ID,
+  'chicago': process.env.DISCORD_CHICAGO_CHANNEL_ID,
+  'seattle': process.env.DISCORD_SEATTLE_CHANNEL_ID,
+  'redmond': process.env.DISCORD_REDMOND_CHANNEL_ID,
+  'mountain-view': process.env.DISCORD_MV_CHANNEL_ID,
+  'san-francisco': process.env.DISCORD_SF_CHANNEL_ID,
+  'sunnyvale': process.env.DISCORD_SUNNYVALE_CHANNEL_ID,
+  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID
+};
+
 // Check if multi-channel mode is enabled (check for actual values, not just defined)
 const MULTI_CHANNEL_MODE = Object.values(CHANNEL_CONFIG).some(id => id && id.trim() !== '');
+const LOCATION_MODE_ENABLED = Object.values(LOCATION_CHANNEL_CONFIG).some(id => id && id.trim() !== '');
 
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
@@ -314,55 +329,140 @@ function cleanJobDescription(description) {
   return cleaned;
 }
 
-// Determine which channel a job should go to
-function getJobChannel(job) {
+// Determine which location channel a job should go to
+function getJobLocationChannel(job) {
+  const city = (job.job_city || '').toLowerCase().trim();
+  const state = (job.job_state || '').toLowerCase().trim();
   const title = (job.job_title || '').toLowerCase();
   const description = (job.job_description || '').toLowerCase();
-  const combined = `${title} ${description}`;
+  const combined = `${title} ${description} ${city} ${state}`;
 
-  // Sales roles - Check first as they're very specific
-  if (/\b(sales|account executive|account manager|bdr|sdr|business development|customer success|revenue|quota)\b/.test(combined)) {
-    return CHANNEL_CONFIG.sales;
+  // Metro area city matching (comprehensive)
+  const cityMatches = {
+    // San Francisco Bay Area
+    'san francisco': 'san-francisco',
+    'oakland': 'san-francisco',
+    'berkeley': 'san-francisco',
+    'san jose': 'san-francisco',
+    'palo alto': 'san-francisco',
+    'fremont': 'san-francisco',
+    'hayward': 'san-francisco',
+    'richmond': 'san-francisco',
+    'daly city': 'san-francisco',
+    'alameda': 'san-francisco',
+    'cupertino': 'san-francisco',
+    'santa clara': 'san-francisco',
+    'mountain view': 'mountain-view',
+    'sunnyvale': 'sunnyvale',
+    'san bruno': 'san-bruno',
+
+    // NYC Metro Area
+    'new york': 'new-york',
+    'manhattan': 'new-york',
+    'brooklyn': 'new-york',
+    'queens': 'new-york',
+    'bronx': 'new-york',
+    'staten island': 'new-york',
+    'jersey city': 'new-york',
+    'newark': 'new-york',
+    'hoboken': 'new-york',
+    'white plains': 'new-york',
+    'yonkers': 'new-york',
+
+    // Seattle Metro Area
+    'seattle': 'seattle',
+    'bellevue': 'seattle',
+    'tacoma': 'seattle',
+    'everett': 'seattle',
+    'renton': 'seattle',
+    'kent': 'seattle',
+    'redmond': 'redmond',
+
+    // Austin Metro Area
+    'austin': 'austin',
+    'round rock': 'austin',
+    'cedar park': 'austin',
+    'georgetown': 'austin',
+    'pflugerville': 'austin',
+
+    // Chicago Metro Area
+    'chicago': 'chicago',
+    'naperville': 'chicago',
+    'aurora': 'chicago',
+    'joliet': 'chicago',
+    'evanston': 'chicago',
+    'schaumburg': 'chicago'
+  };
+
+  // City abbreviations
+  const cityAbbreviations = {
+    'sf': 'san-francisco',
+    'nyc': 'new-york'
+  };
+
+  // 1. Check exact city matches first (most reliable)
+  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
+    if (city.includes(searchCity)) {
+      return LOCATION_CHANNEL_CONFIG[channelKey];
+    }
   }
 
-  // Marketing roles
-  if (/\b(marketing|growth|seo|sem|content marketing|brand|campaign|digital marketing|social media|copywriter|creative director)\b/.test(combined)) {
-    return CHANNEL_CONFIG.marketing;
+  // 2. Check abbreviations
+  for (const [abbr, channelKey] of Object.entries(cityAbbreviations)) {
+    if (city === abbr || city.split(/\s+/).includes(abbr)) {
+      return LOCATION_CHANNEL_CONFIG[channelKey];
+    }
   }
 
-  // Finance roles
-  if (/\b(finance|accounting|financial analyst|controller|treasury|audit|tax|bookkeep|cfo|actuarial|investment|banker)\b/.test(combined)) {
-    return CHANNEL_CONFIG.finance;
+  // 3. Check title + description for city names
+  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
+    if (combined.includes(searchCity)) {
+      return LOCATION_CHANNEL_CONFIG[channelKey];
+    }
   }
 
-  // Healthcare roles
-  if (/\b(healthcare|medical|clinical|health|nurse|doctor|physician|therapist|pharmaceutical|biotech|hospital|patient care)\b/.test(combined)) {
-    return CHANNEL_CONFIG.healthcare;
+  // 4. State-based fallback (for ALL jobs, not just remote)
+  // If we have a state but no specific city match, map to the main city in that state
+  if (state) {
+    if (state === 'ca' || state === 'california') {
+      return LOCATION_CHANNEL_CONFIG['san-francisco'];
+    }
+    if (state === 'ny' || state === 'new york') {
+      return LOCATION_CHANNEL_CONFIG['new-york'];
+    }
+    if (state === 'tx' || state === 'texas') {
+      return LOCATION_CHANNEL_CONFIG['austin'];
+    }
+    if (state === 'wa' || state === 'washington') {
+      // Check if Redmond is specifically mentioned
+      if (combined.includes('redmond')) {
+        return LOCATION_CHANNEL_CONFIG['redmond'];
+      }
+      return LOCATION_CHANNEL_CONFIG['seattle'];
+    }
+    if (state === 'il' || state === 'illinois') {
+      return LOCATION_CHANNEL_CONFIG['chicago'];
+    }
   }
 
-  // Product Management roles - Be specific to avoid false positives
-  if (/\b(product manager|product owner|product marketing|(\bpm\b)|product lead|product strategy|product analyst)\b/.test(combined)) {
-    return CHANNEL_CONFIG.product;
+  // 5. Remote USA fallback (only if no state/city match)
+  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
+      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
+    return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
-  // Supply Chain/Operations roles - Exclude "people operations"
-  if (/\b(supply chain|logistics|(?<!people )operations manager|procurement|inventory|warehouse|distribution|sourcing|fulfillment|shipping)\b/.test(combined)) {
-    return CHANNEL_CONFIG['supply-chain'];
+  // 6. Default fallback: US jobs without specific location channels → remote-usa
+  // This ensures jobs from Phoenix, Denver, Miami, etc. still get posted somewhere
+  // Only apply to confirmed US states to avoid posting Canadian/international jobs
+  const usStates = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt', 'va', 'wa', 'wv', 'wi', 'wy', 'dc',
+    'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota', 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico', 'new york', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania', 'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming', 'district of columbia'];
+
+  if (state && usStates.includes(state)) {
+    return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
-  // Project Management roles - Be specific to avoid confusion with Product Management
-  if (/\b(project manager|program manager|scrum master|agile coach|pmo|project coordinator|delivery manager)\b/.test(combined)) {
-    return CHANNEL_CONFIG['project-management'];
-  }
-
-  // HR roles
-  if (/\b(human resources|(\bhr\b)|recruiter|talent acquisition|people operations|compensation|benefits|hiring manager|recruitment|workforce)\b/.test(combined)) {
-    return CHANNEL_CONFIG.hr;
-  }
-
-  // Default to tech for all engineering/technical roles
-  // This includes: Software Engineer, Data Scientist, DevOps, QA, IT, Security, etc.
-  return CHANNEL_CONFIG.tech;
+  // No location data at all - skip location channels
+  return null;
 }
 
 // Enhanced tag generation
@@ -805,6 +905,33 @@ client.once('ready', async () => {
 
         // Rate limiting between posts
         await new Promise(resolve => setTimeout(resolve, 1500));
+
+        // LOCATION POST: Also post to location channel (if applicable)
+        if (LOCATION_MODE_ENABLED) {
+          const locationChannelId = getJobLocationChannel(job);
+
+          if (locationChannelId && locationChannelId.trim() !== '') {
+            const locationChannel = client.channels.cache.get(locationChannelId);
+
+            if (locationChannel) {
+              try {
+                const locationResult = await postJobToForum(job, locationChannel);
+
+                if (locationResult.success) {
+                  console.log(`  ✅ Location: ${locationChannel.name}`);
+                  jobPostedSuccessfully = true;
+                } else {
+                  console.log(`  ⚠️ Location post failed: ${locationChannel.name}`);
+                }
+              } catch (error) {
+                console.error(`  ❌ Location channel error:`, error.message);
+              }
+            }
+
+            // Rate limiting after location post
+            await new Promise(resolve => setTimeout(resolve, 1500));
+          }
+        }
 
         // Mark as posted if at least one post succeeded
         if (jobPostedSuccessfully) {
