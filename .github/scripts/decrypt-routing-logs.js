@@ -5,12 +5,16 @@ const path = require('path');
 const { decryptLog } = require('./encryption-utils');
 
 // Get password from environment or prompt
-const password = process.env.LOG_DECRYPT_PASSWORD;
+// NOTE: For symmetric encryption (AES-256-GCM), use the SAME password as LOG_ENCRYPT_PASSWORD
+// LOG_DECRYPT_PASSWORD is kept for backward compatibility but should match LOG_ENCRYPT_PASSWORD
+const password = process.env.LOG_DECRYPT_PASSWORD || process.env.LOG_ENCRYPT_PASSWORD;
 
 if (!password) {
-  console.error('❌ Error: LOG_DECRYPT_PASSWORD environment variable not set');
+  console.error('❌ Error: LOG_DECRYPT_PASSWORD (or LOG_ENCRYPT_PASSWORD) environment variable not set');
   console.error('\nUsage:');
   console.error('  export LOG_DECRYPT_PASSWORD="your-password"');
+  console.error('  # OR (same password, symmetric encryption):');
+  console.error('  export LOG_ENCRYPT_PASSWORD="your-password"');
   console.error('  node .github/scripts/decrypt-routing-logs.js');
   process.exit(1);
 }

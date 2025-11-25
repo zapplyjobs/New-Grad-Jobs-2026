@@ -86,9 +86,15 @@ class JobsDataExporter {
   }
 
   generateJobId(job) {
-    const company = (job.employer_name || job.company_name || '').toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const title = (job.job_title || job.title || '').toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const location = (job.job_city || job.location || '').toLowerCase().replace(/[^a-z0-9]/g, '-');
+    // Handle both current (company_name, title, locations[]) and legacy (employer_name, job_title, job_city) data formats
+    const company = (job.company_name || job.employer_name || '').toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const title = (job.title || job.job_title || '').toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const location = (
+      (Array.isArray(job.locations) && job.locations.length > 0 ? job.locations[0] : null) ||
+      job.location ||
+      job.job_city ||
+      ''
+    ).toLowerCase().replace(/[^a-z0-9]/g, '-');
     return `${company}-${title}-${location}`.replace(/--+/g, '-').replace(/^-|-$/g, '');
   }
 
@@ -110,18 +116,21 @@ class JobsDataExporter {
 
       // SECURITY: Sanitize job data for public consumption (repo is public)
       // Remove: source, platform, internal IDs, API references
+      // Current data format: company_name, title, locations[], url, date_posted
       const normalizedJob = {
         id: jobId, // Already sanitized: company-title-location format
-        title: job.job_title || job.title,
-        company: job.employer_name || job.company_name,
-        location: job.job_city || job.location || 'Remote',
+        title: job.title || job.job_title || '',
+        company: job.company_name || job.employer_name || '',
+        location: Array.isArray(job.locations) && job.locations.length > 0
+          ? job.locations[0]
+          : (job.location || job.job_city || 'Remote'),
         state: job.job_state || '',
-        description: job.job_description || job.description || '',
-        url: job.job_apply_link || job.url,
-        salary: job.salary_range || job.salary || null,
-        experience: job.job_required_experience || job.experience || 'Entry-Level',
+        description: job.description || job.job_description || '',
+        url: job.url || job.job_apply_link || '',
+        salary: job.salary || job.salary_range || null,
+        experience: job.experience || job.job_required_experience || 'Entry-Level',
         category: job.category || 'Uncategorized',
-        postedDate: job.job_posted_at_datetime_utc || new Date().toISOString(),
+        postedDate: job.date_posted || job.job_posted_at_datetime_utc || new Date().toISOString(),
         addedToDatabase: new Date().toISOString()
         // REMOVED: source, platform, employmentType (security - don't reveal data sources)
       };
