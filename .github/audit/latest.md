@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2025-11-25T04:06:52.023Z
+**Timestamp:** 2025-11-25T04:22:32.284Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 1
@@ -8,72 +8,72 @@
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2025-11-25T04:06:40.784Z] ========================================
-[2025-11-25T04:06:40.785Z] Discord Bot Execution Log
-[2025-11-25T04:06:40.785Z] Environment: GitHub Actions
-[2025-11-25T04:06:40.785Z] Node Version: v20.19.5
-[2025-11-25T04:06:40.785Z] ========================================
-[2025-11-25T04:06:40.785Z] Environment Variables Check:
-[2025-11-25T04:06:40.785Z] DISCORD_TOKEN: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_CLIENT_ID: ❌ Not set
-[2025-11-25T04:06:40.785Z] DISCORD_GUILD_ID: ❌ Not set
-[2025-11-25T04:06:40.785Z] 
+[2025-11-25T04:22:21.595Z] ========================================
+[2025-11-25T04:22:21.596Z] Discord Bot Execution Log
+[2025-11-25T04:22:21.596Z] Environment: GitHub Actions
+[2025-11-25T04:22:21.596Z] Node Version: v20.19.5
+[2025-11-25T04:22:21.596Z] ========================================
+[2025-11-25T04:22:21.596Z] Environment Variables Check:
+[2025-11-25T04:22:21.596Z] DISCORD_TOKEN: ✅ Set
+[2025-11-25T04:22:21.596Z] DISCORD_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.596Z] DISCORD_CLIENT_ID: ❌ Not set
+[2025-11-25T04:22:21.596Z] DISCORD_GUILD_ID: ❌ Not set
+[2025-11-25T04:22:21.596Z] 
 Multi-Channel Configuration:
-[2025-11-25T04:06:40.785Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2025-11-25T04:06:40.785Z] 
+[2025-11-25T04:22:21.597Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2025-11-25T04:22:21.597Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2025-11-25T04:06:40.786Z] 
+[2025-11-25T04:22:21.597Z] 
 Data Files Check:
-[2025-11-25T04:06:40.786Z] .github/data/new_jobs.json: ✅ Exists (1 items, 6458 bytes)
-[2025-11-25T04:06:40.787Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 327717 bytes)
-[2025-11-25T04:06:40.787Z] 
+[2025-11-25T04:22:21.597Z] .github/data/new_jobs.json: ✅ Exists (1 items, 6458 bytes)
+[2025-11-25T04:22:21.598Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 327717 bytes)
+[2025-11-25T04:22:21.598Z] 
 ========================================
-[2025-11-25T04:06:40.787Z] Starting Enhanced Discord Bot...
-[2025-11-25T04:06:40.787Z] ========================================
-[2025-11-25T04:06:42.030Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2025-11-25T04:06:42.031Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2025-11-25T04:22:21.598Z] Starting Enhanced Discord Bot...
+[2025-11-25T04:22:21.599Z] ========================================
+[2025-11-25T04:22:22.687Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2025-11-25T04:22:22.688Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply Career Hub (CH_20db82b8)
 📦 Exporting 1 jobs to encrypted JSON...
-[2025-11-25T04:06:42.031Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2025-11-25T04:06:42.071Z] [BOT] ✅ Export complete: Added 1, Skipped 0, Total 1
-[2025-11-25T04:06:42.071Z] [BOT] 📬 Found 1 new jobs (0 already posted)...
-[2025-11-25T04:06:42.072Z] [BOT] 📤 Posting 1 jobs...
+[2025-11-25T04:22:22.688Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2025-11-25T04:22:22.727Z] [BOT] ✅ Export complete: Added 1, Skipped 0, Total 1
+[2025-11-25T04:22:22.728Z] [BOT] 📬 Found 1 new jobs (0 already posted)...
+📤 Posting 1 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2025-11-25T04:06:42.072Z] [BOT] 📌 Posting 1 jobs to #💻・tech-jobs
-[2025-11-25T04:06:42.073Z] [BOT] 📍 [ROUTING] "Technical Implementation Engineer 1" @ ORG_dc9e34d5 Technology
-[2025-11-25T04:06:42.073Z] [BOT] Category: TECH (matched: "engineer/engineering")
+[2025-11-25T04:22:22.729Z] [BOT] 📌 Posting 1 jobs to #💻・tech-jobs
+[2025-11-25T04:22:22.729Z] [BOT] 📍 [ROUTING] "Technical Implementation Engineer 1" @ ORG_dc9e34d5 Technology
+[2025-11-25T04:22:22.729Z] [BOT] Category: TECH (matched: "engineer/engineering")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-25T04:06:42.077Z] [BOT ERROR] (node:2304) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2025-11-25T04:22:22.733Z] [BOT ERROR] (node:2371) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2025-11-25T04:06:42.336Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #💻・tech-jobs
-  ✅ Industry: Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology
-[2025-11-25T04:06:44.254Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #🗽・new-york
-  ✅ Location: 🗽・new-york
-[2025-11-25T04:06:45.757Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-25T04:06:48.758Z] [BOT] 🎉 Posting complete! Successfully posted: 1, Failed: 0
+[2025-11-25T04:22:22.910Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #💻・tech-jobs
+[2025-11-25T04:22:22.910Z] [BOT] ✅ Industry: Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology
+[2025-11-25T04:22:24.626Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #🗽・new-york
+[2025-11-25T04:22:24.626Z] [BOT] ✅ Location: 🗽・new-york
+[2025-11-25T04:22:26.128Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-25T04:22:29.129Z] [BOT] 🎉 Posting complete! Successfully posted: 1, Failed: 0
 ✅ All posting operations complete, cleaning up...
-[2025-11-25T04:06:48.799Z] [BOT] 📂 Loaded 19 existing routing entries
-[2025-11-25T04:06:48.837Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+[2025-11-25T04:22:29.168Z] [BOT] 📂 Loaded 20 existing routing entries
+[2025-11-25T04:22:29.203Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
    New entries: 1
-   Total entries: 20
-   Timestamp: 2025-11-25T04:06:48.836Z
-[2025-11-25T04:06:50.845Z] 
+   Total entries: 21
+   Timestamp: 2025-11-25T04:22:29.203Z
+[2025-11-25T04:22:31.209Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2304) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2371) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
