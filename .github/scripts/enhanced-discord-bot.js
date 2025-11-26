@@ -235,17 +235,21 @@ class PostedJobsManager {
         fs.mkdirSync(dataDir, { recursive: true });
       }
 
-      // Convert Set to sorted array and limit size to prevent infinite growth
-      let postedJobsArray = [...this.postedJobs].sort();
+      // Convert Set to array (preserves insertion order) and limit size to prevent infinite growth
+      let postedJobsArray = [...this.postedJobs];  // NO SORT - preserves chronological order
       const maxEntries = 5000; // Keep last 5000 posted jobs
 
       console.log(`💾 BEFORE SAVE: Database has ${postedJobsArray.length} jobs`);
 
       if (postedJobsArray.length > maxEntries) {
+        // Keep the MOST RECENT 5000 (last inserted, not alphabetically last)
         postedJobsArray = postedJobsArray.slice(-maxEntries);
         this.postedJobs = new Set(postedJobsArray);
-        console.log(`💾 Trimmed to ${maxEntries} jobs (capacity limit)`);
+        console.log(`💾 Trimmed to ${maxEntries} jobs (capacity limit - kept most recent)`);
       }
+
+      // Sort for consistent file output (AFTER trimming to preserve newest jobs)
+      postedJobsArray = postedJobsArray.sort();
 
       // Atomic write with explicit fsync to force disk flush
       const tempPath = postedJobsPath + '.tmp';
