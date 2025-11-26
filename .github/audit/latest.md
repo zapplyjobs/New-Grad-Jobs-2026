@@ -1,205 +1,181 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2025-11-26T11:34:10.114Z
+**Timestamp:** 2025-11-26T11:47:40.907Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 17
+- **Jobs Posted:** 14
 - **Jobs Failed:** 0
 - **Jobs Skipped:** 4
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2025-11-26T11:33:08.058Z] ========================================
-[2025-11-26T11:33:08.059Z] Discord Bot Execution Log
-[2025-11-26T11:33:08.059Z] Environment: GitHub Actions
-[2025-11-26T11:33:08.059Z] Node Version: v20.19.5
-[2025-11-26T11:33:08.059Z] ========================================
-[2025-11-26T11:33:08.059Z] Environment Variables Check:
-[2025-11-26T11:33:08.059Z] DISCORD_TOKEN: ✅ Set
-[2025-11-26T11:33:08.059Z] DISCORD_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.059Z] DISCORD_CLIENT_ID: ❌ Not set
-[2025-11-26T11:33:08.059Z] DISCORD_GUILD_ID: ❌ Not set
-[2025-11-26T11:33:08.059Z] 
+[2025-11-26T11:46:48.150Z] ========================================
+[2025-11-26T11:46:48.151Z] Discord Bot Execution Log
+[2025-11-26T11:46:48.151Z] Environment: GitHub Actions
+[2025-11-26T11:46:48.151Z] Node Version: v20.19.5
+[2025-11-26T11:46:48.151Z] ========================================
+[2025-11-26T11:46:48.151Z] Environment Variables Check:
+[2025-11-26T11:46:48.152Z] DISCORD_TOKEN: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_CLIENT_ID: ❌ Not set
+[2025-11-26T11:46:48.152Z] DISCORD_GUILD_ID: ❌ Not set
+[2025-11-26T11:46:48.152Z] 
 Multi-Channel Configuration:
-[2025-11-26T11:33:08.059Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.059Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.059Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.060Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.060Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.060Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.060Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.060Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.060Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2025-11-26T11:33:08.060Z] 
+[2025-11-26T11:46:48.152Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2025-11-26T11:46:48.152Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2025-11-26T11:33:08.060Z] 
+[2025-11-26T11:46:48.152Z] 
 Data Files Check:
-[2025-11-26T11:33:08.060Z] .github/data/new_jobs.json: ✅ Exists (21 items, 59868 bytes)
-[2025-11-26T11:33:08.062Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 328554 bytes)
-[2025-11-26T11:33:08.062Z] 
+[2025-11-26T11:46:48.153Z] .github/data/new_jobs.json: ✅ Exists (18 items, 46851 bytes)
+[2025-11-26T11:46:48.154Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 328604 bytes)
+[2025-11-26T11:46:48.155Z] 
 ========================================
-[2025-11-26T11:33:08.062Z] Starting Enhanced Discord Bot...
-[2025-11-26T11:33:08.062Z] ========================================
-[2025-11-26T11:33:09.138Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2025-11-26T11:33:09.139Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2025-11-26T11:46:48.155Z] Starting Enhanced Discord Bot...
+[2025-11-26T11:46:48.155Z] ========================================
+[2025-11-26T11:46:49.182Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2025-11-26T11:46:49.183Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply Career Hub (CH_20db82b8)
-📦 Exporting 21 jobs to encrypted JSON...
-[2025-11-26T11:33:09.139Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2025-11-26T11:33:09.217Z] [BOT] ✅ Export complete: Added 0, Skipped 21, Total 21
-[2025-11-26T11:33:09.218Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at Intuit
-[2025-11-26T11:33:09.218Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at Intuit
-⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-11-26T11:33:09.218Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-📬 Found 17 new jobs (4 already posted)...
-📤 Posting 17 jobs...
+📦 Exporting 18 jobs to encrypted JSON...
+[2025-11-26T11:46:49.183Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2025-11-26T11:46:49.261Z] [BOT] ✅ Export complete: Added 0, Skipped 18, Total 18
+[2025-11-26T11:46:49.262Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at Intuit
+[2025-11-26T11:46:49.262Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at Intuit
+[2025-11-26T11:46:49.262Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-11-26T11:46:49.262Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+[2025-11-26T11:46:49.262Z] [BOT] 📬 Found 14 new jobs (4 already posted)...
+📤 Posting 14 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2025-11-26T11:33:09.220Z] [BOT] 📌 Posting 17 jobs to #💻・tech-jobs
-[2025-11-26T11:33:09.220Z] [BOT] 📍 [ROUTING] "Systems Engineer – Entry Level" @ ORG_c910d474 Dynamics Mission Systems
-   Category: TECH (matched: "engineer/engineering")
+[2025-11-26T11:46:49.264Z] [BOT] 📌 Posting 14 jobs to #💻・tech-jobs
+[2025-11-26T11:46:49.264Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:46:49.264Z] [BOT] Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:09.224Z] [BOT ERROR] (node:2428) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2025-11-26T11:46:49.268Z] [BOT ERROR] (node:2297) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2025-11-26T11:33:09.421Z] [BOT] ✅ Created forum post: 🏢 Systems Engineer – Entry Level @ ORG_c910d474 Dynamics Mission Systems in #💻・tech-jobs
-[2025-11-26T11:33:09.422Z] [BOT] ✅ Industry: Systems Engineer – Entry Level @ ORG_c910d474 Dynamics Mission Systems
-[2025-11-26T11:33:11.314Z] [BOT] ✅ Created forum post: 🏢 Systems Engineer – Entry Level @ ORG_c910d474 Dynamics Mission Systems in #💻・remote-usa
+[2025-11-26T11:46:49.497Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+  ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
+[2025-11-26T11:46:51.293Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:46:51.293Z] [BOT] ✅ Location: 💻・remote-usa
+[2025-11-26T11:46:52.796Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:46:52.796Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+   Category: TECH (matched: "machine learning")
+   Channel: 💻・tech-jobs (1391...8819)
+[2025-11-26T11:46:53.109Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:46:53.109Z] [BOT] ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
+[2025-11-26T11:46:54.822Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:12.815Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:12.815Z] [BOT] 📍 [ROUTING] "Business Intelligence Engineer" @ Auto-Owners Insurance
-   Category: TECH (matched: "analytics")
+[2025-11-26T11:46:56.325Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:46:56.325Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+   Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:13.097Z] [BOT] ✅ Created forum post: 🏢 Business Intelligence Engineer @ Auto-Owners Insurance in #💻・tech-jobs
-[2025-11-26T11:33:13.097Z] [BOT] ✅ Industry: Business Intelligence Engineer @ Auto-Owners Insurance
-[2025-11-26T11:33:14.817Z] [BOT] ✅ Created forum post: 🏢 Business Intelligence Engineer @ Auto-Owners Insurance in #💻・remote-usa
+[2025-11-26T11:46:56.537Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:46:56.537Z] [BOT] ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
+[2025-11-26T11:46:58.236Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:16.319Z] [BOT] 💾 Saved 5000 posted jobs to database
-📍 [ROUTING] "Software Engineer" @ ORG_19887ac7
-   Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:16.511Z] [BOT] ✅ Created forum post: 🏢 Software Engineer @ ORG_19887ac7 in #💻・tech-jobs
-  ✅ Industry: Software Engineer @ ORG_19887ac7
-[2025-11-26T11:33:18.176Z] [BOT] ✅ Created forum post: 🏢 Software Engineer @ ORG_19887ac7 in #🗽・new-york
-  ✅ Location: 🗽・new-york
-[2025-11-26T11:33:19.678Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:19.678Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:46:59.739Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:46:59.739Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:19.833Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:46:59.913Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:21.523Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
-[2025-11-26T11:33:21.523Z] [BOT] ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:23.026Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:23.026Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
-   Category: TECH (matched: "machine learning")
-   Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:23.227Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
-  ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:24.912Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:47:01.735Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:26.414Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:26.414Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:47:03.239Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:03.239Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:26.869Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:03.572Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:03.572Z] [BOT] ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
+[2025-11-26T11:47:05.311Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:47:05.311Z] [BOT] ✅ Location: 💻・remote-usa
+[2025-11-26T11:47:06.815Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:06.815Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+   Category: TECH (matched: "machine learning")
+   Channel: 💻・tech-jobs (1391...8819)
+[2025-11-26T11:47:07.095Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:28.599Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:47:08.968Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:30.101Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:30.101Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:47:10.471Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:10.471Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:30.256Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
-  ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:32.075Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
-[2025-11-26T11:33:32.076Z] [BOT] ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:33.580Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:33.581Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
-   Category: TECH (matched: "machine learning")
-   Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:33.792Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
-[2025-11-26T11:33:33.793Z] [BOT] ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:35.692Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
-[2025-11-26T11:33:35.692Z] [BOT] ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:37.194Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:37.195Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
-   Category: TECH (matched: "machine learning")
-   Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:38.682Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
-  ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:40.327Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
-[2025-11-26T11:33:40.327Z] [BOT] ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:41.830Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:41.830Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher" @ ORG_49d2dc07
-   Category: TECH (matched: "machine learning")
-   Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:42.166Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:10.657Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher @ ORG_49d2dc07
-[2025-11-26T11:33:43.668Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:43.668Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:47:12.160Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:12.160Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:43.903Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:12.351Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:45.688Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:47:14.087Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:47.191Z] [BOT] 💾 Saved 5000 posted jobs to database
-📍 [ROUTING] "Agentic AI Teacher" @ ORG_49d2dc07
+[2025-11-26T11:47:15.590Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:15.590Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:47.377Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:15.799Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher @ ORG_49d2dc07
-[2025-11-26T11:33:48.879Z] [BOT] 💾 Saved 5000 posted jobs to database
-📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:47:17.301Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:17.301Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:49.069Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
-  ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:50.893Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:47:17.527Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:17.527Z] [BOT] ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
+[2025-11-26T11:47:19.283Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:52.395Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:52.395Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:47:20.786Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:20.786Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:52.607Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:20.988Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:54.291Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:47:22.818Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:33:55.794Z] [BOT] 💾 Saved 5000 posted jobs to database
-📍 [ROUTING] "Agentic AI Teacher" @ ORG_49d2dc07
+[2025-11-26T11:47:24.321Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:24.321Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:56.033Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:24.623Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher @ ORG_49d2dc07
-[2025-11-26T11:33:57.535Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:33:57.536Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
+[2025-11-26T11:47:26.126Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:26.126Z] [BOT] 📍 [ROUTING] "Agentic AI Teacher - Agi Ds" @ ORG_49d2dc07
    Category: TECH (matched: "machine learning")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:33:57.741Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
+[2025-11-26T11:47:26.294Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・tech-jobs
   ✅ Industry: Agentic AI Teacher - Agi Ds @ ORG_49d2dc07
-[2025-11-26T11:33:59.412Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
+[2025-11-26T11:47:28.031Z] [BOT] ✅ Created forum post: 📦 Agentic AI Teacher - Agi Ds @ ORG_49d2dc07 in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2025-11-26T11:34:00.916Z] [BOT] 💾 Saved 5000 posted jobs to database
-📍 [ROUTING] "Technical Implementation Engineer 1" @ ORG_dc9e34d5 Technology
+[2025-11-26T11:47:29.534Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:29.534Z] [BOT] 📍 [ROUTING] "Technical Implementation Engineer 1" @ ORG_dc9e34d5 Technology
    Category: TECH (matched: "engineer/engineering")
    Channel: 💻・tech-jobs (1391...8819)
-[2025-11-26T11:34:01.072Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #💻・tech-jobs
+[2025-11-26T11:47:31.711Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #💻・tech-jobs
   ✅ Industry: Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology
-[2025-11-26T11:34:02.787Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #🗽・new-york
+[2025-11-26T11:47:33.392Z] [BOT] ✅ Created forum post: 🏢 Technical Implementation Engineer 1 @ ORG_dc9e34d5 Technology in #🗽・new-york
   ✅ Location: 🗽・new-york
-[2025-11-26T11:34:04.290Z] [BOT] 💾 Saved 5000 posted jobs to database
-[2025-11-26T11:34:07.291Z] [BOT] 🎉 Posting complete! Successfully posted: 17, Failed: 0
+[2025-11-26T11:47:34.895Z] [BOT] 💾 Saved 5000 posted jobs to database
+[2025-11-26T11:47:37.896Z] [BOT] 🎉 Posting complete! Successfully posted: 14, Failed: 0
 ✅ All posting operations complete, cleaning up...
-[2025-11-26T11:34:07.330Z] [BOT] 📂 Loaded 194 existing routing entries
-[2025-11-26T11:34:07.368Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-   New entries: 17
-   Total entries: 211
-   Timestamp: 2025-11-26T11:34:07.367Z
-[2025-11-26T11:34:09.374Z] 
+[2025-11-26T11:47:37.934Z] [BOT] 📂 Loaded 211 existing routing entries
+[2025-11-26T11:47:37.972Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 14
+[2025-11-26T11:47:37.972Z] [BOT] Total entries: 225
+   Timestamp: 2025-11-26T11:47:37.971Z
+[2025-11-26T11:47:39.980Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2428) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2297) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
