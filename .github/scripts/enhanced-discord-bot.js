@@ -234,24 +234,53 @@ class PostedJobsManager {
       if (!fs.existsSync(dataDir)) {
         fs.mkdirSync(dataDir, { recursive: true });
       }
-      
+
       // Convert Set to sorted array and limit size to prevent infinite growth
       let postedJobsArray = [...this.postedJobs].sort();
       const maxEntries = 5000; // Keep last 5000 posted jobs
-      
+
+      console.log(`💾 BEFORE SAVE: Database has ${postedJobsArray.length} jobs`);
+
       if (postedJobsArray.length > maxEntries) {
         postedJobsArray = postedJobsArray.slice(-maxEntries);
         this.postedJobs = new Set(postedJobsArray);
+        console.log(`💾 Trimmed to ${maxEntries} jobs (capacity limit)`);
       }
-      
-      // Atomic write
+
+      // Atomic write with explicit fsync to force disk flush
       const tempPath = postedJobsPath + '.tmp';
-      fs.writeFileSync(tempPath, JSON.stringify(postedJobsArray, null, 2));
+      const jsonData = JSON.stringify(postedJobsArray, null, 2);
+
+      // Open file, write, force flush to disk, then close
+      const fd = fs.openSync(tempPath, 'w');
+      fs.writeSync(fd, jsonData);
+      fs.fsyncSync(fd); // CRITICAL: Force kernel to write to disk immediately
+      fs.closeSync(fd);
+
+      // Atomic rename
       fs.renameSync(tempPath, postedJobsPath);
+
+      // VERIFICATION: Read back and verify write succeeded
+      const verifyData = JSON.parse(fs.readFileSync(postedJobsPath, 'utf8'));
+      if (verifyData.length !== postedJobsArray.length) {
+        throw new Error(`❌ WRITE VERIFICATION FAILED: Expected ${postedJobsArray.length} jobs, but file contains ${verifyData.length} jobs`);
+      }
+
       console.log(`💾 Saved ${postedJobsArray.length} posted jobs to database`);
+      console.log(`✅ Verified: Database file contains ${verifyData.length} jobs`);
+      console.log(`📊 Database path: ${postedJobsPath}`);
 
     } catch (error) {
-      console.error('Error saving posted jobs:', error);
+      // CRITICAL: Log full error details and exit with failure
+      console.error('❌❌❌ CRITICAL ERROR SAVING POSTED JOBS ❌❌❌');
+      console.error('Error message:', error.message);
+      console.error('Error stack:', error.stack);
+      console.error('Error details:', JSON.stringify(error, Object.getOwnPropertyNames(error)));
+      console.error('Database path:', postedJobsPath);
+      console.error('Attempted to save:', this.postedJobs.size, 'jobs');
+
+      // Exit with error code to fail the workflow and alert us
+      process.exit(1);
     }
   }
 
