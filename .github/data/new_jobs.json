@@ -1,31 +1,5 @@
 [
   {
-    "job_title": "Founding Engineer",
-    "employer_name": "TrueBuilt",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "The Opportunity Construction accounts for 4.2% of GDP and employs over 7 million people. Year over year, the amount of new construction increases and the industry needs modern software to help builders manage their increasingly complex operations. As a founding engineer, you will work directly with the CTO to design and develop an industry-leading platform. You will be tasked with becoming deeply familiar with the construction industry in order to build transformative software that meets the needs of a diverse customer base. TrueBuilt is looking for engineers who: Put the customer’s needs first Take ownership of their decisions Love to work on any part of the software stack Construction is the backbone of America, and TrueBuilt aims to be the backbone of the construction industry. The Tech Stack The basis of the platform is NextJS & Typescript. Prisma acts as our ORM to connect to a Postgres database. Github Actions and Vercel power our CI/CD pipeline for rapid development. Qualifications Experienced - You have a proven track record of delivering high quality software 0 to 1 - You can take an idea and transform it into working software Learning Mindset - You are eager to learn and contribute to all parts of the stack Frontend Capable - Break down a design into its component parts and code it Experience in one or more: database design, DevOps, CI/CD, UI/UX design Experience with NextJS is a plus Experience working in a startup is a plus Your First 30 Days Routine pair programming sessions with the CTO Meet with our advisers to learn first-hand about their challenges Design and implement key features of the MVP Benefits Competitive salary, equity, and the opportunity to build an amazing company from the ground up Remote-first workplace Routine team meetups Unlimited PTO Medical, Dental, and Vision Coverage",
-    "job_apply_link": "https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004",
-    "job_posted_at_datetime_utc": "2025-11-26T23:12:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "job-boards-greenhouse-io-applytotruebuilt-jobs-4588866004",
-    "description_platform": "greenhouse",
-    "description_success": true
-  },
-  {
-    "job_title": "Software Engineer – Early Career",
-    "employer_name": "Uare.ai",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Uare.ai, founded by Robert LoCascio (former CEO of LivePerson for 28 years), is an AI startup launched in May 2024 with a mission to empower people to do more with their memories. Uare.ai creates AI-driven personal digital twins, enabling users to preserve, share, and interact with their knowledge and stories in groundbreaking ways. At its core is the proprietary Human Life Model (HLM), designed to process unstructured conversations and story data sets without training client data into traditional LLMs. Instead, Uare.ai leverages 3rd-party LLMs for conversations, with HLM providing structure and reasoning. While initially focused on personal legacy and AI immortality, Uare.ai’ platform has broad B2C and B2B applications. The company has gained significant traction, featured in over 30 outlets including NBC, NPR, The New York Post, and CNET. About the Role: We are seeking a highly skilled Machine Learning Engineer to join an early-stage, mission-driven startup that’s building cutting-edge AI-powered products for real-world human interaction. You will be responsible for designing and implementing scalable machine learning pipelines, integrating foundation models, and fine-tuning retrieval systems that deliver high-quality, context-aware responses. What You’ll Do: Design and implement machine learning workflows that combine structured and unstructured data. Work with state-of-the-art language models and voice technologies. Build and optimize retrieval-augmented generation (RAG) systems. Collaborate closely with product and engineering teams to turn early prototypes into production-grade systems. Help shape the future of AI-powered human interaction products. What We’re Looking For: Experience in machine learning, NLP, or AI. Strong experience with LLMs, RAG pipelines, vector databases, and prompt engineering. Hands-on experience with cloud-based AI platforms (AWS, Azure, or GCP). Familiarity with voice cloning, speech synthesis, or related audio ML workflows is a plus. Excited about building 0-to-1 products in a fast-moving environment. The expected base compensation for this position is below. Our total compensation package for full-time employees includes equity and a comprehensive benefits package. Annual Salary$100,000 - $150,000 USD",
-    "job_apply_link": "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
-    "job_posted_at_datetime_utc": "2025-11-26T23:10:02.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "job-boards-greenhouse-io-uareai-jobs-4036519009",
-    "description_platform": "greenhouse",
-    "description_success": true
-  },
-  {
     "job_title": "Software Engineer 1",
     "employer_name": "Intuit",
     "job_city": "Mountain View",
@@ -52,6 +26,19 @@
     "description_success": true
   },
   {
+    "job_title": "Agentic AI Teacher - Agi Ds",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
+    "job_apply_link": "https://amazon.jobs/en/jobs/3132810/agentic-ai-teacher-agi-ds",
+    "job_posted_at_datetime_utc": "2025-11-26T10:30:21.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "amazon-jobs-en-jobs-3132810-agentic-ai-teacher-agi-ds",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
     "job_title": "Software Engineer 1",
     "employer_name": "McDonald's",
     "job_city": "Chicago",
@@ -62,6 +49,19 @@
     "job_employment_type": "FULLTIME",
     "id": "jobs-mcdonalds-com-job-chicago-software-engineer-i-il-60607-1345564800",
     "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Technical Implementation Engineer 1",
+    "employer_name": "Alkami Technology",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Alkami is a leading cloud-based digital banking solutions provider for financial institutions in the United States that helps clients to transform through retail and business banking, digital account opening and loan origination, payment fraud prevention, and data analytics and engagement solutions. Alkami’s Mobile App Platform has been certified by J.D. Power for providing clients with “An Outstanding Mobile Banking Platform Experience.”Founded in 2009, we continue to be recognized for our intentional culture and tremendous growth (Best Place to Work in Fintech; Best & Brightest to Work For Nationally; and Comparably’s Best Company Culture, Best Career Growth, Best Engineering Team, and Best Places to Work in Dallas, among others). Through our bold investments in technology and people, we empower our clients to grow confidently, adapt quickly, and build thriving digital banking communities through tailored experiences for over 19.5M users.As a remote-first company, most of our positions can be remote in the US, except for key roles, which will be indicated in the Job Title.Follow us on Glassdoor and Linkedin!The Technical Implementation Engineer role is primarily responsible for implementing and supporting Alkami’s software products. As a Technical Implementation Engineer, you will be a part of a small but growing team of talented people responsible for implementing a complex enterprise banking software solution in a fast-paced, results oriented environment. The ideal candidate will have a background in financial software experience, especially with core banking systems such as Symitar, Corelation, DNA CoreAPI, Fiserv Premier, FIS IBS, and many others, working directly with clients as well as internal project managers, product owners, and development resources. The candidate should be knowledgeable of core conversions and how to handle complex data issues.The environment is .NET with a SQL and Postgres back-end, and each project requires integration with third party vendors including proprietary credit union and bank host systems. Relationship building is an important aspect of the position, where the individual will focus on securing strong professional relationships with clients. In addition, the individual will provide technical leadership and project coordination.Successful candidates must have a strong sense of urgency and ownership to drive technical challenges to completion working collaboratively with both internal and client facing technical resources. The ideal candidate will keep up to date with technology, and suggest ways to incorporate new products and policies to help to enhance efficiency and productivity. Key Responsibilities & DutiesInstall, configure, customize and resolve all technical issues related to the ORB platformIdentify technical challenges and provide recommendations for improvement, focusing on client satisfaction and efficiencyWork closely with internal stakeholders to resolve complex technical issuesAssists in mentoring junior level team membersGo-to person for a wide range of problem complexities and areasAbility to solve most high level problems independentlySolid understanding of core banking systemsAbility to handle core conversionsQualifications:1-2+ years T-SQL Experience0-1+ years .NET Framework, C#0-1+ years ASP.NET MVC 3/4/51-2+ years general development experience1-2 years experience with banking cores (Fiserv, FIS or Jack Henry)Desired Skills:Powershell or other scripting language experiencePrevious experience in implementing systems with a focus on scalability and high-availabilityCore Banking System or Treasury management knowledgeFamiliarity with check depositsThe salary range for this position is: $68,000 - $81,120Cool Things to KnowNot Just Any Company: Alkami has an awesome diverse and inclusive environment. We have a FUN culture and offer great benefits, including remote-first environment, unlimited paid time off, 401(k) with employer match, and more.Work Authorization: We cannot offer employment sponsorship at this time. Candidates must be eligible to work in the US for full-time employment.Recruiters: We are not looking for outside recruiting firms to help us in this search. Thank you for understanding.Pay Transparency: As of January 1, 2023, new states and locales have enacted pay equity laws that require more pay transparency by employers in the following states: California, Colorado (effective January 1, 2021), Connecticut, Maryland, Nevada, New Jersey, New York, Ohio, Rhode Island and Washington. The Important StuffAlkami Technology is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: Alkami is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Alkami are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Alkami will not tolerate discrimination or harassment based on any of these characteristics. Alkami encourages applicants of all ages.#LI-REMOTEJ.D. Power 2024 Mobile App Platform Certification ProgramSM recognition is based on successful completion of an audit and exceeding a customer experience benchmark through a survey of recent servicing interactions. For more information, visit jdpower.com/awards.",
+    "job_apply_link": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447",
+    "job_posted_at_datetime_utc": "2025-11-25T03:48:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "alkami-wd12-myworkdayjobs-com-alkami-job-us-remote-technical-implementation-engineer-i_jr-000447",
+    "description_platform": "workday",
     "description_success": true
   }
 ]
