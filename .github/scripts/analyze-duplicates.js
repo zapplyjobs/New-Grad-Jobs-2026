@@ -2,12 +2,33 @@ const fs = require('fs');
 
 const jobs = JSON.parse(fs.readFileSync('./.github/data/new_jobs.json', 'utf8'));
 
-// Simulate the new deduplication logic
+// Blacklist filter
+const jobBlacklist = [
+  { title: 'agentic ai teacher', company: 'amazon' }
+];
+
+const blacklisted = [];
+const afterBlacklist = jobs.filter(job => {
+  const titleLower = (job.job_title || '').toLowerCase();
+  const companyLower = (job.employer_name || '').toLowerCase();
+
+  const isBlacklisted = jobBlacklist.some(b => {
+    return titleLower.includes(b.title) && companyLower.includes(b.company);
+  });
+
+  if (isBlacklisted) {
+    blacklisted.push(job);
+    return false;
+  }
+  return true;
+});
+
+// Simulate the deduplication logic
 const seenTitleCompanyLocation = new Set();
 const duplicates = [];
 const kept = [];
 
-jobs.forEach((job, idx) => {
+afterBlacklist.forEach((job, idx) => {
   // Apply same normalization as discord bot
   const title = (job.job_title || '')
     .replace(/\s+-\s+[^-]+$/, '') // Strip team name suffix
@@ -36,8 +57,15 @@ jobs.forEach((job, idx) => {
 
 console.log('=== DEDUPLICATION TEST RESULTS ===\n');
 console.log(`Total jobs: ${jobs.length}`);
+console.log(`After blacklist: ${afterBlacklist.length} (${blacklisted.length} blacklisted)`);
 console.log(`Jobs to post: ${kept.length} (unique)`);
-console.log(`Jobs skipped: ${duplicates.length} (duplicates)\n`);
+console.log(`Duplicates skipped: ${duplicates.length}\n`);
+
+console.log('Blacklisted jobs:');
+blacklisted.forEach((job, i) => {
+  console.log(`${i+1}. "${job.job_title}" @ ${job.employer_name}, ${job.job_city}`);
+});
+console.log('');
 
 console.log('Top 10 duplicates that would be skipped:\n');
 duplicates.slice(0, 10).forEach((d, i) => {

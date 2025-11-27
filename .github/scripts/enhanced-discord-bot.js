@@ -841,11 +841,35 @@ client.once('ready', async () => {
 
   console.log(`📬 Found ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
 
+  // Hardcoded job filters: Skip specific problematic jobs
+  const jobBlacklist = [
+    { title: 'agentic ai teacher', company: 'amazon' } // All variations including "- Agi Ds"
+  ];
+
+  const filteredJobs = unpostedJobs.filter(job => {
+    const titleLower = (job.job_title || '').toLowerCase();
+    const companyLower = (job.employer_name || '').toLowerCase();
+
+    // Check if job matches any blacklist entry
+    const isBlacklisted = jobBlacklist.some(blacklisted => {
+      return titleLower.includes(blacklisted.title) && companyLower.includes(blacklisted.company);
+    });
+
+    if (isBlacklisted) {
+      console.log(`🚫 Skipping blacklisted job: ${job.job_title} at ${job.employer_name}`);
+      return false;
+    }
+
+    return true;
+  });
+
+  console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${unpostedJobs.length - filteredJobs.length} blacklisted)`);
+
   // Title+Company+Location deduplication: Post only FIRST occurrence of each unique job
   // This reduces perceived duplicates (e.g., 11 "Agentic AI Teacher @ Amazon, Boston" posts → 1 post)
   // Jobs with different URLs but same title+company+location are legitimately different, but create Discord spam
   const seenTitleCompanyLocation = new Set();
-  const dedupedJobs = unpostedJobs.filter(job => {
+  const dedupedJobs = filteredJobs.filter(job => {
     // Normalize title, company, and location for comparison
     // Strip team name suffixes (e.g., "- Agi Ds", "- Platform Team") before normalizing
     const title = (job.job_title || '')
@@ -869,8 +893,8 @@ client.once('ready', async () => {
   });
 
   console.log(`📋 After title+company+location dedup: ${dedupedJobs.length} unique jobs to post`);
-  if (unpostedJobs.length - dedupedJobs.length > 0) {
-    console.log(`   (${unpostedJobs.length - dedupedJobs.length} skipped as duplicate title+company+location combinations)`);
+  if (filteredJobs.length - dedupedJobs.length > 0) {
+    console.log(`   (${filteredJobs.length - dedupedJobs.length} skipped as duplicate title+company+location combinations)`);
   }
 
   // Limit to 50 jobs per workflow run to prevent channel overflow and timeouts
