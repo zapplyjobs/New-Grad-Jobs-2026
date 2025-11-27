@@ -847,7 +847,13 @@ client.once('ready', async () => {
   const seenTitleCompany = new Set();
   const dedupedJobs = unpostedJobs.filter(job => {
     // Normalize title and company for comparison
-    const title = (job.job_title || '').toLowerCase().trim().replace(/\s+/g, ' ').replace(/[^\w\s-]/g, '');
+    // Strip team name suffixes (e.g., "- Agi Ds", "- Platform Team") before normalizing
+    const title = (job.job_title || '')
+      .replace(/\s+-\s+[^-]+$/, '') // Remove team name suffix pattern: " - TeamName"
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, ' ')
+      .replace(/[^\w\s-]/g, '');
     const company = (job.employer_name || '').toLowerCase().trim();
 
     const key = `${title}|${company}`;
