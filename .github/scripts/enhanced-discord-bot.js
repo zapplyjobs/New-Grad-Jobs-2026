@@ -841,9 +841,34 @@ client.once('ready', async () => {
 
   console.log(`📬 Found ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
 
+  // Title+Company deduplication: Post only FIRST occurrence of each job title+company
+  // This reduces perceived duplicates (e.g., 11 "Agentic AI Teacher @ Amazon" posts → 1 post)
+  // Jobs with different URLs but same title are legitimately different, but create Discord spam
+  const seenTitleCompany = new Set();
+  const dedupedJobs = unpostedJobs.filter(job => {
+    // Normalize title and company for comparison
+    const title = (job.job_title || '').toLowerCase().trim().replace(/\s+/g, ' ').replace(/[^\w\s-]/g, '');
+    const company = (job.employer_name || '').toLowerCase().trim();
+
+    const key = `${title}|${company}`;
+
+    if (seenTitleCompany.has(key)) {
+      console.log(`⏭️ Skipping duplicate title+company: ${job.job_title} at ${job.employer_name} (already posting one with this title)`);
+      return false;
+    }
+
+    seenTitleCompany.add(key);
+    return true;
+  });
+
+  console.log(`📋 After title+company dedup: ${dedupedJobs.length} unique jobs to post`);
+  if (unpostedJobs.length - dedupedJobs.length > 0) {
+    console.log(`   (${unpostedJobs.length - dedupedJobs.length} skipped as duplicate titles)`);
+  }
+
   // Limit to 50 jobs per workflow run to prevent channel overflow and timeouts
   const MAX_JOBS_PER_RUN = 50;
-  const jobsToPost = unpostedJobs.slice(0, MAX_JOBS_PER_RUN);
+  const jobsToPost = dedupedJobs.slice(0, MAX_JOBS_PER_RUN);
   const deferredJobs = unpostedJobs.length - jobsToPost.length;
 
   if (deferredJobs > 0) {
