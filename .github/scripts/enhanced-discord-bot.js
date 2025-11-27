@@ -841,12 +841,12 @@ client.once('ready', async () => {
 
   console.log(`📬 Found ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
 
-  // Title+Company deduplication: Post only FIRST occurrence of each job title+company
-  // This reduces perceived duplicates (e.g., 11 "Agentic AI Teacher @ Amazon" posts → 1 post)
-  // Jobs with different URLs but same title are legitimately different, but create Discord spam
-  const seenTitleCompany = new Set();
+  // Title+Company+Location deduplication: Post only FIRST occurrence of each unique job
+  // This reduces perceived duplicates (e.g., 11 "Agentic AI Teacher @ Amazon, Boston" posts → 1 post)
+  // Jobs with different URLs but same title+company+location are legitimately different, but create Discord spam
+  const seenTitleCompanyLocation = new Set();
   const dedupedJobs = unpostedJobs.filter(job => {
-    // Normalize title and company for comparison
+    // Normalize title, company, and location for comparison
     // Strip team name suffixes (e.g., "- Agi Ds", "- Platform Team") before normalizing
     const title = (job.job_title || '')
       .replace(/\s+-\s+[^-]+$/, '') // Remove team name suffix pattern: " - TeamName"
@@ -855,21 +855,22 @@ client.once('ready', async () => {
       .replace(/\s+/g, ' ')
       .replace(/[^\w\s-]/g, '');
     const company = (job.employer_name || '').toLowerCase().trim();
+    const location = (job.job_city || '').toLowerCase().trim();
 
-    const key = `${title}|${company}`;
+    const key = `${title}|${company}|${location}`;
 
-    if (seenTitleCompany.has(key)) {
-      console.log(`⏭️ Skipping duplicate title+company: ${job.job_title} at ${job.employer_name} (already posting one with this title)`);
+    if (seenTitleCompanyLocation.has(key)) {
+      console.log(`⏭️ Skipping duplicate title+company+location: ${job.job_title} at ${job.employer_name}, ${job.job_city} (already posting one with this combination)`);
       return false;
     }
 
-    seenTitleCompany.add(key);
+    seenTitleCompanyLocation.add(key);
     return true;
   });
 
-  console.log(`📋 After title+company dedup: ${dedupedJobs.length} unique jobs to post`);
+  console.log(`📋 After title+company+location dedup: ${dedupedJobs.length} unique jobs to post`);
   if (unpostedJobs.length - dedupedJobs.length > 0) {
-    console.log(`   (${unpostedJobs.length - dedupedJobs.length} skipped as duplicate titles)`);
+    console.log(`   (${unpostedJobs.length - dedupedJobs.length} skipped as duplicate title+company+location combinations)`);
   }
 
   // Limit to 50 jobs per workflow run to prevent channel overflow and timeouts
