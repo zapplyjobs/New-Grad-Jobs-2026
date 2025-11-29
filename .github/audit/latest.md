@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2025-11-29T05:48:00.454Z
+**Timestamp:** 2025-11-29T06:05:32.968Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 0
@@ -8,44 +8,44 @@
 - **Database Saved:** ❌ No
 ## Sanitized Log Output
 ```
-[2025-11-29T05:47:58.809Z] ========================================
-[2025-11-29T05:47:58.811Z] Discord Bot Execution Log
-[2025-11-29T05:47:58.811Z] Environment: GitHub Actions
-[2025-11-29T05:47:58.811Z] Node Version: v20.19.5
-[2025-11-29T05:47:58.811Z] ========================================
-[2025-11-29T05:47:58.811Z] Environment Variables Check:
-[2025-11-29T05:47:58.811Z] DISCORD_TOKEN: ✅ Set
-[2025-11-29T05:47:58.811Z] DISCORD_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.811Z] DISCORD_CLIENT_ID: ❌ Not set
-[2025-11-29T05:47:58.812Z] DISCORD_GUILD_ID: ❌ Not set
-[2025-11-29T05:47:58.812Z] 
+[2025-11-29T06:05:31.438Z] ========================================
+[2025-11-29T06:05:31.440Z] Discord Bot Execution Log
+[2025-11-29T06:05:31.440Z] Environment: GitHub Actions
+[2025-11-29T06:05:31.440Z] Node Version: v20.19.5
+[2025-11-29T06:05:31.440Z] ========================================
+[2025-11-29T06:05:31.440Z] Environment Variables Check:
+[2025-11-29T06:05:31.440Z] DISCORD_TOKEN: ✅ Set
+[2025-11-29T06:05:31.440Z] DISCORD_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.440Z] DISCORD_CLIENT_ID: ❌ Not set
+[2025-11-29T06:05:31.441Z] DISCORD_GUILD_ID: ❌ Not set
+[2025-11-29T06:05:31.441Z] 
 Multi-Channel Configuration:
-[2025-11-29T05:47:58.812Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2025-11-29T05:47:58.812Z] 
+[2025-11-29T06:05:31.441Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2025-11-29T06:05:31.441Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2025-11-29T05:47:58.812Z] 
+[2025-11-29T06:05:31.442Z] 
 Data Files Check:
-[2025-11-29T05:47:58.813Z] .github/data/new_jobs.json: ✅ Exists (0 items, 2 bytes)
-[2025-11-29T05:47:58.814Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 330696 bytes)
-[2025-11-29T05:47:58.814Z] 
+[2025-11-29T06:05:31.442Z] .github/data/new_jobs.json: ✅ Exists (0 items, 2 bytes)
+[2025-11-29T06:05:31.443Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 330696 bytes)
+[2025-11-29T06:05:31.443Z] 
 ========================================
-[2025-11-29T05:47:58.814Z] Starting Enhanced Discord Bot...
-[2025-11-29T05:47:58.814Z] ========================================
-[2025-11-29T05:47:59.704Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2025-11-29T05:47:59.704Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2025-11-29T06:05:31.443Z] Starting Enhanced Discord Bot...
+[2025-11-29T06:05:31.443Z] ========================================
+[2025-11-29T06:05:32.349Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2025-11-29T06:05:32.349Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply Career Hub (CH_20db82b8)
 ℹ️ No new jobs to post
-[2025-11-29T05:47:59.705Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2025-11-29T05:47:59.712Z] 
+[2025-11-29T06:05:32.350Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2025-11-29T06:05:32.358Z] 
 ========================================
 ```
 ## Errors Detected
