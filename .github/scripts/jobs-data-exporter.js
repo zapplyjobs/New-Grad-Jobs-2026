@@ -71,8 +71,26 @@ class JobsDataExporter {
 
     try {
       const encryptedData = JSON.parse(fs.readFileSync(this.outputPath, 'utf8'));
-      return this.decrypt(encryptedData);
+      const data = this.decrypt(encryptedData);
+
+      // Apply 7-day TTL: Remove jobs older than 7 days to keep data fresh
+      const SEVEN_DAYS_AGO = Date.now() - (7 * 24 * 60 * 60 * 1000);
+      const initialJobCount = data.jobs.length;
+
+      data.jobs = data.jobs.filter(job => {
+        const jobDate = new Date(job.postedDate || job.addedToDatabase || 0);
+        return jobDate.getTime() > SEVEN_DAYS_AGO;
+      });
+
+      const expiredCount = initialJobCount - data.jobs.length;
+      if (expiredCount > 0) {
+        console.log(`🧹 Cleaned up ${expiredCount} jobs older than 7 days`);
+      }
+
+      return data;
     } catch (error) {
+      console.log(`⚠️ Could not decrypt existing file (password mismatch or corruption): ${error.message}`);
+      console.log(`🔄 Starting fresh - file will rebuild incrementally over next 7 days`);
       return {
         metadata: {
           version: '1.0',
