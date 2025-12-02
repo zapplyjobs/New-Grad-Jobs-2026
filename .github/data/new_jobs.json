@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "job_title": "GenAI Developer",
+    "employer_name": "CACI",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_description": "Join CACI in this exciting opportunity.",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/GenAI-Developer_320044",
+    "job_posted_at_datetime_utc": "2025-12-02T00:17:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "caci-wd1-myworkdayjobs-com-external-job-us-va-ashburn-genai-developer_320044",
+    "description_platform": "workday",
+    "description_success": false
+  },
+  {
+    "job_title": "Assistant Professor",
+    "employer_name": "University of Wyoming",
+    "job_city": "Laramie",
+    "job_state": "WY",
+    "job_description": "Tenure-track Assistant Professor position in Applied Artificial Intelligence/Machine Learning (AI/ML) and Geospatial AI (GeoAI) for Remote Sensing.",
+    "job_apply_link": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253301",
+    "job_posted_at_datetime_utc": "2025-12-01T23:16:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "eeik-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-253301",
+    "description_platform": "generic",
+    "description_success": true
+  }
+]
