@@ -147,6 +147,119 @@ function updateSeenJobsStore(jobs, seenIds) {
     }
 }
 
+/**
+ * Load pending posts queue - jobs waiting to be enriched and posted
+ * Queue structure: { job: {...}, status: "pending"|"enriched"|"posted", addedAt, enrichedAt, postedAt }
+ */
+function loadPendingQueue() {
+    const repoRoot = path.join(__dirname, '..', '..', '..');
+    const dataDir = path.join(repoRoot, '.github', 'data');
+    const queuePath = path.join(dataDir, 'pending_posts.json');
+
+    try {
+        if (!fs.existsSync(queuePath)) {
+            console.log('ℹ️ No existing pending_posts.json found - starting fresh');
+            return [];
+        }
+
+        const fileContent = fs.readFileSync(queuePath, 'utf8');
+        if (!fileContent.trim()) {
+            console.log('⚠️ Empty pending_posts.json file - starting fresh');
+            return [];
+        }
+
+        const queue = JSON.parse(fileContent);
+        if (!Array.isArray(queue)) {
+            console.log('⚠️ Invalid pending_posts.json format - expected array, starting fresh');
+            return [];
+        }
+
+        // Validate queue structure
+        const validQueue = queue.filter(item =>
+            item &&
+            typeof item === 'object' &&
+            item.job &&
+            item.status &&
+            ['pending', 'enriched', 'posted'].includes(item.status)
+        );
+
+        if (validQueue.length !== queue.length) {
+            console.log(`⚠️ Filtered ${queue.length - validQueue.length} invalid entries from pending_posts.json`);
+        }
+
+        console.log(`✅ Loaded pending queue: ${validQueue.length} total (${validQueue.filter(i => i.status === 'pending').length} pending, ${validQueue.filter(i => i.status === 'enriched').length} enriched, ${validQueue.filter(i => i.status === 'posted').length} posted)`);
+
+        return validQueue;
+
+    } catch (error) {
+        console.error('❌ Error loading pending queue:', error.message);
+        return [];
+    }
+}
+
+/**
+ * Save pending posts queue with atomic writes
+ */
+function savePendingQueue(queue) {
+    const repoRoot = path.join(__dirname, '..', '..', '..');
+    const dataDir = path.join(repoRoot, '.github', 'data');
+
+    try {
+        // Ensure data folder exists
+        if (!fs.existsSync(dataDir)) {
+            fs.mkdirSync(dataDir, { recursive: true });
+        }
+
+        // Atomic write: write to temp file then rename
+        const queuePath = path.join(dataDir, 'pending_posts.json');
+        const tempPath = path.join(dataDir, 'pending_posts.tmp.json');
+
+        // Write to temporary file
+        fs.writeFileSync(tempPath, JSON.stringify(queue, null, 2), 'utf8');
+
+        // Atomic rename - prevents corruption if process is killed mid-write
+        fs.renameSync(tempPath, queuePath);
+
+        const statusCounts = {
+            pending: queue.filter(i => i.status === 'pending').length,
+            enriched: queue.filter(i => i.status === 'enriched').length,
+            posted: queue.filter(i => i.status === 'posted').length
+        };
+
+        console.log(`✅ Saved pending queue: ${queue.length} total (${statusCounts.pending} pending, ${statusCounts.enriched} enriched, ${statusCounts.posted} posted)`);
+
+    } catch (error) {
+        console.error('❌ Error saving pending queue:', error.message);
+
+        // Clean up temp file if it exists
+        const tempPath = path.join(dataDir, 'pending_posts.tmp.json');
+        if (fs.existsSync(tempPath)) {
+            try {
+                fs.unlinkSync(tempPath);
+            } catch (cleanupError) {
+                console.error('⚠️ Could not clean up temp file:', cleanupError.message);
+            }
+        }
+
+        throw error;
+    }
+}
+
+/**
+ * Clean up posted jobs from queue
+ */
+function cleanupPostedFromQueue(queue) {
+    const beforeCount = queue.length;
+    const cleanedQueue = queue.filter(item => item.status !== 'posted');
+    const removedCount = beforeCount - cleanedQueue.length;
+
+    if (removedCount > 0) {
+        console.log(`🧹 Removed ${removedCount} posted jobs from queue`);
+    }
+
+    return cleanedQueue;
+}
+
 // Load seen jobs for deduplication with error handling and validation
 function loadSeenJobsStore() {
     // Get repository root (3 levels up from .github/scripts/job-fetcher)
@@ -306,42 +419,100 @@ async function processJobs() {
         // This ensures failed posts can be retried and avoids skipping valid jobs
         const freshJobs = currentJobs.filter(job => !postedIds.has(job.id));
 
-        if (freshJobs.length === 0) {
-            console.log('ℹ️ No new jobs found - all current openings already processed');
+        console.log(`📊 Processing summary: ${usJobs.length} total jobs, ${currentJobs.length} current (0-${MAX_AGE_HOURS}h window), ${freshJobs.length} new (not posted before)`);
+
+        // STEP 1: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
+        // This prevents re-fetching them in next run, even if we don't process them all this run
+        if (freshJobs.length > 0) {
+            freshJobs.forEach(job => seenIds.add(job.id));
+            updateSeenJobsStore(freshJobs, seenIds);
+            console.log(`✅ Marked ${freshJobs.length} new jobs as seen`);
+        }
+
+        // STEP 2: Load pending queue and clean up posted jobs
+        let queue = loadPendingQueue();
+        queue = cleanupPostedFromQueue(queue);
+
+        // STEP 3: Add ALL new jobs to queue with "pending" status
+        const now = new Date().toISOString();
+        freshJobs.forEach(job => {
+            queue.push({
+                job: job,
+                status: 'pending',
+                addedAt: now,
+                enrichedAt: null,
+                postedAt: null
+            });
+        });
+
+        if (freshJobs.length > 0) {
+            console.log(`📥 Added ${freshJobs.length} new jobs to pending queue`);
+        }
+
+        // STEP 4: Select batch from queue (FIFO - oldest first)
+        const BATCH_SIZE = 50; // Process max 50 jobs per run
+        const pendingItems = queue.filter(item => item.status === 'pending' || item.status === 'enriched');
+        const batch = pendingItems.slice(0, BATCH_SIZE);
+
+        if (batch.length === 0) {
+            console.log('ℹ️ No jobs in queue to process');
             writeNewJobsJson([]);
         } else {
-            console.log(`📬 Found ${freshJobs.length} new jobs to process`);
+            console.log(`\n🔄 Processing batch: ${batch.length} jobs (${queue.filter(i => i.status === 'pending').length} pending in queue total)`);
 
-            // Enrich jobs with descriptions before writing
-            console.log('\n📝 Fetching job descriptions...');
-            console.log('━'.repeat(60));
+            // STEP 5: Enrich descriptions for jobs with "pending" status only
+            const needEnrichment = batch.filter(item => item.status === 'pending');
 
-            const jobsWithDescriptions = await fetchDescriptionsBatch(freshJobs, {
-                batchSize: 10,              // Process 10 jobs at a time
-                delayBetweenRequests: 1000  // 1 second delay between requests
-            });
+            if (needEnrichment.length > 0) {
+                console.log(`\n📝 Fetching job descriptions for ${needEnrichment.length} jobs...`);
+                console.log('━'.repeat(60));
 
-            // Log description fetching stats
-            const successCount = jobsWithDescriptions.filter(j => j.description_success).length;
-            const failCount = jobsWithDescriptions.length - successCount;
-            const successRate = ((successCount / jobsWithDescriptions.length) * 100).toFixed(1);
+                const enrichedJobs = await fetchDescriptionsBatch(
+                    needEnrichment.map(item => item.job),
+                    {
+                        batchSize: 10,              // Process 10 jobs at a time
+                        delayBetweenRequests: 1000  // 1 second delay between requests
+                    }
+                );
 
-            console.log('━'.repeat(60));
-            console.log(`✅ Description fetching complete:`);
-            console.log(`   Success: ${successCount}/${jobsWithDescriptions.length} (${successRate}%)`);
-            console.log(`   Failed: ${failCount}`);
+                // Log description fetching stats
+                const successCount = enrichedJobs.filter(j => j.description_success).length;
+                const failCount = enrichedJobs.length - successCount;
+                const successRate = enrichedJobs.length > 0 ? ((successCount / enrichedJobs.length) * 100).toFixed(1) : '0.0';
 
-            // Breakdown by platform
-            const platformStats = {};
-            jobsWithDescriptions.forEach(j => {
-                const platform = j.description_platform || 'unknown';
-                platformStats[platform] = (platformStats[platform] || 0) + 1;
-            });
-            console.log(`   Platforms: ${Object.entries(platformStats).map(([p, c]) => `${p}(${c})`).join(', ')}`);
-            console.log('━'.repeat(60) + '\n');
+                console.log('━'.repeat(60));
+                console.log(`✅ Description fetching complete:`);
+                console.log(`   Success: ${successCount}/${enrichedJobs.length} (${successRate}%)`);
+                console.log(`   Failed: ${failCount}`);
 
-            writeNewJobsJson(jobsWithDescriptions);
-            updateSeenJobsStore(jobsWithDescriptions, seenIds);
+                // Breakdown by platform
+                const platformStats = {};
+                enrichedJobs.forEach(j => {
+                    const platform = j.description_platform || 'unknown';
+                    platformStats[platform] = (platformStats[platform] || 0) + 1;
+                });
+                console.log(`   Platforms: ${Object.entries(platformStats).map(([p, c]) => `${p}(${c})`).join(', ')}`);
+                console.log('━'.repeat(60) + '\n');
+
+                // Update queue items with enriched data and status
+                needEnrichment.forEach((item, i) => {
+                    item.job = enrichedJobs[i];
+                    item.status = 'enriched';
+                    item.enrichedAt = new Date().toISOString();
+                });
+            } else {
+                console.log(`ℹ️ All ${batch.length} jobs in batch already enriched, skipping description fetch`);
+            }
+
+            // STEP 6: Write batch to new_jobs.json for Discord bot
+            const batchJobs = batch.map(item => item.job);
+            writeNewJobsJson(batchJobs);
+
+            // STEP 7: Save queue (don't remove items yet - Discord bot will mark as "posted")
+            savePendingQueue(queue);
+
+            console.log(`✅ Batch ready for Discord bot: ${batchJobs.length} jobs`);
+            console.log(`📋 Queue status: ${queue.filter(i => i.status === 'pending').length} pending, ${queue.filter(i => i.status === 'enriched').length} enriched`);
         }
 
         // No archived jobs (showing all jobs as current)
@@ -367,5 +538,8 @@ module.exports = {
     writeNewJobsJson,
     updateSeenJobsStore,
     loadSeenJobsStore,
+    loadPendingQueue,
+    savePendingQueue,
+    cleanupPostedFromQueue,
     processJobs
 };

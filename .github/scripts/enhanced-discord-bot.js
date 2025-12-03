@@ -63,6 +63,7 @@ const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/comp
 
 // Import job ID generation for consistency
 const { generateJobId, generateEnhancedId } = require('./job-fetcher/utils');
+const { loadPendingQueue, savePendingQueue } = require('./job-fetcher/job-processor');
 
 // Import routing logger and enhanced channel router for debugging
 const RoutingLogger = require('./routing-logger');
@@ -1092,6 +1093,43 @@ client.once('ready', async () => {
     }
 
     console.log('🎉 All jobs posted successfully!');
+  }
+
+  // Update pending queue - mark successfully posted jobs as "posted"
+  try {
+    // Collect all successfully posted job IDs from both modes
+    const successfullyPostedIds = [];
+
+    jobsToPost.forEach(job => {
+      const jobId = generateJobId(job);
+      // Check if this job was marked as posted
+      if (postedJobsManager.hasBeenPosted(jobId)) {
+        successfullyPostedIds.push(jobId);
+      }
+    });
+
+    if (successfullyPostedIds.length > 0) {
+      let queue = loadPendingQueue();
+      const now = new Date().toISOString();
+      let updatedCount = 0;
+
+      queue.forEach(item => {
+        const itemJobId = generateJobId(item.job);
+        if (successfullyPostedIds.includes(itemJobId)) {
+          item.status = 'posted';
+          item.postedAt = now;
+          updatedCount++;
+        }
+      });
+
+      if (updatedCount > 0) {
+        savePendingQueue(queue);
+        console.log(`📋 Updated queue: marked ${updatedCount} jobs as posted`);
+      }
+    }
+  } catch (error) {
+    console.error('⚠️ Error updating pending queue:', error.message);
+    // Don't fail the whole process if queue update fails
   }
 
   // Clean exit AFTER all async operations complete
