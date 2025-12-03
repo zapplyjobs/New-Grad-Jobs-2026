@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2025-12-03T17:50:13.708Z
+**Timestamp:** 2025-12-03T18:06:15.978Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 0
@@ -8,96 +8,96 @@
 - **Database Saved:** ❌ No
 ## Sanitized Log Output
 ```
-[2025-12-03T17:50:11.620Z] ========================================
-[2025-12-03T17:50:11.622Z] Discord Bot Execution Log
-[2025-12-03T17:50:11.622Z] Environment: GitHub Actions
-[2025-12-03T17:50:11.622Z] Node Version: v20.19.6
-[2025-12-03T17:50:11.622Z] ========================================
-[2025-12-03T17:50:11.622Z] Environment Variables Check:
-[2025-12-03T17:50:11.622Z] DISCORD_TOKEN: ✅ Set
-[2025-12-03T17:50:11.622Z] DISCORD_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_CLIENT_ID: ❌ Not set
-[2025-12-03T17:50:11.623Z] DISCORD_GUILD_ID: ❌ Not set
-[2025-12-03T17:50:11.623Z] 
+[2025-12-03T18:06:13.074Z] ========================================
+[2025-12-03T18:06:13.076Z] Discord Bot Execution Log
+[2025-12-03T18:06:13.076Z] Environment: GitHub Actions
+[2025-12-03T18:06:13.076Z] Node Version: v20.19.6
+[2025-12-03T18:06:13.076Z] ========================================
+[2025-12-03T18:06:13.076Z] Environment Variables Check:
+[2025-12-03T18:06:13.076Z] DISCORD_TOKEN: ✅ Set
+[2025-12-03T18:06:13.076Z] DISCORD_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.076Z] DISCORD_CLIENT_ID: ❌ Not set
+[2025-12-03T18:06:13.077Z] DISCORD_GUILD_ID: ❌ Not set
+[2025-12-03T18:06:13.077Z] 
 Multi-Channel Configuration:
-[2025-12-03T17:50:11.623Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.623Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2025-12-03T17:50:11.624Z] 
+[2025-12-03T18:06:13.077Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2025-12-03T18:06:13.077Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2025-12-03T17:50:11.624Z] 
+[2025-12-03T18:06:13.077Z] 
 Data Files Check:
-[2025-12-03T17:50:11.626Z] .github/data/new_jobs.json: ✅ Exists (50 items, 295772 bytes)
-[2025-12-03T17:50:11.628Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 333676 bytes)
-[2025-12-03T17:50:11.628Z] 
+[2025-12-03T18:06:13.080Z] .github/data/new_jobs.json: ✅ Exists (50 items, 295772 bytes)
+[2025-12-03T18:06:13.082Z] .github/data/posted_jobs.json: ✅ Exists (5000 items, 333676 bytes)
+[2025-12-03T18:06:13.082Z] 
 ========================================
-[2025-12-03T17:50:11.628Z] Starting Enhanced Discord Bot...
-[2025-12-03T17:50:11.628Z] ========================================
-[2025-12-03T17:50:12.792Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2025-12-03T17:50:12.793Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2025-12-03T18:06:13.082Z] Starting Enhanced Discord Bot...
+[2025-12-03T18:06:13.082Z] ========================================
+[2025-12-03T18:06:14.602Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2025-12-03T18:06:14.603Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply Career Hub (CH_20db82b8)
-[2025-12-03T17:50:12.794Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2025-12-03T17:50:12.795Z] [BOT] 📦 Exporting 50 jobs to encrypted JSON...
-[2025-12-03T17:50:12.886Z] [BOT] ✅ Export complete: Added 0, Skipped 50, Total 50
-[2025-12-03T17:50:12.887Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-03T17:50:12.887Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-[2025-12-03T17:50:12.888Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-03T17:50:12.888Z] [BOT] ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-[2025-12-03T17:50:12.888Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.603Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2025-12-03T18:06:14.605Z] [BOT] 📦 Exporting 50 jobs to encrypted JSON...
+[2025-12-03T18:06:14.692Z] [BOT] ✅ Export complete: Added 0, Skipped 50, Total 50
+[2025-12-03T18:06:14.692Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.692Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+[2025-12-03T18:06:14.693Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-03T18:06:14.693Z] [BOT] ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+[2025-12-03T18:06:14.693Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
 ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-[2025-12-03T17:50:12.888Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-03T18:06:14.693Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-[2025-12-03T17:50:12.888Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
 ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-[2025-12-03T17:50:12.889Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-03T17:50:12.889Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-[2025-12-03T17:50:12.889Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
 ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
 ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
 ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-03T17:50:12.889Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-[2025-12-03T17:50:12.889Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-[2025-12-03T17:50:12.889Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-[2025-12-03T17:50:12.889Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-03T17:50:12.890Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-03T17:50:12.890Z] [BOT] ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-[2025-12-03T17:50:12.890Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-03T17:50:12.890Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
 ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
 ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+[2025-12-03T18:06:14.694Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
 ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
 ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-[2025-12-03T17:50:12.890Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.695Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
 ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
-[2025-12-03T17:50:12.890Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-03T18:06:14.696Z] [BOT] ⏭️ Skipping already posted (legacy ID): Full-Stack Developer - Junior at Booz Allen
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
 ⏭️ Skipping already posted (legacy ID): ROLE_2237147a at Citizen Health
-ℹ️ No new jobs to post - all jobs have been posted already
-[2025-12-03T17:50:12.902Z] 
+[2025-12-03T18:06:14.696Z] [BOT] ℹ️ No new jobs to post - all jobs have been posted already
+[2025-12-03T18:06:14.707Z] 
 ========================================
 ```
 ## Errors Detected
