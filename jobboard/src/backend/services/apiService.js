@@ -72,9 +72,32 @@ async function fetchExternalJobsData() {
     });
 
     // Transform external data to standard format
+    // Handle different API response formats (some return direct array, others nest in object)
+    let jobsData = response.data;
+
+    // If response.data is not an array, try to extract array from nested properties
+    if (!Array.isArray(jobsData)) {
+      console.log('⚠️  API response is not a direct array, attempting to extract...');
+
+      // Try common nested array properties
+      if (Array.isArray(jobsData.jobs)) {
+        jobsData = jobsData.jobs;
+        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.jobs`);
+      } else if (Array.isArray(jobsData.data)) {
+        jobsData = jobsData.data;
+        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.data`);
+      } else if (Array.isArray(jobsData.results)) {
+        jobsData = jobsData.results;
+        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.results`);
+      } else {
+        console.error('❌ Could not find job array in API response. Response keys:', Object.keys(jobsData));
+        return [];
+      }
+    }
+
     // Filter by category (all software-related) - primary filter
     // Fallback to title keywords for entries without category field
-    const jobs = response.data
+    const jobs = jobsData
       .filter(job => {
         if (!job.active || !job.url) return false;
 
