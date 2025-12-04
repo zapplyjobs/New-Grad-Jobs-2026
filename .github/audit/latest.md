@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2025-12-04T15:50:30.703Z
+**Timestamp:** 2025-12-04T16:05:48.172Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 0
@@ -8,96 +8,96 @@
 - **Database Saved:** ❌ No
 ## Sanitized Log Output
 ```
-[2025-12-04T15:50:28.048Z] ========================================
-[2025-12-04T15:50:28.049Z] Discord Bot Execution Log
-[2025-12-04T15:50:28.049Z] Environment: GitHub Actions
-[2025-12-04T15:50:28.050Z] Node Version: v20.19.6
-[2025-12-04T15:50:28.050Z] ========================================
-[2025-12-04T15:50:28.050Z] Environment Variables Check:
-[2025-12-04T15:50:28.050Z] DISCORD_TOKEN: ✅ Set
-[2025-12-04T15:50:28.050Z] DISCORD_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.050Z] DISCORD_CLIENT_ID: ❌ Not set
-[2025-12-04T15:50:28.050Z] DISCORD_GUILD_ID: ❌ Not set
-[2025-12-04T15:50:28.050Z] 
+[2025-12-04T16:05:45.505Z] ========================================
+[2025-12-04T16:05:45.506Z] Discord Bot Execution Log
+[2025-12-04T16:05:45.506Z] Environment: GitHub Actions
+[2025-12-04T16:05:45.507Z] Node Version: v20.19.6
+[2025-12-04T16:05:45.507Z] ========================================
+[2025-12-04T16:05:45.507Z] Environment Variables Check:
+[2025-12-04T16:05:45.507Z] DISCORD_TOKEN: ✅ Set
+[2025-12-04T16:05:45.507Z] DISCORD_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.507Z] DISCORD_CLIENT_ID: ❌ Not set
+[2025-12-04T16:05:45.507Z] DISCORD_GUILD_ID: ❌ Not set
+[2025-12-04T16:05:45.507Z] 
 Multi-Channel Configuration:
-[2025-12-04T15:50:28.050Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.050Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.050Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.051Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.051Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.051Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.051Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.051Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.051Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2025-12-04T15:50:28.051Z] 
+[2025-12-04T16:05:45.507Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.507Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.507Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.508Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.508Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.508Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.508Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.508Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.508Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2025-12-04T16:05:45.508Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2025-12-04T15:50:28.051Z] 
+[2025-12-04T16:05:45.508Z] 
 Data Files Check:
-[2025-12-04T15:50:28.054Z] .github/data/new_jobs.json: ✅ Exists (50 items, 299998 bytes)
-[2025-12-04T15:50:28.055Z] .github/data/posted_jobs.json: ✅ Exists (3563 items, 239948 bytes)
-[2025-12-04T15:50:28.055Z] 
+[2025-12-04T16:05:45.511Z] .github/data/new_jobs.json: ✅ Exists (50 items, 299998 bytes)
+[2025-12-04T16:05:45.512Z] .github/data/posted_jobs.json: ✅ Exists (3563 items, 239948 bytes)
+[2025-12-04T16:05:45.512Z] 
 ========================================
-[2025-12-04T15:50:28.055Z] Starting Enhanced Discord Bot...
-[2025-12-04T15:50:28.055Z] ========================================
-[2025-12-04T15:50:29.723Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2025-12-04T15:50:29.724Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2025-12-04T16:05:45.512Z] Starting Enhanced Discord Bot...
+[2025-12-04T16:05:45.512Z] ========================================
+[2025-12-04T16:05:46.758Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2025-12-04T16:05:46.758Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply Career Hub (CH_20db82b8)
-[2025-12-04T15:50:29.724Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2025-12-04T15:50:29.726Z] [BOT] 📦 Exporting 50 jobs to encrypted JSON...
-[2025-12-04T15:50:29.814Z] [BOT] ✅ Export complete: Added 0, Skipped 50, Total 50
-[2025-12-04T15:50:29.815Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.815Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.815Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.815Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.815Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.816Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.759Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2025-12-04T16:05:46.760Z] [BOT] 📦 Exporting 50 jobs to encrypted JSON...
+[2025-12-04T16:05:46.854Z] [BOT] ✅ Export complete: Added 0, Skipped 50, Total 50
+[2025-12-04T16:05:46.855Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.855Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.856Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.856Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.856Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.856Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.816Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.816Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.816Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.816Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.816Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.856Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.816Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.857Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.857Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.857Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
 ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.817Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.818Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
 ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.819Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.819Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
-[2025-12-04T15:50:29.819Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.858Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
 ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
-[2025-12-04T15:50:29.819Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.858Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.858Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+[2025-12-04T16:05:46.858Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
 ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
-[2025-12-04T15:50:29.819Z] [BOT] ℹ️ No new jobs to post - all jobs have been posted already
-[2025-12-04T15:50:29.830Z] 
+[2025-12-04T16:05:46.858Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.858Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.858Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+[2025-12-04T16:05:46.859Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.860Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.860Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+[2025-12-04T16:05:46.860Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.860Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+[2025-12-04T16:05:46.860Z] [BOT] ⏭️ Skipping already posted (legacy ID): ROLE_414dfe4f at Leidos
+[2025-12-04T16:05:46.860Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer 1 at McDonald's
+[2025-12-04T16:05:46.860Z] [BOT] ⏭️ Skipping already posted (legacy ID): Software Engineer – New Grad - 2026 Start at Zip
+ℹ️ No new jobs to post - all jobs have been posted already
+[2025-12-04T16:05:46.871Z] 
 ========================================
 ```
 ## Errors Detected
