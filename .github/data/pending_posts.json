@@ -999,5 +999,56 @@
     "addedAt": "2025-12-04T06:44:53.163Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Entry Level Software Developer",
+      "employer_name": "Leidos",
+      "job_city": "Bethesda",
+      "job_state": "MD",
+      "job_description": "Join Leidos in this exciting opportunity.",
+      "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00171449",
+      "job_posted_at_datetime_utc": "2025-12-04T02:14:03.000Z",
+      "job_employment_type": "FULLTIME",
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-bethesda-md-entry-level-software-developer_r-00171449"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-04T06:56:23.969Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "McDonald's",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join McDonald's in this exciting opportunity.",
+      "job_apply_link": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1315513100/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2025-12-02T23:21:13.000Z",
+      "job_employment_type": "FULLTIME",
+      "id": "jobs-mcdonalds-com-job-chicago-software-engineer-i-il-60607-1315513100"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-04T06:56:23.969Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer – New Grad - 2026 Start",
+      "employer_name": "Zip",
+      "job_city": "SF",
+      "job_state": "Locations",
+      "job_description": "Join Zip in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/zip/482e918e-411c-481f-94d4-e4c4db36a7f3/application",
+      "job_posted_at_datetime_utc": "2025-12-02T23:10:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "id": "jobs-ashbyhq-com-zip-482e918e-411c-481f-94d4-e4c4db36a7f3-application"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-04T06:56:23.969Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
