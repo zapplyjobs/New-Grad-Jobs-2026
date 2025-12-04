@@ -517,20 +517,30 @@ function formatPostedDate(dateString) {
 }
 
 // Helper function to clean job descriptions
-function cleanJobDescription(description) {
+function cleanJobDescription(description, format) {
   if (!description || typeof description !== 'string') return null;
 
-  // Remove metadata patterns
-  let cleaned = description
-    .replace(/Category:\s*[\w\s]+\.\s*/gi, '')
-    .replace(/Level:\s*[\w_]+\.\s*/gi, '')
-    .replace(/Posted:\s*[\w\s]+\.\s*/gi, '')
-    .replace(/Full Title:\s*[^.]+\.\s*/gi, '')
-    // Remove HTML tags if present
-    .replace(/<[^>]*>/g, '')
-    // Remove excessive whitespace
-    .replace(/\s+/g, ' ')
-    .trim();
+  let cleaned;
+  if (format === 'markdown') {
+    // Use Markdown as-is (Discord supports natively)
+    cleaned = description
+      .replace(/Category:\s*[\w\s]+\.\s*/gi, '')
+      .replace(/Level:\s*[\w_]+\.\s*/gi, '')
+      .replace(/Posted:\s*[\w\s]+\.\s*/gi, '')
+      .replace(/Full Title:\s*[^.]+\.\s*/gi, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  } else {
+    // Legacy HTML - strip tags (current behavior)
+    cleaned = description
+      .replace(/Category:\s*[\w\s]+\.\s*/gi, '')
+      .replace(/Level:\s*[\w_]+\.\s*/gi, '')
+      .replace(/Posted:\s*[\w\s]+\.\s*/gi, '')
+      .replace(/Full Title:\s*[^.]+\.\s*/gi, '')
+      .replace(/<[^>]*>/g, '')  // Strip HTML
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
 
   // If description is too short after cleaning, return null
   if (cleaned.length < 20) return null;
@@ -803,7 +813,7 @@ function buildJobEmbed(job) {
   }
 
   // Add cleaned description preview if available
-  const cleanedDescription = cleanJobDescription(job.job_description);
+  const cleanedDescription = cleanJobDescription(job.job_description, job.description_format);
   if (cleanedDescription) {
     embed.addFields({
       name: '📋 Description',

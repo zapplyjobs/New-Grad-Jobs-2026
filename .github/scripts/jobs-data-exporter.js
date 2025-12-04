@@ -144,6 +144,8 @@ class JobsDataExporter {
           : (job.location || job.job_city || 'Remote'),
         state: job.job_state || '',
         description: job.description || job.job_description || '',
+        description_html: job.description_html || job.description || job.job_description || '',
+        description_format: job.description_format || 'html',
         url: job.url || job.job_apply_link || '',
         salary: job.salary || job.salary_range || null,
         experience: job.experience || job.job_required_experience || 'Entry-Level',
