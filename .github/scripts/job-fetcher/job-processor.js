@@ -503,44 +503,47 @@ async function processJobs() {
                     item.status = 'enriched';
                     item.enrichedAt = new Date().toISOString();
                 });
-
-                // MARKDOWN CONVERSION: Convert HTML descriptions to Markdown if enabled
-                if (process.env.ENABLE_MARKDOWN_CONVERSION === 'true') {
-                    console.log('\n🔄 Converting HTML descriptions to Markdown...');
-                    let conversionStats = { total: 0, successful: 0, failed: 0 };
-
-                    enrichedJobs.forEach(job => {
-                        if (job.description) {
-                            conversionStats.total++;
-                            try {
-                                const result = convertHtmlToMarkdown(job.description);
-                                if (result.metadata.conversionSuccess) {
-                                    job.description = result.markdown;
-                                    job.description_html = result.originalHtml;
-                                    job.description_format = 'markdown';
-                                    conversionStats.successful++;
-                                } else {
-                                    job.description_html = job.description;
-                                    job.description_format = 'html';
-                                    conversionStats.failed++;
-                                }
-                            } catch (error) {
-                                console.error(`❌ Conversion error for job ${job.id}:`, error.message);
-                                job.description_html = job.description;
-                                job.description_format = 'html';
-                                conversionStats.failed++;
-                            }
-                        }
-                    });
-
-                    console.log(`✅ Markdown conversion complete: ${conversionStats.successful}/${conversionStats.total} successful, ${conversionStats.failed} failed`);
-                }
             } else {
                 console.log(`ℹ️ All ${batch.length} jobs in batch already enriched, skipping description fetch`);
             }
 
             // STEP 6: Write batch to new_jobs.json for Discord bot
             const batchJobs = batch.map(item => item.job);
+
+            // MARKDOWN CONVERSION: Convert HTML descriptions to Markdown if enabled (runs on ALL jobs)
+            if (process.env.ENABLE_MARKDOWN_CONVERSION === 'true') {
+                console.log('\n🔄 Converting HTML descriptions to Markdown...');
+                let conversionStats = { total: 0, successful: 0, failed: 0 };
+
+                batchJobs.forEach(job => {
+                    if (job.description || job.job_description) {
+                        const description = job.description || job.job_description;
+                        conversionStats.total++;
+                        try {
+                            const result = convertHtmlToMarkdown(description);
+                            if (result.metadata.conversionSuccess) {
+                                job.description = result.markdown;
+                                job.job_description = result.markdown;
+                                job.description_html = result.originalHtml;
+                                job.description_format = 'markdown';
+                                conversionStats.successful++;
+                            } else {
+                                job.description_html = description;
+                                job.description_format = 'html';
+                                conversionStats.failed++;
+                            }
+                        } catch (error) {
+                            console.error(`❌ Conversion error for job ${job.id}:`, error.message);
+                            job.description_html = description;
+                            job.description_format = 'html';
+                            conversionStats.failed++;
+                        }
+                    }
+                });
+
+                console.log(`✅ Markdown conversion complete: ${conversionStats.successful}/${conversionStats.total} successful, ${conversionStats.failed} failed`);
+            }
+
             writeNewJobsJson(batchJobs);
 
             // STEP 7: Save queue (don't remove items yet - Discord bot will mark as "posted")
