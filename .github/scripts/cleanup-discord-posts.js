@@ -183,9 +183,20 @@ async function cleanup() {
     });
   });
 
-  // Fetch guild
-  const guild = await client.guilds.fetch(DISCORD_GUILD_ID);
-  console.log(`📍 Guild: ${guild.name}\n`);
+// Fetch guild (auto-detect if GUILD_ID not provided)
+  let guild;
+  if (DISCORD_GUILD_ID) {
+    guild = await client.guilds.fetch(DISCORD_GUILD_ID);
+  } else {
+    // Auto-detect: use first guild bot is member of
+    if (client.guilds.cache.size === 0) {
+      console.error('❌ Error: Bot is not a member of any guilds');
+      process.exit(1);
+    }
+    guild = client.guilds.cache.first();
+    console.log(`🔍 Auto-detected guild (bot is in ${client.guilds.cache.size} guild(s))`);
+  }
+  console.log(`📍 Guild: ${guild.name} (${guild.id})\n`);
 
   // Clean each channel
   let totalDeleted = 0;
