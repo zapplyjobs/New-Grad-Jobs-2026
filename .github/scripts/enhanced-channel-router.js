@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Enhanced Channel Router v2
+ * Enhanced Channel Router v3
  *
  * HIERARCHICAL ROUTING SYSTEM (Title-First Approach)
  *
@@ -167,7 +167,67 @@ function isNonTechRole(title) {
 }
 
 /**
- * Get detailed job channel routing information (v2 - Hierarchical)
+ * Check if job is AI/ML specific
+ * @param {string} title - Job title (lowercase)
+ * @param {string} description - Job description (lowercase)
+ * @returns {Object|null} Match details or null
+ */
+function isAIRole(title, description) {
+  const aiPatterns = [
+    { regex: /\b(machine learning|ml engineer|deep learning)\b/, keyword: 'machine learning' },
+    { regex: /\b(artificial intelligence|ai engineer|ai researcher)\b/, keyword: 'artificial intelligence' },
+    { regex: /\b(computer vision|nlp|natural language)\b/, keyword: 'AI specialization' },
+    { regex: /\b(neural network|generative ai|large language model|llm)\b/, keyword: 'AI/ML' }
+  ];
+
+  const combined = `${title} ${description}`;
+
+  for (const pattern of aiPatterns) {
+    const match = combined.match(pattern.regex);
+    if (match) {
+      return {
+        matched: true,
+        keyword: pattern.keyword,
+        matchedText: match[0]
+      };
+    }
+  }
+
+  return null;
+}
+
+/**
+ * Check if job is Data Science specific
+ * @param {string} title - Job title (lowercase)
+ * @param {string} description - Job description (lowercase)
+ * @returns {Object|null} Match details or null
+ */
+function isDataScienceRole(title, description) {
+  const dsPatterns = [
+    { regex: /\b(data scien(ce|tist))\b/, keyword: 'data science' },
+    { regex: /\b(data analyst|business intelligence|bi analyst)\b/, keyword: 'data analytics' },
+    { regex: /\b(data engineer(?!ing\s+(?:sales|manufacturing)))\b/, keyword: 'data engineering' },
+    { regex: /\b(analytics engineer|data insights)\b/, keyword: 'analytics' }
+  ];
+
+  const combined = `${title} ${description}`;
+
+  for (const pattern of dsPatterns) {
+    const match = combined.match(pattern.regex);
+    if (match) {
+      return {
+        matched: true,
+        keyword: pattern.keyword,
+        matchedText: match[0]
+      };
+    }
+  }
+
+  return null;
+}
+
+/**
+ * Get detailed job channel routing information (v3 - Hierarchical with AI/DS)
  * @param {Object} job - Job object
  * @param {Object} CHANNEL_CONFIG - Channel configuration object
  * @returns {Object} { channelId, category, matchedKeyword, matchType, priority }
@@ -177,7 +237,43 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
   const description = (job.job_description || '').toLowerCase();
 
   // ============================================================================
-  // PRIORITY 1 (HIGHEST): Tech Title Detection
+  // PRIORITY 0 (CRITICAL): AI/ML Roles (if AI channel configured)
+  // ============================================================================
+  if (CHANNEL_CONFIG.ai) {
+    const aiMatch = isAIRole(title, description);
+    if (aiMatch) {
+      return {
+        channelId: CHANNEL_CONFIG.ai,
+        category: 'ai',
+        matchedKeyword: aiMatch.keyword,
+        matchType: 'ai-specialized',
+        priority: 'CRITICAL',
+        matchedText: aiMatch.matchedText,
+        source: title.includes(aiMatch.matchedText) ? 'title' : 'description'
+      };
+    }
+  }
+
+  // ============================================================================
+  // PRIORITY 0.5 (CRITICAL): Data Science Roles (if DS channel configured)
+  // ============================================================================
+  if (CHANNEL_CONFIG['data-science']) {
+    const dsMatch = isDataScienceRole(title, description);
+    if (dsMatch) {
+      return {
+        channelId: CHANNEL_CONFIG['data-science'],
+        category: 'data-science',
+        matchedKeyword: dsMatch.keyword,
+        matchType: 'data-science-specialized',
+        priority: 'CRITICAL',
+        matchedText: dsMatch.matchedText,
+        source: title.includes(dsMatch.matchedText) ? 'title' : 'description'
+      };
+    }
+  }
+
+  // ============================================================================
+  // PRIORITY 1 (HIGHEST): Tech Title Detection (other tech roles)
   // ============================================================================
   const techMatch = isTechRole(title);
   if (techMatch) {
@@ -319,5 +415,7 @@ module.exports = {
   getJobChannel,
   // Export helper functions for testing
   isTechRole,
-  isNonTechRole
+  isNonTechRole,
+  isAIRole,
+  isDataScienceRole
 };

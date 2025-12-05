@@ -25,6 +25,8 @@ const GUILD_ID = process.env.DISCORD_GUILD_ID;
 // Multi-channel configuration for forum channels
 const CHANNEL_CONFIG = {
   'tech': process.env.DISCORD_TECH_CHANNEL_ID,
+  'ai': process.env.DISCORD_AI_CHANNEL_ID,
+  'data-science': process.env.DISCORD_DS_CHANNEL_ID,
   'sales': process.env.DISCORD_SALES_CHANNEL_ID,
   'marketing': process.env.DISCORD_MARKETING_CHANNEL_ID,
   'finance': process.env.DISCORD_FINANCE_CHANNEL_ID,

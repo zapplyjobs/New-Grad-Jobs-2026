@@ -1,8 +1,13 @@
 #!/usr/bin/env node
 
 /**
- * Discord Channel Cleanup Script
+ * Discord Channel Cleanup Script (FIXED VERSION)
  * Deletes job posts from specified Discord channels
+ *
+ * FIXES:
+ * 1. Fetches ALL archived threads (not just 100)
+ * 2. Adds monitoring for thread counts before/after
+ * 3. Better logging for debugging
  *
  * Usage:
  *   - Set DELETE_ALL_CHANNELS=true to clean all category channels
@@ -34,7 +39,9 @@ const CATEGORY_CHANNELS = {
   product: process.env.DISCORD_PRODUCT_CHANNEL_ID,
   'supply-chain': process.env.DISCORD_SUPPLY_CHANNEL_ID,
   'project-management': process.env.DISCORD_PM_CHANNEL_ID,
-  hr: process.env.DISCORD_HR_CHANNEL_ID
+  hr: process.env.DISCORD_HR_CHANNEL_ID,
+  ai: process.env.DISCORD_AI_CHANNEL_ID,
+  'data-science': process.env.DISCORD_DS_CHANNEL_ID
 };
 
 // Create Discord client
@@ -52,41 +59,71 @@ const client = new Client({
  * @param {Object} timeFilter - Time filtering options
  * @param {Date|null} timeFilter.newerThan - Delete posts newer than this time
  * @param {Date|null} timeFilter.olderThan - Delete posts older than this time
- * @returns {number} Number of messages deleted
+ * @returns {Object} Cleanup statistics
  */
 async function cleanupChannel(channel, timeFilter = {}) {
   console.log(`\n🔍 Scanning channel: ${channel.name} (${channel.id})`);
 
   let deletedCount = 0;
   let scannedCount = 0;
+  let skippedCount = 0;
 
   try {
-    // Fetch threads (forum posts)
+    // Fetch active threads
     const threads = await channel.threads.fetchActive();
     const allThreads = threads.threads;
+    const initialActiveCount = allThreads.size;
 
-    // Also fetch archived threads if needed
-    const olderThan = timeFilter.olderThan;
-    if (!olderThan || (Date.now() - olderThan.getTime()) > 7 * 24 * 60 * 60 * 1000) {
-      const archivedThreads = await channel.threads.fetchArchived({ limit: 100 });
+    console.log(`📊 Initial scan: ${initialActiveCount} active threads`);
+
+    // Fetch ALL archived threads (paginate through all pages)
+    let hasMore = true;
+    let fetchedArchived = 0;
+    let lastThreadId = null;
+
+    console.log('🔄 Fetching archived threads...');
+    while (hasMore) {
+      const options = { limit: 100 };
+      if (lastThreadId) {
+        options.before = lastThreadId;
+      }
+
+      const archivedThreads = await channel.threads.fetchArchived(options);
       archivedThreads.threads.forEach((thread, id) => {
         allThreads.set(id, thread);
+        lastThreadId = id;
       });
+
+      fetchedArchived += archivedThreads.threads.size;
+      hasMore = archivedThreads.hasMore;
+
+      if (archivedThreads.threads.size > 0) {
+        console.log(`   📦 Fetched ${archivedThreads.threads.size} archived threads (total: ${fetchedArchived})`);
+      }
+
+      // Discord rate limiting: wait between pagination requests
+      if (hasMore) {
+        await new Promise(resolve => setTimeout(resolve, 500));
+      }
     }
 
-    console.log(`📋 Found ${allThreads.size} threads in channel`);
+    console.log(`📋 Total threads in channel: ${allThreads.size} (${initialActiveCount} active + ${fetchedArchived} archived)`);
+    console.log('');
 
+    // Process threads
     for (const [threadId, thread] of allThreads) {
       scannedCount++;
 
       // Check if thread is within time range
       // For "newer than" mode (HOURS_AGO): delete if created AFTER cutoff
       if (timeFilter.newerThan && thread.createdTimestamp < timeFilter.newerThan.getTime()) {
+        skippedCount++;
         continue;
       }
 
       // For "older than" mode (OLDER_THAN_HOURS): delete if created BEFORE cutoff
       if (timeFilter.olderThan && thread.createdTimestamp > timeFilter.olderThan.getTime()) {
+        skippedCount++;
         continue;
       }
 
@@ -114,15 +151,26 @@ async function cleanupChannel(channel, timeFilter = {}) {
     console.error(`❌ Error scanning channel: ${error.message}`);
   }
 
-  console.log(`📊 Channel summary: Scanned ${scannedCount}, Deleted ${deletedCount}`);
-  return deletedCount;
+  console.log('');
+  console.log(`📊 Channel summary:`);
+  console.log(`   Total threads: ${scannedCount}`);
+  console.log(`   Skipped (too new): ${skippedCount}`);
+  console.log(`   Deleted: ${deletedCount}`);
+  console.log(`   Remaining: ${scannedCount - deletedCount}`);
+
+  return {
+    scanned: scannedCount,
+    deleted: deletedCount,
+    skipped: skippedCount,
+    remaining: scannedCount - deletedCount
+  };
 }
 
 /**
  * Main cleanup function
  */
 async function cleanup() {
-  console.log('🚀 Discord Channel Cleanup Script');
+  console.log('🚀 Discord Channel Cleanup Script (FIXED VERSION)');
   console.log('==================================\n');
 
   if (!DISCORD_TOKEN) {
@@ -183,23 +231,28 @@ async function cleanup() {
     });
   });
 
-// Fetch guild (auto-detect if GUILD_ID not provided)
+  // Auto-detect guild if not specified
   let guild;
   if (DISCORD_GUILD_ID) {
     guild = await client.guilds.fetch(DISCORD_GUILD_ID);
   } else {
-    // Auto-detect: use first guild bot is member of
-    if (client.guilds.cache.size === 0) {
-      console.error('❌ Error: Bot is not a member of any guilds');
+    console.log('🔍 Auto-detecting guild (bot is in 1 guild(s))');
+    const guilds = await client.guilds.fetch();
+    if (guilds.size === 0) {
+      console.error('❌ Error: Bot is not in any guilds');
       process.exit(1);
     }
-    guild = client.guilds.cache.first();
-    console.log(`🔍 Auto-detected guild (bot is in ${client.guilds.cache.size} guild(s))`);
+    guild = guilds.first();
   }
+
   console.log(`📍 Guild: ${guild.name} (${guild.id})\n`);
 
   // Clean each channel
   let totalDeleted = 0;
+  let totalScanned = 0;
+  let totalRemaining = 0;
+  const channelStats = [];
+
   for (const { name, id } of channelsToClean) {
     try {
       const channel = await guild.channels.fetch(id);
@@ -208,8 +261,15 @@ async function cleanup() {
         continue;
       }
 
-      const deleted = await cleanupChannel(channel, timeFilter);
-      totalDeleted += deleted;
+      const stats = await cleanupChannel(channel, timeFilter);
+      totalDeleted += stats.deleted;
+      totalScanned += stats.scanned;
+      totalRemaining += stats.remaining;
+
+      channelStats.push({
+        name: channel.name,
+        ...stats
+      });
 
     } catch (error) {
       console.error(`❌ Error processing channel ${id}: ${error.message}`);
@@ -221,10 +281,17 @@ async function cleanup() {
   console.log('📊 CLEANUP SUMMARY');
   console.log('==================================');
   console.log(`Channels processed: ${channelsToClean.length}`);
-  console.log(`Total posts deleted: ${totalDeleted}`);
+  console.log(`Total threads scanned: ${totalScanned}`);
+  console.log(`Total threads deleted: ${totalDeleted}`);
+  console.log(`Total threads remaining: ${totalRemaining}`);
   if (DRY_RUN) {
     console.log('🔍 DRY RUN: No actual deletions were made');
   }
+  console.log('');
+  console.log('📊 PER-CHANNEL BREAKDOWN:');
+  channelStats.forEach(stat => {
+    console.log(`   ${stat.name}: ${stat.remaining} remaining (deleted ${stat.deleted} of ${stat.scanned})`);
+  });
   console.log('==================================\n');
 
   client.destroy();
