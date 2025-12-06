@@ -162,12 +162,68 @@ class JobsDataExporter {
     existingData.metadata.lastUpdated = new Date().toISOString();
     existingData.metadata.totalJobs = existingData.jobs.length;
 
+    // ALWAYS encrypt for Git commits (protects Git history and data sources)
     const encryptedData = this.encrypt(existingData);
     fs.writeFileSync(this.outputPath, JSON.stringify(encryptedData, null, 2));
 
     console.log(`✅ Export complete: Added ${addedCount}, Skipped ${skippedCount}, Total ${existingData.metadata.totalJobs}`);
 
+    // HYBRID ENCRYPTION: Optionally create plaintext debug logs (GitHub Actions artifacts only, NOT committed to Git)
+    const CREATE_DEBUG_LOGS = process.env.CREATE_DEBUG_LOGS === 'true';
+    if (CREATE_DEBUG_LOGS) {
+      this.savePlaintextDebug(existingData, addedCount, skippedCount);
+    }
+
     return { success: true, added: addedCount, skipped: skippedCount, total: existingData.metadata.totalJobs };
+  }
+
+  /**
+   * Save plaintext debug log for GitHub Actions artifacts
+   * WARNING: This file is NOT committed to Git (excluded by .gitignore)
+   * Only created when CREATE_DEBUG_LOGS=true environment variable is set
+   * @param {Object} data - Complete jobs data (metadata + jobs array)
+   * @param {number} addedCount - Jobs added this run
+   * @param {number} skippedCount - Jobs skipped this run
+   */
+  savePlaintextDebug(data, addedCount, skippedCount) {
+    const logsDir = path.join(process.cwd(), '.github', 'logs');
+    if (!fs.existsSync(logsDir)) {
+      fs.mkdirSync(logsDir, { recursive: true });
+    }
+
+    const timestamp = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    const outputPath = path.join(logsDir, `jobs-debug-${timestamp}.log`);
+
+    // Format for easy reading
+    const debugOutput = {
+      metadata: {
+        ...data.metadata,
+        generated: new Date().toISOString(),
+        addedThisRun: addedCount,
+        skippedThisRun: skippedCount,
+        warning: 'DEBUG LOG - Not committed to Git (GitHub Actions artifact only)'
+      },
+      jobs: data.jobs,
+      categoryBreakdown: this.getCategoryBreakdown(data.jobs)
+    };
+
+    fs.writeFileSync(outputPath, JSON.stringify(debugOutput, null, 2));
+    console.log(`📊 Debug log saved (GitHub Actions artifact): ${outputPath}`);
+    console.log(`   ⚠️  NOT committed to Git (excluded by .gitignore)`);
+  }
+
+  /**
+   * Get category breakdown statistics
+   * @param {Array} jobs - Array of job objects
+   * @returns {Object} Category counts
+   */
+  getCategoryBreakdown(jobs) {
+    const breakdown = {};
+    jobs.forEach(job => {
+      const category = job.category || 'Uncategorized';
+      breakdown[category] = (breakdown[category] || 0) + 1;
+    });
+    return breakdown;
   }
 
   getJobs(filters = {}) {

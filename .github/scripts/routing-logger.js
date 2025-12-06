@@ -83,7 +83,7 @@ class RoutingLogger {
     // Append new entries
     allLogs.push(...this.routingLog);
 
-    // Encrypt and save combined logs
+    // ALWAYS encrypt for Git commits (protects Git history)
     const encryptedData = encryptLog(allLogs, password);
     fs.writeFileSync(outputPath, JSON.stringify(encryptedData, null, 2));
 
@@ -91,6 +91,42 @@ class RoutingLogger {
     console.log(`   New entries: ${this.routingLog.length}`);
     console.log(`   Total entries: ${allLogs.length}`);
     console.log(`   Timestamp: ${encryptedData.timestamp}`);
+
+    // HYBRID ENCRYPTION: Optionally create plaintext debug logs (GitHub Actions artifacts only, NOT committed to Git)
+    const CREATE_DEBUG_LOGS = process.env.CREATE_DEBUG_LOGS === 'true';
+    if (CREATE_DEBUG_LOGS) {
+      this.savePlaintextDebug(allLogs);
+    }
+  }
+
+  /**
+   * Save plaintext debug log for GitHub Actions artifacts
+   * WARNING: This file is NOT committed to Git (excluded by .gitignore)
+   * Only created when CREATE_DEBUG_LOGS=true environment variable is set
+   * @param {Array} allLogs - Complete routing log data
+   */
+  savePlaintextDebug(allLogs) {
+    const logsDir = path.join(process.cwd(), '.github', 'logs');
+    fs.mkdirSync(logsDir, { recursive: true });
+
+    const timestamp = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    const outputPath = path.join(logsDir, `routing-debug-${timestamp}.log`);
+
+    // Format for easy reading
+    const debugOutput = {
+      metadata: {
+        generated: new Date().toISOString(),
+        totalEntries: allLogs.length,
+        newEntries: this.routingLog.length,
+        warning: 'DEBUG LOG - Not committed to Git (GitHub Actions artifact only)'
+      },
+      routing: allLogs,
+      summary: this.getSummary()
+    };
+
+    fs.writeFileSync(outputPath, JSON.stringify(debugOutput, null, 2));
+    console.log(`📊 Debug log saved (GitHub Actions artifact): ${outputPath}`);
+    console.log(`   ⚠️  NOT committed to Git (excluded by .gitignore)`);
   }
 
   /**
