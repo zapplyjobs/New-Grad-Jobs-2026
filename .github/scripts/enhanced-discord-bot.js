@@ -303,7 +303,9 @@ function buildJobEmbed(job) {
         name: '📍 Location',
         value: job._multipleLocations && job._multipleLocations.length > 1
           ? job._multipleLocations.map(loc => loc.charAt(0).toUpperCase() + loc.slice(1)).join(', ')
-          : `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`,
+          : (job.job_city && job.job_city.toLowerCase() === 'remote')
+            ? 'Remote'
+            : `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`,
         inline: true
       },
       { name: '💰 Posted', value: formatPostedDate(job.job_posted_at_datetime_utc), inline: true }
