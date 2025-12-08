@@ -31,7 +31,7 @@ const CLIENT_ID = process.env.DISCORD_CLIENT_ID;
 const GUILD_ID = process.env.DISCORD_GUILD_ID;
 
 // Load company data for tier detection
-const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
+const companies = JSON.parse(fs.readFileSync(path.join(__dirname, 'job-fetcher', 'companies.json'), 'utf8'));
 
 // Import job ID generation for consistency
 const { generateJobId, generateEnhancedId } = require('./job-fetcher/utils');
