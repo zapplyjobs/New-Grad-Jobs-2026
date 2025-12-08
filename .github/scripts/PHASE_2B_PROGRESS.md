@@ -1,8 +1,8 @@
 # Phase 2B Refactoring - Progress Report
 
-**Date:** December 7, 2025 (Updated: Phase 2B-2 Complete)
+**Date:** December 7, 2025 (Updated: Phase 2B Complete with Bug Fixes)
 **Branch:** refactor/phase-2b-full-refactoring
-**Status:** ✅ PHASE 2B COMPLETE (Module extraction + Integration)
+**Status:** ✅ PHASE 2B COMPLETE (Extraction + Integration + Bug Fixes)
 
 ---
 
@@ -84,6 +84,54 @@
 - Pre-commit hooks bypassed (--no-verify) - eslint config needs src/ folder added
 - Integration guide (INTEGRATION_GUIDE.md) provided detailed step-by-step process
 - Backup file created (enhanced-discord-bot.js.backup) for safety
+
+---
+
+## ✅ Phase 2B-3: Bug Fixes (COMPLETE)
+
+**Completed:** December 7, 2025
+**Commit:** 54d1439b - "fix: resolve companies.json path resolution error"
+
+**Issue Found:** Pre-existing critical bug discovered during integration testing
+
+### Bug #1: companies.json Path Resolution Error
+
+**Problem:**
+- Line 34 used relative path: `'./.github/scripts/job-fetcher/companies.json'`
+- Path resolved from cwd, not script location
+- When bot runs from `.github/scripts/`, path doubled: `.github/scripts/.github/scripts/...`
+- Caused `ENOENT` error (file not found) at runtime
+
+**Root Cause:**
+- Relative paths with `./` resolve from current working directory
+- Bot script location: `.github/scripts/enhanced-discord-bot.js`
+- Execution from `.github/scripts/` caused path doubling
+
+**Solution:**
+- Changed to: `path.join(__dirname, 'job-fetcher', 'companies.json')`
+- `__dirname` always points to script's directory
+- Works regardless of current working directory
+
+**Verification:**
+- **Before Fix:** ENOENT error on companies.json
+- **After Fix:** File loads successfully, bot reaches Discord login
+- Error progression from ENOENT → TokenInvalid proves fix works
+
+**Path Audit Results:**
+- Audited all `fs.readFileSync()` and `require()` calls
+- **Total Issues Found:** 1
+- **Total Issues Fixed:** 1
+- All other paths use correct resolution methods
+
+**Documentation:**
+- Created `BUG_FIXES.md` with comprehensive analysis
+- Documented problem, root cause, solution, verification
+- Included lessons learned and testing checklist
+
+**Impact:**
+- **Critical fix** - Bot would crash immediately on startup before this
+- Pre-existing bug (not caused by refactoring)
+- Bot now loads successfully and reaches Discord login
 
 ---
 
@@ -201,23 +249,31 @@ const SubscriptionManager = require('./src/data/subscription-manager');
 - ✅ 6 modules extracted
 - ✅ Bot file reduced to 1,094 lines (31.5% reduction from 1,596)
 - ✅ All imports working (syntax validated, modules load successfully)
-- ⏳ Workflow runs successfully (pending production test)
+- ✅ Critical path bug fixed (companies.json now loads successfully)
+- ✅ Bot file loads without errors (reaches Discord login as expected)
+- ⏳ Workflow runs successfully (pending production test with Discord token)
 
 **Code Quality:**
 - ✅ Single-purpose modules (1 concern per file)
 - ✅ No version proliferation (1 canonical router)
 - ✅ Clear separation of concerns (data, routing, utils, discord config)
 - ✅ Maintainable file sizes (all modules <500 lines)
+- ✅ Path resolution issues audited and fixed
 
 **Team Impact:**
 - ✅ Router confusion eliminated
 - ✅ Debugging time reduced (can debug individual modules)
 - ✅ Onboarding simplified (smaller, focused files)
 - ✅ Testing easier (can unit test modules in isolation)
+- ✅ Pre-existing bugs discovered and fixed during refactoring
 
 ---
 
-**Final Status:** ✅ PHASE 2B COMPLETE
-**Time spent:** ~3 hours (module extraction + integration + testing)
-**Commits:** 2 commits (5d571831 extraction, 6e410fc0 integration)
-**Next milestone:** Test in production & merge to main
+**Final Status:** ✅ PHASE 2B COMPLETE (Extraction + Integration + Bug Fixes)
+**Time spent:** ~4 hours (module extraction + integration + testing + bug fixes)
+**Commits:**
+- 5d571831 - Module extraction (6 modules created)
+- 6e410fc0 - Integration (bot file reduced 31.5%)
+- b4e4375d - Progress documentation update
+- 54d1439b - Critical bug fix (companies.json path)
+**Next milestone:** Test in production with Discord token & merge to main
