@@ -299,7 +299,13 @@ function buildJobEmbed(job) {
     .setColor(0x00A8E8)
     .addFields(
       { name: '🏢 Company', value: job.employer_name || 'Not specified', inline: true },
-      { name: '📍 Location', value: `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`, inline: true },
+      {
+        name: '📍 Location',
+        value: job._multipleLocations && job._multipleLocations.length > 1
+          ? job._multipleLocations.map(loc => loc.charAt(0).toUpperCase() + loc.slice(1)).join(', ')
+          : `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`,
+        inline: true
+      },
       { name: '💰 Posted', value: formatPostedDate(job.job_posted_at_datetime_utc), inline: true }
     );
 
@@ -561,12 +567,13 @@ client.once('ready', async () => {
 
   console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${unpostedJobs.length - filteredJobs.length} blacklisted)`);
 
-  // Title+Company+Location deduplication: Post only FIRST occurrence of each unique job
-  // This reduces perceived duplicates (e.g., 11 "Agentic AI Teacher @ Amazon, Boston" posts → 1 post)
-  // Jobs with different URLs but same title+company+location are legitimately different, but create Discord spam
-  const seenTitleCompanyLocation = new Set();
-  const dedupedJobs = filteredJobs.filter(job => {
-    // Normalize title, company, and location for comparison
+  // Multi-location grouping: Group jobs by title+company, collect all unique locations
+  // Instead of posting the same job 3 times for 3 cities, post once with all locations listed
+  // Example: "Software Engineer @ Google" in Boston, Seattle, Austin → 1 post with "Locations: Boston, Seattle, Austin"
+  const jobGroupsMap = new Map();
+
+  for (const job of filteredJobs) {
+    // Normalize title and company for grouping
     // Strip team name suffixes (e.g., "- Agi Ds", "- Platform Team") before normalizing
     const title = (job.job_title || '')
       .replace(/\s+-\s+[^-]+$/, '') // Remove team name suffix pattern: " - TeamName"
@@ -575,6 +582,8 @@ client.once('ready', async () => {
       .replace(/\s+/g, ' ')
       .replace(/[^\w\s-]/g, '');
     const company = (job.employer_name || '').toLowerCase().trim();
+
+    const groupKey = `${title}|${company}`;
 
     // Normalize location to handle variations (e.g., "San Francisco, CA" vs "San Francisco")
     let location = (job.job_city || '').toLowerCase().trim();
@@ -589,20 +598,44 @@ client.once('ready', async () => {
     // Trim again after modifications
     location = location.trim();
 
-    const key = `${title}|${company}|${location}`;
-
-    if (seenTitleCompanyLocation.has(key)) {
-      console.log(`⏭️ Skipping duplicate title+company+location: ${job.job_title} at ${job.employer_name}, ${job.job_city} (already posting one with this combination)`);
-      return false;
+    if (!jobGroupsMap.has(groupKey)) {
+      // First job in this group - use it as the primary job
+      jobGroupsMap.set(groupKey, {
+        primaryJob: job,
+        locations: new Set([location]),
+        allJobs: [job] // Track all jobs for deduplication
+      });
+    } else {
+      // Additional location for existing job group
+      const group = jobGroupsMap.get(groupKey);
+      group.locations.add(location);
+      group.allJobs.push(job);
     }
+  }
 
-    seenTitleCompanyLocation.add(key);
-    return true;
+  // Convert grouped jobs to array for posting
+  const dedupedJobs = Array.from(jobGroupsMap.values()).map(group => {
+    // Attach location array to primary job for Discord formatting
+    const jobWithLocations = {
+      ...group.primaryJob,
+      _multipleLocations: Array.from(group.locations).filter(loc => loc), // Remove empty strings
+      _allJobVariants: group.allJobs // Track all variants for deduplication
+    };
+    return jobWithLocations;
   });
 
-  console.log(`📋 After title+company+location dedup: ${dedupedJobs.length} unique jobs to post`);
+  console.log(`📋 After multi-location grouping: ${dedupedJobs.length} unique jobs to post`);
   if (filteredJobs.length - dedupedJobs.length > 0) {
-    console.log(`   (${filteredJobs.length - dedupedJobs.length} skipped as duplicate title+company+location combinations)`);
+    console.log(`   (${filteredJobs.length - dedupedJobs.length} grouped as same job with different locations)`);
+  }
+
+  // Log multi-location jobs for visibility
+  const multiLocationJobs = dedupedJobs.filter(job => job._multipleLocations && job._multipleLocations.length > 1);
+  if (multiLocationJobs.length > 0) {
+    console.log(`📍 ${multiLocationJobs.length} jobs with multiple locations:`);
+    multiLocationJobs.forEach(job => {
+      console.log(`   - ${job.job_title} @ ${job.employer_name}: ${job._multipleLocations.join(', ')}`);
+    });
   }
 
   // Limit to 50 jobs per workflow run to prevent channel overflow and timeouts
@@ -733,6 +766,17 @@ client.once('ready', async () => {
         // Mark as posted if at least one post succeeded
         if (jobPostedSuccessfully) {
           postedJobsManager.markAsPosted(jobId);
+          
+          // Also mark all location variants as posted (for multi-location grouping)
+          if (job._allJobVariants && job._allJobVariants.length > 1) {
+            job._allJobVariants.forEach(variant => {
+              const variantId = generateJobId(variant);
+              if (variantId !== jobId) {
+                postedJobsManager.markAsPosted(variantId);
+              }
+            });
+          }
+          
           totalPosted++;
         } else {
           totalFailed++;
@@ -788,6 +832,16 @@ client.once('ready', async () => {
 
         // Mark this job as posted AFTER successful posting
         postedJobsManager.markAsPosted(jobId);
+        
+        // Also mark all location variants as posted (for multi-location grouping)
+        if (job._allJobVariants && job._allJobVariants.length > 1) {
+          job._allJobVariants.forEach(variant => {
+            const variantId = generateJobId(variant);
+            if (variantId !== jobId) {
+              postedJobsManager.markAsPosted(variantId);
+            }
+          });
+        }
 
         console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
 
