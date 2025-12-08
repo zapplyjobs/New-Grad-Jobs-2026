@@ -29,9 +29,12 @@ const HOURS_AGO = process.env.HOURS_AGO ? parseInt(process.env.HOURS_AGO) : null
 const OLDER_THAN_HOURS = process.env.OLDER_THAN_HOURS ? parseInt(process.env.OLDER_THAN_HOURS) : null;
 const DRY_RUN = process.env.DRY_RUN === 'true';
 
-// Category channel IDs (for DELETE_ALL_CHANNELS mode)
+// All channel IDs (for DELETE_ALL_CHANNELS mode)
 const CATEGORY_CHANNELS = {
+  // Category channels
   tech: process.env.DISCORD_TECH_CHANNEL_ID,
+  ai: process.env.DISCORD_AI_CHANNEL_ID,
+  'data-science': process.env.DISCORD_DS_CHANNEL_ID,
   sales: process.env.DISCORD_SALES_CHANNEL_ID,
   marketing: process.env.DISCORD_MARKETING_CHANNEL_ID,
   finance: process.env.DISCORD_FINANCE_CHANNEL_ID,
@@ -40,8 +43,19 @@ const CATEGORY_CHANNELS = {
   'supply-chain': process.env.DISCORD_SUPPLY_CHANNEL_ID,
   'project-management': process.env.DISCORD_PM_CHANNEL_ID,
   hr: process.env.DISCORD_HR_CHANNEL_ID,
-  ai: process.env.DISCORD_AI_CHANNEL_ID,
-  'data-science': process.env.DISCORD_DS_CHANNEL_ID
+  // Location channels
+  'remote-usa': process.env.DISCORD_REMOTE_USA_CHANNEL_ID,
+  'new-york': process.env.DISCORD_NY_CHANNEL_ID,
+  'austin': process.env.DISCORD_AUSTIN_CHANNEL_ID,
+  'chicago': process.env.DISCORD_CHICAGO_CHANNEL_ID,
+  'seattle': process.env.DISCORD_SEATTLE_CHANNEL_ID,
+  'redmond': process.env.DISCORD_REDMOND_CHANNEL_ID,
+  'mountain-view': process.env.DISCORD_MV_CHANNEL_ID,
+  'san-francisco': process.env.DISCORD_SF_CHANNEL_ID,
+  'sunnyvale': process.env.DISCORD_SUNNYVALE_CHANNEL_ID,
+  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID,
+  'boston': process.env.DISCORD_BOSTON_CHANNEL_ID,
+  'los-angeles': process.env.DISCORD_LA_CHANNEL_ID
 };
 
 // Create Discord client
