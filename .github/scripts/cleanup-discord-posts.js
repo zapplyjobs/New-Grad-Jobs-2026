@@ -27,6 +27,7 @@ const DELETE_ALL_CHANNELS = process.env.DELETE_ALL_CHANNELS === 'true';
 const CHANNEL_IDS = process.env.CHANNEL_IDS ? process.env.CHANNEL_IDS.split(',').map(id => id.trim()) : [];
 const HOURS_AGO = process.env.HOURS_AGO ? parseInt(process.env.HOURS_AGO) : null;
 const OLDER_THAN_HOURS = process.env.OLDER_THAN_HOURS ? parseInt(process.env.OLDER_THAN_HOURS) : null;
+const NUCLEAR_MODE = process.env.NUCLEAR_MODE === 'true';
 const DRY_RUN = process.env.DRY_RUN === 'true';
 
 // All channel IDs (for DELETE_ALL_CHANNELS mode)
@@ -198,6 +199,24 @@ async function cleanup() {
 
   if (DRY_RUN) {
     console.log('🔍 DRY RUN MODE: No messages will be deleted\n');
+  }
+
+  // Safety check: Prevent accidental full deletion without explicit confirmation
+  if (!NUCLEAR_MODE && !HOURS_AGO && !OLDER_THAN_HOURS) {
+    console.error('❌ SAFETY ERROR: Cannot delete ALL posts without NUCLEAR_MODE enabled!');
+    console.error('');
+    console.error('For routine cleanup, use time filters:');
+    console.error('  - OLDER_THAN_HOURS=168 (delete posts older than 7 days)');
+    console.error('  - HOURS_AGO=24 (delete posts from last 24 hours)');
+    console.error('');
+    console.error('For full deletion (⚠️ DANGER), set NUCLEAR_MODE=true');
+    process.exit(1);
+  }
+
+  if (NUCLEAR_MODE) {
+    console.log('⚠️  ⚠️  ⚠️  NUCLEAR MODE ENABLED ⚠️  ⚠️  ⚠️');
+    console.log('🔥 Will delete ALL threads regardless of age');
+    console.log('');
   }
 
   // Determine which channels to clean
