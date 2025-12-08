@@ -1077,7 +1077,19 @@ client.once('ready', async () => {
       .replace(/\s+/g, ' ')
       .replace(/[^\w\s-]/g, '');
     const company = (job.employer_name || '').toLowerCase().trim();
-    const location = (job.job_city || '').toLowerCase().trim();
+
+    // Normalize location to handle variations (e.g., "San Francisco, CA" vs "San Francisco")
+    let location = (job.job_city || '').toLowerCase().trim();
+    // Remove state abbreviations (", CA", ", NY", etc.)
+    location = location.replace(/,\s*[a-z]{2}$/i, '');
+    // Remove "city" suffix
+    location = location.replace(/\s+city$/i, '');
+    // Standardize "Remote" variations (remote, REMOTE, Remote - USA, etc.)
+    if (location.includes('remote')) {
+      location = 'remote';
+    }
+    // Trim again after modifications
+    location = location.trim();
 
     const key = `${title}|${company}|${location}`;
 
