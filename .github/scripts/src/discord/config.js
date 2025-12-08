@@ -31,7 +31,9 @@ const LOCATION_CHANNEL_CONFIG = {
   'mountain-view': process.env.DISCORD_MV_CHANNEL_ID,
   'san-francisco': process.env.DISCORD_SF_CHANNEL_ID,
   'sunnyvale': process.env.DISCORD_SUNNYVALE_CHANNEL_ID,
-  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID
+  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID,
+  'boston': process.env.DISCORD_BOSTON_CHANNEL_ID,
+  'los-angeles': process.env.DISCORD_LA_CHANNEL_ID
 };
 
 // Legacy single channel support
