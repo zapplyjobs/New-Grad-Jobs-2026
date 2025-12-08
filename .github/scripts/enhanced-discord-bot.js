@@ -523,6 +523,8 @@ client.once('ready', async () => {
     }
   } catch (error) {
     console.log('ℹ️ No new jobs file found or error reading it');
+    console.error('🔍 DEBUG - Full error:', error.message);
+    console.error('🔍 DEBUG - Error stack:', error.stack);
     client.destroy();
     process.exit(0);
     return;
