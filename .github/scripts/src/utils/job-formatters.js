@@ -72,6 +72,13 @@ function cleanJobDescription(description, format) {
   // If description is too short after cleaning, return null
   if (cleaned.length < 20) return null;
 
+  // Discord embed field value limit is 1024 characters
+  // Truncate to 1000 chars to leave room for ellipsis
+  const MAX_LENGTH = 1000;
+  if (cleaned.length > MAX_LENGTH) {
+    cleaned = cleaned.substring(0, MAX_LENGTH).trim() + '...';
+  }
+
   return cleaned;
 }
 
