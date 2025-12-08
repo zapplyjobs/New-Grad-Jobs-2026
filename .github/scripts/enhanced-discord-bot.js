@@ -30,6 +30,9 @@ const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID; // Legacy single channel supp
 const CLIENT_ID = process.env.DISCORD_CLIENT_ID;
 const GUILD_ID = process.env.DISCORD_GUILD_ID;
 
+// Data paths
+const dataDir = path.join(process.cwd(), '.github', 'data');
+
 // Load company data for tier detection
 const companies = JSON.parse(fs.readFileSync(path.join(__dirname, 'job-fetcher', 'companies.json'), 'utf8'));
 
