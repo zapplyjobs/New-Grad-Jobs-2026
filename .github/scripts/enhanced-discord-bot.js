@@ -21,7 +21,7 @@ const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG, LEGACY_CHANNEL_ID, MULTI_CHANNE
 const { getJobChannelDetails } = require('./src/routing/router');
 const { normalizeJob } = require('./src/utils/job-normalizer');
 const { formatPostedDate, cleanJobDescription } = require('./src/utils/job-formatters');
-const PostedJobsManager = require('./src/data/posted-jobs-manager');
+const PostedJobsManager = require('./src/data/posted-jobs-manager-v2');
 const SubscriptionManager = require('./src/data/subscription-manager');
 
 // Environment variables
@@ -742,12 +742,14 @@ client.once('ready', async () => {
           channel.name
         );
         let jobPostedSuccessfully = false;
+        let primaryThreadId = null; // Track thread ID for database
 
         // INDUSTRY POST: Post to industry channel
         const industryResult = await postJobToForum(job, channel);
         if (industryResult.success) {
           console.log(`  ✅ Industry: ${job.job_title} @ ${job.employer_name}`);
           jobPostedSuccessfully = true;
+          primaryThreadId = industryResult.thread?.id || null; // Capture thread ID
           channelFullErrorCount = 0; // Reset counter on success
         } else {
           console.log(`  ❌ Industry post failed: ${job.job_title}`);
@@ -799,18 +801,18 @@ client.once('ready', async () => {
 
         // Mark as posted if at least one post succeeded
         if (jobPostedSuccessfully) {
-          postedJobsManager.markAsPosted(jobId);
-          
+          postedJobsManager.markAsPosted(jobId, job, primaryThreadId);
+
           // Also mark all location variants as posted (for multi-location grouping)
           if (job._allJobVariants && job._allJobVariants.length > 1) {
             job._allJobVariants.forEach(variant => {
               const variantId = generateJobId(variant);
               if (variantId !== jobId) {
-                postedJobsManager.markAsPosted(variantId);
+                postedJobsManager.markAsPosted(variantId, variant, null);
               }
             });
           }
-          
+
           totalPosted++;
         } else {
           totalFailed++;

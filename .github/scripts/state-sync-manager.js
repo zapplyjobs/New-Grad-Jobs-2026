@@ -30,20 +30,18 @@ const STATE_FILES = {
 };
 
 /**
- * Clear posted_jobs.json (reset to empty array)
+ * DEPRECATED: clear_database feature removed
+ * posted_jobs.json now uses automatic 7-day TTL archiving
+ *
+ * This function is kept for backwards compatibility but does nothing.
+ * Old jobs are automatically archived by PostedJobsManagerV2.
  */
 function clearPosted() {
-  console.log('🧹 Clearing posted_jobs.json...');
-
-  if (!fs.existsSync(STATE_FILES.posted)) {
-    console.log('   ℹ️  File does not exist, creating empty file');
-  }
-
-  const emptyState = [];
-  fs.writeFileSync(STATE_FILES.posted, JSON.stringify(emptyState, null, 2));
-
-  console.log('   ✅ posted_jobs.json cleared (reset to empty array)');
-  return true;
+  console.log('⚠️  WARNING: clear_database is deprecated and does nothing');
+  console.log('   posted_jobs.json uses automatic 7-day TTL archiving');
+  console.log('   Old jobs are automatically moved to monthly archive files');
+  console.log('   No manual clearing needed');
+  return false; // Return false to indicate operation was not performed
 }
 
 /**
