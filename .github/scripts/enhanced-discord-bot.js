@@ -601,12 +601,27 @@ client.once('ready', async () => {
 
   console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${unpostedJobs.length - filteredJobs.length} blacklisted)`);
 
+  // Data quality filter: Skip jobs with missing or empty required fields
+  const validJobs = filteredJobs.filter(job => {
+    const title = (job.job_title || '').trim();
+    const company = (job.employer_name || '').trim();
+
+    if (!title || !company) {
+      console.log(`⚠️ Skipping malformed job: title="${title}" company="${company}"`);
+      return false;
+    }
+
+    return true;
+  });
+
+  console.log(`📋 After data quality filter: ${validJobs.length} jobs (${filteredJobs.length - validJobs.length} invalid)`);
+
   // Multi-location grouping: Group jobs by title+company, collect all unique locations
   // Instead of posting the same job 3 times for 3 cities, post once with all locations listed
   // Example: "Software Engineer @ Google" in Boston, Seattle, Austin → 1 post with "Locations: Boston, Seattle, Austin"
   const jobGroupsMap = new Map();
 
-  for (const job of filteredJobs) {
+  for (const job of validJobs) {
     // Normalize title and company for grouping
     // Strip team name suffixes (e.g., "- Agi Ds", "- Platform Team") before normalizing
     const title = (job.job_title || '')
