@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:01:50.640Z",
+  "lastUpdated": "2025-12-12T04:05:59.813Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -111,14 +111,113 @@
       "sourceUrl": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Associate-Enterprise-Data-Analyst_R0006011-1",
       "discordThreadId": "1448887534963920927",
       "instanceNumber": 1
+    },
+    {
+      "id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-research-associate_jr102131-2025-12-12-1",
+      "jobId": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-research-associate_jr102131",
+      "company": "Brookhaven Lab",
+      "title": "Postdoctoral Research Associate",
+      "postedToDiscord": "2025-12-12T04:05:22.918Z",
+      "sourceDate": "2025-12-11T23:54:02.000Z",
+      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR102131",
+      "discordThreadId": "1448888424172884108",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-olsson-jobs-5031025008-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-olsson-jobs-5031025008",
+      "company": "Olsson",
+      "title": "Entry-Level Field Geologist",
+      "postedToDiscord": "2025-12-12T04:05:29.447Z",
+      "sourceDate": "2025-12-11T23:52:42.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/olsson/jobs/5031025008",
+      "discordThreadId": "1448888452400545932",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719-2025-12-12-1",
+      "jobId": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719",
+      "company": "Ryan Specialty",
+      "title": "Business Intelligence Analyst",
+      "postedToDiscord": "2025-12-12T04:05:35.949Z",
+      "sourceDate": "2025-12-11T23:48:01.000Z",
+      "sourceUrl": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719",
+      "discordThreadId": "1448888479751737354",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983-2025-12-12-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Ent",
+      "postedToDiscord": "2025-12-12T04:05:42.587Z",
+      "sourceDate": "2025-12-11T23:44:58.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983",
+      "discordThreadId": "1448888507098730546",
+      "instanceNumber": 1
+    },
+    {
+      "id": "slihrms-wd3-myworkdayjobs-com-careers-job-uscodenver-software-developer_r-136762-1-2025-12-12-1",
+      "jobId": "slihrms-wd3-myworkdayjobs-com-careers-job-uscodenver-software-developer_r-136762-1",
+      "company": "AtkinsRéalis",
+      "title": "Software Developer",
+      "postedToDiscord": "2025-12-12T04:05:46.095Z",
+      "sourceDate": "2025-12-11T23:39:14.000Z",
+      "sourceUrl": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer_R-136762-1",
+      "discordThreadId": "1448888521916944417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "empower-wd12-myworkdayjobs-com-empower-job-co-greenwood-village-associate-software-engineer-starting-summer-2026_r0054978-1-2025-12-12-1",
+      "jobId": "empower-wd12-myworkdayjobs-com-empower-job-co-greenwood-village-associate-software-engineer-starting-summer-2026_r0054978-1",
+      "company": "Empower",
+      "title": "Associate Software Engineer - Starting Summer 2026",
+      "postedToDiscord": "2025-12-12T04:05:49.465Z",
+      "sourceDate": "2025-12-11T23:24:22.000Z",
+      "sourceUrl": "https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Associate-Software-Engineer---starting-Summer-2026_R0054978-1",
+      "discordThreadId": "1448888536718774455",
+      "instanceNumber": 1
+    },
+    {
+      "id": "empower-wd12-myworkdayjobs-com-empower-job-ct-hartford-associate-software-engineer-starting-summer-2026_r0054979-1-2025-12-12-1",
+      "jobId": "empower-wd12-myworkdayjobs-com-empower-job-ct-hartford-associate-software-engineer-starting-summer-2026_r0054979-1",
+      "company": "Empower",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2025-12-12T04:05:49.467Z",
+      "sourceDate": "2025-12-11T23:24:22.000Z",
+      "sourceUrl": "https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Associate-Software-Engineer---starting-Summer-2026_R0054979-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "howard-wd1-myworkdayjobs-com-hu-job-downing-hall-college-of-engineering-research-scientist-post-doc-research-fellow-_jr107708-1-2025-12-12-1",
+      "jobId": "howard-wd1-myworkdayjobs-com-hu-job-downing-hall-college-of-engineering-research-scientist-post-doc-research-fellow-_jr107708-1",
+      "company": "Howard University",
+      "title": "Research Scientist - Post Doc Research Fellow",
+      "postedToDiscord": "2025-12-12T04:05:56.083Z",
+      "sourceDate": "2025-12-11T23:21:11.000Z",
+      "sourceUrl": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/Research-Scientist--Post-Doc-Research-Fellow-_JR107708-1",
+      "discordThreadId": "1448888563432161292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist-engineer_r157087-2025-12-12-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist-engineer_r157087",
+      "company": "Adobe",
+      "title": "Applied Scientist",
+      "postedToDiscord": "2025-12-12T04:05:59.812Z",
+      "sourceDate": "2025-12-11T23:20:49.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist---Engineer_R157087",
+      "discordThreadId": "1448888579240759356",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 10,
+    "totalJobs": 19,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T04:01:50.640Z",
+      "date": "2025-12-12T04:05:59.813Z",
       "archived": 0
     }
   }
