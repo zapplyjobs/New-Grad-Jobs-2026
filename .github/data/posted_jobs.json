@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T07:12:57.928Z",
+  "lastUpdated": "2025-12-12T07:25:55.696Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1057,14 +1057,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556619598",
       "discordThreadId": "1448935631248949330",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-baselayer-jobs-5023888008-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-baselayer-jobs-5023888008",
+      "company": "Baselayer",
+      "title": "Senior Data Engineer",
+      "postedToDiscord": "2025-12-12T07:25:35.522Z",
+      "sourceDate": "2025-12-10T11:06:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/baselayer/jobs/5023888008",
+      "discordThreadId": "1448938809864622264",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pathward-jobs-5722623004-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-pathward-jobs-5722623004",
+      "company": "Pathward",
+      "title": "Data Scientist 1",
+      "postedToDiscord": "2025-12-12T07:25:39.055Z",
+      "sourceDate": "2025-12-10T09:59:38.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pathward/jobs/5722623004",
+      "discordThreadId": "1448938824158674974",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-quest-global-com-global-en-job-p-113946-2025-12-12-1",
+      "jobId": "careers-quest-global-com-global-en-job-p-113946",
+      "company": "Quest Global",
+      "title": "Data Analyst - Python/SQL + Finance knowledge",
+      "postedToDiscord": "2025-12-12T07:25:42.588Z",
+      "sourceDate": "2025-12-10T09:35:56.000Z",
+      "sourceUrl": "https://careers.quest-global.com/global/en/job/P-113946",
+      "discordThreadId": "1448938838864166923",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-equipmentshare-com-careers-openings-2025-12-12-1",
+      "jobId": "www-equipmentshare-com-careers-openings",
+      "company": "EquipmentShare",
+      "title": "MDM – Master Data Management - Parts Specialist",
+      "postedToDiscord": "2025-12-12T07:25:49.101Z",
+      "sourceDate": "2025-12-10T09:47:10.000Z",
+      "sourceUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=7426308",
+      "discordThreadId": "1448938866542379039",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464-2025-12-12-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464",
+      "company": "NVIDIA",
+      "title": "Research Scientist – New College Grad 2026 - Embodied and Agentic AI",
+      "postedToDiscord": "2025-12-12T07:25:55.696Z",
+      "sourceDate": "2025-12-10T08:48:53.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+      "discordThreadId": "1448938893817679914",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 96,
+    "totalJobs": 101,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T07:12:57.928Z",
+      "date": "2025-12-12T07:25:55.696Z",
       "archived": 0
     }
   }
