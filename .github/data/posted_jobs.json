@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T06:07:34.961Z",
+  "lastUpdated": "2025-12-12T06:26:41.242Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -826,14 +826,80 @@
       "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Associate-Salesforce-Developer_2530652",
       "discordThreadId": "1448919177753657497",
       "instanceNumber": 1
+    },
+    {
+      "id": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-technology-delivery-analyst-elevate-_r0067581-2025-12-12-1",
+      "jobId": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-technology-delivery-analyst-elevate-_r0067581",
+      "company": "Huntington Bancshares",
+      "title": "Technology Delivery Analyst - Elevate",
+      "postedToDiscord": "2025-12-12T06:26:21.087Z",
+      "sourceDate": "2025-12-10T16:31:31.000Z",
+      "sourceUrl": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067581",
+      "discordThreadId": "1448923901399797822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cintas-com-job-mason-sap-developer-level-1-oh-45040-1348730900-2025-12-12-1",
+      "jobId": "careers-cintas-com-job-mason-sap-developer-level-1-oh-45040-1348730900",
+      "company": "Cintas",
+      "title": "SAP Developer - Level 1",
+      "postedToDiscord": "2025-12-12T06:26:27.564Z",
+      "sourceDate": "2025-12-10T16:26:46.000Z",
+      "sourceUrl": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-1-OH-45040/1348730900/?ats=successfactors",
+      "discordThreadId": "1448923928474025984",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cintas-com-job-mason-sap-developer-level-1-oh-45040-1348727800-2025-12-12-1",
+      "jobId": "careers-cintas-com-job-mason-sap-developer-level-1-oh-45040-1348727800",
+      "company": "Cintas",
+      "title": "SAP Developer - Level 1",
+      "postedToDiscord": "2025-12-12T06:26:27.567Z",
+      "sourceDate": "2025-12-10T16:26:39.000Z",
+      "sourceUrl": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-1-OH-45040/1348727800/?ats=successfactors",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-boulder-software-engineer-level-2-or-3_r10216455-1-2025-12-12-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-boulder-software-engineer-level-2-or-3_r10216455-1",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Level 2 or 3",
+      "postedToDiscord": "2025-12-12T06:26:31.259Z",
+      "sourceDate": "2025-12-10T15:47:22.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Engineer---Level-2-or-3_R10216455-1",
+      "discordThreadId": "1448923943258951823",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tsys-wd1-myworkdayjobs-com-tsys-job-columbus-georgia-usa-mainframe-software-engineer-i-or-ii_r0067829-2025-12-12-1",
+      "jobId": "tsys-wd1-myworkdayjobs-com-tsys-job-columbus-georgia-usa-mainframe-software-engineer-i-or-ii_r0067829",
+      "company": "Global Payments",
+      "title": "Mainframe Software Engineer 1 or 2",
+      "postedToDiscord": "2025-12-12T06:26:34.710Z",
+      "sourceDate": "2025-12-10T15:07:37.000Z",
+      "sourceUrl": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-II_R0067829",
+      "discordThreadId": "1448923958253584435",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-bentonville-global-tech-ar-bentonville-home-office-senior-analyst-business-support_r-2364373-2025-12-12-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-bentonville-global-tech-ar-bentonville-home-office-senior-analyst-business-support_r-2364373",
+      "company": "Walmart",
+      "title": "Senior Analyst - Business Support",
+      "postedToDiscord": "2025-12-12T06:26:41.242Z",
+      "sourceDate": "2025-12-10T15:11:50.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/Senior-Analyst--Business-Support_R-2364373",
+      "discordThreadId": "1448923985806098603",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 75,
+    "totalJobs": 81,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T06:07:34.961Z",
+      "date": "2025-12-12T06:26:41.242Z",
       "archived": 0
     }
   }
