@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:05:59.813Z",
+  "lastUpdated": "2025-12-12T04:27:19.494Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -210,14 +210,102 @@
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist---Engineer_R157087",
       "discordThreadId": "1448888579240759356",
       "instanceNumber": 1
+    },
+    {
+      "id": "ejcu-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1033-job-4886-2025-12-12-1",
+      "jobId": "ejcu-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1033-job-4886",
+      "company": "Consolidated Edison",
+      "title": "Associate IT BSD OMS Team",
+      "postedToDiscord": "2025-12-12T04:26:50.730Z",
+      "sourceDate": "2025-12-11T23:19:14.000Z",
+      "sourceUrl": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/4886",
+      "discordThreadId": "1448893826323452036",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generalist-embodied-agent-research-new-college-grad-2026_jr2009294-2025-12-12-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generalist-embodied-agent-research-new-college-grad-2026_jr2009294",
+      "company": "NVIDIA",
+      "title": "Research Scientist - Generalist Embodied Agent Research",
+      "postedToDiscord": "2025-12-12T04:26:55.478Z",
+      "sourceDate": "2025-12-11T23:18:35.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generalist-Embodied-Agent-Research---New-College-Grad-2026_JR2009294",
+      "discordThreadId": "1448893853825368195",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89411491904-2025-12-12-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89411491904",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-12T04:26:59.144Z",
+      "sourceDate": "2025-12-11T23:18:13.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89411491904",
+      "discordThreadId": "1448893860943106048",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-i-27595-89415815104-2025-12-12-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-i-27595-89415815104",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-12T04:26:59.146Z",
+      "sourceDate": "2025-12-11T23:18:07.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-i/27595/89415815104",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "erhk-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_4-job-37853-2025-12-12-1",
+      "jobId": "erhk-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_4-job-37853",
+      "company": "R+L Global Logistics",
+      "title": "Data Analyst",
+      "postedToDiscord": "2025-12-12T04:27:05.741Z",
+      "sourceDate": "2025-12-11T23:16:57.000Z",
+      "sourceUrl": "https://erhk.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/37853",
+      "discordThreadId": "1448893889179156480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-73987-2025-12-12-1",
+      "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-73987",
+      "company": "Caesars Entertainment",
+      "title": "Graduate Data Scientist",
+      "postedToDiscord": "2025-12-12T04:27:09.655Z",
+      "sourceDate": "2025-12-11T23:15:38.000Z",
+      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73987",
+      "discordThreadId": "1448893904433971222",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-scitec-j-301788b4bf-apply-2025-12-12-1",
+      "jobId": "apply-workable-com-scitec-j-301788b4bf-apply",
+      "company": "SciTec",
+      "title": "Associate / Staff Mission Data Analyst",
+      "postedToDiscord": "2025-12-12T04:27:13.060Z",
+      "sourceDate": "2025-12-11T23:11:25.000Z",
+      "sourceUrl": "https://apply.workable.com/scitec/j/301788B4BF/apply",
+      "discordThreadId": "1448893920124600321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556640339-2025-12-12-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556640339",
+      "company": "Microsoft",
+      "title": "Quantum Software Engineer",
+      "postedToDiscord": "2025-12-12T04:27:19.494Z",
+      "sourceDate": "2025-12-11T23:06:51.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640339",
+      "discordThreadId": "1448893946955829281",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 19,
+    "totalJobs": 27,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T04:05:59.813Z",
+      "date": "2025-12-12T04:27:19.494Z",
       "archived": 0
     }
   }
