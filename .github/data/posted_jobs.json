@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:07:09.555Z",
+  "lastUpdated": "2025-12-12T05:24:56.698Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -529,14 +529,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gipathfinder/jobs/4638638005",
       "discordThreadId": "1448903971761557615",
       "instanceNumber": 1
+    },
+    {
+      "id": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-software-engineer_hr-19575-2025-12-12-1",
+      "jobId": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-software-engineer_hr-19575",
+      "company": "Encore Capital Group",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2025-12-12T05:24:32.408Z",
+      "sourceDate": "2025-12-10T23:33:33.000Z",
+      "sourceUrl": "https://encore.wd1.myworkdayjobs.com/externalnew/job/CA---San-Diego/Software-Engineer_HR-19575",
+      "discordThreadId": "1448908346123096105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-69695-job-2025-12-12-1",
+      "jobId": "careers-gdms-icims-com-jobs-69695-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Systems Engineer – Entry Level",
+      "postedToDiscord": "2025-12-12T05:24:35.971Z",
+      "sourceDate": "2025-12-10T23:30:57.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69695/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1448908360224342110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-criticality-safety-engineer-nc-1335458000-2025-12-12-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-criticality-safety-engineer-nc-1335458000",
+      "company": "Westinghouse Electric Company",
+      "title": "Criticality Safety Engineer",
+      "postedToDiscord": "2025-12-12T05:24:39.690Z",
+      "sourceDate": "2025-12-10T23:29:51.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Criticality-Safety-Engineer-NC/1335458000/?ats=successfactors",
+      "discordThreadId": "1448908375000875041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "osu-wd1-myworkdayjobs-com-osucareers-job-columbus-campus-applied-research-engineer-1_r141828-2025-12-12-1",
+      "jobId": "osu-wd1-myworkdayjobs-com-osucareers-job-columbus-campus-applied-research-engineer-1_r141828",
+      "company": "Ohio State University",
+      "title": "Applied Research Engineer 1",
+      "postedToDiscord": "2025-12-12T05:24:43.107Z",
+      "sourceDate": "2025-12-10T23:24:19.000Z",
+      "sourceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Applied-Research-Engineer-1_R141828",
+      "discordThreadId": "1448908390767263897",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-external-job-board-jobs-6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50-2025-12-12-1",
+      "jobId": "ats-rippling-com-external-job-board-jobs-6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
+      "company": "FlexGen",
+      "title": "Energy Storage Application Engineer",
+      "postedToDiscord": "2025-12-12T05:24:46.816Z",
+      "sourceDate": "2025-12-10T23:22:50.000Z",
+      "sourceUrl": "https://ats.rippling.com/external-job-board/jobs/6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
+      "discordThreadId": "1448908404784631879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-compassx-a37f62e9-f2fc-4d1a-9d67-5b7778abefdb-apply-2025-12-12-1",
+      "jobId": "jobs-lever-co-compassx-a37f62e9-f2fc-4d1a-9d67-5b7778abefdb-apply",
+      "company": "CompassX Group",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-12T05:24:50.294Z",
+      "sourceDate": "2025-12-10T23:16:20.000Z",
+      "sourceUrl": "https://jobs.lever.co/compassx/a37f62e9-f2fc-4d1a-9d67-5b7778abefdb/apply",
+      "discordThreadId": "1448908420378923130",
+      "instanceNumber": 1
+    },
+    {
+      "id": "relx-wd3-myworkdayjobs-com-en-us-risksolutions-job-oklahoma-city-ok-data-analyst_r104140-2025-12-12-1",
+      "jobId": "relx-wd3-myworkdayjobs-com-en-us-risksolutions-job-oklahoma-city-ok-data-analyst_r104140",
+      "company": "LexisNexis Risk Solutions",
+      "title": "Data Analyst",
+      "postedToDiscord": "2025-12-12T05:24:56.698Z",
+      "sourceDate": "2025-12-10T23:20:31.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Oklahoma-City-OK/Data-Analyst_R104140",
+      "discordThreadId": "1448908447956598884",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 48,
+    "totalJobs": 55,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T05:07:09.555Z",
+      "date": "2025-12-12T05:24:56.698Z",
       "archived": 0
     }
   }
