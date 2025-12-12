@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T06:46:11.420Z",
+  "lastUpdated": "2025-12-12T06:58:55.319Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -947,14 +947,69 @@
       "sourceUrl": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---NSRL_R-75893",
       "discordThreadId": "1448928894425104487",
       "instanceNumber": 1
+    },
+    {
+      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105-2025-12-12-1",
+      "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105",
+      "company": "Cadence Design Systems",
+      "title": "Application Engineer",
+      "postedToDiscord": "2025-12-12T06:58:38.354Z",
+      "sourceDate": "2025-12-10T14:40:31.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105",
+      "discordThreadId": "1448932026861224020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-everett-wa-product-data-management-specialist-associate-or-mid-level-_jr2025485608-1-2025-12-12-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-everett-wa-product-data-management-specialist-associate-or-mid-level-_jr2025485608-1",
+      "company": "The Boeing Company",
+      "title": "Product Data Management Specialist – Associate or Mid-Level",
+      "postedToDiscord": "2025-12-12T06:58:41.664Z",
+      "sourceDate": "2025-12-10T14:24:55.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Product-Data-Management-Specialist--Associate-or-Mid-Level-_JR2025485608-1",
+      "discordThreadId": "1448932041080049664",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-remote-any-state-entry-level-ai-ml-software-engineer_320317-2025-12-12-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-remote-any-state-entry-level-ai-ml-software-engineer_320317",
+      "company": "CACI",
+      "title": "Entry-Level AI/ML Software Engineer",
+      "postedToDiscord": "2025-12-12T06:58:48.041Z",
+      "sourceDate": "2025-12-10T14:39:57.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-AI-ML-Software-Engineer_320317",
+      "discordThreadId": "1448932067701293158",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-remote-ai-engineer-ii_r40510-2025-12-12-1",
+      "jobId": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-remote-ai-engineer-ii_r40510",
+      "company": "VCU Health",
+      "title": "AI Engineer 2",
+      "postedToDiscord": "2025-12-12T06:58:51.513Z",
+      "sourceDate": "2025-12-10T14:29:15.000Z",
+      "sourceUrl": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Remote/AI-Engineer-II_R40510",
+      "discordThreadId": "1448932082209259640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-software-engineer_r58789-2025-12-12-1",
+      "jobId": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-software-engineer_r58789",
+      "company": "Motorola",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-12T06:58:55.318Z",
+      "sourceDate": "2025-12-10T14:26:22.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R58789",
+      "discordThreadId": "1448932096625213611",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 86,
+    "totalJobs": 91,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T06:46:11.420Z",
+      "date": "2025-12-12T06:58:55.319Z",
       "archived": 0
     }
   }
