@@ -56,10 +56,21 @@ function generateCompanyStats(jobs) {
 
 // Write the new jobs JSON for Discord with atomic writes
 function writeNewJobsJson(jobs) {
+    // Limit to 50 jobs per run to prevent channel overflow and timeouts
+    // This matches the Discord bot's MAX_JOBS_PER_RUN limit
+    const MAX_JOBS_PER_RUN = 50;
+    const originalCount = jobs.length;
+    const jobsToWrite = jobs.slice(0, MAX_JOBS_PER_RUN);
+    const deferredCount = originalCount - jobsToWrite.length;
+
+    if (deferredCount > 0) {
+        console.log(`⏸️ Limiting to ${MAX_JOBS_PER_RUN} jobs this run, ${deferredCount} deferred (will be fetched in next run)`);
+    }
+
     // Get repository root (3 levels up from .github/scripts/job-fetcher)
     const repoRoot = path.join(__dirname, '..', '..', '..');
     const dataDir = path.join(repoRoot, '.github', 'data');
-    
+
     try {
         // Ensure data folder exists
         if (!fs.existsSync(dataDir)) {
@@ -69,18 +80,18 @@ function writeNewJobsJson(jobs) {
         // Atomic write: write to temp file then rename
         const outPath = path.join(dataDir, 'new_jobs.json');
         const tempPath = path.join(dataDir, 'new_jobs.tmp.json');
-        
+
         // Write to temporary file
-        fs.writeFileSync(tempPath, JSON.stringify(jobs, null, 2), 'utf8');
-        
+        fs.writeFileSync(tempPath, JSON.stringify(jobsToWrite, null, 2), 'utf8');
+
         // Atomic rename - this prevents corruption if process is killed mid-write
         fs.renameSync(tempPath, outPath);
-        
-        console.log(`✨ Wrote ${jobs.length} new jobs to ${outPath}`);
-        
+
+        console.log(`✨ Wrote ${jobsToWrite.length} new jobs to ${outPath}`);
+
     } catch (error) {
         console.error('❌ Error writing new_jobs.json:', error.message);
-        
+
         // Clean up temp file if it exists
         const tempPath = path.join(dataDir, 'new_jobs.tmp.json');
         if (fs.existsSync(tempPath)) {
@@ -90,7 +101,7 @@ function writeNewJobsJson(jobs) {
                 console.error('⚠️ Could not clean up temp file:', cleanupError.message);
             }
         }
-        
+
         throw error; // Re-throw to stop execution
     }
 }
