@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:57:21.898Z",
+  "lastUpdated": "2025-12-12T05:07:09.555Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -452,14 +452,91 @@
       "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-DATABASE-ADMINISTRATOR-1-Virg/1349037400/?ats=successfactors",
       "discordThreadId": "1448901507633250437",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-internetbrands-job-o33oyfwc-2025-12-12-1",
+      "jobId": "jobs-jobvite-com-internetbrands-job-o33oyfwc",
+      "company": "Internet Brands",
+      "title": "Associate AI Engineer",
+      "postedToDiscord": "2025-12-12T05:06:42.112Z",
+      "sourceDate": "2025-12-11T02:09:28.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/internetbrands/job/o33Oyfwc?nl=1&nl=1&fr=false",
+      "discordThreadId": "1448903856422387823",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-san-diego-ca-wordpress-website-administrator-designer_req20168294-2025-12-12-1",
+      "jobId": "usc-wd5-myworkdayjobs-com-externalusccareers-job-san-diego-ca-wordpress-website-administrator-designer_req20168294",
+      "company": "University of Southern California",
+      "title": "WordPress Website Administrator & Designer",
+      "postedToDiscord": "2025-12-12T05:06:45.531Z",
+      "sourceDate": "2025-12-11T02:03:17.000Z",
+      "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/WordPress-Website-Administrator---Designer_REQ20168294",
+      "discordThreadId": "1448903871219892276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-shipbobinc-jobs-4638574005-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-shipbobinc-jobs-4638574005",
+      "company": "ShipBob",
+      "title": "Forward Deployed Engineer",
+      "postedToDiscord": "2025-12-12T05:06:49.407Z",
+      "sourceDate": "2025-12-10T23:43:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005",
+      "discordThreadId": "1448903886554533999",
+      "instanceNumber": 1
+    },
+    {
+      "id": "truist-wd1-myworkdayjobs-com-en-us-careers-job-atlanta-ga-vulnerability-assurance-software-engineer-i_r0108995-2025-12-12-1",
+      "jobId": "truist-wd1-myworkdayjobs-com-en-us-careers-job-atlanta-ga-vulnerability-assurance-software-engineer-i_r0108995",
+      "company": "Truist Bank",
+      "title": "Vulnerability Assurance Software Engineer 1",
+      "postedToDiscord": "2025-12-12T05:06:55.901Z",
+      "sourceDate": "2025-12-11T00:01:12.000Z",
+      "sourceUrl": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Vulnerability-Assurance-Software-Engineer-I_R0108995",
+      "discordThreadId": "1448903914211643424",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-software-developer_r8219-2025-12-12-1",
+      "jobId": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-software-developer_r8219",
+      "company": "AspenTech",
+      "title": "Software Developer",
+      "postedToDiscord": "2025-12-12T05:06:59.414Z",
+      "sourceDate": "2025-12-10T23:48:28.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Developer_R8219",
+      "discordThreadId": "1448903929084641341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-hazelwood-mo-technical-orders-product-data-management-specialist_jr2025486739-1-2025-12-12-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-hazelwood-mo-technical-orders-product-data-management-specialist_jr2025486739-1",
+      "company": "The Boeing Company",
+      "title": "Technical Orders Product Data Management Specialist",
+      "postedToDiscord": "2025-12-12T05:07:02.942Z",
+      "sourceDate": "2025-12-10T23:33:53.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Technical-Orders-Product-Data-Management-Specialist_JR2025486739-1",
+      "discordThreadId": "1448903943785549974",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gipathfinder-jobs-4638638005-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-gipathfinder-jobs-4638638005",
+      "company": "GIPathfinder",
+      "title": "Financial Data Analyst",
+      "postedToDiscord": "2025-12-12T05:07:09.555Z",
+      "sourceDate": "2025-12-10T23:43:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gipathfinder/jobs/4638638005",
+      "discordThreadId": "1448903971761557615",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 41,
+    "totalJobs": 48,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T04:57:21.898Z",
+      "date": "2025-12-12T05:07:09.555Z",
       "archived": 0
     }
   }
