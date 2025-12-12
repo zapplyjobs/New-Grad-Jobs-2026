@@ -56,9 +56,9 @@ function generateCompanyStats(jobs) {
 
 // Write the new jobs JSON for Discord with atomic writes
 function writeNewJobsJson(jobs) {
-    // Limit to 50 jobs per run to prevent channel overflow and timeouts
+    // Limit to 10 jobs per run to prevent channel overflow and timeouts
     // This matches the Discord bot's MAX_JOBS_PER_RUN limit
-    const MAX_JOBS_PER_RUN = 50;
+    const MAX_JOBS_PER_RUN = 10;
     const originalCount = jobs.length;
     const jobsToWrite = jobs.slice(0, MAX_JOBS_PER_RUN);
     const deferredCount = originalCount - jobsToWrite.length;

@@ -687,8 +687,8 @@ client.once('ready', async () => {
     });
   }
 
-  // Limit to 50 jobs per workflow run to prevent channel overflow and timeouts
-  const MAX_JOBS_PER_RUN = 50;
+  // Limit to 10 jobs per workflow run to prevent channel overflow and timeouts
+  const MAX_JOBS_PER_RUN = 10;
   const jobsToPost = dedupedJobs.slice(0, MAX_JOBS_PER_RUN);
   const deferredJobs = unpostedJobs.length - jobsToPost.length;
 
