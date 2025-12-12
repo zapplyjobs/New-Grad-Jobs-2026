@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:27:19.494Z",
+  "lastUpdated": "2025-12-12T04:44:17.594Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -298,14 +298,91 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640339",
       "discordThreadId": "1448893946955829281",
       "instanceNumber": 1
+    },
+    {
+      "id": "harmonia-com-job-openings-job-application-2025-12-12-1",
+      "jobId": "harmonia-com-job-openings-job-application",
+      "company": "Harmonia",
+      "title": "Junior Full Stack Developer",
+      "postedToDiscord": "2025-12-12T04:43:53.350Z",
+      "sourceDate": "2025-12-11T20:18:33.000Z",
+      "sourceUrl": "https://harmonia.com/job-openings/job-application/?gh_jid=7548893003",
+      "discordThreadId": "1448898115599073373",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-69724-junior-software-engineer-job-2025-12-12-1",
+      "jobId": "careers-gdms-icims-com-jobs-69724-junior-software-engineer-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2025-12-12T04:43:56.768Z",
+      "sourceDate": "2025-12-11T20:17:44.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69724/junior-software-engineer/job",
+      "discordThreadId": "1448898129968496651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bah-wd1-myworkdayjobs-com-en-us-bah_jobs-job-huntsville-al-full-stack-developer-junior_r0230620-2025-12-12-1",
+      "jobId": "bah-wd1-myworkdayjobs-com-en-us-bah_jobs-job-huntsville-al-full-stack-developer-junior_r0230620",
+      "company": "Booz Allen",
+      "title": "Full-Stack Developer, Junior",
+      "postedToDiscord": "2025-12-12T04:44:00.198Z",
+      "sourceDate": "2025-12-11T20:15:59.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230620",
+      "discordThreadId": "1448898144107495508",
+      "instanceNumber": 1
+    },
+    {
+      "id": "btisolutions-wd12-myworkdayjobs-com-external-job-plano-tx-korean-bilingual-software-test-engineer-entry-level-ao7167525_jr101482-2025-12-12-1",
+      "jobId": "btisolutions-wd12-myworkdayjobs-com-external-job-plano-tx-korean-bilingual-software-test-engineer-entry-level-ao7167525_jr101482",
+      "company": "BTI Solutions",
+      "title": "Korean Bilingual Software Test Engineer (Entry Level)",
+      "postedToDiscord": "2025-12-12T04:44:03.960Z",
+      "sourceDate": "2025-12-11T20:14:39.000Z",
+      "sourceUrl": "https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Korean-Bilingual-Software-Test-Engineer--Entry-Level--AO7167525_JR101482",
+      "discordThreadId": "1448898159203061855",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-quality-engineer-i_r8298-1-2025-12-12-1",
+      "jobId": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-quality-engineer-i_r8298-1",
+      "company": "AspenTech",
+      "title": "Associate Software Quality Engineer I",
+      "postedToDiscord": "2025-12-12T04:44:07.593Z",
+      "sourceDate": "2025-12-11T20:11:28.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer-I_R8298-1",
+      "discordThreadId": "1448898175120314519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-publicstoragejobs-com-jobs-associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225-2025-12-12-1",
+      "jobId": "www-publicstoragejobs-com-jobs-associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+      "company": "Public Storage",
+      "title": "Associate Cloud Engineer",
+      "postedToDiscord": "2025-12-12T04:44:11.036Z",
+      "sourceDate": "2025-12-11T20:03:37.000Z",
+      "sourceUrl": "https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+      "discordThreadId": "1448898189707968534",
+      "instanceNumber": 1
+    },
+    {
+      "id": "guidehouse-wd1-myworkdayjobs-com-external-job-us-ga-atlanta-biostatistician-ai-data-scientist-i_34595-1-2025-12-12-1",
+      "jobId": "guidehouse-wd1-myworkdayjobs-com-external-job-us-ga-atlanta-biostatistician-ai-data-scientist-i_34595-1",
+      "company": "Guidehouse",
+      "title": "Biostatistician/AI Data Scientist 1",
+      "postedToDiscord": "2025-12-12T04:44:17.594Z",
+      "sourceDate": "2025-12-11T17:07:32.000Z",
+      "sourceUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Biostatistician-AI-Data-Scientist-I_34595-1",
+      "discordThreadId": "1448898216841187371",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 27,
+    "totalJobs": 34,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T04:27:19.494Z",
+      "date": "2025-12-12T04:44:17.594Z",
       "archived": 0
     }
   }
