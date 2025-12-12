@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:51:20.792Z",
+  "lastUpdated": "2025-12-12T06:07:34.961Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -760,14 +760,80 @@
       "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038",
       "discordThreadId": "1448915092140720219",
       "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-danforth-campus-postdoctoral-research-associate-physics_jr91660-2025-12-12-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-danforth-campus-postdoctoral-research-associate-physics_jr91660",
+      "company": "Wash U",
+      "title": "Postdoctoral Research Associate - Physics",
+      "postedToDiscord": "2025-12-12T06:07:11.710Z",
+      "sourceDate": "2025-12-10T16:58:21.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR91660",
+      "discordThreadId": "1448919079942623385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "axos-wd5-myworkdayjobs-com-axos-job-hq-san-diego-ca-jr-business-technology-analyst-data-scientist-machine-learning-engineer_jr3704-2025-12-12-1",
+      "jobId": "axos-wd5-myworkdayjobs-com-axos-job-hq-san-diego-ca-jr-business-technology-analyst-data-scientist-machine-learning-engineer_jr3704",
+      "company": "Axos Bank",
+      "title": "Junior Business & Technology Analyst",
+      "postedToDiscord": "2025-12-12T06:07:15.141Z",
+      "sourceDate": "2025-12-10T16:49:38.000Z",
+      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Jr-Business---Technology-Analyst---Data-Scientist---Machine-Learning-Engineer_JR3704",
+      "discordThreadId": "1448919094710767696",
+      "instanceNumber": 1
+    },
+    {
+      "id": "elanco-wd5-myworkdayjobs-com-en-us-external_career-job-indianapolis-in-associate-data-strategy-standards_r0024043-2025-12-12-1",
+      "jobId": "elanco-wd5-myworkdayjobs-com-en-us-external_career-job-indianapolis-in-associate-data-strategy-standards_r0024043",
+      "company": "Elanco",
+      "title": "Associate-Data Strategy & Standards",
+      "postedToDiscord": "2025-12-12T06:07:21.527Z",
+      "sourceDate": "2025-12-10T16:49:46.000Z",
+      "sourceUrl": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Associate--Data-Strategy---Standards_R0024043",
+      "discordThreadId": "1448919121780670557",
+      "instanceNumber": 1
+    },
+    {
+      "id": "synthomer-wd3-myworkdayjobs-com-synthomercareers-job-us-oh-akron-atc-scientist-akron-technical-center-onsite_r6616-2025-12-12-1",
+      "jobId": "synthomer-wd3-myworkdayjobs-com-synthomercareers-job-us-oh-akron-atc-scientist-akron-technical-center-onsite_r6616",
+      "company": "Synthomer",
+      "title": "Scientist – Akron Technical Center",
+      "postedToDiscord": "2025-12-12T06:07:27.881Z",
+      "sourceDate": "2025-12-10T16:38:54.000Z",
+      "sourceUrl": "https://synthomer.wd3.myworkdayjobs.com/synthomercareers/job/US-OH-Akron-ATC/Scientist---Akron-Technical-Center---Onsite_R6616",
+      "discordThreadId": "1448919148485673052",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ca826-200-holger-waysan-jose-200-holger-way-san-jose-ca-95134-usa-software-engineer-i-onsite-_01811717-2025-12-12-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ca826-200-holger-waysan-jose-200-holger-way-san-jose-ca-95134-usa-software-engineer-i-onsite-_01811717",
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-12T06:07:31.515Z",
+      "sourceDate": "2025-12-10T16:35:27.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01811717",
+      "discordThreadId": "1448919162641711234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "labcorp-wd1-myworkdayjobs-com-external-job-durham-nc-associate-salesforce-developer_2530652-2025-12-12-1",
+      "jobId": "labcorp-wd1-myworkdayjobs-com-external-job-durham-nc-associate-salesforce-developer_2530652",
+      "company": "LabCorp",
+      "title": "Associate Salesforce Developer",
+      "postedToDiscord": "2025-12-12T06:07:34.960Z",
+      "sourceDate": "2025-12-10T16:33:31.000Z",
+      "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Associate-Salesforce-Developer_2530652",
+      "discordThreadId": "1448919177753657497",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 69,
+    "totalJobs": 75,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T05:51:20.792Z",
+      "date": "2025-12-12T06:07:34.961Z",
       "archived": 0
     }
   }
