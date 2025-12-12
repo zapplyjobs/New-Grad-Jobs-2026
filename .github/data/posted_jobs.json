@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T06:26:41.242Z",
+  "lastUpdated": "2025-12-12T06:46:11.420Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -892,14 +892,69 @@
       "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/Senior-Analyst--Business-Support_R-2364373",
       "discordThreadId": "1448923985806098603",
       "instanceNumber": 1
+    },
+    {
+      "id": "oreillyauto-wd1-myworkdayjobs-com-oreilly-job-remote-missouri-product-analyst-data-analytics_r146913-2025-12-12-1",
+      "jobId": "oreillyauto-wd1-myworkdayjobs-com-oreilly-job-remote-missouri-product-analyst-data-analytics_r146913",
+      "company": "O'Reilly Auto Parts",
+      "title": "Product Analyst - Data Analytics",
+      "postedToDiscord": "2025-12-12T06:45:51.726Z",
+      "sourceDate": "2025-12-10T15:03:39.000Z",
+      "sourceUrl": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Missouri/Product-Analyst---Data-Analytics_R146913",
+      "discordThreadId": "1448928817778393180",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-bellevue-wa-us-software-engineering-specialist_r5024513-1-2025-12-12-1",
+      "jobId": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-bellevue-wa-us-software-engineering-specialist_r5024513-1",
+      "company": "GE Vernova",
+      "title": "Software Engineering Specialist",
+      "postedToDiscord": "2025-12-12T06:45:55.159Z",
+      "sourceDate": "2025-12-10T14:43:34.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue-WA-US/Software-Engineering-Specialist_R5024513-1",
+      "discordThreadId": "1448928825366020108",
+      "instanceNumber": 1
+    },
+    {
+      "id": "acelero-wd1-myworkdayjobs-com-acelerolearningcareers-job-de-milton-prime-hook-road-data-services-coordinator_jr7544-2025-12-12-1",
+      "jobId": "acelero-wd1-myworkdayjobs-com-acelerolearningcareers-job-de-milton-prime-hook-road-data-services-coordinator_jr7544",
+      "company": "Acelero",
+      "title": "Data Analysis Coordinator",
+      "postedToDiscord": "2025-12-12T06:45:58.531Z",
+      "sourceDate": "2025-12-10T14:41:15.000Z",
+      "sourceUrl": "https://acelero.wd1.myworkdayjobs.com/acelerolearningcareers/job/DE---Milton---Prime-Hook-Road/Data-Services-Coordinator_JR7544",
+      "discordThreadId": "1448928839723126795",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uhaul-wd1-myworkdayjobs-com-uhauljobs-job-phoenix-arizona-business-intelligence-analyst_r233902-2025-12-12-1",
+      "jobId": "uhaul-wd1-myworkdayjobs-com-uhauljobs-job-phoenix-arizona-business-intelligence-analyst_r233902",
+      "company": "Uhaul",
+      "title": "Business Intelligence Analyst",
+      "postedToDiscord": "2025-12-12T06:46:05.122Z",
+      "sourceDate": "2025-12-10T14:50:14.000Z",
+      "sourceUrl": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Intelligence-Analyst_R233902",
+      "discordThreadId": "1448928867279573074",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nike-wd1-myworkdayjobs-com-nke-job-beaverton-oregon-software-engineer-i-nsrl_r-75893-2025-12-12-1",
+      "jobId": "nike-wd1-myworkdayjobs-com-nke-job-beaverton-oregon-software-engineer-i-nsrl_r-75893",
+      "company": "Nike",
+      "title": "Software Engineer 1 - Nsrl",
+      "postedToDiscord": "2025-12-12T06:46:11.419Z",
+      "sourceDate": "2025-12-10T14:42:51.000Z",
+      "sourceUrl": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---NSRL_R-75893",
+      "discordThreadId": "1448928894425104487",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 81,
+    "totalJobs": 86,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T06:26:41.242Z",
+      "date": "2025-12-12T06:46:11.420Z",
       "archived": 0
     }
   }
