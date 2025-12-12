@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:40:10.093Z",
+  "lastUpdated": "2025-12-12T05:51:20.792Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -683,14 +683,91 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Data-Engineer_R10213226",
       "discordThreadId": "1448912273295802441",
       "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-en-us-external-job-us-md-hanover-data-dictionary-software-engineer-1_320288-2025-12-12-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-en-us-external-job-us-md-hanover-data-dictionary-software-engineer-1_320288",
+      "company": "CACI",
+      "title": "Data Dictionary Software Engineer 1",
+      "postedToDiscord": "2025-12-12T05:50:59.480Z",
+      "sourceDate": "2025-12-10T18:20:36.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288",
+      "discordThreadId": "1448915002609111040",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-baselayer-jobs-5023884008-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-baselayer-jobs-5023884008",
+      "company": "Baselayer",
+      "title": "Junior Backend Engineer",
+      "postedToDiscord": "2025-12-12T05:51:03.877Z",
+      "sourceDate": "2025-12-10T18:17:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/baselayer/jobs/5023884008",
+      "discordThreadId": "1448915020833361963",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-application-engineer-ii_r2519522-2025-12-12-1",
+      "jobId": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-application-engineer-ii_r2519522",
+      "company": "Applied Materials",
+      "title": "Application Engineer 2",
+      "postedToDiscord": "2025-12-12T05:51:07.541Z",
+      "sourceDate": "2025-12-10T18:17:22.000Z",
+      "sourceUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Application-Engineer-II_R2519522",
+      "discordThreadId": "1448915035916075038",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8328684002-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8328684002",
+      "company": "Twitch",
+      "title": "Software Engineer I, Frontend",
+      "postedToDiscord": "2025-12-12T05:51:10.997Z",
+      "sourceDate": "2025-12-10T18:16:59.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8328684002",
+      "discordThreadId": "1448915050902454452",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8329910002-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8329910002",
+      "company": "Twitch",
+      "title": "Software Engineer I, Frontend",
+      "postedToDiscord": "2025-12-12T05:51:11.000Z",
+      "sourceDate": "2025-12-10T18:16:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8329910002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-in301-1010-production-rd-ft-wayne-in-1010-production-road-fort-wayne-in-46808-usa-xmlname-2026-full-time-software-engineer-i-onsite-in-_01811827-2025-12-12-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-in301-1010-production-rd-ft-wayne-in-1010-production-road-fort-wayne-in-46808-usa-xmlname-2026-full-time-software-engineer-i-onsite-in-_01811827",
+      "company": "RTX",
+      "title": "2026 Full-time - Software Engineer I",
+      "postedToDiscord": "2025-12-12T05:51:14.363Z",
+      "sourceDate": "2025-12-10T17:06:59.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01811827",
+      "discordThreadId": "1448915065276469329",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014038-2025-12-12-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014038",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 4",
+      "postedToDiscord": "2025-12-12T05:51:20.791Z",
+      "sourceDate": "2025-12-10T18:15:13.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038",
+      "discordThreadId": "1448915092140720219",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 62,
+    "totalJobs": 69,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T05:40:10.093Z",
+      "date": "2025-12-12T05:51:20.792Z",
       "archived": 0
     }
   }
