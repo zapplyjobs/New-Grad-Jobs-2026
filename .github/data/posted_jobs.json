@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T06:58:55.319Z",
+  "lastUpdated": "2025-12-12T07:12:57.928Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1002,14 +1002,69 @@
       "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R58789",
       "discordThreadId": "1448932096625213611",
       "instanceNumber": 1
+    },
+    {
+      "id": "nisource-wd1-myworkdayjobs-com-nisource-job-chester-va-op-ctr-gis-technician_r00941372-1-2025-12-12-1",
+      "jobId": "nisource-wd1-myworkdayjobs-com-nisource-job-chester-va-op-ctr-gis-technician_r00941372-1",
+      "company": "NiSource",
+      "title": "GIS Technician",
+      "postedToDiscord": "2025-12-12T07:12:37.323Z",
+      "sourceDate": "2025-12-10T14:13:26.000Z",
+      "sourceUrl": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Chester-VA-Op-Ctr/GIS-Technician_R00941372-1",
+      "discordThreadId": "1448935544498159616",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-co210-9970-federal-drive-colo-spr-9970-federal-drive-colorado-springs-co-80921-usa-system-engineer-ii-onsite-_01811453-2025-12-12-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-co210-9970-federal-drive-colo-spr-9970-federal-drive-colorado-springs-co-80921-usa-system-engineer-ii-onsite-_01811453",
+      "company": "RTX",
+      "title": "System Engineer 2",
+      "postedToDiscord": "2025-12-12T07:12:43.862Z",
+      "sourceDate": "2025-12-10T13:58:07.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO210-9970-Federal-Drive-Colo-Spr-9970-Federal-Drive---Colorado-Springs-CO-80921-USA/System-Engineer-II--Onsite-_01811453",
+      "discordThreadId": "1448935573023625267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-10alabs-jobs-4075498009-2025-12-12-1",
+      "jobId": "job-boards-greenhouse-io-10alabs-jobs-4075498009",
+      "company": "10a Labs",
+      "title": "Data Assistant",
+      "postedToDiscord": "2025-12-12T07:12:47.482Z",
+      "sourceDate": "2025-12-10T13:05:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/10alabs/jobs/4075498009",
+      "discordThreadId": "1448935587171012660",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556629509-2025-12-12-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556629509",
+      "company": "Microsoft",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-12T07:12:51.219Z",
+      "sourceDate": "2025-12-10T12:57:15.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556629509",
+      "discordThreadId": "1448935602601984043",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556619598-2025-12-12-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556619598",
+      "company": "Microsoft",
+      "title": "Applied Scientist",
+      "postedToDiscord": "2025-12-12T07:12:57.928Z",
+      "sourceDate": "2025-12-10T13:04:45.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556619598",
+      "discordThreadId": "1448935631248949330",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 91,
+    "totalJobs": 96,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T06:58:55.319Z",
+      "date": "2025-12-12T07:12:57.928Z",
       "archived": 0
     }
   }
