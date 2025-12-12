@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T07:25:55.696Z",
+  "lastUpdated": "2025-12-12T07:38:58.104Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1112,14 +1112,69 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
       "discordThreadId": "1448938893817679914",
       "instanceNumber": 1
+    },
+    {
+      "id": "snc-wd1-myworkdayjobs-com-snc_external_career_site-job-sparks-nv-business-intelligence-developer-i_r0028996-1-2025-12-12-1",
+      "jobId": "snc-wd1-myworkdayjobs-com-snc_external_career_site-job-sparks-nv-business-intelligence-developer-i_r0028996-1",
+      "company": "Sierra Nevada Corporation",
+      "title": "Business Intelligence Developer 1",
+      "postedToDiscord": "2025-12-12T07:38:36.263Z",
+      "sourceDate": "2025-12-10T08:48:35.000Z",
+      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Business-Intelligence-Developer-I_R0028996-1",
+      "discordThreadId": "1448942084533780490",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az849-rms-ap-bldg-849-1151-east-hermans-road-building-849-tucson-az-85756-usa-xmlname-2026-modeling-simulation-and-analysis-engineer-ii-onsite-tucson-az_01794105-2025-12-12-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az849-rms-ap-bldg-849-1151-east-hermans-road-building-849-tucson-az-85756-usa-xmlname-2026-modeling-simulation-and-analysis-engineer-ii-onsite-tucson-az_01794105",
+      "company": "RTX",
+      "title": "Modeling Simulation and Analysis Engineer 2",
+      "postedToDiscord": "2025-12-12T07:38:42.842Z",
+      "sourceDate": "2025-12-10T08:26:52.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ849-RMS-AP-Bldg-849-1151-East-Hermans-Road-Building-849-Tucson-AZ-85756-USA/XMLNAME-2026-Modeling-Simulation-and-Analysis-Engineer-II---Onsite---Tucson--AZ_01794105",
+      "discordThreadId": "1448942111293571094",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-317794-2025-12-12-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-317794",
+      "company": "Oracle",
+      "title": "Member of Technical Staff",
+      "postedToDiscord": "2025-12-12T07:38:46.774Z",
+      "sourceDate": "2025-12-10T04:00:39.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/317794",
+      "discordThreadId": "1448942125864587286",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-318639-2025-12-12-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-318639",
+      "company": "Oracle",
+      "title": "Software Developer 1",
+      "postedToDiscord": "2025-12-12T07:38:50.106Z",
+      "sourceDate": "2025-12-10T04:00:23.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318639",
+      "discordThreadId": "1448942142608244810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-minnetonka-mn-technology-delivery-analyst-elevate-_r0067554-2025-12-12-1",
+      "jobId": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-minnetonka-mn-technology-delivery-analyst-elevate-_r0067554",
+      "company": "Huntington Bancshares",
+      "title": "Technology Delivery Analyst - Elevate",
+      "postedToDiscord": "2025-12-12T07:38:58.103Z",
+      "sourceDate": "2025-12-10T08:19:22.000Z",
+      "sourceUrl": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Technology-Delivery-Analyst--Elevate-_R0067554",
+      "discordThreadId": "1448942169355321355",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 101,
+    "totalJobs": 106,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T07:25:55.696Z",
+      "date": "2025-12-12T07:38:58.104Z",
       "archived": 0
     }
   }
