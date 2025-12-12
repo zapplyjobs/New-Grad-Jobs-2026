@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:44:17.594Z",
+  "lastUpdated": "2025-12-12T04:57:21.898Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -375,14 +375,91 @@
       "sourceUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Biostatistician-AI-Data-Scientist-I_34595-1",
       "discordThreadId": "1448898216841187371",
       "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-hazelwood-mo-early-career-product-data-management-specialist_jr2025488062-2025-12-12-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-hazelwood-mo-early-career-product-data-management-specialist_jr2025488062",
+      "company": "The Boeing Company",
+      "title": "Early Career Product Data Management Specialist",
+      "postedToDiscord": "2025-12-12T04:56:55.846Z",
+      "sourceDate": "2025-12-11T16:50:56.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062",
+      "discordThreadId": "1448901397587296287",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-any-location-remote-uipath-robotic-process-automation-developer-associate_rq211136-2025-12-12-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-any-location-remote-uipath-robotic-process-automation-developer-associate_rq211136",
+      "company": "General Dynamics Information Technology",
+      "title": "UiPath Robotic Process Automation Developer Associate",
+      "postedToDiscord": "2025-12-12T04:56:59.248Z",
+      "sourceDate": "2025-12-11T07:38:08.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UiPath-Robotic-Process-Automation-Developer-Associate_RQ211136",
+      "discordThreadId": "1448901412099588209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fullsteam-wd1-myworkdayjobs-com-external-job-remote-us-software-engineer_jr101949-2025-12-12-1",
+      "jobId": "fullsteam-wd1-myworkdayjobs-com-external-job-remote-us-software-engineer_jr101949",
+      "company": "Fullsteam",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-12T04:57:05.586Z",
+      "sourceDate": "2025-12-11T16:44:26.000Z",
+      "sourceUrl": "https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Software-Engineer_JR101949",
+      "discordThreadId": "1448901439006183495",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ion-beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa-apply-2025-12-12-1",
+      "jobId": "jobs-lever-co-ion-beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa-apply",
+      "company": "ION Group",
+      "title": "Software Developer - 2026 Leadership Development Program - Houston",
+      "postedToDiscord": "2025-12-12T04:57:08.974Z",
+      "sourceDate": "2025-12-11T16:12:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply",
+      "discordThreadId": "1448901453069680650",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-welocalize-907a2767-8d04-4a7a-9b61-9d8e373fe695-apply-2025-12-12-1",
+      "jobId": "jobs-lever-co-welocalize-907a2767-8d04-4a7a-9b61-9d8e373fe695-apply",
+      "company": "Welocalize",
+      "title": "Multilingual Audio Personalization Evaluator - English - United States",
+      "postedToDiscord": "2025-12-12T04:57:12.230Z",
+      "sourceDate": "2025-12-11T10:58:39.000Z",
+      "sourceUrl": "https://jobs.lever.co/welocalize/907a2767-8d04-4a7a-9b61-9d8e373fe695/apply",
+      "discordThreadId": "1448901467145506897",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-hazelwood-mo-associate-programmer-analyst_jr2025487618-1-2025-12-12-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-hazelwood-mo-associate-programmer-analyst_jr2025487618-1",
+      "company": "The Boeing Company",
+      "title": "Associate Programmer Analyst",
+      "postedToDiscord": "2025-12-12T04:57:15.633Z",
+      "sourceDate": "2025-12-11T02:25:52.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Programmer-Analyst_JR2025487618-1",
+      "discordThreadId": "1448901480856948808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-database-administrator-1-virg-1349037400-2025-12-12-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-database-administrator-1-virg-1349037400",
+      "company": "Huntington Ingalls Industries",
+      "title": "Database Administrator 1",
+      "postedToDiscord": "2025-12-12T04:57:21.898Z",
+      "sourceDate": "2025-12-11T10:38:35.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-DATABASE-ADMINISTRATOR-1-Virg/1349037400/?ats=successfactors",
+      "discordThreadId": "1448901507633250437",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 34,
+    "totalJobs": 41,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-12T04:44:17.594Z",
+      "date": "2025-12-12T04:57:21.898Z",
       "archived": 0
     }
   }
