@@ -2,21 +2,12 @@ const fs = require('fs');
 const path = require('path');
 const { fetchAllJobs } = require('../unified-job-fetcher');
 const {
-    companies,
-    ALL_COMPANIES,
-    COMPANY_BY_NAME,
     generateJobId,
     migrateOldJobId,
-    normalizeCompanyName,
-    getCompanyEmoji,
-    getCompanyCareerUrl,
-    formatTimeAgo,
-    isJobOlderThanWeek,
     isUSOnlyJob,
     getExperienceLevel,
     getJobCategory,
-    formatLocation,
-    delay
+    formatLocation
 } = require('./utils');
 
 // Description fetcher service
@@ -429,13 +420,23 @@ async function processJobs() {
             job.id = generateJobId(job);
         });
 
-        // Filter for truly NEW jobs (deduplication against posted_jobs.json)
-        // This ensures failed posts can be retried and avoids skipping valid jobs
-        const freshJobs = currentJobs.filter(job => !postedIds.has(job.id));
+        // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
+        // Load queue BEFORE filtering to check for duplicates already in queue
+        let queue = loadPendingQueue();
+        queue = cleanupPostedFromQueue(queue);
 
-        console.log(`📊 Processing summary: ${usJobs.length} total jobs, ${currentJobs.length} current (0-${MAX_AGE_HOURS}h window), ${freshJobs.length} new (not posted before)`);
+        // Create set of job IDs already in queue to prevent duplicate additions
+        const queueIds = new Set(queue.map(item => item.job.id));
 
-        // STEP 1: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
+        // STEP 2: Filter for truly NEW jobs (deduplication against BOTH posted_jobs.json AND queue)
+        // This ensures we don't add the same job to queue multiple times
+        const freshJobs = currentJobs.filter(job =>
+            !postedIds.has(job.id) && !queueIds.has(job.id)
+        );
+
+        console.log(`📊 Processing summary: ${usJobs.length} total jobs, ${currentJobs.length} current (0-${MAX_AGE_HOURS}h window), ${freshJobs.length} new (not posted AND not in queue)`);
+
+        // STEP 3: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
         // This prevents re-fetching them in next run, even if we don't process them all this run
         if (freshJobs.length > 0) {
             freshJobs.forEach(job => seenIds.add(job.id));
@@ -443,11 +444,7 @@ async function processJobs() {
             console.log(`✅ Marked ${freshJobs.length} new jobs as seen`);
         }
 
-        // STEP 2: Load pending queue and clean up posted jobs
-        let queue = loadPendingQueue();
-        queue = cleanupPostedFromQueue(queue);
-
-        // STEP 3: Add ALL new jobs to queue with "pending" status
+        // STEP 4: Add ALL new jobs to queue with "pending" status
         const now = new Date().toISOString();
         freshJobs.forEach(job => {
             queue.push({
@@ -463,8 +460,8 @@ async function processJobs() {
             console.log(`📥 Added ${freshJobs.length} new jobs to pending queue`);
         }
 
-        // STEP 4: Select batch from queue (FIFO - oldest first)
-        const BATCH_SIZE = 10; // Process max 10 jobs per run
+        // STEP 5: Select batch from queue (FIFO - oldest first)
+        const BATCH_SIZE = 20; // Process max 20 jobs per run (increased from 10 - queue bloat fixed)
         const pendingItems = queue.filter(item => item.status === 'pending' || item.status === 'enriched');
         const batch = pendingItems.slice(0, BATCH_SIZE);
 
@@ -474,7 +471,7 @@ async function processJobs() {
         } else {
             console.log(`\n🔄 Processing batch: ${batch.length} jobs (${queue.filter(i => i.status === 'pending').length} pending in queue total)`);
 
-            // STEP 5: Enrich descriptions for jobs with "pending" status only
+            // STEP 6: Enrich descriptions for jobs with "pending" status only
             const needEnrichment = batch.filter(item => item.status === 'pending');
 
             if (needEnrichment.length > 0) {
@@ -518,7 +515,7 @@ async function processJobs() {
                 console.log(`ℹ️ All ${batch.length} jobs in batch already enriched, skipping description fetch`);
             }
 
-            // STEP 6: Write batch to new_jobs.json for Discord bot
+            // STEP 7: Write batch to new_jobs.json for Discord bot
             const batchJobs = batch.map(item => item.job);
 
             // MARKDOWN CONVERSION: Convert HTML descriptions to Markdown if enabled (runs on ALL jobs)
@@ -557,7 +554,7 @@ async function processJobs() {
 
             writeNewJobsJson(batchJobs);
 
-            // STEP 7: Save queue (don't remove items yet - Discord bot will mark as "posted")
+            // STEP 8: Save queue (don't remove items yet - Discord bot will mark as "posted")
             savePendingQueue(queue);
 
             console.log(`✅ Batch ready for Discord bot: ${batchJobs.length} jobs`);
