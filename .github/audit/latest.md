@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2025-12-13T05:24:10.278Z
+**Timestamp:** 2025-12-13T05:37:57.768Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 0
@@ -8,67 +8,67 @@
 - **Database Saved:** ❌ No
 ## Sanitized Log Output
 ```
-[2025-12-13T05:24:07.662Z] ========================================
-[2025-12-13T05:24:07.664Z] Discord Bot Execution Log
-[2025-12-13T05:24:07.664Z] Environment: GitHub Actions
-[2025-12-13T05:24:07.664Z] Node Version: v20.19.6
-[2025-12-13T05:24:07.664Z] ========================================
-[2025-12-13T05:24:07.664Z] Environment Variables Check:
-[2025-12-13T05:24:07.664Z] DISCORD_TOKEN: ✅ Set
-[2025-12-13T05:24:07.664Z] DISCORD_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.664Z] DISCORD_CLIENT_ID: ❌ Not set
-[2025-12-13T05:24:07.664Z] DISCORD_GUILD_ID: ❌ Not set
-[2025-12-13T05:24:07.664Z] 
+[2025-12-13T05:37:55.231Z] ========================================
+[2025-12-13T05:37:55.232Z] Discord Bot Execution Log
+[2025-12-13T05:37:55.233Z] Environment: GitHub Actions
+[2025-12-13T05:37:55.233Z] Node Version: v20.19.6
+[2025-12-13T05:37:55.233Z] ========================================
+[2025-12-13T05:37:55.233Z] Environment Variables Check:
+[2025-12-13T05:37:55.233Z] DISCORD_TOKEN: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_CLIENT_ID: ❌ Not set
+[2025-12-13T05:37:55.233Z] DISCORD_GUILD_ID: ❌ Not set
+[2025-12-13T05:37:55.233Z] 
 Multi-Channel Configuration:
-[2025-12-13T05:24:07.664Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2025-12-13T05:24:07.665Z] 
+[2025-12-13T05:37:55.233Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2025-12-13T05:37:55.233Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2025-12-13T05:24:07.665Z] 
+[2025-12-13T05:37:55.234Z] 
 Data Files Check:
-[2025-12-13T05:24:07.666Z] .github/data/new_jobs.json: ✅ Exists (10 items, 141833 bytes)
-[2025-12-13T05:24:07.667Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 68536 bytes)
-[2025-12-13T05:24:07.667Z] 
+[2025-12-13T05:37:55.235Z] .github/data/new_jobs.json: ✅ Exists (10 items, 141833 bytes)
+[2025-12-13T05:37:55.235Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 68536 bytes)
+[2025-12-13T05:37:55.235Z] 
 ========================================
-[2025-12-13T05:24:07.667Z] Starting Enhanced Discord Bot...
-[2025-12-13T05:24:07.667Z] ========================================
-[2025-12-13T05:24:08.180Z] [BOT] ✅ Loaded V2 database: 106 jobs
-[2025-12-13T05:24:09.185Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2025-12-13T05:24:09.186Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2025-12-13T05:37:55.235Z] Starting Enhanced Discord Bot...
+[2025-12-13T05:37:55.235Z] ========================================
+[2025-12-13T05:37:55.733Z] [BOT] ✅ Loaded V2 database: 106 jobs
+[2025-12-13T05:37:56.577Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2025-12-13T05:37:56.578Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply Career Hub (CH_20db82b8)
-[2025-12-13T05:24:09.186Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2025-12-13T05:24:09.187Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
-[2025-12-13T05:24:09.291Z] [BOT] ✅ Export complete: Added 0, Skipped 10, Total 116
-[2025-12-13T05:24:09.292Z] [BOT] ⏭️  Skipping duplicate: JID_f9bb03c4-1_r-266543-1 (posted within 7 days)
-⏭️ Skipping already posted: Software Engineer 1 - 1 at Mastercard
-[2025-12-13T05:24:09.292Z] [BOT] ⏭️  Skipping duplicate: JID_80832c91-2026_r0054979-1 (posted within 7 days)
+[2025-12-13T05:37:56.578Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2025-12-13T05:37:56.579Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
+[2025-12-13T05:37:56.679Z] [BOT] ✅ Export complete: Added 0, Skipped 10, Total 116
+[2025-12-13T05:37:56.680Z] [BOT] ⏭️  Skipping duplicate: JID_f9bb03c4-1_r-266543-1 (posted within 7 days)
+[2025-12-13T05:37:56.680Z] [BOT] ⏭️ Skipping already posted: Software Engineer 1 - 1 at Mastercard
+[2025-12-13T05:37:56.680Z] [BOT] ⏭️  Skipping duplicate: JID_80832c91-2026_r0054979-1 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_1f5f8642 at Empower
 ⏭️  Skipping duplicate: JID_54b586ca (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at Intuit
-[2025-12-13T05:24:09.292Z] [BOT] ⏭️  Skipping duplicate: JID_3345e37e (posted within 7 days)
+[2025-12-13T05:37:56.680Z] [BOT] ⏭️  Skipping duplicate: JID_3345e37e (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer I, Frontend at Twitch
 ⏭️  Skipping duplicate: JID_abad3e00 (posted within 7 days)
 ⏭️ Skipping already posted: SAP Developer - Level 1 at Cintas
-[2025-12-13T05:24:09.292Z] [BOT] ⏭️  Skipping duplicate: JID_d864ec9b-_r2519402 (posted within 7 days)
+⏭️  Skipping duplicate: JID_d864ec9b-_r2519402 (posted within 7 days)
 ⏭️ Skipping already posted: Data Science Engineer - New College Grad-Master's/PhD at Applied Materials
 ⏭️  Skipping duplicate: JID_2f317ae4-2026_jr2009934 (posted within 7 days)
-⏭️ Skipping already posted: GPU and SoC Modelling Architect – New College Grad at NVIDIA
+[2025-12-13T05:37:56.680Z] [BOT] ⏭️ Skipping already posted: GPU and SoC Modelling Architect – New College Grad at NVIDIA
 ⏭️  Skipping duplicate: JID_19f24911 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_62f44bde at Matic
 ⏭️  Skipping duplicate: JID_3826ac21 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_ec91c7c8 at Masimo
-[2025-12-13T05:24:09.292Z] [BOT] ⏭️  Skipping duplicate: JID_70c4903f-external_experienced-JID_098be064-engineer_r160351-1 (posted within 7 days)
+⏭️  Skipping duplicate: JID_70c4903f-external_experienced-JID_098be064-engineer_r160351-1 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_d790a222 at Adobe
 ℹ️ No new jobs to post - all jobs have been posted already
-[2025-12-13T05:24:09.302Z] 
+[2025-12-13T05:37:56.690Z] 
 ========================================
 ```
 ## Errors Detected
