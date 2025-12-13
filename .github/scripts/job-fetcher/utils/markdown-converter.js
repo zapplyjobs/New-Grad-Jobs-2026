@@ -47,7 +47,6 @@ function convertHtmlToMarkdown(html, options = {}) {
   const {
     maxLength = 5000,
     fallbackMessage = "No description available",
-    strictSanitization = true,
     gfmSupport = true
   } = options;
 
@@ -86,6 +85,39 @@ function convertHtmlToMarkdown(html, options = {}) {
 
     metadata.originalSize = Buffer.byteLength(html, 'utf8');
 
+    // LAYER 1.5: HTML ENTITY DECODING
+    // Decode HTML entities (e.g., &lt; → <, &gt; → >, &amp; → &)
+    // This must happen BEFORE sanitization to properly convert HTML
+    let decodedHtml = html;
+    const htmlEntities = {
+      '&lt;': '<',
+      '&gt;': '>',
+      '&amp;': '&',
+      '&quot;': '"',
+      '&#39;': "'",
+      '&apos;': "'",
+      '&nbsp;': ' ',
+      '&#x27;': "'",
+      '&#x2F;': '/'
+    };
+
+    for (const [entity, char] of Object.entries(htmlEntities)) {
+      decodedHtml = decodedHtml.replace(new RegExp(entity, 'g'), char);
+    }
+
+    // Decode numeric HTML entities (&#xxx; and &#xHHH;)
+    decodedHtml = decodedHtml.replace(/&#(\d+);/g, (match, dec) => {
+      return String.fromCharCode(dec);
+    });
+    decodedHtml = decodedHtml.replace(/&#x([0-9A-Fa-f]+);/g, (match, hex) => {
+      return String.fromCharCode(parseInt(hex, 16));
+    });
+
+    // Track if decoding happened
+    if (html !== decodedHtml) {
+      metadata.sanitizationActions.push('decoded HTML entities');
+    }
+
     // LAYER 2: HTML SANITIZATION (XSS protection)
     const sanitizeConfig = {
       allowedTags: [
@@ -118,13 +150,13 @@ function convertHtmlToMarkdown(html, options = {}) {
       }
     };
 
-    const sanitizedHtml = sanitizeHtml(html, sanitizeConfig);
+    const sanitizedHtml = sanitizeHtml(decodedHtml, sanitizeConfig);
 
     // Track sanitization actions for debugging
-    if (html !== sanitizedHtml) {
-      const removedScripts = (html.match(/<script/gi) || []).length;
-      const removedStyles = (html.match(/<style/gi) || []).length;
-      const removedTracking = (html.match(/1x1/g) || []).length;
+    if (decodedHtml !== sanitizedHtml) {
+      const removedScripts = (decodedHtml.match(/<script/gi) || []).length;
+      const removedStyles = (decodedHtml.match(/<style/gi) || []).length;
+      const removedTracking = (decodedHtml.match(/1x1/g) || []).length;
 
       if (removedScripts > 0) {
         metadata.sanitizationActions.push(`removed ${removedScripts} script tag(s)`);
@@ -162,7 +194,7 @@ function convertHtmlToMarkdown(html, options = {}) {
     markdown = markdown.replace(/\n{3,}/g, '\n\n');  // Max 2 consecutive newlines
 
     // Ensure proper list formatting (blank line before lists)
-    markdown = markdown.replace(/([^\n])\n([*\-])/g, '$1\n\n$2');
+    markdown = markdown.replace(/([^\n])\n([*-])/g, '$1\n\n$2');
 
     // Trim leading/trailing whitespace
     markdown = markdown.trim();
@@ -242,7 +274,7 @@ function convertBatch(jobs, options = {}) {
     totalMarkdownSize: 0
   };
 
-  const convertedJobs = jobs.map((job, index) => {
+  const convertedJobs = jobs.map((job) => {
     const description = job.description || job.job_description;
 
     if (!description) {
