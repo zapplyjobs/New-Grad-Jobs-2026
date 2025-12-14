@@ -251,18 +251,37 @@ function savePendingQueue(queue) {
 }
 
 /**
- * Clean up posted jobs from queue
+ * Enhanced cleanup: Remove posted jobs and deduplicate queue
+ * @param {Array} queue - Pending posts queue
+ * @param {Set} postedIds - Set of job IDs already posted to Discord
+ * @returns {Array} Cleaned and deduplicated queue
  */
-function cleanupPostedFromQueue(queue) {
+function cleanupPostedFromQueue(queue, postedIds) {
     const beforeCount = queue.length;
-    const cleanedQueue = queue.filter(item => item.status !== 'posted');
-    const removedCount = beforeCount - cleanedQueue.length;
 
-    if (removedCount > 0) {
-        console.log(`🧹 Removed ${removedCount} posted jobs from queue`);
+    // Step 1: Remove jobs already posted to Discord
+    const notPosted = queue.filter(item => !postedIds.has(item.job.id));
+    const removedPosted = beforeCount - notPosted.length;
+
+    // Step 2: Deduplicate by job ID (keep first occurrence, FIFO)
+    const seen = new Set();
+    const deduplicated = notPosted.filter(item => {
+        const id = item.job.id;
+        if (seen.has(id)) {
+            return false; // Duplicate, skip
+        }
+        seen.add(id);
+        return true; // First occurrence, keep
+    });
+
+    const removedDuplicates = notPosted.length - deduplicated.length;
+    const totalRemoved = beforeCount - deduplicated.length;
+
+    if (totalRemoved > 0) {
+        console.log(`🧹 Queue cleanup: removed ${removedPosted} already posted, ${removedDuplicates} duplicates (${totalRemoved} total, ${deduplicated.length} remaining)`);
     }
 
-    return cleanedQueue;
+    return deduplicated;
 }
 
 // Load seen jobs for deduplication with error handling and validation
@@ -358,22 +377,32 @@ function loadPostedJobsStore() {
             return new Set();
         }
 
-        const postedJobs = JSON.parse(fileContent);
-        if (!Array.isArray(postedJobs)) {
-            console.log('⚠️ Invalid posted_jobs.json format - expected array, starting fresh');
-            return new Set();
+        const postedData = JSON.parse(fileContent);
+
+        // Handle V2 format (current): {version: 2, jobs: [...], lastUpdated: "...", metadata: {}}
+        if (postedData.version === 2 && Array.isArray(postedData.jobs)) {
+            const validPostedJobs = postedData.jobs
+                .map(job => job.jobId || job.id)
+                .filter(id => typeof id === 'string' && id.trim().length > 0);
+
+            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V2 format)`);
+            return new Set(validPostedJobs);
         }
 
-        // Filter out invalid entries (non-strings or empty strings)
-        const validPostedJobs = postedJobs.filter(id => typeof id === 'string' && id.trim().length > 0);
+        // Handle V1 format (backwards compatibility): [...]
+        if (Array.isArray(postedData)) {
+            const validPostedJobs = postedData.filter(id => typeof id === 'string' && id.trim().length > 0);
 
-        if (validPostedJobs.length !== postedJobs.length) {
-            console.log(`⚠️ Filtered ${postedJobs.length - validPostedJobs.length} invalid entries from posted_jobs.json`);
+            if (validPostedJobs.length !== postedData.length) {
+                console.log(`⚠️ Filtered ${postedData.length - validPostedJobs.length} invalid entries from posted_jobs.json`);
+            }
+
+            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V1 format)`);
+            return new Set(validPostedJobs);
         }
 
-        console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication`);
-
-        return new Set(validPostedJobs);
+        console.log('⚠️ Invalid posted_jobs.json format - starting fresh');
+        return new Set();
 
     } catch (error) {
         console.error('❌ Error loading posted_jobs.json:', error.message);
@@ -423,7 +452,7 @@ async function processJobs() {
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
         let queue = loadPendingQueue();
-        queue = cleanupPostedFromQueue(queue);
+        queue = cleanupPostedFromQueue(queue, postedIds);
 
         // Create set of job IDs already in queue to prevent duplicate additions
         const queueIds = new Set(queue.map(item => item.job.id));
