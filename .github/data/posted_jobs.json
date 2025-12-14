@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T18:29:20.712Z",
+  "lastUpdated": "2025-12-14T18:43:02.290Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1277,14 +1277,124 @@
       "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983",
       "discordThreadId": "1449830623920390218",
       "instanceNumber": 1
+    },
+    {
+      "id": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1-2025-12-14-1",
+      "jobId": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1",
+      "company": "Protiviti",
+      "title": "Americas Delivery Center Technology Experienced Analyst",
+      "postedToDiscord": "2025-12-14T18:42:22.061Z",
+      "sourceDate": "2025-12-12T23:23:23.000Z",
+      "sourceUrl": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1",
+      "discordThreadId": "1449833901647204463",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89447203920-2025-12-14-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89447203920",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-14T18:42:28.579Z",
+      "sourceDate": "2025-12-12T23:20:11.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89447203920",
+      "discordThreadId": "1449833928557858957",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-b57be88f-45a9-441c-8304-20b57044a8e3-application-2025-12-14-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-b57be88f-45a9-441c-8304-20b57044a8e3-application",
+      "company": "Jerry",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-14T18:42:32.136Z",
+      "sourceDate": "2025-12-12T23:19:48.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/b57be88f-45a9-441c-8304-20b57044a8e3/application",
+      "discordThreadId": "1449833943099773011",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-noaa_jr107952-2025-12-14-1",
+      "jobId": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-noaa_jr107952",
+      "company": "Colorado School of Mines",
+      "title": "Post-Doctoral Fellow - Noaa",
+      "postedToDiscord": "2025-12-14T18:42:33.948Z",
+      "sourceDate": "2025-12-12T23:17:59.000Z",
+      "sourceUrl": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--NOAA_JR107952",
+      "discordThreadId": "1449833958488670270",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889-2025-12-14-1",
+      "jobId": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889",
+      "company": "Perle",
+      "title": "Cantonese Language Specialist",
+      "postedToDiscord": "2025-12-14T18:42:40.495Z",
+      "sourceDate": "2025-12-12T23:17:09.000Z",
+      "sourceUrl": "https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889",
+      "discordThreadId": "1449833978478727322",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-inductiveautomation-6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1-apply-2025-12-14-1",
+      "jobId": "jobs-lever-co-inductiveautomation-6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1-apply",
+      "company": "Inductive Automation",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-14T18:42:44.833Z",
+      "sourceDate": "2025-12-12T23:16:02.000Z",
+      "sourceUrl": "https://jobs.lever.co/inductiveautomation/6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1/apply",
+      "discordThreadId": "1449833993917825036",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556640934-2025-12-14-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556640934",
+      "company": "Microsoft",
+      "title": "Software Engineer - Full Stack",
+      "postedToDiscord": "2025-12-14T18:42:48.511Z",
+      "sourceDate": "2025-12-12T23:06:13.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640934",
+      "discordThreadId": "1449834011345293395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556636929-2025-12-14-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556636929",
+      "company": "Microsoft",
+      "title": "Software Engineer 2",
+      "postedToDiscord": "2025-12-14T18:42:52.255Z",
+      "sourceDate": "2025-12-12T23:05:19.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556636929",
+      "discordThreadId": "1449834027006562334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1-2025-12-14-1",
+      "jobId": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1",
+      "company": "State Street",
+      "title": "Software Engineer 1 - Web Frameworks - Officer",
+      "postedToDiscord": "2025-12-14T18:42:55.712Z",
+      "sourceDate": "2025-12-12T17:11:16.000Z",
+      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1",
+      "discordThreadId": "1449834042626412716",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply-2025-12-14-1",
+      "jobId": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply",
+      "company": "Tinder",
+      "title": "Data Scientist 2 - Growth",
+      "postedToDiscord": "2025-12-14T18:43:02.290Z",
+      "sourceDate": "2025-12-12T23:15:48.000Z",
+      "sourceUrl": "https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply",
+      "discordThreadId": "1449834069385941076",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 116,
+    "totalJobs": 126,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-14T18:29:20.712Z",
+      "date": "2025-12-14T18:43:02.290Z",
       "archived": 0
     }
   }
