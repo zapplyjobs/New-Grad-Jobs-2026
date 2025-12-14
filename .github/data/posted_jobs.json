@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T18:43:02.290Z",
+  "lastUpdated": "2025-12-14T18:52:20.284Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1387,14 +1387,102 @@
       "sourceUrl": "https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply",
       "discordThreadId": "1449834069385941076",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89441255264-2025-12-14-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89441255264",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-14T18:51:46.156Z",
+      "sourceDate": "2025-12-12T16:21:20.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89441255264",
+      "discordThreadId": "1449836267016818879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medtronic-wd1-myworkdayjobs-com-redeploymentmedtroniccareers-job-northridge-california-united-states-of-america-software-operations-engineer-i_r46476-2025-12-14-1",
+      "jobId": "medtronic-wd1-myworkdayjobs-com-redeploymentmedtroniccareers-job-northridge-california-united-states-of-america-software-operations-engineer-i_r46476",
+      "company": "Medtronic",
+      "title": "Software Operations Engineer 1",
+      "postedToDiscord": "2025-12-14T18:51:49.554Z",
+      "sourceDate": "2025-12-13T03:10:04.000Z",
+      "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
+      "discordThreadId": "1449836281830969436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-crusoe-f79eed01-9e4a-4b43-bcdf-5e8649ccfefa-application-2025-12-14-1",
+      "jobId": "jobs-ashbyhq-com-crusoe-f79eed01-9e4a-4b43-bcdf-5e8649ccfefa-application",
+      "company": "Crusoe",
+      "title": "Software Engineer – New College Graduate 2026",
+      "postedToDiscord": "2025-12-14T18:51:53.086Z",
+      "sourceDate": "2025-12-13T02:15:23.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application",
+      "discordThreadId": "1449836296406044984",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply-2025-12-14-1",
+      "jobId": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply",
+      "company": "Sensor Tower",
+      "title": "Product Analyst - Digital Advertising",
+      "postedToDiscord": "2025-12-14T18:51:59.805Z",
+      "sourceDate": "2025-12-12T16:16:40.000Z",
+      "sourceUrl": "https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply",
+      "discordThreadId": "1449836323862089930",
+      "instanceNumber": 1
+    },
+    {
+      "id": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-technology-delivery-analyst-elevate-_r0067565-2025-12-14-1",
+      "jobId": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-technology-delivery-analyst-elevate-_r0067565",
+      "company": "Huntington Bancshares",
+      "title": "Technology Delivery Analyst - Elevate",
+      "postedToDiscord": "2025-12-14T18:52:06.386Z",
+      "sourceDate": "2025-12-12T16:04:13.000Z",
+      "sourceUrl": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067565",
+      "discordThreadId": "1449836352249139281",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aep-wd1-myworkdayjobs-com-aepcareersite-job-new-albany-oh-data-scientist-mid-sr-transmission-systems-asset-health_r12729-2025-12-14-1",
+      "jobId": "aep-wd1-myworkdayjobs-com-aepcareersite-job-new-albany-oh-data-scientist-mid-sr-transmission-systems-asset-health_r12729",
+      "company": "American Electric Power",
+      "title": "Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health",
+      "postedToDiscord": "2025-12-14T18:52:13.437Z",
+      "sourceDate": "2025-12-13T02:07:38.000Z",
+      "sourceUrl": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729",
+      "discordThreadId": "1449836380984315965",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-uber-icims-com-jobs-150146-job-2025-12-14-1",
+      "jobId": "university-uber-icims-com-jobs-150146-job",
+      "company": "Uber",
+      "title": "2026 Software Engineering Boost Fellowship - Arizona State University",
+      "postedToDiscord": "2025-12-14T18:52:16.928Z",
+      "sourceDate": "2025-12-13T02:24:30.000Z",
+      "sourceUrl": "https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449836396218155214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-blend360-744000098779875-2025-12-14-1",
+      "jobId": "jobs-smartrecruiters-com-blend360-744000098779875",
+      "company": "blend360",
+      "title": "Junior Data Scientist",
+      "postedToDiscord": "2025-12-14T18:52:20.284Z",
+      "sourceDate": "2025-12-13T16:06:55.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Blend360/744000098779875",
+      "discordThreadId": "1449836410919190548",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 126,
+    "totalJobs": 134,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-14T18:43:02.290Z",
+      "date": "2025-12-14T18:52:20.284Z",
       "archived": 0
     }
   }
