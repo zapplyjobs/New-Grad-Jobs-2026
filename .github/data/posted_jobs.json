@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T18:52:20.284Z",
+  "lastUpdated": "2025-12-14T23:34:15.860Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1475,14 +1475,25 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Blend360/744000098779875",
       "discordThreadId": "1449836410919190548",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
+      "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255",
+      "company": "Palo Alto Networks",
+      "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
+      "postedToDiscord": "2025-12-14T23:34:15.860Z",
+      "sourceDate": "2025-12-14T23:17:39.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255",
+      "discordThreadId": "1449907359609786582",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 134,
+    "totalJobs": 135,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-14T18:52:20.284Z",
+      "date": "2025-12-14T23:34:15.860Z",
       "archived": 0
     }
   }
