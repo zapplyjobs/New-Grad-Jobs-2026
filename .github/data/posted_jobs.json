@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T20:23:27.483Z",
+  "lastUpdated": "2025-12-15T22:03:21.515Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1640,14 +1640,36 @@
       "sourceUrl": "https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application",
       "discordThreadId": "1450221728729927920",
       "instanceNumber": 1
+    },
+    {
+      "id": "att-wd1-myworkdayjobs-com-attgeneral-job-middletown-new-jersey-senior-member-of-technical-staff_r-92551-2025-12-15-1",
+      "jobId": "att-wd1-myworkdayjobs-com-attgeneral-job-middletown-new-jersey-senior-member-of-technical-staff_r-92551",
+      "company": "AT&T",
+      "title": "Senior Member of Technical Staff",
+      "postedToDiscord": "2025-12-15T22:03:15.041Z",
+      "sourceDate": "2025-12-15T21:30:04.000Z",
+      "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Senior-Member-of-Technical-Staff_R-92551",
+      "discordThreadId": "1450246842519388294",
+      "instanceNumber": 1
+    },
+    {
+      "id": "generalmotors-wd5-myworkdayjobs-com-careers_gm-job-warren-michigan-united-states-of-america-entry-level-mainframe-systems-engineer_jr-202524087-2025-12-15-1",
+      "jobId": "generalmotors-wd5-myworkdayjobs-com-careers_gm-job-warren-michigan-united-states-of-america-entry-level-mainframe-systems-engineer_jr-202524087",
+      "company": "General Motors",
+      "title": "Entry Level Mainframe Systems Engineer",
+      "postedToDiscord": "2025-12-15T22:03:21.514Z",
+      "sourceDate": "2025-12-15T21:26:53.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087",
+      "discordThreadId": "1450246870470492261",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 149,
+    "totalJobs": 151,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-15T20:23:27.483Z",
+      "date": "2025-12-15T22:03:21.515Z",
       "archived": 0
     }
   }
