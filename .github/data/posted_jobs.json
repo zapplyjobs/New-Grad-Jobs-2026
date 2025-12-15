@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T22:03:21.515Z",
+  "lastUpdated": "2025-12-15T23:35:48.101Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1662,14 +1662,80 @@
       "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087",
       "discordThreadId": "1450246870470492261",
       "instanceNumber": 1
+    },
+    {
+      "id": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-civil-and-environmental-engineering_jr107955-2025-12-15-1",
+      "jobId": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-civil-and-environmental-engineering_jr107955",
+      "company": "Colorado School of Mines",
+      "title": "Postdoctoral Fellow - Civil and Environmental Engineering",
+      "postedToDiscord": "2025-12-15T23:35:32.979Z",
+      "sourceDate": "2025-12-15T23:21:32.000Z",
+      "sourceUrl": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Civil-and-Environmental-Engineering_JR107955",
+      "discordThreadId": "1450270077537747056",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903-2025-12-15-1",
+      "jobId": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903",
+      "company": "Electronic Arts",
+      "title": "EA Sports Academy Software Engineer",
+      "postedToDiscord": "2025-12-15T23:35:36.727Z",
+      "sourceDate": "2025-12-15T23:15:11.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903",
+      "discordThreadId": "1450270085997658274",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-mti-inc-6b5e1aff-24f6-42e0-b858-6ffe6071b126-apply-2025-12-15-1",
+      "jobId": "jobs-lever-co-mti-inc-6b5e1aff-24f6-42e0-b858-6ffe6071b126-apply",
+      "company": "Monterey Technologies",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2025-12-15T23:35:40.446Z",
+      "sourceDate": "2025-12-15T23:10:35.000Z",
+      "sourceUrl": "https://jobs.lever.co/mti-inc/6b5e1aff-24f6-42e0-b858-6ffe6071b126/apply",
+      "discordThreadId": "1450270102342729820",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556631972-2025-12-15-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631972",
+      "company": "Microsoft",
+      "title": "Software Engineer - Windows Servicing and Delivery",
+      "postedToDiscord": "2025-12-15T23:35:44.343Z",
+      "sourceDate": "2025-12-15T23:09:54.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
+      "discordThreadId": "1450270116649500683",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556631977-2025-12-15-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631977",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-15T23:35:44.346Z",
+      "sourceDate": "2025-12-15T23:09:42.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631977",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wyetechllc-a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d-apply-2025-12-15-1",
+      "jobId": "jobs-lever-co-wyetechllc-a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d-apply",
+      "company": "Wyetech",
+      "title": "Software Engineer 2",
+      "postedToDiscord": "2025-12-15T23:35:48.100Z",
+      "sourceDate": "2025-12-15T23:09:22.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d/apply",
+      "discordThreadId": "1450270133280047216",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 151,
+    "totalJobs": 157,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-15T22:03:21.515Z",
+      "date": "2025-12-15T23:35:48.101Z",
       "archived": 0
     }
   }
