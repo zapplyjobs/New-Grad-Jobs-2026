@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T20:04:05.674Z",
+  "lastUpdated": "2025-12-15T20:23:27.483Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1596,14 +1596,58 @@
       "sourceUrl": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
       "discordThreadId": "1450216856144052274",
       "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-macdill-afb-software-engineer_rq211472-1-2025-12-15-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-macdill-afb-software-engineer_rq211472-1",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-15T20:23:15.299Z",
+      "sourceDate": "2025-12-15T07:36:13.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ211472-1",
+      "discordThreadId": "1450221678746669148",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-inductiveautomation-5cdc7a76-69f7-4979-8971-72e5e06015a0-2025-12-15-1",
+      "jobId": "jobs-lever-co-inductiveautomation-5cdc7a76-69f7-4979-8971-72e5e06015a0",
+      "company": "Inductive Automation",
+      "title": "Software Quality Assurance Engineer I",
+      "postedToDiscord": "2025-12-15T20:23:18.750Z",
+      "sourceDate": "2025-12-15T07:34:13.000Z",
+      "sourceUrl": "https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0",
+      "discordThreadId": "1450221692721958913",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-wi-data-engineer-i_1624077-2025-12-15-1",
+      "jobId": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-wi-data-engineer-i_1624077",
+      "company": "Centene",
+      "title": "Data Engineer 1",
+      "postedToDiscord": "2025-12-15T20:23:23.618Z",
+      "sourceDate": "2025-12-15T07:26:32.000Z",
+      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077",
+      "discordThreadId": "1450221720102375465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-goodship-68c69cb3-a256-4292-86f5-e027619e0f66-application-2025-12-15-1",
+      "jobId": "jobs-ashbyhq-com-goodship-68c69cb3-a256-4292-86f5-e027619e0f66-application",
+      "company": "GoodShip",
+      "title": "Platform Data Analyst",
+      "postedToDiscord": "2025-12-15T20:23:27.483Z",
+      "sourceDate": "2025-12-15T07:16:08.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application",
+      "discordThreadId": "1450221728729927920",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 145,
+    "totalJobs": 149,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-15T20:04:05.674Z",
+      "date": "2025-12-15T20:23:27.483Z",
       "archived": 0
     }
   }
