@@ -56,8 +56,11 @@ async function fetchExternalJobsData() {
   const dataSourceUrl = process.env.PRIMARY_DATA_SOURCE_URL;
 
   if (!dataSourceUrl) {
-    console.log('⚠️  Primary data source not configured');
-    return [];
+    const errorMsg = '❌ CRITICAL: PRIMARY_DATA_SOURCE_URL environment variable is not set!\n' +
+                     '   → Set GRAD_JOBS_PROCESSOR_URL secret in repository settings\n' +
+                     '   → Workflow will fail without this secret';
+    console.error(errorMsg);
+    throw new Error('PRIMARY_DATA_SOURCE_URL is required but not configured');
   }
 
   try {
