@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T06:25:42.087Z",
+  "lastUpdated": "2025-12-16T06:45:25.804Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -3466,14 +3466,124 @@
       "sourceUrl": "https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/2856-Research-and-Data-Analyst-Strategic-Defense-Shareholder-Advisory-Team/en-GB",
       "discordThreadId": "1450373289166901258",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7532656714349365512-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7532656714349365512-detail",
+      "company": "ByteDance",
+      "title": "Backend Software Engineer Graduate",
+      "postedToDiscord": "2025-12-16T06:44:51.915Z",
+      "sourceDate": "2025-10-31T12:53:13.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7532656714349365512/detail",
+      "discordThreadId": "1450378112331157585",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7531161909594507528-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7531161909594507528",
+      "company": "TikTok",
+      "title": "Graduate Software Engineer - Ads Identity and Attribution Technology",
+      "postedToDiscord": "2025-12-16T06:44:55.237Z",
+      "sourceDate": "2025-10-31T12:40:47.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7531161909594507528",
+      "discordThreadId": "1450378126184939610",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7538578181957044487-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7538578181957044487-detail",
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate - Computational Imaging-Pico - 2026 Start",
+      "postedToDiscord": "2025-12-16T06:44:58.680Z",
+      "sourceDate": "2025-10-31T12:40:07.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538578181957044487/detail",
+      "discordThreadId": "1450378140294844486",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7535238327160637703-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7535238327160637703",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate - Data Arch - E-commerce",
+      "postedToDiscord": "2025-12-16T06:45:01.953Z",
+      "sourceDate": "2025-10-31T12:31:50.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535238327160637703",
+      "discordThreadId": "1450378154509205636",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7515575670019606802-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7515575670019606802-detail",
+      "company": "ByteDance",
+      "title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
+      "postedToDiscord": "2025-12-16T06:45:05.303Z",
+      "sourceDate": "2025-10-31T12:28:33.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7515575670019606802/detail",
+      "discordThreadId": "1450378168283172947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-evlf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-29720-2025-12-16-1",
+      "jobId": "fa-evlf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-29720",
+      "company": "Hertz",
+      "title": "Cyber Security Specialist - Data Analysis",
+      "postedToDiscord": "2025-12-16T06:45:09.231Z",
+      "sourceDate": "2025-10-31T12:27:31.000Z",
+      "sourceUrl": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29720",
+      "discordThreadId": "1450378182451658753",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-305298-2025-12-16-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-305298",
+      "company": "Oracle",
+      "title": "Undergrad Software Engineer - Database Technologies",
+      "postedToDiscord": "2025-12-16T06:45:12.570Z",
+      "sourceDate": "2025-10-31T12:16:40.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/305298",
+      "discordThreadId": "1450378198742335528",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7550798923146250504-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7550798923146250504",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
+      "postedToDiscord": "2025-12-16T06:45:18.977Z",
+      "sourceDate": "2025-10-31T12:45:56.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7550798923146250504",
+      "discordThreadId": "1450378225489543219",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7536338508719573266-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7536338508719573266-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start",
+      "postedToDiscord": "2025-12-16T06:45:22.321Z",
+      "sourceDate": "2025-10-31T12:28:47.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7536338508719573266/detail",
+      "discordThreadId": "1450378239766954094",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7265104569217534263-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7265104569217534263-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer in ML Systems Graduate - Aml - Machine Learning Systems",
+      "postedToDiscord": "2025-12-16T06:45:25.804Z",
+      "sourceDate": "2025-10-31T12:25:23.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7265104569217534263/detail",
+      "discordThreadId": "1450378253671071754",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 315,
+    "totalJobs": 325,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T06:25:42.087Z",
+      "date": "2025-12-16T06:45:25.804Z",
       "archived": 0
     }
   }
