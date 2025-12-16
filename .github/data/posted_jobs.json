@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T05:25:01.262Z",
+  "lastUpdated": "2025-12-16T05:40:03.113Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -3026,14 +3026,124 @@
       "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Junior-Image-Scientist_R2098927",
       "discordThreadId": "1450358018305949696",
       "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generative-ai-for-physical-ai-phd-new-college-grad-2025_jr2005875-2025-12-16-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generative-ai-for-physical-ai-phd-new-college-grad-2025_jr2005875",
+      "company": "NVIDIA",
+      "title": "Research Scientist – PhD New College Grad - Generative AI for Physical AI",
+      "postedToDiscord": "2025-12-16T05:39:24.551Z",
+      "sourceDate": "2025-11-01T10:45:00.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2025_JR2005875",
+      "discordThreadId": "1450361639395135641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roche-wd3-myworkdayjobs-com-rog-a2o-gene-job-south-san-francisco-postdoctoral-fellow-computational-biology-machine-learning-sterne-weiler-lab-frey-lab_202505-110867-2025-12-16-1",
+      "jobId": "roche-wd3-myworkdayjobs-com-rog-a2o-gene-job-south-san-francisco-postdoctoral-fellow-computational-biology-machine-learning-sterne-weiler-lab-frey-lab_202505-110867",
+      "company": "Genentech",
+      "title": "Postdoctoral Fellow - Computational Biology / Machine Learning - Sterne-Weiler Lab",
+      "postedToDiscord": "2025-12-16T05:39:28.204Z",
+      "sourceDate": "2025-11-01T10:36:06.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Postdoctoral-Fellow---Computational-Biology---Machine-Learning--Sterne-Weiler-Lab---Frey-Lab_202505-110867",
+      "discordThreadId": "1450361653693517894",
+      "instanceNumber": 1
+    },
+    {
+      "id": "freudenberg-wd3-myworkdayjobs-com-freudenberg-group-job-midland-mi-on-site-application-engineer-i-park_r_00091560-2025-12-16-1",
+      "jobId": "freudenberg-wd3-myworkdayjobs-com-freudenberg-group-job-midland-mi-on-site-application-engineer-i-park_r_00091560",
+      "company": "Freudenberg Group",
+      "title": "On-Site Application Engineer - I-Park",
+      "postedToDiscord": "2025-12-16T05:39:35.183Z",
+      "sourceDate": "2025-11-01T10:42:54.000Z",
+      "sourceUrl": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Midland-MI/On-Site-Application-Engineer---I-Park_R_00091560",
+      "discordThreadId": "1450361681984094218",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ghr-wd1-myworkdayjobs-com-en-us-lateral-us-job-charlotte-quantitative-engineer-analyst_25043236-2025-12-16-1",
+      "jobId": "ghr-wd1-myworkdayjobs-com-en-us-lateral-us-job-charlotte-quantitative-engineer-analyst_25043236",
+      "company": "Bank of America",
+      "title": "Quantitative Engineer Analyst",
+      "postedToDiscord": "2025-12-16T05:39:38.911Z",
+      "sourceDate": "2025-11-01T10:42:03.000Z",
+      "sourceUrl": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Quantitative-Engineer-Analyst_25043236",
+      "discordThreadId": "1450361698686074921",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-software-developer_r_1017-2025-12-16-1",
+      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-software-developer_r_1017",
+      "company": "Auto-Owners Insurance",
+      "title": "Software Developer",
+      "postedToDiscord": "2025-12-16T05:39:42.521Z",
+      "sourceDate": "2025-11-01T10:41:30.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer_R_1017",
+      "discordThreadId": "1450361713936302221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293-2025-12-16-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer/Principal Software Engineer - Aht",
+      "postedToDiscord": "2025-12-16T05:39:46.062Z",
+      "sourceDate": "2025-11-01T10:41:11.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer-Principal-Software-Engineer--AHT-_R10211293",
+      "discordThreadId": "1450361729144983583",
+      "instanceNumber": 1
+    },
+    {
+      "id": "regalrexnord-wd1-myworkdayjobs-com-careers-job-radford-virginia-united-states-application-engineer-i_r25_03408-2025-12-16-1",
+      "jobId": "regalrexnord-wd1-myworkdayjobs-com-careers-job-radford-virginia-united-states-application-engineer-i_r25_03408",
+      "company": "Regal Rexnord",
+      "title": "Application Engineer 1",
+      "postedToDiscord": "2025-12-16T05:39:49.479Z",
+      "sourceDate": "2025-11-01T10:40:34.000Z",
+      "sourceUrl": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Application-Engineer-I_R25_03408",
+      "discordThreadId": "1450361743938420898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tti-wd1-myworkdayjobs-com-en-us-milwaukee-job-menomonee-falls-wi-software-engineer-net-react-_r68242-2025-12-16-1",
+      "jobId": "tti-wd1-myworkdayjobs-com-en-us-milwaukee-job-menomonee-falls-wi-software-engineer-net-react-_r68242",
+      "company": "Milwaukee Tool",
+      "title": "Software Engineer - .NET/React",
+      "postedToDiscord": "2025-12-16T05:39:53.051Z",
+      "sourceDate": "2025-11-01T10:25:36.000Z",
+      "sourceUrl": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Software-Engineer--Net-React-_R68242",
+      "discordThreadId": "1450361758484135999",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-ii-product_r1840-25-2025-12-16-1",
+      "jobId": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-ii-product_r1840-25",
+      "company": "Microchip Technology",
+      "title": "Engineer 2 - Product",
+      "postedToDiscord": "2025-12-16T05:39:56.596Z",
+      "sourceDate": "2025-11-01T10:23:16.000Z",
+      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-II---Product_R1840-25",
+      "discordThreadId": "1450361773319389344",
+      "instanceNumber": 1
+    },
+    {
+      "id": "racetrac-wd5-myworkdayjobs-com-ssc-job-200-galleria-parkway-se-suite-900-atlanta-ga-30339-business-intelligence-systems-analyst_r00337316-2025-12-16-1",
+      "jobId": "racetrac-wd5-myworkdayjobs-com-ssc-job-200-galleria-parkway-se-suite-900-atlanta-ga-30339-business-intelligence-systems-analyst_r00337316",
+      "company": "RaceTrac",
+      "title": "Business Intelligence & Systems Analyst",
+      "postedToDiscord": "2025-12-16T05:40:03.113Z",
+      "sourceDate": "2025-11-01T10:30:56.000Z",
+      "sourceUrl": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Business-Intelligence---Systems-Analyst_R00337316",
+      "discordThreadId": "1450361800829698186",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 275,
+    "totalJobs": 285,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T05:25:01.262Z",
+      "date": "2025-12-16T05:40:03.113Z",
       "archived": 0
     }
   }
