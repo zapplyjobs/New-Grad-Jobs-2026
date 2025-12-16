@@ -688,7 +688,7 @@ async function processJobs() {
         // Load job dates store
         const jobDatesStore = loadJobDatesStore();
 
-        // Fetch jobs from PRIMARY_DATA_SOURCE_URL (SimplifyJobs)
+        // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
         
         // Fill null dates and convert to relative format
