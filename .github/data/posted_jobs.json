@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T00:06:51.495Z",
+  "lastUpdated": "2025-12-16T00:42:38.864Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1772,14 +1772,58 @@
       "sourceUrl": "https://jobs.lever.co/2os/3c19948d-2c5b-4490-9039-1de7e6374525/apply",
       "discordThreadId": "1450277949348515942",
       "instanceNumber": 1
+    },
+    {
+      "id": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-mayfield-heights-ohio-united-states-data-science-analyst-digital_r25-7097-1-2025-12-16-1",
+      "jobId": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-mayfield-heights-ohio-united-states-data-science-analyst-digital_r25-7097-1",
+      "company": "Rockwell Automation",
+      "title": "Data Science Analyst - Digital",
+      "postedToDiscord": "2025-12-16T00:42:24.951Z",
+      "sourceDate": "2025-12-15T23:34:33.000Z",
+      "sourceUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Data-Science-Analyst---Digital_R25-7097-1",
+      "discordThreadId": "1450286898085105727",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485-2025-12-16-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485",
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI-Mediated Reality and Interaction Research",
+      "postedToDiscord": "2025-12-16T00:42:28.341Z",
+      "sourceDate": "2025-12-15T23:25:04.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485",
+      "discordThreadId": "1450286912559517830",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ma801-marlborough-ma-1001-boston-post-road-building-2-marlborough-ma-01752-usa-xmlname-2026-fulltime-raytheon-software-integration-engineer-i-onsite-_01812392-2025-12-16-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ma801-marlborough-ma-1001-boston-post-road-building-2-marlborough-ma-01752-usa-xmlname-2026-fulltime-raytheon-software-integration-engineer-i-onsite-_01812392",
+      "company": "RTX",
+      "title": "2026 Fulltime - Raytheon Software Integration Engineer I",
+      "postedToDiscord": "2025-12-16T00:42:35.312Z",
+      "sourceDate": "2025-12-15T23:20:01.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Integration-Engineer-I--Onsite-_01812392",
+      "discordThreadId": "1450286941361803417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application-2025-12-16-1",
+      "jobId": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application",
+      "company": "Anything",
+      "title": "Backend Engineer - AI",
+      "postedToDiscord": "2025-12-16T00:42:38.863Z",
+      "sourceDate": "2025-12-15T23:14:02.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application",
+      "discordThreadId": "1450286956259836036",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 161,
+    "totalJobs": 165,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T00:06:51.495Z",
+      "date": "2025-12-16T00:42:38.864Z",
       "archived": 0
     }
   }
