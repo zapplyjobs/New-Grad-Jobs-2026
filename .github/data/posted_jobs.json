@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T01:40:47.819Z",
+  "lastUpdated": "2025-12-16T01:53:41.484Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -1926,14 +1926,124 @@
       "sourceUrl": "https://careers-libertymutual.icims.com/jobs/73511/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1450301590648127608",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-swe1-data-27595-89339344192-2025-12-16-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-swe1-data-27595-89339344192",
+      "company": "Intuit",
+      "title": "SWE1 – Data",
+      "postedToDiscord": "2025-12-16T01:53:05.950Z",
+      "sourceDate": "2025-12-10T00:58:31.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/swe1-data/27595/89339344192",
+      "discordThreadId": "1450304685914456105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ebay-wd5-myworkdayjobs-com-apply-job-san-francisco-applied-researcher-1-search-ranking_r0066187-2025-12-16-1",
+      "jobId": "ebay-wd5-myworkdayjobs-com-apply-job-san-francisco-applied-researcher-1-search-ranking_r0066187",
+      "company": "eBay",
+      "title": "Applied Researcher 2 - Search Ranking",
+      "postedToDiscord": "2025-12-16T01:53:09.400Z",
+      "sourceDate": "2025-12-09T22:36:51.000Z",
+      "sourceUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/San-Francisco/Applied-Researcher-1---Search-Ranking_R0066187",
+      "discordThreadId": "1450304700963618836",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bnl-wd1-myworkdayjobs-com-en-us-externa-job-upton-ny-machine-learning-x-ray-spectroscopy_jr102174-2025-12-16-1",
+      "jobId": "bnl-wd1-myworkdayjobs-com-en-us-externa-job-upton-ny-machine-learning-x-ray-spectroscopy_jr102174",
+      "company": "Brookhaven Lab",
+      "title": "Postdoctoral Research Associate - Machine Learning X-Ray Spectroscopy",
+      "postedToDiscord": "2025-12-16T01:53:13.129Z",
+      "sourceDate": "2025-12-09T14:06:25.000Z",
+      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/en-US/externa/job/Upton-NY/Machine-Learning-X-Ray-Spectroscopy_JR102174",
+      "discordThreadId": "1450304715287167098",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464-2025-12-16-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464",
+      "company": "NVIDIA",
+      "title": "Research Scientist, Embodied and Agentic AI",
+      "postedToDiscord": "2025-12-16T01:53:16.459Z",
+      "sourceDate": "2025-12-09T14:05:13.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+      "discordThreadId": "1450304730848034866",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wyetechllc-c1b8f940-b5ab-4647-832f-f8cdb3c360fa-2025-12-16-1",
+      "jobId": "jobs-lever-co-wyetechllc-c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
+      "company": "Wyetech",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-16T01:53:19.807Z",
+      "sourceDate": "2025-12-09T14:04:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
+      "discordThreadId": "1450304744852815989",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sec-wd3-myworkdayjobs-com-en-us-samsung_careers-job-6625-excellence-way-plano-tx-usa-software-quality-assurance-associate_r111947-2025-12-16-1",
+      "jobId": "sec-wd3-myworkdayjobs-com-en-us-samsung_careers-job-6625-excellence-way-plano-tx-usa-software-quality-assurance-associate_r111947",
+      "company": "Samsung",
+      "title": "Software Quality Assurance Associate",
+      "postedToDiscord": "2025-12-16T01:53:23.566Z",
+      "sourceDate": "2025-12-09T14:03:16.000Z",
+      "sourceUrl": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Software-Quality-Assurance-Associate_R111947",
+      "discordThreadId": "1450304759545466940",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdeb-icims-com-jobs-17081-job-2025-12-16-1",
+      "jobId": "careers-gdeb-icims-com-jobs-17081-job",
+      "company": "General Dynamics",
+      "title": "Web Application Developer",
+      "postedToDiscord": "2025-12-16T01:53:30.534Z",
+      "sourceDate": "2025-12-09T17:40:18.000Z",
+      "sourceUrl": "https://careers-gdeb.icims.com/jobs/17081/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1450304787236130868",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-161942-job-2025-12-16-1",
+      "jobId": "careers-peraton-icims-com-jobs-161942-job",
+      "company": "Peraton",
+      "title": "Software Engineer - Junior",
+      "postedToDiscord": "2025-12-16T01:53:34.016Z",
+      "sourceDate": "2025-12-09T14:57:57.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/161942/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1450304804042834052",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003-2025-12-16-1",
+      "jobId": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003",
+      "company": "Samsung",
+      "title": "Staff Engineer I, Software Process Engineering",
+      "postedToDiscord": "2025-12-16T01:53:37.638Z",
+      "sourceDate": "2025-12-09T14:02:19.000Z",
+      "sourceUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003",
+      "discordThreadId": "1450304818521440321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aspentech-wd5-myworkdayjobs-com-en-us-aspentech-job-bedford-massachusetts-software-developer-i_r8120-2025-12-16-1",
+      "jobId": "aspentech-wd5-myworkdayjobs-com-en-us-aspentech-job-bedford-massachusetts-software-developer-i_r8120",
+      "company": "AspenTech",
+      "title": "Software Developer I",
+      "postedToDiscord": "2025-12-16T01:53:41.483Z",
+      "sourceDate": "2025-12-09T13:59:46.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Bedford-Massachusetts/Software-Developer-I_R8120",
+      "discordThreadId": "1450304833709015152",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 175,
+    "totalJobs": 185,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T01:40:47.819Z",
+      "date": "2025-12-16T01:53:41.484Z",
       "archived": 0
     }
   }
