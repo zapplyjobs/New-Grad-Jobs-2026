@@ -2,19 +2,288 @@ const fs = require('fs');
 const path = require('path');
 const { fetchAllJobs } = require('../unified-job-fetcher');
 const {
+    companies,
+    ALL_COMPANIES,
+    COMPANY_BY_NAME,
     generateJobId,
     migrateOldJobId,
+    normalizeCompanyName,
+    getCompanyEmoji,
+    getCompanyCareerUrl,
+    formatTimeAgo,
+    isJobOlderThanWeek,
     isUSOnlyJob,
     getExperienceLevel,
     getJobCategory,
-    formatLocation
+    formatLocation,
+    delay
 } = require('./utils');
+
+const { convertDateToRelative } = require('../../../jobboard/src/backend/output/jobTransformer.js');
 
 // Description fetcher service
 const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/services/descriptionFetchers');
 
-// Markdown converter for HTML-to-Markdown conversion
-const { convertHtmlToMarkdown } = require('./utils/markdown-converter');
+// Deduplication logger
+const DeduplicationLogger = require('../deduplication-logger');
+
+// Configuration
+const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
+const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
+
+// Job search queries - much more comprehensive
+const SEARCH_QUERIES = [
+    // Core engineering roles
+    'software engineer',
+    'software developer', 
+    'full stack developer',
+    'frontend developer',
+    'backend developer',
+    'mobile developer',
+    'ios developer',
+    'android developer',
+    
+    // Specialized tech roles
+    'machine learning engineer',
+    'data scientist', 
+    'data engineer',
+    'devops engineer',
+    'cloud engineer',
+    'security engineer',
+    'site reliability engineer',
+    'platform engineer',
+    
+    // Product & Design
+    'product manager',
+    'product designer',
+    'ux designer',
+    'ui designer',
+    
+    // New grad specific
+    'new grad software engineer',
+    'entry level developer',
+    'junior developer',
+    'graduate software engineer',
+    
+    // High-value roles
+    'staff engineer',
+    'senior software engineer',
+    'principal engineer',
+    'engineering manager'
+];
+
+/**
+ * Load job dates store - persists assigned dates for jobs without original dates
+ */
+function loadJobDatesStore() {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    const datesPath = path.join(dataDir, 'job_dates.json');
+    
+    try {
+        if (!fs.existsSync(datesPath)) {
+            return {};
+        }
+        
+        const fileContent = fs.readFileSync(datesPath, 'utf8');
+        if (!fileContent.trim()) {
+            return {};
+        }
+        
+        return JSON.parse(fileContent);
+        
+    } catch (error) {
+        console.error('Error loading job_dates.json:', error.message);
+        return {};
+    }
+}
+
+/**
+ * Save job dates store with atomic writes
+ */
+function saveJobDatesStore(jobDates) {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    
+    try {
+        if (!fs.existsSync(dataDir)) {
+            fs.mkdirSync(dataDir, { recursive: true });
+        }
+
+        // Cleanup: Remove entries older than 60 days
+        const now = new Date();
+        const cleanedDates = {};
+        
+        Object.entries(jobDates).forEach(([jobId, dateInfo]) => {
+            const assignedDate = new Date(dateInfo.assigned_date);
+            const daysDiff = Math.floor((now - assignedDate) / (1000 * 60 * 60 * 24));
+            
+            if (daysDiff < 60) {
+                cleanedDates[jobId] = dateInfo;
+            }
+        });
+
+        const datesPath = path.join(dataDir, 'job_dates.json');
+        const tempPath = path.join(dataDir, 'job_dates.tmp.json');
+        
+        fs.writeFileSync(tempPath, JSON.stringify(cleanedDates, null, 2), 'utf8');
+        fs.renameSync(tempPath, datesPath);
+        
+    } catch (error) {
+        console.error('Error saving job_dates.json:', error.message);
+    }
+}
+
+/**
+ * Fill null dates with stored or new ISO datetimes, then convert to relative format
+ */
+function fillJobDates(jobs, jobDatesStore) {
+    const updatedDatesStore = { ...jobDatesStore };
+    
+    const processedJobs = jobs.map(job => {
+        const hasNoDate = job.job_posted_at === null || 
+                         job.job_posted_at === undefined || 
+                         job.job_posted_at === '' ||
+                         job.job_posted_at === 'null';
+        
+        if (!hasNoDate) {
+            // Job has a date - convert to relative if it's ISO format
+            const relativeDate = convertDateToRelative(job.job_posted_at);
+            if (relativeDate) {
+                job.job_posted_at = relativeDate;
+            }
+            return job;
+        }
+        
+        // Job has null date - need to fill it
+        const jobId = `${(job.company || job.employer_name || '').toLowerCase().replace(/\s+/g, '-')}-${(job.title || job.job_title || '').toLowerCase().replace(/\s+/g, '-')}-${(job.location || job.job_city || '').toLowerCase().replace(/\s+/g, '-')}`;
+        
+        let isoDatetime;
+        
+        if (updatedDatesStore[jobId]) {
+            // Reuse stored date
+            isoDatetime = updatedDatesStore[jobId].assigned_date;
+        } else {
+            // Assign new date and store it
+            isoDatetime = new Date().toISOString();
+            updatedDatesStore[jobId] = {
+                assigned_date: isoDatetime,
+                job_title: job.title || job.job_title,
+                company: job.company || job.employer_name,
+                first_seen: isoDatetime
+            };
+        }
+        
+        // Convert ISO to relative format
+        const relativeDate = convertDateToRelative(isoDatetime);
+        
+        return {
+            ...job,
+            job_posted_at: relativeDate || isoDatetime
+        };
+    });
+    
+    // Save if we added any new dates
+    if (Object.keys(updatedDatesStore).length > Object.keys(jobDatesStore).length) {
+        saveJobDatesStore(updatedDatesStore);
+    }
+    
+    return processedJobs;
+}
+
+// Enhanced API search with better error handling
+async function searchJobs(query, location = '') {
+    try {
+        const url = new URL(JSEARCH_BASE_URL);
+        url.searchParams.append('query', query);
+        if (location) url.searchParams.append('location', location);
+        url.searchParams.append('page', '1');
+        url.searchParams.append('num_pages', '1');
+        url.searchParams.append('date_posted', 'month');
+        url.searchParams.append('employment_types', 'FULLTIME');
+        url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
+        
+        const response = await fetch(url, {
+            method: 'GET',
+            headers: {
+                'X-RapidAPI-Key': JSEARCH_API_KEY,
+                'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
+            }
+        });
+        
+        if (!response.ok) {
+            console.error(`API request failed for "${query}": ${response.status}`);
+            return [];
+        }
+        
+        const data = await response.json();
+        const jobs = data.data || [];
+        console.log(`Query "${query}" returned ${jobs.length} jobs`);
+        return jobs;
+    } catch (error) {
+        console.error(`Error searching for "${query}":`, error.message);
+        return [];
+    }
+}
+
+// Enhanced filtering with better company matching
+function filterTargetCompanyJobs(jobs) {
+    console.log('🎯 Filtering for target companies...');
+    
+    const targetJobs = jobs.filter(job => {
+        const companyName = (job.employer_name || '').toLowerCase();
+        
+        // Check against our comprehensive company list
+        const isTargetCompany = COMPANY_BY_NAME[companyName] !== undefined;
+        
+        if (isTargetCompany) {
+            // Normalize company name for consistency
+            job.employer_name = normalizeCompanyName(job.employer_name);
+            return true;
+        }
+        
+        // Additional fuzzy matching for variations
+        for (const company of ALL_COMPANIES) {
+            for (const apiName of company.api_names) {
+                if (companyName.includes(apiName.toLowerCase()) && apiName.length > 3) {
+                    job.employer_name = company.name;
+                    return true;
+                }
+            }
+        }
+        
+        return false;
+    });
+    
+    console.log(`✨ Filtered to ${targetJobs.length} target company jobs`);
+    console.log('🏢 Companies found:', [...new Set(targetJobs.map(j => j.employer_name))]);
+    
+    // Remove duplicates more intelligently
+    const uniqueJobs = targetJobs.filter((job, index, self) => {
+        return index === self.findIndex(j => 
+            j.job_title === job.job_title && 
+            j.employer_name === job.employer_name &&
+            j.job_city === job.job_city
+        );
+    });
+    
+    console.log(`🧹 After deduplication: ${uniqueJobs.length} unique jobs`);
+    
+    // Sort by company tier and recency
+    uniqueJobs.sort((a, b) => {
+        // Prioritize FAANG+ companies
+        const aIsFAANG = companies.faang_plus.some(c => c.name === a.employer_name);
+        const bIsFAANG = companies.faang_plus.some(c => c.name === b.employer_name);
+        
+        if (aIsFAANG && !bIsFAANG) return -1;
+        if (!aIsFAANG && bIsFAANG) return 1;
+        
+        // Then by recency
+        const aDate = new Date(a.job_posted_at_datetime_utc || 0);
+        const bDate = new Date(b.job_posted_at_datetime_utc || 0);
+        return bDate - aDate;
+    });
+    
+    return uniqueJobs.slice(0, 50); // Top 50 jobs
+}
 
 // Generate company statistics with categories
 function generateCompanyStats(jobs) {
@@ -58,9 +327,7 @@ function writeNewJobsJson(jobs) {
         console.log(`⏸️ Limiting to ${MAX_JOBS_PER_RUN} jobs this run, ${deferredCount} deferred (will be fetched in next run)`);
     }
 
-    // Get repository root (3 levels up from .github/scripts/job-fetcher)
-    const repoRoot = path.join(__dirname, '..', '..', '..');
-    const dataDir = path.join(repoRoot, '.github', 'data');
+    const dataDir = path.join(process.cwd(), '.github', 'data');
 
     try {
         // Ensure data folder exists
@@ -99,9 +366,7 @@ function writeNewJobsJson(jobs) {
 
 // Update seen jobs store with atomic writes to prevent corruption
 function updateSeenJobsStore(jobs, seenIds) {
-    // Get repository root (3 levels up from .github/scripts/job-fetcher)
-    const repoRoot = path.join(__dirname, '..', '..', '..');
-    const dataDir = path.join(repoRoot, '.github', 'data');
+    const dataDir = path.join(process.cwd(), '.github', 'data');
     
     try {
         // Ensure data folder exists
@@ -157,8 +422,7 @@ function updateSeenJobsStore(jobs, seenIds) {
  * Queue structure: { job: {...}, status: "pending"|"enriched"|"posted", addedAt, enrichedAt, postedAt }
  */
 function loadPendingQueue() {
-    const repoRoot = path.join(__dirname, '..', '..', '..');
-    const dataDir = path.join(repoRoot, '.github', 'data');
+    const dataDir = path.join(process.cwd(), '.github', 'data');
     const queuePath = path.join(dataDir, 'pending_posts.json');
 
     try {
@@ -206,8 +470,7 @@ function loadPendingQueue() {
  * Save pending posts queue with atomic writes
  */
 function savePendingQueue(queue) {
-    const repoRoot = path.join(__dirname, '..', '..', '..');
-    const dataDir = path.join(repoRoot, '.github', 'data');
+    const dataDir = path.join(process.cwd(), '.github', 'data');
 
     try {
         // Ensure data folder exists
@@ -286,9 +549,7 @@ function cleanupPostedFromQueue(queue, postedIds) {
 
 // Load seen jobs for deduplication with error handling and validation
 function loadSeenJobsStore() {
-    // Get repository root (3 levels up from .github/scripts/job-fetcher)
-    const repoRoot = path.join(__dirname, '..', '..', '..');
-    const dataDir = path.join(repoRoot, '.github', 'data');
+    const dataDir = path.join(process.cwd(), '.github', 'data');
     const seenPath = path.join(dataDir, 'seen_jobs.json');
     
     try {
@@ -360,9 +621,7 @@ function loadSeenJobsStore() {
 
 // Load posted jobs for accurate deduplication
 function loadPostedJobsStore() {
-    // Get repository root (3 levels up from .github/scripts/job-fetcher)
-    const repoRoot = path.join(__dirname, '..', '..', '..');
-    const dataDir = path.join(repoRoot, '.github', 'data');
+    const dataDir = path.join(process.cwd(), '.github', 'data');
     const postedPath = path.join(dataDir, 'posted_jobs.json');
 
     try {
@@ -415,39 +674,70 @@ function loadPostedJobsStore() {
 // Main job processing function
 async function processJobs() {
     console.log('🚀 Starting job processing...');
-    
+
     try {
+        // Initialize deduplication logger
+        const dedupLogger = new DeduplicationLogger();
+
         // Load posted jobs for accurate deduplication
         // Use posted_jobs.json (what we've successfully posted to Discord)
         // instead of seen_jobs.json (what we've fetched from APIs)
         const postedIds = loadPostedJobsStore();
         const seenIds = loadSeenJobsStore(); // Keep for backwards compatibility
 
-        // Fetch jobs from both API and real career pages
+        // Load job dates store
+        const jobDatesStore = loadJobDatesStore();
+
+        // Fetch jobs from PRIMARY_DATA_SOURCE_URL (SimplifyJobs)
         const allJobs = await fetchAllJobs();
-        const usJobs = allJobs.filter(isUSOnlyJob);
-
-        // Filter for jobs posted within the last 48 hours (0-48h window)
-        // Configurable via JOB_MAX_AGE_HOURS environment variable
-        const MAX_AGE_HOURS = parseInt(process.env.JOB_MAX_AGE_HOURS || '48', 10);
-        const MAX_AGE_THRESHOLD = Date.now() - (MAX_AGE_HOURS * 60 * 60 * 1000);
-
-        const currentJobs = usJobs.filter(job => {
-            const jobDate = new Date(job.date_posted || job.date_updated || job.job_posted_at_datetime_utc || 0);
-            const isWithinWindow = jobDate.getTime() > MAX_AGE_THRESHOLD;
-
-            if (!isWithinWindow) {
-                console.log(`📅 Skipping stale job (posted ${Math.round((Date.now() - jobDate.getTime()) / (60 * 60 * 1000))}h ago): ${job.title || job.job_title} at ${job.company_name || job.employer_name}`);
-            }
-
-            return isWithinWindow;
-        });
-
-        console.log(`📅 Age filter: ${usJobs.length} total jobs → ${currentJobs.length} jobs (0-${MAX_AGE_HOURS}h window)`);
-
-        currentJobs.forEach(job => {
+        
+        // Fill null dates and convert to relative format
+        const jobsWithDates = fillJobDates(allJobs, jobDatesStore);
+        
+        // Add unique IDs for deduplication using standardized generation
+        jobsWithDates.forEach(job => {
             job.id = generateJobId(job);
         });
+        
+        // **CRITICAL FIX: Sort ALL jobs by date before any filtering**
+        const sortedJobs = jobsWithDates.sort((a, b) => {
+            // Convert relative dates back to timestamps for proper sorting
+            const getTimestamp = (dateStr) => {
+                if (!dateStr) return 0;
+                
+                // Handle relative format (1d, 2w, 3mo, etc.)
+                const match = String(dateStr).match(/^(\d+)([hdwmo])$/i);
+                if (match) {
+                    const value = parseInt(match[1]);
+                    const unit = match[2].toLowerCase();
+                    const now = new Date();
+                    
+                    switch (unit) {
+                        case 'h': return now - (value * 60 * 60 * 1000);
+                        case 'd': return now - (value * 24 * 60 * 60 * 1000);
+                        case 'w': return now - (value * 7 * 24 * 60 * 60 * 1000);
+                        case 'mo': return now - (value * 30 * 24 * 60 * 60 * 1000);
+                        default: return now;
+                    }
+                }
+                
+                // Handle ISO date strings
+                try {
+                    return new Date(dateStr).getTime();
+                } catch {
+                    return 0;
+                }
+            };
+            
+            const aTime = getTimestamp(a.job_posted_at);
+            const bTime = getTimestamp(b.job_posted_at);
+            
+            // Sort by most recent first (descending)
+            return bTime - aTime;
+        });
+        
+        // Filter current jobs (not older than a week)
+        const currentJobs = sortedJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at));
 
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
@@ -457,13 +747,22 @@ async function processJobs() {
         // Create set of job IDs already in queue to prevent duplicate additions
         const queueIds = new Set(queue.map(item => item.job.id));
 
-        // STEP 2: Filter for truly NEW jobs (deduplication against BOTH posted_jobs.json AND queue)
+        // STEP 2: Filter for truly NEW jobs (deduplication against BOTH seen_jobs.json AND queue)
         // This ensures we don't add the same job to queue multiple times
-        const freshJobs = currentJobs.filter(job =>
-            !postedIds.has(job.id) && !queueIds.has(job.id)
-        );
+        // Log EVERY deduplication check for debugging
+        const freshJobs = currentJobs.filter(job => {
+            const isInSeen = seenIds.has(job.id);
+            const isInQueue = queueIds.has(job.id);
+            const isDuplicate = isInSeen || isInQueue;
 
-        console.log(`📊 Processing summary: ${usJobs.length} total jobs, ${currentJobs.length} current (0-${MAX_AGE_HOURS}h window), ${freshJobs.length} new (not posted AND not in queue)`);
+            // Log this check
+            const reason = isInSeen ? 'seen_jobs' : (isInQueue ? 'pending_queue' : null);
+            dedupLogger.logCheck(job, job.id, isDuplicate, null, reason);
+
+            return !isDuplicate;
+        });
+
+        console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 1 week old), ${freshJobs.length} new (not seen AND not in queue)`);
 
         // STEP 3: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
         // This prevents re-fetching them in next run, even if we don't process them all this run
@@ -546,41 +845,6 @@ async function processJobs() {
 
             // STEP 7: Write batch to new_jobs.json for Discord bot
             const batchJobs = batch.map(item => item.job);
-
-            // MARKDOWN CONVERSION: Convert HTML descriptions to Markdown if enabled (runs on ALL jobs)
-            if (process.env.ENABLE_MARKDOWN_CONVERSION === 'true') {
-                console.log('\n🔄 Converting HTML descriptions to Markdown...');
-                let conversionStats = { total: 0, successful: 0, failed: 0 };
-
-                batchJobs.forEach(job => {
-                    if (job.description || job.job_description) {
-                        const description = job.description || job.job_description;
-                        conversionStats.total++;
-                        try {
-                            const result = convertHtmlToMarkdown(description);
-                            if (result.metadata.conversionSuccess) {
-                                job.description = result.markdown;
-                                job.job_description = result.markdown;
-                                job.description_html = result.originalHtml;
-                                job.description_format = 'markdown';
-                                conversionStats.successful++;
-                            } else {
-                                job.description_html = description;
-                                job.description_format = 'html';
-                                conversionStats.failed++;
-                            }
-                        } catch (error) {
-                            console.error(`❌ Conversion error for job ${job.id}:`, error.message);
-                            job.description_html = description;
-                            job.description_format = 'html';
-                            conversionStats.failed++;
-                        }
-                    }
-                });
-
-                console.log(`✅ Markdown conversion complete: ${conversionStats.successful}/${conversionStats.total} successful, ${conversionStats.failed} failed`);
-            }
-
             writeNewJobsJson(batchJobs);
 
             // STEP 8: Save queue (don't remove items yet - Discord bot will mark as "posted")
@@ -589,11 +853,41 @@ async function processJobs() {
             console.log(`✅ Batch ready for Discord bot: ${batchJobs.length} jobs`);
             console.log(`📋 Queue status: ${queue.filter(i => i.status === 'pending').length} pending, ${queue.filter(i => i.status === 'enriched').length} enriched`);
         }
+        
+        // Calculate archived jobs
+        const archivedJobs = sortedJobs.filter(j => isJobOlderThanWeek(j.job_posted_at));
 
-        // No archived jobs (showing all jobs as current)
-        const archivedJobs = [];
+        console.log(`✅ Job processing complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
 
-        console.log(`✅ Job processing complete - ${currentJobs.length} current jobs`);
+        // Save deduplication logs
+        dedupLogger.save();
+
+        // Save structured job fetch summary
+        try {
+            const logsDir = path.join(process.cwd(), '.github', 'logs');
+            fs.mkdirSync(logsDir, { recursive: true });
+
+            const summaryPath = path.join(logsDir, `job-fetch-summary-${new Date().toISOString().split('T')[0]}.json`);
+            const summary = {
+                timestamp: new Date().toISOString(),
+                total_fetched: allJobs.length,
+                current_jobs: currentJobs.length,
+                archived_jobs: archivedJobs.length,
+                fresh_jobs: freshJobs.length,
+                duplicates_filtered: allJobs.length - freshJobs.length,
+                queue_status: {
+                    total: queue.length,
+                    pending: queue.filter(i => i.status === 'pending').length,
+                    enriched: queue.filter(i => i.status === 'enriched').length,
+                    posted: queue.filter(i => i.status === 'posted').length
+                }
+            };
+
+            fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2), 'utf8');
+            console.log(`📊 Job fetch summary saved: ${summaryPath}`);
+        } catch (error) {
+            console.error('⚠️ Error saving job fetch summary:', error.message);
+        }
 
         return {
             currentJobs,
@@ -601,7 +895,7 @@ async function processJobs() {
             freshJobs,
             stats: generateCompanyStats(currentJobs)
         };
-        
+
     } catch (error) {
         console.error('❌ Error in job processing:', error);
         throw error;
@@ -609,6 +903,9 @@ async function processJobs() {
 }
 
 module.exports = {
+    searchJobs,
+    fetchAllJobs,
+    filterTargetCompanyJobs,
     generateCompanyStats,
     writeNewJobsJson,
     updateSeenJobsStore,

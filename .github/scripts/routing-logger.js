@@ -21,8 +21,9 @@ class RoutingLogger {
    * @param {string} channelId - Discord channel ID
    * @param {string} channelName - Discord channel name
    * @param {Object} locationInfo - Optional location channel info
+   * @param {Object} allMatches - All pattern matches (AI, DS, Tech, Non-Tech) for debugging
    */
-  logRouting(job, category, matchedKeyword, channelId, channelName, locationInfo = null) {
+  logRouting(job, category, matchedKeyword, channelId, channelName, locationInfo = null, allMatches = null) {
     const entry = {
       timestamp: new Date().toISOString(),
       job_title: job.job_title,
@@ -41,6 +42,11 @@ class RoutingLogger {
       entry.location_state = job.job_state;
     }
 
+    // Add ALL pattern matches for debugging multi-category jobs
+    if (allMatches) {
+      entry.all_matches = allMatches;
+    }
+
     this.routingLog.push(entry);
 
     // Console output for immediate visibility
@@ -49,6 +55,13 @@ class RoutingLogger {
     console.log(`   Channel: ${channelName} (${channelId.substring(0, 4)}...${channelId.substring(channelId.length - 4)})`);
     if (locationInfo) {
       console.log(`   Location: ${locationInfo.channelName} (${job.job_city}, ${job.job_state})`);
+    }
+    // Show ALL matches if multiple patterns matched (potential routing conflict)
+    if (allMatches) {
+      const matchedPatterns = Object.entries(allMatches).filter(([_, v]) => v !== null).map(([k, _]) => k);
+      if (matchedPatterns.length > 1) {
+        console.log(`   ⚠️  Multiple matches: ${matchedPatterns.join(', ')} (using ${category})`);
+      }
     }
   }
 
@@ -83,7 +96,7 @@ class RoutingLogger {
     // Append new entries
     allLogs.push(...this.routingLog);
 
-    // ALWAYS encrypt for Git commits (protects Git history)
+    // Encrypt and save combined logs
     const encryptedData = encryptLog(allLogs, password);
     fs.writeFileSync(outputPath, JSON.stringify(encryptedData, null, 2));
 
@@ -91,42 +104,6 @@ class RoutingLogger {
     console.log(`   New entries: ${this.routingLog.length}`);
     console.log(`   Total entries: ${allLogs.length}`);
     console.log(`   Timestamp: ${encryptedData.timestamp}`);
-
-    // HYBRID ENCRYPTION: Optionally create plaintext debug logs (GitHub Actions artifacts only, NOT committed to Git)
-    const CREATE_DEBUG_LOGS = process.env.CREATE_DEBUG_LOGS === 'true';
-    if (CREATE_DEBUG_LOGS) {
-      this.savePlaintextDebug(allLogs);
-    }
-  }
-
-  /**
-   * Save plaintext debug log for GitHub Actions artifacts
-   * WARNING: This file is NOT committed to Git (excluded by .gitignore)
-   * Only created when CREATE_DEBUG_LOGS=true environment variable is set
-   * @param {Array} allLogs - Complete routing log data
-   */
-  savePlaintextDebug(allLogs) {
-    const logsDir = path.join(process.cwd(), '.github', 'logs');
-    fs.mkdirSync(logsDir, { recursive: true });
-
-    const timestamp = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
-    const outputPath = path.join(logsDir, `routing-debug-${timestamp}.log`);
-
-    // Format for easy reading
-    const debugOutput = {
-      metadata: {
-        generated: new Date().toISOString(),
-        totalEntries: allLogs.length,
-        newEntries: this.routingLog.length,
-        warning: 'DEBUG LOG - Not committed to Git (GitHub Actions artifact only)'
-      },
-      routing: allLogs,
-      summary: this.getSummary()
-    };
-
-    fs.writeFileSync(outputPath, JSON.stringify(debugOutput, null, 2));
-    console.log(`📊 Debug log saved (GitHub Actions artifact): ${outputPath}`);
-    console.log(`   ⚠️  NOT committed to Git (excluded by .gitignore)`);
   }
 
   /**

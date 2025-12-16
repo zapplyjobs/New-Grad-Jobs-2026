@@ -18,7 +18,7 @@ const {
 
 // Import extracted modules
 const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG, LEGACY_CHANNEL_ID, MULTI_CHANNEL_MODE, LOCATION_MODE_ENABLED } = require('./src/discord/config');
-const { getJobChannelDetails } = require('./src/routing/router');
+const { getJobChannelDetails, isAIRole, isDataScienceRole, isTechRole, isNonTechRole } = require('./src/routing/router');
 const { normalizeJob } = require('./src/utils/job-normalizer');
 const { formatPostedDate, cleanJobDescription } = require('./src/utils/job-formatters');
 const PostedJobsManager = require('./src/data/posted-jobs-manager-v2');
@@ -40,12 +40,14 @@ const companies = JSON.parse(fs.readFileSync(path.join(__dirname, 'job-fetcher',
 const { generateJobId, generateEnhancedId } = require('./job-fetcher/utils');
 const { loadPendingQueue, savePendingQueue } = require('./job-fetcher/job-processor');
 
-// Import routing logger and jobs exporter for debugging
+// Import routing logger, posting logger, and jobs exporter for debugging
 const RoutingLogger = require('./routing-logger');
+const DiscordPostLogger = require('./discord-post-logger');
 const JobsDataExporter = require('./jobs-data-exporter');
 
-// Initialize routing logger and jobs exporter
+// Initialize routing logger, posting logger, and jobs exporter
 const routingLogger = new RoutingLogger();
+const postLogger = new DiscordPostLogger();
 const jobsExporter = new JobsDataExporter();
 
 // Initialize client
@@ -554,6 +556,7 @@ client.once('ready', async () => {
 
     if (hasBeenPosted) {
       console.log(`⏭️ Skipping already posted: ${job.job_title} at ${job.employer_name}`);
+      postLogger.logSkip(job, jobId, 'already_posted');
       return false;
     }
 
@@ -562,6 +565,7 @@ client.once('ready', async () => {
     const fallbackId = generateEnhancedId(job);
     if (fallbackId !== jobId && postedJobsManager.hasBeenPosted(fallbackId, job)) {
       console.log(`⏭️ Skipping already posted (legacy ID): ${job.job_title} at ${job.employer_name}`);
+      postLogger.logSkip(job, jobId, 'already_posted_legacy_id');
       return false;
     }
 
@@ -583,6 +587,7 @@ client.once('ready', async () => {
   ];
 
   const filteredJobs = unpostedJobs.filter(job => {
+    const jobId = generateJobId(job);
     const titleLower = (job.job_title || '').toLowerCase();
     const companyLower = (job.employer_name || '').toLowerCase();
 
@@ -593,6 +598,7 @@ client.once('ready', async () => {
 
     if (isBlacklisted) {
       console.log(`🚫 Skipping blacklisted job: ${job.job_title} at ${job.employer_name}`);
+      postLogger.logSkip(job, jobId, 'blacklisted');
       return false;
     }
 
@@ -603,11 +609,13 @@ client.once('ready', async () => {
 
   // Data quality filter: Skip jobs with missing or empty required fields
   const validJobs = filteredJobs.filter(job => {
+    const jobId = generateJobId(job);
     const title = (job.job_title || '').trim();
     const company = (job.employer_name || '').trim();
 
     if (!title || !company) {
       console.log(`⚠️ Skipping malformed job: title="${title}" company="${company}"`);
+      postLogger.logSkip(job, jobId, 'invalid_data');
       return false;
     }
 
@@ -748,26 +756,61 @@ client.once('ready', async () => {
       for (const { job, routingInfo } of channelData.jobs) {
         const jobId = generateJobId(job);
 
-        // Log routing decision for debugging
+        // Check ALL pattern matches for comprehensive logging
+        const title = (job.job_title || '').toLowerCase();
+        const description = (job.job_description || '').toLowerCase();
+        const allMatches = {
+          aiMatch: isAIRole(title, description),
+          dsMatch: isDataScienceRole(title, description),
+          techMatch: isTechRole(title),
+          nonTechMatch: isNonTechRole(title)
+        };
+
+        // Log routing decision with ALL matches for debugging
         routingLogger.logRouting(
           job,
           routingInfo.category,
           routingInfo.matchedKeyword,
           channelId,
-          channel.name
+          channel.name,
+          null,  // locationInfo - will be added in location post section
+          allMatches  // NEW: All pattern matches
         );
         let jobPostedSuccessfully = false;
         let primaryThreadId = null; // Track thread ID for database
 
         // INDUSTRY POST: Post to industry channel
+        const industryStartTime = Date.now();
         const industryResult = await postJobToForum(job, channel);
+        const industryDuration = Date.now() - industryStartTime;
+
         if (industryResult.success) {
           console.log(`  ✅ Industry: ${job.job_title} @ ${job.employer_name}`);
           jobPostedSuccessfully = true;
           primaryThreadId = industryResult.thread?.id || null; // Capture thread ID
           channelFullErrorCount = 0; // Reset counter on success
+
+          // Log successful post
+          postLogger.logSuccess(
+            job,
+            jobId,
+            channelId,
+            channel.name,
+            industryResult.message?.id || null,
+            primaryThreadId,
+            industryDuration
+          );
         } else {
           console.log(`  ❌ Industry post failed: ${job.job_title}`);
+
+          // Log failed post
+          postLogger.logFailure(
+            job,
+            jobId,
+            channelId,
+            channel.name,
+            industryResult.error || new Error('Unknown posting error')
+          );
 
           // Check if error is "Maximum threads reached" (code 160006)
           if (industryResult.error && industryResult.error.code === 160006) {
@@ -776,8 +819,13 @@ client.once('ready', async () => {
 
             if (channelFullErrorCount >= CHANNEL_FULL_EXIT_THRESHOLD) {
               console.log(`\n❌ CRITICAL: Discord channel #${channel.name} is full (max active threads reached)`);
-              console.log(`❌ Exiting early to avoid timeout. ${totalPosted} jobs posted, ${totalFailed + (channelJobs.length - channelJobs.indexOf(job))} failed.`);
+              console.log(`❌ Exiting early to avoid timeout. ${totalPosted} jobs posted, ${totalFailed + (channelData.jobs.length - channelData.jobs.findIndex(j => j.job === job))} failed.`);
               console.log(`\n💡 ACTION REQUIRED: Archive old threads in Discord channel to make room for new posts.`);
+
+              // Save logs before exiting
+              postLogger.save();
+              routingLogger.savePlaintext();
+
               client.destroy();
               process.exit(0);
             }
@@ -796,16 +844,47 @@ client.once('ready', async () => {
 
             if (locationChannel) {
               try {
+                const locationStartTime = Date.now();
                 const locationResult = await postJobToForum(job, locationChannel);
+                const locationDuration = Date.now() - locationStartTime;
 
                 if (locationResult.success) {
                   console.log(`  ✅ Location: ${locationChannel.name}`);
                   jobPostedSuccessfully = true;
+
+                  // Log successful location post
+                  postLogger.logSuccess(
+                    job,
+                    jobId,
+                    locationChannelId,
+                    locationChannel.name,
+                    locationResult.message?.id || null,
+                    locationResult.thread?.id || null,
+                    locationDuration
+                  );
                 } else {
                   console.log(`  ⚠️ Location post failed: ${locationChannel.name}`);
+
+                  // Log failed location post
+                  postLogger.logFailure(
+                    job,
+                    jobId,
+                    locationChannelId,
+                    locationChannel.name,
+                    locationResult.error || new Error('Unknown posting error')
+                  );
                 }
               } catch (error) {
                 console.error(`  ❌ Location channel error:`, error.message);
+
+                // Log exception during location post
+                postLogger.logFailure(
+                  job,
+                  jobId,
+                  locationChannelId,
+                  locationChannel.name,
+                  error
+                );
               }
             }
 
@@ -963,6 +1042,9 @@ client.once('ready', async () => {
     // Local development - save plaintext logs
     routingLogger.savePlaintext();
   }
+
+  // Save Discord posting logs (always save - critical for debugging)
+  postLogger.save();
 
   await new Promise(resolve => setTimeout(resolve, 2000)); // Grace period for final operations
   client.destroy();
