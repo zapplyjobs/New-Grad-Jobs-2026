@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Backend Software Engineer Graduate",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Backend Software Engineer Graduate (Global E-commerce) - 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7532656714349365512/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T12:53:13.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7532656714349365512-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7550798923146250504",
-      "job_posted_at_datetime_utc": "2025-10-31T12:45:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7550798923146250504",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Graduate Software Engineer - Ads Identity and Attribution Technology",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Ads Identity and Attribution Technology) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7531161909594507528",
-      "job_posted_at_datetime_utc": "2025-10-31T12:40:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7531161909594507528",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Graduate - Computational Imaging-Pico - 2026 Start",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Graduate (Computational Imaging- Pico)- 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538578181957044487/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T12:40:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7538578181957044487-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Graduate - Data Arch - E-commerce",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Data Arch - E-commerce) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7535238327160637703",
-      "job_posted_at_datetime_utc": "2025-10-31T12:31:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7535238327160637703",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7536338508719573266/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T12:28:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7536338508719573266-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Graduate (eCommerce Recommendation) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7515575670019606802/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T12:28:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515575670019606802-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Cyber Security Specialist - Data Analysis",
-      "employer_name": "Hertz",
-      "job_city": "Bonita Springs",
-      "job_state": "FL",
-      "job_description": "A Day in the Life: The Cyber Security Specialist is a key member of the Security team that helps to assemble key performance metrics to demonstrate the effectiveness of the Cybersecurity organization. The starting salary for this role is $90K; commensurate with experience. What You'll Do: - Design, develop, and maintain various interactive data visualizations and reports. These in-depth insights will empower organizations to streamline the decision-making process. - Analyzes and researches known indicators of compromise, key metrics and can correlates events. - Collaborates with IT and business leaders to ensure the reports are meeting the defined metrics. - Experience in analytical thinking to analyze data and provide relevant narratives. - Work with threat intelligence data from multiple sources and databases. - Familiar with Cybersecurity trends. - Drive optimal cyber security services to complete resolution according to security SLA’s. - Handle all private information...",
-      "job_apply_link": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29720",
-      "job_posted_at_datetime_utc": "2025-10-31T12:27:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "fa-evlf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-29720",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer in ML Systems Graduate - Aml - Machine Learning Systems",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Software Engineer in ML Systems Graduate (AML - Machine Learning Systems) - 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7265104569217534263/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T12:25:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7265104569217534263-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
-      "job_title": "Undergrad Software Engineer - Database Technologies",
-      "employer_name": "Oracle",
-      "job_city": "San Carlos",
-      "job_state": "CA",
-      "job_description": "New College Grad Role intended for students graduating with their Bachelor’s degree by, or have graduated within, 12 months of cohort start date in June/July 2026. Target Start Date: Mid-June or mid-July 2026 Work Location: San Francisco Bay Area (Redwood Shores, CA)",
-      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/305298",
-      "job_posted_at_datetime_utc": "2025-10-31T12:16:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-305298",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T06:24:55.476Z",
-    "postedAt": "2025-12-16T06:45:28.813Z"
-  },
-  {
-    "job": {
       "job_title": "General Hire - Machine Learning Engineer - Data-Search",
       "employer_name": "TikTok",
       "job_city": "San Jose",
@@ -214,10 +14,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -234,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -254,10 +54,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -274,10 +74,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -294,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -314,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -334,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -354,10 +154,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -374,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -394,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T06:44:45.368Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T06:58:36.146Z"
   },
   {
     "job": {
@@ -405,16 +205,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Frontend Software Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7532747012510386440",
       "job_posted_at_datetime_utc": "2025-10-31T11:42:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7532747012510386440"
+      "id": "lifeattiktok-com-search-7532747012510386440",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer in Machine Learning Systems Graduate (AML - Machine Learning Systems) - 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7265106982942607675/detail",
       "job_posted_at_datetime_utc": "2025-10-31T11:34:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7265106982942607675-detail"
+      "id": "jobs-bytedance-com-en-position-7265106982942607675-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -441,16 +245,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Efficient ML Graduate (AI Platform)- 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7540031166549133576/detail",
       "job_posted_at_datetime_utc": "2025-10-31T11:25:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7540031166549133576-detail"
+      "id": "jobs-bytedance-com-en-position-7540031166549133576-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -459,16 +265,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer, Recommendations - USDS and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7478043575503030546",
       "job_posted_at_datetime_utc": "2025-10-31T11:22:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7478043575503030546"
+      "id": "lifeattiktok-com-search-7478043575503030546",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -477,16 +285,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7527441329384147208",
       "job_posted_at_datetime_utc": "2025-10-31T11:14:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7527441329384147208"
+      "id": "lifeattiktok-com-search-7527441329384147208",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -495,16 +305,18 @@
       "employer_name": "TikTok",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Data Analyst Graduate (TikTok Shop Supply Chain and Logistics) - 2026 Start (MBA) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7533484041950546194",
       "job_posted_at_datetime_utc": "2025-10-31T11:14:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7533484041950546194"
+      "id": "lifeattiktok-com-search-7533484041950546194",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -513,16 +325,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7532747264248301842",
       "job_posted_at_datetime_utc": "2025-10-31T11:14:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7532747264248301842"
+      "id": "lifeattiktok-com-search-7532747264248301842",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Research Scientist Graduate (Video Quality Analysis&Coding Strategy) - 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7538946858355476743/detail",
       "job_posted_at_datetime_utc": "2025-10-31T11:14:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7538946858355476743-detail"
+      "id": "jobs-bytedance-com-en-position-7538946858355476743-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -549,16 +365,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7515577680822831367/detail",
       "job_posted_at_datetime_utc": "2025-10-31T11:13:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515577680822831367-detail"
+      "id": "jobs-bytedance-com-en-position-7515577680822831367-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7515577682554931474/detail",
       "job_posted_at_datetime_utc": "2025-10-31T11:13:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515577682554931474-detail"
+      "id": "jobs-bytedance-com-en-position-7515577682554931474-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T06:57:49.543Z",
     "postedAt": null
   },
   {

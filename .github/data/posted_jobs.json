@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T06:45:25.804Z",
+  "lastUpdated": "2025-12-16T06:58:33.135Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -3576,14 +3576,124 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7265104569217534263/detail",
       "discordThreadId": "1450378253671071754",
       "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7516685096896792839-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7516685096896792839",
+      "company": "TikTok",
+      "title": "General Hire - Machine Learning Engineer - Data-Search",
+      "postedToDiscord": "2025-12-16T06:57:56.759Z",
+      "sourceDate": "2025-10-31T12:15:12.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7516685096896792839",
+      "discordThreadId": "1450381402863566990",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7561663359977654589-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7561663359977654589-detail",
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate - Multimodal Large Language Model - Phd",
+      "postedToDiscord": "2025-12-16T06:58:00.130Z",
+      "sourceDate": "2025-10-31T12:15:04.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7561663359977654589/detail",
+      "discordThreadId": "1450381418063728670",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7538934102230878471-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7538934102230878471-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate - Multiple Teams",
+      "postedToDiscord": "2025-12-16T06:58:03.607Z",
+      "sourceDate": "2025-10-31T12:14:46.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538934102230878471/detail",
+      "discordThreadId": "1450381432492134511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7509248845324273938-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7509248845324273938-detail",
+      "company": "ByteDance",
+      "title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
+      "postedToDiscord": "2025-12-16T06:58:06.876Z",
+      "sourceDate": "2025-10-31T12:06:09.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7509248845324273938/detail",
+      "discordThreadId": "1450381446765084786",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7515577682555504914-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7515577682555504914-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - CV/Multimodal/NLP",
+      "postedToDiscord": "2025-12-16T06:58:10.135Z",
+      "sourceDate": "2025-10-31T11:47:09.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7515577682555504914/detail",
+      "discordThreadId": "1450381460434456597",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7533306565148281095-detail-2025-12-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7533306565148281095-detail",
+      "company": "ByteDance",
+      "title": "Research Scientist - Reinforcement Learning",
+      "postedToDiscord": "2025-12-16T06:58:16.489Z",
+      "sourceDate": "2025-10-31T12:15:09.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533306565148281095/detail",
+      "discordThreadId": "1450381486778749052",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7540836922060589320-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7540836922060589320",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate - Ads Interface and Platform - BS/MS",
+      "postedToDiscord": "2025-12-16T06:58:19.844Z",
+      "sourceDate": "2025-10-31T12:06:39.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7540836922060589320",
+      "discordThreadId": "1450381500791918602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7418774546175641906-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7418774546175641906",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate",
+      "postedToDiscord": "2025-12-16T06:58:23.352Z",
+      "sourceDate": "2025-10-31T11:44:30.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7418774546175641906",
+      "discordThreadId": "1450381514872197253",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7514842976109365512-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7514842976109365512",
+      "company": "TikTok",
+      "title": "Graduate Software Engineer - Data Architect - AI/ML Infrastructure",
+      "postedToDiscord": "2025-12-16T06:58:26.734Z",
+      "sourceDate": "2025-10-31T11:42:44.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7514842976109365512",
+      "discordThreadId": "1450381529413976075",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-sierra-9738d0f0-13be-4e89-9fba-505e7cac288f-application-2025-12-16-1",
+      "jobId": "jobs-ashbyhq-com-sierra-9738d0f0-13be-4e89-9fba-505e7cac288f-application",
+      "company": "Sierra",
+      "title": "Apx – New Grad",
+      "postedToDiscord": "2025-12-16T06:58:33.135Z",
+      "sourceDate": "2025-10-31T11:46:18.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f/application",
+      "discordThreadId": "1450381556383354990",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 325,
+    "totalJobs": 335,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T06:45:25.804Z",
+      "date": "2025-12-16T06:58:33.135Z",
       "archived": 0
     }
   }
