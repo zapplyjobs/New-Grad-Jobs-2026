@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T04:56:45.754Z",
+  "lastUpdated": "2025-12-16T05:06:07.382Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -2806,14 +2806,124 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000091688257",
       "discordThreadId": "1450350907001929799",
       "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7535156928172902674-2025-12-16-1",
+      "jobId": "lifeattiktok-com-search-7535156928172902674",
+      "company": "TikTok",
+      "title": "Data Engineer Graduate - Data Platform - Global Live",
+      "postedToDiscord": "2025-12-16T05:05:27.230Z",
+      "sourceDate": "2025-11-04T16:56:58.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535156928172902674",
+      "discordThreadId": "1450353093530095808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "whitecap-wd1-myworkdayjobs-com-careers-job-orlando_32822-application-engineer_wcjr-028621-1-2025-12-16-1",
+      "jobId": "whitecap-wd1-myworkdayjobs-com-careers-job-orlando_32822-application-engineer_wcjr-028621-1",
+      "company": "White Cap Supply Holdings",
+      "title": "Application Engineer",
+      "postedToDiscord": "2025-12-16T05:05:33.880Z",
+      "sourceDate": "2025-11-04T16:43:48.000Z",
+      "sourceUrl": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Orlando_32822/Application-Engineer_WCJR-028621-1",
+      "discordThreadId": "1450353120780615733",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-547547-2025-12-16-1",
+      "jobId": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-547547",
+      "company": "HEXAWARE",
+      "title": "Java Full Stack Engineer - Associate Mavericks",
+      "postedToDiscord": "2025-12-16T05:05:35.724Z",
+      "sourceDate": "2025-11-04T11:18:24.000Z",
+      "sourceUrl": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/547547",
+      "discordThreadId": "1450353136764981390",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd12-myworkdaysite-com-recruiting-cloudbreak-equiti-job-remote-anywhere-in-us-entry-level-developer-contract_jr-0774-2025-12-16-1",
+      "jobId": "wd12-myworkdaysite-com-recruiting-cloudbreak-equiti-job-remote-anywhere-in-us-entry-level-developer-contract_jr-0774",
+      "company": "Equiti",
+      "title": "Entry Level Developer - Contract",
+      "postedToDiscord": "2025-12-16T05:05:39.405Z",
+      "sourceDate": "2025-11-04T02:35:12.000Z",
+      "sourceUrl": "https://wd12.myworkdaysite.com/recruiting/cloudbreak/Equiti/job/Remote-Anywhere-in-US/Entry-Level-Developer---Contract_JR-0774",
+      "discordThreadId": "1450353144801525842",
+      "instanceNumber": 1
+    },
+    {
+      "id": "3m-wd1-myworkdayjobs-com-en-us-search-job-us-minnesota-maplewood-product-engineer_r01158471-2025-12-16-1",
+      "jobId": "3m-wd1-myworkdayjobs-com-en-us-search-job-us-minnesota-maplewood-product-engineer_r01158471",
+      "company": "3M",
+      "title": "Product Engineer",
+      "postedToDiscord": "2025-12-16T05:05:42.779Z",
+      "sourceDate": "2025-11-03T23:49:36.000Z",
+      "sourceUrl": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Product-Engineer_R01158471",
+      "discordThreadId": "1450353159208964147",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-developer_r8050-2025-12-16-1",
+      "jobId": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-developer_r8050",
+      "company": "AspenTech",
+      "title": "Associate Software Developer",
+      "postedToDiscord": "2025-12-16T05:05:46.274Z",
+      "sourceDate": "2025-11-03T23:46:56.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-Software-Developer_R8050",
+      "discordThreadId": "1450353173976977470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veteransunited-wd1-myworkdayjobs-com-vuhl-job-remote-mo-associate-software-engineer_r5288-2025-12-16-1",
+      "jobId": "veteransunited-wd1-myworkdayjobs-com-vuhl-job-remote-mo-associate-software-engineer_r5288",
+      "company": "Veterans United",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2025-12-16T05:05:48.143Z",
+      "sourceDate": "2025-11-03T23:39:40.000Z",
+      "sourceUrl": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Associate-Software-Engineer_R5288",
+      "discordThreadId": "1450353188594258004",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shi-wd12-myworkdayjobs-com-shicareers-job-somerset-nj-usa-pubsec-project-admin_jr2034-2025-12-16-1",
+      "jobId": "shi-wd12-myworkdayjobs-com-shicareers-job-somerset-nj-usa-pubsec-project-admin_jr2034",
+      "company": "SHI International ",
+      "title": "Pubsec Project Admin",
+      "postedToDiscord": "2025-12-16T05:05:54.560Z",
+      "sourceDate": "2025-11-04T07:59:26.000Z",
+      "sourceUrl": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Somerset-NJ-USA/PubSec-Project-Admin_JR2034",
+      "discordThreadId": "1450353208567529666",
+      "instanceNumber": 1
+    },
+    {
+      "id": "radiancetech-wd12-myworkdayjobs-com-radiance_external-job-wright-patt-afb-oh-nasic-physicist_hr101844-2025-12-16-1",
+      "jobId": "radiancetech-wd12-myworkdayjobs-com-radiance_external-job-wright-patt-afb-oh-nasic-physicist_hr101844",
+      "company": "Radiance Technologies",
+      "title": "Physicist",
+      "postedToDiscord": "2025-12-16T05:06:00.981Z",
+      "sourceDate": "2025-11-04T07:28:04.000Z",
+      "sourceUrl": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC/Physicist_HR101844",
+      "discordThreadId": "1450353235780173824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210682815-2025-12-16-1",
+      "jobId": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210682815",
+      "company": "JP Morgan Chase",
+      "title": "Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence",
+      "postedToDiscord": "2025-12-16T05:06:07.382Z",
+      "sourceDate": "2025-11-03T23:50:14.000Z",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682815",
+      "discordThreadId": "1450353262736838726",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 255,
+    "totalJobs": 265,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T04:56:45.754Z",
+      "date": "2025-12-16T05:06:07.382Z",
       "archived": 0
     }
   }
