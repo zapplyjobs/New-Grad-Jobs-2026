@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "SWE1 – Data",
-      "employer_name": "Intuit",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "<table class='MsoNormalTable' style='border: none; width: 100%;' border='1' width='624' cellspacing='0' cellpadding='0'><tbody><tr style='height: 88.5pt;'><td style='width: 624px; border: none; padding: 0in; height: 88.5pt;' valign='top'><p class='MsoNormal' style='margin: 0.1pt 6.75pt 0.0001pt 0in; line-height: 16.1333px; font-size: 11pt; font-family: Arial, sans-serif;'><span lang='EN' style='font-size: 10pt; line-height: 14.6667px;'>Come join the Intuit Fintech Data Engineering Team as a Software Engineer 1 in Data.</span></p><p class='MsoNormal' style='margin: 0.1pt 6.75pt 0.0001pt 0in; line-height: 16.1333px; font-size: 11pt; font-family: Arial, sans-serif;'><span lang='EN' style='font-size: 10pt; line-height: 14.6667px;'>&nbsp;Intuit FinTech is your trusted financial expert empowering financial prosperity for businesses and consumers through a convenient, powerful, AI-native fintech platform providing fast and easy access to funds at the time of need. We process millions of transactions every day across various payment methods. Millions of customers and merchants send billions of dollars moving at light-speed through our systems annually.</span></p><p class='MsoNormal' style='margin: 0in; line-height: 16.8667px; font-size: 11pt; font-family: Arial, sans-serif;'><span lang='EN' style='font-size: 10pt; line-height: 15.3333px;'>&nbsp;</span></p></td></tr></tbody></table><br><p class='Responsibilities'><strong>Responsibilities</strong></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol; color: #1a1a1a;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 7pt; font-family: 'Times New Roman', serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>&nbsp;</span><span style='font-size: 12pt; font-family: Arial, sans-serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>Build and maintain data pipelines:&nbsp;Assist with the development and upkeep of Extract, Transform, Load (ETL) and Extract, Load, Transform (ELT) pipelines that move data from various sources into our data warehouses and lakes.</span></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol; color: #1a1a1a;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 7pt; font-family: 'Times New Roman', serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>&nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size: 12pt; font-family: Arial, sans-serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>Support data quality:&nbsp;Perform data validation and quality checks to ensure the accuracy, reliability, and integrity of our datasets.</span></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol; color: #1a1a1a;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 7pt; font-family: 'Times New Roman', serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>&nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size: 12pt; font-family: Arial, sans-serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>Troubleshoot and monitor:&nbsp;Aid in monitoring data pipelines and infrastructure and diagnose and resolve basic issues as they arise.</span></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol; color: #1a1a1a;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 7pt; font-family: 'Times New Roman', serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>&nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size: 12pt; font-family: Arial, sans-serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>Document processes:&nbsp;Create and maintain documentation for data pipelines, processes, and schemas for future reference and knowledge sharing.&nbsp;</span></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol; color: #1a1a1a;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 7pt; font-family: 'Times New Roman', serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>&nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size: 12pt; font-family: Arial, sans-serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>Support large data volumes and design for scalability</span></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol; color: #1a1a1a;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 7pt; font-family: 'Times New Roman', serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>&nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size: 12pt; font-family: Arial, sans-serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>As a key member of the team drive adoption of new technologies, tools, and process improvements to build world class analytical capabilities for web analytics, optimization, experimentation and personalization.</span></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol; color: #1a1a1a;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 12pt; font-family: Arial, sans-serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in;'>Work cross-functionally with various Intuit teams: Product Management, Project Management, Data Architects, Data Scientists, Data Analysts, Software Engineers, and other Data Engineers.</span></p><p class='MsoNormal' style='margin: 0in 0in 0in 42pt; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: -0.25in;'><span style='font-size: 10pt; font-family: Symbol;'>·<span style='font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';'>&nbsp;&nbsp;&nbsp; </span></span><span style='font-size: 12pt; font-family: 'inherit', serif; color: #1a1a1a; border: 1pt none windowtext; padding: 0in; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'>Build GenAI based solutions to solve for customers/Experts benefit or internal productivity gains.</span><span style='font-family: AvenirNextforINTUIT-Regular, sans-serif;'>&nbsp;</span></p><br><p class='Qualifications'><strong>Qualifications</strong></p><ul style='margin-bottom: 0in; margin-top: 0in;' type='disc'><li class='MsoNormal' style='margin: 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Bachelors/ Masters in computer science or related field.</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Experience in developing data pipelines, creating ETLs, and working in distributed systems.</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Good SQL skills</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Ideal candidate to have 1+ years of experience in end-to-end data warehouse implementations</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Hands on experience in AWS technologies (S3, EMR, Redshift) or other cloud technologies.</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Hands on experience in any of the programming languages (Python, Java, etc).</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Knowledge of AI / ML, Generative AI</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Understanding of the Software design and architecture process.</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: 18pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #1a1a1a;'><span style='font-size: 12pt; font-family: 'inherit', serif;'>Hands on experience with unit testing and data quality automation checks</span></li><li class='MsoNormal' style='margin: 6pt 0in 0in; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;'><span style='font-size: 12pt; font-family: 'inherit', serif; color: #1a1a1a;'>Excellent communication skills and an eagerness to learn and grow in a fast-paced environment.</span></li></ul><br><p>Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at <a href='https://www.intuit.com/careers/benefits/full-time-employees/' target='_blank' rel='noopener noreferrer' id='isPasted'>Intuit®: Careers | Benefits</a>). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is:&nbsp;</p><p><br></p><p><br></p>",
-      "job_apply_link": "https://jobs.intuit.com/job/mountain-view/swe1-data/27595/89339344192",
-      "job_posted_at_datetime_utc": "2025-12-10T00:58:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-intuit-com-job-mountain-view-swe1-data-27595-89339344192",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Applied Researcher 2 - Search Ranking",
-      "employer_name": "eBay",
-      "job_city": "SF",
-      "job_state": "Locations",
-      "job_description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.About the team and the role:The Search Ranking and Monetization Team is the biggest contributor to eBay’s advertising program. We innovate at the heart of e-commerce search and advertising, with the ambitious goal of redefining e-commerce advertising. We craft optimized experiences for buyers and sellers on eBay. We innovate rapidly in this space and there is no shortage of new challenges for motivated individuals.We are looking for stellar applied researchers to join us and build the next generation of online advertising products in eBay search. If you enjoy the scale and technical complexity of advertising and want to be at the frontier of applied research in advertising in e-commerce, join now. Help us redefine advertising at eBay.What you will accomplish:Seek scientifically valid solutions that deliver real value to eBay customersBuild machine learning models and data pipelines to deliver insightful yet practical solutionsWork with multiple teams to help promote standard scientific methodologies and processes in your fieldPresent key technical and novel research work in public forums and conferencesWhat you will bring:MS or PhD in Computer Science, Statistics, Mathematics, or equivalent0-1 years (with PhD) or 1-3 years (with MS) of industrial experience in a related fieldIndustrial experience with one or more of the following: classification, regression, recommendation systems, targeting systems, ranking systems, fraud detection, online advertising, or relatedExperience in big data processing, e.g. Hadoop, SQL, SparkExperience with Python or R, and Java or Scala or C/C++2 or more related publications in quality conferences or journalsThe base pay range for this position is expected in the range below:$166,400 - $222,100Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.If hired, employees will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.Please see the Talent Privacy Notice for information regarding how eBay handles your personal data collected when you use the eBay Careers website or apply for a job with eBay.eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. The eBay Jobs website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies. Visit our Privacy Center for more information.",
-      "job_apply_link": "https://ebay.wd5.myworkdayjobs.com/apply/job/San-Francisco/Applied-Researcher-1---Search-Ranking_R0066187",
-      "job_posted_at_datetime_utc": "2025-12-09T22:36:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ebay-wd5-myworkdayjobs-com-apply-job-san-francisco-applied-researcher-1-search-ranking_r0066187",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Web Application Developer",
-      "employer_name": "General Dynamics",
-      "job_city": "Groton",
-      "job_state": "CT",
-      "job_description": "<h2>Overview</h2> <p>Electric Boat’s Software Engineering Group (SEG) is seeking a highly motivated, entry-level software developer to join a team of like-minded people pushing the boundaries of available applications for submarine design, manufacturing and construction.&nbsp; From initial concept design through implementation, you will be working with product stakeholders, designers and engineers from various disciplines to define the best practical application to suit the needs of the customer/end-user as well as be innovative, impactful and cost beneficial to the company and other organizations alike.&nbsp; You will grow your skills, work with the cutting-edge technologies and introduce new tools and techniques to the team.&nbsp; There are plenty of opportunities for leadership growth as well.&nbsp; You will work in an environment that encourages creative thinking and novel solutions to continuously challenging problems.&nbsp; You will be creating software applications that make our company work effectively and efficiently at what we do – which is designing and constructing the world’s finest submarines for the United States Navy.&nbsp; </p> <p>&nbsp;</p> <p>The core responsibilities include:</p> <ul> <li>Work closely with end users and the development teams to define, plan and build complex web applications</li> <li>Translation of the UI/UX designs and high-fidelity prototypes to produce visual elements of the application and desired behavior</li> <li>Writing well designed, testable, efficient code by using best software development practices</li> <li>Promoting strict code peer review practices as well as testing and validation to ensure high-quality coding standards</li> <li>Maintenance of software applications throughout the lifecycle of the product</li> </ul> <h2>Qualifications</h2> <p><strong>Required:</strong></p> <ul> <li>Bachelor of Science degree in Computer Science, Computer Engineering, or Software Engineering</li> <li>0-5 years of postgraduate engineering experience</li> <li>Ability to obtain and maintain a Secret security clearance</li> </ul> <p><strong>Preferred:</strong></p> <ul> <li>Familiarity with the Material User Interface (MUI) framework and Material Design principles</li> <li>Experience developing web applications with Oracle/SQL databases</li> <li>Experience with mobile application development using React Native</li> <li>Experience or knowledge of Agile development methodologies</li> <li>Foundational knowledge of the software development process</li> <li>A solid understanding of how web applications work including security, session management, and best development practices</li> <li>Candidate must have a strong understanding of UI, cross-browser compatibility, general web functions and standards</li> <li>Experience with the following technologies: Java, NodeJS, Object-Oriented Design, RESTful Web Services, API's, JSON, XML/XSL</li> </ul> <h2>Skills</h2> <ul> <li>Genuine commitment to understanding the needs of the end-user </li> <li>Ability to work patiently within established government processes and timelines</li> <li>Ability to quickly learn complex logistical concepts and adapt design solutions to fit changing needs</li> <li>Team-oriented mindset and willingness to work in a multi-disciplinary team</li> <li>Awareness of latest UX/UI trends and technologies</li> <li>Self-motivated to learn new skills for solving complex/challenging problems</li> <li>Enthusiasm for working in high performing team environment and collaborating with customers and end-users to define scope and design</li> </ul> <h2>Environmental Attributes</h2>Inside",
-      "job_apply_link": "https://careers-gdeb.icims.com/jobs/17081/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-12-09T17:40:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "careers-gdeb-icims-com-jobs-17081-job",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer - Junior",
-      "employer_name": "Peraton",
-      "job_city": "Reston",
-      "job_state": "VA",
-      "job_description": "<h2>Responsibilities</h2> <p>Peraton’s Space &amp; Intelligence Sector is looking for a <strong>Software</strong> <strong>Engineer</strong> to join our diverse team at our Herndon, VA, office. The candidate should have experience with structured software development methodologies and modern software tools and techniques.</p> <p>&nbsp;</p> <p>The selected candidate will work within a cross-functional Scrum team, and will perform software engineering and development activities, associated with supporting, maintaining, and enhancing software using an Agile DevSecOps model. The engineer should be comfortable working with containers and automated testing frameworks.&nbsp;</p> <h2>Qualifications</h2> <p><strong>Required Qualifications</strong></p> <ul> <li>A Bachelor’s degree with 0+ years of relevant experience; an additional 4 years of experience may be considered in lieu of a degree requirement</li> <li>Elasticsearch/Open Search, PostgreSQL, MySQL or similar experience</li> <li>Experience with state machines, task queues (e.g., Celery), or workflow engines.</li> <li>TS/SCI with ability to obtain a polygraph</li> </ul> <p><strong>Preferred Qualifications</strong></p> <ul> <li>Knowledge of API design best practices and data governance.</li> <li>Experience using Node.js.</li> <li>Understanding of RESTful APIs and data serialization (JSON, XML).</li> <li>Python development experience, especially with workflow orchestration</li> <li>Familiarity with frameworks like Django, FastAPI, or Flask.</li> <li>Security+ or equivalent certification and willingness to serve as a privileged user supporting deployed systems testing</li> </ul> <h2>Peraton Overview</h2> <p>Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated solutions and technologies to protect our nation and allies. Peraton operates at the critical nexus between traditional and nontraditional threats across all domains: land, sea, space, air, and cyberspace. The company serves as a valued partner to essential government agencies and supports every branch of the U.S. armed forces. Each day, our employees do the can’t be done by solving the most daunting challenges facing our customers. Visit peraton.com to learn how we’re keeping people around the world safe and secure.</p> <h2>Target Salary Range</h2>$66,000 - $106,000. This represents the typical salary range for this position. Salary is determined by various factors, including but not limited to, the scope and responsibilities of the position, the individual’s experience, education, knowledge, skills, and competencies, as well as geographic location and business and contract considerations. Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. <h2>EEO</h2>EEO: Equal opportunity employer, including disability and protected veterans, or other characteristics protected by law.",
-      "job_apply_link": "https://careers-peraton.icims.com/jobs/161942/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-12-09T14:57:57.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "careers-peraton-icims-com-jobs-161942-job",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Postdoctoral Research Associate - Machine Learning X-Ray Spectroscopy",
-      "employer_name": "Brookhaven Lab",
-      "job_city": "Upton",
-      "job_state": "NY",
-      "job_description": "Brookhaven National Laboratory is committed to employee success and we believe that a comprehensive employee benefits program is an important and meaningful part of the compensation employees receive. Review more information at BNL | Benefits ProgramThis is a joint position between the National Synchrotron Light Source II and the Condensed Matter Physics and Materials Science department, which plans to develop new approaches for using machine learning to analyze X-ray data, particularly Resonant Inelastic X-ray Scattering (RIXS). The position will collaborate with experts in RIXS experiments (Mark Dean), computational and data-driven methodologies (Max Rakitin and Seher Karakuzu), and RIXS theory (Steve Johnston and Seher Karakuzu).Position DescriptionThe successful candidate will join a large multi-institutional team focusing on developing the next generation of machine learning driven approaches to analyzing scattering data on quantum materials. The BNL-lead part of the project will focus on new ways to extract electronic structure information from Resonant Inelastic X-ray Scattering (RIXS) in concert with Inelastic Neutron Scattering (INS) and x-ray absorption spectroscopy (XAS). The appointment will be for an 18-month term.Essential Duties and Responsibilities:Develop methods to co-analyze multiple datasets using machine learning methodsApply novel methodologies to quantum materials to better understand their electronic structureRequired Knowledge, Skills, and Abilities:Experience with scientific programmingRequires a PhD in condensed matter physics, materials science, physical chemistry, computational science, or a related fieldAbility to analyze complex multi-dimensional datasetsPreferred Knowledge, Skills, and Abilities:Experience developing Python programsExperience with machine learning approaches to analyzing dataKnowledge of high-performance computing, such as parallelization, the use of C++, or interfacing with specialized linear algebra packagesOther Information: Work arrangement: On-siteCandidates must have received a Ph.D. by the commencement of employment. BNL policy requires that after obtaining their PhD, eligible candidates for research associate appointments may not exceed a combined total of 5 years of relevant work experience as a post-doc and/or in an R&D position, excluding time associated with family planning, military service, illness or other life-changing events. Brookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $71,900.00 - $88,000.00 / year. Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group. Brookhaven National Laboratory requires all non-badged personnel including visitors to produce a REAL-ID or REAL-ID compliant documentation to access Brookhaven National Laboratory – view more information at www.bnl.gov/real-id. This is due to nationwide identification requirements for federal site access as required by the federal REAL ID Act. Those not in possession of a REAL ID-compliant document will not be permitted to access the site which includes access to the Laboratory for interviews. About UsBrookhaven National Laboratory (www.bnl.gov) delivers discovery science and transformative technology to power and secure the nation’s future. Brookhaven Lab is a multidisciplinary laboratory with seven Nobel Prize-winning discoveries, 37 R&D 100 Awards, and more than 70 years of pioneering research. The Lab is primarily supported by the U.S. Department of Energy’s (DOE) Office of Science. Brookhaven Science Associates (BSA) operates and manages the Laboratory for DOE. BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University. BSA salutes our veterans and active military members with careers that leverage the skills and unique experience they gained while serving our country, learn more at BNL | Opportunities for Veterans at Brookhaven National Laboratory.Equal Opportunity/Affirmative Action EmployerBrookhaven Science Associates is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability or any other federal, state or local protected class. BSA takes affirmative action in support of its policy and to advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. *VEVRAA Federal ContractorBSA employees are subject to restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation at the time of hire for review by Brookhaven. The full text of the Order may be found at: https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file",
-      "job_apply_link": "https://bnl.wd1.myworkdayjobs.com/en-US/externa/job/Upton-NY/Machine-Learning-X-Ray-Spectroscopy_JR102174",
-      "job_posted_at_datetime_utc": "2025-12-09T14:06:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bnl-wd1-myworkdayjobs-com-en-us-externa-job-upton-ny-machine-learning-x-ray-spectroscopy_jr102174",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist, Embodied and Agentic AI",
-      "employer_name": "NVIDIA",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "NVIDIA is searching for an outstanding AI researcher to join the learning and perception research team. We are passionate about research that pushes boundaries but also has impact in the real world. Specific areas we are excited by include -- but are not limited to -- perception, agentic reasoning, multi-modal learning, as well as embodied AI. You will work within an amazing and collaborative research team that consistently publishes at the top venues in computer vision and machine learning. Our existing expertise includes computer vision, deep learning, generative models, and so forth. Your contributions have the chance to create real impact on our products.What you'll be doing:Research, design and implement novel embodied and agentic AI methods.Publish original research.Collaborate with other team members and teams on mission-driven research.Mentor interns.Speak at conferences and events.Work with product groups to transfer technology.Collaborate with external researchers.What we need to see:Graduating with a Ph.D. in Computer Science/Engineering, Electrical Engineering, etc., or have equivalent research experience.Excellent knowledge of theory and practice of computer vision, LLMs, and agents.Excellent programming skills in some rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA) is a plus.Knowledge of common machine learning frameworks, such as PyTorch.Outstanding research track record.Excellent communications skills.NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you!With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our best-in-class research teams are rapidly growing.Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 160,000 USD - 258,750 USD.You will also be eligible for equity and benefits.Applications for this job will be accepted at least until December 12, 2025.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
-      "job_posted_at_datetime_utc": "2025-12-09T14:05:13.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer 1",
-      "employer_name": "Wyetech",
-      "job_city": "Annapolis Junction",
-      "job_state": "MD",
-      "job_description": "Software Engineer 1Annapolis Junction, MarylandRC Team /Software Engineering (Full-Time) /HybridApply for this jobAt Wyetech, you’ll be at the center of an award-winning corporate culture, breaking technological barriers and solving real-world problems for our federal government customers. We are committed to hiring the best of the best, and in return, we offer a world-class, truly unique employee experience that is rare within our industry.The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements. Works individually or as part of a team. Reviews and tests software components for adherence to the design requirements and documents test results. Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.Due to federal contract requirements, United States Citizenship and position appropriate security clearance is required. (e.g. Active TS/SCI security clearance with agency appropriate polygraph).CapabilitiesAnalyze user requirements to derive software design and performance requirementsDebug existing software and correct defectsProvide recommendations for improving documentation and software development process standardsDesign and code new software or modify existing software to add new featuresIntegrate existing software into new or modified systems or operating environmentsDevelop simple data queries for existing or proposed databases or data repositoriesWrite or review software and system documentationServe as team lead at the level appropriate to the software development process being used on any particular projectDesign or implement complex database or data repository interfaces/queriesDevelop or implement algorithms to meet or exceed system performance and functional standardsAssist with developing and executing test procedures for software componentsDevelop software solutions by analyzing system performance standards, confer with users or system engineers; analyze systems flow, data usage and work processes; and investigate problem areasModify existing software to correct errors, to adapt to new hardware, or to improve its performanceDesign, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of designRequired QualificationsTS/SCI with agency appropriate polySeven (7) years' experience as a SWE, in programs and contracts of similar scope, type, and complexity is required. Bachelor's degree in Computer Science or related discipline from an accredited college or university is required. Four (4) years Of additional SWE experience on projects with similar software processes may be substituted for a bachelor's degreeDesired Technical SkillsA SWE1 with more of a front-end UI testing/developing background.Writing test scripts to verify the functionality of the UIs using Robot Framework (Python), REACT, and Java and/or C++.Use of other front-end automation tools is a plus, but team is currently using Robot Framework.The Benefits PackageWyetech believes in generously supporting employees as they prepare for retirement. The company automatically contributes 20% of each employee's gross compensation to a Simplified Employee Pension (SEP) IRA, with no requirement for employee matching. All contributions are fully vested from day one, ensuring immediate ownership of retirement funds. Additional benefits include:Wyetech provides a generous PTO plan of up to 200 hours annually, aligned with applicable state leave regulations. Employees have the flexibility to adjust their PTO allocation at the start of each calendar year, ensuring it meets their evolving needs.Full-time employees have the option to participate in a variety of voluntary benefit plans including:A Choice of Medical Plan Options, some with Health Savings Account (HSA)Vision and Dental Life and AD&D BenefitsShort and Long-Term DisabilityHospital Indemnity, Accident, and Critical Illness InsurancesOptional Identity Theft and Legal Protection ServicesCompany Environment & PerksEmployee Referral Bonus Eligibility up to $10,000 Mobility Among Wyetech-supported Contracts Various contract and work locations throughout Maryland, Virginia, Colorado, Texas, Utah, Alaska, Hawaii and OCONUSVarious team-building events throughout the year such as: monthly lunches, summer company picnic, and an annual holiday party. Employees receive two complementary branded clothing orders annually.$52.46 - $107.37 an hourPay Range: $52.46 - $107.37 per hour* Hourly pay rates listed for this position serve as a general guideline and are not a guarantee of compensation. Compensation will vary dependent upon factors including but not limited to: Government contract rates; education; relevant prior work experience, knowledge, skills, and competencies; certifications, and geographic location. *Hourly pay rates reflect the pre-benefit gross wage amounts.Pay Range: $52.46 - $107.37 per hour* Hourly pay rates listed for this position serve as a general guideline and are not a guarantee of compensation. Compensation will vary dependent upon factors including but not limited to: Government contract rates; education; relevant prior work experience, knowledge, skills, and competencies; certifications, and geographic location. *Hourly pay rates reflect the pre-benefit gross wage amounts.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
-      "job_posted_at_datetime_utc": "2025-12-09T14:04:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-lever-co-wyetechllc-c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Quality Assurance Associate",
-      "employer_name": "Samsung",
-      "job_city": "Plano",
-      "job_state": "TX",
-      "job_description": "Position SummaryHeadquartered in Englewood Cliffs, N.J., Samsung Electronics America, Inc. (SEA), the U.S. Sales and Marketing subsidiary, is a leader in mobile technologies, consumer electronics, home appliances, enterprise solutions and networks systems. For more than four decades, Samsung has driven innovation, economic growth and workforce opportunity across the United States—investing over $100 billion and employing more than 20,000 people nationwide. By integrating our large portfolio of products, services and AI technology, we’re creating smarter, sustainable and more connected experiences that empower people to live better. SEA is a wholly owned subsidiary of Samsung Electronics Co., Ltd.To learn more, visit Samsung.com. For the latest news, visit news.samsung.com/us.Role and ResponsibilitiesWe are seeking an experience Samsung Wallet QA Engineer to join our team at Samsung to ensure software quality of Samsung Wallet Digital Key features integrated in Samsung products. This candidate will be responsible for understanding the industry standard Digital Wallet and Digital Key for Car OEMs and Digital ID testing method / processes and bringing this knowledge to improve quality of Samsung Wallet to end users. Job Description – Focus Areas[Quality Assurance] Examining critical user journey and test case output for each project milestones[Process improvement] Evaluate big data / market data to pinpoint current needs and improvement areas.[Failure case analysis] Support with collecting data to analyze software failure types and root causes.[Collaboration] Being able to work with people outside of the team to reach a common goalSamsung Wallet (Digital key) Job Qualification / DescriptionExperience or knowledge on test processes for Samsung WalletExperience or knowledge on mobile wallet / payment eco-systemExperience or knowledge on Digital key/ID and how it operatesExperience or knowledge on mobile software testing processesExperience or knowledge using Big Data or AI for strengthening test processesExperience or knowledge on UI / UX development or testingStrong analytical skills which involve critical thinking and problem-solving skills to diagnose and resolve complex issues that ariseSkills and QualificationsA minimum 0-3 years of experience in mobile device industryBS in Engineering, data science or related technical fieldKnowledge of SDLC & QA test methodologies i.e. Agile, WaterfallStrong understanding of QA best practices including test planning, test case design, defect/test management, and Bugs reportingA skilled specialist that completes tasks in resourceful and effective ways with strong multi-tasking abilityAbility to contribute to the development of concepts and techniques as well as complete complex tasks in creative and effective waysExcellent communication and collaboration skills, with the ability to work effectively in a cross-functional team environmentStrong analytical and problem-solving skills, with the ability to troubleshoot complex issues and provide effective solutions to improve qualityPreferred QualificationsExperience with prompt engineering to acquire accurate results through AI solutionsExperience with QA project management role in a fast pace environmentExperience working in a multi-cultural environmentExperience with delivering / reporting results with PPT presentations to leadershipExperience with testing / managing any form of Digital Wallet or Application is highly desirableExperience or ability to develop automation scripts in PythonExperience or knowledge with Digital key for Car OEM/Digital IDExperience or knowledge in using / integrating AI such as LLM or any other effective AI modelsBi-lingual in Korean / English#LI-AL1Life @ Samsung - https://www.samsung.com/us/careers/life-at-samsung/Benefits @ Samsung - https://www.samsung.com/us/careers/benefits/Regular full-time employees (salaried or hourly) have access to benefits including: Medical, Dental, Vision, Life Insurance, 401(k), Employee Purchase Program, Tuition Assistance (after 6 months), Paid Time Off, Student Loan Program (after 6 months), Wellness Incentives, and many more. In addition, regular full-time employees (salaried or hourly) are eligible for MBO bonus compensation, based on company, division, and individual performance.* Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities.* Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.Reasonable Accommodations for Qualified Individuals with Disabilities During the Application ProcessSamsung Electronics America is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If you have a disability and require a reasonable accommodation in order to participate in the application process, please contact our Reasonable Accommodation Team (855-557-3247) or SEA_Accommodations_Ext@sea.samsung.com for assistance. This number is for accommodation requests only and is not intended for general employment inquiries.",
-      "job_apply_link": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Software-Quality-Assurance-Associate_R111947",
-      "job_posted_at_datetime_utc": "2025-12-09T14:03:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sec-wd3-myworkdayjobs-com-en-us-samsung_careers-job-6625-excellence-way-plano-tx-usa-software-quality-assurance-associate_r111947",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Staff Engineer I, Software Process Engineering",
-      "employer_name": "Samsung",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Position SummaryMULTIPLE POSITIONS AVAILABLECompany: SAMSUNG ELECTRONICS AMERICA, INC.Position Title: Staff Engineer I, Software Process EngineeringLocation: Mountain View, CAJob ID: SAM9441215Position Responsibilities:Ensure information flows efficiently between team and the rest of the organization as necessary. Monitor all critical services, sharing on-call duties, troubleshooting, and addressing problems as they arise, including changes in code, topology, resources, or configuration. Ensure timely resolution of critical production-affecting issues, recommending and prioritizing prevention actions, and communicating these efficiently to stakeholders. Participate in domains and engineering alignment meetings, including Agile/Scrum ceremonies. Ensure the team adopted, owned, and followed well-documented engineering practices. Administration of services, whether built in-house or from external vendors. Continuous improvement of internal services for ease of packaging, configuration, and deployment. Deploy applications on Kubernetes, ensure the security of those applications, and troubleshoot those applications. Manage the lifecycle of Kubernetes deployment through upgrades and decommission.Role and ResponsibilitiesBachelor’s degree in Electronic Engineering, Computer Engineering, Management Information Systems or a related field and five (5) years of progressive post-baccalaureate experience as a Staff Engineer I, Software Process Engineering or a related occupation in managing and Supporting large-scale Production data pipeline solutions. The five (5) years of experience must have included: 1) Experience in Linux, SQL, Python, shell scripting, Kafka, Flink, and Airflow; 2) Experience in Infra as code-based strategies, including Terraform and Helm; 3) Managing the lifecycle of Kubernetes deployment through upgrades and decommission; 4) Planning and supporting hardware and software installation and upgrades, configuration management, monitoring, and performance tuning; 5) Experience in Distributed Data pipeline implementation, configuration, operations, and maintenance; and 6) Experience in Distributed timeseries database implementation, configuration, operations, and maintenance.Employer will accept a Master’s degree in Electronic Engineering, Computer Engineering, Management Information Systems or a related field and two (2) years of experience as a Staff Engineer I, Software Process Engineering or a related occupation in managing and Supporting large-scale Production data pipeline solutions. The two (2) years of experience must have included: 1) Experience in Linux, SQL, Python, shell scripting, Kafka, Flink, and Airflow; 2) Experience in Infra as code-based strategies, including Terraform and Helm; 3) Managing the lifecycle of Kubernetes deployment through upgrades and decommission; 4) Planning and supporting hardware and software installation and upgrades, configuration management, monitoring, and performance tuning; 5) Experience in Distributed Data pipeline implementation, configuration, operations, and maintenance; and 6) Experience in Distributed timeseries database implementation, configuration, operations, and maintenance.Skills and QualificationsPartial telecommuting permitted; employees will be required to report to office multiple days per week.Hours: Full Time, 40 hours/week. Salary Range: $264,514.00 /year to $283,000.00 /year* Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.",
-      "job_apply_link": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003",
-      "job_posted_at_datetime_utc": "2025-12-09T14:02:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Developer I",
-      "employer_name": "AspenTech",
-      "job_city": "Bedford",
-      "job_state": "MA",
-      "job_description": "The driving force behind our success has always been the people of AspenTech. What drives us, is our aspiration, our desire and ambition to keep pushing the envelope, overcoming any hurdle, challenging the status quo to continually find a better way. You will experience these qualities of passion, pride and aspiration in many ways — from a rich set of career development programs to support of community service projects to social events that foster fun and relationship building across our global community.The RoleAs a Software Developer with focus on software packaging and deployment, you will build and maintain software deployment solutions for our aspenONE software and push the deployment technology to make it easier for our customers to adopt our latest technologies. We are seeking a 1-2 years experienced Installation Developer with expertise in Windows and/or Linux environments to design, develop, and maintain software installation solutions. The ideal candidate will have knowledge of installation technologies, demonstrable programming skills, and the ability to work collaboratively in an agile development environment.Your ImpactDesign, develop, and maintain installation packages for Windows and Linux platforms.Utilize Windows Installer and other installation technologies to deliver robust, scalable solutions.Create and maintain installation scripts using C#, PowerShell, Bash, etc.Leverage InstallShield for advanced installation packaging and deployment tasks.Work with container technologies to support modern deployment environments.Ensure installation processes integrate with version control systems (e.g., Git, Perforce) and CI/CD pipelines.Troubleshoot, debug, and resolve installation-related issues.Follow agile development practices to deliver high-quality, timely solutions.What You'll Need1-2 years experience as an Installation Developer.Good understanding of Windows and Linux operating systems.Experience with container technologies (e.g., Docker, Kubernetes) is a plus.Experience with Windows Installer technology and InstallShield.Experienced in one or more of C#, PowerShell, Bash (SH), and C++.Understanding software deployment procedures and best practices.Experience working with agile development methodologies.Experience with version control systems, such as Git and Perforce.Excellent communication and collaboration skills.Strong problem-solving and analytical skills.The salary range for this role is $90,200.00 - $112,800.00. This range represents what we in good faith believe is the range possible for base compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range based on several factors. This range may be modified in the future. This role is also eligible for bonus or variable incentive pay. Additionally, we offer a comprehensive benefits package including paid time off, charitable giveback day, medical/dental/vision insurance, and retirement benefits to eligible employees.",
-      "job_apply_link": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Bedford-Massachusetts/Software-Developer-I_R8120",
-      "job_posted_at_datetime_utc": "2025-12-09T13:59:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "aspentech-wd5-myworkdayjobs-com-en-us-aspentech-job-bedford-massachusetts-software-developer-i_r8120",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T01:39:57.693Z",
-    "postedAt": "2025-12-16T01:53:44.495Z"
-  },
-  {
-    "job": {
       "job_title": "Junior Software Engineer, AI",
       "employer_name": "Magical",
       "job_city": "San Francisco",
@@ -214,10 +14,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -234,10 +34,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -254,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -274,10 +74,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -294,10 +94,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -314,10 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -334,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -354,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -374,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -394,10 +194,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T01:52:58.942Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T02:36:13.722Z"
   },
   {
     "job": {
@@ -405,16 +205,18 @@
       "employer_name": "Honeywell",
       "job_city": "Phoenix",
       "job_state": "AZ",
-      "job_description": "Join Honeywell in this exciting opportunity.",
+      "job_description": "As a Software Engr I here at Honeywell, you will support the design, development, and implementation of solutions for aircraft engine test automation, notably Digital Data Acquisition Systems (DDAS) - advanced systems integral to the testing, evaluation and performance of aircraft engines.",
       "job_apply_link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130270",
       "job_posted_at_datetime_utc": "2025-12-09T00:40:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-130270"
+      "id": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-130270",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "Twitch",
       "job_city": "SF",
       "job_state": "Locations",
-      "job_description": "Join Twitch in this exciting opportunity.",
+      "job_description": "About Us Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day. We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process. About the Role The Twitch Ads team manages a comprehensive advertising ecosystem that balances revenue generation with user and advertiser satisfaction. We deliver promotional content through multiple channels while maintaining seamless experiences for viewers, creators and advertisers. Our team is responsible for driving up Ad Supply quality for Twitch and enabling Ad Demand via various domains including Ads Targeting, Brand Safety&Suitability, Measurement, Privacy and Ads Data Platform. These critical technical solutions drive essential business operations and enable trustworthy products for advertisers that are measurable and targetable. You will become an expert across the breadth of services powering these products - architecting, building, and operating them and working closely with the engineers within the Twitch Ads and Amazon Ads orgs. You will be empowered to work across the stack, and will partner with other engineers, product managers, designers, and data analysts to deliver solutions. This position is in San Francisco, CA. You Will: Work with product managers, technical leads, and other engineers to design, develop, launch, and operate interactive experiences and products Build distributed applications at scale Collaborate with both your team and related teams - fostering shared understanding of how to solve problems and deliver solutions Work backwards from customer problems to drive business impact You Have: 1+ Years experience developing software in a professional environment Prior experience building consumer-facing products at scale Proficient coding skills in modern languages and frameworks Proven ability with algorithms, data structures, data modeling, and schema design Minimum of Bachelor’s degree in Computer Science or equivalent experience Bonus Points Experience with languages/frameworks we use at Twitch: Golang, Typescript/React Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions Familiarity with Twitch, gaming, and/or streaming on Twitch Perks Medical, Dental, Vision & Disability Insurance 401(k) Maternity & Parental Leave Flexible PTO Amazon Employee Discount Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Job ID: TW9032Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from our lowest geographic market up to our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. This position will remain open until filled. For more information, please visit https://www.twitch.tv/jobs/en/#learn-more. Applicants should apply via our internal or external career site. US Pay Per Year$99,500 - $200,000 USDTwitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.",
       "job_apply_link": "https://job-boards.greenhouse.io/twitch/jobs/8326594002",
       "job_posted_at_datetime_utc": "2025-12-08T23:03:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-twitch-jobs-8326594002"
+      "id": "job-boards-greenhouse-io-twitch-jobs-8326594002",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -441,16 +245,18 @@
       "employer_name": "Hudl",
       "job_city": "Lexington",
       "job_state": "KY",
-      "job_description": "Join Hudl in this exciting opportunity.",
+      "job_description": "At Hudl, we build great teams. We hire the best of the best to ensure you’re working with people you can constantly learn from. You’re trusted to get your work done your way while testing the limits of what’s possible and what’s next. We work hard to provide a culture where everyone feels supported, and our employees feel it—their votes helped us become one of Newsweek's Top 100 Global Most Loved Workplaces. We think of ourselves as the team behind the team, supporting the lifelong impact sports can have: the lessons in teamwork and dedication; the influence of inspiring coaches; and the opportunities to reach new heights. That’s why we help teams from all over the world see their game differently. Our products make it easier for coaches and athletes at any level to capture video, analyze data, share highlights and more.Ready to join us? Your Role We’re looking for a Software Engineer I to join our product teams, which are focused on building software to support teams, athletes, and fans across sports through products such as video analytics, livestreaming, ticketing, and organizational management tools. In this role, you will: Collaborate. By working closely with a cross-functional team across Engineering, Quality, Product, Design, and Scrum, you’ll help improve our web and mobile products. Deliver full-stack web and mobile features. We iterate rapidly and deploy changes to the product hundreds of times a day across our engineering team. Propose new solutions. You’ll have the opportunity to solve technical challenges and provide guidance to less experienced engineers. For this role, we're currently considering candidates who live within a commuting distance of our offices in Lincoln, NE or Lexington, KY or are willing to relocate. Must-Haves Exposure to mature, full-stack web application code. You have at least 1 internship building across many levels of a web application, from client-side code down to the database. A collaborative, team-first mindset. You know building excellent software is a team effort, and you’re willing to collaborate with others to get to the best outcome, whether that means providing input in technical discussions, pitching in when a teammate needs a hand, or providing quality feedback in code review. Experience independently navigating uncertainty. You’re used to working with many possible implementation options and know how to identify the one that pragmatically balances quality, consistency, and delivering immediate customer value. Curiosity. You’ve picked up new technologies and domains on the job and know what form of learning helps you most. Working across myriad layers of the stack and multiple products energizes you. Nice-to-Haves Professional background in C#, React, MongoDB, and/or AWS. Adjacent languages, frameworks, and services used at scale are relevant experiences, but a direct background in our core technologies is a plus. Experience working with hybrid teams. Our engineering team is spread across the U.S., with a combination of people working in the office and remotely. A background working with global teams isn’t a must, but will help you adapt more quickly to Hudl’s culture. Our Role Champion work-life harmony. We’ll give you the flexibility you need in your work life (e.g., flexible vacation time, company-wide holidays and timeout (meeting-free) days, remote work options and more) so you can enjoy your personal life too. Guarantee autonomy. We have an open, honest culture and we trust our people from day one. Your team will support you, but you’ll own your work and have the agency to try new ideas. Encourage career growth. We’re lifelong learners who encourage professional development. We’ll give you tons of resources and opportunities to keep growing. Provide an environment to help you succeed. We've invested in our offices, designing incredible spaces with our employees in mind. But whether you’re at the office or working remotely, we’ll provide you the tech stack and hardware to do your best work. Support your mental and physical health. We care about our employees’ wellbeing. Our Employee Assistance Program, employee resource groups and fitness partner Peerfit have you covered. Cover your medical insurance. We have multiple plans to pick from to ensure you’ll have the coverage you (and your dependents) want, including vision, dental, fertility healthcare and family forming benefits. Contribute to your 401(K). Yep, that’s free money. We’ll match up to 4% of your own contribution. #LI-DNI CompensationThe base salary range for this role is displayed below—starting salaries will typically fall near the middle of this range. We make compensation decisions based on an individual's experience, skills and education in line with our internal pay equity practices.Base Salary Range$76,000 - $127,000 USDInclusion at Hudl Hudl is an equal opportunity employer. Through our actions, behaviors and attitude, we’ll create an environment where everyone, no matter their differences, feels like they belong. We offer resources to ensure our employees feel safe bringing their authentic selves to work, including employee resource groups and communities. But we recognize there’s ongoing work to be done, which is why we track our efforts and commitments in annual inclusion reports. We also know imposter syndrome is real and the confidence gap can get in the way of meeting spectacular candidates. Please don’t hesitate to apply—we’d love to hear from you. Privacy Policy Hudl Applicant and Candidate Privacy Policy",
       "job_apply_link": "https://job-boards.greenhouse.io/hudl/jobs/7449433",
       "job_posted_at_datetime_utc": "2025-12-08T23:01:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-hudl-jobs-7449433"
+      "id": "job-boards-greenhouse-io-hudl-jobs-7449433",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -459,16 +265,18 @@
       "employer_name": "Amazon",
       "job_city": "SF",
       "job_state": "Locations",
-      "job_description": "Join Amazon in this exciting opportunity.",
+      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
       "job_apply_link": "https://amazon.jobs/en/jobs/3138963/software-engineer-i-ad-demand",
       "job_posted_at_datetime_utc": "2025-12-08T22:49:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3138963-software-engineer-i-ad-demand"
+      "id": "amazon-jobs-en-jobs-3138963-software-engineer-i-ad-demand",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -477,16 +285,18 @@
       "employer_name": "Oracle",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Oracle in this exciting opportunity.",
+      "job_description": "Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.",
       "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315615",
       "job_posted_at_datetime_utc": "2025-12-08T22:48:26.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-315615"
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-315615",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -495,16 +305,18 @@
       "employer_name": "Northrop Grumman",
       "job_city": "Hill AFB",
       "job_state": "UT",
-      "job_description": "Join Northrop Grumman in this exciting opportunity.",
+      "job_description": "RELOCATION ASSISTANCE: Relocation assistance may be availableCLEARANCE TYPE: SecretTRAVEL: Yes, 10% of the TimeDescriptionAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.Embark on a career putting innovative, reliable, and agile products and ideas into orbit, and beyond. Northrop Grumman has opportunities waiting for you that play a vital role in human space exploration, national defense, and scientific discovery, supporting multiple programs across the universe. With us, you’ll discover a culture of curiosity and collaboration that will have you Defining Possible from the day you start. Our defense systems connect and protect millions of people on earth every day, now and for the future. Explore your future and launch your career today.Northrop Grumman is currently seeking a Mission Assurance Engineer / Principal Mission Assurance Engineer to provide on-site support to our Roy, Utah Sentinel Team.What You’ll Get To Do:• Qualified candidates will support MA functions to ensure mission success• Technical reviews of all Sentinel drawings, SOW’s, Requirements documents as required.• Performs or assures quality, risk management, safety, reliability and maintainability of Sentinel achievements.• Assesses Sentinel performance and risks, also determines resources to ensure mission assurance.• Assist the Program Quality Managers (PQM) with all Sentinel Mission Assurance /Program Management requirements.• Support, develop, implement and maintain the Sentinel Program Quality Plans.• Support and facilitate Sentinel program FRBs ensuring identification of root cause and proper implementation of corrective actions and reach back.• Assist PQM in preparation and execution of Program Preventive and Corrective Action Board (PCAB).• Develop and maintain Sentinel Program Metrics. Assist in the preparation of the Program Management Program Review packages.• Support PQM with Sentinel Customer Corrective Action Requests. Support IPT MA & QE in Conditional Acceptance requirements and flow down.• Monitor timely closure of Conditionally Accepted hardware and work corrective actions with IPT MA & QEsPosition Benefits:As a full-time employee of Northrop Grumman, you are eligible for our robust benefits package including:• Medical, Dental & Vision coverage• 401k• Educational Assistance• Life Insurance• Employee Assistance Programs & Work/Life Solutions• Paid Time Off• Health & Wellness Resources• Employee DiscountsThis positions standard work schedule is a 9/80. The 9/80 schedule allows employees who work a nine-hour day Monday through Thursday to take every other Friday off.Basic Qualification - You'll bring these qualifications:• Basic Qualifications for an Engineer Mission Assurance (T02) a Bachelors of Science degree with 2 years of experience OR a Masters OR a PhD. Basic Qualifications for a Principal Mission Assurance Engineer (T03) a Bachelors of Science degree with 5 years of experience OR a Masters with 3 years of experience OR a PhD with 1 year of experience.• Active DoD Secret Security Clearance awarded or reviewed in the last 6 years, with ability to obtain PAR• Experience with quality management systems to support program processes, audits, and/or improvements.• Experience with manufacturing and quality assurance processes.Preferred Qualifications:• Demonstrated ability prioritizing tasks and meeting deadlines with attention to detail.• Experience with Mission Assurance Engineering and Quality Engineering practices or Manufacturing floor experience including inspections.• Technical reviews of drawings, Statement of work, and requirements traceability documents.• Experience in processing, monitoring, data collection, analysis, and metric reporting for overall program and segments•Experience with manufacturing, quality controls, inspection and/or non-conformance controls.•Test experience with writing test procedures and executing test plans.Primary Level Salary Range: $98,400.00 - $147,600.00The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.The application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
       "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Engineer-Principal-Engineer-Mission-Assurance---16584_R10216305",
       "job_posted_at_datetime_utc": "2025-12-08T22:47:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305"
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -518,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-12-08T22:33:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "fa-etum-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-41204"
+      "id": "fa-etum-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-41204",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "Dominion Energy",
       "job_city": "Glen Allen",
       "job_state": "VA",
-      "job_description": "Join Dominion Energy in this exciting opportunity.",
+      "job_description": "Dominion Energy is committed to providing reliable, affordable, and increasingly clean energy that powers our customers every day. If you want to work for a purpose-driven company that values safety and collaboration, we’re looking for you. You won’t just find a job here; you’ll find your career. Review the position below and apply today. We offer a hybrid 3-2 work schedule (three days in the office, two days of teleworking) to accommodate the need for flexibility. Military service members and veterans with ranks from E3-E5, W1-W2, or O1-O3, plus appropriate equivalent combination of education and years of experience as outlined below will be considered for this opportunity. Job Summary We Strive to Drive Power Innovation Through Data The nature of the grid is in flux. We on the Strategic Initiatives - Operations Analytics team see this challenge and aim to rise to the occasion. Our team mandate is to bridge the gap between real-world system data and provide consumable business intelligence to help steer the future of how we monitor and manage the grid. Our fast-growing team is responsible for the capture, curation, utilization, and application of time-series data, including SCADA and Synchrophasors. Our work is to steward this data and ensure its analysis and outputs provide our business and the industry with the ability to adapt and meet the demands of a shifting energy landscape. We seek the curious and creative, the self-motivated, and those driven by the pursuit of driving change. We Seek Joint Expertise in Power Systems & Data Storytelling Our team is seeking an engineer with a background in power systems and data engineering technology and development to help further our business’ power system analytic capabilities. An ideal candidate is driven by the pursuit of excellence – this is not a job for wrench-turning, but rather for those compelled to identify problems and solve them with critical thinking abilities and working with a multi-faceted team. Candidates must bring the ability to identify gaps in knowledge and organizational capability and pinpoint uses for data and storytelling techniques to ensure we serve the business with improved data-decision making technology. A successful candidate will focus on: Forging new relationships across the organization in search of applicable use cases and opportunities to use time series data as a backbone for analysis and decision-making and guiding/building out solutions. Ongoing account management – working with existing partners to meet established project requirements and ensure any analytic/application outputs meet the stated objective of customer established requirements. Ensuring uptime and proper operation of our PI system resources to ensure current and future state operations of PI are nominally operational for the organization. Continuous learning: whether it’s new technologies or growth in our company’s vertical, our most successful team members are those who have an intrinsic desire to learn and improve. Exploring new techniques and PI features to model time-series and asset data. Whether leveraging native PI capabilities, or utilizing SDK and API capabilities to establish data services and create improved capabilities outside. Must be able to meet NERC qualifications. Relocation assistance may be offered to the successful candidate. Sponsorship assistance may be offered to the successful candidate. Military service members and veterans with ranks from E5-E9, W1-CW5, or O3-O6, plus appropriate equivalent combination of education and years of experience as outlined. Required Knowledge, Skills, Abilities & Experience The knowledge, skills, abilities and experiences required for entry into this job include the following: Associate Engineer: 0-2+ years of engineering experience Engineer: 2-5 years of engineering experience Senior Engineer: 5+ years of engineering experience Basic knowledge of engineering concepts, fundamentals and theory. Ability to apply these theories and concepts to complex problems. Preference for knowledge of basic electric power concepts, including electric transmission and distribution, power flow, distributed generation and line protection. Effective decision-making, organization, and problem-solving skills. Ability to communicate effectively, build relationships, and operate independently while aligning to the joint mission of our team. Data Analysis: Interrogating data and carefully posing the right questions to produce insightful and high impact outputs. Candidates should possess strong analytic skills and have a history of using programmatic languages to create data analyses and visualizations that answer specific and properly posed questions. A strong candidate will demonstrate a high degree of proficiency in developing tools including but not limited to Python, C#, PowerBI, Advanced Excel, SQL, and/or ArcGIS. PI Data Engineering (preferred but not required): Much of our PI technology is operated and maintained by our Information Technology team; it is our responsibility to ensure the proper guidance of business requirements to deliver the right core capabilities to the business. Having an understanding of PI technology features (specifically OSISoft and/or AVEVA) would be beneficial for this role. This includes PI Data Archive, PI Asset Framework, PI Vision, PI Business Analytics Integrator, PI Web API, PI AF SDK, and common functionalities across those platforms. Power Systems Fundamentals (preferred but not required): We deal with transmission systems data. A candidate with power systems acumen will have a more streamlined entry to posing the right engineering questions and devising highly applicable analytic results – while this is not required, we will look for candidates with a demonstrated history in professional training and development. The candidate should demonstrate excellent professional ethics. REQUIRED ENGINEERING CRITERIA: For placement of a candidate in the Engineer job series, the following criteria must be met: Possess a 4-year Engineering degree from an ABET accredited Engineering program based on the year that the Engineering program was accredited by ABET, or Possess a 4-year Engineering degree from an institution outside of the U.S. which is accredited through the country's own Engineering accrediting body under the Washington Accord as a full signatory, and is a degree that was recognized by the country's accrediting body on or after the date that full signatory status was achieved, or Possess a 4-year degree in Engineering (non-ABET accredited), Physics, Chemistry, Math or Engineering Technology and a post-graduate Engineering degree from an institution where the undergraduate degree in the same Engineering discipline is ABET-accredited based on the year the Engineering program was accredited by ABET, or Holds or has previously held a valid U.S. Professional Engineer license. Education Requirements Required Degree (equivalency not accepted in lieu of required degree): Bachelor’s in Engineering Prefer degree in Electrical or Computer EngineeringLicenses, Certifications, or Quals Description Working Conditions Office Work Environment 76 -100%Travel Up to 25%Other Working Conditions Test Description No Testing Export Control Certain positions at Dominion Energy may involve access to information and technology subject to export controls under U.S. law. Compliance with these export controls may result in Dominion Energy limiting its consideration of certain applicants. Other Information We offer excellent plans and programs for employees. Employees are rewarded with a competitive salary and comprehensive benefits package which may include: health benefits with coverage for families and domestic partners, vacation, retirement plans, paid holidays, tuition reimbursement, and much more. To learn more about our benefits, click here dombenefits.com. Dominion Energy is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin and/or status as a protected veteran or individual with a disability. You can experience the excitement of our company – it's the difference between taking a job and starting a career.",
       "job_apply_link": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Associate-Engineer-Engineer-Sr_-Engineer-Electric-Transmission-Operations-Analytics-VA-23060/1348026900/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-08T22:17:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-dominionenergy-com-job-glen-allen-associate-engineer-engineer-sr_-engineer-electric-transmission-operations-analytics-va-23060-1348026900"
+      "id": "careers-dominionenergy-com-job-glen-allen-associate-engineer-engineer-sr_-engineer-electric-transmission-operations-analytics-va-23060-1348026900",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -549,16 +365,18 @@
       "employer_name": "HEXAWARE",
       "job_city": "United States",
       "job_state": "Locations",
-      "job_description": "Join HEXAWARE in this exciting opportunity.",
+      "job_description": "Client Select - Sri Sai Lalitha Janaswamy under Wealth Management Project",
       "job_apply_link": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/549450",
       "job_posted_at_datetime_utc": "2025-12-08T22:14:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-549450"
+      "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-549450",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "Citizen Health",
       "job_city": "SF",
       "job_state": "Locations",
-      "job_description": "Join Citizen Health in this exciting opportunity.",
+      "job_description": "Who We Are Citizen Health was founded on the belief — shaped by firsthand lived experiences navigating healthcare — that having the right advocate is the single most important factor in achieving better care and outcomes. By uniquely combining data, AI, and community, Citizen is building a personalized AI advocate powered by patients' complete medical histories and data from thousands of other patients to generate personalized insights for clinical decisions and day-to-day challenges. Starting in rare and complex conditions, patients share their data in exchange for value, enabling biopharma and researchers with seamless access to patients and regulatory-grade data, shaving years off drug development for much-needed treatments. Citizen is founded by experienced entrepreneurs with multiple successes under their belts and is funded by top-tier investors including 8VC, Transformation Capital, and Headline Ventures, among others. We are a mission-driven team excited to be building the future of consumer healthcare. The Role We're seeking a full-stack Software Engineer to work on the development of our patient, partner, and company web applications. This role is crucial in creating intuitive, efficient, and responsive user interfaces that will directly impact our users' experience and our platform's success. As a key part of our engineering team, you will build high-performance, scalable, and accessible user interfaces that use AI to serve diverse user groups including rare disease patients, healthcare providers, researchers, and our internal teams. You will join a team that highly leverages the latest AI coding assistants (e.g. Cursor, Claude Code, Codex, etc.) to implement features at very high velocity. Your work will be at the heart of our mission, translating complex health data and research findings into user-friendly interfaces that empower patients, facilitate groundbreaking research, and streamline our internal operations. Who you are You’re a builder and problem-solver who thrives in fast-paced, innovative environments. You’ve worked on consumer or data-rich products, enjoy end-to-end ownership, and collaborate closely with teammates to ship real value. You’re comfortable diving into your strengths (frontend, backend, or full-stack) and curious about how AI can improve the experiences we deliver for patients, providers, researchers, and internal teams. You will likely be a fit if you have 0-3 years of professional software engineering experience with a track record of launching user-facing features or services. Strength in one or more of the following: Frontend: JavaScript/TypeScript with a modern framework (e.g., React/Vue), semantic HTML/CSS, accessibility, and performance for data-heavy UIs. Product Engineering: Strong product sense and UX instincts; you use user needs, data, and experiments to guide decisions and iterate quickly. Working knowledge of performance, scalability, and security fundamentals appropriate to your layer (e.g., web perf, API efficiency, data modeling, auth). Experience with testing (e.g., Jest, React Testing Library, Cypress, PyTest) and comfort with code reviews and iterative development. You will receive bonus points if you have Experience with frontend state management (e.g., Redux, MobX, Recoil) or a backend framework (e.g., Express, FastAPI, Spring, Fiber). Familiarity with CI/CD pipelines and modern build tooling. Proficiency with databases (SQL or NoSQL) and writing simple queries to inform product decisions. Experience with analytics/experimentation and/or accessibility best practices. Exposure to cloud infrastructure (AWS/GCP/Azure), containers, and observability is a plus. Why Join Us? At Citizen Health, you will be part of an ambitious mission to build innovative AI-driven solutions that redefine the consumer healthcare experience and improve outcomes for millions. We value curiosity, creativity, and collaboration, and we believe in empowering every team member to have an impact. Here, you’ll find: The chance to work on pioneering AI technologies and solve complex problems that push the boundaries of what’s possible in healthcare The freedom to lead your projects and shape the company’s direction in a mission-driven environment where your work makes a real impact A fast-paced, high-growth setting that brings expanding opportunities and clear paths for career progression A supportive culture of learning, experimentation, and innovation, where new ideas are encouraged and explored A commitment to empathy and diversity, recognizing that our greatest strengths come from our varied perspectives and experiences Regular team activities and knowledge sharing, all within a culture that prioritizes well-being and connection Additional Perks Competitive salary + equity package Comprehensive health, dental, and vision insurance Unlimited paid time off, including a generous parental leave Flexible hybrid work environment Our Commitment to Diversity &amp; Inclusion: Citizen Health is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We welcome applicants of all backgrounds, identities, and experiences. Everyone deserves an equal chance to contribute and grow here — regardless of race, gender identity, sexual orientation, religion, national origin, age, disability, or veteran status. Don't meet every qualification? No worries! We believe that passion, curiosity, and the right mindset are just as important as a checklist of skills. If you’re excited about what we’re building, we encourage you to apply.",
       "job_apply_link": "https://jobs.ashbyhq.com/Citizen%20Health/ebc4c080-319d-4348-ada1-6ded3c803ec7/application",
       "job_posted_at_datetime_utc": "2025-12-08T20:28:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-citizen-20health-ebc4c080-319d-4348-ada1-6ded3c803ec7-application"
+      "id": "jobs-ashbyhq-com-citizen-20health-ebc4c080-319d-4348-ada1-6ded3c803ec7-application",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T02:35:25.155Z",
     "postedAt": null
   },
   {
@@ -12384,6 +12204,42 @@
     },
     "status": "pending",
     "addedAt": "2025-12-16T01:38:40.802Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Financial Systems Analyst 1",
+      "employer_name": "Lewis Brisbois",
+      "job_city": "St. Louis",
+      "job_state": "MO",
+      "job_description": "Join Lewis Brisbois in this exciting opportunity.",
+      "job_apply_link": "https://careers-lewisbrisbois.icims.com/jobs/12140/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-15T02:06:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-lewisbrisbois-icims-com-jobs-12140-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-16T02:34:57.364Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Utility Analyst 1",
+      "employer_name": "Bernhard",
+      "job_city": "Baton Rouge",
+      "job_state": "LA",
+      "job_description": "Join Bernhard in this exciting opportunity.",
+      "job_apply_link": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-01T09:25:53.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-enfra-icims-com-jobs-8884-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-16T02:34:57.364Z",
     "enrichedAt": null,
     "postedAt": null
   }
