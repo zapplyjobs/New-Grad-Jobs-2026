@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T04:26:54.163Z",
+  "lastUpdated": "2025-12-16T04:44:02.521Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -2586,14 +2586,124 @@
       "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-PhD-Students-Seeking-Full-Time-Employment-TX-77001/1314976300/?ats=successfactors",
       "discordThreadId": "1450343391991693355",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-epicbio-jobs-5587739004-2025-12-16-1",
+      "jobId": "job-boards-greenhouse-io-epicbio-jobs-5587739004",
+      "company": "Epicrispr Biotechnologies",
+      "title": "Associate Data Scientist / Data Scientist 1",
+      "postedToDiscord": "2025-12-16T04:43:25.459Z",
+      "sourceDate": "2025-11-07T16:24:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/epicbio/jobs/5587739004",
+      "discordThreadId": "1450347550740844697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-science_r160136-2025-12-16-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-science_r160136",
+      "company": "Adobe",
+      "title": "University Graduate - Applied Science",
+      "postedToDiscord": "2025-12-16T04:43:29.006Z",
+      "sourceDate": "2025-11-06T23:52:36.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Applied-Science_R160136",
+      "discordThreadId": "1450347564976177152",
+      "instanceNumber": 1
+    },
+    {
+      "id": "umiami-wd1-myworkdayjobs-com-umfaculty-job-coral-gables-fl-artificial-intelligence-expertise-in-quantum-science-and-ai-_r100092114-2025-12-16-1",
+      "jobId": "umiami-wd1-myworkdayjobs-com-umfaculty-job-coral-gables-fl-artificial-intelligence-expertise-in-quantum-science-and-ai-_r100092114",
+      "company": "University of Miami",
+      "title": "Artificial Intelligence",
+      "postedToDiscord": "2025-12-16T04:43:32.295Z",
+      "sourceDate": "2025-11-06T23:29:18.000Z",
+      "sourceUrl": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/Artificial-Intelligence--Expertise-in-Quantum-Science-and-AI-_R100092114",
+      "discordThreadId": "1450347579421360239",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-assistant-professor-data-science_r-088833-1-2025-12-16-1",
+      "jobId": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-assistant-professor-data-science_r-088833-1",
+      "company": "Texas A&M University - Corpus Christi",
+      "title": "Assistant Professor - Data Science",
+      "postedToDiscord": "2025-12-16T04:43:35.604Z",
+      "sourceDate": "2025-11-06T23:13:21.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Assistant-Professor--Data-Science_R-088833-1",
+      "discordThreadId": "1450347593056911532",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ou-taleo-net-careersection-2-jobdetail-ftl-2025-12-16-1",
+      "jobId": "ou-taleo-net-careersection-2-jobdetail-ftl",
+      "company": "University of Oklahoma",
+      "title": "Data Technician",
+      "postedToDiscord": "2025-12-16T04:43:41.943Z",
+      "sourceDate": "2025-11-07T16:15:49.000Z",
+      "sourceUrl": "https://ou.taleo.net/careersection/2/jobdetail.ftl?job=252356",
+      "discordThreadId": "1450347619737014323",
+      "instanceNumber": 1
+    },
+    {
+      "id": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-analyst-advanced-analytics_r0016043-2025-12-16-1",
+      "jobId": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-analyst-advanced-analytics_r0016043",
+      "company": "Horizon media",
+      "title": "Analyst Advanced Analytics",
+      "postedToDiscord": "2025-12-16T04:43:45.367Z",
+      "sourceDate": "2025-11-06T23:54:54.000Z",
+      "sourceUrl": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Analyst--Advanced-Analytics_R0016043",
+      "discordThreadId": "1450347633427353713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-laika-com-careers-job-listing-2025-12-16-1",
+      "jobId": "www-laika-com-careers-job-listing",
+      "company": "LAIKA Studios",
+      "title": "Pipeline Engineer",
+      "postedToDiscord": "2025-12-16T04:43:48.968Z",
+      "sourceDate": "2025-11-06T23:50:15.000Z",
+      "sourceUrl": "https://www.laika.com/careers/job-listing?jobid=7379327&gh_jid=7379327",
+      "discordThreadId": "1450347647977390080",
+      "instanceNumber": 1
+    },
+    {
+      "id": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20262247-2025-12-16-1",
+      "jobId": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20262247",
+      "company": "Vertiv",
+      "title": "Application Engineer - IT Racks and Cabinets",
+      "postedToDiscord": "2025-12-16T04:43:52.487Z",
+      "sourceDate": "2025-11-06T23:42:26.000Z",
+      "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262247",
+      "discordThreadId": "1450347663609561230",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-69129-job-2025-12-16-1",
+      "jobId": "careers-gdms-icims-com-jobs-69129-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer 1 - Entry Level",
+      "postedToDiscord": "2025-12-16T04:43:55.992Z",
+      "sourceDate": "2025-11-06T13:17:27.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1450347677844766833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "my7elevenhr-wd12-myworkdayjobs-com-careers-job-ssc-irving-tx-integration-analyst-i_r25_0000009211-2025-12-16-1",
+      "jobId": "my7elevenhr-wd12-myworkdayjobs-com-careers-job-ssc-irving-tx-integration-analyst-i_r25_0000009211",
+      "company": "7-Eleven",
+      "title": "Integration Analyst 1",
+      "postedToDiscord": "2025-12-16T04:44:02.521Z",
+      "sourceDate": "2025-11-06T23:15:49.000Z",
+      "sourceUrl": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Integration-Analyst-I_R25_0000009211",
+      "discordThreadId": "1450347705862983740",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 235,
+    "totalJobs": 245,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T04:26:54.163Z",
+      "date": "2025-12-16T04:44:02.521Z",
       "archived": 0
     }
   }
