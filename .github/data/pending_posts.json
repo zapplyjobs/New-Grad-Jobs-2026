@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Graduate Machine Learning Engineer - Conversational AI",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7536340749852969223/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7536340749852969223-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Research Scientist Graduate (eCommerce Recommendation) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7515577680608397586/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515577680608397586-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Graduate - Foundation Model-Multimodal - 2026 Start（PhD）",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Graduate (Foundation Model-Multimodal) - 2026 Start（PhD） and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7472872797213395218/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:34.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7472872797213395218-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - Multiple Teams",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) -2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538932630663465224/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7538932630663465224-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Software Development Engineer Graduate (SDN Traffic Intelligence & Control) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7509262736619571474-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Frontend Software Engineer Graduate - Global E-commerce - 2026 Start - BS/MS",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Frontend Software Engineer Graduate (Global E-commerce) - 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7532657693459843335/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7532657693459843335-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - BS/MS",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538932631158212872/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7538932631158212872-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Graduate - Video Quality Analysis&Coding Strategy - 2026 Start",
-      "employer_name": "ByteDance",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Graduate (Video Quality Analysis&Coding Strategy) - 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538948353711950098/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7538948353711950098-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist in Generative AI Graduate - Intelligent Creation - 2026 Start",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Research Scientist in Generative AI Graduate (Intelligent Creation) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7517440911816788232/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7517440911816788232-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": "2025-12-16T08:25:12.515Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - BS/MS",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538932206750042375/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7538932206750042375-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-16T08:04:12.906Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
       "employer_name": "ByteDance",
       "job_city": "San Jose",
@@ -214,10 +14,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -234,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -254,10 +54,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -274,10 +74,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -314,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -334,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -354,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -374,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -394,10 +194,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-16T08:24:29.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-16T08:44:18.898Z"
   },
   {
     "job": {
@@ -405,16 +205,18 @@
       "employer_name": "Lifepoint Health",
       "job_city": "Columbus",
       "job_state": "OH",
-      "job_description": "Join Lifepoint Health in this exciting opportunity.",
+      "job_description": "Outpatient Therapist (PHP), Behavioral Health - $10,000 Sign On Bonus! Full-time, Monday-Friday Your experience matters Columbus Springs East is part of Lifepoint Health, a diversified healthcare delivery network with facilities coast to coast. We are driven by a profound commitment to prioritize your well-being so you can provide exceptional care to others. As an Outpatient Therapist joining our team, you’re embracing a vital mission dedicated to making communities healthier ®. Join us on this meaningful journey where your skills, compassion and dedication will make a remarkable difference in the lives of those we serve. How you’ll contribute An Outpatient Therapist who excels in this role: - Responsible for providing group therapy for patients suffering from psychiatric and substance abuse issues. Ensure accurate and timely patient documentation. - Conducts group therapy sessions to educate patients regarding psychological, emotional, or substance abuse problems. -...",
       "job_apply_link": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/307036",
       "job_posted_at_datetime_utc": "2025-10-31T08:43:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ibnjjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-307036"
+      "id": "ibnjjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-307036",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "Witness AI",
       "job_city": "SF",
       "job_state": "Locations",
-      "job_description": "Join Witness AI in this exciting opportunity.",
+      "job_description": "Job Title: Machine Learning Engineer Location: SF Bay Area Type: Full-time Team: Machine Learning About Us WitnessAI is a fast-growing SaaS startup on a mission to enable enterprises to adopt AI, safely. We're building a product that provides security and governance guardrails for public and private LLMs. The Role As a Machine Learning Engineer, you’ll design, build, and evaluate language models that power our AI security products. You’ll own the end-to-end pipeline — from dataset curation and preprocessing to experiment design, evaluation, and visualization of results. This role blends engineering and applied research, with an emphasis on producing reliable, interpretable, and safe language models. What You’ll Do Build scalable pipelines to collect, preprocess, and manage datasets for training and evaluation of LLMs. Design and run experiments to evaluate LLMs on accuracy, robustness, fairness, and safety. Create dashboards, reports, and visualizations to communicate evaluation results, trends, and failure cases. Develop and leverage knowledge graphs to structure data, enrich evaluation, and improve context-driven model performance. Work with researchers to translate new ideas into engineering workflows, and with data scientists to automate QA checks and guardrails. Fine-tune, optimize, and integrate models into production systems with a focus on reliability, scalability, and monitoring and CI/CD best practices. Contribute to ML tooling and experimentation frameworks to accelerate iteration. What We’re Looking For Experience: 2–5+ years working in machine learning or data science, ideally in a security or infrastructure-heavy environment. Technical Skills: Strong software engineering background (Python, testing frameworks like pytest/unittest, CI/CD tools). Proficiency in ML frameworks such as PyTorch. Experience with data engineering tools (e.g., Spark, Kafka, Airflow). Familiarity with deploying models on cloud platforms (AWS, GCP, or Azure) and containerized environments (Docker, Kubernetes). Strong knowledge of ML fundamentals (supervised/unsupervised learning, deep learning, NLP). Security Awareness: Interest or background in cybersecurity, adversarial ML, anomaly detection, or related fields. Startup Mindset: Comfortable working in fast-moving, ambiguous environments with a focus on shipping and iterating quickly. Nice to Have Research or industry experience in adversarial ML, model robustness, or explainable AI. Experience building interactive dashboards for model monitoring and visualization. Contributions to open-source ML, NLP, or security projects. Benefits : Hybrid work environment Competitive salary, health, dental, and vision insurance 401(k) plan Opportunities for professional development and growth Generous vacation policy Salary Range $125,000-$160,000 (Bay Area)",
       "job_apply_link": "https://jobs.ashbyhq.com/witnessai/17fc7435-f9b0-4c70-b582-d8f86d4f4d4c/application",
       "job_posted_at_datetime_utc": "2025-10-31T08:43:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-witnessai-17fc7435-f9b0-4c70-b582-d8f86d4f4d4c-application"
+      "id": "jobs-ashbyhq-com-witnessai-17fc7435-f9b0-4c70-b582-d8f86d4f4d4c-application",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -441,16 +245,18 @@
       "employer_name": "RTX",
       "job_city": "Tucson",
       "job_state": "AZ",
-      "job_description": "Join RTX in this exciting opportunity.",
+      "job_description": "Date Posted:2025-08-15Country:United States of AmericaLocation:AZ849: RMS AP Bldg 849 1151 East Hermans Road Building 849, Tucson, AZ, 85756 USAPosition Role Type:OnsiteU.S. Citizen, U.S. Person, or Immigration Status Requirements: Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance​Security Clearance: DoD Clearance: SecretAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world. Job DescriptionRaytheon engineers develop the next generation of defense technologies that support our military and protect our nation and allies. We are the world’s leader in developing cutting edge defense technologies through simulation-driven virtual environments. Our software products empower the next generation of innovative weapons systems and advanced AI/ML solutions.We’re looking for engineers who enjoy solving complex problems, engaging in a dynamic team environment, and are eager to learn.This is an onsite role in Tucson, AZWhat You Will DoYou will execute and analyze simulations in a high-performance computing environment, which can include the use of Graphics Processing Units (GPUs), to support missile system design/trade studies, performance assessment, and system test.You will work within a team to develop analysis of the data for the specific task as well as provide insight and understanding of the system performance, recognizing and troubleshooting any anomalies observed in the simulation resultsYou will ensure the solutions provided meet their defined requirements and function as needed through rigorous verification and validation. This activity utilizes data from a number of sources up to and including system level flight testing. Qualifications You Must HaveMaster's degree in Computer Science or Computer EngineeringExperience applying object-oriented software design in C++, C, and using MATLAB or Python for evaluation of data setsExperience developing or simulating physical systemsExperience in modeling, simulation, statistics, or analysis for existing or proposed engineering solutionsThis position requires 12 months or less of relevant professional work experience (excluding internships).\"Active and transferable U.S. government issued Secret security clearance is required prior to start date. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearanceQualifications We Prefer3.0 cumulative GPA desired College coursework covering object-oriented programming with proficiency in Linux or UnixKnowledge/course work of radar, signal & image processing, digital communications, control theories, estimation theory and/or electro optics.Knowledge of physics, random variables, and its application to solving engineering problems.Current/Active DoD security clearance or SSBI.What We OfferOur values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and InnovationRelocation Eligible – Relocation assistance is availableLearn More & Apply Now!Please consider the following role type definition as you apply for this role.Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.Please upload a copy of your most recent transcripts with your resume when applying to this requisition. Include your cumulative GPA and projected graduation date on your resume.This position requires a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978.htm We Are RTXThe salary range for this role is 66,000 USD - 130,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act. Privacy Policy and Terms:Click on this link to read the Policy and Terms",
       "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ849-RMS-AP-Bldg-849-1151-East-Hermans-Road-Building-849-Tucson-AZ-85756-USA/Modeling-Simulation-and-Analysis-Engineer-II---Onsite---Tucson--AZ_01787168",
       "job_posted_at_datetime_utc": "2025-10-31T08:36:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az849-rms-ap-bldg-849-1151-east-hermans-road-building-849-tucson-az-85756-usa-modeling-simulation-and-analysis-engineer-ii-onsite-tucson-az_01787168"
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az849-rms-ap-bldg-849-1151-east-hermans-road-building-849-tucson-az-85756-usa-modeling-simulation-and-analysis-engineer-ii-onsite-tucson-az_01787168",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -464,11 +270,13 @@
       "job_posted_at_datetime_utc": "2025-10-31T08:27:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ehif-fa-em2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-19551"
+      "id": "ehif-fa-em2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-19551",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -477,16 +285,18 @@
       "employer_name": "Argonne National Laboratory",
       "job_city": "Woodridge",
       "job_state": "IL",
-      "job_description": "Join Argonne National Laboratory in this exciting opportunity.",
+      "job_description": "The Time-Resolved Research Group in the X-ray Science Division at Argonne National Laboratory invites applications for a Postdoctoral Appointee. The role focuses on developing ultrafast pump–probe total X-ray scattering (TXS) and pair distribution function (PDF) analysis capabilities and methodology to study laser-driven structural dynamics in functional materials. This position is part of a collaborative effort across XSD, the Materials Science Division (MSD), and the Chemical Sciences and Engineering Division (CSE). Key Responsibilities:Develop and enhance pump–probe sub-nanosecond TXS method.Design, implement, and validate experimental setups; conduct synchrotron-based measurements on quantum and energy materials.Build robust data reduction and PDF analysis workflows; document best practices.Collaborate across divisions and interdisciplinary teams; ensure safe operations.Analyze results, publish peer-reviewed papers, and present at scientific meetings.Appointment Details:Postdoctoral appointment; initial term up to two years with potential extension based on performance and funding.On-site position at Argonne; work primarily conducted at the Advanced Photon Source.Beamtimes may require occasional evening/weekend hours.Position RequirementsPhD (completed within the last five years, or soon to be completed) in Physics, Chemistry, Materials Science, or a related field.Background in ultrafast science (e.g., pump–probe methods).Experience with synchrotron X-ray experiments.Experience with instrumentation development.Excellent oral and written communication skills.Demonstrated ability to work effectively in an interdisciplinary team.Ability to model Argonne’s core values of impact, safety, respect, integrity, and teamwork.Interpersonal skills, oral and written communication skills, and ability to interact with people at all levels both within and outside the laboratory.Preferred Knowledge, Skills, and ExperienceExperience with X-ray scattering/diffraction and quantitative data analysis and modeling.Familiarity with total scattering/PDF techniques and related software.Hands-on experience with lasers, timing/synchronization, or detector systems.Scientific programming skills (e.g., Python) for data processing and visualization.Job FamilyPostdoctoralJob ProfilePostdoctoral AppointeeWorker TypeLong-Term (Fixed Term)Time TypeFull timeThe expected hiring range for this position is $70,758.00-$117,925.00.Please note that the pay range information is a general guideline only. The pay offered to a selected candidate will be determined based on factors such as, but not limited to, the scope and responsibilities of the position, the qualifications of the selected candidate, business considerations, internal equity, and external market pay for comparable jobs. Additionally, comprehensive benefits are part of the total rewards package. Click here to view Argonne employee benefits!As an equal employment opportunity employer, and in accordance with our core values of impact, safety, respect, integrity and teamwork, Argonne National Laboratory is committed to a safe and welcoming workplace that fosters collaborative scientific discovery and innovation. Argonne encourages everyone to apply for employment. Argonne is committed to nondiscrimination and considers all qualified applicants for employment without regard to any characteristic protected by law.Argonne employees, and certain guest researchers and contractors, are subject to particular restrictions related to participation in Foreign Government Sponsored or Affiliated Activities, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation in the application phase for review by Argonne's Legal Department. All Argonne offers of employment are contingent upon a background check that includes an assessment of criminal conviction history conducted on an individualized and case-by-case basis. Please be advised that Argonne positions require upon hire (or may require in the future) for the individual be to obtain a government access authorization that involves additional background check requirements. Failure to obtain or maintain such government access authorization could result in the withdrawal of a job offer or future termination of employment.",
       "job_apply_link": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Ultrafast-Total-X-ray-Scattering_421245",
       "job_posted_at_datetime_utc": "2025-10-31T07:55:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ultrafast-total-x-ray-scattering_421245"
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ultrafast-total-x-ray-scattering_421245",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -495,16 +305,18 @@
       "employer_name": "University of Chicago",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join University of Chicago in this exciting opportunity.",
+      "job_description": "DepartmentBooth Fama-Miller: ResearchAbout the DepartmentThe University of Chicago Booth School of Business is the second-oldest business school in the U.S. and second to none when it comes to influencing business education and business practices. Since 1898, the school has produced ideas and leaders that shape the world of business. Their rigorous, discipline-based approach to business education transforms students into confident, effective, respected business leaders prepared to face the toughest challenges. Chicago Booth has the finest set of facilities of any business school in the world. Each of the four campuses (two in Chicago, one in London, and one in Hong Kong) reflects the architectural traditions of its environs while offering a state-of-the-art learning environment. Chicago Booth is proud to claim: -an unmatched faculty. -degree and open enrollment programs offered on three continents. -a global body of nearly 56,000 accomplished alumni. -strong and growing corporate relationships that provide a wealth of lifelong career opportunities. As part of the world-renowned University of Chicago, Chicago Booth shares the University's core values that shape the distinctive intellectual culture. At Booth, they constantly question and test ideas, and seek proof. This extraordinarily effective approach to business leads to new ideas and innovative solutions. Seven of the Booth faculty members have won Nobel Prizes for these ideas - the first business school to achieve this accomplishment.For more information about the University of Chicago Booth School of Business, please visit: http://www.chicagobooth.edu/.Job SummaryThe Research Professional will work closely with Booth faculty member(s) and Fama-Miller Center for Research in Finance (FMC) Directors to manage and carry out research projects and ensure that the FMC goals and objectives are met. The FMC is research oriented, and one of the primary responsibilities of this role will be managing and facilitating research project(s) in various stages from inception through completion. Additionally, provide general assistance to faculty and post-doctoral scholars; attends various events, including selected research seminars; build and manage data sets, conduct field research, conduct statistical analysis, and edit research documentation. Ideal candidates are considering an application to PhD programs in economics, finance or related disciplines. This position is expected to last two years.ResponsibilitiesSupports ongoing research projects, faculty and post-doctoral fellows, by conducting various searches, compiling, and manipulating data.Collecting, managing and structuring quantitative datasets.Conducts complex statistical analysis, writes statistical software programs, and organizes the presentation of results.Creates charts, tables and descriptive text for presentations.Obtains and organizes information for research from other academic institutions and practitioners.Maintains effective communication with all members of the faculty and outside institutions.Proofreads and edits citations of funded research reports, working papers, and publications.Maintains technical and administrative support for a research project.Analyzes and maintains data and/or specimens. Conducts literature reviews. Assists with preparation of reports, manuscripts and other documents.Performs other related work as needed.Minimum QualificationsEducation:Minimum requirements include a college or university degree in related field.Work Experience:Minimum requirements include knowledge and skills developed through < 2 years of work experience in a related job discipline.Certifications:---Preferred QualificationsEducation:Bachelor's degree by start date (June 2026).Coursework in statistics or econometrics.Experience:A minimum one year of research experience, relevant research experience.Background in economics or related field.Strong quantitative background.Technical Skills or Knowledge:Strong computer skills, including programming.Demonstrated proficiency in Stata, Matlab, Python, R, or related software.Knowledge of research techniques or methods.Preferred CompetenciesStrong interest in attending graduate school.Strong GPA. Analytical and strong problem-solving skills.Excellent and professional verbal, written, and presentation skills, as well as organizational skills and attention to detail.Handle multiple projects simultaneously.Work well independently and creatively, as well as with others, and meet deadlines under pressure.Excellent time-management skills and work effectively with minimal supervision.Seek out, coordinate, and appropriately disseminate information.Eagerness to take initiative and solve intricate problems.Train others.Proven understanding of the program and its goals. Working ConditionsThis position is currently expected to work a minimum three days per week in the office.Application DocumentsResume/CV (required)Cover Letter (required)Transcripts, unofficial transcripts are acceptable (required)When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application.Job FamilyResearchRole ImpactIndividual ContributorScheduled Weekly Hours37.5Drug Test RequiredNoHealth Screen RequiredNoMotor Vehicle Record Inquiry RequiredNoPay Rate TypeSalary​FLSA StatusExempt​Pay Range$59,000.00 - $62,000.00The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting.Benefits EligibleYesThe University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the Benefits Guidebook.Posting StatementThe University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination. Job seekers in need of a reasonable accommodation to complete the application process should call 773-702-5800 or submit a request via Applicant Inquiry Form. All offers of employment are contingent upon a background check that includes a review of conviction history. A conviction does not automatically preclude University employment. Rather, the University considers conviction information on a case-by-case basis and assesses the nature of the offense, the circumstances surrounding it, the proximity in time of the conviction, and its relevance to the position. The University of Chicago's Annual Security & Fire Safety Report (Report) provides information about University offices and programs that provide safety support, crime and fire statistics, emergency response and communications plans, and other policies and information. The Report can be accessed online at: http://securityreport.uchicago.edu. Paper copies of the Report are available, upon request, from the University of Chicago Police Department, 850 E. 61st Street, Chicago, IL 60637.",
       "job_apply_link": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31456",
       "job_posted_at_datetime_utc": "2025-10-31T07:54:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31456"
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31456",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -513,16 +325,18 @@
       "employer_name": "ExxonMobil",
       "job_city": "Joliet",
       "job_state": "IL",
-      "job_description": "Join ExxonMobil in this exciting opportunity.",
+      "job_description": "About us At ExxonMobil, our vision is to lead in energy innovations that advance modern living and a net-zero future. As one of the world’s largest publicly traded energy and chemical companies, we are powered by a unique and diverse workforce fueled by the pride in what we do and what we stand for. The success of our Upstream, Product Solutions and Low Carbon Solutions businesses is the result of the talent, curiosity and drive of our people. They bring solutions every day to optimize our strategy in energy, chemicals, lubricants and lower-emissions technologies. We invite you to bring your ideas to ExxonMobil to help create sustainable solutions that improve quality of life and meet society’s evolving needs. Learn more about our What and our Why and how we can work together. ExxonMobil is based out of the Houston Area in Spring, Texas. We are accepting applications for recent and upcoming university graduates for full-time engineering opportunities across the U.S. About You We seek students who are passionate about what they do and eager to join us in providing solutions to society’s energy needs. Students with strong academic performance in core programs, leadership, and communication skills who have recently graduated, or have an upcoming graduation date, seeking full-time placement with a bachelor's, master's or doctorate degree in the following engineering disciplines are encouraged to apply: Chemical Engineering, Civil Engineering, Construction Engineering Management, Data Science, Electrical Engineering, Environmental Engineering, Industrial Engineering, Materials Engineering, Mechanical Engineering, Metallurgical Engineering, Petroleum Engineering, Petroleum Technology, Reliability Engineering, Safety. We are looking for candidates who align with our core values: Integrity: Be honest and ethical | Do what is right Excellence: Hold ourselves to high standards | Be thoughtful, thorough, and disciplined Care: Be respectful and inclusive | Look after each other | Contribute to the well-being of our communities and the environment Courage: Take initiative and make a difference | Think boldly and act with conviction | Take personal ownership Resilience: Be determined and persevere | Be purposeful and steadfast in our principles What you will do ExxonMobil employs over 18,000+ engineers and scientists globally, 35% of which are across the U.S. As an engineer working at ExxonMobil, you’ll be a part of world class teams on daily work and projects that create impact. Opportunities are available in areas including, but not limited to: Mechanical Integrity, Process Engineering, Process Control, Process Development, Product Development, Project Development, Project Management, Quality Control, Modeling and Optimization, Test Method Development, Wells Engineering, Wells Operations, Safety, Environmental, Reservoir, and Supply Chain. Learn more about ExxonMobil Career Paths here Work Location Depending on the location, ExxonMobil engineers support our chemical, refining, pipeline and upstream operations, with opportunities also available within research & technology and supply chain. Assignments may include, but are not limited to, the following locations: Baton Rouge, Louisiana Baytown, Texas Beaumont, Texas Carlsbad, New Mexico Corpus Christi (Gregory), Texas Houston Area (Spring), Texas Joliet, Illinois La Barge, Wyoming Mont Belvieu, Texas Midland, Texas Olathe, Kansas Port Allen, Louisiana Tyler, Texas Williston, North Dakota Learn more about specific work locations and what we do across the U.S. here Your Total Rewards An ExxonMobil career is one designed to last and our compensation and benefits reflect that. Our commitment to you runs deep: our employees grow personally and professionally, with total rewards built on our core categories of health, security, finance, and life. Individual pay will be determined based on various factors including degree/education, discipline, skills, abilities, qualifications, and work experience. Illinois Equal Pay Act | New Jersey Pay and Benefits Transparency Law Pursuant to the Illinois Equal Pay Act, and the New Jersey Pay and Benefits Transparency Law, for Illinois or New Jersey employment, the expected annual salary range for this position is $90,000 – $125,000 base salary ($/year). More information on our Company’s benefits can be found at www.exxonmobilfamily.com. Please note benefits may be changed from time to time without notice, subject to applicable law. We offer you: Pension Plan: Enrollment is automatic and at no cost to you. The basic benefit is a monthly annuity to be paid to you in retirement for the rest of your life. Savings Plan: You can contribute between 6% and 20% of your pay and are encouraged to enroll right away. If you contribute at least 6% to your savings plan, the Company will contribute a 7% match. Workplace Flexibility: We have several programs such as “Flex your Day”, providing ad-hoc flexibility around when and where you work, as well as longer-term programs such as leaves of absence and part-time work. Comprehensive medical, dental, and vision plans. Culture of Health: Programs and resources to support your wellbeing. Employee Health Advisory Program: Provides confidential professional counseling for you and your family, including tools and resources promoting mental health and resiliency at no additional cost to you. Disability Plan: Income replacement for when you cannot work due to illness or injury occurring on or off the job. Enrollment is automatic and at no cost to you. More information on our Company’s benefits can be found at www.exxonmobilfamily.com Please note benefits may be changed from time to time without notice, subject to applicable law.Relocation Options Relocation benefits may be available to you based on ExxonMobil eligibility guidelines. Stay connected with us Learn more at our website Follow us on LinkedIn and Instagram Like us on Facebook Subscribe our channel at YouTubeEqual Opportunity Employer ExxonMobil is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity, national origin, citizenship status, protected veteran status, genetic information, or physical or mental disability. Alternate Location: United States : Houston, Texas || United States : Baton Rouge, Louisiana || United States : Bayonne, New Jersey || United States : Baytown, Texas || United States : Bayway, NJ || United States : Beaumont,Texas || United States : Clinton, New Jersey || United States : Joliet, Illinois || United States : La Barge, Wyoming || United States : Midland, Texas || United States : Mont Belvieu, Texas || United States : Olathe, Kansas || United States : Paulsboro, New Jersey || United States : Port Allen, Louisiana || United States : Tyler, Texas || United States : Williston, North Dakota Nothing herein is intended to override the corporate separateness of local entities. Working relationships discussed herein do not necessarily represent a reporting connection, but may reflect a functional guidance, stewardship, or service relationship. Exxon Mobil Corporation has numerous affiliates, many with names that include ExxonMobil, Exxon, Esso and Mobil. For convenience and simplicity, those terms and terms like corporation, company, our, we and its are sometimes used as abbreviated references to specific affiliates or affiliate groups. Abbreviated references describing global or regional operational organizations and global or regional business lines are also sometimes used for convenience and simplicity. Similarly, ExxonMobil has business relationships with thousands of customers, suppliers, governments, and others. For convenience and simplicity, words like venture, joint venture, partnership, co-venturer, and partner are used to indicate business relationships involving common activities and interests, and those words may not indicate precise legal relationships. Job ID: 81121",
       "job_apply_link": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-Engineering-Students-Seeking-Full-Time-Employment-TX-77001/1314845500/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-10-31T07:45:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-exxonmobil-com-exxonmobil-job-houston-engineering-students-seeking-full-time-employment-tx-77001-1314845500"
+      "id": "jobs-exxonmobil-com-exxonmobil-job-houston-engineering-students-seeking-full-time-employment-tx-77001-1314845500",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "ElevenLabs",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join ElevenLabs in this exciting opportunity.",
+      "job_description": "About ElevenLabs ElevenLabs is a research and product company defining the frontier of audio AI. Millions of people use our technology to read articles, voice over videos, and restore voices lost to disability. Leading developers and enterprises worldwide use ElevenLabs to build intelligent agents for support, sales, and education. We launched in January 2023 with the first AI model to cross the threshold of human-like speech. In January 2025, we raised a $180 million Series C round, valuing the company at $3.3 billion. By September 2025, that valuation doubled to $6.6 billion as we surpassed $200 million ARR in under three years. Our mission is to build the most important audio AI platform in the world, solve AI audio intelligence, and make information accessible in any voice, language, or sound. Our core offerings are our Creative Platform and the Agents Platform, powered by proprietary Text to Speech, Speech to Text, and conversational AI models. We are just getting started. If you want to work hard and create lasting impact, we would like to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning &amp; development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We are looking for Full-Stack engineers to develop and maintain both front-end and back-end components of our product suite. Your general responsibilities will include: Building and maintaining our products and platform on top of our cutting-edge voice models, which will be used by millions of users. High degrees of ownership. You will be responsible for shipping end-to-end features across the front and back ends of our stack, as well as helping set the direction of the features and products you're working on. Collaborating closely with others on the Engineering, Growth and Sales teams to understand, and design solutions for, our customer and internal team’s most important problems and workflows. We believe in pairing engineers with work that matches their strengths and interests. This means that there is significant flexibility in staffing engineers across the company. Specific responsibilities might include: Scoping and building brand new proof of concept products, sometimes directly with partner customers, that could later be scaled to capture entirely new markets. Improving our existing products to ensure that they’re intuitive, powerful and make innovative use of our research team’s latest break-throughs. This could involve making sweeping UX changes, adding significant functionality, or building integrations with other common consumer/enterprise solutions. Maintaining and strengthening our internal infrastructure as we scale and grow to ensure that our products remain live, performant and secure. Working to collect, manage, and process massive-scale datasets to lay the groundwork for the next generation of voice models at the forefront of generative AI. Requirements We do not require any formal experience, certifications, or degrees. Instead, we are seeking enthusiastic software engineers who can showcase solving impressively hard problems with artifacts such as past projects, designs, or GitHub contributions. We do require: Expertise in Python Experience with Web Development using Typescript/React Familiarity with common software and system design patterns and infrastructure including APIs, cloud infrastructure tools, storage solutions, data structures etc. Bonus: Test design and security awareness Location This role is remote and can be executed globally. If you prefer, you can work from our offices in Bangalore, Dublin, London, New York, San Francisco, Tokyo, and Warsaw. #LI-Remote",
       "job_apply_link": "https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192/application",
       "job_posted_at_datetime_utc": "2025-10-31T07:45:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-elevenlabs-6a530871-b6c6-4783-ac6b-69cc3b084192-application"
+      "id": "jobs-ashbyhq-com-elevenlabs-6a530871-b6c6-4783-ac6b-69cc3b084192-application",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -549,16 +365,18 @@
       "employer_name": "Western & Southern Financial Group",
       "job_city": "Cincinnati",
       "job_state": "OH",
-      "job_description": "Join Western & Southern Financial Group in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>Leverages technical skills along with understanding of business strategies, priorities and initiatives to provide actionable reports, dashboards, data analysis tools and CRM capabilities that empower business decision-makers and business users to gain insights and make strategic business decisions. Responsible for leading or participating in requirements, design, development, testing, training, and production support across these solutions. Serves as the subject matter expert for WSFGD and Touchstone data, reporting and CRM needs. Demonstrates an understanding of multiple databases, data flows and relationships across various sources. Builds collaborative relationships and communicates effectively with business and IT leaders, project team members and vendors to assure project success. Solves moderately complex business and technical problems. Responds with flexibility to changing priorities or new project assignments as they arise throughout the year. Works with minimal supervision and is responsible to make an established range of decisions. Escalates to management when necessary and updates management on a regular basis</p> <h2>Responsibilities</h2> <p><strong>What you will do:</strong></p> <ul> <li>Develops solid understanding of business strategies, priorities and initiatives. Builds collaborative relationships and communicates successfully with associates at all levels, across business and IT. Uses appropriate business-friendly terminology and speaks in appropriate technical terms with IT associates.</li> <li>Leverages business knowledge, coupled with technical skills, to offer solutions and work in partnership with both business and IT to lead or participate in technology-related projects.</li> <li>Designs, develops, tests and delivers reports, visualizations, dashboards and CRM enhancements.</li> <li>Understands databases, collects requirements from business partners and collaborates with IT to create data structures that support reporting and dashboard development.</li> <li>Troubleshoots report, business intelligence, data and CRM-related issues.</li> <li>Mentors, trains and shares knowledge with peers and business users.</li> <li>Develops and implements best practices with peers and maintains confidentiality.</li> <li>Responds with flexibility to changing priorities and new projects that arise throughout the year.</li> <li>Performs other duties as assigned.</li> <li>Complies with all policies and standards.</li> </ul> <h2>Qualifications</h2> <ul> <li>Bachelor's Degree Or commensurate selection criteria experience - Required</li> <li>2-4 years of experience in SQL, relational database knowledge, reporting, business intelligence and CRM support - Required</li> <li>Demonstrated moderate experience with query tools and relational databases - Required</li> <li>Beginner to moderate experience with business intelligence and CRM tools - Required</li> <li>Proven experience successfully communicating with all levels of associates, including executives and developing relationships with business and IT associates - Required</li> <li>Proven experience delivering reports, dashboards and visualizations to business users - Required</li> <li>Demonstrated experience identifying and solving problems independently. - Required</li> <li>Experience in the financial services industry is - Preferred</li> <li>Demonstrated ability to understand business strategies and establish appropriate priority across multiple projects</li> <li>Demonstrated ability to respond in a positive, professional manner to multiple deadlines and shifting priorities.</li> <li>Proven strong analytical skills that demonstrate experience troubleshooting, assessing impact, quantifying problems and providing effective resolutions. Must cite examples of sound decision-making when dealing with multiple alternatives or solutions</li> <li>Moderate SQL (Oracle, SQL Server) and relational database knowledge required.</li> <li>Beginner BI/reporting tool knowledge required (Tableau, Cognos, Crystal Reports, etc.)</li> <li>Exposure to CRM tools such as SalesPage, Salesforce, etc.</li> <li>Proficient in word processing, spreadsheet, database and report development applications.</li> <li>Exposure to basic ETL and Dimensional Data Modeling concepts.</li> <li>Certified Tableau Specialist Upon Hire - Preferred</li> <li>Cognos Upon Hire - Preferred</li> <li>Certified Records Manager (CRM) Upon Hire - Preferred</li> </ul> <p><strong>Work Setting/Position Demands:</strong></p> <ul> <li>Works in an office setting and remains in a stationary position for long periods of time while working at a desk, on a computer or with other standard office equipment, or while in meetings.</li> <li>Requires the ability to verbally communicate and exchange accurate information to customers and associates on a regular basis.</li> <li>Requires visual acuity to read and interpret a variety of correspondence, procedures, reports and forms via paper and electronic documents, visual inspection involving small defects; small parts, and/or operation of machinery (including inspection); using measurement devices continuously. Visual acuity is required to determine accuracy, neatness, and thoroughness of work assigned.</li> <li>Requires the ability to prepare written correspondence, reports and forms using prescribed formats and conforming to rules of punctuation, grammar, diction, and style on a regular basis.</li> <li>Requires the ability to apply principles of logical thinking to define problems, collect data, establish facts, and draw valid conclusions</li> <li>Performs substantial movement of wrists, hands, and fingers for continuous computer work.</li> <li>Extended hours required during peak workloads or special projects/events.</li> </ul> <p><strong>Travel Requirements:</strong></p> <ul> <li>None</li> </ul>",
       "job_apply_link": "https://careers-westernsouthern.icims.com/jobs/23606/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-31T07:43:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-westernsouthern-icims-com-jobs-23606-job"
+      "id": "careers-westernsouthern-icims-com-jobs-23606-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "L3Harris Technologies",
       "job_city": "Greenville",
       "job_state": "TX",
-      "job_description": "Join L3Harris Technologies in this exciting opportunity.",
+      "job_description": "Job Title: Senior Associate, Application Desktop – Engineering Operations Tools & Application Development Job Location: Greenville, Texas Job Schedule: 9/80 About L3Harris Technologies: L3Harris Technologies is an agile global aerospace and defense technology innovator, delivering end-to-end solutions that meet customers’ mission-critical needs. The company provides advanced defense and commercial technologies across space, air, land, sea and cyber domains. L3Harris has approximately $18 billion in annual revenue and 47,000 employees, with customers in more than 100 countries. Job Description: As an early career Software Engineer, you will play a crucial role in developing and maintaining our backend systems, including our Golang Teamcenter libraries, NX ufunc, Capital Harness DRC libraries among other reusable and extensible codebase. You will also manage and enhance our microservices infrastructure while contributing to web development tasks as needed. This role requires a self-driven individual who is proactive in staying current with emerging technologies and can participate in efforts effectively with a small team of developers. Key Responsibilities: § Develop, maintain, and enhance Golang Teamcenter libraries, NX ufunc, Capital Harness DRC libraries among other reusable and extensible codebase. § Develop the upkeep and management of microservices within our technology stack. § Collaborate with cross-functional teams to integrate backend systems with web applications. § Personally, maintaining some self-driven or time driven projects. § Stay updated with industry trends and technologies to ensure our systems remain cutting-edge. § Troubleshoot and resolve issues related to API integrations and microservices. § Contribute to the design and architecture of scalable and efficient backend systems. § Advocate and arbitrate with the team for best design based on requirements defined to be met. Job Qualification Requirements: · To be eligible, applicants must be pursuing a Master’s Degree in related field or have completed their Master’s degree within the last 12 months, regardless of age. · Experience in software development with a focus on backend systems. · Understanding in Golang, C#, JavaScript, and Vue, or equivalent languages. · Familiarity with PLM tools and CAD/CAM systems. Additional Preferred Skills: § Existing DoD Security Clearance of Secret or above which requires U.S. Citizenship. § Strong understanding of microservices architecture. § Utilization of and understanding of differences in PDM and complex PLM philosophies as it is applicable to business use cases with a push towards PLM § Experience with integrating disparate tools into a PLM suite such as Simulations, Requirements Management, MBSE, or “unique space” and be comfortable explaining what was required in detail. § Demonstrated ability to collaborate with a team and share knowledge. § Excellent problem-solving skills and the ability to adapt to new technologies. § Strong communication skills and the ability to work effectively in a fast-paced environment. § Utilization of and development for Teamcenter RAC with Active Workspace experience § Experience and hands on exposure for working with large data migrations/transforms. § Aptitude in working directly with infrastructure/architecture across various virtualization platforms § Comfort in uncharted digital territories with results delivery as it applies to business need.",
       "job_apply_link": "https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Application-Development-(Greenville,-TX)-TX-75402/1318855300/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-10-31T07:32:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-l3harris-com-job-greenville-senior-associate-application-development-greenville-tx-tx-75402-1318855300"
+      "id": "jobs-l3harris-com-job-greenville-senior-associate-application-development-greenville-tx-tx-75402-1318855300",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-16T08:43:37.958Z",
     "postedAt": null
   },
   {
