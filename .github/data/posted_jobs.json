@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T18:57:30.675Z",
+  "lastUpdated": "2025-12-18T19:06:14.833Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -5006,14 +5006,124 @@
       "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Survey-Science-Time-Domain-Astronomy_REQ_0000072795-2",
       "discordThreadId": "1451287262628286575",
       "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-postdoctoral-fellow_r_00029113-2025-12-18-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-postdoctoral-fellow_r_00029113",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow",
+      "postedToDiscord": "2025-12-18T19:05:33.661Z",
+      "sourceDate": "2025-10-31T00:24:55.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow_R_00029113",
+      "discordThreadId": "1451289289076904021",
+      "instanceNumber": 1
+    },
+    {
+      "id": "staff-emory-icims-com-jobs-155850-job-2025-12-18-1",
+      "jobId": "staff-emory-icims-com-jobs-155850-job",
+      "company": "Emory University",
+      "title": "Data Analyst",
+      "postedToDiscord": "2025-12-18T19:05:40.146Z",
+      "sourceDate": "2025-10-31T00:21:56.000Z",
+      "sourceUrl": "https://staff-emory.icims.com/jobs/155850/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451289317120151712",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-veeva-8683a486-a11b-44be-8824-d3afdaa37b2d-apply-2025-12-18-1",
+      "jobId": "jobs-lever-co-veeva-8683a486-a11b-44be-8824-d3afdaa37b2d-apply",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer in Test",
+      "postedToDiscord": "2025-12-18T19:05:46.894Z",
+      "sourceDate": "2025-10-31T00:14:17.000Z",
+      "sourceUrl": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
+      "discordThreadId": "1451289344148115639",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7551203671384656146-2025-12-18-1",
+      "jobId": "lifeattiktok-com-search-7551203671384656146",
+      "company": "TikTok",
+      "title": "Fullstack Software Engineer Graduate - Ads Interface and Platform - BS/MS",
+      "postedToDiscord": "2025-12-18T19:05:50.428Z",
+      "sourceDate": "2025-10-31T00:08:56.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7551203671384656146",
+      "discordThreadId": "1451289359364915333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nttdata-eightfold-ai-careers-job-563327925798035-2025-12-18-1",
+      "jobId": "nttdata-eightfold-ai-careers-job-563327925798035",
+      "company": "NTT Data",
+      "title": "Digital Technology Engineer",
+      "postedToDiscord": "2025-12-18T19:05:54.118Z",
+      "sourceDate": "2025-10-31T00:00:24.000Z",
+      "sourceUrl": "https://nttdata.eightfold.ai/careers/job/563327925798035",
+      "discordThreadId": "1451289374544232582",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeik-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-252811-2025-12-18-1",
+      "jobId": "eeik-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-252811",
+      "company": "University of Wyoming",
+      "title": "Post Doctoral Research Associate - Atmospheric Science",
+      "postedToDiscord": "2025-12-18T19:05:57.471Z",
+      "sourceDate": "2025-10-30T23:59:38.000Z",
+      "sourceUrl": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252811",
+      "discordThreadId": "1451289389652115508",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7532006305218447623-2025-12-18-1",
+      "jobId": "lifeattiktok-com-search-7532006305218447623",
+      "company": "TikTok",
+      "title": "Graduate Machine Learning Engineer - App Ads and Gaming - Bachelor of Science/Master of Science",
+      "postedToDiscord": "2025-12-18T19:06:03.951Z",
+      "sourceDate": "2025-10-31T00:13:19.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532006305218447623",
+      "discordThreadId": "1451289416571158589",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-falconwood-icims-com-jobs-1691-job-2025-12-18-1",
+      "jobId": "careers-falconwood-icims-com-jobs-1691-job",
+      "company": "Falconwood",
+      "title": "Data Scientist 1",
+      "postedToDiscord": "2025-12-18T19:06:07.629Z",
+      "sourceDate": "2025-10-31T00:08:49.000Z",
+      "sourceUrl": "https://careers-falconwood.icims.com/jobs/1691/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451289431242838128",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7288458427072284987-2025-12-18-1",
+      "jobId": "lifeattiktok-com-search-7288458427072284987",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - CV/Multimodal/NLP",
+      "postedToDiscord": "2025-12-18T19:06:11.205Z",
+      "sourceDate": "2025-10-31T00:02:41.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7288458427072284987",
+      "discordThreadId": "1451289446556106852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7515574000047655176-detail-2025-12-18-1",
+      "jobId": "jobs-bytedance-com-en-position-7515574000047655176-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start','Phd",
+      "postedToDiscord": "2025-12-18T19:06:14.832Z",
+      "sourceDate": "2025-10-31T00:00:01.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7515574000047655176/detail",
+      "discordThreadId": "1451289461643284641",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 455,
+    "totalJobs": 465,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-18T18:57:30.675Z",
+      "date": "2025-12-18T19:06:14.833Z",
       "archived": 0
     }
   }
