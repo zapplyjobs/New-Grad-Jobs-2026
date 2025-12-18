@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-16T09:42:45.136Z",
+  "lastUpdated": "2025-12-18T18:57:30.675Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -4896,14 +4896,124 @@
       "sourceUrl": "https://hec.wd5.myworkdayjobs.com/hilcorp_energy_company/job/Houston-TX/XMLNAME-25-123E---Geologist_R004690",
       "discordThreadId": "1450422878188081224",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
+      "jobId": "careers-essenmed-icims-com-jobs-2039-job",
+      "company": "Essen Health Care",
+      "title": "Healthcare Analyst",
+      "postedToDiscord": "2025-12-18T18:56:44.701Z",
+      "sourceDate": "2025-10-31T01:20:21.000Z",
+      "sourceUrl": "https://careers-essenmed.icims.com/jobs/2039/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451287064795676689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-trlm-com-apply-4923778007-2025-12-18-1",
+      "jobId": "www-trlm-com-apply-4923778007",
+      "company": "Trillium",
+      "title": "Data Scientist",
+      "postedToDiscord": "2025-12-18T18:56:48.130Z",
+      "sourceDate": "2025-10-31T01:01:45.000Z",
+      "sourceUrl": "https://www.trlm.com/apply/4923778007?gh_jid=4923778007",
+      "discordThreadId": "1451287085595234358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-deployment-engineer_jr101165-2025-12-18-1",
+      "jobId": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-deployment-engineer_jr101165",
+      "company": "Centific",
+      "title": "Deployment Engineer",
+      "postedToDiscord": "2025-12-18T18:56:52.376Z",
+      "sourceDate": "2025-10-31T00:58:57.000Z",
+      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Deployment-Engineer_JR101165",
+      "discordThreadId": "1451287100975612127",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-c-backend-development-engineer-c2c-_jr103606-2025-12-18-1",
+      "jobId": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-c-backend-development-engineer-c2c-_jr103606",
+      "company": "Centific",
+      "title": "C# Backend Development Engineer \"C2C\"",
+      "postedToDiscord": "2025-12-18T18:56:55.962Z",
+      "sourceDate": "2025-10-31T00:58:34.000Z",
+      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/C--Backend-Development-Engineer--C2C-_JR103606",
+      "discordThreadId": "1451287118063210638",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-redventures-com-careers-positions-open-2025-12-18-1",
+      "jobId": "www-redventures-com-careers-positions-open",
+      "company": "Red Ventures",
+      "title": "Associate Data Science Product Manager",
+      "postedToDiscord": "2025-12-18T18:56:59.930Z",
+      "sourceDate": "2025-10-31T00:39:21.000Z",
+      "sourceUrl": "https://www.redventures.com/careers/positions/open?gh_jid=7279145",
+      "discordThreadId": "1451287132768571412",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-clevelandguardiansbops-jobs-8193196002-2025-12-18-1",
+      "jobId": "job-boards-greenhouse-io-clevelandguardiansbops-jobs-8193196002",
+      "company": "Major League Baseball",
+      "title": "Baseball Technology Fellow",
+      "postedToDiscord": "2025-12-18T18:57:06.525Z",
+      "sourceDate": "2025-10-31T01:13:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8193196002",
+      "discordThreadId": "1451287162141282395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-sep-83fec215-cbbd-44e3-b532-c00396f6fec8-apply-2025-12-18-1",
+      "jobId": "jobs-lever-co-sep-83fec215-cbbd-44e3-b532-c00396f6fec8-apply",
+      "company": "SEP",
+      "title": "Software Engineer - 2026 start dates - In person",
+      "postedToDiscord": "2025-12-18T18:57:13.499Z",
+      "sourceDate": "2025-10-31T01:07:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/sep/83fec215-cbbd-44e3-b532-c00396f6fec8/apply",
+      "discordThreadId": "1451287190041792584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-go-augment-1900c830-9fa2-45b3-a431-bdf9c067e711-application-2025-12-18-1",
+      "jobId": "jobs-ashbyhq-com-go-augment-1900c830-9fa2-45b3-a431-bdf9c067e711-application",
+      "company": "Augment",
+      "title": "Forward-Deployed Engineer",
+      "postedToDiscord": "2025-12-18T18:57:17.210Z",
+      "sourceDate": "2025-10-31T00:58:02.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/go-augment/1900c830-9fa2-45b3-a431-bdf9c067e711/application",
+      "discordThreadId": "1451287206093262932",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-3319-patrick-f-taylor-hall-postdoctoral-researcher-multiple-levels-_r00100578-2025-12-18-1",
+      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-3319-patrick-f-taylor-hall-postdoctoral-researcher-multiple-levels-_r00100578",
+      "company": "Louisiana State University (LSU)",
+      "title": "Postdoctoral Researcher - Multiple Levels",
+      "postedToDiscord": "2025-12-18T18:57:23.867Z",
+      "sourceDate": "2025-10-31T00:57:09.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3319-Patrick-F-Taylor-Hall/Postdoctoral-Researcher--Multiple-Levels-_R00100578",
+      "discordThreadId": "1451287234983624907",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-researcher-survey-science-time-domain-astronomy_req_0000072795-2-2025-12-18-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-researcher-survey-science-time-domain-astronomy_req_0000072795-2",
+      "company": "PennState University",
+      "title": "Postdoctoral Researcher - Survey Science/Time Domain Astronomy",
+      "postedToDiscord": "2025-12-18T18:57:30.674Z",
+      "sourceDate": "2025-10-31T00:28:56.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Survey-Science-Time-Domain-Astronomy_REQ_0000072795-2",
+      "discordThreadId": "1451287262628286575",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 445,
+    "totalJobs": 455,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-16T09:42:45.136Z",
+      "date": "2025-12-18T18:57:30.675Z",
       "archived": 0
     }
   }
