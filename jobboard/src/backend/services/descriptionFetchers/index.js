@@ -13,6 +13,23 @@ const workdayFetcherPuppeteer = require('./workdayFetcherPuppeteer');
 const leverFetcherPuppeteer = require('./leverFetcherPuppeteer');
 
 /**
+ * Normalize URL before fetching to get job description page instead of application form
+ * @param {string} url - Job application URL
+ * @returns {string} Normalized URL
+ */
+function normalizeUrl(url) {
+  if (!url) return url;
+
+  // Lever: Strip /apply suffix to get the job description page
+  // e.g., https://jobs.lever.co/company/job-id/apply -> https://jobs.lever.co/company/job-id
+  if (url.includes('lever.co') && url.endsWith('/apply')) {
+    return url.slice(0, -6); // Remove '/apply' (6 chars)
+  }
+
+  return url;
+}
+
+/**
  * Detect which ATS platform from URL
  * @param {string} url - Job application URL
  * @returns {string} Platform name
@@ -47,16 +64,22 @@ async function fetchDescription(url, options = {}) {
     useCache = true
   } = options;
 
-  // Check cache first
+  // Normalize URL (e.g., strip /apply from Lever URLs)
+  const normalizedUrl = normalizeUrl(url);
+  if (normalizedUrl !== url) {
+    console.log(`🔗 Normalized URL: ${url} -> ${normalizedUrl}`);
+  }
+
+  // Check cache first (use normalized URL for cache key)
   if (useCache) {
-    const cached = cache.get(url);
+    const cached = cache.get(normalizedUrl);
     if (cached) {
       console.log(`✅ Description found in cache`);
       return cached;
     }
   }
 
-  const platform = detectPlatform(url);
+  const platform = detectPlatform(normalizedUrl);
 
   console.log(`📝 Fetching description from ${platform} platform...`);
 
@@ -72,38 +95,38 @@ async function fetchDescription(url, options = {}) {
           // Try Puppeteer first, fallback to generic if it fails
           try {
             console.log('   Using Puppeteer for Workday...');
-            result = await workdayFetcherPuppeteer.fetch(url, { timeout });
+            result = await workdayFetcherPuppeteer.fetch(normalizedUrl, { timeout });
           } catch (puppeteerError) {
             console.log('   Puppeteer failed, trying generic fallback...');
-            result = await genericFetcher.fetch(url, { timeout });
+            result = await genericFetcher.fetch(normalizedUrl, { timeout });
           }
           break;
 
         case 'greenhouse':
           // Fast HTTP scraping
-          result = await greenhouseFetcher.fetch(url, { timeout });
+          result = await greenhouseFetcher.fetch(normalizedUrl, { timeout });
           break;
 
         case 'ashby':
           // Fast HTTP scraping (JSON-LD)
-          result = await ashbyFetcher.fetch(url, { timeout });
+          result = await ashbyFetcher.fetch(normalizedUrl, { timeout });
           break;
 
         case 'lever':
           // Try Puppeteer first, fallback to generic if it fails
           try {
             console.log('   Using Puppeteer for Lever...');
-            result = await leverFetcherPuppeteer.fetch(url, { timeout });
+            result = await leverFetcherPuppeteer.fetch(normalizedUrl, { timeout });
           } catch (puppeteerError) {
             console.log('   Puppeteer failed, trying generic fallback...');
-            result = await genericFetcher.fetch(url, { timeout });
+            result = await genericFetcher.fetch(normalizedUrl, { timeout });
           }
           break;
 
         case 'generic':
         default:
           // Fallback HTTP scraping
-          result = await genericFetcher.fetch(url, { timeout });
+          result = await genericFetcher.fetch(normalizedUrl, { timeout });
           break;
       }
 
@@ -119,9 +142,9 @@ async function fetchDescription(url, options = {}) {
           metadata: result.metadata || {}
         };
 
-        // Cache the result
+        // Cache the result (use normalized URL for cache key)
         if (useCache) {
-          cache.set(url, descriptionData);
+          cache.set(normalizedUrl, descriptionData);
         }
 
         return descriptionData;

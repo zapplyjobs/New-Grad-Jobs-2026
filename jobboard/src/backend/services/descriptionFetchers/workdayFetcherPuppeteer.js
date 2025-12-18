@@ -99,11 +99,32 @@ async function fetch(url, options = {}) {
 
     await browser.close();
 
-    // Clean up description
-    const cleanDescription = result.description
-      .replace(/\s+/g, ' ')
-      .replace(/[\r\n]+/g, ' ')
+    // Clean up description with Workday-specific formatting fixes
+    let cleanDescription = result.description
+      // Replace Workday section dividers (----) with paragraph breaks
+      .replace(/----+/g, '\n\n')
+      // Normalize whitespace within lines
+      .replace(/[ \t]+/g, ' ')
+      // Normalize line breaks
+      .replace(/\n{3,}/g, '\n\n')
       .trim();
+
+    // Truncate at common boilerplate markers to avoid legal text bloat
+    const boilerplateMarkers = [
+      'Employment Eligibility:',
+      'Background Checks:',
+      'Equal Opportunity Employer:',
+      'Pay Transparency:',
+      'E-Verify:'
+    ];
+
+    for (const marker of boilerplateMarkers) {
+      const markerIndex = cleanDescription.indexOf(marker);
+      if (markerIndex > 500) { // Only truncate if there's substantial content before
+        cleanDescription = cleanDescription.substring(0, markerIndex).trim();
+        break;
+      }
+    }
 
     if (!cleanDescription || cleanDescription.length < 50) {
       throw new Error('Description too short or not found');
