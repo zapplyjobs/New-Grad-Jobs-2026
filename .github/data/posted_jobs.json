@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:50:44.279Z",
+  "lastUpdated": "2025-12-18T21:04:54.071Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -5996,14 +5996,124 @@
       "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4666570101",
       "discordThreadId": "1451315758163296450",
       "instanceNumber": 1
+    },
+    {
+      "id": "mtb-wd5-myworkdayjobs-com-campus-job-buffalo-ny-xmlname-2026-technology-development-program-servicenow_r80405-2025-12-18-1",
+      "jobId": "mtb-wd5-myworkdayjobs-com-campus-job-buffalo-ny-xmlname-2026-technology-development-program-servicenow_r80405",
+      "company": "M&T Bank",
+      "title": "Technology Development Program 2026 - Servicenow",
+      "postedToDiscord": "2025-12-18T21:04:13.475Z",
+      "sourceDate": "2025-10-09T21:15:08.000Z",
+      "sourceUrl": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Development-Program---ServiceNow_R80405",
+      "discordThreadId": "1451319151107768511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-vailsys-ad5c0c59-c301-4ac5-983b-bbd62b736c94-apply-2025-12-18-1",
+      "jobId": "jobs-lever-co-vailsys-ad5c0c59-c301-4ac5-983b-bbd62b736c94-apply",
+      "company": "Vail Systems",
+      "title": "Software Engineer - Test & Infrastructure I",
+      "postedToDiscord": "2025-12-18T21:04:19.877Z",
+      "sourceDate": "2025-10-09T20:44:14.000Z",
+      "sourceUrl": "https://jobs.lever.co/vailsys/ad5c0c59-c301-4ac5-983b-bbd62b736c94/apply",
+      "discordThreadId": "1451319179507531856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-10alabs-jobs-4035700009-2025-12-18-1",
+      "jobId": "job-boards-greenhouse-io-10alabs-jobs-4035700009",
+      "company": "10a Labs",
+      "title": "Machine Learning Fellowship",
+      "postedToDiscord": "2025-12-18T21:04:23.495Z",
+      "sourceDate": "2025-10-09T15:30:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/10alabs/jobs/4035700009",
+      "discordThreadId": "1451319193755713637",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow-department-of-computer-science_r_00042583-2025-12-18-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow-department-of-computer-science_r_00042583",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow - Department of Computer Science",
+      "postedToDiscord": "2025-12-18T21:04:27.445Z",
+      "sourceDate": "2025-10-09T15:07:40.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow--Department-of-Computer-Science_R_00042583",
+      "discordThreadId": "1451319209232564387",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-rogo-ab1afca5-a96f-4ba7-8370-60817d8a38d1-application-2025-12-18-1",
+      "jobId": "jobs-ashbyhq-com-rogo-ab1afca5-a96f-4ba7-8370-60817d8a38d1-application",
+      "company": "Rogo",
+      "title": "Entry Level Engineer",
+      "postedToDiscord": "2025-12-18T21:04:30.844Z",
+      "sourceDate": "2025-10-08T07:48:17.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/rogo/ab1afca5-a96f-4ba7-8370-60817d8a38d1/application",
+      "discordThreadId": "1451319225414193162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-assistant-professor_r0003284-2025-12-18-1",
+      "jobId": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-assistant-professor_r0003284",
+      "company": "Worcester Polytechnic Institute",
+      "title": "Assistant Professor",
+      "postedToDiscord": "2025-12-18T21:04:34.425Z",
+      "sourceDate": "2025-10-08T06:09:31.000Z",
+      "sourceUrl": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Assistant-Professor_R0003284",
+      "discordThreadId": "1451319239788073163",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-glsllc-36be43e8-4c98-41c1-bdae-3f3bcb9353ba-apply-2025-12-18-1",
+      "jobId": "jobs-lever-co-glsllc-36be43e8-4c98-41c1-bdae-3f3bcb9353ba-apply",
+      "company": "Global Lending Services",
+      "title": "Business Systems Analyst - Data Warehouse",
+      "postedToDiscord": "2025-12-18T21:04:40.891Z",
+      "sourceDate": "2025-10-09T20:19:21.000Z",
+      "sourceUrl": "https://jobs.lever.co/glsllc/36be43e8-4c98-41c1-bdae-3f3bcb9353ba/apply",
+      "discordThreadId": "1451319267403366430",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-garnerhealth-jobs-5674251004-2025-12-18-1",
+      "jobId": "job-boards-greenhouse-io-garnerhealth-jobs-5674251004",
+      "company": "Garner Health",
+      "title": "Associate Data Scientist",
+      "postedToDiscord": "2025-12-18T21:04:44.300Z",
+      "sourceDate": "2025-10-09T17:54:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/5674251004",
+      "discordThreadId": "1451319281718530139",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lbl-taleo-net-careersection-5-jobdetail-ftl-2025-12-18-1",
+      "jobId": "lbl-taleo-net-careersection-5-jobdetail-ftl",
+      "company": "Lawrence Berkeley National Laboratory",
+      "title": "Hoffman Distinguished Postdoctoral Fellow - Nuclear Nonproliferation",
+      "postedToDiscord": "2025-12-18T21:04:50.692Z",
+      "sourceDate": "2025-10-09T16:56:58.000Z",
+      "sourceUrl": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105322",
+      "discordThreadId": "1451319308410945651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-garnerhealth-jobs-5671433004-2025-12-18-1",
+      "jobId": "job-boards-greenhouse-io-garnerhealth-jobs-5671433004",
+      "company": "Garner Health",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2025-12-18T21:04:54.071Z",
+      "sourceDate": "2025-10-08T07:31:43.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/5671433004",
+      "discordThreadId": "1451319322881556481",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 545,
+    "totalJobs": 555,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-18T20:50:44.279Z",
+      "date": "2025-12-18T21:04:54.071Z",
       "archived": 0
     }
   }
