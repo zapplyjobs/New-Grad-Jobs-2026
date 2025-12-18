@@ -175,7 +175,7 @@ function isNonTechRole(title) {
 function isAIRole(title, description) {
   const aiPatterns = [
     { regex: /\b(machine learning|ml engineer|deep learning)\b/, keyword: 'machine learning' },
-    { regex: /\b(artificial intelligence|ai engineer|ai researcher)\b/, keyword: 'artificial intelligence' },
+    { regex: /\b(artificial intelligence|ai\s+(engineer|researcher|intern|analyst|developer|specialist|associate))\b/, keyword: 'artificial intelligence' },
     { regex: /\b(computer vision|nlp|natural language)\b/, keyword: 'AI specialization' },
     { regex: /\b(neural network|generative ai|large language model|llm)\b/, keyword: 'AI/ML' }
   ];
