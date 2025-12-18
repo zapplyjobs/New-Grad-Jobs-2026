@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:06:51.443Z",
+  "lastUpdated": "2025-12-18T20:25:24.783Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -5556,14 +5556,124 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Optimization-Engineer--LLVM-and-MLIR---New-College-Grad-2025_JR2006770",
       "discordThreadId": "1451304706629566607",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-trace3-jobs-7350861-2025-12-18-1",
+      "jobId": "job-boards-greenhouse-io-trace3-jobs-7350861",
+      "company": "Trace3",
+      "title": "Java DevSecOps Software Engineer",
+      "postedToDiscord": "2025-12-18T20:24:34.359Z",
+      "sourceDate": "2025-10-26T18:55:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/trace3/jobs/7350861",
+      "discordThreadId": "1451309172934053888",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eevd-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025268-2025-12-18-1",
+      "jobId": "eevd-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025268",
+      "company": "Hearst",
+      "title": "Developer Fellow",
+      "postedToDiscord": "2025-12-18T20:24:37.773Z",
+      "sourceDate": "2025-10-26T17:45:17.000Z",
+      "sourceUrl": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025268",
+      "discordThreadId": "1451309188184674444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-atlanta-ga-analyst-finance-platform-strategies_r250492-2025-12-18-1",
+      "jobId": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-atlanta-ga-analyst-finance-platform-strategies_r250492",
+      "company": "BlackRock",
+      "title": "Analyst – Developer - Financial Systems",
+      "postedToDiscord": "2025-12-18T20:24:41.317Z",
+      "sourceDate": "2025-10-26T16:40:55.000Z",
+      "sourceUrl": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Analyst--Finance-Platform-Strategies_R250492",
+      "discordThreadId": "1451309202411618344",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-311345-2025-12-18-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-311345",
+      "company": "Oracle",
+      "title": "Advanced Degree Software Engineer - Oracle Health and Analytics",
+      "postedToDiscord": "2025-12-18T20:24:44.908Z",
+      "sourceDate": "2025-10-26T15:55:11.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311345",
+      "discordThreadId": "1451309217217777920",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wyetechllc-686d2ecb-f9df-4775-b26f-253c889b1452-apply-2025-12-18-1",
+      "jobId": "jobs-lever-co-wyetechllc-686d2ecb-f9df-4775-b26f-253c889b1452-apply",
+      "company": "Wyetech",
+      "title": "Database Engineer 0",
+      "postedToDiscord": "2025-12-18T20:24:48.422Z",
+      "sourceDate": "2025-10-25T23:23:15.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/686d2ecb-f9df-4775-b26f-253c889b1452/apply",
+      "discordThreadId": "1451309232459747368",
+      "instanceNumber": 1
+    },
+    {
+      "id": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-material-handler_rq4039209-2025-12-18-1",
+      "jobId": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-material-handler_rq4039209",
+      "company": "Mass General Brigham",
+      "title": "Material Handler",
+      "postedToDiscord": "2025-12-18T20:24:56.296Z",
+      "sourceDate": "2025-10-26T18:21:13.000Z",
+      "sourceUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Material-Handler_RQ4039209",
+      "discordThreadId": "1451309259764662472",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-research-associate-machine-learning-in-high-energy-physics-detector-operations_421270-2025-12-18-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-research-associate-machine-learning-in-high-energy-physics-detector-operations_421270",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Research Associate",
+      "postedToDiscord": "2025-12-18T20:25:03.105Z",
+      "sourceDate": "2025-10-26T18:00:28.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---Machine-Learning-in-High-Energy-Physics-Detector-Operations_421270",
+      "discordThreadId": "1451309293801574540",
+      "instanceNumber": 1
+    },
+    {
+      "id": "imh-wd108-myworkdayjobs-com-intermountaincareers-job-billings-downtown-clinic-medical-assistant-resident_r145681-1-2025-12-18-1",
+      "jobId": "imh-wd108-myworkdayjobs-com-intermountaincareers-job-billings-downtown-clinic-medical-assistant-resident_r145681-1",
+      "company": "Intermountain Healthcare",
+      "title": "Medical Assistant Resident Sleep and Respiratory Clinic",
+      "postedToDiscord": "2025-12-18T20:25:11.472Z",
+      "sourceDate": "2025-10-26T17:39:57.000Z",
+      "sourceUrl": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Resident_R145681-1",
+      "discordThreadId": "1451309321840361623",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-ucm-icims-com-jobs-80172-job-2025-12-18-1",
+      "jobId": "careers-ucm-icims-com-jobs-80172-job",
+      "company": "The University of Chicago Medicine",
+      "title": "Clinical Data Analyst - Same Day Surgery/Observation Coder",
+      "postedToDiscord": "2025-12-18T20:25:17.955Z",
+      "sourceDate": "2025-10-26T09:08:20.000Z",
+      "sourceUrl": "https://careers-ucm.icims.com/jobs/80172/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451309356359487669",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walkerdunlop-wd1-myworkdayjobs-com-wd-job-bethesda-md-usa-xmlname-2026-business-systems-analyst_req-1701-2025-12-18-1",
+      "jobId": "walkerdunlop-wd1-myworkdayjobs-com-wd-job-bethesda-md-usa-xmlname-2026-business-systems-analyst_req-1701",
+      "company": "Walker & Dunlop",
+      "title": "Business Systems Analyst",
+      "postedToDiscord": "2025-12-18T20:25:24.783Z",
+      "sourceDate": "2025-10-22T20:49:58.000Z",
+      "sourceUrl": "https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Bethesda-MD-USA/XMLNAME-2026-Business-Systems-Analyst_Req-1701",
+      "discordThreadId": "1451309383823790403",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 505,
+    "totalJobs": 515,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-18T20:06:51.443Z",
+      "date": "2025-12-18T20:25:24.783Z",
       "archived": 0
     }
   }
