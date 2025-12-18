@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Software Engineer - Direct To Cell",
-      "employer_name": "SpaceX",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.SOFTWARE ENGINEER (DIRECT TO CELL) The Direct to Cell network will expand Starlink’s vision by providing ubiquitous connectivity and seamless access to text, voice, and data for LTE phones and devices across the globe. The Direct to Cell network leverages the infrastructure we’ve built for Starlink over the past several years. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to 5M+ users worldwide. As the global leader in rocket and satellite launch and manufacturing, SpaceX is uniquely positioned to rapidly scale our Direct to Cell network and will rapidly launch a constellation of hundreds of satellites. As a software engineer on the Direct to Cell program, you are responsible for the complete lifecycle of the software they create, including development, testing, and support. We expect our engineers to close the feedback loop between software design and real-world performance. In this role, your software will have a meaningful and measurable impact on the world. RESPONSIBILITIES: Develop highly reliable, real-time software that plans and executes network topology for our satellite-based global network in order to connect mobile phones and maximize user experience. Participate in and lead architecture, design, and code reviews. Develop prototypes and manage experiments to prove out key design concepts. Develop tools for software development and deployment, data analysis and visualization, and test execution across multiple environments, including virtualized hardware environments, real hardware-in-the-loop simulations, and on-orbit testing. BASIC QUALIFICATIONS: Bachelor’s degree in computer science, engineering, math, or science discipline; OR 2+ years of professional experience in software development in lieu of a degree. Development experience in Python, C, or C++. PREFERRED SKILLS AND EXPERIENCE: Knowledgeable in real-time rendering, game engine development, physics simulation, or other real-time, resource-constrained, high-performance computing. Knowledgeable in network topology, numerical optimization techniques, graph theoretic approaches, or convex optimization. Developed, debugged, and deployed software that has been used in real world applications/projects. Creative approach to problem solving, exceptional analytical skills, and engineering fundamentals. Excellent communication skills both written and verbal. Ability to work effectively in a dynamic environment with changing needs and requirements. Experience with distributed systems and internet services. ADDITIONAL REQUIREMENTS: Must be willing to work extended hours and/or weekends as needed. COMPENSATION AND BENEFITS: Pay range: Software Engineer/Level I: $130,000.00 - $155,000.00/per year Software Engineer/Level II: $150,000.00 - $180,000.00/per year Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience. Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k)-retirement plan, short & long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation & will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.ITAR REQUIREMENTS: To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status. Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to EEOCompliance@spacex.com.",
-      "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8170041002",
-      "job_posted_at_datetime_utc": "2025-09-17T18:49:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "boards-greenhouse-io-spacex-jobs-8170041002",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7550790814831511815",
-      "job_posted_at_datetime_utc": "2025-09-17T03:31:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7550790814831511815",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7550436166929025298",
-      "job_posted_at_datetime_utc": "2025-09-17T03:31:37.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7550436166929025298",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "BNY Analyst Program-Engineering - Developer",
-      "employer_name": "BNY",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "2026 BNY Analyst Program- Engineering (Developer) At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide. Recognized as a top destination for innovators and champions of inclusion, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary. We’re seeking a future team member for our Engineering (Developer) program. This role is located in Pittsburgh (PA), Lake Mary (FL), New York (NY), or Jersey City (NJ). BNY Analyst Program Our 24-month analyst progr...",
-      "job_apply_link": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70342",
-      "job_posted_at_datetime_utc": "2025-09-16T19:19:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-70342",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "BNY Analyst Program-Engineering - Data Science",
-      "employer_name": "BNY",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "2026 BNY Analyst Program- Engineering (Data Science) At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide. Recognized as a top destination for innovators and champions of inclusion, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary. We’re seeking a future team member for our Engineering (Data Science) program. This role is located in Pittsburgh (PA), Lake Mary (FL), New York (NY), or Jersey City (NJ). BNY Analyst Program Our 24-month analyst...",
-      "job_apply_link": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70345",
-      "job_posted_at_datetime_utc": "2025-09-16T19:19:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-70345",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Moodle Developer",
-      "employer_name": "Louisiana State University (LSU)",
-      "job_city": "Baton Rouge",
-      "job_state": "LA",
-      "job_description": "All Job Postings will close at 12:01a.m. CST (1:01a.m. EST) on the specified Closing Date (if designated).If you close the browser or exit your application prior to submitting, the application progress will be saved as a draft. You will be able to access and complete the application through “My Draft Applications” located on your Candidate Home page.Job Posting Title:Moodle Developer   Position Type:Professional / Unclassified   Department:LSUAM Online - SET - Academic Technology (Wen-Chieh Fan (00011158))   Work Location:8585 Archives Blvd, Suite 201   Pay Grade:   Job Description:The Moodle Developer supports the development, maintenance, and operation of LSU Online & Continuing Education’s Learning Management System (Moodle). This entry-level to mid-level position is ideal for someone with strong PHP experience who is eager to learn and grow in a higher ed environment. Working under the guidance of senior developers and administrators, the Moodle Developer will contribute to the upkeep, performance, and small-scale enhancements of the LMS and its related systems.Job Responsibilities:The Moodle Developer will assist in the ongoing support and refinement of LSU’s Moodle-based Learning Management System. Under the direction of senior staff, this role will contribute to backend and frontend improvements by developing minor features, addressing bugs, and making performance enhancements. The developer will write clean, efficient code in PHP and work with HTML, CSS, JavaScript, and SQL to ensure the platform remains user-friendly, stable, and scalable. 40%This position will play a key role in responding to LMS-related support requests, including technical issues reported by instructional designers, course developers, and faculty. The developer will help investigate and resolve problems in real time, ensuring minimal disruption to online course delivery. In addition, they will document support resolutions and contribute ideas for long-term solutions or automation. 25%The Moodle Developer will assist in testing new features, patches, and updates prior to deployment. Responsibilities include running regression tests, validating the behavior of core and third-party plugins, and supporting the team’s broader QA processes. The developer will help ensure that new deployments meet quality and functionality expectations across devices and browsers. 15%Under supervision, the developer will support Moodle version upgrades and small plugin customizations. This may include applying patches, updating configuration files, and adjusting existing code to remain compatible with newer Moodle versions. While plugin development will be limited, the developer will have the opportunity to contribute minor enhancements or configuration changes as assigned. 10%Participate in structured learning opportunities, including shadowing senior team members, attending knowledge-sharing sessions, and studying Moodle's open-source architecture. The developer will also gain exposure to tools such as Git, Jenkins, and AWS, building foundational skills in version control and deployment practices. 5%Other duties as assigned. 5%Minimum Qualifications:Bachelor's degree with 3+ years as a software developerSpecific ExperienceExperience in developing, maintaining and supporting web-based software systemsDemonstrable skills with HTML5, CSS, JavaScript, PHP and querying databasesEffective verbal and written communication skillsPreferred Qualifications:Master's degree with 5+ years as a software developer with at least 7 of those years experience as a PHP developerSpecific ExperienceExperience in developing and supporting web-based software systems using Agile MethodologyDemonstrable skills with HTML5, CSS, JavaScript, PHP and querying databasesEffective verbal and written communication skillsDegree Substitute: LSU values skills, experience, and expertise. Candidates who have relevant experience in key job responsibilities are encouraged to apply— a degree is not required as long as the candidate meets the required years of experience specified in the job description.Additional Requirements:Operation Essential Personnel - This position may be asked to work during an official closure, but who is otherwise not required to report to the physical campus during a closure and whose absence does not present a risk to the safety, resources, and well-being of the campus per FASOP HR-01.   Additional Job Description:Special Instructions:Please provide cover letter, resume, (3) professional references and transcripts. Official transcripts are required prior to hire, if needed.For questions or concerns regarding the status of your application or salary ranges, please contact Wen-Chieh Fan at wfan10@lsu.edu   Posting Date:September 16, 2025   Closing Date (Open Until Filled if No Date Specified):January 14, 2026  Additional Position Information:Background Check - An offer of employment is contingent on a satisfactory pre-employment background check.Benefits - LSU offers outstanding benefits to eligible employees and their dependents including health, life, dental, and vision insurance; flexible spending accounts; retirement options; various leave options; paid holidays; wellness benefits; tuition exemption for qualified positions; training and development opportunities; employee discounts; and more!   Positions approved to work outside the State of Louisiana shall be employed through Louisiana State University’s partner, nextSource Workforce Solutions, for Employer of Record Services including but not limited to employment, benefits, payroll, and tax compliance. Positions employed through Employer of Record Services will be offered benefits and retirement as applicable through their provider and will not be eligible for State of Louisiana benefits and retirement.   Essential Position (Y/N):   LSU is an Equal Opportunity Employer.   HCM Contact Information:For questions or concerns related to updating your application with attachments (e.g., resumes, RS:17 documents), date of birth, or reactivating applications, please contact the LSU Human Resources Management Office at 225-578-8200 or email HR@lsu.edu.  For questions or concerns regarding the status of your application or salary ranges, please contact the department using the information provided in the Special Instructions section of this job posting.",
-      "job_apply_link": "https://lsu.wd1.myworkdayjobs.com/LSU/job/8585-Archives-Blvd-Suite-201/Moodle-Developer_R00109175",
-      "job_posted_at_datetime_utc": "2025-09-16T19:04:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-8585-archives-blvd-suite-201-moodle-developer_r00109175",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "Artificial Intelligence Graduate",
-      "employer_name": "AVEVA",
-      "job_city": "Lake Forest",
-      "job_state": "CA",
-      "job_description": "AVEVA is a global leader in industrial software. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals and minerals – safely, efficiently and more sustainably.We’re the first software business in the world to have our sustainability targets validated by the SBTi, and we’ve been recognized for the transparency and ambition of our commitment to diversity, equity, and inclusion. We’ve also recently been named as one of the world’s most innovative companies.If you’re a curious and collaborative person who wants to make a big impact through technology, then we want to hear from you! Find out more at AVEVA Careers.For more information about our privacy policy and how to manage cookies, visit our Privacy Policy. Job Title: AI/ ML New Graduate    Work Type: Hybrid (3 days a week in office)        Work Authorization: This application is intended for candidates that are eligible for full-time work authorization in the United States upon completing their education.   Please be prepared to answer the following in your application:   Do you now, or will you in the future, require sponsorship for employment visa status (e.g. H-1B, F1, CPT, OPT visa status, etc.) to work legally in the United States?      Office Location: Lake Forest, CA  Artificial Intelligence and Machine Learning at AVEVA We are looking for passionate graduates to join our R&D team. In this role, you will help develop AI capabilities into our existing suite of products or help build AI-enabling platform services and public APIs that are secure, reliable, and cloud-native. These services will act as foundational building blocks for AI adoption across AVEVA’s product portfolio and partner ecosystem.You will part of a Scrum team to build innovative, standards-compliant, secure and production-grade AI capabilities, with a builder mindset - rapid prototyping and continuous improvement with agility of a start-up.Key Responsibilities:Collaborate with cross-functional teams to design, develop, and deploy machine learning models and AI solutions for real-world problems.Assist in data collection, preprocessing, and exploratory data analysis to ensure high-quality datasets for model training and evaluation.Implement, test, and optimize machine learning algorithms using relevant libraries and frameworks such as TensorFlow, PyTorch, or scikit-learn.Contribute to the development and refinement of AI pipelines, including data ingestion, feature engineering, model selection, and validation.Conduct literature reviews to stay updated on the latest trends, techniques, and developments in the field of AI and machine learning.Document technical processes, experiments, and results to facilitate knowledge sharing and reproducibility within the team.Participate in code reviews, brainstorming sessions, and team meetings to foster a collaborative and innovative working environment.Present findings, analyses, and results effectively to both technical and non-technical stakeholders.Desired Skills and Knowledge in AI/ML:Solid understanding of foundational AI and machine learning concepts, including supervised and unsupervised learning, classification, regression, clustering, and model evaluation.Familiarity with algorithms such as linear regression, logistic regression, decision trees, support vector machines, neural networks, and ensemble methods.Proficiency in programming languages commonly used in AI/ML, such as Python or R, along with experience using relevant libraries (e.g., NumPy, pandas, scikit-learn, TensorFlow, PyTorch). Knowledge of C# and .Net would be an advantage.Knowledge of data preprocessing techniques, feature selection, and dimensionality reduction.Basic experience with data visualization tools and techniques to communicate insights from data.Understanding of deep learning architectures particularly transformer models, and foundational knowledge of Large Language Models (LLMs) and generative AI concepts.Familiarity with prompt engineering techniques for interacting with generative AI models and basic knowledge of RAG (Retrieval Augmented Generation) architectures.Awareness of emerging AI interoperability standards, such as Model Context Protocol (MCP) and Agent2Agent (A2A), and their role in building interconnected AI systems.Ability to work with version control tools such as Git, and familiarity with collaborative development practices.Strong problem-solving skills, analytical thinking, and attention to detail.Excellent written and verbal communication skills.Prior internships, coursework projects, or research experience in AI/ML is a strong plus.AVEVA requires all successful applicants to undergo and pass a drug screen before they start employment. All drug screens are in accordance with federal laws and regulations.Find out more: https://www.aveva.com/en/about/careers/Salary Range:$69,900.00 - $116,700.00This pay range represents the minimum and maximum compensation that the position offers, and final compensation can vary within the range depending on work location, job experience, skills, and relevant educational attainment and/or training. USA Benefits: Competitive salary; high quality healthcare; 401(k) with 6% employer match; FSA and supplemental insurance; paid parental leave; 20 days PTO with increase for time served; 7 days of sick time; 3 days paid volunteering; flexible lifestyle benefits (commuter plans, backup care, emergency leave and fitness/education reimbursement opportunities) AVEVA requires all successful applicants to undergo and pass a comprehensive background check and drug screen before they start employment.  Background checks will be conducted in accordance with local laws and may, subject to those laws,  include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check.  Certain positions dealing with sensitive and/or third party personal data may involve additional background check criteria. All drug screens are in accordance with federal laws and regulations. AVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify AVEVA at recruitingaccommodations@aveva.com. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.  Come and join AVEVA to create the transformative technology that enables our customers to engineer a better world.",
-      "job_apply_link": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Artificial-Intelligence-Graduate--US_R011630",
-      "job_posted_at_datetime_utc": "2025-09-16T04:25:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "aveva-wd3-myworkdayjobs-com-en-us-aveva_careers-job-lake-forest-california-united-states-of-america-artificial-intelligence-graduate-us_r011630",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "Founder in Residence - Embedfi - SMB Hardware Leasing",
-      "employer_name": "AI Fund",
-      "job_city": "California",
-      "job_state": "Locations",
-      "job_description": "Founder in Residence - EmbedFi [SMB Hardware Leasing]San Francisco Bay Area, RemoteAI Fund – AI Fund /Full time /HybridApply for this jobAbout the RoleAI Fund is launching a new venture in and seeking a Founder in Residence (FIR) to lead it from concept to company. This is a ground-floor opportunity for a product-oriented, technical builder with proven 0–1 product experience to shape, execute, and scale a venture. As Founder in Residence, you will define the product vision, lead technical execution, and serve as the company’s CEO. You’ll apply deep GenAI expertise and product intuition to solve meaningful user problems—working in close partnership with a Product Builder, Technical Builder, and AI Fund leadership. This role demands high ownership, rapid iteration in ambiguous environments, and a founder mindset.About PC:EmbedFi is bringing a modern diligence stack to the lease and loan process for SMBs looking to get essential hardware and materials for their operations– from IT to construction equipment. Currently, hardware manufacturers offer steep terms or push small businesses to retail channels because it’s too risky and too costly to diligence those businesses. EmbedFi provides the ticket to entry for SMB’s by providing trusted, comprehensive risk analysis that enables them to get great terms fast and build trust by working with multiple lenders over the lifetime of their business.What You'll Do: Lead technical execution from early experimentation through MVPPartner with a Product Builder to define and evolve the product visionExplore and apply the latest GenAI capabilities to real-world use casesBuild and ship prototypes using LLMs, agents, RAG pipelines, eval frameworks, and moreArchitect scalable, full-stack systems using modern cloud infrastructureEngage directly with users to gather insights, iterate rapidly, and refine the productOperate with a founder mindset, making bold decisions with incomplete data and driving execution forwardSet and maintain a high bar for engineering and product quality while moving fastRequired Qualifications: Strong technical fluency in GenAI, LLMs, and modern ML frameworksHands-on experience shipping full-stack, cloud-native applicationsProven track record of building and launching 0–1 productsComfortable leading in ambiguity and acting without perfect informationStrong cross-functional collaboration skills (product, design, GTM)Excellent leadership and communication skills that inspire alignment and trustNice To have: Prior startup or founding engineer experienceFamiliarity with fundraising or technical stakeholder communicationDomain expertise in the SMB Fintech space What Sets You Apart: Initiative & Grit: You own outcomes, move fast, and thrive in chaotic environmentsUser-Obsessed: You actively seek feedback and design with the end user in mindScrappy & Resourceful: You deliver results despite constraintsTechnically Curious: You continuously explore new tools and approaches, applying them creativelyBuilder Energy: You’re energized by creating from scratch and making bold betsIf you’re a hands-on technical leader eager to co-found and build a GenAI venture from the ground up, we’d love to meet you.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/AIFund/e5ef49f6-2014-45d7-a5fb-2d534e6af556/apply",
-      "job_posted_at_datetime_utc": "2025-09-16T03:02:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-lever-co-aifund-e5ef49f6-2014-45d7-a5fb-2d534e6af556-apply",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "Application Development Engineer I",
-      "employer_name": "Centene",
-      "job_city": "Missouri",
-      "job_state": "Locations",
-      "job_description": "Join Centene in this exciting opportunity.",
-      "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Application-Development-Engineer-I_1592119-1",
-      "job_posted_at_datetime_utc": "2025-09-15T22:34:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-application-development-engineer-i_1592119-1",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Engineer 1 - Engineering - Development",
-      "employer_name": "Boston Scientific",
-      "job_city": "Cambridge",
-      "job_state": "MA",
-      "job_description": "Join Boston Scientific in this exciting opportunity.",
-      "job_apply_link": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
-      "job_posted_at_datetime_utc": "2025-09-15T21:43:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bostonscientific-eightfold-ai-careers-job-563602808591541",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:05:14.226Z",
-    "postedAt": "2025-12-18T22:24:36.453Z"
-  },
-  {
-    "job": {
       "job_title": "Data Analyst - Insights and Product Analytics",
       "employer_name": "Gartner",
       "job_city": "Stamford",
@@ -214,10 +14,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -234,10 +34,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -254,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -274,10 +74,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -294,10 +94,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -314,10 +114,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -334,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -354,10 +154,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -374,10 +174,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -394,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-18T22:23:55.631Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:38:57.746Z"
   },
   {
     "job": {
@@ -405,16 +205,18 @@
       "employer_name": "Emerson Electric",
       "job_city": "Eden Prairie",
       "job_state": "MN",
-      "job_description": "Join Emerson Electric in this exciting opportunity.",
+      "job_description": "If you are a Software Engineering professional looking for an opportunity to grow, Emerson has an exciting opportunity for you! Based in our Chanhassen, MN location, you will have the opportunity to apply and enhance your skills in a full-stack software development team creating new and innovative solutions. This role provides a wide breadth of both code and database design and developmental opportunities in a fast-paced, dynamic Manufacturing environment.",
       "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025075",
       "job_posted_at_datetime_utc": "2025-09-10T18:09:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-jobs-job-25025075"
+      "id": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-jobs-job-25025075",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "Emerson Electric",
       "job_city": "Eden Prairie",
       "job_state": "MN",
-      "job_description": "Join Emerson Electric in this exciting opportunity.",
+      "job_description": "If you are a software professional looking for an opportunity to grow, Emerson has an exciting opportunity for you! This work opportunity based in our Eden Prairie, MN location. In this role you will assist in designing, coding, testing, and maintaining software applications. This is an excellent opportunity for developers to grow their skills and contribute to enterprise-scale software projects.",
       "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025155",
       "job_posted_at_datetime_utc": "2025-09-10T18:09:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-jobs-job-25025155"
+      "id": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-jobs-job-25025155",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -441,16 +245,18 @@
       "employer_name": "Argonne National Laboratory",
       "job_city": "Woodridge",
       "job_state": "IL",
-      "job_description": "Join Argonne National Laboratory in this exciting opportunity.",
+      "job_description": "The Theory and Modeling Group at the Center for Nanoscale Materials (CNM) seeks an outstanding Assistant Scientist to lead and support frontier research at the intersection of AI/ML, data infrastructure, autonomous systems, and materials science. You will develop and apply advanced data-driven methodologies to accelerate discovery in materials design, characterization, and synthesis. The role combines self-directed and collaborative research aligned with CNM strategic themes, alongside scientific support for CNM users.CNM is a DOE Office of Science user facility that provides researchers worldwide with world-class expertise and instrumentation for multidisciplinary nanoscience and nanotechnology. Learn more about CNM themes at: https://cnm.anl.govFocus Areas (expertise in one or more is highly desirable)AI/ML for predictive modeling and inverse design of nanomaterialsAutonomous laboratories for materials synthesis and characterizationGenerative models, reinforcement learning, and agent-based approaches to streamline experimentation and accelerate discoveryIntegration of HPC, data infrastructure, and ML pipelines for data-driven and autonomous researchDigital twins and simulation-augmented AI toolsInterfacing AI tools with experimental facilities at CNM and ArgonneKey ResponsibilitiesResearch leadership (50%)Develop and lead an independent and collaborative research program in computational materials science aligned with CNM strategic themes and the DOE missionPublish in refereed journals and present at conferences, symposia, and seminarsContribute to proposal development and assist with execution and reporting for CNM, DOE, and other sponsorsUser program engagement (50%)Establish and maintain a vibrant, productive collaboration program with CNM usersProvide scientific and technical support for user computational projects to ensure successful execution and growth of user-led researchComputational and HPC supportSupport end-users with HPC operations and maintenance issues, job optimization and scheduling, workflow understanding, and software installationCollaboration and mentorshipCollaborate with internal and external researchers to drive innovation in nanoscience and nanotechnologyContribute to CNM’s strategic scientific directions through pioneering R&D.Provide work direction and mentorship to postdoctoral appointees, research assistants, students, and technical staffProfessional growth and operationsWork toward promotion from Assistant Scientist to ScientistManage vendor relationships as needed (hardware, cloud, managed support services)Safety, security, and stewardshipExecute all activities in compliance with Argonne’s ES&H policies, Safeguards and Security policies, work rules, and safe practicesPosition RequirementsPh.D. in Materials Science, Physics, Chemistry, Chemical Engineering, Electrical Engineering, or a related fieldProven research track record in computational materials science and AI/ML, with applications in areas such as quantum information science, energy capture/storage/conversion, or microelectronicsDemonstrated ability to formulate scientific problems in the design and theory of nanoscale systems relevant to the DOE portfolioConsiderable skill in data management and high-performance computing, including workflow design and optimizationStrong oral and written communication skills, with the ability to work effectively with internal and external collaborators to achieve established goalsDemonstrated ability to collaborate in a multidisciplinary environment and provide scientific guidance to a diverse research communityAbility to model Argonne’s core values of impact, safety, respect, integrity, and teamworkHow to Apply Submit the following materials via the Argonne National Laboratory careers portal:Cover letter detailing how your experience and expertise align with and will contribute to this positionCurriculum vitae with publication list and contact information for three professional references2-page research statement outlining proposed research directions1-page statement describing your approach to engaging and growing the CNM scientific user programRD2: Bachelors and 5+ years of experience, Masters and 3+ years, or PhD and 0+ years, or equivalentJob FamilyResearch Development (RD)Job ProfileMaterials/Ceramics/Metallurgical 2Worker TypeRegularTime TypeFull timeThe expected hiring range for this position is $90,063.00 - $143,010.27.Please note that the pay range information is a general guideline only. The pay offered to a selected candidate will be determined based on factors such as, but not limited to, the scope and responsibilities of the position, the qualifications of the selected candidate, business considerations, internal equity, and external market pay for comparable jobs. Additionally, comprehensive benefits are part of the total rewards package. Click here to view Argonne employee benefits!As an equal employment opportunity employer, and in accordance with our core values of impact, safety, respect, integrity and teamwork, Argonne National Laboratory is committed to a safe and welcoming workplace that fosters collaborative scientific discovery and innovation. Argonne encourages everyone to apply for employment. Argonne is committed to nondiscrimination and considers all qualified applicants for employment without regard to any characteristic protected by law.Argonne employees, and certain guest researchers and contractors, are subject to particular restrictions related to participation in Foreign Government Sponsored or Affiliated Activities, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation in the application phase for review by Argonne's Legal Department.  All Argonne offers of employment are contingent upon a background check that includes an assessment of criminal conviction history conducted on an individualized and case-by-case basis.  Please be advised that Argonne positions require upon hire (or may require in the future) for the individual be to obtain a government access authorization that involves additional background check requirements.  Failure to obtain or maintain such government access authorization could result in the withdrawal of a job offer or future termination of employment.",
       "job_apply_link": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/XMLNAME---Assistant-Scientist---Data-Driven-and-Autonomous-Materials-Discovery--CNM-_421023",
       "job_posted_at_datetime_utc": "2025-09-10T01:35:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-xmlname-assistant-scientist-data-driven-and-autonomous-materials-discovery-cnm-_421023"
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-xmlname-assistant-scientist-data-driven-and-autonomous-materials-discovery-cnm-_421023",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -459,16 +265,18 @@
       "employer_name": "WebFX",
       "job_city": "Harrisburg",
       "job_state": "PA",
-      "job_description": "Join WebFX in this exciting opportunity.",
+      "job_description": "Jr. Web DeveloperHarrisburg, PAInteractive: Design, Development, & Project Management – Interactive Development /Full time /On-siteApply for this jobHi there! We're WebFX, a full-service digital marketing agency based in the US. We've been 10x named the Best Place To Work in Pennsylvania, and we'd love to meet you! We are a fast-growing company that has doubled in size over the past 5 years, with talented team members now based around the globe (and representing 18+ different countries!). While we are growing at a rapid rate, we are committed to growing strategically and sustainably, and that starts with growing our team of the #BestCoworkers - that’s where you come in!We're looking for people to join our mission to provide world-class digital marketing solutions to mid-size businesses around the world. We are passionate about what we do, we’re committed to driving business growth for our clients, and we’re on the hunt for people just like you, who take pride in their work and want to be part of a company that does too.Why Choose WebFX as the Place to Grow Your Web Development Career?-Join an award-winning Interactive team (multiple awards won in Horizon Interactive Awards, Hermes Creative Awards, Commuter Awards, W3 Awards) that promotes a culture of design and development excellence-Sharpen your development skills through hands-on training, lunch and learns and direct team member coaching and mentorship-Enjoy a high-level of variety in your development work, as our developers regularly work on 250+ projects per year for clients from a wide range of industries!You Might Be a Great Fit For This Position if You Have…A Bachelor’s DegreeSuccessful Fxers in this role have majored in computer science and related fieldsGPA above 3.4 A Few Related Skills and Experiences(This is an entry-level role, and experience in every one of these areas is not required - training is provided on all core platforms, tools, and technologies you will need to know! But the following skills/experience are awesome to have, and will help get your career off to a running start:):Part-time/summer job/internship experience is a mustExperience with web-based programming languages (Javascript, PHP, etc.)Project-level experience with at least one open-source CMS platform (Wordpress, etc)Experience with Google CloudProficiency in a LAMP EnvironmentKnowledge of standard-compliant HTML, CSS, and JavascriptExperience with both OOP and procedural programming methodologiesExperience with CCS Frameworks (Bootstrap, Foundation, Intuit, etc.)Experience with JS Frameworks (JQuery, React, Vue, Backbone, etc.)Experience with Git Version control (or other version control software)Experience with package management and Task Runners (NPM, Yarn, Gulp, Grunt)Experience with browser testing using built-in developer toolsFamiliarity with e-commerce solutions, methodologies, and best practicesPrevious digital agency experienceNote: Our web-based projects use a variety of frameworks selected on a per-project basis. Some of the more popular frameworks our team leverages in projects are WordPress, Bootstrap, and Google Functions. (Training will be provided on all of our core platforms, tools, and technologies!)Any of these Signature FXer Traits!You’re passionate about web/software development - you even find yourself spending your free time tinkering and learning new technologies!You’re comfortable with both object-oriented and procedural programming methodologiesYou’re committed to delivering high-quality projects for clientsYou enjoy variety, and like the challenge of working on multiple projectsYou’re comfortable working both independently and as part of a teamYou take direction well, but aren’t afraid to take initiative and make decisionsYou see yourself as a problem-solver, and face challenges with a can-do mindsetYou put the customer and their goals firstYou have an interest in the web and stay up-to-date on new and developing technologiesYou are a professional, dependable, and independent worker with a solid work ethicYou’re self-motivated, thrive on challenges, and enjoy getting things doneYou have an eye for detail and dedication to high-quality workYou have an exceptional level of follow-throughYou possess excellent time/project management skillsYou work with a sense of urgency and can consistently meet deadlinesYou are an outstanding communicator and possess strong interpersonal skillsYou are a lifelong learner who loves to grow and stretch outside of your comfort zone, and are always looking to improve your skillsIf any of these sound like you, then we want to hear from you! We are committed to growing 1% better everyday, and we believe working at WebFX could quite possibly make your life 1(00)% better - after all, you would be surrounded by the #BestCoworkersinPA!In This Role, You’ll Get To…-Program, implement, test, and support a variety of web-based projects using the LAMP solution stack of software-Program, develop, and produce data-driven web applications and websites using machine learning and the latest technology solutions and software-Consult with clients and other team members to ensure the use of effective internet-based technologies for enterprise business applications-Perform debugging and problem-solving across a wide variety of open-source platformsA Typical ‘Day in the Life’ Might Consist of:10% consulting with other team members and clients40% building new functionality into client website builds, and more50% performing maintenance and debugging 100% pursuing your own personal best while delivering real-world impact for our clientsWhat You’ll Get From Us!Opportunities to Learn and Train With Our Team!-Our “Bootcamp” training program will be provided for new FXers to learn, grow and develop both in and out of the office in the specific hard skills necessary to be successful in their position-World class on-the-job training from the experts (think Sr. Developers, not the HR team) as well as opportunities for ongoing personal learning and development-On-site, state-of-the-art training amenities to facilitate departmental trainings, industry-related updates, and monthly Lunch-and-Learns.A Place to Grow Your CareerWebFX grew 250%+ over the past 3 years, and we promote almost exclusively internally. Merit-based promotional opportunities are abundant for new FXers who meet or exceed position performance metrics.In-Person Experience Alongside Our Team of Industry ExpertsThis position is based fully in-office at our riverside campus in Harrisburg, PA, with opportunities for this to evolve as Fxers advance in their career tenure.Potential promotional path for Jr. Web Developer:Web DeveloperAssociate Web DeveloperAssociate Lead Web DeveloperLead Web DeveloperSr. Web DeveloperCompensation$55,000 -$60,000 (potentially higher based on work experience)Why Choose WebFX?- We've been named the Best Place To Work in Pennsylvania 10 times 🎉- We have offices in Guatemala, South Africa, St. Petersburg FL, Ft. Myers FL, Lancaster, and York, PA! AND we're continuing to grow! 🌱📈- Entry-level roles - over 90% of our openings are open to brand new college grads! 🎓 - Flexible Schedule (start your day between 8 and 10 am - when you do your best work!)- Love animals? Cool, so do we! That's why we have a Pet Friendly Office 🐶- Profit Sharing 💰 - Need that caffeine fix? On-site cappuccino machine, Little Amps Coffee Bar (with a barista!) & Tea Bar ☕- Looking for a little extra workday fuel? Enjoy surprise catered breakfasts, lunches, mid-day snacks, and more!- On-site Yoga sessions- On-site Fitness Center 🏋️‍♀️- 150% Company Match Of Personal Charity Donations- Our #FXBuilds program is set to positively impact 10,000 people around the world by 2024 - and every individual FXer’s work directly contributes! 🌍- Supplemental Insurance- 100% Company Match 401K (up to 4%) 💰 - Generous Paid Time Off 🏖- Employee Wellness Program, including a free FitBit and fitness challenges 👟- Love to learn? You sound like an FXer! FXLearns Library with hundreds of personal and professional growth books with incentive program to boot 📚- Humanitarian Trips ✈️- Health/Vision/Dental Coverage- New Parent Support 👶🏿👶- Dressing up everyday not for you? We get it! Enjoy our Casual Dress Code- Home Buyer Program 🏡- Personal Desk Fund 💰 - Green Commute Benefits- Pawternity Leave 🐱- Merit-based promotions (we promote from within, you will move up and grow here!)-The opportunity to be part of a passionate, driven team where we pride ourselves on delivering high-quality work that makes a real-world impact for our clientsCheck out our culture on social media:InstagramTwitterFacebook*You don't need to apply more than once even if you're interested in multiple positions - you can simply let us know! We consider all open roles when reviewing resumes and applications!We have a multi-step interview process, where we focus on giving both our candidates, and ourselves, opportunities to get to know each other a bit better. While our process may be more thorough and perhaps longer than other interview processes that you've been a part of, our goal is to work together with our candidates to find a mutually beneficial fit, where a candidate is a great addition to the FXFamily, and WebFX is the right fit for their career goals. Interested in joining the FXFamily? You should definitely apply now!WebFX is an Equal Opportunity Employer, committed to providing and fostering an inclusive environment where all people, including women, minorities, LGBTQ+ and other underrepresented groups are supported, respected, and encouraged to excel within STEM careers. Our goal as an organization is to empower our team to achieve their personal best, bring people together, and provide equal opportunity to do so regardless of race, age, gender, sexual orientation, religion, physical ability or disability, or political affiliation. You can learn more on our website here!We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/webfx/bb512c75-e7ad-4a38-948c-dd134eddace6/apply",
       "job_posted_at_datetime_utc": "2025-09-09T17:47:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-lever-co-webfx-bb512c75-e7ad-4a38-948c-dd134eddace6-apply"
+      "id": "jobs-lever-co-webfx-bb512c75-e7ad-4a38-948c-dd134eddace6-apply",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -477,16 +285,18 @@
       "employer_name": "Badger Meter",
       "job_city": "Milwaukee",
       "job_state": "WI",
-      "job_description": "Join Badger Meter in this exciting opportunity.",
+      "job_description": "Badger Meter - Where Every Drop Counts and So Do You At Badger Meter, we're more than a leading global water technology company - we're innovators with a mission: to preserve and protect the world's most precious resource. For over 120 years, our trusted solutions have enabled our customers to optimize the delivery and use of water, maximize revenue and reduce waste. Every employee at Badger Meter is an important part of our success. Here, your work doesn't just move a business forward - it shapes a more sustainable future. We are committed to building a workplace where we celebrate differences, empower voices, and encourage fresh ideas that drive innovation. When you join us, you'll find:Purpose-driven work that makes a real difference in communities around the globe.Career growth and development opportunities designed to help you achieve your potential.A supportive, inclusive culture where collaboration and creativity thrive. Be part of something bigger. At Badger Meter, your contributions will ripple far beyond the workplace - creating lasting change for people and the planet.What You Will Contribute: The Engineer I, Systems Integration is an early career position that supports the development and integration of data-driven solutions. This position assists with creating and validating machine learning models, building data pipelines, and supporting infrastructure development. The Engineer I will help monitor dashboards, troubleshoot issues, and contribute to the design and implementation of predictive systems. The ideal candidate demonstrates a strong willingness to learn, effective problem-solving skills, and the ability to work in a multidisciplinary team. This position operates under the mentorship of senior engineers and offers opportunities to gain hands-on experience with advanced analytics, cloud platforms, and IoT-enabled systems.ESSENTIAL JOB DUTIES:Assist with monitoring dashboards, product support/issue investigations, customer troubleshooting, etc.Assist with ingress and cleaning of data, conduits between data sources and our storage, development of our infrastructureAssist in design and implementation of solutions involving model creation and data pipelinesSupport development, testing, and validation of ML algorithmsCollaborate with software engineers and systems engineers to integrate predictive models into production systemsDevelop tools and scripts for data preprocessing, model evaluation, and system diagnosticsLearn and navigate Badger Meter systems and proceduresGain familiarization with Badger Meter product portfolioParticipate in code reviews, documentation, and continuous integration/continuous deployment (CI/CD) processes.Create technical documentation, including JIRA tickets, integration plans, test procedures, and user guides.QUALIFICATIONS:1-3 years experience requiredBachelor’s Degree in Machine Learning, Data Science, Computer Science, Electrical Engineering, Systems Engineering, or related fieldFoundational knowledge of machine learning concepts, data analysis, and statistical modeling.Proficiency in Python and familiarity with ML libraries such as scikit-learn, TensorFlow, or PyTorch.Experience with version control systems (e.g., Git) and basic software development practices.Strong problem-solving skills and the ability to work collaboratively in a team environment.Experience with data engineering tools (e.g. pandas, polars, SQL) and cloud platforms (e.g. AWS, Azure)Experience with creating, tuning, deploying, and assessing machine learning algorithmsExperience working with time series datasets and techniques, including feature extraction, anomaly detection, forecasting, and pattern recognition in temporal datasets. - preferredFamiliarity with data acquisition and analysis from manufactured products, including IoT-enabled devices, embedded systems, or production line equipment- preferredDemonstrated strong initiative and motivation- preferredDemonstrated ability to effectively solve problems- preferred#LI-Onsite#EL123Competitive Total Rewards at Badger Meter:Competitive PayAnnual Bonus Eligible for Annual Pay Increases Comprehensive Health, Vision, and Dental Coverage 15 days Paid Time Off + 11 Paid Holidays  Two Ways to Save for Retirement: Badger Meter contributes 25 cents for every dollar you contribute to the plan, up to 7% of your eligible compensation.  In addition to the match, the company will also contribute 5% of your eligible compensation to your Defined Contribution account on an annual basis. Additional access to a certified financial planner to help ensure your money is working for you, at no cost!Employer Paid benefits including: Employee Assistance Program (EAP), Basic Group Life Insurance, Short Term Disability, and more Educational Assistance – Tuition Reimbursement up to $5,250 Voluntary benefits including: Additional Life Insurance, Long Term Disability, Accident and Critical Illness coverageHealth Savings Account (HSA) & Flexible Spending Account (FSA) optionsAn Equal Opportunity/Affirmative Action Employer. This company considers candidates regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status. Applicants can learn more about their rights regarding equal opportunity in employment by viewing the federal \"EEO is the Law\" poster and the “EEO is the Law” poster supplement at http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htmBadger Meter complies with all aspects of the Americans with Disabilities Act (ADA), as amended by the ADA Amendments Act, and all applicable state or local disability laws. This means that we will reasonably accommodate qualified employees with a disability if accommodation would allow them to perform the essential functions of their job, unless doing so would create an undue hardship.  Privacy StatementThe Employee and Applicant Privacy Statement describes how we collect, use, share, retain, and safeguard applicant information.  Please see the privacy statement on our website here.",
       "job_apply_link": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Systems-Engineer_4003",
       "job_posted_at_datetime_utc": "2025-09-06T00:39:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "badgermeter-wd5-myworkdayjobs-com-us_careersite-job-milwaukee-wi-systems-engineer_4003"
+      "id": "badgermeter-wd5-myworkdayjobs-com-us_careersite-job-milwaukee-wi-systems-engineer_4003",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -495,16 +305,18 @@
       "employer_name": "ACCO Engineered Systems",
       "job_city": "Boise",
       "job_state": "ID",
-      "job_description": "Join ACCO Engineered Systems in this exciting opportunity.",
+      "job_description": "JOB SUMMARY: The position requires the individual to apply their technical knowledge and experience for the successful database programming and custom graphics development and subsequent installation of this programming into the Building Management System for all assigned projects. Additionally this role supports the startup, commissioning and trouble-shooting of the assigned projects. The position requires a high level of experience in computer skills and the understanding of computer-operated systems, including network types. This role will also require responsibility for documenting all fields as built conditions, as well as, the commissioning process documents. The position is required to closely interact with the Project Manager and any assigned Project Engineering staff to assist with the timely and successful completion of each project. ESSENTIAL FUNCTIONS: - Performs as a lead Systems Software Engineer in the development of lower and mid-level control systems databases & ...",
       "job_apply_link": "https://ekkt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/6338",
       "job_posted_at_datetime_utc": "2025-09-05T23:59:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ekkt-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-jobs-job-6338"
+      "id": "ekkt-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-jobs-job-6338",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -513,16 +325,18 @@
       "employer_name": "University of Texas - Austin",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join University of Texas - Austin in this exciting opportunity.",
+      "job_description": "Job Posting Title:R&D Machine Learning Engineer (Engineering Scientist Associate)\n\nHiring Department:Applied Research Laboratories\n\nPosition Open To:All Applicants\n\nWeekly Scheduled Hours:40\n\nFLSA Status:Exempt\n\nEarliest Start Date:Immediately\n\nPosition Duration:Expected to Continue\n\nLocation:PICKLE RESEARCH CAMPUS\n\nJob Details:PurposeDevelopment of novel machine learning algorithms for application to sonar and underwater acoustics, as well as the accompanying data analysis to effectively characterize their performance in the Advanced Technology Laboratory (ATL).ResponsibilitiesConduct data analysis across a range of acoustic systems, identifying anomalies and opportunities for improvement.Coordinate algorithm delivery to implementation and deployment teams.Identify, research, and develop algorithms to exploit information in various sensor systemsAnalyze and develop models of signal processing outputs to support system understandingPresent results to research communityTravel in support of data collection and system evaluation testing.Other related functions as assigned.Required QualificationsBachelor’s degree in physics, math, computer or information sciences, engineering, related technical areaDemonstrated ability in Python or similar abstract language.Demonstrated knowledge in one or more of the following areas: machine learning, high-performance computing, data pipelining, applied statistics, robotics, Bayesian estimation, SLAMApplicant must have a dynamic skill set, be willing to work with new technologies, be highly organized and capable of planning and coordinating multiple tasks. The position will require attention to detail, effective problem-solving skills and excellent judgment. Ability to work independently with sensitive and confidential information, maintain a professional demeanor, work as a team member without daily supervision and effectively communicate with all groups of clients. Able to work under pressure and accept supervision. Regular and punctual attendance.US Citizen. Applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information at the level appropriate to the project requirements of the position.Preferred QualificationsAdvanced degree in physics, math, computer or information sciences, engineering, operations research, or related technical area.Two or more years of Python or C++ developmentDemonstrated knowledge in any of the following areas: distributed computing, embedded software development, data science, storage and database management, machine learning frameworks, and applied statisticsExperience building and troubleshooting software systemsExperience with scientific literature reviewProven ability to work independently and take initiative.Eligibility for immediate access to classified information.Cumulative GPA of 3.0.General NotesAn agency designated by the federal government handles the investigation as to the requirement for eligibility for access to classified information. Factors considered during this investigation include but are not limited to allegiance to the United States, foreign influence, foreign preference, criminal conduct, security violations, drug involvement, the likelihood of continuation of such conduct, etc.Please mark \"yes\" on the application question that asks if additional materials are required.  Failure to attach all additional materials listed below may result in a delay in application processing.Visit our website (www.arlut.utexas.edu) for additional information about Applied Research Laboratories.UT Austin offers a competitive benefits package that includes:  ·    100% employer-paid basic medical coverage ·    Retirement contributions  ·    Paid vacation and sick time ·    Paid holidays Please visit our Human Resources (HR) website  to learn more about the total benefits offered.Salary Range$88,500-$120,000+/negotiable based on qualifications.Working ConditionsStandard office conditionsRepetitive use of a keyboard at a workstationUse of manual dexteritySome weekend, evening and holiday workPossible interstate/intrastate travelRequired MaterialsResume/CV3 work references with their contact information; at least one reference should be from a supervisorLetter of interestUnofficial college transcriptsImportant for applicants who are NOT current university employees or contingent workers: You will be prompted to submit your resume the first time you apply, then you will be provided an option to upload a new Resume for subsequent applications. Any additional Required Materials (letter of interest, references, etc.) will be uploaded in the Application Questions section; you will be able to multi-select additional files. Before submitting your online job application, ensure that ALL Required Materials have been uploaded.  Once your job application has been submitted, you cannot make changes.Important for Current university employees and contingent workers: As a current university employee or contingent worker, you MUST apply within Workday by searching for Find UT Jobs. If you are a current University employee, log-in to Workday, navigate to your Worker Profile, click the Career link in the left hand navigation menu and then update the sections in your Professional Profile before you apply. This information will be pulled in to your application. The application is one page and you will be prompted to upload your resume. In addition, you must respond to the application questions presented to upload any additional Required Materials (letter of interest, references, etc.) that were noted above.",
       "job_apply_link": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Machine-Learning-Engineer--Engineering-Scientist-Associate-_R_00041479",
       "job_posted_at_datetime_utc": "2025-09-05T22:07:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-r-d-machine-learning-engineer-engineering-scientist-associate-_r_00041479"
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-r-d-machine-learning-engineer-engineering-scientist-associate-_r_00041479",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "Cantina",
       "job_city": "NYC",
       "job_state": "Locations",
-      "job_description": "Join Cantina in this exciting opportunity.",
+      "job_description": "About Spearbit &amp; Cantina: Founded in 2021 by former Ethereum Foundation Solidity engineers, Spearbit tackles Web3 security challenges. Our founding team built the leading blockchain language and secured the largest smart contract, protecting over $160B in value. We're building Cantina , the \"GitHub for Security\", connecting security researchers with projects needing expertise. Our Cantina security platform has powered major competitions and serves the leading projects in Web 3. It currently supports collaborative security reviews, public and private security competitions, bug bounty programs, incident response, and AI code analyzer. The Opportunity: We are seeking a talented Machine Learning Engineer to drive our efforts in leveraging advanced Large Language Models (LLMs) within Cantina Code. You will play a key role in building intelligent features that enhance code security and collaboration on our platform. We are open to a variety of experience levels including recent graduates. What you'll do: Design, prototype, and productionise multi‐agent pipelines (e.g., LangGraph / CrewAI‐style graphs) that collaborate to scan Solidity smart‐contract repositories. Build and fine‐tune bespoke LLMs and smaller custom models for code understanding (AST‐aware transformers, graph‐neural nets, etc.). Encode and maintain agentic knowledge — task memories, tool use policies, and shared world‐models — so agents improve autonomously. Implement concept‐drift &amp; data‐drift monitors that retrain or hot‐swap models when blockchain languages or attacker tactics evolve. Expose capabilities through FastAPI micro‐services and deploy them on AWS. Collaborate with security researchers to turn novel attack patterns into detection heuristics and learning signals. Deploy and manage machine learning models and services on AWS. Collaborate closely with product managers, data scientists, and engineers to integrate AI solutions seamlessly. What we’re looking for: Experience with Python and building ML systems in production. Practical experience fine‐tuning LLMs (LoRA, QLoRA, DPO/RLHF). Familiarity with agentic / autonomous‐AI frameworks (LangGraph) and their evaluation challenges. Solid grounding in software‐2‐software architectures: REST contracts, event‐driven workflows, distributed tracing. Comfort learning/reading Solidity and reasoning about smart‐contract security primitives. Benefits Competitive salary and performance-based compensation opportunities Opportunity to work in an early-stage startup with a talented and passionate team. Exposure to high-profile clients in the blockchain and cryptocurrency industry Comprehensive health, dental and vision benefits. 401k matching program Join Spearbit and help us build the future of code security!",
       "job_apply_link": "https://jobs.ashbyhq.com/spearbit/c2664170-9214-41ab-95cb-a38047b2afa8/application",
       "job_posted_at_datetime_utc": "2025-09-05T05:20:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-spearbit-c2664170-9214-41ab-95cb-a38047b2afa8-application"
+      "id": "jobs-ashbyhq-com-spearbit-c2664170-9214-41ab-95cb-a38047b2afa8-application",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -549,16 +365,18 @@
       "employer_name": "Kitware",
       "job_city": "Clifton Park",
       "job_state": "NY",
-      "job_description": "Join Kitware in this exciting opportunity.",
+      "job_description": "OSTP Software DeveloperClifton Park, New YorkTechnical – Software Solutions /Full Time /On-siteApply for this jobTeam Description:Kitware’s Open Source Software Technology Program (OSTP) seeks to recruit hard-working, talented, and curious new graduates with Computer Science and Computer Engineering bachelor’s degrees to work on exciting open-source projects at Kitware while earning a master’s degree in Computer Science. The OSTP is a three-year program in which members will work on a variety of projects, learn open-source processes, and build technical leadership skills while completing the master’s degree. About the Projects:The program allows bachelor-level graduates to gain valuable real-world expertise in open-source software development and earn a master’s degree while earning a competitive salary. Members of the OSTP will learn to develop innovative open-source software platforms with global impact in the areas of computer vision, scientific computing, data and analytics, medical computing, and software solutions. The OSTP requires both work and study over the three-year program period; program members must work 32 hours per week onsite at our Clifton Park, NY office during college semesters and approximately 40 hours per week on-site during summers. Subject to our tuition reimbursement payback requirements, Kitware will reimburse 100% of educational expenses for the master’s degree (including tuition, books, equipment, fees, and supplies). This position is only available at our Clifton Park, NY location. Employment Visa sponsorship is not offered for this position.In This Position You Will:Gain a deep understanding of what it takes to create and maintain powerful open-source software platformsLearn the technical and business knowledge to become leaders at KitwareBe taught the fundamentals of project leadership skills and learn how to acquire funding to develop open source platformsGain a Master’s degreeRequired Qualifications:Completing a bachelor’s degree in computer science or computer engineering in December 2025. (Spring 2025 and Spring 2026 graduates will be considered.)Demonstrable programming experience from undergraduate projects or internshipsProgramming experience in C++ and PythonStrong communication skillsDue to contractual requirements, this position requires US Citizenship and a willingness and ability to obtain and maintain a security clearanceFull-time on-site work at Kitware’s office in Clifton Park, NYPreferred Qualifications:Existing experience with open source software development is a plus$70,000 - $80,000 a yearCompany Description:Kitware is a research and development software solutions provider with a mission to advance science, make a positive impact, and share our results all within a collaborative, employee-focused work environment that is friendly, fair, and flexible. Our work is improving healthcare outcomes, increasing national security, and advancing our national computing infrastructure. Our customers and collaborators include top universities from around the world, government organizations, national research labs, medical device manufacturers, car manufacturers, financial institutions, and many others. Kitware is proud to be 100% employee-owned, and Great Place to Work-Certified™. Additional Information:Our team members enjoy a small company environment, flexibility in work assignments, and high levels of independence and responsibility. Besides a great work environment, our comprehensive benefits package includes a competitive compensation plan, tuition reimbursement program, flexible working hours, six weeks paid time off, 401(k), health insurance, life insurance, short- and long-term disability insurance, bonus plan, and free coffee, drinks, and snacks. For more information on our benefit offerings please visit: https://www.kitware.com/careers/.Kitware actively subscribes to a policy of equal employment opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, protected veteran status, uniformed service member status, or any other characteristics protected by applicable law. Any unsolicited resume sent to Kitware, including to Kitware's mailing addresses, fax machines or email addresses, whether directly to Kitware employees or to Kitware's applicant tracking system, will be considered Kitware property. Kitware will not pay a fee for any placement resulting from the receipt of an unsolicited resume, and will consider any candidate submitted by a recruitment agency without a fully executed contract with Kitware to have been referred free of any charges or fees.If you need assistance with applying or interviewing for a role due to a disability or special need, please reach out directly to our HR team at hr@kitware.com at any time during the hiring process. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/kitware/18fda1ff-79bc-4da5-a075-79284592d6dc/apply",
       "job_posted_at_datetime_utc": "2025-09-05T04:02:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-lever-co-kitware-18fda1ff-79bc-4da5-a075-79284592d6dc-apply"
+      "id": "jobs-lever-co-kitware-18fda1ff-79bc-4da5-a075-79284592d6dc-apply",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "American Bureau of Shipping",
       "job_city": "Houston",
       "job_state": "TX",
-      "job_description": "Join American Bureau of Shipping in this exciting opportunity.",
+      "job_description": "ABS currently has openings for its full-time Aspire Rotational Digital Engineer Program, which launches July 2026. This program offers recent university graduates the opportunity to accelerate their career growth through a structured framework that combines challenging work rotations with technical and professional training for a period of up to 12 months. The goal of the rotational program is to develop our next generation of ABS professionals.",
       "job_apply_link": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3499",
       "job_posted_at_datetime_utc": "2025-09-05T01:20:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hbbq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-3499"
+      "id": "hbbq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-3499",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:38:01.652Z",
     "postedAt": null
   },
   {
