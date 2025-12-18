@@ -19,6 +19,8 @@
  */
 
 const { Client, GatewayIntentBits } = require('discord.js');
+const ChannelStatsManager = require('./channel-stats');
+const postStats = new ChannelStatsManager();
 
 // Configuration from environment variables
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
@@ -336,6 +338,16 @@ async function cleanup() {
     console.log(`   ${stat.name}: ${stat.remaining} remaining (deleted ${stat.deleted} of ${stat.scanned})`);
   });
   console.log('==================================\n');
+  // Clear and display posting stats (tracks posts since last cleanup)
+  if (!DRY_RUN) {
+    console.log('📊 POST STATS BEFORE RESET:');
+    postStats.logSummary();
+    const statsBeforeClear = postStats.clearStats();
+    console.log(`✅ Cleared posting stats (was: ${statsBeforeClear.totalPosts} posts across ${statsBeforeClear.channelCount} channels)`);
+  } else {
+    console.log('🔍 DRY RUN: Post stats NOT cleared');
+    postStats.logSummary();
+  }
 
   client.destroy();
   process.exit(0);

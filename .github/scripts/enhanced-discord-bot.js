@@ -44,11 +44,13 @@ const { loadPendingQueue, savePendingQueue } = require('./job-fetcher/job-proces
 const RoutingLogger = require('./routing-logger');
 const DiscordPostLogger = require('./discord-post-logger');
 const JobsDataExporter = require('./jobs-data-exporter');
+const ChannelStatsManager = require('./channel-stats');
 
 // Initialize routing logger, posting logger, and jobs exporter
 const routingLogger = new RoutingLogger();
 const postLogger = new DiscordPostLogger();
 const jobsExporter = new JobsDataExporter();
+const channelStats = new ChannelStatsManager();
 
 // Initialize client
 const client = new Client({
@@ -789,6 +791,7 @@ client.once('ready', async () => {
           jobPostedSuccessfully = true;
           primaryThreadId = industryResult.thread?.id || null; // Capture thread ID
           channelFullErrorCount = 0; // Reset counter on success
+          channelStats.recordPost(channelId, channel.name);
 
           // Log successful post
           postLogger.logSuccess(
@@ -824,6 +827,10 @@ client.once('ready', async () => {
 
               // Save logs before exiting
               postLogger.save();
+  
+  // Save and display channel stats
+  channelStats.logSummary();
+  channelStats.save();
               routingLogger.savePlaintext();
 
               client.destroy();
@@ -851,6 +858,7 @@ client.once('ready', async () => {
                 if (locationResult.success) {
                   console.log(`  ✅ Location: ${locationChannel.name}`);
                   jobPostedSuccessfully = true;
+                  channelStats.recordPost(locationChannelId, locationChannel.name);
 
                   // Log successful location post
                   postLogger.logSuccess(
@@ -1045,6 +1053,10 @@ client.once('ready', async () => {
 
   // Save Discord posting logs (always save - critical for debugging)
   postLogger.save();
+  
+  // Save and display channel stats
+  channelStats.logSummary();
+  channelStats.save();
 
   await new Promise(resolve => setTimeout(resolve, 2000)); // Grace period for final operations
   client.destroy();
@@ -1060,15 +1072,15 @@ client.on('interactionCreate', async interaction => {
 
   try {
     switch (commandName) {
-      case 'jobs':
+      case 'jobs': {
         const filters = {
           tags: options.getString('tags'),
           company: options.getString('company'),
           location: options.getString('location')
         };
-        
+
         const filteredJobs = loadAndFilterJobs(filters);
-        
+
         if (filteredJobs.length === 0) {
           await interaction.reply({
             content: '❌ No jobs found matching your criteria. Try different filters!',
@@ -1094,11 +1106,12 @@ client.on('interactionCreate', async interaction => {
 
         await interaction.reply({ embeds: [jobsEmbed], ephemeral: true });
         break;
+      }
 
-      case 'subscribe':
+      case 'subscribe': {
         const subscribeTags = options.getString('tags').split(',').map(t => t.trim());
         const subscribed = [];
-        
+
         for (const tag of subscribeTags) {
           if (subscriptionManager.subscribe(user.id, tag)) {
             subscribed.push(tag);
@@ -1117,10 +1130,11 @@ client.on('interactionCreate', async interaction => {
           });
         }
         break;
+      }
 
-      case 'unsubscribe':
+      case 'unsubscribe': {
         const unsubscribeInput = options.getString('tags');
-        
+
         if (unsubscribeInput.toLowerCase() === 'all') {
           delete subscriptionManager.subscriptions[user.id];
           subscriptionManager.saveSubscriptions();
@@ -1131,7 +1145,7 @@ client.on('interactionCreate', async interaction => {
         } else {
           const unsubscribeTags = unsubscribeInput.split(',').map(t => t.trim());
           const unsubscribed = [];
-          
+
           for (const tag of unsubscribeTags) {
             if (subscriptionManager.unsubscribe(user.id, tag)) {
               unsubscribed.push(tag);
@@ -1151,10 +1165,11 @@ client.on('interactionCreate', async interaction => {
           }
         }
         break;
+      }
 
-      case 'subscriptions':
+      case 'subscriptions': {
         const userSubs = subscriptionManager.getUserSubscriptions(user.id);
-        
+
         if (userSubs.length === 0) {
           await interaction.reply({
             content: '📭 You have no active job alert subscriptions.\nUse `/subscribe tags:Remote,Senior` to get started!',
@@ -1167,6 +1182,7 @@ client.on('interactionCreate', async interaction => {
           });
         }
         break;
+      }
     }
   } catch (error) {
     console.error('Error handling interaction:', error);
@@ -1256,7 +1272,7 @@ async function postJobToForum(job, channel) {
       const threadOptions = {
         name: threadName,
         message: messageData,
-        autoArchiveDuration: 10080, // Archive after 7 days of inactivity
+        autoArchiveDuration: 4320, // Archive after 3 days of inactivity
         reason: `New job posting: ${job.job_title} at ${job.employer_name}`
       };
 

@@ -251,7 +251,7 @@ async function postJobToForum(job, channel) {
         const threadOptions = {
           name: threadName,
           message: messageData,
-          autoArchiveDuration: 10080, // Archive after 7 days of inactivity
+          autoArchiveDuration: 4320, // Archive after 3 days of inactivity
           reason: `New job posting: ${job.job_title} at ${job.employer_name}`
         };
 
