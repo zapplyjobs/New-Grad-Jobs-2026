@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:37:30.544Z",
+  "lastUpdated": "2025-12-18T20:45:32.635Z",
   "jobs": [
     {
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2025-12-12-1",
@@ -5776,14 +5776,124 @@
       "sourceUrl": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
       "discordThreadId": "1451312429119049958",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-silnahealth-com-0f011347-1665-4c7c-b249-1b936fbf3780-application-2025-12-18-1",
+      "jobId": "jobs-ashbyhq-com-silnahealth-com-0f011347-1665-4c7c-b249-1b936fbf3780-application",
+      "company": "Silna Health",
+      "title": "AI Deployment Analyst",
+      "postedToDiscord": "2025-12-18T20:44:54.411Z",
+      "sourceDate": "2025-10-17T08:22:12.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/silnahealth.com/0f011347-1665-4c7c-b249-1b936fbf3780/application",
+      "discordThreadId": "1451314289594990734",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-divergent-jobs-4954950008-2025-12-18-1",
+      "jobId": "job-boards-greenhouse-io-divergent-jobs-4954950008",
+      "company": "Divergent Technologies",
+      "title": "Software Engineer – New Grads: Fall 2025/Spring 2026",
+      "postedToDiscord": "2025-12-18T20:44:57.900Z",
+      "sourceDate": "2025-10-15T21:20:42.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
+      "discordThreadId": "1451314305424163138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-product-security-engineers_jr2025478888-2025-12-18-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-product-security-engineers_jr2025478888",
+      "company": "The Boeing Company",
+      "title": "Product Security Engineers",
+      "postedToDiscord": "2025-12-18T20:45:04.524Z",
+      "sourceDate": "2025-10-17T07:09:28.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Product-Security-Engineers_JR2025478888",
+      "discordThreadId": "1451314332628684841",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-uncountable-f634a632-c93e-4110-8cbf-7fb54b8fe244-apply-2025-12-18-1",
+      "jobId": "jobs-lever-co-uncountable-f634a632-c93e-4110-8cbf-7fb54b8fe244-apply",
+      "company": "Uncountable",
+      "title": "Scientific Data Engineer",
+      "postedToDiscord": "2025-12-18T20:45:08.500Z",
+      "sourceDate": "2025-10-15T00:53:36.000Z",
+      "sourceUrl": "https://jobs.lever.co/uncountable/f634a632-c93e-4110-8cbf-7fb54b8fe244/apply",
+      "discordThreadId": "1451314348067786772",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8211826002-2025-12-18-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8211826002",
+      "company": "SpaceX",
+      "title": "Application Software Engineer",
+      "postedToDiscord": "2025-12-18T20:45:15.225Z",
+      "sourceDate": "2025-10-17T06:30:08.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8211826002",
+      "discordThreadId": "1451314377486631092",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-matx-jobs-4003259008-2025-12-18-1",
+      "jobId": "job-boards-greenhouse-io-matx-jobs-4003259008",
+      "company": "MatX",
+      "title": "Software Engineer - Kernels",
+      "postedToDiscord": "2025-12-18T20:45:18.702Z",
+      "sourceDate": "2025-10-16T07:39:02.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/matx/jobs/4003259008",
+      "discordThreadId": "1451314392682594334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_pt-jr021580-2025-12-18-1",
+      "jobId": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_pt-jr021580",
+      "company": "Morgan Stanley",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2025-12-18T20:45:22.155Z",
+      "sourceDate": "2025-10-16T07:27:02.000Z",
+      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Software-Engineer_PT-JR021580",
+      "discordThreadId": "1451314406838370536",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8211187002-2025-12-18-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8211187002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Hardware Test & Automation - Optical Payloads",
+      "postedToDiscord": "2025-12-18T20:45:25.578Z",
+      "sourceDate": "2025-10-16T04:31:35.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8211187002",
+      "discordThreadId": "1451314421824487485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-applecart-co-careers-2025-12-18-1",
+      "jobId": "www-applecart-co-careers",
+      "company": "Applecart",
+      "title": "Research Specialist",
+      "postedToDiscord": "2025-12-18T20:45:29.119Z",
+      "sourceDate": "2025-10-15T21:17:16.000Z",
+      "sourceUrl": "https://www.applecart.co/careers?gh_jid=7498160003",
+      "discordThreadId": "1451314436634837122",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-uncountable-6f51161f-fe9b-4ddc-8006-7b13b4cf415a-apply-2025-12-18-1",
+      "jobId": "jobs-lever-co-uncountable-6f51161f-fe9b-4ddc-8006-7b13b4cf415a-apply",
+      "company": "Uncountable",
+      "title": "Software Engineer for Chemistry Applications",
+      "postedToDiscord": "2025-12-18T20:45:32.634Z",
+      "sourceDate": "2025-10-15T00:57:43.000Z",
+      "sourceUrl": "https://jobs.lever.co/uncountable/6f51161f-fe9b-4ddc-8006-7b13b4cf415a/apply",
+      "discordThreadId": "1451314451138478203",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 525,
+    "totalJobs": 535,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-18T20:37:30.544Z",
+      "date": "2025-12-18T20:45:32.635Z",
       "archived": 0
     }
   }
