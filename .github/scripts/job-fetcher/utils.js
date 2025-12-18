@@ -48,7 +48,17 @@ function generateEnhancedId(job) {
         .replace(/\s+/g, '-');        // Spaces to dashes
 
     // Support both formats for company name
-    const company = (job.company_name || job.employer_name || '').toLowerCase().trim().replace(/\s+/g, '-');
+    // FIX: Normalize common company name variations to prevent duplicates
+    let company = (job.company_name || job.employer_name || '')
+        .toLowerCase()
+        .trim()
+        .replace(/\s+(inc\.?|incorporated|llc|corp\.?|corporation|ltd\.?|limited)$/i, '')
+        .replace(/\s+solutions?$/i, '')      // "Motorola Solutions" → "Motorola"
+        .replace(/\s+technologies?$/i, '')   // "Zebra Technologies" → "Zebra"
+        .replace(/\s+systems?$/i, '')        // "RTX Systems" → "RTX"
+        .replace(/\s+group$/i, '')           // "Accenture Group" → "Accenture"
+        .replace(/\s*,\s*/g, '-')            // "Company, Inc" → "Company-Inc"
+        .replace(/\s+/g, '-');
 
     // Support both formats for location
     // Primary: locations[] array, Legacy: job_city string
