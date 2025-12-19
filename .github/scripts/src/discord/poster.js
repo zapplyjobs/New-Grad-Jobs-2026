@@ -251,7 +251,7 @@ async function postJobToForum(job, channel) {
         const threadOptions = {
           name: threadName,
           message: messageData,
-          autoArchiveDuration: 4320, // Archive after 3 days of inactivity
+          autoArchiveDuration: 1440, // Archive after 1 day of inactivity (was 4320/3 days - hitting Discord's 1000 active thread limit)
           reason: `New job posting: ${job.job_title} at ${job.employer_name}`
         };
 
