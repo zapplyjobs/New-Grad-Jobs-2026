@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T22:04:47.113Z",
+  "lastUpdated": "2025-12-19T22:23:56.844Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -6777,14 +6777,102 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691669771",
       "discordThreadId": "1451696781216977099",
       "instanceNumber": 1
+    },
+    {
+      "id": "cgg-wd103-myworkdayjobs-com-viridiencareers-job-los-angeles-united-states-of-america-instrumentation-and-monitoring-technician_jr100895-1-2025-12-19-1",
+      "jobId": "cgg-wd103-myworkdayjobs-com-viridiencareers-job-los-angeles-united-states-of-america-instrumentation-and-monitoring-technician_jr100895-1",
+      "company": "Viridien",
+      "title": "Instrumentation and Monitoring Technician",
+      "postedToDiscord": "2025-12-19T22:23:23.848Z",
+      "sourceDate": "2025-08-12T20:41:52.000Z",
+      "sourceUrl": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Los-Angeles-United-States-of-America/Instrumentation-and-Monitoring-Technician_JR100895-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-94660615-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-94660615",
+      "company": "Artech Information System",
+      "title": "Data analyst - Applications L1",
+      "postedToDiscord": "2025-12-19T22:23:30.208Z",
+      "sourceDate": "2025-08-12T16:24:21.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/94660615",
+      "discordThreadId": "1451701491730481296",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-102972473-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-102972473",
+      "company": "Artech Information System",
+      "title": ".Net Developer",
+      "postedToDiscord": "2025-12-19T22:23:33.556Z",
+      "sourceDate": "2025-08-12T15:57:21.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/102972473",
+      "discordThreadId": "1451701505878130890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-prosidianconsulting-743999691968534-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-prosidianconsulting-743999691968534",
+      "company": "Prosidian Consulting",
+      "title": "PPM Data Scientist/Statistician 1",
+      "postedToDiscord": "2025-12-19T22:23:37.277Z",
+      "sourceDate": "2025-08-12T13:58:44.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691968534",
+      "discordThreadId": "1451701519974924400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-83405990-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-83405990",
+      "company": "360 IT Professionals",
+      "title": "Entry Level Business/Data Analyst",
+      "postedToDiscord": "2025-12-19T22:23:40.734Z",
+      "sourceDate": "2025-08-12T12:14:38.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/83405990",
+      "discordThreadId": "1451701535690981586",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-743999655509542-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-743999655509542",
+      "company": "Artech Information System",
+      "title": "Chemical Process Technician",
+      "postedToDiscord": "2025-12-19T22:23:47.117Z",
+      "sourceDate": "2025-08-12T14:38:51.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999655509542",
+      "discordThreadId": "1451701562668748800",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-99304832-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-99304832",
+      "company": "360 IT Professionals",
+      "title": "Programmer Analyst-.Net Programmer - US Citizen",
+      "postedToDiscord": "2025-12-19T22:23:53.526Z",
+      "sourceDate": "2025-08-12T11:37:48.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/99304832",
+      "discordThreadId": "1451701589231403160",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-106636129-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-106636129",
+      "company": "AG Technologies",
+      "title": "Hiring Recent graduated students for full time jobs",
+      "postedToDiscord": "2025-12-19T22:23:56.844Z",
+      "sourceDate": "2025-08-12T10:42:54.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/106636129",
+      "discordThreadId": "1451701603655487509",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 616,
+    "totalJobs": 624,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-19T22:04:47.113Z",
+      "date": "2025-12-19T22:23:56.844Z",
       "archived": 0
     }
   }
