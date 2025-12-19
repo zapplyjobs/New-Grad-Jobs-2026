@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:34:21.406Z",
+  "lastUpdated": "2025-12-19T19:49:33.533Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -5985,14 +5985,47 @@
       "sourceUrl": "https://lifeattiktok.com/search/7542359937256982791",
       "discordThreadId": "1451658923995172924",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-zip-39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9-application-2025-12-19-1",
+      "jobId": "jobs-ashbyhq-com-zip-39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9-application",
+      "company": "Zip",
+      "title": "Software Engineer - Identity",
+      "postedToDiscord": "2025-12-19T19:49:25.893Z",
+      "sourceDate": "2025-08-25T16:56:18.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/zip/39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9/application",
+      "discordThreadId": "1451662717935943731",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-seismology-postdoctoral-fellow_r_00028107-2025-12-19-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-seismology-postdoctoral-fellow_r_00028107",
+      "company": "University of Texas - Austin",
+      "title": "Seismology Postdoctoral Fellow",
+      "postedToDiscord": "2025-12-19T19:49:29.810Z",
+      "sourceDate": "2025-08-25T06:06:52.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
+      "discordThreadId": "1451662732980916224",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-theswiftgroup-jobs-4818894008-2025-12-19-1",
+      "jobId": "job-boards-greenhouse-io-theswiftgroup-jobs-4818894008",
+      "company": "The Swift Group",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-19T19:49:33.533Z",
+      "sourceDate": "2025-08-23T16:17:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4818894008",
+      "discordThreadId": "1451662749074718915",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 544,
+    "totalJobs": 547,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-19T19:34:21.406Z",
+      "date": "2025-12-19T19:49:33.533Z",
       "archived": 0
     }
   }
