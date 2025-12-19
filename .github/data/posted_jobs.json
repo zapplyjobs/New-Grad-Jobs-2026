@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:04:41.108Z",
+  "lastUpdated": "2025-12-19T21:23:15.084Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -6469,14 +6469,124 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999787592371",
       "discordThreadId": "1451681656292245504",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-prosidianconsulting-743999979190284-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-prosidianconsulting-743999979190284",
+      "company": "Prosidian Consulting",
+      "title": "Geospatial Analyst 2",
+      "postedToDiscord": "2025-12-19T21:22:49.320Z",
+      "sourceDate": "2025-08-15T21:06:37.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979190284",
+      "discordThreadId": "1451686220416548925",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-87648199-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-87648199",
+      "company": "AG Technologies",
+      "title": "Java Developer",
+      "postedToDiscord": "2025-12-19T21:22:56.028Z",
+      "sourceDate": "2025-08-14T18:20:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/87648199",
+      "discordThreadId": "1451686247603900538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-92232329-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-92232329",
+      "company": "AG Technologies",
+      "title": "Java Informatica MicroStrategy Training",
+      "postedToDiscord": "2025-12-19T21:23:00.567Z",
+      "sourceDate": "2025-08-14T18:17:16.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/92232329",
+      "discordThreadId": "1451686266558087188",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-99183111-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-99183111",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2025-12-19T21:23:04.281Z",
+      "sourceDate": "2025-08-14T18:15:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/99183111",
+      "discordThreadId": "1451686282030878782",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102986925-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102986925",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2025-12-19T21:23:04.287Z",
+      "sourceDate": "2025-08-14T18:11:52.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102986925",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102632213-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102632213",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2025-12-19T21:23:04.293Z",
+      "sourceDate": "2025-08-14T18:11:51.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102632213",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102766890-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102766890",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2025-12-19T21:23:04.298Z",
+      "sourceDate": "2025-08-14T18:11:46.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102766890",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102987934-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102987934",
+      "company": "AG Technologies",
+      "title": "Software Engineer openings for OPT/GC/EAD",
+      "postedToDiscord": "2025-12-19T21:23:08.113Z",
+      "sourceDate": "2025-08-14T18:10:40.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102987934",
+      "discordThreadId": "1451686297491214408",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-103962489-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-103962489",
+      "company": "AG Technologies",
+      "title": "Training and Placement on Java Informatica Fullstack",
+      "postedToDiscord": "2025-12-19T21:23:11.577Z",
+      "sourceDate": "2025-08-14T18:09:47.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103962489",
+      "discordThreadId": "1451686313756459108",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-105331851-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-105331851",
+      "company": "AG Technologies",
+      "title": "OBIEE Salesforce Training and Placement",
+      "postedToDiscord": "2025-12-19T21:23:15.084Z",
+      "sourceDate": "2025-08-14T18:08:55.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/105331851",
+      "discordThreadId": "1451686328159830191",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 588,
+    "totalJobs": 598,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-19T21:04:41.108Z",
+      "date": "2025-12-19T21:23:15.084Z",
       "archived": 0
     }
   }
