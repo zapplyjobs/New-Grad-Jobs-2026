@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:36:29.548Z",
+  "lastUpdated": "2025-12-19T22:04:47.113Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -6689,14 +6689,102 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/USTechSolutions2/103472117",
       "discordThreadId": "1451689659171209267",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-avanceconsultingservices2-743999658806198-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-avanceconsultingservices2-743999658806198",
+      "company": "Avance Consulting",
+      "title": "Test Analyst - Java - Selenium",
+      "postedToDiscord": "2025-12-19T22:04:19.680Z",
+      "sourceDate": "2025-08-13T00:10:41.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/743999658806198",
+      "discordThreadId": "1451696664862785698",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-88420885-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-88420885",
+      "company": "AG Technologies",
+      "title": "Entry Level Informatica Developer",
+      "postedToDiscord": "2025-12-19T22:04:23.098Z",
+      "sourceDate": "2025-08-13T00:09:03.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/88420885",
+      "discordThreadId": "1451696680297828463",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-101942086-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-101942086",
+      "company": "AG Technologies",
+      "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force",
+      "postedToDiscord": "2025-12-19T22:04:26.635Z",
+      "sourceDate": "2025-08-13T00:08:29.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/101942086",
+      "discordThreadId": "1451696694705127617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999651681448-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999651681448",
+      "company": "360 IT Professionals",
+      "title": "Frontend Developer - Angular",
+      "postedToDiscord": "2025-12-19T22:04:30.319Z",
+      "sourceDate": "2025-08-12T23:00:59.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999651681448",
+      "discordThreadId": "1451696710215798885",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-103963583-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-103963583",
+      "company": "AG Technologies",
+      "title": "Software Engineer - Software Development - Backend",
+      "postedToDiscord": "2025-12-19T22:04:33.795Z",
+      "sourceDate": "2025-08-12T22:38:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103963583",
+      "discordThreadId": "1451696725143322804",
+      "instanceNumber": 1
+    },
+    {
+      "id": "salesforce-wd12-myworkdayjobs-com-en-us-external_career_site-job-california-san-francisco-software-engineering-amts-new-grad-_jr307625-1-2025-12-19-1",
+      "jobId": "salesforce-wd12-myworkdayjobs-com-en-us-external_career_site-job-california-san-francisco-software-engineering-amts-new-grad-_jr307625-1",
+      "company": "Salesforce",
+      "title": "Software Engineering AMTS – New Grad",
+      "postedToDiscord": "2025-12-19T22:04:37.230Z",
+      "sourceDate": "2025-08-12T20:35:02.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
+      "discordThreadId": "1451696739101835507",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-99045004-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-99045004",
+      "company": "Artech Information System",
+      "title": "Java Developer",
+      "postedToDiscord": "2025-12-19T22:04:40.702Z",
+      "sourceDate": "2025-08-12T16:09:29.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99045004",
+      "discordThreadId": "1451696753991614534",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-prosidianconsulting-743999691669771-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-prosidianconsulting-743999691669771",
+      "company": "Prosidian Consulting",
+      "title": "PPM Data Scientist/Statistician 1",
+      "postedToDiscord": "2025-12-19T22:04:47.113Z",
+      "sourceDate": "2025-08-12T21:02:43.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691669771",
+      "discordThreadId": "1451696781216977099",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 608,
+    "totalJobs": 616,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-19T21:36:29.548Z",
+      "date": "2025-12-19T22:04:47.113Z",
       "archived": 0
     }
   }
