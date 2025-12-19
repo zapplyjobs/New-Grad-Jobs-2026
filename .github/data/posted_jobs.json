@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:49:33.533Z",
+  "lastUpdated": "2025-12-19T20:04:19.216Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -6018,14 +6018,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4818894008",
       "discordThreadId": "1451662749074718915",
       "instanceNumber": 1
+    },
+    {
+      "id": "hcal-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-2016-2025-12-19-1",
+      "jobId": "hcal-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-2016",
+      "company": "Subaru",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-19T20:03:57.171Z",
+      "sourceDate": "2025-08-25T14:19:14.000Z",
+      "sourceUrl": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2016",
+      "discordThreadId": "1451666371577647289",
+      "instanceNumber": 1
+    },
+    {
+      "id": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-coral-gables-fl-post-doctoral-associate_r100089997-2025-12-19-1",
+      "jobId": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-coral-gables-fl-post-doctoral-associate_r100089997",
+      "company": "University of Miami",
+      "title": "Postdoctoral Associate",
+      "postedToDiscord": "2025-12-19T20:04:00.683Z",
+      "sourceDate": "2025-08-23T14:53:25.000Z",
+      "sourceUrl": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100089997",
+      "discordThreadId": "1451666386936922296",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-e-_2320007-2025-12-19-1",
+      "jobId": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-e-_2320007",
+      "company": "KLA Corporation",
+      "title": "Software Engineer - E",
+      "postedToDiscord": "2025-12-19T20:04:04.164Z",
+      "sourceDate": "2025-08-23T14:47:49.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer--E-_2320007",
+      "discordThreadId": "1451666401499545711",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate_r132402-2025-12-19-1",
+      "jobId": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate_r132402",
+      "company": "Northeastern",
+      "title": "Postdoctoral Research Associate",
+      "postedToDiscord": "2025-12-19T20:04:07.651Z",
+      "sourceDate": "2025-08-23T14:37:47.000Z",
+      "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132402",
+      "discordThreadId": "1451666416150511676",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow_r_00019055-2-2025-12-19-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow_r_00019055-2",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow",
+      "postedToDiscord": "2025-12-19T20:04:12.782Z",
+      "sourceDate": "2025-08-23T13:34:17.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00019055-2",
+      "discordThreadId": "1451666430763339837",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-postdoctoral-fellow_r_00035834-2025-12-19-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-postdoctoral-fellow_r_00035834",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow",
+      "postedToDiscord": "2025-12-19T20:04:12.790Z",
+      "sourceDate": "2025-08-23T13:34:06.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow_R_00035834",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-theswiftgroup-jobs-4799789008-2025-12-19-1",
+      "jobId": "job-boards-greenhouse-io-theswiftgroup-jobs-4799789008",
+      "company": "The Swift Group",
+      "title": "Principal Engineer",
+      "postedToDiscord": "2025-12-19T20:04:19.216Z",
+      "sourceDate": "2025-08-23T16:17:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4799789008",
+      "discordThreadId": "1451666465164886238",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 547,
+    "totalJobs": 554,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-19T19:49:33.533Z",
+      "date": "2025-12-19T20:04:19.216Z",
       "archived": 0
     }
   }
