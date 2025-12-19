@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "Brellium",
-      "job_city": "NYC",
-      "job_state": "Locations",
-      "job_description": "About Brellium Brellium's mission is a big one – to improve the standard of care across the US healthcare system. We’ve built AI-powered technology that helps healthcare providers deliver safer, higher-quality care - starting with the first real-time medical review platform built to fix clinical and compliance risks before they impact patients. Each year, 1 in 20 people in the U.S. experiences a medical diagnostic or compliance-related mistake. Most providers lack the time, staffing, and tools to mitigate these issues - so they go unnoticed, impacting care quality and increasing clinical and financial risk. Brellium is building the AI-powered platform that helps providers deliver safer, more consistent care by mitigating risk early and aligning patient visits with clinical best practices. Our goal is to give every provider in the U.S. the tools to deliver clinically excellent, data-driven care - at scale. Brellium was founded in 2021. Since then, we’ve grown to serve over 250,000 providers across all 50 states who use Brellium to take better care of their patients and ensure data-driven, compliant care. We’re a Series A company with over $16MM in funding from First Round Capital, Left Lane Capital, and Menlo Ventures. About the Role: We’re looking for a passionate Backend or Fullstack Developer to help build and scale the core systems that power Brellium’s platform. You’ll play a key role in shaping the technology that supports our AI-driven medical review platform and contributes directly to improving patient care across the U.S. What You’ll Do at Brellium Work closely with Product to integrate modern LLMs into real-world applications Design and build systems end-to-end, touching everything from data pipelines to user interfaces Deliver high-quality features quickly through strong execution, collaboration, and adaptability Contribute to a fast-moving, highly collaborative environment where your ideas directly impact how care is delivered You’ll Be Great for This Role If You: Have 0-6 years of experience as a Software Engineer (Bonus if you hold a master’s degree) Are proficient in Python and TypeScript Have strong problem-solving skills and a bias toward action, tackling ambiguous challenges head-on Are proficient with SQL and relational databases, and comfortable owning end-to-end data workflows Are experienced with AWS deployments and have experience with modern LLMs (bonus for React/Next.js) Thrive in fast-paced, high-impact startup environments Communicate effectively and collaborate across teams Are excited to grow with an early-stage company over the next several years, taking on increasing responsibility, helping shape the team, and contributing directly to the company’s success We are committed to offering a comprehensive and competitive total rewards package, including robust health benefits, commuter benefits, and meaningful ownership opportunities through equity. Compensation decisions are made holistically, ensuring fairness and alignment with market benchmarks while recognizing individual contributions and potential. Benefits offered include: 401(k) Retirement Savings Plan Equity Compensation Dinner Provided via DoorDash &amp; stocked kitchen for NY employees Medical, Dental, and Vision coverage HSA / FSA 11 paid holidays each year Unlimited PTO Training and professional development Hybrid Work Schedule (4 days onsite, 3 if located &gt; 1 hour away) What it means to be \"One of Us\" Bias to Action: Brellium teammates do not wait to make reversible decisions or seek unnecessary approval. We quickly decide and move forward. If the decision was incorrect, we quickly reverse it and move forward. Thinks for themselves: Brellium teammates do not take things at face value. We ask \"why\" until base truth is reached. If a better solution is present, Brellium teammates use it, regardless of status quo. Negative Maintenance: The opposite of high maintenance isn’t low maintenance - it’s negative maintenance. Brellium teammates are poised under pressure, self-motivated, self-improving, self-disciplined, self-aware, and non-defensive. Expect Excellence : We hold ourselves to exceptionally high and continuously rising standards. We strive for thoughtfulness in our decision making, and for speed and quality in our execution. We acknowledge trade-offs and communicate proactively. Communicate with Clarity : Brellium teammates communicate concisely, directly, and purposefully. We optimize for ensuring our points are easily understood the first time. We are aware of fraudulent job offers claiming to be from Brellium. All legitimate communication comes from brellium.com , or no-reply@ashbyhq.com , and we will never ask for money or sensitive personal information as part of our hiring process. If there are any questions please direct them to peter@brellium.com",
-      "job_apply_link": "https://jobs.ashbyhq.com/brellium/8209ac68-d966-4d5f-a925-3b277f8583c3/application",
-      "job_posted_at_datetime_utc": "2025-09-04T16:41:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-brellium-8209ac68-d966-4d5f-a925-3b277f8583c3-application",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Graduate Machine Learning Engineer - Multiple Teams",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2025 Start (MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7374536880061384970",
-      "job_posted_at_datetime_utc": "2025-09-04T12:21:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7374536880061384970",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Trainer for Thermodynamics - Freelance - Remote",
-      "employer_name": "Alignerr",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Alignerr.com is a community of subject matter experts from several disciplines who align AI models by creating high-quality data in their field of expertise to build the future of Generative AI. Alignerr is operated by Labelbox. Labelbox is the leading data-centric AI platform for building intelligent applications. Teams looking to capitalize on the latest advances in generative AI and LLMs use the Labelbox platform to inject these systems with the right degree of human supervision and automation. Whether they are building AI products by using LLMs that require human fine-tuning, or applying AI to reduce the time associated with manually-intensive tasks like data labeling or finding business insights, Labelbox enables teams to do so effectively and quickly. Current Labelbox customers are transforming industries within insurance, retail, manufacturing/robotics, healthcare, and beyond. Our platform is used by Fortune 500 enterprises including Walmart, Procter & Gamble, Genentech, and Adobe, as well as hundreds of leading AI teams. We are backed by leading investors including SoftBank, Andreessen Horowitz, B Capital, Gradient Ventures (Google's AI-focused fund), Databricks Ventures, Snowpoint Ventures and Kleiner Perkins.About the Role Shape the future of AI in Thermodynamics.This innovative role as an AI Trainer - Thermodynamics offers a unique opportunity to leverage your subject-matter expertise and develop your AI skills. You will play a pivotal role in training AI models, ensuring the accuracy and relevance of thermodynamics concepts generated by AI. This position allows for flexible scheduling, and your contributions will directly impact the advancement of AI in Thermodynamics. Your Day-to-Day Educate AI: Analyze and provide feedback on AI-generated outputs related to thermodynamics. Your guidance will improve the AI’s accuracy in topics such as heat transfer, entropy, and the laws of thermodynamics. Problem Solving: Use your expertise to provide step-by-step solutions and explanations for problems involving thermodynamic cycles, energy systems, and phase transitions. Your input will help AI learn to reason through thermodynamics challenges effectively. Red Teaming: Identify potential biases, inaccuracies, or limitations in the AI’s understanding of thermodynamics. Design tests that ensure its outputs are robust and applicable to practical applications. You create your own working hours depending on project length. About You Enrolled in or have completed a Bachelor’s degree or higher from an accredited institution. Native-level proficiency in Thermodynamics. Possess a strong writing style with excellent English-language spelling and grammar skills. Have a critical eye and the ability to clearly articulate the strengths and weaknesses of written text. Professional writing experience as a researcher, journalist, technical writer, editor, or similar roles. Interest in AI and machine learning concepts. Alignerr strives to ensure pay parity across the organization and discuss compensation transparently. The expected hourly rate range for United States-based candidates is below. Exact compensation varies based on a variety of factors, including skills and competencies, experience, and geographical location.Pay Range (rate per hour)$15 - $150 USDImportant Information This is a freelance position compensated on an hourly basis. Please note that this is not an internship opportunity. Candidates must be authorized to work in their country of residence, and we do not offer sponsorship for this 1099 contract role. International students on a valid visa may be eligible to apply; however, specific circumstances should be discussed with a tax or immigration advisor. We are unable to provide employment documentation at this time. Compensation rates may vary for non-US locations.",
-      "job_apply_link": "https://job-boards.greenhouse.io/alignerr/jobs/4603841007",
-      "job_posted_at_datetime_utc": "2025-09-02T21:17:13.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-alignerr-jobs-4603841007",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Operations Associate",
-      "employer_name": "Arch",
-      "job_city": "NYC",
-      "job_state": "Locations",
-      "job_description": "Our Company Arch is a Series B financial technology company that automates the management of private investments, improving access, understanding, and the human experience of investing across asset classes. Private investments such as venture capital, hedge funds, and private equity, make up roughly 25% of the investment universe. Traditionally, investors, advisors, banks, families, and managers track hundreds of investments in complicated spreadsheets, file folders, and busy inboxes. Not only is this tedious and time-consuming, but it is rife with opportunity for manual data entry errors, inconsistent reporting, and lost information. Enter, Arch. Arch delivers standardized data, documents, and insights in a single platform, avoiding the need to chase information across dozens or hundreds of ‘portals’. Our purpose is to save investors’ time while empowering them to make more informed investment decisions, leading to better financial outcomes. We are a fast-growing, dynamic team of 120+, serving over 400 clients, including several of America’s largest banks, families, and financial institutions. We’ve over doubled the size of the company every year since inception and we are looking to hire in all departments as we scale. About the Role: We’re looking for a Data Operations Associate to help keep the engine of Arch running smoothly. Private investment data can be complex and messy - your job will be to help clean it up, spot issues before they become problems, and make sure our clients always have the most accurate information at their fingertips. You’ll work across teams, dig into details, and use your curiosity to turn raw data into something reliable and usable. What You’ll Do: Use automated tools to monitor data and flag potential issues. Investigate problems, partner with teammates across Operations and Engineering, and help fix root causes. Review new data sets with a critical eye - spotting discrepancies, reconciling accounts, and making sure everything adds up. Keep records of what you find and how you fix it, so we can continuously improve our systems. Share your findings with the team and highlight opportunities to make our platform even better. Collaborate with onboarding, support, operations, and engineering teams to make sure client data is complete and accurate from the start. What We’re Looking For: Recent Graduate (within 12 months) or Graduating in Winter 2025 or Spring 2026 with a degree in Data Science, Computer Science, Information Systems, Business Analytics, or a related field. Have experience with data analysis through coursework, internships, or projects (bonus if you’ve worked with financial or investment data). Experience using SQL, Python, or data visualization tools. Enjoy solving puzzles, spotting patterns, and catching the details others might miss. Can explain technical findings clearly to teammates who don’t live in data all day. Take pride in finishing what you start and making sure it’s polished and accurate. Want a first job that blends tech, problem-solving, and mentorship. Bring creativity to your work (and know how to have fun while doing it). Bonus points if you: Are familiar with the alternative investment industry and the mechanics of investing in private equity, hedge funds, and private companies. Have a background in private banking, investment management, or a related field. Have taken finance or accounting courses. A Note about us: All of our full-time roles are based onsite at our New York City office , where our team thrives on in-person collaboration and dynamic teamwork. Being onsite daily enables us to build strong connections, collaborate effectively to solve challenges, and foster an engaging environment focused on shipping product and delivering exceptional service to our clients. We encourage applicants currently located in or willing to relocate to the NYC area to join us in this exciting, hands-on workspace. Some perks of working for Arch include: Strong Team - You’ll be backed by a strong team that consistently exceeds client expectations and ships new products quickly. Your work is high impact - Being part of a small team means you have real responsibility and impact from day one. You'll be involved in discussions that drive the growth and direction of our platform from the very beginning. Product Market Fit - We have strong product market fit, exceptionally low churn, and have grown mostly organically through word of mouth. Team community and camaraderie - We have enormous trust in each other and always do what we can do to support one another. We're always ready to step in to help. Great office - we’ve invested in a great space for the Arch team to come together, at 18th and Park in Manhattan (the old Buzzfeed / NYT headquarters). Lunch is on Us - Grab lunch on us while you’re in the office and take a break to laugh, brainstorm, or just hang out with your teammates over a meal.",
-      "job_apply_link": "https://jobs.ashbyhq.com/arch.co/cb6fe21b-eaba-4cb2-9a91-a856e6ada942/application",
-      "job_posted_at_datetime_utc": "2025-09-02T18:49:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-arch-co-cb6fe21b-eaba-4cb2-9a91-a856e6ada942-application",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Solutions.Platforms.Engineered – Entry Level Rotation Program - Spe",
-      "employer_name": "Solar Turbines",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "Career Area:EngineeringJob Description:Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other.  We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.This position is part of our Solutions.Platforms.Engineered. (SPE) Entry Level Rotation Program. The SPE Engineer Rotation Program provides the foundation for the future success of Solar Turbines engineers and the future success of the organization. The purpose of the program is to start the development and training of the next generation of well-rounded and highly competent engineers through an engineering rotation program.Program Goals:Begin building technical foundationProvide challenging assignmentsCreate broad exposure to Solar TurbinesAcquire product knowledgeDevelop enterprise perspectiveBegin network buildingBuild pride and engagementPreparation for a challenging and rewarding engineering careerRotations: Rotation assignments vary for each individual and are decided upon between management and the employee based on the needs of the business. Work assignments can range from assisting in product development, software development, hands-on shop floor experiences, to Systems or Mechanical design.Each program consists of Four (4) Six-month Rotations in departments such as:Systems DevelopmentProduct MaintenanceNew Product IntroductionSoftware DevelopmentHMI DisplayPackage Controls DesignMechanical DesignProduct CertificationHydro-Mechanical DesignInterfacing with critical non-engineering roles to develop an understanding of our product life cycle and how the business runs. Once the rotation program is nearing the end, management works with the engineer to align engineering organizational needs with which department they want to join for their Long-Term Assignment.Minimum qualifications:Minimum of a Bachelor of Science Degree in Engineering.Minimum overall GPA of at least 2.8 on a 4.0 scale.0-3 years of related experience.Previous internship and/or relevant work experience in an engineering field.Must be able and willing to relocate to San Diego, CA.Preferred Qualifications: Ability to work in a cross-functional team environment.High energy level and sense of urgency.Strong verbal and written communication skills.Good business / technical judgment.Ability to handle multiple priorities for a variety of tasks.Ideal for those building foundational skills in this field, generally within the first 0–2 years of their careerCompensation & BenefitsBase salary for this role ranges from $92,500, to $118,000. Actual salary will be based on experience. The total rewards package, beyond base salary includes:Annual incentive bonus plan*Medical, dental and vision coverage starting day 1Paid time off plan (Vacation, Holiday, Volunteer, Etc.)401(k) Savings Plan including company matchHealth savings account (HSA)Flexible spending accounts (FSAs)Short and long-term disability coverageLife InsuranceParental leaveEmployee Assistance ProgramsVoluntary Benefits and Employee DiscountsCareer Development#2026ETPostingThis position requires working onsite five days a week.Relocation is available for this position.Visa Sponsorship is not available for this position. This employer is not currently hiring foreign national applicants that require or will require sponsorship tied to a specific employer, such as, H, L, TN, F, J, E, O. As a global company, Caterpillar offers many job opportunities outside of the U.S which can be found through our employment website at www.caterpillar.com/careers.Posting Dates:September 1, 2025 - December 31, 2025Any offer of employment is conditioned upon the successful completion of a drug screen.   Caterpillar is an Equal Opportunity Employer, Including Veterans and Individuals with Disabilities.  Qualified applicants of any age are encouraged to apply.Not ready to apply? Join our Talent Community.",
-      "job_apply_link": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-SolutionsPlatformsEngineered--SPE--Entry-Level-Rotation-Program_R0000316308",
-      "job_posted_at_datetime_utc": "2025-09-01T14:34:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cat-wd5-myworkdayjobs-com-en-us-solarturbines-job-san-diego-california-xmlname-2026-solutionsplatformsengineered-spe-entry-level-rotation-program_r0000316308",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Environmental Technician/Engineer – Entry Level - Air Quality Focus",
-      "employer_name": "Barr",
-      "job_city": "Hopkins",
-      "job_state": "MN",
-      "job_description": "The role – what you’ll do Barr’s air-quality monitoring and stack testing group is looking for motivated individuals to join its team in tackling challenging projects across the air-quality field. This group provides innovative solutions and meets the air-quality testing needs of Barr’s mining, fuels, power, and manufacturing clients. The person in this role will sample, analyze, monitor, and report emissions of various air sources to support our clients in meeting regulatory permitting and compliance requirements.A successful candidate for this position is looking for a balance between hands-on and desk work and is eager to travel to new places across the United States. The ideal candidate enjoys working outdoors in various weather conditions at various industrial sites and facilities while always maintaining a safety-first mindset. We are looking for someone who is self-motivated and works well in teams. They are also interested in professional development and growing into a project manager role.Your impact – key responsibilities Fieldwork: conducting air-emissions sampling at industrial facilities. Mobilizations are typically multiple days long (usually within a work week) on site with the clients.Reporting: analyzing and conducting quality assurance procedures on the collected data from field sessions and assisting with report preparation for submittal to clients and regulatory authorities.Equipment: maintaining the team’s equipment at the shop and in the field. This commonly consists of cleaning glassware, minor mechanical/electrical repairs, and calibrating devices used for sampling.Project preparation: gathering the necessary gear, prepping equipment, and making arrangements for the team to complete fieldwork.Client relations: communicating and working with clients to fulfill their needs while on site and remotely.About the opportunityCompensation: anticipated range of $24–28 per hour. Compensation will vary based on relevant experience, education, skill level, and other compensable factors. Employees in this position may also be eligible for a discretionary cash bonus based on team and individual performance. This position is classified as nonexempt (hourly) under the Fair Labor Standards Act and will receive overtime at 1.5 times the hourly rate after 40 hours each week.Hybrid: a hybrid work arrangement may be considered for this position. A hybrid work arrangement refers to splitting time worked between a Barr office and a home office. This position is based out of Barr's Edina or Hibbing, Minnesota, offices.Travel expectation: 40–60% of your time. Travel may vary based on project, client, seasonal, and office location needsWork environment: applicants must be able to work in locations that feature rough terrain typical of industrial and construction sites, enter and work in facilities that include limited accessibility, climb several ladders or flights of stairs consecutively, and work in locations with moving machinery and other conditions typical of industrial facilities. Job assignments may involve work on waste disposal and/or hazardous material sites. An OSHA-mandated physical exam or other health monitoring may be required; safety training and all medical surveillance required will be provided as needed.About you – required core competencies Education: bachelor’s degree in a science- or engineering-related field or equivalent combination of education and experience.Experience: Fieldwork and/or laboratory experience through internships, relevant coursework, or other related roles.Laboratory/chemistry experience or relevant coursework.Experience with Microsoft Office and Excel.Mechanical aptitude, whether personal or professional (e.g., calibrating lab equipment, use of standard hand tools, fixing or maintaining equipment).Strong written and interpersonal communication skills.Travel: availability and willingness to regularly travel up to 60 percent of the time, with the potential for greater levels of periodic travel to meet client needs.Ability to lift and carry equipment weighing up to 70 pounds.Ability to work at heights (approximately 100 feet or more above grade).Driver’s license: possession of a current, valid driver’s license and acceptable driving record.Must be legally authorized to work in the United States without the need for sponsorship by Barr, now or in the future.Helpful additional experience (not required)Working knowledge of emissions sampling test methods.Experience with air-emission sampling equipment and conducting stack tests.Experience evaluating environmental data and preparing reports.#LI-HybridBenefits - what we offerWe are committed to providing an employee experience that attracts and retains top talent. That's why we offer a competitive package of employee benefits - including some unique offerings not found at other companies. At Barr, we also believe that learning doesn't stop when you get your degree, which is why we provide coaching, mentoring, and support for ongoing educational opportunities to foster professional development at every stage of your career.Competitive, affordable insurance plans: Medical, dental, vision, life, disability, accidental death insurance, and flexible spending accounts for medical and dependent careRetirement benefits: 401(k) retirement savings plan with company contribution and an Employee Stock Ownership Plan (ESOP) with company contribution in Barr stockProfit distribution: Barr has a \"no retained earnings\" model and distributes all profit to our employees through our annual bonus distribution plan, ESOP, and dividends to shareholdersProfessional development benefits: Annual time and expense allowances, mentorship program, and many internal training opportunitiesWork/life balance: Paid time off, holidays, overtime for non-exempt/hourly staff, and compensatory time for exempt/salaried staff (time off or pay for extra time worked), paid family leaveWellness focus: Ergonomic analysis and equipment, Personal Protective Equipment allowance, wellbeing-focused educational opportunitiesPlease note that benefits eligibility is determined and may change based on part-time, reduced-time, or full-time status.About us - why choose BarrAt Barr, you'll join a community of engineers, scientists, and professionals who will help you achieve your ambitions and build a meaningful, rewarding career. You'll serve as a trusted advisor to clients who value Barr's tailored solutions and commitment to exceptional service.As part of our employee-owned firm, you'll contribute to a culture of commitment and camaraderie where staff can thrive as professionals. We value diverse perspectives and experiences and believe an inclusive workplace is critical to our success.To learn more about Barr's culture and values, visit: https://www.barr.com/Careers/Our-cultureOpen positions at Barr Engineering Co. do not have application deadlines. Barr Engineering Co. is an equal opportunity employer, and all applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.",
-      "job_apply_link": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Environmental-Technician-Engineer---Entry-Level---Air-Quality-Focus--Hybrid-_R-101828",
-      "job_posted_at_datetime_utc": "2025-08-29T22:18:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "barr-wd1-myworkdayjobs-com-barrcareers-job-edina-mn-environmental-technician-engineer-entry-level-air-quality-focus-hybrid-_r-101828",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Graduate - Advertisement Team - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Data Science Graduate (Advertisement Team) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7543114224130689287",
-      "job_posted_at_datetime_utc": "2025-08-29T00:15:57.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7543114224130689287",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Implementation Analyst",
-      "employer_name": "Alfa Financial Software ",
-      "job_city": "Ferndale",
-      "job_state": "MI",
-      "job_description": "We are looking for new applicants to join our Graduate Program as an Implementation Analyst! This position is set to start in July of 2026.Our analysts are recruited from variety of universities and come from all major backgrounds. Following an in depth induction training program delivered by our subject matter experts, you will be assigned to a project where you can put your training into practice.You will usually start out by working on a client project or internal investment team, and your first role will involve implementing or improving our software implementation for our clients. Supervised by more experienced consultants, you will find that the open culture means you also have easy access to senior managers and directors for discussion and guidance. With this support readily available, you can help our clients change the way they work from the very start of your career.During a project we also need to modify business processes to ensure the client is working as effectively as possible, test that everything works, transfer all the data from the old system to Alfa Systems, and provide support through the go-live process and into the future. During your career, you will spend time working in a variety of roles in these areas. As you progress, you will develop particular abilities and interests and you can choose your training to support that. You might want to work towards being a Project Manager for instance, or a Technical Architect of our software; that’s up to you.Key responsibilities may include:Assist with and develop skills in one or more areas of software implementation, such as:Undertaking testing and quality assurance of Alfa SystemsIssue investigation and recreation, raising issues with the Product Engineering Team / on project with sufficient detail so they can be progressedEscalate high priority issuesInstalling and configuring Alfa SystemsEnvironment management and product releasesData migration development and executionSimple business requirements and gap analysisSharing information and documenting knowledgeLearn about Alfa Systems and how our products are used by our customersBuild relevant technical skills such as SQL/Java and processes such as debuggingUndertake requirements gathering and development of new features in Alfa SystemsContinuous development of people, teamwork and communication skills including developing relationships with the customer project teamWhat we’ll do for you: 33 days’ annual leave (incl. 9 public holidays/cultural days) and the possibility to buy up to 10 more days a year Flexible work  - hybrid or remote work with modern workspaces availableHealth, Dental and Vision insurance with reimbursement of copays/coinsurance/deductibles for in-network medical costsFully paid-for life, disability and travel insurances Gym and Wellness Scheme through Gympass with access to a range of studios, gyms and wellbeing apps401k plan - matching at 100% of the first 6% contributed (immediately vested)Employee Assistance Program (EAP) with 24/7 crisis support 3 paid volunteering days as well as 5 paid learning and development daysFun social events throughout the year and annual Company Conferences  About Alfa With over 500 employees worldwide, we’re a leading provider of software and services to the global auto and equipment finance industries. Alfa Systems, our technology platform, is at the heart of some of the world’s largest auto and equipment finance companies. Key to the business case for each implementation is Alfa Systems’ ability to consolidate multiple client systems onto a single platform. Alfa Systems supports both retail and corporate business for auto, equipment, wholesale and dealer finance on a multi-jurisdictional basis, including leases and loans, originations and servicing. Alfa Systems is an end-to-end solution with integrated workflow and automated processing using configurable business rules, with an extensive API allowing real-time integration to other systems. With over 30 current clients and 26 countries served, Alfa has been delivering successful projects for our customers since 1990, and is expanding rapidly throughout Europe, North America and beyond.Our CultureOur culture is vibrant, innovative and diverse, and we are proud of it. Ours is a close-knit community. Alfa employees are an eclectic mix and all are creative, dedicated and hardworking. We believe it is important to build close working relationships within our company, so we hold numerous team events and conferences that bring us together for socializing and team building. We all enjoy the work-life balance and the great culture, with plenty of social activities organized by the company.For more information on our graduate program, check out our graduate page.Alfa Financial Software Inc. provides equal employment opportunities to allemployees and applicants for employment and prohibits discrimination andharassment of any type without regard to race, color, religion, age, sex,national origin, disability status, genetics, protected veteran status, sexualorientation, gender identity or expression, or any other characteristic protectedby federal, state or local laws.",
-      "job_apply_link": "https://alfa.wd3.myworkdayjobs.com/alfa/job/US-MI-Royal-Oak/Implementation-Analyst---Grad-Program-2026_R170",
-      "job_posted_at_datetime_utc": "2025-08-28T23:36:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "alfa-wd3-myworkdayjobs-com-alfa-job-us-mi-royal-oak-implementation-analyst-grad-program-2026_r170",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Applications Development Engineer - Bbp",
-      "employer_name": "KLA Corporation",
-      "job_city": "Milpitas",
-      "job_state": "CA",
-      "job_description": "Company OverviewKLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.Group/DivisionWith over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The Broadband Plasma Division (BBP) provides market-leading patterned wafer optical inspection systems for leading-edge IC manufacturing. Logic, foundry, and memory customers depend on BBP products to detect yield-critical defects for process debug and excursion monitoring at advanced process nodes. BBP flagship products include the 29xx and 39xx series which leverage Broadband Plasma technology to capture a wide range of defects with ultimate sensitivity at the optical inspection speeds needed for inline defect monitoring.Job Description/Preferred QualificationsResponsibilitiesThe Applications Development Engineer will be responsible for developing and implementing product applications for existing and pre-release products to provide maximum value to the customers.The candidate is expected to support the following:Focus on projects related to new product introduction such as characterization, alpha testing, beta testing and pilot tools in the ramp phase.Potentially support the development of a system at the customer site.Perform product diagnosis, problem resolution, interface with software and systems engineering to verify that hardware and software problems have been resolved.Conduct customer product demonstrations and technical training including on-site training of Field Applications Engineers and end users.Document all test results and lessons learned in BKMs (Best Known Methods), training documents, Demo reports, or, Alpha/Beta test reports and transfer product knowledge to Field Applications teams.Generate demo and test reports for internal and customer review.RequirementsWe are looking for high energy, self-driven and motivated engineers who are interested in working in High Tech. The semiconductor space is a fast paced, high stress environment that gives applications engineers a lot of autonomy to work and drive projects on their own. Ideal candidates appreciate the opportunity to have high levels of accountability, working well with limited supervision and thrive in a work environment where they can drive projects on their own.Candidate must have master’s or bachelor's degree in Engineering, Physics, Material Science, or related fields. Must have excellent oral and written communication, organizational, analytical, and interpersonal skills. Candidate must be a strong team player. 70% travel will be requiredMinimum QualificationsMaster's Level Degree and 0 years related work experience; Bachelor's Level Degree and related work experience of 0-1 yearsBase Pay Range: $94,800.00 - $161,200.00 AnnuallyPrimary Location: USA-CA-Milpitas-KLAKLA’s total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave.Interns are eligible for some of the benefits listed. Our pay ranges are determined by role, level, and location. The range displayed reflects the pay for this position in the primary location identified in this posting. Actual pay depends on several factors, including state minimum pay wage rates, location, job-related skills, experience, and relevant education level or training. We are committed to complying with all applicable federal and state minimum wage requirements where applicable. If applicable, your recruiter can share more about the specific pay range for your preferred location during the hiring process.               KLA is proud to be an Equal Opportunity Employer. We will ensure that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us at talent.acquisition@kla.com or at +1-408-352-2808 to request accommodation.Be aware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as KLA employees.  KLA never asks for any financial compensation to be considered for an interview, to become an employee, or for equipment. Further, KLA does not work with any recruiters or third parties who charge such fees either directly or on behalf of KLA. Please ensure that you have searched KLA’s Careers website for legitimate job postings.  KLA follows a recruiting process that involves multiple interviews in person or on video conferencing with our hiring managers.  If you are concerned that a communication, an interview, an offer of employment, or that an employee is not legitimate, please send an email to talent.acquisition@kla.com to confirm the person you are communicating with is an employee. We take your privacy very seriously and confidentially handle your information.",
-      "job_apply_link": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2531350",
-      "job_posted_at_datetime_utc": "2025-08-28T23:12:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-applications-development-engineer-bbp_2531350",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
-      "job_title": "Predoctoral Scholar",
-      "employer_name": "University of Chicago",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "DepartmentHarris School Pre-Docs, Temps and Non-Student Research AssistantsAbout the DepartmentWhy Policy? For a better world. Why Harris Public Policy? Because when it comes to better policymaking, evidence matters. We work at the frontiers of data collection and analysis, using the latest technology and social science methods to design policies that work for society. We conduct rigorous inquiry in an environment of innovation and risk taking. We collaborate across the private, public, and nonprofit sectors, adopting new methodologies to drive better solutions. We engage with our city, our world, and our leaders every day to evaluate and test our ideas. And we lead with our passion for driving social change, knowing that passion alone does not equal impact.Job SummaryProfessor Anjali Adukia seeks a full-time Predoctoral Scholar with strong econometric skills to work on large-scale social policy research projects designed to improve educational outcomes. The analyst will work on a portfolio of projects related to education and restorative justice in schools. The successful candidate will have experience in applying a variety of statistical modeling and data analysis techniques to datasets in real-world settings. From project inception to completion, the research assistant will contribute to all facets of data collection and cleaning, model development, and implementation.ResponsibilitiesBuilds statistical models for a variety of research projects.Implements empirical econometric strategies and analytical approaches to solving specific research questions.Conducts literature reviews. Assists with preparation of reports, manuscripts, presentations, and other documents.Works in collaboration with members of the research team and policy partners.Maintains technical and administrative support for research projects.Analyzes and maintains data and/or specimens. Conducts literature reviews. Assists with preparation of reports, manuscripts and other documents.Performs other related work as needed.Minimum QualificationsEducation:Minimum requirements include a college or university degree in related field.Work Experience:Minimum requirements include knowledge and skills developed through < 2 years of work experience in a related job discipline.Certifications:---Preferred QualificationsExperience:Demonstrated experience working with statistical programming languages (e.g., R and/or Stata).Technical Skills or Knowledge:Experience in data analysis.Strong quantitative skills.Ability to manage multiple projects simultaneously and meet tight deadlines.Preferred CompetenciesPrior research assistantship(s) in economics, public policy, or related quantitative social science fields.Advanced training in econometrics, including causal inference methods.Experience implementing quasi-experimental research designs (e.g., difference-in-differences, propensity score matching, regression discontinuity).Excellent organizational skills and attention to detail.Ability to work both independently and as a team member.Ability to work carefully with sensitive and confidential data.Ability to work with large, complex, and/or administrative datasets.Working ConditionsPredoctoral Fellow will be based out of Chicago, IL.Application DocumentsResume (required)Reference Contact Information (2) (required)Unofficial Transcript (required)Cover Letter (required) - Breifly address the folowing questions:What relevant coursework or training have you completed in econometrics or quantitative methods?  Which statistical programming languages are you proficient in (e.g., R, Stata, Python), and how have you used them in past re search or work?  Briefly describe a past research experience (e.g., research assistant ship, academic project, or internship) where you worked with data. What role did you play?  What interests you about this position, in particular?  Have you worked with large-scale, complex, or administrative datasets? If so, please describe briefly.When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application.Job FamilyResearchRole ImpactIndividual ContributorScheduled Weekly Hours37.5Drug Test RequiredNoHealth Screen RequiredNoMotor Vehicle Record Inquiry RequiredNoPay Rate TypeSalary​FLSA StatusExempt​Pay Range$50,000.00The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting.Benefits EligibleYesThe University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the Benefits Guidebook.Posting StatementThe University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination. Job seekers in need of a reasonable accommodation to complete the application process should call 773-702-5800 or submit a request via Applicant Inquiry Form. All offers of employment are contingent upon a background check that includes a review of conviction history.  A conviction does not automatically preclude University employment.  Rather, the University considers conviction information on a case-by-case basis and assesses the nature of the offense, the circumstances surrounding it, the proximity in time of the conviction, and its relevance to the position. The University of Chicago's Annual Security & Fire Safety Report (Report) provides information about University offices and programs that provide safety support, crime and fire statistics, emergency response and communications plans, and other policies and information. The Report can be accessed online at: http://securityreport.uchicago.edu. Paper copies of the Report are available, upon request, from the University of Chicago Police Department, 850 E. 61st Street, Chicago, IL 60637.",
-      "job_apply_link": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Predoctoral-Scholar_JR31330",
-      "job_posted_at_datetime_utc": "2025-08-28T17:40:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-predoctoral-scholar_jr31330",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-18T22:49:49.441Z",
-    "postedAt": "2025-12-18T23:05:13.367Z"
-  },
-  {
-    "job": {
       "job_title": "Research Scientist Graduate - TikTok Recommendation-Agentic AI - 2026 Start",
       "employer_name": "TikTok",
       "job_city": "San Jose",
@@ -405,16 +205,18 @@
       "employer_name": "Deutsche Bank",
       "job_city": "Morrisville",
       "job_state": "NC",
-      "job_description": "Join Deutsche Bank in this exciting opportunity.",
+      "job_description": "Select a languageEnglish (English) Deutsch (German)Your language preference will be saved in your profile.Deutsche Bank Graduate Programme - Technology, Data and Innovation (TDI) – Cary 2026.submit, .submit:hover { background-color: #; color: #; }Country:United StatesCity:CaryJob Description:Graduate ProgramDivision:Technology, Data & InnovationLocation:CaryAbout the program:The Deutsche Bank Graduate Program is a year-long comprehensive program designed to provide you with exposure to a range of fascinating projects and ongoing professional and technical training to develop the skills you need to grow your career. You’ll feel supported by a network of peers and mentors and benefit from our global wellbeing program. About the division:Technology underpins Deutsche Bank’s entire business and is changing and shaping the way we engage, interact and transact with our stakeholders, internally and externally.Our Technology, Data and Innovation (TDI) strategy is strengthening our engineering expertise, introducing an agile delivery model, and is modernising the bank's IT infrastructure with long-term investments and taking advantage of cloud computing.We are building a team of visionary technology talent that will ensure that we thrive in this period of unprecedented change for the industry. That means hiring the right people and giving them the training, freedom and opportunity they need to do pioneering work. About the role:Our technology teams deliver and manage engineering solutions to support the bank’s global customers. You will develop and deliver solutions to help modernise technology solutions, to reduce complexity and risk, and to drive business growth. You will be part of a creative, collaborative and innovative team, partnering with others, sharing solutions and you will have a strong desire to make an impact.We offer a structured entry-level rotational program that will equip you with the foundational knowledge and skills necessary to build a long-term career as a technology professional at Deutsche Bank.Depending on your rotation you will gain expertise in: hands on coding in languages that could include Java, Python, and others designing & delivering engineering solutions for our businesses and customers providing production engineering services to ensure the safety and reliability of our technology analysing business data within DB to inform plans and deliveries enhancing our infrastructure capabilities and functions using standard design patterns for strategic DB frameworks like Fabric, Autobahn, GLUE. What we look for:We recruit students and graduates who are intelligent and adaptable with excellent communication skills. To be considered for this role, students must possess or be on track to graduate with a Bachelor/Master of Science Degree in Computer Science, Engineering, Mathematics, or a related field. Our comprehensive training programs will give you all the technical knowledge you’ll need to build a career with us.To be eligible for the 2026 Graduate Program you must: Complete your studies (all final exams, coursework and have no outstanding requirements for graduation) between 1st January 2025 and 31st July 2026. Be able to start full time work in July 2026, subject to local working legislation. Possess no more than 12 months full-time, relevant work experience. At this time, Deutsche Bank will only consider applicants who are presently authorized to work for any employer in the United States and who will not require work visa sponsorship from Deutsche Bank, now or in the future, to retain their authorization to work in the United States. Benefits and wellbeing:Feeling healthy, engaged and well-supported, enables us to do our best work and get the most out of life outside of the office. That’s why Deutsche Bank is committed to providing benefits and programs centred around wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.com) About us and our teams:Our values define the working environment we strive to create – where our people have a sense of belonging and everyone feels welcomed, respected and can contribute and grow. We know that high-performing teams have different skills, backgrounds, and experiences. We collaborate, encourage and enable open dialogue and diversity of views. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.Visit Inside Deutsche Bank to discover more about the culture of Deutsche Bank including Diversity, Equity & Inclusion, Leadership, Learning, Future of Work and more besides.Deutsche Bank is an Equal Opportunity Employer - Veterans/Disabled and other protected categories. Click these links to view the \"EEO is the Law\" poster and \"pay transparency statement.\" How to apply:You'll find a wealth of helpful tools and information on our Employability Hub that will support you with your application, prepare for the assessment processes and adapt to a new working environment.Please visit www.careers.db.com/students-graduates to apply. A notice on Recruitment ScamsPlease note that candidates are not required to pay money as part of the recruitment or job placement process. Do not divulge personal information if you are unsure of the authenticity of a communication from someone who claims to be representing Deutsche Bank. A notice on such scams and practices has been hosted on our website on the link below:https://careers.db.com/professionals/a-notice-on-recruitment-scamsThe annualized salary for this position is $85,000. Posted Salary ranges do not include incentive compensation or any other type of renumeration.#LI-EC1Apply",
       "job_apply_link": "https://db.recsolu.com/external/requisitions/yTO21RZ2om6tSRrGVTE2jg",
       "job_posted_at_datetime_utc": "2025-08-26T22:57:49.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "db-recsolu-com-external-requisitions-yto21rz2om6tsrrgvte2jg"
+      "id": "db-recsolu-com-external-requisitions-yto21rz2om6tsrrgvte2jg",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "Google",
       "job_city": "Madison",
       "job_state": "WI",
-      "job_description": "Join Google in this exciting opportunity.",
+      "job_description": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Startshare linkCopy linkemailEmail a friendcorporate_fareGoogleplaceSunnyvale, CA, USA; Atlanta, GA, USA; +11 more; +10 morebar_chartMidMidExperience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.Applyshare linkCopy linkemailEmail a friendinfo_outlineXApplicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; Mountain View, CA, USA; New York, NY, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA.Minimum qualifications: PhD degree in Computer Science, or a related field, or equivalent practical experience. Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization. Preferred qualifications: Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems. Experience in designing and implementing a complex system, for production or experimental use. Experience with performance, reliability, systems data analysis, visualization tools, or debugging. Ability to start full-time role in 2026. Excellent engineering skills. About the jobGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a PhD graduate, your research expertise is invaluable to us. Explore a variety of projects, collaborate with various teams, and contribute to products that are changing the world, across many product areas, including AI & Infrastructure, Cloud, and more! Our Engineering teams include thousands of PhDs who bring their deep knowledge and research experience to enhance our systems and products. As a Google PhD Software Engineer, you will work on critical projects, with many opportunities to learn and follow your interests. We expect our engineers to be creative and versatile, leading and identifying new problems to push the field and Google technology forward. Google is one of the world’s leading suppliers and consumers of ML and AI technology, with decades of experience in designing, deploying, and using ML software and custom ML hardware infrastructure at massive scale.The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google. Responsibilities Participate in or lead team projects to carry out design, analysis, and development of advanced systems across the stack, using your research expertise. Write documents that set new technical directions. Contribute to existing documentation or educational content, and adapt content based on product/program updates and user feedback. Study, diagnose and resolve complex technical issues by analyzing the sources of the issues and the impact on software, hardware, network, or service operations and quality. Develop code, review code developed by other developers, and provide feedback to ensure best practices (e.g., style guidelines, accuracy, testability, and efficiency). Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's Applicant and Candidate Privacy Policy.Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy, Know your rights: workplace discrimination is illegal, Belonging at Google, and How we hire.If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes.",
       "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670",
       "job_posted_at_datetime_utc": "2025-08-26T22:48:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "www-google-com-about-careers-applications-jobs-results-88714689822761670"
+      "id": "www-google-com-about-careers-applications-jobs-results-88714689822761670",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -441,16 +245,18 @@
       "employer_name": "University of Texas - Austin",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join University of Texas - Austin in this exciting opportunity.",
+      "job_description": "Job Posting Title:Postdoctoral Scholar, Department of Petroleum and Geosystems Engineering, Cockrell School of Engineering\n\nHiring Department:Hildebrand Department of Petroleum and Geosystems Engineering\n\nPosition Open To:All Applicants\n\nWeekly Scheduled Hours:40\n\nFLSA Status:Exempt\n\nEarliest Start Date:Immediately\n\nPosition Duration:Expected to Continue Until Feb 02, 2023\n\nLocation:UT MAIN CAMPUS\n\nJob Details:As a top-10 engineering school with the No. 1 program in Texas, the Cockrell School of Engineering at The University of Texas at Austin has been a global leader in technology innovation and engineering education for over a century. With 11 undergraduate and 13 graduate programs, over 20 research centers and a faculty community that boasts one of the highest number of National Academy of Engineering members among U.S. universities, Texas Engineering has launched some of the nation’s most accomplished leaders and pioneered world-changing solutions in virtually every industry, from space exploration to energy to health care. Situated in the heart of Austin — named “America’s Coolest City” by Expedia and “The Best Place to Live in the U.S.” by U.S. News and World Report — the Cockrell School embodies the city’s innovative spirit. Major companies with Austin campuses, such as Dell, National Instruments, Apple, IBM, Samsung, Google, and many others, continue to recruit Cockrell School students at a remarkable rate, launching thousands of successful careers and developing Texas Engineers into industry leaders.A Postdoctoral Scholar position is available in Professor Arvind Ravikumar’s Sustainable Energy Transition lab (SET Lab) in the Department of Petroleum and Geosystems Engineering at UT Austin. This position will focus on developing open-source sustainability data analytics tools related to reducing greenhouse gas emissions across the liquefied natural gas (LNG) supply chain. Specific research topics can include (a) developing integrated lifecycle assessment and techno-economic modeling tools to assess emissions mitigation policies, (b) developing analytical tools to aggregate and interpret methane emissions data from networked sensor deployment, (c) developing models to estimate quasi real-time methane emissions from oil and gas operations. More information about the SET lab can be found here: www.arvindravikumar.comGeneral NotesThis is a temporary training position that may be renewed annually, for a maximum of five years, based upon performance review, progress towards research goals, and continuation of funding. ResponsibilitiesDesigns, implements, and tests models to assess greenhouse gas emissions across the LNG supply chain. Model requirements will be mutually decided based on project needs and interests of the candidate and can include one of the following: (a) developing integrated lifecycle assessment and techno-economic modeling tools to assess emissions mitigation policies, (b) developing analytical tools to aggregate and interpret methane emissions data from networked sensor deployment, (c) developing models to estimate quasi real-time methane emissions from oil and gas operationsWorks with collaborators to validate models, develop user-friendly online interfaces, conduct workshops for various stakeholders in industry, finance, and government on the use of the modelsCommunicates model insights to a variety of audiences of academia, industry, and government through peer-reviewed publications, presentations, policy memos, and other forms of stakeholder engagementPerforms other related duties as assignedRequired QualificationsPh.D. in Engineering received within the past 3 years or expect to receive the degree by Spring 2022 (Systems, Petroleum, Environmental, Mechanical, Electrical, Chemical).  Demonstrated experience in statistical modeling, data analysis, and scientific programming languages (Python, Matlab, or R).  Experience or familiarity with one of the following: life cycle assessment of energy systems, atmospheric dispersion modeling of greenhouse gas emissions, methane emissions from oil and gas operations.  Strong interest in translating engineering research into policy-relevant insights.  Ability to work well with cross-functional, and varied teams.  Ability to manage and lead external engagement and collaboration on projects. Preferred QualificationsWorking knowledge in one or more of the following areas: oil and gas operations, greenhouse gas emissions from fossil fuel extraction, geospatial analysis of greenhouse gas emissions.  Excellent written and oral communication skills, along with a demonstrable ability to reach a variety of audiences in academia, industry, and government.Salary Range$55,000 + depending on qualificationsWorking ConditionsMay work in standard office conditionsPhysical TasksMay require repetitive use of keyboard at a workstationMay require use of manual dexterityRequired MaterialsResume/CV3 work references with their contact information; at least one reference should be from a supervisorLetter of interestImportant for applicants who are NOT current university employees or contingent workers: You will be prompted to submit your resume the first time you apply, then you will be provided an option to upload a new Resume for subsequent applications. Any additional Required Materials (letter of interest, references, etc.) will be uploaded in the Application Questions section; you will be able to multi-select additional files. Before submitting your online job application, ensure that ALL Required Materials have been uploaded.  Once your job application has been submitted, you cannot make changes.Important for Current university employees and contingent workers: As a current university employee or contingent worker, you MUST apply within Workday by searching for Find UT Jobs. If you are a current University employee, log-in to Workday, navigate to your Worker Profile, click the Career link in the left-hand navigation menu and then update the sections in your Professional Profile before you apply. This information will be pulled into your application. The application is one page and you will be prompted to upload your resume. In addition, you must respond to the application questions presented to upload any additional Required Materials (letter of interest, references, etc.) that were noted above.",
       "job_apply_link": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
       "job_posted_at_datetime_utc": "2025-08-26T22:07:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-scholar-department-of-petroleum-and-geosystems-engineering-cockrell-school-of-engineering_r_00018034"
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-scholar-department-of-petroleum-and-geosystems-engineering-cockrell-school-of-engineering_r_00018034",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -459,16 +265,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Data Scientist Graduate (TikTok UG-Mid Platform) - 2026 Start (BS/MS） and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7542359937256982791",
       "job_posted_at_datetime_utc": "2025-08-26T02:57:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7542359937256982791"
+      "id": "lifeattiktok-com-search-7542359937256982791",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -477,16 +285,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Graduate (TikTok Recommendation-Live) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7542584919815325960",
       "job_posted_at_datetime_utc": "2025-08-26T02:57:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7542584919815325960"
+      "id": "lifeattiktok-com-search-7542584919815325960",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -495,16 +305,18 @@
       "employer_name": "Zip",
       "job_city": "SF",
       "job_state": "Locations",
-      "job_description": "Join Zip in this exciting opportunity.",
+      "job_description": "The simple task of buying software, services, or tools at work has become hopelessly complicated at even the most innovative companies in the world. Today, enterprises spend $120T+ per year globally (&gt;30 times larger than annual consumer e-commerce spend) and rely on vendors more than ever before to run their businesses. Our cofounders started Zip in 2020 to address this seemingly intractable problem with a purpose-built procurement platform that provides a simple, consumer-grade user experience. Within the last 4 years, Zip has created a new category and developed the leading solution in this $50B+ TAM space. Today, the world’s leading companies like OpenAI, Snowflake, Anthropic, Coinbase, and Prudential rely on Zip to manage billions of dollars in spend. We have a world-class team coming from category-defining companies like Airbnb, Meta, Stripe, Salesforce, Apple, and Google. With a $2.2 billion valuation and $370 million in funding from Y Combinator, Tiger Global, BOND, DST Global, and CRV, we’re focused on developing cutting-edge technology, expanding into new global markets, and—above all–driving incredible value for our customers. Join us! Your Role The Identity team is responsible for the platforms that manage user access and data confidentiality for customers. As a Software Engineer on the team, you will take on a dynamic role, developing core customer-facing identity products, such as authentication/authorization, user account security, and encryption key management. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can autonomously scope and solve complex technical challenges. You will Design and build product features for enterprise customers, such as AI-powered anomaly detection for payment fraud and account takeovers, granular access control and identity management, and bring-your-own-key encryption. Work closely with cross-functional product and customer-facing teams to understand requirements and ship thoughtful solutions. Work closely with our customers’ security teams (e.g., Discover, Snowflake, and Anthropic) to understand their needs and learn how they assess risk. Build guardrails, tooling, frameworks, and automation to empower software engineers to ship secure changes and prevent vulnerabilities from reaching the main branch. Design and build scalable frontend applications and components. Qualifications Minimum 1+ years of experience in a software engineering role. This role requires software development experience. Experience with web application and API development in production environments. At Zip, our stack includes Python, Typescript, React, and GraphQL. Experience in enterprise SaaS, fintech, software security best practices, and compliance frameworks is a bonus, but not required. The salary range for this role is $150,000 - $180,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Perks &amp; Benefits At Zip, we’re committed to providing our employees with everything they need to do their best work. 📈 Start-up equity 🦷 Full health, vision &amp; dental coverage 🍽️ Catered lunches &amp; dinners for SF employees 🚍 Commuter benefit 🚠 Team building events &amp; happy hours 🌴 Flexible PTO 💻 Apple equipment plus home office budget 💸 401k plan We're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
       "job_apply_link": "https://jobs.ashbyhq.com/zip/39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9/application",
       "job_posted_at_datetime_utc": "2025-08-25T16:56:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-zip-39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9-application"
+      "id": "jobs-ashbyhq-com-zip-39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9-application",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -513,16 +325,18 @@
       "employer_name": "Subaru",
       "job_city": "Van Buren Charter Township",
       "job_state": "MI",
-      "job_description": "Join Subaru in this exciting opportunity.",
+      "job_description": "Under the guidance of managers and senior engineers, the Software Engineer performs the following tasks accurately and in a timely manner: -Develops, researches, designs, implements, tests, and evaluates artificial intelligence (AI) algorithms and machine learning models to enhance vehicle safety features and automated driving capabilities. -Analyzes software requirements to determine, in collaboration with other engineers, the feasibility of designs within time and cost constraints, considering industry standards and regulatory compliance.",
       "job_apply_link": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2016",
       "job_posted_at_datetime_utc": "2025-08-25T14:19:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hcal-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-2016"
+      "id": "hcal-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-2016",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "University of Texas - Austin",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join University of Texas - Austin in this exciting opportunity.",
+      "job_description": "Job Posting Title:Seismology Postdoctoral Fellow\n\nHiring Department:Bureau of Economic Geology\n\nPosition Open To:All Applicants\n\nWeekly Scheduled Hours:40\n\nFLSA Status:Exempt\n\nEarliest Start Date:Immediately\n\nPosition Duration:Expected to Continue Until Aug 01, 2024\n\nLocation:PICKLE RESEARCH CAMPUS\n\nJob Details:General NotesThis position is located at the J.J. Pickle Research Campus in North Austin.PurposeAnalysis of Geophysical and Geomechanical data to provide models that can be calibrated and verified from available data, to identify processes for earthquake risk mitigation.ResponsibilitiesProvide novel research on geomechanical and pore pressure models linking human operations to the evolving seismicity rates. The goal is to be able to construct models that explain the nucleation and evolution of seismicity. Model-inputs might include earthquake and hydrogeological data, stress-change models, etc. In addition, you will contribute to collaborative research modeling stress changes in the subsurface due to geo-energy related operations, validating potential identification of causal factors. The results could be integrated in a regional time-dependent seismic hazard model estimating approaches for risk mitigation.Present in meetings and conferences.Publish in peer review journals.Required QualificationsPhD in engineering, seismology or geophysics. Prior research experience with geophysical/geomechanical modeling, hypothesis testing, earthquake catalogs, and stress evolution processes. Good knowledge in software programming (e.g. Matlab, Python). PhD must have been received within 3 years from date of hire.Preferred QualificationsKnowledge of subsurface pore-pressure modeling, earthquake nucleation processes, fault rupture propagation, and seismic hazard modeling.Salary Range$70,000 + depending on qualificationsWorking ConditionsMay work around standard office conditionsRepetitive use of a keyboard at a workstationOccasional weekend, overtime, and evening work to meet deadlinesOccasional travel intrastate, interstate, international Occasional fieldwork as necessaryRequired MaterialsResume/CV3 work references with their contact informationLetter of interestImportant for applicants who are NOT current university employees or contingent workers: You will be prompted to submit your resume the first time you apply, then you will be provided an option to upload a new Resume for subsequent applications. Any additional Required Materials (letter of interest, references, etc.) will be uploaded in the Application Questions section; you will be able to multi-select additional files. Before submitting your online job application, ensure that ALL Required Materials have been uploaded.  Once your job application has been submitted, you cannot make changes.Important for Current university employees and contingent workers: As a current university employee or contingent worker, you MUST apply within Workday by searching for Find UT Jobs. If you are a current University employee, log-in to Workday, navigate to your Worker Profile, click the Career link in the left hand navigation menu and then update the sections in your Professional Profile before you apply. This information will be pulled in to your application. The application is one page and you will be prompted to upload your resume. In addition, you must respond to the application questions presented to upload any additional Required Materials (letter of interest, references, etc.) that were noted above.",
       "job_apply_link": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
       "job_posted_at_datetime_utc": "2025-08-25T06:06:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-seismology-postdoctoral-fellow_r_00028107"
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-seismology-postdoctoral-fellow_r_00028107",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -549,16 +365,18 @@
       "employer_name": "The Swift Group",
       "job_city": "Hanover",
       "job_state": "MD",
-      "job_description": "Join The Swift Group in this exciting opportunity.",
+      "job_description": "For the OPS Consulting team, ‘the power to help’ means helping our clients, helping serve the mission, helping our employees and their families, and helping the community. Headquartered in Hanover, MD. OPS Consulting has over two decades of experience specializing in the most mission-critical operations. We are thought leaders and innovators. The ingenuity of our developers, engineers, cyber experts, linguists, and analysts are dedicated to empowering our clients, fulfilling The Mission, and remaining trusted leaders and advisers in national security and technology solutions. We are looking for Software Engineers to join a growing team in Hanover, MD. Responsibilities: Review and analyze user requirements Design and code new and/ or existing software using Java, C, C++, and Python Review and modify existing software to add new features Proficient in Windows and Unix environments Requirements: Bachelor's degree in computer science A current government clearance, background investigation, and polygraph are required. Desired Experience: Experience with Artifactory, Docker, Terraform, Ansible, and Packer #OpsConsulting #LI-BT1The Swift Group and Subsidiaries are an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class. Pay Range: $49,996.80 - $290,004.00 Pay ranges are a general guideline and not intended as a guaranteed and/or implied final compensation or salary for this job opening. Determination of official compensation or salary relies on several different factors including, but not limited to: level of position, complexity of job responsibilities, geographic location, work experience, education, certifications, Federal Government contract labor categories, and contract wage rates. At The Swift Group and Subsidiaries, you will receive comprehensive benefits including but not limited to: healthcare, wellness, financial, retirement, education, and time off benefits.",
       "job_apply_link": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4818894008",
       "job_posted_at_datetime_utc": "2025-08-23T16:17:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-theswiftgroup-jobs-4818894008"
+      "id": "job-boards-greenhouse-io-theswiftgroup-jobs-4818894008",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "The Swift Group",
       "job_city": "Laurel",
       "job_state": "MD",
-      "job_description": "Join The Swift Group in this exciting opportunity.",
+      "job_description": "For the OPS Consulting team, ‘the power to help’ means helping our clients, helping serve the mission, helping our employees and their families, and helping the community. Headquartered in Hanover, MD. OPS Consulting has over two decades of experience specializing in the most mission-critical operations. We are thought leaders and innovators. The ingenuity of our developers, engineers, cyber experts, linguists, and analysts are dedicated to empowering our clients, fulfilling The Mission, and remaining trusted leaders and advisers in national security and technology solutions. OPS Consulting is seeking a Principal Engineer to work in Laurel, Maryland. Job Description: The Principal Engineer (PE) will provide oversight to tactical engineering activities to accomplish system goals to include coordinating and participating in design meetings and technical reviews. The PE will support HPC installation and deployment while working as lead system engineer supporting and achieving HPC program goals. Responsibilities: Develop technical plans to guide capability development. Coordinate test plans and procedures. Coordinate thread testing and verification for test results. Report status of capability development. Work with system architects, system developers, testers, and system engineers to develop and maintain thread block diagrams, sequence diagrams, etc.. Write and coordinate technical documentation for one or more programs. Assist with providing oversight to ensure technical reviews are done in accordance with system engineering processes, procedures, and standards. Required Skills: Level 2: One (1) year experience with an agency or HPC development program. Eight (8) years of experience in technical roles for Government or industry customer. Five (5) years of experience as a system engineer supporting programs to develop and field large-scale systems to include expertise in system architecture, requirements analysis, system documentation, system evaluation, and process execution and evaluation. B.S. in Computer Science, Computer Engineering, Software Engineering, Electrical Engineering, or other related technical discipline from an accredited college or university. May substitute four (4) years relevant experience in lieu of a degree. Level 3: Three (3) years of experience with an agency or HPC development program. Fifteen (15) years of experience in technical roles for Government or industry customer. Ten (10) years of experience as a system engineer supporting programs to develop and field large- scale systems to include expertise in system architecture, requirements analysis, system documentation, system evaluation, and process execution and evaluation. B.S. in Computer Science, Computer Engineering, Software Engineering, Electrical Engineering, or other related technical discipline from an accredited college or university. May substitute four (4) years relevant experience in lieu of a degree. Security Clearance: A current government clearance, background investigation, and polygraph are required. #OpsConsulting # #LI-BS1The Swift Group and Subsidiaries are an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class. Pay Range: $49,996.80 - $290,004.00 Pay ranges are a general guideline and not intended as a guaranteed and/or implied final compensation or salary for this job opening. Determination of official compensation or salary relies on several different factors including, but not limited to: level of position, complexity of job responsibilities, geographic location, work experience, education, certifications, Federal Government contract labor categories, and contract wage rates. At The Swift Group and Subsidiaries, you will receive comprehensive benefits including but not limited to: healthcare, wellness, financial, retirement, education, and time off benefits.",
       "job_apply_link": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4799789008",
       "job_posted_at_datetime_utc": "2025-08-23T16:17:00.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-theswiftgroup-jobs-4799789008"
+      "id": "job-boards-greenhouse-io-theswiftgroup-jobs-4799789008",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:03:48.826Z",
     "postedAt": null
   },
   {
@@ -6282,6 +6102,834 @@
     },
     "status": "pending",
     "addedAt": "2025-12-18T19:47:57.800Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer - Backend",
+      "employer_name": "Cambridge Mobile Telematics",
+      "job_city": "Cambridge",
+      "job_state": "MA",
+      "job_description": "Join Cambridge Mobile Telematics in this exciting opportunity.",
+      "job_apply_link": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
+      "job_posted_at_datetime_utc": "2025-12-19T16:50:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "www-cmtelematics-com-who-we-are-join-our-team-job-posting"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Data Analyst - Mobility",
+      "employer_name": "S&P Global ",
+      "job_city": "California",
+      "job_state": "Locations",
+      "job_description": "Join S&P Global  in this exciting opportunity.",
+      "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/California-US/Data-Analyst_322809-1",
+      "job_posted_at_datetime_utc": "2025-12-19T16:41:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "spgi-wd5-myworkdayjobs-com-en-us-spgi_careers-job-california-us-data-analyst_322809-1"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Machine Learning Engineer",
+      "employer_name": "PitchBook",
+      "job_city": "NYC",
+      "job_state": "Locations",
+      "job_description": "Join PitchBook in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625767006",
+      "job_posted_at_datetime_utc": "2025-12-19T16:27:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-pitchbookdata-jobs-4625767006"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Machine Learning Engineer",
+      "employer_name": "PitchBook",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join PitchBook in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625765006",
+      "job_posted_at_datetime_utc": "2025-12-19T16:27:32.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-pitchbookdata-jobs-4625765006"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Engineer",
+      "employer_name": "Microsoft",
+      "job_city": "Redmond",
+      "job_state": "WA",
+      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
+      "job_posted_at_datetime_utc": "2025-12-19T16:07:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "apply-careers-microsoft-com-careers-job-1970393556641984"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineer",
+      "employer_name": "RPA",
+      "job_city": "Santa Monica",
+      "job_state": "CA",
+      "job_description": "Join RPA in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/rpa/jobs/4642404005",
+      "job_posted_at_datetime_utc": "2025-12-19T02:38:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-rpa-jobs-4642404005"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
+      "employer_name": "Qualcomm",
+      "job_city": "San Diego",
+      "job_state": "CA",
+      "job_description": "Join Qualcomm in this exciting opportunity.",
+      "job_apply_link": "https://qualcomm.eightfold.ai/careers/job/446715939731",
+      "job_posted_at_datetime_utc": "2025-12-19T02:23:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "qualcomm-eightfold-ai-careers-job-446715939731"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Senior Software Engineer",
+      "employer_name": "Oracle",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Oracle in this exciting opportunity.",
+      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320808",
+      "job_posted_at_datetime_utc": "2025-12-19T02:19:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Backend Software Engineer",
+      "employer_name": "Cohesity",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join Cohesity in this exciting opportunity.",
+      "job_apply_link": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Backend-Software-Engineer_R02283",
+      "job_posted_at_datetime_utc": "2025-12-19T02:15:06.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cohesity-wd5-myworkdayjobs-com-cohesity_careers-job-santa-clara-ca-usa-office-backend-software-engineer_r02283"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Software Developer",
+      "employer_name": "Harris Computer",
+      "job_city": "Canada",
+      "job_state": "Locations",
+      "job_description": "Join Harris Computer in this exciting opportunity.",
+      "job_apply_link": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Associate-Software-Developer_R0038814-6",
+      "job_posted_at_datetime_utc": "2025-12-19T01:32:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "harriscomputer-wd3-myworkdayjobs-com-1-job-ontario-canada-associate-software-developer_r0038814-6"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Data Analyst",
+      "employer_name": "PURE Insurance",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join PURE Insurance in this exciting opportunity.",
+      "job_apply_link": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Remote---US/Associate-Data-Analyst_R2551",
+      "job_posted_at_datetime_utc": "2025-12-19T01:21:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "pureinsurance-wd5-myworkdayjobs-com-pure-job-remote-us-associate-data-analyst_r2551"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Planning Data Analyst - Strategic Planning",
+      "employer_name": "Ochsner Health System",
+      "job_city": "New Orleans",
+      "job_state": "LA",
+      "job_description": "Join Ochsner Health System in this exciting opportunity.",
+      "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Planning-Data-Analyst---Strategic-Planning_REQ_00239147",
+      "job_posted_at_datetime_utc": "2025-12-19T00:37:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "ochsner-wd1-myworkdayjobs-com-ochsner-job-new-orleans-new-orleans-region-louisiana-planning-data-analyst-strategic-planning_req_00239147"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Helix Data Creator",
+      "employer_name": "Figure",
+      "job_city": "Spartanburg",
+      "job_state": "SC",
+      "job_description": "Join Figure in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4627110006",
+      "job_posted_at_datetime_utc": "2025-12-19T00:23:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-figureai-jobs-4627110006"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Postdoctoral Appointee-Developing an Exascale Muphfasa - Multi Phase Flow Adaptive Simulator",
+      "employer_name": "Argonne National Laboratory",
+      "job_city": "Woodridge",
+      "job_state": "IL",
+      "job_description": "Join Argonne National Laboratory in this exciting opportunity.",
+      "job_apply_link": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Developing-an-Exascale-MuPhFASa--Multi-Phase-Flow-Adaptive-Simulator-_421533",
+      "job_posted_at_datetime_utc": "2025-12-19T00:21:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-developing-an-exascale-muphfasa-multi-phase-flow-adaptive-simulator-_421533"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Mining Application Specialist – Early Career",
+      "employer_name": "Caterpillar Inc.",
+      "job_city": "Prescott",
+      "job_state": "AZ",
+      "job_description": "Join Caterpillar Inc. in this exciting opportunity.",
+      "job_apply_link": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341180",
+      "job_posted_at_datetime_utc": "2025-12-19T00:21:03.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341180"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Full-Stack Java / Spring Boot Developer",
+      "employer_name": "U.S. Bank",
+      "job_city": "Hopkins",
+      "job_state": "MN",
+      "job_description": "Join U.S. Bank in this exciting opportunity.",
+      "job_apply_link": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Full-Stack-Java---Springboot-Developer_2025-0029473",
+      "job_posted_at_datetime_utc": "2025-12-19T00:18:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-hopkins-mn-full-stack-java-springboot-developer_2025-0029473"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate C++ Engineer",
+      "employer_name": "Chicago Trading Company",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Chicago Trading Company in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4642278005",
+      "job_posted_at_datetime_utc": "2025-12-19T00:13:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4642278005"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate C++ Engineer",
+      "employer_name": "Chicago Trading Company",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Chicago Trading Company in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005",
+      "job_posted_at_datetime_utc": "2025-12-19T00:13:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer",
+      "employer_name": "Axle",
+      "job_city": "North Bethesda",
+      "job_state": "MD",
+      "job_description": "Join Axle in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
+      "job_posted_at_datetime_utc": "2025-12-19T00:11:06.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-axle-jobs-5006708007"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analyst",
+      "employer_name": "Ameresco",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Ameresco in this exciting opportunity.",
+      "job_apply_link": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Remote/Data-Analyst_R3520",
+      "job_posted_at_datetime_utc": "2025-12-19T00:08:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "ameresco-wd5-myworkdayjobs-com-en-us-ameresco-job-united-states-remote-data-analyst_r3520"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Software Engineer - Baseball Enterprise",
+      "employer_name": "Major League Baseball",
+      "job_city": "Boulder",
+      "job_state": "CO",
+      "job_description": "Join Major League Baseball in this exciting opportunity.",
+      "job_apply_link": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
+      "job_posted_at_datetime_utc": "2025-12-19T00:07:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "www-mlb-com-careers-opportunities"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer",
+      "employer_name": "Rockwell Automation",
+      "job_city": "Milwaukee",
+      "job_state": "WI",
+      "job_description": "Join Rockwell Automation in this exciting opportunity.",
+      "job_apply_link": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---Entry-Level_R25-8544",
+      "job_posted_at_datetime_utc": "2025-12-19T00:04:41.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-milwaukee-wisconsin-united-states-software-engineer-entry-level_r25-8544"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Analytics Associate 1",
+      "employer_name": "BlueLabs Analytics",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "Join BlueLabs Analytics in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007",
+      "job_posted_at_datetime_utc": "2025-12-18T23:59:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineer 1",
+      "employer_name": "Centene",
+      "job_city": "Texas",
+      "job_state": "Locations",
+      "job_description": "Join Centene in this exciting opportunity.",
+      "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1624135",
+      "job_posted_at_datetime_utc": "2025-12-18T23:52:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-data-engineer-i_1624135"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Rotational Engineer - Central Technology",
+      "employer_name": "Activision-Blizzard",
+      "job_city": "Sherman Oaks",
+      "job_state": "LA",
+      "job_description": "Join Activision-Blizzard in this exciting opportunity.",
+      "job_apply_link": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Rotational-Engineer--Central-Technology_R026155",
+      "job_posted_at_datetime_utc": "2025-12-18T23:40:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "activision-wd1-myworkdayjobs-com-external-job-sherman-oaks-rotational-engineer-central-technology_r026155"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "TEMP Specialist - Fundraising Data",
+      "employer_name": "Boys & Girls Clubs of America",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Boys & Girls Clubs of America in this exciting opportunity.",
+      "job_apply_link": "https://careers-bgca.icims.com/jobs/8356/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-18T23:35:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-bgca-icims-com-jobs-8356-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Entry-Level Planner",
+      "employer_name": "AECOM",
+      "job_city": "Raleigh",
+      "job_state": "NC",
+      "job_description": "Join AECOM in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/AECOM2/744000099596120",
+      "job_posted_at_datetime_utc": "2025-12-18T23:34:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-smartrecruiters-com-aecom2-744000099596120"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "GIS Technician",
+      "employer_name": "NV5 Global",
+      "job_city": "St. Petersburg",
+      "job_state": "FL",
+      "job_description": "Join NV5 Global in this exciting opportunity.",
+      "job_apply_link": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-18T23:33:34.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-nv5-icims-com-jobs-11006-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "Intuit",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Join Intuit in this exciting opportunity.",
+      "job_apply_link": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512",
+      "job_posted_at_datetime_utc": "2025-12-18T23:33:32.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89660152512"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Warehouse Automation Software Engineer",
+      "employer_name": "Dematic",
+      "job_city": "Grand Rapids",
+      "job_state": "MI",
+      "job_description": "Join Dematic in this exciting opportunity.",
+      "job_apply_link": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243",
+      "job_posted_at_datetime_utc": "2025-12-18T23:32:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "kiongroup-wd3-myworkdayjobs-com-kion_scs-job-atlanta-ga-united-states-software-engineer_jr-0083243"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer",
+      "employer_name": "KLA Corporation",
+      "job_city": "Milpitas",
+      "job_state": "CA",
+      "job_description": "Join KLA Corporation in this exciting opportunity.",
+      "job_apply_link": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer_2533377",
+      "job_posted_at_datetime_utc": "2025-12-18T23:24:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533377"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "Intuit",
+      "job_city": "NYC",
+      "job_state": "Locations",
+      "job_description": "Join Intuit in this exciting opportunity.",
+      "job_apply_link": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89660152448",
+      "job_posted_at_datetime_utc": "2025-12-18T23:21:27.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89660152448"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "University Graduate - Machine Learning Engineer",
+      "employer_name": "Adobe",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
+      "job_posted_at_datetime_utc": "2025-12-18T23:21:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Postdoctoral Researcher",
+      "employer_name": "Louisiana State University (LSU)",
+      "job_city": "Baton Rouge",
+      "job_state": "LA",
+      "job_description": "Join Louisiana State University (LSU) in this exciting opportunity.",
+      "job_apply_link": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3255-Patrick-F-Taylor-Hall/Postdoctoral-Researcher_R00111813",
+      "job_posted_at_datetime_utc": "2025-12-18T23:20:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00111813"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1/2",
+      "employer_name": "Remi",
+      "job_city": "Lehi",
+      "job_state": "UT",
+      "job_description": "Join Remi in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/remi/ecb429a1-148f-408d-a777-58299e325998/application",
+      "job_posted_at_datetime_utc": "2025-12-18T23:19:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-ashbyhq-com-remi-ecb429a1-148f-408d-a777-58299e325998-application"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Graduate Software Engineer 1 - Mobile",
+      "employer_name": "Uber",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Uber in this exciting opportunity.",
+      "job_apply_link": "https://www.uber.com/global/en/careers/list/152559/",
+      "job_posted_at_datetime_utc": "2025-12-18T23:17:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "www-uber-com-global-en-careers-list-152559"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Graduate Software Engineer 1",
+      "employer_name": "Uber",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Uber in this exciting opportunity.",
+      "job_apply_link": "https://www.uber.com/global/en/careers/list/152427/",
+      "job_posted_at_datetime_utc": "2025-12-18T23:17:41.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "www-uber-com-global-en-careers-list-152427"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Helix Data Creator",
+      "employer_name": "Figure",
+      "job_city": "LA",
+      "job_state": "Locations",
+      "job_description": "Join Figure in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
+      "job_posted_at_datetime_utc": "2025-12-18T23:16:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-figureai-jobs-4627111006"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Junior Software Engineer",
+      "employer_name": "Altamira Technologies",
+      "job_city": "Wright-Patterson AFB",
+      "job_state": "OH",
+      "job_description": "Join Altamira Technologies in this exciting opportunity.",
+      "job_apply_link": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
+      "job_posted_at_datetime_utc": "2025-12-18T23:07:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-jobvite-com-altamiracorps-job-oms6yfwc"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Algorithm and Analysis Software Engineer Scientist Associate",
+      "employer_name": "University of Texas - Austin",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join University of Texas - Austin in this exciting opportunity.",
+      "job_apply_link": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
+      "job_posted_at_datetime_utc": "2025-12-18T23:01:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "GIS Analyst",
+      "employer_name": "Kimley-Horn",
+      "job_city": "Fort Worth",
+      "job_state": "TX",
+      "job_description": "Join Kimley-Horn in this exciting opportunity.",
+      "job_apply_link": "https://careers-kimley-horn.icims.com/jobs/21279/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-17T23:13:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-kimley-horn-icims-com-jobs-21279-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1 - Direct Issuance",
+      "employer_name": "StubHub",
+      "job_city": "Aliso Viejo",
+      "job_state": "CA",
+      "job_description": "Join StubHub in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4739104101",
+      "job_posted_at_datetime_utc": "2025-12-16T23:16:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4739104101"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Scientist – PhD New College Grad 2026 - Autonomous Vehicles",
+      "employer_name": "NVIDIA",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Vehicles---New-College-Grad-2026_JR2008395",
+      "job_posted_at_datetime_utc": "2025-12-13T14:56:58.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-autonomous-vehicles-new-college-grad-2026_jr2008395"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Graduate",
+      "employer_name": "Hewlett Packard Enterprise",
+      "job_city": "Eau Claire",
+      "job_state": "WI",
+      "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
+      "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Graduate_1192959-1",
+      "job_posted_at_datetime_utc": "2025-11-01T10:26:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-software-engineering-graduate_1192959-1"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Senior Program Analyst - Data Management Program",
+      "employer_name": "American Express",
+      "job_city": "Phoenix",
+      "job_state": "AZ",
+      "job_description": "Join American Express in this exciting opportunity.",
+      "job_apply_link": "https://aexp.eightfold.ai/careers/job/38568463",
+      "job_posted_at_datetime_utc": "2025-10-26T22:18:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "aexp-eightfold-ai-careers-job-38568463"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Technology Operations Specialist 1",
+      "employer_name": "AmTrust Financial",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join AmTrust Financial in this exciting opportunity.",
+      "job_apply_link": "https://careers-amtrustgroup.icims.com/jobs/19657/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-09-16T07:18:10.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-amtrustgroup-icims-com-jobs-19657-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T19:03:26.635Z",
     "enrichedAt": null,
     "postedAt": null
   }
