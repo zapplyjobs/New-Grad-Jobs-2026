@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:23:15.084Z",
+  "lastUpdated": "2025-12-19T21:36:29.548Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -6579,14 +6579,124 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/105331851",
       "discordThreadId": "1451686328159830191",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-109565143-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-109565143",
+      "company": "AG Technologies",
+      "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force - Java Full Stack - Web Logic and Sales Force",
+      "postedToDiscord": "2025-12-19T21:35:45.205Z",
+      "sourceDate": "2025-08-14T18:07:23.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/109565143",
+      "discordThreadId": "1451689474638741634",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4585080006-2025-12-19-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4585080006",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2025-12-19T21:35:48.935Z",
+      "sourceDate": "2025-08-14T17:17:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4585080006",
+      "discordThreadId": "1451689489218142465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-avanceconsultingservices2-92460015-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-avanceconsultingservices2-92460015",
+      "company": "Avance Consulting",
+      "title": "Application Software Developer",
+      "postedToDiscord": "2025-12-19T21:35:52.358Z",
+      "sourceDate": "2025-08-14T08:39:23.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/92460015",
+      "discordThreadId": "1451689504883740909",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-95501978-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-95501978",
+      "company": "AG Technologies",
+      "title": "Java Informatica MicroStrategy Training",
+      "postedToDiscord": "2025-12-19T21:35:55.940Z",
+      "sourceDate": "2025-08-13T05:20:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/95501978",
+      "discordThreadId": "1451689519521730722",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-92131955-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-92131955",
+      "company": "AG Technologies",
+      "title": "Training and Placement on Java Informatica Microstrategy Tableau",
+      "postedToDiscord": "2025-12-19T21:35:59.589Z",
+      "sourceDate": "2025-08-13T00:46:03.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/92131955",
+      "discordThreadId": "1451689534323560641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-ustechsolutions2-93157321-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-ustechsolutions2-93157321",
+      "company": "US Tech Solutions",
+      "title": "SAS Administrator",
+      "postedToDiscord": "2025-12-19T21:36:05.977Z",
+      "sourceDate": "2025-08-13T19:03:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/USTechSolutions2/93157321",
+      "discordThreadId": "1451689562131927205",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-avanceconsultingservices2-84052389-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-avanceconsultingservices2-84052389",
+      "company": "Avance Consulting",
+      "title": "Technology Analyst - Cocoa",
+      "postedToDiscord": "2025-12-19T21:36:12.450Z",
+      "sourceDate": "2025-08-13T05:49:23.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/84052389",
+      "discordThreadId": "1451689589080330241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-prosidianconsulting-744000028638835-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-prosidianconsulting-744000028638835",
+      "company": "Prosidian Consulting",
+      "title": "GIS Analyst - Environmental Consulting and Management Services",
+      "postedToDiscord": "2025-12-19T21:36:18.914Z",
+      "sourceDate": "2025-08-13T04:26:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/744000028638835",
+      "discordThreadId": "1451689616108163264",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-94518372-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-94518372",
+      "company": "360 IT Professionals",
+      "title": "SQL data analyst",
+      "postedToDiscord": "2025-12-19T21:36:25.663Z",
+      "sourceDate": "2025-08-13T01:56:49.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/94518372",
+      "discordThreadId": "1451689643400761587",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-ustechsolutions2-103472117-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-ustechsolutions2-103472117",
+      "company": "US Tech Solutions",
+      "title": "MDM Data Analyst 1",
+      "postedToDiscord": "2025-12-19T21:36:29.548Z",
+      "sourceDate": "2025-08-13T00:44:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/USTechSolutions2/103472117",
+      "discordThreadId": "1451689659171209267",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 598,
+    "totalJobs": 608,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-19T21:23:15.084Z",
+      "date": "2025-12-19T21:36:29.548Z",
       "archived": 0
     }
   }
