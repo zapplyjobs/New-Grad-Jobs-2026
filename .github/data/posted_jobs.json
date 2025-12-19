@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T20:38:37.979Z",
+  "lastUpdated": "2025-12-19T20:50:29.869Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -6260,14 +6260,124 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7538951609075271943/detail",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7540345448911309074-detail-2025-12-19-1",
+      "jobId": "jobs-bytedance-com-en-position-7540345448911309074-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - AI Platform - 2026 Start",
+      "postedToDiscord": "2025-12-19T20:49:55.215Z",
+      "sourceDate": "2025-08-19T23:59:02.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7540345448911309074/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-79517833-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-79517833",
+      "company": "Artech Information System",
+      "title": "SAS Programmer",
+      "postedToDiscord": "2025-12-19T20:49:58.675Z",
+      "sourceDate": "2025-08-16T04:20:45.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/79517833",
+      "discordThreadId": "1451677954924085300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-99305177-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-99305177",
+      "company": "Artech Information System",
+      "title": "POS Analyst",
+      "postedToDiscord": "2025-12-19T20:50:02.313Z",
+      "sourceDate": "2025-08-16T04:00:49.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99305177",
+      "discordThreadId": "1451677969805480027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hdep-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-6177-2025-12-19-1",
+      "jobId": "hdep-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-6177",
+      "company": "Digital Realty",
+      "title": "Engineer – Network Observability Platform and Automation",
+      "postedToDiscord": "2025-12-19T20:50:08.925Z",
+      "sourceDate": "2025-08-19T02:03:04.000Z",
+      "sourceUrl": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6177",
+      "discordThreadId": "1451677997437419521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7538937140706101522-detail-2025-12-19-1",
+      "jobId": "jobs-bytedance-com-en-position-7538937140706101522-detail",
+      "company": "ByteDance",
+      "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
+      "postedToDiscord": "2025-12-19T20:50:15.500Z",
+      "sourceDate": "2025-08-16T02:59:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538937140706101522/detail",
+      "discordThreadId": "1451678025098985546",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7538929248565381383-detail-2025-12-19-1",
+      "jobId": "jobs-bytedance-com-en-position-7538929248565381383-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
+      "postedToDiscord": "2025-12-19T20:50:19.582Z",
+      "sourceDate": "2025-08-16T02:59:25.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538929248565381383/detail",
+      "discordThreadId": "1451678040013799475",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7536342411669752071-detail-2025-12-19-1",
+      "jobId": "jobs-bytedance-com-en-position-7536342411669752071-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Graduate - Ecommerce Recommendation - 2026 Start",
+      "postedToDiscord": "2025-12-19T20:50:23.292Z",
+      "sourceDate": "2025-08-16T02:59:06.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7536342411669752071/detail",
+      "discordThreadId": "1451678058225340516",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7536346859938892040-detail-2025-12-19-1",
+      "jobId": "jobs-bytedance-com-en-position-7536346859938892040-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Graduate - Ecommerce Recommendation - BS/MS",
+      "postedToDiscord": "2025-12-19T20:50:23.298Z",
+      "sourceDate": "2025-08-16T02:58:23.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7536346859938892040/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-theleague1-743999725880365-2025-12-19-1",
+      "jobId": "jobs-smartrecruiters-com-theleague1-743999725880365",
+      "company": "The League",
+      "title": "Data Analyst - Product & Marketing",
+      "postedToDiscord": "2025-12-19T20:50:25.173Z",
+      "sourceDate": "2025-08-16T01:54:41.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/TheLeague1/743999725880365",
+      "discordThreadId": "1451678073043812547",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-wd1-myworkdayjobs-com-au-job-east-campus-washington-dc-computer-science-postdoctoral-fellow_r1839-2025-12-19-1",
+      "jobId": "american-wd1-myworkdayjobs-com-au-job-east-campus-washington-dc-computer-science-postdoctoral-fellow_r1839",
+      "company": "American University",
+      "title": "Computer Science Postdoctoral Fellow",
+      "postedToDiscord": "2025-12-19T20:50:29.869Z",
+      "sourceDate": "2025-08-15T23:35:08.000Z",
+      "sourceUrl": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Computer-Science-Postdoctoral-Fellow_R1839",
+      "discordThreadId": "1451678085668798585",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 569,
+    "totalJobs": 579,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-19T20:38:37.979Z",
+      "date": "2025-12-19T20:50:29.869Z",
       "archived": 0
     }
   }
