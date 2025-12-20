@@ -1,66 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Software Engineer Graduate - Applied Machine Learning - Inference",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - Engine - Inference) - 2026 Start (MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535239293659941138/detail",
-      "job_posted_at_datetime_utc": "2025-08-08T05:18:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7535239293659941138-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-19T22:23:16.928Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Graduate Machine Learning Engineer - E-Commerce Risk Control - MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2025 Start (MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7427265346920302885",
-      "job_posted_at_datetime_utc": "2025-08-08T03:02:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7427265346920302885",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-19T22:23:16.928Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - Ecommerce Recommendation - 2025 Start",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (eCommerce Recommendation) - 2025 Start (BS/MA) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7425116368586475785",
-      "job_posted_at_datetime_utc": "2025-08-08T03:00:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7425116368586475785",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Research Scientist Graduate - CV/NLP/Multimodal LLM - Trust and Safety",
       "employer_name": "TikTok",
       "job_city": "Seattle",
@@ -74,10 +14,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -94,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -114,10 +54,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -134,10 +74,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -154,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -174,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -194,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T22:37:49.731Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -214,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T23:04:14.394Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -254,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-19T23:04:14.394Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T19:04:03.602Z"
   },
   {
     "job": {
@@ -405,16 +345,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Research Scientist Graduate Graphics Engine - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7530979904054790407",
       "job_posted_at_datetime_utc": "2025-08-08T02:51:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7530979904054790407"
+      "id": "lifeattiktok-com-search-7530979904054790407",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T19:03:25.435Z",
     "postedAt": null
   },
   {
@@ -423,16 +365,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for (General Hire) Research Scientist Graduate (TikTok Recommendation-Next Gen Recommendation) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7524946339990374664",
       "job_posted_at_datetime_utc": "2025-08-08T02:50:49.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7524946339990374664"
+      "id": "lifeattiktok-com-search-7524946339990374664",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T19:03:25.435Z",
     "postedAt": null
   },
   {
@@ -441,16 +385,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety, San Jose - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7530772847212644616",
       "job_posted_at_datetime_utc": "2025-08-08T02:50:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lifeattiktok-com-search-7530772847212644616"
+      "id": "lifeattiktok-com-search-7530772847212644616",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T19:03:25.435Z",
     "postedAt": null
   },
   {
@@ -5094,6 +5040,456 @@
     },
     "status": "pending",
     "addedAt": "2025-12-19T20:03:37.335Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "Intuit",
+      "job_city": "San Diego",
+      "job_state": "CA",
+      "job_description": "Join Intuit in this exciting opportunity.",
+      "job_apply_link": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080",
+      "job_posted_at_datetime_utc": "2025-12-20T07:22:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-27595-89710140080"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "Intuit",
+      "job_city": "NYC",
+      "job_state": "Locations",
+      "job_description": "Join Intuit in this exciting opportunity.",
+      "job_apply_link": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312",
+      "job_posted_at_datetime_utc": "2025-12-20T02:31:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89706909312"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "Intuit",
+      "job_city": "NYC",
+      "job_state": "Locations",
+      "job_description": "Join Intuit in this exciting opportunity.",
+      "job_apply_link": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344",
+      "job_posted_at_datetime_utc": "2025-12-20T02:23:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89706909344"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer",
+      "employer_name": "Blissway",
+      "job_city": "Denver",
+      "job_state": "CO",
+      "job_description": "Join Blissway in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application",
+      "job_posted_at_datetime_utc": "2025-12-20T02:11:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-ashbyhq-com-blissway-206ceeef-4283-481c-a46d-e7273f597844-application"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Postdoctoral Appointee",
+      "employer_name": "Argonne National Laboratory",
+      "job_city": "Woodridge",
+      "job_state": "IL",
+      "job_description": "Join Argonne National Laboratory in this exciting opportunity.",
+      "job_apply_link": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Mixed-Reduced-Precision-Computing-on-Modern-Hardware_421528-1",
+      "job_posted_at_datetime_utc": "2025-12-19T23:48:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-mixed-reduced-precision-computing-on-modern-hardware_421528-1"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Assistant - Electrical and Computer Engineering",
+      "employer_name": "Carnegie Mellon University",
+      "job_city": "Pittsburgh",
+      "job_state": "PA",
+      "job_description": "Join Carnegie Mellon University in this exciting opportunity.",
+      "job_apply_link": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955",
+      "job_posted_at_datetime_utc": "2025-12-19T23:33:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-electrical-and-computer-engineering_2023955"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Scientist - Analytics",
+      "employer_name": "AppLovin",
+      "job_city": "Palo Alto",
+      "job_state": "CA",
+      "job_description": "Join AppLovin in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/applovin/jobs/4624972006",
+      "job_posted_at_datetime_utc": "2025-12-19T23:30:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "boards-greenhouse-io-applovin-jobs-4624972006"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Applied Scientist 1 - Amazon",
+      "employer_name": "Amazon",
+      "job_city": "Palo Alto",
+      "job_state": "CA",
+      "job_description": "Join Amazon in this exciting opportunity.",
+      "job_apply_link": "https://amazon.jobs/en/jobs/3130180/applied-scientist-i-amazon",
+      "job_posted_at_datetime_utc": "2025-12-19T23:22:04.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Business Intelligence Developer - IT Analytics Health",
+      "employer_name": "Kettering Health",
+      "job_city": "Miamisburg",
+      "job_state": "OH",
+      "job_description": "Join Kettering Health in this exciting opportunity.",
+      "job_apply_link": "https://careers-ketteringhealth.icims.com/jobs/57144/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-19T23:21:51.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-ketteringhealth-icims-com-jobs-57144-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Technology Analyst Program - Application Development",
+      "employer_name": "Fiserv",
+      "job_city": "Berkeley Heights",
+      "job_state": "NJ",
+      "job_description": "Join Fiserv in this exciting opportunity.",
+      "job_apply_link": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technology-Analyst-Program---Application-Development--Berkeley-Heights--NJ-_R-10383557",
+      "job_posted_at_datetime_utc": "2025-12-19T23:15:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "fiserv-wd5-myworkdayjobs-com-ext-job-berkeley-heights-new-jersey-technology-analyst-program-application-development-berkeley-heights-nj-_r-10383557"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Support Engineer - Entry-Level",
+      "employer_name": "Open Asset",
+      "job_city": "NYC",
+      "job_state": "Locations",
+      "job_description": "Join Open Asset in this exciting opportunity.",
+      "job_apply_link": "https://axomic.bamboohr.com/careers/162/",
+      "job_posted_at_datetime_utc": "2025-12-19T23:15:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "axomic-bamboohr-com-careers-162"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Developer",
+      "employer_name": "McGill University",
+      "job_city": "Canada",
+      "job_state": "Locations",
+      "job_description": "Join McGill University in this exciting opportunity.",
+      "job_apply_link": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Software-Developer_JR0000072713",
+      "job_posted_at_datetime_utc": "2025-12-19T23:14:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "mcgill-wd3-myworkdayjobs-com-mcgill_careers-job-bronfman-building-software-developer_jr0000072713"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 University Graduate - Research Scientist/Engineer",
+      "employer_name": "Adobe",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R158869",
+      "job_posted_at_datetime_utc": "2025-12-19T23:14:30.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r158869"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Sales and Product Development Engineer",
+      "employer_name": "CTB",
+      "job_city": "Elkhart",
+      "job_state": "IN",
+      "job_description": "Join CTB in this exciting opportunity.",
+      "job_apply_link": "https://emsl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2021718",
+      "job_posted_at_datetime_utc": "2025-12-19T23:10:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "emsl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-2021718"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
+      "employer_name": "Prairie View A&M University",
+      "job_city": "Prairie View",
+      "job_state": "TX",
+      "job_description": "Join Prairie View A&M University in this exciting opportunity.",
+      "job_apply_link": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--2_R-089885-1",
+      "job_posted_at_datetime_utc": "2025-12-19T23:05:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-trustworthy-artificial-intelligence-2_r-089885-1"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Analyst – Analytics",
+      "employer_name": "WME Group",
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "Join WME Group in this exciting opportunity.",
+      "job_apply_link": "https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1",
+      "job_posted_at_datetime_utc": "2025-12-19T02:14:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "wmeimg-wd1-myworkdayjobs-com-endeavor-job-ca-beverly-hills-9601-wilshire-analyst-analytics_jr27759-1"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Phlebotomist Team Leader",
+      "employer_name": "OneBlood",
+      "job_city": "Groton",
+      "job_state": "CT",
+      "job_description": "Join OneBlood in this exciting opportunity.",
+      "job_apply_link": "https://application-oneblood.icims.com/jobs/15636/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-18T23:42:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "application-oneblood-icims-com-jobs-15636-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 2 - Direct Issuance - Frontend",
+      "employer_name": "StubHub",
+      "job_city": "Aliso Viejo",
+      "job_state": "CA",
+      "job_description": "Join StubHub in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4739143101",
+      "job_posted_at_datetime_utc": "2025-12-16T23:16:06.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4739143101"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 2 - Elixir",
+      "employer_name": "True Anomaly",
+      "job_city": "Long Beach",
+      "job_state": "CA",
+      "job_description": "Join True Anomaly in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5000513007",
+      "job_posted_at_datetime_utc": "2025-12-09T19:51:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "job-boards-greenhouse-io-trueanomalyinc-jobs-5000513007"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Scientist",
+      "employer_name": "Adobe",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R163076",
+      "job_posted_at_datetime_utc": "2025-12-04T01:56:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Configuration and Data Management Specialist - Configuration and Data Management Specialist",
+      "employer_name": "Barrios",
+      "job_city": "Houston",
+      "job_state": "TX",
+      "job_description": "Join Barrios in this exciting opportunity.",
+      "job_apply_link": "https://careers-barrios.icims.com/jobs/2723/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-11-20T07:29:10.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-barrios-icims-com-jobs-2723-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "Mercury Insurance",
+      "job_city": "LA",
+      "job_state": "Locations",
+      "job_description": "Join Mercury Insurance in this exciting opportunity.",
+      "job_apply_link": "https://careers-mercuryinsurance.icims.com/jobs/5802/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-11-05T23:34:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-mercuryinsurance-icims-com-jobs-5802-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Configuration and Logistics Data Analyst 1 - Engineering",
+      "employer_name": "General Dynamics",
+      "job_city": "Brunswick",
+      "job_state": "ME",
+      "job_description": "Join General Dynamics in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdbiw.icims.com/jobs/4772/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-11-03T16:32:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "careers-gdbiw-icims-com-jobs-4772-job"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Data Engineer",
+      "employer_name": "NBCUniversal",
+      "job_city": "Hammersmith",
+      "job_state": "London",
+      "job_description": "Join NBCUniversal in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859",
+      "job_posted_at_datetime_utc": "2025-10-01T05:19:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-smartrecruiters-com-nbcuniversal3-744000084861859"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "BIOS Engineer",
+      "employer_name": "Super Micro Computer",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join Super Micro Computer in this exciting opportunity.",
+      "job_apply_link": "https://jobs.supermicro.com/job/San-Jose-BIOS-Engineer-Cali/1321723400/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2025-08-30T06:20:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-supermicro-com-job-san-jose-bios-engineer-cali-1321723400"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": null,
     "postedAt": null
   }
