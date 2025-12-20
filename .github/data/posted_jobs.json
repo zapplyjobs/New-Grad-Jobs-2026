@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:37:11.366Z",
+  "lastUpdated": "2025-12-20T22:50:38.726Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -8658,14 +8658,124 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2009926",
       "discordThreadId": "1452067323472122069",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-i-27595-89635830672-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-i-27595-89635830672",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:50:01.170Z",
+      "sourceDate": "2025-12-18T02:16:43.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-i/27595/89635830672",
+      "discordThreadId": "1452070551949672501",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89635839264-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89635839264",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:50:01.181Z",
+      "sourceDate": "2025-12-18T02:16:30.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89635839264",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nike-wd1-myworkdayjobs-com-nke-job-beaverton-oregon-software-engineer-i-innovation_r-76383-2025-12-20-1",
+      "jobId": "nike-wd1-myworkdayjobs-com-nke-job-beaverton-oregon-software-engineer-i-innovation_r-76383",
+      "company": "Nike",
+      "title": "Software Engineer 1 - Innovation",
+      "postedToDiscord": "2025-12-20T22:50:04.730Z",
+      "sourceDate": "2025-12-18T00:14:03.000Z",
+      "sourceUrl": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-76383",
+      "discordThreadId": "1452070566818349086",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333-2025-12-20-1",
+      "jobId": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333",
+      "company": "Oshkosh",
+      "title": "NASCAR Cup Track Support Engineer – Entry Level",
+      "postedToDiscord": "2025-12-20T22:50:08.265Z",
+      "sourceDate": "2025-12-17T23:52:04.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
+      "discordThreadId": "1452070581553074217",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-software-engineer-i_r52446-1-2025-12-20-1",
+      "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-software-engineer-i_r52446-1",
+      "company": "Cadence Design Systems",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:50:11.727Z",
+      "sourceDate": "2025-12-17T23:50:46.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R52446-1",
+      "discordThreadId": "1452070596438392933",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008-2025-12-20-1",
+      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008",
+      "company": "Auto-Owners Insurance",
+      "title": "Math Major Software Developer",
+      "postedToDiscord": "2025-12-20T22:50:15.254Z",
+      "sourceDate": "2025-12-17T23:48:31.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
+      "discordThreadId": "1452070610887774343",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-finance-ai-ml-engineer_1200240-1-2025-12-20-1",
+      "jobId": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-finance-ai-ml-engineer_1200240-1",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Finance AI/ML Engineer",
+      "postedToDiscord": "2025-12-20T22:50:21.877Z",
+      "sourceDate": "2025-12-18T02:16:18.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer_1200240-1",
+      "discordThreadId": "1452070638465585213",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767-2025-12-20-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767",
+      "company": "Walmart",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2025-12-20T22:50:25.303Z",
+      "sourceDate": "2025-12-17T23:52:29.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767",
+      "discordThreadId": "1452070653287989359",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mcadams-jobs-5006966007-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-mcadams-jobs-5006966007",
+      "company": "McAdams",
+      "title": "Instrument Operator 1 - Surveying",
+      "postedToDiscord": "2025-12-20T22:50:32.189Z",
+      "sourceDate": "2025-12-17T23:47:53.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mcadams/jobs/5006966007",
+      "discordThreadId": "1452070680697897093",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-people-insights-analyst-2-3_r10217558-2025-12-20-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-people-insights-analyst-2-3_r10217558",
+      "company": "Northrop Grumman",
+      "title": "People Insights Analyst",
+      "postedToDiscord": "2025-12-20T22:50:38.725Z",
+      "sourceDate": "2025-12-17T23:44:38.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/People-Insights-Analyst-2-3_R10217558",
+      "discordThreadId": "1452070709055459560",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 787,
+    "totalJobs": 797,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T22:37:11.366Z",
+      "date": "2025-12-20T22:50:38.726Z",
       "archived": 0
     }
   }
