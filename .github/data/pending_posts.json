@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Software Engineer 1",
-      "employer_name": "Intuit",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Join Intuit in this exciting opportunity.",
-      "job_apply_link": "https://jobs.intuit.com/job/mountain-view/software-engineer-i/27595/89635830672",
-      "job_posted_at_datetime_utc": "2025-12-18T02:16:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-i-27595-89635830672",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer 1",
-      "employer_name": "Intuit",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "<p style='margin: 0px;'><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>This is an early-career position where you&rsquo;ll gain hands-on experience building frontend features, fixing bugs, and learning modern web development practices. You will work with senior engineers and cross-functional partners to deliver customer-first solutions that simplify financial workflows for millions of small businesses.</span></p><br><p class='Responsibilities'><strong>Responsibilities</strong></p><ul><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Implement simple UI features or bug fixes using JavaScript, HTML, and CSS within established architecture.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Collaborate with senior engineers, designers, and product managers in an agile development team.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Write well-documented, testable code and participate in code reviews.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Assist in integrating frontend components with backend APIs and services.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Debug and resolve defects with guidance from more experienced engineers.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Learn and apply engineering best practices such as test-driven development (TDD), accessibility, and responsive design.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Gain exposure to the Fintech domain, including customer experiences related to invoicing, payments, and money movement.</span></li></ul><br><p class='Qualifications'><strong>Qualifications</strong></p><ul><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Bachelor&rsquo;s degree in Computer Science or related field, or equivalent practical experience.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Academic or personal project experience with frontend technologies (JavaScript, HTML, CSS).</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Understanding of basic programming concepts, version control, and software testing.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Willingness to learn secure software development practices and CI/CD workflows.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Strong problem-solving mindset and a collaborative, growth-oriented attitude.</span></li><li><span style='font-size: 10.0pt; font-family: 'AvenirNext forINTUIT',sans-serif;'>Familiarity with any JavaScript SPA framework (e.g., React, Angular, Vue) is a plus.</span></li></ul><br><p>Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at <a href='https://www.intuit.com/careers/benefits/full-time-employees/' target='_blank' rel='noopener noreferrer' id='isPasted'>Intuit®: Careers | Benefits</a>). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is:&nbsp;</p><p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:12pt;font-family:'Aptos',sans-serif;' data-pasted='true'><span style='font-size:11pt;font-family:'Aptos Narrow',sans-serif;color:black;'>Bay Area California $</span> 55.50- 75.00</p><p><br></p>",
-      "job_apply_link": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89635839264",
-      "job_posted_at_datetime_utc": "2025-12-18T02:16:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89635839264",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Finance AI/ML Engineer",
-      "employer_name": "Hewlett Packard Enterprise",
-      "job_city": "Spring",
-      "job_state": "TX",
-      "job_description": "Finance AI/ML Engineer  This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.Who We Are:Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.Job Description:   Job Family Definition:Develops and programs integrated software algorithms to structure, analyze and leverage structured and unstructured data in product and systems applications. Can work with large scale computing frameworks, data analysis systems, and modeling environments.Uses machine learning and statistical modeling techniques to improve product/system performance, data management, quality, and accuracy. Formulates descriptive, diagnostic, predictive and prescriptive insights/algorithms and translates technical specifications into code. Applies, optimizes and scales deep learning technologies and algorithms to give computers the capability to visualize, learn and respond to complex situations. Documents procedures for installation and maintenance, completes programming, performs testing and debugging, defines and monitors performance metrics.Contributes to the success of HPE by translating customer requirements and industry trends into AI/ML products, solutions, and systems improvement projects.Management Level Definition:Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters.Responsibilities:Designs, develops and implements AI and machine learning models. This includes data pre-processing, feature engineering, algorithm selection, model training, and evaluation.Gathers and analyzes relevant data sets to train and test machine learning (ML) models. Understands data analysis techniques, statistical methods, and data visualization to gain insights from the data and make informed decisions.Optimizing algorithms and models to improve their performance is an essential responsibility for AI and Machine Learning Engineers. This involves fine-tuning hyperparameters, conducting experiments, implementing optimization techniques, and employing feature selection or dimensionality reduction methods.Works closely with cross-functional teams, including data scientists, software engineers, product managers, and domain experts. Collaboration is crucial for understanding project requirements, aligning objectives, and integrating AI/ML solutions into existing systems or products.Keeping accurate and up-to-date AI and machine learning project documentation. Document work, including methodologies, code, and experimental results. Responsible for preparing reports and presenting findings or recommendations to stakeholders.Participates in regular design review sessions with the engineering manager, team leader, and other stakeholders to ensure that design choices align with project requirements and best practices.Actively seeks and incorporates feedback from the engineering manager or team leader during the design and implementation phases to ensure continuous improvement and adherence to project goals.Attends daily or weekly stand-up meetings led by the engineering manager or team lead providing updates on progress, discuss challenges, and coordinate efforts with other team members.Prepares and delivers detailed presentations and reports to stakeholders as directed by the engineering manager and team lead, ensuring that complex technical information is communicated clearly and effectively.May be required to interpret and report data findings and maintain or update specific business intelligence tools, databases, dashboards, systems, or methods.Education and Experience Required:Bachelor's degree in computer science, engineering, data science, machine learning, artificial intelligence, or closely related quantitative discipline. Master’s degree is desirable.Typically, 0-2 years’ experience.Knowledge and Skills:Proficiency in programming languages such as Python, R, or Java is required. Knowledge of libraries and frameworks commonly used in AI and machine learning, such as TensorFlow, PyTorch, or scikit-learn, is highly beneficial.A solid understanding of statistics, probability, linear algebra, calculus, and optimization methods is crucial for building and evaluating machine learning models.In-depth knowledge of machine learning algorithms, techniques, and concepts is essential. This includes supervised and unsupervised learning, deep learning, neural networks, reinforcement learning, and natural language processing.Proficiency in working with large datasets, data pre-processing, data cleaning, and exploratory data analysis is necessary. Experience with SQL and databases and data visualization tools like Matplotlib or Tableau is required.Additional Skills:Artificial Intelligence Technologies, Cross Domain Knowledge, Data Engineering, Data Science, Design Thinking, Development Fundamentals, Full Stack Development, IT Performance, Machine Learning Operations, Scalability Testing, Security-First MindsetWhat We Can Offer You:Health & WellbeingWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.Personal & Professional DevelopmentWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.Unconditional InclusionWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.Let's Stay Connected:Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #unitedstates#gradsJob:EngineeringJob Level:TCP_01    \"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. – United States of America: Annual Salary USD 81,700 - 187,800 in TexasThe listed salary range reflects base salary. Variable incentives may also be offered.\"Information about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.htmlHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.   HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.   No Fees Notice & Recruitment Fraud Disclaimer It has come to HPE’s attention that there has been an increase in recruitment fraud whereby scammer impersonate HPE or HPE-authorized recruiting agencies and offer fake employment opportunities to candidates.  These scammers often seek to obtain personal information or money from candidates. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge any candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process.  The credentials of any hiring agency that claims to be working with HPE for recruitment of talent should be verified by candidates and candidates shall be solely responsible to conduct such verification. Any candidate/individual who relies on the erroneous representations made by fraudulent employment agencies does so at their own risk, and HPE disclaims liability for any damages or claims that may result from any such communication.",
-      "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer_1200240-1",
-      "job_posted_at_datetime_utc": "2025-12-18T02:16:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-finance-ai-ml-engineer_1200240-1",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer 1 - Innovation",
-      "employer_name": "Nike",
-      "job_city": "Beaverton",
-      "job_state": "OR",
-      "job_description": "WHO YOU’LL WORK WITHYou’ll be part of a team of talented software engineers focused on delivering scalable, high-impact solutions across Nike’s product and consumer platforms. You’ll collaborate closely with product managers, architects, data scientists, and cross-functional engineering teams.WHO WE ARE LOOKING FORWe’re seeking a passionate software engineer who can thrive in a fast-paced, collaborative environment. You bring:Open to work in Beaverton, OR0–2 years of software engineering experienceBachelor’s degree in Computer Science or related field. Will accept any suitable combination of education, experience and trainingStrong software engineering fundamentalsHave strong technical and non-technical communications skills.Relentless thirst for learning and contributing Highly curious and collaborative team player who is eager to participate in team discussions and contributeSomeone with a positive attitude and growth mindsetSomeone who likes to tinker with small to medium sized personal projectsExperience working in agile environments, AIML, AWS, Typescript, React, Python and building RESTful APIs is a huge plusWHAT YOU’LL WORK ONAs a Software Engineer in CP&I, you will:Work with a highly talented team of engineers at various levels in the organizationWork on full stack application development on latest cloud technologies using AWS, React, Typescript and PythonGain experience working in all levels of software development life cycle from design, development, deployment, devops, CICD, testing, user engagement and supportParticipate in peer code review and team level design discussionsWe offer a number of accommodations to complete our interview process including screen readers, sign language interpreters, accessible and single location for in-person interviews, closed captioning, and other reasonable modifications as needed. If you discover, as you navigate our application process, that you need assistance or an accommodation due to a disability, please complete the Candidate Accommodation Request Form.",
-      "job_apply_link": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-76383",
-      "job_posted_at_datetime_utc": "2025-12-18T00:14:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nike-wd1-myworkdayjobs-com-nke-job-beaverton-oregon-software-engineer-i-innovation_r-76383",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "Senior Data Scientist",
-      "employer_name": "Walmart",
-      "job_city": "Bentonville",
-      "job_state": "AR",
-      "job_description": "Position Summary...What you'll do...Senior Data Scientist for Walmart Claim Services \nLocation: Bentonville, AR \nJoin us in revolutionizing data-driven decision-making in the world’s largest company! Walmart Claim Services (WCS) is looking for a talented Staff Data Scientist to support our team of over 550 professional who operate like an internal insurance company, managing claims for our associates and customers across the nation. \nAbout Us: \nWCS works closely with our Legal, Safety, & Finance partner and external vendors to provide data insights for informed, data-driven decisions. Our data science and analytics team consist of talented group of data specialists who manage data, develop statistical, machine learning, NLP, Gen AI models/ solutions, and maintain reporting tools, ensuring we remain a world-class business. \nAs a Staff Data Scientist, you will utilize your expertise in data mining, predictive modeling, machine learning, and NLP techniques to drive strategic decisions for WCS. You will be at the forefront of implementing models and strategies using A/B testing or Design of Experiments (DOE), tracking business performance, and providing insightful visualizations to support and continuously improve WCS business strategy. \nKey Responsibilities: Design, develop and Deploy innovative Machine Learning, Natural Language Processing (NLP), AI Agents, Gen AI, and Graph Neural Network (GNN) models using Python/GCP or other modeling tools.Design and conduct A/B Testing and multivariate experiments (DOE), tracking results to provide actionable recommendations to business partners.Develop clear, concise, and powerful data visualizations using BI tools like Power BI or Tableau.Utilize SQL, Python, Google Cloud, MLOps, Tableau, Power BI, R or SAS to prepare data for analysis, modeling, deployment, and reporting.Identify business process gaps and devise analytical solutions to address them.\nIdeal Candidate: A self-starter, able to work independently and overcome obstacles to achieve results.A multi-tasker, capable of managing multiple technical projects while delivering results.A problem solver, with a high degree of intellectual curiosity and solid business acumen.An excellent communicator, able to present significant analysis in a concise manner to key stakeholders.A flexible thinker, comfortable with ambiguity and adept at fact-finding.\n \nIn joining Walmart’s WCS team, you get to be part of a global company that is at the forefront of leveraging data for business insights. This role offers the opportunity to work with complex, large-scale datasets, and cutting-edge technologies, providing a platform for continuous learning and professional growth. Furthermore, Walmart’s commitment to innovation makes it an exciting environment for data analysts who want to make a significant impact. \n \n At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n \nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. \n \nFor information about PTO, see https://one.walmart.com/notices. \n \nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart. \nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms. \nFor information about benefits and eligibility, see One.Walmart. \n\nThe annual salary range for this position is $90,000.00 - $180,000.00 \n \nAdditional compensation includes annual or quarterly performance bonuses. \n \nAdditional compensation for certain positions may also include : \n- Stockㅤㅤㅤㅤ‎ Minimum Qualifications...Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Option 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.Preferred Qualifications...Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.Primary Location...905 Customer Dr, Bentonville, AR 72716, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-      "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767",
-      "job_posted_at_datetime_utc": "2025-12-17T23:52:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "NASCAR Cup Track Support Engineer – Entry Level",
-      "employer_name": "Oshkosh",
-      "job_city": "Huntersville",
-      "job_state": "NC",
-      "job_description": "About Pratt Miller, an Oshkosh companyPratt Miller is a product development company in motorsports, defense, and mobility industries providing clients with product engineering and low-volume production solutions. Our range of research & development, engineering, prototype manufacturing, test & validation, and low-rate production capability help our customers bring their high-quality products to market faster.Pratt Miller is looking for a NASCAR Track Support Engineer to join its Competition Engineering Department. This engineering role will serve as a key team support role that would support the race team’s engineering efforts across multiple areas including software tool support, race engineering, reporting, simulation, and general engineering support.  This role will support the Kaulig Racing NASCAR Cup program.ESSENTIAL DUTIES AND RESPONSIBILITIES:Internal Group SupportServe as an engineering resource in support of project efforts:Provide input in vehicle model simulation development and correlationSupport rig, simulation, and track testing with respect to project deliverables and outputProviding input and feedback in the development of internal toolsets and processesRace Team SupportAct as the main point of contact for Pratt Miller tools and engineering support:General objectives are to support the team through use of internal documentation, tool sets, and knowledge base including but not limited to:Pre/post event reportingVehicle Engineering System (VES) and mileage trackingSimulation toolsDrive-in-the-Loop (DiL) testingRace strategyPre-event support and shop-based preparation to assist the team’s race weekend preparation through:Generation and distribution of pre-event report documentationParticipation in pre-event meetingPerform pre-event strategy analysisPerform pre-event simulation work and setup optimizationSupport of any DiL or static sim sessionsAt-event support of the teamAssist in vehicle setup trackingPerform simulation and correlation work as neededAssist in race strategy planning and executionSupport the use of Pratt Miller tools by the teamPost event support to advance customer and program performance:Documentation and reporting on performance and operation issues and opportunitiesParticipate in team event debrief meetingsParticipation/organization of meetings to review above mentioned information with Pratt Miller team to advance tools, processes, and technologyTeam Member InteractionsThis role will interface heavily with our team. Overall communication and interaction are expected to be handled in a collaborative manner for the overall improvement of performance and execution.ESSENTIAL KNOWLEDGE AND SKILLS:Strongly EncurragedBS in engineering or other advanced technical backgroundBackground in motorsport with 2 years of experience, including tracksideBackground in vehicle dynamics and controls engineeringDesired Specialized Knowledge and SkillsGroup or project management experienceGeneral engineering background covered as part of duties outlined aboveKnowledge of vehicle dynamicsRace strategyFamiliar with data acquisition systems - Preferably motorsport basedMotecPI ToolboxExperience in general data review and processingPythonMatlabExcelWork Environment/Physical DemandsStress may occur periodicallyLong hours may be required at timesTravel required but would vary on support needs. Total travel commitments can range from 50 to 150 days a year.Work environment can vary between group and individual assignments and tasksOther RequirementsAbility to travel outside of continental US with no restrictionsPay Range: $63,500.00 - $101,700.00The above pay range reflects the minimum and maximum target pay for the position across all U.S. locations. Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience, education and skills, as well as the equity of pay among team members in similar positions. Beyond offering a competitive total rewards package, we prioritize a people-first culture and offer various opportunities to support team member growth and success.Oshkosh is committed to working with and offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability for any part of the recruitment process, please contact our talent acquisition team by email corporatetalentacquisition@oshkoshcorp.com.Oshkosh Corporation is a merit-based Equal Opportunity Employer. Job opportunities are open for application to all qualified individuals and selection decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or other protected characteristic. To the extent that information is provided or collected regarding categories as provided by law it will in no way affect the decision regarding an employment application.Oshkosh Corporation will not discharge or in any manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with Oshkosh Corporation's legal duty to furnish information.Certain positions with Oshkosh Corporation require access to controlled goods and technologies subject to the International Traffic in Arms Regulations or the Export Administration Regulations. Applicants for these positions may need to be \"U.S. Persons,\" as defined in these regulations. Generally, a \"U.S. Person\" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or granted asylum.",
-      "job_apply_link": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
-      "job_posted_at_datetime_utc": "2025-12-17T23:52:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer 1",
-      "employer_name": "Cadence Design Systems",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.The candidate will be a member of the R&D team working on the industry leading Virtuoso Platform; working on the development and maintenance of OpenAccess and other core Infrastructure components. The candidate must be comfortable working with existing code as well as developing new functionality to address new requirements.Position Requirements:Candidate must be familiar with software engineering methods and committed to high quality development work. The individual must be team-oriented, possess good communication skills, self-motivated, able to work independently. Candidate must be able to develop detailed technical specification as well as the ability to scope efforts required.Strong problem solving, algorithmic, and good understanding of C/C++ language.BS degree in Computer Science is required.The annual salary range for California is $88,900 to $165,100. You may also be eligible to receive incentive compensation: bonus, equity, and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the salary range is a guideline and compensation may vary based on factors such as qualifications, skill level, competencies and work location. Our benefits programs include: paid vacation and paid holidays, 401(k) plan with employer match, employee stock purchase plan, a variety of medical, dental and vision plan options, and more.We’re doing work that matters. Help us solve what others can’t.",
-      "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R52446-1",
-      "job_posted_at_datetime_utc": "2025-12-17T23:50:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-software-engineer-i_r52446-1",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "Math Major Software Developer",
-      "employer_name": "Auto-Owners Insurance",
-      "job_city": "East Lansing",
-      "job_state": "MI",
-      "job_description": "A career at Auto-Owners is challenging and rewarding.  Our group of caring associates create financial security by helping individuals and businesses make a new start when a loss occurs.Job DescriptionWe offer a merit-based work-from-home program based on job responsibilities. After initial training in-person, this specific role could have the flexibility to work from home up to 3 days per week.Please note that we are not currently hiring fully remote positions. All candidates must have the ability to work in one of our tech offices. Our tech office for this role is in Lansing, Michigan only.Auto-Owners Insurance, a top-rated insurance carrier, is seeking a motivated individual to join our IT Division as a COBOL Software Developer. COBOL (common business-oriented language) is a procedural computer programming language. A candidate with a Math/Applied Math, Actuarial Science, Economics, or other logic-based educational background is traditionally successful in learning to program in this language. Full training is provided, and no previous programming experience is required. Ideal candidates will have strong grades in the aforementioned areas of study and have an interest in learning software development. Responsibilities include developing, maintaining, and supporting software applications for new and existing systems. The position requires the person to:Define, develop, test, analyze, and maintain software programs and applicationsActively participate in code/design reviews as well as brainstorming sessionsDevelop program and system documentationAnalyze and fix software errors in a timely and accurate fashionConsult with users, architects, project leaders, and management to resolve problems and suggest alternativesDesired Skills and ExperienceBachelor’s degree in Computer Science, Information Systems, Information Technology, Management Information Systems, Math, Actuarial Science, Economics, Statistics, or another logic-based field, or equivalent experience is preferred.Knowledge of COBOL, DB2, TSO, databases, or SQL is a plusExposure to any of the following programming languages: R, SAS, Python, MATLAB, C, C++, JavaEnthusiasm for driving improvement by finding and implementing solutions to new challengesMust be able to learn and effectively use tools and software development techniques as practiced, acquired, or adopted within the IT DivisionBenefitsAuto-Owners offers a wide range of career opportunities, and we are seeking talent that will help us continue our long tradition of success. We offer a friendly work environment, structured training program, employee mentoring and an excellent compensation/benefits package. Along with a competitive base salary, matched 401(k), fully-funded pension plan (once vested), and bonus programs, Auto-Owners also provides generous paid time off including holidays, vacation days, personal time, and sick leave. If you're looking to do rewarding work alongside great people, Auto-Owners is the place for you!Equal Employment OpportunityAuto-Owners Insurance is an equal opportunity employer. The Company hires, transfers, and promotes on the basis of ability, without consideration of disability, age, sex, race, color, religion, height, weight, marital status, sexual orientation, gender identity or national origin, or any factor contrary to federal, state or local law.*Please note that the ability to work in the U.S. without current or future sponsorship is a requirement.#LI-DNI #IN-DNI",
-      "job_apply_link": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
-      "job_posted_at_datetime_utc": "2025-12-17T23:48:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "Instrument Operator 1 - Surveying",
-      "employer_name": "McAdams",
-      "job_city": "Tampa",
-      "job_state": "FL",
-      "job_description": "McAdams is a full-service land planning, landscape architecture, civil engineering, transportation, and geomatics firm located in North Carolina, South Carolina, Texas, and Florida. We seek to partner with our clients to create meaningful experiences through inspired design. Our employees are what make McAdams different. We bring experiences to the forefront of everything we do, and to do that takes special people. Position Overview Geomatics entry-level position within the survey crew team that assists with field surveying activities, equipment maintenance, and data collection. Key Responsibilities Assists and takes directions from survey crew chief to complete daily work activities Understands the basic operation of surveying equipment and data collection standards and guidelines Properly sets up back site, foresight, and survey instruments to ensure work accuracy Ensures that all necessary supplies and equipment are loaded in the company vehicle Assists crew chief with company truck maintenance, cleanliness and the daily stowing of surveying equipment Aids in maintaining a safe and respectful work environment by following company policies and procedures Executes JHA’s accurately and participates with pre and post job briefs Responsible for escalating potential hazards and unsafe working conditions Maintains good client relations to foster and perpetuate a long-term relationship Represents McAdams in the field with professional image through proper conduct and presentable appearance Follow guidelines and company standards set forth by the Geomatics department Skills + Experience High School Diploma or GED Required No experience required but must be willing to learn Hardworking and detail-oriented Punctual and dependable Must have a valid driver’s license Successfully pass a motor vehicle records check, drug test, and functional assessment Ability to develop and maintain effective working relationships with managers and peers Work Environment + Physical Demands The characteristics described below are representative of those encountered while performing the essential functions of this position. When properly requested and when feasible (without undue hardship to the company), reasonable accommodations will be made to enable individuals with disabilities to perform essential job functions. Work will primarily be outside with varying environmental conditions. Work will involve long-term standing and frequent walking as well as include common hazards encountered while maneuvering through project sites. Work will also include working with fingers by picking, pinching, typing, and grasping often with repetitive motion. Must be able to carry, lift and push/pull up to 50 pounds frequently and up to 100 pounds occasionally. Must be able to stand up or walk between 8-12 hours a day. Must have the ability to see, smell, hear, talk, climb, balance, stoop, kneel and twist, crouch, crawl, reach, grasp, sit, stand, and walk. Weekend and overtime and/or overnight work and travel may be required. Additional physical duties may be required as necessary. McAdams is an equal opportunity employer. All qualified candidates will receive consideration for employment without regard for race, color, religion, gender (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, veteran's status, or any other legally protected status. If you need assistance with our online application system process, please contact the Human Resources Team at 919.361.5000 or hrteam@mcadamsco.com. Please read these notices for important information regarding applying for work with McAdams. Know Your Rights: Workplace Discrimination is Illegal E-Verify (English/Spanish) Right to Work (English/Spanish)",
-      "job_apply_link": "https://job-boards.greenhouse.io/mcadams/jobs/5006966007",
-      "job_posted_at_datetime_utc": "2025-12-17T23:47:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-mcadams-jobs-5006966007",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
-      "job_title": "People Insights Analyst",
-      "employer_name": "Northrop Grumman",
-      "job_city": "McLean",
-      "job_state": "VA",
-      "job_description": "RELOCATION ASSISTANCE: No relocation assistance availableCLEARANCE TYPE: NoneTRAVEL: Yes, 10% of the TimeDescriptionAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.We are seeking a People Insights Analyst to join Northrop Grumman’s People AI & Analytics organization.  This position will support the Space Systems sector, and the selected candidate will report to the Manager, NGSP People Analytics.  We will consider hybrid or fully remote arrangements for this position, with preference for candidates located near Space System sites in Northern Virginia (Dulles, VA/McLean, VA), Redondo Beach, CA, Chandler, AZ, and Baltimore, MD.At Northrop Grumman, People AI & Analytics is a core domain within our Insights & Intelligence (i2) organization.  As part of our Chief Information & Digital Office (CIDO), i2 works with all enterprise domains and businesses to drive our data, analytics & AI transformation. As a People Insights Analyst, you will conduct quantitative analyses and develop innovative data products that help to answer challenging workforce questions.  Through these efforts, you will enable HR leaders and business partners to make informed decisions across multiple areas of human capital including, but not limited to talent acquisition, culture, talent management, compensation and retention.Keys to success:Being curious, detail-oriented, and ethically conscious.You seek to ask the right questions about our strategies, the business, and how we can use data to find solutions.You are a strategic thinker who can translate data to create well-informed decisions to enable better business outcomes.You want to drive positive change for our organizations, are candid and collaborative in taking on our most difficult analytics projects as well as the process and culture changes that accompanies them.You build deep and trusted partnerships at the working and organizational levels.Responsibilities will include, but are not limited to: Creating strategic analyses by forming structured hypotheses, identifying patterns in data using quantitative methods and effective data visualizations, and deriving insights that drive decision making.Authoring rigorous, data-driven, and peer reviewed reports (white papers and briefs) that inform and enable HR leaders and executives.Developing and maintaining innovative products that leverage data and advanced analytics.Defining data requirements, gathering and validating information, while also applying sound judgment for people-related business problems and workforce management decisions.Driving projects from initial concept through deployment, leveraging opportunities for automation.Working directly with a wide range of stakeholders, including executive leaders and HR partners, to understand organizational needs and business questions.This role can be performed by a level 2 (early career) or level 3 (mid-career) professional.As a full-time employee of Northrop Grumman, you are eligible for our robust benefits package including:Medical, Dental & Vision coverage401kEducational AssistanceLife InsuranceEmployee Assistance Programs & Work/Life SolutionsPaid Time OffHealth & Wellness ResourcesEmployee DiscountsThis position’s standard work schedule is a 9/80. The 9/80 schedule allows employees who work a nine-hour day Monday through Thursday to take every other Friday off.Basic Qualifications:Level 2: Bachelor’s degree with 2 years of related professional experience - OR - a Master’s degree with 0 years of related professional data analytics experience. Level 3: Bachelor’s degree with 5 years of related professional experience - OR - a Master’s degree with at least 3 years of related professional data analytics experience - OR – a PhD with 1 year of related professional data analytics experience. Must have the ability to extract and manipulate data from databases using SQL and write custom queries. Familiarity with common table expressions and building views.Must have the ability to apply quantitative and statistical approaches to answer questions using data.Proficient using an object-oriented programming language (e.g., Python or R) to conduct analysis and create visualizations.Experience in data storytelling through building compelling, concise, and insightful white papers and presentations to communicate developed insights.Proficient in data visualization using Tableau or similar dashboarding tools.Experience collaborating on projects across teams, managing relationships, and communicating findings to audiences. Preferred Qualifications: Degree in a quantitative field (engineering, mathematics, economics, statistics, computer science, etc.) is preferred Experience with people- or talent-related dataFamiliarity with WorkdayExperience with lightweight markup languages like Quarto MarkdownProficient using version control software and source code editors (e.g. git, VSCode) Experience interfacing with and presenting to executive audiencesExperience with data storage and retrieval techniques, ETL, and databasesFamiliarity with UX design principlesPrimary Level Salary Range: $72,100.00 - $125,200.00Secondary Level Salary Range: $89,400.00 - $155,400.00The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.The application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
-      "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/People-Insights-Analyst-2-3_R10217558",
-      "job_posted_at_datetime_utc": "2025-12-17T23:44:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-people-insights-analyst-2-3_r10217558",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": "2025-12-20T22:36:27.683Z",
-    "postedAt": "2025-12-20T22:50:41.739Z"
-  },
-  {
-    "job": {
       "job_title": "Analyst 1 - Full Stack",
       "employer_name": "Affirm",
       "job_city": "Remote in USA",
@@ -214,10 +14,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -234,10 +34,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -254,10 +54,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -274,10 +74,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -294,10 +94,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -314,10 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -334,10 +134,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -354,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -374,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -394,10 +194,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T22:49:54.113Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:05:03.606Z"
   },
   {
     "job": {
@@ -405,16 +205,18 @@
       "employer_name": "Mercury Insurance",
       "job_city": "California",
       "job_state": "Locations",
-      "job_description": "Join Mercury Insurance in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>Kick-start your career with Mercury Ignite: Join the Mercury Ignite Graduate Program in Data Science – a 12-month structured journey that offers hands-on experience across real business projects, rotations through key verticals within Data Science, and a dedicated role at the end of the program. You’ll strengthen your skills with access to LinkedIn Learning and the CodeSignal Learn platform, while an assigned buddy supports your culture fit and helps you thrive from day one.</p> <p>&nbsp;</p> <h2>Geo-Salary Information</h2> <p><strong>We are one team.</strong>The Mercury Enterprise Data Science (EDS) team is the technology engine focused on utilizing advanced analytics to drive pricing and product excellence. We function as \"One Team,\" leveraging data to solve complex business problems. Our core focus areas include:• Pricing &amp; Underwriting: Improving risk assessment models for accurate decision- making.• Claims: Optimizing indemnity through predictive analytics.• Growth: Driving business expansion through advanced customer and agent segmentation to identify new opportunities and optimize sales performance.</p> <h2>Responsibilities</h2> <p>We are seeking curious, passionate, and hard-working graduates to join our remote graduate program. In this role, you won't just \"run numbers\"—you will collaborate with engineers and product leaders to build solutions that impact the bottom line.</p> <ul> <li><strong>Rotate &amp; Learn</strong>: Complete a structured rotation through different areas of Data Science, building a solid foundation in advanced analytical techniques, statistical methods, and machine learning algorithms.</li> <li><strong>Build &amp; Deploy</strong>: Go beyond analysis; identify relevant data sources, perform feature engineering, and collaborate with engineering teams to implement models into </li> <li><strong>Drive Innovation</strong>: Create and maintain monitoring procedures for model performance and proactively look for ways to improve accuracy and </li> <li><strong>Collaborate</strong>: Partner with Subject Matter Experts (SMEs), Business Intelligence, and IT teams to translate complex data insights into clear, actionable business strategies.</li> </ul> <ul> <li><strong>Visualize</strong>: Design automated dashboards and reports (using Python, SQL, or BI tools) to communicate results to stakeholders.</li> </ul> <h2>Qualifications</h2> <h1>Education Requirements</h1> <ul> <li>Be legally eligible to work in the U.S.</li> <li>Recently completed a bachelor's or both bachelor's and master's degree in a quantitative or Information Technology field (computer science, Data science, etc.)</li> <li>Able to provide a cumulative GPA, as reported by your school. Minimum 3.0 GPA required, 3.5 or higher GPA preferred.</li> <li>Graduation date on or after November 2025 but no later than June 2026</li> <li>Planning to seek full-time employment by June 2026</li> </ul> <h1>Preferred Skills &amp; Abilities</h1> <ul> <li><strong>Technical Proficiency</strong>: Strong programming skills in Python (pandas, scikit-learn) and SQL are essential.</li> <li><strong>Analytical Mindset</strong>: Solid understanding of statistical models and machine learning techniques (Regression, Classification, Clustering, ).</li> <li><strong>Communication</strong>: Excellent verbal and written communication skills; ability to explain technical concepts to non-technical audiences.</li> <li><strong>Curiosity</strong>: A willingness to independently learn new tools and dig deep into ambiguous data </li> <li><strong>Bonus Points</strong>: Familiarity with Cloud platforms (AWS), version control (Git), or visualization </li> </ul> <p>&nbsp;</p> <h2>Physical Requirements</h2> <h1>Physical Actions</h1> <p>Required job duties are essentially sedentary in nature, consisting of occasional walking, standing, lifting, and/or carrying ten pounds maximum.</p> <p><strong>If you’re interested in launching your career with Mercury Insurance - Apply today!</strong></p> <h2>About the Company</h2> <p><strong><em>Why choose a career at Mercury?</em></strong></p> <p>At Mercury, we have been guided by our purpose to help people reduce risk and overcome unexpected events for more than 60 years. We are one team with a common goal to help others. Everyone needs insurance and we can’t imagine a world without it.</p> <p>Our team will encourage you to grow, make time to have fun, and work together to make great things happen. We embrace the strengths and values of each team member. We believe in having diverse perspectives where everyone is included, to serve customers from all walks of life.</p> <p>We care about our people, and we mean it. We reward our talented professionals with a competitive salary, bonus potential, and a variety of benefits to help our team members reach their health, retirement, and professional goals.</p> <p>&nbsp;</p> <p>Learn more about us here:&nbsp;https://www.mercuryinsurance.com/about/careers</p> <h2>Perks and Benefits</h2> <p><strong>Why a Mercury Ignite Graduate Program</strong>• Accelerated Growth: An entry-level role designed to give you broad exposure to AI, Data, and Automation across the enterprise.• Mentorship: You will be assigned a \"Buddy\" and have direct access to senior data scientists to support your assimilation and growth.• Real Impact: Full-time opportunity to gain hands-on experience with high-priority projects.• Total Rewards: Earn a competitive salary with a comprehensive benefits package.</p> <h2>Pay Range</h2>USD $80,000.00 - USD $90,000.00 /Yr.",
       "job_apply_link": "https://careers-mercuryinsurance.icims.com/jobs/5989/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-12-17T23:21:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-mercuryinsurance-icims-com-jobs-5989-job"
+      "id": "careers-mercuryinsurance-icims-com-jobs-5989-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "Enova",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Enova in this exciting opportunity.",
+      "job_description": "We are interested in every qualified candidate who is eligible to work in the United States. However, we are not able to sponsor visas or take over sponsorship at this time. About the Role As a Software Engineer, you will design and implement technical solutions to solve business problems. You will collaborate closely with other engineers to build scalable, reliable systems, learning from Senior Engineers, Lead Engineers, and Architects along the way. Many challenges have multiple viable solutions, and you will be expected to evaluate trade-offs, recommend the best approach, and drive it through to completion. You will also partner with Product Management, Analytics, and Operations teams to deliver meaningful business value. Requirements Experience designing and implementing technical solutions using Java or ReactJS Strong understanding of database concepts (e.g., SQL, tables, indexes, migrations) and experience writing complex queries Passion for building systems using service-oriented and event-driven architectures Interest in developing both frontend and backend components as part of a full-stack team Experience troubleshooting production issues using observability and monitoring tools Willingness to participate in a periodic on-call rotation Strong commitment to continuous learning and professional growth Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience Nice to Have Experience with additional languages such as Go or Python Familiarity with container technologies like Docker and Kubernetes AWS experience and/or certifications Working knowledge of modern web standards Contributions to popular open-source projects (please include GitHub links) Compensation: This position includes various levels within our career ladder. The actual annual salary will be determined based on qualifications, skills, experience, and level assessed during the hiring process and may fall outside of the ranges shown. Budgeted annual salary ranges: Software Engineer I: $68,000 - $90,000Software Engineer II: $84,000 - $110,000 Additional compensation for this role may include a bonus. All full-time employees are eligible to participate in Company benefits, described in more detail here.Benefits & Perks: Our hybrid roles require in-office work Tuesday through Thursday, with remote flexibility on Mondays and Fridays. This schedule fosters collaboration, team connection, and strategic planning, enhancing communication and effectiveness to drive results. Health, dental, and vision insurance including mental health benefits 401(k) matching plus a roth option (U.S. Based employees only) PTO & paid holidays off Sabbatical program (for eligible roles) Summer hours (for eligible roles) Paid parental leave DEI groups (B.L.A.C.K. @ Enova, HOLA @ Enova, Women @ Enova, Pride @ Enova, South Asians @ Enova, APEX @ Enova, and Parents @ Enova) Employee recognition and rewards program Charitable matching and a paid volunteer day…Plus so much more! About Enova Enova International is a leading financial technology company that provides online financial services through our AI and machine learning-powered Colossus™platform. We serve non-prime consumers and businesses alike, while offering world-class technology and services to traditional banks—in order to create accessible credit for millions. Being a values-driven organization is at the core of Enova’s success. We live our values by listening to our customers, challenging assumptions, thinking big, setting high expectations, and hiring and developing the best. Through our values and our commitment to making Enova an awesome place to work, we maintain an environment of inclusion and culture where our employees can thrive. You can learn more about Enova’s values and culture here. It is our policy to provide equal employment opportunity for all persons and not discriminate in employment decisions by placing the most qualified person in each job, without regard to any other classification protected by federal, state, or local law. California Applicants: Click here to review our California Privacy Policy for Job Applicants.",
       "job_apply_link": "https://job-boards.greenhouse.io/enova/jobs/3972487",
       "job_posted_at_datetime_utc": "2025-12-17T23:17:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-enova-jobs-3972487"
+      "id": "job-boards-greenhouse-io-enova-jobs-3972487",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -446,11 +250,13 @@
       "job_posted_at_datetime_utc": "2025-12-17T23:15:29.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89629337216"
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89629337216",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -459,16 +265,18 @@
       "employer_name": "Oracle",
       "job_city": "San Carlos",
       "job_state": "CA",
-      "job_description": "Join Oracle in this exciting opportunity.",
+      "job_description": "New College Grad Role intended for students graduating with their Master’s and/or Doctorate’s degree by, or have graduated within, 12 months of cohort start date in June/July 2026. Target Start Date: June or July 2026 Work Location: San Francisco Bay Area (Redwood Shores, CA) & Nashua, NH",
       "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320582",
       "job_posted_at_datetime_utc": "2025-12-17T23:15:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582"
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -477,16 +285,18 @@
       "employer_name": "DTCC",
       "job_city": "NYC",
       "job_state": "Locations",
-      "job_description": "Join DTCC in this exciting opportunity.",
+      "job_description": "The Information Technology group delivers secure, reliable technology solutions that enable DTCC to be the trusted infrastructure of the global capital markets. The team delivers high-quality information through activities that include development of essential, building infrastructure capabilities to meet client needs and implementing data standards and governance.",
       "job_apply_link": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212337",
       "job_posted_at_datetime_utc": "2025-12-17T23:09:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ebxr-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-212337"
+      "id": "ebxr-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-212337",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -495,16 +305,18 @@
       "employer_name": "LinkedIn",
       "job_city": "Mountain View",
       "job_state": "CA",
-      "job_description": "Join LinkedIn in this exciting opportunity.",
+      "job_description": "Software Engineer - FrontendFull-timeWorkplace Type: HybridCareer Track & Grade: IC2/7Department: EngineeringCompany DescriptionLinkedIn is the worlds largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. Were also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture thats built on trust, care, inclusion, and fun where everyone can succeed.Job DescriptionJob Description: At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of the team. Responsibilities: • You will own the front-end development for one or more of our products and collaborate with visual/interaction designers, other engineers, and product managers to launch new products, iterate on existing features, and build a world-class user experience. • You will implement cutting-edge technologies and will be writing state-of-the-art code to keep LinkedIn at the cutting edge of current technology. • Your specific expertise will be required to make the site delightful, secure, performant, and accessible to all our members.QualificationsBasic Qualifications: • BA/BS in Computer Science or related technical field or equivalent practical experience • 1+ years of industry experience in software design, development, and algorithm related solutions • Experience programming in languages such as Javascript, HTML, CSS, Python, Java, etc. Preferred Qualifications: • 2+ years of relevant work experience . • MS or PhD in Computer Science or related technical discipline . • Experience writing clean JavaScript including experience with modern frameworks (Angular/Ember/React) and debugging tools (Chrome Dev Tools, etc. ) • Expert-level knowledge of Ember. • Knowledge of (and a passion for) current trends and best practices in front-end architecture, including performance, accessibility, security and usability. • Prior experience building public API's with Java. • Experience building large-scale consumer facing products. Suggested Skills: • Javascript • HTML/CSS • Web Development • Advanced Programming Skills You will Benefit from our Culture: We strongly believe in the well-being of our employees and their families. That is why we offer generous health and wellness programs and time away for employees of all levels. LinkedIn is committed to fair and equitable compensation practices. The pay range for this role is $102,000 - $167,000. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor. The total compensation package for this position may also include annual performance bonus, stock, benefits and/or other applicable incentive compensation plans. For additional information, visit: https://careers.linkedin.com/benefits.Additional InformationEqual Opportunity Statement We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an inclusive and accessible workplace where everyone has the opportunity to be successful.If you need a reasonable accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us at [email protected] and describe the specific accommodation requested for a disability-related limitation.Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process. Examples of reasonable accommodations include but are not limited to:Documents in alternate formats or read aloud to youHaving interviews in an accessible locationBeing accompanied by a service dogHaving a sign language interpreter present for the interviewA request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an application, will not receive a response.LinkedIn will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by LinkedIn, or (c) consistent with LinkedIn's legal duty to furnish information.San Francisco Fair Chance Ordinance ​Pursuant to the San Francisco Fair Chance Ordinance, LinkedIn will consider for employment qualified applicants with arrest and conviction records. Pay Transparency Policy Statement ​As a federal contractor, LinkedIn follows the Pay Transparency and non-discrimination provisions described at this link: https://lnkd.in/paytransparency. Global Data Privacy Notice for Job Candidates ​Please follow this link to access the document that provides transparency around the way in which LinkedIn handles personal data of employees and job applicants: https://legal.linkedin.com/candidate-portal.I'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/LinkedIn3/744000099403125",
       "job_posted_at_datetime_utc": "2025-12-17T23:03:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-smartrecruiters-com-linkedin3-744000099403125"
+      "id": "jobs-smartrecruiters-com-linkedin3-744000099403125",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -513,16 +325,18 @@
       "employer_name": "Agilent Technologies",
       "job_city": "United Kingdom",
       "job_state": "Locations",
-      "job_description": "Join Agilent Technologies in this exciting opportunity.",
+      "job_description": "Job DescriptionAgilent inspires and supports discoveries that advance the quality of life. We provide life science, diagnostic and applied market laboratories worldwide with instruments, services, consumables, applications and expertise. Agilent enables customers to gain the answers and insights they seek - so they can do what they do best: improve the world around us. Information about Agilent is available at www.agilent.com.We are looking for a skilled Full Stack Software Developer to join our collaborative Research & Development group at the Harwell Science Campus near Oxford, UK. In this key role, you will work alongside firmware, hardware, quality, and data science engineers to develop commercial web-based spectroscopy applications used by laboratories worldwide.Responsibilities: Collaborate with cross-functional R&D teams to design, implement, debug, test, and document new software features and applications.Develop high-quality solutions using .NET and Angular within an Agile SCRUM framework.Transform market requirements and technical specifications into innovative, user-friendly applications.Contribute to system architecture, API design, web UI, database integration, and DevOps processes.Participate in code reviews, test-driven development, and structured project planning to ensure excellence. QualificationsProven experience: 1+ years as a software engineer using a range of technologies. Exceptional candidates with less experience will also be considered.Strong proficiency in C# and modern front-end development with Angular (or similar frameworks).Experience in API design, web page design, databases, DevOps, and test-driven development is highly valued.Ability to work effectively within a collaborative team environment and communicate across multidisciplinary groups.Willingness to work at least 3 days per week on-site in HarwellOn a personal level, you possess great problem solving / analytical skills, and you are eager to learn about new software technology, instruments, applications, and consumables. You have communication/ interpersonal skills to interact at various levels, and you strive to provide excellent customer support. You enjoy both working within a team and autonomously.What We Offer:Position can be, hybrid or office based.Comprehensive training and development opportunities to help you excel in your field, starting with an Onboarding program to ensure you have a smooth start with our team.A dynamic environment focused around delivering best-of-class customer service.Agilent offers core global benefits to all staff - but in addition to these, the business offers, Stock Purchase Plan, Life Insurance, Pension, Healthcare, Employee Assistance Program, Holiday, and Company activities.A dedication to work/life balance. Additional DetailsThis job has a full time weekly schedule.Our pay ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. During the hiring process, a recruiter can share more about the specific pay range for a preferred location. Pay and benefit information by country are available at: https://careers.agilent.com/locationsAgilent Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.Travel Required: OccasionalShift: DayDuration: No End DateJob Function: R&D",
       "job_apply_link": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/R-D-Graduate-Software-Developer-Harwell-Science-Campus_4034599",
       "job_posted_at_datetime_utc": "2025-12-17T18:52:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-uk-harwell-r-d-graduate-software-developer-harwell-science-campus_4034599"
+      "id": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-uk-harwell-r-d-graduate-software-developer-harwell-science-campus_4034599",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "Advocate Health Care",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Advocate Health Care in this exciting opportunity.",
+      "job_description": "Department:80036 Research - Office of Research Analytics and Systems ComputingStatus: Full timeBenefits Eligible:YesHours Per Week:40Schedule Details/Additional Information:The Genomics Research Programmer Analyst – Associate is responsible for helping to build and maintain Advocate’s newly emergent genomic data warehouse to ensure high standards of data quality, security, and integrity. The role supports research initiatives by fulfilling data requests, which involves extracting genomic data and integrating it, when required, with patient clinical records and other sources to enable comprehensive analysis.Pay Range$30.15 - $45.25Major Responsibilities:· Monitors and ensures the integrity, quality, and security of genomic data stored in the data warehouse.· Develops, tests, and debugs moderately complex SQL and routine R or Python code to deliver reproduceable analysis ready datasets. Documents processes and rationales with code. Provides data dictionaries and descriptive statistics with datasets as appropriate.· Maintains documentation for data workflows, pipelines, and warehouse architecture.· Troubleshoots data pipeline issues and optimize performance.· Stays current with industry best practices and emerging technologies in genomics and data engineering.· Assists with defining functional requirements, formulating technical specifications, and researching and evaluating alternatives for moderately complex custom applications and processes that support research.· Participates in data mapping and cleaning activities. Makes recommendations and improves data quality within research data infrastructure.· Ensures datasets are accessible and provided to research investigators and stakeholders in a manner consistent with Health Insurance Portability and Accountability Act (HIPAA), Institutional Review Board (IRB), legal agreements, policies and procedures, and other appropriate standards.Licensure, Registration, and/or Certification Required:Epic Caboodle Data Model certification issued by Epic. needs to be obtained within 6 months, andEpic Clarity Data Model certification issued by Epic (CLR110). needs to be obtained within 6 months, andEpic Clinical Data Model certification issued by Epic (COG240). needs to be obtained within 6 months.Education Required:Bachelor's Degree in Computer Science or related field.Experience Required:No experience required.Knowledge, Skills & Abilities Required:· Knowledge of genomic data formats (e.g., VCF, FASTQ), genomic data management, and genomic research methods· Experience with SQL, R programming languages. Python and Bash preferred.· Familiarity with genomic analysis tools such as SAMtools, BEDtools, DESeq2· Ability to incorporate new technical and analytical skills into current capabilities.· Ability to think analytically, logically, and use creativity.· Ability to work independently, or as part of a team and balance multiple priorities.#Remote#LIRemotePreferred remote locations in IL, WI, NC, GAFully Remote Role from these states: AL, AK, AR, AZ, DE, FL, GA, IA, ID, IL, IN, LA, KS, KY, ME, MI, MO, MS, MT, NC, ND, NE, NH, NM, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, WI, WV, WY.Due to complex requirements, remote work is NOT permitted for short or long periods in: CA, CO, CT, HI, MA, MD, MN, NJ, NY, OR, RI, VT, WA and working Internationally (this includes working while on vacation).No relocation, No Sponsorship or transfer of visa for this position.Physical Requirements and Working Conditions:Position may require travel which may result in exposure to road and weather hazards.Exposed to normal office environment.Operates all equipment necessary to perform the job.This job description indicates the general nature and level of work expected of the incumbent. It is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent. Incumbent may be required to perform other related duties.Our Commitment to You:Advocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more – so you can live fully at and away from work, including:CompensationBase compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or trainingPremium pay such as shift, on call, and more based on a teammate's jobIncentive pay for select positionsOpportunity for annual increases based on performanceBenefits and morePaid Time Off programsHealth and welfare benefits such as medical, dental, vision, life, and Short- and Long-Term DisabilityFlexible Spending Accounts for eligible health care and dependent care expensesFamily benefits such as adoption assistance and paid parental leaveDefined contribution retirement plans with employer match and other financial wellness programsEducational Assistance ProgramAbout Advocate Health Advocate Health is the third-largest nonprofit, integrated health system in the United States, created from the combination of Advocate Aurora Health and Atrium Health. Providing care under the names Advocate Health Care in Illinois; Atrium Health in the Carolinas, Georgia and Alabama; and Aurora Health Care in Wisconsin, Advocate Health is a national leader in clinical innovation, health outcomes, consumer experience and value-based care. Headquartered in Charlotte, North Carolina, Advocate Health services nearly 6 million patients and is engaged in hundreds of clinical trials and research studies, with Wake Forest University School of Medicine serving as the academic core of the enterprise. It is nationally recognized for its expertise in cardiology, neurosciences, oncology, pediatrics and rehabilitation, as well as organ transplants, burn treatments and specialized musculoskeletal programs. Advocate Health employs 155,000 teammates across 69 hospitals and over 1,000 care locations, and offers one of the nation’s largest graduate medical education programs with over 2,000 residents and fellows across more than 200 programs. Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits.",
       "job_apply_link": "https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/Research-Programmer-Analyst-Associate---Remote_R190559-1",
       "job_posted_at_datetime_utc": "2025-12-17T18:03:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "aah-wd5-myworkdayjobs-com-external-job-aurora-sinai-medical-center-945-n-12th-st-research-programmer-analyst-associate-remote_r190559-1"
+      "id": "aah-wd5-myworkdayjobs-com-external-job-aurora-sinai-medical-center-945-n-12th-st-research-programmer-analyst-associate-remote_r190559-1",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -549,16 +365,18 @@
       "employer_name": "Jabil",
       "job_city": "Auburn Hills",
       "job_state": "MI",
-      "job_description": "Join Jabil in this exciting opportunity.",
+      "job_description": "At Jabil we strive to make ANYTHING POSSIBLE and EVERYTHING BETTER. We are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, manufacturing, and supply chain solutions. With over 50 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver both scalable and customized solutions. Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe. How will you make an impact?As a Configuration Management Analyst at our Auburn Hills, MI facility, you will play a critical role in managing engineering documentation and ensuring accuracy across Bill of Materials (BOMs), Approved Manufacturer Lists (AMLs), and CAD data. You’ll coordinate engineering change processes, resolve documentation discrepancies, and support product lifecycle management. Your attention to detail and technical expertise will help ensure smooth transitions and compliance across manufacturing operations.Location:On-site at Auburn Hills, MIWhat will you do?Coordinate and administer engineering change processes across site workcells.Review and validate customer documentation, resolving conflicting or unclear information.Ensure completeness of BOMs and Engineering Change Orders (ECOs) before initiating Engineering Change Notices (ECNs).Verify drawing revisions match BOM updates and post approved documentation to internal systems.Communicate changes to internal teams and obtain required approvals.Maintain archives of obsolete revisions and end-of-life documentation.Perform mass uploads for new assemblies and determine required media.Maintain and update AMLs based on customer requirements.Use Valor to:Validate PCB designs.Merge and analyze CAD, Gerber, BOM, and AML data.Identify and communicate manufacturing issues.Generate GenCad and golden BOMs for Engineering and Programming.Coordinate with Planning and Purchasing to ensure accurate effectivity dates and revision control.Work safely and comply with Environmental Health and Safety standards and company policies.How will you get here?Education:Bachelor’s degree in Business or related field preferred.Experience:0-2 years of experience in configuration management, documentation control, or engineering support.Or an equivalent combination of education, experience, and/or training.Knowledge, Skills, Abilities:Advanced reading, writing, and math skills (12th grade level or higher).Strong proficiency in Microsoft Windows and Jabil software packages.Excellent verbal and written communication skills.Ability to read and interpret technical prints and engineering documentation.Detail-oriented with strong organizational and multitasking abilities.Ability to work under tight deadlines and adapt to changing priorities.Familiarity with ISO 9000 standards and Windchill preferred.Experience with Valor and PCB documentation analysis tools.BenefitsMedical, Dental, Prescription Drug, and Vision Insurance with HRA and HSA options401K matchEmployee Stock Purchase PlanPaid Time OffTuition ReimbursementLife, AD&D, and Disability InsuranceCommuter BenefitsEmployee Assistance ProgramPet InsuranceAdoption AssistanceAnnual Base Pay Increase Community Volunteer Opportunities BE AWARE OF FRAUD: When applying for a job at Jabil you will be contacted via correspondence through our official job portal with a jabil.com e-mail address; direct phone call from a member of the Jabil team; or direct e-mail with a jabil.com e-mail address. Jabil does not request payments for interviews or at any other point during the hiring process. Jabil will not ask for your personal identifying information such as a social security number, birth certificate, financial institution, driver’s license number or passport information over the phone or via e-mail. If you believe you are a victim of identity theft, contact the Federal Bureau of Investigations internet crime hotline (www.ic3.gov), the Federal Trade Commission identity theft hotline (www.identitytheft.gov) and/or your local police department. Any scam job listings should be reported to whatever website it was posted in.Jabil, including its subsidiaries, is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, age, disability, genetic information, veteran status, or any other characteristic protected by law. Accessibility Accommodation  If you are a qualified individual with a disability, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access Jabil.com/Careers site as a result of your disability. You can request a reasonable accommodation by sending an e-mail to Always_Accessible@Jabil.com or calling 727-803-7988 with the nature of your request and contact information. Please do not direct any other general employment related questions to this e-mail or phone number. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to. #whereyoubelong #AWorldofPossibilities #EarlyCareer",
       "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Auburn-Hills-MI/Configuration-Management-Analyst_J2428597",
       "job_posted_at_datetime_utc": "2025-12-17T16:51:33.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-auburn-hills-mi-configuration-management-analyst_j2428597"
+      "id": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-auburn-hills-mi-configuration-management-analyst_j2428597",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "Northrop Grumman",
       "job_city": "Virginia",
       "job_state": "Locations",
-      "job_description": "Join Northrop Grumman in this exciting opportunity.",
+      "job_description": "RELOCATION ASSISTANCE: No relocation assistance availableCLEARANCE TYPE: NoneTRAVEL: Yes, 10% of the TimeDescriptionAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.Join our Insights & Intelligence (i2) organization to launch your career within the high-impact field of People Analytics. This role is a prime opportunity for an individual with a passion for learning Workday business processes and translating complex Human Resources (HR) data into insights. You will be instrumental in maintaining our HR data marts while ensuring there is secure data available for strategic decision making.Key ResponsibilitiesDevelop a strong understanding of Qualtric’s and Workday's core business processes and how changes in these processes directly impact data structures and downstream analytics.Focus on ensuring data quality and integrity for sensitive HR data. Work with other senior HR data engineers to define and validate key data fields from Workday, ensuring compliance and security standards are met.Code, test, and maintain ETL/ELT data pipelines using Python and SQL within the Databricks environment.Assist senior engineers in implementing foundational data models (e.g., employee dimensions, fact tables) that power analytical dashboards and support statistical analysis.Adhere strictly to defined standards for security and governance, paying close attention to the sensitivity of employee PII data.Support code reviews for members of People Analytics*This role can be supported by a level 2 (early career) or level 3 (mid-career) Data Engineer.Basic Qualifications for a level 2:Must have, at minimum, a Bachelor’s degree in Computer Science, Software Engineering, or a related technical field.Must have, at minimum, 2 years of hands-on experience in data engineering or software development.Must be proficient in SQL and Python.Must have experience with Workday and the underlying data and structures.Must have excellent communication skills, with a proven ability to translate technical concepts and data requirements for non-technical partners (HR/Analysts).Basic Qualifications for a level 3:Must have, at minimum, a Bachelor’s degree in Computer Science, Software Engineering, or a related technical field.Must have, at minimum, 5 years of hands-on experience in data engineering or software development.Must be proficient in SQL and Python.Must have experience with Workday and the underlying data and structures.Must have excellent communication skills, with a proven ability to translate technical concepts and data requirements for non-technical partners (HR/Analysts).Preferred QualificationsExperience with version control systems (e.g., Git) and writing unit tests for data transformation code.Experience with handling and implementing data governance and security as they relate to Personally Identifiable Information (PII).Experience working with Human Resources stakeholders and teams.Primary Level Salary Range: $83,400.00 - $125,200.00Secondary Level Salary Range: $103,600.00 - $155,400.00The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.The application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
       "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513",
       "job_posted_at_datetime_utc": "2025-12-17T16:45:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-data-engineer-2-3-people-analytics_r10217513"
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-data-engineer-2-3-people-analytics_r10217513",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T18:55:59.591Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:04:10.510Z",
     "postedAt": null
   },
   {

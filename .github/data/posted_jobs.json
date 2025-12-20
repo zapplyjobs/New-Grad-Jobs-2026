@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:50:38.726Z",
+  "lastUpdated": "2025-12-20T23:05:00.591Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -8768,14 +8768,124 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/People-Insights-Analyst-2-3_R10217558",
       "discordThreadId": "1452070709055459560",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-affirm-jobs-7560430003-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-affirm-jobs-7560430003",
+      "company": "Affirm",
+      "title": "Analyst 1 - Full Stack",
+      "postedToDiscord": "2025-12-20T23:04:17.986Z",
+      "sourceDate": "2025-12-17T23:41:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7560430003",
+      "discordThreadId": "1452074145692258316",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mckesson-wd3-myworkdayjobs-com-external_careers-job-usa-va-richmond-sr-associate-software-engineer-b2b-commerce_jr0140543-2025-12-20-1",
+      "jobId": "mckesson-wd3-myworkdayjobs-com-external_careers-job-usa-va-richmond-sr-associate-software-engineer-b2b-commerce_jr0140543",
+      "company": "McKesson",
+      "title": "Senior Associate Software Engineer - B2B Commerce",
+      "postedToDiscord": "2025-12-20T23:04:21.431Z",
+      "sourceDate": "2025-12-17T23:38:07.000Z",
+      "sourceUrl": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Sr-Associate-Software-Engineer--B2B-Commerce_JR0140543",
+      "discordThreadId": "1452074160485302333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121-2025-12-20-1",
+      "jobId": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121",
+      "company": "Airgas",
+      "title": "Vie – Research Associate - m/f/d",
+      "postedToDiscord": "2025-12-20T23:04:28.056Z",
+      "sourceDate": "2025-12-17T23:39:09.000Z",
+      "sourceUrl": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD/VIE---Research-Associate--M-F-D-_R10082121",
+      "discordThreadId": "1452074187828105358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-entry-level-software-engineer-devsecops_jr2025488890-1-2025-12-20-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-entry-level-software-engineer-devsecops_jr2025488890-1",
+      "company": "The Boeing Company",
+      "title": "Entry Level Software Engineer-DevSecOps",
+      "postedToDiscord": "2025-12-20T23:04:31.559Z",
+      "sourceDate": "2025-12-17T23:38:39.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-DevSecOps_JR2025488890-1",
+      "discordThreadId": "1452074202575274086",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273-2025-12-20-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273",
+      "company": "Leidos",
+      "title": "Entry-Level Software Developer",
+      "postedToDiscord": "2025-12-20T23:04:34.969Z",
+      "sourceDate": "2025-12-17T23:33:32.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
+      "discordThreadId": "1452074216982708327",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003",
+      "company": "Major League Baseball",
+      "title": "Data Operator",
+      "postedToDiscord": "2025-12-20T23:04:38.378Z",
+      "sourceDate": "2025-12-17T23:33:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7566484003",
+      "discordThreadId": "1452074231620964372",
+      "instanceNumber": 1
+    },
+    {
+      "id": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804-2025-12-20-1",
+      "jobId": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804",
+      "company": "MultiCare Health System",
+      "title": "Software Engineer 1 - Scm",
+      "postedToDiscord": "2025-12-20T23:04:41.945Z",
+      "sourceDate": "2025-12-17T23:30:13.000Z",
+      "sourceUrl": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR65804",
+      "discordThreadId": "1452074246154223666",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-lgelectronics-jobs-5039365008-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-lgelectronics-jobs-5039365008",
+      "company": "LG Electronics",
+      "title": "Shopfront Analyst - Contractor Role",
+      "postedToDiscord": "2025-12-20T23:04:48.450Z",
+      "sourceDate": "2025-12-17T23:35:41.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lgelectronics/jobs/5039365008",
+      "discordThreadId": "1452074273672925266",
+      "instanceNumber": 1
+    },
+    {
+      "id": "integritymarketing-wd1-myworkdayjobs-com-en-us-integrity-job-addison-tx-data-analyst_jr2176-1-2025-12-20-1",
+      "jobId": "integritymarketing-wd1-myworkdayjobs-com-en-us-integrity-job-addison-tx-data-analyst_jr2176-1",
+      "company": "Integrity",
+      "title": "IT Data Analyst 1",
+      "postedToDiscord": "2025-12-20T23:04:51.763Z",
+      "sourceDate": "2025-12-17T23:30:12.000Z",
+      "sourceUrl": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Addison-TX/Data-Analyst_JR2176-1",
+      "discordThreadId": "1452074288201994382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3-2025-12-20-1",
+      "jobId": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3",
+      "company": "Harris Computer",
+      "title": "Systems Analyst",
+      "postedToDiscord": "2025-12-20T23:05:00.591Z",
+      "sourceDate": "2025-12-17T23:32:22.000Z",
+      "sourceUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Blair/XMLNAME--Remote--Systems-Analyst_R0038516-3",
+      "discordThreadId": "1452074315955830816",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 797,
+    "totalJobs": 807,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T22:50:38.726Z",
+      "date": "2025-12-20T23:05:00.591Z",
       "archived": 0
     }
   }
