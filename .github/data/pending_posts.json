@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Machine Learning Graduate",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Graduate (E-Commerce Governance-CV/NLP/Multimodal/LLM)-2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7515582521393318151/detail",
-      "job_posted_at_datetime_utc": "2025-06-18T04:44:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515582521393318151-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": "2025-12-20T21:35:30.666Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - Orchestration) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7516656741909793042/detail",
-      "job_posted_at_datetime_utc": "2025-06-17T20:12:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516656741909793042-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": "2025-12-20T21:35:30.666Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Graduate - Applied Machine Learning - Training",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - Training) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7516656742424430856/detail",
-      "job_posted_at_datetime_utc": "2025-06-17T19:00:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516656742424430856-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Graduate - Applied Machine Learning - Mldev",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7516657604077914386/detail",
-      "job_posted_at_datetime_utc": "2025-06-17T18:59:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516657604077914386-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Graduate - Applied Machine Learning - Enterprise",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7516654594874476808/detail",
-      "job_posted_at_datetime_utc": "2025-06-17T05:34:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516654594874476808-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Builder – New Grad - Software Engineer",
-      "employer_name": "Reevo",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "ABOUT THE ROLE: We are seeking a Software Engineer who thrives as a T-shaped individual—bringing technical expertise in software engineering while also possessing a broad range of skills that allow them to tackle diverse challenges creatively. The ideal candidate is highly innovative, with a passion for solving complex problems across various domains, all while maintaining a high standard of engineering excellence. In this role, you will collaborate with other team members to design and implement solutions that push the boundaries of what’s possible. You will be expected to bring both creativity and technical rigor to the table, ensuring that every solution is not only effective but also built to the highest standards. Join us at Reevo Inc., where our initial focus on enhancing workflows for Account Executives (AE) and Sales Development Representatives (SDR) has laid the foundation for our ambitious goal to build an end-to-end solution designed to replace the entire CRM ecosystem and its point solutions. Backed by top-tier venture investors in Silicon Valley and tens of millions raised, we are poised to redefine sales technology. This is your opportunity to be a pivotal part of a dynamic team committed to transforming how businesses manage their sales processes. ABOUT REEVO: At Reevo, we're reimagining the entire revenue stack from the ground up, and we're doing it with speed. We're building software that orchestrates every go-to-market motion, enabling B2B teams to operate faster, smarter, and more collaboratively. By combining automation, intelligence, and a radically intuitive interface, we're helping companies unlock new levels of productivity and growth across marketing, sales, ops, and customer success teams. If you're excited about working on a product that reshapes how revenue teams work and being surrounded by curious, driven teammates, you'll feel right at home here. From day one, you'll get real ownership, real mentorship, and real impact. Our team of 50+ builders has 30 exits under their belt, so you'll be in good company and working alongside the best! WHO YOU ARE: You excel in fast-paced environments where agility and adaptability are key. At this stage, we’re still in a phase of discovery, and you'll work alongside other team members, taking on a product-focused role to drive high-impact initiatives. You navigate ambiguity with confidence. Your experience and brilliance equip you to zero in on what matters most, delivering clear insights that help the team set and adjust priorities effectively. You’re a builder and a doer. You have strong opinions, and you’re able to push forward to deliver results. You think strategically about prioritization, ensuring that what gets built is both impactful and aligned with the broader vision. You communicate and collaborate with precision. You understand how to tailor your message when working alongside other team members, delivering the right information with the appropriate level of detail. You work collaboratively to co-create solutions that are more effective than any individual effort alone. You see intellectual friction as a necessary ingredient for growth, not a hindrance. WHAT YOU WILL DO: By working alongside your Reevo teammates and customers, you'll turn customer insights into robust, scalable software solutions within a creative environment that demands both proven leadership skills and the ability to execute a strategic vision. More responsibilities in detail: Partner with internal teams to gather technical requirements and understand user needs. Analyze how new software solutions meet market demands and align with user expectations. Drive the roadmap for the 0-to-1 creation of new software products. Identify opportunities for technical improvement and innovation based on user feedback to achieve product-market fit. Stay informed on trends in the competitive landscape, including the latest technologies and frameworks. Collaborate closely with other team members to suggest and implement enhancements for products and processes. Present technical plus product concepts and solutions to the larger team. Refine and standardize coding practices to ensure high-quality, maintainable software. Rapidly iterate on software designs and implementations, from concept to deployment. WHAT YOU BRING: B.S., M.S., or PhD. in Computer Science or equivalent Experience in software engineering in B2B SaaS is a plus Strong expertise in relevant programming languages, frameworks, and development tools (Python, AWS, PostgreSQL, Elasticsearch) Generative AI applications, agentic framework, prompt engineering experiences a plus Experience in maintaining coding standards or best practices An intuitive understanding of technical challenges, often anticipating issues before they arise. Highly creative, with a talent for devising novel solutions to complex technical problems Excellent attention to detail, ensuring high-quality code and systems Ability to collaborate effectively alongside cross-functional team members Proficiency in analyzing and interpreting both qualitative and quantitative data to inform technical decisions Strong communication skills, with the ability to persuasively convey technical concepts to both technical and non-technical audiences A passion for engineering excellence, always striving to improve and innovate beyond the status quo A forward-thinking approach, recommending new tools and technologies by staying updated on the latest trends and techniques in software development",
-      "job_apply_link": "https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e/application",
-      "job_posted_at_datetime_utc": "2025-06-17T04:32:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-reevo-2ea4d267-cd80-4481-9965-216ecd469e7e-application",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": "2025-12-20T21:35:30.666Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start','Phd",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7515557741370411282/detail",
-      "job_posted_at_datetime_utc": "2025-06-17T01:01:28.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515557741370411282-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": "2025-12-20T21:35:30.666Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist - Experimentation",
-      "employer_name": "BetterHelp",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy in across the globe. Our network of over 30,000 licensed therapists has helped millions of people take ownership of their mental health and change their lives forever. And we’re not stopping there – as the unmet need for mental health services continues to grow, BetterHelp is committed to being part of the solution. As a Data Scientist at BetterHelp, you’ll join a diverse team of licensed clinicians, engineers, product pros, creatives, marketers, and business leaders who share a passion for expanding access to therapy. And as a mental health company, we take employee mental health just as seriously as we do our mission. We deeply invest in our team’s well-being and professional development, because we know that business and individual growth go hand-in-hand. At BetterHelp, you’ll carve your own path, make an immediate impact, and be challenged every day – with a supportive community behind you the whole way. What are we looking for? BetterHelp is looking for a Data Scientist to help us scale and increase our impact. You will use data to drive insight into the product and business with a focus. The ideal candidate would have experience analyzing large and complex data sets related to web products. You'll be doing plenty of experiment design and post-hoc analysis to support product improvements and business decisions. What will you do? Get insight from an enormous amount of data, and take a proactive role partnering with the product team in finding and testing data-driven ideas for improving our products. Collaborate with the product team and development team to design effective, statistically rigorous experiments, including simple A/B tests as well as more advanced experiment designs that account for complexities such as network effects. Monitor and analyze several product tests with statistical rigor, present the data and insights to the team, and drive product decisions. Look at complex problems and come up with testable models and algorithms that have measurable business impact. Enjoy great teamwork, have lots of fun, and take pride in building a world-class product that makes a difference in people's lives. What will you NOT do? You will NOT worry about \"runway\", \"cash left\", or \"how much time we have until the next round\". We have the startup DNA but we're fully backed and funded, all the way to success. You will NOT be confined to your \"job\". You will get involved in product, marketing, business strategy, and almost everything we do. You will NOT be bogged down by office politics, ego, or bad attitude. Only positive, pleasure-to-work-with people are allowed here! You will NOT get yourself burned out. We work hard but we believe in maintaining a sustainable work/life balance. Really. Can I work remotely? Yes. We operate on PST and candidates in any time zone are welcome to apply. We ask employees to travel to our San Jose, CA office up to three times per year plus one company-wide offsite to collaborate in person and strengthen working relationships. Travel expenses are covered and reasonable accommodations are made for those under unique circumstances who cannot travel. Requirements 1+ years of experience in a data science role or relevant internships, ideally applying analytical skills to real-world problems Degree in a quantitative discipline such as Statistics, Math, Economics, or Operations Research Familiarity with analyzing A/B tests or similar experiments through coursework or projects Proficiency in SQL Hands-on experience with data analysis, experiment design, and statistical methods through work, internships, or academic projects Strong grasp of statistical concepts, especially around hypothesis testing and experiment design Clear and thoughtful communicator, with a desire to keep improving how complex ideas are shared across different audiences Benefits Remote work with regular in-person bonding experiences sponsored by the company Competitive compensation Holistic perks program (including free therapy, employee wellness, and more) Excellent health, dental, and vision coverage 401k benefits with employer matching contribution The chance to build something that changes lives – and that people love Any piece of hardware or software that will make you happy and productive An awesome community of co-workers The base salary range for this position is $115,000 - $145,000. In addition to the base salary, this position is eligible for a performance bonus and the extensive benefits listed here (subject to eligibility requirements): Teladoc Health Benefits 2025. Total compensation is based on several factors – including, but not limited to, type of position, location, education level, work experience, and certifications. This information is applicable to all full-time positions. At BetterHelp we thrive on difference and individuality, and as part of the Teladoc Health family, we are proud to be an Equal Opportunity Employer. We never have and never will discriminate against any job candidate or employee due to age, race, ethnicity, religion, sex, color, national origin, gender, gender identity, sexual orientation, medical condition, marital status, parental status, disability, or Veteran status.",
-      "job_apply_link": "https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008",
-      "job_posted_at_datetime_utc": "2025-06-13T23:10:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-betterhelpcom-jobs-4756131008",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": "2025-12-20T21:35:30.666Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer – New Grad - C++",
-      "employer_name": "Tower Research Capital",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Explore open positions at Tower Research Capital and start the next chapter of your career in quantitative trading, engineering, and more.",
-      "job_apply_link": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
-      "job_posted_at_datetime_utc": "2025-06-12T02:50:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "www-tower-research-com-open-positions",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": "2025-12-20T21:35:30.666Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer 3 - Infrastructure - Google Cloud Global Networking",
-      "employer_name": "Google",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Software Engineer III, Infrastructure, Google Cloud Global Networkingshare linkCopy linkemailEmail a friendcorporate_fareGoogleplaceAtlanta, GA, USA; Sunnyvale, CA, USAbar_chartMidMidExperience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.Applyshare linkCopy linkemailEmail a friendinfo_outlineXNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Atlanta, GA, USA; Sunnyvale, CA, USA.Minimum qualifications:Bachelor’s degree or equivalent practical experience.2 years of experience programming in C++, Python or Go.2 years of experience with developing large - scale infrastructure, distributed systems or networking, or experience with compute technologies, or hardware architecture.Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.2 years of experience with data structures or algorithms in either an academic or industry setting. Experience developing accessible technologies. Proficiency in code and system health, diagnosis and resolution, and software test engineering. About the jobGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible. The AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.We're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's Applicant and Candidate Privacy Policy.Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy, Know your rights: workplace discrimination is illegal, Belonging at Google, and How we hire.If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes.",
-      "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/80928836794884806",
-      "job_posted_at_datetime_utc": "2025-06-01T05:33:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "www-google-com-about-careers-applications-jobs-results-80928836794884806",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T21:22:48.578Z",
-    "postedAt": "2025-12-20T21:35:30.666Z"
-  },
-  {
-    "job": {
       "job_title": "RDMA Network Software Development Engineer - High Speed Network",
       "employer_name": "ByteDance",
       "job_city": "San Jose",
@@ -214,10 +14,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -234,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -254,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -274,10 +74,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -294,10 +94,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -314,10 +114,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -334,10 +134,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -354,10 +154,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -374,10 +174,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T02:34:57.364Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -394,10 +194,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T02:34:57.364Z",
     "enrichedAt": "2025-12-20T21:34:53.553Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:49:31.912Z"
   },
   {
     "job": {
@@ -405,16 +205,18 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_description": "Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world. We are now seeking a Resiliency Architect to support the development and validation of GPU (graphical processing units) hardware and software resiliency features. In this role, you will be a key member of a team of innovators, challenging the status quo and pushing beyond boundaries. You will have the opportunity to impact the industry's leading Datacenter GPUs and SOCs powering product lines for the growing field of artificial intelligence (AI) and high-performance computing (HPC).What you'll be doing:Architect hardware and software Resiliency features to improve system Reliability, Availability, Serviceability (RAS), and performance in the Datacenter.Model and analyze RAS metrics like Failures in Time for permanent and transient errors, and Availability from GPU to Rack to Datacenter. Use models to identify gaps and drive RAS improvements.Collaborate with architects, unit designers and software engineers to ensure alignment of verification requirements.Develop and implement comprehensive architecture verification testplans for resiliency featuresExecute Architecture Testplan by developing test content, working with Software and Architecture teams to enable, run, and debug tests on Architecture models. Support test debug on RTL, emulation, and silicon.Run simulations to analyze Architectural Vulnerability Factor and Liveness of on-die memory, flip-flops, and latches.Develop CUDA software diagnostics kernels for to run on clusters of NVIDIA GPUs and identify potential hardware issues.Develop and automate fault models to simulate various fault types (e.g., transient faults, stuck-at faults) in gate-level netlist, RTL, architectural model, silicon and other environments.What we need to see:Pursuing or recently completed a Master’s or PhD degree in Computer Engineering, Electrical Engineering or closely related degree or equivalent experience.Familiarity with GPU and Networking Architectures, Computer Architecture basics (including caches, coherence, buses, direct memory access, etc.); Machine Learning/Deep Learning concepts.Proficiency in RAS concepts and in developing Architecture models.Scripting and automation with Python or similar.Proficiency in C/C++.Excellent interpersonal skills and ability to collaborate with on-site and remote teams.Strong debugging and analytical skills.Be self-driven and results oriented.Ways to stand out from the crowd:Experience with resiliency and datacenter RAS.Proficiency in Verilog/System Verilog RTL simulations and debug. Ability to set up test benches and integrate various components.Programming with CUDANVIDIA’s invention of the GPU 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of AI factories, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company”. Do you love the challenge of crafting the highest-performance silicon possible? If so, we want to hear from you! Come, join our Accelerated and Resilient Compute Systems team and help build the resilient, highly available, cost-effective computing platform driving our success in this exciting and quickly growing field.Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 120,000 USD - 189,750 USD for Level 2, and 148,000 USD - 235,750 USD for Level 3.You will also be eligible for equity and benefits.Applications for this job will be accepted at least until December 19, 2025.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Resiliency-Architect---New-College-Grad-2025_JR1997786",
       "job_posted_at_datetime_utc": "2025-12-16T02:28:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-datacenter-resiliency-architect-new-college-grad-2025_jr1997786"
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-datacenter-resiliency-architect-new-college-grad-2025_jr1997786",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:15:42.814Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "NV5 Global",
       "job_city": "Portland",
       "job_state": "OR",
-      "job_description": "Join NV5 Global in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p> The <strong>Quicklook Data Verification </strong><strong>Technician </strong>is responsible for ensuring the accuracy, completeness, and integrity of raw data received from acquisition teams before downstream processing. This role focuses on verifying data quality, identifying errors, and maintaining excellent data management practices. The specialist works both independently and collaboratively to support a seamless workflow from acquisition to processing.</p> <p>&nbsp;</p> <p><strong>This position is onsite at the NV5 office in Portland, OR.</strong></p> <p>&nbsp;</p> <p>NV5 is a global technology solutions and consulting services company with a workforce of over 4,500 professionals in more than 100 offices worldwide.&nbsp; NV5’s continued growth has been spurred through strategic investments in firms with unique capabilities to help current and future customers solve the world’s toughest problems.&nbsp; The NV5 family brings together talent across a wide range of markets and fields, including Professional Engineers, Professional Land Surveyors, Architects, Photogrammetrists, GIS Professionals, Software Developers, IT, Project Management Professionals, and more.</p> <p>&nbsp;</p> <p>At NV5 Geospatial, We are a collaboration of intelligent, innovative thinkers who care for each other, our communities, and the environment.&nbsp; We value both heart and head, the diversity of our people, and their experiences because that is how we continue to grow as leaders in our industry and expand our individual and collective potential.</p> <h2>Responsibilities</h2> <ul> <li>Receive raw data from acquisition teams and ensure proper logging and file organization&nbsp;</li> </ul> <ul> <li>Perform prompt verification of airborne and mobile LiDAR, orthoimagery, and other geospatial datasets&nbsp;</li> </ul> <ul> <li>Conduct quality checks on data post-acquisition to identify errors, inconsistencies, or gaps&nbsp;</li> </ul> <ul> <li>Extract LiDAR and orthoimagery data from raw formats using sensor-specific processing suites (e.g., RiProcess)&nbsp;</li> </ul> <ul> <li>Document and report data anomalies, collaborating with acquisition and production teams to resolve issues&nbsp;</li> </ul> <ul> <li>Maintain rigorous data management and file organization practices&nbsp;</li> </ul> <ul> <li>Recognize and understand sources of error in airborne and mobile datasets&nbsp;</li> </ul> <ul> <li>Apply technical skills using ESRI, CADD, and vector-based software&nbsp;</li> </ul> <ul> <li>Support team training and mentoring on data verification procedures as needed&nbsp;</li> </ul> <h2>Qualifications</h2> <p><strong>Minimum Requirements:</strong></p> <ul> <li>Able to work 5 days per week in our Portland, OR office&nbsp;</li> </ul> <ul> <li>6+ months of relevant professional experience&nbsp;</li> </ul> <ul> <li>Basic understanding of datums and projections&nbsp;</li> </ul> <ul> <li>Bachelor’s degree, or equivalent experience&nbsp;</li> </ul> <ul> <li>Experience with ESRI or vector-based software&nbsp;</li> </ul> <ul> <li>Proficiency in MS Office Suite</li> </ul> <p>&nbsp;</p> <p><strong>Preferred Qualifications:</strong></p> <ul> <li>Bachelor’s degree in a science, math, or engineering program&nbsp;</li> </ul> <ul> <li>In-depth knowledge of datums and projections&nbsp;</li> </ul> <ul> <li>Knowledge of Python (Dask library) or Visual Basic for automation and data checks&nbsp;</li> </ul> <ul> <li>Experience with GNSS/IMU processing and positioning&nbsp;</li> </ul> <ul> <li>Prior exposure to sensor or swath calibration and software like POSPac or Applanix&nbsp;</li> </ul> <ul> <li>Experience with trajectory manipulation and alignment of terrestrial or mobile LiDAR datasets&nbsp;</li> </ul> <p>&nbsp;</p> <p><strong>Experience/Skills Preferred (in addition to requirements):</strong></p> <ul> <li>Strong attention to detail and ability to consistently produce accurate work&nbsp;</li> </ul> <ul> <li>Understanding of data sources, acquisition methods, and potential error sources&nbsp;</li> </ul> <ul> <li>Ability to troubleshoot and problem-solve across software platforms&nbsp;</li> </ul> <ul> <li>Proficient in maintaining organized and secure data management systems&nbsp;</li> </ul> <ul> <li>Demonstrates professional, collaborative, and positive demeanor under tight deadlines&nbsp;</li> </ul> <ul> <li>Capable of learning from mistakes and applying feedback constructively&nbsp;</li> </ul> <ul> <li>Comfort with ambiguity and limited direction; ability to adapt and propose practical solutions&nbsp;</li> </ul> <ul> <li>Critical thinking and analytical skills to identify and resolve data quality issues&nbsp;</li> </ul> <p>&nbsp;</p> <p><em>Employment is contingent upon successful completion of a background check and drug screening.</em></p> <p><em>NV5 offers a competitive compensation and benefits package including medical, dental, life insurance, PTO, 401(k) and professional development/advancement opportunities.</em></p> <p>&nbsp;</p> <p><em>NV5 provides equal employment opportunities (EEO) to all applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state, and local laws. NV5 complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.</em></p> <p>&nbsp;</p> <p><em>#LI-Onsite</em></p> <p><em>#LI-JG1</em></p>",
       "job_apply_link": "https://careers-nv5.icims.com/jobs/11395/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-16T01:04:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-nv5-icims-com-jobs-11395-job"
+      "id": "careers-nv5-icims-com-jobs-11395-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:15:42.814Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -441,16 +245,18 @@
       "employer_name": "Scientific Research Corporation",
       "job_city": "North Charleston",
       "job_state": "SC",
-      "job_description": "Join Scientific Research Corporation in this exciting opportunity.",
+      "job_description": "<h2>Description</h2> <p>Scientific Research Corporation is seeking a motivated and detail-oriented Junior Salesforce Administrator to join our Cloud Service Integration Team supporting Department of War (DoW) initiatives.</p> <p>&nbsp;</p> <p><strong>Job Duties:</strong></p> <ul> <li>Contributing to mission-critical systems in a secure, fast-paced environment</li> <li>Assisting in the daily operations of our Salesforce platform, supporting cloud-based integrations, user management, and data integrity across defense-related projects</li> <li>Growing your technical skills while supporting national security objectives through innovative cloud solutions</li> </ul> <p><strong>FILLING THIS POSITION IS CONTINGENT UPON FUNDING</strong></p> <p>&nbsp;</p> <p><em>#LI-SF1</em></p> <h2>Requirements</h2> <ul> <li>Familiarity with creating and managing reports, dashboards, and flows to support business operations</li> <li>Experience maintaing data quality by performing regular audits and updates</li> <li>Experience supporting the implementation and configuration of new Salesforce features and enhancements</li> <li>Exposure collaborating with cross-functional teams to gather requirements and support CRM-related projects</li> <li>Proficiency with documenting processes, configurations, and training materials</li> <li>Ability to stay current with Salesforce best practices and new features</li> </ul> <h2>Desired Skills</h2> <ul> <li>Bachelor’s degree in Information Systems, Business, or related field (or equivalent experience)</li> <li>Zero to two (0–2) years of experience working with Salesforce</li> <li>Salesforce Administrator Certification (preferred or in progress)</li> <li>Basic understanding of Salesforce objects, fields, workflows, and reports</li> <li>Strong analytical and problem-solving skills</li> <li>Excellent communication and interpersonal abilities</li> <li>Eagerness to learn and grow in a fast-paced environment</li> </ul> <h2>Clearance Information</h2> <p><strong>SRC IS A CONTRACTOR FOR THE U.S. GOVERNMENT, THIS POSITION WILL REQUIRE U.S. CITIZENSHIP AND ELIGIBILITY FOR A U.S. GOVERNMENT SECURITY CLEARANCE AT THE SECRET LEVEL</strong></p> <h2>Travel Requirements</h2> <ul> <li>Travel, 5%</li> </ul> <h2>About Us</h2> <p>Scientific Research Corporation is an advanced information technology and engineering company that provides innovative products and services to government and private industry, as well as independent institutions. At the core of our capabilities is a seasoned team of highly skilled engineers and scientists with multidisciplinary backgrounds. This team is challenged daily to provide cutting edge technology solutions to our clients.</p> <p>&nbsp;</p> <p>SRC offers a generous benefit package, including medical, dental, and vision plans, 401(k) with a company match, life insurance, vacation and sick paid time off accruals starting at 10 days of vacation and 5 days of sick leave annually, 11 paid holidays, tuition reimbursement, and a work environment that encourages excellence and more. For positions requiring a security clearance, selected applicants will be subject to a government security investigation and must meet eligibility requirements for access to classified information.</p> <h2>EEO</h2> <p>Scientific Research Corporation is an equal opportunity employer that does not discriminate in employment.</p> <p>All qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, age, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other protected characteristic under federal, state or local law.</p> <p>Scientific Research Corporation endeavors to make www.scires.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact jobs@scires.com for assistance. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.</p>",
       "job_apply_link": "https://careers-scires.icims.com/jobs/10598/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-11T17:23:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-scires-icims-com-jobs-10598-job"
+      "id": "careers-scires-icims-com-jobs-10598-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:15:42.814Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -464,11 +270,13 @@
       "job_posted_at_datetime_utc": "2025-12-16T02:23:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-pa602-302-science-park-road-bldg-5c-302-science-park-road-building-5c-state-college-pa-16803-2214-usa-xmlname-2026-fulltime-raytheon-java-software-engineer-i-onsite-_01812452"
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-pa602-302-science-park-road-bldg-5c-302-science-park-road-building-5c-state-college-pa-16803-2214-usa-xmlname-2026-fulltime-raytheon-java-software-engineer-i-onsite-_01812452",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:45:36.532Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -482,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-12-16T02:17:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89565714160"
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89565714160",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:45:36.532Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -500,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-12-16T02:17:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-ai-foundation-27595-89565714176"
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-ai-foundation-27595-89565714176",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:45:36.532Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -513,16 +325,18 @@
       "employer_name": "Utah State University",
       "job_city": "Logan",
       "job_state": "UT",
-      "job_description": "Join Utah State University in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>Are you excited to learn new development technologies and be part of a team that’s improving the way the University operates? If you enjoy problem-solving, creating efficient processes and workflows with automation, and supporting users in a modern enterprise platform, this could be a great opportunity for you. We’re looking for someone who is self-driven, dependable, detail-oriented, and eager to grow as a developer using the ServiceNow platform.</p> <p>&nbsp;</p> <p>Learn more about ServiceNow by visiting: https://developer.servicenow.com</p> <p>&nbsp;</p> <p><strong>Position Summary:</strong>The ServiceNow Junior Developer (Entry-Level) position is a member of the Process Design &amp; Development team and works alongside experienced developers, analysts, and stakeholders to design, build, test, document, and support ServiceNow - Service Catalog items, applications, and workflows used across USU’s ServiceNow platform.</p> <p>This is an entry-level role designed for candidates who have foundational programming skills and want to build a career on the ServiceNow platform. The Junior Developer will learn ServiceNow development best practices, follow system and university standards, and contribute to implementation and support efforts with coaching and oversight.</p> <p>A successful candidate will learn and be able to develop basic catalog items and workflows on the ServiceNow within 2-3 months. With additional learning, a junior developer should be able to expand their skillset and tackle more complex workflows and applications within 9-12 months moving from a junior developer to a full developer.</p> <p>&nbsp;</p> <p><strong>Must be authorized to work in the U.S. Sponsorship is not available for this position.</strong></p> <h2>Responsibilities</h2> <ul> <li>Assist in the design, development, and configuration of ServiceNow catalog items and applications including: <ul> <li>Participating in requirements gathering and clarification</li> <li>Contributing to solution design and development tasks</li> <li>Testing and validation</li> <li>Documentation and knowledge transfer</li> <li>Implementation planning and deployment activities (with guidance)</li> </ul></li> <li>Translate business and functional requirements into technical tasks and configuration/development work items.</li> <li>Build and maintain platform components such as forms, lists, UI policies, business rules, client scripts, flows/workflows, notifications, reports, and dashboards (as appropriate to the role).</li> <li>Develop and execute test cases for functional and regression testing; document results and troubleshoot defects.</li> <li>Support integrations and data activities (as needed), such as imports/exports and basic REST/API usage, under direction of senior staff.</li> <li>Recommend improvements to usability, performance, and maintainability of ServiceNow solutions.</li> <li>Collaborate with team members and customers to ensure solutions meet the intended outcomes and follow platform standards.</li> <li>Provide tier-two support to end users and Service Desk personnel, escalating issues when necessary.</li> <li>Communicate status and progress on assigned tasks; follow project schedules and team processes.</li> </ul> <h2>Qualifications</h2> <p><strong>Minimum Requirements</strong></p> <ul> <li>Programmer/Analyst I: Bachelor’s degree in MIS, Computer Science, or related field OR Associate degree/certification in a related area plus two years of related experience OR Equivalent combination of education and relevant experience demonstrating technical aptitude</li> <li>Programmer/Analyst II: Bachelor’s degree in MIS, Computer Science, or related field plus two years of related experience OR Associate degree/certification in a related area plus four years of related experience OR Equivalent combination of education and relevant experience demonstrating technical aptitude</li> </ul> <p><strong>Preferred Qualifications</strong></p> <ul> <li>Exposure to ServiceNow (coursework, personal projects, internships, certifications, or familiarity with the platform)</li> <li>Familiarity with web technologies such as HTML/CSS, Bootstrap, or modern UI concepts</li> <li>Basic understanding of integration concepts (REST, web services, APIs)</li> <li>Experience with troubleshooting, customer support, or IT service processes (help desk, ITIL concepts)</li> </ul> <p><strong>Knowledge, Skills, and Abilities:</strong></p> <ul> <li>Foundational experience with JavaScript (coursework, projects, internships, or job experience)</li> <li>Ability to learn new tools and technologies quickly and apply feedback</li> <li>Strong interpersonal and written/verbal communication skills; ability to work with varied audiences</li> <li>Ability to work collaboratively on a development team and independently on assigned projects</li> </ul> <p>This role provides structured growth opportunities, mentoring, and hands-on experience building solutions on the ServiceNow platform. Candidates should be comfortable learning in a fast-paced environment and committed to developing within a standard framework and supportable solutions.</p> <h2>Required Documents</h2> <p>Along with the online application, please attach:</p> <p>1. Resume to be uploaded at the beginning of your application in the Candidate Profile under “Resume/CV”&nbsp;</p> <p>2. Cover letter to be typed/pasted at the end of your application (iForm)</p> <p>&nbsp;</p> <p>**Document size may not exceed 10 MB.**</p> <h2>Advertised Salary</h2>Commensurate based on experience plus excellent benefits <h2>ADA</h2> <p>Employees work indoors and are protected from weather and/or contaminants, but not, necessarily, occasional temperature changes. The employee is regularly required to sit and often uses repetitive hand motions.</p> <h2>University Highlights</h2> <p>Founded in 1888, Utah State University is Utah’s premier land-grant, public service university. As an R1 research institution, Utah State is dedicated to advancing knowledge and serving the public good through innovative research and scholarly activities that are grounded in reciprocal engagement with local, regional, and global communities. USU prepares students to be active, civically engaged leaders who are prepared to address critical societal challenges. Dedicated to providing a high-quality and affordable education, USU remains a leader in research, discovery, and public impact.</p> <p>&nbsp;</p> <p>USU enrolls over 29,800 students, both online and in person at&nbsp;locations throughout the state.&nbsp;Utah State’s 30 locations include a main campus in Logan, Utah, residential campuses in Price and Blanding, and six additional statewide campuses, along with education centers serving every county. USU educates students from all 50 states and more than 80 countries. For over 100 years, USU Extension has served and engaged Utahns, serving every county in the state.</p> <p>&nbsp;</p> <p>Competing at the NCAA Division I level, USU is a proud member of the Mountain West Conference and will join the Pac-12 Conference beginning in the 2026-2027 season.&nbsp;The Aggies’ long-standing tradition of athletic and academic excellence is exemplified by recent Mountain West regular-season and tournament championships in women’s volleyball, three consecutive Mountain West tournament titles in women’s soccer conference championships, and a first-ever conference championship for gymnastics, reflecting USU's commitment to perseverance and achievement.</p> <p>&nbsp;</p> <p>Utah State is dedicated to fostering a community where all individuals feel respected, valued, and supported and where diversity of thought and culture are cultivated. We seek to recruit, hire, and retain people from all walks of life who will&nbsp;champion excellence in education, research, discovery, outreach, and service.&nbsp;We believe that promoting a strong sense of community and belonging empowers and engages all members of USU to thrive and be successful.&nbsp;Forbes recognized our commitment to employees when they named&nbsp;Utah State the best employer in Utah&nbsp;in 2023.&nbsp;Learn more&nbsp;about USU.&nbsp;</p> <p>&nbsp;</p> <p>The university provides a&nbsp;Dual Career Assistance Program&nbsp;to support careers for partners who are also seeking employment.&nbsp;Additionally,&nbsp;USU is committed to providing access and a reasonable accommodation for individuals with disabilities. To request a reasonable accommodation for a disability, contact the university’s ADA Coordinator in the Office of Human Resources at (435) 797-0122 or&nbsp;hr@usu.edu<u>.</u>&nbsp;</p> <p>&nbsp;</p> <p>*updated 12/2025</p> <h2>Notice of Non-discrimination</h2> <p>In its programs and activities, including in admissions and employment, Utah State University does not discriminate or tolerate discrimination, including harassment, based on race, color, religion, sex, national origin, age, genetic information, sexual orientation, gender identity, disability, status as a protected veteran, or any other status protected by University policy, Title IX, or any other federal, state, or local law.</p> <p>&nbsp;</p> <p>Utah State University is an equal opportunity employer and does not discriminate or tolerate discrimination including harassment in employment including in hiring, promotion, transfer, or termination based on race, color, religion, sex, national origin, age, genetic information, sexual orientation, gender identity, disability, status as a protected veteran, or any other status protected by University policy or any other federal, state, or local law.</p> <p>&nbsp;</p> <p>Utah State University does not discriminate in its housing offerings and will treat all persons fairly and equally without regard to race, color, religion, sex, familial status, disability, national origin, source of income, sexual orientation, or gender identity. Additionally, the University endeavors to provide reasonable accommodations when necessary and to ensure equal access to qualified persons with disabilities.</p> <p>&nbsp;</p> <p>In all circumstances, Utah State University follows state and federal laws related to sex-segregated spaces. </p> <p>&nbsp;</p> <p>The following individuals have been designated to handle inquiries regarding the application of Title IX and its implementing regulations and/or USU’s non-discrimination policies:</p> <p>&nbsp;</p> <p><strong>Matthew Pinner</strong></p> <p>Executive Director </p> <p>Civil Rights &amp; Title IX Office</p> <p>matthew.pinner@usu.edu</p> <p>435-797-1266 | Old Main Rm. 401D</p> <p>1475 Old Main Hill, Logan, UT 84322</p> <p>&nbsp;</p> <p><strong>Cody Carmichael</strong></p> <p>Title IX Coordinator </p> <p>cody.carmichael@usu.edu</p> <p>435-797-1266 | Old Main Rm. 402D</p> <p>1475 Old Main Hill, Logan, UT 84322</p> <p>&nbsp;</p> <p>For further information regarding non-discrimination, please visit crtix.usu.edu or contact: </p> <p>&nbsp;</p> <p>U.S. Department of Education </p> <p>Denver Regional Office</p> <p>303-844-5695| OCR.Denver@ed.gov</p> <p>&nbsp;</p> <p>U.S. Department of Education </p> <p>Office of Assistant Secretary for Civil Rights</p> <p>800-421-3481 |&nbsp; OCR@ed.gov</p> <p>&nbsp;</p> <p>*updated 10/2025</p>",
       "job_apply_link": "https://careers-usu.icims.com/jobs/9751/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-15T00:44:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-usu-icims-com-jobs-9751-job"
+      "id": "careers-usu-icims-com-jobs-9751-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:45:36.532Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "General Dynamics",
       "job_city": "Groton",
       "job_state": "CT",
-      "job_description": "Join General Dynamics in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>Electric Boat Benefits:&nbsp;</strong></p> <ul> <li>Medical, Dental, Vision</li> <li>401K Plan</li> <li>Paid Vacation &amp; Holidays</li> <li>7% Shift Premium</li> <li>Health and Wellness Programs</li> <li>Commuter/Van Services</li> <li>Tuition Reimbursement Program</li> <li>Safety Boot Reimbursement Program</li> <li>Hourly Rates from $21.47-$23.44&nbsp;</li> </ul> <p>We’re hiring currently in selected disciplines, look at our websiteAll positions are part of the MDA (Marine Draftsmen’s Association) union</p> <p>&nbsp;</p> <p><strong>Entry level opportunities include:</strong></p> <p>&nbsp;</p> <p><strong><u>ARRANGEMENTS</u></strong></p> <ul> <li><strong>In essence responsible the location of all equipment on the submarine from as small as an electrical outlet to as large as a turbine-generator. </strong></li> <li>Locates equipment, on board repair parts (stowages and lockers), location of lighting fixtures, and creates equipment removal and flow paths. </li> <li>Become space manager for all components to assure the location of equipment will meet all technical, operational, maintainability, sustainability, meeting human engineering design and safety requirements. . </li> <li>Develop future submarines design concepts, support all design disciplines and engineering through use of electronic models to reflect latest design system diagrams, and updates the submarine as new technology emerges.</li> </ul> <p><strong><u>STRUCTURAL</u></strong></p> <ul> <li><strong>In essence responsible for all submarine structures. </strong></li> <li>Create structural design products for pressure hull plating, frames, decks, tanks, bulkheads, superstructure, rudders, diving planes, foundations, lockers, and stowages.</li> <li>Drawings (disclosures) are utilized by shipfitters and sheetmetal trade workers to produce their work.</li> </ul> <p><strong><u>MECHANICAL</u></strong></p> <ul> <li><strong>In essence responsible for all submarine large mechanical components. </strong></li> <li>Create mechanical design products for torpedo tubes, weapons shipping and handling equipment, hatches, missile tubes, steering and diving equipment, and other components. </li> <li>Drawings (disclosures) are utilized by machinist trade workers to produce their work.</li> </ul> <p><strong><u>PIPING</u></strong></p> <ul> <li><strong>In essence responsible for all submarine piping products.</strong></li> <li>Create piping design products for piping and piping hangers for various systems (i.e. high pressure air, air condition, sanitation, refrigeration, and other instrumentation and control). </li> <li>Produce the Submarine Class fluid diagrams </li> <li>Drawings (disclosures) are utilized by pipefitter and pipe hanger trade workers to produce their work</li> </ul> <p><strong><u>ELECTRICAL</u></strong></p> <ul> <li><strong>In essence responsible for all submarine electrical products.</strong></li> <li>Create electrical design products for electrical system, cableway, and components design. (i.e. internal communication, lighting systems, radar, sonar, and other instrumentation and control). </li> <li>Produce the Submarine Class wiring tables, wiring diagrams and wiring schematics. </li> <li>Drawings (disclosures) are utilized by electrical trade workers to produce their work</li> </ul> <p>&nbsp;</p> <p>This job may require the completion and graduation from the Eastern Workforce Investment Board (EWIB) Design Pipeline Program, pre-employment.&nbsp; The program is currently offered by Three Rivers Community College. <em>This intensive, work-based classroom training program is 6 weeks long. The classes are 6-1/2 hours per day, 5 days per week. The program is currently run second shift from 3:00pm-9:30pm.</em></p> <p>&nbsp;</p> <p><strong>Want to learn more about EWIB, please visit</strong><strong>&nbsp;</strong>www.ewib.org/pipeline <strong>&amp; register to get started!</strong></p> <h2>Qualifications</h2> <p><strong>Required:</strong></p> <ul> <li>High school diploma/GED or Vocational High School diploma&nbsp;</li> <li>Less than two years of relevant work experience</li> <li>May require successful competion of the Eastern CT Workforce Investment Board Manufacturing Pipeline Initiative Training Program (EWIB)</li> </ul> <p><strong>Preferred</strong></p> <ul> <li>Demonstrated proficiency in drafting (portfolio) with Computer Aided Design (CAD) (NX preferred)</li> <li>Knowledge of Microsoft products</li> <li>Ability to perform design related math functions</li> <li>Ability to read and interpret written instructions and drawings (blueprints)</li> </ul> <h2>Skills</h2> <ul> <li>Structural aptitude</li> <li>Knowledge of Microsoft products</li> <li>Familiarity with design practices/rules and CAD tools (NX preferred)</li> <li>Ability to perform design related math functions</li> <li>Ability to read and interpret written instructions and drawings (blueprints)</li> <li>Desire to develop skills through on-the-job experience and continued education to advance in the design profession</li> <li>Familiarity with design standards, geometric dimensioning and tolerancing (GD&amp;T), military specifications, manufacturing processes and lean design/manufacturing</li> </ul> <p>&nbsp;</p>",
       "job_apply_link": "https://careers-gdeb.icims.com/jobs/17137/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-31T02:56:49.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-gdeb-icims-com-jobs-17137-job"
+      "id": "careers-gdeb-icims-com-jobs-17137-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:45:36.532Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -554,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-10-31T02:11:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-sev1tech-icims-com-jobs-9288-job"
+      "id": "careers-sev1tech-icims-com-jobs-9288-job",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:45:36.532Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "SCS Engineers",
       "job_city": "Modesto",
       "job_state": "CA",
-      "job_description": "Join SCS Engineers in this exciting opportunity.",
+      "job_description": "<h2>What we are looking for</h2> <p>SCS Field Services has an immediate opening for an entry/mid-level Field Data Analyst to work on several landfill gas (LFG) projects including, LFG &nbsp;Operations, Monitoring and Maintenance (OM&amp;M) and Landfill liquid management monitoring data. T<strong>his will be a Full-Time position based in one of our Northern, CA offices and there is some flexibility with remote work, but you must live in Northern California. Relocation is not being offered for this role.&nbsp;</strong></p> <h2>How you can make an impact</h2> <ul> <li>Follow procedures related to SCS' Quality Management System and related QA/QC activities.</li> <li>Collect, compile, organize and provide analysis of data for projects using statistical techniques.</li> <li>Prepare reports including tabulated data, data calculations, charts, graphs, and figures for clients and regulatory agency submittals.</li> <li>Regulatory compliance tracking and scheduling.</li> <li>Help create drawings and maps using geospatial data.</li> <li>Electronic filing of documents and data.</li> <li>Provide support to our field, administrative, and management team.</li> </ul> <h2>Qualifications</h2> <ul> <li>Minimum of 1 year of environmental compliance experience required. General knowledge of Federal, State, and Local Rules relating to air compliance and solid waste regulations is strongly preferred.</li> <li>Experience with Excel analysis functions and lookup functions (VLOOKUP, INDEX and Match) preferred.</li> <li>AutoCAD or experience with geospatial data preferred.</li> <li>Bachelor’s or Associate’s Degree preferred.</li> <li>Valid Driver's License with a driving record in good standing required.</li> </ul> <h2>Pay Range</h2>USD $29.00 - USD $37.00 /Hr. <h2>Additional Information</h2>Whether it's reducing methane emissions at agricultural facilities and landfills, repurposing contaminated properties, producing alternative energy, or sequestering carbon, we've been focused on finding smart climate solutions and improving the natural environment since our inception over 50 years ago. Join our 100% employee-owned firm and start creating your own legacy. As a growing firm, we offer excellent opportunities for career advancement and a comprehensive package, including: • Medical, Dental, Vision, Life and Disability Insurance • 100% employer-funded Employee Stock Ownership Plan (ESOP) and 401K including employer match • Student Debt Employer Contribution Program • Paid holidays, PTO, and Paid Parental Leave • Safety footwear reimbursement program • Paid training and all necessary tools and equipment provided • Per diem for travel for eligible work • Company truck and cell phone for certain Field Services positions SCS Engineers is an Equal Opportunity Employer (EOE). SCS provides equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran or disabled status. If you have questions, difficulty using our online system and/or you need an accommodation due to a disability then please contact us about your interest in employment at recruiting@scsengineers.com",
       "job_apply_link": "https://careers-scsengineers.icims.com/jobs/1613/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-31T01:14:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-scsengineers-icims-com-jobs-1613-job"
+      "id": "careers-scsengineers-icims-com-jobs-1613-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T03:45:36.532Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:48:43.380Z",
     "postedAt": null
   },
   {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:35:27.655Z",
+  "lastUpdated": "2025-12-20T21:49:28.901Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -8218,14 +8218,124 @@
       "sourceUrl": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
       "discordThreadId": "1452051787778625628",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7509263561258027272-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7509263561258027272-detail",
+      "company": "ByteDance",
+      "title": "RDMA Network Software Development Engineer - High Speed Network",
+      "postedToDiscord": "2025-12-20T21:48:50.794Z",
+      "sourceDate": "2025-05-28T03:31:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7509263561258027272/detail",
+      "discordThreadId": "1452055157176275113",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7509266973013690631-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7509266973013690631-detail",
+      "company": "ByteDance",
+      "title": "RDMA Network Software Development Engineer Graduate - High Speed Network - 2026 Start",
+      "postedToDiscord": "2025-12-20T21:48:54.211Z",
+      "sourceDate": "2025-05-28T03:31:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7509266973013690631/detail",
+      "discordThreadId": "1452055171948347656",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mufgub-wd3-myworkdayjobs-com-mufg-careers-job-irving-tx-global-financial-crimes-issues-management-reporting-data-analysis-analyst_10070365-wd-2025-12-20-1",
+      "jobId": "mufgub-wd3-myworkdayjobs-com-mufg-careers-job-irving-tx-global-financial-crimes-issues-management-reporting-data-analysis-analyst_10070365-wd",
+      "company": "Mitsubishi UFG",
+      "title": "Global Financial Crimes - Issues Management - Reporting & Data Analysis",
+      "postedToDiscord": "2025-12-20T21:48:57.938Z",
+      "sourceDate": "2025-05-24T01:40:15.000Z",
+      "sourceUrl": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD",
+      "discordThreadId": "1452055186557370617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-keywords-intl1-j-ad6cd45570-apply-2025-12-20-1",
+      "jobId": "apply-workable-com-keywords-intl1-j-ad6cd45570-apply",
+      "company": "Keywords Studios",
+      "title": "Technical Research Associate - AI",
+      "postedToDiscord": "2025-12-20T21:49:01.557Z",
+      "sourceDate": "2025-05-23T06:49:03.000Z",
+      "sourceUrl": "https://apply.workable.com/keywords-intl1/j/AD6CD45570/apply",
+      "discordThreadId": "1452055201748881420",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oxy-wd5-myworkdayjobs-com-corporate-job-platteville-colorado-maintenance-planning-tech_jr102869-2025-12-20-1",
+      "jobId": "oxy-wd5-myworkdayjobs-com-corporate-job-platteville-colorado-maintenance-planning-tech_jr102869",
+      "company": "Occidental Petroleum",
+      "title": "Maintenance Planning Tech",
+      "postedToDiscord": "2025-12-20T21:49:05.011Z",
+      "sourceDate": "2025-05-16T19:31:19.000Z",
+      "sourceUrl": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/Platteville-Colorado/Maintenance-Planning-Tech_JR102869",
+      "discordThreadId": "1452055217032921212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-galatea-associates-ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb-apply-2025-12-20-1",
+      "jobId": "jobs-lever-co-galatea-associates-ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb-apply",
+      "company": "Galatea Associates",
+      "title": "Financial Software Engineer",
+      "postedToDiscord": "2025-12-20T21:49:08.553Z",
+      "sourceDate": "2025-04-25T21:26:50.000Z",
+      "sourceUrl": "https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb/apply",
+      "discordThreadId": "1452055231427772578",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-lewisbrisbois-icims-com-jobs-12140-job-2025-12-20-1",
+      "jobId": "careers-lewisbrisbois-icims-com-jobs-12140-job",
+      "company": "Lewis Brisbois",
+      "title": "Financial Systems Analyst 1",
+      "postedToDiscord": "2025-12-20T21:49:11.995Z",
+      "sourceDate": "2025-10-15T02:06:01.000Z",
+      "sourceUrl": "https://careers-lewisbrisbois.icims.com/jobs/12140/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452055246473003120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4406268006-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4406268006",
+      "company": "Figure",
+      "title": "Humanoid Robot Operator",
+      "postedToDiscord": "2025-12-20T21:49:18.575Z",
+      "sourceDate": "2025-05-09T22:45:15.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4406268006",
+      "discordThreadId": "1452055273521811598",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mcadams-jobs-4677503007-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-mcadams-jobs-4677503007",
+      "company": "McAdams",
+      "title": "Instrument Operator 1",
+      "postedToDiscord": "2025-12-20T21:49:22.419Z",
+      "sourceDate": "2025-04-26T00:49:18.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mcadams/jobs/4677503007",
+      "discordThreadId": "1452055288583553064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-enfra-icims-com-jobs-8884-job-2025-12-20-1",
+      "jobId": "careers-enfra-icims-com-jobs-8884-job",
+      "company": "Bernhard",
+      "title": "Utility Analyst 1",
+      "postedToDiscord": "2025-12-20T21:49:28.901Z",
+      "sourceDate": "2025-10-01T09:25:53.000Z",
+      "sourceUrl": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452055317742358751",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 747,
+    "totalJobs": 757,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T21:35:27.655Z",
+      "date": "2025-12-20T21:49:28.901Z",
       "archived": 0
     }
   }
