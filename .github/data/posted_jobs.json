@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:49:28.901Z",
+  "lastUpdated": "2025-12-20T22:04:50.192Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -8328,14 +8328,124 @@
       "sourceUrl": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452055317742358751",
       "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-datacenter-resiliency-architect-new-college-grad-2025_jr1997786-2025-12-20-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-datacenter-resiliency-architect-new-college-grad-2025_jr1997786",
+      "company": "NVIDIA",
+      "title": "Datacenter Resiliency Architect – New College Grad 2025",
+      "postedToDiscord": "2025-12-20T22:04:13.365Z",
+      "sourceDate": "2025-12-16T02:28:58.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Resiliency-Architect---New-College-Grad-2025_JR1997786",
+      "discordThreadId": "1452059026010411221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11395-job-2025-12-20-1",
+      "jobId": "careers-nv5-icims-com-jobs-11395-job",
+      "company": "NV5 Global",
+      "title": "Lidar – Quicklook Data Verification Technician",
+      "postedToDiscord": "2025-12-20T22:04:19.772Z",
+      "sourceDate": "2025-09-16T01:04:07.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11395/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452059054015905946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-scires-icims-com-jobs-10598-job-2025-12-20-1",
+      "jobId": "careers-scires-icims-com-jobs-10598-job",
+      "company": "Scientific Research Corporation",
+      "title": "Salesforce Database Administrator",
+      "postedToDiscord": "2025-12-20T22:04:23.080Z",
+      "sourceDate": "2025-09-11T17:23:28.000Z",
+      "sourceUrl": "https://careers-scires.icims.com/jobs/10598/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452059068410761277",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-pa602-302-science-park-road-bldg-5c-302-science-park-road-building-5c-state-college-pa-16803-2214-usa-xmlname-2026-fulltime-raytheon-java-software-engineer-i-onsite-_01812452-2025-12-20-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-pa602-302-science-park-road-bldg-5c-302-science-park-road-building-5c-state-college-pa-16803-2214-usa-xmlname-2026-fulltime-raytheon-java-software-engineer-i-onsite-_01812452",
+      "company": "RTX",
+      "title": "Java Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:04:26.462Z",
+      "sourceDate": "2025-12-16T02:23:30.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Fulltime---Raytheon-Java-Software-Engineer-I--Onsite-_01812452",
+      "discordThreadId": "1452059082184986777",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89565714160-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89565714160",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:04:29.839Z",
+      "sourceDate": "2025-12-16T02:17:06.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89565714160",
+      "discordThreadId": "1452059096365793351",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-ai-foundation-27595-89565714176-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-ai-foundation-27595-89565714176",
+      "company": "Intuit",
+      "title": "Software Engineer 1 - AI Foundation",
+      "postedToDiscord": "2025-12-20T22:04:29.848Z",
+      "sourceDate": "2025-12-16T02:17:03.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1-ai-foundation/27595/89565714176",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-usu-icims-com-jobs-9751-job-2025-12-20-1",
+      "jobId": "careers-usu-icims-com-jobs-9751-job",
+      "company": "Utah State University",
+      "title": "ServiceNow Junior Developer",
+      "postedToDiscord": "2025-12-20T22:04:33.587Z",
+      "sourceDate": "2025-11-15T00:44:03.000Z",
+      "sourceUrl": "https://careers-usu.icims.com/jobs/9751/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452059110622367958",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-sev1tech-icims-com-jobs-9288-job-2025-12-20-1",
+      "jobId": "careers-sev1tech-icims-com-jobs-9288-job",
+      "company": "Sev1Tech",
+      "title": "Configuration and Data Management Analyst",
+      "postedToDiscord": "2025-12-20T22:04:37.106Z",
+      "sourceDate": "2025-10-31T02:11:36.000Z",
+      "sourceUrl": "https://careers-sev1tech.icims.com/jobs/9288/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452059126539616308",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdeb-icims-com-jobs-17137-job-2025-12-20-1",
+      "jobId": "careers-gdeb-icims-com-jobs-17137-job",
+      "company": "General Dynamics",
+      "title": "Entry Level Draftsman-Learners",
+      "postedToDiscord": "2025-12-20T22:04:43.810Z",
+      "sourceDate": "2025-10-31T02:56:49.000Z",
+      "sourceUrl": "https://careers-gdeb.icims.com/jobs/17137/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452059153546608785",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-scsengineers-icims-com-jobs-1613-job-2025-12-20-1",
+      "jobId": "careers-scsengineers-icims-com-jobs-1613-job",
+      "company": "SCS Engineers",
+      "title": "Field Data Analyst",
+      "postedToDiscord": "2025-12-20T22:04:50.192Z",
+      "sourceDate": "2025-10-31T01:14:11.000Z",
+      "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1613/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452059181963018505",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 757,
+    "totalJobs": 767,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T21:49:28.901Z",
+      "date": "2025-12-20T22:04:50.192Z",
       "archived": 0
     }
   }
