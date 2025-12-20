@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:23:29.464Z",
+  "lastUpdated": "2025-12-20T21:35:27.655Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -8108,14 +8108,124 @@
       "sourceUrl": "https://jobs.lever.co/zeeco/bbbf7d70-d942-48a8-9f76-b26f3f283498/apply",
       "discordThreadId": "1452048776725270632",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7515582521393318151-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7515582521393318151-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Graduate",
+      "postedToDiscord": "2025-12-20T21:35:00.592Z",
+      "sourceDate": "2025-06-18T04:44:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7515582521393318151/detail",
+      "discordThreadId": "1452051675157106741",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516656741909793042-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7516656741909793042-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
+      "postedToDiscord": "2025-12-20T21:35:03.922Z",
+      "sourceDate": "2025-06-17T20:12:18.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516656741909793042/detail",
+      "discordThreadId": "1452051689912926238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516656742424430856-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7516656742424430856-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Training",
+      "postedToDiscord": "2025-12-20T21:35:03.929Z",
+      "sourceDate": "2025-06-17T19:00:02.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516656742424430856/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516657604077914386-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7516657604077914386-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Mldev",
+      "postedToDiscord": "2025-12-20T21:35:03.936Z",
+      "sourceDate": "2025-06-17T18:59:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516657604077914386/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516654594874476808-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7516654594874476808-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Enterprise",
+      "postedToDiscord": "2025-12-20T21:35:03.942Z",
+      "sourceDate": "2025-06-17T05:34:25.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516654594874476808/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-reevo-2ea4d267-cd80-4481-9965-216ecd469e7e-application-2025-12-20-1",
+      "jobId": "jobs-ashbyhq-com-reevo-2ea4d267-cd80-4481-9965-216ecd469e7e-application",
+      "company": "Reevo",
+      "title": "Builder – New Grad - Software Engineer",
+      "postedToDiscord": "2025-12-20T21:35:07.522Z",
+      "sourceDate": "2025-06-17T04:32:40.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e/application",
+      "discordThreadId": "1452051704039084215",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7515557741370411282-detail-2025-12-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7515557741370411282-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start','Phd",
+      "postedToDiscord": "2025-12-20T21:35:11.026Z",
+      "sourceDate": "2025-06-17T01:01:28.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7515557741370411282/detail",
+      "discordThreadId": "1452051719092572251",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-google-com-about-careers-applications-jobs-results-80928836794884806-2025-12-20-1",
+      "jobId": "www-google-com-about-careers-applications-jobs-results-80928836794884806",
+      "company": "Google",
+      "title": "Software Engineer 3 - Infrastructure - Google Cloud Global Networking",
+      "postedToDiscord": "2025-12-20T21:35:14.450Z",
+      "sourceDate": "2025-06-01T05:33:32.000Z",
+      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/80928836794884806",
+      "discordThreadId": "1452051733483225169",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-betterhelpcom-jobs-4756131008-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-betterhelpcom-jobs-4756131008",
+      "company": "BetterHelp",
+      "title": "Data Scientist - Experimentation",
+      "postedToDiscord": "2025-12-20T21:35:20.833Z",
+      "sourceDate": "2025-06-13T23:10:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008",
+      "discordThreadId": "1452051760444211355",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-tower-research-com-open-positions-2025-12-20-1",
+      "jobId": "www-tower-research-com-open-positions",
+      "company": "Tower Research Capital",
+      "title": "Software Engineer – New Grad - C++",
+      "postedToDiscord": "2025-12-20T21:35:27.655Z",
+      "sourceDate": "2025-06-12T02:50:11.000Z",
+      "sourceUrl": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
+      "discordThreadId": "1452051787778625628",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 737,
+    "totalJobs": 747,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T21:23:29.464Z",
+      "date": "2025-12-20T21:35:27.655Z",
       "archived": 0
     }
   }
