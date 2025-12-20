@@ -1,206 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Software Engineer - Full-Stack",
-      "employer_name": "Runpod",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Runpod is pioneering the future of AI and machine learning, offering cutting-edge cloud infrastructure for full-stack AI applications. Founded in 2022, we are a rapidly growing, well-funded company with a remote-first organization spread globally. Our mission is to empower innovators and enterprises to unlock AI's true potential, driving technology and transforming industries. Join us as we shape the future of AI. We are looking to hire a Full-Stack Engineer. As a Full-Stack Software Engineer at Runpod, you will work alongside experienced engineers and developers, contributing to the development of tools that bridge AI engineering and scalable infrastructure. This role offers a unique opportunity to grow your skills while making a tangible impact on the products and services that shape AI innovation. Responsibilities: Contribute to Frontend & Backend Development: Assist in building, maintaining, and enhancing user interfaces, APIs, and other core components of our platform using Python, Typescript, and Go Lang (with a primary focus on Python and Typescript).SDK Support & Development: Work with our open-source SDK to ensure it remains intuitive and effective for developers integrating with Runpod’s platform.Collaboration with Engineering & AI Teams: Support cross-functional teams by developing features and addressing bugs that enhance the user experience for AI engineers and researchers.Testing & Code Quality: Write clean, maintainable code with an emphasis on performance and scalability, following best practices for testing and continuous integration.Learning & Development: Participate in code reviews, mentorship opportunities, and continuous learning to deepen your expertise in full-stack development. Requirements: Programming Skills: Some experience with Python and/or Typescript, with a passion for learning and growing in a full-stack role. Familiarity with Go Lang or other strict-type language is a plus. Web Development Knowledge: Basic knowledge of frontend technologies (HTML, CSS, JavaScript frameworks) and backend frameworks (e.g., React, Express, FastAPI, Pydantic, etc). Open Source Interest: Enthusiasm for open-source projects and contributions is a strong plus. Problem-Solving Skills: Eager to tackle challenges, learn from feedback, and work collaboratively within a dynamic team environment. Communication Skills: Ability to clearly communicate technical concepts and collaborate with other developers and non-technical team members. Successful completion of a background check Preferred: Exposure to cloud platforms, distributed computing, or containerization technologies like Docker. Familiarity with modern best practices. Prior coursework or projects to showcase full-stack experience. Experience with Git and version control workflows. What You’ll Receive: The competitive base pay for this position ranges from ($130,000 - $200,000). This salary range may be inclusive of several career levels at Runpod and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location Meaningful equity in a fast-growing AI infra company- everyone on the team receives stock options — your impact drives our growth, and you share in the upside. Generous medical, dental & vision plans — we cover 100% for all employees and partial for dependents. Flexible PTO- take the time you need to recharge Most roles have are remote work first with an inclusive, collaborative teams utilizing slack as the main form of internal communication Join a passionate team on the cutting edge of AI infrastructure — where culture, learning, and ownership are at the heart of how we scale. $1,200 Home Office & Equipment Stipend- We set you up for success from day one with gear and support to create your ideal workspace Runpod is committed to maintaining a workplace free from discrimination and upholding the principles of equality and respect for all individuals. We believe that diversity in all its forms enhances our team. As an equal opportunity employer, Runpod is committed to creating an inclusive workforce at every level. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, protected veteran status, disability status, or any other characteristic protected by law. We welcome every qualified candidate eligible to work in the United States; however, we are currently unable to sponsor employment visas.",
-      "job_apply_link": "https://job-boards.greenhouse.io/runpod/jobs/4785681008",
-      "job_posted_at_datetime_utc": "2025-07-19T06:07:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-runpod-jobs-4785681008",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
-      "job_title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Graduate (E-Commerce Governance)-2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7527430521355143431/detail",
-      "job_posted_at_datetime_utc": "2025-07-16T02:37:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7527430521355143431-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
-      "job_title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Graduate (E-Commerce Governance)-2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7527426391449864466/detail",
-      "job_posted_at_datetime_utc": "2025-07-16T02:37:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7527426391449864466-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Graduate (E-Commerce Governance-CV/NLP/Multimodal/LLM)-2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7515571512419338514/detail",
-      "job_posted_at_datetime_utc": "2025-07-16T02:32:41.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515571512419338514-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
-      "job_title": "EGSE Software Engineer - Labview Specialist",
-      "employer_name": "Millennium Space Systems",
-      "job_city": "El Segundo",
-      "job_state": "CA",
-      "job_description": "Company OverviewMillennium Space Systems, A Boeing Company delivers affordable, high-performance space systems for exacting customers. At Millennium, you will be part of a close-knit team working on exciting technological problems. We work in an open environment where ideas are shared across all disciplines, and there are ample opportunities for advancement based on excellence. Superstars are welcome. At Millennium, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company committed to fostering an environment for every teammate that's welcoming, respectful and innovative, with great opportunities for professional growth. Find your future with us. Job Summary Millennium Space Systems, a Boeing Company, is seeking a Software Engineer with deep LabVIEW expertise to join our Electrical Ground Support Equipment (EGSE) team. In this role, you’ll design and develop software that powers test systems, Hardware-in-the-Loop (HIL) setups, and custom electrical test equipment used to validate spacecraft hardware. This position is ideal for engineers who thrive in a hands-on test environment and have professional experience developing with National Instruments tools plus fluency with software development best practices, including source control, issue tracking, and continuous integration pipelines. You will work closely with Assembly Test and Launch Operations (ATLO), Manufacturing, and Systems Engineering teams to architect, build, and support test applications that ensure mission success. This position's internal job code is Elect Design and Analysis Engr. Our team is currently hiring for a levels 2-3. Responsibilities Develop, test, and maintain LabVIEW applications for EGSE and HIL systems Architect scalable software solutions for real-time test and validation of embedded systems Develop robust, maintainable, and well-documented code following modern software engineering principles Interface with NI hardware including PXI, cRIO, DAQ, and related instrumentation Integrate software with TestStand for sequencing and automation Collaborate with cross-functional teams (ATLO, Systems, Manufacturing) to define software requirements and test strategies Troubleshoot and support deployed test systems in production and environmental test labs Contribute to DevOps pipelines for version control, test automation, and deployment (GitLab CI/CD) Mentor junior engineers and contribute to team-wide best practices and coding standards Own full lifecycle of software projects from architecture to deployment Minimum Qualifications Bachelor’s degree in Computer Engineering, Electrical Engineering, or related technical discipline Professional experience developing LabVIEW applications (not just coursework or exposure) Solid understanding of instrumentation, test systems, and data acquisition Strong debugging, integration, and troubleshooting skills in a hardware-in-the-loop environment Familiarity with Git, issue tracking, and structured software development processes Preferred Qualifications 5+ years of professional LabVIEW development experience Certified LabVIEW Developer (CLD) or higher Experience with NI TestStand Experience with EGSE or test automation in aerospace or defense Experience with CI/CD tools, containers, or virtual machines Knowledge of NASA or MIL-STD environmental test protocols Active TS/SCI clearance Please note that the salary information shown below is a general guideline only of what is reasonably expected to be paid for the position. Salaries are based upon candidate experience and qualifications, as well as market and business considerations. Summary Pay-Range Level 2: $85,850 - $126,250 Level 3: $104,550 - $153,750 Benefits and PerksMillennium Space Systems offers a very competitive benefits package to include medical, dental, vision, and 401k plan. Before applying, please note:Millennium is DDTC-registered, ITAR-compliant Company. This position is located at a facility that requires special access. Applicants MUST be U.S. citizens and eligible for a security clearance. Additionally, applicants must be willing to apply for and maintain a security clearance. We encourage all interested candidates to apply for any open position for which they feel they are qualified. Applicant Privacy PolicyMandatory Security Clearance and Access Process Disqualifying Criteria",
-      "job_apply_link": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4413815008",
-      "job_posted_at_datetime_utc": "2025-07-15T15:55:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-millenniumspacesystems-jobs-4413815008",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Developer",
-      "employer_name": "Black Canyon Consulting",
-      "job_city": "Bethesda",
-      "job_state": "MD",
-      "job_description": "Black Canyon Consulting (BCC) is searching for a Software Developer to support at the National Institutes of Health (NIH). This opportunity is full time in Bethesda, MD and/or remote work. As a Software Developer, you will contribute to development efforts that support the goals and initiatives of the product team and organization while learning Software Development practices from an experienced team. This work is performed under the guidance of the Technical Program Manager and the Technical Lead. We attract the best people in the business with our competitive benefits package that includes medical, dental and vision coverage, 401k plan with employer contribution, paid holidays, vacation, and tuition reimbursement. If you enjoy being a part of a high performing, professional service and technology focused organization, please apply today! Responsibilities include: Work with the Software Development team on front-end and back-end software development tasks Contribute to design discussions for new software development efforts Learn Software Development practices from an experienced team Participate in software documentation activities with the team Work as an integral part of an agile product team to deliver an unbelievably great user experience Qualifications: The ideal candidate may or may not be a United States citizen and must have at least a Bachelor or Master of Science degree in Computer Science, Information Technology or Engineering or equivalent work experience. We are looking for an individual with: Experience developing software applications in Python Experience developing software with GoLang, C++, and/or Java a plus Understanding of front-end technologies, such as JavaScript, HTML5, and CSS3 Experience working with SQL databases Ability to work with common structured documents (XML, JSON, CSV) Understanding of ASN.1 a plus Experience with version control systems like Git or SVN Excellent verbal and written communication skills and team player",
-      "job_apply_link": "https://job-boards.greenhouse.io/bcc/jobs/5880038003",
-      "job_posted_at_datetime_utc": "2025-07-11T06:13:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-bcc-jobs-5880038003",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
-      "job_title": "Linux Engineer",
-      "employer_name": "Jane Street",
-      "job_city": "NYC",
-      "job_state": "Locations",
-      "job_description": "About the Position We are looking for Linux Engineers to join the team that maintains the critical infrastructure underlying the rest of Jane Street’s technology. Our group includes hard-working Systems Engineers, Administrators and Programmers, tasked with maintaining and improving the platform that powers Jane Street's production trading systems. Our mix of in-house and open source software allows you to investigate and innovate at every level. On any given day, you could be debugging kernel performance, developing management tools, or resolving production issues in real time. Diving into tricky systems problems is our specialty. Deployment automation, scalable configuration management, and obsessive monitoring are the focus of some of our ongoing projects. We automate as much of our work as we can, but not because we’re lazy. We find that automation reduces our error rate and overall workload - plus, we think it's fun. Working in our group provides opportunities for involvement with almost every other facet of the company. We work directly with colleagues in trading, technology, and operations to build and maintain systems with a firm-wide scope. Using feedback from other groups and our custom monitoring tools, we strive to resolve production issues quickly, perform comprehensive root-cause analyses, and integrate long-term fixes in a clean and robust way. We don't expect you to come in with deep experience - we're happy to hire smart problem solvers and teach them what they need to know. You’ll train alongside our more seasoned team members in a hands-on capacity, learning how we make tangible and immediate improvements to our infrastructure every day. About You Bachelor's degree in Computer Science, Software Engineering, or other technical discipline, or equivalent experience Experience managing/troubleshooting Linux systems in a home, work, or school environment Exposure to Linux environments through past experience in either software development, IT operations (Helpdesk, Technical Support, DevOps, etc.), or a similar field Interested in systems programming and administration and a desire to expand these skills Willing to learn OCaml, our programming language of choice (no prior experience with OCaml is required, though) Able to analyze and deconstruct technical problems Knowledgeable about operating system fundamentals, especially Linux Confident with the Unix command line and basic shell scripting Has a basic understanding of network protocols and can perform basic troubleshooting Comfortable with fundamental programming concepts Practical experience with modern Linux systems and systems programming concepts (e.g., C, sockets, virtual memory, process life cycle) is a plus Intermediate/advanced knowledge of troubleshooting tools and techniques (e.g., gdb, perf, DTrace, eBPF, or SystemTap) is a plus Knowledgeable, or at least interested in learning, about modern computer architecture techniques (e.g. familiarity with PCIe, NVMe, NUMA) Strong programmer (in any language) If you're a recruiting agency and want to partner with us, please reach out to agency-partnerships@janestreet.com.",
-      "job_apply_link": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002",
-      "job_posted_at_datetime_utc": "2025-07-10T15:46:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-janestreet-jobs-8061059002",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
-      "job_title": "Postdoctoral Scholar - Experimental Condensed Matter Physics",
-      "employer_name": "PennState University",
-      "job_city": "State College",
-      "job_state": "PA",
-      "job_description": "APPLICATION INSTRUCTIONS:CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants.JOB DESCRIPTION AND POSITION REQUIREMENTS:The Eberly College of Science, Department of Physics at The Pennsylvania State University is seeking to fill two Postdoctoral Scholar positions in Experimental Condensed Matter Physics. The successful candidates will participate in the research program of Prof. Cui-Zu Chang’s group to investigate the quantum phenomena in molecular beam epitaxy (MBE)-grown films/heterostructures. The project involves molecular beam epitaxy (MBE) growth, angle-resolved photoemission spectroscopy (ARPES), scanning tunneling microscopy and spectroscopy (STM/S), nanoscale device fabrication, mechanical exfoliation, and dilution electrical transport measurements. The ideal candidates should have experience in at least one of these areas. Education and ExperienceRequirements include a Ph.D. in Physics or related fields. Applications must be submitted electronically and include a cover letter, CV, and statement of research interests. Applicants should arrange for three reference letters to be submitted to physicsapply@psu.edu, indicating the appropriate job number in the subject line.Additional InformationThese are term appointments, funded for one year from the date of hire, with the possibility of re-funding. Review of applications will begin immediately and continue until a suitable candidate is found.  The Pennsylvania State University is committed to and accountable for advancing diversity, equity, inclusion, and sustainability in all of its forms. We embrace individual uniqueness, foster a culture of inclusion that supports both broad and specific diversity initiatives, leverage the educational and institutional benefits of diversity in society and nature, and engage all individuals to help them thrive. We value inclusion as a core strength and an essential element of our public service mission.CAMPUS SECURITY CRIME STATISTICS: Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here.Employment with the University will require successful completion of background check(s) in accordance with University policies. EEO IS THE LAWPenn State is an equal opportunity, affirmative action employer, and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473.Federal Contractors Labor Law PosterPA State Labor Law PosterAffirmative ActionPenn State PoliciesCopyright InformationHotlinesUniversity Park, PA",
-      "job_apply_link": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Experimental-Condensed-Matter-Physics-_REQ_0000050105",
-      "job_posted_at_datetime_utc": "2025-07-08T22:08:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-experimental-condensed-matter-physics-_req_0000050105",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
-      "job_title": "Postdoctoral Scholar - Experimental Condensed Matter Physics",
-      "employer_name": "PennState University",
-      "job_city": "State College",
-      "job_state": "PA",
-      "job_description": "APPLICATION INSTRUCTIONS:CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants.JOB DESCRIPTION AND POSITION REQUIREMENTS:The Eberly College of Science, Department of Physics at The Pennsylvania State University is seeking to fill two postdoctoral positions in Experimental Condensed Matter Physics. The successful candidate will actively engage in Prof. Cui-Zu Chang’s research program (https://sites.psu.edu/changresearch/), which focuses on exploring quantum phenomena in films and heterostructures grown by molecular beam epitaxy (MBE). The projects in Cui-Zu's group encompass a range of techniques, including MBE growth, angle-resolved photoemission spectroscopy (ARPES), scanning tunneling microscopy and spectroscopy (STM/S), nanoscale device fabrication, mechanical exfoliation, and dilution electrical transport measurements. We are seeking an ideal candidate with expertise in at least one of these areas.Requirements include a Ph.D. in Physics or related fields. Applications must be submitted electronically and include a cover letter, CV, and statement of research interests. Applicants should arrange for three reference letters to be submitted to physicsapply@psu.edu indicating the appropriate job number in the subject line.  This is a limited term appointment funded for one year from the date of hire, with the possibility of refunding. Review of applications will begin immediately and continue until a suitable candidate is found.  The Pennsylvania State University is committed to and accountable for advancing diversity, equity, inclusion, and sustainability in all of its forms. We embrace individual uniqueness, foster a culture of inclusion that supports both broad and specific diversity initiatives, leverage the educational and institutional benefits of diversity in society and nature, and engage all individuals to help them thrive. We value inclusion as a core strength and an essential element of our public service mission.CAMPUS SECURITY CRIME STATISTICS: Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here.Employment with the University will require successful completion of background check(s) in accordance with University policies. EEO IS THE LAWPenn State is an equal opportunity, affirmative action employer, and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473.Federal Contractors Labor Law PosterPA State Labor Law PosterAffirmative ActionPenn State PoliciesCopyright InformationHotlinesUniversity Park, PA",
-      "job_apply_link": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Exploring-Quantum-Phenomena_REQ_0000056784-1",
-      "job_posted_at_datetime_utc": "2025-07-08T06:07:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-exploring-quantum-phenomena_req_0000056784-1",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Developer",
-      "employer_name": "DRW",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer, you will be an integral member of a dynamic team of technologists, quantitative researchers, and traders. Collaborating closely, you will contribute across the full technology stack tackling complex problems that require careful analysis and swift execution. We’re looking for individuals who are eager to learn, think critically, and deliver solutions that drive tangible impact. From day one, you will be entrusted with meaningful responsibility, supported by mentorship from experienced engineers, and participate in a rigorous training program designed to accelerate your growth in this role. At DRW, you’ll thrive in a fast-paced, collaborative environment that values innovation, adaptability, and excellence—providing the tools and opportunities to make a direct difference. How you will make an impact… You will design, develop, test, and deploy proprietary software that powers fundamental aspects of our business, including: Scalable platforms for data visualization and analytics to drive deeper market insights Platforms enabling scenario modeling, portfolio development, and performance tracking Systems for accurate pricing and risk analytics of options, futures, and derivatives Real-time and historical risk analysis and trade monitoring systems Advanced data acquisition, integration, and storage systems for fundamental datasets Continuous analysis and tuning of system performance Collaboration with experienced teammates to deliver bespoke solutions balancing speed, functionality, and cost, enhancing our technology stack What you bring to the team… You’ll join us with a strong technical foundation and the ability to collaborate effectively. Specifically, you bring: A degree in Computer Science, Physics, Mathematics, or a related engineering discipline, with graduation expected between December 2025 and June 2026 (Bachelor’s, Master’s, or PhD) Proficiency in modern Java software development Skills in multi-threading, API design and integration, data processing, and UI development A strong grasp of object-oriented design, data structures, and algorithms Solid programming fundamentals paired with clear logical thinking and effective communication The ability to clearly articulate and advocate for your ideas within a collaborative team environment DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk. Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets. We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it's how we do it. DRW is a place of high expectations, integrity, innovation and a willingness to challenge consensus. The annual base salary range for this position is $175,000 depending on the candidate’s experience, qualifications, and relevant skill set. The position is also eligible for an annual discretionary bonus. In addition, DRW offers a comprehensive suite of employee benefits including group medical, pharmacy, dental and vision insurance, 401k (with discretionary employer match), short and long-term disability, life and AD&D insurance, health savings accounts, and flexible spending accounts. For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at https://drw.com/privacy-notice. California residents, please review the California Privacy Notice for information about certain legal rights at https://drw.com/california-privacy-notice. #LI-DNI",
-      "job_apply_link": "https://job-boards.greenhouse.io/drweng/jobs/6828054",
-      "job_posted_at_datetime_utc": "2025-07-07T23:51:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-drweng-jobs-6828054",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": "2025-12-20T20:48:29.661Z",
-    "postedAt": "2025-12-20T21:05:08.376Z"
-  },
-  {
-    "job": {
       "job_title": "Assistant Professor of Computing and Information Science - Machine Learning",
       "employer_name": "University of Maine System",
       "job_city": "Bangor",
@@ -214,10 +14,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -234,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -254,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -274,10 +74,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -294,10 +94,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -314,10 +114,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -354,10 +154,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -374,10 +174,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -394,10 +194,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-16T01:38:40.802Z",
     "enrichedAt": "2025-12-20T21:04:27.139Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:23:32.475Z"
   },
   {
     "job": {
@@ -405,16 +205,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Graduate (E-Commerce Governance-CV/NLP/Multimodal/LLM)-2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7515582521393318151/detail",
       "job_posted_at_datetime_utc": "2025-06-18T04:44:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515582521393318151-detail"
+      "id": "jobs-bytedance-com-en-position-7515582521393318151-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -423,16 +225,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - Orchestration) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7516656741909793042/detail",
       "job_posted_at_datetime_utc": "2025-06-17T20:12:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516656741909793042-detail"
+      "id": "jobs-bytedance-com-en-position-7516656741909793042-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -441,16 +245,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - Training) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7516656742424430856/detail",
       "job_posted_at_datetime_utc": "2025-06-17T19:00:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516656742424430856-detail"
+      "id": "jobs-bytedance-com-en-position-7516656742424430856-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -459,16 +265,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7516657604077914386/detail",
       "job_posted_at_datetime_utc": "2025-06-17T18:59:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516657604077914386-detail"
+      "id": "jobs-bytedance-com-en-position-7516657604077914386-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -477,16 +285,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7516654594874476808/detail",
       "job_posted_at_datetime_utc": "2025-06-17T05:34:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7516654594874476808-detail"
+      "id": "jobs-bytedance-com-en-position-7516654594874476808-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -495,16 +305,18 @@
       "employer_name": "Reevo",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join Reevo in this exciting opportunity.",
+      "job_description": "ABOUT THE ROLE: We are seeking a Software Engineer who thrives as a T-shaped individual—bringing technical expertise in software engineering while also possessing a broad range of skills that allow them to tackle diverse challenges creatively. The ideal candidate is highly innovative, with a passion for solving complex problems across various domains, all while maintaining a high standard of engineering excellence. In this role, you will collaborate with other team members to design and implement solutions that push the boundaries of what’s possible. You will be expected to bring both creativity and technical rigor to the table, ensuring that every solution is not only effective but also built to the highest standards. Join us at Reevo Inc., where our initial focus on enhancing workflows for Account Executives (AE) and Sales Development Representatives (SDR) has laid the foundation for our ambitious goal to build an end-to-end solution designed to replace the entire CRM ecosystem and its point solutions. Backed by top-tier venture investors in Silicon Valley and tens of millions raised, we are poised to redefine sales technology. This is your opportunity to be a pivotal part of a dynamic team committed to transforming how businesses manage their sales processes. ABOUT REEVO: At Reevo, we're reimagining the entire revenue stack from the ground up, and we're doing it with speed. We're building software that orchestrates every go-to-market motion, enabling B2B teams to operate faster, smarter, and more collaboratively. By combining automation, intelligence, and a radically intuitive interface, we're helping companies unlock new levels of productivity and growth across marketing, sales, ops, and customer success teams. If you're excited about working on a product that reshapes how revenue teams work and being surrounded by curious, driven teammates, you'll feel right at home here. From day one, you'll get real ownership, real mentorship, and real impact. Our team of 50+ builders has 30 exits under their belt, so you'll be in good company and working alongside the best! WHO YOU ARE: You excel in fast-paced environments where agility and adaptability are key. At this stage, we’re still in a phase of discovery, and you'll work alongside other team members, taking on a product-focused role to drive high-impact initiatives. You navigate ambiguity with confidence. Your experience and brilliance equip you to zero in on what matters most, delivering clear insights that help the team set and adjust priorities effectively. You’re a builder and a doer. You have strong opinions, and you’re able to push forward to deliver results. You think strategically about prioritization, ensuring that what gets built is both impactful and aligned with the broader vision. You communicate and collaborate with precision. You understand how to tailor your message when working alongside other team members, delivering the right information with the appropriate level of detail. You work collaboratively to co-create solutions that are more effective than any individual effort alone. You see intellectual friction as a necessary ingredient for growth, not a hindrance. WHAT YOU WILL DO: By working alongside your Reevo teammates and customers, you'll turn customer insights into robust, scalable software solutions within a creative environment that demands both proven leadership skills and the ability to execute a strategic vision. More responsibilities in detail: Partner with internal teams to gather technical requirements and understand user needs. Analyze how new software solutions meet market demands and align with user expectations. Drive the roadmap for the 0-to-1 creation of new software products. Identify opportunities for technical improvement and innovation based on user feedback to achieve product-market fit. Stay informed on trends in the competitive landscape, including the latest technologies and frameworks. Collaborate closely with other team members to suggest and implement enhancements for products and processes. Present technical plus product concepts and solutions to the larger team. Refine and standardize coding practices to ensure high-quality, maintainable software. Rapidly iterate on software designs and implementations, from concept to deployment. WHAT YOU BRING: B.S., M.S., or PhD. in Computer Science or equivalent Experience in software engineering in B2B SaaS is a plus Strong expertise in relevant programming languages, frameworks, and development tools (Python, AWS, PostgreSQL, Elasticsearch) Generative AI applications, agentic framework, prompt engineering experiences a plus Experience in maintaining coding standards or best practices An intuitive understanding of technical challenges, often anticipating issues before they arise. Highly creative, with a talent for devising novel solutions to complex technical problems Excellent attention to detail, ensuring high-quality code and systems Ability to collaborate effectively alongside cross-functional team members Proficiency in analyzing and interpreting both qualitative and quantitative data to inform technical decisions Strong communication skills, with the ability to persuasively convey technical concepts to both technical and non-technical audiences A passion for engineering excellence, always striving to improve and innovate beyond the status quo A forward-thinking approach, recommending new tools and technologies by staying updated on the latest trends and techniques in software development",
       "job_apply_link": "https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e/application",
       "job_posted_at_datetime_utc": "2025-06-17T04:32:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-reevo-2ea4d267-cd80-4481-9965-216ecd469e7e-application"
+      "id": "jobs-ashbyhq-com-reevo-2ea4d267-cd80-4481-9965-216ecd469e7e-application",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -513,16 +325,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7515557741370411282/detail",
       "job_posted_at_datetime_utc": "2025-06-17T01:01:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7515557741370411282-detail"
+      "id": "jobs-bytedance-com-en-position-7515557741370411282-detail",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -531,16 +345,18 @@
       "employer_name": "BetterHelp",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join BetterHelp in this exciting opportunity.",
+      "job_description": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy in across the globe. Our network of over 30,000 licensed therapists has helped millions of people take ownership of their mental health and change their lives forever. And we’re not stopping there – as the unmet need for mental health services continues to grow, BetterHelp is committed to being part of the solution. As a Data Scientist at BetterHelp, you’ll join a diverse team of licensed clinicians, engineers, product pros, creatives, marketers, and business leaders who share a passion for expanding access to therapy. And as a mental health company, we take employee mental health just as seriously as we do our mission. We deeply invest in our team’s well-being and professional development, because we know that business and individual growth go hand-in-hand. At BetterHelp, you’ll carve your own path, make an immediate impact, and be challenged every day – with a supportive community behind you the whole way. What are we looking for? BetterHelp is looking for a Data Scientist to help us scale and increase our impact. You will use data to drive insight into the product and business with a focus. The ideal candidate would have experience analyzing large and complex data sets related to web products. You'll be doing plenty of experiment design and post-hoc analysis to support product improvements and business decisions. What will you do? Get insight from an enormous amount of data, and take a proactive role partnering with the product team in finding and testing data-driven ideas for improving our products. Collaborate with the product team and development team to design effective, statistically rigorous experiments, including simple A/B tests as well as more advanced experiment designs that account for complexities such as network effects. Monitor and analyze several product tests with statistical rigor, present the data and insights to the team, and drive product decisions. Look at complex problems and come up with testable models and algorithms that have measurable business impact. Enjoy great teamwork, have lots of fun, and take pride in building a world-class product that makes a difference in people's lives. What will you NOT do? You will NOT worry about \"runway\", \"cash left\", or \"how much time we have until the next round\". We have the startup DNA but we're fully backed and funded, all the way to success. You will NOT be confined to your \"job\". You will get involved in product, marketing, business strategy, and almost everything we do. You will NOT be bogged down by office politics, ego, or bad attitude. Only positive, pleasure-to-work-with people are allowed here! You will NOT get yourself burned out. We work hard but we believe in maintaining a sustainable work/life balance. Really. Can I work remotely? Yes. We operate on PST and candidates in any time zone are welcome to apply. We ask employees to travel to our San Jose, CA office up to three times per year plus one company-wide offsite to collaborate in person and strengthen working relationships. Travel expenses are covered and reasonable accommodations are made for those under unique circumstances who cannot travel. Requirements 1+ years of experience in a data science role or relevant internships, ideally applying analytical skills to real-world problems Degree in a quantitative discipline such as Statistics, Math, Economics, or Operations Research Familiarity with analyzing A/B tests or similar experiments through coursework or projects Proficiency in SQL Hands-on experience with data analysis, experiment design, and statistical methods through work, internships, or academic projects Strong grasp of statistical concepts, especially around hypothesis testing and experiment design Clear and thoughtful communicator, with a desire to keep improving how complex ideas are shared across different audiences Benefits Remote work with regular in-person bonding experiences sponsored by the company Competitive compensation Holistic perks program (including free therapy, employee wellness, and more) Excellent health, dental, and vision coverage 401k benefits with employer matching contribution The chance to build something that changes lives – and that people love Any piece of hardware or software that will make you happy and productive An awesome community of co-workers The base salary range for this position is $115,000 - $145,000. In addition to the base salary, this position is eligible for a performance bonus and the extensive benefits listed here (subject to eligibility requirements): Teladoc Health Benefits 2025. Total compensation is based on several factors – including, but not limited to, type of position, location, education level, work experience, and certifications. This information is applicable to all full-time positions. At BetterHelp we thrive on difference and individuality, and as part of the Teladoc Health family, we are proud to be an Equal Opportunity Employer. We never have and never will discriminate against any job candidate or employee due to age, race, ethnicity, religion, sex, color, national origin, gender, gender identity, sexual orientation, medical condition, marital status, parental status, disability, or Veteran status.",
       "job_apply_link": "https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008",
       "job_posted_at_datetime_utc": "2025-06-13T23:10:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-betterhelpcom-jobs-4756131008"
+      "id": "job-boards-greenhouse-io-betterhelpcom-jobs-4756131008",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -549,16 +365,18 @@
       "employer_name": "Tower Research Capital",
       "job_city": "New York",
       "job_state": "NY",
-      "job_description": "Join Tower Research Capital in this exciting opportunity.",
+      "job_description": "Explore open positions at Tower Research Capital and start the next chapter of your career in quantitative trading, engineering, and more.",
       "job_apply_link": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
       "job_posted_at_datetime_utc": "2025-06-12T02:50:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "www-tower-research-com-open-positions"
+      "id": "www-tower-research-com-open-positions",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {
@@ -567,16 +385,18 @@
       "employer_name": "Google",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join Google in this exciting opportunity.",
+      "job_description": "Software Engineer III, Infrastructure, Google Cloud Global Networkingshare linkCopy linkemailEmail a friendcorporate_fareGoogleplaceAtlanta, GA, USA; Sunnyvale, CA, USAbar_chartMidMidExperience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.Applyshare linkCopy linkemailEmail a friendinfo_outlineXNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Atlanta, GA, USA; Sunnyvale, CA, USA.Minimum qualifications:Bachelor’s degree or equivalent practical experience.2 years of experience programming in C++, Python or Go.2 years of experience with developing large - scale infrastructure, distributed systems or networking, or experience with compute technologies, or hardware architecture.Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.2 years of experience with data structures or algorithms in either an academic or industry setting. Experience developing accessible technologies. Proficiency in code and system health, diagnosis and resolution, and software test engineering. About the jobGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible. The AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.We're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's Applicant and Candidate Privacy Policy.Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy, Know your rights: workplace discrimination is illegal, Belonging at Google, and How we hire.If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes.",
       "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/80928836794884806",
       "job_posted_at_datetime_utc": "2025-06-01T05:33:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "www-google-com-about-careers-applications-jobs-results-80928836794884806"
+      "id": "www-google-com-about-careers-applications-jobs-results-80928836794884806",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-16T01:38:40.802Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:22:48.578Z",
     "postedAt": null
   },
   {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:05:05.366Z",
+  "lastUpdated": "2025-12-20T21:23:29.464Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -7998,14 +7998,124 @@
       "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Exploring-Quantum-Phenomena_REQ_0000056784-1",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewca-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-725-2025-12-20-1",
+      "jobId": "fa-ewca-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-725",
+      "company": "University of Maine System",
+      "title": "Assistant Professor of Computing and Information Science - Machine Learning",
+      "postedToDiscord": "2025-12-20T21:22:55.647Z",
+      "sourceDate": "2025-07-04T16:38:30.000Z",
+      "sourceUrl": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/725",
+      "discordThreadId": "1452048634932625493",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-skildai-careers-jobs-4782103008-2025-12-20-1",
+      "jobId": "job-boards-greenhouse-io-skildai-careers-jobs-4782103008",
+      "company": "Skild AI",
+      "title": "Robot Operator",
+      "postedToDiscord": "2025-12-20T21:23:00.825Z",
+      "sourceDate": "2025-06-26T04:55:15.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/skildai-careers/jobs/4782103008",
+      "discordThreadId": "1452048649562624112",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-welocalize-33babd56-f6d6-4779-8146-498c9a9e42bd-apply-2025-12-20-1",
+      "jobId": "jobs-lever-co-welocalize-33babd56-f6d6-4779-8146-498c9a9e42bd-apply",
+      "company": "Welocalize",
+      "title": "Remote Internet Search Quality Rater - English - United States",
+      "postedToDiscord": "2025-12-20T21:23:04.667Z",
+      "sourceDate": "2025-06-19T04:43:51.000Z",
+      "sourceUrl": "https://jobs.lever.co/welocalize/33babd56-f6d6-4779-8146-498c9a9e42bd/apply",
+      "discordThreadId": "1452048671079272470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-welocalize-8c5d74a0-775b-420a-bf87-5bc20ba5a48e-apply-2025-12-20-1",
+      "jobId": "jobs-lever-co-welocalize-8c5d74a0-775b-420a-bf87-5bc20ba5a48e-apply",
+      "company": "Welocalize",
+      "title": "Scout Search Quality Rater - Spanish - USA",
+      "postedToDiscord": "2025-12-20T21:23:08.167Z",
+      "sourceDate": "2025-06-19T04:43:26.000Z",
+      "sourceUrl": "https://jobs.lever.co/welocalize/8c5d74a0-775b-420a-bf87-5bc20ba5a48e/apply",
+      "discordThreadId": "1452048686921023540",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-evlf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-28752-2025-12-20-1",
+      "jobId": "fa-evlf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-28752",
+      "company": "Hertz",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-20T21:23:15.000Z",
+      "sourceDate": "2025-07-04T06:30:55.000Z",
+      "sourceUrl": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28752",
+      "discordThreadId": "1452048714188460197",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-usa-nc-cornelius-application-engineer_jr_1042522-2025-12-20-1",
+      "jobId": "zeissgroup-wd3-myworkdayjobs-com-external-job-usa-nc-cornelius-application-engineer_jr_1042522",
+      "company": "Zeiss",
+      "title": "Application Engineer",
+      "postedToDiscord": "2025-12-20T21:23:18.440Z",
+      "sourceDate": "2025-07-02T23:27:53.000Z",
+      "sourceUrl": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/USA---NC-Cornelius/Application-Engineer_JR_1042522",
+      "discordThreadId": "1452048730172690553",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-memryx-jobs-f9cddbe0-dc8e-4f60-8243-003928a35f13-2025-12-20-1",
+      "jobId": "ats-rippling-com-memryx-jobs-f9cddbe0-dc8e-4f60-8243-003928a35f13",
+      "company": "MemryX",
+      "title": "Software Engineer, Applications and Customer Solutions",
+      "postedToDiscord": "2025-12-20T21:23:22.604Z",
+      "sourceDate": "2025-06-29T16:04:03.000Z",
+      "sourceUrl": "https://ats.rippling.com/memryx/jobs/f9cddbe0-dc8e-4f60-8243-003928a35f13",
+      "discordThreadId": "1452048744731381886",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-metacareers-com-jobs-9818241978303850-2025-12-20-1",
+      "jobId": "www-metacareers-com-jobs-9818241978303850",
+      "company": "Meta",
+      "title": "Software Engineer - Product",
+      "postedToDiscord": "2025-12-20T21:23:26.022Z",
+      "sourceDate": "2025-06-25T07:11:26.000Z",
+      "sourceUrl": "https://www.metacareers.com/jobs/9818241978303850",
+      "discordThreadId": "1452048762288734332",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-metacareers-com-jobs-592280103506066-2025-12-20-1",
+      "jobId": "www-metacareers-com-jobs-592280103506066",
+      "company": "Meta",
+      "title": "Software Engineer - Product",
+      "postedToDiscord": "2025-12-20T21:23:26.031Z",
+      "sourceDate": "2025-06-25T07:11:26.000Z",
+      "sourceUrl": "https://www.metacareers.com/jobs/592280103506066",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-zeeco-bbbf7d70-d942-48a8-9f76-b26f3f283498-apply-2025-12-20-1",
+      "jobId": "jobs-lever-co-zeeco-bbbf7d70-d942-48a8-9f76-b26f3f283498-apply",
+      "company": "Zeeco",
+      "title": "Application Engineer - Mandarin",
+      "postedToDiscord": "2025-12-20T21:23:29.463Z",
+      "sourceDate": "2025-06-19T00:10:26.000Z",
+      "sourceUrl": "https://jobs.lever.co/zeeco/bbbf7d70-d942-48a8-9f76-b26f3f283498/apply",
+      "discordThreadId": "1452048776725270632",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 727,
+    "totalJobs": 737,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T21:05:05.366Z",
+      "date": "2025-12-20T21:23:29.464Z",
       "archived": 0
     }
   }
