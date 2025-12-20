@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:04:50.192Z",
+  "lastUpdated": "2025-12-20T22:25:21.474Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -8438,14 +8438,124 @@
       "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1613/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452059181963018505",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-bnh-icims-com-jobs-22154-job-2025-12-20-1",
+      "jobId": "careers-bnh-icims-com-jobs-22154-job",
+      "company": "Beyond New Horizons",
+      "title": "Linux System Administrator",
+      "postedToDiscord": "2025-12-20T22:24:48.040Z",
+      "sourceDate": "2025-10-30T23:39:49.000Z",
+      "sourceUrl": "https://careers-bnh.icims.com/jobs/22154/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452064205522993264",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-yusen-logistics-icims-com-jobs-6050-job-2025-12-20-1",
+      "jobId": "careers-yusen-logistics-icims-com-jobs-6050-job",
+      "company": "Yusen Logistics",
+      "title": "Business Solutions Data Specialist",
+      "postedToDiscord": "2025-12-20T22:24:51.473Z",
+      "sourceDate": "2025-10-03T11:47:23.000Z",
+      "sourceUrl": "https://careers-yusen-logistics.icims.com/jobs/6050/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452064220236615762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-lewisbrisbois-icims-com-jobs-12141-job-2025-12-20-1",
+      "jobId": "careers-lewisbrisbois-icims-com-jobs-12141-job",
+      "company": "Lewis Brisbois",
+      "title": "Financial Systems Analyst 1",
+      "postedToDiscord": "2025-12-20T22:24:54.912Z",
+      "sourceDate": "2025-10-15T02:05:41.000Z",
+      "sourceUrl": "https://careers-lewisbrisbois.icims.com/jobs/12141/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452064234715484342",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89571716016-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89571716016",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:24:58.450Z",
+      "sourceDate": "2025-12-16T07:16:16.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571716016",
+      "discordThreadId": "1452064249202343936",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-27595-89571716080-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-27595-89571716080",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:24:58.457Z",
+      "sourceDate": "2025-12-16T07:16:12.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89571716080",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89571715968-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89571715968",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-20T22:24:58.466Z",
+      "sourceDate": "2025-12-16T07:16:03.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571715968",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-softare-engineer-1-27595-89568852704-2025-12-20-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-softare-engineer-1-27595-89568852704",
+      "company": "Intuit",
+      "title": "Softare Engineer 1",
+      "postedToDiscord": "2025-12-20T22:25:01.883Z",
+      "sourceDate": "2025-12-16T07:16:15.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704",
+      "discordThreadId": "1452064263907704948",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-steampunk-icims-com-jobs-6514-job-2025-12-20-1",
+      "jobId": "careers-steampunk-icims-com-jobs-6514-job",
+      "company": "Steampunk",
+      "title": "Data Engineer",
+      "postedToDiscord": "2025-12-20T22:25:08.401Z",
+      "sourceDate": "2025-09-16T20:30:05.000Z",
+      "sourceUrl": "https://careers-steampunk.icims.com/jobs/6514/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452064291007238164",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-ice-icims-com-jobs-11312-job-2025-12-20-1",
+      "jobId": "careers-ice-icims-com-jobs-11312-job",
+      "company": "Intercontinental Exchange",
+      "title": "Cross Asset Market Data Analyst",
+      "postedToDiscord": "2025-12-20T22:25:14.931Z",
+      "sourceDate": "2025-09-15T23:14:11.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11312/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452064318282797159",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-geosyntec-icims-com-jobs-3946-job-2025-12-20-1",
+      "jobId": "careers-geosyntec-icims-com-jobs-3946-job",
+      "company": "Geosyntec Consultants",
+      "title": "Early-Career Water Resources / Modeling Professional",
+      "postedToDiscord": "2025-12-20T22:25:21.474Z",
+      "sourceDate": "2025-09-28T20:59:08.000Z",
+      "sourceUrl": "https://careers-geosyntec.icims.com/jobs/3946/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452064345751289929",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 767,
+    "totalJobs": 777,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T22:04:50.192Z",
+      "date": "2025-12-20T22:25:21.474Z",
       "archived": 0
     }
   }
