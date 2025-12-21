@@ -1,227 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T18:25:18.821Z",
+  "lastUpdated": "2025-12-21T18:43:03.210Z",
   "jobs": [
-    {
-      "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
-      "jobId": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i",
-      "company": "Amazon",
-      "title": "Software Dev Engineer 1",
-      "postedToDiscord": "2025-12-14T18:28:41.730Z",
-      "sourceDate": "2025-12-12T07:14:09.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3140907/software-dev-engineer-i",
-      "discordThreadId": "1449830460287877251",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026780-1-2025-12-14-1",
-      "jobId": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026780-1",
-      "company": "Yahoo",
-      "title": "Software Developer Engineer 1",
-      "postedToDiscord": "2025-12-14T18:28:43.467Z",
-      "sourceDate": "2025-12-12T23:57:07.000Z",
-      "sourceUrl": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1",
-      "discordThreadId": "1449830475333107844",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-optiverprivate-jobs-7986419002-2025-12-14-1",
-      "jobId": "job-boards-greenhouse-io-optiverprivate-jobs-7986419002",
-      "company": "Optiver",
-      "title": "Graduate Software Engineer - 2026 Start - Chicago",
-      "postedToDiscord": "2025-12-14T18:28:47.049Z",
-      "sourceDate": "2025-12-12T23:42:53.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/optiverprivate/jobs/7986419002",
-      "discordThreadId": "1449830482606031020",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-optiverprivate-jobs-7986421002-2025-12-14-1",
-      "jobId": "job-boards-greenhouse-io-optiverprivate-jobs-7986421002",
-      "company": "Optiver",
-      "title": "Graduate Software Engineer - 2026 Start - Austin",
-      "postedToDiscord": "2025-12-14T18:28:47.052Z",
-      "sourceDate": "2025-12-12T23:42:53.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/optiverprivate/jobs/7986421002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-remote-any-location-associate-software-developer_r175450-1-2025-12-14-1",
-      "jobId": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-remote-any-location-associate-software-developer_r175450-1",
-      "company": "Parsons",
-      "title": "Associate Software Developer",
-      "postedToDiscord": "2025-12-14T18:28:50.952Z",
-      "sourceDate": "2025-12-12T23:27:49.000Z",
-      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Associate-Software-Developer_R175450-1",
-      "discordThreadId": "1449830497906593942",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nordstrom-wd501-myworkdayjobs-com-nordstrom_careers-job-seattle-wa-data-engineer-1-hybrid-seattle-wa-_r-805047-2025-12-14-1",
-      "jobId": "nordstrom-wd501-myworkdayjobs-com-nordstrom_careers-job-seattle-wa-data-engineer-1-hybrid-seattle-wa-_r-805047",
-      "company": "Nordstrom",
-      "title": "Data Engineer 1 - Seattle/WA",
-      "postedToDiscord": "2025-12-14T18:28:57.458Z",
-      "sourceDate": "2025-12-12T07:10:46.000Z",
-      "sourceUrl": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047",
-      "discordThreadId": "1449830526600089701",
-      "instanceNumber": 1
-    },
-    {
-      "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711-2025-12-14-1",
-      "jobId": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711",
-      "company": "RELX",
-      "title": "Data Analyst",
-      "postedToDiscord": "2025-12-14T18:29:00.891Z",
-      "sourceDate": "2025-12-12T07:14:29.000Z",
-      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711",
-      "discordThreadId": "1449830541288411197",
-      "instanceNumber": 1
-    },
-    {
-      "id": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-applications-programmer_r59946-2025-12-14-1",
-      "jobId": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-applications-programmer_r59946",
-      "company": "Motorola",
-      "title": "Applications Programmer",
-      "postedToDiscord": "2025-12-14T18:29:07.495Z",
-      "sourceDate": "2025-12-13T00:16:20.000Z",
-      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946",
-      "discordThreadId": "1449830568022773915",
-      "instanceNumber": 1
-    },
-    {
-      "id": "davita-wd1-myworkdayjobs-com-dkc_external-job-06998-team-evergreen-north-cbo-federal-way-business-office-associate-analyst-systems-rops-_r0432559-2025-12-14-1",
-      "jobId": "davita-wd1-myworkdayjobs-com-dkc_external-job-06998-team-evergreen-north-cbo-federal-way-business-office-associate-analyst-systems-rops-_r0432559",
-      "company": "DaVita",
-      "title": "Associate Analyst - Systems - Rops",
-      "postedToDiscord": "2025-12-14T18:29:14.206Z",
-      "sourceDate": "2025-12-12T23:56:20.000Z",
-      "sourceUrl": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559",
-      "discordThreadId": "1449830596791763146",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-department-of-chemical-engineering_2023983-2025-12-14-1",
-      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-department-of-chemical-engineering_2023983",
-      "company": "Carnegie Mellon University",
-      "title": "Research Assistant",
-      "postedToDiscord": "2025-12-14T18:29:20.712Z",
-      "sourceDate": "2025-12-12T23:31:42.000Z",
-      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983",
-      "discordThreadId": "1449830623920390218",
-      "instanceNumber": 1
-    },
-    {
-      "id": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1-2025-12-14-1",
-      "jobId": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1",
-      "company": "Protiviti",
-      "title": "Americas Delivery Center Technology Experienced Analyst",
-      "postedToDiscord": "2025-12-14T18:42:22.061Z",
-      "sourceDate": "2025-12-12T23:23:23.000Z",
-      "sourceUrl": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1",
-      "discordThreadId": "1449833901647204463",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89447203920-2025-12-14-1",
-      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89447203920",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2025-12-14T18:42:28.579Z",
-      "sourceDate": "2025-12-12T23:20:11.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89447203920",
-      "discordThreadId": "1449833928557858957",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-b57be88f-45a9-441c-8304-20b57044a8e3-application-2025-12-14-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-b57be88f-45a9-441c-8304-20b57044a8e3-application",
-      "company": "Jerry",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2025-12-14T18:42:32.136Z",
-      "sourceDate": "2025-12-12T23:19:48.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/b57be88f-45a9-441c-8304-20b57044a8e3/application",
-      "discordThreadId": "1449833943099773011",
-      "instanceNumber": 1
-    },
-    {
-      "id": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-noaa_jr107952-2025-12-14-1",
-      "jobId": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-noaa_jr107952",
-      "company": "Colorado School of Mines",
-      "title": "Post-Doctoral Fellow - Noaa",
-      "postedToDiscord": "2025-12-14T18:42:33.948Z",
-      "sourceDate": "2025-12-12T23:17:59.000Z",
-      "sourceUrl": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--NOAA_JR107952",
-      "discordThreadId": "1449833958488670270",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889-2025-12-14-1",
-      "jobId": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889",
-      "company": "Perle",
-      "title": "Cantonese Language Specialist",
-      "postedToDiscord": "2025-12-14T18:42:40.495Z",
-      "sourceDate": "2025-12-12T23:17:09.000Z",
-      "sourceUrl": "https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889",
-      "discordThreadId": "1449833978478727322",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-inductiveautomation-6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1-apply-2025-12-14-1",
-      "jobId": "jobs-lever-co-inductiveautomation-6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1-apply",
-      "company": "Inductive Automation",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2025-12-14T18:42:44.833Z",
-      "sourceDate": "2025-12-12T23:16:02.000Z",
-      "sourceUrl": "https://jobs.lever.co/inductiveautomation/6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1/apply",
-      "discordThreadId": "1449833993917825036",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556640934-2025-12-14-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556640934",
-      "company": "Microsoft",
-      "title": "Software Engineer - Full Stack",
-      "postedToDiscord": "2025-12-14T18:42:48.511Z",
-      "sourceDate": "2025-12-12T23:06:13.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640934",
-      "discordThreadId": "1449834011345293395",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556636929-2025-12-14-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556636929",
-      "company": "Microsoft",
-      "title": "Software Engineer 2",
-      "postedToDiscord": "2025-12-14T18:42:52.255Z",
-      "sourceDate": "2025-12-12T23:05:19.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556636929",
-      "discordThreadId": "1449834027006562334",
-      "instanceNumber": 1
-    },
-    {
-      "id": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1-2025-12-14-1",
-      "jobId": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1",
-      "company": "State Street",
-      "title": "Software Engineer 1 - Web Frameworks - Officer",
-      "postedToDiscord": "2025-12-14T18:42:55.712Z",
-      "sourceDate": "2025-12-12T17:11:16.000Z",
-      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1",
-      "discordThreadId": "1449834042626412716",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply-2025-12-14-1",
-      "jobId": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply",
-      "company": "Tinder",
-      "title": "Data Scientist 2 - Growth",
-      "postedToDiscord": "2025-12-14T18:43:02.290Z",
-      "sourceDate": "2025-12-12T23:15:48.000Z",
-      "sourceUrl": "https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply",
-      "discordThreadId": "1449834069385941076",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89441255264-2025-12-14-1",
       "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89441255264",
@@ -9384,15 +9164,115 @@
       "sourceUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaEden-Prairie-MN/Sales---Pricing-Analyst_R0013020",
       "discordThreadId": "1452366323970605187",
       "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iii_r0014033-2025-12-21-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iii_r0014033",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 3",
+      "postedToDiscord": "2025-12-21T18:42:24.354Z",
+      "sourceDate": "2025-12-10T16:44:42.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033",
+      "discordThreadId": "1452370626076479519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-apple-com-en-us-details-200614664-2025-12-21-1",
+      "jobId": "jobs-apple-com-en-us-details-200614664",
+      "company": "Apple",
+      "title": "Software Engineer – IS&T Early Career - Sap",
+      "postedToDiscord": "2025-12-21T18:42:30.762Z",
+      "sourceDate": "2025-11-19T01:09:59.000Z",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200614664",
+      "discordThreadId": "1452370653217951900",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-transcend-careers-jobs-96d77ce2-4fb3-46d8-8180-9aee4ee1d657-2025-12-21-1",
+      "jobId": "ats-rippling-com-transcend-careers-jobs-96d77ce2-4fb3-46d8-8180-9aee4ee1d657",
+      "company": "Transcend",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-21T18:42:34.654Z",
+      "sourceDate": "2025-10-31T07:58:14.000Z",
+      "sourceUrl": "https://ats.rippling.com/transcend-careers/jobs/96d77ce2-4fb3-46d8-8180-9aee4ee1d657",
+      "discordThreadId": "1452370667919118338",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-agency-jobs-4677212101-2025-12-21-1",
+      "jobId": "job-boards-eu-greenhouse-io-agency-jobs-4677212101",
+      "company": "Invisible Technologies",
+      "title": "Entry Level Specialist - AI Trainer",
+      "postedToDiscord": "2025-12-21T18:42:37.979Z",
+      "sourceDate": "2025-10-31T01:17:56.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4677212101",
+      "discordThreadId": "1452370683865731172",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-mintlify-4b5b6945-1a80-49fe-8bcb-64b3075e7b5f-application-2025-12-21-1",
+      "jobId": "jobs-ashbyhq-com-mintlify-4b5b6945-1a80-49fe-8bcb-64b3075e7b5f-application",
+      "company": "Mintlify",
+      "title": "Support Engineer",
+      "postedToDiscord": "2025-12-21T18:42:41.893Z",
+      "sourceDate": "2025-09-18T01:23:44.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application",
+      "discordThreadId": "1452370697543483414",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-atlanta-ga-report-customization-specialist-temporary-assignment_r17168-2025-12-21-1",
+      "jobId": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-atlanta-ga-report-customization-specialist-temporary-assignment_r17168",
+      "company": "ZOLL Medical Corporation",
+      "title": "Report Customization Specialist - Temporary Assignment",
+      "postedToDiscord": "2025-12-21T18:42:48.490Z",
+      "sourceDate": "2025-11-06T23:34:12.000Z",
+      "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Atlanta-GA/Report-Customization-Specialist---Temporary-Assignment_R17168",
+      "discordThreadId": "1452370726983303249",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-quantcast-fb62370c-e6a6-418e-b116-09de79ad50cf-apply-2025-12-21-1",
+      "jobId": "jobs-lever-co-quantcast-fb62370c-e6a6-418e-b116-09de79ad50cf-apply",
+      "company": "Quantcast",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-21T18:42:54.958Z",
+      "sourceDate": "2025-10-31T01:28:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/quantcast/fb62370c-e6a6-418e-b116-09de79ad50cf/apply",
+      "discordThreadId": "1452370754699137136",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-mercuryinsurance-icims-com-jobs-5990-job-2025-12-21-1",
+      "jobId": "careers-mercuryinsurance-icims-com-jobs-5990-job",
+      "company": "Mercury Insurance",
+      "title": "Mercury Ignite Data Science Graduate Development Program",
+      "postedToDiscord": "2025-12-21T18:42:56.619Z",
+      "sourceDate": "2025-10-07T21:14:34.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5990/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452370768900919316",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-geosyntec-icims-com-jobs-4105-job-2025-12-21-1",
+      "jobId": "careers-geosyntec-icims-com-jobs-4105-job",
+      "company": "Geosyntec Consultants",
+      "title": "Early-Career Subsurface Modeler",
+      "postedToDiscord": "2025-12-21T18:43:03.210Z",
+      "sourceDate": "2025-09-16T20:04:36.000Z",
+      "sourceUrl": "https://careers-geosyntec.icims.com/jobs/4105/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452370789109203236",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 853,
+    "totalJobs": 842,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T18:25:18.821Z",
-      "archived": 0
+      "date": "2025-12-21T18:43:03.210Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
