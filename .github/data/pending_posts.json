@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer 1",
-      "employer_name": "Intuit",
-      "job_city": "NYC",
-      "job_state": "Locations",
-      "job_description": "<p style='margin: 0px;'>Come join Intuit as a Software Engineer 1!</p><br><p class='Responsibilities'><strong>Responsibilities</strong></p><ul><li>Participate in the agile feature/product design process working with cross-functional teams including Product Management, Experience Design, QA and Operations</li><li>Collaborate with other engineers to share best practices and knowledge of emerging technologies</li><li>Engage with customers to get a first-hand understanding of their needs</li><li>Design and rapidly prototype proposed solutions</li><li>Implement features, products, and enhancements that improve the user experience</li></ul><br><p class='Qualifications'><strong>Qualifications</strong></p><ul><li>Bachelor&rsquo;s or master&rsquo;s degree in computer science or a related technical field</li><li>GPA of at least 3.0</li><li>Strong academic record</li><li>Solid understanding of Agile development, object-oriented design and programming languages</li><li>Extensive programming experience with one or more of the following: Java, C++</li><li>Knowledge of front-end web design and languages (D/HTML, JavaScript, XML, Flex, CSS)</li><li>Experience with Mobile development, Cloud computing and SaaS a plus</li><li>Strong written, verbal, and collaboration skills</li><li>Self-starter with strong work ethic with a passion for problem-solving</li><li>Ability to thrive in a fast-paced, dynamic environment</li><li>Flexibility and ability to adapt to changing priorities and technologies</li></ul><br><p>Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at <a href='https://www.intuit.com/careers/benefits/full-time-employees/' target='_blank' rel='noopener noreferrer' id='isPasted'>Intuit®: Careers | Benefits</a>). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is:&nbsp;</p><p><br></p><p><br></p>",
-      "job_apply_link": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344",
-      "job_posted_at_datetime_utc": "2025-12-20T02:23:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89706909344",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T19:47:32.108Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "Blissway",
-      "job_city": "Denver",
-      "job_state": "CO",
-      "job_description": "About the Role Work on open ended problems centered around software engineering, with exposure to electrical engineering, machine learning, and/or payments. Become an expert in building systems that can scale to processing millions of users, transactions, car detections, payments etc. Learn with urgency, independently, and using your peers as sparing partners for ideas. Your work will be meaningful to the company right away. There are no useless Blissway employees, everyone’s work must be essential. You will be trusted to make your own decisions and share the responsibility of prioritizing our goals with the team. No dedicated PMs to tell you what to do. What we offer Annual salary between $125k and $175k depending on experience; significant stock option package; top-tier medical, vision and dental insurance; 401k. Hybrid work. Work three days a week at HQ in South Denver. Rest of the week is up to you. Four weeks of vacation per year. We push you to take them! At-the-office breakfast, lunch, and snacks are on the company. About Blissway The company is profitable; We say most of our problems are 1 to 100, with a few still 0 to 1. Blissway is a startup that simplifies the collection of tolls and greatly improves highway safety. In a way, we are multiple startups in one: deep tech, AI/ML, fintech, hardware, SaaS, IoT, transportation, and GovTech. For the past five years we have built a nearly insurmountable software &amp; hardware technological lead in tolling and highway safety, under-the-radar industries that are bigger than football. Demand for Blissway’s tech is such that we stopped taking government contracts for 2025. With a 20-person all-star team achieving more than competitors with 4k employees, this is your opportunity to have an oversized impact in the massive Interstate Highway System covering every metropolitan area in the US (well, minus Juneau AK). You are a good fit if you Are smart, hard working, and care about the work that you do. You like a challenge. Code really well. Which language you are most proficient is not important, as long as you learn fast. We mostly use Python and Typescript. Have incredible eye for detail. Takes ownership of projects and puts in the necessary time to meet deadlines. A recent company survey showed the team is averaging 50 hours to get their tasks done, with occasional bursts for bigger deadlines. Excel at solving hard problems and take full ownership. We expect you to figure out what you need to get stuff done. Flexible to help all areas of the company when other teams need a boost. Usually this is a great opportunity to learn and get exposure to new tech. If you are uncomfortable with the idea of fluid teams or only want to work on niche things, this will not be a good fit. We have extremely talented SWE team members who want you to learn and succeed. They will guide you but this would be a bad fit if you are hoping a training program, you must throw yourself at the problems. If you want to learn more, let's talk!",
-      "job_apply_link": "https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application",
-      "job_posted_at_datetime_utc": "2025-12-20T02:11:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jobs-ashbyhq-com-blissway-206ceeef-4283-481c-a46d-e7273f597844-application",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Postdoctoral Appointee",
-      "employer_name": "Argonne National Laboratory",
-      "job_city": "Woodridge",
-      "job_state": "IL",
-      "job_description": "Because of the drastically increasing demand from AI/ML applications, the computing hardware industry has gravitated towards data formats narrower than the IEEE double format that most computational scientists and engineers are accustomed to. Moreover, the vast majority of the performance associated with these reduced precision formats resides on special hardware units such as tensor cores on NVIDIA GPUs, which specialize for a restricted set of floating point operations only. Many scientific applications, particularly those that are physics-driven and mission-critical, still struggle to adapt to this new hardware trend.  To help bridge the gap, the Argonne Leadership Computing Facility (ALCF) invites applications for a postdoctoral appointment on the subject of mixed/reduced precision computing on modern hardware. Duration of the appointment is one year initially and renewable for up to three years contingent on performance and funding. The successful candidate will be supported by ALCF's Performance Engineering group and is encouraged to engage with the broader Argonne scientific community. Moreover, the successful candidate is encouraged to experiment on the wide variety of systems available at ACLF, including both the large-scale production machines and the testbed machines featuring novel architectures such as Cerebras and SambaNova.  The list below provides examples of the potential tasks for the successful candidate and illustrates the general nature of the work but is not intended to be exhaustive. In addition, the successful candidate is encouraged to bring their inputs in the research direction during the appointment.  Diagnosing and analyzing the numerical challenges related to the narrower data width Devising and evaluating novel techniques to exploit the reduced precision hardware Incorporating mixed/reduced precision into existing applications relevant to ALCF's mission Developing and maintaining tools and libraries that facilitate the adoption of mixed/reduced precision computing in the broader community Collaborating with domain experts to understand how the trend of reduced precision hardware impacts their practices and provide support in return Publishing and presenting at professional venues Position RequirementsRequired skills and qualifications:A PhD degree completed within the last 0-5 years (or soon to be completed) in numerical analysis, applied mathematics, computational science, computer science, or another relevant fieldIndependent research experience Proficiency in programming and knowledge on computing hardware Ability and willingness to work collaboratively in a team environmentEffective written and oral communication and interpersonal skills Ability to model Argonne’s core values of impact, safety, respect, integrity, and teamwork Preferred skills and qualifications:Knowledge on floating point arithmetic and mixed/reduced precision computing techniques Experience with programming GPUs and/or other accelerators Proficiency in mathematical reasoning and numerical analysis Up-to-date awareness about the status and trend of the computing hardware industry Interest in working with domain experts on practical problems Experience with large-scale distributed systems Knowledge on numerical linear algebra, numerical methods, high performance computing, or other related fields  Job FamilyPostdoctoralJob ProfilePostdoctoral AppointeeWorker TypeLong-Term (Fixed Term)Time TypeFull timeThe expected hiring range for this position is $72,879.00-$121,465.00.Please note that the pay range information is a general guideline only. The pay offered to a selected candidate will be determined based on factors such as, but not limited to, the scope and responsibilities of the position, the qualifications of the selected candidate, business considerations, internal equity, and external market pay for comparable jobs. Additionally, comprehensive benefits are part of the total rewards package. Click here to view Argonne employee benefits!As an equal employment opportunity employer, and in accordance with our core values of impact, safety, respect, integrity and teamwork, Argonne National Laboratory is committed to a safe and welcoming workplace that fosters collaborative scientific discovery and innovation. Argonne encourages everyone to apply for employment. Argonne is committed to nondiscrimination and considers all qualified applicants for employment without regard to any characteristic protected by law.Argonne employees, and certain guest researchers and contractors, are subject to particular restrictions related to participation in Foreign Government Sponsored or Affiliated Activities, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation in the application phase for review by Argonne's Legal Department.  All Argonne offers of employment are contingent upon a background check that includes an assessment of criminal conviction history conducted on an individualized and case-by-case basis.  Please be advised that Argonne positions require upon hire (or may require in the future) for the individual be to obtain a government access authorization that involves additional background check requirements.  Failure to obtain or maintain such government access authorization could result in the withdrawal of a job offer or future termination of employment.",
-      "job_apply_link": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Mixed-Reduced-Precision-Computing-on-Modern-Hardware_421528-1",
-      "job_posted_at_datetime_utc": "2025-12-19T23:48:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-mixed-reduced-precision-computing-on-modern-hardware_421528-1",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Assistant - Electrical and Computer Engineering",
-      "employer_name": "Carnegie Mellon University",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Carnegie Mellon University is a private, global research university that stands among the world’s most renowned education institutions. With ground-breaking brain science, path-breaking performances, creative start-ups, big data, big ambitions, hands-on learning, and a whole lot of robots, CMU doesn’t imagine the future, we invent it. If you’re passionate about joining a community that challenges the curious to deliver work that matters, your journey starts here!The Department of Electrical and Computer Engineering (ECE) ranks among the best in the country. Our research programs are at the forefront of the technologies that have changed the world we live in. Our interdisciplinary approach to education and research allows faculty and student across the university and beyond to collaborate on problems that have a significant impact on the world around us.ECE is seeking a Research Assistant to join the team! This is an exciting opportunity for someone who thrives in an interesting and challenging work environment. Adaptability, excellence, and passion are vital qualities within Carnegie Mellon University. We are in search of a team member who can effectively interact with a varied population of internal and external partners at a high level of integrity. We are looking for someone who shares our values and who will support the mission of the university through their work.Core Responsibilities: Follows research plans in order to collect, record, and manipulate research data. Maintains accurate and detailed research records and files.Performs library research and field explorations.Performs basic data analysis in order to product reports. Documents results and processes.May test software prototypes. May interact with research subjects in order to perform job functions.Performs related duties as assigned.Qualifications: High School Diploma or GED required.Previous research, data collection and analysis experience.Strong problem-solving, communication, and reasoning skills.A combination of education and relevant experience from which comparable knowledge is demonstrated may be considered.Requirements:Successful background checkJoining the CMU team opens the door to an array of exceptional benefits.Benefits eligible employees enjoy a wide array of benefits including comprehensive medical, prescription, dental, and vision insurance as well as a generous retirement savings program with employer contributions. Unlock your potential with tuition benefits, take well-deserved breaks with ample paid time off and observed holidays, and rest easy with life and accidental death and disability insurance. Additional perks include a free Pittsburgh Regional Transit bus pass, access to our Family Concierge Team to help navigate childcare needs, fitness center access, and much more!For a comprehensive overview of the benefits available, explore our Benefits page.At Carnegie Mellon, we value the whole package when extending offers of employment. Beyond credentials, we evaluate the role and responsibilities, your valuable work experience, and the knowledge gained through education and training. We appreciate your unique skills and the perspective you bring. Your journey with us is about more than just a job; it’s about finding the perfect fit for your professional growth and personal aspirations.Are you interested in an exciting opportunity with an exceptional organization?! Apply today!LocationPittsburgh, PAJob FunctionResearchersPosition TypeStaff – RegularFull Time/Part timeFull timePay BasisHourlyMore Information: Please visit “Why Carnegie Mellon” to learn more about becoming part of an institution inspiring innovations that change the world. Click here to view a listing of employee benefitsCarnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran. Statement of Assurance",
-      "job_apply_link": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955",
-      "job_posted_at_datetime_utc": "2025-12-19T23:33:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-electrical-and-computer-engineering_2023955",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist - Analytics",
-      "employer_name": "AppLovin",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "About AppLovin AppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end software and AI solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com. To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others. Fortune recognizes AppLovin as one of the Best Workplaces in the Bay Area, and the company has been a Certified Great Place to Work for the last four years (2021-2024). Check out the rest of our awards HERE.Position Overview We are seeking a Data Scientist – Analytics to join our team and help bridge the gap between engineering and business functions at AppLovin. In this role, you will work with petabyte-scale datasets across our ad and app ecosystem, analyzing high-velocity data streams generated by tens of millions of daily active users. You will support the development of analytics tools, monitoring systems, and reporting pipelines that improve visibility into product health, business performance, and model outcomes. You’ll partner closely with research scientists, engineers, and business stakeholders to uncover insights, diagnose issues, and identify opportunities for growth. This role is ideal for someone early in their data science career who enjoys solving ambiguous problems, has foundational statistical and modeling knowledge, and is excited to build impactful tools used across the organization. Key Responsibilities Analytics, Monitoring & Tooling Build and maintain dashboards, monitoring systems, and automated reporting to track product, business, and model performance. Develop scalable analytics pipelines to surface key metrics, detect anomalies, and support timely issue diagnosis.. Define and refine KPIs, using structured, hypothesis-driven analysis to understand performance changes and long-term trends. Insights Discovery & Model Evaluation Analyze large datasets to identify trends, diagnose performance changes, and uncover growth opportunities. Conduct exploratory analysis, root-cause investigations, and hypothesis-driven deep dives. Support engineering and research science teams in evaluating model performance, including stability, calibration, and long-term health. Experimentation & Measurement Assist in designing A/B tests, computing key metrics, and interpreting results. Apply basic statistical reasoning (e.g., variance, confidence intervals, significance testing) to support decision-making. Cross-Functional Collaboration Partner with engineering to integrate new data sources, refine data structures, and enable scalable analytics. Work with product and business teams to understand analytical needs and translate them into actionable solutions. Minimum Qualifications Bachelor’s degree in Data Science, Statistics, Computer Science, Mathematics, Economics, Engineering, or another quantitative discipline. Basic understanding of core statistical concepts and introductory modeling techniques, with the ability to apply them in practical analysis 0–3 years of experience in data analytics or data science (internships or projects count).Proficiency with SQL and at least one analytical programming language (Python preferred). Ability to work with large datasets and translate findings into actionable recommendations. Ability to translate business questions into analytical frameworks and communicate insights effectively to both technical and non-technical audiences. Curious, proactive mindset with a desire to learn quickly and contribute meaningfully. Preferred Qualifications Master’s degree in Data Science or a related quantitative discipline. Experience with BI tools such as Looker, Tableau, Superset, Metabase, or similar. Familiarity with cloud data warehouses (e.g., BigQuery, Snowflake) and workflow orchestration tools such as Airflow. Exposure to A/B testing, experiment design, or statistical evaluation. Understanding of digital advertising, performance marketing metrics, or online marketplace dynamics. Experience collaborating with cross-functional teams (engineering, product, business). What You’ll Gain Hands-on experience with real production analytics, monitoring systems, and model evaluation. Opportunities to build foundational infrastructure that scales across teams. Exposure to high-scale data challenges and real-world ML performance considerations. A meaningful role in driving insights that inform product and business strategy. AppLovin provides a competitive total compensation package with a pay for performance rewards approach. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits.CA Base Pay Range$124,000 - $186,000 USDAppLovin has become aware of a scam targeting jobseekers with fake “app optimization” and similar roles. We do not ask our candidates to download apps or make any form of payment(s). AppLovin works with applicants through our Careers page and applovin.com email addresses. If you are contacted through other unofficial channels (such as WhatsApp or Telegram) or asked to download an app or make a payment, these contacts are not legitimate. Confirm the information here and contact us directly with any questions. AppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant here. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at accommodations@applovin.com. AppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in California, learn more here. To support an efficient and fair hiring process, we may use technology-assisted tools, including artificial intelligence (AI), to help identify and evaluate candidates. All hiring decisions are ultimately made by human reviewers. Please read our Global Applicant Privacy Notice to learn more about how AppLovin processes your personal information.",
-      "job_apply_link": "https://boards.greenhouse.io/applovin/jobs/4624972006",
-      "job_posted_at_datetime_utc": "2025-12-19T23:30:37.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "boards-greenhouse-io-applovin-jobs-4624972006",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Applied Scientist 1 - Amazon",
-      "employer_name": "Amazon",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3130180/applied-scientist-i-amazon",
-      "job_posted_at_datetime_utc": "2025-12-19T23:22:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Business Intelligence Developer - IT Analytics Health",
-      "employer_name": "Kettering Health",
-      "job_city": "Miamisburg",
-      "job_state": "OH",
-      "job_description": "<h2>Responsibilities &amp; Requirements</h2> <p><strong>Job Responsibilities:</strong></p> <p>&nbsp;</p> <p>&nbsp; &nbsp;Distribute analytics content to data consumers.</p> <p>• Build and maintain Epic and third-party BI visualization deliverables.</p> <p>• Work with subject matter experts to understand the needs of data consumers.</p> <p>• Modify existing reports, as necessary.</p> <p>• Create content to display data from Epic Chronicles, Clarity, Caboodle and from the KH Data Warehouse.</p> <p>• Maintain the analytics catalog and associated meta data.</p> <p>• Follow established standards and processes in the development and modification of BI deliverables.</p> <p>• Review peer reports for validity.</p> <p>• Work with data services team to ensure integrity of data.</p> <p>• Serve as point person for production downtimes and on-call rotation for PBI infrastructure. </p> <p>&nbsp;</p> <p>&nbsp;</p> <p><strong>Job Requirements:</strong></p> <p>&nbsp;</p> <p>Associates degree or equivalent combination of education, certification, and experience.• Epic Certification or obtained within 6 months.</p> <p>0-2 years of experience in data analysis, report creation and visualization or related field.</p> <p>Epic Certification (Clarity, EDW) or obtained within 6 months</p> <p>Experience with self-service BI tools (MS Power BI, PowerPivot, SAP Crystal, Power View, Tableau, etc.</p> <p>• Knowledge of data warehouse concepts including data modeling, data quality, ETL and data mining.</p> <p>• Microsoft SQL Server BI tools: SQL Server, SSIS, SSAS, SSRS.</p> <p>• Microsoft SQL and Stored Procedures.</p> <p>• Prior experience working in healthcare industry with Epic EMR.</p> <p>&nbsp;</p> <h2>Overview</h2> <p></p> <p>Kettering Health is a not-for-profit system of 13 medical centers and more than 120 outpatient facilities serving southwest Ohio. We are committed to transforming the health care experience with high-quality care for every stage of life. Our service-oriented mission is in action every day, whether it’s by providing care in our facilities, training the next generation of health care professionals, or serving others through international outreach.</p> <p>&nbsp;</p> <p></p>",
-      "job_apply_link": "https://careers-ketteringhealth.icims.com/jobs/57144/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-12-19T23:21:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "careers-ketteringhealth-icims-com-jobs-57144-job",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Technology Analyst Program - Application Development",
-      "employer_name": "Fiserv",
-      "job_city": "Berkeley Heights",
-      "job_state": "NJ",
-      "job_description": "Calling all innovators - find your future at Fiserv.We're Fiserv, a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants and consumers to one another millions of times a day - quickly, reliably, and securely. Any time you swipe your credit card, pay through a mobile app, or withdraw money from the bank, we're involved. If you want to make an impact on a global scale, come make a difference at Fiserv.Job TitleTechnology Analyst Program - Application Development (Berkeley Heights, NJ)2026 Technology Analyst Program The Fiserv Technology Analyst Program is a two-year, early career development experience designed to accelerate your growth in the fintech industry. Through two structured assignments within a specific technology track, analysts gain hands-on experience, build technical and professional skills, and collaborate across teams to solve real business challenges. As a performance-driven company, Fiserv is committed to developing emerging talent and creating opportunities for those who demonstrate initiative, growth, and impact. The program includes formal training, mentorship, and exposure to senior leadership, supporting long-term career development within the organization.What does a successful Technology Analyst- Application Development do?   We are looking for a proactive analyst to join our team! This track within the Technology Analyst Program will give you the opportunity to code, program, test, and analyze application software. You will assist in supporting existing business applications or be a part of a team in the creation of new applications that benefit our vast client base!  What you will do: Code using a variety of languages such as Java, Python, C, C#, and more. Work collaboratively to develop premier solutions for our internal and external partners. Design and document moderately sophisticated technical requirements for business applications. Consult with business analysts to identify business needs.  What you will need to have: Recent graduate of a bachelor's degree completed in December 2024 or after in Computer Science, Data Science, Management Information Systems, Technical Project Management, or other Technology Degrees 3.0+ GPA 0-2 years of professional work experience  What would be great to have: Familiarity with .NET, JCL, Java, JavaScript, Python, R Languages, SQL, COBOL, PowerBi, Tableau, and other relevant technologies. Application/Software development experience either through internships or coursework. Excellent written and verbal communication. Detail oriented with excellent organization skills. Ability to handle diverse workloads and multiple deadlines. Experience in Excel and PowerPoint, and have a technical aptitude to learn new applications quickly. Military-Affiliated candidates are encouraged to apply (Veterans, Military Spouses, and Guard/Reservists).  Important info about this role: This role is on-site Monday through Friday. Fiserv considers in-person collaboration to be an essential part of this role as in-person office experiences help you with your overall onboarding experience and leads to stronger productivity. You must currently possess valid and unrestricted U.S. work authorization to be considered for this role. Individuals with temporary visas including, but not limited to, F-1 (OPT, CPT, STEM), H-1B, H-2, or TN, or any candidate requiring sponsorship, now or in the future, will not be considered for this role. This is a full-time, direct-hire position, and no contract options for unsolicited agency submissions will be considered. All offers of employment are contingent on standard background checks. Fiserv and certain of its affiliated companies are federal, state, and/or local government contractors. Should this position support a Federal Government contract, now or in the future, the successful candidate will be subject to a background check conducted by the U.S. Government to determine eligibility and suitability for federal contract employment for public trust or sensitive positions. Positions that support state and/or local contracts also may require additional background checks to determine eligibility and suitability. Application deadline: Friday, January 2, 2026.Salary Range$62,250.00 - $99,600.00These pay ranges apply to employees in New Jersey and New York. Pay ranges for employees in other states may differ.It is unlawful to discriminate against a prospective employee due to the individual's status as a veteran.This position is not eligible for an annual incentive opportunity and is also not eligible to earn commissions.Thank you for considering employment with Fiserv.  Please:Apply using your legal nameComplete the step-by-step profile and attach your resume (either is acceptable, both are preferable).Our commitment to Equal Opportunity:Fiserv is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, gender, gender identity, sexual orientation, age, disability, protected veteran status, or any other category protected by law. If you have a disability and require a reasonable accommodation in completing a job application or otherwise participating in the overall hiring process, please contact AskHR.US@fiserv.com. Please note our AskHR representatives do not have visibility to your application status. Current associates who require a workplace accommodation should refer to Fiserv’s Disability Accommodation Policy for additional information.Note to agencies:Fiserv does not accept resume submissions from agencies outside of existing agreements. Please do not send resumes to Fiserv associates. Fiserv is not responsible for any fees associated with unsolicited resume submissions.Warning about fake job posts:Please be aware of fraudulent job postings that are not affiliated with Fiserv. Fraudulent job postings may be used by cyber criminals to target your personally identifiable information and/or to steal money or financial information. Any communications from a Fiserv representative will come from a legitimate Fiserv email address.",
-      "job_apply_link": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technology-Analyst-Program---Application-Development--Berkeley-Heights--NJ-_R-10383557",
-      "job_posted_at_datetime_utc": "2025-12-19T23:15:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "fiserv-wd5-myworkdayjobs-com-ext-job-berkeley-heights-new-jersey-technology-analyst-program-application-development-berkeley-heights-nj-_r-10383557",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
-      "job_title": "Support Engineer - Entry-Level",
-      "employer_name": "Open Asset",
-      "job_city": "NYC",
-      "job_state": "Locations",
-      "job_description": "All applicants MUST complete this technical assessment in addition to the job application. We are looking for a NYC-based Support Engineer to join our talented, dynamic, and rapidly growing global team. The position is based out of our New York City office located near Bryant Park in Midtown Manhattan a",
-      "job_apply_link": "https://axomic.bamboohr.com/careers/162/",
-      "job_posted_at_datetime_utc": "2025-12-19T23:15:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "axomic-bamboohr-com-careers-162",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": "2025-12-21T20:24:24.122Z"
-  },
-  {
-    "job": {
       "job_title": "Software Developer",
       "employer_name": "McGill University",
       "job_city": "Canada",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:03:59.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:18.172Z",
     "enrichedAt": "2025-12-21T20:23:35.165Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T20:37:37.237Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "Mercury Insurance",
       "job_city": "LA",
       "job_state": "Locations",
-      "job_description": "Join Mercury Insurance in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>Position Summary:</p> <p>As a Software Engineer I, you will be responsible for designing, developing, and maintaining software applications and systems. You will work under the guidance of senior engineers and managers to build high-quality, innovative, and performant software that complies with coding standards and technical design.</p> <p>&nbsp;</p> <p><em>An in-person interview may be required during the hiring process.</em></p> <p>&nbsp;</p> <h2>Geo-Salary Information</h2> <p>State specific pay scales for this role are as follows:</p> <p>&nbsp;</p> <p><strong>$74,955 to $138,744</strong>&nbsp; (CA)</p> <p>&nbsp;</p> <p>The expected base salary for this position will vary depending on a number of factors, including relevant experience, skills and location.</p> <h2>Responsibilities</h2> <p>Essential Job Functions:&nbsp;</p> <ul> <li>Develop a strong understanding of relevant product areas, codebases, and systems.</li> <li>Write high-quality code for simple scenarios with good test coverage.</li> <li>Assist with any application system support needs.</li> <li>Participate in design and code reviews of applications to ensure best practices, adherence to Mercury standards, and high quality.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <h2>Qualifications</h2> <p><strong>Education:&nbsp;</strong></p> <p>Minimum:&nbsp;Bachelor’s Degree in Computer Science, Computer Engineering, Information Systems or other related fields Or equivalent combination of education and experience.</p> <p>Preferred:&nbsp;Master’s Degree in Computer Science</p> <p>&nbsp;</p> <p><strong>Experience:</strong></p> <p><strong>Education:&nbsp;</strong></p> <p>Minimum:&nbsp;Bachelor’s Degree in Computer Science, Computer Engineering, Information Systems or other related fields Or equivalent combination of education and experience.</p> <p>&nbsp;</p> <p>Preferred:&nbsp;Master’s Degree in Computer Science</p> <p>&nbsp;</p> <p><strong>Experience:</strong></p> <p>Minimum:</p> <ul> <li>Up to 2 years experience in programming in one or more industry-standard languages (e.g., Java, Python, Go, C++, JavaScript)</li> <li><p>Preferred:&nbsp;</p> <ul> <li>6 or more months of experience in Java</li> <li>6 or more months of experience in Javascript</li> <li>Exposure to Microservices</li> <li>Exposure to CI/CD pipeline&nbsp;</li> <li>Exposure to Cassandra</li> </ul></li> </ul> <p><strong>Skills &amp; Abilities:</strong></p> <p>Minimum:</p> <p>&nbsp;</p> <ul> <li>Experienced in programming in one or more industry-standard languages (e.g., Java, Python, Go, C++, JavaScript).</li> </ul> <ul> <li>Knowledgeable in leveraging various data structures, algorithms, and design patterns. Familiar with relational databases, NoSQL, and caching solutions.</li> <li>Strong problem-solving skills. Good communication abilities.</li> <li>Capable of working independently on simple tasks.</li> <li>Ability to collaborate and influence team members to address impediments and deliver desired results.</li> </ul> <p>Preferred:&nbsp;</p> <ul> <li>Exposure to GitHub</li> <li>Experience in developing RESTful services</li> <li>Exposure to Cassandra DB and SQL</li> <li>Good understanding of Java Design Patterns</li> <li>Exposure to message queues</li> <li>Exposure to Mockito Unit Tests</li> </ul> <h2>About the Company</h2> <p><strong><em>Why choose a career at Mercury?</em></strong></p> <p>At Mercury, we have been guided by our purpose to help people reduce risk and overcome unexpected events for more than 60 years. We are one team with a common goal to help others. Everyone needs insurance and we can’t imagine a world without it.</p> <p>Our team will encourage you to grow, make time to have fun, and work together to make great things happen. We embrace the strengths and values of each team member. We believe in having diverse perspectives where everyone is included, to serve customers from all walks of life.</p> <p>We care about our people, and we mean it. We reward our talented professionals with a competitive salary, bonus potential, and a variety of benefits to help our team members reach their health, retirement, and professional goals.</p> <p>&nbsp;</p> <p>Learn more about us here:&nbsp;https://www.mercuryinsurance.com/about/careers</p> <p>#LI-TG1</p> <h2>Perks and Benefits</h2> <p><strong><em>We offer many great benefits, including:</em></strong></p> <ul> <li>Competitive compensation</li> <li>Flexibility to work from anywhere in the United States for most positions</li> <li>Paid time off (vacation time, sick time, 9 paid Company holidays, volunteer hours)</li> <li>Incentive bonus programs (potential for holiday bonus, referral bonus, and performance-based bonus)</li> <li>Medical, dental, vision, life, and pet insurance</li> <li>401 (k) retirement savings plan with company match</li> <li>Engaging work environment</li> <li>Promotional opportunities</li> <li>Education assistance</li> <li>Professional and personal development opportunities</li> <li>Company recognition program</li> <li>Health and wellbeing resources, including free mental wellbeing therapy/coaching sessions, child and eldercare resources, and more</li> </ul> <p>Mercury Insurance is an equal opportunity employer.&nbsp; All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by federal, state, or local law.</p> <h2>Pay Range</h2>USD $74,955.00 - USD $138,744.00 /Yr.",
       "job_apply_link": "https://careers-mercuryinsurance.icims.com/jobs/5802/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-05T23:34:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-mercuryinsurance-icims-com-jobs-5802-job"
+      "id": "careers-mercuryinsurance-icims-com-jobs-5802-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T20:36:53.412Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "General Dynamics",
       "job_city": "Brunswick",
       "job_state": "ME",
-      "job_description": "Join General Dynamics in this exciting opportunity.",
+      "job_description": "<h2>Job Description</h2> <p>The Logistics Data &amp; Systems Configuration Analyst is responsible for evaluating, developing, and maintaining accurate equipment/systems data utilized by numerous engineering, industrial, and Navy disciplines. This data and service is critical for the Navy to meet naval vessel maintenance, modernization, sustainment, and mission readiness requirements. Daily work is predominantly conducted in the Navy’s Model Based Product Support (MBPS) cloud platform which is the new Program of Record (PoR). &nbsp;The basic core job functions include, but are not limited to:</p> <ul> <li>Interpret intent of incoming data change requests.</li> <li>Review drawings, technical manuals, change documentation, and/or other technical information to ensure configuration records are complete and accurate.</li> <li>Execute changes within MBPS IAW BIW &amp; Navy procedures and/or policies.</li> <li>Develop planning data to support new equipment or system installation/removal.</li> <li>Maintain regular communication with assigned Navy 3MC and ensure their logistics concerns are promptly addressed.</li> <li>Analyze ship equipment/systems configuration and ensure correct hierarchy is assigned.</li> <li>Actively participate in regularly scheduled internal/external training exercises.</li> <li>BIW provides extensive in-house MBPS training and mentorship.</li> <li>All candidates are expected to successfully complete Model Based Product Support (MBPS) training in support of the Navy’s digital transformation initiative.</li> </ul> <h2>Required/Preferred Education/Training</h2> <ul> <li>High School Diploma or GED required</li> <li>Graduate BIW Apprentice preferred</li> </ul> <h2>Required/Preferred Experience</h2> <p><strong>Technician I - 0-1 years' experience required</strong></p> <p><strong>Technician II - 1-4 years' experience required</strong></p> <p>&nbsp;</p> <ul> <li>Strong analytical, organizational, communication and interpersonal skills required.</li> <li>Strong equipment/mechanical aptitude required. <ul> <li>Working knowledge of shipboard equipment and systems preferred.</li> </ul></li> <li>Ability to work from a computer all day required. <ul> <li>Skilled computer user highly preferred.</li> <li>Basic Microsoft Office Suite experience required.</li> <li>Advanced Microsoft Office Suite experience highly preferred.</li> </ul></li> <li>Ability to prioritize multiple projects and assignments required.</li> <li>Ability to analyze technical documentation for accuracy and completeness preferred. <ul> <li>Working knowledge of Navy technical documentation and terms highly preferred.</li> </ul></li> <li>Ability to read, understand, and interpret ship equipment/system drawings preferred. <ul> <li>Strong understanding of Change Management principles highly preferred.</li> <li>Shipbuilding/shipboard or related experience highly preferred.</li> </ul></li> <li>Current Secret Security Clearance with the US Government preferred.</li> <li><strong>This position requires you to be able to obtain a government security clearance.&nbsp; </strong>You must be a a U.S. Citizen for consideration, and you must be able to obtain an interim security clearance within the first 45 days of hire.&nbsp; For more information regarding the security clearance process, please visit Investigations &amp; Clearance Process (dcsa.mil)</li> </ul>",
       "job_apply_link": "https://careers-gdbiw.icims.com/jobs/4772/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-03T16:32:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-gdbiw-icims-com-jobs-4772-job"
+      "id": "careers-gdbiw-icims-com-jobs-4772-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T20:36:53.412Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "NBCUniversal",
       "job_city": "Hammersmith",
       "job_state": "London",
-      "job_description": "Join NBCUniversal in this exciting opportunity.",
+      "job_description": "Associate Data EngineerFull-timeBusiness Segment: Media Group FunctionsCompany DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our theme parks and consumer experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, MSNBC, CNBC, NBC Sports, Telemundo, NBC Local Stations, Bravo, USA Network, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through Universal Filmed Entertainment Group and Universal Studio Group, and have world-renowned theme parks and attractions through Universal Destinations & Experiences. NBCUniversal is a subsidiary of Comcast Corporation.Our impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.Comcast NBCUniversal has announced its intent to create a new publicly traded company ('Versant') comprised of most of NBCUniversal's cable television networks, including USA Network, CNBC, MSNBC, Oxygen, E!, SYFY and Golf Channel along with complementary digital assets Fandango, Rotten Tomatoes, GolfNow, GolfPass, and SportsEngine. The well-capitalized company will have significant scale as a pure-play set of assets anchored by leading news, sports and entertainment content. The spin-off is expected to be completed during 2025.Job DescriptionOur Media Group portfolio is a powerhouse collection of consumer-first brands, supported by media industry leaders, Comcast, NBCUniversal, and Sky. When you join our team, you’ll work across our dynamic portfolio including Peacock, NOW, Fandango, SkyShowtime, Showmax, and TV Everywhere, powering streaming across more than 70 countries globally. And the evolution doesn’t stop there. With an unequaled scale, our teams make the most out of every opportunity to collaborate and learn from one another. We’re always looking for ways to innovate faster, accelerate our growth, and consistently offer the very best in the consumer experience. But most of all, we’re backed by a culture of respect. We embrace authenticity and inspire people to thrive.As part of the Media Group Decision Sciences team, the Associate Data Engineer will be responsible for creating a connected data ecosystem that unleashes the power of our streaming data with a focus on international propositions. We gather data from across all customer/prospect journeys in near real-time, to allow fast feedback loops across territories; combined with our strategic data platform, this data ecosystem is at the core of being able to make intelligent customer and business decisions. In this role, the Associate Data Engineer will share responsibilities in the development and maintenance of optimized and highly available data pipelines that facilitate deeper analysis and reporting by the business, as well as support ongoing operations related to the Media Group data ecosystem. Responsibilities include, but are not limited to:Develop and maintain batch and streaming data pipelines according to business and technical requirements.Deliver observable, reliable and secure software, embracing “you build it, you run it” mentality, and focus on automation.Continually work on improving the codebase and have active participation in all aspects of the team, including agile ceremonies.Take an active role in story definition, assisting business stakeholders with acceptance criteria.Work with Principal Engineers and Architects to share and contribute to the broader technical vision.Practice and champion best practices, striving towards excellence and raising the bar within the department.Operationalize data processing systems (DevOps) and system observability (SRE)Contribute to the team in design, build, testing, scaling and maintaining data pipelines from a variety of source systems and streams (Internal, third party, cloud based, etc.), according to business and technical requirements.Develop and champion best practices, striving towards excellence and raising the bar within the department.Develop solutions combining data blending, profiling, mining, statistical analysis, and machine learning, to better define and curate models, test hypothesis, and deliver key insightsOperationalize data processing systems (dev ops)Qualifications1+ years relevant experience in Data EngineeringExperience of near Real Time & Batch Data Pipeline development in a similar Big Data Engineering role.Programming skills with an OOP language (e.g., Java, C++)Proficient with SQLExperience working in a cloud environment such as Google Cloud Platform or AWSHands on programming experience of the following (or similar) technologies:Kubernetes, DockerApache Beam, Apache Flink, Apache SparkGoogle BigQuery, SnowflakeGoogle BigTableGoogle Pub/Sub, KafkaApache AirflowExperience implementing observability around data pipelines using SRE best practices.Experience in processing structured and unstructured data into a form suitable for analysis and reporting with integration with a variety of data metric providers ranging from advertising, web analytics, and consumer devices.Bachelors’ degree with a specialization in Computer Science, Engineering, Physics, other quantitative field or equivalent industry experience.Desired CharacteristicsStrong Test-Driven Development background, with understanding of levels of testing required to continuously deliver value to production.Experience with large-scale video assetsAbility to work effectively across functions, disciplines, and levelsTeam-oriented and collaborative approach with a demonstrated aptitude, enthusiasm and willingness to learn new methods, tools, practices, and skillsAbility to recognize discordant views and take part in constructive dialogue to resolve themPride and ownership in your work and confident representation of your team to other parts of the businessAdditional InformationAs part of our selection process, external candidates may be required to attend an in-person interview with an NBCUniversal employee at one of our locations prior to a hiring decision. NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law.If you are a qualified individual with a disability or a disabled veteran and require support throughout the application and/or recruitment process as a result of your disability, you have the right to request a reasonable accommodation. You can submit your request to [email protected].Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859",
       "job_posted_at_datetime_utc": "2025-10-01T05:19:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-smartrecruiters-com-nbcuniversal3-744000084861859"
+      "id": "jobs-smartrecruiters-com-nbcuniversal3-744000084861859",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T20:36:53.412Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Super Micro Computer",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Super Micro Computer in this exciting opportunity.",
+      "job_description": "Job Req ID: 27462 About Supermicro: Supermicro® is a Top Tier provider of advanced server, storage, and networking solutions for Data Center, Cloud Computing, Enterprise IT, Hadoop/ Big Data, Hyperscale, HPC and IoT/Embedded customers worldwide. We are the #5 fastest growing company among the Silicon Valley Top 50 technology firms. Our unprecedented global expansion has provided us with the opportunity to offer a large number of new positions to the technology community. We seek talented, passionate, and committed engineers, technologists, and business leaders to join us.Essential Duties and Responsibilities: Includes the following essential duties and responsibilities (other duties may also be assigned):• Develop UEFI BIOS for desktop and server• Perform desktop, server board and workstation UEFI BIOS porting• Devise module codes for development• Provide engineering support to customers on BIOS issues• Verify BIOS System specifications• Manage schedule of the project from design phase to production• Test functionality and reliability and ensure product quality• Work on related Linux kernel development and device drivers• Study computer motherboard, BIOS system specifications, and configuration requirements to plan and develop reliability and compatibility• Study and analyze the design specifications and system housing to optimize the system efficiency• Consult and coordinate with other engineering staff to evaluate the design specifications and functionsQualifications: • BS in Computer Science, Computer Engineering or Electrical Engineering• Minimum 1 year of relevant work experience in low level software development• Minimum 1 year of experience with either Legacy BIOS code or UEFI code• Strong background in software design with C, C++ and/or Assembly is a plus• Solid understanding of PC hardware architecture, BIOS, and Linux is required• Work independently and be self-motivated• Must be a team player, have passion for software development and have excellent communication skillsSalary Range $85,000 - $150,000 The salary offered will depend on several factors, including your location, level, education, training, specific skills, years of experience, and comparison to other employees already in this role. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation, such as participation in bonus and equity award programs.EEO Statement Supermicro is an Equal Opportunity Employer and embraces diversity in our employee population. It is the policy of Supermicro to provide equal opportunity to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or special disabled veteran, marital status, pregnancy, genetic information, or any other legally protected status.",
       "job_apply_link": "https://jobs.supermicro.com/job/San-Jose-BIOS-Engineer-Cali/1321723400/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-30T06:20:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jobs-supermicro-com-job-san-jose-bios-engineer-cali-1321723400"
+      "id": "jobs-supermicro-com-job-san-jose-bios-engineer-cali-1321723400",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:18.172Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T20:36:53.412Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "W.R. Berkley",
       "job_city": "Chesterfield",
       "job_state": "MO",
-      "job_description": "Join W.R. Berkley in this exciting opportunity.",
+      "job_description": "<h2>Company Details</h2> <p><strong></strong></p> <p><strong>Why MEC?</strong></p> <p>At Midwest Employers Casualty (MEC), we combine the stability of a Fortune 500 company with the agility of an innovative team. We are passionate about improving the quality of life for employees severely injured on the job and helping companies understand and mitigate risk. Our culture values collaboration, curiosity, and continuous learning. If you want to make an impact, work on meaningful projects, and grow your career in a supportive environment, MEC is the place for you.</p> <p>Company URL: https://www.mecasualty.com</p> <h2>Responsibilities</h2> <p>As a <strong>Data Science Engineer</strong>, you will focus on leveraging the company’s substantial data assets to deliver actionable and meaningful business insights using analytics, predictive models, machine learning, and artificial intelligence. The ideal candidate will possess a strong technological background with entry-to-mid-level expertise in data analysis, data engineering, building (and deploying) predictive models. We are looking for a highly motivated individual with the ability to help us deliver next-generation analytical products to our internal and external business partners.</p> <p>&nbsp;</p> <p>This position requires supporting our application infrastructure, writing code, analyzing data, creating models, creating ad hoc apps/reports/dashboards, building automated workflow, working with both internal and external customers, and participating in project management and execution.</p> <p>&nbsp;</p> <p>The Advanced Analytics team members are passionate about continuous learning and turning that knowledge into cutting-edge analytical solutions. We strive to deliver innovative analytical tools that generate tangible business results.</p> <p>&nbsp;</p> <p>Key functions include but are not limited to:</p> <ul> <li>Deliver high-quality code, predictive models, data analysis, and data visualizations using best practices</li> <li>Assist with analytical solution development, testing, and deployment</li> <li>Assist with model development, testing, and deployment</li> <li>Service the data needs of customers by providing analysis, reports, dashboards, and/or electronic files</li> <li>Analyze internal and external data to explore business problems and document findings</li> <li>Act as a liaison between the Advanced Analytics Team and other departments</li> <li>Actively assist with project management and project execution</li> </ul> <h2>Qualifications</h2> <ul> <li>Bachelor’s or Advanced degree in data science, computer science, mathematics, statistics, engineering, physics or other sciences (or college degree with significant coding experience in a corporate setting).</li> <li>Education should include significant work in advanced mathematics, statistics, computer science, and/or data science.</li> <li>Requires 0 to 3 years of business experience as a data/software/machine learning engineer, data scientist, or in a related field.</li> <li>Beginner-to-intermediate level understanding of SQL Databases (SQL Server, Oracle, Databricks, etc.) and the SQL Programming Language (T-SQL, PL/SQL, SparkSQL, etc.).</li> <li>Experience with working with large databases for analytical purposes. This would include both transactional systems and data warehouse systems.</li> <li>Beginner-to-intermediate level programming experience with Python.</li> <li>Knowledge of coding best practices.</li> <li>Knowledge of object-oriented programming and design patterns.</li> <li>Experience building AI solutions using Large Language Models such as ChatGPT, including RAG systems, Agents, and/or automated workflows.</li> <li>Experience with a variety of statistical and machine learning algorithms including classification and regression modeling, deep learning, and ensemble methods.</li> <li>Knowledge of data visualization best practices.</li> <li>Can take high-level project requirements and formulate timelines, milestones, and tasks as part of project execution and provide accurate project status reports to management.</li> <li>Knowledge of information technology practices relating to data quality, data warehousing, ETL processes and data mining.</li> <li>Understanding of project management practices and approaches including Agile methodologies.</li> <li>Experience with project management software such as Jira, Trello, etc.</li> <li>Experience with code management (version control) techniques utilizing tools such as BitBucket, GitHub, etc.</li> <li>Experience with cloud computing ecosystems such as Microsoft Azure a plus.</li> <li>Experience with Databricks a plus.</li> <li>Experience with CI/CD frameworks such as Jenkins or GitHub workflows a plus.</li> <li>Experience with UNIX and Docker/Kubernetes a plus.</li> <li>Excellent listening and interpersonal skills.</li> <li>Ability to multitask and manage assigned work under tight deadlines.</li> <li>Possesses an intense curiosity and determination to explore and solve complex business problems utilizing data, technology, and analytical techniques.</li> <li>Experience working in a team-oriented, collaborative environment.</li> <li>Ability to translate very complex subject matter into clear written and oral communications.</li> </ul> <h2>Additional Company Details</h2>We do not accept any unsolicited resumes from external recruiting agencies or firms. The actual salary for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment.",
       "job_apply_link": "https://careers-berkley.icims.com/jobs/13282/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-22T12:25:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "careers-berkley-icims-com-jobs-13282-job"
+      "id": "careers-berkley-icims-com-jobs-13282-job",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T23:34:23.400Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T20:36:53.412Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Astreya",
       "job_city": "Denver",
       "job_state": "CO",
-      "job_description": "Join Astreya in this exciting opportunity.",
+      "job_description": "Job DescriptionData Center Network Modeling Technician IVThe Opportunity: Launch Your Career in Global Data InfrastructureAre you passionate about networking, meticulous about data, and ready to kickstart your career in the high-growth field of data center infrastructure?We are seeking a highly motivated and detail-oriented Data Center Modeling Technician to join our team. This role is your entry point into understanding the physical architecture of a global fiber network. You won't just be entering data; you'll be trained to build and maintain the digital twin of our mission-critical data centers and core network points.We are looking for candidates with foundational knowledge, an appetite for complex problem-solving, and a commitment to high-quality work. If you are eager to learn from expert engineers and want your work to have a tangible impact on global connectivity, this is the role for you.Core ResponsibilitiesDigital Modeling: Learn to document, edit, and manage all Inside Plant (ISP) fiber assets within our data centers and Points-of-Presence (POPs). This includes recording fiber connectivity, cable routes, and physical layer specifications.Data Integrity & Translation: Be trained to review engineering diagrams, design schematics, and vendor As-Built documentation. You will learn to translate this physical information into accurate digital records using specialized software (e.g., OSPi, Netcracker, ArcGIS).Modeling Support: Assist senior specialists in ensuring the accuracy and logical structure of the data center model, performing detailed data checks, and helping resolve discrepancies between the physical infrastructure and its digital representation.Documentation & Process: Work with the team to digitize, record, and verify all passive and active network elements, ensuring all changes (Moves, Adds, Changes) are properly logged and memorialized in the system.Cross-Functional Teamwork: Provide support by running basic network data reports, assisting with capacity checks, and facilitating communication between the engineering, installation, and field survey teams.Visualization Tools: Utilize software such as AutoCad, Google Earth/Maps to visualize, plan, and communicate network paths and layouts.Qualifications:This role is structured for growth and development. We value aptitude and enthusiasm as much as direct experience.Required Foundational Knowledge & SkillsTelecommunications Interest: Foundational knowledge or proven interest in telecommunications construction techniques, networking principles, or fiber optic technology.Attention to Detail: Demonstrated ability to be highly organized and meticulous when working with data or complex documentation.Computer Literacy: Proficiency with Google suite (especially Sheets) and a strong ability to learn new, complex software platforms quickly.Communication: Excellent written and verbal communication skills; the ability to clearly document technical information for various audiences.Documentation Mindset: An understanding of the importance of creating and maintaining clear process documentation and technical guides.Desirable ExperienceAny exposure to specialized fiber network management software (e.g., OSPi, Netcracker, ArcGIS, SmallWorld).Familiarity with interpreting technical schematics or blueprints.Basic knowledge of data center infrastructure, racks, panels, or cabling standards.Location: Remote first - Applicant must be a commutable distance to Denver, COSalary Range$85,120.00 - $134,400.00 USD (Salary)Please note that the salary information provided herein is base pay only (gross); it does not include other forms of compensation which may or may not apply to this specific position, namely, performance-based bonuses, benefits-related payments, or other general incentives - none of which are guaranteed, may be subject to specific eligibility requirements, and are wholly within the discretion of Astreya to remit.Further, the salary information noted above is a range that consists of a minimum and maximum rate of pay for this specific position. Where an applicant or employee is placed on this range will depend and be contingent on objective, documented work-related considerations like education, experience, certifications, licenses, preferred qualifications, among other factors.Astreya offers comprehensive benefits to all Regular, Full-Time Employees, including:Medical provided through UHC (PPO, HSA, Surest options) / Medical provided through Kaiser (HMO option only) for California employees onlyDental provided through UHCNationwide Vision provided by UHCFlexible Spending Account for Health & Dependent CarePre-Tax Account for Commuter Benefit/Parking & Transit (location-specific)Continuing Education and Professional Development via various integrated platforms, e.g. Udemy and CourseraCorporate Wellness Program provided by Goomi GroupEmployee Assistance ProgramWellness Days401k PlanBasic and Supplemental Life InsuranceShort Term & Long Term DisabilityCritical Illness, Critical Hospital, and Voluntary Accident InsuranceTuition Reimbursement (available 6 months after start date, capped)Paid Time Off (accrued and prorated, maximum of 120 hours annually)Paid HolidaysAny other statutory leaves, paid time, or other ancillary benefits required under state and federal law",
       "job_apply_link": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121",
       "job_posted_at_datetime_utc": "2025-12-21T17:42:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-data-center-network-modeling-technician-iii_r0014121"
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-data-center-network-modeling-technician-iii_r0014121",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-21T18:03:50.892Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T20:36:53.412Z",
     "postedAt": null
   }
 ]
