@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T20:04:36.871Z",
+  "lastUpdated": "2025-12-21T20:24:21.109Z",
   "jobs": [
     {
       "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
@@ -9769,14 +9769,113 @@
       "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039",
       "discordThreadId": "1452391321674453063",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89706909344-2025-12-21-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89706909344",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-21T20:23:42.676Z",
+      "sourceDate": "2025-12-20T02:23:49.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344",
+      "discordThreadId": "1452396120117612597",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-electrical-and-computer-engineering_2023955-2025-12-21-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-electrical-and-computer-engineering_2023955",
+      "company": "Carnegie Mellon University",
+      "title": "Research Assistant - Electrical and Computer Engineering",
+      "postedToDiscord": "2025-12-21T20:23:46.122Z",
+      "sourceDate": "2025-12-19T23:33:47.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955",
+      "discordThreadId": "1452396135024164904",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon-2025-12-21-1",
+      "jobId": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon",
+      "company": "Amazon",
+      "title": "Applied Scientist 1 - Amazon",
+      "postedToDiscord": "2025-12-21T20:23:49.528Z",
+      "sourceDate": "2025-12-19T23:22:04.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3130180/applied-scientist-i-amazon",
+      "discordThreadId": "1452396149376946316",
+      "instanceNumber": 1
+    },
+    {
+      "id": "axomic-bamboohr-com-careers-162-2025-12-21-1",
+      "jobId": "axomic-bamboohr-com-careers-162",
+      "company": "Open Asset",
+      "title": "Support Engineer - Entry-Level",
+      "postedToDiscord": "2025-12-21T20:23:53.009Z",
+      "sourceDate": "2025-12-19T23:15:07.000Z",
+      "sourceUrl": "https://axomic.bamboohr.com/careers/162/",
+      "discordThreadId": "1452396163729985570",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-blissway-206ceeef-4283-481c-a46d-e7273f597844-application-2025-12-21-1",
+      "jobId": "jobs-ashbyhq-com-blissway-206ceeef-4283-481c-a46d-e7273f597844-application",
+      "company": "Blissway",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-21T20:24:01.003Z",
+      "sourceDate": "2025-12-20T02:11:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application",
+      "discordThreadId": "1452396197171167293",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-applovin-jobs-4624972006-2025-12-21-1",
+      "jobId": "boards-greenhouse-io-applovin-jobs-4624972006",
+      "company": "AppLovin",
+      "title": "Data Scientist - Analytics",
+      "postedToDiscord": "2025-12-21T20:24:04.503Z",
+      "sourceDate": "2025-12-19T23:30:37.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/applovin/jobs/4624972006",
+      "discordThreadId": "1452396212157153552",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-mixed-reduced-precision-computing-on-modern-hardware_421528-1-2025-12-21-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-mixed-reduced-precision-computing-on-modern-hardware_421528-1",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee",
+      "postedToDiscord": "2025-12-21T20:24:11.137Z",
+      "sourceDate": "2025-12-19T23:48:45.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Mixed-Reduced-Precision-Computing-on-Modern-Hardware_421528-1",
+      "discordThreadId": "1452396239135182929",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-ketteringhealth-icims-com-jobs-57144-job-2025-12-21-1",
+      "jobId": "careers-ketteringhealth-icims-com-jobs-57144-job",
+      "company": "Kettering Health",
+      "title": "Business Intelligence Developer - IT Analytics Health",
+      "postedToDiscord": "2025-12-21T20:24:17.711Z",
+      "sourceDate": "2025-12-19T23:21:51.000Z",
+      "sourceUrl": "https://careers-ketteringhealth.icims.com/jobs/57144/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452396267089952801",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fiserv-wd5-myworkdayjobs-com-ext-job-berkeley-heights-new-jersey-technology-analyst-program-application-development-berkeley-heights-nj-_r-10383557-2025-12-21-1",
+      "jobId": "fiserv-wd5-myworkdayjobs-com-ext-job-berkeley-heights-new-jersey-technology-analyst-program-application-development-berkeley-heights-nj-_r-10383557",
+      "company": "Fiserv",
+      "title": "Technology Analyst Program - Application Development",
+      "postedToDiscord": "2025-12-21T20:24:21.109Z",
+      "sourceDate": "2025-12-19T23:15:09.000Z",
+      "sourceUrl": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technology-Analyst-Program---Application-Development--Berkeley-Heights--NJ-_R-10383557",
+      "discordThreadId": "1452396281866490038",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 888,
+    "totalJobs": 897,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T20:04:36.871Z",
+      "date": "2025-12-21T20:24:21.109Z",
       "archived": 0
     }
   }
