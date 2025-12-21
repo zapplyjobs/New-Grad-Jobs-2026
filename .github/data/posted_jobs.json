@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T19:23:40.800Z",
+  "lastUpdated": "2025-12-21T19:34:00.968Z",
   "jobs": [
     {
       "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
@@ -9472,14 +9472,113 @@
       "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1624135",
       "discordThreadId": "1452381020245721099",
       "instanceNumber": 1
+    },
+    {
+      "id": "activision-wd1-myworkdayjobs-com-external-job-sherman-oaks-rotational-engineer-central-technology_r026155-2025-12-21-1",
+      "jobId": "activision-wd1-myworkdayjobs-com-external-job-sherman-oaks-rotational-engineer-central-technology_r026155",
+      "company": "Activision-Blizzard",
+      "title": "Rotational Engineer - Central Technology",
+      "postedToDiscord": "2025-12-21T19:33:29.827Z",
+      "sourceDate": "2025-12-18T23:40:20.000Z",
+      "sourceUrl": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Rotational-Engineer--Central-Technology_R026155",
+      "discordThreadId": "1452383483346550845",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-bgca-icims-com-jobs-8356-job-2025-12-21-1",
+      "jobId": "careers-bgca-icims-com-jobs-8356-job",
+      "company": "Boys & Girls Clubs of America",
+      "title": "TEMP Specialist - Fundraising Data",
+      "postedToDiscord": "2025-12-21T19:33:33.460Z",
+      "sourceDate": "2025-12-18T23:35:45.000Z",
+      "sourceUrl": "https://careers-bgca.icims.com/jobs/8356/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452383498487857253",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89660152512-2025-12-21-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89660152512",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-21T19:33:37.250Z",
+      "sourceDate": "2025-12-18T23:33:32.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512",
+      "discordThreadId": "1452383513419452604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89660152448-2025-12-21-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89660152448",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-21T19:33:37.258Z",
+      "sourceDate": "2025-12-18T23:21:27.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89660152448",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "kiongroup-wd3-myworkdayjobs-com-kion_scs-job-atlanta-ga-united-states-software-engineer_jr-0083243-2025-12-21-1",
+      "jobId": "kiongroup-wd3-myworkdayjobs-com-kion_scs-job-atlanta-ga-united-states-software-engineer_jr-0083243",
+      "company": "Dematic",
+      "title": "Warehouse Automation Software Engineer",
+      "postedToDiscord": "2025-12-21T19:33:40.949Z",
+      "sourceDate": "2025-12-18T23:32:35.000Z",
+      "sourceUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243",
+      "discordThreadId": "1452383529437757542",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533377-2025-12-21-1",
+      "jobId": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533377",
+      "company": "KLA Corporation",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-21T19:33:44.347Z",
+      "sourceDate": "2025-12-18T23:24:21.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer_2533377",
+      "discordThreadId": "1452383544675405986",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-aecom2-744000099596120-2025-12-21-1",
+      "jobId": "jobs-smartrecruiters-com-aecom2-744000099596120",
+      "company": "AECOM",
+      "title": "Entry-Level Planner",
+      "postedToDiscord": "2025-12-21T19:33:50.760Z",
+      "sourceDate": "2025-12-18T23:34:25.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AECOM2/744000099596120",
+      "discordThreadId": "1452383571603095732",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648-2025-12-21-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648",
+      "company": "Adobe",
+      "title": "University Graduate - Machine Learning Engineer",
+      "postedToDiscord": "2025-12-21T19:33:54.512Z",
+      "sourceDate": "2025-12-18T23:21:21.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
+      "discordThreadId": "1452383585863729223",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11006-job-2025-12-21-1",
+      "jobId": "careers-nv5-icims-com-jobs-11006-job",
+      "company": "NV5 Global",
+      "title": "GIS Technician",
+      "postedToDiscord": "2025-12-21T19:34:00.968Z",
+      "sourceDate": "2025-12-18T23:33:34.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452383614225481789",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 861,
+    "totalJobs": 870,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T19:23:40.800Z",
+      "date": "2025-12-21T19:34:00.968Z",
       "archived": 0
     }
   }
