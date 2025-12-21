@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T20:37:34.225Z",
+  "lastUpdated": "2025-12-21T20:49:25.818Z",
   "jobs": [
     {
       "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
@@ -9967,14 +9967,91 @@
       "sourceUrl": "https://application-oneblood.icims.com/jobs/15636/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452399607437987901",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-barrios-icims-com-jobs-2723-job-2025-12-21-1",
+      "jobId": "careers-barrios-icims-com-jobs-2723-job",
+      "company": "Barrios",
+      "title": "Configuration and Data Management Specialist - Configuration and Data Management Specialist",
+      "postedToDiscord": "2025-12-21T20:49:00.048Z",
+      "sourceDate": "2025-11-20T07:29:10.000Z",
+      "sourceUrl": "https://careers-barrios.icims.com/jobs/2723/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452402483837014267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-mercuryinsurance-icims-com-jobs-5802-job-2025-12-21-1",
+      "jobId": "careers-mercuryinsurance-icims-com-jobs-5802-job",
+      "company": "Mercury Insurance",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-21T20:49:03.698Z",
+      "sourceDate": "2025-11-05T23:34:02.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5802/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452402499351740558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-supermicro-com-job-san-jose-bios-engineer-cali-1321723400-2025-12-21-1",
+      "jobId": "jobs-supermicro-com-job-san-jose-bios-engineer-cali-1321723400",
+      "company": "Super Micro Computer",
+      "title": "BIOS Engineer",
+      "postedToDiscord": "2025-12-21T20:49:07.530Z",
+      "sourceDate": "2025-08-30T06:20:25.000Z",
+      "sourceUrl": "https://jobs.supermicro.com/job/San-Jose-BIOS-Engineer-Cali/1321723400/?ats=successfactors",
+      "discordThreadId": "1452402514350571604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-data-center-network-modeling-technician-iii_r0014121-2025-12-21-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-data-center-network-modeling-technician-iii_r0014121",
+      "company": "Astreya",
+      "title": "Data Center Network Modeling Technician 3",
+      "postedToDiscord": "2025-12-21T20:49:10.984Z",
+      "sourceDate": "2025-12-21T17:42:32.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121",
+      "discordThreadId": "1452402530607960134",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdbiw-icims-com-jobs-4772-job-2025-12-21-1",
+      "jobId": "careers-gdbiw-icims-com-jobs-4772-job",
+      "company": "General Dynamics",
+      "title": "Configuration and Logistics Data Analyst 1 - Engineering",
+      "postedToDiscord": "2025-12-21T20:49:17.438Z",
+      "sourceDate": "2025-11-03T16:32:48.000Z",
+      "sourceUrl": "https://careers-gdbiw.icims.com/jobs/4772/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452402557828726946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-nbcuniversal3-744000084861859-2025-12-21-1",
+      "jobId": "jobs-smartrecruiters-com-nbcuniversal3-744000084861859",
+      "company": "NBCUniversal",
+      "title": "Associate Data Engineer",
+      "postedToDiscord": "2025-12-21T20:49:22.246Z",
+      "sourceDate": "2025-10-01T05:19:12.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859",
+      "discordThreadId": "1452402584890507417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-berkley-icims-com-jobs-13282-job-2025-12-21-1",
+      "jobId": "careers-berkley-icims-com-jobs-13282-job",
+      "company": "W.R. Berkley",
+      "title": "Data Science Engineer",
+      "postedToDiscord": "2025-12-21T20:49:25.817Z",
+      "sourceDate": "2025-09-22T12:25:39.000Z",
+      "sourceUrl": "https://careers-berkley.icims.com/jobs/13282/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452402592348110968",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 906,
+    "totalJobs": 913,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T20:37:34.225Z",
+      "date": "2025-12-21T20:49:25.818Z",
       "archived": 0
     }
   }
