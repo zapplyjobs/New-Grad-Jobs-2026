@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T19:34:00.968Z",
+  "lastUpdated": "2025-12-21T19:48:12.669Z",
   "jobs": [
     {
       "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
@@ -9571,14 +9571,113 @@
       "sourceUrl": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452383614225481789",
       "instanceNumber": 1
+    },
+    {
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00111813-2025-12-21-1",
+      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00111813",
+      "company": "Louisiana State University (LSU)",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2025-12-21T19:47:40.191Z",
+      "sourceDate": "2025-12-18T23:20:40.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3255-Patrick-F-Taylor-Hall/Postdoctoral-Researcher_R00111813",
+      "discordThreadId": "1452387048894894121",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-remi-ecb429a1-148f-408d-a777-58299e325998-application-2025-12-21-1",
+      "jobId": "jobs-ashbyhq-com-remi-ecb429a1-148f-408d-a777-58299e325998-application",
+      "company": "Remi",
+      "title": "Software Engineer 1/2",
+      "postedToDiscord": "2025-12-21T19:47:46.691Z",
+      "sourceDate": "2025-12-18T23:19:12.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/remi/ecb429a1-148f-408d-a777-58299e325998/application",
+      "discordThreadId": "1452387077412093995",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-152559-2025-12-21-1",
+      "jobId": "www-uber-com-global-en-careers-list-152559",
+      "company": "Uber",
+      "title": "Graduate Software Engineer 1 - Mobile",
+      "postedToDiscord": "2025-12-21T19:47:50.090Z",
+      "sourceDate": "2025-12-18T23:17:46.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152559/",
+      "discordThreadId": "1452387092121387098",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-152427-2025-12-21-1",
+      "jobId": "www-uber-com-global-en-careers-list-152427",
+      "company": "Uber",
+      "title": "Graduate Software Engineer 1",
+      "postedToDiscord": "2025-12-21T19:47:50.101Z",
+      "sourceDate": "2025-12-18T23:17:41.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152427/",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4627111006-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4627111006",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2025-12-21T19:47:53.522Z",
+      "sourceDate": "2025-12-18T23:16:48.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
+      "discordThreadId": "1452387106444808403",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-altamiracorps-job-oms6yfwc-2025-12-21-1",
+      "jobId": "jobs-jobvite-com-altamiracorps-job-oms6yfwc",
+      "company": "Altamira Technologies",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2025-12-21T19:47:57.348Z",
+      "sourceDate": "2025-12-18T23:07:45.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
+      "discordThreadId": "1452387121301033094",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737-2025-12-21-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737",
+      "company": "University of Texas - Austin",
+      "title": "Algorithm and Analysis Software Engineer Scientist Associate",
+      "postedToDiscord": "2025-12-21T19:48:02.599Z",
+      "sourceDate": "2025-12-18T23:01:52.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
+      "discordThreadId": "1452387137507950622",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4739104101-2025-12-21-1",
+      "jobId": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4739104101",
+      "company": "StubHub",
+      "title": "Software Engineer 1 - Direct Issuance",
+      "postedToDiscord": "2025-12-21T19:48:06.217Z",
+      "sourceDate": "2025-12-16T23:16:12.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4739104101",
+      "discordThreadId": "1452387158953558137",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-kimley-horn-icims-com-jobs-21279-job-2025-12-21-1",
+      "jobId": "careers-kimley-horn-icims-com-jobs-21279-job",
+      "company": "Kimley-Horn",
+      "title": "GIS Analyst",
+      "postedToDiscord": "2025-12-21T19:48:12.669Z",
+      "sourceDate": "2025-12-17T23:13:54.000Z",
+      "sourceUrl": "https://careers-kimley-horn.icims.com/jobs/21279/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452387186598088794",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 870,
+    "totalJobs": 879,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T19:34:00.968Z",
+      "date": "2025-12-21T19:48:12.669Z",
       "archived": 0
     }
   }
