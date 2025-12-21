@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T19:48:12.669Z",
+  "lastUpdated": "2025-12-21T20:04:36.871Z",
   "jobs": [
     {
       "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
@@ -9670,14 +9670,113 @@
       "sourceUrl": "https://careers-kimley-horn.icims.com/jobs/21279/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452387186598088794",
       "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-autonomous-vehicles-new-college-grad-2026_jr2008395-2025-12-21-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-autonomous-vehicles-new-college-grad-2026_jr2008395",
+      "company": "NVIDIA",
+      "title": "Research Scientist – PhD New College Grad 2026 - Autonomous Vehicles",
+      "postedToDiscord": "2025-12-21T20:04:06.775Z",
+      "sourceDate": "2025-12-13T14:56:58.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Vehicles---New-College-Grad-2026_JR2008395",
+      "discordThreadId": "1452391188073025579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-27595-89710140080-2025-12-21-1",
+      "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-27595-89710140080",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-21T20:04:10.187Z",
+      "sourceDate": "2025-12-20T07:22:44.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080",
+      "discordThreadId": "1452391202845495458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89706909312-2025-12-21-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89706909312",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-21T20:04:10.194Z",
+      "sourceDate": "2025-12-20T02:31:18.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-software-engineering-graduate_1192959-1-2025-12-21-1",
+      "jobId": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-software-engineering-graduate_1192959-1",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineering Graduate",
+      "postedToDiscord": "2025-12-21T20:04:16.838Z",
+      "sourceDate": "2025-11-01T10:26:17.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Graduate_1192959-1",
+      "discordThreadId": "1452391229852487865",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-38568463-2025-12-21-1",
+      "jobId": "aexp-eightfold-ai-careers-job-38568463",
+      "company": "American Express",
+      "title": "Senior Program Analyst - Data Management Program",
+      "postedToDiscord": "2025-12-21T20:04:20.270Z",
+      "sourceDate": "2025-10-26T22:18:17.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/38568463",
+      "discordThreadId": "1452391245052776458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medimpact-wd5-myworkdayjobs-com-medimpact-job-remote-software-engineer-ii_jr102189-2025-12-21-1",
+      "jobId": "medimpact-wd5-myworkdayjobs-com-medimpact-job-remote-software-engineer-ii_jr102189",
+      "company": "MedImpact",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-21T20:04:23.776Z",
+      "sourceDate": "2025-12-19T19:40:11.000Z",
+      "sourceUrl": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Remote/Software-Engineer-II_JR102189",
+      "discordThreadId": "1452391259401486510",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-amtrustgroup-icims-com-jobs-19657-job-2025-12-21-1",
+      "jobId": "careers-amtrustgroup-icims-com-jobs-19657-job",
+      "company": "AmTrust Financial",
+      "title": "Technology Operations Specialist 1",
+      "postedToDiscord": "2025-12-21T20:04:30.340Z",
+      "sourceDate": "2025-09-16T07:18:10.000Z",
+      "sourceUrl": "https://careers-amtrustgroup.icims.com/jobs/19657/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452391286987424104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "highmarkhealth-wd1-myworkdayjobs-com-highmark-job-ca-working-at-home-california-associate-data-engineer_j273811-2025-12-21-1",
+      "jobId": "highmarkhealth-wd1-myworkdayjobs-com-highmark-job-ca-working-at-home-california-associate-data-engineer_j273811",
+      "company": "Highmark Health",
+      "title": "Associate Data Engineer",
+      "postedToDiscord": "2025-12-21T20:04:32.027Z",
+      "sourceDate": "2025-12-19T19:42:41.000Z",
+      "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/CA-Working-at-Home---California/Associate-Data-Engineer_J273811",
+      "discordThreadId": "1452391301642190900",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039-2025-12-21-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 4",
+      "postedToDiscord": "2025-12-21T20:04:36.871Z",
+      "sourceDate": "2025-12-19T19:12:08.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039",
+      "discordThreadId": "1452391321674453063",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 879,
+    "totalJobs": 888,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T19:48:12.669Z",
+      "date": "2025-12-21T20:04:36.871Z",
       "archived": 0
     }
   }
