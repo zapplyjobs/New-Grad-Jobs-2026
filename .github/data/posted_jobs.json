@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T18:43:03.210Z",
+  "lastUpdated": "2025-12-21T18:55:46.146Z",
   "jobs": [
-    {
-      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89441255264-2025-12-14-1",
-      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89441255264",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2025-12-14T18:51:46.156Z",
-      "sourceDate": "2025-12-12T16:21:20.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89441255264",
-      "discordThreadId": "1449836267016818879",
-      "instanceNumber": 1
-    },
-    {
-      "id": "medtronic-wd1-myworkdayjobs-com-redeploymentmedtroniccareers-job-northridge-california-united-states-of-america-software-operations-engineer-i_r46476-2025-12-14-1",
-      "jobId": "medtronic-wd1-myworkdayjobs-com-redeploymentmedtroniccareers-job-northridge-california-united-states-of-america-software-operations-engineer-i_r46476",
-      "company": "Medtronic",
-      "title": "Software Operations Engineer 1",
-      "postedToDiscord": "2025-12-14T18:51:49.554Z",
-      "sourceDate": "2025-12-13T03:10:04.000Z",
-      "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
-      "discordThreadId": "1449836281830969436",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-crusoe-f79eed01-9e4a-4b43-bcdf-5e8649ccfefa-application-2025-12-14-1",
-      "jobId": "jobs-ashbyhq-com-crusoe-f79eed01-9e4a-4b43-bcdf-5e8649ccfefa-application",
-      "company": "Crusoe",
-      "title": "Software Engineer – New College Graduate 2026",
-      "postedToDiscord": "2025-12-14T18:51:53.086Z",
-      "sourceDate": "2025-12-13T02:15:23.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application",
-      "discordThreadId": "1449836296406044984",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply-2025-12-14-1",
-      "jobId": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply",
-      "company": "Sensor Tower",
-      "title": "Product Analyst - Digital Advertising",
-      "postedToDiscord": "2025-12-14T18:51:59.805Z",
-      "sourceDate": "2025-12-12T16:16:40.000Z",
-      "sourceUrl": "https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply",
-      "discordThreadId": "1449836323862089930",
-      "instanceNumber": 1
-    },
-    {
-      "id": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-technology-delivery-analyst-elevate-_r0067565-2025-12-14-1",
-      "jobId": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-technology-delivery-analyst-elevate-_r0067565",
-      "company": "Huntington Bancshares",
-      "title": "Technology Delivery Analyst - Elevate",
-      "postedToDiscord": "2025-12-14T18:52:06.386Z",
-      "sourceDate": "2025-12-12T16:04:13.000Z",
-      "sourceUrl": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067565",
-      "discordThreadId": "1449836352249139281",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aep-wd1-myworkdayjobs-com-aepcareersite-job-new-albany-oh-data-scientist-mid-sr-transmission-systems-asset-health_r12729-2025-12-14-1",
-      "jobId": "aep-wd1-myworkdayjobs-com-aepcareersite-job-new-albany-oh-data-scientist-mid-sr-transmission-systems-asset-health_r12729",
-      "company": "American Electric Power",
-      "title": "Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health",
-      "postedToDiscord": "2025-12-14T18:52:13.437Z",
-      "sourceDate": "2025-12-13T02:07:38.000Z",
-      "sourceUrl": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729",
-      "discordThreadId": "1449836380984315965",
-      "instanceNumber": 1
-    },
-    {
-      "id": "university-uber-icims-com-jobs-150146-job-2025-12-14-1",
-      "jobId": "university-uber-icims-com-jobs-150146-job",
-      "company": "Uber",
-      "title": "2026 Software Engineering Boost Fellowship - Arizona State University",
-      "postedToDiscord": "2025-12-14T18:52:16.928Z",
-      "sourceDate": "2025-12-13T02:24:30.000Z",
-      "sourceUrl": "https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449836396218155214",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-blend360-744000098779875-2025-12-14-1",
-      "jobId": "jobs-smartrecruiters-com-blend360-744000098779875",
-      "company": "blend360",
-      "title": "Junior Data Scientist",
-      "postedToDiscord": "2025-12-14T18:52:20.284Z",
-      "sourceDate": "2025-12-13T16:06:55.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Blend360/744000098779875",
-      "discordThreadId": "1449836410919190548",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
       "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255",
@@ -9263,16 +9175,114 @@
       "sourceUrl": "https://careers-geosyntec.icims.com/jobs/4105/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452370789109203236",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-lewisbrisbois-icims-com-jobs-12143-job-2025-12-21-1",
+      "jobId": "careers-lewisbrisbois-icims-com-jobs-12143-job",
+      "company": "Lewis Brisbois",
+      "title": "Financial Systems Analyst 1",
+      "postedToDiscord": "2025-12-21T18:55:16.525Z",
+      "sourceDate": "2025-09-10T22:10:58.000Z",
+      "sourceUrl": "https://careers-lewisbrisbois.icims.com/jobs/12143/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452373863873773641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-cmtelematics-com-who-we-are-join-our-team-job-posting-2025-12-21-1",
+      "jobId": "www-cmtelematics-com-who-we-are-join-our-team-job-posting",
+      "company": "Cambridge Mobile Telematics",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2025-12-21T18:55:20.020Z",
+      "sourceDate": "2025-12-19T16:50:38.000Z",
+      "sourceUrl": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
+      "discordThreadId": "1452373879497428993",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-renaissancelearning-nam-jobs-5019428008-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-renaissancelearning-nam-jobs-5019428008",
+      "company": "Renaissance",
+      "title": "Data Analyst 1",
+      "postedToDiscord": "2025-12-21T18:55:26.503Z",
+      "sourceDate": "2025-12-18T18:51:18.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5019428008",
+      "discordThreadId": "1452373906446090241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-hospital-of-the-university-of-pennsylvania-lifespan-brain-institute-data-analyst_1020123-2025-12-21-1",
+      "jobId": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-hospital-of-the-university-of-pennsylvania-lifespan-brain-institute-data-analyst_1020123",
+      "company": "Children's Hospital of Philadelphia",
+      "title": "Lifespan Brain Institute Data Analyst",
+      "postedToDiscord": "2025-12-21T18:55:28.466Z",
+      "sourceDate": "2025-12-18T19:15:54.000Z",
+      "sourceUrl": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/Hospital-of-the-University-of-Pennsylvania/Lifespan-Brain-Institute-Data-Analyst_1020123",
+      "discordThreadId": "1452373921658835004",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spgi-wd5-myworkdayjobs-com-en-us-spgi_careers-job-california-us-data-analyst_322809-1-2025-12-21-1",
+      "jobId": "spgi-wd5-myworkdayjobs-com-en-us-spgi_careers-job-california-us-data-analyst_322809-1",
+      "company": "S&P Global ",
+      "title": "Associate Data Analyst - Mobility",
+      "postedToDiscord": "2025-12-21T18:55:30.214Z",
+      "sourceDate": "2025-12-19T16:41:16.000Z",
+      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/California-US/Data-Analyst_322809-1",
+      "discordThreadId": "1452373929418293430",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rpa-jobs-4642404005-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-rpa-jobs-4642404005",
+      "company": "RPA",
+      "title": "Data Engineer",
+      "postedToDiscord": "2025-12-21T18:55:35.852Z",
+      "sourceDate": "2025-12-19T02:38:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rpa/jobs/4642404005",
+      "discordThreadId": "1452373936762392727",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pitchbookdata-jobs-4625767006-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-pitchbookdata-jobs-4625767006",
+      "company": "PitchBook",
+      "title": "Associate Machine Learning Engineer",
+      "postedToDiscord": "2025-12-21T18:55:42.405Z",
+      "sourceDate": "2025-12-19T16:27:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625767006",
+      "discordThreadId": "1452373973080740044",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pitchbookdata-jobs-4625765006-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-pitchbookdata-jobs-4625765006",
+      "company": "PitchBook",
+      "title": "Associate Machine Learning Engineer",
+      "postedToDiscord": "2025-12-21T18:55:42.413Z",
+      "sourceDate": "2025-12-19T16:27:32.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625765006",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556641984-2025-12-21-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556641984",
+      "company": "Microsoft",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2025-12-21T18:55:46.145Z",
+      "sourceDate": "2025-12-19T16:07:44.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
+      "discordThreadId": "1452373988004073662",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 842,
+    "totalJobs": 843,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T18:43:03.210Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2025-12-21T18:55:46.146Z",
+      "archived": 0
     }
   }
 }
