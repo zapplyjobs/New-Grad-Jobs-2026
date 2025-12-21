@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T23:35:51.808Z",
+  "lastUpdated": "2025-12-21T17:48:53.969Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3140907-software-dev-engineer-i-2025-12-14-1",
@@ -9087,14 +9087,113 @@
       "sourceUrl": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=069070",
       "discordThreadId": "1452082088823099403",
       "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-systems-engineer-i_r2116636-2025-12-21-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-systems-engineer-i_r2116636",
+      "company": "KBR",
+      "title": "Systems Engineer 1",
+      "postedToDiscord": "2025-12-21T17:48:22.076Z",
+      "sourceDate": "2025-12-17T00:01:06.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Systems-Engineer-I_R2116636",
+      "discordThreadId": "1452357026700333279",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-intern-lti-school-of-computer-science_2023968-2025-12-21-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-intern-lti-school-of-computer-science_2023968",
+      "company": "Carnegie Mellon University",
+      "title": "Research Associate - Lti - School of Computer Science",
+      "postedToDiscord": "2025-12-21T17:48:25.718Z",
+      "sourceDate": "2025-12-16T23:33:17.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---LTI---School-of-Computer-Science_2023968",
+      "discordThreadId": "1452357042021863592",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-data-engineer-iii_r-2350035-2025-12-21-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-data-engineer-iii_r-2350035",
+      "company": "Walmart",
+      "title": "Data Engineer 3",
+      "postedToDiscord": "2025-12-21T17:48:32.094Z",
+      "sourceDate": "2025-12-16T23:54:37.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Data-Engineer-III_R-2350035",
+      "discordThreadId": "1452357069410668625",
+      "instanceNumber": 1
+    },
+    {
+      "id": "snyk-wd103-myworkdayjobs-com-external-job-united-states-boston-office-people-analytics-technology-associate_jr100273-2025-12-21-1",
+      "jobId": "snyk-wd103-myworkdayjobs-com-external-job-united-states-boston-office-people-analytics-technology-associate_jr100273",
+      "company": "Snyk",
+      "title": "People Analytics & Technology Associate",
+      "postedToDiscord": "2025-12-21T17:48:35.644Z",
+      "sourceDate": "2025-12-16T23:52:26.000Z",
+      "sourceUrl": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/People-Analytics---Technology-Associate_JR100273",
+      "discordThreadId": "1452357083700920320",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-plano-legacy-data-engineer-i_r0114228-2025-12-21-1",
+      "jobId": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-plano-legacy-data-engineer-i_r0114228",
+      "company": "USAA",
+      "title": "Data Engineer 1",
+      "postedToDiscord": "2025-12-21T17:48:39.129Z",
+      "sourceDate": "2025-12-16T23:34:26.000Z",
+      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-I_R0114228",
+      "discordThreadId": "1452357098435383437",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-unknown-city-people-insights-analyst-2-3_r10214776-2025-12-21-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-unknown-city-people-insights-analyst-2-3_r10214776",
+      "company": "Northrop Grumman",
+      "title": "People Insights Analyst",
+      "postedToDiscord": "2025-12-21T17:48:45.746Z",
+      "sourceDate": "2025-12-16T23:44:05.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Unknown-City/People-Insights-Analyst-2-3_R10214776",
+      "discordThreadId": "1452357126360928410",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-data-insight-analyst_r10217444-1-2025-12-21-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-data-insight-analyst_r10217444-1",
+      "company": "Northrop Grumman",
+      "title": "Data Insight Analyst",
+      "postedToDiscord": "2025-12-21T17:48:50.403Z",
+      "sourceDate": "2025-12-16T23:43:53.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Insight-Analyst_R10217444-1",
+      "discordThreadId": "1452357153338822799",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-edwards-afb-data-insight-analyst-or-principal-data-insight-analyst_r10213256-2025-12-21-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-edwards-afb-data-insight-analyst-or-principal-data-insight-analyst_r10213256",
+      "company": "Northrop Grumman",
+      "title": "Data Insight Analyst - Principal Data Insight Analyst",
+      "postedToDiscord": "2025-12-21T17:48:50.413Z",
+      "sourceDate": "2025-12-16T23:43:53.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Data-Insight-Analyst-or-Principal-Data-Insight-Analyst_R10213256",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-north-charleston-sc-programmer-analyst-associate-or-mid-level-_jr2025482611-1-2025-12-21-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-north-charleston-sc-programmer-analyst-associate-or-mid-level-_jr2025482611-1",
+      "company": "The Boeing Company",
+      "title": "Programmer Analyst – Associate or Mid-Level",
+      "postedToDiscord": "2025-12-21T17:48:53.969Z",
+      "sourceDate": "2025-12-16T23:38:36.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Programmer-Analyst--Associate-or-Mid-Level-_JR2025482611-1",
+      "discordThreadId": "1452357160452227245",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 826,
+    "totalJobs": 835,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-20T23:35:51.808Z",
+      "date": "2025-12-21T17:48:53.969Z",
       "archived": 0
     }
   }
