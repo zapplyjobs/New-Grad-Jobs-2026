@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T19:04:41.693Z",
+  "lastUpdated": "2025-12-21T19:23:40.800Z",
   "jobs": [
     {
       "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
@@ -9373,14 +9373,113 @@
       "sourceUrl": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341180",
       "discordThreadId": "1452376235245174795",
       "instanceNumber": 1
+    },
+    {
+      "id": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-hopkins-mn-full-stack-java-springboot-developer_2025-0029473-2025-12-21-1",
+      "jobId": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-hopkins-mn-full-stack-java-springboot-developer_2025-0029473",
+      "company": "U.S. Bank",
+      "title": "Full-Stack Java / Spring Boot Developer",
+      "postedToDiscord": "2025-12-21T19:23:11.454Z",
+      "sourceDate": "2025-12-19T00:18:56.000Z",
+      "sourceUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Full-Stack-Java---Springboot-Developer_2025-0029473",
+      "discordThreadId": "1452380889672716308",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-mlb-com-careers-opportunities-2025-12-21-1",
+      "jobId": "www-mlb-com-careers-opportunities",
+      "company": "Major League Baseball",
+      "title": "Associate Software Engineer - Baseball Enterprise",
+      "postedToDiscord": "2025-12-21T19:23:14.933Z",
+      "sourceDate": "2025-12-19T00:07:46.000Z",
+      "sourceUrl": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
+      "discordThreadId": "1452380904239530317",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-milwaukee-wisconsin-united-states-software-engineer-entry-level_r25-8544-2025-12-21-1",
+      "jobId": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-milwaukee-wisconsin-united-states-software-engineer-entry-level_r25-8544",
+      "company": "Rockwell Automation",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-21T19:23:18.434Z",
+      "sourceDate": "2025-12-19T00:04:41.000Z",
+      "sourceUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---Entry-Level_R25-8544",
+      "discordThreadId": "1452380919099818034",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4642278005-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4642278005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2025-12-21T19:23:25.175Z",
+      "sourceDate": "2025-12-19T00:13:21.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4642278005",
+      "discordThreadId": "1452380946895474879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2025-12-21T19:23:25.183Z",
+      "sourceDate": "2025-12-19T00:13:12.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-axle-jobs-5006708007-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-axle-jobs-5006708007",
+      "company": "Axle",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-21T19:23:31.976Z",
+      "sourceDate": "2025-12-19T00:11:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
+      "discordThreadId": "1452380975236382842",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ameresco-wd5-myworkdayjobs-com-en-us-ameresco-job-united-states-remote-data-analyst_r3520-2025-12-21-1",
+      "jobId": "ameresco-wd5-myworkdayjobs-com-en-us-ameresco-job-united-states-remote-data-analyst_r3520",
+      "company": "Ameresco",
+      "title": "Data Analyst",
+      "postedToDiscord": "2025-12-21T19:23:35.496Z",
+      "sourceDate": "2025-12-19T00:08:09.000Z",
+      "sourceUrl": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Remote/Data-Analyst_R3520",
+      "discordThreadId": "1452380990457516214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2025-12-21-1",
+      "jobId": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007",
+      "company": "BlueLabs Analytics",
+      "title": "Analytics Associate 1",
+      "postedToDiscord": "2025-12-21T19:23:39.145Z",
+      "sourceDate": "2025-12-18T23:59:39.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007",
+      "discordThreadId": "1452381005573787718",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-data-engineer-i_1624135-2025-12-21-1",
+      "jobId": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-data-engineer-i_1624135",
+      "company": "Centene",
+      "title": "Data Engineer 1",
+      "postedToDiscord": "2025-12-21T19:23:40.799Z",
+      "sourceDate": "2025-12-18T23:52:49.000Z",
+      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1624135",
+      "discordThreadId": "1452381020245721099",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 852,
+    "totalJobs": 861,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T19:04:41.693Z",
+      "date": "2025-12-21T19:23:40.800Z",
       "archived": 0
     }
   }
