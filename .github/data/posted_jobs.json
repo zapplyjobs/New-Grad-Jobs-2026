@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T00:09:09.409Z",
+  "lastUpdated": "2025-12-22T07:37:44.552Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-fcf65235-533d-4db4-b9e3-95657145f018-application-2025-12-15-1",
@@ -10044,16 +10044,26 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sayari/jobs/4069553009",
       "discordThreadId": "1452452849064874106",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-westwoodps-icims-com-jobs-7494-job-2025-12-22-1",
+      "jobId": "careers-westwoodps-icims-com-jobs-7494-job",
+      "company": "Westwood",
+      "title": "GIS Specialist",
+      "postedToDiscord": "2025-12-22T07:37:44.552Z",
+      "sourceDate": "2025-10-31T01:44:16.000Z",
+      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7494/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452565745610391604",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 913,
+    "totalJobs": 914,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-22T00:09:09.409Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2025-12-22T07:37:44.552Z",
+      "archived": 0
     }
   }
 }
