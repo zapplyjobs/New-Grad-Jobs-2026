@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T11:34:40.077Z",
+  "lastUpdated": "2025-12-22T17:49:22.254Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-fcf65235-533d-4db4-b9e3-95657145f018-application-2025-12-15-1",
@@ -10121,14 +10121,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
       "discordThreadId": "1452625369793429566",
       "instanceNumber": 1
+    },
+    {
+      "id": "compass-wd501-myworkdayjobs-com-en-us-radian_external_career_site-job-new-york-ny-data-scientist-i-hybrid_r20250160-2025-12-22-1",
+      "jobId": "compass-wd501-myworkdayjobs-com-en-us-radian_external_career_site-job-new-york-ny-data-scientist-i-hybrid_r20250160",
+      "company": "Radian",
+      "title": "Data Scientist I - Hybrid",
+      "postedToDiscord": "2025-12-22T17:49:05.005Z",
+      "sourceDate": "2025-12-22T13:19:34.000Z",
+      "sourceUrl": "https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "cliftonlarsonallen-wd1-myworkdayjobs-com-en-us-cla-job-st-louis-mo-data-analyst-associate_r16544-2025-12-22-1",
+      "jobId": "cliftonlarsonallen-wd1-myworkdayjobs-com-en-us-cla-job-st-louis-mo-data-analyst-associate_r16544",
+      "company": "CliftonLarsonAllen",
+      "title": "Data Analyst Associate",
+      "postedToDiscord": "2025-12-22T17:49:11.986Z",
+      "sourceDate": "2025-12-22T13:18:00.000Z",
+      "sourceUrl": "https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544",
+      "discordThreadId": "1452719623995916489",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ffin-wd1-myworkdayjobs-com-en-us-first_financial_bank-job-operations-center-ai-developer-i-call-center_jr102406-2025-12-22-1",
+      "jobId": "ffin-wd1-myworkdayjobs-com-en-us-first_financial_bank-job-operations-center-ai-developer-i-call-center_jr102406",
+      "company": "First Financial Bank",
+      "title": "AI Developer I- Call Center",
+      "postedToDiscord": "2025-12-22T17:49:15.546Z",
+      "sourceDate": "2025-12-22T13:15:12.000Z",
+      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406",
+      "discordThreadId": "1452719638998945792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "warnerbros-wd5-myworkdayjobs-com-en-us-global-job-il-chicago-2650a-w-bradley-place-associate-software-engineer-temporary-_r000101071-2025-12-22-1",
+      "jobId": "warnerbros-wd5-myworkdayjobs-com-en-us-global-job-il-chicago-2650a-w-bradley-place-associate-software-engineer-temporary-_r000101071",
+      "company": "Warner Bros.",
+      "title": "Associate Software Engineer (Temporary)",
+      "postedToDiscord": "2025-12-22T17:49:22.254Z",
+      "sourceDate": "2025-12-22T11:35:16.000Z",
+      "sourceUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071",
+      "discordThreadId": "1452719666450530335",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 920,
+    "totalJobs": 924,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-22T11:34:40.077Z",
+      "date": "2025-12-22T17:49:22.254Z",
       "archived": 0
     }
   }
