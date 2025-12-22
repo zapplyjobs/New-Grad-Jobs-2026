@@ -573,13 +573,27 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/203185706?v=4",
       "html_url": "https://github.com/chiMsyt",
       "starred_at": "2025-11-30T10:59:34Z"
+    },
+    {
+      "login": "nainacode",
+      "id": 250593115,
+      "avatar_url": "https://avatars.githubusercontent.com/u/250593115?v=4",
+      "html_url": "https://github.com/nainacode",
+      "starred_at": "2025-12-21T08:38:39Z"
+    },
+    {
+      "login": "Hareen12",
+      "id": 83488296,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83488296?v=4",
+      "html_url": "https://github.com/Hareen12",
+      "starred_at": "2025-12-22T03:56:45Z"
     }
   ],
-  "total_count": 82,
-  "last_updated": "2025-12-21T06:04:03.686Z",
+  "total_count": 84,
+  "last_updated": "2025-12-22T06:04:23.039Z",
   "stats": {
-    "new_since_last_run": 0,
-    "removed_since_last_run": 1,
-    "net_change": -1
+    "new_since_last_run": 2,
+    "removed_since_last_run": 0,
+    "net_change": 2
   }
 }
