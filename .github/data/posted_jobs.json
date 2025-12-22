@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T08:04:13.103Z",
+  "lastUpdated": "2025-12-22T10:39:32.185Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-fcf65235-533d-4db4-b9e3-95657145f018-application-2025-12-15-1",
@@ -10066,14 +10066,36 @@
       "sourceUrl": "https://careers-chasebrass.icims.com/jobs/3674/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452572408165699668",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-mechanize-b50c89dc-001c-4fb6-a4fc-a9f52f35b490-2025-12-22-1",
+      "jobId": "jobs-ashbyhq-com-mechanize-b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
+      "company": "Mechanize",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2025-12-22T10:39:25.756Z",
+      "sourceDate": "2025-12-22T10:26:57.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
+      "discordThreadId": "1452611468712214612",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-atlanta-ga-senior-react-engineer-wealth-management-multiple-positions-in-atlanta-ga_2025-0030119-2025-12-22-1",
+      "jobId": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-atlanta-ga-senior-react-engineer-wealth-management-multiple-positions-in-atlanta-ga_2025-0030119",
+      "company": "U.S. Bank",
+      "title": "Senior React Engineer - Wealth Management",
+      "postedToDiscord": "2025-12-22T10:39:32.184Z",
+      "sourceDate": "2025-12-22T10:02:51.000Z",
+      "sourceUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119",
+      "discordThreadId": "1452611495815806979",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 915,
+    "totalJobs": 917,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-22T08:04:13.103Z",
+      "date": "2025-12-22T10:39:32.185Z",
       "archived": 0
     }
   }
