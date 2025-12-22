@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T17:49:22.254Z",
+  "lastUpdated": "2025-12-22T18:44:25.305Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-fcf65235-533d-4db4-b9e3-95657145f018-application-2025-12-15-1",
@@ -10165,14 +10165,25 @@
       "sourceUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071",
       "discordThreadId": "1452719666450530335",
       "instanceNumber": 1
+    },
+    {
+      "id": "assaabloy-jobs2web-com-job-mason-city-product-engineer-ia-50401-1278600401-2025-12-22-1",
+      "jobId": "assaabloy-jobs2web-com-job-mason-city-product-engineer-ia-50401-1278600401",
+      "company": "ASSA ABLOY",
+      "title": "Product Engineer",
+      "postedToDiscord": "2025-12-22T18:44:25.304Z",
+      "sourceDate": "2025-12-22T16:08:55.000Z",
+      "sourceUrl": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-IA-50401/1278600401/?ats=successfactors",
+      "discordThreadId": "1452733520693825683",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 924,
+    "totalJobs": 925,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-22T17:49:22.254Z",
+      "date": "2025-12-22T18:44:25.305Z",
       "archived": 0
     }
   }
