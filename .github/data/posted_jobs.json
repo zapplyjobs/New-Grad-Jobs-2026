@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T20:49:25.818Z",
+  "lastUpdated": "2025-12-22T00:09:09.409Z",
   "jobs": [
-    {
-      "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255-2025-12-14-1",
-      "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000098830255",
-      "company": "Palo Alto Networks",
-      "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
-      "postedToDiscord": "2025-12-14T23:34:15.860Z",
-      "sourceDate": "2025-12-14T23:17:39.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255",
-      "discordThreadId": "1449907359609786582",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-jerry-ai-fcf65235-533d-4db4-b9e3-95657145f018-application-2025-12-15-1",
       "jobId": "jobs-ashbyhq-com-jerry-ai-fcf65235-533d-4db4-b9e3-95657145f018-application",
@@ -10044,6 +10033,17 @@
       "sourceUrl": "https://careers-berkley.icims.com/jobs/13282/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452402592348110968",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-sayari-jobs-4069553009-2025-12-22-1",
+      "jobId": "job-boards-greenhouse-io-sayari-jobs-4069553009",
+      "company": "Sayari",
+      "title": "Junior Data Engineer",
+      "postedToDiscord": "2025-12-22T00:09:09.408Z",
+      "sourceDate": "2025-12-21T23:43:03.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sayari/jobs/4069553009",
+      "discordThreadId": "1452452849064874106",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -10051,8 +10051,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-21T20:49:25.818Z",
-      "archived": 0
+      "date": "2025-12-22T00:09:09.409Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
