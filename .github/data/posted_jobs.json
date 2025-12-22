@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T10:39:32.185Z",
+  "lastUpdated": "2025-12-22T11:34:40.077Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-fcf65235-533d-4db4-b9e3-95657145f018-application-2025-12-15-1",
@@ -10088,14 +10088,47 @@
       "sourceUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119",
       "discordThreadId": "1452611495815806979",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-astranis-jobs-4621916006-2025-12-22-1",
+      "jobId": "job-boards-greenhouse-io-astranis-jobs-4621916006",
+      "company": "Astranis",
+      "title": "Software Developer, Network Software Associate",
+      "postedToDiscord": "2025-12-22T11:34:32.962Z",
+      "sourceDate": "2025-12-22T11:27:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
+      "discordThreadId": "1452625340269592627",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-162138-junior-product-software-engineer-job-2025-12-22-1",
+      "jobId": "careers-peraton-icims-com-jobs-162138-junior-product-software-engineer-job",
+      "company": "Peraton",
+      "title": "Junior Product Software Engineer",
+      "postedToDiscord": "2025-12-22T11:34:36.491Z",
+      "sourceDate": "2025-12-22T11:26:00.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job",
+      "discordThreadId": "1452625354954113105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-oklo-jobs-5739861004-2025-12-22-1",
+      "jobId": "job-boards-greenhouse-io-oklo-jobs-5739861004",
+      "company": "Oklo",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2025-12-22T11:34:40.077Z",
+      "sourceDate": "2025-12-22T11:25:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
+      "discordThreadId": "1452625369793429566",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 917,
+    "totalJobs": 920,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-22T10:39:32.185Z",
+      "date": "2025-12-22T11:34:40.077Z",
       "archived": 0
     }
   }
