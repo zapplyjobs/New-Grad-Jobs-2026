@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T23:35:24.921Z",
+  "lastUpdated": "2025-12-23T00:09:40.351Z",
   "jobs": [
-    {
-      "id": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-civil-and-environmental-engineering_jr107955-2025-12-15-1",
-      "jobId": "mines-wd1-myworkdayjobs-com-mines_careers-job-colorado-post-doctoral-fellow-civil-and-environmental-engineering_jr107955",
-      "company": "Colorado School of Mines",
-      "title": "Postdoctoral Fellow - Civil and Environmental Engineering",
-      "postedToDiscord": "2025-12-15T23:35:32.979Z",
-      "sourceDate": "2025-12-15T23:21:32.000Z",
-      "sourceUrl": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Civil-and-Environmental-Engineering_JR107955",
-      "discordThreadId": "1450270077537747056",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903-2025-12-15-1",
-      "jobId": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903",
-      "company": "Electronic Arts",
-      "title": "EA Sports Academy Software Engineer",
-      "postedToDiscord": "2025-12-15T23:35:36.727Z",
-      "sourceDate": "2025-12-15T23:15:11.000Z",
-      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903",
-      "discordThreadId": "1450270085997658274",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-mti-inc-6b5e1aff-24f6-42e0-b858-6ffe6071b126-apply-2025-12-15-1",
-      "jobId": "jobs-lever-co-mti-inc-6b5e1aff-24f6-42e0-b858-6ffe6071b126-apply",
-      "company": "Monterey Technologies",
-      "title": "Junior Software Engineer",
-      "postedToDiscord": "2025-12-15T23:35:40.446Z",
-      "sourceDate": "2025-12-15T23:10:35.000Z",
-      "sourceUrl": "https://jobs.lever.co/mti-inc/6b5e1aff-24f6-42e0-b858-6ffe6071b126/apply",
-      "discordThreadId": "1450270102342729820",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556631972-2025-12-15-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631972",
-      "company": "Microsoft",
-      "title": "Software Engineer - Windows Servicing and Delivery",
-      "postedToDiscord": "2025-12-15T23:35:44.343Z",
-      "sourceDate": "2025-12-15T23:09:54.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
-      "discordThreadId": "1450270116649500683",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556631977-2025-12-15-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631977",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "postedToDiscord": "2025-12-15T23:35:44.346Z",
-      "sourceDate": "2025-12-15T23:09:42.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631977",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-wyetechllc-a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d-apply-2025-12-15-1",
-      "jobId": "jobs-lever-co-wyetechllc-a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d-apply",
-      "company": "Wyetech",
-      "title": "Software Engineer 2",
-      "postedToDiscord": "2025-12-15T23:35:48.100Z",
-      "sourceDate": "2025-12-15T23:09:22.000Z",
-      "sourceUrl": "https://jobs.lever.co/wyetechllc/a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d/apply",
-      "discordThreadId": "1450270133280047216",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000099039370-2025-12-16-1",
-      "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000099039370",
-      "company": "Palo Alto Networks",
-      "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
-      "postedToDiscord": "2025-12-16T00:06:37.713Z",
-      "sourceDate": "2025-12-15T23:28:29.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000099039370",
-      "discordThreadId": "1450277891957981266",
-      "instanceNumber": 1
-    },
-    {
-      "id": "franklintempleton-wd5-myworkdayjobs-com-invitation-only-job-usa-ct100-stamford-associate-software-engineer_865347-2025-12-16-1",
-      "jobId": "franklintempleton-wd5-myworkdayjobs-com-invitation-only-job-usa-ct100-stamford-associate-software-engineer_865347",
-      "company": "Franklin Templeton",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2025-12-16T00:06:41.192Z",
-      "sourceDate": "2025-12-15T23:25:09.000Z",
-      "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-CT100-Stamford/Associate-Software-Engineer_865347",
-      "discordThreadId": "1450277906868736191",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-27595-89559041648-2025-12-16-1",
-      "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-27595-89559041648",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2025-12-16T00:06:44.819Z",
-      "sourceDate": "2025-12-15T23:15:46.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89559041648",
-      "discordThreadId": "1450277921326501938",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-2os-3c19948d-2c5b-4490-9039-1de7e6374525-apply-2025-12-16-1",
-      "jobId": "jobs-lever-co-2os-3c19948d-2c5b-4490-9039-1de7e6374525-apply",
-      "company": "2nd Order Solutions",
-      "title": "Data Scientist - Campus",
-      "postedToDiscord": "2025-12-16T00:06:51.494Z",
-      "sourceDate": "2025-12-15T23:10:46.000Z",
-      "sourceUrl": "https://jobs.lever.co/2os/3c19948d-2c5b-4490-9039-1de7e6374525/apply",
-      "discordThreadId": "1450277949348515942",
-      "instanceNumber": 1
-    },
     {
       "id": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-mayfield-heights-ohio-united-states-data-science-analyst-digital_r25-7097-1-2025-12-16-1",
       "jobId": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-mayfield-heights-ohio-united-states-data-science-analyst-digital_r25-7097-1",
@@ -10044,14 +9934,91 @@
       "sourceUrl": "https://careers-daifuku-america.icims.com/jobs/20879/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452806750343266406",
       "instanceNumber": 1
+    },
+    {
+      "id": "comcast-wd5-myworkdayjobs-com-comcast_careers-job-pa-philadelphia-1701-john-f-kennedy-blvd-engineer-data-analytics_r427045-1-2025-12-23-1",
+      "jobId": "comcast-wd5-myworkdayjobs-com-comcast_careers-job-pa-philadelphia-1701-john-f-kennedy-blvd-engineer-data-analytics_r427045-1",
+      "company": "Comcast",
+      "title": "Engineer Data & Analytics",
+      "postedToDiscord": "2025-12-23T00:09:18.520Z",
+      "sourceDate": "2025-12-22T23:54:12.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer--Data---Analytics_R427045-1",
+      "discordThreadId": "1452815282094473357",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pagerduty-jobs-5722204004-2025-12-23-1",
+      "jobId": "job-boards-greenhouse-io-pagerduty-jobs-5722204004",
+      "company": "PagerDuty",
+      "title": "Software Engineer 1 - Product Development",
+      "postedToDiscord": "2025-12-23T00:09:21.832Z",
+      "sourceDate": "2025-12-22T23:40:56.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pagerduty/jobs/5722204004",
+      "discordThreadId": "1452815296149585990",
+      "instanceNumber": 1
+    },
+    {
+      "id": "csiweb-wd1-myworkdayjobs-com-csi_careers-job-remote-usa-software-engineer_r-100400-2025-12-23-1",
+      "jobId": "csiweb-wd1-myworkdayjobs-com-csi_careers-job-remote-usa-software-engineer_r-100400",
+      "company": "Computer Services",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-23T00:09:28.471Z",
+      "sourceDate": "2025-12-22T23:43:55.000Z",
+      "sourceUrl": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Software-Engineer_R-100400",
+      "discordThreadId": "1452815323056308377",
+      "instanceNumber": 1
+    },
+    {
+      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760-2025-12-23-1",
+      "jobId": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760",
+      "company": "2020 Companies",
+      "title": "Android Sales Expert",
+      "postedToDiscord": "2025-12-23T00:09:32.064Z",
+      "sourceDate": "2025-12-22T23:37:07.000Z",
+      "sourceUrl": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760",
+      "discordThreadId": "1452815338222911601",
+      "instanceNumber": 1
+    },
+    {
+      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1-2025-12-23-1",
+      "jobId": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1",
+      "company": "2020 Companies",
+      "title": "Android Sales Expert",
+      "postedToDiscord": "2025-12-23T00:09:32.074Z",
+      "sourceDate": "2025-12-22T23:37:03.000Z",
+      "sourceUrl": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Alameda-CA/Android-Sales-Expert_REQ_096762-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003734-2025-12-23-1",
+      "jobId": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003734",
+      "company": "Perficient",
+      "title": "Appian Associate Technical Consultant",
+      "postedToDiscord": "2025-12-23T00:09:35.614Z",
+      "sourceDate": "2025-12-22T23:12:07.000Z",
+      "sourceUrl": "https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003734",
+      "discordThreadId": "1452815353364086944",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lmu-wd1-myworkdayjobs-com-careers-job-westchester-campus-assistant-professor-of-mathematics-statistics-and-data-science_r11535-2025-12-23-1",
+      "jobId": "lmu-wd1-myworkdayjobs-com-careers-job-westchester-campus-assistant-professor-of-mathematics-statistics-and-data-science_r11535",
+      "company": "Loyola Marymount University",
+      "title": "Assistant Professor of Mathematics - Statistics and Data Science",
+      "postedToDiscord": "2025-12-23T00:09:40.351Z",
+      "sourceDate": "2025-10-06T21:16:04.000Z",
+      "sourceUrl": "https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Assistant-Professor-of-Mathematics--Statistics-and-Data-Science_R11535",
+      "discordThreadId": "1452815380379861219",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 913,
+    "totalJobs": 910,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-22T23:35:24.921Z",
+      "date": "2025-12-23T00:09:40.351Z",
       "archived": 0
     }
   }
