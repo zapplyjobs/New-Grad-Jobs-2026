@@ -18,5 +18,45 @@
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T23:25:13.917Z",
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1/2 - SF",
+      "employer_name": "Remi",
+      "job_city": "SF",
+      "job_state": "Locations",
+      "job_description": "As a Software Engineer at Remi, you’ll build and maintain our core software products supporting the world’s first three-sided roofing marketplace. This includes everything from mobile-friendly portals for homeowners and subcontractors, to automated workflows and third-party integrations to facilitate roofing construction processes for homeowners at scale. You’ll work on something new every day and learn a ton about the niche but fascinating world of roofing as you go. If you like to stretch yourself and grow in ways you never thought were possible, you’ll fit right in. This listing includes Software Engineer I, an entry level position, as well as Software Engineer II, a mid-level position. Responsibilities Ship full-stack product features in Typescript and Next.js Build automations and integrations on AWS servers Develop greenfield products and services that delight homeowners, contractors, and enterprise partners Invest in wide ranging changes that improve developer experience and platform capabilities Collaborate with highly intelligent teammates to solve difficult technical problems Work closely with product managers and designers to deliver on an ambitious roadmap Required Qualifications A bachelor’s degree in a technical field such as Computer Science or equivalent software development experience Experience developing full-stack applications, either in a work environment or for your personal portfolio Fundamental knowledge of HTML/CSS/JavaScript and how the web works A high level of attention to detail, bordering on the extreme The ability to solve complex problems independently without getting stuck Great verbal and written communication skills Preferred Qualifications Deep familiarity with one or more aspects of modern web development (CSS, DOM, React, etc) Fluency in SQL Experience working with the T3 stack and the TanStack libraries Experience with core web infrastructure (Vercel, AWS, etc) Benefits Go out to lunch with your teammates every day with our $20 lunch stipend Unlimited paid time off 5% 401k match 100% paid parental leave and medical insurance $100 monthly cell phone credit",
+      "job_apply_link": "https://jobs.ashbyhq.com/remi/b818286a-d389-42bd-a4d8-47020981ec57/application",
+      "job_posted_at_datetime_utc": "2025-12-23T16:24:53.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-ashbyhq-com-remi-b818286a-d389-42bd-a4d8-47020981ec57-application",
+      "description_platform": "ashby",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-23T16:41:38.541Z",
+    "enrichedAt": "2025-12-23T16:41:40.110Z",
+    "postedAt": "2025-12-23T16:41:50.226Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1/2",
+      "employer_name": "Remi",
+      "job_city": "Lehi",
+      "job_state": "UT",
+      "job_description": "As a Software Engineer at Remi, you’ll build and maintain our core software products supporting the world’s first three-sided roofing marketplace. This includes everything from mobile-friendly portals for homeowners and subcontractors, to automated workflows and third-party integrations to facilitate roofing construction processes for homeowners at scale. You’ll work on something new every day and learn a ton about the niche but fascinating world of roofing as you go. If you like to stretch yourself and grow in ways you never thought were possible, you’ll fit right in. This listing includes Software Engineer I, an entry level position, as well as Software Engineer II, a mid-level position. Responsibilities Ship full-stack product features in Typescript and Next.js Build automations and integrations on AWS servers Develop greenfield products and services that delight homeowners, contractors, and enterprise partners Invest in wide ranging changes that improve developer experience and platform capabilities Collaborate with highly intelligent teammates to solve difficult technical problems Work closely with product managers and designers to deliver on an ambitious roadmap Required Qualifications A bachelor’s degree in a technical field such as Computer Science or equivalent software development experience Experience developing full-stack applications, either in a work environment or for your personal portfolio Fundamental knowledge of HTML/CSS/JavaScript and how the web works A high level of attention to detail, bordering on the extreme The ability to solve complex problems independently without getting stuck Great verbal and written communication skills Preferred Qualifications Deep familiarity with one or more aspects of modern web development (CSS, DOM, React, etc) Fluency in SQL Experience working with the T3 stack and the TanStack libraries Experience with core web infrastructure (Vercel, AWS, etc) Benefits Go out to lunch with your teammates every day with our $20 lunch stipend Unlimited paid time off 5% 401k match 100% paid parental leave and medical insurance $100 monthly cell phone credit",
+      "job_apply_link": "https://jobs.ashbyhq.com/remi/f83d1104-3501-403f-bfb8-55ae59b6723c/application",
+      "job_posted_at_datetime_utc": "2025-12-23T16:24:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jobs-ashbyhq-com-remi-f83d1104-3501-403f-bfb8-55ae59b6723c-application",
+      "description_platform": "ashby",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2025-12-23T16:41:38.541Z",
+    "enrichedAt": "2025-12-23T16:41:40.110Z",
+    "postedAt": null
   }
 ]

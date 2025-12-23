@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T10:04:05.068Z",
+  "lastUpdated": "2025-12-23T16:41:47.218Z",
   "jobs": [
     {
       "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
@@ -7063,16 +7063,37 @@
       "sourceUrl": "https://lifeattiktok.com/search/7364146718924163337",
       "discordThreadId": "1452964962287878196",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-remi-b818286a-d389-42bd-a4d8-47020981ec57-application-2025-12-23-1",
+      "jobId": "jobs-ashbyhq-com-remi-b818286a-d389-42bd-a4d8-47020981ec57-application",
+      "company": "Remi",
+      "title": "Software Engineer 1/2 - SF",
+      "postedToDiscord": "2025-12-23T16:41:47.208Z",
+      "sourceDate": "2025-12-23T16:24:53.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/remi/b818286a-d389-42bd-a4d8-47020981ec57/application",
+      "discordThreadId": "1453065046732312681",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-remi-f83d1104-3501-403f-bfb8-55ae59b6723c-application-2025-12-23-1",
+      "jobId": "jobs-ashbyhq-com-remi-f83d1104-3501-403f-bfb8-55ae59b6723c-application",
+      "company": "Remi",
+      "title": "Software Engineer 1/2",
+      "postedToDiscord": "2025-12-23T16:41:47.218Z",
+      "sourceDate": "2025-12-23T16:24:37.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/remi/f83d1104-3501-403f-bfb8-55ae59b6723c/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 642,
+    "totalJobs": 644,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-23T10:04:05.068Z",
-      "archived": 86,
-      "monthsAffected": 1
+      "date": "2025-12-23T16:41:47.218Z",
+      "archived": 0
     }
   }
 }
