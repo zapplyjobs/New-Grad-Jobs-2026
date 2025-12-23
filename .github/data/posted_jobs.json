@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T00:09:40.351Z",
+  "lastUpdated": "2025-12-23T00:43:09.901Z",
   "jobs": [
-    {
-      "id": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-mayfield-heights-ohio-united-states-data-science-analyst-digital_r25-7097-1-2025-12-16-1",
-      "jobId": "rockwellautomation-wd1-myworkdayjobs-com-external_rockwell_automation-job-mayfield-heights-ohio-united-states-data-science-analyst-digital_r25-7097-1",
-      "company": "Rockwell Automation",
-      "title": "Data Science Analyst - Digital",
-      "postedToDiscord": "2025-12-16T00:42:24.951Z",
-      "sourceDate": "2025-12-15T23:34:33.000Z",
-      "sourceUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Data-Science-Analyst---Digital_R25-7097-1",
-      "discordThreadId": "1450286898085105727",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485-2025-12-16-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485",
-      "company": "NVIDIA",
-      "title": "Research Scientist - AI-Mediated Reality and Interaction Research",
-      "postedToDiscord": "2025-12-16T00:42:28.341Z",
-      "sourceDate": "2025-12-15T23:25:04.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485",
-      "discordThreadId": "1450286912559517830",
-      "instanceNumber": 1
-    },
-    {
-      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ma801-marlborough-ma-1001-boston-post-road-building-2-marlborough-ma-01752-usa-xmlname-2026-fulltime-raytheon-software-integration-engineer-i-onsite-_01812392-2025-12-16-1",
-      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ma801-marlborough-ma-1001-boston-post-road-building-2-marlborough-ma-01752-usa-xmlname-2026-fulltime-raytheon-software-integration-engineer-i-onsite-_01812392",
-      "company": "RTX",
-      "title": "2026 Fulltime - Raytheon Software Integration Engineer I",
-      "postedToDiscord": "2025-12-16T00:42:35.312Z",
-      "sourceDate": "2025-12-15T23:20:01.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Integration-Engineer-I--Onsite-_01812392",
-      "discordThreadId": "1450286941361803417",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application-2025-12-16-1",
-      "jobId": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application",
-      "company": "Anything",
-      "title": "Backend Engineer - AI",
-      "postedToDiscord": "2025-12-16T00:42:38.863Z",
-      "sourceDate": "2025-12-15T23:14:02.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application",
-      "discordThreadId": "1450286956259836036",
-      "instanceNumber": 1
-    },
     {
       "id": "rrhs-wd5-myworkdayjobs-com-rrh-job-riedman-remote-emr-analyst_req_227863-2025-12-16-1",
       "jobId": "rrhs-wd5-myworkdayjobs-com-rrh-job-riedman-remote-emr-analyst_req_227863",
@@ -10011,14 +9967,91 @@
       "sourceUrl": "https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Assistant-Professor-of-Mathematics--Statistics-and-Data-Science_R11535",
       "discordThreadId": "1452815380379861219",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-l3harris-com-job-cincinnati-associate-business-intelligence-analyst-cincinnati-oh-oh-45245-1351636300-2025-12-23-1",
+      "jobId": "jobs-l3harris-com-job-cincinnati-associate-business-intelligence-analyst-cincinnati-oh-oh-45245-1351636300",
+      "company": "L3Harris Technologies",
+      "title": "Associate – Business Intelligence Analyst - Cincinnati - OH",
+      "postedToDiscord": "2025-12-23T00:42:44.346Z",
+      "sourceDate": "2025-12-22T23:32:04.000Z",
+      "sourceUrl": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Business-Intelligence-Analyst-(Cincinnati,-OH)-OH-45245/1351636300/?ats=successfactors",
+      "discordThreadId": "1452823691544236104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-data-analyst-i-healthcare-analytics_1624336-2025-12-23-1",
+      "jobId": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-data-analyst-i-healthcare-analytics_1624336",
+      "company": "Centene",
+      "title": "Data Analyst 1 Healthcare Analytics",
+      "postedToDiscord": "2025-12-23T00:42:46.254Z",
+      "sourceDate": "2025-12-22T23:29:44.000Z",
+      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-I-Healthcare-Analytics_1624336",
+      "discordThreadId": "1452823709231480969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "barnard-wd1-myworkdayjobs-com-staff-job-new-york-city-ny-data-analyst-graduate-assistant-neuroscience-and-behavior-_jr5303-1-2025-12-23-1",
+      "jobId": "barnard-wd1-myworkdayjobs-com-staff-job-new-york-city-ny-data-analyst-graduate-assistant-neuroscience-and-behavior-_jr5303-1",
+      "company": "Barnard College",
+      "title": "Data Analyst Graduate Assistant - Neuroscience and Behavior",
+      "postedToDiscord": "2025-12-23T00:42:49.843Z",
+      "sourceDate": "2025-12-22T23:28:41.000Z",
+      "sourceUrl": "https://barnard.wd1.myworkdayjobs.com/Staff/job/New-York-City-NY/Data-Analyst-Graduate-Assistant--Neuroscience-and-Behavior-_JR5303-1",
+      "discordThreadId": "1452823717469098095",
+      "instanceNumber": 1
+    },
+    {
+      "id": "disney-wd5-myworkdayjobs-com-disneycareer-job-new-york-ny-usa-associate-data-scientist_10138200-2025-12-23-1",
+      "jobId": "disney-wd5-myworkdayjobs-com-disneycareer-job-new-york-ny-usa-associate-data-scientist_10138200",
+      "company": "The Walt Disney Company",
+      "title": "Associate Data Scientist",
+      "postedToDiscord": "2025-12-23T00:42:56.388Z",
+      "sourceDate": "2025-12-22T23:30:46.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Associate-Data-Scientist_10138200",
+      "discordThreadId": "1452823745038389358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-temporary-data-engineer-with-apache-airflow-20-and-30-experience-temporary-employment-services_2024012-2025-12-23-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-temporary-data-engineer-with-apache-airflow-20-and-30-experience-temporary-employment-services_2024012",
+      "company": "Carnegie Mellon University",
+      "title": "Data Engineer",
+      "postedToDiscord": "2025-12-23T00:42:59.927Z",
+      "sourceDate": "2025-12-22T23:30:02.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Temporary-Data-Engineer--with-Apache-Airflow-20-and-30-experience-------Temporary-Employment-Services_2024012",
+      "discordThreadId": "1452823759949009017",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-9c47488a-d757-46fb-b925-5324c7b61f7c-application-2025-12-23-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-9c47488a-d757-46fb-b925-5324c7b61f7c-application",
+      "company": "Jerry",
+      "title": "Software Engineer - Entry",
+      "postedToDiscord": "2025-12-23T00:43:03.395Z",
+      "sourceDate": "2025-12-22T23:26:15.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/9c47488a-d757-46fb-b925-5324c7b61f7c/application",
+      "discordThreadId": "1452823774633136169",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-daifuku-america-icims-com-jobs-20889-job-2025-12-23-1",
+      "jobId": "careers-daifuku-america-icims-com-jobs-20889-job",
+      "company": "Daifuku",
+      "title": "Software Implementation Engineer 1",
+      "postedToDiscord": "2025-12-23T00:43:09.900Z",
+      "sourceDate": "2025-11-27T02:34:45.000Z",
+      "sourceUrl": "https://careers-daifuku-america.icims.com/jobs/20889/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452823802043175074",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 910,
+    "totalJobs": 913,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-23T00:09:40.351Z",
+      "date": "2025-12-23T00:43:09.901Z",
       "archived": 0
     }
   }
