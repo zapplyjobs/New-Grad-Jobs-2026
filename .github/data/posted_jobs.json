@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T17:04:54.086Z",
+  "lastUpdated": "2025-12-23T17:37:52.313Z",
   "jobs": [
     {
       "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
@@ -7096,14 +7096,36 @@
       "sourceUrl": "https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1453070863204221053",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087905009-2025-12-23-1",
+      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087905009",
+      "company": "Voyager Technologies",
+      "title": "Software Engineer - Manufacturing Integration",
+      "postedToDiscord": "2025-12-23T17:37:45.582Z",
+      "sourceDate": "2025-12-23T17:07:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009",
+      "discordThreadId": "1453079131808989308",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-162252-job-2025-12-23-1",
+      "jobId": "careers-peraton-icims-com-jobs-162252-job",
+      "company": "Peraton",
+      "title": "Data Scientist",
+      "postedToDiscord": "2025-12-23T17:37:52.313Z",
+      "sourceDate": "2025-12-23T17:01:44.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1453079160577724642",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 645,
+    "totalJobs": 647,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-23T17:04:54.086Z",
+      "date": "2025-12-23T17:37:52.313Z",
       "archived": 0
     }
   }
