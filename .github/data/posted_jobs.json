@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T00:43:09.901Z",
+  "lastUpdated": "2025-12-23T01:11:03.455Z",
   "jobs": [
     {
       "id": "rrhs-wd5-myworkdayjobs-com-rrh-job-riedman-remote-emr-analyst_req_227863-2025-12-16-1",
@@ -10044,14 +10044,25 @@
       "sourceUrl": "https://careers-daifuku-america.icims.com/jobs/20889/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452823802043175074",
       "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-full-stack-entry-mid_r2116871-2025-12-23-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-full-stack-entry-mid_r2116871",
+      "company": "KBR",
+      "title": "Software Engineer - Full Stack Entry - Mid",
+      "postedToDiscord": "2025-12-23T01:11:03.454Z",
+      "sourceDate": "2025-12-23T00:57:55.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871",
+      "discordThreadId": "1452830820908793857",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 913,
+    "totalJobs": 914,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-23T00:43:09.901Z",
+      "date": "2025-12-23T01:11:03.455Z",
       "archived": 0
     }
   }
