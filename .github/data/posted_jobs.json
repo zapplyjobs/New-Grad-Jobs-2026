@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T00:09:56.956Z",
+  "lastUpdated": "2025-12-24T00:43:06.910Z",
   "jobs": [
     {
       "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
@@ -7195,14 +7195,80 @@
       "sourceUrl": "https://careers.formlabs.com/job/7488675/apply/?gh_jid=7488675",
       "discordThreadId": "1453177830924877834",
       "instanceNumber": 1
+    },
+    {
+      "id": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-long-island-ny-software-engineer-i_r202570999-1-2025-12-24-1",
+      "jobId": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-long-island-ny-software-engineer-i_r202570999-1",
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-24T00:42:43.249Z",
+      "sourceDate": "2025-12-24T00:26:59.000Z",
+      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202570999-1",
+      "discordThreadId": "1453186078235431064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rgare-wd1-myworkdayjobs-com-en-us-careers-job-united-states-chesterfield-mo-rga-hq-associate-systems-developer_j26065-1-2025-12-24-1",
+      "jobId": "rgare-wd1-myworkdayjobs-com-en-us-careers-job-united-states-chesterfield-mo-rga-hq-associate-systems-developer_j26065-1",
+      "company": " RGA Reinsurance Company",
+      "title": "Associate Systems Developer",
+      "postedToDiscord": "2025-12-24T00:42:46.979Z",
+      "sourceDate": "2025-12-23T23:32:39.000Z",
+      "sourceUrl": "https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Associate-Systems-Developer_J26065-1",
+      "discordThreadId": "1453186092458053655",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-citizen-20health-5caf6697-43c6-41b5-92ef-20a8c85db322-application-2025-12-24-1",
+      "jobId": "jobs-ashbyhq-com-citizen-20health-5caf6697-43c6-41b5-92ef-20a8c85db322-application",
+      "company": "Citizen Health",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2025-12-24T00:42:50.366Z",
+      "sourceDate": "2025-12-23T23:16:34.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/5caf6697-43c6-41b5-92ef-20a8c85db322/application",
+      "discordThreadId": "1453186108174110730",
+      "instanceNumber": 1
+    },
+    {
+      "id": "analogdevices-wd1-myworkdayjobs-com-external-job-us-ma-wilmington-associate-machine-learning-operations-mlops-engineer_r258871-2025-12-24-1",
+      "jobId": "analogdevices-wd1-myworkdayjobs-com-external-job-us-ma-wilmington-associate-machine-learning-operations-mlops-engineer_r258871",
+      "company": "Analog Devices",
+      "title": "Associate Machine Learning Operations Engineer - MLOps - Engineer",
+      "postedToDiscord": "2025-12-24T00:42:56.760Z",
+      "sourceDate": "2025-12-23T23:43:22.000Z",
+      "sourceUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Machine-Learning-Operations--MLOps--Engineer_R258871",
+      "discordThreadId": "1453186134786965587",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-matx-jobs-4102858008-2025-12-24-1",
+      "jobId": "job-boards-greenhouse-io-matx-jobs-4102858008",
+      "company": "MatX",
+      "title": "Software Engineer - Simulators",
+      "postedToDiscord": "2025-12-24T00:43:00.241Z",
+      "sourceDate": "2025-12-06T06:19:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/matx/jobs/4102858008",
+      "discordThreadId": "1453186149312102583",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-illinois-chicago-predoctoral-scholar_jr32397-2025-12-24-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-illinois-chicago-predoctoral-scholar_jr32397",
+      "company": "University of Chicago",
+      "title": "Predoctoral Scholar",
+      "postedToDiscord": "2025-12-24T00:43:06.910Z",
+      "sourceDate": "2025-12-23T23:32:53.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397",
+      "discordThreadId": "1453186176704970752",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 654,
+    "totalJobs": 660,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-24T00:09:56.956Z",
+      "date": "2025-12-24T00:43:06.910Z",
       "archived": 0
     }
   }
