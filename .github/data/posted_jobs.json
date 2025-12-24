@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T23:35:18.758Z",
+  "lastUpdated": "2025-12-24T00:09:56.956Z",
   "jobs": [
     {
       "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
@@ -7140,14 +7140,69 @@
       "sourceUrl": "https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors",
       "discordThreadId": "1453169114272108716",
       "instanceNumber": 1
+    },
+    {
+      "id": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005022-2025-12-24-1",
+      "jobId": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005022",
+      "company": "Lennar Corporation",
+      "title": "Systems Analyst 1",
+      "postedToDiscord": "2025-12-24T00:09:33.583Z",
+      "sourceDate": "2025-12-23T23:42:46.000Z",
+      "sourceUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005022",
+      "discordThreadId": "1453177733373755462",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-data-scientist_r014106-2025-12-24-1",
+      "jobId": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-data-scientist_r014106",
+      "company": "The Aerospace Corporation",
+      "title": "Data Scientist",
+      "postedToDiscord": "2025-12-24T00:09:40.702Z",
+      "sourceDate": "2025-12-23T23:29:36.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Scientist_R014106",
+      "discordThreadId": "1453177762528366836",
+      "instanceNumber": 1
+    },
+    {
+      "id": "avav-wd1-myworkdayjobs-com-en-us-avav-job-patterson-afb-research-chemist-autonomous-discovery-of-organic-materials_7076-2025-12-24-1",
+      "jobId": "avav-wd1-myworkdayjobs-com-en-us-avav-job-patterson-afb-research-chemist-autonomous-discovery-of-organic-materials_7076",
+      "company": "AeroVironment",
+      "title": "Research Chemist - Autonomous Discovery of Organic Materials",
+      "postedToDiscord": "2025-12-24T00:09:44.122Z",
+      "sourceDate": "2025-12-23T23:28:28.000Z",
+      "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Chemist---Autonomous-Discovery-of-Organic-Materials_7076",
+      "discordThreadId": "1453177777145774201",
+      "instanceNumber": 1
+    },
+    {
+      "id": "avav-wd1-myworkdayjobs-com-en-us-avav-job-patterson-afb-research-scientist-2d-polymer-chemist_7081-2025-12-24-1",
+      "jobId": "avav-wd1-myworkdayjobs-com-en-us-avav-job-patterson-afb-research-scientist-2d-polymer-chemist_7081",
+      "company": "AeroVironment",
+      "title": "Research Scientist - 2D Polymer Chemist",
+      "postedToDiscord": "2025-12-24T00:09:50.499Z",
+      "sourceDate": "2025-12-23T23:28:35.000Z",
+      "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Scientist---2D-Polymer-Chemist_7081",
+      "discordThreadId": "1453177804182130761",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-formlabs-com-job-7488675-apply-2025-12-24-1",
+      "jobId": "careers-formlabs-com-job-7488675-apply",
+      "company": "Formlabs",
+      "title": "Operations Systems Lead",
+      "postedToDiscord": "2025-12-24T00:09:56.956Z",
+      "sourceDate": "2025-12-23T23:23:26.000Z",
+      "sourceUrl": "https://careers.formlabs.com/job/7488675/apply/?gh_jid=7488675",
+      "discordThreadId": "1453177830924877834",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 649,
+    "totalJobs": 654,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-23T23:35:18.758Z",
+      "date": "2025-12-24T00:09:56.956Z",
       "archived": 0
     }
   }
