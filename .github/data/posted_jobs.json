@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T01:11:21.311Z",
+  "lastUpdated": "2025-12-24T03:15:48.298Z",
   "jobs": [
     {
       "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
@@ -7272,14 +7272,47 @@
       "sourceUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624",
       "discordThreadId": "1453193282787082341",
       "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-saint-charles-mo-software-engineer-test-verification-associate-mid-level-senior-_jr2025488587-1-2025-12-24-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-saint-charles-mo-software-engineer-test-verification-associate-mid-level-senior-_jr2025488587-1",
+      "company": "The Boeing Company",
+      "title": "Software Engineer-Test & Verification – Mid Level – Senior - Associate",
+      "postedToDiscord": "2025-12-24T03:15:38.241Z",
+      "sourceDate": "2025-12-24T02:41:23.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Test---Verification--Associate--Mid-Level--Senior-_JR2025488587-1",
+      "discordThreadId": "1453224560198684726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-saint-charles-mo-software-engineer-simulation-associate-mid-level-senior-_jr2025488590-1-2025-12-24-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-saint-charles-mo-software-engineer-simulation-associate-mid-level-senior-_jr2025488590-1",
+      "company": "The Boeing Company",
+      "title": "Software Engineer-Simulation Mid Level Senior - Associate",
+      "postedToDiscord": "2025-12-24T03:15:41.648Z",
+      "sourceDate": "2025-12-24T02:41:23.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Simulation--Associate--Mid-Level--Senior-_JR2025488590-1",
+      "discordThreadId": "1453224575218352253",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-withwaymo-com-jobs-2025-12-24-1",
+      "jobId": "careers-withwaymo-com-jobs",
+      "company": "Waymo",
+      "title": "Applied Research Scientist - Perception",
+      "postedToDiscord": "2025-12-24T03:15:48.297Z",
+      "sourceDate": "2025-12-24T02:40:44.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7467839",
+      "discordThreadId": "1453224602083004609",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 661,
+    "totalJobs": 664,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-24T01:11:21.311Z",
+      "date": "2025-12-24T03:15:48.298Z",
       "archived": 0
     }
   }
