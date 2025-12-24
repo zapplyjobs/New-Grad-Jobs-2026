@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T03:46:18.473Z",
+  "lastUpdated": "2025-12-24T08:04:17.414Z",
   "jobs": [
     {
       "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
@@ -7338,14 +7338,25 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7585034854077778181/detail",
       "discordThreadId": "1453232278309310524",
       "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-oklahoma-oklahoma-city-xmlname-2026-associate-software-engineer-software-engineer_r10217878-2025-12-24-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-oklahoma-oklahoma-city-xmlname-2026-associate-software-engineer-software-engineer_r10217878",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "postedToDiscord": "2025-12-24T08:04:17.414Z",
+      "sourceDate": "2025-12-24T07:35:31.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878",
+      "discordThreadId": "1453297201798185106",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 667,
+    "totalJobs": 668,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-24T03:46:18.473Z",
+      "date": "2025-12-24T08:04:17.414Z",
       "archived": 0
     }
   }
