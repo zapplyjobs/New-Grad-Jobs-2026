@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T03:15:48.298Z",
+  "lastUpdated": "2025-12-24T03:46:18.473Z",
   "jobs": [
     {
       "id": "careers-essenmed-icims-com-jobs-2039-job-2025-12-18-1",
@@ -7305,14 +7305,47 @@
       "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7467839",
       "discordThreadId": "1453224602083004609",
       "instanceNumber": 1
+    },
+    {
+      "id": "pureinsurance-wd5-myworkdayjobs-com-pure-job-warren-technology-analyst-program-september-2026_r2561-2025-12-24-1",
+      "jobId": "pureinsurance-wd5-myworkdayjobs-com-pure-job-warren-technology-analyst-program-september-2026_r2561",
+      "company": "PURE Insurance",
+      "title": "Technology Analyst Program",
+      "postedToDiscord": "2025-12-24T03:46:08.220Z",
+      "sourceDate": "2025-12-24T03:05:15.000Z",
+      "sourceUrl": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561",
+      "discordThreadId": "1453232235028418600",
+      "instanceNumber": 1
+    },
+    {
+      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-atlanta-75-fifth-corp-atc-software-and-platform-analyst-naelfy26_r00304885-2025-12-24-1",
+      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-atlanta-75-fifth-corp-atc-software-and-platform-analyst-naelfy26_r00304885",
+      "company": "Accenture",
+      "title": "Atc – Software and Platform Analyst",
+      "postedToDiscord": "2025-12-24T03:46:14.780Z",
+      "sourceDate": "2025-12-24T03:01:54.000Z",
+      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885",
+      "discordThreadId": "1453232263432110090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7585034854077778181-detail-2025-12-24-1",
+      "jobId": "jobs-bytedance-com-en-position-7585034854077778181-detail",
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate - 3D/4D Generation - 2026 Start",
+      "postedToDiscord": "2025-12-24T03:46:18.473Z",
+      "sourceDate": "2025-12-24T02:14:32.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7585034854077778181/detail",
+      "discordThreadId": "1453232278309310524",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 664,
+    "totalJobs": 667,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-24T03:15:48.298Z",
+      "date": "2025-12-24T03:46:18.473Z",
       "archived": 0
     }
   }
