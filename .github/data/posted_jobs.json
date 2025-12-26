@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-26T15:49:28.408Z",
+  "lastUpdated": "2025-12-26T17:36:01.875Z",
   "jobs": [
     {
       "id": "lifeattiktok-com-search-7523144222812408071-2025-12-19-1",
@@ -5435,14 +5435,36 @@
       "sourceUrl": "https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job",
       "discordThreadId": "1454139045159370854",
       "instanceNumber": 1
+    },
+    {
+      "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-homeremote-office-location-research-is-business-systems-analyst_1021184-1-2025-12-26-1",
+      "jobId": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-homeremote-office-location-research-is-business-systems-analyst_1021184-1",
+      "company": "Children's Hospital of Philadelphia",
+      "title": "Research IS Business Systems Analyst",
+      "postedToDiscord": "2025-12-26T17:35:55.165Z",
+      "sourceDate": "2025-12-26T16:59:10.000Z",
+      "sourceUrl": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1",
+      "discordThreadId": "1454165833042628761",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gallup-jobs-4077186009-2025-12-26-1",
+      "jobId": "job-boards-greenhouse-io-gallup-jobs-4077186009",
+      "company": "Gallup",
+      "title": "Senior Backend Developer",
+      "postedToDiscord": "2025-12-26T17:36:01.875Z",
+      "sourceDate": "2025-12-26T16:43:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gallup/jobs/4077186009",
+      "discordThreadId": "1454165861685268572",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 494,
+    "totalJobs": 496,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-26T15:49:28.408Z",
+      "date": "2025-12-26T17:36:01.875Z",
       "archived": 0
     }
   }
