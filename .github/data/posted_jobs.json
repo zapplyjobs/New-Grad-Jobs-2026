@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-26T10:39:21.361Z",
+  "lastUpdated": "2025-12-26T15:49:28.408Z",
   "jobs": [
     {
       "id": "lifeattiktok-com-search-7523144222812408071-2025-12-19-1",
@@ -5424,14 +5424,25 @@
       "sourceUrl": "https://careers-seniorlifepa.icims.com/jobs/11348/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1454061001833058332",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-69871-junior-rust-embedded-software-engineer-28cleared-29-job-2025-12-26-1",
+      "jobId": "careers-gdms-icims-com-jobs-69871-junior-rust-embedded-software-engineer-28cleared-29-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior RUST Embedded Software Engineer (cleared)",
+      "postedToDiscord": "2025-12-26T15:49:28.408Z",
+      "sourceDate": "2025-12-26T15:47:04.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job",
+      "discordThreadId": "1454139045159370854",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 493,
+    "totalJobs": 494,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-26T10:39:21.361Z",
+      "date": "2025-12-26T15:49:28.408Z",
       "archived": 0
     }
   }
