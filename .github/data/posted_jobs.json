@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-27T01:53:01.535Z",
+  "lastUpdated": "2025-12-27T03:15:31.650Z",
   "jobs": [
     {
       "id": "lifeattiktok-com-search-7395709541860395315-2025-12-20-1",
@@ -4302,14 +4302,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/4918044007",
       "discordThreadId": "1454290934215999488",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-certik-20f8e282-fd1a-4f17-8dcf-358e2200c1cf-apply-2025-12-27-1",
+      "jobId": "jobs-lever-co-certik-20f8e282-fd1a-4f17-8dcf-358e2200c1cf-apply",
+      "company": "Certik",
+      "title": "Business Data Analyst",
+      "postedToDiscord": "2025-12-27T03:15:31.650Z",
+      "sourceDate": "2025-12-27T02:27:58.000Z",
+      "sourceUrl": "https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply",
+      "discordThreadId": "1454311696377319577",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 391,
+    "totalJobs": 392,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-27T01:53:01.535Z",
+      "date": "2025-12-27T03:15:31.650Z",
       "archived": 0
     }
   }
