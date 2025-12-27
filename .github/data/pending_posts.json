@@ -18,25 +18,5 @@
     "addedAt": "2025-12-18T18:55:59.591Z",
     "enrichedAt": "2025-12-20T23:25:13.917Z",
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer 1 - Backend",
-      "employer_name": "Fanatics",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "The Role The Fanatics Identity team builds and operates the authentication and single sign-on (SSO) platform that powers every Fanatics product experience. Our systems handle millions of logins, registrations, MFA challenges, and account updates—making our work foundational to the Fanatics ecosystem. Reliability, scalability, and security are at the core of everything we do. We’re looking for a Software Engineer I who is eager to learn, collaborate, and contribute to a high-impact engineering team focused on secure and seamless customer identity experiences. Our Tech Stack: Go (Golang), React, AWS, OAuth2/OIDC, Kubernetes, and other modern technologies. What You'll Do: - Develop, test, document, and deploy high quality software into production - Build small features and tools that you and your team use - Participate in the on-call rotation when needed to troubleshoot software issues - Participate in code reviews to maintain code quality and share knowledge - Contribute to t...",
-      "job_apply_link": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910",
-      "job_posted_at_datetime_utc": "2025-12-27T07:13:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-27T07:34:47.357Z",
-    "enrichedAt": "2025-12-27T07:34:47.948Z",
-    "postedAt": "2025-12-27T07:34:58.461Z"
   }
 ]
