@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-26T23:35:22.982Z",
+  "lastUpdated": "2025-12-27T00:09:17.900Z",
   "jobs": [
     {
       "id": "lifeattiktok-com-search-7395709541860395315-2025-12-20-1",
@@ -4280,16 +4280,26 @@
       "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application",
       "discordThreadId": "1454256294994247812",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-internetbrands-job-odnbzfwu-2025-12-27-1",
+      "jobId": "jobs-jobvite-com-internetbrands-job-odnbzfwu",
+      "company": "Internet Brands",
+      "title": "Associate AI Research & Operations Analyst",
+      "postedToDiscord": "2025-12-27T00:09:17.900Z",
+      "sourceDate": "2025-12-26T23:11:36.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/internetbrands/job/oDnbzfwu?nl=1&nl=1&fr=false",
+      "discordThreadId": "1454264830008754177",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 389,
+    "totalJobs": 390,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-26T23:35:22.982Z",
-      "archived": 108,
-      "monthsAffected": 1
+      "date": "2025-12-27T00:09:17.900Z",
+      "archived": 0
     }
   }
 }
