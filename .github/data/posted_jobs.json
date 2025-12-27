@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-27T07:34:55.448Z",
+  "lastUpdated": "2025-12-27T10:37:49.955Z",
   "jobs": [
     {
       "id": "lifeattiktok-com-search-7395709541860395315-2025-12-20-1",
@@ -4324,14 +4324,25 @@
       "sourceUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910",
       "discordThreadId": "1454376975886979072",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-eyesouthpartners-icims-com-jobs-8450-job-2025-12-27-1",
+      "jobId": "careers-eyesouthpartners-icims-com-jobs-8450-job",
+      "company": "EyeSouth Partners",
+      "title": "Ophthalmic Technician 1",
+      "postedToDiscord": "2025-12-27T10:37:49.954Z",
+      "sourceDate": "2025-09-11T22:06:20.000Z",
+      "sourceUrl": "https://careers-eyesouthpartners.icims.com/jobs/8450/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1454423006326558960",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 393,
+    "totalJobs": 394,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-27T07:34:55.448Z",
+      "date": "2025-12-27T10:37:49.955Z",
       "archived": 0
     }
   }
