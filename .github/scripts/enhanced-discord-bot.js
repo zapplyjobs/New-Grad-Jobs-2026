@@ -588,6 +588,9 @@ client.once('ready', async () => {
     { title: 'agentic ai teacher', company: 'amazon' } // All variations including "- Agi Ds"
   ];
 
+  // Track blacklisted job IDs so we can remove them from pending queue
+  const blacklistedJobIds = [];
+
   const filteredJobs = unpostedJobs.filter(job => {
     const jobId = generateJobId(job);
     const titleLower = (job.job_title || '').toLowerCase();
@@ -601,15 +604,37 @@ client.once('ready', async () => {
     if (isBlacklisted) {
       console.log(`🚫 Skipping blacklisted job: ${job.job_title} at ${job.employer_name}`);
       postLogger.logSkip(job, jobId, 'blacklisted');
+      blacklistedJobIds.push(jobId); // Track for queue cleanup
       return false;
     }
 
     return true;
   });
 
+  // Remove blacklisted jobs from pending queue immediately (FIX: prevent queue blocking)
+  if (blacklistedJobIds.length > 0) {
+    try {
+      let queue = loadPendingQueue();
+      const beforeCount = queue.length;
+      queue = queue.filter(item => {
+        const itemJobId = generateJobId(item.job);
+        return !blacklistedJobIds.includes(itemJobId);
+      });
+      const removedCount = beforeCount - queue.length;
+      if (removedCount > 0) {
+        savePendingQueue(queue);
+        console.log(`🗑️ Removed ${removedCount} blacklisted jobs from pending queue`);
+      }
+    } catch (error) {
+      console.error('⚠️ Error cleaning blacklisted jobs from queue:', error.message);
+    }
+  }
+
   console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${unpostedJobs.length - filteredJobs.length} blacklisted)`);
 
   // Data quality filter: Skip jobs with missing or empty required fields
+  const invalidJobIds = [];
+
   const validJobs = filteredJobs.filter(job => {
     const jobId = generateJobId(job);
     const title = (job.job_title || '').trim();
@@ -618,11 +643,31 @@ client.once('ready', async () => {
     if (!title || !company) {
       console.log(`⚠️ Skipping malformed job: title="${title}" company="${company}"`);
       postLogger.logSkip(job, jobId, 'invalid_data');
+      invalidJobIds.push(jobId); // Track for queue cleanup
       return false;
     }
 
     return true;
   });
+
+  // Remove invalid jobs from pending queue (FIX: prevent queue blocking)
+  if (invalidJobIds.length > 0) {
+    try {
+      let queue = loadPendingQueue();
+      const beforeCount = queue.length;
+      queue = queue.filter(item => {
+        const itemJobId = generateJobId(item.job);
+        return !invalidJobIds.includes(itemJobId);
+      });
+      const removedCount = beforeCount - queue.length;
+      if (removedCount > 0) {
+        savePendingQueue(queue);
+        console.log(`🗑️ Removed ${removedCount} invalid jobs from pending queue`);
+      }
+    } catch (error) {
+      console.error('⚠️ Error cleaning invalid jobs from queue:', error.message);
+    }
+  }
 
   console.log(`📋 After data quality filter: ${validJobs.length} jobs (${filteredJobs.length - validJobs.length} invalid)`);
 
