@@ -127,7 +127,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](${applyLink}) |\n`;
         });
         
         if (companyJobs.length > 50) {
@@ -167,7 +167,7 @@ function generateJobTable(jobs) {
               statusIndicator += " 🏠";
             }
 
-            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](${applyLink}) |\n`;
           });
         });
         
@@ -231,7 +231,7 @@ function generateJobTable(jobs) {
           statusIndicator += " 🏠";
         }
 
-        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](${applyLink}) |\n`;
       });
 
       if (companyJobs.length > 50) {
@@ -271,7 +271,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](${applyLink}) |\n`;
         });
       });
 
