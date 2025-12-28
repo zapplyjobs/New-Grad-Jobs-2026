@@ -27,6 +27,9 @@ const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/servic
 // Deduplication logger
 const DeduplicationLogger = require('../deduplication-logger');
 
+// Analytics archive for long-term data retention
+const { archiveJobs } = require('../src/data/analytics-archive');
+
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
@@ -763,6 +766,13 @@ async function processJobs() {
         });
 
         console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 1 week old), ${freshJobs.length} new (not seen AND not in queue)`);
+
+        // Archive ALL current jobs for analytics (separate from deduplication)
+        try {
+            archiveJobs(currentJobs);
+        } catch (archiveError) {
+            console.error('⚠️ Analytics archive failed (non-critical):', archiveError.message);
+        }
 
         // STEP 3: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
         // This prevents re-fetching them in next run, even if we don't process them all this run
