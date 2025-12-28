@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2025-12-28T20:49:37.015Z
+**Timestamp:** 2025-12-28T21:03:54.669Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 0
@@ -8,45 +8,45 @@
 - **Database Saved:** ❌ No
 ## Sanitized Log Output
 ```
-[2025-12-28T20:49:34.120Z] ========================================
-[2025-12-28T20:49:34.122Z] Discord Bot Execution Log
-[2025-12-28T20:49:34.122Z] Environment: GitHub Actions
-[2025-12-28T20:49:34.122Z] Node Version: v20.19.6
-[2025-12-28T20:49:34.123Z] ========================================
-[2025-12-28T20:49:34.123Z] Environment Variables Check:
-[2025-12-28T20:49:34.123Z] DISCORD_TOKEN: ✅ Set
-[2025-12-28T20:49:34.123Z] DISCORD_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.123Z] DISCORD_CLIENT_ID: ❌ Not set
-[2025-12-28T20:49:34.123Z] DISCORD_GUILD_ID: ❌ Not set
-[2025-12-28T20:49:34.123Z] 
+[2025-12-28T21:03:53.033Z] ========================================
+[2025-12-28T21:03:53.035Z] Discord Bot Execution Log
+[2025-12-28T21:03:53.035Z] Environment: GitHub Actions
+[2025-12-28T21:03:53.035Z] Node Version: v20.19.6
+[2025-12-28T21:03:53.035Z] ========================================
+[2025-12-28T21:03:53.035Z] Environment Variables Check:
+[2025-12-28T21:03:53.035Z] DISCORD_TOKEN: ✅ Set
+[2025-12-28T21:03:53.035Z] DISCORD_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.035Z] DISCORD_CLIENT_ID: ❌ Not set
+[2025-12-28T21:03:53.035Z] DISCORD_GUILD_ID: ❌ Not set
+[2025-12-28T21:03:53.036Z] 
 Multi-Channel Configuration:
-[2025-12-28T20:49:34.123Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.123Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.123Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.123Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.124Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.124Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.124Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.124Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.124Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2025-12-28T20:49:34.124Z] 
+[2025-12-28T21:03:53.036Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2025-12-28T21:03:53.036Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2025-12-28T20:49:34.124Z] 
+[2025-12-28T21:03:53.036Z] 
 Data Files Check:
-[2025-12-28T20:49:34.124Z] .github/data/new_jobs.json: ✅ Exists (0 items, 2 bytes)
-[2025-12-28T20:49:34.125Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 125641 bytes)
-[2025-12-28T20:49:34.125Z] 
+[2025-12-28T21:03:53.037Z] .github/data/new_jobs.json: ✅ Exists (0 items, 2 bytes)
+[2025-12-28T21:03:53.038Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 125641 bytes)
+[2025-12-28T21:03:53.038Z] 
 ========================================
-[2025-12-28T20:49:34.125Z] Starting Enhanced Discord Bot...
-[2025-12-28T20:49:34.125Z] ========================================
-[2025-12-28T20:49:34.645Z] [BOT] ✅ Loaded V2 database: 206 jobs
-[2025-12-28T20:49:35.795Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2025-12-28T20:49:35.795Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2025-12-28T21:03:53.038Z] Starting Enhanced Discord Bot...
+[2025-12-28T21:03:53.038Z] ========================================
+[2025-12-28T21:03:53.571Z] [BOT] ✅ Loaded V2 database: 206 jobs
+[2025-12-28T21:03:54.032Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2025-12-28T21:03:54.032Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply.jobs (CH_20db82b8)
-[2025-12-28T20:49:35.795Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2025-12-28T20:49:35.796Z] [BOT] ℹ️ No new jobs to post
-[2025-12-28T20:49:35.806Z] 
+ℹ️ No new jobs to post
+[2025-12-28T21:03:54.032Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2025-12-28T21:03:54.044Z] 
 ========================================
 ```
 ## Errors Detected
