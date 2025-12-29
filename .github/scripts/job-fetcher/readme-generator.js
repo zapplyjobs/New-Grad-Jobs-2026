@@ -127,7 +127,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](${applyLink}) |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src=".github/images/apply.png" width="100" alt="Apply button">](${applyLink}) |\n`;
         });
         
         if (companyJobs.length > 50) {
@@ -288,7 +288,7 @@ function generateInternshipSection(internshipData) {
   return `
 ---
 
-## SWE Internships 2026*
+## SWE Internships 2026
 
 <img src="images/ngj-internships.png" alt="Software engineering internships for 2026.">
 
@@ -300,7 +300,7 @@ ${internshipData.companyPrograms
   .map((program) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} | [Apply](${program.url}) | ${program.deadline} |`;
+    return `| ${emoji} **${program.company}** | ${program.program} | [<img src=".github/images/apply.png" width="100" alt="Apply button">](${program.url}) | ${program.deadline} |`;
   })
   .join("\n")}
 
@@ -311,7 +311,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
+      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src=".github/images/ngj-visit.png" width="100" alt="Visit button">](${source.url}) |`
   )
   .join("\n")}
 
