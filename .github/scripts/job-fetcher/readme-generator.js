@@ -112,11 +112,16 @@ function generateJobTable(jobs) {
         
         companyJobs.forEach((job) => {
           const role = job.job_title;
-          const location = formatLocation(job.job_city, job.job_state);
+          const location = formatLocation(job.job_city, job.job_state).substring(0, 15);
           const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
           const level = getExperienceLevel(job.job_title, job.job_description);
           const category = getJobCategory(job.job_title, job.job_description);
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
+          // Shorten level
+          const levelShort = level.replace("-Level", "").replace("Entry", "🟢").replace("Mid", "🟡").replace("Senior", "🔴");
+          // Shorten category
+          const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
@@ -127,7 +132,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src="images/apply.png" width="100" alt="Apply button">](${applyLink}) |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply button">](${applyLink}) |\n`;
         });
         
         if (companyJobs.length > 50) {
@@ -615,8 +620,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 - The README updates automatically via script.
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
-
-${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : "No archived jobs available."}
 
 ---
 
