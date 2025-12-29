@@ -469,7 +469,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
 > [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View contributing steps here.
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING.md) here.
 
 ---
 
