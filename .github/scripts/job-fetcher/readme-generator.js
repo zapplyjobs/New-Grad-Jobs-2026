@@ -111,8 +111,8 @@ function generateJobTable(jobs) {
         output += `|------|----------|--------|-------|----------|-------|\n`;
         
         companyJobs.forEach((job) => {
-          const role = job.job_title;
-          const location = formatLocation(job.job_city, job.job_state).substring(0, 15);
+          const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
+          const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
           const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
           const level = getExperienceLevel(job.job_title, job.job_description);
           const category = getJobCategory(job.job_title, job.job_description);
@@ -125,7 +125,16 @@ function generateJobTable(jobs) {
             "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
           }[level] || level;
           // Shorten category
-          const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
+          const categoryShort = category
+            .replace("Machine Learning & AI", "ML/AI")
+            .replace("DevOps & Infrastructure", "DevOps")
+            .replace("Data Science & Analytics", "Data")
+            .replace("Software Engineering", "Software")
+            .replace("Full Stack Development", "Full Stack")
+            .replace("Frontend Development", "Frontend")
+            .replace("Backend Development", "Backend")
+            .replace(" Development", "")
+            .replace(" Engineering", "");
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
@@ -160,8 +169,8 @@ function generateJobTable(jobs) {
           const emoji = getCompanyEmoji(companyName);
           
           companyJobs.forEach((job) => {
-            const role = job.job_title;
-            const location = formatLocation(job.job_city, job.job_state);
+            const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
+            const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
             const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
             const level = getExperienceLevel(job.job_title, job.job_description);
             const category = getJobCategory(job.job_title, job.job_description);
@@ -173,7 +182,16 @@ function generateJobTable(jobs) {
               "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
               "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
             }[level] || level;
-            const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
+            const categoryShort = category
+              .replace("Machine Learning & AI", "ML/AI")
+              .replace("DevOps & Infrastructure", "DevOps")
+              .replace("Data Science & Analytics", "Data")
+              .replace("Software Engineering", "Software")
+              .replace("Full Stack Development", "Full Stack")
+              .replace("Frontend Development", "Frontend")
+              .replace("Backend Development", "Backend")
+              .replace(" Development", "")
+              .replace(" Engineering", "");
 
             let statusIndicator = "";
             const description = (job.job_description || "").toLowerCase();
@@ -232,8 +250,8 @@ function generateJobTable(jobs) {
       output += `|------|----------|--------|-------|----------|-------|\n`;
 
       companyJobs.forEach((job) => {
-        const role = job.job_title;
-        const location = formatLocation(job.job_city, job.job_state);
+        const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
+        const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
         const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
         const level = getExperienceLevel(job.job_title, job.job_description);
         const category = getJobCategory(job.job_title, job.job_description);
@@ -244,7 +262,16 @@ function generateJobTable(jobs) {
           "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
           "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
         }[level] || level;
-        const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
+        const categoryShort = category
+          .replace("Machine Learning & AI", "ML/AI")
+          .replace("DevOps & Infrastructure", "DevOps")
+          .replace("Data Science & Analytics", "Data")
+          .replace("Software Engineering", "Software")
+          .replace("Full Stack Development", "Full Stack")
+          .replace("Frontend Development", "Frontend")
+          .replace("Backend Development", "Backend")
+          .replace(" Development", "")
+          .replace(" Engineering", "");
 
         let statusIndicator = "";
         const description = (job.job_description || "").toLowerCase();
@@ -279,8 +306,8 @@ function generateJobTable(jobs) {
         const emoji = getCompanyEmoji(companyName);
 
         companyJobs.forEach((job) => {
-          const role = job.job_title;
-          const location = formatLocation(job.job_city, job.job_state);
+          const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
+          const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
           const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
           const level = getExperienceLevel(job.job_title, job.job_description);
           const category = getJobCategory(job.job_title, job.job_description);
@@ -291,7 +318,16 @@ function generateJobTable(jobs) {
             "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
             "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
           }[level] || level;
-          const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
+          const categoryShort = category
+            .replace("Machine Learning & AI", "ML/AI")
+            .replace("DevOps & Infrastructure", "DevOps")
+            .replace("Data Science & Analytics", "Data")
+            .replace("Software Engineering", "Software")
+            .replace("Full Stack Development", "Full Stack")
+            .replace("Frontend Development", "Frontend")
+            .replace("Backend Development", "Backend")
+            .replace(" Development", "")
+            .replace(" Engineering", "");
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
