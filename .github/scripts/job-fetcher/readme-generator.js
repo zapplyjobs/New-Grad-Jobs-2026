@@ -120,9 +120,10 @@ function generateJobTable(jobs) {
 
           // Shorten level
           const levelShort = {
-            "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
-            "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
-            "Senior": '<abbr title="Senior-Level">🔴</abbr>'
+            "Entry-Level": '![Entry-Level](https://img.shields.io/badge/-Entry--Level-brightgreen "Entry-Level")',
+            "Mid-Level": '![Mid-Level](https://img.shields.io/badge/-Mid--Level-yellow "Mid-Level")',
+            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+          }[level] || level;
           }[level] || level;
           // Shorten category
           const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
@@ -169,9 +170,9 @@ function generateJobTable(jobs) {
 
           // ADD THESE TWO LINES:
             const levelShort = {
-              "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
-              "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
-              "Senior": '<abbr title="Senior-Level">🔴</abbr>'
+              "Entry-Level": '![Entry-Level](https://img.shields.io/badge/-Entry--Level-brightgreen "Entry-Level")',
+              "Mid-Level": '![Mid-Level](https://img.shields.io/badge/-Mid--Level-yellow "Mid-Level")',
+              "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
             }[level] || level;
             const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
 
@@ -239,12 +240,12 @@ function generateJobTable(jobs) {
         const category = getJobCategory(job.job_title, job.job_description);
         const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
-      const levelShort = {
-        "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
-        "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
-        "Senior": '<abbr title="Senior-Level">🔴</abbr>'
-      }[level] || level;
-      const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
+        const levelShort = {
+          "Entry-Level": '![Entry-Level](https://img.shields.io/badge/-Entry--Level-brightgreen "Entry-Level")',
+          "Mid-Level": '![Mid-Level](https://img.shields.io/badge/-Mid--Level-yellow "Mid-Level")',
+          "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+        }[level] || level;
+        const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
 
         let statusIndicator = "";
         const description = (job.job_description || "").toLowerCase();
@@ -287,9 +288,9 @@ function generateJobTable(jobs) {
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
           const levelShort = {
-            "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
-            "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
-            "Senior": '<abbr title="Senior-Level">🔴</abbr>'
+            "Entry-Level": '![Entry-Level](https://img.shields.io/badge/-Entry--Level-brightgreen "Entry-Level")',
+            "Mid-Level": '![Mid-Level](https://img.shields.io/badge/-Mid--Level-yellow "Mid-Level")',
+            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
           }[level] || level;
           const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
 
