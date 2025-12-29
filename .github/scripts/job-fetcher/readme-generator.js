@@ -119,7 +119,11 @@ function generateJobTable(jobs) {
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
           // Shorten level
-          const levelShort = level.replace("-Level", "").replace("Entry", "🟢").replace("Mid", "🟡").replace("Senior", "🔴");
+          const levelShort = {
+            "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
+            "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
+            "Senior": '<abbr title="Senior-Level">🔴</abbr>'
+          }[level] || level;
           // Shorten category
           const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
 
@@ -172,7 +176,7 @@ function generateJobTable(jobs) {
               statusIndicator += " 🏠";
             }
 
-            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
+            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
           });
         });
         
@@ -236,7 +240,7 @@ function generateJobTable(jobs) {
           statusIndicator += " 🏠";
         }
 
-        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
+        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
       });
 
       if (companyJobs.length > 50) {
@@ -276,7 +280,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
+          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
         });
       });
 
