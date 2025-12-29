@@ -145,7 +145,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply button">](${applyLink}) |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply button">](${applyLink}) |\n`;
         });
         
         if (companyJobs.length > 50) {
@@ -202,7 +202,7 @@ function generateJobTable(jobs) {
               statusIndicator += " 🏠";
             }
 
-            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
+            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
           });
         });
         
@@ -282,7 +282,7 @@ function generateJobTable(jobs) {
           statusIndicator += " 🏠";
         }
 
-        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
+        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
       });
 
       if (companyJobs.length > 50) {
@@ -338,7 +338,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="100" alt="Apply">](${applyLink}) |\n`;
+          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
         });
       });
 
