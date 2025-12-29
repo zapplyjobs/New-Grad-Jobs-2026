@@ -167,6 +167,14 @@ function generateJobTable(jobs) {
             const category = getJobCategory(job.job_title, job.job_description);
             const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
+          // ADD THESE TWO LINES:
+            const levelShort = {
+              "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
+              "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
+              "Senior": '<abbr title="Senior-Level">🔴</abbr>'
+            }[level] || level;
+            const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
+
             let statusIndicator = "";
             const description = (job.job_description || "").toLowerCase();
             if (description.includes("no sponsorship") || description.includes("us citizen")) {
@@ -231,6 +239,13 @@ function generateJobTable(jobs) {
         const category = getJobCategory(job.job_title, job.job_description);
         const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
+      const levelShort = {
+        "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
+        "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
+        "Senior": '<abbr title="Senior-Level">🔴</abbr>'
+      }[level] || level;
+      const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
+
         let statusIndicator = "";
         const description = (job.job_description || "").toLowerCase();
         if (description.includes("no sponsorship") || description.includes("us citizen")) {
@@ -270,6 +285,13 @@ function generateJobTable(jobs) {
           const level = getExperienceLevel(job.job_title, job.job_description);
           const category = getJobCategory(job.job_title, job.job_description);
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
+          const levelShort = {
+            "Entry-Level": '<abbr title="Entry-Level">🟢</abbr>',
+            "Mid-Level": '<abbr title="Mid-Level">🟡</abbr>',
+            "Senior": '<abbr title="Senior-Level">🔴</abbr>'
+          }[level] || level;
+          const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
