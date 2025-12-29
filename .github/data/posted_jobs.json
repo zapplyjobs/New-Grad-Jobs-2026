@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-29T18:44:14.840Z",
+  "lastUpdated": "2025-12-29T19:03:47.878Z",
   "jobs": [
-    {
-      "id": "assaabloy-jobs2web-com-job-mason-city-product-engineer-ia-50401-1278600401-2025-12-22-1",
-      "jobId": "assaabloy-jobs2web-com-job-mason-city-product-engineer-ia-50401-1278600401",
-      "company": "ASSA ABLOY",
-      "title": "Product Engineer",
-      "postedToDiscord": "2025-12-22T18:44:25.304Z",
-      "sourceDate": "2025-12-22T16:08:55.000Z",
-      "sourceUrl": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-IA-50401/1278600401/?ats=successfactors",
-      "discordThreadId": "1452733520693825683",
-      "instanceNumber": 1
-    },
     {
       "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10217787-2025-12-22-1",
       "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10217787",
@@ -903,14 +892,36 @@
       "sourceUrl": "https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1455270191528284234",
       "instanceNumber": 1
+    },
+    {
+      "id": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-post-doc-advanced-computational-methods-simulation_r5021476-1-2025-12-29-1",
+      "jobId": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-post-doc-advanced-computational-methods-simulation_r5021476-1",
+      "company": "GE Vernova",
+      "title": "Post Doc – Advanced Computational Methods & Simulation",
+      "postedToDiscord": "2025-12-29T19:03:41.524Z",
+      "sourceDate": "2025-12-29T17:45:16.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Post-Doc---Advanced-Computational-Methods---Simulation_R5021476-1",
+      "discordThreadId": "1455275084779360376",
+      "instanceNumber": 1
+    },
+    {
+      "id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-apps-dev-intmd-programmer-analyst-officer_25926282-2025-12-29-1",
+      "jobId": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-apps-dev-intmd-programmer-analyst-officer_25926282",
+      "company": "Citi",
+      "title": "Applications Development Intermediate Programmer Analyst",
+      "postedToDiscord": "2025-12-29T19:03:47.878Z",
+      "sourceDate": "2025-12-29T17:44:14.000Z",
+      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282",
+      "discordThreadId": "1455275112604500001",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 82,
+    "totalJobs": 83,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-29T18:44:14.840Z",
+      "date": "2025-12-29T19:03:47.878Z",
       "archived": 0
     }
   }
