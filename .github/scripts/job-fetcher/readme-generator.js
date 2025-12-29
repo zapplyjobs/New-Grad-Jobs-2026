@@ -124,7 +124,6 @@ function generateJobTable(jobs) {
             "Mid-Level": '![Mid-Level](https://img.shields.io/badge/-Mid--Level-yellow "Mid-Level")',
             "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
           }[level] || level;
-          }[level] || level;
           // Shorten category
           const categoryShort = category.replace(" Engineering", "").replace(" & Analytics", "").replace("Development", "Dev");
 
