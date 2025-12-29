@@ -294,13 +294,13 @@ function generateInternshipSection(internshipData) {
 
 ### 🏢 **FAANG+ Internship Programs**
 
-| Company | Program | Application Link | Status |
-|---------|---------|------------------|--------|
+| Company | Program | Application Link |
+|---------|---------|------------------|
 ${internshipData.companyPrograms
   .map((program) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} | [<img src="images/apply.png" width="75" alt="Apply button">](${program.url}) | ${program.deadline} |`;
+    return `| ${emoji} **${program.company}** | ${program.program} | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](${program.url})</p> |`;
   })
   .join("\n")}
 
