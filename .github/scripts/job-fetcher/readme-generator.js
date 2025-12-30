@@ -608,7 +608,7 @@ ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [
 ---
 
 ## 🌍 Top Locations
-${stats ? Object.entries(currentStats.byLocation)
+${Object.entries(currentStats.byLocation)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8)
   .map(([location, count]) => `- **${location}**: ${count} positions`)
@@ -617,7 +617,7 @@ ${stats ? Object.entries(currentStats.byLocation)
 ---
 
 ## 🔍 Filter by Role Category
-${stats ? Object.entries(currentStats.byCategory)
+${Object.entries(currentStats.byCategory)
   .sort((a, b) => b[1] - a[1])
   .map(([category, count]) => {
     const icon = {
@@ -648,7 +648,7 @@ ${topCompanies
   })
   .join(" • ")}`;
   })
-  .join("\n\n") : ""}
+  .join("\n\n")}
 
 ---
 
