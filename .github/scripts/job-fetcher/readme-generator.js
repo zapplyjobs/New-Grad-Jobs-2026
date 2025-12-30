@@ -588,14 +588,7 @@ ${Object.entries(
 )
   .sort((a, b) => b[1] - a[1])
   .slice(0, 15)
-.map(([company, count]) => {
-  const companyObj = ALL_COMPANIES.find((c) => c.name.toLowerCase() === company.toLowerCase() || company.toLowerCase().includes(c.name.toLowerCase()));
-  if (companyObj) {
-    return `- ${companyObj.emoji} [${company}](${companyObj.career_url}): ${count} positions`;
-  }
-  const searchUrl = 'https://www.google.com/search?q=' + encodeURIComponent(company + ' careers');
-  return '- 🏢 [' + company + '](' + searchUrl + '): ' + count + ' positions';
-})
+  .map(([company, count]) => `- **${company}**: ${count} ${count === 1 ? 'position' : 'positions'}`)
   .join("\n")}
 
 ---
