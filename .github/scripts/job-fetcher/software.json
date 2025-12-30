@@ -1,11 +1,11 @@
 {
   "faang_plus": {
-    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple", "ByteDance", "Netflix", "Tencent"],
+    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple", "Netflix"],
     "emoji": "🏢",
     "title": "FAANG+"
   },
   "top_tech": {
-    "companies": ["MARVELL", "SYNOPSYS", "NVIDIA", "INTEL", "AMD", "Salesforce", "ADOBE", "Oracle", "IBM", "Qualcomm", "VMware", "Databricks", "Snowflake", "Palo Alto Networks", "Tesla", "Cadence Design Systems", "Qualtrics", "Expedia", "Bloomberg", "SingleStore", "Celonis", "Esri", "Perforce", "Sprout Social"],
+    "companies": ["ByteDance", "Tencent", "MARVELL", "SYNOPSYS", "NVIDIA", "INTEL", "AMD", "Salesforce", "ADOBE", "Oracle", "IBM", "Qualcomm", "VMware", "Databricks", "Snowflake", "Palo Alto Networks", "Tesla", "Cadence Design Systems", "Qualtrics", "Expedia", "Bloomberg", "SingleStore", "Celonis", "Esri", "Perforce", "Sprout Social"],
     "emoji": "🏢",
     "title": "Top Tech"
   },
@@ -49,4 +49,4 @@
     "emoji": "📊",
     "title": "Analytics & EdTech"
   }
-} 
+}

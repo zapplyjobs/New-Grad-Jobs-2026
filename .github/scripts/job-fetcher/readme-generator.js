@@ -472,7 +472,10 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
   const totalCompanies = Object.keys(currentStats.totalByCompany).length;
   const faangJobs = currentJobs.filter((job) =>
-    companies.faang_plus.some((c) => c.name === job.employer_name)
+    companyCategory.faang_plus?.companies?.some(name => 
+      job.employer_name.toLowerCase().includes(name.toLowerCase()) || 
+      name.toLowerCase().includes(job.employer_name.toLowerCase())
+    )
   ).length;
 
   return `<div align="center">
@@ -551,7 +554,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 - **🔥 Current Positions**: ${currentJobs.length}
-- **🏢 Companies**: ${Object.keys(stats?.totalByCompany || currentStats.totalByCompany).length} companies${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
+- **🏢 Companies**: ${totalCompanies} companies
+${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
 - **📅 Last Updated**: ${currentDate}
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
