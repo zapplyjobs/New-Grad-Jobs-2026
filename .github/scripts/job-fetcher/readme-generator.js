@@ -440,7 +440,33 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     day: "numeric",
   });
 
-  const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
+  // Calculate stats from currentJobs only (not archived)
+  const currentStats = {
+    byLevel: {},
+    byLocation: {},
+    byCategory: {},
+    totalByCompany: {}
+  };
+
+  currentJobs.forEach(job => {
+    // Count by level
+    const level = getExperienceLevel(job.job_title, job.job_description);
+    currentStats.byLevel[level] = (currentStats.byLevel[level] || 0) + 1;
+
+    // Count by location
+    const location = formatLocation(job.job_city, job.job_state);
+    currentStats.byLocation[location] = (currentStats.byLocation[location] || 0) + 1;
+
+    // Count by category
+    const category = getJobCategory(job.job_title, job.job_description);
+    currentStats.byCategory[category] = (currentStats.byCategory[category] || 0) + 1;
+
+    // Count by company
+    const company = job.employer_name;
+    currentStats.totalByCompany[company] = (currentStats.totalByCompany[company] || 0) + 1;
+  });
+
+  const totalCompanies = Object.keys(currentStats.totalByCompany).length;
   const faangJobs = currentJobs.filter((job) =>
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
@@ -456,7 +482,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length + 47}-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-${faangJobs}-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -571,23 +597,23 @@ ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | ${stats?.byLevel["Entry-Level"] || 0} | ${stats ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100) : 0}% | No or minimal experience |
-| 🟡 Beginner & Early Career | ${stats?.byLevel["Mid-Level"] || 0} | ${stats ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100) : 0}% | 1-2 years of experience |
-| 🔴 Manager         | ${stats?.byLevel["Senior"] || 0} | ${stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 0}% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | ${currentStats.byLevel["Entry-Level"] || 0} | ${currentJobs.length ? Math.round(((currentStats.byLevel["Entry-Level"] || 0) / currentJobs.length) * 100) : 0}% | No or minimal experience |
+| 🟡 Beginner & Early Career | ${currentStats.byLevel["Mid-Level"] || 0} | ${currentJobs.length ? Math.round(((currentStats.byLevel["Mid-Level"] || 0) / currentJobs.length) * 100) : 0}% | 1-2 years of experience |
+| 🔴 Manager         | ${currentStats.byLevel["Senior"] || 0} | ${currentJobs.length ? Math.round(((currentStats.byLevel["Senior"] || 0) / currentJobs.length) * 100) : 0}% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-${stats ? Object.entries(stats.byLocation)
+${stats ? Object.entries(currentStats.byLocation)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8)
   .map(([location, count]) => `- **${location}**: ${count} positions`)
-  .join("\n") : ""}
+  .join("\n")}
 
 ---
 
 ## 🔍 Filter by Role Category
-${stats ? Object.entries(stats.byCategory)
+${stats ? Object.entries(currentStats.byCategory)
   .sort((a, b) => b[1] - a[1])
   .map(([category, count]) => {
     const icon = {
