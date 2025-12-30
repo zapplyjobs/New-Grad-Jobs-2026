@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T00:43:12.242Z",
+  "lastUpdated": "2025-12-30T01:53:25.447Z",
   "jobs": [
-    {
-      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-full-stack-entry-mid_r2116871-2025-12-23-1",
-      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-full-stack-entry-mid_r2116871",
-      "company": "KBR",
-      "title": "Software Engineer - Full Stack Entry - Mid",
-      "postedToDiscord": "2025-12-23T01:11:03.454Z",
-      "sourceDate": "2025-12-23T00:57:55.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871",
-      "discordThreadId": "1452830820908793857",
-      "instanceNumber": 1
-    },
     {
       "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-xmlname-usa-staff-data-scientist_r-2331754-2025-12-23-1",
       "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-xmlname-usa-staff-data-scientist_r-2331754",
@@ -826,6 +815,17 @@
       "sourceUrl": "https://job-boards.greenhouse.io/careaccess/jobs/4052147009",
       "discordThreadId": "1455360526787023038",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-patterndata-jobs-5012589007-2025-12-30-1",
+      "jobId": "job-boards-greenhouse-io-patterndata-jobs-5012589007",
+      "company": "Pattern Data",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2025-12-30T01:53:25.447Z",
+      "sourceDate": "2025-12-30T01:09:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
+      "discordThreadId": "1455378197989425278",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -833,7 +833,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-30T00:43:12.242Z",
+      "date": "2025-12-30T01:53:25.447Z",
       "archived": 1,
       "monthsAffected": 1
     }
