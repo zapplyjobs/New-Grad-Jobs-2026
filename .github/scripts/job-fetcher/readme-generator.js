@@ -746,5 +746,5 @@ module.exports = {
   generateArchivedSection,
   generateReadme,
   updateReadme,
-  filterJobsByAge,  // Add this
+  filterJobsByAge, 
 };
