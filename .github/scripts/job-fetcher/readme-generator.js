@@ -580,20 +580,50 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 Top Companies
 
-#### 🌟 FAANG+ (${companies.faang_plus.length} companies)
-${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### 🌟 FAANG+
+${companies.faang_plus
+  .map((c) => {
+    const count = currentJobs.filter(job => job.employer_name === c.name).length;
+    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
+  })
+  .filter(Boolean)
+  .join(" • ") || "*No current openings*"}
 
-#### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
-${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### 🦄 Unicorn Startups
+${companies.unicorn_startups
+  .map((c) => {
+    const count = currentJobs.filter(job => job.employer_name === c.name).length;
+    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
+  })
+  .filter(Boolean)
+  .join(" • ") || "*No current openings*"}
 
-#### 💰 Fintech Leaders (${companies.fintech.length} companies)
-${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### 💰 Fintech Leaders
+${companies.fintech
+  .map((c) => {
+    const count = currentJobs.filter(job => job.employer_name === c.name).length;
+    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
+  })
+  .filter(Boolean)
+  .join(" • ") || "*No current openings*"}
 
-#### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
-${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### 🎮 Gaming & Entertainment
+${[...companies.gaming, ...companies.media_entertainment]
+  .map((c) => {
+    const count = currentJobs.filter(job => job.employer_name === c.name).length;
+    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
+  })
+  .filter(Boolean)
+  .join(" • ") || "*No current openings*"}
 
-#### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
-${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### ☁️ Enterprise & Cloud
+${[...companies.top_tech, ...companies.enterprise_saas]
+  .map((c) => {
+    const count = currentJobs.filter(job => job.employer_name === c.name).length;
+    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
+  })
+  .filter(Boolean)
+  .join(" • ") || "*No current openings*"}
 
 ---
 
