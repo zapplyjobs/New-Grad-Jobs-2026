@@ -551,7 +551,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 - **🔥 Current Positions**: ${currentJobs.length}
-- **🏢 Companies**: ${totalCompanies} companies${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
+- **🏢 Companies**: ${Object.keys(stats?.totalByCompany || currentStats.totalByCompany).length} companies${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
 - **📅 Last Updated**: ${currentDate}
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -590,10 +590,6 @@ ${Object.entries(
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-## 📈 Experience Breakdown
-
-| Level               | Count | Percentage | Top Companies                     |
-|---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | ${currentStats.byLevel["Entry-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Entry-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | No or minimal experience |
 | 🟡 Beginner & Early Career | ${currentStats.byLevel["Mid-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Mid-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | 1-2 years of experience |
 | 🔴 Manager | ${currentStats.byLevel["Senior"] || 0} | ${totalCurrentJobs ? (100 - Math.round(((currentStats.byLevel["Entry-Level"] || 0) / totalCurrentJobs) * 100) - Math.round(((currentStats.byLevel["Mid-Level"] || 0) / totalCurrentJobs) * 100)) : 0}% | 2+ years of experience |
@@ -611,7 +607,7 @@ ${Object.entries(currentStats.byLocation)
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: ${currentJobs.length} verified roles for Software Engineering roles from 250 companies.
+✅ **100% Real Jobs**: ${currentJobs.length} verified roles for Software Engineering roles from ${totalCompanies} companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -692,7 +688,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 ${currentJobs.length} current opportunities from 261 companies**
+**🎯 ${currentJobs.length} current opportunities from ${totalCompanies} companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
