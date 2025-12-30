@@ -568,8 +568,6 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ${generateJobTable(currentJobs)}
 
-${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
-
 ---
 
 ## Insights on the Repo
@@ -688,6 +686,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 - The README updates automatically via script.
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
+
+${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
 
 ---
 
