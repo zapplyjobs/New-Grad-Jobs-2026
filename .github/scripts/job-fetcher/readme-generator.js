@@ -512,7 +512,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length} fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies} companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length} fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -590,9 +590,13 @@ ${Object.entries(
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
+## 📈 Experience Breakdown
+
+| Level               | Count | Percentage | Top Companies                     |
+|---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | ${currentStats.byLevel["Entry-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Entry-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | No or minimal experience |
 | 🟡 Beginner & Early Career | ${currentStats.byLevel["Mid-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Mid-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | 1-2 years of experience |
-| 🔴 Manager | ${currentStats.byLevel["Senior"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Senior"] || 0) / totalCurrentJobs) * 100) : 0}% | 2+ years of experience |
+| 🔴 Manager | ${currentStats.byLevel["Senior"] || 0} | ${totalCurrentJobs ? (100 - Math.round(((currentStats.byLevel["Entry-Level"] || 0) / totalCurrentJobs) * 100) - Math.round(((currentStats.byLevel["Mid-Level"] || 0) / totalCurrentJobs) * 100)) : 0}% | 2+ years of experience |
 
 ---
 
