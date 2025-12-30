@@ -1,161 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T00:09:16.767Z",
+  "lastUpdated": "2025-12-30T00:43:12.242Z",
   "jobs": [
-    {
-      "id": "comcast-wd5-myworkdayjobs-com-comcast_careers-job-pa-philadelphia-1701-john-f-kennedy-blvd-engineer-data-analytics_r427045-1-2025-12-23-1",
-      "jobId": "comcast-wd5-myworkdayjobs-com-comcast_careers-job-pa-philadelphia-1701-john-f-kennedy-blvd-engineer-data-analytics_r427045-1",
-      "company": "Comcast",
-      "title": "Engineer Data & Analytics",
-      "postedToDiscord": "2025-12-23T00:09:18.520Z",
-      "sourceDate": "2025-12-22T23:54:12.000Z",
-      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer--Data---Analytics_R427045-1",
-      "discordThreadId": "1452815282094473357",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-pagerduty-jobs-5722204004-2025-12-23-1",
-      "jobId": "job-boards-greenhouse-io-pagerduty-jobs-5722204004",
-      "company": "PagerDuty",
-      "title": "Software Engineer 1 - Product Development",
-      "postedToDiscord": "2025-12-23T00:09:21.832Z",
-      "sourceDate": "2025-12-22T23:40:56.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/pagerduty/jobs/5722204004",
-      "discordThreadId": "1452815296149585990",
-      "instanceNumber": 1
-    },
-    {
-      "id": "csiweb-wd1-myworkdayjobs-com-csi_careers-job-remote-usa-software-engineer_r-100400-2025-12-23-1",
-      "jobId": "csiweb-wd1-myworkdayjobs-com-csi_careers-job-remote-usa-software-engineer_r-100400",
-      "company": "Computer Services",
-      "title": "Software Engineer",
-      "postedToDiscord": "2025-12-23T00:09:28.471Z",
-      "sourceDate": "2025-12-22T23:43:55.000Z",
-      "sourceUrl": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Software-Engineer_R-100400",
-      "discordThreadId": "1452815323056308377",
-      "instanceNumber": 1
-    },
-    {
-      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760-2025-12-23-1",
-      "jobId": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760",
-      "company": "2020 Companies",
-      "title": "Android Sales Expert",
-      "postedToDiscord": "2025-12-23T00:09:32.064Z",
-      "sourceDate": "2025-12-22T23:37:07.000Z",
-      "sourceUrl": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760",
-      "discordThreadId": "1452815338222911601",
-      "instanceNumber": 1
-    },
-    {
-      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1-2025-12-23-1",
-      "jobId": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1",
-      "company": "2020 Companies",
-      "title": "Android Sales Expert",
-      "postedToDiscord": "2025-12-23T00:09:32.074Z",
-      "sourceDate": "2025-12-22T23:37:03.000Z",
-      "sourceUrl": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Alameda-CA/Android-Sales-Expert_REQ_096762-1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003734-2025-12-23-1",
-      "jobId": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003734",
-      "company": "Perficient",
-      "title": "Appian Associate Technical Consultant",
-      "postedToDiscord": "2025-12-23T00:09:35.614Z",
-      "sourceDate": "2025-12-22T23:12:07.000Z",
-      "sourceUrl": "https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003734",
-      "discordThreadId": "1452815353364086944",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lmu-wd1-myworkdayjobs-com-careers-job-westchester-campus-assistant-professor-of-mathematics-statistics-and-data-science_r11535-2025-12-23-1",
-      "jobId": "lmu-wd1-myworkdayjobs-com-careers-job-westchester-campus-assistant-professor-of-mathematics-statistics-and-data-science_r11535",
-      "company": "Loyola Marymount University",
-      "title": "Assistant Professor of Mathematics - Statistics and Data Science",
-      "postedToDiscord": "2025-12-23T00:09:40.351Z",
-      "sourceDate": "2025-10-06T21:16:04.000Z",
-      "sourceUrl": "https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Assistant-Professor-of-Mathematics--Statistics-and-Data-Science_R11535",
-      "discordThreadId": "1452815380379861219",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-l3harris-com-job-cincinnati-associate-business-intelligence-analyst-cincinnati-oh-oh-45245-1351636300-2025-12-23-1",
-      "jobId": "jobs-l3harris-com-job-cincinnati-associate-business-intelligence-analyst-cincinnati-oh-oh-45245-1351636300",
-      "company": "L3Harris Technologies",
-      "title": "Associate – Business Intelligence Analyst - Cincinnati - OH",
-      "postedToDiscord": "2025-12-23T00:42:44.346Z",
-      "sourceDate": "2025-12-22T23:32:04.000Z",
-      "sourceUrl": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Business-Intelligence-Analyst-(Cincinnati,-OH)-OH-45245/1351636300/?ats=successfactors",
-      "discordThreadId": "1452823691544236104",
-      "instanceNumber": 1
-    },
-    {
-      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-data-analyst-i-healthcare-analytics_1624336-2025-12-23-1",
-      "jobId": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-data-analyst-i-healthcare-analytics_1624336",
-      "company": "Centene",
-      "title": "Data Analyst 1 Healthcare Analytics",
-      "postedToDiscord": "2025-12-23T00:42:46.254Z",
-      "sourceDate": "2025-12-22T23:29:44.000Z",
-      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-I-Healthcare-Analytics_1624336",
-      "discordThreadId": "1452823709231480969",
-      "instanceNumber": 1
-    },
-    {
-      "id": "barnard-wd1-myworkdayjobs-com-staff-job-new-york-city-ny-data-analyst-graduate-assistant-neuroscience-and-behavior-_jr5303-1-2025-12-23-1",
-      "jobId": "barnard-wd1-myworkdayjobs-com-staff-job-new-york-city-ny-data-analyst-graduate-assistant-neuroscience-and-behavior-_jr5303-1",
-      "company": "Barnard College",
-      "title": "Data Analyst Graduate Assistant - Neuroscience and Behavior",
-      "postedToDiscord": "2025-12-23T00:42:49.843Z",
-      "sourceDate": "2025-12-22T23:28:41.000Z",
-      "sourceUrl": "https://barnard.wd1.myworkdayjobs.com/Staff/job/New-York-City-NY/Data-Analyst-Graduate-Assistant--Neuroscience-and-Behavior-_JR5303-1",
-      "discordThreadId": "1452823717469098095",
-      "instanceNumber": 1
-    },
-    {
-      "id": "disney-wd5-myworkdayjobs-com-disneycareer-job-new-york-ny-usa-associate-data-scientist_10138200-2025-12-23-1",
-      "jobId": "disney-wd5-myworkdayjobs-com-disneycareer-job-new-york-ny-usa-associate-data-scientist_10138200",
-      "company": "The Walt Disney Company",
-      "title": "Associate Data Scientist",
-      "postedToDiscord": "2025-12-23T00:42:56.388Z",
-      "sourceDate": "2025-12-22T23:30:46.000Z",
-      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Associate-Data-Scientist_10138200",
-      "discordThreadId": "1452823745038389358",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-temporary-data-engineer-with-apache-airflow-20-and-30-experience-temporary-employment-services_2024012-2025-12-23-1",
-      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-temporary-data-engineer-with-apache-airflow-20-and-30-experience-temporary-employment-services_2024012",
-      "company": "Carnegie Mellon University",
-      "title": "Data Engineer",
-      "postedToDiscord": "2025-12-23T00:42:59.927Z",
-      "sourceDate": "2025-12-22T23:30:02.000Z",
-      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Temporary-Data-Engineer--with-Apache-Airflow-20-and-30-experience-------Temporary-Employment-Services_2024012",
-      "discordThreadId": "1452823759949009017",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-9c47488a-d757-46fb-b925-5324c7b61f7c-application-2025-12-23-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-9c47488a-d757-46fb-b925-5324c7b61f7c-application",
-      "company": "Jerry",
-      "title": "Software Engineer - Entry",
-      "postedToDiscord": "2025-12-23T00:43:03.395Z",
-      "sourceDate": "2025-12-22T23:26:15.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/9c47488a-d757-46fb-b925-5324c7b61f7c/application",
-      "discordThreadId": "1452823774633136169",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-daifuku-america-icims-com-jobs-20889-job-2025-12-23-1",
-      "jobId": "careers-daifuku-america-icims-com-jobs-20889-job",
-      "company": "Daifuku",
-      "title": "Software Implementation Engineer 1",
-      "postedToDiscord": "2025-12-23T00:43:09.900Z",
-      "sourceDate": "2025-11-27T02:34:45.000Z",
-      "sourceUrl": "https://careers-daifuku-america.icims.com/jobs/20889/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1452823802043175074",
-      "instanceNumber": 1
-    },
     {
       "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-full-stack-entry-mid_r2116871-2025-12-23-1",
       "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-full-stack-entry-mid_r2116871",
@@ -925,15 +771,71 @@
       "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application",
       "discordThreadId": "1455351989243216108",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-rubrik-com-company-careers-departments-job-6528028-2025-12-30-1",
+      "jobId": "www-rubrik-com-company-careers-departments-job-6528028",
+      "company": "Rubrik",
+      "title": "Software Engineer - Distributed Systems - Platform Software",
+      "postedToDiscord": "2025-12-30T00:42:52.276Z",
+      "sourceDate": "2025-12-30T00:13:36.000Z",
+      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028",
+      "discordThreadId": "1455360443085226104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-environmental-health-safety-data-management-specialist-hybrid-_jr91800-2025-12-30-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-environmental-health-safety-data-management-specialist-hybrid-_jr91800",
+      "company": "Wash U",
+      "title": "Environmental Health & Safety Data Management Specialist",
+      "postedToDiscord": "2025-12-30T00:42:55.795Z",
+      "sourceDate": "2025-12-29T23:26:28.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800",
+      "discordThreadId": "1455360457605910549",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-8e2623d7-b689-40de-a94b-3f79f7d26474-application-2025-12-30-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-8e2623d7-b689-40de-a94b-3f79f7d26474-application",
+      "company": "Jerry",
+      "title": "Software Engineer - Entry",
+      "postedToDiscord": "2025-12-30T00:43:02.255Z",
+      "sourceDate": "2025-12-29T23:21:00.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application",
+      "discordThreadId": "1455360485242306600",
+      "instanceNumber": 1
+    },
+    {
+      "id": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-data-analyst_rq4045231-2025-12-30-1",
+      "jobId": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-data-analyst_rq4045231",
+      "company": "Mass General Brigham",
+      "title": "Data Analyst",
+      "postedToDiscord": "2025-12-30T00:43:08.750Z",
+      "sourceDate": "2025-12-16T23:40:34.000Z",
+      "sourceUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst_RQ4045231",
+      "discordThreadId": "1455360512018874455",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-careaccess-jobs-4052147009-2025-12-30-1",
+      "jobId": "job-boards-greenhouse-io-careaccess-jobs-4052147009",
+      "company": "Care Access",
+      "title": "Enterprise Performance Analytics Engineer",
+      "postedToDiscord": "2025-12-30T00:43:12.242Z",
+      "sourceDate": "2025-10-29T20:19:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/careaccess/jobs/4052147009",
+      "discordThreadId": "1455360526787023038",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 84,
+    "totalJobs": 75,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-30T00:09:16.767Z",
-      "archived": 0
+      "date": "2025-12-30T00:43:12.242Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
