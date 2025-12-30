@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T07:37:39.630Z",
+  "lastUpdated": "2025-12-30T10:32:25.277Z",
   "jobs": [
-    {
-      "id": "cisive-wd108-myworkdayjobs-com-cisive-job-remote-maryland-software-developer_jr100173-2025-12-23-1",
-      "jobId": "cisive-wd108-myworkdayjobs-com-cisive-job-remote-maryland-software-developer_jr100173",
-      "company": "Cisive",
-      "title": "Software Developer",
-      "postedToDiscord": "2025-12-23T07:37:43.986Z",
-      "sourceDate": "2025-12-23T07:16:58.000Z",
-      "sourceUrl": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100173",
-      "discordThreadId": "1452928138794500110",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7364146718924163337-2025-12-23-1",
-      "jobId": "lifeattiktok-com-search-7364146718924163337",
-      "company": "TikTok",
-      "title": "Data Scientist Graduate - Product Analytics - BS/MS -> Master of Science",
-      "postedToDiscord": "2025-12-23T10:04:05.067Z",
-      "sourceDate": "2025-08-07T08:19:52.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7364146718924163337",
-      "discordThreadId": "1452964962287878196",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-remi-b818286a-d389-42bd-a4d8-47020981ec57-application-2025-12-23-1",
       "jobId": "jobs-ashbyhq-com-remi-b818286a-d389-42bd-a4d8-47020981ec57-application",
@@ -771,15 +749,26 @@
       "sourceUrl": "https://lifeattiktok.com/search/7554542061111478536",
       "discordThreadId": "1455464827979042879",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-savvy-073aefc5-5eb1-4e67-9cb3-d4059dd8ce58-application-2025-12-30-1",
+      "jobId": "jobs-ashbyhq-com-savvy-073aefc5-5eb1-4e67-9cb3-d4059dd8ce58-application",
+      "company": "Savvy",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-30T10:32:25.277Z",
+      "sourceDate": "2025-10-31T08:33:06.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/savvy/073aefc5-5eb1-4e67-9cb3-d4059dd8ce58/application",
+      "discordThreadId": "1455508806208585739",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 70,
+    "totalJobs": 69,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-30T07:37:39.630Z",
-      "archived": 6,
+      "date": "2025-12-30T10:32:25.277Z",
+      "archived": 2,
       "monthsAffected": 1
     }
   }
