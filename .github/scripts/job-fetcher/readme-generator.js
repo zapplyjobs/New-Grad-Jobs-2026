@@ -568,6 +568,8 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ${generateJobTable(currentJobs)}
 
+${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
+
 ---
 
 ## Insights on the Repo
@@ -589,7 +591,7 @@ ${Object.entries(
 
 ---
 
-## 📈 Experience Breakdown
+### 📈 Experience Breakdown
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
@@ -599,7 +601,7 @@ ${Object.entries(
 
 ---
 
-## 🌍 Top Locations
+### 🌍 Top Locations
 ${Object.entries(currentStats.byLocation)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8)
