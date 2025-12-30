@@ -580,6 +580,8 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 Top Companies
 
+<!-- DEBUG: currentJobs has ${currentJobs.length} jobs. First 10 employer names: ${currentJobs.slice(0, 10).map(j => j.employer_name).join(", ")} -->
+
 #### 🌟 FAANG+
 ${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name.toLowerCase().includes(c.name.toLowerCase())).length})`).join(" • ")}
 
