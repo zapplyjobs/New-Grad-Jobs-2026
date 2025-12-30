@@ -581,48 +581,19 @@ ${generateJobTable(currentJobs)}
 ### 🏢 Top Companies
 
 #### 🌟 FAANG+
-${companies.faang_plus
-  .map((c) => {
-    const count = currentJobs.filter(job => job.employer_name === c.name).length;
-    return `${c.emoji} [${c.name}](${c.career_url}) (${count})`;
-  })
-  .join(" • ")}
+${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
 
 #### 🦄 Unicorn Startups
-${companies.unicorn_startups
-  .map((c) => {
-    const count = currentJobs.filter(job => job.employer_name === c.name).length;
-    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
-  })
-  .filter(Boolean)
-  .join(" • ") || "*No current openings*"}
+${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
 
 #### 💰 Fintech Leaders
-${companies.fintech
-  .map((c) => {
-    const count = currentJobs.filter(job => job.employer_name === c.name).length;
-    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
-  })
-  .filter(Boolean)
-  .join(" • ") || "*No current openings*"}
+${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
 
 #### 🎮 Gaming & Entertainment
-${[...companies.gaming, ...companies.media_entertainment]
-  .map((c) => {
-    const count = currentJobs.filter(job => job.employer_name === c.name).length;
-    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
-  })
-  .filter(Boolean)
-  .join(" • ") || "*No current openings*"}
+${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
 
 #### ☁️ Enterprise & Cloud
-${[...companies.top_tech, ...companies.enterprise_saas]
-  .map((c) => {
-    const count = currentJobs.filter(job => job.employer_name === c.name).length;
-    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
-  })
-  .filter(Boolean)
-  .join(" • ") || "*No current openings*"}
+${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
 
 ---
 
