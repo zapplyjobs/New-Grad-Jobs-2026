@@ -552,8 +552,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - **🔥 Current Positions**: ${currentJobs.length}
 <br>
-- **🏢 Companies**: ${totalCompanies} companies
-${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
+- **🏢 Companies**: ${totalCompanies} companies${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
 <br>
 - **📅 Last Updated**: ${currentDate}
 <br>
