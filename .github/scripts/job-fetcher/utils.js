@@ -150,13 +150,13 @@ function formatTimeAgo(dateString) {
     const diffInHours = Math.floor((now - date) / (1000 * 60 * 60));
     
     if (diffInHours < 24) {
-        return `${diffInHours}h ago`;
+        return `${diffInHours}h`;
     } else {
         const diffInDays = Math.floor(diffInHours / 24);
-        if (diffInDays === 1) return '1d ago';
-        if (diffInDays < 7) return `${diffInDays}d ago`;
-        if (diffInDays < 30) return `${Math.floor(diffInDays / 7)}w ago`;
-        return `${Math.floor(diffInDays / 30)}mo ago`;
+        if (diffInDays === 1) return '1d';
+        if (diffInDays < 7) return `${diffInDays}d`;
+        if (diffInDays < 30) return `${Math.floor(diffInDays / 7)}w`;
+        return `${Math.floor(diffInDays / 30)}mo`;
     }
 }
 
