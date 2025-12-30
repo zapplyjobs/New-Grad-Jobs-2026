@@ -540,15 +540,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
 
 **Don't miss new opportunities!**  
-- 🌟 **Star this repo** to get updates on your GitHub dashboard
-- 👁️ **Watch** for instant notifications on new jobs
-- 🔔 **Turn on notifications** to never miss FAANG+ postings
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
-</picture>
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
 
 ---
 
