@@ -11,6 +11,24 @@ const {
   formatLocation,
 } = require("./utils");
 
+// Filter jobs by age (1 week = 7 days)
+function filterJobsByAge(allJobs) {
+  const oneWeekAgo = new Date();
+  oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+  
+  const currentJobs = allJobs.filter(job => {
+    const jobDate = new Date(job.job_posted_at_datetime_utc);
+    return jobDate >= oneWeekAgo;
+  });
+  
+  const archivedJobs = allJobs.filter(job => {
+    const jobDate = new Date(job.job_posted_at_datetime_utc);
+    return jobDate < oneWeekAgo;
+  });
+  
+  return { currentJobs, archivedJobs };
+}
+
 // Generate enhanced job table with better formatting
 // Import or load the JSON configuration
 
@@ -701,9 +719,18 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 }
 
 // Update README file
-async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
+async function updateReadme(allJobs, existingArchivedJobs = [], internshipData, stats) {
   try {
     console.log("📝 Generating README content...");
+    
+    // Filter jobs by age - only show jobs from last 7 days as current
+    const { currentJobs, archivedJobs: newArchivedJobs } = filterJobsByAge(allJobs);
+    
+    // Combine new archived jobs with existing archived jobs
+    const archivedJobs = [...newArchivedJobs, ...existingArchivedJobs];
+    
+    console.log(`📅 Jobs filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
+    
     const readmeContent = await generateReadme(
       currentJobs,
       archivedJobs,
@@ -731,4 +758,5 @@ module.exports = {
   generateArchivedSection,
   generateReadme,
   updateReadme,
+  filterJobsByAge,  // Add this
 };
