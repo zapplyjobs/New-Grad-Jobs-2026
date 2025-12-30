@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T17:38:21.080Z",
+  "lastUpdated": "2025-12-30T23:35:20.288Z",
   "jobs": [
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-college-of-medicine-part-time-research-support-neurology_req_0000074546-1-2025-12-23-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-college-of-medicine-part-time-research-support-neurology_req_0000074546-1",
-      "company": "PennState University",
-      "title": "Part Time Research Support - Neurology",
-      "postedToDiscord": "2025-12-23T19:04:55.325Z",
-      "sourceDate": "2025-12-23T18:46:30.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-Time-Research-Support---Neurology_REQ_0000074546-1",
-      "discordThreadId": "1453101068438208634",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-inc-nttdata-com-job-plano-data-business-insights-associate-tx-1351885800-2025-12-23-1",
-      "jobId": "careers-inc-nttdata-com-job-plano-data-business-insights-associate-tx-1351885800",
-      "company": "NTT Data",
-      "title": "Data & Business Insights Associate",
-      "postedToDiscord": "2025-12-23T23:35:18.758Z",
-      "sourceDate": "2025-12-23T23:09:29.000Z",
-      "sourceUrl": "https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors",
-      "discordThreadId": "1453169114272108716",
-      "instanceNumber": 1
-    },
     {
       "id": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005022-2025-12-24-1",
       "jobId": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005022",
@@ -771,15 +749,27 @@
       "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/Applications-Programmer-I_313830",
       "discordThreadId": "1455615996764094605",
       "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762",
+      "company": "CACI",
+      "title": "Entry/Mid Software Developer",
+      "postedToDiscord": "2025-12-30T23:35:20.287Z",
+      "sourceDate": "2025-12-30T23:16:19.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762",
+      "discordThreadId": "1455705835610050570",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 70,
+    "totalJobs": 69,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-30T17:38:21.080Z",
-      "archived": 0
+      "date": "2025-12-30T23:35:20.288Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
