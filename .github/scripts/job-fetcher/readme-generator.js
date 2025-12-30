@@ -581,19 +581,19 @@ ${generateJobTable(currentJobs)}
 ### 🏢 Top Companies
 
 #### 🌟 FAANG+
-${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
+${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name.toLowerCase().includes(c.name.toLowerCase())).length})`).join(" • ")}
 
 #### 🦄 Unicorn Startups
-${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
+${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name.toLowerCase().includes(c.name.toLowerCase())).length})`).join(" • ")}
 
 #### 💰 Fintech Leaders
-${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
+${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name.toLowerCase().includes(c.name.toLowerCase())).length})`).join(" • ")}
 
 #### 🎮 Gaming & Entertainment
-${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
+${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name.toLowerCase().includes(c.name.toLowerCase())).length})`).join(" • ")}
 
 #### ☁️ Enterprise & Cloud
-${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name === c.name).length})`).join(" • ")}
+${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url}) (${currentJobs.filter(job => job.employer_name.toLowerCase().includes(c.name.toLowerCase())).length})`).join(" • ")}
 
 ---
 
