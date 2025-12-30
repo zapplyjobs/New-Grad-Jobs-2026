@@ -466,6 +466,10 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     currentStats.totalByCompany[company] = (currentStats.totalByCompany[company] || 0) + 1;
   });
 
+  const totalCurrentJobs = (currentStats.byLevel["Entry-Level"] || 0) + 
+                           (currentStats.byLevel["Mid-Level"] || 0) + 
+                           (currentStats.byLevel["Senior"] || 0);
+
   const totalCompanies = Object.keys(currentStats.totalByCompany).length;
   const faangJobs = currentJobs.filter((job) =>
     companies.faang_plus.some((c) => c.name === job.employer_name)
@@ -597,9 +601,9 @@ ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | ${currentStats.byLevel["Entry-Level"] || 0} | ${currentJobs.length ? Math.round(((currentStats.byLevel["Entry-Level"] || 0) / currentJobs.length) * 100) : 0}% | No or minimal experience |
-| 🟡 Beginner & Early Career | ${currentStats.byLevel["Mid-Level"] || 0} | ${currentJobs.length ? Math.round(((currentStats.byLevel["Mid-Level"] || 0) / currentJobs.length) * 100) : 0}% | 1-2 years of experience |
-| 🔴 Manager         | ${currentStats.byLevel["Senior"] || 0} | ${currentJobs.length ? Math.round(((currentStats.byLevel["Senior"] || 0) / currentJobs.length) * 100) : 0}% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | ${currentStats.byLevel["Entry-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Entry-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | No or minimal experience |
+| 🟡 Beginner & Early Career | ${currentStats.byLevel["Mid-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Mid-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | 1-2 years of experience |
+| 🔴 Manager | ${currentStats.byLevel["Senior"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Senior"] || 0) / totalCurrentJobs) * 100) : 0}% | 2+ years of experience |
 
 ---
 
