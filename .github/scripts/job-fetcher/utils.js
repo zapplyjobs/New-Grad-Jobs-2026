@@ -420,57 +420,57 @@ async function fetchInternshipData() {
     
     const internships = [];
     
-    // Popular internship tracking repositories and sources
+// Popular internship tracking repositories and sources
     const internshipSources = [
         {
-            name: 'AngelList Internships',
-            emogi: '👼',
-            url: 'https://angel.co/jobs#internships',
+            name: 'Wellfound (AngelList)',
+            emogi: '🚀',
+            url: 'https://wellfound.com/jobs',
             type: 'Job Board',
-            description: 'Startup internships and entry-level positions'
+            description: 'Startup jobs with salary & equity transparency'
         },
         {
             name: 'LinkedIn Student Jobs',
             emogi: '🔗',
-            url: 'https://linkedin.com/jobs/student-jobs',
+            url: 'https://www.linkedin.com/jobs/student-jobs',
             type: 'Platform',
             description: 'Professional network for student opportunities'
         },
         {
             name: 'Indeed Internships',
             emogi: '🔵',
-            url: 'https://indeed.com/q-software-engineering-intern-jobs.html',
+            url: 'https://www.indeed.com/q-software-engineering-intern-jobs.html',
             type: 'Job Board',
             description: 'Comprehensive internship search engine'
         },
         {
             name: 'Glassdoor Internships',
             emogi: '🏢',
-            url: 'https://glassdoor.com/Job/software-engineer-intern-jobs-SRCH_KO0,23.htm',
+            url: 'https://www.glassdoor.com/Job/software-engineering-intern-jobs-SRCH_KO0,27.htm',
             type: 'Job Board',
             description: 'Internships with company reviews and salary data'
         },
         {
-            name: 'University Career Centers',
-            emogi: '🏫',
-            url: 'https://nace.org',
+            name: 'NACE Career Resources',
+            emogi: '🎓',
+            url: 'https://www.naceweb.org/internships',
             type: 'Resource',
             description: 'National Association of Colleges and Employers'
         }
     ];
     
-    // Add company-specific internship programs
+// Add company-specific internship programs
     const companyInternshipPrograms = [
-        { company: 'Google', program: 'STEP Internship', url: 'https://careers.google.com/students/', deadline: 'Various' },
-        { company: 'Microsoft', program: 'Software Engineering Internship', url: 'https://careers.microsoft.com/students', deadline: 'Various' },
-        { company: 'Meta', program: 'Software Engineer Internship', url: 'https://careers.meta.com/students', deadline: 'Various' },
-        { company: 'Amazon', program: 'SDE Internship', url: 'https://amazon.jobs/internships', deadline: 'Various' },
-        { company: 'Apple', program: 'Software Engineering Internship', url: 'https://jobs.apple.com/students', deadline: 'Various' },
-        { company: 'Netflix', program: 'Software Engineering Internship', url: 'https://jobs.netflix.com/students', deadline: 'Various' },
-        { company: 'Tesla', program: 'Software Engineering Internship', url: 'https://careers.tesla.com/internships', deadline: 'Various' },
-        { company: 'Nvidia', program: 'Software Engineering Internship', url: 'https://careers.nvidia.com/internships', deadline: 'Various' },
-        { company: 'Stripe', program: 'Software Engineering Internship', url: 'https://stripe.com/jobs/internships', deadline: 'Various' },
-        { company: 'Coinbase', program: 'Software Engineering Internship', url: 'https://coinbase.com/careers/students', deadline: 'Various' }
+        { company: 'Google', program: 'STEP Internship', url: 'https://buildyourfuture.withgoogle.com/programs/step', deadline: 'Various' },
+        { company: 'Microsoft', program: 'Explore Microsoft Program', url: 'https://careers.microsoft.com/v2/global/en/universityinternship', deadline: 'Various' },
+        { company: 'Meta', program: 'Software Engineer Intern', url: 'https://www.metacareers.com/careerprograms/students', deadline: 'Various' },
+        { company: 'Amazon', program: 'SDE Internship', url: 'https://amazon.jobs/en/teams/internships-for-students', deadline: 'Various' },
+        { company: 'Apple', program: 'Engineering & Technology Intern', url: 'https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN', deadline: 'Various' },
+        { company: 'Netflix', program: 'Software Engineer Intern', url: 'https://jobs.netflix.com/careers/internships', deadline: 'Various' },
+        { company: 'Tesla', program: 'Engineering Internship', url: 'https://www.tesla.com/careers/internships', deadline: 'Various' },
+        { company: 'Nvidia', program: 'Ignite & SWE Internship', url: 'https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/', deadline: 'Various' },
+        { company: 'Stripe', program: 'Software Engineer Intern', url: 'https://stripe.com/jobs/university', deadline: 'Various' },
+        { company: 'Coinbase', program: 'Software Engineer Intern', url: 'https://www.coinbase.com/internships', deadline: 'Various' }
     ];
     
     return {
