@@ -551,11 +551,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 - **🔥 Current Positions**: ${currentJobs.length}
-<br>
 - **🏢 Companies**: ${totalCompanies} companies${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
-<br>
 - **📅 Last Updated**: ${currentDate}
-<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
