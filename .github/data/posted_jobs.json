@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-29T23:36:03.706Z",
+  "lastUpdated": "2025-12-30T00:09:16.767Z",
   "jobs": [
     {
       "id": "comcast-wd5-myworkdayjobs-com-comcast_careers-job-pa-philadelphia-1701-john-f-kennedy-blvd-engineer-data-analytics_r427045-1-2025-12-23-1",
@@ -903,14 +903,36 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000100914956",
       "discordThreadId": "1455343630171767022",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8342599002-2025-12-30-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8342599002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Starlink Ground Network",
+      "postedToDiscord": "2025-12-30T00:09:13.254Z",
+      "sourceDate": "2025-12-29T23:31:48.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8342599002",
+      "discordThreadId": "1455351974919667844",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-citizen-20health-5233e464-0a9b-4efd-979a-97ef53d1080a-application-2025-12-30-1",
+      "jobId": "jobs-ashbyhq-com-citizen-20health-5233e464-0a9b-4efd-979a-97ef53d1080a-application",
+      "company": "Citizen Health",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2025-12-30T00:09:16.767Z",
+      "sourceDate": "2025-12-29T23:21:57.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application",
+      "discordThreadId": "1455351989243216108",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 82,
+    "totalJobs": 84,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-29T23:36:03.706Z",
+      "date": "2025-12-30T00:09:16.767Z",
       "archived": 0
     }
   }
