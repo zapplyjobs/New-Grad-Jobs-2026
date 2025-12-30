@@ -612,42 +612,6 @@ ${Object.entries(currentStats.byLocation)
 
 ---
 
-## 🔍 Filter by Role Category
-${Object.entries(currentStats.byCategory)
-  .sort((a, b) => b[1] - a[1])
-  .map(([category, count]) => {
-    const icon = {
-      "Mobile Development": "📱",
-      "Frontend Development": "🎨",
-      "Backend Development": "⚙️",
-      "Full Stack Development": "🌐",
-      "Machine Learning & AI": "🧠",
-      "Data Science & Analytics": "📊",
-      "DevOps & Infrastructure": "☁️",
-      "Security Engineering": "🛡️",
-      "Product Management": "📋",
-      "Design": "🎨",
-      "Software Engineering": "💻",
-    }[category] || "💻";
-
-    const categoryJobs = currentJobs.filter(
-      (job) => getJobCategory(job.job_title, job.job_description) === category
-    );
-    const topCompanies = [...new Set(categoryJobs.slice(0, 3).map((j) => j.employer_name))];
-
-    return `#### ${icon} ${category} (${count} positions)
-${topCompanies
-  .map((company) => {
-    const companyObj = ALL_COMPANIES.find((c) => c.name === company);
-    const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `${emoji} ${company}`;
-  })
-  .join(" • ")}`;
-  })
-  .join("\n\n")}
-
----
-
 ### 🔮 Why Software Engineers Choose Our Job Board
 
 ✅ **100% Real Jobs**: ${currentJobs.length} verified roles for Software Engineering roles from 250 companies.
