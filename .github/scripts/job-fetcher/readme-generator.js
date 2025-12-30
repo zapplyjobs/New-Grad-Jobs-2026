@@ -584,10 +584,9 @@ ${generateJobTable(currentJobs)}
 ${companies.faang_plus
   .map((c) => {
     const count = currentJobs.filter(job => job.employer_name === c.name).length;
-    return count > 0 ? `${c.emoji} [${c.name}](${c.career_url}) (${count})` : null;
+    return `${c.emoji} [${c.name}](${c.career_url}) (${count})`;
   })
-  .filter(Boolean)
-  .join(" • ") || "*No current openings*"}
+  .join(" • ")}
 
 #### 🦄 Unicorn Startups
 ${companies.unicorn_startups
