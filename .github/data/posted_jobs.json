@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T10:32:25.277Z",
+  "lastUpdated": "2025-12-30T11:04:06.642Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-remi-b818286a-d389-42bd-a4d8-47020981ec57-application-2025-12-23-1",
@@ -760,16 +760,37 @@
       "sourceUrl": "https://jobs.ashbyhq.com/savvy/073aefc5-5eb1-4e67-9cb3-d4059dd8ce58/application",
       "discordThreadId": "1455508806208585739",
       "instanceNumber": 1
+    },
+    {
+      "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13192-job-2025-12-30-1",
+      "jobId": "kphcareers-kphhealthcareservices-icims-com-jobs-13192-job",
+      "company": "KPH Healthcare Services",
+      "title": "Patient Benefit Specialist",
+      "postedToDiscord": "2025-12-30T11:04:03.167Z",
+      "sourceDate": "2025-11-21T23:59:53.000Z",
+      "sourceUrl": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13192/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1455516768281034753",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-covenanthealth-icims-com-jobs-68495-job-2025-12-30-1",
+      "jobId": "careers-covenanthealth-icims-com-jobs-68495-job",
+      "company": "Covenant Health",
+      "title": "CT Tech",
+      "postedToDiscord": "2025-12-30T11:04:06.642Z",
+      "sourceDate": "2025-10-31T10:49:03.000Z",
+      "sourceUrl": "https://careers-covenanthealth.icims.com/jobs/68495/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1455516783263092737",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 69,
+    "totalJobs": 71,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-30T10:32:25.277Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2025-12-30T11:04:06.642Z",
+      "archived": 0
     }
   }
 }
