@@ -18,9 +18,9 @@ function generateJobTable(jobs) {
   console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
   
   if (jobs.length === 0) {
-    return `| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |`;
+    return `| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |`;
   }
 
   // Create a map of lowercase company names to actual names for case-insensitive matching
@@ -107,8 +107,8 @@ function generateJobTable(jobs) {
           output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
         }
         
-        output += `| Role | Location | Posted | Level | Category | Apply |\n`;
-        output += `|------|----------|--------|-------|----------|-------|\n`;
+        output += `| Role | Location | Posted | Level | Apply |\n`;
+        output += `|------|----------|--------|-------|-------|\n`;
         
         companyJobs.forEach((job) => {
           const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
@@ -145,7 +145,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply button">](${applyLink}) |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply button">](${applyLink}) |\n`;
         });
         
         if (companyJobs.length > 50) {
@@ -161,8 +161,8 @@ function generateJobTable(jobs) {
       );
 
       if (smallCompanies.length > 0) {
-        output += `| Company | Role | Location | Posted | Level | Category | Apply |\n`;
-        output += `|---------|------|----------|--------|-------|----------|-------|\n`;
+        output += `| Company | Role | Location | Posted | Level | Apply |\n`;
+        output += `|---------|------|----------|--------|-------|-------|\n`;
 
         smallCompanies.forEach((companyName) => {
           const companyJobs = jobsByCompany[companyName];
@@ -202,7 +202,7 @@ function generateJobTable(jobs) {
               statusIndicator += " 🏠";
             }
 
-            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
+            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
           });
         });
         
@@ -246,8 +246,8 @@ function generateJobTable(jobs) {
         output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
       }
 
-      output += `| Role | Location | Posted | Level | Category | Apply |\n`;
-      output += `|------|----------|--------|-------|----------|-------|\n`;
+      output += `| Role | Location | Posted | Level | Apply |\n`;
+      output += `|------|----------|--------|-------|-------|\n`;
 
       companyJobs.forEach((job) => {
         const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
@@ -282,7 +282,7 @@ function generateJobTable(jobs) {
           statusIndicator += " 🏠";
         }
 
-        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
+        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
       });
 
       if (companyJobs.length > 50) {
@@ -298,8 +298,8 @@ function generateJobTable(jobs) {
     );
 
     if (smallUncategorized.length > 0) {
-      output += `| Company | Role | Location | Posted | Level | Category | Apply |\n`;
-      output += `|---------|------|----------|--------|-------|----------|-------|\n`;
+      output += `| Company | Role | Location | Posted | Level | Apply |\n`;
+      output += `|---------|------|----------|--------|-------|-------|\n`;
 
       smallUncategorized.forEach((companyName) => {
         const companyJobs = jobsByCompany[companyName];
@@ -338,7 +338,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | ${categoryShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
+          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
         });
       });
 
