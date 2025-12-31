@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T19:04:01.344Z",
+  "lastUpdated": "2025-12-31T23:35:52.987Z",
   "jobs": [
-    {
-      "id": "fis-wd5-myworkdayjobs-com-searchjobs-job-us-il-bol-270-stea-product-support-representative-i_jr0303372-2025-12-24-1",
-      "jobId": "fis-wd5-myworkdayjobs-com-searchjobs-job-us-il-bol-270-stea-product-support-representative-i_jr0303372",
-      "company": "Fidelity National Information Services",
-      "title": "Product Support Representative 1",
-      "postedToDiscord": "2025-12-24T19:04:01.738Z",
-      "sourceDate": "2025-12-24T18:33:26.000Z",
-      "sourceUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-IL-BOL-270-SteA/Product-Support-Representative-I_JR0303372",
-      "discordThreadId": "1453463238489673972",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bbbne-bamboohr-com-careers-49-2025-12-24-1",
-      "jobId": "bbbne-bamboohr-com-careers-49",
-      "company": "BBB",
-      "title": "Data Analyst - Entry Level",
-      "postedToDiscord": "2025-12-24T23:35:09.794Z",
-      "sourceDate": "2025-12-24T23:12:00.000Z",
-      "sourceUrl": "https://bbbne.bamboohr.com/careers/49/",
-      "discordThreadId": "1453531464443367630",
-      "instanceNumber": 1
-    },
     {
       "id": "healthplanone-wd1-myworkdayjobs-com-hpone-job-fl-remote-associate-risk-reporting-analyst_jr1407-2025-12-25-1",
       "jobId": "healthplanone-wd1-myworkdayjobs-com-hpone-job-fl-remote-associate-risk-reporting-analyst_jr1407",
@@ -584,6 +562,28 @@
       "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
       "discordThreadId": "1455999943897518100",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2025-12-31-1",
+      "jobId": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application",
+      "company": "Citizen Health",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2025-12-31T23:35:49.518Z",
+      "sourceDate": "2025-12-31T23:17:13.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
+      "discordThreadId": "1456068346561822781",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application-2025-12-31-1",
+      "jobId": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application",
+      "company": "Solace Health",
+      "title": "Associate Software Engineer – College Grad 2026",
+      "postedToDiscord": "2025-12-31T23:35:52.987Z",
+      "sourceDate": "2025-12-31T23:13:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
+      "discordThreadId": "1456068360688242781",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -591,9 +591,8 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-31T19:04:01.344Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2025-12-31T23:35:52.987Z",
+      "archived": 0
     }
   }
 }
