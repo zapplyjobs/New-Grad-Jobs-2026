@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T11:04:09.245Z",
+  "lastUpdated": "2025-12-31T11:34:51.389Z",
   "jobs": [
-    {
-      "id": "amazinglashstudio-wellbizbrands-icims-com-jobs-9595-job-2025-12-24-1",
-      "jobId": "amazinglashstudio-wellbizbrands-icims-com-jobs-9595-job",
-      "company": "Amazing Lash Studios",
-      "title": "Sales Associate / Customer Service",
-      "postedToDiscord": "2025-12-24T11:04:11.119Z",
-      "sourceDate": "2025-09-12T00:17:41.000Z",
-      "sourceUrl": "https://amazinglashstudio-wellbizbrands.icims.com/jobs/9595/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1453342474318774319",
-      "instanceNumber": 1
-    },
     {
       "id": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005020-2025-12-24-1",
       "jobId": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005020",
@@ -584,6 +573,17 @@
       "sourceUrl": "https://careers-advocatesinc.icims.com/jobs/12496/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1455879181698072618",
       "instanceNumber": 1
+    },
+    {
+      "id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-accelerator-physics_jr102182-2025-12-31-1",
+      "jobId": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-accelerator-physics_jr102182",
+      "company": "Brookhaven Lab",
+      "title": "Research Associate - Accelerator Physics",
+      "postedToDiscord": "2025-12-31T11:34:51.389Z",
+      "sourceDate": "2025-12-16T23:48:47.000Z",
+      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate---Accelerator-Physics_JR102182",
+      "discordThreadId": "1455886908977713307",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -591,8 +591,8 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-31T11:04:09.245Z",
-      "archived": 3,
+      "date": "2025-12-31T11:34:51.389Z",
+      "archived": 1,
       "monthsAffected": 1
     }
   }
