@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T17:04:14.009Z",
+  "lastUpdated": "2025-12-31T19:04:01.344Z",
   "jobs": [
-    {
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-analyst_jr32386-2025-12-24-1",
-      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-analyst_jr32386",
-      "company": "University of Chicago",
-      "title": "Data Analyst",
-      "postedToDiscord": "2025-12-24T17:04:16.912Z",
-      "sourceDate": "2025-12-24T16:29:42.000Z",
-      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32386",
-      "discordThreadId": "1453433093603201106",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-l3harris-com-job-salt-lake-city-sr_-associate-software-engineering-ut-84116-1345896800-2025-12-24-1",
-      "jobId": "jobs-l3harris-com-job-salt-lake-city-sr_-associate-software-engineering-ut-84116-1345896800",
-      "company": "L3Harris Technologies",
-      "title": "Senior Associate - Software Engineer",
-      "postedToDiscord": "2025-12-24T17:35:54.355Z",
-      "sourceDate": "2025-11-27T02:09:36.000Z",
-      "sourceUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr_-Associate,-Software-Engineering-UT-84116/1345896800/?ats=successfactors",
-      "discordThreadId": "1453441054924738622",
-      "instanceNumber": 1
-    },
     {
       "id": "fis-wd5-myworkdayjobs-com-searchjobs-job-us-il-bol-270-stea-product-support-representative-i_jr0303372-2025-12-24-1",
       "jobId": "fis-wd5-myworkdayjobs-com-searchjobs-job-us-il-bol-270-stea-product-support-representative-i_jr0303372",
@@ -595,15 +573,27 @@
       "sourceUrl": "https://job-boards.greenhouse.io/versaterm/jobs/5046646008",
       "discordThreadId": "1455969798407323659",
       "instanceNumber": 1
+    },
+    {
+      "id": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1-2025-12-31-1",
+      "jobId": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1",
+      "company": "Salesforce",
+      "title": "Software Engineering AMTS – College Grad",
+      "postedToDiscord": "2025-12-31T19:04:01.344Z",
+      "sourceDate": "2025-12-31T18:27:41.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
+      "discordThreadId": "1455999943897518100",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 54,
+    "totalJobs": 53,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-31T17:04:14.009Z",
-      "archived": 0
+      "date": "2025-12-31T19:04:01.344Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
