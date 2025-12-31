@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T07:37:59.114Z",
+  "lastUpdated": "2025-12-31T11:04:09.245Z",
   "jobs": [
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-oklahoma-oklahoma-city-xmlname-2026-associate-software-engineer-software-engineer_r10217878-2025-12-24-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-oklahoma-oklahoma-city-xmlname-2026-associate-software-engineer-software-engineer_r10217878",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer / Software Engineer",
-      "postedToDiscord": "2025-12-24T08:04:17.414Z",
-      "sourceDate": "2025-12-24T07:35:31.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878",
-      "discordThreadId": "1453297201798185106",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wgu-wd5-myworkdayjobs-com-external-job-salt-lake-city-office-associate-software-engineer_jr-023918-2025-12-24-1",
-      "jobId": "wgu-wd5-myworkdayjobs-com-external-job-salt-lake-city-office-associate-software-engineer_jr-023918",
-      "company": "Western Governors University",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2025-12-24T08:42:49.702Z",
-      "sourceDate": "2025-12-24T07:31:06.000Z",
-      "sourceUrl": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023918",
-      "discordThreadId": "1453306901407334493",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7516000253213133074-2025-12-24-1",
-      "jobId": "lifeattiktok-com-search-7516000253213133074",
-      "company": "TikTok",
-      "title": "General Hire: Machine Learning Engineer Graduate - Data and Eng - Usds",
-      "postedToDiscord": "2025-12-24T10:39:13.905Z",
-      "sourceDate": "2025-10-31T10:41:43.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7516000253213133074",
-      "discordThreadId": "1453336194288189473",
-      "instanceNumber": 1
-    },
     {
       "id": "amazinglashstudio-wellbizbrands-icims-com-jobs-9595-job-2025-12-24-1",
       "jobId": "amazinglashstudio-wellbizbrands-icims-com-jobs-9595-job",
@@ -606,15 +573,26 @@
       "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374",
       "discordThreadId": "1455827297885098046",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-advocatesinc-icims-com-jobs-12496-job-2025-12-31-1",
+      "jobId": "careers-advocatesinc-icims-com-jobs-12496-job",
+      "company": "Advocates",
+      "title": "Direct Service Worker",
+      "postedToDiscord": "2025-12-31T11:04:09.244Z",
+      "sourceDate": "2025-09-27T08:32:20.000Z",
+      "sourceUrl": "https://careers-advocatesinc.icims.com/jobs/12496/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1455879181698072618",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 55,
+    "totalJobs": 53,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-31T07:37:59.114Z",
-      "archived": 7,
+      "date": "2025-12-31T11:04:09.245Z",
+      "archived": 3,
       "monthsAffected": 1
     }
   }
