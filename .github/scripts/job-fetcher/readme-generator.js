@@ -689,8 +689,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
 
----
-
 <div align="center">
 
 **🎯 ${currentJobs.length} current opportunities from ${totalCompanies} companies**
