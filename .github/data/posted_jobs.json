@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T15:37:22.353Z",
+  "lastUpdated": "2025-12-31T17:04:14.009Z",
   "jobs": [
     {
       "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-analyst_jr32386-2025-12-24-1",
@@ -584,16 +584,26 @@
       "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Business-Systems-Analyst_R259808-1",
       "discordThreadId": "1455947939011760178",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-versaterm-jobs-5046646008-2025-12-31-1",
+      "jobId": "job-boards-greenhouse-io-versaterm-jobs-5046646008",
+      "company": "Versaterm",
+      "title": "Software Engineer - Geographic Information System",
+      "postedToDiscord": "2025-12-31T17:04:14.009Z",
+      "sourceDate": "2025-12-23T23:22:52.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/versaterm/jobs/5046646008",
+      "discordThreadId": "1455969798407323659",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 53,
+    "totalJobs": 54,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-31T15:37:22.353Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2025-12-31T17:04:14.009Z",
+      "archived": 0
     }
   }
 }
