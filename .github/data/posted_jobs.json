@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T23:35:20.288Z",
+  "lastUpdated": "2025-12-31T00:09:39.350Z",
   "jobs": [
-    {
-      "id": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005022-2025-12-24-1",
-      "jobId": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005022",
-      "company": "Lennar Corporation",
-      "title": "Systems Analyst 1",
-      "postedToDiscord": "2025-12-24T00:09:33.583Z",
-      "sourceDate": "2025-12-23T23:42:46.000Z",
-      "sourceUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005022",
-      "discordThreadId": "1453177733373755462",
-      "instanceNumber": 1
-    },
     {
       "id": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-data-scientist_r014106-2025-12-24-1",
       "jobId": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-data-scientist_r014106",
@@ -760,6 +749,17 @@
       "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762",
       "discordThreadId": "1455705835610050570",
       "instanceNumber": 1
+    },
+    {
+      "id": "dmainc-wd5-myworkdayjobs-com-dma-job-fort-wayne-in-associate-software-support-java-_req293-2025-12-31-1",
+      "jobId": "dmainc-wd5-myworkdayjobs-com-dma-job-fort-wayne-in-associate-software-support-java-_req293",
+      "company": "DuCharme, McMillen & Associates",
+      "title": "Associate Software Support - Java",
+      "postedToDiscord": "2025-12-31T00:09:39.349Z",
+      "sourceDate": "2025-12-30T23:26:51.000Z",
+      "sourceUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support--Java-_REQ293",
+      "discordThreadId": "1455714471208292443",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -767,8 +767,8 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-30T23:35:20.288Z",
-      "archived": 2,
+      "date": "2025-12-31T00:09:39.350Z",
+      "archived": 1,
       "monthsAffected": 1
     }
   }
