@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T11:34:51.389Z",
+  "lastUpdated": "2025-12-31T15:37:22.353Z",
   "jobs": [
-    {
-      "id": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005020-2025-12-24-1",
-      "jobId": "lennar-wd1-myworkdayjobs-com-lennar_jobs-job-irving-tx-job-posting-location-systems-analyst-i_r25_0000005020",
-      "company": "Lennar Corporation",
-      "title": "Systems Analyst 1",
-      "postedToDiscord": "2025-12-24T11:35:10.405Z",
-      "sourceDate": "2025-12-23T23:42:44.000Z",
-      "sourceUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005020",
-      "discordThreadId": "1453350272020648054",
-      "instanceNumber": 1
-    },
     {
       "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-analyst_jr32386-2025-12-24-1",
       "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-analyst_jr32386",
@@ -584,6 +573,17 @@
       "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate---Accelerator-Physics_JR102182",
       "discordThreadId": "1455886908977713307",
       "instanceNumber": 1
+    },
+    {
+      "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1-2025-12-31-1",
+      "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1",
+      "company": "Uline",
+      "title": "Associate Business Systems Analyst",
+      "postedToDiscord": "2025-12-31T15:37:22.353Z",
+      "sourceDate": "2025-12-13T10:56:53.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Business-Systems-Analyst_R259808-1",
+      "discordThreadId": "1455947939011760178",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -591,7 +591,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-31T11:34:51.389Z",
+      "date": "2025-12-31T15:37:22.353Z",
       "archived": 1,
       "monthsAffected": 1
     }
