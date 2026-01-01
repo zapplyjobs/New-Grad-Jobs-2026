@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T12:46:24.703Z",
+  "lastUpdated": "2026-01-01T13:06:06.861Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -661,14 +661,36 @@
       "sourceUrl": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/FinOps-Analyst_JR2047-1",
       "discordThreadId": "1456267303464341599",
       "instanceNumber": 1
+    },
+    {
+      "id": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-new-york-pearl-river-postdoctoral-fellow-in-ai-ml-applications-for-vaccine-research-development_4948673-2-2026-01-01-1",
+      "jobId": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-new-york-pearl-river-postdoctoral-fellow-in-ai-ml-applications-for-vaccine-research-development_4948673-2",
+      "company": "Pfizer",
+      "title": "Postdoctoral Fellow in AI/ML Applications for Vaccine Research and Development",
+      "postedToDiscord": "2026-01-01T13:06:00.094Z",
+      "sourceDate": "2025-12-19T23:54:57.000Z",
+      "sourceUrl": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/Postdoctoral-Fellow-in-AI-ML-Applications-for-Vaccine-Research---Development_4948673-2",
+      "discordThreadId": "1456272232933363775",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8088-2026-01-01-1",
+      "jobId": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8088",
+      "company": "Fortive",
+      "title": "Operations Analyst",
+      "postedToDiscord": "2026-01-01T13:06:06.861Z",
+      "sourceDate": "2025-11-06T23:54:50.000Z",
+      "sourceUrl": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8088",
+      "discordThreadId": "1456272261374804083",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 60,
+    "totalJobs": 62,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T12:46:24.703Z",
+      "date": "2026-01-01T13:06:06.861Z",
       "archived": 0
     }
   }
