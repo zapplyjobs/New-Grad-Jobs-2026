@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T11:35:03.712Z",
+  "lastUpdated": "2026-01-01T12:04:55.945Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -606,16 +606,37 @@
       "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Radiology---Neuroimaging-Labs-Research-Center_JR89315-1",
       "discordThreadId": "1456249348026404970",
       "instanceNumber": 1
+    },
+    {
+      "id": "micron-wd1-myworkdayjobs-com-external-job-boise-id-north-office-new-college-grad-fe-materials-business-intelligence-analyst_jr85030-2026-01-01-1",
+      "jobId": "micron-wd1-myworkdayjobs-com-external-job-boise-id-north-office-new-college-grad-fe-materials-business-intelligence-analyst_jr85030",
+      "company": "Micron Technology",
+      "title": "FE Materials Business Intelligence Analyst",
+      "postedToDiscord": "2026-01-01T12:04:48.977Z",
+      "sourceDate": "2025-12-13T14:58:37.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/New-College-Grad---FE-Materials-Business-Intelligence-Analyst_JR85030",
+      "discordThreadId": "1456256836524310664",
+      "instanceNumber": 1
+    },
+    {
+      "id": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409-2026-01-01-1",
+      "jobId": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409",
+      "company": "Arkansas Children's",
+      "title": "Digital Services Coordinator 1",
+      "postedToDiscord": "2026-01-01T12:04:55.945Z",
+      "sourceDate": "2025-12-12T23:35:09.000Z",
+      "sourceUrl": "https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Digital-Services-Coordinator-I_R0022409",
+      "discordThreadId": "1456256862725996658",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 55,
+    "totalJobs": 57,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T11:35:03.712Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-01T12:04:55.945Z",
+      "archived": 0
     }
   }
 }
