@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T09:05:26.826Z",
+  "lastUpdated": "2026-01-01T09:39:45.937Z",
   "jobs": [
     {
       "id": "careers-coraltreehospitality-icims-com-jobs-10743-job-2025-12-25-1",
@@ -584,14 +584,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
       "discordThreadId": "1456211696023765073",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-analyticpartners-f7d06503-9067-4fbe-833c-089db235cb8e-apply-2026-01-01-1",
+      "jobId": "jobs-lever-co-analyticpartners-f7d06503-9067-4fbe-833c-089db235cb8e-apply",
+      "company": "Analytic Partners",
+      "title": "Marketing Science Analyst - February 16th - 2026 Start",
+      "postedToDiscord": "2026-01-01T09:39:45.937Z",
+      "sourceDate": "2025-10-22T01:20:00.000Z",
+      "sourceUrl": "https://jobs.lever.co/analyticpartners/f7d06503-9067-4fbe-833c-089db235cb8e/apply",
+      "discordThreadId": "1456220332259020882",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 53,
+    "totalJobs": 54,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T09:05:26.826Z",
+      "date": "2026-01-01T09:39:45.937Z",
       "archived": 0
     }
   }
