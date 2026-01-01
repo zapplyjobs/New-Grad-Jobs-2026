@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T13:43:51.104Z",
+  "lastUpdated": "2026-01-01T14:04:10.902Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -705,14 +705,36 @@
       "sourceUrl": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Technology-Platform-Associate_JR104228",
       "discordThreadId": "1456281758491218062",
       "instanceNumber": 1
+    },
+    {
+      "id": "boydgroup-wd1-myworkdayjobs-com-boydcareers-job-sc-charleston-folly-rd-154011-automotive-mobile-adas-technician_r055451-2026-01-01-1",
+      "jobId": "boydgroup-wd1-myworkdayjobs-com-boydcareers-job-sc-charleston-folly-rd-154011-automotive-mobile-adas-technician_r055451",
+      "company": "The Boyd Group",
+      "title": "Automotive Mobile ADAS Technician",
+      "postedToDiscord": "2026-01-01T14:04:04.366Z",
+      "sourceDate": "2025-12-31T01:54:47.000Z",
+      "sourceUrl": "https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/SC-Charleston-Folly-Rd---154011/Automotive-Mobile-ADAS-Technician_R055451",
+      "discordThreadId": "1456286847721406558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-158877-job-2026-01-01-1",
+      "jobId": "careers-peraton-icims-com-jobs-158877-job",
+      "company": "Peraton",
+      "title": "R&D Engineering Analyst",
+      "postedToDiscord": "2026-01-01T14:04:10.902Z",
+      "sourceDate": "2025-12-22T16:28:01.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/158877/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456286874825130006",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 64,
+    "totalJobs": 66,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T13:43:51.104Z",
+      "date": "2026-01-01T14:04:10.902Z",
       "archived": 0
     }
   }
