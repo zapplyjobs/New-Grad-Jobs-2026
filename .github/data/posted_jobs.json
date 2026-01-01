@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T17:37:13.480Z",
+  "lastUpdated": "2026-01-01T18:04:46.213Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -793,14 +793,36 @@
       "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Spring-Fluid-Properties-Technologist-TX-77024/1348491100/?ats=successfactors",
       "discordThreadId": "1456340488448774256",
       "instanceNumber": 1
+    },
+    {
+      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970-2026-01-01-1",
+      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970",
+      "company": "ERM",
+      "title": "Consulting Associate - EHS Management Information Systems",
+      "postedToDiscord": "2026-01-01T18:04:39.652Z",
+      "sourceDate": "2025-12-13T14:39:32.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970",
+      "discordThreadId": "1456347392440799454",
+      "instanceNumber": 1
+    },
+    {
+      "id": "geha-wd5-myworkdayjobs-com-en-us-gehacareers-job-missouri-remote-associate-analytics-engineer_r-005112-1-2026-01-01-1",
+      "jobId": "geha-wd5-myworkdayjobs-com-en-us-gehacareers-job-missouri-remote-associate-analytics-engineer_r-005112-1",
+      "company": "GEHA",
+      "title": "Associate Analytics Engineer",
+      "postedToDiscord": "2026-01-01T18:04:46.213Z",
+      "sourceDate": "2025-12-04T09:11:53.000Z",
+      "sourceUrl": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005112-1",
+      "discordThreadId": "1456347420995883236",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 72,
+    "totalJobs": 74,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T17:37:13.480Z",
+      "date": "2026-01-01T18:04:46.213Z",
       "archived": 0
     }
   }
