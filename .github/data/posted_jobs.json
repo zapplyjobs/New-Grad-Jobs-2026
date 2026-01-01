@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T02:35:57.279Z",
+  "lastUpdated": "2026-01-01T09:05:26.826Z",
   "jobs": [
     {
       "id": "careers-coraltreehospitality-icims-com-jobs-10743-job-2025-12-25-1",
@@ -573,16 +573,26 @@
       "sourceUrl": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Medical-Informatics-Analyst--IT-_R0435017",
       "discordThreadId": "1456113677223727165",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-scaleai-jobs-4638305005-2026-01-01-1",
+      "jobId": "job-boards-greenhouse-io-scaleai-jobs-4638305005",
+      "company": "Scale AI",
+      "title": "Vibe Marketer",
+      "postedToDiscord": "2026-01-01T09:05:26.826Z",
+      "sourceDate": "2025-12-10T09:40:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
+      "discordThreadId": "1456211696023765073",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 52,
+    "totalJobs": 53,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T02:35:57.279Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-01T09:05:26.826Z",
+      "archived": 0
     }
   }
 }
