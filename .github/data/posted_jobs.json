@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T19:04:29.394Z",
+  "lastUpdated": "2026-01-01T19:34:06.389Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -881,14 +881,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/jensenhughes/jobs/4932805008",
       "discordThreadId": "1456362449199431868",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply-2026-01-01-1",
+      "jobId": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply",
+      "company": "Uncountable",
+      "title": "Chemical Data Annotation Specialist",
+      "postedToDiscord": "2026-01-01T19:34:06.389Z",
+      "sourceDate": "2025-10-31T07:46:24.000Z",
+      "sourceUrl": "https://jobs.lever.co/uncountable/16362d95-0ded-479d-a54b-9a5b9f29b762/apply",
+      "discordThreadId": "1456369910996533400",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 80,
+    "totalJobs": 81,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T19:04:29.394Z",
+      "date": "2026-01-01T19:34:06.389Z",
       "archived": 0
     }
   }
