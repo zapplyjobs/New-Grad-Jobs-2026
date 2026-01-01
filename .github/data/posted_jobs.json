@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T09:39:45.937Z",
+  "lastUpdated": "2026-01-01T10:04:17.511Z",
   "jobs": [
     {
       "id": "careers-coraltreehospitality-icims-com-jobs-10743-job-2025-12-25-1",
@@ -595,14 +595,25 @@
       "sourceUrl": "https://jobs.lever.co/analyticpartners/f7d06503-9067-4fbe-833c-089db235cb8e/apply",
       "discordThreadId": "1456220332259020882",
       "instanceNumber": 1
+    },
+    {
+      "id": "togetherwork-com-application-2026-01-01-1",
+      "jobId": "togetherwork-com-application",
+      "company": "Togetherwork",
+      "title": "Migration Specialist",
+      "postedToDiscord": "2026-01-01T10:04:17.511Z",
+      "sourceDate": "2025-10-17T04:11:55.000Z",
+      "sourceUrl": "https://togetherwork.com/application/?gh_jid=8200180002",
+      "discordThreadId": "1456226505171537943",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 54,
+    "totalJobs": 55,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T09:39:45.937Z",
+      "date": "2026-01-01T10:04:17.511Z",
       "archived": 0
     }
   }
