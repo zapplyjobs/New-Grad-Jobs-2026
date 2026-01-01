@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T17:04:54.133Z",
+  "lastUpdated": "2026-01-01T17:37:13.480Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -771,14 +771,36 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658533708",
       "discordThreadId": "1456332355349250235",
       "instanceNumber": 1
+    },
+    {
+      "id": "hckd-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2035352-2026-01-01-1",
+      "jobId": "hckd-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2035352",
+      "company": "Molina Healthcare",
+      "title": "Analyst – Risk & Quality Reporting - Remote TX",
+      "postedToDiscord": "2026-01-01T17:37:06.810Z",
+      "sourceDate": "2025-12-31T23:18:45.000Z",
+      "sourceUrl": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2035352",
+      "discordThreadId": "1456340468597264404",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-exxonmobil-com-exxonmobil-job-spring-fluid-properties-technologist-tx-77024-1348491100-2026-01-01-1",
+      "jobId": "jobs-exxonmobil-com-exxonmobil-job-spring-fluid-properties-technologist-tx-77024-1348491100",
+      "company": "ExxonMobil",
+      "title": "Fluid Properties Technologist",
+      "postedToDiscord": "2026-01-01T17:37:13.480Z",
+      "sourceDate": "2025-12-09T23:14:51.000Z",
+      "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Spring-Fluid-Properties-Technologist-TX-77024/1348491100/?ats=successfactors",
+      "discordThreadId": "1456340488448774256",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 70,
+    "totalJobs": 72,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T17:04:54.133Z",
+      "date": "2026-01-01T17:37:13.480Z",
       "archived": 0
     }
   }
