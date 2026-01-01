@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T13:06:06.861Z",
+  "lastUpdated": "2026-01-01T13:43:51.104Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -683,14 +683,36 @@
       "sourceUrl": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8088",
       "discordThreadId": "1456272261374804083",
       "instanceNumber": 1
+    },
+    {
+      "id": "arraytechinc-wd5-myworkdayjobs-com-array_careers-job-chandler-pv-performance-engineer-i_r-100571-2026-01-01-1",
+      "jobId": "arraytechinc-wd5-myworkdayjobs-com-array_careers-job-chandler-pv-performance-engineer-i_r-100571",
+      "company": "ARRAY Technologies",
+      "title": "PV Performance Engineer 1 - Utility Scale Solar",
+      "postedToDiscord": "2026-01-01T13:43:44.327Z",
+      "sourceDate": "2025-12-13T11:26:58.000Z",
+      "sourceUrl": "https://arraytechinc.wd5.myworkdayjobs.com/Array_Careers/job/Chandler/Pv-Performance-Engineer-I_R-100571",
+      "discordThreadId": "1456281730490044416",
+      "instanceNumber": 1
+    },
+    {
+      "id": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228-2026-01-01-1",
+      "jobId": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228",
+      "company": "Texas Capital Bank",
+      "title": "Technology Platform Associate",
+      "postedToDiscord": "2026-01-01T13:43:51.104Z",
+      "sourceDate": "2025-08-21T23:54:41.000Z",
+      "sourceUrl": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Technology-Platform-Associate_JR104228",
+      "discordThreadId": "1456281758491218062",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 62,
+    "totalJobs": 64,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T13:06:06.861Z",
+      "date": "2026-01-01T13:43:51.104Z",
       "archived": 0
     }
   }
