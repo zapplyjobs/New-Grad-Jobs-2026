@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T10:04:17.511Z",
+  "lastUpdated": "2026-01-01T11:35:03.712Z",
   "jobs": [
-    {
-      "id": "careers-coraltreehospitality-icims-com-jobs-10743-job-2025-12-25-1",
-      "jobId": "careers-coraltreehospitality-icims-com-jobs-10743-job",
-      "company": "CoralTree Hospitality",
-      "title": "Night Security",
-      "postedToDiscord": "2025-12-25T10:39:04.666Z",
-      "sourceDate": "2025-10-03T03:37:36.000Z",
-      "sourceUrl": "https://careers-coraltreehospitality.icims.com/jobs/10743/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1453698542639124503",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
       "jobId": "careers-daktronics-icims-com-jobs-7101-job",
@@ -606,6 +595,17 @@
       "sourceUrl": "https://togetherwork.com/application/?gh_jid=8200180002",
       "discordThreadId": "1456226505171537943",
       "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1-2026-01-01-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1",
+      "company": "Wash U",
+      "title": "Neuroimaging Engineer - Radiology - Neuroimaging Labs Research Center",
+      "postedToDiscord": "2026-01-01T11:35:03.712Z",
+      "sourceDate": "2025-12-13T11:17:49.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Radiology---Neuroimaging-Labs-Research-Center_JR89315-1",
+      "discordThreadId": "1456249348026404970",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -613,8 +613,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T10:04:17.511Z",
-      "archived": 0
+      "date": "2026-01-01T11:35:03.712Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
