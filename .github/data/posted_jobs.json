@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T21:04:07.421Z",
+  "lastUpdated": "2026-01-01T21:36:00.501Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -936,14 +936,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7575047003",
       "discordThreadId": "1456392556618317895",
       "instanceNumber": 1
+    },
+    {
+      "id": "bowheadcareers-uicalaska-icims-com-jobs-23872-job-2026-01-01-1",
+      "jobId": "bowheadcareers-uicalaska-icims-com-jobs-23872-job",
+      "company": "Bowhead",
+      "title": "SCA Telecommunications Mechanic 1",
+      "postedToDiscord": "2026-01-01T21:36:00.501Z",
+      "sourceDate": "2025-10-30T23:42:17.000Z",
+      "sourceUrl": "https://bowheadcareers-uicalaska.icims.com/jobs/23872/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456400580892426397",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 85,
+    "totalJobs": 86,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T21:04:07.421Z",
+      "date": "2026-01-01T21:36:00.501Z",
       "archived": 0
     }
   }
