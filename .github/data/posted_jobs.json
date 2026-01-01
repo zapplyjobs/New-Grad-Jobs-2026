@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T23:35:52.987Z",
+  "lastUpdated": "2026-01-01T00:10:55.785Z",
   "jobs": [
-    {
-      "id": "healthplanone-wd1-myworkdayjobs-com-hpone-job-fl-remote-associate-risk-reporting-analyst_jr1407-2025-12-25-1",
-      "jobId": "healthplanone-wd1-myworkdayjobs-com-hpone-job-fl-remote-associate-risk-reporting-analyst_jr1407",
-      "company": "Health Plan One",
-      "title": "Associate Risk Reporting Analyst",
-      "postedToDiscord": "2025-12-25T00:09:13.677Z",
-      "sourceDate": "2025-12-24T23:48:13.000Z",
-      "sourceUrl": "https://healthplanone.wd1.myworkdayjobs.com/hpone/job/FL-Remote/Associate-Risk-Reporting-Analyst_JR1407",
-      "discordThreadId": "1453540044483854543",
-      "instanceNumber": 1
-    },
-    {
-      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-engineering-or-geology_r00028752-2025-12-25-1",
-      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-engineering-or-geology_r00028752",
-      "company": "ERM",
-      "title": "Consulting Associate - Engineering or Geology",
-      "postedToDiscord": "2025-12-25T00:09:20.120Z",
-      "sourceDate": "2025-12-24T23:30:08.000Z",
-      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Engineering-or-Geology_R00028752",
-      "discordThreadId": "1453540064301678704",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087903009-2025-12-25-1",
-      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087903009",
-      "company": "Voyager Technologies",
-      "title": "AI Software Engineer - Agents - Ace",
-      "postedToDiscord": "2025-12-25T00:09:26.529Z",
-      "sourceDate": "2025-12-23T17:06:49.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009",
-      "discordThreadId": "1453540091246022708",
-      "instanceNumber": 1
-    },
     {
       "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-charlotte-north-carolina-consulting-associate-engineering-or-geology_r00028751-1-2025-12-25-1",
       "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-charlotte-north-carolina-consulting-associate-engineering-or-geology_r00028751-1",
@@ -584,14 +551,36 @@
       "sourceUrl": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
       "discordThreadId": "1456068360688242781",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005-2026-01-01-1",
+      "jobId": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2026-01-01T00:10:49.137Z",
+      "sourceDate": "2025-12-31T23:29:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
+      "discordThreadId": "1456077152817647648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-steampunk-icims-com-jobs-7259-job-2026-01-01-1",
+      "jobId": "careers-steampunk-icims-com-jobs-7259-job",
+      "company": "Steampunk",
+      "title": "Data Governance Specialist",
+      "postedToDiscord": "2026-01-01T00:10:55.785Z",
+      "sourceDate": "2025-11-04T23:23:09.000Z",
+      "sourceUrl": "https://careers-steampunk.icims.com/jobs/7259/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456077179619246327",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 53,
+    "totalJobs": 52,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2025-12-31T23:35:52.987Z",
+      "date": "2026-01-01T00:10:55.785Z",
       "archived": 0
     }
   }
