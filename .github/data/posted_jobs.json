@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T20:04:30.372Z",
+  "lastUpdated": "2026-01-01T21:04:07.421Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -925,14 +925,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4034185009",
       "discordThreadId": "1456377553131536508",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-freeformfuturecorp-jobs-7575047003-2026-01-01-1",
+      "jobId": "job-boards-greenhouse-io-freeformfuturecorp-jobs-7575047003",
+      "company": "Freeform",
+      "title": "Materials Lab Technician",
+      "postedToDiscord": "2026-01-01T21:04:07.421Z",
+      "sourceDate": "2025-12-30T23:56:34.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7575047003",
+      "discordThreadId": "1456392556618317895",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 84,
+    "totalJobs": 85,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T20:04:30.372Z",
+      "date": "2026-01-01T21:04:07.421Z",
       "archived": 0
     }
   }
