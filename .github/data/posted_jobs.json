@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T22:04:30.402Z",
+  "lastUpdated": "2026-01-01T22:38:18.325Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -991,14 +991,47 @@
       "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2111121",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061-2026-01-01-1",
+      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Director's Fellowship Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-01T22:38:08.038Z",
+      "sourceDate": "2026-01-01T07:41:53.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
+      "discordThreadId": "1456416215625892064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rpa-jobs-4636346005-2026-01-01-1",
+      "jobId": "job-boards-greenhouse-io-rpa-jobs-4636346005",
+      "company": "RPA",
+      "title": "Process Automation Specialist",
+      "postedToDiscord": "2026-01-01T22:38:11.396Z",
+      "sourceDate": "2025-12-16T23:39:30.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rpa/jobs/4636346005",
+      "discordThreadId": "1456416229936992397",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rpa-jobs-4636347005-2026-01-01-1",
+      "jobId": "job-boards-greenhouse-io-rpa-jobs-4636347005",
+      "company": "RPA",
+      "title": "Process Automation Analyst - AI & Systems Focus",
+      "postedToDiscord": "2026-01-01T22:38:18.325Z",
+      "sourceDate": "2025-12-17T02:39:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rpa/jobs/4636347005",
+      "discordThreadId": "1456416256965214340",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 90,
+    "totalJobs": 93,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T22:04:30.402Z",
+      "date": "2026-01-01T22:38:18.325Z",
       "archived": 0
     }
   }
