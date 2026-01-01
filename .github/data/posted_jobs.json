@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T00:10:55.785Z",
+  "lastUpdated": "2026-01-01T02:35:57.279Z",
   "jobs": [
-    {
-      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-charlotte-north-carolina-consulting-associate-engineering-or-geology_r00028751-1-2025-12-25-1",
-      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-charlotte-north-carolina-consulting-associate-engineering-or-geology_r00028751-1",
-      "company": "ERM",
-      "title": "Consulting Associate - Engineering or Geology",
-      "postedToDiscord": "2025-12-25T00:42:18.512Z",
-      "sourceDate": "2025-12-24T23:30:11.000Z",
-      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Charlotte-North-Carolina/Consulting-Associate--Engineering-or-Geology_R00028751-1",
-      "discordThreadId": "1453548362409447465",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-coraltreehospitality-icims-com-jobs-10743-job-2025-12-25-1",
       "jobId": "careers-coraltreehospitality-icims-com-jobs-10743-job",
@@ -573,6 +562,17 @@
       "sourceUrl": "https://careers-steampunk.icims.com/jobs/7259/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456077179619246327",
       "instanceNumber": 1
+    },
+    {
+      "id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-medical-informatics-analyst-it-_r0435017-2026-01-01-1",
+      "jobId": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-medical-informatics-analyst-it-_r0435017",
+      "company": "DaVita",
+      "title": "Medical Informatics Analyst",
+      "postedToDiscord": "2026-01-01T02:35:57.279Z",
+      "sourceDate": "2026-01-01T01:36:28.000Z",
+      "sourceUrl": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Medical-Informatics-Analyst--IT-_R0435017",
+      "discordThreadId": "1456113677223727165",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -580,8 +580,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T00:10:55.785Z",
-      "archived": 0
+      "date": "2026-01-01T02:35:57.279Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
