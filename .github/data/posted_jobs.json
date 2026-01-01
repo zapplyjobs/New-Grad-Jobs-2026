@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T18:04:46.213Z",
+  "lastUpdated": "2026-01-01T18:43:52.929Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -815,14 +815,36 @@
       "sourceUrl": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005112-1",
       "discordThreadId": "1456347420995883236",
       "instanceNumber": 1
+    },
+    {
+      "id": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400-2026-01-01-1",
+      "jobId": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400",
+      "company": "Aramark",
+      "title": "Java City – Hhs - AM Food Service Worker - Western Carolina University",
+      "postedToDiscord": "2026-01-01T18:43:46.250Z",
+      "sourceDate": "2026-01-01T07:14:25.000Z",
+      "sourceUrl": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
+      "discordThreadId": "1456357234916458713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-weston-job-o1noyfwu-2026-01-01-1",
+      "jobId": "jobs-jobvite-com-weston-job-o1noyfwu",
+      "company": "Weston Solutions",
+      "title": "Associate Scientist or Geoscientist - Emergency Response Team",
+      "postedToDiscord": "2026-01-01T18:43:52.929Z",
+      "sourceDate": "2025-10-31T00:56:16.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/weston/job/o1nOyfwu?nl=1&nl=1&fr=false",
+      "discordThreadId": "1456357263643250698",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 74,
+    "totalJobs": 76,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T18:04:46.213Z",
+      "date": "2026-01-01T18:43:52.929Z",
       "archived": 0
     }
   }
