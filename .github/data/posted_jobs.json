@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T16:04:19.345Z",
+  "lastUpdated": "2026-01-01T17:04:54.133Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -749,14 +749,36 @@
       "sourceUrl": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Assistant--Programmatic_R0015427",
       "discordThreadId": "1456317108198703438",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999659854838-2026-01-01-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999659854838",
+      "company": "360 IT Professionals",
+      "title": "Salesforce BA",
+      "postedToDiscord": "2026-01-01T17:04:47.747Z",
+      "sourceDate": "2025-08-15T21:17:59.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659854838",
+      "discordThreadId": "1456332328430338201",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999658533708-2026-01-01-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999658533708",
+      "company": "360 IT Professionals",
+      "title": "SAP ERP Analyst",
+      "postedToDiscord": "2026-01-01T17:04:54.133Z",
+      "sourceDate": "2025-08-13T05:20:56.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658533708",
+      "discordThreadId": "1456332355349250235",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 68,
+    "totalJobs": 70,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T16:04:19.345Z",
+      "date": "2026-01-01T17:04:54.133Z",
       "archived": 0
     }
   }
