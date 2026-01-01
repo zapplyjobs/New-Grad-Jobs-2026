@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T21:36:00.501Z",
+  "lastUpdated": "2026-01-01T22:04:30.402Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -947,14 +947,58 @@
       "sourceUrl": "https://bowheadcareers-uicalaska.icims.com/jobs/23872/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456400580892426397",
       "instanceNumber": 1
+    },
+    {
+      "id": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1-2026-01-01-1",
+      "jobId": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1",
+      "company": "Watts Water",
+      "title": "Engineering Support 1",
+      "postedToDiscord": "2026-01-01T22:04:20.402Z",
+      "sourceDate": "2025-12-06T22:47:39.000Z",
+      "sourceUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Franklin-NH/Engineering-Support-I_10015998-1",
+      "discordThreadId": "1456407710554919025",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-sharkninjaoperatingllc-jobs-4582666006-2026-01-01-1",
+      "jobId": "job-boards-greenhouse-io-sharkninjaoperatingllc-jobs-4582666006",
+      "company": "SharkNinja",
+      "title": "Software Development Engineer Testing 1",
+      "postedToDiscord": "2026-01-01T22:04:23.847Z",
+      "sourceDate": "2025-09-18T19:45:52.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4582666006",
+      "discordThreadId": "1456407725536972893",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2114720-2026-01-01-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2114720",
+      "company": "KBR",
+      "title": "Operations Research Analyst-Foundational",
+      "postedToDiscord": "2026-01-01T22:04:30.399Z",
+      "sourceDate": "2025-11-23T16:49:53.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2114720",
+      "discordThreadId": "1456407752761938084",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2111121-2026-01-01-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2111121",
+      "company": "KBR",
+      "title": "Operations Research Analyst-Foundational",
+      "postedToDiscord": "2026-01-01T22:04:30.402Z",
+      "sourceDate": "2025-11-22T10:41:51.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2111121",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 86,
+    "totalJobs": 90,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-01T21:36:00.501Z",
+      "date": "2026-01-01T22:04:30.402Z",
       "archived": 0
     }
   }
