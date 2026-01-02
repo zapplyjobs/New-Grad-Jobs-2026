@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T02:39:31.128Z",
+  "lastUpdated": "2026-01-02T03:56:05.407Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -1134,14 +1134,25 @@
       "sourceUrl": "https://careers-melaleuca.icims.com/jobs/8278/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456476962083045408",
       "instanceNumber": 1
+    },
+    {
+      "id": "ejov-fa-ca2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-23921-2026-01-02-1",
+      "jobId": "ejov-fa-ca2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-23921",
+      "company": "GHD",
+      "title": "Graduate Environmental Engineer",
+      "postedToDiscord": "2026-01-02T03:56:05.407Z",
+      "sourceDate": "2025-10-22T22:36:57.000Z",
+      "sourceUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23921",
+      "discordThreadId": "1456496232032632864",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 103,
+    "totalJobs": 104,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T02:39:31.128Z",
+      "date": "2026-01-02T03:56:05.407Z",
       "archived": 0
     }
   }
