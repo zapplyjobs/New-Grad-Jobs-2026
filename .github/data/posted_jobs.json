@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T00:44:53.374Z",
+  "lastUpdated": "2026-01-02T01:13:23.726Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -1112,14 +1112,25 @@
       "sourceUrl": "https://jobs.lever.co/welocalize/f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3/apply",
       "discordThreadId": "1456448114821955615",
       "instanceNumber": 1
+    },
+    {
+      "id": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688-2026-01-02-1",
+      "jobId": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688",
+      "company": "GCI",
+      "title": "Estimating & Planning Engineer 1 - Future Opening",
+      "postedToDiscord": "2026-01-02T01:13:23.725Z",
+      "sourceDate": "2025-09-25T01:13:40.000Z",
+      "sourceUrl": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21002688",
+      "discordThreadId": "1456455295806210160",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 101,
+    "totalJobs": 102,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T00:44:53.374Z",
+      "date": "2026-01-02T01:13:23.726Z",
       "archived": 0
     }
   }
