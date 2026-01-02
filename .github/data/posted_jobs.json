@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T17:03:47.049Z",
+  "lastUpdated": "2026-01-02T17:32:19.478Z",
   "jobs": [
     {
       "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-homeremote-office-location-research-is-business-systems-analyst_1021184-1-2025-12-26-1",
@@ -1442,14 +1442,25 @@
       "sourceUrl": "https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456694461760278721",
       "instanceNumber": 1
+    },
+    {
+      "id": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507-2026-01-02-1",
+      "jobId": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507",
+      "company": "University of Central Florida",
+      "title": "Assistant Professor - Renewable Energy and Chemical Transformations",
+      "postedToDiscord": "2026-01-02T17:32:19.477Z",
+      "sourceDate": "2025-11-30T07:46:46.000Z",
+      "sourceUrl": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Assistant-Professor--Renewable-Energy-and-Chemical-Transformations_R111507",
+      "discordThreadId": "1456701643608428716",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 131,
+    "totalJobs": 132,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T17:03:47.049Z",
+      "date": "2026-01-02T17:32:19.478Z",
       "archived": 0
     }
   }
