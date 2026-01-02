@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T13:05:30.033Z",
+  "lastUpdated": "2026-01-02T13:42:47.512Z",
   "jobs": [
     {
       "id": "careers-gdms-icims-com-jobs-69871-junior-rust-embedded-software-engineer-28cleared-29-job-2025-12-26-1",
@@ -1288,14 +1288,36 @@
       "sourceUrl": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36038",
       "discordThreadId": "1456634495381012490",
       "instanceNumber": 1
+    },
+    {
+      "id": "tcenergy-wd3-myworkdayjobs-com-career_site_tc-job-charleston-west-virginia-gas-quality-analyst_jr-09532-2026-01-02-1",
+      "jobId": "tcenergy-wd3-myworkdayjobs-com-career_site_tc-job-charleston-west-virginia-gas-quality-analyst_jr-09532",
+      "company": "TC Energy",
+      "title": "Gas Quality Analyst",
+      "postedToDiscord": "2026-01-02T13:42:40.920Z",
+      "sourceDate": "2025-12-18T23:31:41.000Z",
+      "sourceUrl": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Gas-Quality-Analyst_JR-09532",
+      "discordThreadId": "1456643849790427217",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505-2026-01-02-1",
+      "jobId": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505",
+      "company": "Endeavor Health",
+      "title": "Applications Analyst 1",
+      "postedToDiscord": "2026-01-02T13:42:47.511Z",
+      "sourceDate": "2025-11-26T02:47:22.000Z",
+      "sourceUrl": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/Applications-Analyst-I_R36505",
+      "discordThreadId": "1456643879989149728",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 117,
+    "totalJobs": 119,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T13:05:30.033Z",
+      "date": "2026-01-02T13:42:47.512Z",
       "archived": 0
     }
   }
