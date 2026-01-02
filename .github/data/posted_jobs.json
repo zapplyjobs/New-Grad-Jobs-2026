@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T05:40:49.200Z",
+  "lastUpdated": "2026-01-02T06:04:47.561Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -1167,14 +1167,36 @@
       "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358",
       "discordThreadId": "1456522587147342020",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400-2026-01-02-1",
+      "jobId": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400",
+      "company": "Westinghouse Electric Company",
+      "title": "Probabilistic Risk Assessment Engineer 1",
+      "postedToDiscord": "2026-01-02T06:04:43.909Z",
+      "sourceDate": "2025-12-10T23:29:43.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Dallas-Probabilistic-Risk-Assessment-Engineer-1-TX-75201/1320348400/?ats=successfactors",
+      "discordThreadId": "1456528605449556072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zetaglobal-com-jobs-jobs-at-zeta-global-2026-01-02-1",
+      "jobId": "zetaglobal-com-jobs-jobs-at-zeta-global",
+      "company": "Zeta Global",
+      "title": "Associate – Data Cloud Solutions",
+      "postedToDiscord": "2026-01-02T06:04:47.561Z",
+      "sourceDate": "2025-12-02T01:39:41.000Z",
+      "sourceUrl": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
+      "discordThreadId": "1456528620154519666",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 106,
+    "totalJobs": 108,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T05:40:49.200Z",
+      "date": "2026-01-02T06:04:47.561Z",
       "archived": 0
     }
   }
