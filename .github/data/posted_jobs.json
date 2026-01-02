@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T14:38:21.083Z",
+  "lastUpdated": "2026-01-02T15:04:30.412Z",
   "jobs": [
     {
       "id": "careers-gdms-icims-com-jobs-69871-junior-rust-embedded-software-engineer-28cleared-29-job-2025-12-26-1",
@@ -1321,14 +1321,36 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordThreadId": "1456657861919903958",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-vistrygroup-icims-com-jobs-7941-job-2026-01-02-1",
+      "jobId": "careers-vistrygroup-icims-com-jobs-7941-job",
+      "company": "Vistry Group",
+      "title": "Design and Technical Graduate",
+      "postedToDiscord": "2026-01-02T15:04:23.762Z",
+      "sourceDate": "2025-11-28T21:42:14.000Z",
+      "sourceUrl": "https://careers-vistrygroup.icims.com/jobs/7941/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456664416022954105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1-2026-01-02-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1",
+      "company": "PennState University",
+      "title": "IT Applications Specialist",
+      "postedToDiscord": "2026-01-02T15:04:30.412Z",
+      "sourceDate": "2025-11-01T10:17:47.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1",
+      "discordThreadId": "1456664443483328739",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 120,
+    "totalJobs": 122,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T14:38:21.083Z",
+      "date": "2026-01-02T15:04:30.412Z",
       "archived": 0
     }
   }
