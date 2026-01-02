@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T16:05:15.387Z",
+  "lastUpdated": "2026-01-02T16:40:41.375Z",
   "jobs": [
     {
       "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-homeremote-office-location-research-is-business-systems-analyst_1021184-1-2025-12-26-1",
@@ -1409,14 +1409,36 @@
       "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Electrocatalysis--Center-for-Nanoscale-Materials-_421178",
       "discordThreadId": "1456679730953588810",
       "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31878-2026-01-02-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31878",
+      "company": "University of Chicago",
+      "title": "Research Specialist",
+      "postedToDiscord": "2026-01-02T16:40:34.882Z",
+      "sourceDate": "2025-12-13T10:20:35.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31878",
+      "discordThreadId": "1456688621632491728",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-usu-icims-com-jobs-9610-job-2026-01-02-1",
+      "jobId": "careers-usu-icims-com-jobs-9610-job",
+      "company": "Utah State University",
+      "title": "Postdoctoral Fellow 1",
+      "postedToDiscord": "2026-01-02T16:40:41.375Z",
+      "sourceDate": "2025-09-11T17:49:32.000Z",
+      "sourceUrl": "https://careers-usu.icims.com/jobs/9610/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456688649512157185",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 128,
+    "totalJobs": 130,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T16:05:15.387Z",
+      "date": "2026-01-02T16:40:41.375Z",
       "archived": 0
     }
   }
