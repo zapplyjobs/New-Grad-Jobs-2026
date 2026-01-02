@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T08:04:40.192Z",
+  "lastUpdated": "2026-01-02T09:05:40.113Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -1222,14 +1222,25 @@
       "sourceUrl": "https://encore.wd1.myworkdayjobs.com/externalnew/job/CA---San-Diego/Market-Intelligence-Analyst_HR-19578-1",
       "discordThreadId": "1456558788822700115",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-accenturefederalservices-jobs-4599649006-2026-01-02-1",
+      "jobId": "boards-greenhouse-io-accenturefederalservices-jobs-4599649006",
+      "company": "Accenture",
+      "title": "Technology Analyst",
+      "postedToDiscord": "2026-01-02T09:05:40.113Z",
+      "sourceDate": "2025-12-22T23:48:33.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599649006",
+      "discordThreadId": "1456574132870316125",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 111,
+    "totalJobs": 112,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T08:04:40.192Z",
+      "date": "2026-01-02T09:05:40.113Z",
       "archived": 0
     }
   }
