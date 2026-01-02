@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T16:40:41.375Z",
+  "lastUpdated": "2026-01-02T17:03:47.049Z",
   "jobs": [
     {
       "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-homeremote-office-location-research-is-business-systems-analyst_1021184-1-2025-12-26-1",
@@ -1431,14 +1431,25 @@
       "sourceUrl": "https://careers-usu.icims.com/jobs/9610/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456688649512157185",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-libertymutual-icims-com-jobs-72739-job-2026-01-02-1",
+      "jobId": "careers-libertymutual-icims-com-jobs-72739-job",
+      "company": "Liberty Mutual",
+      "title": "Analyst 2",
+      "postedToDiscord": "2026-01-02T17:03:47.049Z",
+      "sourceDate": "2026-01-02T16:27:33.000Z",
+      "sourceUrl": "https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456694461760278721",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 130,
+    "totalJobs": 131,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T16:40:41.375Z",
+      "date": "2026-01-02T17:03:47.049Z",
       "archived": 0
     }
   }
