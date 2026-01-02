@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T03:56:05.407Z",
+  "lastUpdated": "2026-01-02T04:45:44.329Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -1145,14 +1145,25 @@
       "sourceUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23921",
       "discordThreadId": "1456496232032632864",
       "instanceNumber": 1
+    },
+    {
+      "id": "montrose-wd1-myworkdayjobs-com-meg-job-usa-co-arvada-joyce-drive-ftir-field-scientist-stack-_r7552-2026-01-02-1",
+      "jobId": "montrose-wd1-myworkdayjobs-com-meg-job-usa-co-arvada-joyce-drive-ftir-field-scientist-stack-_r7552",
+      "company": "Montrose Environmental Group",
+      "title": "FTIR Field Scientist - Air Emissions",
+      "postedToDiscord": "2026-01-02T04:45:44.329Z",
+      "sourceDate": "2025-11-23T08:48:05.000Z",
+      "sourceUrl": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-CO-Arvada-Joyce-Drive/FTIR-Field-Scientist--Stack-_R7552",
+      "discordThreadId": "1456508725735981128",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 104,
+    "totalJobs": 105,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T03:56:05.407Z",
+      "date": "2026-01-02T04:45:44.329Z",
       "archived": 0
     }
   }
