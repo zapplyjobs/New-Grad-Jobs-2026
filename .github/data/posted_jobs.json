@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T06:04:47.561Z",
+  "lastUpdated": "2026-01-02T06:45:05.434Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -1189,14 +1189,25 @@
       "sourceUrl": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
       "discordThreadId": "1456528620154519666",
       "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936-2026-01-02-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936",
+      "company": "University of Chicago",
+      "title": "Research Specialist",
+      "postedToDiscord": "2026-01-02T06:45:05.434Z",
+      "sourceDate": "2025-12-13T15:14:28.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31936",
+      "discordThreadId": "1456538761545519137",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 108,
+    "totalJobs": 109,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T06:04:47.561Z",
+      "date": "2026-01-02T06:45:05.434Z",
       "archived": 0
     }
   }
