@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T09:05:40.113Z",
+  "lastUpdated": "2026-01-02T10:04:27.871Z",
   "jobs": [
     {
       "id": "careers-daktronics-icims-com-jobs-7101-job-2025-12-26-1",
@@ -1233,14 +1233,25 @@
       "sourceUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599649006",
       "discordThreadId": "1456574132870316125",
       "instanceNumber": 1
+    },
+    {
+      "id": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570349-2026-01-02-1",
+      "jobId": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570349",
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-02T10:04:27.870Z",
+      "sourceDate": "2026-01-02T09:38:15.000Z",
+      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202570349",
+      "discordThreadId": "1456588935592415318",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 112,
+    "totalJobs": 113,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T09:05:40.113Z",
+      "date": "2026-01-02T10:04:27.871Z",
       "archived": 0
     }
   }
