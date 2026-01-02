@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T18:04:39.233Z",
+  "lastUpdated": "2026-01-02T18:43:34.429Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-bbbced3d-d1c4-43a0-9b72-98e40b2df110-application-2025-12-26-1",
@@ -1453,14 +1453,25 @@
       "sourceUrl": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I_R-45381-1",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-assistant-or-associate-research-professor-the-thomas-d-larson-transportation-institute_req_0000073124-2-2026-01-02-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-assistant-or-associate-research-professor-the-thomas-d-larson-transportation-institute_req_0000073124-2",
+      "company": "PennState University",
+      "title": "Assistant or Associate Research Professor",
+      "postedToDiscord": "2026-01-02T18:43:34.429Z",
+      "sourceDate": "2025-11-23T08:11:57.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-or-Associate-Research-Professor--The-Thomas-D-Larson-Transportation-Institute_REQ_0000073124-2",
+      "discordThreadId": "1456719572353945632",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 132,
+    "totalJobs": 133,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T18:04:39.233Z",
+      "date": "2026-01-02T18:43:34.429Z",
       "archived": 0
     }
   }
