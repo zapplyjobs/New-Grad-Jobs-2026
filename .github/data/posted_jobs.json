@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T10:39:20.740Z",
+  "lastUpdated": "2026-01-03T10:51:28.221Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -4324,14 +4324,124 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7378592/?gh_jid=7378592",
       "discordThreadId": "1456960101444358154",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7416668-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7416668",
+      "company": "datadog",
+      "title": "Director, Technical Product Partnerships",
+      "postedToDiscord": "2026-01-03T10:50:59.191Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416668/?gh_jid=7416668",
+      "discordThreadId": "1456963031752769537",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6574390-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6574390",
+      "company": "datadog",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-03T10:51:02.923Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6574390/?gh_jid=6574390",
+      "discordThreadId": "1456963046588027026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7462573-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7462573",
+      "company": "datadog",
+      "title": "Enterprise Customer Success Manager - Denver",
+      "postedToDiscord": "2026-01-03T10:51:04.659Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7462573/?gh_jid=7462573",
+      "discordThreadId": "1456963062123729109",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7472550-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7472550",
+      "company": "datadog",
+      "title": "Enterprise Customer Success Manager - East Coast",
+      "postedToDiscord": "2026-01-03T10:51:04.664Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7472550/?gh_jid=7472550",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7379789-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7379789",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer",
+      "postedToDiscord": "2026-01-03T10:51:08.229Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789",
+      "discordThreadId": "1456963069287727174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476093-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7476093",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer - South Africa",
+      "postedToDiscord": "2026-01-03T10:51:08.234Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7421331-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7421331",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-03T10:51:11.900Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331",
+      "discordThreadId": "1456963084492079104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7465622-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7465622",
+      "company": "datadog",
+      "title": "Employee Relation Specialist - Workplace Investigations",
+      "postedToDiscord": "2026-01-03T10:51:18.486Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622",
+      "discordThreadId": "1456963112329805940",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476431-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7476431",
+      "company": "datadog",
+      "title": "Engineering Manager, Application Security Platform",
+      "postedToDiscord": "2026-01-03T10:51:24.869Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476431/?gh_jid=7476431",
+      "discordThreadId": "1456963139944845435",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7181025-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7181025",
+      "company": "datadog",
+      "title": "Engineering Manager I - Cyber Threat Intelligence",
+      "postedToDiscord": "2026-01-03T10:51:28.221Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7181025/?gh_jid=7181025",
+      "discordThreadId": "1456963153886969929",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 393,
+    "totalJobs": 403,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T10:39:20.740Z",
+      "date": "2026-01-03T10:51:28.221Z",
       "archived": 0
     }
   }
