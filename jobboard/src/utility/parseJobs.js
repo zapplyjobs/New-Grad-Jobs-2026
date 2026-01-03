@@ -287,7 +287,7 @@ export const parseJobsFromReadme = (readmeContent) => {
       line.toLowerCase().includes('location') ||
       line.toLowerCase().includes('apply')
     )) {
-      const { columnMap, columnCount } = parseTableHeader(line);
+      const { columnMap } = parseTableHeader(line);
 
       if (Object.keys(columnMap).length >= 2) {
         currentColumnMap = columnMap;
@@ -374,6 +374,10 @@ export const parseJobsFromReadme = (readmeContent) => {
             case 'apply':
               const link = extractApplyLink(cellValue);
               if (link) job.applyLink = link;
+              break;
+
+            default:
+              // Unknown column, will be handled by smart detection below
               break;
           }
         }
