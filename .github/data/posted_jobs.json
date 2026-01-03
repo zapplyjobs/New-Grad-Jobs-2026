@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T08:05:44.919Z",
+  "lastUpdated": "2026-01-03T08:25:37.796Z",
   "jobs": [
     {
       "id": "careers-eyesouthpartners-icims-com-jobs-8450-job-2025-12-27-1",
@@ -3235,14 +3235,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8350416002",
       "discordThreadId": "1456921447846121503",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7484777-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7484777",
+      "company": "datadog",
+      "title": "Manager 1, Technical Account Management - Denver",
+      "postedToDiscord": "2026-01-03T08:24:58.563Z",
+      "sourceDate": "2025-12-29T11:23:22-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7484777/?gh_jid=7484777",
+      "discordThreadId": "1456926294011936880",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7459744-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7459744",
+      "company": "datadog",
+      "title": "Technical Account Manager 2 - West",
+      "postedToDiscord": "2026-01-03T08:25:01.903Z",
+      "sourceDate": "2025-12-29T05:39:02-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7459744/?gh_jid=7459744",
+      "discordThreadId": "1456926301456699558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476902-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7476902",
+      "company": "datadog",
+      "title": "Field Marketing Manager (LATAM South)",
+      "postedToDiscord": "2026-01-03T08:25:06.645Z",
+      "sourceDate": "2025-12-29T10:58:02-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
+      "discordThreadId": "1456926328225005713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7481495-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7481495",
+      "company": "datadog",
+      "title": "Lead UX Designer - New York",
+      "postedToDiscord": "2026-01-03T08:25:09.952Z",
+      "sourceDate": "2025-12-29T10:53:11-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
+      "discordThreadId": "1456926335455723520",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7449657-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7449657",
+      "company": "datadog",
+      "title": "Coordinator, Business Recruiting - Contract",
+      "postedToDiscord": "2026-01-03T08:25:13.272Z",
+      "sourceDate": "2025-12-24T14:57:30-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7449657/?gh_jid=7449657",
+      "discordThreadId": "1456926349263634543",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4942791008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942791008",
+      "company": "anthropic",
+      "title": "People Program Manager",
+      "postedToDiscord": "2026-01-03T08:25:19.769Z",
+      "sourceDate": "2025-12-28T21:17:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942791008",
+      "discordThreadId": "1456926375792480391",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-66492688-d5b0-4cf8-b1a4-4a715157edd9-2026-01-03-1",
+      "jobId": "jobs-lever-co-spotify-66492688-d5b0-4cf8-b1a4-4a715157edd9",
+      "company": "spotify",
+      "title": "Backend Engineer  - Data Infrastructure",
+      "postedToDiscord": "2026-01-03T08:25:26.568Z",
+      "sourceDate": "2025-12-26T12:49:03.807Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9",
+      "discordThreadId": "1456926402967244893",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8353867002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8353867002",
+      "company": "brex",
+      "title": "Software Engineer II, Frontend Platform ",
+      "postedToDiscord": "2026-01-03T08:25:33.137Z",
+      "sourceDate": "2025-12-24T16:42:08-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8353867002?gh_jid=8353867002",
+      "discordThreadId": "1456926431601885246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4950450007-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4950450007",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-03T08:25:37.792Z",
+      "sourceDate": "2025-12-24T11:31:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950450007",
+      "discordThreadId": "1456926459070382102",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4950449007-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4950449007",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-03T08:25:37.796Z",
+      "sourceDate": "2025-12-24T11:31:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950449007",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 294,
+    "totalJobs": 304,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T08:05:44.919Z",
+      "date": "2026-01-03T08:25:37.796Z",
       "archived": 0
     }
   }
