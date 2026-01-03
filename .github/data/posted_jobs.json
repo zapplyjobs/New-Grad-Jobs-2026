@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T18:44:04.693Z",
+  "lastUpdated": "2026-01-03T18:55:20.863Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -7734,14 +7734,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8334900002",
       "discordThreadId": "1457082088170721372",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5347669004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5347669004",
+      "company": "vercel",
+      "title": "Sales Engineer",
+      "postedToDiscord": "2026-01-03T18:54:36.484Z",
+      "sourceDate": "2025-12-11T12:49:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5347669004",
+      "discordThreadId": "1457084739046473820",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5732508004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5732508004",
+      "company": "figma",
+      "title": "Manager, Product Marketing ",
+      "postedToDiscord": "2026-01-03T18:54:40.160Z",
+      "sourceDate": "2025-12-10T19:12:38-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732508004?gh_jid=5732508004",
+      "discordThreadId": "1457084753890250856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5728495004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5728495004",
+      "company": "figma",
+      "title": "Director, Federal Sales",
+      "postedToDiscord": "2026-01-03T18:54:43.865Z",
+      "sourceDate": "2025-12-10T14:21:16-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004",
+      "discordThreadId": "1457084769169838132",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8290478002-2026-01-03-1",
+      "jobId": "careers-duolingo-com-jobs-8290478002",
+      "company": "duolingo",
+      "title": "Director of Learning Design, Immersive Language Learning",
+      "postedToDiscord": "2026-01-03T18:54:50.415Z",
+      "sourceDate": "2025-12-11T09:44:22-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8290478002?gh_jid=8290478002",
+      "discordThreadId": "1457084797213085708",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8104665002-2026-01-03-1",
+      "jobId": "careers-duolingo-com-jobs-8104665002",
+      "company": "duolingo",
+      "title": "Engineering Director, Long-Form Learning",
+      "postedToDiscord": "2026-01-03T18:54:53.897Z",
+      "sourceDate": "2025-12-11T09:40:02-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8104665002?gh_jid=8104665002",
+      "discordThreadId": "1457084811700207697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025065008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025065008",
+      "company": "anthropic",
+      "title": "Research Engineer, Data Ingestion",
+      "postedToDiscord": "2026-01-03T18:54:57.672Z",
+      "sourceDate": "2025-12-10T19:43:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025065008",
+      "discordThreadId": "1457084827214942453",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5024981008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024981008",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code Growth",
+      "postedToDiscord": "2026-01-03T18:55:04.241Z",
+      "sourceDate": "2025-12-10T19:38:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024981008",
+      "discordThreadId": "1457084855216115997",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4970314008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970314008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Infrastructure",
+      "postedToDiscord": "2026-01-03T18:55:10.728Z",
+      "sourceDate": "2025-12-10T18:01:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
+      "discordThreadId": "1457084882776752333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4632118008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4632118008",
+      "company": "anthropic",
+      "title": "Senior Software Engineer, Infrastructure ",
+      "postedToDiscord": "2026-01-03T18:55:14.359Z",
+      "sourceDate": "2025-12-10T18:00:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
+      "discordThreadId": "1457084897171607689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8331172002-2026-01-03-1",
+      "jobId": "careers-duolingo-com-jobs-8331172002",
+      "company": "duolingo",
+      "title": "Product Marketing Manager, Duolingo Chess",
+      "postedToDiscord": "2026-01-03T18:55:20.862Z",
+      "sourceDate": "2025-12-10T14:08:49-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331172002?gh_jid=8331172002",
+      "discordThreadId": "1457084924988231723",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 703,
+    "totalJobs": 713,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T18:44:04.693Z",
+      "date": "2026-01-03T18:55:20.863Z",
       "archived": 0
     }
   }
