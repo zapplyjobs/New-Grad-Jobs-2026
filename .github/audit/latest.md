@@ -1,219 +1,187 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-03T09:25:23.133Z
+**Timestamp:** 2026-01-03T09:37:29.406Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 10
+- **Jobs Posted:** 5
 - **Jobs Failed:** 0
 - **Jobs Skipped:** 0
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-03T09:24:39.268Z] ========================================
-[2026-01-03T09:24:39.270Z] Discord Bot Execution Log
-[2026-01-03T09:24:39.270Z] Environment: GitHub Actions
-[2026-01-03T09:24:39.270Z] Node Version: v20.19.6
-[2026-01-03T09:24:39.270Z] ========================================
-[2026-01-03T09:24:39.270Z] Environment Variables Check:
-[2026-01-03T09:24:39.270Z] DISCORD_TOKEN: ✅ Set
-[2026-01-03T09:24:39.270Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-03T09:24:39.271Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-03T09:24:39.271Z] 
+[2026-01-03T09:37:01.665Z] ========================================
+[2026-01-03T09:37:01.667Z] Discord Bot Execution Log
+[2026-01-03T09:37:01.667Z] Environment: GitHub Actions
+[2026-01-03T09:37:01.667Z] Node Version: v20.19.6
+[2026-01-03T09:37:01.667Z] ========================================
+[2026-01-03T09:37:01.667Z] Environment Variables Check:
+[2026-01-03T09:37:01.667Z] DISCORD_TOKEN: ✅ Set
+[2026-01-03T09:37:01.667Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.667Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-03T09:37:01.667Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-03T09:37:01.667Z] 
 Multi-Channel Configuration:
-[2026-01-03T09:24:39.271Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-03T09:24:39.271Z] 
+[2026-01-03T09:37:01.667Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-03T09:37:01.668Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-03T09:24:39.271Z] 
+[2026-01-03T09:37:01.668Z] 
 Data Files Check:
-[2026-01-03T09:24:39.272Z] .github/data/new_jobs.json: ✅ Exists (10 items, 153942 bytes)
-[2026-01-03T09:24:39.274Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 182241 bytes)
-[2026-01-03T09:24:39.274Z] 
+[2026-01-03T09:37:01.669Z] .github/data/new_jobs.json: ✅ Exists (10 items, 157667 bytes)
+[2026-01-03T09:37:01.671Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 187228 bytes)
+[2026-01-03T09:37:01.671Z] 
 ========================================
-[2026-01-03T09:24:39.274Z] Starting Enhanced Discord Bot...
-[2026-01-03T09:24:39.274Z] ========================================
-[2026-01-03T09:24:39.795Z] [BOT] ✅ Loaded V2 database: 334 jobs
-[2026-01-03T09:24:40.722Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-03T09:24:40.722Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-03T09:37:01.671Z] Starting Enhanced Discord Bot...
+[2026-01-03T09:37:01.671Z] ========================================
+[2026-01-03T09:37:02.176Z] [BOT] ✅ Loaded V2 database: 344 jobs
+[2026-01-03T09:37:03.029Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-03T09:37:03.030Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply.jobs (CH_20db82b8)
-[2026-01-03T09:24:40.723Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-03T09:24:40.723Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
-[2026-01-03T09:24:40.793Z] [BOT] 🧹 Cleaned up 10 jobs older than 7 days
-[2026-01-03T09:24:40.888Z] [BOT] ✅ Export complete: Added 10, Skipped 0, Total 216
-[2026-01-03T09:24:40.890Z] [BOT] 📬 Found 10 new jobs (0 already posted)...
-[2026-01-03T09:24:40.890Z] [BOT] 📋 After blacklist filter: 10 jobs (0 blacklisted)
-[2026-01-03T09:24:40.890Z] [BOT] 📋 After data quality filter: 10 jobs (0 invalid)
-[2026-01-03T09:24:40.891Z] [BOT] 📋 After multi-location grouping: 10 unique jobs to post
-[2026-01-03T09:24:40.891Z] [BOT] 📤 Posting 10 jobs...
+[2026-01-03T09:37:03.030Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-03T09:37:03.031Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
+[2026-01-03T09:37:03.102Z] [BOT] 🧹 Cleaned up 10 jobs older than 7 days
+[2026-01-03T09:37:03.197Z] [BOT] ✅ Export complete: Added 10, Skipped 0, Total 216
+[2026-01-03T09:37:03.199Z] [BOT] 📬 Found 10 new jobs (0 already posted)...
+[2026-01-03T09:37:03.199Z] [BOT] 📋 After blacklist filter: 10 jobs (0 blacklisted)
+[2026-01-03T09:37:03.199Z] [BOT] 📋 After data quality filter: 10 jobs (0 invalid)
+[2026-01-03T09:37:03.200Z] [BOT] 📋 After multi-location grouping: 5 unique jobs to post
+[2026-01-03T09:37:03.200Z] [BOT] (5 grouped as same job with different locations)
+📍 1 jobs with multiple locations:
+   - Senior Project Engineer, Global Services @ verkada: austin, tx united states; new york city, ny united states; philadelphia, pa united states; tampa, fl united states, chicago, il united states, new york city, ny united states, tampa, fl united states, philadelphia, pa united states, austin, tx united states
+⏸️ Limiting to 10 jobs this run, 5 deferred for next run
+📤 Posting 5 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-03T09:24:40.896Z] [BOT] 📌 Posting 4 jobs to #💻・tech-jobs
-[2026-01-03T09:24:40.896Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Rocky Mountains" @ verkada
-[2026-01-03T09:24:40.896Z] [BOT] Category: TECH (matched: "engineer/engineering")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-03T09:24:40.901Z] [BOT ERROR] (node:2357) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-03T09:37:03.203Z] [BOT] 📌 Posting 2 jobs to #📣・marketing-jobs
+[2026-01-03T09:37:03.204Z] [BOT] 📍 [ROUTING] "Senior Channel Marketing Manager, Northeast (Remote)" @ verkada
+[2026-01-03T09:37:03.204Z] [BOT] Category: MARKETING (matched: "marketing")
+   Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-03T09:37:03.208Z] [BOT ERROR] (node:2313) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-03T09:24:41.103Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Rocky Mountains @ verkada in #💻・tech-jobs
-[2026-01-03T09:24:41.103Z] [BOT] ✅ Industry: Enterprise Solutions Engineer, Rocky Mountains @ verkada
-[2026-01-03T09:24:42.606Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, Rocky Mountains @ verkada (instance #1)
-[2026-01-03T09:24:42.606Z] [BOT] 💾 BEFORE ARCHIVING: 335 jobs in database
-[2026-01-03T09:24:42.606Z] [BOT] ✅ No jobs to archive (all 335 jobs within 7-day window)
-[2026-01-03T09:24:42.613Z] [BOT] 💾 Saved posted_jobs.json: 335 active jobs
-[2026-01-03T09:24:42.613Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T09:24:42.614Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Southeast" @ verkada
-[2026-01-03T09:24:42.614Z] [BOT] Category: TECH (matched: "engineer/engineering")
+[2026-01-03T09:37:03.520Z] [BOT] ✅ Created forum post: 🏢 Senior Channel Marketing Manager, Northeast (Remote) @ verkada in #📣・marketing-jobs
+[2026-01-03T09:37:03.521Z] [BOT] ✅ Industry: Senior Channel Marketing Manager, Northeast (Remote) @ verkada
+[2026-01-03T09:37:06.114Z] [BOT] ✅ Created forum post: 🏢 Senior Channel Marketing Manager, Northeast (Remote) @ verkada in #🗽・new-york
+[2026-01-03T09:37:06.114Z] [BOT] ✅ Location: 🗽・new-york
+[2026-01-03T09:37:07.616Z] [BOT] 💾 Marked as posted: Senior Channel Marketing Manager, Northeast (Remote) @ verkada (instance #1)
+[2026-01-03T09:37:07.616Z] [BOT] 💾 BEFORE ARCHIVING: 345 jobs in database
+[2026-01-03T09:37:07.616Z] [BOT] ✅ No jobs to archive (all 345 jobs within 7-day window)
+[2026-01-03T09:37:07.625Z] [BOT] 💾 Saved posted_jobs.json: 345 active jobs
+[2026-01-03T09:37:07.625Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:37:07.627Z] [BOT] 📍 [ROUTING] "Sr. Tradeshow and Event Marketing Manager" @ verkada
+[2026-01-03T09:37:07.627Z] [BOT] Category: MARKETING (matched: "marketing")
+   Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-03T09:37:07.879Z] [BOT] ✅ Created forum post: 🏢 Sr. Tradeshow and Event Marketing Manager @ verkada in #📣・marketing-jobs
+  ✅ Industry: Sr. Tradeshow and Event Marketing Manager @ verkada
+[2026-01-03T09:37:09.692Z] [BOT] ✅ Created forum post: 🏢 Sr. Tradeshow and Event Marketing Manager @ verkada in #🗽・new-york
+  ✅ Location: 🗽・new-york
+[2026-01-03T09:37:11.193Z] [BOT] 💾 Marked as posted: Sr. Tradeshow and Event Marketing Manager @ verkada (instance #1)
+[2026-01-03T09:37:11.193Z] [BOT] 💾 BEFORE ARCHIVING: 346 jobs in database
+[2026-01-03T09:37:11.194Z] [BOT] ✅ No jobs to archive (all 346 jobs within 7-day window)
+[2026-01-03T09:37:11.197Z] [BOT] 💾 Saved posted_jobs.json: 346 active jobs
+[2026-01-03T09:37:11.198Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:37:14.199Z] [BOT] 📌 Posting 3 jobs to #💻・tech-jobs
+[2026-01-03T09:37:14.200Z] [BOT] 📍 [ROUTING] "Senior Project Engineer, Global Services" @ verkada
+   Category: TECH (matched: "engineer/engineering")
    Channel: 💻・tech-jobs (1391...8819)
-[2026-01-03T09:24:42.883Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Southeast @ verkada in #💻・tech-jobs
-[2026-01-03T09:24:42.883Z] [BOT] ✅ Industry: Enterprise Solutions Engineer, Southeast @ verkada
-[2026-01-03T09:24:44.384Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, Southeast @ verkada (instance #1)
-[2026-01-03T09:24:44.384Z] [BOT] 💾 BEFORE ARCHIVING: 336 jobs in database
-[2026-01-03T09:24:44.384Z] [BOT] ✅ No jobs to archive (all 336 jobs within 7-day window)
-[2026-01-03T09:24:44.388Z] [BOT] 💾 Saved posted_jobs.json: 336 active jobs
-[2026-01-03T09:24:44.388Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T09:24:44.389Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Southern California" @ verkada
-[2026-01-03T09:24:44.389Z] [BOT] Category: TECH (matched: "engineer/engineering")
+[2026-01-03T09:37:14.418Z] [BOT] ✅ Created forum post: 🏢 Senior Project Engineer, Global Services @ verkada in #💻・tech-jobs
+  ✅ Industry: Senior Project Engineer, Global Services @ verkada
+[2026-01-03T09:37:16.178Z] [BOT] ✅ Created forum post: 🏢 Senior Project Engineer, Global Services @ verkada in #🗽・new-york
+  ✅ Location: 🗽・new-york
+[2026-01-03T09:37:17.679Z] [BOT] 💾 Marked as posted: Senior Project Engineer, Global Services @ verkada (instance #1)
+[2026-01-03T09:37:17.680Z] [BOT] 💾 BEFORE ARCHIVING: 347 jobs in database
+[2026-01-03T09:37:17.680Z] [BOT] ✅ No jobs to archive (all 347 jobs within 7-day window)
+[2026-01-03T09:37:17.683Z] [BOT] 💾 Saved posted_jobs.json: 347 active jobs
+[2026-01-03T09:37:17.684Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:37:17.684Z] [BOT] 💾 Marked as posted: Senior Project Engineer, Global Services @ verkada (instance #1)
+💾 BEFORE ARCHIVING: 348 jobs in database
+[2026-01-03T09:37:17.684Z] [BOT] ✅ No jobs to archive (all 348 jobs within 7-day window)
+[2026-01-03T09:37:17.687Z] [BOT] 💾 Saved posted_jobs.json: 348 active jobs
+[2026-01-03T09:37:17.687Z] [BOT] ✅ Verified: Database file matches in-memory state
+💾 Marked as posted: Senior Project Engineer, Global Services @ verkada (instance #1)
+💾 BEFORE ARCHIVING: 349 jobs in database
+[2026-01-03T09:37:17.687Z] [BOT] ✅ No jobs to archive (all 349 jobs within 7-day window)
+[2026-01-03T09:37:17.690Z] [BOT] 💾 Saved posted_jobs.json: 349 active jobs
+[2026-01-03T09:37:17.690Z] [BOT] ✅ Verified: Database file matches in-memory state
+💾 Marked as posted: Senior Project Engineer, Global Services @ verkada (instance #1)
+[2026-01-03T09:37:17.690Z] [BOT] 💾 BEFORE ARCHIVING: 350 jobs in database
+[2026-01-03T09:37:17.691Z] [BOT] ✅ No jobs to archive (all 350 jobs within 7-day window)
+[2026-01-03T09:37:17.693Z] [BOT] 💾 Saved posted_jobs.json: 350 active jobs
+[2026-01-03T09:37:17.693Z] [BOT] ✅ Verified: Database file matches in-memory state
+💾 Marked as posted: Senior Project Engineer, Global Services @ verkada (instance #1)
+💾 BEFORE ARCHIVING: 351 jobs in database
+[2026-01-03T09:37:17.694Z] [BOT] ✅ No jobs to archive (all 351 jobs within 7-day window)
+[2026-01-03T09:37:17.696Z] [BOT] 💾 Saved posted_jobs.json: 351 active jobs
+[2026-01-03T09:37:17.696Z] [BOT] ✅ Verified: Database file matches in-memory state
+💾 Marked as posted: Senior Project Engineer, Global Services @ verkada (instance #1)
+💾 BEFORE ARCHIVING: 352 jobs in database
+[2026-01-03T09:37:17.697Z] [BOT] ✅ No jobs to archive (all 352 jobs within 7-day window)
+[2026-01-03T09:37:17.699Z] [BOT] 💾 Saved posted_jobs.json: 352 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-03T09:37:17.700Z] [BOT] 📍 [ROUTING] "Solutions Engineer" @ verkada
+[2026-01-03T09:37:17.700Z] [BOT] Category: TECH (matched: "engineer/engineering")
    Channel: 💻・tech-jobs (1391...8819)
-[2026-01-03T09:24:44.898Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Southern California @ verkada in #💻・tech-jobs
-[2026-01-03T09:24:44.898Z] [BOT] ✅ Industry: Enterprise Solutions Engineer, Southern California @ verkada
-[2026-01-03T09:24:46.583Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Southern California @ verkada in #🦢・los-angeles
-[2026-01-03T09:24:46.583Z] [BOT] ✅ Location: 🦢・los-angeles
-[2026-01-03T09:24:48.084Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, Southern California @ verkada (instance #1)
-[2026-01-03T09:24:48.084Z] [BOT] 💾 BEFORE ARCHIVING: 337 jobs in database
-[2026-01-03T09:24:48.084Z] [BOT] ✅ No jobs to archive (all 337 jobs within 7-day window)
-[2026-01-03T09:24:48.087Z] [BOT] 💾 Saved posted_jobs.json: 337 active jobs
+[2026-01-03T09:37:18.016Z] [BOT] ✅ Created forum post: 🏢 Solutions Engineer @ verkada in #💻・tech-jobs
+[2026-01-03T09:37:18.016Z] [BOT] ✅ Industry: Solutions Engineer @ verkada
+[2026-01-03T09:37:19.518Z] [BOT] 💾 Marked as posted: Solutions Engineer @ verkada (instance #1)
+[2026-01-03T09:37:19.518Z] [BOT] 💾 BEFORE ARCHIVING: 353 jobs in database
+[2026-01-03T09:37:19.518Z] [BOT] ✅ No jobs to archive (all 353 jobs within 7-day window)
+[2026-01-03T09:37:19.522Z] [BOT] 💾 Saved posted_jobs.json: 353 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-03T09:24:48.088Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, West Coast" @ verkada
-[2026-01-03T09:24:48.088Z] [BOT] Category: TECH (matched: "engineer/engineering")
+[2026-01-03T09:37:19.523Z] [BOT] 📍 [ROUTING] "Solutions Engineering Manager, Select & Territory" @ verkada
+[2026-01-03T09:37:19.523Z] [BOT] Category: TECH (matched: "engineer/engineering")
    Channel: 💻・tech-jobs (1391...8819)
-[2026-01-03T09:24:48.497Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, West Coast @ verkada in #💻・tech-jobs
-[2026-01-03T09:24:48.497Z] [BOT] ✅ Industry: Enterprise Solutions Engineer, West Coast @ verkada
-[2026-01-03T09:24:50.205Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, West Coast @ verkada in #🌧️・seattle
-[2026-01-03T09:24:50.205Z] [BOT] ✅ Location: 🌧️・seattle
-[2026-01-03T09:24:51.706Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, West Coast @ verkada (instance #1)
-[2026-01-03T09:24:51.706Z] [BOT] 💾 BEFORE ARCHIVING: 338 jobs in database
-[2026-01-03T09:24:51.706Z] [BOT] ✅ No jobs to archive (all 338 jobs within 7-day window)
-[2026-01-03T09:24:51.710Z] [BOT] 💾 Saved posted_jobs.json: 338 active jobs
-[2026-01-03T09:24:51.710Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T09:24:54.711Z] [BOT] 📌 Posting 1 jobs to #📈・JID_fb739488
-[2026-01-03T09:24:54.711Z] [BOT] 📍 [ROUTING] "National Channel Sales Manager, Midwest" @ verkada
-   Category: DATA-SCIENCE (matched: "data analytics")
-   Channel: 📈・JID_fb739488 (1446...2761)
-   ⚠️  Multiple matches: dsMatch, nonTechMatch (using data-science)
-[2026-01-03T09:24:54.939Z] [BOT] ✅ Created forum post: 🏢 National Channel Sales Manager, Midwest @ verkada in #📈・JID_fb739488
-[2026-01-03T09:24:54.939Z] [BOT] ✅ Industry: National Channel Sales Manager, Midwest @ verkada
-[2026-01-03T09:24:56.634Z] [BOT] ✅ Created forum post: 🏢 National Channel Sales Manager, Midwest @ verkada in #🌆・chicago
-  ✅ Location: 🌆・chicago
-[2026-01-03T09:24:58.135Z] [BOT] 💾 Marked as posted: National Channel Sales Manager, Midwest @ verkada (instance #1)
-[2026-01-03T09:24:58.136Z] [BOT] 💾 BEFORE ARCHIVING: 339 jobs in database
-[2026-01-03T09:24:58.136Z] [BOT] ✅ No jobs to archive (all 339 jobs within 7-day window)
-[2026-01-03T09:24:58.139Z] [BOT] 💾 Saved posted_jobs.json: 339 active jobs
-[2026-01-03T09:24:58.140Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T09:25:01.141Z] [BOT] 📌 Posting 3 jobs to #💲・sales-jobs
-[2026-01-03T09:25:01.141Z] [BOT] 📍 [ROUTING] "Regional Sales Manager, Mid-Market" @ verkada
-[2026-01-03T09:25:01.141Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T09:25:01.358Z] [BOT] ✅ Created forum post: 🏢 Regional Sales Manager, Mid-Market @ verkada in #💲・sales-jobs
-[2026-01-03T09:25:01.358Z] [BOT] ✅ Industry: Regional Sales Manager, Mid-Market @ verkada
-[2026-01-03T09:25:02.860Z] [BOT] 💾 Marked as posted: Regional Sales Manager, Mid-Market @ verkada (instance #1)
-[2026-01-03T09:25:02.860Z] [BOT] 💾 BEFORE ARCHIVING: 340 jobs in database
-[2026-01-03T09:25:02.860Z] [BOT] ✅ No jobs to archive (all 340 jobs within 7-day window)
-[2026-01-03T09:25:02.863Z] [BOT] 💾 Saved posted_jobs.json: 340 active jobs
-[2026-01-03T09:25:02.864Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T09:25:02.864Z] [BOT] 📍 [ROUTING] "Sales Development Representative (AAE), New York City " @ verkada
-[2026-01-03T09:25:02.864Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T09:25:03.126Z] [BOT] ✅ Created forum post: 🏢 Sales Development Representative (AAE), New York City  @ verkada in #💲・sales-jobs
-[2026-01-03T09:25:03.126Z] [BOT] ✅ Industry: Sales Development Representative (AAE), New York City  @ verkada
-[2026-01-03T09:25:04.931Z] [BOT] ✅ Created forum post: 🏢 Sales Development Representative (AAE), New York City  @ verkada in #🗽・new-york
-[2026-01-03T09:25:04.931Z] [BOT] ✅ Location: 🗽・new-york
-[2026-01-03T09:25:06.433Z] [BOT] 💾 Marked as posted: Sales Development Representative (AAE), New York City  @ verkada (instance #1)
-[2026-01-03T09:25:06.433Z] [BOT] 💾 BEFORE ARCHIVING: 341 jobs in database
-[2026-01-03T09:25:06.434Z] [BOT] ✅ No jobs to archive (all 341 jobs within 7-day window)
-[2026-01-03T09:25:06.437Z] [BOT] 💾 Saved posted_jobs.json: 341 active jobs
-[2026-01-03T09:25:06.437Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T09:25:06.437Z] [BOT] 📍 [ROUTING] "Sales Development Representative (AAE), Phoenix" @ verkada
-[2026-01-03T09:25:06.437Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T09:25:06.737Z] [BOT] ✅ Created forum post: 🏢 Sales Development Representative (AAE), Phoenix @ verkada in #💲・sales-jobs
-  ✅ Industry: Sales Development Representative (AAE), Phoenix @ verkada
-[2026-01-03T09:25:08.239Z] [BOT] 💾 Marked as posted: Sales Development Representative (AAE), Phoenix @ verkada (instance #1)
-[2026-01-03T09:25:08.239Z] [BOT] 💾 BEFORE ARCHIVING: 342 jobs in database
-[2026-01-03T09:25:08.239Z] [BOT] ✅ No jobs to archive (all 342 jobs within 7-day window)
-[2026-01-03T09:25:08.242Z] [BOT] 💾 Saved posted_jobs.json: 342 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-03T09:25:11.244Z] [BOT] 📌 Posting 2 jobs to #📁・JID_e938df7b
-[2026-01-03T09:25:11.244Z] [BOT] 📍 [ROUTING] "Sales Recruiter" @ verkada
-[2026-01-03T09:25:11.244Z] [BOT] Category: HR (matched: "hr")
-   Channel: 📁・JID_e938df7b (1391...7674)
-[2026-01-03T09:25:11.556Z] [BOT] ✅ Created forum post: 🏢 Sales Recruiter @ verkada in #📁・JID_e938df7b
-[2026-01-03T09:25:11.556Z] [BOT] ✅ Industry: Sales Recruiter @ verkada
-[2026-01-03T09:25:13.256Z] [BOT] ✅ Created forum post: 🏢 Sales Recruiter @ verkada in #🗽・new-york
-[2026-01-03T09:25:13.257Z] [BOT] ✅ Location: 🗽・new-york
-[2026-01-03T09:25:14.758Z] [BOT] 💾 Marked as posted: Sales Recruiter @ verkada (instance #1)
-[2026-01-03T09:25:14.758Z] [BOT] 💾 BEFORE ARCHIVING: 343 jobs in database
-[2026-01-03T09:25:14.758Z] [BOT] ✅ No jobs to archive (all 343 jobs within 7-day window)
-[2026-01-03T09:25:14.762Z] [BOT] 💾 Saved posted_jobs.json: 343 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-03T09:25:14.762Z] [BOT] 📍 [ROUTING] "Sales Recruiter, Salt Lake City" @ verkada
-[2026-01-03T09:25:14.763Z] [BOT] Category: HR (matched: "hr")
-   Channel: 📁・JID_e938df7b (1391...7674)
-[2026-01-03T09:25:15.030Z] [BOT] ✅ Created forum post: 🏢 Sales Recruiter, Salt Lake City @ verkada in #📁・JID_e938df7b
-  ✅ Industry: Sales Recruiter, Salt Lake City @ verkada
-[2026-01-03T09:25:16.532Z] [BOT] 💾 Marked as posted: Sales Recruiter, Salt Lake City @ verkada (instance #1)
-[2026-01-03T09:25:16.532Z] [BOT] 💾 BEFORE ARCHIVING: 344 jobs in database
-[2026-01-03T09:25:16.532Z] [BOT] ✅ No jobs to archive (all 344 jobs within 7-day window)
-[2026-01-03T09:25:16.535Z] [BOT] 💾 Saved posted_jobs.json: 344 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-03T09:25:19.536Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_b75dc978 (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_64e076e0 (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_3fa8d492 (posted within 7 days)
-⏭️  Skipping duplicate: JID_d5432eed (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_3e27f1f0 (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_81e4bb0d (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_aa58a0bd (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_f905c4bf (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_18d5239c (posted within 7 days)
-[2026-01-03T09:25:19.537Z] [BOT] ⏭️  Skipping duplicate: JID_d3455369 (posted within 7 days)
-[2026-01-03T09:25:19.615Z] [BOT] ✅ Loaded pending queue: 955 total (935 pending, 20 enriched, 0 posted)
-[2026-01-03T09:25:19.731Z] [BOT] ✅ Saved pending queue: 955 total (935 pending, 10 enriched, 10 posted)
-📋 Updated queue: marked 10 jobs as posted
-[2026-01-03T09:25:19.731Z] [BOT] ✅ All posting operations complete, cleaning up...
-[2026-01-03T09:25:19.774Z] [BOT] 📂 Loaded 1343 existing routing entries
-[2026-01-03T09:25:19.819Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-   New entries: 10
-   Total entries: 1353
-   Timestamp: 2026-01-03T09:25:19.814Z
-[2026-01-03T09:25:19.820Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_2f95e3fe.jsonl
-   Total attempts: 15
-[2026-01-03T09:25:19.820Z] [BOT] Successful: 15
+[2026-01-03T09:37:19.870Z] [BOT] ✅ Created forum post: 🏢 Solutions Engineering Manager, Select & Territory @ verkada in #💻・tech-jobs
+  ✅ Industry: Solutions Engineering Manager, Select & Territory @ verkada
+[2026-01-03T09:37:21.811Z] [BOT] ✅ Created forum post: 🏢 Solutions Engineering Manager, Select & Territory @ verkada in #💻・remote-usa
+  ✅ Location: 💻・remote-usa
+[2026-01-03T09:37:23.312Z] [BOT] 💾 Marked as posted: Solutions Engineering Manager, Select & Territory @ verkada (instance #1)
+[2026-01-03T09:37:23.312Z] [BOT] 💾 BEFORE ARCHIVING: 354 jobs in database
+[2026-01-03T09:37:23.312Z] [BOT] ✅ No jobs to archive (all 354 jobs within 7-day window)
+[2026-01-03T09:37:23.316Z] [BOT] 💾 Saved posted_jobs.json: 354 active jobs
+[2026-01-03T09:37:23.316Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:37:26.317Z] [BOT] 🎉 Posting complete! Successfully posted: 5, Failed: 0
+[2026-01-03T09:37:26.317Z] [BOT] ⏭️  Skipping duplicate: JID_655e3681 (posted within 7 days)
+[2026-01-03T09:37:26.317Z] [BOT] ⏭️  Skipping duplicate: JID_e1dc469b (posted within 7 days)
+⏭️  Skipping duplicate: JID_a1c0a588 (posted within 7 days)
+[2026-01-03T09:37:26.318Z] [BOT] ⏭️  Skipping duplicate: JID_6b30789d (posted within 7 days)
+⏭️  Skipping duplicate: JID_77ee8e7b (posted within 7 days)
+[2026-01-03T09:37:26.395Z] [BOT] ✅ Loaded pending queue: 945 total (925 pending, 20 enriched, 0 posted)
+[2026-01-03T09:37:26.514Z] [BOT] ✅ Saved pending queue: 945 total (925 pending, 15 enriched, 5 posted)
+📋 Updated queue: marked 5 jobs as posted
+[2026-01-03T09:37:26.515Z] [BOT] ✅ All posting operations complete, cleaning up...
+[2026-01-03T09:37:26.560Z] [BOT] 📂 Loaded 1353 existing routing entries
+[2026-01-03T09:37:26.606Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 5
+[2026-01-03T09:37:26.606Z] [BOT] Total entries: 1358
+   Timestamp: 2026-01-03T09:37:26.600Z
+[2026-01-03T09:37:26.607Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_2f95e3fe.jsonl
+[2026-01-03T09:37:26.607Z] [BOT] Total attempts: 9
+   Successful: 9
    Failed: 0
    Skipped: 0
-📊 CHANNEL STATS SINCE LAST CLEANUP:
-   Last cleanup: Never
-   Total posts: 15
-   Channels used: 8
+[2026-01-03T09:37:26.607Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+[2026-01-03T09:37:26.607Z] [BOT] Last cleanup: Never
+   Total posts: 9
+   Channels used: 4
    Top channels:
-     1. #💻・tech-jobs: 4 posts
-     2. #💲・sales-jobs: 3 posts
-     3. #🗽・new-york: 2 posts
-     4. #📁・JID_e938df7b: 2 posts
-     5. #🦢・los-angeles: 1 posts
-[2026-01-03T09:25:19.821Z] [BOT] [STATS] Channel stats saved
-[2026-01-03T09:25:21.838Z] 
+[2026-01-03T09:37:26.607Z] [BOT] 1. #🗽・new-york: 3 posts
+     2. #💻・tech-jobs: 3 posts
+     3. #📣・marketing-jobs: 2 posts
+[2026-01-03T09:37:26.607Z] [BOT] 4. #💻・remote-usa: 1 posts
+[2026-01-03T09:37:26.608Z] [BOT] [STATS] Channel stats saved
+[2026-01-03T09:37:28.625Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2357) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2313) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
