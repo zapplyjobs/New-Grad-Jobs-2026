@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T07:24:07.498Z",
+  "lastUpdated": "2026-01-03T07:38:05.290Z",
   "jobs": [
-    {
-      "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910-2025-12-27-1",
-      "jobId": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910",
-      "company": "Fanatics",
-      "title": "Software Engineer 1 - Backend",
-      "postedToDiscord": "2025-12-27T07:34:55.447Z",
-      "sourceDate": "2025-12-27T07:13:23.000Z",
-      "sourceUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910",
-      "discordThreadId": "1454376975886979072",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-eyesouthpartners-icims-com-jobs-8450-job-2025-12-27-1",
       "jobId": "careers-eyesouthpartners-icims-com-jobs-8450-job",
@@ -2916,14 +2905,124 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6567205?gh_jid=6567205",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567232-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567232",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Jacksonville, FL",
+      "postedToDiscord": "2026-01-03T07:38:05.252Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567232?gh_jid=6567232",
+      "discordThreadId": "1456914493702406241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6392574-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6392574",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Miami, FL",
+      "postedToDiscord": "2026-01-03T07:38:05.264Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392574?gh_jid=6392574",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567208-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567208",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Miami, FL",
+      "postedToDiscord": "2026-01-03T07:38:05.267Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567208?gh_jid=6567208",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6392556-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6392556",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Nashville, TN",
+      "postedToDiscord": "2026-01-03T07:38:05.271Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392556?gh_jid=6392556",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567224-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567224",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Orlando, FL",
+      "postedToDiscord": "2026-01-03T07:38:05.274Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567224?gh_jid=6567224",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567252-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567252",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Philadelphia, PA",
+      "postedToDiscord": "2026-01-03T07:38:05.277Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567252?gh_jid=6567252",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567249-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567249",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Providence, RI",
+      "postedToDiscord": "2026-01-03T07:38:05.280Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567249?gh_jid=6567249",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6392562-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6392562",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Raleigh, NC",
+      "postedToDiscord": "2026-01-03T07:38:05.284Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392562?gh_jid=6392562",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567273-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567273",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Richmond, VA",
+      "postedToDiscord": "2026-01-03T07:38:05.287Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567273?gh_jid=6567273",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567212-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567212",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - San Antonio, TX",
+      "postedToDiscord": "2026-01-03T07:38:05.290Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567212?gh_jid=6567212",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 265,
+    "totalJobs": 274,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T07:24:07.498Z",
+      "date": "2026-01-03T07:38:05.290Z",
       "archived": 0
     }
   }
