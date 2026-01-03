@@ -11,6 +11,26 @@ import './Home.css';
 import JobTable from '../../components/JobTables/jobtable';
 import { parseJobsFromReadme, validateAndCleanJobs } from '../../utility/parseJobs';
 
+// Convert posted time string to timestamp for sorting
+const getPostedTimestamp = (posted) => {
+  if (!posted) return 0;
+  const p = posted.toLowerCase();
+  const now = Date.now();
+  const hour = 60 * 60 * 1000;
+  const day = 24 * hour;
+
+  if (p.includes('just now')) return now;
+  if (p.includes('today')) return now - hour;
+
+  const num = parseInt(p) || 1;
+  if (p.includes('h')) return now - (num * hour);
+  if (p.includes('d')) return now - (num * day);
+  if (p.includes('w')) return now - (num * 7 * day);
+  if (p.includes('mo')) return now - (num * 30 * day);
+
+  return 0;
+};
+
 const Home = () => {
   const { isDarkMode } = useTheme();
   const [stats, setStats] = useState([
@@ -22,149 +42,73 @@ const Home = () => {
   const [jobs, setJobs] = useState([]);
   const [isLoadingStats, setIsLoadingStats] = useState(true);
   const [isLoading, setIsLoading] = useState(true);
-  // const [debugInfo, setDebugInfo] = useState('');
 
   useEffect(() => {
     const loadData = async () => {
       try {
         setIsLoading(true);
         console.log('🔍 Starting to load job data...');
-        
-        // We'll calculate stats after jobs are loaded
-        console.log('📊 Will calculate stats from job data...');
-        
-        // Fetch README content
-        console.log('📄 Fetching README content...');
-        const response = await fetch('https://raw.githubusercontent.com/zapplyjobs/New-Grad-Positions/main/README.md');
-        
+
+        // Fetch README and parse job tables
+        console.log('📄 Fetching README.md...');
+        const response = await fetch('https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/README.md');
+
         if (!response.ok) {
           throw new Error(`Failed to fetch README: ${response.status} ${response.statusText}`);
         }
-        
+
         const readmeContent = await response.text();
-        console.log(`📝 README content length: ${readmeContent.length} characters`);
-        
-        // Debug: Show a sample of the README content
-        const sampleContent = readmeContent.substring(0, 1000);
-        console.log('📋 README sample:', sampleContent);
-        // setDebugInfo(`README loaded: ${readmeContent.length} chars`);
-        
+        console.log(`📦 Fetched README (${readmeContent.length} chars)`);
+
         // Parse jobs from README
-        console.log('🔧 Parsing jobs from README...');
-        let parsedJobs = parseJobsFromReadme(readmeContent);
-        console.log(`✅ Initial parsing found ${parsedJobs.length} jobs`);
-        
-        // Show companies found before cleaning
-        const rawCompanies = [...new Set(parsedJobs.map(job => job.company))];
-        console.log('🏢 Raw companies found:', rawCompanies);
-        
-        // Clean and validate jobs
-        parsedJobs = validateAndCleanJobs(parsedJobs);
-        console.log(`🧹 After cleaning: ${parsedJobs.length} valid jobs`);
-        
-        // Show final companies
-        const finalCompanies = [...new Set(parsedJobs.map(job => job.company))];
-        console.log('🏆 Final companies:', finalCompanies);
-        
-        // Debug: Show sample jobs
-        if (parsedJobs.length > 0) {
-          console.log('📋 Sample jobs:', parsedJobs.slice(0, 3));
-          // setDebugInfo(`Found ${parsedJobs.length} jobs from ${finalCompanies.length} companies: ${finalCompanies.slice(0, 5).join(', ')}${finalCompanies.length > 5 ? '...' : ''}`);
-        } else {
-          console.warn('⚠️ No jobs found in README, adding sample data');
-          // setDebugInfo('No jobs found in README');
-          
-          // Add some sample data if no jobs are found
-          parsedJobs = [
-            {
-              company: 'Netflix',
-              emoji: '🎬',
-              role: 'Software Engineer (L4) - Machine Learning',
-              location: 'Los Gatos, CA',
-              posted: '2d ago',
-              level: 'Mid-Level',
-              category: 'Machine Learning & AI',
-              applyLink: 'https://explore.jobs.netflix.net/careers',
-              isRemote: false,
-              isUSOnly: true
-            },
-            {
-              company: 'Google',
-              emoji: '🟢',
-              role: 'Software Engineer - New Grad',
-              location: 'Mountain View, CA',
-              posted: '1d ago',
-              level: 'Entry-Level',
-              category: 'Software Engineering',
-              applyLink: 'https://careers.google.com/',
-              isRemote: false,
-              isUSOnly: false
-            },
-            {
-              company: 'Meta',
-              emoji: '🔵',
-              role: 'Frontend Engineer - University Grad',
-              location: 'Menlo Park, CA',
-              posted: '3d ago',
-              level: 'Entry-Level',
-              category: 'Frontend Development',
-              applyLink: 'https://careers.meta.com/',
-              isRemote: true,
-              isUSOnly: false
-            }
-          ];
-          
-          // Try to find table structures
-          const tableCount = (readmeContent.match(/\|.*\|.*\|.*\|/g) || []).length;
-          const companyHeaders = (readmeContent.match(/###.*\*\*.*\*\*/g) || []).length;
-          const summaryTags = (readmeContent.match(/<summary>/g) || []).length;
-          console.log(`🔍 Debug: Found ${tableCount} table rows, ${companyHeaders} company headers, ${summaryTags} summary tags`);
-          // setDebugInfo(`Debug: ${tableCount} table rows, ${companyHeaders} company headers, ${summaryTags} summary tags found`);
-        }
-        
-        setJobs(parsedJobs);
+        const parsedJobs = parseJobsFromReadme(readmeContent);
+        console.log(`🔍 Parsed ${parsedJobs.length} jobs from README`);
+
+        // Clean and validate
+        const cleanedJobs = validateAndCleanJobs(parsedJobs);
+        console.log(`🧹 Cleaned to ${cleanedJobs.length} valid jobs`);
+
+        // Add timestamp for sorting and sort by posted date (newest first)
+        const jobsWithTimestamp = cleanedJobs.map(job => ({
+          ...job,
+          postedTimestamp: getPostedTimestamp(job.posted)
+        })).sort((a, b) => b.postedTimestamp - a.postedTimestamp);
+
+        console.log('📋 Sample jobs:', jobsWithTimestamp.slice(0, 3));
+
+        setJobs(jobsWithTimestamp);
         
         // Calculate dynamic stats from job data
         const calculateStats = (jobsData) => {
-          const newJobs = jobsData.length;
+          const totalJobs = jobsData.length;
           const companies = [...new Set(jobsData.map(job => job.company))].length;
-          
+
           // Define FAANG+ companies
           const faangCompanies = [
             'Google', 'Apple', 'Meta', 'Amazon', 'Netflix', 'Microsoft',
             'Tesla', 'Nvidia', 'OpenAI', 'Uber', 'Airbnb', 'Stripe',
             'Palantir', 'Snowflake', 'Databricks', 'Figma', 'Discord',
             'Spotify', 'Slack', 'Zoom', 'Shopify', 'Square', 'Twitter',
-            'LinkedIn', 'Salesforce', 'Adobe', 'Intel', 'AMD'
+            'LinkedIn', 'Salesforce', 'Adobe', 'Intel', 'AMD', 'ByteDance'
           ];
-          
-          const faangRoles = jobsData.filter(job => 
-            faangCompanies.some(company => 
+
+          const faangRoles = jobsData.filter(job =>
+            faangCompanies.some(company =>
               job.company.toLowerCase().includes(company.toLowerCase())
             )
           ).length;
-          
-          // Function to round down to nearest hundred for animation
-          const roundToNearestHundred = (num) => {
-            if (num < 100) return num; // Don't format small numbers
-            return Math.floor(num / 100) * 100;
-          };
-          
-          return {
-            newJobs: roundToNearestHundred(newJobs),
-            companies: roundToNearestHundred(companies),
-            faangRoles: roundToNearestHundred(faangRoles)
-          };
+
+          return { totalJobs, companies, faangRoles };
         };
-        
-        const dynamicStats = calculateStats(parsedJobs);
+
+        const dynamicStats = calculateStats(jobsWithTimestamp);
         
         // Update stats with animation
         setStats([
-          { number: dynamicStats.newJobs, label: 'New Jobs', animated: true },
+          { number: dynamicStats.totalJobs, label: 'Jobs', animated: true },
           { number: dynamicStats.companies, label: 'Companies', animated: true },
           { number: dynamicStats.faangRoles, label: 'FAANG+ Roles', animated: true },
-          { number: '1h', label: 'Updated', animated: false }
+          { number: '15m', label: 'Updated', animated: false }
         ]);
         setIsLoadingStats(false);
         

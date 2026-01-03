@@ -2,6 +2,216 @@
 import React, { useState, useEffect } from 'react';
 import './JobTable.css';
 
+// Company name to domain mapping for accurate favicon fetching
+const COMPANY_DOMAINS = {
+  // FAANG+
+  'amazon': 'amazon.com',
+  'google': 'google.com',
+  'meta': 'meta.com',
+  'apple': 'apple.com',
+  'netflix': 'netflix.com',
+  'microsoft': 'microsoft.com',
+
+  // Big Tech
+  'bytedance': 'bytedance.com',
+  'salesforce': 'salesforce.com',
+  'nvidia': 'nvidia.com',
+  'tesla': 'tesla.com',
+  'spacex': 'spacex.com',
+  'uber': 'uber.com',
+  'lyft': 'lyft.com',
+  'airbnb': 'airbnb.com',
+  'stripe': 'stripe.com',
+  'oracle': 'oracle.com',
+  'ibm': 'ibm.com',
+  'intel': 'intel.com',
+  'amd': 'amd.com',
+  'cisco': 'cisco.com',
+  'adobe': 'adobe.com',
+  'vmware': 'vmware.com',
+  'dell': 'dell.com',
+  'hp': 'hp.com',
+  'qualcomm': 'qualcomm.com',
+  'broadcom': 'broadcom.com',
+
+  // Finance
+  'jpmorgan': 'jpmorgan.com',
+  'goldman sachs': 'goldmansachs.com',
+  'morgan stanley': 'morganstanley.com',
+  'citi': 'citi.com',
+  'capital one': 'capitalone.com',
+  'bank of america': 'bankofamerica.com',
+  'wells fargo': 'wellsfargo.com',
+  'pnc': 'pnc.com',
+  'pnc financial': 'pnc.com',
+  'pnc financial services': 'pnc.com',
+  'mufg': 'mufg.jp',
+  'chicago trading': 'chicagotrading.com',
+  'chicago trading company': 'chicagotrading.com',
+
+  // Defense/Aerospace
+  'lockheed martin': 'lockheedmartin.com',
+  'raytheon': 'rtx.com',
+  'rtx': 'rtx.com',
+  'northrop grumman': 'northropgrumman.com',
+  'boeing': 'boeing.com',
+  'general dynamics': 'gd.com',
+  'l3harris': 'l3harris.com',
+  'bae systems': 'baesystems.com',
+  'peraton': 'peraton.com',
+  'caci': 'caci.com',
+  'booz allen': 'boozallen.com',
+  'booz allen hamilton': 'boozallen.com',
+
+  // Retail
+  'walmart': 'walmart.com',
+  'target': 'target.com',
+  'costco': 'costco.com',
+  'home depot': 'homedepot.com',
+  'best buy': 'bestbuy.com',
+  'wayfair': 'wayfair.com',
+  'chewy': 'chewy.com',
+
+  // Tech Companies
+  'rubrik': 'rubrik.com',
+  'snowflake': 'snowflake.com',
+  'databricks': 'databricks.com',
+  'datadog': 'datadoghq.com',
+  'cloudflare': 'cloudflare.com',
+  'mongodb': 'mongodb.com',
+  'elastic': 'elastic.co',
+  'splunk': 'splunk.com',
+  'crowdstrike': 'crowdstrike.com',
+  'palo alto': 'paloaltonetworks.com',
+  'okta': 'okta.com',
+  'twilio': 'twilio.com',
+  'servicenow': 'servicenow.com',
+  'workday': 'workday.com',
+  'atlassian': 'atlassian.com',
+  'docusign': 'docusign.com',
+  'dropbox': 'dropbox.com',
+  'box': 'box.com',
+  'asana': 'asana.com',
+  'hubspot': 'hubspot.com',
+  'zendesk': 'zendesk.com',
+  'toast': 'toasttab.com',
+  'doordash': 'doordash.com',
+  'instacart': 'instacart.com',
+  'coinbase': 'coinbase.com',
+  'robinhood': 'robinhood.com',
+  'plaid': 'plaid.com',
+  'affirm': 'affirm.com',
+  'reddit': 'reddit.com',
+  'pinterest': 'pinterest.com',
+  'snap': 'snap.com',
+  'discord': 'discord.com',
+  'spotify': 'spotify.com',
+  'slack': 'slack.com',
+  'zoom': 'zoom.us',
+  'shopify': 'shopify.com',
+  'figma': 'figma.com',
+  'canva': 'canva.com',
+  'notion': 'notion.so',
+  'airtable': 'airtable.com',
+
+  // Healthcare/Insurance
+  'unitedhealth': 'uhg.com',
+  'cvs': 'cvs.com',
+  'cigna': 'cigna.com',
+  'humana': 'humana.com',
+  'anthem': 'anthem.com',
+  'kaiser': 'kaiserpermanente.org',
+  'molina': 'molinahealthcare.com',
+  'molina healthcare': 'molinahealthcare.com',
+  'davita': 'davita.com',
+  'rogers behavioral': 'rogersbh.org',
+  'rogers behavioral health': 'rogersbh.org',
+  'solace': 'solace.com',
+  'solace health': 'solace.com',
+
+  // Consulting
+  'deloitte': 'deloitte.com',
+  'pwc': 'pwc.com',
+  'ey': 'ey.com',
+  'kpmg': 'kpmg.com',
+  'accenture': 'accenture.com',
+  'mckinsey': 'mckinsey.com',
+  'bcg': 'bcg.com',
+  'bain': 'bain.com',
+
+  // Other companies from README
+  'ge vernova': 'gevernova.com',
+  'general electric': 'ge.com',
+  'ge': 'ge.com',
+  'honeywell': 'honeywell.com',
+  'emerson': 'emerson.com',
+  'emerson electric': 'emerson.com',
+  'fanatics': 'fanatics.com',
+  'liberty mutual': 'libertymutual.com',
+  'cox': 'cox.com',
+  'western digital': 'westerndigital.com',
+  'factset': 'factset.com',
+  'niagara': 'niagarawater.com',
+  'niagara bottling': 'niagarawater.com',
+  'aramark': 'aramark.com',
+  'freeform': 'freeform.co',
+  'varex': 'vareximaging.com',
+  'varex imaging': 'vareximaging.com',
+  'pattern data': 'patterndata.com',
+  'wash u': 'wustl.edu',
+  'jerry': 'getjerry.com',
+  'rws': 'rws.com',
+  'citizen health': 'citizenhealth.io',
+  'cottingham': 'cottinghambutler.com',
+  'cottingham & butler': 'cottinghambutler.com',
+  'ducharme': 'dmainc.com',
+  'the boyd group': 'boydgroup.com',
+  'american institutes': 'air.org',
+  'american institutes for research': 'air.org',
+  'national renewable': 'nrel.gov',
+  'national renewable energy': 'nrel.gov',
+  'the job sauce': 'thejobsauce.com',
+};
+
+// Companies to skip favicon for (icons don't load properly)
+const SKIP_FAVICON = ['bytedance', 'tiktok'];
+
+// Get favicon URL for a company
+const getFaviconUrl = (companyName) => {
+  if (!companyName) return null;
+
+  const lowerName = companyName.toLowerCase().trim();
+
+  // Skip certain companies that don't have proper favicons
+  if (SKIP_FAVICON.some(skip => lowerName.includes(skip))) {
+    return null;
+  }
+
+  // Try direct match first
+  if (COMPANY_DOMAINS[lowerName]) {
+    return `https://www.google.com/s2/favicons?domain=${COMPANY_DOMAINS[lowerName]}&sz=64`;
+  }
+
+  // Try partial match - check if company name contains a known key
+  for (const [key, domain] of Object.entries(COMPANY_DOMAINS)) {
+    if (lowerName.includes(key)) {
+      return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+    }
+  }
+
+  // Fallback: clean company name and try as domain
+  const cleaned = lowerName
+    .replace(/\s*(inc\.?|llc\.?|ltd\.?|corp\.?|corporation|company|co\.?|group|holdings?|services?)$/gi, '')
+    .replace(/[^a-z0-9]/g, '')
+    .trim();
+
+  if (cleaned.length > 2) {
+    return `https://www.google.com/s2/favicons?domain=${cleaned}.com&sz=64`;
+  }
+
+  return null;
+};
+
 const JobTable = ({ jobs }) => {
   const [filteredJobs, setFilteredJobs] = useState(jobs);
   const [filters, setFilters] = useState({
@@ -123,19 +333,26 @@ const JobTable = ({ jobs }) => {
           break;
         case 'posted':
         default:
-          // Sort by posted date (most recent first)
-          const getTimeValue = (posted) => {
-            if (!posted) return 0;
-            const p = posted.toLowerCase();
-            if (p.includes('today') || p.includes('just now')) return 1000;
-            if (p.includes('yesterday')) return 500;
-            if (p.includes('h ago')) return 100 - parseInt(p);
-            if (p.includes('d ago')) return 50 - parseInt(p);
-            if (p.includes('w ago')) return 20 - parseInt(p);
-            if (p.includes('mo ago')) return 10 - parseInt(p);
-            return 0;
-          };
-          comparison = getTimeValue(b.posted) - getTimeValue(a.posted);
+          // Sort by timestamp if available, otherwise parse posted string
+          if (a.postedTimestamp && b.postedTimestamp) {
+            comparison = b.postedTimestamp - a.postedTimestamp;
+          } else {
+            const getTimeValue = (posted) => {
+              if (!posted) return 0;
+              const p = posted.toLowerCase();
+              if (p.includes('just now')) return 10000;
+              if (p.includes('today')) return 9000;
+              if (p.includes('yesterday')) return 500;
+              // Handle formats like "1h", "2d", "1w", "1mo"
+              const num = parseInt(p) || 0;
+              if (p.includes('h')) return 1000 - num;
+              if (p.includes('d')) return 500 - num;
+              if (p.includes('w')) return 100 - num;
+              if (p.includes('mo')) return 50 - num;
+              return 0;
+            };
+            comparison = getTimeValue(b.posted) - getTimeValue(a.posted);
+          }
           break;
       }
       
@@ -409,7 +626,16 @@ const JobTable = ({ jobs }) => {
                 <tr key={index} className="job-row">
                   <td>
                     <div className="company-cell">
-                      <span className="company-emoji">{job.emoji}</span>
+                      {getFaviconUrl(job.company) ? (
+                        <img
+                          src={getFaviconUrl(job.company)}
+                          alt=""
+                          className="company-favicon"
+                          onError={(e) => { e.target.style.display = 'none'; }}
+                        />
+                      ) : (
+                        <span className="company-emoji">{job.emoji}</span>
+                      )}
                       <span className="company-name">{job.company}</span>
                     </div>
                   </td>
@@ -466,7 +692,16 @@ const JobTable = ({ jobs }) => {
             <div key={index} className="job-card">
               <div className="job-card-header">
                 <div className="job-card-company">
-                  <span className="job-card-emoji">{job.emoji}</span>
+                  {getFaviconUrl(job.company) ? (
+                    <img
+                      src={getFaviconUrl(job.company)}
+                      alt=""
+                      className="job-card-favicon"
+                      onError={(e) => { e.target.style.display = 'none'; }}
+                    />
+                  ) : (
+                    <span className="job-card-emoji">{job.emoji}</span>
+                  )}
                   <span className="job-card-company-name">{job.company}</span>
                 </div>
                 <span className="job-card-posted">{job.posted}</span>

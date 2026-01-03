@@ -246,7 +246,19 @@
   transition: all 0.2s ease;
 }
 
-.job-row:hover .company-emoji {
+.company-favicon {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  object-fit: contain;
+  background: linear-gradient(135deg, #e8e8e8 0%, #d8d8d8 100%);
+  padding: 4px;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.job-row:hover .company-emoji,
+.job-row:hover .company-favicon {
   background: #FFE8E3;
   transform: scale(1.1);
 }
@@ -648,11 +660,14 @@
   color: var(--accent-primary) !important;
 }
 
-.dark .company-emoji {
-  background: #2a2a2a;
+.dark .company-emoji,
+.dark .company-favicon {
+  background: linear-gradient(135deg, #4a4a4a 0%, #3a3a3a 100%);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
-.dark .job-row:hover .company-emoji {
+.dark .job-row:hover .company-emoji,
+.dark .job-row:hover .company-favicon {
   background: rgba(255, 138, 107, 0.2);
 }
 
@@ -865,7 +880,22 @@
     align-items: center;
     justify-content: center;
   }
-  
+
+  .job-card-favicon {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    object-fit: contain;
+    background: linear-gradient(135deg, #e8e8e8 0%, #d8d8d8 100%);
+    padding: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .dark .job-card-favicon {
+    background: linear-gradient(135deg, #4a4a4a 0%, #3a3a3a 100%);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  }
+
   .job-card-company-name {
     font-weight: 600;
     font-size: 15px;
