@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "description": "Curated list of tech companies using Greenhouse, Lever, and Ashby ATS platforms",
+    "last_updated": "2026-01-02",
+    "verified": "All slugs tested and working as of 2026-01-02",
+    "notes": "Slugs are the company identifier used in their job board URLs"
+  },
+
+  "greenhouse": [
+    { "slug": "anthropic", "name": "Anthropic" },
+    { "slug": "discord", "name": "Discord" },
+    { "slug": "stripe", "name": "Stripe" },
+    { "slug": "figma", "name": "Figma" },
+    { "slug": "coinbase", "name": "Coinbase" },
+    { "slug": "datadog", "name": "Datadog" },
+    { "slug": "brex", "name": "Brex" },
+    { "slug": "airtable", "name": "Airtable" },
+    { "slug": "reddit", "name": "Reddit" },
+    { "slug": "duolingo", "name": "Duolingo" },
+    { "slug": "dropbox", "name": "Dropbox" },
+    { "slug": "cloudflare", "name": "Cloudflare" },
+    { "slug": "verkada", "name": "Verkada" },
+    { "slug": "retool", "name": "Retool" },
+    { "slug": "vercel", "name": "Vercel" },
+    { "slug": "samsara", "name": "Samsara" },
+    { "slug": "instacart", "name": "Instacart" }
+  ],
+
+  "lever": [
+    { "slug": "spotify", "name": "Spotify" },
+    { "slug": "nominal", "name": "Nominal" },
+    { "slug": "gohighlevel", "name": "HighLevel" },
+    { "slug": "januaryinc", "name": "January AI" }
+  ],
+
+  "ashby": [
+    { "slug": "linear", "name": "Linear" },
+    { "slug": "railway", "name": "Railway" },
+    { "slug": "resend", "name": "Resend" },
+    { "slug": "supabase", "name": "Supabase" },
+    { "slug": "clerk", "name": "Clerk" }
+  ]
+}

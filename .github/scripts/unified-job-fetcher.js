@@ -1,11 +1,17 @@
 /**
  * Unified Job Fetcher
  * Orchestrates job collection from all configured sources
+ *
+ * Sources:
+ * 1. API-based companies (legacy - currently disabled)
+ * 2. Primary data source (aggregator)
+ * 3. ATS platforms (Greenhouse, Lever, Ashby) - NEW
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
+const { fetchAllATSJobs } = require('./job-fetcher/sources');
 
 /**
  * Delay helper for rate limiting
@@ -68,7 +74,32 @@ async function fetchAllJobs() {
     console.error(`❌ Primary data source failed:`, error.message);
   }
 
-  // === Part 3: Filter to US-only jobs ===
+  // === Part 3: Fetch from ATS platforms (Greenhouse, Lever, Ashby) ===
+  console.log('\n📡 Fetching from ATS platforms...');
+
+  try {
+    const { jobs: atsJobs, stats: atsStats } = await fetchAllATSJobs({ delayMs: 500 });
+
+    // Normalize ATS jobs to match expected format
+    const normalizedATSJobs = atsJobs.map(job => ({
+      // Map to legacy format expected by downstream processors
+      job_title: job.title,
+      employer_name: job.company_name,
+      job_city: job.location,
+      job_apply_link: job.url,
+      job_posted_at_datetime_utc: job.posted_at,
+      job_description: job.description,
+      // Keep original fields for reference
+      ...job
+    }));
+
+    allJobs.push(...normalizedATSJobs);
+    console.log(`📊 After ATS sources: ${allJobs.length} jobs total`);
+  } catch (error) {
+    console.error(`❌ ATS sources failed:`, error.message);
+  }
+
+  // === Part 5: Filter to US-only jobs ===
   console.log('\n🇺🇸 Filtering to US-only jobs...');
 
   const removedJobs = [];
@@ -86,7 +117,7 @@ async function fetchAllJobs() {
   console.log(`   Kept: ${usJobs.length} US jobs`);
   console.log(`   Removed: ${removedJobs.length} non-US jobs`);
 
-  // === Part 4: Remove duplicates ===
+  // === Part 6: Remove duplicates ===
   console.log('\n🔄 Removing duplicates...');
 
   const uniqueJobs = usJobs.filter((job, index, self) => {
@@ -97,7 +128,7 @@ async function fetchAllJobs() {
   const duplicatesRemoved = usJobs.length - uniqueJobs.length;
   console.log(`   Duplicates removed: ${duplicatesRemoved}`);
 
-  // === Part 5: Sort by posting date ===
+  // === Part 7: Sort by posting date ===
   uniqueJobs.sort((a, b) => {
     const dateA = new Date(a.job_posted_at_datetime_utc || 0);
     const dateB = new Date(b.job_posted_at_datetime_utc || 0);
