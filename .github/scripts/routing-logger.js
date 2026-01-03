@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { encryptLog, decryptLog } = require('./encryption-utils');
+const { encryptLog, decryptLog } = require('@zapply/job-board-shared');
 
 /**
  * Channel Routing Logger

@@ -7,7 +7,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { decryptLog } = require('./encryption-utils');
+const { decryptLog } = require('@zapply/job-board-shared');
 
 const ENCRYPTED_FILE = path.join(process.cwd(), '.github', 'data', 'jobs-data-encrypted.json');
 const PASSWORD = process.env.LOG_ENCRYPT_PASSWORD;
