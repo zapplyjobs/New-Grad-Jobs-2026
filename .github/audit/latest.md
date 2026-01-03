@@ -1,230 +1,230 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-03T15:24:51.015Z
+**Timestamp:** 2026-01-03T15:37:25.501Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 9
+- **Jobs Posted:** 10
 - **Jobs Failed:** 0
 - **Jobs Skipped:** 0
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-03T15:23:55.024Z] ========================================
-[2026-01-03T15:23:55.026Z] Discord Bot Execution Log
-[2026-01-03T15:23:55.026Z] Environment: GitHub Actions
-[2026-01-03T15:23:55.026Z] Node Version: v20.19.6
-[2026-01-03T15:23:55.026Z] ========================================
-[2026-01-03T15:23:55.026Z] Environment Variables Check:
-[2026-01-03T15:23:55.026Z] DISCORD_TOKEN: ✅ Set
-[2026-01-03T15:23:55.026Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.026Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-03T15:23:55.026Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-03T15:23:55.027Z] 
+[2026-01-03T15:36:29.694Z] ========================================
+[2026-01-03T15:36:29.696Z] Discord Bot Execution Log
+[2026-01-03T15:36:29.696Z] Environment: GitHub Actions
+[2026-01-03T15:36:29.696Z] Node Version: v20.19.6
+[2026-01-03T15:36:29.696Z] ========================================
+[2026-01-03T15:36:29.696Z] Environment Variables Check:
+[2026-01-03T15:36:29.696Z] DISCORD_TOKEN: ✅ Set
+[2026-01-03T15:36:29.696Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.696Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-03T15:36:29.696Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-03T15:36:29.696Z] 
 Multi-Channel Configuration:
-[2026-01-03T15:23:55.027Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-03T15:23:55.027Z] 
+[2026-01-03T15:36:29.697Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-03T15:36:29.697Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-03T15:23:55.027Z] 
+[2026-01-03T15:36:29.697Z] 
 Data Files Check:
-[2026-01-03T15:23:55.029Z] .github/data/new_jobs.json: ✅ Exists (10 items, 188385 bytes)
-[2026-01-03T15:23:55.031Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 292637 bytes)
-[2026-01-03T15:23:55.031Z] 
+[2026-01-03T15:36:29.699Z] .github/data/new_jobs.json: ✅ Exists (10 items, 193881 bytes)
+[2026-01-03T15:36:29.701Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 297540 bytes)
+[2026-01-03T15:36:29.701Z] 
 ========================================
-[2026-01-03T15:23:55.031Z] Starting Enhanced Discord Bot...
-[2026-01-03T15:23:55.031Z] ========================================
-[2026-01-03T15:23:55.538Z] [BOT] ✅ Loaded V2 database: 563 jobs
-[2026-01-03T15:23:56.223Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-03T15:23:56.223Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-03T15:36:29.701Z] Starting Enhanced Discord Bot...
+[2026-01-03T15:36:29.701Z] ========================================
+[2026-01-03T15:36:30.216Z] [BOT] ✅ Loaded V2 database: 573 jobs
+[2026-01-03T15:36:30.955Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-03T15:36:30.955Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply.jobs (CH_20db82b8)
-[2026-01-03T15:23:56.224Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-03T15:23:56.225Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
-[2026-01-03T15:23:56.293Z] [BOT] 🧹 Cleaned up 10 jobs older than 7 days
-[2026-01-03T15:23:56.387Z] [BOT] ✅ Export complete: Added 10, Skipped 0, Total 216
-[2026-01-03T15:23:56.389Z] [BOT] 📬 Found 10 new jobs (0 already posted)...
-[2026-01-03T15:23:56.389Z] [BOT] 📋 After blacklist filter: 10 jobs (0 blacklisted)
-[2026-01-03T15:23:56.390Z] [BOT] 📋 After data quality filter: 10 jobs (0 invalid)
-[2026-01-03T15:23:56.390Z] [BOT] 📋 After multi-location grouping: 9 unique jobs to post
-[2026-01-03T15:23:56.390Z] [BOT] (1 grouped as same job with different locations)
-📍 1 jobs with multiple locations:
-   - Product Designer - DeepSky @ airtable: san francisco, ca;, remote
-⏸️ Limiting to 10 jobs this run, 1 deferred for next run
-📤 Posting 9 jobs...
+[2026-01-03T15:36:30.955Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-03T15:36:30.956Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
+[2026-01-03T15:36:31.024Z] [BOT] 🧹 Cleaned up 10 jobs older than 7 days
+[2026-01-03T15:36:31.113Z] [BOT] ✅ Export complete: Added 10, Skipped 0, Total 216
+[2026-01-03T15:36:31.115Z] [BOT] 📬 Found 10 new jobs (0 already posted)...
+[2026-01-03T15:36:31.116Z] [BOT] 📋 After blacklist filter: 10 jobs (0 blacklisted)
+[2026-01-03T15:36:31.116Z] [BOT] 📋 After data quality filter: 10 jobs (0 invalid)
+[2026-01-03T15:36:31.116Z] [BOT] 📋 After multi-location grouping: 10 unique jobs to post
+[2026-01-03T15:36:31.117Z] [BOT] 📤 Posting 10 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-03T15:23:56.395Z] [BOT] 📌 Posting 2 jobs to #📣・marketing-jobs
-[2026-01-03T15:23:56.395Z] [BOT] 📍 [ROUTING] "Field Marketing Manager, East" @ airtable
-[2026-01-03T15:23:56.395Z] [BOT] Category: MARKETING (matched: "marketing")
-   Channel: 📣・marketing-jobs (1391...4570)
-[2026-01-03T15:23:56.400Z] [BOT ERROR] (node:2343) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-03T15:36:31.121Z] [BOT] 📌 Posting 1 jobs to #🤖・ai-jobs
+[2026-01-03T15:36:31.122Z] [BOT] 📍 [ROUTING] "Product Security Engineer" @ airtable
+[2026-01-03T15:36:31.122Z] [BOT] Category: AI (matched: "AI/ML")
+   Channel: 🤖・ai-jobs (1446...1106)
+   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
+[2026-01-03T15:36:31.127Z] [BOT ERROR] (node:2323) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-03T15:23:56.599Z] [BOT] ✅ Created forum post: 🏢 Field Marketing Manager, East @ airtable in #📣・marketing-jobs
-[2026-01-03T15:23:56.599Z] [BOT] ✅ Industry: Field Marketing Manager, East @ airtable
-[2026-01-03T15:23:58.329Z] [BOT] ✅ Created forum post: 🏢 Field Marketing Manager, East @ airtable in #🗽・new-york
-  ✅ Location: 🗽・new-york
-[2026-01-03T15:23:59.830Z] [BOT] 💾 Marked as posted: Field Marketing Manager, East @ airtable (instance #1)
-[2026-01-03T15:23:59.830Z] [BOT] 💾 BEFORE ARCHIVING: 564 jobs in database
-[2026-01-03T15:23:59.831Z] [BOT] ✅ No jobs to archive (all 564 jobs within 7-day window)
-[2026-01-03T15:23:59.839Z] [BOT] 💾 Saved posted_jobs.json: 564 active jobs
-[2026-01-03T15:23:59.840Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:23:59.841Z] [BOT] 📍 [ROUTING] "Product Designer - DeepSky" @ airtable
-[2026-01-03T15:23:59.841Z] [BOT] Category: MARKETING (matched: "growth")
-   Channel: 📣・marketing-jobs (1391...4570)
-[2026-01-03T15:24:00.366Z] [BOT] ✅ Created forum post: 🏢 Product Designer - DeepSky @ airtable in #📣・marketing-jobs
-[2026-01-03T15:24:00.366Z] [BOT] ✅ Industry: Product Designer - DeepSky @ airtable
-[2026-01-03T15:24:03.028Z] [BOT] ✅ Created forum post: 🏢 Product Designer - DeepSky @ airtable in #🌉・san-francisco
+[2026-01-03T15:36:31.462Z] [BOT] ✅ Created forum post: 🏢 Product Security Engineer @ airtable in #🤖・ai-jobs
+[2026-01-03T15:36:31.463Z] [BOT] ✅ Industry: Product Security Engineer @ airtable
+[2026-01-03T15:36:33.119Z] [BOT] ✅ Created forum post: 🏢 Product Security Engineer @ airtable in #🌉・san-francisco
   ✅ Location: 🌉・san-francisco
-[2026-01-03T15:24:04.529Z] [BOT] 💾 Marked as posted: Product Designer - DeepSky @ airtable (instance #1)
-[2026-01-03T15:24:04.529Z] [BOT] 💾 BEFORE ARCHIVING: 565 jobs in database
-[2026-01-03T15:24:04.529Z] [BOT] ✅ No jobs to archive (all 565 jobs within 7-day window)
-[2026-01-03T15:24:04.536Z] [BOT] 💾 Saved posted_jobs.json: 565 active jobs
-[2026-01-03T15:24:04.537Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:04.537Z] [BOT] 💾 Marked as posted: Product Designer - Mobile @ airtable (instance #1)
-💾 BEFORE ARCHIVING: 566 jobs in database
-[2026-01-03T15:24:04.537Z] [BOT] ✅ No jobs to archive (all 566 jobs within 7-day window)
-[2026-01-03T15:24:04.542Z] [BOT] 💾 Saved posted_jobs.json: 566 active jobs
-[2026-01-03T15:24:04.543Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:07.543Z] [BOT] 📌 Posting 2 jobs to #💲・sales-jobs
-[2026-01-03T15:24:07.545Z] [BOT] 📍 [ROUTING] "Field Marketing Specialist, West" @ airtable
-   Category: SALES (matched: "sales")
-[2026-01-03T15:24:07.545Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T15:24:07.995Z] [BOT] ✅ Created forum post: 🏢 Field Marketing Specialist, West @ airtable in #💲・sales-jobs
-  ✅ Industry: Field Marketing Specialist, West @ airtable
-[2026-01-03T15:24:09.927Z] [BOT] ✅ Created forum post: 🏢 Field Marketing Specialist, West @ airtable in #🌉・san-francisco
-  ✅ Location: 🌉・san-francisco
-[2026-01-03T15:24:11.428Z] [BOT] 💾 Marked as posted: Field Marketing Specialist, West @ airtable (instance #1)
-[2026-01-03T15:24:11.428Z] [BOT] 💾 BEFORE ARCHIVING: 567 jobs in database
-[2026-01-03T15:24:11.429Z] [BOT] ✅ No jobs to archive (all 567 jobs within 7-day window)
-[2026-01-03T15:24:11.434Z] [BOT] 💾 Saved posted_jobs.json: 567 active jobs
-[2026-01-03T15:24:11.434Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:11.434Z] [BOT] 📍 [ROUTING] "Lead Solutions Consultant" @ airtable
-[2026-01-03T15:24:11.434Z] [BOT] Category: SALES (matched: "sales")
+[2026-01-03T15:36:34.620Z] [BOT] 💾 Marked as posted: Product Security Engineer @ airtable (instance #1)
+[2026-01-03T15:36:34.620Z] [BOT] 💾 BEFORE ARCHIVING: 574 jobs in database
+[2026-01-03T15:36:34.621Z] [BOT] ✅ No jobs to archive (all 574 jobs within 7-day window)
+[2026-01-03T15:36:34.632Z] [BOT] 💾 Saved posted_jobs.json: 574 active jobs
+[2026-01-03T15:36:34.632Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:36:37.633Z] [BOT] 📌 Posting 3 jobs to #💲・sales-jobs
+[2026-01-03T15:36:37.633Z] [BOT] 📍 [ROUTING] "Renewals Associate" @ airtable
+[2026-01-03T15:36:37.634Z] [BOT] Category: SALES (matched: "sales")
    Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T15:24:13.030Z] [BOT] ✅ Created forum post: 🏢 Lead Solutions Consultant @ airtable in #💲・sales-jobs
-  ✅ Industry: Lead Solutions Consultant @ airtable
-[2026-01-03T15:24:15.106Z] [BOT] ✅ Created forum post: 🏢 Lead Solutions Consultant @ airtable in #🗽・new-york
-  ✅ Location: 🗽・new-york
-[2026-01-03T15:24:16.607Z] [BOT] 💾 Marked as posted: Lead Solutions Consultant @ airtable (instance #1)
-[2026-01-03T15:24:16.607Z] [BOT] 💾 BEFORE ARCHIVING: 568 jobs in database
-[2026-01-03T15:24:16.608Z] [BOT] ✅ No jobs to archive (all 568 jobs within 7-day window)
-[2026-01-03T15:24:16.612Z] [BOT] 💾 Saved posted_jobs.json: 568 active jobs
-[2026-01-03T15:24:16.612Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:19.613Z] [BOT] 📌 Posting 1 jobs to #📈・JID_fb739488
-[2026-01-03T15:24:19.614Z] [BOT] 📍 [ROUTING] "People Analytics Lead" @ airtable
-   Category: DATA-SCIENCE (matched: "data science")
-[2026-01-03T15:24:19.614Z] [BOT] Channel: 📈・JID_fb739488 (1446...2761)
-   ⚠️  Multiple matches: dsMatch, techMatch (using data-science)
-[2026-01-03T15:24:19.833Z] [BOT] ✅ Created forum post: 🏢 People Analytics Lead @ airtable in #📈・JID_fb739488
-  ✅ Industry: People Analytics Lead @ airtable
-[2026-01-03T15:24:21.622Z] [BOT] ✅ Created forum post: 🏢 People Analytics Lead @ airtable in #🌉・san-francisco
+[2026-01-03T15:36:37.857Z] [BOT] ✅ Created forum post: 🏢 Renewals Associate @ airtable in #💲・sales-jobs
+[2026-01-03T15:36:37.857Z] [BOT] ✅ Industry: Renewals Associate @ airtable
+[2026-01-03T15:36:39.597Z] [BOT] ✅ Created forum post: 🏢 Renewals Associate @ airtable in #🤠・austin
+  ✅ Location: 🤠・austin
+[2026-01-03T15:36:41.099Z] [BOT] 💾 Marked as posted: Renewals Associate @ airtable (instance #1)
+[2026-01-03T15:36:41.099Z] [BOT] 💾 BEFORE ARCHIVING: 575 jobs in database
+[2026-01-03T15:36:41.099Z] [BOT] ✅ No jobs to archive (all 575 jobs within 7-day window)
+[2026-01-03T15:36:41.104Z] [BOT] 💾 Saved posted_jobs.json: 575 active jobs
+[2026-01-03T15:36:41.104Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:36:41.105Z] [BOT] 📍 [ROUTING] "Scaled Customer Success Manager" @ airtable
+[2026-01-03T15:36:41.105Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-03T15:36:41.289Z] [BOT] ✅ Created forum post: 🏢 Scaled Customer Success Manager @ airtable in #💲・sales-jobs
+[2026-01-03T15:36:41.289Z] [BOT] ✅ Industry: Scaled Customer Success Manager @ airtable
+[2026-01-03T15:36:43.073Z] [BOT] ✅ Created forum post: 🏢 Scaled Customer Success Manager @ airtable in #🌉・san-francisco
+[2026-01-03T15:36:43.073Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-03T15:36:44.574Z] [BOT] 💾 Marked as posted: Scaled Customer Success Manager @ airtable (instance #1)
+[2026-01-03T15:36:44.574Z] [BOT] 💾 BEFORE ARCHIVING: 576 jobs in database
+[2026-01-03T15:36:44.575Z] [BOT] ✅ No jobs to archive (all 576 jobs within 7-day window)
+[2026-01-03T15:36:44.580Z] [BOT] 💾 Saved posted_jobs.json: 576 active jobs
+[2026-01-03T15:36:44.580Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:36:44.580Z] [BOT] 📍 [ROUTING] "Senior Manager, Finance Systems" @ airtable
+[2026-01-03T15:36:44.580Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-03T15:36:44.778Z] [BOT] ✅ Created forum post: 🏢 Senior Manager, Finance Systems @ airtable in #💲・sales-jobs
+[2026-01-03T15:36:44.778Z] [BOT] ✅ Industry: Senior Manager, Finance Systems @ airtable
+[2026-01-03T15:36:46.694Z] [BOT] ✅ Created forum post: 🏢 Senior Manager, Finance Systems @ airtable in #🌉・san-francisco
   ✅ Location: 🌉・san-francisco
-[2026-01-03T15:24:23.124Z] [BOT] 💾 Marked as posted: People Analytics Lead @ airtable (instance #1)
-[2026-01-03T15:24:23.125Z] [BOT] 💾 BEFORE ARCHIVING: 569 jobs in database
-[2026-01-03T15:24:23.125Z] [BOT] ✅ No jobs to archive (all 569 jobs within 7-day window)
-[2026-01-03T15:24:23.130Z] [BOT] 💾 Saved posted_jobs.json: 569 active jobs
-[2026-01-03T15:24:23.130Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:26.131Z] [BOT] 📌 Posting 3 jobs to #🤖・ai-jobs
-[2026-01-03T15:24:26.132Z] [BOT] 📍 [ROUTING] " People Systems Engineer, Airtable Specialist" @ airtable
-   Category: AI (matched: "AI/ML")
-   Channel: 🤖・ai-jobs (1446...1106)
-[2026-01-03T15:24:26.132Z] [BOT] ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-01-03T15:24:26.506Z] [BOT] ✅ Created forum post: 🏢  People Systems Engineer, Airtable Specialist @ airtable in #🤖・ai-jobs
-  ✅ Industry:  People Systems Engineer, Airtable Specialist @ airtable
-[2026-01-03T15:24:28.313Z] [BOT] ✅ Created forum post: 🏢  People Systems Engineer, Airtable Specialist @ airtable in #🌉・san-francisco
+[2026-01-03T15:36:48.196Z] [BOT] 💾 Marked as posted: Senior Manager, Finance Systems @ airtable (instance #1)
+[2026-01-03T15:36:48.196Z] [BOT] 💾 BEFORE ARCHIVING: 577 jobs in database
+[2026-01-03T15:36:48.197Z] [BOT] ✅ No jobs to archive (all 577 jobs within 7-day window)
+[2026-01-03T15:36:48.201Z] [BOT] 💾 Saved posted_jobs.json: 577 active jobs
+[2026-01-03T15:36:48.202Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:36:51.203Z] [BOT] 📌 Posting 1 jobs to #💰・finance-jobs
+[2026-01-03T15:36:51.203Z] [BOT] 📍 [ROUTING] "Risk Specialist, GRCP" @ airtable
+   Category: FINANCE (matched: "finance")
+[2026-01-03T15:36:51.203Z] [BOT] Channel: 💰・finance-jobs (1391...2941)
+[2026-01-03T15:36:51.652Z] [BOT] ✅ Created forum post: 🏢 Risk Specialist, GRCP @ airtable in #💰・finance-jobs
+  ✅ Industry: Risk Specialist, GRCP @ airtable
+[2026-01-03T15:36:53.448Z] [BOT] ✅ Created forum post: 🏢 Risk Specialist, GRCP @ airtable in #🌉・san-francisco
   ✅ Location: 🌉・san-francisco
-[2026-01-03T15:24:29.814Z] [BOT] 💾 Marked as posted:  People Systems Engineer, Airtable Specialist @ airtable (instance #1)
-[2026-01-03T15:24:29.815Z] [BOT] 💾 BEFORE ARCHIVING: 570 jobs in database
-[2026-01-03T15:24:29.815Z] [BOT] ✅ No jobs to archive (all 570 jobs within 7-day window)
-[2026-01-03T15:24:29.821Z] [BOT] 💾 Saved posted_jobs.json: 570 active jobs
-[2026-01-03T15:24:29.821Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:29.821Z] [BOT] 📍 [ROUTING] "Product Manager, AI" @ airtable
-[2026-01-03T15:24:29.821Z] [BOT] Category: AI (matched: "AI specialization")
-   Channel: 🤖・ai-jobs (1446...1106)
-   ⚠️  Multiple matches: aiMatch, techMatch, nonTechMatch (using ai)
-[2026-01-03T15:24:30.398Z] [BOT] ✅ Created forum post: 🏢 Product Manager, AI @ airtable in #🤖・ai-jobs
-  ✅ Industry: Product Manager, AI @ airtable
-[2026-01-03T15:24:32.188Z] [BOT] ✅ Created forum post: 🏢 Product Manager, AI @ airtable in #🌉・san-francisco
-  ✅ Location: 🌉・san-francisco
-[2026-01-03T15:24:33.690Z] [BOT] 💾 Marked as posted: Product Manager, AI @ airtable (instance #1)
-[2026-01-03T15:24:33.690Z] [BOT] 💾 BEFORE ARCHIVING: 571 jobs in database
-[2026-01-03T15:24:33.691Z] [BOT] ✅ No jobs to archive (all 571 jobs within 7-day window)
-[2026-01-03T15:24:33.695Z] [BOT] 💾 Saved posted_jobs.json: 571 active jobs
-[2026-01-03T15:24:33.696Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:33.696Z] [BOT] 📍 [ROUTING] "Product Manager, Omni Analysis & Q&A" @ airtable
-[2026-01-03T15:24:33.696Z] [BOT] Category: AI (matched: "AI specialization")
-   Channel: 🤖・ai-jobs (1446...1106)
-   ⚠️  Multiple matches: aiMatch, nonTechMatch (using ai)
-[2026-01-03T15:24:33.943Z] [BOT] ✅ Created forum post: 🏢 Product Manager, Omni Analysis & Q&A @ airtable in #🤖・ai-jobs
-  ✅ Industry: Product Manager, Omni Analysis & Q&A @ airtable
-[2026-01-03T15:24:35.803Z] [BOT] ✅ Created forum post: 🏢 Product Manager, Omni Analysis & Q&A @ airtable in #🌉・san-francisco
-  ✅ Location: 🌉・san-francisco
-[2026-01-03T15:24:37.305Z] [BOT] 💾 Marked as posted: Product Manager, Omni Analysis & Q&A @ airtable (instance #1)
-[2026-01-03T15:24:37.305Z] [BOT] 💾 BEFORE ARCHIVING: 572 jobs in database
-[2026-01-03T15:24:37.305Z] [BOT] ✅ No jobs to archive (all 572 jobs within 7-day window)
-[2026-01-03T15:24:37.310Z] [BOT] 💾 Saved posted_jobs.json: 572 active jobs
-[2026-01-03T15:24:37.310Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:40.312Z] [BOT] 📌 Posting 1 jobs to #💻・tech-jobs
-[2026-01-03T15:24:40.312Z] [BOT] 📍 [ROUTING] "Product Manager, AI & Automation" @ airtable
-[2026-01-03T15:24:40.312Z] [BOT] Category: TECH (matched: "machine learning")
+[2026-01-03T15:36:54.950Z] [BOT] 💾 Marked as posted: Risk Specialist, GRCP @ airtable (instance #1)
+[2026-01-03T15:36:54.951Z] [BOT] 💾 BEFORE ARCHIVING: 578 jobs in database
+[2026-01-03T15:36:54.951Z] [BOT] ✅ No jobs to archive (all 578 jobs within 7-day window)
+[2026-01-03T15:36:54.956Z] [BOT] 💾 Saved posted_jobs.json: 578 active jobs
+[2026-01-03T15:36:54.956Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:36:57.957Z] [BOT] 📌 Posting 1 jobs to #💻・tech-jobs
+[2026-01-03T15:36:57.957Z] [BOT] 📍 [ROUTING] "Senior Developer Support Engineer-West Coast" @ airtable
+   Category: TECH (matched: "software")
    Channel: 💻・tech-jobs (1391...8819)
-   ⚠️  Multiple matches: techMatch, nonTechMatch (using tech)
-[2026-01-03T15:24:41.290Z] [BOT] ✅ Created forum post: 🏢 Product Manager, AI & Automation @ airtable in #💻・tech-jobs
-  ✅ Industry: Product Manager, AI & Automation @ airtable
-[2026-01-03T15:24:43.016Z] [BOT] ✅ Created forum post: 🏢 Product Manager, AI & Automation @ airtable in #🌉・san-francisco
-[2026-01-03T15:24:43.016Z] [BOT] ✅ Location: 🌉・san-francisco
-[2026-01-03T15:24:44.517Z] [BOT] 💾 Marked as posted: Product Manager, AI & Automation @ airtable (instance #1)
-[2026-01-03T15:24:44.517Z] [BOT] 💾 BEFORE ARCHIVING: 573 jobs in database
-[2026-01-03T15:24:44.518Z] [BOT] ✅ No jobs to archive (all 573 jobs within 7-day window)
-[2026-01-03T15:24:44.527Z] [BOT] 💾 Saved posted_jobs.json: 573 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-03T15:24:47.527Z] [BOT] 🎉 Posting complete! Successfully posted: 9, Failed: 0
-[2026-01-03T15:24:47.527Z] [BOT] ⏭️  Skipping duplicate: JID_e3ba22a4 (posted within 7 days)
-[2026-01-03T15:24:47.527Z] [BOT] ⏭️  Skipping duplicate: JID_ad49cabe (posted within 7 days)
-[2026-01-03T15:24:47.527Z] [BOT] ⏭️  Skipping duplicate: JID_64a8496a (posted within 7 days)
-⏭️  Skipping duplicate: JID_37726e3e (posted within 7 days)
-[2026-01-03T15:24:47.527Z] [BOT] ⏭️  Skipping duplicate: JID_ba7988a5 (posted within 7 days)
-[2026-01-03T15:24:47.527Z] [BOT] ⏭️  Skipping duplicate: JID_e20e3bf0 (posted within 7 days)
-[2026-01-03T15:24:47.527Z] [BOT] ⏭️  Skipping duplicate: JID_0d66a7b5 (posted within 7 days)
-[2026-01-03T15:24:47.527Z] [BOT] ⏭️  Skipping duplicate: JID_4b48924d (posted within 7 days)
-⏭️  Skipping duplicate: JID_fb8f2bd9 (posted within 7 days)
-[2026-01-03T15:24:47.588Z] [BOT] ✅ Loaded pending queue: 726 total (706 pending, 20 enriched, 0 posted)
-[2026-01-03T15:24:47.661Z] [BOT] ✅ Saved pending queue: 726 total (706 pending, 11 enriched, 9 posted)
-📋 Updated queue: marked 9 jobs as posted
-[2026-01-03T15:24:47.661Z] [BOT] ✅ All posting operations complete, cleaning up...
-[2026-01-03T15:24:47.706Z] [BOT] 📂 Loaded 1538 existing routing entries
-[2026-01-03T15:24:47.752Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-   New entries: 9
-[2026-01-03T15:24:47.753Z] [BOT] Total entries: 1547
-   Timestamp: 2026-01-03T15:24:47.746Z
-[2026-01-03T15:24:47.753Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_2f95e3fe.jsonl
-   Total attempts: 18
-[2026-01-03T15:24:47.753Z] [BOT] Successful: 18
+[2026-01-03T15:36:58.397Z] [BOT] ✅ Created forum post: 🏢 Senior Developer Support Engineer-West Coast @ airtable in #💻・tech-jobs
+[2026-01-03T15:36:58.397Z] [BOT] ✅ Industry: Senior Developer Support Engineer-West Coast @ airtable
+[2026-01-03T15:37:00.181Z] [BOT] ✅ Created forum post: 🏢 Senior Developer Support Engineer-West Coast @ airtable in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-03T15:37:01.682Z] [BOT] 💾 Marked as posted: Senior Developer Support Engineer-West Coast @ airtable (instance #1)
+[2026-01-03T15:37:01.682Z] [BOT] 💾 BEFORE ARCHIVING: 579 jobs in database
+[2026-01-03T15:37:01.682Z] [BOT] ✅ No jobs to archive (all 579 jobs within 7-day window)
+[2026-01-03T15:37:01.688Z] [BOT] 💾 Saved posted_jobs.json: 579 active jobs
+[2026-01-03T15:37:01.688Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:37:04.688Z] [BOT] 📌 Posting 4 jobs to #📣・marketing-jobs
+[2026-01-03T15:37:04.688Z] [BOT] 📍 [ROUTING] "Senior Enterprise Marketing Manager" @ airtable
+   Category: MARKETING (matched: "marketing")
+[2026-01-03T15:37:04.688Z] [BOT] Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-03T15:37:05.030Z] [BOT] ✅ Created forum post: 🏢 Senior Enterprise Marketing Manager @ airtable in #📣・marketing-jobs
+  ✅ Industry: Senior Enterprise Marketing Manager @ airtable
+[2026-01-03T15:37:06.751Z] [BOT] ✅ Created forum post: 🏢 Senior Enterprise Marketing Manager @ airtable in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-03T15:37:08.252Z] [BOT] 💾 Marked as posted: Senior Enterprise Marketing Manager @ airtable (instance #1)
+[2026-01-03T15:37:08.253Z] [BOT] 💾 BEFORE ARCHIVING: 580 jobs in database
+[2026-01-03T15:37:08.253Z] [BOT] ✅ No jobs to archive (all 580 jobs within 7-day window)
+[2026-01-03T15:37:08.260Z] [BOT] 💾 Saved posted_jobs.json: 580 active jobs
+[2026-01-03T15:37:08.260Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:37:08.260Z] [BOT] 📍 [ROUTING] "Senior Growth Marketing Manager, Builders" @ airtable
+[2026-01-03T15:37:08.260Z] [BOT] Category: MARKETING (matched: "marketing")
+   Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-03T15:37:08.462Z] [BOT] ✅ Created forum post: 🏢 Senior Growth Marketing Manager, Builders @ airtable in #📣・marketing-jobs
+  ✅ Industry: Senior Growth Marketing Manager, Builders @ airtable
+[2026-01-03T15:37:10.237Z] [BOT] ✅ Created forum post: 🏢 Senior Growth Marketing Manager, Builders @ airtable in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-03T15:37:11.738Z] [BOT] 💾 Marked as posted: Senior Growth Marketing Manager, Builders @ airtable (instance #1)
+[2026-01-03T15:37:11.738Z] [BOT] 💾 BEFORE ARCHIVING: 581 jobs in database
+[2026-01-03T15:37:11.739Z] [BOT] ✅ No jobs to archive (all 581 jobs within 7-day window)
+[2026-01-03T15:37:11.744Z] [BOT] 💾 Saved posted_jobs.json: 581 active jobs
+[2026-01-03T15:37:11.744Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:37:11.744Z] [BOT] 📍 [ROUTING] "Senior Manager, People Systems" @ airtable
+[2026-01-03T15:37:11.744Z] [BOT] Category: MARKETING (matched: "growth")
+   Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-03T15:37:11.986Z] [BOT] ✅ Created forum post: 🏢 Senior Manager, People Systems @ airtable in #📣・marketing-jobs
+[2026-01-03T15:37:11.986Z] [BOT] ✅ Industry: Senior Manager, People Systems @ airtable
+[2026-01-03T15:37:13.787Z] [BOT] ✅ Created forum post: 🏢 Senior Manager, People Systems @ airtable in #🌉・san-francisco
+[2026-01-03T15:37:13.787Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-03T15:37:15.288Z] [BOT] 💾 Marked as posted: Senior Manager, People Systems @ airtable (instance #1)
+[2026-01-03T15:37:15.289Z] [BOT] 💾 BEFORE ARCHIVING: 582 jobs in database
+[2026-01-03T15:37:15.289Z] [BOT] ✅ No jobs to archive (all 582 jobs within 7-day window)
+[2026-01-03T15:37:15.294Z] [BOT] 💾 Saved posted_jobs.json: 582 active jobs
+[2026-01-03T15:37:15.294Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:37:15.295Z] [BOT] 📍 [ROUTING] "Senior Paralegal" @ airtable
+[2026-01-03T15:37:15.295Z] [BOT] Category: MARKETING (matched: "growth")
+   Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-03T15:37:15.649Z] [BOT] ✅ Created forum post: 🏢 Senior Paralegal @ airtable in #📣・marketing-jobs
+  ✅ Industry: Senior Paralegal @ airtable
+[2026-01-03T15:37:17.700Z] [BOT] ✅ Created forum post: 🏢 Senior Paralegal @ airtable in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-03T15:37:19.201Z] [BOT] 💾 Marked as posted: Senior Paralegal @ airtable (instance #1)
+[2026-01-03T15:37:19.201Z] [BOT] 💾 BEFORE ARCHIVING: 583 jobs in database
+[2026-01-03T15:37:19.202Z] [BOT] ✅ No jobs to archive (all 583 jobs within 7-day window)
+[2026-01-03T15:37:19.207Z] [BOT] 💾 Saved posted_jobs.json: 583 active jobs
+[2026-01-03T15:37:19.207Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T15:37:22.208Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
+[2026-01-03T15:37:22.208Z] [BOT] ⏭️  Skipping duplicate: JID_4bba1742 (posted within 7 days)
+[2026-01-03T15:37:22.208Z] [BOT] ⏭️  Skipping duplicate: JID_4b569989 (posted within 7 days)
+[2026-01-03T15:37:22.209Z] [BOT] ⏭️  Skipping duplicate: JID_3579e77b (posted within 7 days)
+⏭️  Skipping duplicate: JID_0f66f7f5 (posted within 7 days)
+[2026-01-03T15:37:22.209Z] [BOT] ⏭️  Skipping duplicate: JID_1a0e44d8 (posted within 7 days)
+[2026-01-03T15:37:22.209Z] [BOT] ⏭️  Skipping duplicate: JID_06554dac (posted within 7 days)
+[2026-01-03T15:37:22.209Z] [BOT] ⏭️  Skipping duplicate: JID_2fbb5b06 (posted within 7 days)
+[2026-01-03T15:37:22.209Z] [BOT] ⏭️  Skipping duplicate: JID_69728141 (posted within 7 days)
+[2026-01-03T15:37:22.209Z] [BOT] ⏭️  Skipping duplicate: JID_35040d7a (posted within 7 days)
+[2026-01-03T15:37:22.209Z] [BOT] ⏭️  Skipping duplicate: JID_6045abb3 (posted within 7 days)
+[2026-01-03T15:37:22.270Z] [BOT] ✅ Loaded pending queue: 716 total (696 pending, 20 enriched, 0 posted)
+[2026-01-03T15:37:22.336Z] [BOT] ✅ Saved pending queue: 716 total (696 pending, 10 enriched, 10 posted)
+📋 Updated queue: marked 10 jobs as posted
+✅ All posting operations complete, cleaning up...
+[2026-01-03T15:37:22.380Z] [BOT] 📂 Loaded 1547 existing routing entries
+[2026-01-03T15:37:22.427Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+[2026-01-03T15:37:22.427Z] [BOT] New entries: 10
+   Total entries: 1557
+   Timestamp: 2026-01-03T15:37:22.420Z
+[2026-01-03T15:37:22.428Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_2f95e3fe.jsonl
+[2026-01-03T15:37:22.428Z] [BOT] Total attempts: 20
+   Successful: 20
    Failed: 0
    Skipped: 0
-[2026-01-03T15:24:47.754Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
-   Last cleanup: Never
-   Total posts: 18
+[2026-01-03T15:37:22.428Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+[2026-01-03T15:37:22.428Z] [BOT] Last cleanup: Never
+   Total posts: 20
    Channels used: 7
    Top channels:
-     1. #🌉・san-francisco: 7 posts
-     2. #🤖・ai-jobs: 3 posts
-     3. #📣・marketing-jobs: 2 posts
-     4. #🗽・new-york: 2 posts
-[2026-01-03T15:24:47.754Z] [BOT] 5. #💲・sales-jobs: 2 posts
-[2026-01-03T15:24:47.754Z] [BOT] [STATS] Channel stats saved
-[2026-01-03T15:24:49.770Z] 
+[2026-01-03T15:37:22.428Z] [BOT] 1. #🌉・san-francisco: 9 posts
+     2. #📣・marketing-jobs: 4 posts
+     3. #💲・sales-jobs: 3 posts
+     4. #🤖・ai-jobs: 1 posts
+     5. #🤠・austin: 1 posts
+[2026-01-03T15:37:22.428Z] [BOT] [STATS] Channel stats saved
+[2026-01-03T15:37:24.444Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2343) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2323) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
