@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T14:05:36.926Z",
+  "lastUpdated": "2026-01-03T14:25:06.089Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -5754,14 +5754,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
       "discordThreadId": "1457012011459412060",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043437008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043437008",
+      "company": "anthropic",
+      "title": "Global Technology Partner Lead",
+      "postedToDiscord": "2026-01-03T14:24:23.425Z",
+      "sourceDate": "2025-12-22T12:01:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043437008",
+      "discordThreadId": "1457016736426623069",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5631091004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5631091004",
+      "company": "vercel",
+      "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+      "postedToDiscord": "2026-01-03T14:24:26.812Z",
+      "sourceDate": "2025-12-19T20:27:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5631091004",
+      "discordThreadId": "1457016750800638044",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043435008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043435008",
+      "company": "anthropic",
+      "title": "Partner Operations Specialist",
+      "postedToDiscord": "2026-01-03T14:24:30.416Z",
+      "sourceDate": "2025-12-19T19:46:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
+      "discordThreadId": "1457016765014868063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043373008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043373008",
+      "company": "anthropic",
+      "title": "Technical Product Marketing Lead",
+      "postedToDiscord": "2026-01-03T14:24:33.931Z",
+      "sourceDate": "2025-12-19T17:58:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043373008",
+      "discordThreadId": "1457016780596969617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4988308008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4988308008",
+      "company": "anthropic",
+      "title": "Cross-functional Prompt Engineer",
+      "postedToDiscord": "2026-01-03T14:24:40.744Z",
+      "sourceDate": "2025-12-20T12:34:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
+      "discordThreadId": "1457016808732233911",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042002008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042002008",
+      "company": "anthropic",
+      "title": "Incentive Compensation System Engineer",
+      "postedToDiscord": "2026-01-03T14:24:47.282Z",
+      "sourceDate": "2025-12-20T00:02:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008",
+      "discordThreadId": "1457016836737732629",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-e15854cc-d2f4-44e8-b516-8f582865fe64-2026-01-03-1",
+      "jobId": "jobs-ashbyhq-com-supabase-e15854cc-d2f4-44e8-b516-8f582865fe64",
+      "company": "supabase",
+      "title": "Platform Engineer: General Compute",
+      "postedToDiscord": "2026-01-03T14:24:49.322Z",
+      "sourceDate": "2025-12-20T01:20:00.983+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/e15854cc-d2f4-44e8-b516-8f582865fe64",
+      "discordThreadId": "1457016851790823446",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8348129002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8348129002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-03T14:24:52.871Z",
+      "sourceDate": "2025-12-19T19:11:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348129002",
+      "discordThreadId": "1457016859592364316",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5026192008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026192008",
+      "company": "anthropic",
+      "title": "Field Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-03T14:24:59.420Z",
+      "sourceDate": "2025-12-19T20:16:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026192008",
+      "discordThreadId": "1457016887266381898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8348158002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8348158002",
+      "company": "discord",
+      "title": "Staff Product Manager, Growth",
+      "postedToDiscord": "2026-01-03T14:25:06.088Z",
+      "sourceDate": "2025-12-19T18:09:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348158002",
+      "discordThreadId": "1457016915057836227",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 523,
+    "totalJobs": 533,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T14:05:36.926Z",
+      "date": "2026-01-03T14:25:06.089Z",
       "archived": 0
     }
   }
