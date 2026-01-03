@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T14:50:43.225Z",
+  "lastUpdated": "2026-01-03T15:05:26.794Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -6084,14 +6084,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
       "discordThreadId": "1457023362462126162",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5740760004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5740760004",
+      "company": "figma",
+      "title": "Product Manager, Developer Tools",
+      "postedToDiscord": "2026-01-03T15:04:43.723Z",
+      "sourceDate": "2025-12-18T19:30:56-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5740760004?gh_jid=5740760004",
+      "discordThreadId": "1457026887808450571",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5575026004",
+      "company": "figma",
+      "title": "Executive Assistant, Product Support ",
+      "postedToDiscord": "2026-01-03T15:04:50.099Z",
+      "sourceDate": "2025-12-18T18:49:15-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5575026004?gh_jid=5575026004",
+      "discordThreadId": "1457026915226616072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7883535002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7883535002",
+      "company": "airtable",
+      "title": "Account Executive, Commercial Accounts",
+      "postedToDiscord": "2026-01-03T15:04:53.635Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883535002",
+      "discordThreadId": "1457026929583591444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7891770002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7891770002",
+      "company": "airtable",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-03T15:04:57.316Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7891770002",
+      "discordThreadId": "1457026943705812995",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8112284002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8112284002",
+      "company": "airtable",
+      "title": "Analytics Engineer, Product Analytics",
+      "postedToDiscord": "2026-01-03T15:05:03.701Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8112284002",
+      "discordThreadId": "1457026972273082368",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8169952002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8169952002",
+      "company": "airtable",
+      "title": "Data Scientist, GTM Analytics",
+      "postedToDiscord": "2026-01-03T15:05:07.096Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8169952002",
+      "discordThreadId": "1457026986344972339",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8293251002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8293251002",
+      "company": "airtable",
+      "title": "Engineering Manager, AI Platform ",
+      "postedToDiscord": "2026-01-03T15:05:10.581Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8293251002",
+      "discordThreadId": "1457027000915988653",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8155322002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8155322002",
+      "company": "airtable",
+      "title": "Builder Relations Lead",
+      "postedToDiscord": "2026-01-03T15:05:16.978Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8155322002",
+      "discordThreadId": "1457027027868717349",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8124953002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8124953002",
+      "company": "airtable",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-03T15:05:23.402Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8124953002",
+      "discordThreadId": "1457027054833893581",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8170306002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8170306002",
+      "company": "airtable",
+      "title": "Data Scientist, Product Analytics",
+      "postedToDiscord": "2026-01-03T15:05:26.794Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170306002",
+      "discordThreadId": "1457027069023223820",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 553,
+    "totalJobs": 563,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T14:50:43.225Z",
+      "date": "2026-01-03T15:05:26.794Z",
       "archived": 0
     }
   }
