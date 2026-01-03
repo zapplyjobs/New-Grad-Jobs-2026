@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T23:35:19.760Z",
+  "lastUpdated": "2026-01-03T00:09:25.039Z",
   "jobs": [
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-bbbced3d-d1c4-43a0-9b72-98e40b2df110-application-2025-12-26-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-bbbced3d-d1c4-43a0-9b72-98e40b2df110-application",
-      "company": "Jerry",
-      "title": "Software Engineer - Entry",
-      "postedToDiscord": "2025-12-26T23:35:22.981Z",
-      "sourceDate": "2025-12-26T23:19:54.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application",
-      "discordThreadId": "1454256294994247812",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-jobvite-com-internetbrands-job-odnbzfwu-2025-12-27-1",
-      "jobId": "jobs-jobvite-com-internetbrands-job-odnbzfwu",
-      "company": "Internet Brands",
-      "title": "Associate AI Research & Operations Analyst",
-      "postedToDiscord": "2025-12-27T00:09:17.900Z",
-      "sourceDate": "2025-12-26T23:11:36.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/internetbrands/job/oDnbzfwu?nl=1&nl=1&fr=false",
-      "discordThreadId": "1454264830008754177",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-axle-jobs-4918044007-2025-12-27-1",
       "jobId": "job-boards-greenhouse-io-axle-jobs-4918044007",
@@ -1497,14 +1475,47 @@
       "sourceUrl": "https://main-princeton.icims.com/jobs/21017/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456792997344837854",
       "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-software-engineer-iii_r-2347075-2026-01-03-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-software-engineer-iii_r-2347075",
+      "company": "Walmart",
+      "title": "Software Engineer 3",
+      "postedToDiscord": "2026-01-03T00:09:14.860Z",
+      "sourceDate": "2026-01-02T23:48:41.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2347075",
+      "discordThreadId": "1456801530756862065",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-cottinghambutlerinsuranceservicesinc-jobs-4694391008-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-cottinghambutlerinsuranceservicesinc-jobs-4694391008",
+      "company": " Cottingham & Butler",
+      "title": "EDI Coordinator",
+      "postedToDiscord": "2026-01-03T00:09:21.580Z",
+      "sourceDate": "2026-01-02T23:42:13.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4694391008",
+      "discordThreadId": "1456801560045682890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11605-job-2026-01-03-1",
+      "jobId": "careers-nv5-icims-com-jobs-11605-job",
+      "company": "NV5 Global",
+      "title": "Geospatial Technician - 3D Stereo Compilation",
+      "postedToDiscord": "2026-01-03T00:09:25.038Z",
+      "sourceDate": "2025-12-17T16:31:21.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11605/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456801575723859990",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 136,
+    "totalJobs": 137,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-02T23:35:19.760Z",
+      "date": "2026-01-03T00:09:25.039Z",
       "archived": 0
     }
   }
