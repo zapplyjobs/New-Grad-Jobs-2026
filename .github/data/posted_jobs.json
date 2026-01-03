@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T17:37:18.898Z",
+  "lastUpdated": "2026-01-03T17:49:50.253Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -7294,14 +7294,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5010191008",
       "discordThreadId": "1457065288087376006",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e-2026-01-03-1",
+      "jobId": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, Personalization",
+      "postedToDiscord": "2026-01-03T17:49:12.429Z",
+      "sourceDate": "2025-12-15T21:39:25.664Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e",
+      "discordThreadId": "1457068274528551091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-188bf578-44ab-4a22-92f0-00aee682fe3b-2026-01-03-1",
+      "jobId": "jobs-lever-co-spotify-188bf578-44ab-4a22-92f0-00aee682fe3b",
+      "company": "spotify",
+      "title": "Product Manager - Podcast",
+      "postedToDiscord": "2026-01-03T17:49:16.019Z",
+      "sourceDate": "2025-12-15T20:45:56.536Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/188bf578-44ab-4a22-92f0-00aee682fe3b",
+      "discordThreadId": "1457068294963204314",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735296004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735296004",
+      "company": "figma",
+      "title": "Compliance Manager, Customer Trust & Third Party Risk",
+      "postedToDiscord": "2026-01-03T17:49:22.432Z",
+      "sourceDate": "2025-12-15T16:31:12-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735296004?gh_jid=5735296004",
+      "discordThreadId": "1457068322611794205",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5734651004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5734651004",
+      "company": "figma",
+      "title": "Senior Manager, Revenue Transformation",
+      "postedToDiscord": "2026-01-03T17:49:26.314Z",
+      "sourceDate": "2025-12-15T16:31:06-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734651004?gh_jid=5734651004",
+      "discordThreadId": "1457068336889467087",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8229815002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8229815002",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-03T17:49:32.897Z",
+      "sourceDate": "2025-12-15T16:27:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229815002?gh_jid=8229815002",
+      "discordThreadId": "1457068365867651206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8229814002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8229814002",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-03T17:49:32.904Z",
+      "sourceDate": "2025-12-15T16:27:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229814002?gh_jid=8229814002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8229808002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8229808002",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-03T17:49:32.911Z",
+      "sourceDate": "2025-12-15T16:26:45-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229808002?gh_jid=8229808002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8219295002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8219295002",
+      "company": "discord",
+      "title": "Director, People Business Partners",
+      "postedToDiscord": "2026-01-03T17:49:36.567Z",
+      "sourceDate": "2025-12-15T13:16:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8219295002",
+      "discordThreadId": "1457068380933722310",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4982157008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982157008",
+      "company": "anthropic",
+      "title": "Senior Manager, Treasury Operations",
+      "postedToDiscord": "2026-01-03T17:49:42.999Z",
+      "sourceDate": "2025-12-15T13:10:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982157008",
+      "discordThreadId": "1457068408976834884",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8332358002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8332358002",
+      "company": "discord",
+      "title": "Senior Product Manager, Commerce",
+      "postedToDiscord": "2026-01-03T17:49:50.253Z",
+      "sourceDate": "2025-12-15T12:24:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332358002",
+      "discordThreadId": "1457068435895881862",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 663,
+    "totalJobs": 673,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T17:37:18.898Z",
+      "date": "2026-01-03T17:49:50.253Z",
       "archived": 0
     }
   }
