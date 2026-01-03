@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T18:06:00.526Z",
+  "lastUpdated": "2026-01-03T18:25:49.567Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -7514,14 +7514,124 @@
       "sourceUrl": "https://www.brex.com/careers/8230853002?gh_jid=8230853002",
       "discordThreadId": "1457072508338700370",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735077004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735077004",
+      "company": "figma",
+      "title": "Manager, Inside Sales",
+      "postedToDiscord": "2026-01-03T18:25:22.821Z",
+      "sourceDate": "2025-12-12T13:22:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735077004?gh_jid=5735077004",
+      "discordThreadId": "1457077383352811601",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303870002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8303870002",
+      "company": "brex",
+      "title": "Senior Solutions Consultant, Enterprise",
+      "postedToDiscord": "2026-01-03T18:25:26.473Z",
+      "sourceDate": "2025-12-12T10:52:49-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303870002?gh_jid=8303870002",
+      "discordThreadId": "1457077398469349573",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303864002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8303864002",
+      "company": "brex",
+      "title": "Senior Solutions Consultant, Enterprise",
+      "postedToDiscord": "2026-01-03T18:25:26.479Z",
+      "sourceDate": "2025-12-12T10:52:19-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303864002?gh_jid=8303864002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303863002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8303863002",
+      "company": "brex",
+      "title": "Senior Solutions Consultant, Enterprise",
+      "postedToDiscord": "2026-01-03T18:25:26.485Z",
+      "sourceDate": "2025-12-12T10:52:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303863002?gh_jid=8303863002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8301919002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8301919002",
+      "company": "brex",
+      "title": "Senior Solutions Consultant, Enterprise",
+      "postedToDiscord": "2026-01-03T18:25:26.490Z",
+      "sourceDate": "2025-12-12T10:51:49-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8301919002?gh_jid=8301919002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8337282002-2026-01-03-1",
+      "jobId": "careers-duolingo-com-jobs-8337282002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Math",
+      "postedToDiscord": "2026-01-03T18:25:32.943Z",
+      "sourceDate": "2025-12-12T11:43:29-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8337282002?gh_jid=8337282002",
+      "discordThreadId": "1457077426323587198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8133363002-2026-01-03-1",
+      "jobId": "careers-duolingo-com-jobs-8133363002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Math",
+      "postedToDiscord": "2026-01-03T18:25:32.950Z",
+      "sourceDate": "2025-12-12T11:43:26-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8133363002?gh_jid=8133363002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74-2026-01-03-1",
+      "jobId": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74",
+      "company": "spotify",
+      "title": "Associate Director, Programmatic Platform Operations",
+      "postedToDiscord": "2026-01-03T18:25:39.392Z",
+      "sourceDate": "2025-12-12T15:00:00.855Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1c59f08a-6f03-451e-a4d5-966684acef74",
+      "discordThreadId": "1457077453326647480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980436008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980436008",
+      "company": "anthropic",
+      "title": " [Expression of Interest] Research Manager, Interpretability",
+      "postedToDiscord": "2026-01-03T18:25:43.125Z",
+      "sourceDate": "2025-12-11T18:07:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
+      "discordThreadId": "1457077467754926081",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4986738008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4986738008",
+      "company": "anthropic",
+      "title": "Segment Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-03T18:25:49.567Z",
+      "sourceDate": "2025-12-12T00:33:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986738008",
+      "discordThreadId": "1457077496142106863",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 683,
+    "totalJobs": 693,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T18:06:00.526Z",
+      "date": "2026-01-03T18:25:49.567Z",
       "archived": 0
     }
   }
