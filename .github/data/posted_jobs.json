@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T14:38:27.039Z",
+  "lastUpdated": "2026-01-03T14:50:43.225Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -5974,14 +5974,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8330419002",
       "discordThreadId": "1457020274028445901",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041301008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041301008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, LATAM Financial Services",
+      "postedToDiscord": "2026-01-03T14:49:58.434Z",
+      "sourceDate": "2025-12-19T14:21:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041301008",
+      "discordThreadId": "1457023174469357702",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041290008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041290008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+      "postedToDiscord": "2026-01-03T14:50:01.969Z",
+      "sourceDate": "2025-12-19T14:16:24-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
+      "discordThreadId": "1457023189417857241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5013277008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5013277008",
+      "company": "anthropic",
+      "title": "Customer Activation Manager, Large-Scale Deployments",
+      "postedToDiscord": "2026-01-03T14:50:05.657Z",
+      "sourceDate": "2025-12-19T11:50:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013277008",
+      "discordThreadId": "1457023204185866416",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8344197002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8344197002",
+      "company": "discord",
+      "title": "Staff Software Engineer - Safety Experience",
+      "postedToDiscord": "2026-01-03T14:50:12.146Z",
+      "sourceDate": "2025-12-19T13:29:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8344197002",
+      "discordThreadId": "1457023232468189205",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8308138002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8308138002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics",
+      "postedToDiscord": "2026-01-03T14:50:15.479Z",
+      "sourceDate": "2025-12-19T12:00:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8308138002",
+      "discordThreadId": "1457023246796066943",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8318061002-2026-01-03-1",
+      "jobId": "careers-duolingo-com-jobs-8318061002",
+      "company": "duolingo",
+      "title": "Motion Design Animator, Thrive Intern",
+      "postedToDiscord": "2026-01-03T14:50:20.259Z",
+      "sourceDate": "2025-12-19T13:18:00-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318061002?gh_jid=8318061002",
+      "discordThreadId": "1457023273526104276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8328560002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8328560002",
+      "company": "discord",
+      "title": "Software Engineer - Realtime Infrastructure",
+      "postedToDiscord": "2026-01-03T14:50:23.768Z",
+      "sourceDate": "2025-12-19T12:26:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328560002",
+      "discordThreadId": "1457023280970993727",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5741089004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5741089004",
+      "company": "vercel",
+      "title": "Finance Manager",
+      "postedToDiscord": "2026-01-03T14:50:30.178Z",
+      "sourceDate": "2025-12-19T11:54:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5741089004",
+      "discordThreadId": "1457023308246683649",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985877008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985877008",
+      "company": "anthropic",
+      "title": "Forward Deployed Engineer",
+      "postedToDiscord": "2026-01-03T14:50:36.592Z",
+      "sourceDate": "2025-12-19T10:02:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+      "discordThreadId": "1457023335170052162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042055008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042055008",
+      "company": "anthropic",
+      "title": "Product Lead, Consumer",
+      "postedToDiscord": "2026-01-03T14:50:43.225Z",
+      "sourceDate": "2025-12-18T20:21:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
+      "discordThreadId": "1457023362462126162",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 543,
+    "totalJobs": 553,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T14:38:27.039Z",
+      "date": "2026-01-03T14:50:43.225Z",
       "archived": 0
     }
   }
