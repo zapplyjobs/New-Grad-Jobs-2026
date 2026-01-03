@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T10:05:40.352Z",
+  "lastUpdated": "2026-01-03T10:24:48.832Z",
   "jobs": [
     {
       "id": "careers-eyesouthpartners-icims-com-jobs-8450-job-2025-12-27-1",
@@ -4115,14 +4115,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196805002",
       "discordThreadId": "1456951635359170590",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6572669-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6572669",
+      "company": "datadog",
+      "title": "AI Research Scientist – Datadog AI Research (DAIR)",
+      "postedToDiscord": "2026-01-03T10:24:13.244Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+      "discordThreadId": "1456956296103333888",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7461785-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7461785",
+      "company": "datadog",
+      "title": "Associate Event Marketing Manager (New York)",
+      "postedToDiscord": "2026-01-03T10:24:19.840Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7461785/?gh_jid=7461785",
+      "discordThreadId": "1456956322934296678",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7312439-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7312439",
+      "company": "datadog",
+      "title": "Business Value Manager - Enterprise East",
+      "postedToDiscord": "2026-01-03T10:24:26.321Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7312439/?gh_jid=7312439",
+      "discordThreadId": "1456956350922887310",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-1694375-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-1694375",
+      "company": "datadog",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-03T10:24:28.046Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+      "discordThreadId": "1456956365301092473",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7460318-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7460318",
+      "company": "datadog",
+      "title": "Commercial Account Executive - LATAM (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-03T10:24:28.053Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7460318/?gh_jid=7460318",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-1497543-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-1497543",
+      "company": "datadog",
+      "title": "Commercial Account Executive (Boston)",
+      "postedToDiscord": "2026-01-03T10:24:31.916Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543",
+      "discordThreadId": "1456956372577947874",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7329207-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7329207",
+      "company": "datadog",
+      "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
+      "postedToDiscord": "2026-01-03T10:24:35.405Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207",
+      "discordThreadId": "1456956388898111580",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7452669-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7452669",
+      "company": "datadog",
+      "title": "Commercial Sales Engineer (East)",
+      "postedToDiscord": "2026-01-03T10:24:38.867Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
+      "discordThreadId": "1456956403154550902",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7172466-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7172466",
+      "company": "datadog",
+      "title": "Customer Success Associate - Boston",
+      "postedToDiscord": "2026-01-03T10:24:42.391Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466",
+      "discordThreadId": "1456956417872498787",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7363514-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7363514",
+      "company": "datadog",
+      "title": "Container Runtime Engineer",
+      "postedToDiscord": "2026-01-03T10:24:48.832Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7363514/?gh_jid=7363514",
+      "discordThreadId": "1456956445001126134",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 374,
+    "totalJobs": 384,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T10:05:40.352Z",
+      "date": "2026-01-03T10:24:48.832Z",
       "archived": 0
     }
   }
