@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T09:37:23.312Z",
+  "lastUpdated": "2026-01-03T09:50:15.647Z",
   "jobs": [
     {
       "id": "careers-eyesouthpartners-icims-com-jobs-8450-job-2025-12-27-1",
@@ -3895,14 +3895,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
       "discordThreadId": "1456944508846604463",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4701504007-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4701504007",
+      "company": "verkada",
+      "title": "Strategic Account Executive (Corp)",
+      "postedToDiscord": "2026-01-03T09:49:31.462Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4701504007",
+      "discordThreadId": "1456947571573522443",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4990284007-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990284007",
+      "company": "verkada",
+      "title": "Tradeshow Associate",
+      "postedToDiscord": "2026-01-03T09:49:35.214Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990284007",
+      "discordThreadId": "1456947578494128337",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7485376-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7485376",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-03T09:49:38.739Z",
+      "sourceDate": "2025-12-23T14:18:47-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485376/?gh_jid=7485376",
+      "discordThreadId": "1456947594403123403",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7485441-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7485441",
+      "company": "datadog",
+      "title": "Customer Success Associate - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-03T09:49:42.373Z",
+      "sourceDate": "2025-12-23T14:18:33-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485441/?gh_jid=7485441",
+      "discordThreadId": "1456947609255022715",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5743232004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5743232004",
+      "company": "vercel",
+      "title": "Strategic Finance Manager, GTM",
+      "postedToDiscord": "2026-01-03T09:49:46.059Z",
+      "sourceDate": "2025-12-23T13:07:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5743232004",
+      "discordThreadId": "1456947624426078312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7491922-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7491922",
+      "company": "datadog",
+      "title": "Mid-Market Sales Engineer (Boston)",
+      "postedToDiscord": "2026-01-03T09:49:49.444Z",
+      "sourceDate": "2025-12-23T11:52:56-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7491922/?gh_jid=7491922",
+      "discordThreadId": "1456947639928230023",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7341691-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7341691",
+      "company": "datadog",
+      "title": "Senior Manager, People Business Partner - NYC",
+      "postedToDiscord": "2026-01-03T09:49:55.949Z",
+      "sourceDate": "2025-12-23T15:50:53-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7341691/?gh_jid=7341691",
+      "discordThreadId": "1456947666566250519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8346194002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8346194002",
+      "company": "discord",
+      "title": "Senior Privacy Counsel",
+      "postedToDiscord": "2026-01-03T09:50:02.423Z",
+      "sourceDate": "2025-12-23T15:13:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8346194002",
+      "discordThreadId": "1456947694240141434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8324011002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8324011002",
+      "company": "discord",
+      "title": "Software Engineer, Consumer Revenue ",
+      "postedToDiscord": "2026-01-03T09:50:09.084Z",
+      "sourceDate": "2025-12-23T14:32:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8324011002",
+      "discordThreadId": "1456947721880735807",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7467678-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7467678",
+      "company": "datadog",
+      "title": "Manager, People Analytics Data Platform",
+      "postedToDiscord": "2026-01-03T09:50:15.647Z",
+      "sourceDate": "2025-12-23T14:03:27-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678",
+      "discordThreadId": "1456947749072408723",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 354,
+    "totalJobs": 364,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T09:37:23.312Z",
+      "date": "2026-01-03T09:50:15.647Z",
       "archived": 0
     }
   }
