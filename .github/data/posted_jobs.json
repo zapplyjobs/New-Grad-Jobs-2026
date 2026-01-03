@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T11:04:54.995Z",
+  "lastUpdated": "2026-01-03T11:24:06.230Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -4544,14 +4544,124 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7410744/?gh_jid=7410744",
       "discordThreadId": "1456966537129889793",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7159384-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7159384",
+      "company": "datadog",
+      "title": "Field CTO - Media & Entertainment",
+      "postedToDiscord": "2026-01-03T11:23:22.276Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7159384/?gh_jid=7159384",
+      "discordThreadId": "1456971181356744828",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7398199-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7398199",
+      "company": "datadog",
+      "title": "Field Enablement Manager (NYC)",
+      "postedToDiscord": "2026-01-03T11:23:25.909Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7398199/?gh_jid=7398199",
+      "discordThreadId": "1456971195957121081",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7450692-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7450692",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
+      "postedToDiscord": "2026-01-03T11:23:29.336Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7450692/?gh_jid=7450692",
+      "discordThreadId": "1456971211295948952",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7409198-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7409198",
+      "company": "datadog",
+      "title": "Major Account Manager",
+      "postedToDiscord": "2026-01-03T11:23:32.919Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198",
+      "discordThreadId": "1456971225661308993",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7393800-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7393800",
+      "company": "datadog",
+      "title": "Field Marketing Manager",
+      "postedToDiscord": "2026-01-03T11:23:39.515Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7393800/?gh_jid=7393800",
+      "discordThreadId": "1456971253461160109",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7357271-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7357271",
+      "company": "datadog",
+      "title": "Global Safety & Security Senior Manager - NYC",
+      "postedToDiscord": "2026-01-03T11:23:45.922Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7357271/?gh_jid=7357271",
+      "discordThreadId": "1456971281097429216",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7397939-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7397939",
+      "company": "datadog",
+      "title": "Information Security Analyst II",
+      "postedToDiscord": "2026-01-03T11:23:49.454Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939",
+      "discordThreadId": "1456971295437619302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7193803-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7193803",
+      "company": "datadog",
+      "title": "Inclusion Program Manager - NYC",
+      "postedToDiscord": "2026-01-03T11:23:55.972Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7193803/?gh_jid=7193803",
+      "discordThreadId": "1456971322814107783",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7341441-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7341441",
+      "company": "datadog",
+      "title": "Internal Communications Specialist - NYC",
+      "postedToDiscord": "2026-01-03T11:24:02.533Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7341441/?gh_jid=7341441",
+      "discordThreadId": "1456971350072623106",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7477194-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7477194",
+      "company": "datadog",
+      "title": "Leadership Training Manager",
+      "postedToDiscord": "2026-01-03T11:24:06.230Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194",
+      "discordThreadId": "1456971365365055489",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 413,
+    "totalJobs": 423,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T11:04:54.995Z",
+      "date": "2026-01-03T11:24:06.230Z",
       "archived": 0
     }
   }
