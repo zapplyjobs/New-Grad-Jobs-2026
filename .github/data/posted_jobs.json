@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T16:52:45.776Z",
+  "lastUpdated": "2026-01-03T17:07:34.009Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -6964,14 +6964,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024835008",
       "discordThreadId": "1457054075509014758",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5024831008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024831008",
+      "company": "anthropic",
+      "title": "Research Engineer, Reward Models Platform",
+      "postedToDiscord": "2026-01-03T17:06:50.005Z",
+      "sourceDate": "2025-12-17T16:17:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024831008",
+      "discordThreadId": "1457057616520937613",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5681681004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5681681004",
+      "company": "figma",
+      "title": "Director, Security Operations & Information Security",
+      "postedToDiscord": "2026-01-03T17:06:53.412Z",
+      "sourceDate": "2025-12-17T13:46:20-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5681681004?gh_jid=5681681004",
+      "discordThreadId": "1457057631276630016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973549008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973549008",
+      "company": "anthropic",
+      "title": "Compensation Systems and Infrastructure",
+      "postedToDiscord": "2026-01-03T17:06:59.897Z",
+      "sourceDate": "2025-12-17T15:52:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973549008",
+      "discordThreadId": "1457057658417713365",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018838008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018838008",
+      "company": "anthropic",
+      "title": "Finance Systems, Senior Business Systems Analyst - Finance & Strategy",
+      "postedToDiscord": "2026-01-03T17:07:03.368Z",
+      "sourceDate": "2025-12-17T14:26:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
+      "discordThreadId": "1457057672527347857",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5707966004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5707966004",
+      "company": "figma",
+      "title": "AI Applied Scientist",
+      "postedToDiscord": "2026-01-03T17:07:10.137Z",
+      "sourceDate": "2025-12-17T13:52:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+      "discordThreadId": "1457057700352626790",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5039498008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5039498008",
+      "company": "anthropic",
+      "title": "Product Engineer, Applied AI ",
+      "postedToDiscord": "2026-01-03T17:07:13.687Z",
+      "sourceDate": "2025-12-17T12:48:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5039498008",
+      "discordThreadId": "1457057715732877567",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8343795002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8343795002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics - GTM Ads",
+      "postedToDiscord": "2026-01-03T17:07:20.289Z",
+      "sourceDate": "2025-12-17T13:42:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343795002",
+      "discordThreadId": "1457057743188791421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8343789002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8343789002",
+      "company": "discord",
+      "title": "Data Scientist, Analytics - Ads Reporting",
+      "postedToDiscord": "2026-01-03T17:07:23.994Z",
+      "sourceDate": "2025-12-17T13:41:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
+      "discordThreadId": "1457057759223746631",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5737300004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5737300004",
+      "company": "figma",
+      "title": "People Analyst",
+      "postedToDiscord": "2026-01-03T17:07:30.678Z",
+      "sourceDate": "2025-12-17T13:26:06-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737300004?gh_jid=5737300004",
+      "discordThreadId": "1457057786814009496",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973116008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973116008",
+      "company": "anthropic",
+      "title": "Customer Activation Manager",
+      "postedToDiscord": "2026-01-03T17:07:34.009Z",
+      "sourceDate": "2025-12-17T12:19:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973116008",
+      "discordThreadId": "1457057801787408650",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 633,
+    "totalJobs": 643,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T16:52:45.776Z",
+      "date": "2026-01-03T17:07:34.009Z",
       "archived": 0
     }
   }
