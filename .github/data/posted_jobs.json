@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T18:55:20.863Z",
+  "lastUpdated": "2026-01-03T19:06:08.187Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -7844,14 +7844,124 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8331172002?gh_jid=8331172002",
       "discordThreadId": "1457084924988231723",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8103520002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8103520002",
+      "company": "discord",
+      "title": "Senior Director, Internal Audit",
+      "postedToDiscord": "2026-01-03T19:05:21.521Z",
+      "sourceDate": "2025-12-10T14:07:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8103520002",
+      "discordThreadId": "1457087444368494883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4960417008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4960417008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Safeguards",
+      "postedToDiscord": "2026-01-03T19:05:28.675Z",
+      "sourceDate": "2025-12-10T13:56:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
+      "discordThreadId": "1457087474408099890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018714008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018714008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Model Evaluations",
+      "postedToDiscord": "2026-01-03T19:05:35.225Z",
+      "sourceDate": "2025-12-10T13:56:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018714008",
+      "discordThreadId": "1457087501880786975",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4941204008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4941204008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Data Infrastructure",
+      "postedToDiscord": "2026-01-03T19:05:43.286Z",
+      "sourceDate": "2025-12-10T13:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4941204008",
+      "discordThreadId": "1457087534839365645",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4970463008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970463008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Databases",
+      "postedToDiscord": "2026-01-03T19:05:47.147Z",
+      "sourceDate": "2025-12-10T13:54:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970463008",
+      "discordThreadId": "1457087550345838895",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4982193008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982193008",
+      "company": "anthropic",
+      "title": "Security Engineer, Detection & Response",
+      "postedToDiscord": "2026-01-03T19:05:50.682Z",
+      "sourceDate": "2025-12-10T13:52:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+      "discordThreadId": "1457087566770606300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4958721008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4958721008",
+      "company": "anthropic",
+      "title": "Manager, Digital Native Sales",
+      "postedToDiscord": "2026-01-03T19:05:57.166Z",
+      "sourceDate": "2025-12-10T13:48:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
+      "discordThreadId": "1457087594285502638",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4880880008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4880880008",
+      "company": "anthropic",
+      "title": "Manager, Startup Account Executive",
+      "postedToDiscord": "2026-01-03T19:06:00.995Z",
+      "sourceDate": "2025-12-10T13:47:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+      "discordThreadId": "1457087608353062953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4976328008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4976328008",
+      "company": "anthropic",
+      "title": "Manager, Growth Account Executive",
+      "postedToDiscord": "2026-01-03T19:06:04.593Z",
+      "sourceDate": "2025-12-10T13:47:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+      "discordThreadId": "1457087624765374546",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018233008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018233008",
+      "company": "anthropic",
+      "title": "Global Partner Sales Manager, Systems Integrators",
+      "postedToDiscord": "2026-01-03T19:06:08.187Z",
+      "sourceDate": "2025-12-10T13:43:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
+      "discordThreadId": "1457087639957147836",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 713,
+    "totalJobs": 723,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T18:55:20.863Z",
+      "date": "2026-01-03T19:06:08.187Z",
       "archived": 0
     }
   }
