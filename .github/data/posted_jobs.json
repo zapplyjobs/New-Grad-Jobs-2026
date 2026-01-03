@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T17:07:34.009Z",
+  "lastUpdated": "2026-01-03T17:24:25.653Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -7074,14 +7074,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973116008",
       "discordThreadId": "1457057801787408650",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4935567008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4935567008",
+      "company": "anthropic",
+      "title": "Software Engineer, Languages",
+      "postedToDiscord": "2026-01-03T17:23:39.240Z",
+      "sourceDate": "2025-12-17T11:05:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935567008",
+      "discordThreadId": "1457061849404277022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8235305002-2026-01-03-1",
+      "jobId": "careers-duolingo-com-jobs-8235305002",
+      "company": "duolingo",
+      "title": "Engineering Manager, Design Accelerator",
+      "postedToDiscord": "2026-01-03T17:23:43.140Z",
+      "sourceDate": "2025-12-17T10:46:42-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8235305002?gh_jid=8235305002",
+      "discordThreadId": "1457061864457371803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4595463008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4595463008",
+      "company": "anthropic",
+      "title": "Security Software Engineer, Detection Platform Infrastructure",
+      "postedToDiscord": "2026-01-03T17:23:46.569Z",
+      "sourceDate": "2025-12-16T16:32:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+      "discordThreadId": "1457061880576213063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5735704004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5735704004",
+      "company": "vercel",
+      "title": "Staff Data Platform Engineer",
+      "postedToDiscord": "2026-01-03T17:23:50.243Z",
+      "sourceDate": "2025-12-16T15:48:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5735704004",
+      "discordThreadId": "1457061895407141016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985140008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985140008",
+      "company": "anthropic",
+      "title": "Business Systems Analyst ",
+      "postedToDiscord": "2026-01-03T17:23:56.695Z",
+      "sourceDate": "2025-12-17T10:04:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985140008",
+      "discordThreadId": "1457061923077226578",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4995014008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4995014008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Industries",
+      "postedToDiscord": "2026-01-03T17:24:03.246Z",
+      "sourceDate": "2025-12-16T18:46:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4995014008",
+      "discordThreadId": "1457061949996011732",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5708732004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5708732004",
+      "company": "vercel",
+      "title": "Account Executive, Commercial Install Base ",
+      "postedToDiscord": "2026-01-03T17:24:06.550Z",
+      "sourceDate": "2025-12-16T15:28:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5708732004",
+      "discordThreadId": "1457061964919603317",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018119008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018119008",
+      "company": "anthropic",
+      "title": "Technical Policy Lead, Government & Third-Party Safety Partnerships",
+      "postedToDiscord": "2026-01-03T17:24:12.891Z",
+      "sourceDate": "2025-12-16T18:21:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018119008",
+      "discordThreadId": "1457061990962036757",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5737778004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5737778004",
+      "company": "figma",
+      "title": "Strategic Program Manager",
+      "postedToDiscord": "2026-01-03T17:24:19.345Z",
+      "sourceDate": "2025-12-16T16:59:08-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737778004?gh_jid=5737778004",
+      "discordThreadId": "1457062017839141157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5517523004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5517523004",
+      "company": "vercel",
+      "title": "AI Engineer",
+      "postedToDiscord": "2026-01-03T17:24:25.653Z",
+      "sourceDate": "2025-12-16T15:16:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5517523004",
+      "discordThreadId": "1457062045005644061",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 643,
+    "totalJobs": 653,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T17:07:34.009Z",
+      "date": "2026-01-03T17:24:25.653Z",
       "archived": 0
     }
   }
