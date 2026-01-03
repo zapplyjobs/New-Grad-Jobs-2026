@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-03T08:53:35.402Z
+**Timestamp:** 2026-01-03T09:05:22.594Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 10
@@ -8,209 +8,213 @@
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-03T08:53:00.114Z] ========================================
-[2026-01-03T08:53:00.116Z] Discord Bot Execution Log
-[2026-01-03T08:53:00.116Z] Environment: GitHub Actions
-[2026-01-03T08:53:00.116Z] Node Version: v20.19.6
-[2026-01-03T08:53:00.116Z] ========================================
-[2026-01-03T08:53:00.116Z] Environment Variables Check:
-[2026-01-03T08:53:00.116Z] DISCORD_TOKEN: ✅ Set
-[2026-01-03T08:53:00.116Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.116Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-03T08:53:00.116Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-03T08:53:00.116Z] 
+[2026-01-03T09:04:41.080Z] ========================================
+[2026-01-03T09:04:41.082Z] Discord Bot Execution Log
+[2026-01-03T09:04:41.082Z] Environment: GitHub Actions
+[2026-01-03T09:04:41.082Z] Node Version: v20.19.6
+[2026-01-03T09:04:41.082Z] ========================================
+[2026-01-03T09:04:41.082Z] Environment Variables Check:
+[2026-01-03T09:04:41.082Z] DISCORD_TOKEN: ✅ Set
+[2026-01-03T09:04:41.082Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.082Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-03T09:04:41.082Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-03T09:04:41.082Z] 
 Multi-Channel Configuration:
-[2026-01-03T08:53:00.117Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-03T08:53:00.117Z] 
+[2026-01-03T09:04:41.082Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-03T09:04:41.083Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-03T08:53:00.117Z] 
+[2026-01-03T09:04:41.083Z] 
 Data Files Check:
-[2026-01-03T08:53:00.119Z] .github/data/new_jobs.json: ✅ Exists (10 items, 191779 bytes)
-[2026-01-03T08:53:00.120Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 172117 bytes)
-[2026-01-03T08:53:00.120Z] 
+[2026-01-03T09:04:41.084Z] .github/data/new_jobs.json: ✅ Exists (10 items, 172455 bytes)
+[2026-01-03T09:04:41.086Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 177168 bytes)
+[2026-01-03T09:04:41.086Z] 
 ========================================
-[2026-01-03T08:53:00.120Z] Starting Enhanced Discord Bot...
-[2026-01-03T08:53:00.120Z] ========================================
-[2026-01-03T08:53:00.639Z] [BOT] ✅ Loaded V2 database: 314 jobs
-[2026-01-03T08:53:01.445Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-03T08:53:01.445Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-03T09:04:41.086Z] Starting Enhanced Discord Bot...
+[2026-01-03T09:04:41.086Z] ========================================
+[2026-01-03T09:04:41.617Z] [BOT] ✅ Loaded V2 database: 324 jobs
+[2026-01-03T09:04:42.520Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-03T09:04:42.521Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply.jobs (CH_20db82b8)
-[2026-01-03T08:53:01.446Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-03T08:53:01.447Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
-[2026-01-03T08:53:01.516Z] [BOT] 🧹 Cleaned up 10 jobs older than 7 days
-[2026-01-03T08:53:01.609Z] [BOT] ✅ Export complete: Added 10, Skipped 0, Total 216
-[2026-01-03T08:53:01.612Z] [BOT] 📬 Found 10 new jobs (0 already posted)...
-[2026-01-03T08:53:01.612Z] [BOT] 📋 After blacklist filter: 10 jobs (0 blacklisted)
-[2026-01-03T08:53:01.612Z] [BOT] 📋 After data quality filter: 10 jobs (0 invalid)
-[2026-01-03T08:53:01.613Z] [BOT] 📋 After multi-location grouping: 10 unique jobs to post
-[2026-01-03T08:53:01.613Z] [BOT] 📤 Posting 10 jobs...
+[2026-01-03T09:04:42.521Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-03T09:04:42.523Z] [BOT] 📦 Exporting 10 jobs to encrypted JSON...
+[2026-01-03T09:04:42.596Z] [BOT] 🧹 Cleaned up 10 jobs older than 7 days
+[2026-01-03T09:04:42.691Z] [BOT] ✅ Export complete: Added 10, Skipped 0, Total 216
+[2026-01-03T09:04:42.693Z] [BOT] 📬 Found 10 new jobs (0 already posted)...
+[2026-01-03T09:04:42.694Z] [BOT] 📋 After blacklist filter: 10 jobs (0 blacklisted)
+[2026-01-03T09:04:42.694Z] [BOT] 📋 After data quality filter: 10 jobs (0 invalid)
+[2026-01-03T09:04:42.694Z] [BOT] 📋 After multi-location grouping: 10 unique jobs to post
+[2026-01-03T09:04:42.695Z] [BOT] 📤 Posting 10 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-03T08:53:01.617Z] [BOT] 📌 Posting 10 jobs to #💲・sales-jobs
-[2026-01-03T08:53:01.618Z] [BOT] 📍 [ROUTING] "Channel Development Representative, West (Salt Lake City)" @ verkada
-   Category: SALES (matched: "sales")
-[2026-01-03T08:53:01.618Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:01.622Z] [BOT ERROR] (node:2343) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-03T09:04:42.699Z] [BOT] 📌 Posting 6 jobs to #💲・sales-jobs
+[2026-01-03T09:04:42.700Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Phoenix - Corporate)" @ verkada
+[2026-01-03T09:04:42.700Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-03T09:04:42.705Z] [BOT ERROR] (node:2348) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-03T08:53:01.822Z] [BOT] ✅ Created forum post: 🏢 Channel Development Representative, West (Salt Lake City) @ verkada in #💲・sales-jobs
-[2026-01-03T08:53:01.822Z] [BOT] ✅ Industry: Channel Development Representative, West (Salt Lake City) @ verkada
-[2026-01-03T08:53:03.323Z] [BOT] 💾 Marked as posted: Channel Development Representative, West (Salt Lake City) @ verkada (instance #1)
-[2026-01-03T08:53:03.323Z] [BOT] 💾 BEFORE ARCHIVING: 315 jobs in database
-[2026-01-03T08:53:03.324Z] [BOT] ✅ No jobs to archive (all 315 jobs within 7-day window)
-[2026-01-03T08:53:03.331Z] [BOT] 💾 Saved posted_jobs.json: 315 active jobs
-[2026-01-03T08:53:03.331Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:03.332Z] [BOT] 📍 [ROUTING] "Channel Marketing Associate (Remote)" @ verkada
-   Category: SALES (matched: "sales")
+[2026-01-03T09:04:42.916Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Phoenix - Corporate) @ verkada in #💲・sales-jobs
+[2026-01-03T09:04:42.917Z] [BOT] ✅ Industry: Enterprise Account Executive (Phoenix - Corporate) @ verkada
+[2026-01-03T09:04:44.419Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Phoenix - Corporate) @ verkada (instance #1)
+[2026-01-03T09:04:44.420Z] [BOT] 💾 BEFORE ARCHIVING: 325 jobs in database
+[2026-01-03T09:04:44.420Z] [BOT] ✅ No jobs to archive (all 325 jobs within 7-day window)
+[2026-01-03T09:04:44.427Z] [BOT] 💾 Saved posted_jobs.json: 325 active jobs
+[2026-01-03T09:04:44.427Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:04:44.427Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (SoCal - Corporate)" @ verkada
+[2026-01-03T09:04:44.428Z] [BOT] Category: SALES (matched: "sales")
    Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:03.513Z] [BOT] ✅ Created forum post: 🏢 Channel Marketing Associate (Remote) @ verkada in #💲・sales-jobs
-[2026-01-03T08:53:03.513Z] [BOT] ✅ Industry: Channel Marketing Associate (Remote) @ verkada
-[2026-01-03T08:53:05.267Z] [BOT] ✅ Created forum post: 🏢 Channel Marketing Associate (Remote) @ verkada in #🗽・new-york
-[2026-01-03T08:53:05.268Z] [BOT] ✅ Location: 🗽・new-york
-[2026-01-03T08:53:06.768Z] [BOT] 💾 Marked as posted: Channel Marketing Associate (Remote) @ verkada (instance #1)
-[2026-01-03T08:53:06.769Z] [BOT] 💾 BEFORE ARCHIVING: 316 jobs in database
-[2026-01-03T08:53:06.769Z] [BOT] ✅ No jobs to archive (all 316 jobs within 7-day window)
-[2026-01-03T08:53:06.772Z] [BOT] 💾 Saved posted_jobs.json: 316 active jobs
+[2026-01-03T09:04:44.630Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (SoCal - Corporate) @ verkada in #💲・sales-jobs
+[2026-01-03T09:04:44.630Z] [BOT] ✅ Industry: Enterprise Account Executive (SoCal - Corporate) @ verkada
+[2026-01-03T09:04:46.379Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (SoCal - Corporate) @ verkada in #🦢・los-angeles
+[2026-01-03T09:04:46.379Z] [BOT] ✅ Location: 🦢・los-angeles
+[2026-01-03T09:04:47.881Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (SoCal - Corporate) @ verkada (instance #1)
+[2026-01-03T09:04:47.881Z] [BOT] 💾 BEFORE ARCHIVING: 326 jobs in database
+[2026-01-03T09:04:47.881Z] [BOT] ✅ No jobs to archive (all 326 jobs within 7-day window)
+[2026-01-03T09:04:47.885Z] [BOT] 💾 Saved posted_jobs.json: 326 active jobs
+[2026-01-03T09:04:47.885Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:04:47.885Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Southern California - Local, Higher Education)" @ verkada
+[2026-01-03T09:04:47.886Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-03T09:04:48.260Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Southern California - Local, Higher Education) @ verkada in #💲・sales-jobs
+[2026-01-03T09:04:48.260Z] [BOT] ✅ Industry: Enterprise Account Executive (Southern California - Local, Higher Education) @ verkada
+[2026-01-03T09:04:49.971Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Southern California - Local, Higher Education) @ verkada in #🦢・los-angeles
+  ✅ Location: 🦢・los-angeles
+[2026-01-03T09:04:51.471Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Southern California - Local, Higher Education) @ verkada (instance #1)
+[2026-01-03T09:04:51.471Z] [BOT] 💾 BEFORE ARCHIVING: 327 jobs in database
+[2026-01-03T09:04:51.471Z] [BOT] ✅ No jobs to archive (all 327 jobs within 7-day window)
+[2026-01-03T09:04:51.474Z] [BOT] 💾 Saved posted_jobs.json: 327 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:06.773Z] [BOT] 📍 [ROUTING] "Communications Manager" @ verkada
-[2026-01-03T08:53:06.773Z] [BOT] Category: SALES (matched: "sales")
+[2026-01-03T09:04:51.475Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (US West - Federal Veterans Affairs)" @ verkada
+[2026-01-03T09:04:51.475Z] [BOT] Category: SALES (matched: "sales")
    Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:06.988Z] [BOT] ✅ Created forum post: 🏢 Communications Manager @ verkada in #💲・sales-jobs
-[2026-01-03T08:53:06.988Z] [BOT] ✅ Industry: Communications Manager @ verkada
-[2026-01-03T08:53:08.669Z] [BOT] ✅ Created forum post: 🏢 Communications Manager @ verkada in #🗽・new-york
-  ✅ Location: 🗽・new-york
-[2026-01-03T08:53:10.170Z] [BOT] 💾 Marked as posted: Communications Manager @ verkada (instance #1)
-[2026-01-03T08:53:10.170Z] [BOT] 💾 BEFORE ARCHIVING: 317 jobs in database
-[2026-01-03T08:53:10.171Z] [BOT] ✅ No jobs to archive (all 317 jobs within 7-day window)
-[2026-01-03T08:53:10.173Z] [BOT] 💾 Saved posted_jobs.json: 317 active jobs
-[2026-01-03T08:53:10.173Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:10.174Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Chicago - SLED)" @ verkada
-[2026-01-03T08:53:10.174Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:10.374Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Chicago - SLED) @ verkada in #💲・sales-jobs
-[2026-01-03T08:53:10.374Z] [BOT] ✅ Industry: Enterprise Account Executive (Chicago - SLED) @ verkada
-[2026-01-03T08:53:12.323Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Chicago - SLED) @ verkada in #🌆・chicago
-[2026-01-03T08:53:12.324Z] [BOT] ✅ Location: 🌆・chicago
-[2026-01-03T08:53:13.824Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Chicago - SLED) @ verkada (instance #1)
-[2026-01-03T08:53:13.824Z] [BOT] 💾 BEFORE ARCHIVING: 318 jobs in database
-[2026-01-03T08:53:13.824Z] [BOT] ✅ No jobs to archive (all 318 jobs within 7-day window)
-[2026-01-03T08:53:13.828Z] [BOT] 💾 Saved posted_jobs.json: 318 active jobs
-[2026-01-03T08:53:13.828Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:13.828Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Colorado - SLED)" @ verkada
-[2026-01-03T08:53:13.829Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:14.019Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Colorado - SLED) @ verkada in #💲・sales-jobs
-  ✅ Industry: Enterprise Account Executive (Colorado - SLED) @ verkada
-[2026-01-03T08:53:15.520Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Colorado - SLED) @ verkada (instance #1)
-💾 BEFORE ARCHIVING: 319 jobs in database
-[2026-01-03T08:53:15.521Z] [BOT] ✅ No jobs to archive (all 319 jobs within 7-day window)
-[2026-01-03T08:53:15.524Z] [BOT] 💾 Saved posted_jobs.json: 319 active jobs
-[2026-01-03T08:53:15.524Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:15.524Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Corporate/Manufacturing - East)" @ verkada
-[2026-01-03T08:53:15.524Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:15.740Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Corporate/Manufacturing - East) @ verkada in #💲・sales-jobs
-  ✅ Industry: Enterprise Account Executive (Corporate/Manufacturing - East) @ verkada
-[2026-01-03T08:53:17.419Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Corporate/Manufacturing - East) @ verkada in #🚌・boston
-  ✅ Location: 🚌・boston
-[2026-01-03T08:53:18.920Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Corporate/Manufacturing - East) @ verkada (instance #1)
-[2026-01-03T08:53:18.920Z] [BOT] 💾 BEFORE ARCHIVING: 320 jobs in database
-[2026-01-03T08:53:18.920Z] [BOT] ✅ No jobs to archive (all 320 jobs within 7-day window)
-[2026-01-03T08:53:18.923Z] [BOT] 💾 Saved posted_jobs.json: 320 active jobs
-[2026-01-03T08:53:18.924Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:18.924Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Houston - SLED)" @ verkada
-[2026-01-03T08:53:18.924Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:19.068Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Houston - SLED) @ verkada in #💲・sales-jobs
-  ✅ Industry: Enterprise Account Executive (Houston - SLED) @ verkada
-[2026-01-03T08:53:20.570Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Houston - SLED) @ verkada (instance #1)
-[2026-01-03T08:53:20.570Z] [BOT] 💾 BEFORE ARCHIVING: 321 jobs in database
-[2026-01-03T08:53:20.570Z] [BOT] ✅ No jobs to archive (all 321 jobs within 7-day window)
-[2026-01-03T08:53:20.573Z] [BOT] 💾 Saved posted_jobs.json: 321 active jobs
+[2026-01-03T09:04:51.862Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (US West - Federal Veterans Affairs) @ verkada in #💲・sales-jobs
+  ✅ Industry: Enterprise Account Executive (US West - Federal Veterans Affairs) @ verkada
+[2026-01-03T09:04:53.600Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (US West - Federal Veterans Affairs) @ verkada in #🌧️・seattle
+  ✅ Location: 🌧️・seattle
+[2026-01-03T09:04:55.101Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (US West - Federal Veterans Affairs) @ verkada (instance #1)
+[2026-01-03T09:04:55.101Z] [BOT] 💾 BEFORE ARCHIVING: 328 jobs in database
+[2026-01-03T09:04:55.101Z] [BOT] ✅ No jobs to archive (all 328 jobs within 7-day window)
+[2026-01-03T09:04:55.105Z] [BOT] 💾 Saved posted_jobs.json: 328 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:20.574Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Kansas - SLED)" @ verkada
-   Category: SALES (matched: "sales")
-[2026-01-03T08:53:20.574Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:20.973Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Kansas - SLED) @ verkada in #💲・sales-jobs
-  ✅ Industry: Enterprise Account Executive (Kansas - SLED) @ verkada
-[2026-01-03T08:53:22.474Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Kansas - SLED) @ verkada (instance #1)
-[2026-01-03T08:53:22.474Z] [BOT] 💾 BEFORE ARCHIVING: 322 jobs in database
-[2026-01-03T08:53:22.474Z] [BOT] ✅ No jobs to archive (all 322 jobs within 7-day window)
-[2026-01-03T08:53:22.478Z] [BOT] 💾 Saved posted_jobs.json: 322 active jobs
-[2026-01-03T08:53:22.478Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:22.478Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (New York State  - SLED)" @ verkada
-[2026-01-03T08:53:22.478Z] [BOT] Category: SALES (matched: "sales")
+[2026-01-03T09:04:55.106Z] [BOT] 📍 [ROUTING] "Enterprise Development Manager" @ verkada
+[2026-01-03T09:04:55.106Z] [BOT] Category: SALES (matched: "sales")
    Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:22.646Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (New York State  - SLED) @ verkada in #💲・sales-jobs
-  ✅ Industry: Enterprise Account Executive (New York State  - SLED) @ verkada
-[2026-01-03T08:53:24.359Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (New York State  - SLED) @ verkada in #🗽・new-york
-  ✅ Location: 🗽・new-york
-[2026-01-03T08:53:25.861Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (New York State  - SLED) @ verkada (instance #1)
-[2026-01-03T08:53:25.861Z] [BOT] 💾 BEFORE ARCHIVING: 323 jobs in database
-[2026-01-03T08:53:25.862Z] [BOT] ✅ No jobs to archive (all 323 jobs within 7-day window)
-[2026-01-03T08:53:25.864Z] [BOT] 💾 Saved posted_jobs.json: 323 active jobs
-[2026-01-03T08:53:25.864Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:25.865Z] [BOT] 📍 [ROUTING] "Enterprise Account Executive (Northeast - Corporate)" @ verkada
-   Category: SALES (matched: "sales")
-[2026-01-03T08:53:25.865Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
-[2026-01-03T08:53:26.027Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Northeast - Corporate) @ verkada in #💲・sales-jobs
-  ✅ Industry: Enterprise Account Executive (Northeast - Corporate) @ verkada
-[2026-01-03T08:53:27.693Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Executive (Northeast - Corporate) @ verkada in #🗽・new-york
-  ✅ Location: 🗽・new-york
-[2026-01-03T08:53:29.194Z] [BOT] 💾 Marked as posted: Enterprise Account Executive (Northeast - Corporate) @ verkada (instance #1)
-[2026-01-03T08:53:29.194Z] [BOT] 💾 BEFORE ARCHIVING: 324 jobs in database
-[2026-01-03T08:53:29.194Z] [BOT] ✅ No jobs to archive (all 324 jobs within 7-day window)
-[2026-01-03T08:53:29.198Z] [BOT] 💾 Saved posted_jobs.json: 324 active jobs
+[2026-01-03T09:04:55.333Z] [BOT] ✅ Created forum post: 🏢 Enterprise Development Manager @ verkada in #💲・sales-jobs
+  ✅ Industry: Enterprise Development Manager @ verkada
+[2026-01-03T09:04:57.042Z] [BOT] ✅ Created forum post: 🏢 Enterprise Development Manager @ verkada in #🤠・austin
+  ✅ Location: 🤠・austin
+[2026-01-03T09:04:58.543Z] [BOT] 💾 Marked as posted: Enterprise Development Manager @ verkada (instance #1)
+[2026-01-03T09:04:58.543Z] [BOT] 💾 BEFORE ARCHIVING: 329 jobs in database
+[2026-01-03T09:04:58.544Z] [BOT] ✅ No jobs to archive (all 329 jobs within 7-day window)
+[2026-01-03T09:04:58.547Z] [BOT] 💾 Saved posted_jobs.json: 329 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-03T08:53:32.199Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
-[2026-01-03T08:53:32.199Z] [BOT] ⏭️  Skipping duplicate: JID_1c4bcafd (posted within 7 days)
-[2026-01-03T08:53:32.199Z] [BOT] ⏭️  Skipping duplicate: JID_39c31ac9 (posted within 7 days)
-⏭️  Skipping duplicate: JID_a02b2616 (posted within 7 days)
-[2026-01-03T08:53:32.200Z] [BOT] ⏭️  Skipping duplicate: JID_a73599fa (posted within 7 days)
-⏭️  Skipping duplicate: JID_639c4656 (posted within 7 days)
-⏭️  Skipping duplicate: JID_f9f2534f (posted within 7 days)
-[2026-01-03T08:53:32.200Z] [BOT] ⏭️  Skipping duplicate: JID_52f3e750 (posted within 7 days)
-⏭️  Skipping duplicate: JID_9b390ef8 (posted within 7 days)
-⏭️  Skipping duplicate: JID_b0b83342 (posted within 7 days)
-[2026-01-03T08:53:32.200Z] [BOT] ⏭️  Skipping duplicate: JID_5b3f9c27 (posted within 7 days)
-[2026-01-03T08:53:32.278Z] [BOT] ✅ Loaded pending queue: 975 total (955 pending, 20 enriched, 0 posted)
-[2026-01-03T08:53:32.391Z] [BOT] ✅ Saved pending queue: 975 total (955 pending, 10 enriched, 10 posted)
+[2026-01-03T09:04:58.548Z] [BOT] 📍 [ROUTING] "Enterprise Development Representative" @ verkada
+[2026-01-03T09:04:58.548Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-03T09:04:58.812Z] [BOT] ✅ Created forum post: 🏢 Enterprise Development Representative @ verkada in #💲・sales-jobs
+  ✅ Industry: Enterprise Development Representative @ verkada
+[2026-01-03T09:05:00.558Z] [BOT] ✅ Created forum post: 🏢 Enterprise Development Representative @ verkada in #🤠・austin
+  ✅ Location: 🤠・austin
+[2026-01-03T09:05:02.059Z] [BOT] 💾 Marked as posted: Enterprise Development Representative @ verkada (instance #1)
+[2026-01-03T09:05:02.059Z] [BOT] 💾 BEFORE ARCHIVING: 330 jobs in database
+[2026-01-03T09:05:02.060Z] [BOT] ✅ No jobs to archive (all 330 jobs within 7-day window)
+[2026-01-03T09:05:02.063Z] [BOT] 💾 Saved posted_jobs.json: 330 active jobs
+[2026-01-03T09:05:02.063Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:05:05.064Z] [BOT] 📌 Posting 4 jobs to #💻・tech-jobs
+[2026-01-03T09:05:05.065Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Carolinas " @ verkada
+   Category: TECH (matched: "engineer/engineering")
+[2026-01-03T09:05:05.065Z] [BOT] Channel: 💻・tech-jobs (1391...8819)
+[2026-01-03T09:05:05.336Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Carolinas  @ verkada in #💻・tech-jobs
+[2026-01-03T09:05:05.336Z] [BOT] ✅ Industry: Enterprise Solutions Engineer, Carolinas  @ verkada
+[2026-01-03T09:05:06.838Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, Carolinas  @ verkada (instance #1)
+[2026-01-03T09:05:06.838Z] [BOT] 💾 BEFORE ARCHIVING: 331 jobs in database
+[2026-01-03T09:05:06.838Z] [BOT] ✅ No jobs to archive (all 331 jobs within 7-day window)
+[2026-01-03T09:05:06.841Z] [BOT] 💾 Saved posted_jobs.json: 331 active jobs
+[2026-01-03T09:05:06.841Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:05:06.842Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Greater Atlanta Area" @ verkada
+[2026-01-03T09:05:06.842Z] [BOT] Category: TECH (matched: "engineer/engineering")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-03T09:05:07.103Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Greater Atlanta Area @ verkada in #💻・tech-jobs
+  ✅ Industry: Enterprise Solutions Engineer, Greater Atlanta Area @ verkada
+[2026-01-03T09:05:08.604Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, Greater Atlanta Area @ verkada (instance #1)
+[2026-01-03T09:05:08.605Z] [BOT] 💾 BEFORE ARCHIVING: 332 jobs in database
+[2026-01-03T09:05:08.605Z] [BOT] ✅ No jobs to archive (all 332 jobs within 7-day window)
+[2026-01-03T09:05:08.608Z] [BOT] 💾 Saved posted_jobs.json: 332 active jobs
+[2026-01-03T09:05:08.608Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:05:08.608Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Mid-West, SLED" @ verkada
+   Category: TECH (matched: "engineer/engineering")
+[2026-01-03T09:05:08.608Z] [BOT] Channel: 💻・tech-jobs (1391...8819)
+[2026-01-03T09:05:09.033Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Mid-West, SLED @ verkada in #💻・tech-jobs
+  ✅ Industry: Enterprise Solutions Engineer, Mid-West, SLED @ verkada
+[2026-01-03T09:05:10.990Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Mid-West, SLED @ verkada in #🌆・chicago
+  ✅ Location: 🌆・chicago
+[2026-01-03T09:05:12.492Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, Mid-West, SLED @ verkada (instance #1)
+[2026-01-03T09:05:12.492Z] [BOT] 💾 BEFORE ARCHIVING: 333 jobs in database
+[2026-01-03T09:05:12.492Z] [BOT] ✅ No jobs to archive (all 333 jobs within 7-day window)
+[2026-01-03T09:05:12.496Z] [BOT] 💾 Saved posted_jobs.json: 333 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-03T09:05:12.497Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Northeast" @ verkada
+[2026-01-03T09:05:12.497Z] [BOT] Category: TECH (matched: "engineer/engineering")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-03T09:05:12.781Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Northeast @ verkada in #💻・tech-jobs
+  ✅ Industry: Enterprise Solutions Engineer, Northeast @ verkada
+[2026-01-03T09:05:14.525Z] [BOT] ✅ Created forum post: 🏢 Enterprise Solutions Engineer, Northeast @ verkada in #🗽・new-york
+  ✅ Location: 🗽・new-york
+[2026-01-03T09:05:16.028Z] [BOT] 💾 Marked as posted: Enterprise Solutions Engineer, Northeast @ verkada (instance #1)
+[2026-01-03T09:05:16.028Z] [BOT] 💾 BEFORE ARCHIVING: 334 jobs in database
+[2026-01-03T09:05:16.028Z] [BOT] ✅ No jobs to archive (all 334 jobs within 7-day window)
+[2026-01-03T09:05:16.032Z] [BOT] 💾 Saved posted_jobs.json: 334 active jobs
+[2026-01-03T09:05:16.032Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-03T09:05:19.033Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
+[2026-01-03T09:05:19.033Z] [BOT] ⏭️  Skipping duplicate: JID_1fba0dfd (posted within 7 days)
+[2026-01-03T09:05:19.033Z] [BOT] ⏭️  Skipping duplicate: JID_a3d19ba5 (posted within 7 days)
+⏭️  Skipping duplicate: JID_2de00e78 (posted within 7 days)
+[2026-01-03T09:05:19.033Z] [BOT] ⏭️  Skipping duplicate: JID_81c0b62d (posted within 7 days)
+⏭️  Skipping duplicate: JID_bf0d2987 (posted within 7 days)
+⏭️  Skipping duplicate: JID_ce87da78 (posted within 7 days)
+[2026-01-03T09:05:19.033Z] [BOT] ⏭️  Skipping duplicate: JID_97e7cb0f (posted within 7 days)
+⏭️  Skipping duplicate: JID_93d9360f (posted within 7 days)
+[2026-01-03T09:05:19.033Z] [BOT] ⏭️  Skipping duplicate: JID_152141f5 (posted within 7 days)
+[2026-01-03T09:05:19.034Z] [BOT] ⏭️  Skipping duplicate: JID_2c363f0d (posted within 7 days)
+[2026-01-03T09:05:19.113Z] [BOT] ✅ Loaded pending queue: 965 total (945 pending, 20 enriched, 0 posted)
+[2026-01-03T09:05:19.230Z] [BOT] ✅ Saved pending queue: 965 total (945 pending, 10 enriched, 10 posted)
 📋 Updated queue: marked 10 jobs as posted
-[2026-01-03T08:53:32.392Z] [BOT] ✅ All posting operations complete, cleaning up...
-[2026-01-03T08:53:32.435Z] [BOT] 📂 Loaded 1323 existing routing entries
-[2026-01-03T08:53:32.480Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+[2026-01-03T09:05:19.230Z] [BOT] ✅ All posting operations complete, cleaning up...
+[2026-01-03T09:05:19.274Z] [BOT] 📂 Loaded 1333 existing routing entries
+[2026-01-03T09:05:19.320Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
    New entries: 10
-   Total entries: 1333
-   Timestamp: 2026-01-03T08:53:32.475Z
-[2026-01-03T08:53:32.481Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_2f95e3fe.jsonl
-[2026-01-03T08:53:32.481Z] [BOT] Total attempts: 16
-   Successful: 16
-   Failed: 0
+   Total entries: 1343
+   Timestamp: 2026-01-03T09:05:19.315Z
+[2026-01-03T09:05:19.321Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_2f95e3fe.jsonl
+   Total attempts: 17
+   Successful: 17
+[2026-01-03T09:05:19.321Z] [BOT] Failed: 0
    Skipped: 0
-[2026-01-03T08:53:32.481Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
-[2026-01-03T08:53:32.481Z] [BOT] Last cleanup: Never
-   Total posts: 16
-   Channels used: 4
+[2026-01-03T09:05:19.321Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+   Last cleanup: Never
+[2026-01-03T09:05:19.322Z] [BOT] Total posts: 17
+   Channels used: 7
    Top channels:
-[2026-01-03T08:53:32.481Z] [BOT] 1. #💲・sales-jobs: 10 posts
-     2. #🗽・new-york: 4 posts
-     3. #🌆・chicago: 1 posts
-     4. #🚌・boston: 1 posts
-[2026-01-03T08:53:32.482Z] [BOT] [STATS] Channel stats saved
-[2026-01-03T08:53:34.498Z] 
+     1. #💲・sales-jobs: 6 posts
+     2. #💻・tech-jobs: 4 posts
+     3. #🦢・los-angeles: 2 posts
+[2026-01-03T09:05:19.322Z] [BOT] 4. #🤠・austin: 2 posts
+     5. #🌧️・seattle: 1 posts
+[2026-01-03T09:05:19.322Z] [BOT] [STATS] Channel stats saved
+[2026-01-03T09:05:21.339Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2343) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2348) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
