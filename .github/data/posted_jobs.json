@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T05:39:58.779Z",
+  "lastUpdated": "2026-01-03T05:53:08.564Z",
   "jobs": [
     {
       "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910-2025-12-27-1",
@@ -2146,14 +2146,124 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
       "discordThreadId": "1456884764442230785",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169321-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169321",
+      "company": "samsara",
+      "title": "Account Development Representative Intern ",
+      "postedToDiscord": "2026-01-03T05:53:04.966Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169321?gh_jid=7169321",
+      "discordThreadId": "1456888068878372885",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169384-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169384",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad)",
+      "postedToDiscord": "2026-01-03T05:53:06.821Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169384?gh_jid=7169384",
+      "discordThreadId": "1456888076327719017",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169397-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169397",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad) ",
+      "postedToDiscord": "2026-01-03T05:53:06.824Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169397?gh_jid=7169397",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165119-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165119",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-03T05:53:08.549Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165119?gh_jid=6165119",
+      "discordThreadId": "1456888084128862259",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605602-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605602",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-03T05:53:08.552Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605602?gh_jid=6605602",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605601-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605601",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-03T05:53:08.555Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605601?gh_jid=6605601",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605604-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605604",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-03T05:53:08.557Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605604?gh_jid=6605604",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165130-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165130",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-03T05:53:08.559Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165130?gh_jid=6165130",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165127-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165127",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-03T05:53:08.562Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165127?gh_jid=6165127",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165126-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165126",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-03T05:53:08.564Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165126?gh_jid=6165126",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 195,
+    "totalJobs": 205,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T05:39:58.779Z",
+      "date": "2026-01-03T05:53:08.564Z",
       "archived": 0
     }
   }
