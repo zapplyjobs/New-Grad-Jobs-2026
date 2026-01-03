@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T17:49:50.253Z",
+  "lastUpdated": "2026-01-03T18:06:00.526Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -7404,14 +7404,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332358002",
       "discordThreadId": "1457068435895881862",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8335879002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8335879002",
+      "company": "discord",
+      "title": "Senior Financial Analyst",
+      "postedToDiscord": "2026-01-03T18:05:27.566Z",
+      "sourceDate": "2025-12-15T11:23:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8335879002",
+      "discordThreadId": "1457072370459086938",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025976008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025976008",
+      "company": "anthropic",
+      "title": "Product Designer, Claude Code ",
+      "postedToDiscord": "2026-01-03T18:05:34.160Z",
+      "sourceDate": "2025-12-14T00:23:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025976008",
+      "discordThreadId": "1457072397285855358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5030680008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5030680008",
+      "company": "anthropic",
+      "title": "Infrastructure Engineer, Sandboxing",
+      "postedToDiscord": "2026-01-03T18:05:41.499Z",
+      "sourceDate": "2025-12-12T18:03:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008",
+      "discordThreadId": "1457072426440724574",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025591008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025591008",
+      "company": "anthropic",
+      "title": "Software Engineer, Sandboxing (Systems)",
+      "postedToDiscord": "2026-01-03T18:05:45.567Z",
+      "sourceDate": "2025-12-12T18:03:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008",
+      "discordThreadId": "1457072443188314198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339283002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8339283002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-03T18:05:49.124Z",
+      "sourceDate": "2025-12-12T18:00:39-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339283002?gh_jid=8339283002",
+      "discordThreadId": "1457072460678823986",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339277002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8339277002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-03T18:05:49.132Z",
+      "sourceDate": "2025-12-12T18:00:05-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339277002?gh_jid=8339277002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339252002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8339252002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-03T18:05:49.139Z",
+      "sourceDate": "2025-12-12T18:00:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339252002?gh_jid=8339252002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-107bb272-9e09-42de-8dee-a0c9a41209d6-2026-01-03-1",
+      "jobId": "jobs-lever-co-gohighlevel-107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Hosted Events",
+      "postedToDiscord": "2026-01-03T18:05:53.906Z",
+      "sourceDate": "2025-12-12T20:32:27.093Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "discordThreadId": "1457072488025428246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-f23300a5-68af-47ed-b6cc-e95b06c6b54f-2026-01-03-1",
+      "jobId": "jobs-lever-co-gohighlevel-f23300a5-68af-47ed-b6cc-e95b06c6b54f",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Sponsored Events",
+      "postedToDiscord": "2026-01-03T18:05:53.913Z",
+      "sourceDate": "2025-12-12T20:06:39.412Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/f23300a5-68af-47ed-b6cc-e95b06c6b54f",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8230853002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8230853002",
+      "company": "brex",
+      "title": "Recruiting Coordinator (12-month Contract)",
+      "postedToDiscord": "2026-01-03T18:06:00.526Z",
+      "sourceDate": "2025-12-12T14:12:27-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8230853002?gh_jid=8230853002",
+      "discordThreadId": "1457072508338700370",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 673,
+    "totalJobs": 683,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T17:49:50.253Z",
+      "date": "2026-01-03T18:06:00.526Z",
       "archived": 0
     }
   }
