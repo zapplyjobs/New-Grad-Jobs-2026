@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T16:05:40.413Z",
+  "lastUpdated": "2026-01-03T16:25:40.105Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -6634,14 +6634,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018203008",
       "discordThreadId": "1457042224956047547",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5026097008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026097008",
+      "company": "anthropic",
+      "title": "Software Engineer, Web Product",
+      "postedToDiscord": "2026-01-03T16:25:16.497Z",
+      "sourceDate": "2025-12-18T14:00:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026097008",
+      "discordThreadId": "1457047158489481424",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4613599008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613599008",
+      "company": "anthropic",
+      "title": "Research Engineer, Reward Models Training",
+      "postedToDiscord": "2026-01-03T16:25:22.944Z",
+      "sourceDate": "2025-12-18T13:16:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613599008",
+      "discordThreadId": "1457047185765175336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7415003-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7415003",
+      "company": "reddit",
+      "title": "Android Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-03T16:25:26.723Z",
+      "sourceDate": "2025-12-18T13:07:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7415003",
+      "discordThreadId": "1457047200197644421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7414993-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414993",
+      "company": "reddit",
+      "title": "Android Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-03T16:25:26.730Z",
+      "sourceDate": "2025-12-18T13:07:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414993",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7415013-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7415013",
+      "company": "reddit",
+      "title": "Android Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-03T16:25:26.736Z",
+      "sourceDate": "2025-12-18T13:07:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7415013",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7254586-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7254586",
+      "company": "reddit",
+      "title": "Director, Global 3rd Party Partnerships",
+      "postedToDiscord": "2026-01-03T16:25:30.255Z",
+      "sourceDate": "2025-12-18T13:07:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7254586",
+      "discordThreadId": "1457047215741866135",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7414842-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414842",
+      "company": "reddit",
+      "title": "iOS Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-03T16:25:33.643Z",
+      "sourceDate": "2025-12-18T13:07:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414842",
+      "discordThreadId": "1457047230556143802",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7414834-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414834",
+      "company": "reddit",
+      "title": "iOS Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-03T16:25:33.648Z",
+      "sourceDate": "2025-12-18T13:07:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414834",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7414849-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414849",
+      "company": "reddit",
+      "title": "iOS Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-03T16:25:33.653Z",
+      "sourceDate": "2025-12-18T13:07:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414849",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4976314008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4976314008",
+      "company": "anthropic",
+      "title": "Nonprofit Account Executive",
+      "postedToDiscord": "2026-01-03T16:25:40.105Z",
+      "sourceDate": "2025-12-18T13:16:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
+      "discordThreadId": "1457047257357615257",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 603,
+    "totalJobs": 613,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T16:05:40.413Z",
+      "date": "2026-01-03T16:25:40.105Z",
       "archived": 0
     }
   }
