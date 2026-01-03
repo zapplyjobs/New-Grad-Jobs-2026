@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T03:15:02.332Z",
+  "lastUpdated": "2026-01-03T04:46:01.674Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-certik-20f8e282-fd1a-4f17-8dcf-358e2200c1cf-apply-2025-12-27-1",
-      "jobId": "jobs-lever-co-certik-20f8e282-fd1a-4f17-8dcf-358e2200c1cf-apply",
-      "company": "Certik",
-      "title": "Business Data Analyst",
-      "postedToDiscord": "2025-12-27T03:15:31.650Z",
-      "sourceDate": "2025-12-27T02:27:58.000Z",
-      "sourceUrl": "https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply",
-      "discordThreadId": "1454311696377319577",
-      "instanceNumber": 1
-    },
     {
       "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910-2025-12-27-1",
       "jobId": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910",
@@ -1607,16 +1596,125 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7579851430954125621/detail",
       "discordThreadId": "1456848287813468346",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8358216002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8358216002",
+      "company": "brex",
+      "title": "Financial Crimes Investigator",
+      "postedToDiscord": "2026-01-03T04:45:38.424Z",
+      "sourceDate": "2026-01-02T23:25:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8358216002?gh_jid=8358216002",
+      "discordThreadId": "1456871089505308692",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136713002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8136713002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-03T04:45:44.804Z",
+      "sourceDate": "2026-01-02T15:41:01-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136713002?gh_jid=8136713002",
+      "discordThreadId": "1456871116554502377",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136710002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8136710002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-03T04:45:44.807Z",
+      "sourceDate": "2026-01-02T15:40:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136710002?gh_jid=8136710002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136706002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8136706002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-03T04:45:44.809Z",
+      "sourceDate": "2026-01-02T15:40:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136706002?gh_jid=8136706002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136183002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8136183002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-03T04:45:44.812Z",
+      "sourceDate": "2026-01-02T15:39:47-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136183002?gh_jid=8136183002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316344002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8316344002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-03T04:45:48.293Z",
+      "sourceDate": "2026-01-02T15:38:16-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316344002?gh_jid=8316344002",
+      "discordThreadId": "1456871130244841473",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316337002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8316337002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-03T04:45:48.296Z",
+      "sourceDate": "2026-01-02T15:38:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316337002?gh_jid=8316337002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316335002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8316335002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-03T04:45:48.299Z",
+      "sourceDate": "2026-01-02T15:37:53-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316335002?gh_jid=8316335002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7493062-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7493062",
+      "company": "reddit",
+      "title": "Business Partner, Global Revenue Strategy & Operations ",
+      "postedToDiscord": "2026-01-03T04:45:55.104Z",
+      "sourceDate": "2026-01-02T15:29:24-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7493062",
+      "discordThreadId": "1456871157939568693",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4858247008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4858247008",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code (Enterprise)",
+      "postedToDiscord": "2026-01-03T04:46:01.674Z",
+      "sourceDate": "2026-01-02T14:55:29-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
+      "discordThreadId": "1456871186494656716",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 146,
+    "totalJobs": 155,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T03:15:02.332Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-03T04:46:01.674Z",
+      "archived": 0
     }
   }
 }
