@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T13:51:08.285Z",
+  "lastUpdated": "2026-01-03T14:05:36.926Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -5644,14 +5644,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328567002",
       "discordThreadId": "1457008367477199025",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7405962-2026-01-03-1",
+      "jobId": "www-coinbase-com-careers-positions-7405962",
+      "company": "coinbase",
+      "title": "Protocol Sales Associate",
+      "postedToDiscord": "2026-01-03T14:04:55.701Z",
+      "sourceDate": "2025-12-22T15:03:50-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7405962?gh_jid=7405962",
+      "discordThreadId": "1457011839094489181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7454499-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7454499",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Retail Beauty)",
+      "postedToDiscord": "2026-01-03T14:04:59.120Z",
+      "sourceDate": "2025-12-22T13:49:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7454499",
+      "discordThreadId": "1457011852973309965",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08-2026-01-03-1",
+      "jobId": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
+      "company": "spotify",
+      "title": "FP&A Analyst, Strategic Planning",
+      "postedToDiscord": "2026-01-03T14:05:02.620Z",
+      "sourceDate": "2025-12-22T18:03:13.128Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
+      "discordThreadId": "1457011867519029372",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8244749002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8244749002",
+      "company": "discord",
+      "title": "Staff Software Engineer, New Gaming Features",
+      "postedToDiscord": "2026-01-03T14:05:09.333Z",
+      "sourceDate": "2025-12-22T14:44:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8244749002",
+      "discordThreadId": "1457011895054766081",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8337817002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8337817002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Player Experience",
+      "postedToDiscord": "2026-01-03T14:05:12.764Z",
+      "sourceDate": "2025-12-22T14:44:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8337817002",
+      "discordThreadId": "1457011910124896258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043460008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043460008",
+      "company": "anthropic",
+      "title": "Partner Development Manager, Build Partners",
+      "postedToDiscord": "2026-01-03T14:05:19.363Z",
+      "sourceDate": "2025-12-22T14:36:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
+      "discordThreadId": "1457011937278689324",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5045006008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045006008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Compute & Infrastructure",
+      "postedToDiscord": "2026-01-03T14:05:22.967Z",
+      "sourceDate": "2025-12-22T14:21:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045006008",
+      "discordThreadId": "1457011952466395313",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043487008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043487008",
+      "company": "anthropic",
+      "title": "Head of Global Reseller Partnerships",
+      "postedToDiscord": "2026-01-03T14:05:26.456Z",
+      "sourceDate": "2025-12-22T14:15:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043487008",
+      "discordThreadId": "1457011967670747217",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5045003008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045003008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Colo & Networks",
+      "postedToDiscord": "2026-01-03T14:05:33.443Z",
+      "sourceDate": "2025-12-22T14:25:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045003008",
+      "discordThreadId": "1457011995260878983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5044994008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5044994008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Datacenters & Construction",
+      "postedToDiscord": "2026-01-03T14:05:36.925Z",
+      "sourceDate": "2025-12-22T14:12:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
+      "discordThreadId": "1457012011459412060",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 513,
+    "totalJobs": 523,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T13:51:08.285Z",
+      "date": "2026-01-03T14:05:36.926Z",
       "archived": 0
     }
   }
