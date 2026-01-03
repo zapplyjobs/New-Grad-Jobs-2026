@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T11:35:28.190Z",
+  "lastUpdated": "2026-01-03T11:48:56.250Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -4764,14 +4764,124 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7205608/?gh_jid=7205608",
       "discordThreadId": "1456974226488561853",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7482671-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7482671",
+      "company": "datadog",
+      "title": "Manager II, Engineering - Bits AI Security Analyst",
+      "postedToDiscord": "2026-01-03T11:48:16.338Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7482671/?gh_jid=7482671",
+      "discordThreadId": "1456977447328289035",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6632056-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6632056",
+      "company": "datadog",
+      "title": "Manager, Networking",
+      "postedToDiscord": "2026-01-03T11:48:22.759Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6632056/?gh_jid=6632056",
+      "discordThreadId": "1456977475627257999",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7381247-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7381247",
+      "company": "datadog",
+      "title": "Office Operations Associate - NYC",
+      "postedToDiscord": "2026-01-03T11:48:26.235Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7381247/?gh_jid=7381247",
+      "discordThreadId": "1456977489376186546",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476873-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7476873",
+      "company": "datadog",
+      "title": "Partner Marketing Manager (Public Sector)",
+      "postedToDiscord": "2026-01-03T11:48:29.720Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
+      "discordThreadId": "1456977504068960371",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7369285-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7369285",
+      "company": "datadog",
+      "title": "Marketing Analytics Engineer",
+      "postedToDiscord": "2026-01-03T11:48:36.415Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7369285/?gh_jid=7369285",
+      "discordThreadId": "1456977532573450413",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6665385-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6665385",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-03T11:48:42.805Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385",
+      "discordThreadId": "1456977559395897399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6163246-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6163246",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-03T11:48:42.811Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6798820-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6798820",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (Boston)",
+      "postedToDiscord": "2026-01-03T11:48:46.497Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820",
+      "discordThreadId": "1456977573765447726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7082012-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7082012",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (San Francisco)",
+      "postedToDiscord": "2026-01-03T11:48:49.825Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012",
+      "discordThreadId": "1456977589116731474",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7120493-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7120493",
+      "company": "datadog",
+      "title": "Premier Support Engineer 3 - NYC",
+      "postedToDiscord": "2026-01-03T11:48:56.250Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493",
+      "discordThreadId": "1456977615775731928",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 433,
+    "totalJobs": 443,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T11:35:28.190Z",
+      "date": "2026-01-03T11:48:56.250Z",
       "archived": 0
     }
   }
