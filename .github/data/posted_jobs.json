@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T14:25:06.089Z",
+  "lastUpdated": "2026-01-03T14:38:27.039Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -5864,14 +5864,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348158002",
       "discordThreadId": "1457016915057836227",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043372008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043372008",
+      "company": "anthropic",
+      "title": "Product Marketing Lead, Agents",
+      "postedToDiscord": "2026-01-03T14:37:41.609Z",
+      "sourceDate": "2025-12-19T17:58:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043372008",
+      "discordThreadId": "1457020075675619500",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5501424004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5501424004",
+      "company": "vercel",
+      "title": "GSI & Consultancies, Partner Lead",
+      "postedToDiscord": "2026-01-03T14:37:45.360Z",
+      "sourceDate": "2025-12-19T17:30:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5501424004",
+      "discordThreadId": "1457020099843330242",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5739572004-2026-01-03-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5739572004",
+      "company": "figma",
+      "title": "Sales Enablement Manager ",
+      "postedToDiscord": "2026-01-03T14:37:48.974Z",
+      "sourceDate": "2025-12-19T15:47:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739572004?gh_jid=5739572004",
+      "discordThreadId": "1457020114988826780",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4423394008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4423394008",
+      "company": "anthropic",
+      "title": "Growth Account Executive",
+      "postedToDiscord": "2026-01-03T14:37:52.600Z",
+      "sourceDate": "2025-12-19T14:26:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+      "discordThreadId": "1457020129891192833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042142008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042142008",
+      "company": "anthropic",
+      "title": "Strategy & Operations Manager, Product Partnerships ",
+      "postedToDiscord": "2026-01-03T14:37:59.558Z",
+      "sourceDate": "2025-12-19T17:05:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042142008",
+      "discordThreadId": "1457020158022258862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042144008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042144008",
+      "company": "anthropic",
+      "title": "Strategic Partner Development, Product Partnerships ",
+      "postedToDiscord": "2026-01-03T14:38:06.589Z",
+      "sourceDate": "2025-12-19T17:03:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042144008",
+      "discordThreadId": "1457020187491700758",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4990162008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4990162008",
+      "company": "anthropic",
+      "title": "Technical Revenue Accountant",
+      "postedToDiscord": "2026-01-03T14:38:10.119Z",
+      "sourceDate": "2025-12-19T14:46:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990162008",
+      "discordThreadId": "1457020203685642457",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4963718008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4963718008",
+      "company": "anthropic",
+      "title": "Technical Accountant",
+      "postedToDiscord": "2026-01-03T14:38:13.670Z",
+      "sourceDate": "2025-12-19T14:45:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4963718008",
+      "discordThreadId": "1457020218407911455",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5179639004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5179639004",
+      "company": "vercel",
+      "title": "Software Engineer, CDN",
+      "postedToDiscord": "2026-01-03T14:38:20.255Z",
+      "sourceDate": "2025-12-19T14:44:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5179639004",
+      "discordThreadId": "1457020246291386595",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8330419002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8330419002",
+      "company": "discord",
+      "title": "Developer Operations Analyst",
+      "postedToDiscord": "2026-01-03T14:38:27.038Z",
+      "sourceDate": "2025-12-19T14:40:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8330419002",
+      "discordThreadId": "1457020274028445901",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 533,
+    "totalJobs": 543,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T14:25:06.089Z",
+      "date": "2026-01-03T14:38:27.039Z",
       "archived": 0
     }
   }
