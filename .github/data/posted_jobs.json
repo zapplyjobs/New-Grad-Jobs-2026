@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T19:49:36.417Z",
+  "lastUpdated": "2026-01-03T20:05:34.280Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -8284,14 +8284,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4941996008",
       "discordThreadId": "1457098579633111177",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4667572008-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4667572008",
+      "company": "anthropic",
+      "title": "Software Engineer, Enterprise Product Engineering",
+      "postedToDiscord": "2026-01-03T20:05:09.346Z",
+      "sourceDate": "2025-12-10T12:57:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4667572008",
+      "discordThreadId": "1457102492277014723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-7032c810-478c-42fc-9807-25553e978343-2026-01-03-1",
+      "jobId": "jobs-lever-co-spotify-7032c810-478c-42fc-9807-25553e978343",
+      "company": "spotify",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-03T20:05:16.059Z",
+      "sourceDate": "2025-12-10T16:38:48.335Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343",
+      "discordThreadId": "1457102520299028643",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-79fc1e54-c553-4858-b3a5-4fd3cf2d1ebc-2026-01-03-1",
+      "jobId": "jobs-lever-co-spotify-79fc1e54-c553-4858-b3a5-4fd3cf2d1ebc",
+      "company": "spotify",
+      "title": "Backend Engineer",
+      "postedToDiscord": "2026-01-03T20:05:19.656Z",
+      "sourceDate": "2025-12-10T16:29:44.470Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/79fc1e54-c553-4858-b3a5-4fd3cf2d1ebc",
+      "discordThreadId": "1457102536002765021",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7704446002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-7704446002",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-03T20:05:26.552Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704446002?gh_jid=7704446002",
+      "discordThreadId": "1457102564578300125",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7704415002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-7704415002",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-03T20:05:26.559Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704415002?gh_jid=7704415002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8177687002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8177687002",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-03T20:05:30.802Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177687002?gh_jid=8177687002",
+      "discordThreadId": "1457102579782651915",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8177660002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8177660002",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-03T20:05:30.808Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177660002?gh_jid=8177660002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303858002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8303858002",
+      "company": "brex",
+      "title": " Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-03T20:05:34.267Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303858002?gh_jid=8303858002",
+      "discordThreadId": "1457102597105258729",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303855002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8303855002",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-03T20:05:34.274Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303855002?gh_jid=8303855002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303852002-2026-01-03-1",
+      "jobId": "www-brex-com-careers-8303852002",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-03T20:05:34.280Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303852002?gh_jid=8303852002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 753,
+    "totalJobs": 763,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T19:49:36.417Z",
+      "date": "2026-01-03T20:05:34.280Z",
       "archived": 0
     }
   }
