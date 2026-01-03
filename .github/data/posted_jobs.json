@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T05:24:45.755Z",
+  "lastUpdated": "2026-01-03T05:39:58.779Z",
   "jobs": [
     {
       "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910-2025-12-27-1",
@@ -2036,14 +2036,124 @@
       "sourceUrl": "https://jobs.lever.co/spotify/89c320f5-2066-44c4-a465-4ce1db5290c5",
       "discordThreadId": "1456880934568722543",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4128860007-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4128860007",
+      "company": "verkada",
+      "title": "Global Enterprise Account Executive",
+      "postedToDiscord": "2026-01-03T05:39:28.554Z",
+      "sourceDate": "2025-12-31T12:13:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4128860007",
+      "discordThreadId": "1456884644954771538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7358137-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7358137",
+      "company": "datadog",
+      "title": "Sales Engineer (Customer Success - Spanish Speaking)",
+      "postedToDiscord": "2026-01-03T05:39:32.095Z",
+      "sourceDate": "2025-12-30T14:54:34-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7358137/?gh_jid=7358137",
+      "discordThreadId": "1456884651988619378",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7409236-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7409236",
+      "company": "datadog",
+      "title": "Key Accounts Executive (East)",
+      "postedToDiscord": "2026-01-03T05:39:35.538Z",
+      "sourceDate": "2025-12-30T10:40:53-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236",
+      "discordThreadId": "1456884666844839966",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169366-2026-01-03-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169366",
+      "company": "samsara",
+      "title": "Account Development Representative Intern",
+      "postedToDiscord": "2026-01-03T05:39:37.275Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169366?gh_jid=7169366",
+      "discordThreadId": "1456884681051078792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496260-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7496260",
+      "company": "datadog",
+      "title": "Technical Support Engineer 2, Premier - Denver",
+      "postedToDiscord": "2026-01-03T05:39:42.045Z",
+      "sourceDate": "2025-12-30T15:48:49-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260",
+      "discordThreadId": "1456884701540257914",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7301380-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7301380",
+      "company": "datadog",
+      "title": "Federal Support Engineer 2 - Denver",
+      "postedToDiscord": "2026-01-03T05:39:43.743Z",
+      "sourceDate": "2025-12-30T15:42:55-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380",
+      "discordThreadId": "1456884708737814548",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-497d99f8-a848-4e33-8dba-1fd64f83f48b-2026-01-03-1",
+      "jobId": "jobs-ashbyhq-com-supabase-497d99f8-a848-4e33-8dba-1fd64f83f48b",
+      "company": "supabase",
+      "title": "Software Engineer: Platform Services",
+      "postedToDiscord": "2026-01-03T05:39:45.483Z",
+      "sourceDate": "2025-12-30T19:19:43.123+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/497d99f8-a848-4e33-8dba-1fd64f83f48b",
+      "discordThreadId": "1456884715956080787",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496250-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7496250",
+      "company": "datadog",
+      "title": "Manager 2, Premier Support Engineering -  Boston",
+      "postedToDiscord": "2026-01-03T05:39:48.896Z",
+      "sourceDate": "2025-12-30T13:51:39-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496250/?gh_jid=7496250",
+      "discordThreadId": "1456884723078135840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5722313004-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5722313004",
+      "company": "vercel",
+      "title": "Content Engineer",
+      "postedToDiscord": "2026-01-03T05:39:52.269Z",
+      "sourceDate": "2025-12-30T13:33:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722313004",
+      "discordThreadId": "1456884737045172389",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7467827-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7467827",
+      "company": "datadog",
+      "title": "Executive Assistant I - NYC",
+      "postedToDiscord": "2026-01-03T05:39:58.779Z",
+      "sourceDate": "2025-12-30T12:55:49-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
+      "discordThreadId": "1456884764442230785",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 185,
+    "totalJobs": 195,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T05:24:45.755Z",
+      "date": "2026-01-03T05:39:58.779Z",
       "archived": 0
     }
   }
