@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T15:37:19.201Z",
+  "lastUpdated": "2026-01-03T15:50:26.480Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -6414,14 +6414,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8303885002",
       "discordThreadId": "1457035088100331741",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7982552002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7982552002",
+      "company": "airtable",
+      "title": "Senior Solutions Consultant",
+      "postedToDiscord": "2026-01-03T15:49:43.221Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7982552002",
+      "discordThreadId": "1457038210516385923",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8233343002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8233343002",
+      "company": "airtable",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-03T15:49:46.904Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8233343002",
+      "discordThreadId": "1457038225158836236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7953553002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7953553002",
+      "company": "airtable",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-03T15:49:53.933Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7953553002",
+      "discordThreadId": "1457038253734756428",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845293002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845293002",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (2-8 YOE)",
+      "postedToDiscord": "2026-01-03T15:49:57.778Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845293002",
+      "discordThreadId": "1457038270293610498",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845295002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845295002",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (8+ YOE)",
+      "postedToDiscord": "2026-01-03T15:50:01.837Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845295002",
+      "discordThreadId": "1457038286085165090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8194658002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8194658002",
+      "company": "airtable",
+      "title": "Web Developer",
+      "postedToDiscord": "2026-01-03T15:50:05.478Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194658002",
+      "discordThreadId": "1457038302950592647",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845291002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845291002",
+      "company": "airtable",
+      "title": "Software Engineer, Product Backend (2-8 YOE)",
+      "postedToDiscord": "2026-01-03T15:50:12.744Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845291002",
+      "discordThreadId": "1457038332436414534",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845287002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845287002",
+      "company": "airtable",
+      "title": "Software Engineer, Product Backend (8+ YOE)",
+      "postedToDiscord": "2026-01-03T15:50:16.332Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845287002",
+      "discordThreadId": "1457038348924485754",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845265002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845265002",
+      "company": "airtable",
+      "title": "Software Engineer, Product Frontend (2-8 YOE)",
+      "postedToDiscord": "2026-01-03T15:50:19.941Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845265002",
+      "discordThreadId": "1457038364430565521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7695026002-2026-01-03-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7695026002",
+      "company": "airtable",
+      "title": "Technical Sourcer (Contract)",
+      "postedToDiscord": "2026-01-03T15:50:26.479Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7695026002",
+      "discordThreadId": "1457038392025153637",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 583,
+    "totalJobs": 593,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T15:37:19.201Z",
+      "date": "2026-01-03T15:50:26.480Z",
       "archived": 0
     }
   }
