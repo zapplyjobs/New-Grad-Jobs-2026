@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T11:24:06.230Z",
+  "lastUpdated": "2026-01-03T11:35:28.190Z",
   "jobs": [
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
@@ -4654,14 +4654,124 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194",
       "discordThreadId": "1456971365365055489",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7380289-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7380289",
+      "company": "datadog",
+      "title": "Manager 1, Technical Escalations Engineering - US-East",
+      "postedToDiscord": "2026-01-03T11:35:00.824Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7380289/?gh_jid=7380289",
+      "discordThreadId": "1456974111120294011",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7173061-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7173061",
+      "company": "datadog",
+      "title": "Manager 2, Premier Support Engineering - New York",
+      "postedToDiscord": "2026-01-03T11:35:04.437Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7173061/?gh_jid=7173061",
+      "discordThreadId": "1456974126316257457",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7414003-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7414003",
+      "company": "datadog",
+      "title": "Manager I, Developer Advocacy",
+      "postedToDiscord": "2026-01-03T11:35:08.211Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7414003/?gh_jid=7414003",
+      "discordThreadId": "1456974141251911835",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7308962-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7308962",
+      "company": "datadog",
+      "title": "Manager I, Engineering - APM SDK Capabilities",
+      "postedToDiscord": "2026-01-03T11:35:11.775Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308962/?gh_jid=7308962",
+      "discordThreadId": "1456974157387534459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6881788-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6881788",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Infrastructure Remediation",
+      "postedToDiscord": "2026-01-03T11:35:11.780Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6881788/?gh_jid=6881788",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7308940-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7308940",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Language Platform",
+      "postedToDiscord": "2026-01-03T11:35:11.786Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308940/?gh_jid=7308940",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7308805-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7308805",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Cloud SIEM - Security Data Enrichment",
+      "postedToDiscord": "2026-01-03T11:35:15.236Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308805/?gh_jid=7308805",
+      "discordThreadId": "1456974171656552543",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7456376-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7456376",
+      "company": "datadog",
+      "title": "Manager, Commercial Sales Engineering (AMER - West)",
+      "postedToDiscord": "2026-01-03T11:35:20.006Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7456376/?gh_jid=7456376",
+      "discordThreadId": "1456974199028453419",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7254173-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7254173",
+      "company": "datadog",
+      "title": "Manager, Customer Success - Denver",
+      "postedToDiscord": "2026-01-03T11:35:21.766Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7254173/?gh_jid=7254173",
+      "discordThreadId": "1456974206230331413",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7205608-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7205608",
+      "company": "datadog",
+      "title": "Manager II, Engineering - APM Root Cause Analysis (GenAI / LLM)",
+      "postedToDiscord": "2026-01-03T11:35:28.190Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7205608/?gh_jid=7205608",
+      "discordThreadId": "1456974226488561853",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 423,
+    "totalJobs": 433,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T11:24:06.230Z",
+      "date": "2026-01-03T11:35:28.190Z",
       "archived": 0
     }
   }
