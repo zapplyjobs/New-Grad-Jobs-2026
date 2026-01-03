@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T10:24:48.832Z",
+  "lastUpdated": "2026-01-03T10:39:20.740Z",
   "jobs": [
-    {
-      "id": "careers-eyesouthpartners-icims-com-jobs-8450-job-2025-12-27-1",
-      "jobId": "careers-eyesouthpartners-icims-com-jobs-8450-job",
-      "company": "EyeSouth Partners",
-      "title": "Ophthalmic Technician 1",
-      "postedToDiscord": "2025-12-27T10:37:49.954Z",
-      "sourceDate": "2025-09-11T22:06:20.000Z",
-      "sourceUrl": "https://careers-eyesouthpartners.icims.com/jobs/8450/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1454423006326558960",
-      "instanceNumber": 1
-    },
     {
       "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
       "jobId": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job",
@@ -4225,14 +4214,124 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7363514/?gh_jid=7363514",
       "discordThreadId": "1456956445001126134",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7128703-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7128703",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston",
+      "postedToDiscord": "2026-01-03T10:38:53.375Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703",
+      "discordThreadId": "1456959986491195527",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7232590-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7232590",
+      "company": "datadog",
+      "title": "Customer Success Manager - Denver",
+      "postedToDiscord": "2026-01-03T10:38:53.387Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7128771-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7128771",
+      "company": "datadog",
+      "title": "Datadog for Startups Lead",
+      "postedToDiscord": "2026-01-03T10:38:56.878Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128771/?gh_jid=7128771",
+      "discordThreadId": "1456960001682833505",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7420653-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7420653",
+      "company": "datadog",
+      "title": "Deal Desk Analyst",
+      "postedToDiscord": "2026-01-03T10:39:00.247Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7420653/?gh_jid=7420653",
+      "discordThreadId": "1456960016673145005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7420668-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7420668",
+      "company": "datadog",
+      "title": "Deal Desk Analyst - Denver",
+      "postedToDiscord": "2026-01-03T10:39:00.251Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7420668/?gh_jid=7420668",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7456440-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7456440",
+      "company": "datadog",
+      "title": "Director, Enterpise Sales",
+      "postedToDiscord": "2026-01-03T10:39:03.657Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7456440/?gh_jid=7456440",
+      "discordThreadId": "1456960030887907469",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6752773-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-6752773",
+      "company": "datadog",
+      "title": "Director, Enterprise Sales (SLED)",
+      "postedToDiscord": "2026-01-03T10:39:07.036Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6752773/?gh_jid=6752773",
+      "discordThreadId": "1456960044754141310",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7416680-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7416680",
+      "company": "datadog",
+      "title": "Director, Pricing and Monetization",
+      "postedToDiscord": "2026-01-03T10:39:10.590Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416680/?gh_jid=7416680",
+      "discordThreadId": "1456960059119767573",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7191464-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7191464",
+      "company": "datadog",
+      "title": "Director, Sales Field Enablement - NYC",
+      "postedToDiscord": "2026-01-03T10:39:14.071Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7191464/?gh_jid=7191464",
+      "discordThreadId": "1456960074533572730",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7378592-2026-01-03-1",
+      "jobId": "careers-datadoghq-com-detail-7378592",
+      "company": "datadog",
+      "title": "Developer Advocate - Community",
+      "postedToDiscord": "2026-01-03T10:39:20.740Z",
+      "sourceDate": "2025-12-22T16:00:36-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7378592/?gh_jid=7378592",
+      "discordThreadId": "1456960101444358154",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 384,
+    "totalJobs": 393,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-03T10:24:48.832Z",
+      "date": "2026-01-03T10:39:20.740Z",
       "archived": 0
     }
   }
