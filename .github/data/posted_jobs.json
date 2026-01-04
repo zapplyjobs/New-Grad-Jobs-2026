@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T14:38:35.320Z",
+  "lastUpdated": "2026-01-04T14:50:42.422Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12651,14 +12651,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8178458002",
       "discordThreadId": "1457382697298300950",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-6fb07755-acd8-4400-9de3-fa598e4eeb7d-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-railway-6fb07755-acd8-4400-9de3-fa598e4eeb7d",
+      "company": "railway",
+      "title": "Product Designer",
+      "postedToDiscord": "2026-01-04T14:50:03.100Z",
+      "sourceDate": "2025-11-03T23:54:45.950+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/6fb07755-acd8-4400-9de3-fa598e4eeb7d",
+      "discordThreadId": "1457385581070782665",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8224301002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8224301002",
+      "company": "duolingo",
+      "title": "Head of Brand Campaigns",
+      "postedToDiscord": "2026-01-04T14:50:06.832Z",
+      "sourceDate": "2025-11-03T11:44:12-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8224301002?gh_jid=8224301002",
+      "discordThreadId": "1457385596799553728",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-c16bd707-29f2-46fb-8409-7270ff00978b-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-c16bd707-29f2-46fb-8409-7270ff00978b",
+      "company": "supabase",
+      "title": "Postgres Engineer",
+      "postedToDiscord": "2026-01-04T14:50:11.832Z",
+      "sourceDate": "2025-11-03T21:46:40.328+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c16bd707-29f2-46fb-8409-7270ff00978b",
+      "discordThreadId": "1457385625396445195",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-8a775300-d7e1-489b-a59e-8b476d1a406f-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-8a775300-d7e1-489b-a59e-8b476d1a406f",
+      "company": "supabase",
+      "title": "Postgres Security Engineer",
+      "postedToDiscord": "2026-01-04T14:50:13.540Z",
+      "sourceDate": "2025-11-03T21:41:47.732+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/8a775300-d7e1-489b-a59e-8b476d1a406f",
+      "discordThreadId": "1457385633470480405",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8160578002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8160578002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Ads",
+      "postedToDiscord": "2026-01-04T14:50:20.046Z",
+      "sourceDate": "2025-11-03T12:39:46-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8160578002?gh_jid=8160578002",
+      "discordThreadId": "1457385653334577214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-0aba9686-a3f0-4459-be3e-337bc7b0f90c-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-0aba9686-a3f0-4459-be3e-337bc7b0f90c",
+      "company": "supabase",
+      "title": "Account Executive (USA)",
+      "postedToDiscord": "2026-01-04T14:50:26.759Z",
+      "sourceDate": "2025-10-30T16:21:08.602+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/0aba9686-a3f0-4459-be3e-337bc7b0f90c",
+      "discordThreadId": "1457385680467394785",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-4ac110be-208a-4d68-8db2-6c170867b8e7-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-4ac110be-208a-4d68-8db2-6c170867b8e7",
+      "company": "supabase",
+      "title": "Customer Solution Architect Team Lead (EMEA)",
+      "postedToDiscord": "2026-01-04T14:50:28.451Z",
+      "sourceDate": "2025-10-24T22:29:05.341+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/4ac110be-208a-4d68-8db2-6c170867b8e7",
+      "discordThreadId": "1457385695659294837",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-c075cd1b-9258-44cf-8728-b56d6b8870f8-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-c075cd1b-9258-44cf-8728-b56d6b8870f8",
+      "company": "nominal",
+      "title": "Recruiting Coordinator",
+      "postedToDiscord": "2026-01-04T14:50:35.024Z",
+      "sourceDate": "2025-10-30T15:18:13.321Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/c075cd1b-9258-44cf-8728-b56d6b8870f8",
+      "discordThreadId": "1457385716148469834",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-f4d6ee97-8ed4-48a8-a5da-407c309f9614-2026-01-04-1",
+      "jobId": "jobs-lever-co-gohighlevel-f4d6ee97-8ed4-48a8-a5da-407c309f9614",
+      "company": "gohighlevel",
+      "title": "Events Partnerships Manager",
+      "postedToDiscord": "2026-01-04T14:50:38.923Z",
+      "sourceDate": "2025-10-27T12:28:40.160Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/f4d6ee97-8ed4-48a8-a5da-407c309f9614",
+      "discordThreadId": "1457385730744516724",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
+      "company": "spotify",
+      "title": "Staff Research Engineer - Music",
+      "postedToDiscord": "2026-01-04T14:50:42.422Z",
+      "sourceDate": "2025-10-23T19:21:19.524Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
+      "discordThreadId": "1457385747463147651",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1150,
+    "totalJobs": 1160,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T14:38:35.320Z",
+      "date": "2026-01-04T14:50:42.422Z",
       "archived": 0
     }
   }
