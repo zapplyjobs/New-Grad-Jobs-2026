@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T11:24:11.675Z",
+  "lastUpdated": "2026-01-04T11:35:39.204Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11551,14 +11551,124 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
       "discordThreadId": "1457333776886530119",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711571004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711571004",
+      "company": "figma",
+      "title": "Product Designer ",
+      "postedToDiscord": "2026-01-04T11:34:55.680Z",
+      "sourceDate": "2025-11-21T10:47:08-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711571004?gh_jid=5711571004",
+      "discordThreadId": "1457336476831449089",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5478247004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5478247004",
+      "company": "figma",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-04T11:34:59.153Z",
+      "sourceDate": "2025-11-20T17:33:13-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5478247004?gh_jid=5478247004",
+      "discordThreadId": "1457336492434391171",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711923004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711923004",
+      "company": "figma",
+      "title": "Manager, Field Marketing",
+      "postedToDiscord": "2026-01-04T11:35:02.536Z",
+      "sourceDate": "2025-11-20T13:04:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711923004?gh_jid=5711923004",
+      "discordThreadId": "1457336506971848766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5042166004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5042166004",
+      "company": "vercel",
+      "title": "Commercial Account Executive, Greenfield ",
+      "postedToDiscord": "2026-01-04T11:35:05.889Z",
+      "sourceDate": "2025-11-19T19:01:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042166004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5650641004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5650641004",
+      "company": "vercel",
+      "title": "Director of Sales Engineering, AMER",
+      "postedToDiscord": "2026-01-04T11:35:09.470Z",
+      "sourceDate": "2025-11-19T15:24:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5650641004",
+      "discordThreadId": "1457336534897397911",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5686511004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5686511004",
+      "company": "vercel",
+      "title": "Recruiting Coordinator (Contract)",
+      "postedToDiscord": "2026-01-04T11:35:15.969Z",
+      "sourceDate": "2025-11-20T22:38:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5686511004",
+      "discordThreadId": "1457336562768416862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5707695004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5707695004",
+      "company": "figma",
+      "title": "Technical Program Manager, AI Platform",
+      "postedToDiscord": "2026-01-04T11:35:22.592Z",
+      "sourceDate": "2025-11-20T18:28:40-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707695004?gh_jid=5707695004",
+      "discordThreadId": "1457336590350159872",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8299493002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8299493002",
+      "company": "discord",
+      "title": "Staff Data Engineer, Ads",
+      "postedToDiscord": "2026-01-04T11:35:26.155Z",
+      "sourceDate": "2025-11-19T13:20:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
+      "discordThreadId": "1457336605063909508",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5704320004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5704320004",
+      "company": "vercel",
+      "title": "Software Engineer (Web Performance), v0",
+      "postedToDiscord": "2026-01-04T11:35:32.717Z",
+      "sourceDate": "2025-11-20T15:09:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5704320004",
+      "discordThreadId": "1457336632922476617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-72220c49-25c3-49fe-b275-d755f863ad8c-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-72220c49-25c3-49fe-b275-d755f863ad8c",
+      "company": "spotify",
+      "title": "Global Head of Sales Operations & Strategy",
+      "postedToDiscord": "2026-01-04T11:35:39.203Z",
+      "sourceDate": "2025-11-19T20:52:26.402Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/72220c49-25c3-49fe-b275-d755f863ad8c",
+      "discordThreadId": "1457336660277727277",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1050,
+    "totalJobs": 1060,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T11:24:11.675Z",
+      "date": "2026-01-04T11:35:39.204Z",
       "archived": 0
     }
   }
