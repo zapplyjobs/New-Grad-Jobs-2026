@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T14:05:46.637Z",
+  "lastUpdated": "2026-01-04T14:24:24.676Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12486,14 +12486,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8249573002",
       "discordThreadId": "1457374440013692931",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-03469b50-e3b8-403f-a3a0-138a292b6954-2026-01-04-1",
+      "jobId": "jobs-lever-co-gohighlevel-03469b50-e3b8-403f-a3a0-138a292b6954",
+      "company": "gohighlevel",
+      "title": "Senior Director, Integrated Marketing",
+      "postedToDiscord": "2026-01-04T14:24:01.233Z",
+      "sourceDate": "2025-11-13T22:10:50.084Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/03469b50-e3b8-403f-a3a0-138a292b6954",
+      "discordThreadId": "1457379038711779358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-84accba2-7110-479d-a76a-8ebccaaa225b-2026-01-04-1",
+      "jobId": "jobs-lever-co-gohighlevel-84accba2-7110-479d-a76a-8ebccaaa225b",
+      "company": "gohighlevel",
+      "title": "Manager, Community Programs",
+      "postedToDiscord": "2026-01-04T14:24:02.962Z",
+      "sourceDate": "2025-11-13T21:32:38.658Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/84accba2-7110-479d-a76a-8ebccaaa225b",
+      "discordThreadId": "1457379045690839052",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-b918d247-38fd-449a-b82d-ea1d7c90a099-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-b918d247-38fd-449a-b82d-ea1d7c90a099",
+      "company": "spotify",
+      "title": "Senior Machine Learning Engineer",
+      "postedToDiscord": "2026-01-04T14:24:06.589Z",
+      "sourceDate": "2025-11-07T16:48:55.706Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/b918d247-38fd-449a-b82d-ea1d7c90a099",
+      "discordThreadId": "1457379053396033669",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-a0188e88-83d7-4ae5-b931-4dc85de0daed-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-a0188e88-83d7-4ae5-b931-4dc85de0daed",
+      "company": "nominal",
+      "title": "Software Engineer - Infrastructure",
+      "postedToDiscord": "2026-01-04T14:24:10.104Z",
+      "sourceDate": "2025-11-06T23:42:31.678Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/a0188e88-83d7-4ae5-b931-4dc85de0daed",
+      "discordThreadId": "1457379068487139491",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-eb61a78d-9b5f-43f6-8d17-94c7b685d121-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-eb61a78d-9b5f-43f6-8d17-94c7b685d121",
+      "company": "supabase",
+      "title": "Rust Engineer",
+      "postedToDiscord": "2026-01-04T14:24:24.676Z",
+      "sourceDate": "2025-11-06T18:15:19.871+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/eb61a78d-9b5f-43f6-8d17-94c7b685d121",
+      "discordThreadId": "1457379137126797413",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1135,
+    "totalJobs": 1140,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T14:05:46.637Z",
+      "date": "2026-01-04T14:24:24.676Z",
       "archived": 0
     }
   }
