@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T07:24:35.078Z",
+  "lastUpdated": "2026-01-04T07:50:07.945Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10242,14 +10242,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
       "discordThreadId": "1457273477437587577",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5013743008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5013743008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Data Center Infrastructure",
+      "postedToDiscord": "2026-01-04T07:49:36.831Z",
+      "sourceDate": "2025-11-28T15:16:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4562813008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4562813008",
+      "company": "anthropic",
+      "title": "Application Security Engineering Manager",
+      "postedToDiscord": "2026-01-04T07:49:40.067Z",
+      "sourceDate": "2025-11-25T16:55:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4562813008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4897424008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4897424008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Cloud Security",
+      "postedToDiscord": "2026-01-04T07:49:43.592Z",
+      "sourceDate": "2025-11-25T16:54:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
+      "discordThreadId": "1457279803748126964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-4a7b66f8-9c95-4a60-8166-37dbb11d1446-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-4a7b66f8-9c95-4a60-8166-37dbb11d1446",
+      "company": "supabase",
+      "title": "Developer Productivity Engineer",
+      "postedToDiscord": "2026-01-04T07:49:45.263Z",
+      "sourceDate": "2025-11-24T20:04:43.442+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/4a7b66f8-9c95-4a60-8166-37dbb11d1446",
+      "discordThreadId": "1457279818574987347",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5011703008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5011703008",
+      "company": "anthropic",
+      "title": "Corporate Legal Specialist",
+      "postedToDiscord": "2026-01-04T07:49:51.750Z",
+      "sourceDate": "2025-11-28T15:13:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5011703008",
+      "discordThreadId": "1457279838208393373",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4935314008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4935314008",
+      "company": "anthropic",
+      "title": "Technical Recruiter, Specialized",
+      "postedToDiscord": "2026-01-04T07:49:58.239Z",
+      "sourceDate": "2025-11-25T20:22:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008",
+      "discordThreadId": "1457279865374904350",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-2192a283-7051-43e8-a83b-1ca75d240c00-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-2192a283-7051-43e8-a83b-1ca75d240c00",
+      "company": "nominal",
+      "title": "Brand Designer",
+      "postedToDiscord": "2026-01-04T07:50:01.601Z",
+      "sourceDate": "2025-11-25T16:23:57.548Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/2192a283-7051-43e8-a83b-1ca75d240c00",
+      "discordThreadId": "1457279879967146185",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8304667002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8304667002",
+      "company": "discord",
+      "title": "Software Engineer, Payments",
+      "postedToDiscord": "2026-01-04T07:50:07.945Z",
+      "sourceDate": "2025-11-25T17:44:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8304667002",
+      "discordThreadId": "1457279906877669436",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 931,
+    "totalJobs": 939,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T07:24:35.078Z",
+      "date": "2026-01-04T07:50:07.945Z",
       "archived": 0
     }
   }
