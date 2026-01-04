@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T09:50:24.066Z",
+  "lastUpdated": "2026-01-04T10:05:39.066Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11023,14 +11023,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933792008",
       "discordThreadId": "1457310173084389510",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971429008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971429008",
+      "company": "anthropic",
+      "title": "Product Operations Manager",
+      "postedToDiscord": "2026-01-04T10:04:58.835Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971429008",
+      "discordThreadId": "1457313841800282142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4992055008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4992055008",
+      "company": "anthropic",
+      "title": "Product Operations Manager, Public Sector ",
+      "postedToDiscord": "2026-01-04T10:05:02.279Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992055008",
+      "discordThreadId": "1457313856480350290",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4992071008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4992071008",
+      "company": "anthropic",
+      "title": "Product Operations Manager, Research Product ",
+      "postedToDiscord": "2026-01-04T10:05:05.647Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992071008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983655008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983655008",
+      "company": "anthropic",
+      "title": "Product Support Manager",
+      "postedToDiscord": "2026-01-04T10:05:15.482Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983655008",
+      "discordThreadId": "1457313911333453923",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4979585008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4979585008",
+      "company": "anthropic",
+      "title": "Product Support Specialist",
+      "postedToDiscord": "2026-01-04T10:05:21.989Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
+      "discordThreadId": "1457313938885841009",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4961118008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4961118008",
+      "company": "anthropic",
+      "title": "Recruiter, Sales",
+      "postedToDiscord": "2026-01-04T10:05:25.415Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4961118008",
+      "discordThreadId": "1457313953616105627",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4604015008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4604015008",
+      "company": "anthropic",
+      "title": "Recruiter, AI Research",
+      "postedToDiscord": "2026-01-04T10:05:32.048Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4604015008",
+      "discordThreadId": "1457313980786675878",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980430008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980430008",
+      "company": "anthropic",
+      "title": "Research Engineer, Interpretability",
+      "postedToDiscord": "2026-01-04T10:05:35.596Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+      "discordThreadId": "1457313995810803824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4613568008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613568008",
+      "company": "anthropic",
+      "title": "Research Engineer, Machine Learning (Horizons) ",
+      "postedToDiscord": "2026-01-04T10:05:39.066Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
+      "discordThreadId": "1457314010629148713",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1002,
+    "totalJobs": 1011,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T09:50:24.066Z",
+      "date": "2026-01-04T10:05:39.066Z",
       "archived": 0
     }
   }
