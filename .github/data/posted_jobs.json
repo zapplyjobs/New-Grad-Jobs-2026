@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T10:05:39.066Z",
+  "lastUpdated": "2026-01-04T10:24:54.769Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11122,14 +11122,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
       "discordThreadId": "1457314010629148713",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4978674008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4978674008",
+      "company": "anthropic",
+      "title": "Product Operations Manager, Launch Readiness ",
+      "postedToDiscord": "2026-01-04T10:24:20.008Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4978674008",
+      "discordThreadId": "1457318712745918607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4990535008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4990535008",
+      "company": "anthropic",
+      "title": "Research Engineer, Model Evaluations",
+      "postedToDiscord": "2026-01-04T10:24:26.611Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990535008",
+      "discordThreadId": "1457318738943541292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4616971008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4616971008",
+      "company": "anthropic",
+      "title": "Research Engineer, Pre-training",
+      "postedToDiscord": "2026-01-04T10:24:30.131Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
+      "discordThreadId": "1457318754403745874",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4938432008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4938432008",
+      "company": "anthropic",
+      "title": "Research Engineer, Pretraining Scaling",
+      "postedToDiscord": "2026-01-04T10:24:33.512Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
+      "discordThreadId": "1457318768765042803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4613592008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613592008",
+      "company": "anthropic",
+      "title": "Research Engineer, Production Model Post Training",
+      "postedToDiscord": "2026-01-04T10:24:36.821Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+      "discordThreadId": "1457318783252168808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4924308008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4924308008",
+      "company": "anthropic",
+      "title": "Research Engineer / Research Scientist, Biology & Life Sciences",
+      "postedToDiscord": "2026-01-04T10:24:40.664Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4924308008",
+      "discordThreadId": "1457318798519570525",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4951814008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951814008",
+      "company": "anthropic",
+      "title": " Research Engineer / Research Scientist, Tokens",
+      "postedToDiscord": "2026-01-04T10:24:44.578Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
+      "discordThreadId": "1457318813266874521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4631822008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4631822008",
+      "company": "anthropic",
+      "title": "Research Engineer / Scientist, Alignment Science",
+      "postedToDiscord": "2026-01-04T10:24:47.928Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+      "discordThreadId": "1457318829523734624",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980427008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980427008",
+      "company": "anthropic",
+      "title": "Research Scientist, Interpretability",
+      "postedToDiscord": "2026-01-04T10:24:51.406Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
+      "discordThreadId": "1457318843985956910",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4981828008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4981828008",
+      "company": "anthropic",
+      "title": "Senior+ Software Engineer, Research Tools",
+      "postedToDiscord": "2026-01-04T10:24:54.769Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
+      "discordThreadId": "1457318857952858164",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1011,
+    "totalJobs": 1021,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T10:05:39.066Z",
+      "date": "2026-01-04T10:24:54.769Z",
       "archived": 0
     }
   }
