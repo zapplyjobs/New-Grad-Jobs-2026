@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T05:30:27.680Z",
+  "lastUpdated": "2026-01-04T05:44:10.349Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -9879,14 +9879,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
       "discordThreadId": "1457244756588630116",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015941008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015941008",
+      "company": "anthropic",
+      "title": "Head of Partner Experience & Success",
+      "postedToDiscord": "2026-01-04T05:43:35.426Z",
+      "sourceDate": "2025-12-04T13:34:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015941008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5725192004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5725192004",
+      "company": "figma",
+      "title": "Senior CES Operations Manager",
+      "postedToDiscord": "2026-01-04T05:43:38.824Z",
+      "sourceDate": "2025-12-04T11:05:58-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725192004?gh_jid=5725192004",
+      "discordThreadId": "1457248075470078098",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4936732008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4936732008",
+      "company": "anthropic",
+      "title": "Global Indirect - Sales Tax & VAT",
+      "postedToDiscord": "2026-01-04T05:43:42.354Z",
+      "sourceDate": "2025-12-03T17:52:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4936732008",
+      "discordThreadId": "1457248089797693554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8323992002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8323992002",
+      "company": "discord",
+      "title": "Senior Product Marketing Manager, Nitro",
+      "postedToDiscord": "2026-01-04T05:43:49.006Z",
+      "sourceDate": "2025-12-04T13:01:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8323992002",
+      "discordThreadId": "1457248117010333706",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8303848002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8303848002",
+      "company": "duolingo",
+      "title": "Illustrator, Thrive Intern",
+      "postedToDiscord": "2026-01-04T05:43:53.881Z",
+      "sourceDate": "2025-12-04T11:15:09-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8303848002?gh_jid=8303848002",
+      "discordThreadId": "1457248145577607322",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8322733002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8322733002",
+      "company": "duolingo",
+      "title": "Staff iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-04T05:43:57.342Z",
+      "sourceDate": "2025-12-03T20:33:42-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002",
+      "discordThreadId": "1457248152737419479",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8054750002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8054750002",
+      "company": "duolingo",
+      "title": "Senior iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-04T05:44:00.703Z",
+      "sourceDate": "2025-12-03T20:32:58-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002",
+      "discordThreadId": "1457248166947586193",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5725496004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5725496004",
+      "company": "figma",
+      "title": "Marketing Strategy Manager",
+      "postedToDiscord": "2026-01-04T05:44:07.052Z",
+      "sourceDate": "2025-12-03T19:50:28-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725496004?gh_jid=5725496004",
+      "discordThreadId": "1457248194030207092",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8288128002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8288128002",
+      "company": "discord",
+      "title": "Product Manager, Core Product",
+      "postedToDiscord": "2026-01-04T05:44:10.349Z",
+      "sourceDate": "2025-12-03T18:33:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8288128002",
+      "discordThreadId": "1457248208064479264",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 898,
+    "totalJobs": 907,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T05:30:27.680Z",
+      "date": "2026-01-04T05:44:10.349Z",
       "archived": 0
     }
   }
