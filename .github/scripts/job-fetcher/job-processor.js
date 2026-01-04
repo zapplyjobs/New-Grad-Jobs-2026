@@ -25,7 +25,7 @@ const { convertDateToRelative } = require('../../../jobboard/src/backend/output/
 const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/services/descriptionFetchers');
 
 // Deduplication logger
-const DeduplicationLogger = require('../deduplication-logger');
+const { DeduplicationLogger } = require('@zapply/job-board-shared');
 
 // Analytics archive for long-term data retention
 const { archiveJobs } = require('../src/data/analytics-archive');

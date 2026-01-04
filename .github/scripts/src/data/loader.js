@@ -5,7 +5,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { normalizeJob } = require('../utils/job-normalizer');
+const { normalizeJob } = require('@zapply/job-board-shared');
 const { generateTags } = require('../discord/poster');
 
 // Data paths
