@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T03:25:51.844Z",
+  "lastUpdated": "2026-01-04T05:01:41.784Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -9549,14 +9549,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
       "discordThreadId": "1457213401745985762",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4572744008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4572744008",
+      "company": "anthropic",
+      "title": "Software Engineer, iOS",
+      "postedToDiscord": "2026-01-04T05:01:01.256Z",
+      "sourceDate": "2025-12-09T19:09:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4926227008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4926227008",
+      "company": "anthropic",
+      "title": "Performance Engineer, GPU",
+      "postedToDiscord": "2026-01-04T05:01:04.697Z",
+      "sourceDate": "2025-12-09T13:42:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
+      "discordThreadId": "1457237362521407592",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018765008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018765008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Human Data Interfaces",
+      "postedToDiscord": "2026-01-04T05:01:08.215Z",
+      "sourceDate": "2025-12-09T13:04:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018765008",
+      "discordThreadId": "1457237376915996763",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5016875008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5016875008",
+      "company": "anthropic",
+      "title": "Business Development, Strategic Technology Partnerships",
+      "postedToDiscord": "2026-01-04T05:01:14.773Z",
+      "sourceDate": "2025-12-09T18:43:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5016875008",
+      "discordThreadId": "1457237404329971892",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025624008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025624008",
+      "company": "anthropic",
+      "title": "Research Engineer – Cybersecurity RL",
+      "postedToDiscord": "2026-01-04T05:01:23.368Z",
+      "sourceDate": "2025-12-09T17:20:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+      "discordThreadId": "1457237440522748138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5733496004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5733496004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Portuguese Speaking",
+      "postedToDiscord": "2026-01-04T05:01:26.823Z",
+      "sourceDate": "2025-12-09T17:11:54-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733496004?gh_jid=5733496004",
+      "discordThreadId": "1457237454980518030",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5733495004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5733495004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Korean Speaking",
+      "postedToDiscord": "2026-01-04T05:01:30.218Z",
+      "sourceDate": "2025-12-09T17:11:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733495004?gh_jid=5733495004",
+      "discordThreadId": "1457237469564244072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5728959004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5728959004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Japanese Speaking",
+      "postedToDiscord": "2026-01-04T05:01:33.608Z",
+      "sourceDate": "2025-12-09T17:11:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728959004?gh_jid=5728959004",
+      "discordThreadId": "1457237484000772127",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362-2026-01-04-1",
+      "jobId": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362",
+      "company": "gohighlevel",
+      "title": "Staff Analytics Engineer",
+      "postedToDiscord": "2026-01-04T05:01:35.312Z",
+      "sourceDate": "2025-12-09T04:58:13.829Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/47e51c81-6464-429a-a8a5-b15383da5362",
+      "discordThreadId": "1457237498076860497",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4996752008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4996752008",
+      "company": "anthropic",
+      "title": "Product Marketing Manager, Claude Code",
+      "postedToDiscord": "2026-01-04T05:01:41.784Z",
+      "sourceDate": "2025-12-09T14:19:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
+      "discordThreadId": "1457237518058782721",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 868,
+    "totalJobs": 878,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T03:25:51.844Z",
+      "date": "2026-01-04T05:01:41.784Z",
       "archived": 0
     }
   }
