@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T08:54:28.672Z",
+  "lastUpdated": "2026-01-04T09:05:32.845Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10704,14 +10704,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821968008",
       "discordThreadId": "1457296098514436231",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4949336008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4949336008",
+      "company": "anthropic",
+      "title": "Machine Learning Engineer, Safeguards",
+      "postedToDiscord": "2026-01-04T09:04:52.188Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
+      "discordThreadId": "1457298714531070095",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4991194008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4991194008",
+      "company": "anthropic",
+      "title": "Finance Systems, Senior Business Systems Analyst",
+      "postedToDiscord": "2026-01-04T09:04:58.628Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4991194008",
+      "discordThreadId": "1457298741643055256",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4930182008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4930182008",
+      "company": "anthropic",
+      "title": "Global Design & Construction Manager",
+      "postedToDiscord": "2026-01-04T09:05:02.085Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
+      "discordThreadId": "1457298755828187230",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983873008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983873008",
+      "company": "anthropic",
+      "title": "Global Indirect Tax Compliance Lead",
+      "postedToDiscord": "2026-01-04T09:05:08.471Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983873008",
+      "discordThreadId": "1457298783141495018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4934660008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4934660008",
+      "company": "anthropic",
+      "title": "Head of GTM Narrative ",
+      "postedToDiscord": "2026-01-04T09:05:12.103Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4934660008",
+      "discordThreadId": "1457298797339082859",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4756214008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4756214008",
+      "company": "anthropic",
+      "title": "Head of Infrastructure Accounting ",
+      "postedToDiscord": "2026-01-04T09:05:16.201Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
+      "discordThreadId": "1457298812753154078",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4930325008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4930325008",
+      "company": "anthropic",
+      "title": "Head of Product Communications",
+      "postedToDiscord": "2026-01-04T09:05:19.759Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930325008",
+      "discordThreadId": "1457298829496942674",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985566008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985566008",
+      "company": "anthropic",
+      "title": "Head of Forward Deployed Engineering",
+      "postedToDiscord": "2026-01-04T09:05:26.376Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985566008",
+      "discordThreadId": "1457298857384743035",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4933813008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4933813008",
+      "company": "anthropic",
+      "title": "Lead Product Manager, Research",
+      "postedToDiscord": "2026-01-04T09:05:32.844Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933813008",
+      "discordThreadId": "1457298884585062432",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 973,
+    "totalJobs": 982,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T08:54:28.672Z",
+      "date": "2026-01-04T09:05:32.845Z",
       "archived": 0
     }
   }
