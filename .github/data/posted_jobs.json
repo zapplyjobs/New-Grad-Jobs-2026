@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T06:45:52.223Z",
+  "lastUpdated": "2026-01-04T07:07:15.390Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10176,14 +10176,58 @@
       "sourceUrl": "https://jobs.lever.co/spotify/ce5934cb-6be9-478c-a856-49b8189d87e2",
       "discordThreadId": "1457263733494517935",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5637558004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5637558004",
+      "company": "vercel",
+      "title": "Lifecycle Marketing Manager",
+      "postedToDiscord": "2026-01-04T07:07:02.239Z",
+      "sourceDate": "2025-12-01T12:22:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5676402004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5676402004",
+      "company": "vercel",
+      "title": "Director, Technical Accounting & Financial Reporting",
+      "postedToDiscord": "2026-01-04T07:07:05.542Z",
+      "sourceDate": "2025-12-01T12:16:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
+      "discordThreadId": "1457269075460751431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5722132004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5722132004",
+      "company": "vercel",
+      "title": "Staff Product Marketing Manager, v0",
+      "postedToDiscord": "2026-01-04T07:07:09.045Z",
+      "sourceDate": "2025-11-25T21:50:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722132004",
+      "discordThreadId": "1457269089335644334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5722839004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5722839004",
+      "company": "figma",
+      "title": "Manager, GTM Finance",
+      "postedToDiscord": "2026-01-04T07:07:15.390Z",
+      "sourceDate": "2025-12-01T00:10:22-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
+      "discordThreadId": "1457269116254552188",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 925,
+    "totalJobs": 929,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T06:45:52.223Z",
+      "date": "2026-01-04T07:07:15.390Z",
       "archived": 0
     }
   }
