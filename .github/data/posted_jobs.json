@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T12:47:37.091Z",
+  "lastUpdated": "2026-01-04T13:05:34.157Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12079,14 +12079,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5505263004?gh_jid=5505263004",
       "discordThreadId": "1457354771198378046",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5425993004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5425993004",
+      "company": "figma",
+      "title": "Account Executive, Federal",
+      "postedToDiscord": "2026-01-04T13:05:03.190Z",
+      "sourceDate": "2025-11-19T09:05:38-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5425993004?gh_jid=5425993004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5422236004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5422236004",
+      "company": "figma",
+      "title": "Account Executive, Mid-Market",
+      "postedToDiscord": "2026-01-04T13:05:06.580Z",
+      "sourceDate": "2025-11-19T09:05:37-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5422236004?gh_jid=5422236004",
+      "discordThreadId": "1457359173103911003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5065840004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5065840004",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Commercial",
+      "postedToDiscord": "2026-01-04T13:05:10.175Z",
+      "sourceDate": "2025-11-17T19:30:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5065840004",
+      "discordThreadId": "1457359187230068871",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5624231004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5624231004",
+      "company": "vercel",
+      "title": "Startup Growth Advisor (Account Executive)",
+      "postedToDiscord": "2026-01-04T13:05:13.560Z",
+      "sourceDate": "2025-11-17T13:53:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5624231004",
+      "discordThreadId": "1457359202447265944",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5634748004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5634748004",
+      "company": "vercel",
+      "title": "Account Executive, v0 Majors",
+      "postedToDiscord": "2026-01-04T13:05:16.936Z",
+      "sourceDate": "2025-11-17T13:17:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5634748004",
+      "discordThreadId": "1457359216569487391",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5678141004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5678141004",
+      "company": "vercel",
+      "title": "Director of Partnerships, North America",
+      "postedToDiscord": "2026-01-04T13:05:20.472Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5678141004",
+      "discordThreadId": "1457359230918066270",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-c74b6db1-3f5a-4501-9507-714d4d900113-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-c74b6db1-3f5a-4501-9507-714d4d900113",
+      "company": "spotify",
+      "title": "Machine Learning Engineering Manager, Personalization",
+      "postedToDiscord": "2026-01-04T13:05:26.956Z",
+      "sourceDate": "2025-11-18T14:24:47.953Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/c74b6db1-3f5a-4501-9507-714d4d900113",
+      "discordThreadId": "1457359257870536726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-64ccf579-b399-4ff9-9039-d144fab3588c-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-64ccf579-b399-4ff9-9039-d144fab3588c",
+      "company": "spotify",
+      "title": "Senior Product Manager - Personalization",
+      "postedToDiscord": "2026-01-04T13:05:30.580Z",
+      "sourceDate": "2025-11-17T16:23:44.596Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/64ccf579-b399-4ff9-9039-d144fab3588c",
+      "discordThreadId": "1457359272756248576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-b34c4e06-2965-4ced-ad55-ebe66253b7b6-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-b34c4e06-2965-4ced-ad55-ebe66253b7b6",
+      "company": "nominal",
+      "title": "Accounting Manager",
+      "postedToDiscord": "2026-01-04T13:05:34.156Z",
+      "sourceDate": "2025-11-15T19:03:58.600Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b34c4e06-2965-4ced-ad55-ebe66253b7b6",
+      "discordThreadId": "1457359288413585449",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1098,
+    "totalJobs": 1107,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T12:47:37.091Z",
+      "date": "2026-01-04T13:05:34.157Z",
       "archived": 0
     }
   }
