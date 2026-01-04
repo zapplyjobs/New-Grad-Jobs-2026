@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T11:05:23.844Z",
+  "lastUpdated": "2026-01-04T11:24:11.675Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11441,14 +11441,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979834008",
       "discordThreadId": "1457329046345089177",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983644008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983644008",
+      "company": "anthropic",
+      "title": "Support Operations Specialist",
+      "postedToDiscord": "2026-01-04T11:23:26.396Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983644008",
+      "discordThreadId": "1457333586582700225",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4913784008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4913784008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Inference",
+      "postedToDiscord": "2026-01-04T11:23:32.994Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
+      "discordThreadId": "1457333613958791395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4989788008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4989788008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Security",
+      "postedToDiscord": "2026-01-04T11:23:39.354Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
+      "discordThreadId": "1457333641687601152",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-careers-job-2026-01-04-1",
+      "jobId": "instacart-careers-job",
+      "company": "instacart",
+      "title": "AV Engineer (Contractor)",
+      "postedToDiscord": "2026-01-04T11:23:42.780Z",
+      "sourceDate": "2025-11-21T15:00:25-05:00",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=7415809",
+      "discordThreadId": "1457333655163637821",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711913004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711913004",
+      "company": "figma",
+      "title": "Product Designer, AI Models",
+      "postedToDiscord": "2026-01-04T11:23:46.130Z",
+      "sourceDate": "2025-11-21T11:05:35-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
+      "discordThreadId": "1457333670078583030",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711468004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711468004",
+      "company": "figma",
+      "title": "Product Designer - Design, Dev, & AI Tools",
+      "postedToDiscord": "2026-01-04T11:23:50.032Z",
+      "sourceDate": "2025-11-21T10:54:56-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
+      "discordThreadId": "1457333684213383254",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4720576008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4720576008",
+      "company": "anthropic",
+      "title": "TPU Kernel Engineer",
+      "postedToDiscord": "2026-01-04T11:23:58.353Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
+      "discordThreadId": "1457333714043404503",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-17d84511-089c-4c28-9c7a-6769258db428-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-17d84511-089c-4c28-9c7a-6769258db428",
+      "company": "nominal",
+      "title": "Security Engineer",
+      "postedToDiscord": "2026-01-04T11:24:01.699Z",
+      "sourceDate": "2025-11-21T23:46:38.977Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/17d84511-089c-4c28-9c7a-6769258db428",
+      "discordThreadId": "1457333735316783336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5710742004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5710742004",
+      "company": "figma",
+      "title": "Executive Assistant, Marketing & Communications",
+      "postedToDiscord": "2026-01-04T11:24:08.231Z",
+      "sourceDate": "2025-11-21T16:00:29-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5710742004?gh_jid=5710742004",
+      "discordThreadId": "1457333762181300399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711595004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711595004",
+      "company": "figma",
+      "title": "Product Designer, Growth & Monetization",
+      "postedToDiscord": "2026-01-04T11:24:11.675Z",
+      "sourceDate": "2025-11-21T10:48:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
+      "discordThreadId": "1457333776886530119",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1040,
+    "totalJobs": 1050,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T11:05:23.844Z",
+      "date": "2026-01-04T11:24:11.675Z",
       "archived": 0
     }
   }
