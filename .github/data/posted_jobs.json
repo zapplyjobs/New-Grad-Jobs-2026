@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T16:52:43.401Z",
+  "lastUpdated": "2026-01-04T17:05:46.168Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -13597,14 +13597,36 @@
       "sourceUrl": "https://jobs.ashbyhq.com/railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d",
       "discordThreadId": "1457416453044306175",
       "instanceNumber": 1
+    },
+    {
+      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-atlanta-75-fifth-corp-atc-software-and-platform-analyst-naelfy26_r00304885-2026-01-04-1",
+      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-atlanta-75-fifth-corp-atc-software-and-platform-analyst-naelfy26_r00304885",
+      "company": "Accenture",
+      "title": "Atc – Software and Platform Analyst",
+      "postedToDiscord": "2026-01-04T17:05:42.542Z",
+      "sourceDate": "2025-12-24T03:01:54.000Z",
+      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885",
+      "discordThreadId": "1457419721552039956",
+      "instanceNumber": 1
+    },
+    {
+      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760-2026-01-04-1",
+      "jobId": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760",
+      "company": "2020 Companies",
+      "title": "Android Sales Expert",
+      "postedToDiscord": "2026-01-04T17:05:46.167Z",
+      "sourceDate": "2025-12-22T23:37:07.000Z",
+      "sourceUrl": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760",
+      "discordThreadId": "1457419736399745096",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1236,
+    "totalJobs": 1238,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T16:52:43.401Z",
+      "date": "2026-01-04T17:05:46.168Z",
       "archived": 0
     }
   }
