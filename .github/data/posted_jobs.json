@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T06:05:39.183Z",
+  "lastUpdated": "2026-01-04T06:26:14.101Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10044,14 +10044,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
       "discordThreadId": "1457253613264179334",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8322062002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8322062002",
+      "company": "duolingo",
+      "title": "Senior AI Engineering Manager",
+      "postedToDiscord": "2026-01-04T06:25:44.474Z",
+      "sourceDate": "2025-12-03T14:57:21-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002",
+      "discordThreadId": "1457258668390223905",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5722244004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5722244004",
+      "company": "figma",
+      "title": "Manager, Software Engineering - Billing",
+      "postedToDiscord": "2026-01-04T06:25:47.942Z",
+      "sourceDate": "2025-12-01T13:41:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004",
+      "discordThreadId": "1457258683053510912",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5726175004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5726175004",
+      "company": "figma",
+      "title": "Inside Sales Representative - Early Career (2026)",
+      "postedToDiscord": "2026-01-04T06:25:56.495Z",
+      "sourceDate": "2025-12-02T20:29:41-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726175004?gh_jid=5726175004",
+      "discordThreadId": "1457258710148845670",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4939815008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939815008",
+      "company": "anthropic",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-04T06:26:00.274Z",
+      "sourceDate": "2025-12-02T10:23:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
+      "discordThreadId": "1457258734224019580",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5721796004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5721796004",
+      "company": "figma",
+      "title": "Community Experiences Manager",
+      "postedToDiscord": "2026-01-04T06:26:04.002Z",
+      "sourceDate": "2025-12-02T04:45:14-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5721796004?gh_jid=5721796004",
+      "discordThreadId": "1457258749189423107",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8305665002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8305665002",
+      "company": "discord",
+      "title": "Director, Global Payments Strategy and Operations",
+      "postedToDiscord": "2026-01-04T06:26:07.481Z",
+      "sourceDate": "2025-12-01T20:35:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
+      "discordThreadId": "1457258764674535601",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4966206008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4966206008",
+      "company": "anthropic",
+      "title": "Partner Marketing Manager",
+      "postedToDiscord": "2026-01-04T06:26:14.101Z",
+      "sourceDate": "2025-12-01T13:22:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
+      "discordThreadId": "1457258792247885825",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 913,
+    "totalJobs": 920,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T06:05:39.183Z",
+      "date": "2026-01-04T06:26:14.101Z",
       "archived": 0
     }
   }
