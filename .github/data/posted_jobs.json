@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T07:07:15.390Z",
+  "lastUpdated": "2026-01-04T07:24:35.078Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10220,14 +10220,36 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordThreadId": "1457269116254552188",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4669581008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4669581008",
+      "company": "anthropic",
+      "title": "Research Engineer, Discovery",
+      "postedToDiscord": "2026-01-04T07:24:31.698Z",
+      "sourceDate": "2025-11-26T12:57:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4887952008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4887952008",
+      "company": "anthropic",
+      "title": "IT Systems Engineer",
+      "postedToDiscord": "2026-01-04T07:24:35.078Z",
+      "sourceDate": "2025-11-25T21:30:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
+      "discordThreadId": "1457273477437587577",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 929,
+    "totalJobs": 931,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T07:07:15.390Z",
+      "date": "2026-01-04T07:24:35.078Z",
       "archived": 0
     }
   }
