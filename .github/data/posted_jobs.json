@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T06:26:14.101Z",
+  "lastUpdated": "2026-01-04T06:45:52.223Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10121,14 +10121,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
       "discordThreadId": "1457258792247885825",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4819732008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4819732008",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI",
+      "postedToDiscord": "2026-01-04T06:45:40.074Z",
+      "sourceDate": "2025-12-03T19:27:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5000393008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5000393008",
+      "company": "anthropic",
+      "title": "Finance Systems Integration Engineer",
+      "postedToDiscord": "2026-01-04T06:45:43.529Z",
+      "sourceDate": "2025-12-03T17:01:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
+      "discordThreadId": "1457263697784475813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-faa7469b-d007-4a29-903f-93ad34c7f472-2026-01-04-1",
+      "jobId": "jobs-lever-co-gohighlevel-faa7469b-d007-4a29-903f-93ad34c7f472",
+      "company": "gohighlevel",
+      "title": "Internship Program Coordinator",
+      "postedToDiscord": "2026-01-04T06:45:45.195Z",
+      "sourceDate": "2025-12-02T16:21:12.895Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/faa7469b-d007-4a29-903f-93ad34c7f472",
+      "discordThreadId": "1457263712007225347",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-daa7807b-4822-453e-94a7-2ccc1d9e90ae-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-daa7807b-4822-453e-94a7-2ccc1d9e90ae",
+      "company": "spotify",
+      "title": "Machine Learning Engineering Manager II",
+      "postedToDiscord": "2026-01-04T06:45:48.612Z",
+      "sourceDate": "2025-12-01T15:48:49.889Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/daa7807b-4822-453e-94a7-2ccc1d9e90ae",
+      "discordThreadId": "1457263719221559399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-ce5934cb-6be9-478c-a856-49b8189d87e2-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-ce5934cb-6be9-478c-a856-49b8189d87e2",
+      "company": "spotify",
+      "title": "2026 Summer Internship, Research Scientist - PhD (New York City)",
+      "postedToDiscord": "2026-01-04T06:45:52.223Z",
+      "sourceDate": "2025-11-26T18:30:55.209Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/ce5934cb-6be9-478c-a856-49b8189d87e2",
+      "discordThreadId": "1457263733494517935",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 920,
+    "totalJobs": 925,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T06:26:14.101Z",
+      "date": "2026-01-04T06:45:52.223Z",
       "archived": 0
     }
   }
