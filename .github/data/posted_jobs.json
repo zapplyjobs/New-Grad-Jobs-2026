@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T01:32:47.467Z",
+  "lastUpdated": "2026-01-04T03:25:51.844Z",
   "jobs": [
-    {
-      "id": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job-2025-12-28-1",
-      "jobId": "kphcareers-kphhealthcareservices-icims-com-jobs-13461-job",
-      "company": "KPH Healthcare Services",
-      "title": "Pharmacy Clerk",
-      "postedToDiscord": "2025-12-28T03:05:07.392Z",
-      "sourceDate": "2025-09-11T20:26:49.000Z",
-      "sourceUrl": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13461/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1454671465029959893",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
       "jobId": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008",
@@ -9538,14 +9527,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4961070008",
       "discordThreadId": "1457184945217999056",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946306008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946306008",
+      "company": "anthropic",
+      "title": "Research Operations & Strategy Lead, Coding & Cybersecurity Data",
+      "postedToDiscord": "2026-01-04T03:25:48.595Z",
+      "sourceDate": "2025-12-09T13:43:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946306008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946314008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946314008",
+      "company": "anthropic",
+      "title": "Data Operations Manager, Computer Use & Tool Use",
+      "postedToDiscord": "2026-01-04T03:25:51.844Z",
+      "sourceDate": "2025-12-09T13:43:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
+      "discordThreadId": "1457213401745985762",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 867,
+    "totalJobs": 868,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T01:32:47.467Z",
+      "date": "2026-01-04T03:25:51.844Z",
       "archived": 0
     }
   }
