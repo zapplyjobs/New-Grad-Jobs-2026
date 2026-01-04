@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T13:41:53.528Z",
+  "lastUpdated": "2026-01-04T13:51:25.563Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12310,14 +12310,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5633880004",
       "discordThreadId": "1457368429236326491",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5611652004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5611652004",
+      "company": "vercel",
+      "title": "Senior Partner Marketing Manager",
+      "postedToDiscord": "2026-01-04T13:50:55.903Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5611652004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5534649004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5534649004",
+      "company": "vercel",
+      "title": "Software Engineer, Financial Infrastructure",
+      "postedToDiscord": "2026-01-04T13:51:02.543Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5534649004",
+      "discordThreadId": "1457370731586523177",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5613601004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5613601004",
+      "company": "vercel",
+      "title": "Software Engineer, Growth",
+      "postedToDiscord": "2026-01-04T13:51:05.960Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5613601004",
+      "discordThreadId": "1457370746677629162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5611527004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5611527004",
+      "company": "vercel",
+      "title": "Software Engineer, Support Platform",
+      "postedToDiscord": "2026-01-04T13:51:09.794Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5611527004",
+      "discordThreadId": "1457370760904708328",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5649459004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5649459004",
+      "company": "vercel",
+      "title": "Software Engineer - Trust & Safety",
+      "postedToDiscord": "2026-01-04T13:51:13.787Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5649459004",
+      "discordThreadId": "1457370777635524628",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5633124004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5633124004",
+      "company": "vercel",
+      "title": "Technical Support Engineer, Vercel Marketplaces ",
+      "postedToDiscord": "2026-01-04T13:51:17.367Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5633124004",
+      "discordThreadId": "1457370793695641713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8152950002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8152950002",
+      "company": "duolingo",
+      "title": "Senior Motion Designer",
+      "postedToDiscord": "2026-01-04T13:51:19.086Z",
+      "sourceDate": "2025-11-12T15:56:58-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8152950002?gh_jid=8152950002",
+      "discordThreadId": "1457370808711118969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5649662004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5649662004",
+      "company": "vercel",
+      "title": "Sr. Director of SOX and Internal Controls",
+      "postedToDiscord": "2026-01-04T13:51:25.562Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5649662004",
+      "discordThreadId": "1457370828923732102",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1119,
+    "totalJobs": 1127,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T13:41:53.528Z",
+      "date": "2026-01-04T13:51:25.563Z",
       "archived": 0
     }
   }
