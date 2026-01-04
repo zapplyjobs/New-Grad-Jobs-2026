@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T13:51:25.563Z",
+  "lastUpdated": "2026-01-04T14:05:46.637Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12398,14 +12398,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5649662004",
       "discordThreadId": "1457370828923732102",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-c6f158d0-ef1d-484f-81cb-b5d29c34270e-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-c6f158d0-ef1d-484f-81cb-b5d29c34270e",
+      "company": "nominal",
+      "title": "Software Engineer - Full-Stack",
+      "postedToDiscord": "2026-01-04T14:05:12.091Z",
+      "sourceDate": "2025-11-11T15:20:26.571Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/c6f158d0-ef1d-484f-81cb-b5d29c34270e",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-2b615824-00a1-45f3-9c68-2ec853547e9b-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-2b615824-00a1-45f3-9c68-2ec853547e9b",
+      "company": "spotify",
+      "title": "Salesforce Engineer",
+      "postedToDiscord": "2026-01-04T14:05:15.652Z",
+      "sourceDate": "2025-11-10T21:22:37.475Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/2b615824-00a1-45f3-9c68-2ec853547e9b",
+      "discordThreadId": "1457374310086873109",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8152946002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8152946002",
+      "company": "duolingo",
+      "title": "Senior Motion Designer",
+      "postedToDiscord": "2026-01-04T14:05:22.143Z",
+      "sourceDate": "2025-11-12T15:55:02-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8152946002?gh_jid=8152946002",
+      "discordThreadId": "1457374337559429254",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8200010002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8200010002",
+      "company": "duolingo",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-04T14:05:25.645Z",
+      "sourceDate": "2025-11-12T15:48:24-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002",
+      "discordThreadId": "1457374352243953807",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8102231002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8102231002",
+      "company": "duolingo",
+      "title": "Staff Android Engineer, Client Architecture",
+      "postedToDiscord": "2026-01-04T14:05:29.158Z",
+      "sourceDate": "2025-11-12T11:50:26-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8102231002?gh_jid=8102231002",
+      "discordThreadId": "1457374367074750597",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8217266002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8217266002",
+      "company": "duolingo",
+      "title": "Senior Android Engineer",
+      "postedToDiscord": "2026-01-04T14:05:33.123Z",
+      "sourceDate": "2025-11-10T11:25:57-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002",
+      "discordThreadId": "1457374381884969108",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8250803002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8250803002",
+      "company": "discord",
+      "title": "Director, Account Management",
+      "postedToDiscord": "2026-01-04T14:05:39.983Z",
+      "sourceDate": "2025-11-10T20:03:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8250803002",
+      "discordThreadId": "1457374411694014640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8249573002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8249573002",
+      "company": "discord",
+      "title": "Leave of Absence Program Specialist",
+      "postedToDiscord": "2026-01-04T14:05:46.637Z",
+      "sourceDate": "2025-11-10T13:01:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8249573002",
+      "discordThreadId": "1457374440013692931",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1127,
+    "totalJobs": 1135,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T13:51:25.563Z",
+      "date": "2026-01-04T14:05:46.637Z",
       "archived": 0
     }
   }
