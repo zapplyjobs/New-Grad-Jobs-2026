@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T09:05:32.845Z",
+  "lastUpdated": "2026-01-04T09:37:29.436Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10803,14 +10803,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933813008",
       "discordThreadId": "1457298884585062432",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4741104008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4741104008",
+      "company": "anthropic",
+      "title": "Engineering Manager, ML Acceleration",
+      "postedToDiscord": "2026-01-04T09:36:55.353Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4952079008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4952079008",
+      "company": "anthropic",
+      "title": "Machine Learning Systems Engineer, Research Tools",
+      "postedToDiscord": "2026-01-04T09:36:58.774Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+      "discordThreadId": "1457306795398660209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4952051008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4952051008",
+      "company": "anthropic",
+      "title": "Machine Learning Systems Engineer, RL Engineering",
+      "postedToDiscord": "2026-01-04T09:37:02.230Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+      "discordThreadId": "1457306809684721704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4964610008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4964610008",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture",
+      "postedToDiscord": "2026-01-04T09:37:05.774Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
+      "discordThreadId": "1457306824113131736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973175008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973175008",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Public Sector, Applied AI",
+      "postedToDiscord": "2026-01-04T09:37:09.178Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973175008",
+      "discordThreadId": "1457306838839332948",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4778843008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4778843008",
+      "company": "anthropic",
+      "title": "ML Infrastructure Engineer, Safeguards",
+      "postedToDiscord": "2026-01-04T09:37:12.623Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+      "discordThreadId": "1457306853322260554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4914907008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4914907008",
+      "company": "anthropic",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-04T09:37:19.150Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+      "discordThreadId": "1457306880517869682",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4947472008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4947472008",
+      "company": "anthropic",
+      "title": "Manager of Associate Solutions Architects",
+      "postedToDiscord": "2026-01-04T09:37:22.625Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4947472008",
+      "discordThreadId": "1457306895265042464",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4884644008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4884644008",
+      "company": "anthropic",
+      "title": "Manager, Sales Development",
+      "postedToDiscord": "2026-01-04T09:37:25.992Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4884644008",
+      "discordThreadId": "1457306909710221449",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4931772008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4931772008",
+      "company": "anthropic",
+      "title": "Mid-Market Account Executive, Industries",
+      "postedToDiscord": "2026-01-04T09:37:29.436Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4931772008",
+      "discordThreadId": "1457306923941625959",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 982,
+    "totalJobs": 992,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T09:05:32.845Z",
+      "date": "2026-01-04T09:37:29.436Z",
       "archived": 0
     }
   }
