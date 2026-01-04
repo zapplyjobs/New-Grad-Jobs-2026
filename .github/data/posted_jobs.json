@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T14:50:42.422Z",
+  "lastUpdated": "2026-01-04T15:05:45.855Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12761,14 +12761,124 @@
       "sourceUrl": "https://jobs.lever.co/spotify/d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
       "discordThreadId": "1457385747463147651",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
+      "company": "spotify",
+      "title": "Senior Research Engineer - Music",
+      "postedToDiscord": "2026-01-04T15:05:11.608Z",
+      "sourceDate": "2025-10-23T19:19:20.027Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
+      "discordThreadId": "1457389392674160853",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e",
+      "company": "spotify",
+      "title": "Principal Research Scientist - Music",
+      "postedToDiscord": "2026-01-04T15:05:15.167Z",
+      "sourceDate": "2025-10-23T19:04:13.533Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/e7ead7e0-5033-4058-9bbf-006811a5147e",
+      "discordThreadId": "1457389407618339091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969",
+      "company": "spotify",
+      "title": "Staff Research Scientist - Music",
+      "postedToDiscord": "2026-01-04T15:05:18.770Z",
+      "sourceDate": "2025-10-23T19:01:45.505Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/33114d31-b3d0-4bbb-bf7c-ab32596e8969",
+      "discordThreadId": "1457389421853671621",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
+      "company": "spotify",
+      "title": "Senior Research Scientist - Music",
+      "postedToDiscord": "2026-01-04T15:05:22.223Z",
+      "sourceDate": "2025-10-23T18:56:23.111Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
+      "discordThreadId": "1457389437519532236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a",
+      "company": "spotify",
+      "title": "Senior Content Accountant",
+      "postedToDiscord": "2026-01-04T15:05:25.637Z",
+      "sourceDate": "2025-10-23T16:48:05.911Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/32297d46-a347-4680-849c-1c56d0a2666a",
+      "discordThreadId": "1457389451884888194",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-184f631b-b751-49d9-bacb-5695b1e3a8e8-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-184f631b-b751-49d9-bacb-5695b1e3a8e8",
+      "company": "spotify",
+      "title": "Payroll Specialist",
+      "postedToDiscord": "2026-01-04T15:05:29.373Z",
+      "sourceDate": "2025-10-16T17:51:15.097Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/184f631b-b751-49d9-bacb-5695b1e3a8e8",
+      "discordThreadId": "1457389466518818936",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-2b701338-d869-49aa-9223-fca71967e9a9-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-clerk-2b701338-d869-49aa-9223-fca71967e9a9",
+      "company": "clerk",
+      "title": "Senior Growth Engineer",
+      "postedToDiscord": "2026-01-04T15:05:31.023Z",
+      "sourceDate": "2025-10-15T20:49:36.914+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/2b701338-d869-49aa-9223-fca71967e9a9",
+      "discordThreadId": "1457389481853452389",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8205129002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8205129002",
+      "company": "duolingo",
+      "title": "Director of Learning Design, New Subjects",
+      "postedToDiscord": "2026-01-04T15:05:37.699Z",
+      "sourceDate": "2025-10-20T14:05:52-04:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8205129002?gh_jid=8205129002",
+      "discordThreadId": "1457389501457371341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-4e358def-f3af-44ca-9535-91c6d6179c45-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-4e358def-f3af-44ca-9535-91c6d6179c45",
+      "company": "supabase",
+      "title": "Account Executive , USA ",
+      "postedToDiscord": "2026-01-04T15:05:44.148Z",
+      "sourceDate": "2025-10-16T18:37:28.869+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/4e358def-f3af-44ca-9535-91c6d6179c45",
+      "discordThreadId": "1457389529626578974",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-a069c886-1107-408e-88b4-e1aa8d33d4bc-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "company": "supabase",
+      "title": " Account Executive, EMEA",
+      "postedToDiscord": "2026-01-04T15:05:45.855Z",
+      "sourceDate": "2025-10-16T18:37:12.341+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "discordThreadId": "1457389543954317485",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1160,
+    "totalJobs": 1170,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T14:50:42.422Z",
+      "date": "2026-01-04T15:05:45.855Z",
       "archived": 0
     }
   }
