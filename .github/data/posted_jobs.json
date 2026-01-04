@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T13:27:12.298Z",
+  "lastUpdated": "2026-01-04T13:41:53.528Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12266,14 +12266,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5693072004",
       "discordThreadId": "1457364733324689428",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5701765004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5701765004",
+      "company": "vercel",
+      "title": "Engineering Manager, CDN",
+      "postedToDiscord": "2026-01-04T13:41:43.124Z",
+      "sourceDate": "2025-11-17T11:27:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5701765004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5474915004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5474915004",
+      "company": "vercel",
+      "title": "Software Engineer, AI SDK",
+      "postedToDiscord": "2026-01-04T13:41:46.505Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5474915004",
+      "discordThreadId": "1457368400341897236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5532030004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5532030004",
+      "company": "vercel",
+      "title": "Software Engineer, CI/CD",
+      "postedToDiscord": "2026-01-04T13:41:50.002Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5532030004",
+      "discordThreadId": "1457368414413656124",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5633880004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5633880004",
+      "company": "vercel",
+      "title": "Software Engineer, Deployment Infrastructure",
+      "postedToDiscord": "2026-01-04T13:41:53.528Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5633880004",
+      "discordThreadId": "1457368429236326491",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1115,
+    "totalJobs": 1119,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T13:27:12.298Z",
+      "date": "2026-01-04T13:41:53.528Z",
       "archived": 0
     }
   }
