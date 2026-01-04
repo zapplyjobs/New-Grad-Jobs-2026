@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T10:39:41.448Z",
+  "lastUpdated": "2026-01-04T11:05:23.844Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11331,14 +11331,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4816199008",
       "discordThreadId": "1457322576853602461",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4461444008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4461444008",
+      "company": "anthropic",
+      "title": "Solutions Architect, Applied AI",
+      "postedToDiscord": "2026-01-04T11:04:45.972Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973067008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973067008",
+      "company": "anthropic",
+      "title": "Staff Infrastructure Engineer, Pre-training",
+      "postedToDiscord": "2026-01-04T11:04:49.444Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+      "discordThreadId": "1457328901964431401",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4017544008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4017544008",
+      "company": "anthropic",
+      "title": "Staff Machine Learning Engineer, Agent Skills",
+      "postedToDiscord": "2026-01-04T11:04:52.902Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4017544008",
+      "discordThreadId": "1457328916581585069",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946308008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946308008",
+      "company": "anthropic",
+      "title": "Staff Machine Learning Engineer, Virtual Collaborator",
+      "postedToDiscord": "2026-01-04T11:04:56.437Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946308008",
+      "discordThreadId": "1457328930876031019",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4593216008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4593216008",
+      "company": "anthropic",
+      "title": "Staff Research Engineer, Discovery Team",
+      "postedToDiscord": "2026-01-04T11:05:02.860Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
+      "discordThreadId": "1457328958478487553",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4988878008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4988878008",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+      "postedToDiscord": "2026-01-04T11:05:06.386Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988878008",
+      "discordThreadId": "1457328972974260327",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4561282008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4561282008",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
+      "postedToDiscord": "2026-01-04T11:05:10.041Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4561282008",
+      "discordThreadId": "1457328987536887819",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4461450008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4461450008",
+      "company": "anthropic",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-04T11:05:16.467Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+      "discordThreadId": "1457329015596646400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4809968008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4809968008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Financial Services",
+      "postedToDiscord": "2026-01-04T11:05:20.386Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4809968008",
+      "discordThreadId": "1457329030612258956",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4979834008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4979834008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Startups",
+      "postedToDiscord": "2026-01-04T11:05:23.844Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979834008",
+      "discordThreadId": "1457329046345089177",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1030,
+    "totalJobs": 1040,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T10:39:41.448Z",
+      "date": "2026-01-04T11:05:23.844Z",
       "archived": 0
     }
   }
