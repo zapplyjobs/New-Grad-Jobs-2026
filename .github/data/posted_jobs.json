@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T17:38:29.203Z",
+  "lastUpdated": "2026-01-04T17:51:21.248Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -13817,14 +13817,124 @@
       "sourceUrl": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267",
       "discordThreadId": "1457427969763971155",
       "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160652-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160652",
+      "company": "Adobe",
+      "title": "Graduate University Engineer - Machine Learning Engineer",
+      "postedToDiscord": "2026-01-04T17:50:50.370Z",
+      "sourceDate": "2025-11-20T21:01:46.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160652",
+      "discordThreadId": "1457431078888407131",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r161169-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r161169",
+      "company": "Adobe",
+      "title": "University Graduate",
+      "postedToDiscord": "2026-01-04T17:50:54.036Z",
+      "sourceDate": "2025-11-14T23:53:49.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R161169",
+      "discordThreadId": "1457431093849624617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-science_r160136-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-science_r160136",
+      "company": "Adobe",
+      "title": "University Graduate - Applied Science",
+      "postedToDiscord": "2026-01-04T17:50:54.046Z",
+      "sourceDate": "2025-11-06T23:52:36.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Applied-Science_R160136",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160690-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160690",
+      "company": "Adobe",
+      "title": "University Graduate - Research Scientist/Engineer",
+      "postedToDiscord": "2026-01-04T17:50:54.055Z",
+      "sourceDate": "2025-10-31T10:52:08.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160689-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160689",
+      "company": "Adobe",
+      "title": "University Graduate - Research Scientist/Engineer",
+      "postedToDiscord": "2026-01-04T17:50:54.064Z",
+      "sourceDate": "2025-10-31T08:57:11.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160689",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-38763370-2026-01-04-1",
+      "jobId": "aexp-eightfold-ai-careers-job-38763370",
+      "company": "American Express",
+      "title": "Data Engineer - Digital Workplace",
+      "postedToDiscord": "2026-01-04T17:51:00.797Z",
+      "sourceDate": "2025-11-18T00:38:13.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/38763370",
+      "discordThreadId": "1457431121666117843",
+      "instanceNumber": 1
+    },
+    {
+      "id": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-us-ca-santa-clara-post-doc-gc-ms-application-scientist_4028181-2026-01-04-1",
+      "jobId": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-us-ca-santa-clara-post-doc-gc-ms-application-scientist_4028181",
+      "company": "Agilent Technologies",
+      "title": "Post-Doctoral Scientist - Gc/MS",
+      "postedToDiscord": "2026-01-04T17:51:07.392Z",
+      "sourceDate": "2025-11-12T00:40:51.000Z",
+      "sourceUrl": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Santa-Clara/Post-Doc-GC-MS-Application-Scientist_4028181",
+      "discordThreadId": "1457431150183190558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "3m-wd1-myworkdayjobs-com-en-us-search-job-us-minnesota-maplewood-product-engineer_r01158471-2026-01-04-1",
+      "jobId": "3m-wd1-myworkdayjobs-com-en-us-search-job-us-minnesota-maplewood-product-engineer_r01158471",
+      "company": "3M",
+      "title": "Product Engineer",
+      "postedToDiscord": "2026-01-04T17:51:14.019Z",
+      "sourceDate": "2025-11-03T23:49:36.000Z",
+      "sourceUrl": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Product-Engineer_R01158471",
+      "discordThreadId": "1457431177638973565",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-38270703-2026-01-04-1",
+      "jobId": "aexp-eightfold-ai-careers-job-38270703",
+      "company": "American Express",
+      "title": "Software Engineer 1 - Technology",
+      "postedToDiscord": "2026-01-04T17:51:17.689Z",
+      "sourceDate": "2025-10-03T02:53:50.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/38270703",
+      "discordThreadId": "1457431193313087540",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-38270711-2026-01-04-1",
+      "jobId": "aexp-eightfold-ai-careers-job-38270711",
+      "company": "American Express",
+      "title": "Campus Graduate - Software Engineer II - Technology",
+      "postedToDiscord": "2026-01-04T17:51:21.248Z",
+      "sourceDate": "2025-10-03T02:53:48.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/38270711",
+      "discordThreadId": "1457431208278622452",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1256,
+    "totalJobs": 1266,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T17:38:29.203Z",
+      "date": "2026-01-04T17:51:21.248Z",
       "archived": 0
     }
   }
