@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T17:05:46.168Z",
+  "lastUpdated": "2026-01-04T17:25:05.323Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -13619,14 +13619,113 @@
       "sourceUrl": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760",
       "discordThreadId": "1457419736399745096",
       "instanceNumber": 1
+    },
+    {
+      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1-2026-01-04-1",
+      "jobId": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1",
+      "company": "2020 Companies",
+      "title": "Android Sales Expert",
+      "postedToDiscord": "2026-01-04T17:24:33.198Z",
+      "sourceDate": "2025-12-22T23:37:03.000Z",
+      "sourceUrl": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Alameda-CA/Android-Sales-Expert_REQ_096762-1",
+      "discordThreadId": "1457424462885683232",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon-2026-01-04-1",
+      "jobId": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon",
+      "company": "Amazon",
+      "title": "Applied Scientist 1 - Amazon",
+      "postedToDiscord": "2026-01-04T17:24:36.610Z",
+      "sourceDate": "2025-12-19T23:22:04.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3130180/applied-scientist-i-amazon",
+      "discordThreadId": "1457424478639493181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "activision-wd1-myworkdayjobs-com-external-job-sherman-oaks-rotational-engineer-central-technology_r026155-2026-01-04-1",
+      "jobId": "activision-wd1-myworkdayjobs-com-external-job-sherman-oaks-rotational-engineer-central-technology_r026155",
+      "company": "Activision-Blizzard",
+      "title": "Rotational Engineer - Central Technology",
+      "postedToDiscord": "2026-01-04T17:24:40.131Z",
+      "sourceDate": "2025-12-18T23:40:20.000Z",
+      "sourceUrl": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Rotational-Engineer--Central-Technology_R026155",
+      "discordThreadId": "1457424493080482095",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442-2026-01-04-1",
+      "jobId": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442",
+      "company": "Allied Solutions",
+      "title": "Data Integration Analyst 1",
+      "postedToDiscord": "2026-01-04T17:24:43.589Z",
+      "sourceDate": "2025-12-15T23:43:09.000Z",
+      "sourceUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-File-Analyst--On-Site--IN-_R-010442",
+      "discordThreadId": "1457424507273871432",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-lehi-software-development-engineer_r160351-1-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-lehi-software-development-engineer_r160351-1",
+      "company": "Adobe",
+      "title": "Software Development Engineer",
+      "postedToDiscord": "2026-01-04T17:24:47.050Z",
+      "sourceDate": "2025-12-12T00:41:32.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R160351-1",
+      "discordThreadId": "1457424522046341202",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r158869-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r158869",
+      "company": "Adobe",
+      "title": "2026 University Graduate - Research Scientist/Engineer",
+      "postedToDiscord": "2026-01-04T17:24:53.617Z",
+      "sourceDate": "2025-12-19T23:14:30.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R158869",
+      "discordThreadId": "1457424549309321511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648",
+      "company": "Adobe",
+      "title": "University Graduate - Machine Learning Engineer",
+      "postedToDiscord": "2026-01-04T17:24:57.038Z",
+      "sourceDate": "2025-12-18T23:21:21.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
+      "discordThreadId": "1457424564144570400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402-2026-01-04-1",
+      "jobId": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402",
+      "company": "Applied Materials",
+      "title": "Data Science Engineer - New College Grad-Master's/PhD",
+      "postedToDiscord": "2026-01-04T17:25:00.554Z",
+      "sourceDate": "2025-12-12T02:59:31.000Z",
+      "sourceUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402",
+      "discordThreadId": "1457424578254213278",
+      "instanceNumber": 1
+    },
+    {
+      "id": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-uk-harwell-r-d-graduate-software-developer-harwell-science-campus_4034599-2026-01-04-1",
+      "jobId": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-uk-harwell-r-d-graduate-software-developer-harwell-science-campus_4034599",
+      "company": "Agilent Technologies",
+      "title": "R&D Graduate Software Developer-Harwell Science Campus",
+      "postedToDiscord": "2026-01-04T17:25:05.322Z",
+      "sourceDate": "2025-12-17T18:52:45.000Z",
+      "sourceUrl": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/R-D-Graduate-Software-Developer-Harwell-Science-Campus_4034599",
+      "discordThreadId": "1457424605932159128",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1238,
+    "totalJobs": 1247,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T17:05:46.168Z",
+      "date": "2026-01-04T17:25:05.323Z",
       "archived": 0
     }
   }
