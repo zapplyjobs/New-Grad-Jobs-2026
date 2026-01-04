@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T15:05:45.855Z",
+  "lastUpdated": "2026-01-04T15:24:37.063Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12871,14 +12871,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
       "discordThreadId": "1457389543954317485",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-c3e23b18-8bab-436a-b0d9-cfe8ccbc1ec5-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-c3e23b18-8bab-436a-b0d9-cfe8ccbc1ec5",
+      "company": "spotify",
+      "title": "Machine Learning Engineering Manager, Personalization",
+      "postedToDiscord": "2026-01-04T15:24:10.661Z",
+      "sourceDate": "2025-10-15T14:26:30.578Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/c3e23b18-8bab-436a-b0d9-cfe8ccbc1ec5",
+      "discordThreadId": "1457394170623823905",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-76f8e9a4-8639-4d61-8426-747c52c76148-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-76f8e9a4-8639-4d61-8426-747c52c76148",
+      "company": "nominal",
+      "title": "Software Engineer - Rust / Bevy / WebGPU",
+      "postedToDiscord": "2026-01-04T15:24:14.216Z",
+      "sourceDate": "2025-10-14T20:37:22.556Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/76f8e9a4-8639-4d61-8426-747c52c76148",
+      "discordThreadId": "1457394185144635509",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-b5e15c02-f51c-454c-9270-e5b96d0b0519-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-b5e15c02-f51c-454c-9270-e5b96d0b0519",
+      "company": "nominal",
+      "title": "Software Engineer – Systems & Real-Time (RTOS / HIL)",
+      "postedToDiscord": "2026-01-04T15:24:17.833Z",
+      "sourceDate": "2025-10-14T20:30:15.240Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b5e15c02-f51c-454c-9270-e5b96d0b0519",
+      "discordThreadId": "1457394200088940739",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-bf300028-11de-4af9-82e7-07a1ee3e51dc-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-bf300028-11de-4af9-82e7-07a1ee3e51dc",
+      "company": "nominal",
+      "title": "Product Designer - Early Career",
+      "postedToDiscord": "2026-01-04T15:24:21.445Z",
+      "sourceDate": "2025-10-13T15:21:24.784Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/bf300028-11de-4af9-82e7-07a1ee3e51dc",
+      "discordThreadId": "1457394214945161484",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-b0073689-28a8-446f-8a28-bdeb32b1247b-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-b0073689-28a8-446f-8a28-bdeb32b1247b",
+      "company": "nominal",
+      "title": "Executive Assistant",
+      "postedToDiscord": "2026-01-04T15:24:24.920Z",
+      "sourceDate": "2025-10-08T15:44:43.830Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b0073689-28a8-446f-8a28-bdeb32b1247b",
+      "discordThreadId": "1457394229801128039",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-bcd14783-d2ae-4d09-a6ba-39330aa0f9fc-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-bcd14783-d2ae-4d09-a6ba-39330aa0f9fc",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-04T15:24:28.361Z",
+      "sourceDate": "2025-10-07T17:47:58.341Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/bcd14783-d2ae-4d09-a6ba-39330aa0f9fc",
+      "discordThreadId": "1457394244799959041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-205eb559-b828-4463-a9ff-b61d92e8c85d-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-205eb559-b828-4463-a9ff-b61d92e8c85d",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-04T15:24:28.370Z",
+      "sourceDate": "2025-10-07T17:47:18.725Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/205eb559-b828-4463-a9ff-b61d92e8c85d",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-168a8af0-dc24-411d-a1bb-06c53ed9fac3-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-168a8af0-dc24-411d-a1bb-06c53ed9fac3",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-04T15:24:28.379Z",
+      "sourceDate": "2025-10-07T17:38:04.601Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/168a8af0-dc24-411d-a1bb-06c53ed9fac3",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-4e0ed22d-5e64-4090-adc4-0a9d76401b30-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-4e0ed22d-5e64-4090-adc4-0a9d76401b30",
+      "company": "nominal",
+      "title": "Lead Sales Engineer",
+      "postedToDiscord": "2026-01-04T15:24:31.898Z",
+      "sourceDate": "2025-10-07T17:32:02.029Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/4e0ed22d-5e64-4090-adc4-0a9d76401b30",
+      "discordThreadId": "1457394259085754444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-31b9193c-3d36-4af7-99ba-8140451f71fb-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-31b9193c-3d36-4af7-99ba-8140451f71fb",
+      "company": "supabase",
+      "title": "Brand Designer",
+      "postedToDiscord": "2026-01-04T15:24:37.062Z",
+      "sourceDate": "2025-10-09T12:00:41.782+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/31b9193c-3d36-4af7-99ba-8140451f71fb",
+      "discordThreadId": "1457394286868828364",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1170,
+    "totalJobs": 1180,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T15:05:45.855Z",
+      "date": "2026-01-04T15:24:37.063Z",
       "archived": 0
     }
   }
