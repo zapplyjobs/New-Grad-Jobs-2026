@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T16:05:37.026Z",
+  "lastUpdated": "2026-01-04T16:25:51.870Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -13311,14 +13311,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
       "discordThreadId": "1457404606157164620",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-c01f7436-1fdd-4a3e-8b96-8cadc33b006e-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-c01f7436-1fdd-4a3e-8b96-8cadc33b006e",
+      "company": "supabase",
+      "title": "Support Engineer (EMEA)",
+      "postedToDiscord": "2026-01-04T16:25:13.601Z",
+      "sourceDate": "2025-05-30T20:36:32.528+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e",
+      "discordThreadId": "1457409541166862550",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-8b566220-7e5e-413c-ae69-476e7dc44818-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-8b566220-7e5e-413c-ae69-476e7dc44818",
+      "company": "supabase",
+      "title": "Business Development Representative (USA)",
+      "postedToDiscord": "2026-01-04T16:25:20.106Z",
+      "sourceDate": "2025-05-30T20:33:43.312+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/8b566220-7e5e-413c-ae69-476e7dc44818",
+      "discordThreadId": "1457409561177882685",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-7a91e2dd-1214-4a50-add2-b6e8a91c6613-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-7a91e2dd-1214-4a50-add2-b6e8a91c6613",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, GenRecs, Personalization",
+      "postedToDiscord": "2026-01-04T16:25:26.580Z",
+      "sourceDate": "2025-05-29T16:06:56.227Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7a91e2dd-1214-4a50-add2-b6e8a91c6613",
+      "discordThreadId": "1457409588469960725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-da37dc7d-ba45-4cab-8aa2-2f7e01db5176-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-da37dc7d-ba45-4cab-8aa2-2f7e01db5176",
+      "company": "nominal",
+      "title": "Production Engineer (PE)",
+      "postedToDiscord": "2026-01-04T16:25:29.982Z",
+      "sourceDate": "2025-05-28T20:31:18.305Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/da37dc7d-ba45-4cab-8aa2-2f7e01db5176",
+      "discordThreadId": "1457409602936377346",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-59f03137-8957-4732-86c4-bc038ef0b3ba-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-59f03137-8957-4732-86c4-bc038ef0b3ba",
+      "company": "nominal",
+      "title": "Production Engineer",
+      "postedToDiscord": "2026-01-04T16:25:33.818Z",
+      "sourceDate": "2025-05-28T19:40:23.093Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/59f03137-8957-4732-86c4-bc038ef0b3ba",
+      "discordThreadId": "1457409617213526229",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-201216f8-3cd8-498d-b91a-57fe470fbe60-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-201216f8-3cd8-498d-b91a-57fe470fbe60",
+      "company": "nominal",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-04T16:25:37.709Z",
+      "sourceDate": "2025-05-15T20:07:56.597Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/201216f8-3cd8-498d-b91a-57fe470fbe60",
+      "discordThreadId": "1457409633508528263",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-2f2454a8-e06b-4fb0-964d-51890caf183d-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-2f2454a8-e06b-4fb0-964d-51890caf183d",
+      "company": "nominal",
+      "title": "Mid-Market Account Executive",
+      "postedToDiscord": "2026-01-04T16:25:41.520Z",
+      "sourceDate": "2025-05-15T19:58:22.101Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/2f2454a8-e06b-4fb0-964d-51890caf183d",
+      "discordThreadId": "1457409649459331083",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-ceb289fc-ac05-418c-a5bd-26e6d4e64dd4-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-ceb289fc-ac05-418c-a5bd-26e6d4e64dd4",
+      "company": "nominal",
+      "title": "Roboticist In Residence",
+      "postedToDiscord": "2026-01-04T16:25:45.005Z",
+      "sourceDate": "2025-05-13T20:01:51.070Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/ceb289fc-ac05-418c-a5bd-26e6d4e64dd4",
+      "discordThreadId": "1457409665641087241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-e0f3ee8b-0030-4506-a6e2-da0710d90a05-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-e0f3ee8b-0030-4506-a6e2-da0710d90a05",
+      "company": "nominal",
+      "title": "Software Engineer - Mission Dev",
+      "postedToDiscord": "2026-01-04T16:25:48.415Z",
+      "sourceDate": "2025-05-01T18:37:11.417Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/e0f3ee8b-0030-4506-a6e2-da0710d90a05",
+      "discordThreadId": "1457409680149057678",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-825c72ae-9ba9-4f08-8c18-94eb38da1ea2-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-825c72ae-9ba9-4f08-8c18-94eb38da1ea2",
+      "company": "nominal",
+      "title": "Mission Operations Engineer - USG/DoD",
+      "postedToDiscord": "2026-01-04T16:25:51.869Z",
+      "sourceDate": "2025-04-30T19:25:22.053Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/825c72ae-9ba9-4f08-8c18-94eb38da1ea2",
+      "discordThreadId": "1457409694141517951",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1210,
+    "totalJobs": 1220,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T16:05:37.026Z",
+      "date": "2026-01-04T16:25:51.870Z",
       "archived": 0
     }
   }
