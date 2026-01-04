@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T11:35:39.204Z",
+  "lastUpdated": "2026-01-04T11:49:50.201Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11661,14 +11661,124 @@
       "sourceUrl": "https://jobs.lever.co/spotify/72220c49-25c3-49fe-b275-d755f863ad8c",
       "discordThreadId": "1457336660277727277",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-be4962fc-0c3e-47c3-b77e-71e48d62a376-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-clerk-be4962fc-0c3e-47c3-b77e-71e48d62a376",
+      "company": "clerk",
+      "title": "Product Manager, Billing",
+      "postedToDiscord": "2026-01-04T11:49:06.520Z",
+      "sourceDate": "2025-11-19T14:40:15.451+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/be4962fc-0c3e-47c3-b77e-71e48d62a376",
+      "discordThreadId": "1457340053553545299",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711703004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711703004",
+      "company": "figma",
+      "title": "Manager, SEO",
+      "postedToDiscord": "2026-01-04T11:49:13.444Z",
+      "sourceDate": "2025-11-19T09:05:56-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711703004?gh_jid=5711703004",
+      "discordThreadId": "1457340074625859702",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5699248004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5699248004",
+      "company": "figma",
+      "title": "Business Systems Architect, AI",
+      "postedToDiscord": "2026-01-04T11:49:19.858Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699248004?gh_jid=5699248004",
+      "discordThreadId": "1457340102861914314",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5702724004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5702724004",
+      "company": "figma",
+      "title": "Integration Engineer, QA",
+      "postedToDiscord": "2026-01-04T11:49:23.426Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5702724004?gh_jid=5702724004",
+      "discordThreadId": "1457340117273411747",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5699991004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5699991004",
+      "company": "figma",
+      "title": "Corporate Development & Strategy, M&A Integration",
+      "postedToDiscord": "2026-01-04T11:49:30.145Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699991004?gh_jid=5699991004",
+      "discordThreadId": "1457340145090039808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5705229004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5705229004",
+      "company": "figma",
+      "title": "Director, Payroll Operations",
+      "postedToDiscord": "2026-01-04T11:49:33.453Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5705229004?gh_jid=5705229004",
+      "discordThreadId": "1457340159766036512",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5696205004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5696205004",
+      "company": "figma",
+      "title": "Manager, Mid-Market Sales",
+      "postedToDiscord": "2026-01-04T11:49:36.843Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5696205004?gh_jid=5696205004",
+      "discordThreadId": "1457340173523353602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5697641004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5697641004",
+      "company": "figma",
+      "title": "Manager, Solutions Consulting",
+      "postedToDiscord": "2026-01-04T11:49:40.267Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5697641004?gh_jid=5697641004",
+      "discordThreadId": "1457340187846770835",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5705600004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5705600004",
+      "company": "figma",
+      "title": "Partner Manager, Scaled",
+      "postedToDiscord": "2026-01-04T11:49:43.628Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5705600004?gh_jid=5705600004",
+      "discordThreadId": "1457340202593943686",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5703160004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5703160004",
+      "company": "figma",
+      "title": "Growth Marketing Manager, Creator & Affiliate",
+      "postedToDiscord": "2026-01-04T11:49:50.201Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5703160004?gh_jid=5703160004",
+      "discordThreadId": "1457340229668307105",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1060,
+    "totalJobs": 1070,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T11:35:39.204Z",
+      "date": "2026-01-04T11:49:50.201Z",
       "archived": 0
     }
   }
