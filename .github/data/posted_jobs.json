@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T05:44:10.349Z",
+  "lastUpdated": "2026-01-04T05:53:53.886Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -9978,14 +9978,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8288128002",
       "discordThreadId": "1457248208064479264",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5726655004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5726655004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Spanish Speaking",
+      "postedToDiscord": "2026-01-04T05:53:50.479Z",
+      "sourceDate": "2025-12-03T12:12:11-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726655004?gh_jid=5726655004",
+      "discordThreadId": "1457250640261681212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4781798008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4781798008",
+      "company": "anthropic",
+      "title": "Founding Developer Relations Lead",
+      "postedToDiscord": "2026-01-04T05:53:53.886Z",
+      "sourceDate": "2025-12-03T11:18:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
+      "discordThreadId": "1457250654908317748",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 907,
+    "totalJobs": 909,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T05:44:10.349Z",
+      "date": "2026-01-04T05:53:53.886Z",
       "archived": 0
     }
   }
