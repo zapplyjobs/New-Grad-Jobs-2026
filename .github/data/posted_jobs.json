@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T15:24:37.063Z",
+  "lastUpdated": "2026-01-04T15:37:19.699Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12981,14 +12981,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/31b9193c-3d36-4af7-99ba-8140451f71fb",
       "discordThreadId": "1457394286868828364",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-815611ce-bcd4-426c-8c8a-c6d02f2de245-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-815611ce-bcd4-426c-8c8a-c6d02f2de245",
+      "company": "nominal",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-04T15:36:51.920Z",
+      "sourceDate": "2025-09-18T18:31:00.682Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/815611ce-bcd4-426c-8c8a-c6d02f2de245",
+      "discordThreadId": "1457397362799542408",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-70bfa2e3-b608-4fb2-ae0c-82d9819b1024-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-70bfa2e3-b608-4fb2-ae0c-82d9819b1024",
+      "company": "nominal",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-04T15:36:51.934Z",
+      "sourceDate": "2025-09-18T18:20:08.428Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/70bfa2e3-b608-4fb2-ae0c-82d9819b1024",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-e5216daa-7d92-413b-a5c1-76f6e98b80bd-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-e5216daa-7d92-413b-a5c1-76f6e98b80bd",
+      "company": "nominal",
+      "title": "Product Support Engineer",
+      "postedToDiscord": "2026-01-04T15:36:57.574Z",
+      "sourceDate": "2025-09-17T17:27:40.066Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/e5216daa-7d92-413b-a5c1-76f6e98b80bd",
+      "discordThreadId": "1457397378570256435",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-622eb0de-6216-4d98-b8b6-1b199efef94e-2026-01-04-1",
+      "jobId": "jobs-lever-co-gohighlevel-622eb0de-6216-4d98-b8b6-1b199efef94e",
+      "company": "gohighlevel",
+      "title": "Manager, Digital Marketing",
+      "postedToDiscord": "2026-01-04T15:36:59.363Z",
+      "sourceDate": "2025-09-17T15:09:29.598Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/622eb0de-6216-4d98-b8b6-1b199efef94e",
+      "discordThreadId": "1457397401672225065",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-ea821a61-7fc7-49a5-b08c-12293c1d4655-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-ea821a61-7fc7-49a5-b08c-12293c1d4655",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-04T15:37:02.948Z",
+      "sourceDate": "2025-09-14T18:07:28.855Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/ea821a61-7fc7-49a5-b08c-12293c1d4655",
+      "discordThreadId": "1457397409075298557",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-a88321ee-c313-48b4-b911-544660d31494-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-a88321ee-c313-48b4-b911-544660d31494",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-04T15:37:02.957Z",
+      "sourceDate": "2025-09-14T17:56:36.555Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/a88321ee-c313-48b4-b911-544660d31494",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-4ced3627-8295-4b84-a871-1e905940aa29-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-4ced3627-8295-4b84-a871-1e905940aa29",
+      "company": "nominal",
+      "title": "Product Designer",
+      "postedToDiscord": "2026-01-04T15:37:06.561Z",
+      "sourceDate": "2025-09-10T18:57:06.619Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/4ced3627-8295-4b84-a871-1e905940aa29",
+      "discordThreadId": "1457397424233386208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-f73b1115-e4e6-4108-8c4e-707a6eb3d7c5-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-clerk-f73b1115-e4e6-4108-8c4e-707a6eb3d7c5",
+      "company": "clerk",
+      "title": "Technical Account Executive",
+      "postedToDiscord": "2026-01-04T15:37:13.256Z",
+      "sourceDate": "2025-09-18T15:12:54.031+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/f73b1115-e4e6-4108-8c4e-707a6eb3d7c5",
+      "discordThreadId": "1457397452251467807",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-1e7a99f9-da65-4c1a-a4eb-b718680404ac-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-1e7a99f9-da65-4c1a-a4eb-b718680404ac",
+      "company": "supabase",
+      "title": "CLI Engineer",
+      "postedToDiscord": "2026-01-04T15:37:17.978Z",
+      "sourceDate": "2025-09-16T01:45:35.388+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/1e7a99f9-da65-4c1a-a4eb-b718680404ac",
+      "discordThreadId": "1457397480097452204",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-ef0f109a-2d2a-4720-b760-ffc7b2016aeb-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-clerk-ef0f109a-2d2a-4720-b760-ffc7b2016aeb",
+      "company": "clerk",
+      "title": "Backend Engineer",
+      "postedToDiscord": "2026-01-04T15:37:19.699Z",
+      "sourceDate": "2025-09-12T20:04:12.386+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/ef0f109a-2d2a-4720-b760-ffc7b2016aeb",
+      "discordThreadId": "1457397487273906389",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1180,
+    "totalJobs": 1190,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T15:24:37.063Z",
+      "date": "2026-01-04T15:37:19.699Z",
       "archived": 0
     }
   }
