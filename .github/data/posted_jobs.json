@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T08:05:59.301Z",
+  "lastUpdated": "2026-01-04T08:25:50.947Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10440,14 +10440,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980504008",
       "discordThreadId": "1457283896612749312",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4996811008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4996811008",
+      "company": "anthropic",
+      "title": "Customer Engagement Strategy Lead, Office of CCO",
+      "postedToDiscord": "2026-01-04T08:25:13.842Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996811008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4464871008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4464871008",
+      "company": "anthropic",
+      "title": "Customer Success Manager",
+      "postedToDiscord": "2026-01-04T08:25:17.371Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4464871008",
+      "discordThreadId": "1457288753449144407",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4959525008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959525008",
+      "company": "anthropic",
+      "title": "Director, Order Management & Billing",
+      "postedToDiscord": "2026-01-04T08:25:20.707Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959525008",
+      "discordThreadId": "1457288768254906399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971073008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971073008",
+      "company": "anthropic",
+      "title": "Customer Marketing Manager",
+      "postedToDiscord": "2026-01-04T08:25:27.254Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971073008",
+      "discordThreadId": "1457288795211956307",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4900975008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4900975008",
+      "company": "anthropic",
+      "title": "Director, Compute Infrastructure Procurement ",
+      "postedToDiscord": "2026-01-04T08:25:30.765Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
+      "discordThreadId": "1457288809556475907",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946317008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946317008",
+      "company": "anthropic",
+      "title": "Data Operations Manager",
+      "postedToDiscord": "2026-01-04T08:25:37.202Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946317008",
+      "discordThreadId": "1457288837188554906",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4721383008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4721383008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Claude Developer Platform",
+      "postedToDiscord": "2026-01-04T08:25:40.796Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
+      "discordThreadId": "1457288851595853973",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971827008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971827008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Desktop",
+      "postedToDiscord": "2026-01-04T08:25:44.076Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971827008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4741102008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4741102008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Inference",
+      "postedToDiscord": "2026-01-04T08:25:50.947Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
+      "discordThreadId": "1457288892943306783",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 949,
+    "totalJobs": 958,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T08:05:59.301Z",
+      "date": "2026-01-04T08:25:50.947Z",
       "archived": 0
     }
   }
