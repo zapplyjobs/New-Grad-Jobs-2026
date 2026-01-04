@@ -1,462 +1,24 @@
 [
   {
     "job": {
-      "job_title": "University Graduate Software Engineer - Software Engineering",
-      "employer_name": "Adobe",
-      "job_city": "SF",
-      "job_state": "Locations",
-      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The OpportunityAdobe is seeking talented and passionate Software Engineers across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products.What You’ll DoDevelop high-performance, reliable, testable, and maintainable code.Participating in all aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation.Collaborate with engineers and participate in daily or weekly stand-ups and meetings.Grow with the support of your team and help others on the team grow by providing thoughtful feedback and uplifting those around you.Work both independently and collaboratively within a fast-paced development team, with clear, positive, and constructive communication.Additional responsibilities as needed based on the specific role or teamDevelop data-driven solutions using AI/ML techniques, analytics methods, and scalable data engineering workflows.Support data ingestion, preprocessing, transformation, and feature engineering for analytics and machine learning.Assist with Agentic AI, machine learning model training, evaluation, and deployment of modelsCollaborate with engineers, analysts, and data scientists to apply analytics and AI to real-world business problems.What You Need to SucceedBachelor's or Master’s in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience required, with an expected graduation date of December 2026 – June 20270-1 + years of experience in software development, data engineering, analytics, or AI/ML.Proficient in programming languages such as Python, Java, C++, SQL, Py-Spark/Databricks.Strong technical background with analytical and problem-solving skillsStrong knowledge in Java or JavaScript and at least one other language like Python, C#, Ruby, PHP.Familiarity with client-side frameworks and libraries like React, Vue, Angular, jQuery.Excellent problem-solving and debugging skills, and direct experience with DevOps or equivalent experience in a SaaS environment is a plus.Customer-focused with a passion for engineering excellence, data-driven insights, and innovation.Excellent communication and collaboration skills.Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $76,700 -- $152,200 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.\n\nIn California, the pay range for this position is $105,100 - $152,200\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans.  Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.Massachusetts:Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
-      "job_posted_at_datetime_utc": "2025-09-25T20:23:10.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158638",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-03T04:54:57.960Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
-      "job_title": "University Graduate - Machine Learning Engineer",
-      "employer_name": "Adobe",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! Adobe Firefly’s Generative AI Services team is seeking a Machine Learning Engineer for our GenAI Services area. In this high-impact role, you will work with a team of talented engineers in building scalable, high-performance generative AI systems—powering features across Adobe products like Firefly, Photoshop, Illustrator, Express, Stock, and Premiere. You will design and develop efficient inference pipelines, optimize models for latency and through at inference, and build APIs and ecosystems that integrate both Adobe’s first-party and third-party generative models into Adobe suite of products that serve individual and enterprise customers. You will tackle Adobe’s most complex engineering challenges at the forefront of the industry and help set technical direction while collaborating with other ML engineers.By using statistical and econometric methods, predictive models, experimental design methods, and optimization techniques, the candidate will be working on the research and development of exciting projects like attribution, media mix modeling, budget optimization, personalization, causal analysis, time series analysis.Ideal candidates will have a strong academic background as well as technical skills including applied statistics, machine learning, data mining, and software development. Familiarity with working with large-scale datasets and big data techniques would be a plus.What You’ll DoCore GenAI Services Development: Design and develop APIs and services that integrate a wide range of generative models into Adobe's flagship products, ensuring seamless user experiences.ML Pipeline Optimization: Build and optimize GPU-accelerated pipelines for model training and inference, prioritizing performance, scalability, and reliability across enterprise-scale deployments.Model Integration & Productization: Collaborate with Adobe Research and model developer teams to implement inference strategies and productionize modern generative models.Enterprise-Scale Systems: Design and build ML workflows for enterprise-scale model customization, serving, and ecosystem integration that handle massive user loads.Technical Excellence: Foster an atmosphere of creativity and technical expertise while addressing Adobe's groundbreaking engineering challenges.Develop predictive models on large-scale datasets to address various business problems with advanced statistical modeling, machine learning, and analytics techniques.Develop and implement scalable and efficient modeling algorithms that can work with large-scale data in production systemsCollaborate with product management and engineering groups to develop new products and features.What You Need to SucceedPhD or MS degree in Computer Science, Statistics, Electrical Engineering, Applied Math, Operations Research, Econometrics or equivalent experience required0-2+ years of experience in specific skill/field(s)Deep understanding of statistical modeling, machine learning, deep learning, or data mining concepts, and a track record of solving problems with these methods.Proficient in one or more programming languages such as Python, Scala, Java and CFamiliar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learnKnowledge and experience of working with relational databases and SQLStrong analytical and quantitative problem-solving ability.Outstanding communication and relationship skills, and a great teammate.Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $125,600 -- $234,150 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.\nIn Washington, the pay range for this position is $142,500 - $206,275\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans.  Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.Massachusetts:Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
-      "job_posted_at_datetime_utc": "2025-09-23T03:20:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-machine-learning-engineer_r160133",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-03T04:54:57.960Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 University Graduate - Machine Learning Engineer",
-      "employer_name": "Adobe",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The OpportunityAdobe is looking for a Machine Learning Engineer who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers. Partnering with the business units, the candidate will be building various products that address challenging business problems through our customers’ full lifecycle, from customer analytics to marketing media optimization.By using statistical and econometric methods, predictive models, experimental design methods, and optimization techniques, the candidate will be working on the research and development of exciting projects like attribution, media mix modeling, budget optimization, personalization, causal analysis, time series analysis.Ideal candidates will have a strong academic background as well as technical skills including applied statistics, machine learning, data mining, and software development. Familiarity with working with large-scale datasets and big data techniques would be a plus.What You’ll DoDevelop predictive models on large-scale datasets to address various business problems with advanced statistical modeling, machine learning, and analytics techniques.Develop and implement scalable and efficient modeling algorithms that can work with large-scale data in production systemsCollaborate with product management and engineering groups to develop new products and features.Design, build, and maintain end-to-end model training pipelines (data preprocessing, training, evaluation, and deployment).Train and fine-tune models across a variety of domains (image, video, audio, text, etc.)Optimize model architectures and hyperparameters for efficiency, accuracy, and scalability.What You Need to SucceedPhD or MS degree in Computer Science, Statistics, Electrical Engineering, Applied Math, Operations Research, Econometrics or equivalent experience required0-2+ years of experience in specific skill/field(s)Deep understanding of statistical modeling, machine learning, deep learning, or data mining concepts, and a track record of solving problems with these methods.Proficient in one or more programming languages such as Python, Scala, Java and CFamiliar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learnKnowledge and experience of working with relational databases and SQLStrong analytical and quantitative problem-solving ability.Outstanding communication, relationship skills, and a great teammate.If you’re looking to make an impact, Adobe’s the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, sexual orientation, gender identity, disability or veteran status.Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $125,600 -- $234,150 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.\nIn Washington, the pay range for this position is $142,500 - $206,275\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans.  Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.Massachusetts:Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160134",
-      "job_posted_at_datetime_utc": "2025-09-20T04:14:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160134",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-03T04:54:57.960Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
-      "job_title": "Implementation Analyst",
-      "employer_name": "Alfa Financial Software ",
-      "job_city": "Ferndale",
-      "job_state": "MI",
-      "job_description": "We are looking for new applicants to join our Graduate Program as an Implementation Analyst! This position is set to start in July of 2026.Our analysts are recruited from variety of universities and come from all major backgrounds. Following an in depth induction training program delivered by our subject matter experts, you will be assigned to a project where you can put your training into practice.You will usually start out by working on a client project or internal investment team, and your first role will involve implementing or improving our software implementation for our clients. Supervised by more experienced consultants, you will find that the open culture means you also have easy access to senior managers and directors for discussion and guidance. With this support readily available, you can help our clients change the way they work from the very start of your career.During a project we also need to modify business processes to ensure the client is working as effectively as possible, test that everything works, transfer all the data from the old system to Alfa Systems, and provide support through the go-live process and into the future. During your career, you will spend time working in a variety of roles in these areas. As you progress, you will develop particular abilities and interests and you can choose your training to support that. You might want to work towards being a Project Manager for instance, or a Technical Architect of our software; that’s up to you.Key responsibilities may include:Assist with and develop skills in one or more areas of software implementation, such as:Undertaking testing and quality assurance of Alfa SystemsIssue investigation and recreation, raising issues with the Product Engineering Team / on project with sufficient detail so they can be progressedEscalate high priority issuesInstalling and configuring Alfa SystemsEnvironment management and product releasesData migration development and executionSimple business requirements and gap analysisSharing information and documenting knowledgeLearn about Alfa Systems and how our products are used by our customersBuild relevant technical skills such as SQL/Java and processes such as debuggingUndertake requirements gathering and development of new features in Alfa SystemsContinuous development of people, teamwork and communication skills including developing relationships with the customer project teamWhat we’ll do for you: 33 days’ annual leave (incl. 9 public holidays/cultural days) and the possibility to buy up to 10 more days a year Flexible work  - hybrid or remote work with modern workspaces availableHealth, Dental and Vision insurance with reimbursement of copays/coinsurance/deductibles for in-network medical costsFully paid-for life, disability and travel insurances Gym and Wellness Scheme through Gympass with access to a range of studios, gyms and wellbeing apps401k plan - matching at 100% of the first 6% contributed (immediately vested)Employee Assistance Program (EAP) with 24/7 crisis support 3 paid volunteering days as well as 5 paid learning and development daysFun social events throughout the year and annual Company Conferences  About Alfa With over 500 employees worldwide, we’re a leading provider of software and services to the global auto and equipment finance industries. Alfa Systems, our technology platform, is at the heart of some of the world’s largest auto and equipment finance companies. Key to the business case for each implementation is Alfa Systems’ ability to consolidate multiple client systems onto a single platform. Alfa Systems supports both retail and corporate business for auto, equipment, wholesale and dealer finance on a multi-jurisdictional basis, including leases and loans, originations and servicing. Alfa Systems is an end-to-end solution with integrated workflow and automated processing using configurable business rules, with an extensive API allowing real-time integration to other systems. With over 30 current clients and 26 countries served, Alfa has been delivering successful projects for our customers since 1990, and is expanding rapidly throughout Europe, North America and beyond.Our CultureOur culture is vibrant, innovative and diverse, and we are proud of it. Ours is a close-knit community. Alfa employees are an eclectic mix and all are creative, dedicated and hardworking. We believe it is important to build close working relationships within our company, so we hold numerous team events and conferences that bring us together for socializing and team building. We all enjoy the work-life balance and the great culture, with plenty of social activities organized by the company.For more information on our graduate program, check out our graduate page.Alfa Financial Software Inc. provides equal employment opportunities to allemployees and applicants for employment and prohibits discrimination andharassment of any type without regard to race, color, religion, age, sex,national origin, disability status, genetics, protected veteran status, sexualorientation, gender identity or expression, or any other characteristic protectedby federal, state or local laws.",
-      "job_apply_link": "https://alfa.wd3.myworkdayjobs.com/alfa/job/US-MI-Royal-Oak/Implementation-Analyst---Grad-Program-2026_R170",
-      "job_posted_at_datetime_utc": "2025-08-28T23:36:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "alfa-wd3-myworkdayjobs-com-alfa-job-us-mi-royal-oak-implementation-analyst-grad-program-2026_r170",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-03T04:54:57.960Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Quality Engineer I",
-      "employer_name": "Abbott",
-      "job_city": "Sylmar",
-      "job_state": "CA",
-      "job_description": "Join Abbott in this exciting opportunity.",
-      "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31128083-1",
-      "job_posted_at_datetime_utc": "2025-08-28T07:51:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "abbott-wd5-myworkdayjobs-com-en-us-abbottcareers-job-united-states-california-sylmar-software-quality-engineer-i_31128083-1",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2026-01-03T04:54:57.960Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 University Graduate - Machine Learning Engineer",
-      "employer_name": "Adobe",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Opportunity  Adobe is looking for a Machine Learning Engineer who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers. Partnering with the business units, the candidate will be building various products that address challenging business problems through our customers’ full lifecycle, from customer analytics to marketing media optimization. By using statistical and econometric methods, predictive models, experimental design methods, and optimization techniques, the candidate will be working on the research and development of exciting projects like attribution, media mix modeling, budget optimization, personalization, causal analysis, time series analysis.  Ideal candidates will have a strong academic background as well as technical skills including applied statistics, machine learning, data mining, and software development. Familiarity with working with large-scale datasets and big data techniques would be a plus. What You’ll Do  Develop predictive models on large-scale datasets to address various business problems with advanced statistical modeling, machine learning, and analytics techniques. Develop and implement scalable and efficient modeling algorithms that can work with large-scale data in production systems Collaborate with product management and engineering groups to develop new products and features. What You Need to Succeed  PhD or MS in Computer Science, Statistics, Electrical Engineering, Applied Math, Operations Research, Econometrics or equivalent experience required  0-2+ years of experience in specific skill/field(s) Deep understanding of statistical modeling, machine learning, deep learning, or data mining concepts, and a track record of solving problems with these methods. Proficient in one or more programming languages such as Python, Scala, Java and C Familiar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learn Knowledge and experience of working with relational databases and SQL Strong analytical and quantitative problem-solving ability. Excellent communication, relationship skills and a strong team player. Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $102,400 -- $202,250 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.\n\nIn California, the pay range for this position is $139,700 - $202,250\nIn New York, the pay range for this position is $139,700 - $202,250\nIn Washington, the pay range for this position is $127,700 - $185,000\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans.  Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.Massachusetts: Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682",
-      "job_posted_at_datetime_utc": "2025-08-26T02:25:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r158682",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-03T04:54:57.960Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "2026 University Graduate - Software Engineer",
-      "employer_name": "Adobe",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Opportunity  Adobe is seeking talented and passionate Software Engineer across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products.  What You’ll Do  Develop high-performance, reliable, testable and maintainable code. Participating in all aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation. Collaborate with engineers and participate in daily or weekly stand ups and meetings. Grow with the support of your team and help others on the team grow by providing thoughtful feedback and uplifting those around you. Work both independently and collaboratively within a fast-paced development team, with clear, positive, and constructive communication. Additional responsibilities as needed based on specific role or team What You Need to Succeed Bachelor's or Master’s in Computer Science, Computer Engineering, Electrical Engineer, or equivalent experience required with an expected graduation date of December 2025 – June 2026 0-1 + years of experience in specific skill/field(s) Proficient in programming languages such as Python, Java, C++ etc. Strong technical background with analytical and problem-solving skills Strong knowledge in Java or JavaScript and at least one other language like Python, C#, Ruby, PHP. Familiarity with client-side frameworks and libraries like React, Vue, Angular, jQuery.  Excellent problem solving and debugging skills, and direct experience with DevOps in a SaaS environment is a plus.  Customer focused and have real passion for quality and engineering excellence at scale.   Excellent communication and collaboration skills. Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $76,700 -- $152,200 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.\n\nIn California, the pay range for this position is $105,100 - $152,200\nIn New York, the pay range for this position is $105,100 - $152,200\nIn Massachusetts, the pay range for this position is $93,200 - $134,900\nIn Washington, the pay range for this position is $101,300 - $146,750\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans.  Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.Massachusetts: Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684",
-      "job_posted_at_datetime_utc": "2025-08-25T23:47:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158684",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-03T04:54:57.960Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Graduate Research Scientist in Code Generation",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist in Code Generation Graduate (Seed-LLM) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7561701015045769533/detail",
-      "job_posted_at_datetime_utc": "2025-11-25T07:29:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "jobs-bytedance-com-en-position-7561701015045769533-detail",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-03T13:40:45.628Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
-      "job_title": "Master Data Coordinator",
-      "employer_name": "Mohawk",
-      "job_city": "Calhoun",
-      "job_state": "GA",
-      "job_description": "Master Data Coordinator Find your more with Mohawk! At Mohawk Industries, we’re committed to more – more customer solutions, more process improvements, more sustainable manufacturing and more opportunities for our people. As a Fortune 500, global flooring leader with some of the best-known brands in the industry, Mohawk is a great place to start or develop your career with an emphasis on more of what’s important to you. Come find your “more” with Mohawk! What we need: The Master Data Coordinator is an entry-level contributor that works to contribute to our master data maintenance and governance initiatives. This role will assist with data entry, validation, and the implementation of data governance policies and procedures. What you’ll do: Assist in master data entry, processing, validation, and maintenance activities. Ensure compliance with data governance standards and guidelines. Implement data quality assurance processes to validate the accuracy and consistency of master data. Monitor and address data quality issues to maintain data integrity and reliability. Work closely with Business Intelligence and IT to ensure accurate and timely reporting. Assist in driving initiatives to enhance data analysis capabilities specific to master data. Actively participate in group activities and collaborate with team. Participate in generating alternative solutions and evaluating their feasibility. Provide basic analysis and apply knowledge from experience or standard procedure to solve problems. Identify, define, and address problems that are standard, readily identifiable, and typically within the immediate job area. Perform other duties as needed. What you have: Bachelor’s degree in a related field preferred. 0-2 years’ relevant experience OR equivalent combination of education and experience. Proficient in Microsoft Office SAP experience preferred What you’re good at: Applies conceptual knowledge of the theories, practices, and procedures within a discipline. Excellent communication, problem solving, and organizational skills. Able to multitask, prioritize, and manage time effectively. High level of integrity and discretion in handling sensitive and confidential data. Proficient using Microsoft Office Suite products. Mohawk Industries is a leading global flooring manufacturer that creates products to enhance residential and commercial spaces around the world. Mohawk’s vertically integrated manufacturing and distribution processes provide competitive advantages in the production of carpet, rugs, ceramic tile, laminate, wood, stone and vinyl flooring. Our industry-leading innovation has yielded products and technologies that differentiate our brands in the marketplace and satisfy all remodeling and new construction requirements. Our brands are among the most recognized in the industry and include American Olean, Daltile, Durkan, IVC, Karastan, Marazzi, Mohawk, Mohawk Home, Pergo, and Quick-Step. During the past decade, Mohawk has transformed its business from an American carpet manufacturer into the world’s largest flooring company with operations in Australia, Brazil, Canada, Europe, India, Malaysia, Mexico, New Zealand, Russia and the United States. Mohawk Industries, Inc. is an Equal Opportunity Employer including disability/veteran committed to an inclusive workplace and a proud Drugs Don’t Work participant.",
-      "job_apply_link": "https://careers.mohawkind.com/job/Dalton-Master-Data-Coordinator-Geor-30721/1353042200/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2026-01-03T23:27:57.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "careers-mohawkind-com-job-dalton-master-data-coordinator-geor-30721-1353042200",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-04T00:11:05.620Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
-      "job_title": "Technical Advisor",
-      "employer_name": "WiSC Enterprises, LLC",
-      "job_city": "Dayton",
-      "job_state": "OH",
-      "job_description": "<h2>Overview</h2> <p><strong>Location:</strong> Dayton, OH or Chantilly, VA<strong>Employer:</strong> WiSC Enterprises, LLC<strong>Clearance:</strong> Active <strong>Top Secret</strong> (TS/SCI preferred)</p> <p>&nbsp;</p> <h3><strong>About the Role</strong></h3> <p>WiSC Enterprises is seeking a motivated <strong>Technical Advisor – Associate</strong> to support data analysis, research, and systems improvement for government programs. This is an entry-level to early-career position ideal for candidates who want to grow their technical and analytical expertise while supporting mission-critical operations under the guidance of senior staff.</p> <h2>Responsibilities</h2> <ul> <li><p>Contribute to <strong>research, data collection, and collation</strong> for studies and assessments.</p></li> <li><p>Compile data and prepare <strong>inputs for reports, technical documents, and operational summaries</strong>.</p></li> <li><p>Perform assessments and basic analysis to identify opportunities to improve system efficiency.</p></li> <li><p>Assist in planning studies on organizational processes, information flow, production methods, or cost analysis.</p></li> <li><p>Support the development of <strong>user requirements and system specifications</strong> under senior direction.</p></li> <li><p>Assist with the preparation of <strong>configuration management plans, life cycle documentation, and logistics support plans</strong>.</p></li> <li><p>Help draft <strong>manuals, specifications, and user documentation</strong> for clients and end-users.</p></li> <li><p>Work <strong>independently on well-defined tasks</strong> with some review and rework by senior team members as needed.</p></li> </ul> <h2>Required Qualifications</h2> <ul> <li><p><strong>Active Top Secret clearance</strong> (TS/SCI preferred).</p></li> <li><p>Education and experience meeting Associate-level requirements:</p> <ul> <li><p><strong>Bachelor’s degree</strong> in a related field with <strong>2&nbsp;years of experience</strong>, <strong>OR</strong></p></li> <li><p><strong>High School Diploma</strong> + <strong>4 years</strong> of relevant experience.</p></li> </ul></li> <li><p>Ability to contribute to technical and operational problem-solving in a structured environment.</p></li> <li><p>Basic understanding of <strong>data analysis, process evaluation, and systems improvement</strong>.</p></li> <li><p>Proficiency with Microsoft Office Suite (Word, Excel, PowerPoint).</p></li> <li><p>Strong written and verbal communication skills.</p></li> </ul> <h2>Desired Qualifications</h2> <h3><strong>Why Join WiSC Enterprises</strong></h3> <ul> <li><p>Opportunity to gain hands-on experience on <strong>mission-critical government programs</strong>.</p></li> <li><p>Clear path for professional development and advancement.</p></li> <li><p>Collaborative, supportive team environment where your work has direct impact.</p></li> </ul>",
-      "job_apply_link": "https://careers-wiscenterprises.icims.com/jobs/1607/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-09-11T17:33:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "careers-wiscenterprises-icims-com-jobs-1607-job",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-04T07:49:27.789Z",
-    "enrichedAt": "2026-01-04T17:50:42.681Z",
-    "postedAt": "2026-01-04T18:05:56.571Z"
-  },
-  {
-    "job": {
       "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
       "employer_name": "Amazon",
       "job_city": "Boston",
       "job_state": "MA",
       "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150951/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:09:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150951-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:04:55.767Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150956/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:09:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150956-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:04:55.767Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150957/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:09:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150957-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:04:55.767Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150950/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:08:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150950-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:04:55.767Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150946/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:08:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150946-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150966/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:08:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150966-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150954/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:08:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150954-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150952/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:08:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150952-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150953/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:08:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150953-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3150948/agentic-ai-teacher-agi-ds-agi-ds",
-      "job_posted_at_datetime_utc": "2026-01-02T07:08:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150948-agentic-ai-teacher-agi-ds-agi-ds",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": "2026-01-04T18:05:07.320Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Join Amazon in this exciting opportunity.",
       "job_apply_link": "https://amazon.jobs/en/jobs/3150955/agentic-ai-teacher-agi-ds-agi-ds",
       "job_posted_at_datetime_utc": "2026-01-02T07:08:45.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150955-agentic-ai-teacher-agi-ds-agi-ds"
+      "id": "amazon-jobs-en-jobs-3150955-agentic-ai-teacher-agi-ds-agi-ds",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -465,18 +27,20 @@
       "employer_name": "Amazon",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Amazon in this exciting opportunity.",
+      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
       "job_apply_link": "https://amazon.jobs/en/jobs/3150963/agentic-ai-teacher-agi-ds-agi-ds",
       "job_posted_at_datetime_utc": "2026-01-02T07:08:43.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3150963-agentic-ai-teacher-agi-ds-agi-ds"
+      "id": "amazon-jobs-en-jobs-3150963-agentic-ai-teacher-agi-ds-agi-ds",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-04T17:23:31.715Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -485,18 +49,20 @@
       "employer_name": "Amazon",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Amazon in this exciting opportunity.",
+      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
       "job_apply_link": "https://amazon.jobs/en/jobs/3110653/agentic-ai-teacher-agi-data-services",
       "job_posted_at_datetime_utc": "2025-12-17T02:14:14.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3110653-agentic-ai-teacher-agi-data-services"
+      "id": "amazon-jobs-en-jobs-3110653-agentic-ai-teacher-agi-data-services",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-04T17:36:43.734Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -505,18 +71,20 @@
       "employer_name": "Amazon",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Amazon in this exciting opportunity.",
+      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
       "job_apply_link": "https://amazon.jobs/en/jobs/3132823/agentic-ai-teacher-agi-ds",
       "job_posted_at_datetime_utc": "2025-11-26T10:30:22.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3132823-agentic-ai-teacher-agi-ds"
+      "id": "amazon-jobs-en-jobs-3132823-agentic-ai-teacher-agi-ds",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-04T17:49:20.243Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -525,18 +93,20 @@
       "employer_name": "Accenture",
       "job_city": "Tampa",
       "job_state": "FL",
-      "job_description": "Join Accenture in this exciting opportunity.",
+      "job_description": "Kickstart your consulting career by joining Accenture! Leverage your skills and strengths to help our clients solve their most pressing business challenges, embracing the latest technology to become the next best version of themselves.Not only will you have amazing opportunities to learn, develop and grow your skills, you will join a collaborative environment that unleashes innovation, allows our people to perform at their very best and supports a culture in which everyone feels they have an equal opportunity to belong and build a career.If you have not previously considered Accenture; now is the time. Wherever your professional passions lie, there’s a home for you within one of Accenture’s Programs.Looking to expand your technical skills and work with emerging technologies? Check out our Advanced Technology Centers (ATCs).The Advanced Technology Centers (ATCs) are the engine for reinvention in our clients’ transformation journey. Powered by more than 255,000 people across 24 countries, ATC’s provide our clients with seamless access to industry insights and innovative technology solutions.Stronger together!The Advanced Technology Centers (ATCs) make tremendous impact in solving our clients’ business problems leveraging Innovation, Intelligence, Industry insights, new IT and new technology skills. Now, with the global environment changing at a faster pace, our clients are facing unprecedented challenges, and they need us more than ever before. As a Network, ATCs are positioned to unlock greater opportunities and exponential value for our clients.The role is required to work onsite 3 days a week with our clients and partners or in our offices and delivery centers to enable collaboration and cultivate our client relationships.Please note that with all our roles, you should expect some in-person time for collaboration, learning and building relationships with clients, peers, leaders and communities. As an employer, we will be as flexible as possible to support your specific work/life needs.The work:The work in Accenture ATC is highly dynamic. Starting with our Lean XP (eXtreme Programming) delivery methodologies, you will be working in a team to deliver value to our customers.Collaborate with the Cloud Native Architecture Team to deliver client solutions beyond 12-factor applications born for the cloudAssist in designing and delivering custom applications that enable change for our clients’ businessesWork on various phases of creating Cloud Native applications across cloud providers like AWS, Azure, GCP, and othersParticipate in building proofs of concept, writing technical documentation, and supporting solution developmentCompensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.We accept applications on an on-going basis and there is no fixed deadline to apply.Information on benefits is here.Role Location                                Hourly Salary RangeCalifornia                                           $23.13 to $49.57Cleveland                                            $21.39 to $39.66Colorado                                            $23.13 to $42.84District of Columbia                         $24.62 to $45.63Illinois                                                 $21.39 to $42.84Maryland                                           $23.13 to $42.84Massachusetts                                  $23.13 to $45.63Minnesota                                         $23.13 to $42.84New York/New Jersey                    $21.39 to $49.57Washington                                      $24.62 to $45.63Accenture offers competitive pay to ensure that our people are compensated fairly and equitably. Compensation varies depending on a wide array of factors, which may include office location, role, skill set, level and experience. Generally, Accenture does not disclose base pay range information to our people unless required by law. Based on where you are located, you are not entitled to such information at this time.Basic Qualifications:Bachelor’s degree in Computer Science, Information Technology, or related field0–1 years of experience in software development (academic projects or internships count!)Familiarity with Programming languages (Java/JVM, .NET, Node.js, or Python)Basic understanding of web technologies (JavaScript, HTML, CSS)Preferred Qualifications:Exposure to frameworks like Spring or similarKnowledge of databases (SQL or NoSQL)Familiarity with cloud platforms (AWS, Azure, GCP)Understanding of DevOps concepts and toolsExperience with scripting languages (Python, Shell) through coursework or projectsExposure to Frontend Application Development using frameworks like React, Angular, or similarAbout AccentureAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.Visit us at www.accenture.com What We Believe We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment. Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here Requesting An Accommodation Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.If you would like to be considered for employment opportunities with Accenture and have accommodation needs such as for a disability or religious observance, please call us toll free at 1 (877) 889-9009 or send us an email or speak with your recruiter.Equal Employment Opportunity Statement We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.For details, view a copy of the  Accenture Equal Opportunity StatementAccenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.Accenture is committed to providing veteran employment opportunities to our service men and women.Other Employment Statements Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment. The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please click here for additional important information.Please read Accenture’s Recruiting and Hiring Statement for more information on how we process your data during the Recruiting and Hiring process.",
       "job_apply_link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885",
       "job_posted_at_datetime_utc": "2025-12-24T03:01:54.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-atlanta-75-fifth-corp-atc-software-and-platform-analyst-naelfy26_r00304885"
+      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-atlanta-75-fifth-corp-atc-software-and-platform-analyst-naelfy26_r00304885",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
-    "enrichedAt": null,
+    "status": "enriched",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -545,18 +115,20 @@
       "employer_name": "2020 Companies",
       "job_city": "SF",
       "job_state": "Locations",
-      "job_description": "Join 2020 Companies in this exciting opportunity.",
+      "job_description": "Job Type:RegularWork Location:Market - INTEL - CA - OaklandOverview:Do you excel at exceeding sales targets and helping customers find the perfect Android OS products and accessories?We are seeking driven individuals who excel at taking initiative and closing sales. This is an opportunity to build your career path by fostering strong relationships with retail partners and exceeding customer expectations. As the driver of your success, you will leverage product knowledge to increase sales and strategically manage your market, making a significant impact.Achieve and surpass sales goals while guiding customers to their ideal Android OS products, and accessories. We seek a highly motivated individual eager to exceed expectations. If you are driven to excel and desire a role that values your ambition and fosters growth, we invite you to join our team and contribute to something exceptional.Pay: $25 Hourly; Pay based on experience (Location Specific Hourly) + weekly, monthly contests and incentivesSchedule: Thursday - Sunday (8-hour shifts, 32 hours)Work Location: San FranciscoThis position requires a personal vehicle, insurance, and submission to a Motor Vehicle Record (MVR) check.  Daily travel to multiple stores and the ability to accommodate occasional overnight assignments are necessary. What's in it for you?Competitive, weekly pay + weekly, monthly, quarterly contests and spiffsNext-day pay on demand, with DailyPayPaid training is completed online or at home via a computer or mobile deviceOpportunities for continued program work and advancementExciting work environment to showcase your customer service skillsShare and learn with ongoing training and developmentA consistent schedule to enable a work/life balance or careerAbout 2020 Companies  At 2020 Companies, we work for you. As a long-standing partner with clients in the consumer electronics sector, we provide talent who personally connect with our consumers by inspiring participation, creating a memorable brand experience, and influencing future purchasing decisions to form lasting customers.Job Description:Drive Sales Growth: Effectively promote the Android OS devices and related products within assigned retail locations to achieve and exceed sales targets. Cultivate Retailer Relationships: Build and maintain strong relationships with key decision-makers at Best Buy locations. Deliver Exceptional Customer Experiences: Ensure an excellent experience for end-consumers through retail partners by leveraging expert Android OS product knowledge and outstanding service. Maximize Product Placement: Optimize product displays and in-store presence to enhance brand visibility and drive customer engagement. Provide Product Expertise: Serve as a trusted advisor, educating Best Buy associates and customers on the features and benefits of Android OS devices and the broader Android ecosystem. Execute Sales Strategies: Implement and adapt sales strategies to capitalize on market opportunities and achieve sales objectives. Report and Analyze Sales Data: Track sales performance, analyze trends, and provide regular reports to management, identifying areas for improvement.Qualifications:Drives Results: Proven ability to consistently drive results and exceed sales targets in a fast-paced retail environment. This includes a track record of meeting or surpassing sales quotas, demonstrating a strong sense of urgency, and a commitment to achieving measurable outcomes. Influences Retail Leadership: Demonstrated ability to influence retail partners and build strong, lasting relationships with key decision-makers, specifically within Best Buy retail store leadership. This involves effective communication and the ability to present compelling arguments that resonate with retailer needs and priorities. Customer Focus: Strong customer focus with a passion for delivering exceptional customer experiences and ensuring high satisfaction levels. This includes actively listening to customer needs, providing knowledgeable and helpful assistance, and resolving issues promptly and professionally. Situational Adaptability: Highly adaptable with the ability to demonstrate situational adaptability and adjust sales strategies to meet evolving market conditions and retailer needs. This involves being flexible and responsive to change, as well as having the ability to quickly learn and adapt to new products, processes, and technologies. Self-Starter: A proactive and driven self-starter who can work independently and manage time effectively. This includes taking initiative, setting priorities, and demonstrating a strong work ethic with minimal supervision. Product Knowledge: The ability to acquire and sustain a high level of product knowledge regarding Android devices and the broader ecosystem, and effectively communicate it to retailers and customers. This includes the ability to grasp technical information quickly, comprehend product features and benefits, and express them clearly and concisely. Must possess reliable transportation for daily travel to multiple stores and be available for occasional overnight assignments – a valid Driver's License is required.Physical Requirements: Lift and move displays weighing 25 lbs. or moreWhat You Can Expect From 2020 CompaniesWe welcome every voice, and we are committed to building a truly inclusive environment where your differences are not just welcomed, they are celebrated. We are always identifying opportunities to encourage our team to be their authentic selves, while working to provide a best-in-class experience for our employees. Whether that’s paid holidays, long-term career pathing options, personal development opportunities or professional stretch assignments, you can expect 2020 Companies to support you.2020’s CommitmentWe are committed to creating a diverse and inclusive organization and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other dimensions of identity.",
       "job_apply_link": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760",
       "job_posted_at_datetime_utc": "2025-12-22T23:37:07.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760"
+      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-oakland-ca-android-sales-expert_req_096760",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
-    "enrichedAt": null,
+    "status": "enriched",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -565,18 +137,20 @@
       "employer_name": "2020 Companies",
       "job_city": "Alameda",
       "job_state": "CA",
-      "job_description": "Join 2020 Companies in this exciting opportunity.",
+      "job_description": "Job Type:RegularWork Location:Target 2829 - Alameda, CA 94501Overview:Do you excel at exceeding sales targets and helping customers find the perfect Android OS products and accessories?We are seeking driven individuals who excel at taking initiative and closing sales. This is an opportunity to build your career path by fostering strong relationships with retail partners and exceeding customer expectations. As the driver of your success, you will leverage product knowledge to increase sales and strategically manage your market, making a significant impact.Achieve and surpass sales goals while guiding customers to their ideal Android OS products, and accessories. We seek a highly motivated individual eager to exceed expectations. If you are driven to excel and desire a role that values your ambition and fosters growth, we invite you to join our team and contribute to something exceptional.Pay: $25 Hourly; Pay based on experience (Location Specific Hourly) + weekly, monthly contests and incentivesSchedule: Thursday - Sunday (8-hour shifts, 32 hours)Work Location: San FranciscoThis position requires a personal vehicle, insurance, and submission to a Motor Vehicle Record (MVR) check.  Daily travel to multiple stores and the ability to accommodate occasional overnight assignments are necessary. What's in it for you?Competitive, weekly pay + weekly, monthly, quarterly contests and spiffsNext-day pay on demand, with DailyPayPaid training is completed online or at home via a computer or mobile deviceOpportunities for continued program work and advancementExciting work environment to showcase your customer service skillsShare and learn with ongoing training and developmentA consistent schedule to enable a work/life balance or careerAbout 2020 Companies  At 2020 Companies, we work for you. As a long-standing partner with clients in the consumer electronics sector, we provide talent who personally connect with our consumers by inspiring participation, creating a memorable brand experience, and influencing future purchasing decisions to form lasting customers.Job Description:Drive Sales Growth: Effectively promote the Android OS devices and related products within assigned retail locations to achieve and exceed sales targets. Cultivate Retailer Relationships: Build and maintain strong relationships with key decision-makers at Best Buy locations. Deliver Exceptional Customer Experiences: Ensure an excellent experience for end-consumers through retail partners by leveraging expert Android OS product knowledge and outstanding service. Maximize Product Placement: Optimize product displays and in-store presence to enhance brand visibility and drive customer engagement. Provide Product Expertise: Serve as a trusted advisor, educating Best Buy associates and customers on the features and benefits of Android OS devices and the broader Android ecosystem. Execute Sales Strategies: Implement and adapt sales strategies to capitalize on market opportunities and achieve sales objectives. Report and Analyze Sales Data: Track sales performance, analyze trends, and provide regular reports to management, identifying areas for improvement.Qualifications:Drives Results: Proven ability to consistently drive results and exceed sales targets in a fast-paced retail environment. This includes a track record of meeting or surpassing sales quotas, demonstrating a strong sense of urgency, and a commitment to achieving measurable outcomes. Influences Retail Leadership: Demonstrated ability to influence retail partners and build strong, lasting relationships with key decision-makers, specifically within Best Buy retail store leadership. This involves effective communication and the ability to present compelling arguments that resonate with retailer needs and priorities. Customer Focus: Strong customer focus with a passion for delivering exceptional customer experiences and ensuring high satisfaction levels. This includes actively listening to customer needs, providing knowledgeable and helpful assistance, and resolving issues promptly and professionally. Situational Adaptability: Highly adaptable with the ability to demonstrate situational adaptability and adjust sales strategies to meet evolving market conditions and retailer needs. This involves being flexible and responsive to change, as well as having the ability to quickly learn and adapt to new products, processes, and technologies. Self-Starter: A proactive and driven self-starter who can work independently and manage time effectively. This includes taking initiative, setting priorities, and demonstrating a strong work ethic with minimal supervision. Product Knowledge: The ability to acquire and sustain a high level of product knowledge regarding Android devices and the broader ecosystem, and effectively communicate it to retailers and customers. This includes the ability to grasp technical information quickly, comprehend product features and benefits, and express them clearly and concisely. Must possess reliable transportation for daily travel to multiple stores and be available for occasional overnight assignments – a valid Driver's License is required.Physical Requirements: Lift and move displays weighing 25 lbs. or moreWhat You Can Expect From 2020 CompaniesWe welcome every voice, and we are committed to building a truly inclusive environment where your differences are not just welcomed, they are celebrated. We are always identifying opportunities to encourage our team to be their authentic selves, while working to provide a best-in-class experience for our employees. Whether that’s paid holidays, long-term career pathing options, personal development opportunities or professional stretch assignments, you can expect 2020 Companies to support you.2020’s CommitmentWe are committed to creating a diverse and inclusive organization and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other dimensions of identity.",
       "job_apply_link": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Alameda-CA/Android-Sales-Expert_REQ_096762-1",
       "job_posted_at_datetime_utc": "2025-12-22T23:37:03.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1"
+      "id": "2020companies-wd1-myworkdayjobs-com-external_careers-job-alameda-ca-android-sales-expert_req_096762-1",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
-    "enrichedAt": null,
+    "status": "enriched",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -585,18 +159,20 @@
       "employer_name": "Amazon",
       "job_city": "Palo Alto",
       "job_state": "CA",
-      "job_description": "Join Amazon in this exciting opportunity.",
+      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
       "job_apply_link": "https://amazon.jobs/en/jobs/3130180/applied-scientist-i-amazon",
       "job_posted_at_datetime_utc": "2025-12-19T23:22:04.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon"
+      "id": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
-    "enrichedAt": null,
+    "status": "enriched",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -605,18 +181,20 @@
       "employer_name": "Adobe",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! Our Company Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands— everything they need to design and deliver exceptional digital experiences. We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours. The Opportunity  Initiates the design, development, execution and implementation of technology research projects. Investigates the feasibility of applying scientific principles and concepts to potential inventions and products. Plans and executes applied research. Maintains substantial knowledge of state-of-the-art principles and theories and may contribute to scientific literature and conferences. May participate in development of patent applications. May coordinate interdepartmental activities and research efforts.  What You’ll Do  Work towards long-term results-oriented research goals, while identifying intermediate achievements. Contribute to research that can be applied to Adobe product development. Help integrating novel research work into Adobe’s product. Lead and collaborate on research projects across different Adobe divisions What You Need to Succeed  PhD degree in machine learning, AI, computer science, statistics, or scene semantic understanding; or equivalent experience required with an expected graduation date of December 2026 – June 2027 0-1 + years of experience in specific skill/field(s) Experience communicating research for public audiences of peers. Experience working in teams. Knowledge in a programming language.    Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.  Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.  Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.   Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $120,700 -- $238,600 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.\n\nIn California, the pay range for this position is $164,800 - $238,600\nIn Washington, the pay range for this position is $146,300 - $211,850\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans.  Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.Massachusetts:Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
       "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R158869",
       "job_posted_at_datetime_utc": "2025-12-19T23:14:30.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r158869"
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r158869",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
-    "enrichedAt": null,
+    "status": "enriched",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -625,18 +203,20 @@
       "employer_name": "Activision-Blizzard",
       "job_city": "Sherman Oaks",
       "job_state": "LA",
-      "job_description": "Join Activision-Blizzard in this exciting opportunity.",
+      "job_description": "Job Title:Rotational Engineer, Central TechnologyRequisition ID:R026155Job Description: Your PlatformActivision Central Tech works to support our development studios and their titles. Comprised of seven main teams, we have many specialties including data, privacy and security, motion capture and animation pipeline technologies, graphics, build and infrastructure for studio development and data centers, optimization, systems programming, and online services including matchmaking and networking. Central Tech is distributed globally with offices across the U.S., and in Canada, England, Ireland and Japan. Most of our teams are comprised of both engineering and research talent, allowing us to always have an eye on the future. Our dedicated engineers help with title development and provide valuable collaboration between studios while our researchers make things happen and keep a strong connection with the needs of the game studios. Central Tech is part of Activision. To learn more about us and our research, please visit us at https://research.activision.com/. Your MissionActivision Central Tech is seeking hardworking programmers starting their careers to join the Central Tech Rotational Program (CTRP), an 18-month rotational engineering program that provides a breadth of skills while participants rotate across various Activision game studios and teams. This is a rare West Coast opportunity to accelerate your career by developing groundbreaking games technology, learning the next-gen consoles inside and out, and working on leading AAA game titles with top developers like Beenox, Demonware, Elsewhere Entertainment, High Moon Studios, Infinity Ward, Raven Software, Sledgehammer Games and Treyarch. Please note, the start date for this program will be in March 2026. Mission Report Three 6-month rotationsRotations mapped to product launches/updates, business needs, and employee interestTraining and development opportunities, including mentorshipOpportunity to find your fit and gain exposure to multiple Activision teams.Rotations can include, but are not limited to, the following engineering functions:Game SecurityGraphicsOnline ServicesToolsCall of Duty Mobile Mission Accomplished Upon completion of the program, successful participants will be invited to apply for a full-time position at the company.Player Profile At minimum, you should have completed basic training in C++ (there will be a test)Experience with network programming (TCP, UDP, security, NAT, etc.), client/server architecture, database development experienceUnderstanding of 3D math, vectors, matrices, quaternions and general linear algebraSometimes you have to decode to get through some comms. If you know LUA, Python or Java you can level the game The Assignment Own, operate and support the services and features you developImplementing features deep within game-specific enginesSolve and fix online and multiplayer features Excited and motivated to learn new areas of developmentHave a code sample? Share your portfolio link or Github Our World At Activision, we strive to build the most iconic brands in gaming and entertainment. We’re driven by our mission to deliver unrivaled gaming experiences for the world to enjoy, together. We are home to some of the most beloved entertainment franchises including Call of Duty®, Crash Bandicoot™, Tony Hawk’s™ Pro Skater™, and Guitar Hero®. As a leading worldwide developer, publisher and distributor of interactive entertainment and products, our “press start” is simple: delight hundreds of millions of players around the world with innovative, fun, exciting, and engaging entertainment experiences.We’re not just looking back at our decades-long legacy; we’re forging ahead to keep advancing gameplay with some of the most popular titles and sophisticated technology in the world. We have bold ambitions to create the most inclusive company as we know our success comes from the passionate, creative, and diverse teams within our organization. We’re in the business of delivering fun and unforgettable entertainment for our player community to enjoy. And our future opportunities have never been greater — this could be your opportunity to level up. Ready to Activate Your Future? We love hearing from anyone who is enthusiastic about changing the games industry. Not sure you meet all qualifications? Let us decide! Research shows that women and members of other under-represented groups tend to not apply to jobs when they think they may not meet every qualification, when, in fact, they often do! We are committed to creating a diverse and inclusive environment and strongly encourage you to apply.      We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status, among other characteristics.    We are committed to working with and providing reasonable assistance to individuals with physical and mental disabilities. If you are a disabled individual requiring an accommodation to apply for an open position, please email your request to accommodationrequests@activisionblizzard.com. General employment questions cannot be accepted or processed here. Thank you for your interest.   RewardsWe provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered!  Subject to eligibility requirements, the Company offers comprehensive benefits including:Medical, dental, vision, health savings account or health reimbursement account, healthcare spending accounts, dependent care spending accounts, life and AD&D insurance, disability insurance;401(k) with Company match, tuition reimbursement, charitable donation matching;Paid holidays and vacation, paid sick time, floating holidays, compassion and bereavement leaves, parental leave;Mental health & wellbeing programs, fitness programs, free and discounted games, and a variety of other voluntary benefit programs like supplemental life & disability, legal service, ID protection, rental insurance, and others;If the Company requires that you move geographic locations for the job, then you may also be eligible for relocation assistance.Eligibility to participate in these benefits may vary for part time and temporary full-time employees and interns with the Company.  You can learn more by visiting https://www.benefitsforeveryworld.com/.In the U.S., the standard base pay range for this role is $30.05 - $55.59 Hourly. These values reflect the expected base pay range of new hires across all U.S. locations. Ultimately, your specific range and offer will be based on several factors, including relevant experience, performance, and work location. Your Talent Professional can share this role’s range details for your local geography during the hiring process. In addition to a competitive base pay, employees in this role may be eligible for incentive compensation. Incentive compensation is not guaranteed. While we strive to provide competitive offers to successful candidates, new hire compensation is negotiable.",
       "job_apply_link": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Rotational-Engineer--Central-Technology_R026155",
       "job_posted_at_datetime_utc": "2025-12-18T23:40:20.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "activision-wd1-myworkdayjobs-com-external-job-sherman-oaks-rotational-engineer-central-technology_r026155"
+      "id": "activision-wd1-myworkdayjobs-com-external-job-sherman-oaks-rotational-engineer-central-technology_r026155",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
-    "enrichedAt": null,
+    "status": "enriched",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": "2026-01-04T18:25:38.825Z",
     "postedAt": null
   },
   {
@@ -655,7 +235,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -675,7 +255,7 @@
       "id": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-uk-harwell-r-d-graduate-software-developer-harwell-science-campus_4034599"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -695,7 +275,7 @@
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-science-engineer-new-college-grad-master-s-phd-santa-clara-ca-_r2519402"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -715,7 +295,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-lehi-software-development-engineer_r160351-1"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -735,7 +315,7 @@
       "id": "acelero-wd1-myworkdayjobs-com-acelerolearningcareers-job-de-milton-prime-hook-road-data-services-coordinator_jr7544"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -755,7 +335,7 @@
       "id": "alliantenergy-wd1-myworkdayjobs-com-alliant-job-madison-wi-meter-data-analyst-i_jr-9238"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -775,7 +355,7 @@
       "id": "amat-wd1-myworkdayjobs-com-external-job-austintx-automation-software-engineer-new-college-grad-bachelor-s-austin-tx-_r2519059"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -795,7 +375,7 @@
       "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-product-line-management-data-science-new-college-grad-bachelor-s-master-s-santa-clara-ca-_r2519079-1"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -815,7 +395,7 @@
       "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -835,7 +415,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -855,7 +435,7 @@
       "id": "aegistherapies-wd1-myworkdayjobs-com-aegiscareers-job-fort-smith-ar-it-data-warehouse-specialist_r0043523"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -875,7 +455,7 @@
       "id": "amarillo-wd5-myworkdayjobs-com-amarillo_external_career_site-job-simms-municipal-building-gis-analyst-i_jr2267"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -895,7 +475,7 @@
       "id": "aexp-eightfold-ai-careers-job-38902972"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -915,7 +495,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160652"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -935,7 +515,7 @@
       "id": "aexp-eightfold-ai-careers-job-38763370"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -955,7 +535,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r161169"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -975,7 +555,7 @@
       "id": "agilent-wd5-myworkdayjobs-com-agilent_student_careers-job-us-ca-santa-clara-post-doc-gc-ms-application-scientist_4028181"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -995,7 +575,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-science_r160136"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -1015,7 +595,7 @@
       "id": "3m-wd1-myworkdayjobs-com-en-us-search-job-us-minnesota-maplewood-product-engineer_r01158471"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -1035,7 +615,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160690"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -1055,7 +635,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160689"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -1075,7 +655,7 @@
       "id": "aexp-eightfold-ai-careers-job-38270703"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -1095,7 +675,147 @@
       "id": "aexp-eightfold-ai-careers-job-38270711"
     },
     "status": "pending",
-    "addedAt": "2026-01-04T18:04:53.601Z",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "University Graduate Software Engineer - Software Engineering",
+      "employer_name": "Adobe",
+      "job_city": "SF",
+      "job_state": "Locations",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
+      "job_posted_at_datetime_utc": "2025-09-25T20:23:10.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158638"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "University Graduate - Machine Learning Engineer",
+      "employer_name": "Adobe",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
+      "job_posted_at_datetime_utc": "2025-09-23T03:20:05.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-machine-learning-engineer_r160133"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 University Graduate - Machine Learning Engineer",
+      "employer_name": "Adobe",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160134",
+      "job_posted_at_datetime_utc": "2025-09-20T04:14:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160134"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Implementation Analyst",
+      "employer_name": "Alfa Financial Software ",
+      "job_city": "Ferndale",
+      "job_state": "MI",
+      "job_description": "Join Alfa Financial Software  in this exciting opportunity.",
+      "job_apply_link": "https://alfa.wd3.myworkdayjobs.com/alfa/job/US-MI-Royal-Oak/Implementation-Analyst---Grad-Program-2026_R170",
+      "job_posted_at_datetime_utc": "2025-08-28T23:36:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "alfa-wd3-myworkdayjobs-com-alfa-job-us-mi-royal-oak-implementation-analyst-grad-program-2026_r170"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Quality Engineer I",
+      "employer_name": "Abbott",
+      "job_city": "Sylmar",
+      "job_state": "CA",
+      "job_description": "Join Abbott in this exciting opportunity.",
+      "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31128083-1",
+      "job_posted_at_datetime_utc": "2025-08-28T07:51:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "abbott-wd5-myworkdayjobs-com-en-us-abbottcareers-job-united-states-california-sylmar-software-quality-engineer-i_31128083-1"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 University Graduate - Machine Learning Engineer",
+      "employer_name": "Adobe",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682",
+      "job_posted_at_datetime_utc": "2025-08-26T02:25:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r158682"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-04T18:25:06.458Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 University Graduate - Software Engineer",
+      "employer_name": "Adobe",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684",
+      "job_posted_at_datetime_utc": "2025-08-25T23:47:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158684"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-04T18:25:06.458Z",
     "enrichedAt": null,
     "postedAt": null
   }
