@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T12:06:06.378Z",
+  "lastUpdated": "2026-01-04T12:27:05.469Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11870,14 +11870,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5687519004?gh_jid=5687519004",
       "discordThreadId": "1457344323963326484",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5633324004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5633324004",
+      "company": "figma",
+      "title": "Associate Solutions Consultant",
+      "postedToDiscord": "2026-01-04T12:26:16.965Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5633324004?gh_jid=5633324004",
+      "discordThreadId": "1457349401470308426",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5628218004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5628218004",
+      "company": "figma",
+      "title": "Demo Strategy & Effectiveness Manager ",
+      "postedToDiscord": "2026-01-04T12:26:20.583Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5628218004?gh_jid=5628218004",
+      "discordThreadId": "1457349416401764372",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5662715004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5662715004",
+      "company": "figma",
+      "title": "Internal Product Manager, AI Tooling",
+      "postedToDiscord": "2026-01-04T12:26:27.922Z",
+      "sourceDate": "2025-11-19T09:05:53-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5662715004?gh_jid=5662715004",
+      "discordThreadId": "1457349444683956381",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5661402004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5661402004",
+      "company": "figma",
+      "title": "Manager, Product Design - Expressive Design",
+      "postedToDiscord": "2026-01-04T12:26:34.850Z",
+      "sourceDate": "2025-11-19T09:05:53-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5661402004?gh_jid=5661402004",
+      "discordThreadId": "1457349475201716316",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5659927004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5659927004",
+      "company": "figma",
+      "title": "Sales Onboarding Program Manager",
+      "postedToDiscord": "2026-01-04T12:26:41.276Z",
+      "sourceDate": "2025-11-19T09:05:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5659927004?gh_jid=5659927004",
+      "discordThreadId": "1457349504008454245",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5632187004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5632187004",
+      "company": "figma",
+      "title": "Product Manager, Creation Engine",
+      "postedToDiscord": "2026-01-04T12:26:47.765Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5632187004?gh_jid=5632187004",
+      "discordThreadId": "1457349530793279564",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5641078004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5641078004",
+      "company": "figma",
+      "title": "Product Manager, Scale",
+      "postedToDiscord": "2026-01-04T12:26:51.943Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5641078004?gh_jid=5641078004",
+      "discordThreadId": "1457349545913614366",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5644790004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5644790004",
+      "company": "figma",
+      "title": "Product Marketing Manager, Emerging Products",
+      "postedToDiscord": "2026-01-04T12:26:58.643Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5644790004?gh_jid=5644790004",
+      "discordThreadId": "1457349575848493180",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5614980004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5614980004",
+      "company": "figma",
+      "title": "Data Science Intern (2026)",
+      "postedToDiscord": "2026-01-04T12:27:05.469Z",
+      "sourceDate": "2025-11-19T09:05:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5614980004?gh_jid=5614980004",
+      "discordThreadId": "1457349603992010934",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1079,
+    "totalJobs": 1088,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T12:06:06.378Z",
+      "date": "2026-01-04T12:27:05.469Z",
       "archived": 0
     }
   }
