@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T16:41:26.172Z",
+  "lastUpdated": "2026-01-04T16:52:43.401Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -13531,14 +13531,80 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/d5573afa-636c-4219-832f-386f498243bf",
       "discordThreadId": "1457413620638945390",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-6a0775aa-631f-4914-b359-dc695768296b-2026-01-04-1",
+      "jobId": "jobs-lever-co-gohighlevel-6a0775aa-631f-4914-b359-dc695768296b",
+      "company": "gohighlevel",
+      "title": "Trial Experience Specialist - Sales",
+      "postedToDiscord": "2026-01-04T16:52:22.413Z",
+      "sourceDate": "2024-09-10T21:18:07.781Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/6a0775aa-631f-4914-b359-dc695768296b",
+      "discordThreadId": "1457416373083832442",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-86422272-b1cc-4e82-977a-dd371c73d4fe-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-86422272-b1cc-4e82-977a-dd371c73d4fe",
+      "company": "nominal",
+      "title": "Deployment Systems Engineer",
+      "postedToDiscord": "2026-01-04T16:52:25.945Z",
+      "sourceDate": "2024-07-29T17:28:58.936Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/86422272-b1cc-4e82-977a-dd371c73d4fe",
+      "discordThreadId": "1457416380360949851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-39371884-5911-4c38-9c93-c7d2bece220a-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-39371884-5911-4c38-9c93-c7d2bece220a",
+      "company": "nominal",
+      "title": "Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-04T16:52:29.722Z",
+      "sourceDate": "2024-04-11T22:41:47.943Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/39371884-5911-4c38-9c93-c7d2bece220a",
+      "discordThreadId": "1457416394865119498",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-37c9854b-f1ea-4da6-a3f5-51e64923ae08-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-37c9854b-f1ea-4da6-a3f5-51e64923ae08",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-04T16:52:33.068Z",
+      "sourceDate": "2024-03-06T17:24:22.039Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/37c9854b-f1ea-4da6-a3f5-51e64923ae08",
+      "discordThreadId": "1457416410740293662",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-b8072f95-043f-404d-a313-f0bdf8dd3c81-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-railway-b8072f95-043f-404d-a313-f0bdf8dd3c81",
+      "company": "railway",
+      "title": "Infrastructure Engineer",
+      "postedToDiscord": "2026-01-04T16:52:39.792Z",
+      "sourceDate": "2024-06-03T19:11:47.266+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/b8072f95-043f-404d-a313-f0bdf8dd3c81",
+      "discordThreadId": "1457416437663797299",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-6ddcfe47-6cce-469b-ba6d-4f0e83440c9d-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-railway-6ddcfe47-6cce-469b-ba6d-4f0e83440c9d",
+      "company": "railway",
+      "title": "Senior Full-Stack Engineer - Product",
+      "postedToDiscord": "2026-01-04T16:52:43.401Z",
+      "sourceDate": "2024-02-07T20:30:20.299+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d",
+      "discordThreadId": "1457416453044306175",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1230,
+    "totalJobs": 1236,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T16:41:26.172Z",
+      "date": "2026-01-04T16:52:43.401Z",
       "archived": 0
     }
   }
