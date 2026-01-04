@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T16:25:51.870Z",
+  "lastUpdated": "2026-01-04T16:41:26.172Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -13421,14 +13421,124 @@
       "sourceUrl": "https://jobs.lever.co/nominal/825c72ae-9ba9-4f08-8c18-94eb38da1ea2",
       "discordThreadId": "1457409694141517951",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-9f3ce3cf-24ac-4aa2-801e-a53768d44def-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-9f3ce3cf-24ac-4aa2-801e-a53768d44def",
+      "company": "nominal",
+      "title": "Instrumentation Engineer",
+      "postedToDiscord": "2026-01-04T16:40:53.596Z",
+      "sourceDate": "2025-04-24T00:26:51.038Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/9f3ce3cf-24ac-4aa2-801e-a53768d44def",
+      "discordThreadId": "1457413475453370409",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-cba503aa-f40f-4608-b647-3f4eeb1e5db9-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-cba503aa-f40f-4608-b647-3f4eeb1e5db9",
+      "company": "nominal",
+      "title": "Cloud Infrastructure Engineer",
+      "postedToDiscord": "2026-01-04T16:40:57.233Z",
+      "sourceDate": "2025-02-14T18:39:02.262Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/cba503aa-f40f-4608-b647-3f4eeb1e5db9",
+      "discordThreadId": "1457413491567890434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-35de0846-f4bb-4975-8f21-382b44aa0e40-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-35de0846-f4bb-4975-8f21-382b44aa0e40",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, Personalization",
+      "postedToDiscord": "2026-01-04T16:41:00.662Z",
+      "sourceDate": "2024-12-13T17:28:03.259Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/35de0846-f4bb-4975-8f21-382b44aa0e40",
+      "discordThreadId": "1457413505991966926",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-0a938c16-c497-4104-8196-137c38306d81-2026-01-04-1",
+      "jobId": "jobs-lever-co-nominal-0a938c16-c497-4104-8196-137c38306d81",
+      "company": "nominal",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-04T16:41:04.320Z",
+      "sourceDate": "2024-10-29T21:42:05.811Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/0a938c16-c497-4104-8196-137c38306d81",
+      "discordThreadId": "1457413520957112401",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-142135ae-a15f-4ec7-90bb-cb4e7968bc09-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-142135ae-a15f-4ec7-90bb-cb4e7968bc09",
+      "company": "supabase",
+      "title": "Support Engineer (APAC)",
+      "postedToDiscord": "2026-01-04T16:41:09.119Z",
+      "sourceDate": "2025-03-20T18:51:09.252+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09",
+      "discordThreadId": "1457413548836655114",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-0aaf7916-ce76-4c72-b461-1604bf1b5bc2-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-clerk-0aaf7916-ce76-4c72-b461-1604bf1b5bc2",
+      "company": "clerk",
+      "title": "Staff Engineer",
+      "postedToDiscord": "2026-01-04T16:41:12.461Z",
+      "sourceDate": "2025-02-25T20:37:46.389+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/0aaf7916-ce76-4c72-b461-1604bf1b5bc2",
+      "discordThreadId": "1457413556063703244",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-541836a1-6d3f-47bf-845f-5f48fe547568-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-railway-541836a1-6d3f-47bf-845f-5f48fe547568",
+      "company": "railway",
+      "title": "Infra Engineer - Datacenters",
+      "postedToDiscord": "2026-01-04T16:41:15.898Z",
+      "sourceDate": "2025-02-03T20:01:07.475+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/541836a1-6d3f-47bf-845f-5f48fe547568",
+      "discordThreadId": "1457413570345046078",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
+      "company": "supabase",
+      "title": "Support Engineer (AMER)",
+      "postedToDiscord": "2026-01-04T16:41:17.757Z",
+      "sourceDate": "2025-01-15T16:41:31.938+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
+      "discordThreadId": "1457413584765190206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-7d42f0e8-15a5-453d-8992-9e8638846077-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-railway-7d42f0e8-15a5-453d-8992-9e8638846077",
+      "company": "railway",
+      "title": "Developer Relations",
+      "postedToDiscord": "2026-01-04T16:41:21.479Z",
+      "sourceDate": "2024-12-02T21:09:38.607+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/7d42f0e8-15a5-453d-8992-9e8638846077",
+      "discordThreadId": "1457413592659001354",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-d5573afa-636c-4219-832f-386f498243bf-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-d5573afa-636c-4219-832f-386f498243bf",
+      "company": "supabase",
+      "title": "Customer Solution Architect (US time zones)",
+      "postedToDiscord": "2026-01-04T16:41:26.172Z",
+      "sourceDate": "2024-11-14T17:58:07.662+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/d5573afa-636c-4219-832f-386f498243bf",
+      "discordThreadId": "1457413620638945390",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1220,
+    "totalJobs": 1230,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T16:25:51.870Z",
+      "date": "2026-01-04T16:41:26.172Z",
       "archived": 0
     }
   }
