@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T08:42:33.544Z",
+  "lastUpdated": "2026-01-04T08:54:28.672Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10616,14 +10616,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959329008",
       "discordThreadId": "1457293099955912775",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4889396008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4889396008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Product Platform & Accounts Platform",
+      "postedToDiscord": "2026-01-04T08:53:51.361Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
+      "discordThreadId": "1457295942494589074",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4986288008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4986288008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, Insurance",
+      "postedToDiscord": "2026-01-04T08:53:58.214Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008",
+      "discordThreadId": "1457295970839560222",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4965200008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4965200008",
+      "company": "anthropic",
+      "title": "Event Security Program Coordinator ",
+      "postedToDiscord": "2026-01-04T08:54:04.783Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4965200008",
+      "discordThreadId": "1457295999012962451",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4520279008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4520279008",
+      "company": "anthropic",
+      "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
+      "postedToDiscord": "2026-01-04T08:54:08.300Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4520279008",
+      "discordThreadId": "1457296013659209840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4532887008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4532887008",
+      "company": "anthropic",
+      "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
+      "postedToDiscord": "2026-01-04T08:54:14.980Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
+      "discordThreadId": "1457296041325105325",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4825724008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4825724008",
+      "company": "anthropic",
+      "title": "Finance Systems Engineer",
+      "postedToDiscord": "2026-01-04T08:54:18.433Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4825724008",
+      "discordThreadId": "1457296056391045325",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4934940008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4934940008",
+      "company": "anthropic",
+      "title": "Field Marketing Manager, Industries",
+      "postedToDiscord": "2026-01-04T08:54:25.041Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4934940008",
+      "discordThreadId": "1457296083523735555",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4821968008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4821968008",
+      "company": "anthropic",
+      "title": "Finance Systems, Finance & Strategy",
+      "postedToDiscord": "2026-01-04T08:54:28.672Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821968008",
+      "discordThreadId": "1457296098514436231",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 965,
+    "totalJobs": 973,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T08:42:33.544Z",
+      "date": "2026-01-04T08:54:28.672Z",
       "archived": 0
     }
   }
