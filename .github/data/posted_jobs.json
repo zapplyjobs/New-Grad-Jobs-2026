@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T05:53:53.886Z",
+  "lastUpdated": "2026-01-04T06:05:39.183Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -10000,14 +10000,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
       "discordThreadId": "1457250654908317748",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5719796004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5719796004",
+      "company": "vercel",
+      "title": "Mobile Engineer",
+      "postedToDiscord": "2026-01-04T06:05:22.445Z",
+      "sourceDate": "2025-12-02T16:02:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
+      "discordThreadId": "1457253542816649257",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8318257002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8318257002",
+      "company": "duolingo",
+      "title": "Senior iOS Software Engineer",
+      "postedToDiscord": "2026-01-04T06:05:25.895Z",
+      "sourceDate": "2025-12-02T15:47:19-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318257002?gh_jid=8318257002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8207887002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8207887002",
+      "company": "duolingo",
+      "title": "Ad Sales Lead",
+      "postedToDiscord": "2026-01-04T06:05:32.453Z",
+      "sourceDate": "2025-12-03T14:04:15-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8207887002?gh_jid=8207887002",
+      "discordThreadId": "1457253584751034408",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015565008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015565008",
+      "company": "anthropic",
+      "title": "RevOps Reporting & Insights Analyst",
+      "postedToDiscord": "2026-01-04T06:05:39.183Z",
+      "sourceDate": "2025-12-02T15:56:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
+      "discordThreadId": "1457253613264179334",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 909,
+    "totalJobs": 913,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T05:53:53.886Z",
+      "date": "2026-01-04T06:05:39.183Z",
       "archived": 0
     }
   }
