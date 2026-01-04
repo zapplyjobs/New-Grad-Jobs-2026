@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T10:24:54.769Z",
+  "lastUpdated": "2026-01-04T10:39:41.448Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -11232,14 +11232,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
       "discordThreadId": "1457318857952858164",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4887959008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4887959008",
+      "company": "anthropic",
+      "title": "Senior Software Security Engineer",
+      "postedToDiscord": "2026-01-04T10:39:09.140Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008",
+      "discordThreadId": "1457322440354168960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980420008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980420008",
+      "company": "anthropic",
+      "title": "Software Engineer, Desktop",
+      "postedToDiscord": "2026-01-04T10:39:12.594Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980420008",
+      "discordThreadId": "1457322455893938177",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4926242008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4926242008",
+      "company": "anthropic",
+      "title": "Software Engineer, ML Networking",
+      "postedToDiscord": "2026-01-04T10:39:16.372Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+      "discordThreadId": "1457322470557351936",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4902636008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4902636008",
+      "company": "anthropic",
+      "title": "Software Engineer, Public Sector",
+      "postedToDiscord": "2026-01-04T10:39:20.223Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4902636008",
+      "discordThreadId": "1457322486839640146",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4951844008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951844008",
+      "company": "anthropic",
+      "title": "Software Engineer, Safeguards",
+      "postedToDiscord": "2026-01-04T10:39:23.827Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+      "discordThreadId": "1457322502639321181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4951696008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951696008",
+      "company": "anthropic",
+      "title": "Senior/Staff Software Engineer, Inference",
+      "postedToDiscord": "2026-01-04T10:39:30.654Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008",
+      "discordThreadId": "1457322530699345922",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4943668008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4943668008",
+      "company": "anthropic",
+      "title": "Software Engineer, Accelerator Build Infrastructure",
+      "postedToDiscord": "2026-01-04T10:39:34.256Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4943668008",
+      "discordThreadId": "1457322546390372505",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4942024008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942024008",
+      "company": "anthropic",
+      "title": "Software Engineer, Beneficial Deployments ",
+      "postedToDiscord": "2026-01-04T10:39:38.027Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
+      "discordThreadId": "1457322561372291330",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4816199008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4816199008",
+      "company": "anthropic",
+      "title": "Software Engineer, Claude Code",
+      "postedToDiscord": "2026-01-04T10:39:41.448Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4816199008",
+      "discordThreadId": "1457322576853602461",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1021,
+    "totalJobs": 1030,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T10:24:54.769Z",
+      "date": "2026-01-04T10:39:41.448Z",
       "archived": 0
     }
   }
