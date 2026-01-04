@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T14:24:24.676Z",
+  "lastUpdated": "2026-01-04T14:38:35.320Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12541,14 +12541,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/eb61a78d-9b5f-43f6-8d17-94c7b685d121",
       "discordThreadId": "1457379137126797413",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "company": "supabase",
+      "title": "Multigres Deployment Engineer",
+      "postedToDiscord": "2026-01-04T14:37:54.168Z",
+      "sourceDate": "2025-11-07T19:57:02.108+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "discordThreadId": "1457382531115516149",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8041873002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8041873002",
+      "company": "duolingo",
+      "title": "Senior Security Engineer",
+      "postedToDiscord": "2026-01-04T14:37:57.642Z",
+      "sourceDate": "2025-11-07T10:26:27-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8041873002?gh_jid=8041873002",
+      "discordThreadId": "1457382539252469803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8100021002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8100021002",
+      "company": "duolingo",
+      "title": "Senior Site Reliability Engineer",
+      "postedToDiscord": "2026-01-04T14:38:01.194Z",
+      "sourceDate": "2025-11-07T10:20:35-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8100021002?gh_jid=8100021002",
+      "discordThreadId": "1457382554452754606",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-5342dc96-7ee5-46fe-bb55-1b52bacfd40f-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-supabase-5342dc96-7ee5-46fe-bb55-1b52bacfd40f",
+      "company": "supabase",
+      "title": "FinOps Engineer",
+      "postedToDiscord": "2026-01-04T14:38:02.869Z",
+      "sourceDate": "2025-11-07T09:40:39.073+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/5342dc96-7ee5-46fe-bb55-1b52bacfd40f",
+      "discordThreadId": "1457382568512192686",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-dbc51554-cdb8-47d5-8071-5a93af17583f-2026-01-04-1",
+      "jobId": "jobs-ashbyhq-com-railway-dbc51554-cdb8-47d5-8071-5a93af17583f",
+      "company": "railway",
+      "title": "Customer Success Engineer",
+      "postedToDiscord": "2026-01-04T14:38:08.592Z",
+      "sourceDate": "2025-11-04T00:34:14.517+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/dbc51554-cdb8-47d5-8071-5a93af17583f",
+      "discordThreadId": "1457382576292499509",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8174001002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8174001002",
+      "company": "discord",
+      "title": "Data Science Manager, Safety",
+      "postedToDiscord": "2026-01-04T14:38:15.155Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8174001002",
+      "discordThreadId": "1457382612950843627",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8136117002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8136117002",
+      "company": "discord",
+      "title": "Senior Director, Trust & Safety",
+      "postedToDiscord": "2026-01-04T14:38:18.543Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8136117002",
+      "discordThreadId": "1457382627425386517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8196787002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8196787002",
+      "company": "discord",
+      "title": "Staff Data Scientist, Strategic Research & Reporting",
+      "postedToDiscord": "2026-01-04T14:38:22.202Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196787002",
+      "discordThreadId": "1457382642097066076",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8195891002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8195891002",
+      "company": "discord",
+      "title": "Safety By Design Policy Expert, Revenue",
+      "postedToDiscord": "2026-01-04T14:38:28.825Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8195891002",
+      "discordThreadId": "1457382669825609839",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8178458002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8178458002",
+      "company": "discord",
+      "title": "Senior Recruiter, Advertising Solutions & GTM",
+      "postedToDiscord": "2026-01-04T14:38:35.320Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8178458002",
+      "discordThreadId": "1457382697298300950",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1140,
+    "totalJobs": 1150,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T14:24:24.676Z",
+      "date": "2026-01-04T14:38:35.320Z",
       "archived": 0
     }
   }
