@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T13:05:34.157Z",
+  "lastUpdated": "2026-01-04T13:27:12.298Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -12178,14 +12178,102 @@
       "sourceUrl": "https://jobs.lever.co/nominal/b34c4e06-2965-4ced-ad55-ebe66253b7b6",
       "discordThreadId": "1457359288413585449",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5579431004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5579431004",
+      "company": "vercel",
+      "title": "Fraud Specialist",
+      "postedToDiscord": "2026-01-04T13:26:34.492Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5579431004",
+      "discordThreadId": "1457364574297915436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5623421004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5623421004",
+      "company": "vercel",
+      "title": " IT Infrastructure Engineer ",
+      "postedToDiscord": "2026-01-04T13:26:38.679Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5623421004",
+      "discordThreadId": "1457364592148877312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5466858004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5466858004",
+      "company": "vercel",
+      "title": "Product Engineer – v0",
+      "postedToDiscord": "2026-01-04T13:26:42.518Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5466858004",
+      "discordThreadId": "1457364606841520241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5199830004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5199830004",
+      "company": "vercel",
+      "title": "Head of Product Marketing ",
+      "postedToDiscord": "2026-01-04T13:26:49.069Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5199830004",
+      "discordThreadId": "1457364635685617904",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5648960004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5648960004",
+      "company": "vercel",
+      "title": "Manager, Sales Development, v0",
+      "postedToDiscord": "2026-01-04T13:26:52.781Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5648960004",
+      "discordThreadId": "1457364650579722431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5654653004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5654653004",
+      "company": "vercel",
+      "title": "Platform Abuse Operations Lead, Trust & Safety",
+      "postedToDiscord": "2026-01-04T13:26:59.293Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5654653004",
+      "discordThreadId": "1457364678949736509",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5589398004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5589398004",
+      "company": "vercel",
+      "title": "Product Manager - Accounts",
+      "postedToDiscord": "2026-01-04T13:27:05.798Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5589398004",
+      "discordThreadId": "1457364705617121312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5693072004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5693072004",
+      "company": "vercel",
+      "title": "Senior Manager, People Systems",
+      "postedToDiscord": "2026-01-04T13:27:12.298Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5693072004",
+      "discordThreadId": "1457364733324689428",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1107,
+    "totalJobs": 1115,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T13:05:34.157Z",
+      "date": "2026-01-04T13:27:12.298Z",
       "archived": 0
     }
   }
