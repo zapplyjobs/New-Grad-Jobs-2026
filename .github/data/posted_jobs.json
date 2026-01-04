@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T17:25:05.323Z",
+  "lastUpdated": "2026-01-04T17:38:29.203Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -13718,14 +13718,113 @@
       "sourceUrl": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/R-D-Graduate-Software-Developer-Harwell-Science-Campus_4034599",
       "discordThreadId": "1457424605932159128",
       "instanceNumber": 1
+    },
+    {
+      "id": "acelero-wd1-myworkdayjobs-com-acelerolearningcareers-job-de-milton-prime-hook-road-data-services-coordinator_jr7544-2026-01-04-1",
+      "jobId": "acelero-wd1-myworkdayjobs-com-acelerolearningcareers-job-de-milton-prime-hook-road-data-services-coordinator_jr7544",
+      "company": "Acelero",
+      "title": "Data Analysis Coordinator",
+      "postedToDiscord": "2026-01-04T17:37:47.720Z",
+      "sourceDate": "2025-12-10T14:41:15.000Z",
+      "sourceUrl": "https://acelero.wd1.myworkdayjobs.com/acelerolearningcareers/job/DE---Milton---Prime-Hook-Road/Data-Services-Coordinator_JR7544",
+      "discordThreadId": "1457427796270776451",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aegistherapies-wd1-myworkdayjobs-com-aegiscareers-job-fort-smith-ar-it-data-warehouse-specialist_r0043523-2026-01-04-1",
+      "jobId": "aegistherapies-wd1-myworkdayjobs-com-aegiscareers-job-fort-smith-ar-it-data-warehouse-specialist_r0043523",
+      "company": "Aegis Therapies",
+      "title": "IT Data Warehouse Specialist",
+      "postedToDiscord": "2026-01-04T17:37:51.237Z",
+      "sourceDate": "2025-12-03T03:29:17.000Z",
+      "sourceUrl": "https://aegistherapies.wd1.myworkdayjobs.com/aegiscareers/job/Fort-Smith-AR/IT-Data-Warehouse-Specialist_R0043523",
+      "discordThreadId": "1457427810892382221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alliantenergy-wd1-myworkdayjobs-com-alliant-job-madison-wi-meter-data-analyst-i_jr-9238-2026-01-04-1",
+      "jobId": "alliantenergy-wd1-myworkdayjobs-com-alliant-job-madison-wi-meter-data-analyst-i_jr-9238",
+      "company": "Alliant Energy",
+      "title": "Meter Data Analyst 1",
+      "postedToDiscord": "2026-01-04T17:37:57.951Z",
+      "sourceDate": "2025-12-08T19:47:05.000Z",
+      "sourceUrl": "https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238",
+      "discordThreadId": "1457427838503227564",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-38902972-2026-01-04-1",
+      "jobId": "aexp-eightfold-ai-careers-job-38902972",
+      "company": "American Express",
+      "title": "Data Engineer 1 - Infra Data & Analytics",
+      "postedToDiscord": "2026-01-04T17:38:01.877Z",
+      "sourceDate": "2025-11-21T09:16:53.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/38902972",
+      "discordThreadId": "1457427854022414399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amat-wd1-myworkdayjobs-com-external-job-austintx-automation-software-engineer-new-college-grad-bachelor-s-austin-tx-_r2519059-2026-01-04-1",
+      "jobId": "amat-wd1-myworkdayjobs-com-external-job-austintx-automation-software-engineer-new-college-grad-bachelor-s-austin-tx-_r2519059",
+      "company": "Applied Materials",
+      "title": "Automation Software Engineer",
+      "postedToDiscord": "2026-01-04T17:38:08.797Z",
+      "sourceDate": "2025-12-06T10:05:08.000Z",
+      "sourceUrl": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059",
+      "discordThreadId": "1457427882803593512",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-product-line-management-data-science-new-college-grad-bachelor-s-master-s-santa-clara-ca-_r2519079-1-2026-01-04-1",
+      "jobId": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-product-line-management-data-science-new-college-grad-bachelor-s-master-s-santa-clara-ca-_r2519079-1",
+      "company": "Applied Materials",
+      "title": "Product Line Management Data Science",
+      "postedToDiscord": "2026-01-04T17:38:12.448Z",
+      "sourceDate": "2025-12-06T02:51:16.000Z",
+      "sourceUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1",
+      "discordThreadId": "1457427899866022125",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076-2026-01-04-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076",
+      "company": "Adobe",
+      "title": "Research Scientist",
+      "postedToDiscord": "2026-01-04T17:38:15.945Z",
+      "sourceDate": "2025-12-04T01:56:43.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R163076",
+      "discordThreadId": "1457427914558668996",
+      "instanceNumber": 1
+    },
+    {
+      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075-2026-01-04-1",
+      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075",
+      "company": "Accenture",
+      "title": "ATC Salesforce Analyst - Nashville",
+      "postedToDiscord": "2026-01-04T17:38:22.481Z",
+      "sourceDate": "2025-12-04T04:36:22.000Z",
+      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075",
+      "discordThreadId": "1457427942102794360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amarillo-wd5-myworkdayjobs-com-amarillo_external_career_site-job-simms-municipal-building-gis-analyst-i_jr2267-2026-01-04-1",
+      "jobId": "amarillo-wd5-myworkdayjobs-com-amarillo_external_career_site-job-simms-municipal-building-gis-analyst-i_jr2267",
+      "company": "City of Amarillo",
+      "title": "GIS Analyst 1",
+      "postedToDiscord": "2026-01-04T17:38:29.202Z",
+      "sourceDate": "2025-12-02T18:38:15.000Z",
+      "sourceUrl": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267",
+      "discordThreadId": "1457427969763971155",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1247,
+    "totalJobs": 1256,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T17:25:05.323Z",
+      "date": "2026-01-04T17:38:29.203Z",
       "archived": 0
     }
   }
