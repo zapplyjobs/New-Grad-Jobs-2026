@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T05:17:00.512Z",
+  "lastUpdated": "2026-01-04T05:30:27.680Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -9769,14 +9769,124 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5730956004?gh_jid=5730956004",
       "discordThreadId": "1457241370451251262",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4929693008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929693008",
+      "company": "anthropic",
+      "title": "Security Engineer, Operating Systems",
+      "postedToDiscord": "2026-01-04T05:29:42.618Z",
+      "sourceDate": "2025-12-05T19:22:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
+      "discordThreadId": "1457244567245029593",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4929689008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929689008",
+      "company": "anthropic",
+      "title": "Systems Integrity Security Architect",
+      "postedToDiscord": "2026-01-04T05:29:46.041Z",
+      "sourceDate": "2025-12-05T19:18:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
+      "discordThreadId": "1457244582310973531",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017818008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017818008",
+      "company": "anthropic",
+      "title": "Corporate Communications Manager ",
+      "postedToDiscord": "2026-01-04T05:29:53.046Z",
+      "sourceDate": "2025-12-05T18:04:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
+      "discordThreadId": "1457244609787727973",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015340008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015340008",
+      "company": "anthropic",
+      "title": "Developer Relations, MCP",
+      "postedToDiscord": "2026-01-04T05:29:56.409Z",
+      "sourceDate": "2025-12-05T12:22:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
+      "discordThreadId": "1457244626007363757",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-e35594fa-1c62-487d-833f-774878b6e829-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-e35594fa-1c62-487d-833f-774878b6e829",
+      "company": "spotify",
+      "title": "Manager, Sales Operations – Commissions",
+      "postedToDiscord": "2026-01-04T05:29:59.882Z",
+      "sourceDate": "2025-12-04T21:23:29.023Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/e35594fa-1c62-487d-833f-774878b6e829",
+      "discordThreadId": "1457244640125390973",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5699965004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5699965004",
+      "company": "figma",
+      "title": "Technical Recruiter",
+      "postedToDiscord": "2026-01-04T05:30:07.705Z",
+      "sourceDate": "2025-12-05T17:12:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004",
+      "discordThreadId": "1457244667753136188",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-7996986002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-7996986002",
+      "company": "duolingo",
+      "title": "Director of Performance Marketing",
+      "postedToDiscord": "2026-01-04T05:30:14.205Z",
+      "sourceDate": "2025-12-05T11:38:05-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/7996986002?gh_jid=7996986002",
+      "discordThreadId": "1457244700758249598",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8301155002-2026-01-04-1",
+      "jobId": "careers-duolingo-com-jobs-8301155002",
+      "company": "duolingo",
+      "title": "Influencer Marketing, Intern",
+      "postedToDiscord": "2026-01-04T05:30:17.641Z",
+      "sourceDate": "2025-12-05T10:01:23-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301155002?gh_jid=8301155002",
+      "discordThreadId": "1457244714473623654",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5729399004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5729399004",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors, v0",
+      "postedToDiscord": "2026-01-04T05:30:24.130Z",
+      "sourceDate": "2025-12-04T17:19:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
+      "discordThreadId": "1457244741941989616",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018195008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018195008",
+      "company": "anthropic",
+      "title": "Microsoft GTM Partnership, Enterprise",
+      "postedToDiscord": "2026-01-04T05:30:27.680Z",
+      "sourceDate": "2025-12-04T13:36:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
+      "discordThreadId": "1457244756588630116",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 888,
+    "totalJobs": 898,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T05:17:00.512Z",
+      "date": "2026-01-04T05:30:27.680Z",
       "archived": 0
     }
   }
