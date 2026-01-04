@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T05:01:41.784Z",
+  "lastUpdated": "2026-01-04T05:17:00.512Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -9659,14 +9659,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
       "discordThreadId": "1457237518058782721",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5022851008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5022851008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Enterprise Foundations",
+      "postedToDiscord": "2026-01-04T05:16:16.557Z",
+      "sourceDate": "2025-12-08T19:14:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5022851008",
+      "discordThreadId": "1457241186996715607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017202008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017202008",
+      "company": "anthropic",
+      "title": "Software Engineer, Labs",
+      "postedToDiscord": "2026-01-04T05:16:22.947Z",
+      "sourceDate": "2025-12-08T17:18:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
+      "discordThreadId": "1457241214117220444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-1ef1c258-c89b-40d5-b269-5808eb35ddb5-2026-01-04-1",
+      "jobId": "jobs-lever-co-spotify-1ef1c258-c89b-40d5-b269-5808eb35ddb5",
+      "company": "spotify",
+      "title": "Director of Sales, Emerging & Scaled (New Business)",
+      "postedToDiscord": "2026-01-04T05:16:26.468Z",
+      "sourceDate": "2025-12-08T21:40:09.496Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1ef1c258-c89b-40d5-b269-5808eb35ddb5",
+      "discordThreadId": "1457241228310614091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-retool-jobs-4633560005-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-retool-jobs-4633560005",
+      "company": "retool",
+      "title": "Enterprise Support Engineer, AMER",
+      "postedToDiscord": "2026-01-04T05:16:29.958Z",
+      "sourceDate": "2025-12-08T12:29:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4633560005",
+      "discordThreadId": "1457241243334737921",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-retool-jobs-4628161005-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-retool-jobs-4628161005",
+      "company": "retool",
+      "title": "UX Researcher",
+      "postedToDiscord": "2026-01-04T05:16:33.464Z",
+      "sourceDate": "2025-12-08T12:29:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4628161005",
+      "discordThreadId": "1457241257653964820",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4790445008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4790445008",
+      "company": "anthropic",
+      "title": "Research Recruiting Sourcer",
+      "postedToDiscord": "2026-01-04T05:16:36.940Z",
+      "sourceDate": "2025-12-08T11:25:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4790445008",
+      "discordThreadId": "1457241272313188544",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8316122002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8316122002",
+      "company": "discord",
+      "title": "Senior Financial Reporting and Technical Accountant",
+      "postedToDiscord": "2026-01-04T05:16:43.571Z",
+      "sourceDate": "2025-12-08T17:12:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8316122002",
+      "discordThreadId": "1457241299425038338",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8321982002-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8321982002",
+      "company": "discord",
+      "title": "Manager, Global Accounts Receivable",
+      "postedToDiscord": "2026-01-04T05:16:50.343Z",
+      "sourceDate": "2025-12-08T14:54:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8321982002",
+      "discordThreadId": "1457241327539326998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5039945004-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5039945004",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors",
+      "postedToDiscord": "2026-01-04T05:16:53.825Z",
+      "sourceDate": "2025-12-08T12:40:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
+      "discordThreadId": "1457241342831890579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5730956004-2026-01-04-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5730956004",
+      "company": "figma",
+      "title": "Technical Recruiter, Data Science",
+      "postedToDiscord": "2026-01-04T05:17:00.512Z",
+      "sourceDate": "2025-12-08T13:40:24-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5730956004?gh_jid=5730956004",
+      "discordThreadId": "1457241370451251262",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 878,
+    "totalJobs": 888,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T05:01:41.784Z",
+      "date": "2026-01-04T05:17:00.512Z",
       "archived": 0
     }
   }
