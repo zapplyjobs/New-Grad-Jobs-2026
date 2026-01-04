@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-04T18:05:53.556Z",
+  "lastUpdated": "2026-01-04T23:05:57.999Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14037,14 +14037,25 @@
       "sourceUrl": "https://careers-wiscenterprises.icims.com/jobs/1607/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1457434866881663101",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4931858008-2026-01-04-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4931858008",
+      "company": "anthropic",
+      "title": "Director, Finance Strategic Initiatives",
+      "postedToDiscord": "2026-01-04T23:05:57.998Z",
+      "sourceDate": "2026-01-04T18:01:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4931858008",
+      "discordThreadId": "1457510383156858892",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1276,
+    "totalJobs": 1277,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-04T18:05:53.556Z",
+      "date": "2026-01-04T23:05:57.999Z",
       "archived": 0
     }
   }
