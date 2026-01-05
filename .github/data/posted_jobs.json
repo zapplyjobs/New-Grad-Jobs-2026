@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T18:58:51.052Z",
+  "lastUpdated": "2026-01-05T19:08:11.429Z",
   "jobs": [
-    {
-      "id": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-post-doc-advanced-computational-methods-simulation_r5021476-1-2025-12-29-1",
-      "jobId": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-post-doc-advanced-computational-methods-simulation_r5021476-1",
-      "company": "GE Vernova",
-      "title": "Post Doc – Advanced Computational Methods & Simulation",
-      "postedToDiscord": "2025-12-29T19:03:41.524Z",
-      "sourceDate": "2025-12-29T17:45:16.000Z",
-      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Post-Doc---Advanced-Computational-Methods---Simulation_R5021476-1",
-      "discordThreadId": "1455275084779360376",
-      "instanceNumber": 1
-    },
-    {
-      "id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-apps-dev-intmd-programmer-analyst-officer_25926282-2025-12-29-1",
-      "jobId": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-apps-dev-intmd-programmer-analyst-officer_25926282",
-      "company": "Citi",
-      "title": "Applications Development Intermediate Programmer Analyst",
-      "postedToDiscord": "2025-12-29T19:03:47.878Z",
-      "sourceDate": "2025-12-29T17:44:14.000Z",
-      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282",
-      "discordThreadId": "1455275112604500001",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
       "jobId": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application",
@@ -14422,6 +14400,28 @@
       "sourceUrl": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8301876002",
       "discordThreadId": "1457810582823501980",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5007627007-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5007627007",
+      "company": "verkada",
+      "title": "Enterprise Sales Account Executive,  State",
+      "postedToDiscord": "2026-01-05T19:08:11.412Z",
+      "sourceDate": "2026-01-05T14:06:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5007627007",
+      "discordThreadId": "1457812931533344880",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5007620007-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5007620007",
+      "company": "verkada",
+      "title": "Enterprise Sales Account Executive,  State",
+      "postedToDiscord": "2026-01-05T19:08:11.429Z",
+      "sourceDate": "2026-01-05T14:05:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5007620007",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -14429,7 +14429,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T18:58:51.052Z",
+      "date": "2026-01-05T19:08:11.429Z",
       "archived": 0
     }
   }
