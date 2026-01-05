@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T16:44:21.310Z",
+  "lastUpdated": "2026-01-05T17:07:51.934Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14191,14 +14191,69 @@
       "sourceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Data-Analyst-I---Center-For-Biostatistics_R142714-2",
       "discordThreadId": "1457776735775887528",
       "instanceNumber": 1
+    },
+    {
+      "id": "healthplanone-wd1-myworkdayjobs-com-hpone-job-ct-shelton-ai-engineer_jr1412-1-2026-01-05-1",
+      "jobId": "healthplanone-wd1-myworkdayjobs-com-hpone-job-ct-shelton-ai-engineer_jr1412-1",
+      "company": "Health Plan One",
+      "title": "AI Engineer",
+      "postedToDiscord": "2026-01-05T17:07:35.508Z",
+      "sourceDate": "2026-01-05T16:51:42.000Z",
+      "sourceUrl": "https://healthplanone.wd1.myworkdayjobs.com/hpone/job/CT-Shelton/AI-Engineer_JR1412-1",
+      "discordThreadId": "1457782590517018742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-captivation-jobs-5054344008-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-captivation-jobs-5054344008",
+      "company": "Captivation",
+      "title": "Software Engineer - Java/AI/ML/Kubernetes",
+      "postedToDiscord": "2026-01-05T17:07:38.989Z",
+      "sourceDate": "2026-01-05T16:31:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/captivation/jobs/5054344008",
+      "discordThreadId": "1457782597852729498",
+      "instanceNumber": 1
+    },
+    {
+      "id": "crowe-wd12-myworkdayjobs-com-en-us-external_careers-job-chicago-il-usa-netsuite-implementation-consultant_r-50086-2026-01-05-1",
+      "jobId": "crowe-wd12-myworkdayjobs-com-en-us-external_careers-job-chicago-il-usa-netsuite-implementation-consultant_r-50086",
+      "company": "Crowe",
+      "title": "NetSuite Implementation Consultant",
+      "postedToDiscord": "2026-01-05T17:07:45.416Z",
+      "sourceDate": "2026-01-05T16:32:28.000Z",
+      "sourceUrl": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Consultant_R-50086",
+      "discordThreadId": "1457782625300381766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-uber-icims-com-jobs-152427-job-2026-01-05-1",
+      "jobId": "university-uber-icims-com-jobs-152427-job",
+      "company": "Uber",
+      "title": "Graduate 2026 Software Engineer 1 - US",
+      "postedToDiscord": "2026-01-05T17:07:51.924Z",
+      "sourceDate": "2026-01-05T16:32:01.000Z",
+      "sourceUrl": "https://university-uber.icims.com/jobs/152427/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1457782652298854544",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-uber-icims-com-jobs-152559-job-2026-01-05-1",
+      "jobId": "university-uber-icims-com-jobs-152559-job",
+      "company": "Uber",
+      "title": "Graduate 2026 Software Engineer 1 - Mobile",
+      "postedToDiscord": "2026-01-05T17:07:51.934Z",
+      "sourceDate": "2026-01-05T16:31:53.000Z",
+      "sourceUrl": "https://university-uber.icims.com/jobs/152559/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1290,
+    "totalJobs": 1295,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T16:44:21.310Z",
+      "date": "2026-01-05T17:07:51.934Z",
       "archived": 0
     }
   }
