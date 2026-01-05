@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T20:25:20.146Z",
+  "lastUpdated": "2026-01-05T20:40:41.437Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
@@ -14455,14 +14455,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041343008",
       "discordThreadId": "1457832347633455207",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5741899004-2026-01-05-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5741899004",
+      "company": "figma",
+      "title": "Senior Manager, Enterprise Sales- Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-05T20:40:41.436Z",
+      "sourceDate": "2026-01-05T15:35:15-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5741899004?gh_jid=5741899004",
+      "discordThreadId": "1457836211250008129",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1314,
+    "totalJobs": 1315,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T20:25:20.146Z",
+      "date": "2026-01-05T20:40:41.437Z",
       "archived": 0
     }
   }
