@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T17:42:45.984Z",
+  "lastUpdated": "2026-01-05T18:08:40.975Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14312,14 +14312,102 @@
       "sourceUrl": "https://careers-peraton.icims.com/jobs/162357/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1457791434676637728",
       "instanceNumber": 1
+    },
+    {
+      "id": "zoom-wd5-myworkdayjobs-com-zoom-job-remote-wa-software-development_r17786-1-2026-01-05-1",
+      "jobId": "zoom-wd5-myworkdayjobs-com-zoom-job-remote-wa-software-development_r17786-1",
+      "company": "Zoom",
+      "title": "Software Development",
+      "postedToDiscord": "2026-01-05T18:08:09.795Z",
+      "sourceDate": "2025-11-18T16:17:29.000Z",
+      "sourceUrl": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1",
+      "discordThreadId": "1457797826007531714",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-875a76b8-fb1b-4fc0-9478-0127635ae322-2026-01-05-1",
+      "jobId": "yuzu-health-careers-875a76b8-fb1b-4fc0-9478-0127635ae322",
+      "company": "Yuzu Health",
+      "title": "Fullstack Software Engineer",
+      "postedToDiscord": "2026-01-05T18:08:13.453Z",
+      "sourceDate": "2025-10-01T17:22:33.000Z",
+      "sourceUrl": "https://yuzu.health/careers/875a76b8-fb1b-4fc0-9478-0127635ae322",
+      "discordThreadId": "1457797841312284723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-2bfc1773-e826-4a87-9b5f-7f79e1507ae6-2026-01-05-1",
+      "jobId": "yuzu-health-careers-2bfc1773-e826-4a87-9b5f-7f79e1507ae6",
+      "company": "Yuzu Health",
+      "title": "Design Engineer",
+      "postedToDiscord": "2026-01-05T18:08:17.319Z",
+      "sourceDate": "2025-10-01T17:22:04.000Z",
+      "sourceUrl": "https://yuzu.health/careers/2bfc1773-e826-4a87-9b5f-7f79e1507ae6",
+      "discordThreadId": "1457797856822820949",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-c379c43c-8942-41df-ab40-3c5ee7fe4080-2026-01-05-1",
+      "jobId": "yuzu-health-careers-c379c43c-8942-41df-ab40-3c5ee7fe4080",
+      "company": "Yuzu Health",
+      "title": "Pricing Engineer",
+      "postedToDiscord": "2026-01-05T18:08:20.852Z",
+      "sourceDate": "2025-10-01T17:21:30.000Z",
+      "sourceUrl": "https://yuzu.health/careers/c379c43c-8942-41df-ab40-3c5ee7fe4080",
+      "discordThreadId": "1457797872736272414",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-bddd5ff3-3478-497b-b849-76256992b89f-2026-01-05-1",
+      "jobId": "yuzu-health-careers-bddd5ff3-3478-497b-b849-76256992b89f",
+      "company": "Yuzu Health",
+      "title": "Product Engineer",
+      "postedToDiscord": "2026-01-05T18:08:24.541Z",
+      "sourceDate": "2025-10-01T17:20:51.000Z",
+      "sourceUrl": "https://yuzu.health/careers/bddd5ff3-3478-497b-b849-76256992b89f",
+      "discordThreadId": "1457797887642697801",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-chelmsford-ma-software-engineer-i-embedded-devices_r16418-2026-01-05-1",
+      "jobId": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-chelmsford-ma-software-engineer-i-embedded-devices_r16418",
+      "company": "Zoll",
+      "title": "Software Engineer I - Embedded Devices",
+      "postedToDiscord": "2026-01-05T18:08:30.937Z",
+      "sourceDate": "2025-08-15T07:33:27.000Z",
+      "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+      "discordThreadId": "1457797913974669496",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-usa-nc-cornelius-application-engineer_jr_1042522-2026-01-05-1",
+      "jobId": "zeissgroup-wd3-myworkdayjobs-com-external-job-usa-nc-cornelius-application-engineer_jr_1042522",
+      "company": "Zeiss",
+      "title": "Application Engineer",
+      "postedToDiscord": "2026-01-05T18:08:34.401Z",
+      "sourceDate": "2025-07-02T23:27:53.000Z",
+      "sourceUrl": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/USA---NC-Cornelius/Application-Engineer_JR_1042522",
+      "discordThreadId": "1457797929870950400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-atlanta-ga-report-customization-specialist-temporary-assignment_r17168-2026-01-05-1",
+      "jobId": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-atlanta-ga-report-customization-specialist-temporary-assignment_r17168",
+      "company": "ZOLL Medical Corporation",
+      "title": "Report Customization Specialist - Temporary Assignment",
+      "postedToDiscord": "2026-01-05T18:08:40.974Z",
+      "sourceDate": "2025-11-06T23:34:12.000Z",
+      "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Atlanta-GA/Report-Customization-Specialist---Temporary-Assignment_R17168",
+      "discordThreadId": "1457797957469470721",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1301,
+    "totalJobs": 1309,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T17:42:45.984Z",
+      "date": "2026-01-05T18:08:40.975Z",
       "archived": 0
     }
   }
