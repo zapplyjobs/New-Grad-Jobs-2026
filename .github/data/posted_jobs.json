@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T17:25:41.715Z",
+  "lastUpdated": "2026-01-05T17:42:45.984Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14257,14 +14257,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042174004",
       "discordThreadId": "1457787138409103576",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8359170002-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8359170002",
+      "company": "discord",
+      "title": "Product Designer, Notifications",
+      "postedToDiscord": "2026-01-05T17:42:28.768Z",
+      "sourceDate": "2026-01-05T12:31:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359170002",
+      "discordThreadId": "1457791361150619699",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7512048-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7512048",
+      "company": "reddit",
+      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+      "postedToDiscord": "2026-01-05T17:42:35.610Z",
+      "sourceDate": "2026-01-05T12:27:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7512048",
+      "discordThreadId": "1457791390749823189",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7512046-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7512046",
+      "company": "reddit",
+      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+      "postedToDiscord": "2026-01-05T17:42:35.621Z",
+      "sourceDate": "2026-01-05T12:27:02-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7512046",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-thenewyorktimes-jobs-4640425005-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-thenewyorktimes-jobs-4640425005",
+      "company": "The New York Times",
+      "title": "Scoop Core - Associate Software Engineer",
+      "postedToDiscord": "2026-01-05T17:42:42.268Z",
+      "sourceDate": "2026-01-05T16:37:11.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4640425005",
+      "discordThreadId": "1457791418876694591",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-162357-job-2026-01-05-1",
+      "jobId": "careers-peraton-icims-com-jobs-162357-job",
+      "company": "Peraton",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-05T17:42:45.983Z",
+      "sourceDate": "2026-01-05T16:35:10.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162357/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1457791434676637728",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1296,
+    "totalJobs": 1301,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T17:25:41.715Z",
+      "date": "2026-01-05T17:42:45.984Z",
       "archived": 0
     }
   }
