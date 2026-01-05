@@ -1,46 +1,24 @@
 [
   {
     "job": {
-      "job_title": "Graduate Software Engineer 1",
-      "employer_name": "Uber",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Uber Careers Teams Locations University Inside Uber Uber CareersJob search, var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/university-uber.icims.com\\/jobs\\/152427\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://university-uber.icims.com/jobs/152427/job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe> UberVisit Help CenterDo not sell or share my personal informationGoogle Data PolicyCompanyAbout usNewsroomInvestorsCareers blogCareersDiversityStart job searchProductsRideDriveDeliverEatUber for BusinessUber FreightGlobal citizenshipSafetyDiversity and InclusionSustainabilityfacebooktwitteryoutubelinkedininstagramGlobeEnglishLocation markerNew Jersey© 2024 Uber Technologies Inc.PrivacyAccessibilityTerms Select your preferred languageEnglish简体中文Español (Internacional)TeamsDepartmentsBusiness Development & SalesCommunicationsCommunity OperationsData Science & AnalyticsDesignEngineeringFinanceLegalMarketingOperations & LaunchPeople & PlacesProductPublic PolicySafety, Security & InsuranceOfferingsRidesharingUber EatsUber for BusinessUber FreightLocationsAsia PacificBengaluruGurugramManila & PampangaHong KongHyderabadSingaporeSeoul SydneyTokyoTaipeiVisakhapatnamEurope, Middle East & AfricaAarhusAmsterdamBerlinLondonParisLatin AmericaBogotáMexico CitySantiagoSao PauloUnited States & CanadaChicagoDallasNew York CitySan Francisco Bay AreaSeattleTorontoUniversityInside UberBlogBenefitsDiversity, Equity, & InclusionGrow at UberHow we hireProgramsLife at UberValuesProductsENSelect your preferred languageEnglish简体中文Español (Internacional)HomeHomeCar frontRide Steering wheelDriveRestaurantEatWineMerchantsTruckFreightTrain,TransitBike jumpBike & scootBriefcaseBusinessMoneyMoney",
-      "job_apply_link": "https://www.uber.com/global/en/careers/list/152427/",
-      "job_posted_at_datetime_utc": "2025-12-18T23:17:41.000Z",
+      "job_title": "Software Engineer 1",
+      "employer_name": "T-Rex Solutions",
+      "job_city": "Odenton",
+      "job_state": "MD",
+      "job_description": "First Name*Last name*TitleOrganizationEmail PhoneTopic* Capabilities Career Partnering Media Employment Verification OtherMessage*CAPTCHA",
+      "job_apply_link": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8301876002",
+      "job_posted_at_datetime_utc": "2025-11-21T08:46:58.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "www-uber-com-global-en-careers-list-152427",
+      "id": "www-trexsolutionsllc-com-current-opportunities-at-trex",
       "description_platform": "generic",
       "description_success": true
     },
     "status": "posted",
-    "addedAt": "2026-01-05T18:45:49.925Z",
-    "enrichedAt": "2026-01-05T18:45:52.763Z",
-    "postedAt": "2026-01-05T18:46:09.723Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist",
-      "employer_name": "Trillium",
-      "job_city": "NYC",
-      "job_state": "Locations",
-      "job_description": "Ready to take the next step and accelerate your trading career? Apply today.",
-      "job_apply_link": "https://www.trlm.com/apply/4923778007?gh_jid=4923778007",
-      "job_posted_at_datetime_utc": "2025-10-31T01:01:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "www-trlm-com-apply-4923778007",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-05T18:45:49.925Z",
-    "enrichedAt": "2026-01-05T18:45:52.763Z",
-    "postedAt": "2026-01-05T18:46:09.723Z"
+    "addedAt": "2026-01-05T18:58:43.293Z",
+    "enrichedAt": "2026-01-05T18:58:43.727Z",
+    "postedAt": "2026-01-05T18:58:54.069Z"
   }
 ]
