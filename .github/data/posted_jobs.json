@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T21:50:33.212Z",
+  "lastUpdated": "2026-01-05T22:24:22.442Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
@@ -14499,14 +14499,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026197008",
       "discordThreadId": "1457853792522338439",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8352070002-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8352070002",
+      "company": "discord",
+      "title": "Senior Software Engineer - Notifications",
+      "postedToDiscord": "2026-01-05T22:24:22.441Z",
+      "sourceDate": "2026-01-05T17:14:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8352070002",
+      "discordThreadId": "1457862304581292358",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1318,
+    "totalJobs": 1319,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T21:50:33.212Z",
+      "date": "2026-01-05T22:24:22.442Z",
       "archived": 0
     }
   }
