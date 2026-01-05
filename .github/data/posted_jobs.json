@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T18:26:03.447Z",
+  "lastUpdated": "2026-01-05T18:46:06.711Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
-      "jobId": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008",
-      "company": "American Institutes for Research",
-      "title": "Data Scientist Assistant",
-      "postedToDiscord": "2025-12-29T18:44:04.466Z",
-      "sourceDate": "2025-12-29T17:55:27.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5046338008",
-      "discordThreadId": "1455270148154986540",
-      "instanceNumber": 1
-    },
-    {
-      "id": "mufgub-wd3-myworkdayjobs-com-mufg-careers-job-jersey-city-nj-machine-learning-engineer-data-pipelines-analyst_10074067-wd-2025-12-29-1",
-      "jobId": "mufgub-wd3-myworkdayjobs-com-mufg-careers-job-jersey-city-nj-machine-learning-engineer-data-pipelines-analyst_10074067-wd",
-      "company": "MUFG",
-      "title": "Machine Learning Engineer - Data Pipelines",
-      "postedToDiscord": "2025-12-29T18:44:08.145Z",
-      "sourceDate": "2025-12-29T17:55:23.000Z",
-      "sourceUrl": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Machine-Learning-Engineer---Data-Pipelines--Analyst_10074067-WD",
-      "discordThreadId": "1455270163925696675",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-peraton-icims-com-jobs-162269-job-2025-12-29-1",
-      "jobId": "careers-peraton-icims-com-jobs-162269-job",
-      "company": "Peraton",
-      "title": "Junior Software Engineer",
-      "postedToDiscord": "2025-12-29T18:44:14.840Z",
-      "sourceDate": "2025-12-29T17:40:27.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1455270191528284234",
-      "instanceNumber": 1
-    },
     {
       "id": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-post-doc-advanced-computational-methods-simulation_r5021476-1-2025-12-29-1",
       "jobId": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-post-doc-advanced-computational-methods-simulation_r5021476-1",
@@ -14422,14 +14389,36 @@
       "sourceUrl": "https://www.uber.com/global/en/careers/list/152559/",
       "discordThreadId": "1457802328508993667",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-152427-2026-01-05-1",
+      "jobId": "www-uber-com-global-en-careers-list-152427",
+      "company": "Uber",
+      "title": "Graduate Software Engineer 1",
+      "postedToDiscord": "2026-01-05T18:46:00.012Z",
+      "sourceDate": "2025-12-18T23:17:41.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152427/",
+      "discordThreadId": "1457807348121866376",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-trlm-com-apply-4923778007-2026-01-05-1",
+      "jobId": "www-trlm-com-apply-4923778007",
+      "company": "Trillium",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-05T18:46:06.710Z",
+      "sourceDate": "2025-10-31T01:01:45.000Z",
+      "sourceUrl": "https://www.trlm.com/apply/4923778007?gh_jid=4923778007",
+      "discordThreadId": "1457807375976108217",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1311,
+    "totalJobs": 1310,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T18:26:03.447Z",
+      "date": "2026-01-05T18:46:06.711Z",
       "archived": 0
     }
   }
