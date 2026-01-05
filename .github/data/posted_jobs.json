@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T16:08:27.486Z",
+  "lastUpdated": "2026-01-05T16:44:21.310Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14158,14 +14158,47 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715",
       "discordThreadId": "1457767702168080481",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7252012-2026-01-05-1",
+      "jobId": "careers-datadoghq-com-detail-7252012",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-05T16:44:14.854Z",
+      "sourceDate": "2026-01-05T11:38:07-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012",
+      "discordThreadId": "1457776707527377111",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7251992-2026-01-05-1",
+      "jobId": "careers-datadoghq-com-detail-7251992",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Spanish Speaking)",
+      "postedToDiscord": "2026-01-05T16:44:14.868Z",
+      "sourceDate": "2026-01-05T11:37:45-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251992/?gh_jid=7251992",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "osu-wd1-myworkdayjobs-com-osucareers-job-columbus-campus-research-data-analyst-i-center-for-biostatistics_r142714-2-2026-01-05-1",
+      "jobId": "osu-wd1-myworkdayjobs-com-osucareers-job-columbus-campus-research-data-analyst-i-center-for-biostatistics_r142714-2",
+      "company": "Ohio State University",
+      "title": "Research Data Analyst 1 - Center For Biostatistics",
+      "postedToDiscord": "2026-01-05T16:44:21.309Z",
+      "sourceDate": "2026-01-05T16:20:03.000Z",
+      "sourceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Data-Analyst-I---Center-For-Biostatistics_R142714-2",
+      "discordThreadId": "1457776735775887528",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1287,
+    "totalJobs": 1290,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T16:08:27.486Z",
+      "date": "2026-01-05T16:44:21.310Z",
       "archived": 0
     }
   }
