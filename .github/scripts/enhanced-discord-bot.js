@@ -554,18 +554,23 @@ client.once('ready', async () => {
   // Load jobs to post
   let jobs = [];
   try {
-    const newJobsPath = path.join(dataDir, 'new_jobs.json');
-    if (fs.existsSync(newJobsPath)) {
-      jobs = JSON.parse(fs.readFileSync(newJobsPath, 'utf8'));
-      // Normalize jobs to handle multiple data formats
-      jobs = jobs.map(job => normalizeJob(job));
+    // Load from pending_posts.json and filter for enriched jobs ready to post
+    const pendingQueue = loadPendingQueue();
+    
+    // Filter for jobs with status "enriched" (ready to post)
+    const enrichedJobs = pendingQueue.filter(item => item.status === 'enriched');
+    
+    console.log(`[BOT] 📬 Found ${enrichedJobs.length} enriched jobs ready to post from pending queue`);
+    
+    // Extract job objects and normalize
+    jobs = enrichedJobs.map(item => {
+      const job = item.job || item;
+      return normalizeJob(job);
+    });
+    
+    if (enrichedJobs.length > 0) {
+      console.log(`[BOT] 🔍 Sample enriched job: ${jobs[0]?.job_title} at ${jobs[0]?.employer_name}`);
     }
-  } catch (error) {
-    console.log('ℹ️ No new jobs file found or error reading it');
-    console.error('🔍 DEBUG - Full error:', error.message);
-    console.error('🔍 DEBUG - Error stack:', error.stack);
-    client.destroy();
-    process.exit(0);
     return;
   }
 
