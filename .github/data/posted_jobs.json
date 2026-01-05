@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T21:05:21.704Z",
+  "lastUpdated": "2026-01-05T21:38:04.244Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
@@ -14477,14 +14477,25 @@
       "sourceUrl": "https://jobs.lever.co/gohighlevel/a97ae4fc-d77f-47eb-a197-ffbdefc0c43f",
       "discordThreadId": "1457842427535819027",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5739002004-2026-01-05-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5739002004",
+      "company": "figma",
+      "title": "GTM Strategy Manager ",
+      "postedToDiscord": "2026-01-05T21:38:04.244Z",
+      "sourceDate": "2026-01-05T16:34:19-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739002004?gh_jid=5739002004",
+      "discordThreadId": "1457850650825199789",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1316,
+    "totalJobs": 1317,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T21:05:21.704Z",
+      "date": "2026-01-05T21:38:04.244Z",
       "archived": 0
     }
   }
