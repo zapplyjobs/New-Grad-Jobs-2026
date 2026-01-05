@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T19:08:11.429Z",
+  "lastUpdated": "2026-01-05T19:24:51.033Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
@@ -14422,14 +14422,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5007620007",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8326060002-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8326060002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Machine Learning (Safety)",
+      "postedToDiscord": "2026-01-05T19:24:44.413Z",
+      "sourceDate": "2026-01-05T14:08:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8326060002",
+      "discordThreadId": "1457817096925745303",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-tesla-com-careers-search-job-software-integration-engineer-factory-firmware-249467-2026-01-05-1",
+      "jobId": "www-tesla-com-careers-search-job-software-integration-engineer-factory-firmware-249467",
+      "company": "Tesla",
+      "title": "Software Integration Engineer, Factory Firmware",
+      "postedToDiscord": "2026-01-05T19:24:51.033Z",
+      "sourceDate": "2025-08-28T20:43:06.000Z",
+      "sourceUrl": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
+      "discordThreadId": "1457817125056938118",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1311,
+    "totalJobs": 1313,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T19:08:11.429Z",
+      "date": "2026-01-05T19:24:51.033Z",
       "archived": 0
     }
   }
