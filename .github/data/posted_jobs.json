@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T22:24:22.442Z",
+  "lastUpdated": "2026-01-05T22:40:39.952Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
@@ -14510,14 +14510,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8352070002",
       "discordThreadId": "1457862304581292358",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7504966-2026-01-05-1",
+      "jobId": "careers-datadoghq-com-detail-7504966",
+      "company": "datadog",
+      "title": "Head of Sales Programs",
+      "postedToDiscord": "2026-01-05T22:40:39.952Z",
+      "sourceDate": "2026-01-05T17:29:29-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7504966/?gh_jid=7504966",
+      "discordThreadId": "1457866404656320807",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1319,
+    "totalJobs": 1320,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T22:24:22.442Z",
+      "date": "2026-01-05T22:40:39.952Z",
       "archived": 0
     }
   }
