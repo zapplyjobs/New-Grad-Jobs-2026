@@ -571,18 +571,19 @@ client.once('ready', async () => {
     if (enrichedJobs.length > 0) {
       console.log(`[BOT] 🔍 Sample enriched job: ${jobs[0]?.job_title} at ${jobs[0]?.employer_name}`);
     }
-    return;
-  }
-
-  if (!jobs.length) {
-    console.log('ℹ️ No new jobs to post');
+  } catch (error) {
+    console.log('ℹ️ No pending queue found or error reading it');
+    console.error('🔍 DEBUG - Full error:', error.message);
+    console.error('🔍 DEBUG - Error stack:', error.stack);
     client.destroy();
     process.exit(0);
     return;
   }
 
-  // Export all jobs to encrypted JSON for external job boards
-  try {
+  if (!jobs.length) {
+    console.log('ℹ️ No enriched jobs to post');
+    client.destroy();
+    process.exit(0);
     jobsExporter.exportJobs(jobs);
   } catch (error) {
     console.log('⚠️ Failed to export jobs data:', error.message);
