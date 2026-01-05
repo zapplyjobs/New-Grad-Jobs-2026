@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T22:40:39.952Z",
+  "lastUpdated": "2026-01-05T23:38:20.922Z",
   "jobs": [
-    {
-      "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
-      "jobId": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application",
-      "company": "The Job Sauce",
-      "title": "Software Engineer",
-      "postedToDiscord": "2025-12-29T23:35:50.736Z",
-      "sourceDate": "2025-12-29T23:17:24.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application",
-      "discordThreadId": "1455343575977037949",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nordstrom-wd501-myworkdayjobs-com-nordstrom_careers-job-seattle-wa-data-analyst-1-nordstrom-media-network-hybrid-seattle-_r-805780-1-2025-12-29-1",
-      "jobId": "nordstrom-wd501-myworkdayjobs-com-nordstrom_careers-job-seattle-wa-data-analyst-1-nordstrom-media-network-hybrid-seattle-_r-805780-1",
-      "company": "Nordstrom",
-      "title": "Data Analyst 1 - Nordstrom Media Network - Hybrid','Seattle",
-      "postedToDiscord": "2025-12-29T23:35:57.284Z",
-      "sourceDate": "2025-12-29T23:15:59.000Z",
-      "sourceUrl": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-1--Nordstrom-Media-Network--Hybrid--Seattle-_R-805780-1",
-      "discordThreadId": "1455343602883367188",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-westerndigital-744000100914956-2025-12-29-1",
-      "jobId": "jobs-smartrecruiters-com-westerndigital-744000100914956",
-      "company": "Western Digital",
-      "title": "Early Career Talent - Applications Engineer - Data Science/Automation",
-      "postedToDiscord": "2025-12-29T23:36:03.706Z",
-      "sourceDate": "2025-12-29T23:05:13.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000100914956",
-      "discordThreadId": "1455343630171767022",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-spacex-jobs-8342599002-2025-12-30-1",
       "jobId": "boards-greenhouse-io-spacex-jobs-8342599002",
@@ -14521,14 +14488,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7504966/?gh_jid=7504966",
       "discordThreadId": "1457866404656320807",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055264008-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055264008",
+      "company": "anthropic",
+      "title": "Product Operations Manager, Claude Code",
+      "postedToDiscord": "2026-01-05T23:37:43.190Z",
+      "sourceDate": "2026-01-05T18:35:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055264008",
+      "discordThreadId": "1457880761750392928",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7095084-2026-01-05-1",
+      "jobId": "careers-datadoghq-com-detail-7095084",
+      "company": "datadog",
+      "title": "Premier Support Engineer 2 - New York",
+      "postedToDiscord": "2026-01-05T23:37:49.999Z",
+      "sourceDate": "2026-01-05T18:33:37-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7095084/?gh_jid=7095084",
+      "discordThreadId": "1457880789642514578",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000101691146-2026-01-05-1",
+      "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000101691146",
+      "company": "Palo Alto Networks",
+      "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
+      "postedToDiscord": "2026-01-05T23:37:53.508Z",
+      "sourceDate": "2026-01-05T23:19:25.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000101691146",
+      "discordThreadId": "1457880805501046834",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mtstatejobs-taleo-net-careersection-200-jobdetail-ftl-2026-01-05-1",
+      "jobId": "mtstatejobs-taleo-net-careersection-200-jobdetail-ftl",
+      "company": "State of Montana",
+      "title": "CPM Data Processor 1",
+      "postedToDiscord": "2026-01-05T23:37:55.239Z",
+      "sourceDate": "2026-01-05T23:15:15.000Z",
+      "sourceUrl": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=25143077",
+      "discordThreadId": "1457880820152012841",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319305-2026-01-05-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319305",
+      "company": "Oracle",
+      "title": "Systems Analyst 1-Support - Support",
+      "postedToDiscord": "2026-01-05T23:37:57.282Z",
+      "sourceDate": "2026-01-05T23:13:30.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319305",
+      "discordThreadId": "1457880827319816307",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-cc071a65-fbaa-436c-82a0-c695189038b7-application-2026-01-05-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-cc071a65-fbaa-436c-82a0-c695189038b7-application",
+      "company": "Jerry",
+      "title": "Software Engineer - Entry",
+      "postedToDiscord": "2026-01-05T23:38:04.075Z",
+      "sourceDate": "2026-01-05T23:22:01.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/cc071a65-fbaa-436c-82a0-c695189038b7/application",
+      "discordThreadId": "1457880848564097208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "marvell-wd1-myworkdayjobs-com-marvellcareers2-job-santa-clara-ca-ai-engineer_2503867-1-2026-01-05-1",
+      "jobId": "marvell-wd1-myworkdayjobs-com-marvellcareers2-job-santa-clara-ca-ai-engineer_2503867-1",
+      "company": "Marvell",
+      "title": "AI Engineer",
+      "postedToDiscord": "2026-01-05T23:38:07.659Z",
+      "sourceDate": "2026-01-05T23:17:52.000Z",
+      "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Engineer_2503867-1",
+      "discordThreadId": "1457880864699580561",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-73110-2026-01-05-1",
+      "jobId": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-73110",
+      "company": "BNY",
+      "title": "BNY Analyst Program",
+      "postedToDiscord": "2026-01-05T23:38:14.450Z",
+      "sourceDate": "2026-01-05T23:17:44.000Z",
+      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/73110",
+      "discordThreadId": "1457880892277264619",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-redsox-d80ec9ea-718d-4769-a30d-3a194cf40ef2-apply-2026-01-05-1",
+      "jobId": "jobs-lever-co-redsox-d80ec9ea-718d-4769-a30d-3a194cf40ef2-apply",
+      "company": "Major League Baseball",
+      "title": "Minor League Technology Operator",
+      "postedToDiscord": "2026-01-05T23:38:20.922Z",
+      "sourceDate": "2026-01-05T23:17:15.000Z",
+      "sourceUrl": "https://jobs.lever.co/redsox/d80ec9ea-718d-4769-a30d-3a194cf40ef2/apply",
+      "discordThreadId": "1457880920756588678",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1320,
+    "totalJobs": 1326,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T22:40:39.952Z",
+      "date": "2026-01-05T23:38:20.922Z",
       "archived": 0
     }
   }
