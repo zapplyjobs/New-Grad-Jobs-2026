@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T18:08:40.975Z",
+  "lastUpdated": "2026-01-05T18:26:03.447Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14400,14 +14400,36 @@
       "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Atlanta-GA/Report-Customization-Specialist---Temporary-Assignment_R17168",
       "discordThreadId": "1457797957469470721",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5732415004-2026-01-05-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5732415004",
+      "company": "figma",
+      "title": "Director, Product Marketing ",
+      "postedToDiscord": "2026-01-05T18:25:56.480Z",
+      "sourceDate": "2026-01-05T13:20:00-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732415004?gh_jid=5732415004",
+      "discordThreadId": "1457802300763541617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-152559-2026-01-05-1",
+      "jobId": "www-uber-com-global-en-careers-list-152559",
+      "company": "Uber",
+      "title": "Graduate Software Engineer 1 - Mobile",
+      "postedToDiscord": "2026-01-05T18:26:03.447Z",
+      "sourceDate": "2025-12-18T23:17:46.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152559/",
+      "discordThreadId": "1457802328508993667",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1309,
+    "totalJobs": 1311,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T18:08:40.975Z",
+      "date": "2026-01-05T18:26:03.447Z",
       "archived": 0
     }
   }
