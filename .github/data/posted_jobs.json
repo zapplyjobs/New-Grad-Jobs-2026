@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T17:07:51.934Z",
+  "lastUpdated": "2026-01-05T17:25:41.715Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14246,14 +14246,25 @@
       "sourceUrl": "https://university-uber.icims.com/jobs/152559/job?mobile=true&needsRedirect=false",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5042174004-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5042174004",
+      "company": "vercel",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-05T17:25:41.715Z",
+      "sourceDate": "2026-01-05T12:12:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042174004",
+      "discordThreadId": "1457787138409103576",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1295,
+    "totalJobs": 1296,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T17:07:51.934Z",
+      "date": "2026-01-05T17:25:41.715Z",
       "archived": 0
     }
   }
