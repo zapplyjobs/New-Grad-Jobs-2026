@@ -370,43 +370,82 @@ function writeNewJobsJson(jobs) {
 // Update seen jobs store with atomic writes to prevent corruption
 function updateSeenJobsStore(jobs, seenIds) {
     const dataDir = path.join(process.cwd(), '.github', 'data');
-    
+
     try {
-        // Ensure data folder exists
         if (!fs.existsSync(dataDir)) {
             fs.mkdirSync(dataDir, { recursive: true });
         }
-        
-        // Mark new jobs as seen
-        jobs.forEach(job => seenIds.add(job.id));
-        
-        // Convert Set to sorted array for consistency
-        let seenJobsArray = [...seenIds].sort();
-        
-        // Cleanup: Remove entries older than 30 days to prevent infinite growth
-        // This is safe because we only track jobs from the last week anyway
-        const maxEntries = 10000; // Reasonable upper limit
-        if (seenJobsArray.length > maxEntries) {
-            seenJobsArray = seenJobsArray.slice(-maxEntries); // Keep most recent entries
-            console.log(`🧹 Trimmed seen_jobs.json to ${maxEntries} most recent entries`);
-        }
-        
-        // Atomic write: write to temp file then rename
+
+        // Load existing data with timestamps
         const seenPath = path.join(dataDir, 'seen_jobs.json');
+        let seenWithTimestamps = {};
+
+        try {
+            if (fs.existsSync(seenPath)) {
+                const existing = JSON.parse(fs.readFileSync(seenPath, 'utf8'));
+
+                // Handle both formats
+                if (Array.isArray(existing)) {
+                    // Legacy: convert array to object
+                    const now = new Date().toISOString();
+                    existing.forEach(id => {
+                        seenWithTimestamps[id] = now;
+                    });
+                } else {
+                    seenWithTimestamps = existing;
+                }
+            }
+        } catch (loadError) {
+            console.error('⚠️ Error loading existing seen_jobs.json:', loadError.message);
+        }
+
+        // Add new jobs with current timestamp
+        const now = new Date().toISOString();
+        jobs.forEach(job => {
+            seenWithTimestamps[job.id] = now;
+        });
+
+        // Expire entries older than 7 days
+        const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
+        const validEntries = {};
+        let expiredCount = 0;
+
+        Object.entries(seenWithTimestamps).forEach(([id, timestamp]) => {
+            const seenDate = new Date(timestamp).getTime();
+            if (seenDate >= sevenDaysAgo) {
+                validEntries[id] = timestamp;
+            } else {
+                expiredCount++;
+            }
+        });
+
+        if (expiredCount > 0) {
+            console.log(`🧹 Removed ${expiredCount} expired entries (>7 days old)`);
+        }
+
+        // Safety limit: keep only most recent 10,000 if we exceed
+        let finalEntries = validEntries;
+        if (Object.keys(validEntries).length > 10000) {
+            console.log(`⚠️ Exceeded 10,000 entries (${Object.keys(validEntries).length}), trimming to most recent 10,000`);
+
+            // Sort by timestamp (most recent first) and take top 10,000
+            const sorted = Object.entries(validEntries)
+                .sort((a, b) => new Date(b[1]) - new Date(a[1]))
+                .slice(0, 10000);
+
+            finalEntries = Object.fromEntries(sorted);
+        }
+
+        // Atomic write
         const tempPath = path.join(dataDir, 'seen_jobs.tmp.json');
-        
-        // Write to temporary file
-        fs.writeFileSync(tempPath, JSON.stringify(seenJobsArray, null, 2), 'utf8');
-        
-        // Atomic rename - this prevents corruption if process is killed mid-write
+        fs.writeFileSync(tempPath, JSON.stringify(finalEntries, null, 2), 'utf8');
         fs.renameSync(tempPath, seenPath);
-        
-        console.log(`✅ Updated seen_jobs.json with ${jobs.length} new entries (total: ${seenJobsArray.length})`);
-        
+
+        console.log(`✅ Updated seen_jobs.json: added ${jobs.length} new, ${Object.keys(finalEntries).length} total active`);
+
     } catch (error) {
         console.error('❌ Error updating seen jobs store:', error.message);
-        
-        // Clean up temp file if it exists
+
         const tempPath = path.join(dataDir, 'seen_jobs.tmp.json');
         if (fs.existsSync(tempPath)) {
             try {
@@ -415,8 +454,8 @@ function updateSeenJobsStore(jobs, seenIds) {
                 console.error('⚠️ Could not clean up temp file:', cleanupError.message);
             }
         }
-        
-        throw error; // Re-throw to stop execution
+
+        throw error;
     }
 }
 
@@ -554,61 +593,86 @@ function cleanupPostedFromQueue(queue, postedIds) {
 function loadSeenJobsStore() {
     const dataDir = path.join(process.cwd(), '.github', 'data');
     const seenPath = path.join(dataDir, 'seen_jobs.json');
-    
+
     try {
         if (!fs.existsSync(seenPath)) {
             console.log('ℹ️ No existing seen_jobs.json found - starting fresh');
             return new Set();
         }
-        
+
         const fileContent = fs.readFileSync(seenPath, 'utf8');
         if (!fileContent.trim()) {
             console.log('⚠️ Empty seen_jobs.json file - starting fresh');
             return new Set();
         }
-        
-        const seenJobs = JSON.parse(fileContent);
-        if (!Array.isArray(seenJobs)) {
-            console.log('⚠️ Invalid seen_jobs.json format - expected array, starting fresh');
-            return new Set();
+
+        const seenData = JSON.parse(fileContent);
+
+        // Handle both old format (array) and new format (object with timestamps)
+        let seenJobs;
+        if (Array.isArray(seenData)) {
+            // Legacy format: convert to new format (assume all are current)
+            console.log('⚠️ Converting legacy seen_jobs.json format to timestamped format');
+            seenJobs = {};
+            const now = new Date().toISOString();
+            seenData.forEach(id => {
+                if (typeof id === 'string' && id.trim().length > 0) {
+                    seenJobs[id] = now;
+                }
+            });
+        } else {
+            seenJobs = seenData;
         }
-        
-        // Filter out invalid entries (non-strings or empty strings)
-        const validSeenJobs = seenJobs.filter(id => typeof id === 'string' && id.trim().length > 0);
-        
-        if (validSeenJobs.length !== seenJobs.length) {
-            console.log(`⚠️ Filtered ${seenJobs.length - validSeenJobs.length} invalid entries from seen_jobs.json`);
+
+        // Expire entries older than 7 days
+        const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
+        const validSeenJobs = {};
+        let expiredCount = 0;
+
+        Object.entries(seenJobs).forEach(([id, timestamp]) => {
+            const seenDate = new Date(timestamp).getTime();
+            if (seenDate >= sevenDaysAgo) {
+                validSeenJobs[id] = timestamp;
+            } else {
+                expiredCount++;
+            }
+        });
+
+        if (expiredCount > 0) {
+            console.log(`🧹 Expired ${expiredCount} old entries from seen_jobs.json (>7 days)`);
         }
-        
-        console.log(`✅ Loaded ${validSeenJobs.length} previously seen jobs`);
-        
+
+        console.log(`✅ Loaded ${Object.keys(validSeenJobs).length} recently seen jobs`);
+
         // Migration check: if all IDs are in old format, we need to regenerate them
         // Old format contains commas and multiple dashes, new format doesn't
-        const hasOldFormatIds = validSeenJobs.some(id => id.includes(',') || id.includes('---'));
-        
-        if (hasOldFormatIds && validSeenJobs.length > 0) {
+        const jobIds = Object.keys(validSeenJobs);
+        const hasOldFormatIds = jobIds.some(id => id.includes(',') || id.includes('---'));
+
+        if (hasOldFormatIds && jobIds.length > 0) {
             console.log('⚠️ Detected old job ID format - migrating to new standardized format');
-            
+
             // Migrate old IDs to new format to minimize re-posting
-            const migratedIds = validSeenJobs.map(oldId => {
-                if (oldId.includes(',') || oldId.includes('---')) {
-                    return migrateOldJobId(oldId);
-                }
-                return oldId; // Already in new format
+            const migratedJobs = {};
+            jobIds.forEach(oldId => {
+                const newId = (oldId.includes(',') || oldId.includes('---'))
+                    ? migrateOldJobId(oldId)
+                    : oldId;
+                migratedJobs[newId] = validSeenJobs[oldId];
             });
-            
-            const uniqueMigratedIds = [...new Set(migratedIds)];
-            console.log(`📝 Migrated ${validSeenJobs.length} old IDs to ${uniqueMigratedIds.length} new format IDs`);
-            
-            return new Set(uniqueMigratedIds);
+
+            console.log(`📝 Migrated ${jobIds.length} old IDs to ${Object.keys(migratedJobs).length} new format IDs`);
+
+            return new Set(Object.keys(migratedJobs));
         }
-        
-        return new Set(validSeenJobs);
-        
+
+        // Return as Set of IDs for compatibility with existing code
+        return new Set(Object.keys(validSeenJobs));
+
     } catch (error) {
         console.error('❌ Error loading seen_jobs.json:', error.message);
         console.log('ℹ️ Creating backup and starting fresh');
-        
+
         // Create backup of corrupted file
         try {
             const backupPath = path.join(dataDir, `seen_jobs_backup_${Date.now()}.json`);
@@ -617,7 +681,7 @@ function loadSeenJobsStore() {
         } catch (backupError) {
             console.error('⚠️ Could not create backup:', backupError.message);
         }
-        
+
         return new Set();
     }
 }
