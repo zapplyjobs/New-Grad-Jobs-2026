@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T19:24:51.033Z",
+  "lastUpdated": "2026-01-05T20:25:20.146Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2025-12-29-1",
@@ -14444,14 +14444,25 @@
       "sourceUrl": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
       "discordThreadId": "1457817125056938118",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041343008-2026-01-05-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041343008",
+      "company": "anthropic",
+      "title": "Security Development Project Specialist",
+      "postedToDiscord": "2026-01-05T20:25:20.145Z",
+      "sourceDate": "2026-01-05T15:20:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041343008",
+      "discordThreadId": "1457832347633455207",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1313,
+    "totalJobs": 1314,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T19:24:51.033Z",
+      "date": "2026-01-05T20:25:20.146Z",
       "archived": 0
     }
   }
