@@ -584,9 +584,6 @@ client.once('ready', async () => {
     console.log('ℹ️ No enriched jobs to post');
     client.destroy();
     process.exit(0);
-    jobsExporter.exportJobs(jobs);
-  } catch (error) {
-    console.log('⚠️ Failed to export jobs data:', error.message);
   }
 
   // Filter out jobs that have already been posted to Discord
