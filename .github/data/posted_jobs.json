@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T03:27:04.148Z",
+  "lastUpdated": "2026-01-05T04:07:28.250Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-americaninstitutesforresearch-jobs-5046338008-2025-12-29-1",
@@ -14059,14 +14059,25 @@
       "sourceUrl": "https://jobs.lever.co/spotify/cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
       "discordThreadId": "1457576092268236802",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-visa-744000101533055-2026-01-05-1",
+      "jobId": "jobs-smartrecruiters-com-visa-744000101533055",
+      "company": "Visa",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-05T04:07:28.249Z",
+      "sourceDate": "2026-01-05T03:07:07.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000101533055",
+      "discordThreadId": "1457586259315916903",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1278,
+    "totalJobs": 1279,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T03:27:04.148Z",
+      "date": "2026-01-05T04:07:28.250Z",
       "archived": 0
     }
   }
