@@ -12,8 +12,8 @@ const {
 } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
-const { discordApiCall } = require('@zapply/job-board-shared');
-const { formatPostedDate, cleanJobDescription } = require('@zapply/job-board-shared');
+const { discordApiCall } = require('../utils/error-handler');
+const { formatPostedDate, cleanJobDescription } = require('../utils/job-formatters');
 const { generateJobId } = require('../../job-fetcher/utils');
 
 // Load company data for tier detection

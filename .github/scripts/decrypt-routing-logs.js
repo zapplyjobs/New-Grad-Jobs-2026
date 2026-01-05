@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { decryptLog } = require('@zapply/job-board-shared');
+const { decryptLog } = require('./encryption-utils');
 
 // Get password from environment or prompt
 // NOTE: For symmetric encryption (AES-256-GCM), use the SAME password as LOG_ENCRYPT_PASSWORD

@@ -18,11 +18,11 @@ const {
 
 // Import extracted modules
 const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG, LEGACY_CHANNEL_ID, MULTI_CHANNEL_MODE, LOCATION_MODE_ENABLED } = require('./src/discord/config');
-const { getJobChannelDetails, isAIRole, isDataScienceRole, isTechRole, isNonTechRole } = require('@zapply/job-board-shared');
-const { normalizeJob } = require('@zapply/job-board-shared');
-const { formatPostedDate, cleanJobDescription } = require('@zapply/job-board-shared');
-const { PostedJobsManagerV2: PostedJobsManager } = require('@zapply/job-board-shared');
-const { SubscriptionManager } = require('@zapply/job-board-shared');
+const { getJobChannelDetails, isAIRole, isDataScienceRole, isTechRole, isNonTechRole } = require('./src/routing/router');
+const { normalizeJob } = require('./src/utils/job-normalizer');
+const { formatPostedDate, cleanJobDescription } = require('./src/utils/job-formatters');
+const PostedJobsManager = require('./src/data/posted-jobs-manager-v2');
+const SubscriptionManager = require('./src/data/subscription-manager');
 
 // Environment variables
 const TOKEN = process.env.DISCORD_TOKEN;
@@ -42,7 +42,7 @@ const { loadPendingQueue, savePendingQueue } = require('./job-fetcher/job-proces
 
 // Import routing logger, posting logger, and jobs exporter for debugging
 const RoutingLogger = require('./routing-logger');
-const { DiscordPostLogger } = require('@zapply/job-board-shared');
+const DiscordPostLogger = require('./discord-post-logger');
 const JobsDataExporter = require('./jobs-data-exporter');
 const ChannelStatsManager = require('./channel-stats');
 
