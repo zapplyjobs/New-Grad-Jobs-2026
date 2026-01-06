@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-05T23:38:20.922Z",
+  "lastUpdated": "2026-01-06T00:11:49.338Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-spacex-jobs-8342599002-2025-12-30-1",
-      "jobId": "boards-greenhouse-io-spacex-jobs-8342599002",
-      "company": "SpaceX",
-      "title": "Software Engineer - Starlink Ground Network",
-      "postedToDiscord": "2025-12-30T00:09:13.254Z",
-      "sourceDate": "2025-12-29T23:31:48.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8342599002",
-      "discordThreadId": "1455351974919667844",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-citizen-20health-5233e464-0a9b-4efd-979a-97ef53d1080a-application-2025-12-30-1",
-      "jobId": "jobs-ashbyhq-com-citizen-20health-5233e464-0a9b-4efd-979a-97ef53d1080a-application",
-      "company": "Citizen Health",
-      "title": "Early Career Software Engineer",
-      "postedToDiscord": "2025-12-30T00:09:16.767Z",
-      "sourceDate": "2025-12-29T23:21:57.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application",
-      "discordThreadId": "1455351989243216108",
-      "instanceNumber": 1
-    },
     {
       "id": "www-rubrik-com-company-careers-departments-job-6528028-2025-12-30-1",
       "jobId": "www-rubrik-com-company-careers-departments-job-6528028",
@@ -14587,14 +14565,124 @@
       "sourceUrl": "https://jobs.lever.co/redsox/d80ec9ea-718d-4769-a30d-3a194cf40ef2/apply",
       "discordThreadId": "1457880920756588678",
       "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459-2026-01-06-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - Guidewire",
+      "postedToDiscord": "2026-01-06T00:11:12.547Z",
+      "sourceDate": "2026-01-05T23:44:47.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---Guidewire_R-48459",
+      "discordThreadId": "1457889187893219382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007321-2026-01-06-1",
+      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007321",
+      "company": "Welocalize",
+      "title": "Search Quality Rater",
+      "postedToDiscord": "2026-01-06T00:11:16.230Z",
+      "sourceDate": "2026-01-05T23:42:53.000Z",
+      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007321",
+      "discordThreadId": "1457889205148586205",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-150774-2026-01-06-1",
+      "jobId": "www-uber-com-global-en-careers-list-150774",
+      "company": "Uber",
+      "title": "Software Engineering Boost Fellowship",
+      "postedToDiscord": "2026-01-06T00:11:19.790Z",
+      "sourceDate": "2026-01-05T23:28:04.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/150774/",
+      "discordThreadId": "1457889220063662271",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ejwl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-26207648-2026-01-06-1",
+      "jobId": "ejwl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-26207648",
+      "company": "Marriott International",
+      "title": "Barista",
+      "postedToDiscord": "2026-01-06T00:11:23.273Z",
+      "sourceDate": "2026-01-05T23:25:55.000Z",
+      "sourceUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26207648",
+      "discordThreadId": "1457889234684870677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-1800contacts-jobs-7386220-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-1800contacts-jobs-7386220",
+      "company": "1-800 Contacts",
+      "title": "Frontend Web Developer",
+      "postedToDiscord": "2026-01-06T00:11:26.940Z",
+      "sourceDate": "2026-01-05T23:23:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/1800contacts/jobs/7386220",
+      "discordThreadId": "1457889249667055726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dell-wd1-myworkdayjobs-com-external-job-hopkinton-massachusetts-united-states-software-engineer-2_r282942-2-2026-01-06-1",
+      "jobId": "dell-wd1-myworkdayjobs-com-external-job-hopkinton-massachusetts-united-states-software-engineer-2_r282942-2",
+      "company": "Dell Technologies",
+      "title": "Software Engineer 2",
+      "postedToDiscord": "2026-01-06T00:11:30.575Z",
+      "sourceDate": "2026-01-05T23:17:32.000Z",
+      "sourceUrl": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Software-Engineer-2_R282942-2",
+      "discordThreadId": "1457889264929996884",
+      "instanceNumber": 1
+    },
+    {
+      "id": "assaabloy-jobs2web-com-job-mason-city-associate-product-engineer-ia-50401-1280375301-2026-01-06-1",
+      "jobId": "assaabloy-jobs2web-com-job-mason-city-associate-product-engineer-ia-50401-1280375301",
+      "company": "ASSA ABLOY",
+      "title": "Associate Product Engineer",
+      "postedToDiscord": "2026-01-06T00:11:34.446Z",
+      "sourceDate": "2026-01-05T23:15:02.000Z",
+      "sourceUrl": "https://assaabloy.jobs2web.com/job/Mason-City-Associate-Product-Engineer-IA-50401/1280375301/?ats=successfactors",
+      "discordThreadId": "1457889280478412842",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cotiviti-icims-com-jobs-17318-job-2026-01-06-1",
+      "jobId": "careers-cotiviti-icims-com-jobs-17318-job",
+      "company": "Cotiviti",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-06T00:11:37.995Z",
+      "sourceDate": "2025-09-10T21:45:50.000Z",
+      "sourceUrl": "https://careers-cotiviti.icims.com/jobs/17318/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1457889296534081679",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-esri-com-careers-5012652007-2026-01-06-1",
+      "jobId": "www-esri-com-careers-5012652007",
+      "company": "Esri",
+      "title": "Product Engineer 1 - Generative AI - Arcgis Enterprise",
+      "postedToDiscord": "2026-01-06T00:11:42.833Z",
+      "sourceDate": "2026-01-05T23:42:51.000Z",
+      "sourceUrl": "https://www.esri.com/careers/5012652007?gh_jid=5012652007",
+      "discordThreadId": "1457889323776213214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7580642628170303749-2026-01-06-1",
+      "jobId": "lifeattiktok-com-search-7580642628170303749",
+      "company": "TikTok",
+      "title": "Senior Data Scientist - Ads - Usds",
+      "postedToDiscord": "2026-01-06T00:11:49.338Z",
+      "sourceDate": "2026-01-05T23:27:23.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7580642628170303749",
+      "discordThreadId": "1457889344420446341",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1326,
+    "totalJobs": 1334,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-05T23:38:20.922Z",
+      "date": "2026-01-06T00:11:49.338Z",
       "archived": 0
     }
   }
