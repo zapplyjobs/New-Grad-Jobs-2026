@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T08:27:36.062Z",
+  "lastUpdated": "2026-01-06T09:42:45.336Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-savvy-073aefc5-5eb1-4e67-9cb3-d4059dd8ce58-application-2025-12-30-1",
@@ -14983,16 +14983,37 @@
       "sourceUrl": "https://job-boards.greenhouse.io/koddi/jobs/8250169002",
       "discordThreadId": "1458014110426988556",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8360103002-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8360103002",
+      "company": "Twitch",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-06T09:42:45.319Z",
+      "sourceDate": "2026-01-06T09:16:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8360103002",
+      "discordThreadId": "1458033024355795017",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8334351002-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8334351002",
+      "company": "Twitch",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-06T09:42:45.336Z",
+      "sourceDate": "2026-01-06T09:16:05.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8334351002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1362,
+    "totalJobs": 1364,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T08:27:36.062Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-06T09:42:45.336Z",
+      "archived": 0
     }
   }
 }
