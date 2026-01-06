@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T11:37:43.272Z",
+  "lastUpdated": "2026-01-06T14:42:32.655Z",
   "jobs": [
     {
       "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-business-intelligence-engineer-i_1625414-2025-12-30-1",
@@ -14972,16 +14972,26 @@
       "sourceUrl": "https://lifeattiktok.com/search/7247892565525481786",
       "discordThreadId": "1458061956534636607",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335-2026-01-06-1",
+      "jobId": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335",
+      "company": "spotify",
+      "title": "Senior Staff Machine Learning Engineer - Home",
+      "postedToDiscord": "2026-01-06T14:42:32.655Z",
+      "sourceDate": "2026-01-06T12:03:25.795Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/0d21c06c-31f7-4898-b34b-b7bcd1518335",
+      "discordThreadId": "1458108467817746564",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1361,
+    "totalJobs": 1362,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T11:37:43.272Z",
-      "archived": 4,
-      "monthsAffected": 1
+      "date": "2026-01-06T14:42:32.655Z",
+      "archived": 0
     }
   }
 }
