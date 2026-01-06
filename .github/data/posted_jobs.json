@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T01:15:20.787Z",
+  "lastUpdated": "2026-01-06T01:57:04.169Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-patterndata-jobs-5012589007-2025-12-30-1",
-      "jobId": "job-boards-greenhouse-io-patterndata-jobs-5012589007",
-      "company": "Pattern Data",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2025-12-30T01:53:25.447Z",
-      "sourceDate": "2025-12-30T01:09:31.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
-      "discordThreadId": "1455378197989425278",
-      "instanceNumber": 1
-    },
     {
       "id": "lifeattiktok-com-search-7554542061111478536-2025-12-30-1",
       "jobId": "lifeattiktok-com-search-7554542061111478536",
@@ -14851,14 +14840,47 @@
       "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Terminal-Visual-Charting-Specialist_R-00172965",
       "discordThreadId": "1457905330569871391",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-jellyvision-com-about-us-careers-apply-2026-01-06-1",
+      "jobId": "www-jellyvision-com-about-us-careers-apply",
+      "company": "Jellyvision",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-06T01:56:55.882Z",
+      "sourceDate": "2026-01-05T23:34:40.000Z",
+      "sourceUrl": "https://www.jellyvision.com/about-us/careers/apply/?gh_jid=8359319002",
+      "discordThreadId": "1457915795828117586",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417-2026-01-06-1",
+      "jobId": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417",
+      "company": "Medline",
+      "title": "Analyst Data Management",
+      "postedToDiscord": "2026-01-06T01:56:57.629Z",
+      "sourceDate": "2026-01-05T23:33:26.000Z",
+      "sourceUrl": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Analyst-Data-Management_R2522417",
+      "discordThreadId": "1457915810495598643",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-markon-icims-com-jobs-7960-job-2026-01-06-1",
+      "jobId": "careers-markon-icims-com-jobs-7960-job",
+      "company": "Markon",
+      "title": "Software Engineer Level 0",
+      "postedToDiscord": "2026-01-06T01:57:04.169Z",
+      "sourceDate": "2025-11-11T00:04:13.000Z",
+      "sourceUrl": "https://careers-markon.icims.com/jobs/7960/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1457915830368075871",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1350,
+    "totalJobs": 1352,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T01:15:20.787Z",
+      "date": "2026-01-06T01:57:04.169Z",
       "archived": 0
     }
   }

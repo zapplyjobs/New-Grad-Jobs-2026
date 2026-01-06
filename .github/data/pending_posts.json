@@ -1,91 +1,69 @@
 [
   {
     "job": {
-      "job_title": "Minor League Technology Operator",
-      "employer_name": "Major League Baseball",
-      "job_city": "Worcester",
-      "job_state": "MA",
-      "job_description": "Minor League Technology OperatorWorcester, MA, United StatesBaseball Operations /Seasonal /On-siteApply for this jobPOSITION OVERVIEW: The Minor League Baseball Technology Operator will be a member of the Baseball Technology team and is responsible for preparing player development technologies at Polar Park. They will also collaborate closely with team members for maintenance and troubleshooting of stadium technologies when issues arise. The position offers flexible scheduling and requires the ability to work independently. The operator is expected to work the hours necessary to complete assigned responsibilities, up to 40 hours per week. Work will be assigned only during road-trip periods, typically every other week, totaling 12 weeks during the baseball season. No work is required when the team is at home.The hourly rate for this role is $15.RESPONSIBILITIES:Set-up, calibrate, and operate Rapsodo to ensure accurate data tracking.Collaborate with the Technology Specialist to plan and prepare opponent-specific pitch data within the Trajekt system.Operate the Trajekt pitching machine to replicate opposing pitch shapes by following internal processes and training standards to meet required output specifications.Assign and manage available videos for opposing players to ensure accurate visual representation during Trajekt simulations.Monitor Trajekt machine health, ensure proper technical care, and troubleshoot issues through Trajekt support channels as needed.Troubleshoot various baseball technologies with guidance from baseball technology professionals as needed.COMPETENCIES:Identify, analyze, and solve problems in a process-oriented manner, thinking critically and strategically.Ability to work independently and maintain self-sufficiency throughout the season.High level attention to detail and proactivity in relation to our processes and organizational workflows.Ability to develop proficiency with cutting-edge baseball technology.Familiarity with baseball analytics and modern pitching concepts.ADDITIONAL QUALIFICATIONS:Strong administrative skills; organized, proactive, and strong communication skillsPrior experience with baseball/softball is preferred.Candidates must be located within commutable distance to Polar Park in Worcester, MA. At the Boston Red Sox and Fenway Sports Management, we go beyond embracing diversity. We’re committed to living by our values, strengthening our community, and creating a workplace where people genuinely feel like they belong. Too often, job seekers don’t apply to positions because they don’t meet every qualification. If you love this role and are great at what you do, we encourage you to apply. Your unique skills and experiences might just be what we’ve been looking for. Prospective employees will receive consideration without discrimination based on race, religious creed, color, sex, age, national origin, handicap, disability, military/veteran status, ancestry, sexual orientation, gender identity/expression or protected genetic information.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/redsox/b7e58053-8b14-4183-ad66-bc1499c0a762/apply",
-      "job_posted_at_datetime_utc": "2026-01-05T23:17:08.000Z",
+      "job_title": "Data Engineer",
+      "employer_name": "Jellyvision",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Jellyvision in this exciting opportunity.",
+      "job_apply_link": "https://www.jellyvision.com/about-us/careers/apply/?gh_jid=8359319002",
+      "job_posted_at_datetime_utc": "2026-01-05T23:34:40.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply",
-      "description_platform": "lever",
-      "description_success": true
+      "id": "www-jellyvision-com-about-us-careers-apply",
+      "description_platform": "generic",
+      "description_success": false
     },
     "status": "posted",
-    "addedAt": "2026-01-06T00:44:23.188Z",
-    "enrichedAt": "2026-01-06T00:45:25.395Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "addedAt": "2026-01-06T01:13:34.189Z",
+    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "postedAt": "2026-01-06T01:57:07.183Z"
   },
   {
     "job": {
-      "job_title": "Software Engineer - AI Automation - Internal Tools",
-      "employer_name": "Voyager Technologies",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Voyager is an innovative defense, national security and space technology company committed to advancing and delivering transformative, mission-critical solutions. We tackle the most complex challenges to unlock new frontiers for human progress, fortify national security, and protect critical assets to lead in the race for technological and operational superiority from ground to space. Forge the Future: Join Voyager Technologies The future belongs to those who build it. At Voyager Technologies, we’re building technologies that protect lives, expand frontiers and prepare us for what’s next. And we’re doing that with people who are wired to solve, build, adapt and lead. These roles are not for the faint of heart. You’ll help lay the foundation for humanity's future. Join a culture where innovation thrives, curiosity is rewarded, and impact is real. We’re a company of doers, thinkers and builders, united by purpose and grounded in reality. If you want to put your skills to work where the stakes are real and the mission is bigger than any one person, forge the future with Voyager. ____________________________________________________________________________________ Job Summary: We are seeking Software Engineers – AI Automation (Internal Tools) to join Voyager’s Internal Tools Team. In this role, you will help design and build AI-driven automations, bots, and internal applications that streamline how Voyager runs—from finance and HR to supply chain, manufacturing, and business development. You will work closely with the Internal AI Tools Lead and business stakeholders to understand real-world pain points, then turn them into concrete, working systems. You will build integrations, write services, wire up LLMs and agents, and ship tools that remove repetitive work from the organization and make our teams faster, more accurate, and more focused on high-value tasks. This role is ideal for early-career engineers (including exceptional new graduates) who love building things, are comfortable talking to users, and are excited to use AI as a core part of their engineering toolkit. You will be joining the Internal AI Tools Team, a small, high-leverage engineering group focused on building AI-powered systems that run Voyager itself. This team designs and delivers internal platforms, automations, and copilots that turn slow, manual workflows into streamlined, integrated systems.We work across the entire business—Finance & Accounting, Internal Communications, Performance Management, Human Resources, IT & Infrastructure, Cyber Security & Systems Assurance, Mergers & Acquisitions, R&D and Technology Roadmapping, Strategic Planning, Enterprise Risk Management, Quality Assurance, Supply Chain & Procurement, Manufacturing & Assembly, and Sales / New Business Capture.Our goal is simple: multiply the effectiveness of every team at Voyager by replacing spreadsheet-driven, email-based processes with secure, AI-driven workflows, decision-support tools, and intelligent assistants that dramatically reduce cycle times and improve execution quality. Responsibilities: Build and maintain AI-powered automations and workflows that streamline recurring business processes (e.g., report generation, approval flows, policy Q&A, data reconciliation). Implement internal tools and microservices that integrate with systems across Finance & Accounting, HR, IT, Cyber Security, Supply Chain, Manufacturing, and Sales / New Business Capture. Develop and maintain Slack/Teams bots, web frontends, and small internal apps that serve as “copilots” for business users. Use LLMs and agent frameworks to design task-specific assistants—such as a contract summarization agent, a supplier risk analysis agent, or an internal policy advisor bot. Work with the Internal AI Tools Lead and business stakeholders to map manual workflows into clear technical requirements and automation designs. Leverage agentic to rapidly write clean, tested code and contribute to shared libraries, templates, and best practices for internal automations. Monitor and debug automations in production; improve reliability and performance based on real-world usage and feedback. Required Qualifications: 0–3 years of professional software engineering experience (internships, research, or substantial personal projects all count; exceptional new graduates are encouraged to apply). Proficiency in at least one general-purpose programming language such as Python, TypeScript/JavaScript, or similar. Experience building scripts, APIs, small web apps, or workflow automations—whether in a professional setting, research lab, or serious side projects. Familiarity with RESTful APIs, webhooks, and basic data modeling using SQL or modern data stores. Hands-on experience using LLMs or automation platforms (e.g., OpenAI tools, LangChain, Zapier, n8n, or similar) to automate or accelerate real tasks. Strong ownership mindset and willingness to talk directly with non-technical users to understand problems and ship solutions quickly. Preferred Qualifications: Bachelor’s degree in Computer Science, Software Engineering, or a related STEM field; or equivalent experience. Experience with one or more of: internal tools development, low-code/no-code automation, or back-office systems (ERP, CRM, HRIS, ticketing, finance tools). Exposure to enterprise or security-conscious environments (e.g., defense, aerospace, healthcare, finance) where data protection and auditability are important. Portfolio or examples of personal projects—automations, bots, dashboards, or tools you built to make your own life or your team’s work easier. Interest in business operations and process improvement, not just writing code in isolation. Passion for writing and shipping code rapidly that has a measurable impact on business efficiency. Voyager offers a comprehensive, total compensation package, which includes competitive salary, a discretionary annual bonus plan, paid time off (PTO), a comprehensive health benefit package, retirement savings, wellness program, and various other benefits. When you join our team, you’re not just an employee; you become part of a dynamic community dedicated to innovation and excellence. To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Voyager is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law. Minority/Female/Disabled/Veteran The statements contained in this job description are intended to describe the general content and requirements for performance of this job. It is not intended to be an exhaustive list of all job duties, responsibilities, and requirements. This job description is not an employment agreement or contract. Management has the exclusive right to alter the scope of work within the framework of this job description at any time without prior notice. California pay range$100,000 - $160,000 USDWashington DC pay range$100,000 - $160,000 USDWashington pay range$100,000 - $160,000 USD",
-      "job_apply_link": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087908009",
-      "job_posted_at_datetime_utc": "2025-12-23T17:06:58.000Z",
+      "job_title": "Analyst Data Management",
+      "employer_name": "Medline",
+      "job_city": "Wisconsin",
+      "job_state": "Locations",
+      "job_description": "Job SummaryThe Cross-Reference Team is responsible for the processing, maintenance and accuracy of Medline’s cross-reference data and requests.The Cross-Reference Analyst is responsible for leading data-driven projects that focus on improving quality, availability, and governance of cross-reference data records. The Data Analyst may be assigned specific focus domains or take on more generalized tasks as needed. Requires collaboration with team members, Sales Teams, Product Divisions, and other business units, and communication with various levels of management.Job Description**This role will be 100% remote, however must be within driving distance to Northfield, IL.**Responsibilities:Identify data and reporting tools necessary to/and perform business, and data analysis. Develop reporting/analysis for product manager, and/or sales.  Communicate the results of the business, and data analysis.Understand the impact of cross-reference data changes within Medline’s business systems. Anticipate downstream consequences of change on other business areas and systems.Develop and analyze data, providing insight into trends or unusual performance. Organize, plan and recommend analysis and reports consistent with continuous improvement of processes and procedures.  Recommend, develop, create and implement standard reporting for routine business reports.  Recommend, develop, create and implement ad hoc reports as business conditions necessitate.Monitor for data accuracy, timeliness and integrity in data used in analysis and reporting. Communicate to appropriate personnel if data inaccuracies exist.Ensure follow-up so that analysis and reporting outcomes are reviewed and implemented.Qualifications:Bachelor’s degree or at least 1 year relevant data management work experience.Minimum one year of relevant work experience in data management.Experience with analyzing and reporting data in order to identify issues, trends, or exceptions to drive improvement of results and find solutions.Medline Industries, LP, and its subsidiaries, offer a competitive total rewards package, continuing education & training, and tremendous potential with a growing worldwide organization.The anticipated salary range for this position:$54,000.00 - $81,000.00 AnnualThe actual salary will vary based on applicant’s location, education, experience, skills, and abilities. This role is bonus and/or incentive eligible. Medline will not pay less than the applicable minimum wage or salary threshold.Our benefit package includes health insurance, life and disability, 401(k) contributions, paid time off, etc., for employees working 30 or more hours per week on average. For a more comprehensive list of our benefits please click here. For roles where employees work less than 30 hours per week, benefits include 401(k) contributions as well as access to the Employee Assistance Program, Employee Resource Groups and the Employee Service Corp.We’re dedicated to creating a Medline where everyone feels they belong and can grow their career. We strive to do this by seeking diversity in all forms, acting inclusively, and ensuring that people have tools and resources to perform at their best. Explore our Belonging page here.Medline Industries, LP is an equal opportunity employer. Medline evaluates qualified individuals without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability, neurodivergence, protected veteran status, marital or family status, caregiver responsibilities, genetic information, or any other characteristic protected by applicable federal, state, or local laws.",
+      "job_apply_link": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Analyst-Data-Management_R2522417",
+      "job_posted_at_datetime_utc": "2026-01-05T23:33:26.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-06T00:44:23.188Z",
-    "enrichedAt": "2026-01-06T00:45:25.395Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
-  },
-  {
-    "job": {
-      "job_title": "3D Tomography Application Engineer",
-      "employer_name": "Zeiss",
-      "job_city": "Boise",
-      "job_state": "ID",
-      "job_description": "About Us:How many companies can say they’ve been in business for over 177 years?!Here at ZEISS, we certainly can! As the pioneers of science, ZEISS handles the everchanging environments in a fast-paced world, meeting it with cutting edge of technologies and continuous advancements. ZEISS believes that innovation and technology are the key to a sustainable future and solutions for global change. We have a diverse range of portfolios throughout the ZEISS family in segments like, Industrial Quality & Research, Medical Technology, Consumer Markets and Semiconductor Manufacturing Technology. We are a global company with over 42,000 employees and have over 4,000 in the US and Canada alone! Make a difference, come join the team!What’s the role?ZEISS is seeking a creative engineer or scientist to join its diverse, international team developing metrology and inspection solutions for advanced semiconductor manufacturing. The position focuses on pushing FIB-SEM technology beyond conventional limits to solve complex challenges in 3D metrology and semiconductor device inspection. This role offers daily opportunities to innovate, learn, and contribute to the development of cutting-edge products.Sound Interesting? Here’s what you’ll do:Develop hands-on applications for in-line metrology and inspection in semiconductor manufacturing using ZEISS’s FIB-SEM technology.Operate FIB-SEM systems in customers’ clean rooms.Collaborate with the engineering team to advance FIB-SEM technology.Gain first-hand knowledge of semiconductor FIB-SEM applications at customer sites, identifying improvements and new market opportunities.Work closely with internal hardware and software development groups.Provide technical guidance to Business Development Managers and the sales team.Lead and conduct live customer demos with samples and wafers.Be based full time at the customer site in Boise, Idaho.Do you qualify? Bachelor’s or Master’s degree in Engineering, Materials Science, Physics, or Chemistry.Experience with SEM imaging and a solid understanding of SEM imaging mechanisms.Experience with FIB-SEM sample preparation is an advantage.Proven ability to develop new processes or methodologies using FIB-SEM or SEM instruments.Familiarity with Design of Experiments (DOE) and Statistical Process Control (SPC).Knowledge of coding in Python or another language for data analytics or image processing is a strong plus.Excellent communication skills, self-direction, integrity, a positive attitude, eagerness to learn, and strong teamwork abilities.Openness to international travel and the ability to work in semiconductor fabs in the USA, South Korea, Taiwan, China, and Japan.We have amazing benefits to support you as an employee at ZEISS!MedicalVisionDental401k MatchingEmployee Assistance ProgramsVacation and sick payThe list goes on!Your ZEISS Recruiting Team:Maria KhalilZeiss provides Equal Employment Opportunity without unlawful regard to an Applicants race, color, religion, creed, sex, gender, marital status, age, national origin or ancestry, physical or mental disability, medical condition, military or veteran status, citizen status, sexual orientation, pregnancy (includes childbirth, breastfeeding or related medical condition), genetic predisposition, carrier status, gender expression or identity, including transgender identity, or any other class or characteristic protected by federal, state, or local law of the employee (or the people with whom the employee associates, including relatives and friends).",
-      "job_apply_link": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1",
-      "job_posted_at_datetime_utc": "2025-11-21T09:34:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1",
+      "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417",
       "description_platform": "workday",
       "description_success": true
     },
     "status": "posted",
-    "addedAt": "2026-01-06T00:44:23.188Z",
-    "enrichedAt": "2026-01-06T00:45:25.395Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "addedAt": "2026-01-06T01:13:34.189Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": "2026-01-06T01:57:07.183Z"
   },
   {
     "job": {
-      "job_title": "Tax Software Analyst",
-      "employer_name": "Wolters Kluwer",
-      "job_city": "Wichita",
-      "job_state": "KS",
-      "job_description": "Tax Software AnalystResponsibilities:Designs the complete user experience for all assigned products, including input, calculations, help screens, electronic filing, and printing functionalityConducts product testing and debugging of tax programs to ensure accuracy and complete functionality.Tests assigned products and cross-test products designed by other analystsProvide seasonal customer supportDemonstrate strong analytical and problem-solving skillsQualifications:Education: Bachelor's Degree in Accounting, Finance, Math or related field or equivalent experience. Other Relevant Experience, if Available: Income Tax Preparation experience working in a Public Accounting Firm or Corporate Tax department or software development experience ProSystem or Axcess software user experience a plus but is not requiredEssential Skills & Abilities:Self-motivated and organizedCommitment to providing exemplary productsStrong attention to detail Our Interview PracticesTo maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process.Applicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process. Compensation:0.00 - 0.00 Compensation range listed is based on primary location of the position.  Actual base salary offer is influenced by a wide array of factors including but not limited to skills, experience and actual hiring location. Your recruiter can share more information about the specific offer for the job location during the hiring process. Additional Information:Wolters Kluwer offers a wide variety of competitive benefits and programs to help meet your needs and balance your work and personal life, including but not limited to: Medical, Dental, & Vision Plans, 401(k), FSA/HSA, Commuter Benefits, Tuition Assistance Plan, Vacation and Sick Time, and Paid Parental Leave. Full details of our benefits are available upon request.",
-      "job_apply_link": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Wichita-KS/Tax-Software-Analyst_R0050915",
-      "job_posted_at_datetime_utc": "2025-08-20T16:34:49.000Z",
+      "job_title": "Software Engineer Level 0",
+      "employer_name": "Markon",
+      "job_city": "Odenton",
+      "job_state": "MD",
+      "job_description": "<h2>Overview</h2> <p>Eager to join a team where your skills are valued, your growth is nurtured, and your impact is profound? Look no further than Markon, a premier consulting firm deeply dedicated to advancing our nation's most critical missions.</p> <p>&nbsp;</p> <p>At Markon, we don't just offer jobs – we offer opportunities for personal and professional transformation. Empowering our employees to lead, innovate, and excel, we foster an environment where new ideas are not just welcomed but celebrated. As a perennial Washington Post Top Workplace, we prioritize the well-being and success of our team members, ensuring they can bring their best selves to work.</p> <p>&nbsp;</p> <p>Headquartered in Falls Church, Virginia, Markon has garnered national recognition for our unwavering dedication to excellence in serving the intelligence community, as well as federal civilian and defense agencies. Our growing reach extends across 17 states, 116 countries, and 5 continents, where our team of dynamic professionals collaborates to deliver unparalleled program and project management services.</p> <p>&nbsp;</p> <p>Markon values people and the tremendous impact each individual can make – which is why we’re consistently recognized as one of the best places to work in federal government consulting. Here, you can help solve the nation’s most important challenges, surrounded by colleagues who help you grow, advance, and succeed. We are deeply dedicated to what matters – bringing out the best in each other to advance our clients’ missions.Join us and make a meaningful impact.</p> <p>&nbsp;</p> <p>Markon is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, national origin, age, protected veteran status, or disability status. This job posting will remain open until the position is filled.</p> <p>&nbsp;</p> <p><strong>Benefits Offered</strong>: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Training and Tuition Assistance, Paid Time Off, and Holidays.</p> <p>&nbsp;</p> <h2>Description</h2> <p>Markon is seeking a Software Engineer to support the development, integration, and sustainment of mission-critical software systems for the Fort Meade Customer. The Software Engineer will apply strong analytical and programming skills to translate user requirements into reliable, high-performance software solutions using modern development practices.</p> <h2>Responsibilities</h2> <ul> <li>Analyze user and system requirements to derive software design and performance requirements.</li> <li>Design, develop, and code new software or modify existing software to add or enhance functionality.</li> <li>Debug and troubleshoot existing software to identify and correct defects.</li> <li>Integrate existing software into new or modified systems and operating environments.</li> <li>Develop simple data queries for existing or proposed databases and data repositories.</li> <li>Participate in software testing, integration, and validation activities.</li> <li>Provide recommendations to improve software documentation, development processes, and standards.</li> <li>Collaborate with systems engineers, administrators, and mission stakeholders throughout the software lifecycle.</li> </ul> <h2>Qualifications</h2> <p>Required Qualifications</p> <ul> <li>Active TS/SCI w/ Polygraph with this Customer.&nbsp;</li> <li>Bachelor’s degree in Computer Science or a related discipline required.</li> <li>Experience developing software in C++ and Python.</li> <li>Experience analyzing requirements and translating them into effective software designs.</li> <li>Familiarity with Linux-based development environments.</li> <li>Experience supporting software integration and sustainment in mission or production environments.</li> <li>Ability to communicate technical concepts clearly to both technical and non-technical audiences.</li> </ul> <h2>Salary Range</h2>USD $95,000.00 - USD $115,000.00 /Yr.The Markon pay range for this position is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+      "job_apply_link": "https://careers-markon.icims.com/jobs/7960/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-11-11T00:04:13.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915",
-      "description_platform": "workday",
+      "id": "careers-markon-icims-com-jobs-7960-job",
+      "description_platform": "icims",
       "description_success": true
     },
     "status": "posted",
-    "addedAt": "2026-01-06T00:44:23.188Z",
-    "enrichedAt": "2026-01-06T00:45:25.395Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "addedAt": "2026-01-06T01:13:34.189Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": "2026-01-06T01:57:07.183Z"
   },
   {
     "job": {
@@ -105,8 +83,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -127,8 +105,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -149,8 +127,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -171,8 +149,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -192,10 +170,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -215,8 +193,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -236,10 +214,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -259,8 +237,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -281,8 +259,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -302,10 +280,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -324,10 +302,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -347,8 +325,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -368,10 +346,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -390,10 +368,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": "2026-01-06T01:15:23.802Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -413,50 +391,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Data Engineer",
-      "employer_name": "Jellyvision",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Join Jellyvision in this exciting opportunity.",
-      "job_apply_link": "https://www.jellyvision.com/about-us/careers/apply/?gh_jid=8359319002",
-      "job_posted_at_datetime_utc": "2026-01-05T23:34:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "www-jellyvision-com-about-us-careers-apply",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": "2026-01-06T01:14:31.616Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Analyst Data Management",
-      "employer_name": "Medline",
-      "job_city": "Wisconsin",
-      "job_state": "Locations",
-      "job_description": "Join Medline in this exciting opportunity.",
-      "job_apply_link": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Analyst-Data-Management_R2522417",
-      "job_posted_at_datetime_utc": "2026-01-05T23:33:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "source": "simplify",
-      "source_url": "simplify.jobs",
-      "job_posted_at": "1h",
-      "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417"
-    },
-    "status": "pending",
-    "addedAt": "2026-01-06T01:13:34.189Z",
-    "enrichedAt": null,
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
     "postedAt": null
   },
   {
@@ -465,37 +401,121 @@
       "employer_name": "Adobe",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! Our Company Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands— everything they need to design and deliver exceptional digital experiences. We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We are dedicated to recruiting the top talent and are encouraging outstanding employee experiences where all individuals are valued and provided with equal opportunities. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours. The Opportunity  Adobe is seeking talented and passionate Software Engineer across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products.  What You’ll Do  Design, deploy, and maintain robust configuration management systems to support scalable infrastructure. Manage multiple environments for development, testing, and production to ensure smooth deployment cycles. Enhance, build, and deploy services on Adobe's platforms with a focus on machine learning (ML) service integration. Develop and optimize monitoring solutions to ensure the health of services and infrastructure. Continuously improve service reliability, resiliency, availability, and scalability. * Work in the lifecycle of operational readiness Collaborate with ML platform engineering teams to streamline and create automation for workflowsWhat You Need to Succeed Bachelor's degree in Computer Science or equivalent professional experience. 1-2 years of hands-on experience with at least one programming language such as Python or Node.js. Python is preferred. 1-2  years of experience with Docker, Kubernetes, and GitOps tools (e.g., ArgoCD). 1-2  years working with monitoring and observability tools such as Splunk, New Relic, Prometheus, or Grafana. Demonstrated ability to troubleshoot and debug complex cloud-based systems. Understanding of CI/CD concepts and implementation best practices. Experience with AI/ML model deployment workflows and infrastructure is a plusOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $93,200 -- $179,200 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process. \n\nIn California, the pay range for this position is $123,700 - $179,200\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans.  Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.Massachusetts:Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
       "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Development-Engineer_R160657",
       "job_posted_at_datetime_utc": "2026-01-05T23:17:39.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-development-engineer_r160657"
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-development-engineer_r160657",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Minor League Technology Operator",
+      "employer_name": "Major League Baseball",
+      "job_city": "Worcester",
+      "job_state": "MA",
+      "job_description": "Minor League Technology OperatorWorcester, MA, United StatesBaseball Operations /Seasonal /On-siteApply for this jobPOSITION OVERVIEW: The Minor League Baseball Technology Operator will be a member of the Baseball Technology team and is responsible for preparing player development technologies at Polar Park. They will also collaborate closely with team members for maintenance and troubleshooting of stadium technologies when issues arise. The position offers flexible scheduling and requires the ability to work independently. The operator is expected to work the hours necessary to complete assigned responsibilities, up to 40 hours per week. Work will be assigned only during road-trip periods, typically every other week, totaling 12 weeks during the baseball season. No work is required when the team is at home.The hourly rate for this role is $15.RESPONSIBILITIES:Set-up, calibrate, and operate Rapsodo to ensure accurate data tracking.Collaborate with the Technology Specialist to plan and prepare opponent-specific pitch data within the Trajekt system.Operate the Trajekt pitching machine to replicate opposing pitch shapes by following internal processes and training standards to meet required output specifications.Assign and manage available videos for opposing players to ensure accurate visual representation during Trajekt simulations.Monitor Trajekt machine health, ensure proper technical care, and troubleshoot issues through Trajekt support channels as needed.Troubleshoot various baseball technologies with guidance from baseball technology professionals as needed.COMPETENCIES:Identify, analyze, and solve problems in a process-oriented manner, thinking critically and strategically.Ability to work independently and maintain self-sufficiency throughout the season.High level attention to detail and proactivity in relation to our processes and organizational workflows.Ability to develop proficiency with cutting-edge baseball technology.Familiarity with baseball analytics and modern pitching concepts.ADDITIONAL QUALIFICATIONS:Strong administrative skills; organized, proactive, and strong communication skillsPrior experience with baseball/softball is preferred.Candidates must be located within commutable distance to Polar Park in Worcester, MA. At the Boston Red Sox and Fenway Sports Management, we go beyond embracing diversity. We’re committed to living by our values, strengthening our community, and creating a workplace where people genuinely feel like they belong. Too often, job seekers don’t apply to positions because they don’t meet every qualification. If you love this role and are great at what you do, we encourage you to apply. Your unique skills and experiences might just be what we’ve been looking for. Prospective employees will receive consideration without discrimination based on race, religious creed, color, sex, age, national origin, handicap, disability, military/veteran status, ancestry, sexual orientation, gender identity/expression or protected genetic information.Apply for this job",
+      "job_apply_link": "https://jobs.lever.co/redsox/b7e58053-8b14-4183-ad66-bc1499c0a762/apply",
+      "job_posted_at_datetime_utc": "2026-01-05T23:17:08.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply",
+      "description_platform": "lever",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": "2026-01-06T01:56:48.858Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Content Designer, Music Mission",
+      "employer_name": "spotify",
+      "job_city": "New York, NY",
+      "job_apply_link": "https://jobs.lever.co/spotify/5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
+      "job_posted_at_datetime_utc": "2026-01-05T18:44:22.524Z",
+      "job_description": "We're the Music Mission Design team, a multidisciplinary group building the experiences that help artists and their teams grow, connect with fans, and shape culture. From rich data insights to messaging tools and release workflows, we design Spotify for Artists, our platform used by artists worldwide to manage their careers and tell their stories.\n\nThis role sits at the intersection of language, systems, and creativity. You'll help define how artists understand what's working, plan what's next, and engage their audience, all through clear, impactful content design. If you're excited about designing with language, collaborating across disciplines, and supporting a global community of creators, you'll find space here to grow and lead.\n\nWe're looking for a Content Designer to join the Music Mission. You'll focus on shaping clear, helpful, and impactful user experiences across Spotify for Artists, with an emphasis on analytics, release tools, video management, messaging, and prompt-based features.\n\nThis is a mid-level role for someone who's confident writing for product flows and systems, energized by complexity, and passionate about helping users take action with clarity and confidence.\n",
+      "id": "jobs-lever-co-spotify-5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
+      "source": "lever",
+      "source_url": "api.lever.co",
+      "source_id": "5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
+      "title": "Content Designer, Music Mission",
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "location": "New York, NY",
+      "locations": [
+        "New York, NY"
+      ],
+      "workplace_type": "remote",
+      "url": "https://jobs.lever.co/spotify/5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
+      "apply_url": "https://jobs.lever.co/spotify/5ed17dbd-5d87-4cae-93b4-beda2b2eb19e/apply",
+      "team": "Music",
+      "department": "Design and User Experience",
+      "commitment": "Permanent",
+      "salary": null,
+      "posted_at": "2026-01-05T18:44:22.524Z",
+      "fetched_at": "2026-01-06T01:55:27.382Z",
+      "description": "We're the Music Mission Design team, a multidisciplinary group building the experiences that help artists and their teams grow, connect with fans, and shape culture. From rich data insights to messaging tools and release workflows, we design Spotify for Artists, our platform used by artists worldwide to manage their careers and tell their stories.\n\nThis role sits at the intersection of language, systems, and creativity. You'll help define how artists understand what's working, plan what's next, and engage their audience, all through clear, impactful content design. If you're excited about designing with language, collaborating across disciplines, and supporting a global community of creators, you'll find space here to grow and lead.\n\nWe're looking for a Content Designer to join the Music Mission. You'll focus on shaping clear, helpful, and impactful user experiences across Spotify for Artists, with an emphasis on analytics, release tools, video management, messaging, and prompt-based features.\n\nThis is a mid-level role for someone who's confident writing for product flows and systems, energized by complexity, and passionate about helping users take action with clarity and confidence.\n",
+      "_raw": {
+        "source": "lever",
+        "original_id": "5ed17dbd-5d87-4cae-93b4-beda2b2eb19e"
+      },
+      "job_posted_at": "1h"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T01:13:34.189Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
     "enrichedAt": null,
     "postedAt": null
   },
   {
     "job": {
-      "job_title": "Software Engineer Level 0",
-      "employer_name": "Markon",
-      "job_city": "Odenton",
-      "job_state": "MD",
-      "job_description": "Join Markon in this exciting opportunity.",
-      "job_apply_link": "https://careers-markon.icims.com/jobs/7960/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-11-11T00:04:13.000Z",
+      "job_title": "Software Engineer - AI Automation - Internal Tools",
+      "employer_name": "Voyager Technologies",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Voyager Technologies in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087908009",
+      "job_posted_at_datetime_utc": "2025-12-23T17:06:58.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "careers-markon-icims-com-jobs-7960-job"
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T01:13:34.189Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "3D Tomography Application Engineer",
+      "employer_name": "Zeiss",
+      "job_city": "Boise",
+      "job_state": "ID",
+      "job_description": "Join Zeiss in this exciting opportunity.",
+      "job_apply_link": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1",
+      "job_posted_at_datetime_utc": "2025-11-21T09:34:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-06T01:55:45.784Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -515,7 +535,27 @@
       "id": "www-tesla-com-careers-search-job-248966"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T01:13:34.189Z",
+    "addedAt": "2026-01-06T01:55:45.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Tax Software Analyst",
+      "employer_name": "Wolters Kluwer",
+      "job_city": "Wichita",
+      "job_state": "KS",
+      "job_description": "Join Wolters Kluwer in this exciting opportunity.",
+      "job_apply_link": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Wichita-KS/Tax-Software-Analyst_R0050915",
+      "job_posted_at_datetime_utc": "2025-08-20T16:34:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-06T01:55:45.784Z",
     "enrichedAt": null,
     "postedAt": null
   }
