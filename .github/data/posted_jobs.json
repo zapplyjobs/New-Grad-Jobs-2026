@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T18:58:01.288Z",
+  "lastUpdated": "2026-01-06T19:32:54.806Z",
   "jobs": [
     {
       "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
@@ -15148,14 +15148,25 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7494521/?gh_jid=7494521",
       "discordThreadId": "1458172761720619150",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041870008-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041870008",
+      "company": "anthropic",
+      "title": "Director of UI Engineering, Claude Consumer Products",
+      "postedToDiscord": "2026-01-06T19:32:54.806Z",
+      "sourceDate": "2026-01-06T14:05:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041870008",
+      "discordThreadId": "1458181542336659730",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1377,
+    "totalJobs": 1378,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T18:58:01.288Z",
+      "date": "2026-01-06T19:32:54.806Z",
       "archived": 0
     }
   }
