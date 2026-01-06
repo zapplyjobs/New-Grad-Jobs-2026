@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T03:22:41.350Z",
+  "lastUpdated": "2026-01-06T03:57:20.530Z",
   "jobs": [
     {
       "id": "lifeattiktok-com-search-7554542061111478536-2025-12-30-1",
@@ -14928,14 +14928,36 @@
       "sourceUrl": "https://aexp.eightfold.ai/careers/job/39519939",
       "discordThreadId": "1457937377489064011",
       "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ma-westford-research-engineer-architecture-phd-new-college-grad-2026_jr2008829-2026-01-06-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ma-westford-research-engineer-architecture-phd-new-college-grad-2026_jr2008829",
+      "company": "NVIDIA",
+      "title": "Research Engineer – PhD New College Grad - Architecture",
+      "postedToDiscord": "2026-01-06T03:57:14.087Z",
+      "sourceDate": "2026-01-06T03:26:00.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Engineer--Architecture---PhD-New-College-Grad-2026_JR2008829",
+      "discordThreadId": "1457946071601905704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-polymer-characterization-and-thermal-analysis-research-associate_r014247-2026-01-06-1",
+      "jobId": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-polymer-characterization-and-thermal-analysis-research-associate_r014247",
+      "company": "The Aerospace Corporation",
+      "title": "2026 Polymer Characterization and Thermal Analysis Research Associate",
+      "postedToDiscord": "2026-01-06T03:57:20.530Z",
+      "sourceDate": "2026-01-06T03:11:38.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Polymer-Characterization-and-Thermal-Analysis-Research-Associate_R014247",
+      "discordThreadId": "1457946098575347784",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1357,
+    "totalJobs": 1359,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T03:22:41.350Z",
+      "date": "2026-01-06T03:57:20.530Z",
       "archived": 0
     }
   }
