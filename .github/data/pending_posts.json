@@ -16,10 +16,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
-    "postedAt": "2026-01-06T09:42:48.351Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -39,8 +39,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -68,7 +68,7 @@
       ],
       "employment_type": null,
       "posted_at": "2026-01-06T02:14:41-05:00",
-      "fetched_at": "2026-01-06T09:40:46.381Z",
+      "fetched_at": "2026-01-06T09:52:11.971Z",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Vercel gives developers the tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. As the team behind v0, Next.js, and AI SDK, Vercel helps customers like Ramp, Supreme, PayPal, and Under Armour build for the AI-native web.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Our mission is to enable the world to ship the best products. That starts with creating a place where everyone can do their best work. Whether you&#39;re building on our platform, supporting our customers, or shaping our story: You can just ship things.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a Director of Trust &amp;amp; Safety Engineering to join our Security organization. You will lead a multidisciplinary group of software engineers and Trust &amp;amp; Safety professionals responsible for protecting Vercel’s platform, developers, and end users. Your teams will design and scale systems that prevent abuse, detect fraud, and uphold platform integrity. This role combines deep engineering leadership with strategic oversight of safety and fraud programs, ensuring our platform remains secure, compliant, and trusted by developers worldwide. You will report to the CTO, Security.&lt;/p&gt;\n&lt;p&gt;This role includes in-office anchor days on Monday, Tuesday, and Friday, from our San Francisco HQ. For location-specific details, please connect with our recruiting team.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you will do:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead engineering teams that design, build, and operate systems to detect and prevent platform abuse, fraudulent usage, and malicious activity across the Vercel ecosystem.&lt;/li&gt;\n&lt;li&gt;Develop and maintain detection pipelines that identify fraud and abuse, including AI-generated activity such as synthetic accounts, automated misuse, and malicious or spam content deployed via AI tools.&lt;/li&gt;\n&lt;li&gt;Build systems that protect against billing and credit abuse, compromised accounts, and resource exploitation within Vercel’s platform and infrastructure.&lt;/li&gt;\n&lt;li&gt;Partner with Product, Security, Legal, Finance and Infrastructure teams to embed Trust &amp;amp; Safety program and fraud prevention capabilities directly into developer workflows and core platform architecture.&lt;/li&gt;\n&lt;li&gt;Create automated enforcement and remediation workflows that act on suspicious or confirmed fraudulent or abusive behavior in real time, maintaining a strong balance between platform protection and developer experience.&lt;/li&gt;\n&lt;li&gt;Drive the architecture and data strategy for trust signals, anomaly detection, and AI-driven abuse scoring systems.&lt;/li&gt;\n&lt;li&gt;Collaborate with Legal, Support, and Policy teams to ensure compliance with global regulations while maintaining transparency and fairness in enforcement actions.&lt;/li&gt;\n&lt;li&gt;Oversee the Trust &amp;amp; Safety operations team responsible for policy enforcement, incident response, and user protection.&lt;/li&gt;\n&lt;li&gt;Mentor and grow engineers and Trust &amp;amp; Safety specialists, fostering a culture of technical excellence, transparency, and accountability.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;About you:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience in software engineering with a focus on security or trust &amp;amp; safety.&lt;/li&gt;\n&lt;li&gt;5+ years leading large, multi-disciplinary technical teams.&lt;/li&gt;\n&lt;li&gt;Proven success building and scaling engineering organizations that deliver safety, security, or fraud prevention systems at global scale.&lt;/li&gt;\n&lt;li&gt;Strong technical expertise in backend systems, distributed infrastructure, or data engineering, ideally within developer or platform ecosystems.&lt;/li&gt;\n&lt;li&gt;Deep understanding of platform abuse, AI-generated fraud, automation-based misuse, and emerging risks in large-scale developer platforms.&lt;/li&gt;\n&lt;li&gt;Experience designing or overseeing real-time detection and enforcement systems that use data analytics, automation, or machine learning.&lt;/li&gt;\n&lt;li&gt;Skilled in building alignment between engineering, product, and policy stakeholders to operationalize Trust &amp;amp; Safety initiatives.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to hire, mentor, and grow high-performing engineering and Trust &amp;amp; Safety teams.&lt;/li&gt;\n&lt;li&gt;Strong judgment balancing innovation, platform reliability, and user safety in a fast-moving environment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Bonus if you:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Have built or led combined Engineering and Trust &amp;amp; Safety organizations in developer, SaaS, or infrastructure environments.&lt;/li&gt;\n&lt;li&gt;Have experience using automation, analytics, or ML to detect and prevent AI-generated or coordinated abuse.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;Benefits:&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Competitive compensation package, including equity.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Inclusive Healthcare Package.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Flexible Time Off.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;The San Francisco, CA base pay range for this role is $200,000.00 - $300,000.00. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don&#39;t necessarily check every box on the job description.&lt;/p&gt;\n&lt;div id=&quot;te-floating-button-container&quot;&gt;&lt;/div&gt;",
       "_raw": {
         "source": "greenhouse",
@@ -79,8 +79,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -101,8 +101,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -123,8 +123,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -145,8 +145,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -167,8 +167,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -189,8 +189,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -211,8 +211,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -233,8 +233,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -262,7 +262,7 @@
       ],
       "employment_type": null,
       "posted_at": "2026-01-05T20:55:40-05:00",
-      "fetched_at": "2026-01-06T09:40:40.732Z",
+      "fetched_at": "2026-01-06T09:52:04.421Z",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global scale.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Accounting at Brex&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The tax function at Brex sits with the Accounting team, which ensures we produce accurate and timely financial results to stakeholders to guide the business forward.&amp;nbsp; We go beyond closing the books — we automate, iterate, and improve processes in close collaboration with partners across the business. The team also serves as power users and thought leaders for Brex&#39;s own products. We bring precision and curiosity to everything we build, combining deep ownership with a product mindset to help shape the future of finance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As the Director of Tax, you will own and lead the end-to-end tax function. This role will be responsible for ensuring the compliance of our tax records and filings across our global footprint. You will be the key advisor to executive leadership on all tax matters, continuously refine the overall global tax strategy, and support Brex’s long-term growth through tax optimization initiatives. You will work cross-functionally across the organization within a detail-oriented environment, where creative problem-solving is highly valued. Additionally, you will serve as a key partner to the business as we continue to develop globally tax-compliant products for our customers. This role is critical for establishing scalable, efficient, and compliant tax operations across our growing landscape.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Where you&#39;ll work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This role will be based in one of our Brex offices — San Francisco, New York, or Salt Lake City.&amp;nbsp;We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of two coordinated days in the office per week, Wednesday and Thursday. Starting February 2, 2026, we will require three days per week in office - Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead all aspects of tax at Brex, including planning, strategy, financial reporting, and compliance&lt;/li&gt;\n&lt;li&gt;Prepare or manage the preparation of all domestic and foreign tax and information returns&lt;/li&gt;\n&lt;li&gt;Successfully navigate tax audits and examinations by all relevant authorities&lt;/li&gt;\n&lt;li&gt;Ensure all tax accounts, including provisions, are properly reflected in relevant financial reporting&lt;/li&gt;\n&lt;li&gt;Develop and improve tax systems, processes, and policies across the Company&lt;/li&gt;\n&lt;li&gt;Manage the oversight of and partnership with external tax advisors as they provide coverage for our local and international operations&lt;/li&gt;\n&lt;li&gt;Collaborate with Finance, People, Sales, Engineering, and other functions as needed&lt;/li&gt;\n&lt;li&gt;Partner with Payroll and Equity functions in resolving employee-related tax issues&lt;/li&gt;\n&lt;li&gt;Prepare journal entries and perform reconciliations over tax-related accounts&lt;/li&gt;\n&lt;li&gt;Ensure all tax liabilities and obligations are met in a timely manner&lt;/li&gt;\n&lt;li&gt;Ad-hoc projects, such as tax credits and incentive planning, as necessary&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of public accounting or private industry experience covering domestic and international operations&lt;/li&gt;\n&lt;li&gt;Ability to both manage a team and operate as an individual contributor to fulfill responsibilities&lt;/li&gt;\n&lt;li&gt;Talented and highly motivated with a self-starter mentality&lt;/li&gt;\n&lt;li&gt;Strong interpersonal skills and ability to manage deadlines effectively&lt;/li&gt;\n&lt;li&gt;Excellent analytical, problem-solving solving and decision-making skills&lt;/li&gt;\n&lt;li&gt;Effective verbal, listening, and written communication skills&lt;/li&gt;\n&lt;li&gt;CPA License&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Advanced Microsoft Office skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Credit card, payment processing, financial services and SaaS industry experience&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Knowledge and experience using NetSuite, Donnelly, Coupa, Looker and/or other data visualization software&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The expected salary range for this role is $235,040 - $279,110.&amp;nbsp; However, the starting base pay will depend on a number of factors including the candidate’s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
       "_raw": {
         "source": "greenhouse",
@@ -273,8 +273,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -295,8 +295,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -317,8 +317,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -339,8 +339,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -361,8 +361,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -383,8 +383,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -405,8 +405,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -427,8 +427,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -449,8 +449,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -471,8 +471,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T09:41:14.952Z",
-    "enrichedAt": "2026-01-06T09:42:37.949Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
+    "enrichedAt": "2026-01-06T09:54:02.709Z",
     "postedAt": null
   },
   {
@@ -491,7 +491,7 @@
       "id": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-terminal-visual-charting-specialist_r-00172965"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -511,7 +511,7 @@
       "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11951"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -531,7 +531,7 @@
       "id": "www-esri-com-careers-5012736007"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -551,7 +551,7 @@
       "id": "www-esri-com-careers-5012639007"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -571,7 +571,7 @@
       "id": "jobs-smartrecruiters-com-westerndigital-744000101672270"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -591,7 +591,7 @@
       "id": "jobs-smartrecruiters-com-ramboll3-744000101714944"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -611,7 +611,7 @@
       "id": "www-jellyvision-com-about-us-careers-apply"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -631,7 +631,7 @@
       "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -651,7 +651,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-development-engineer_r160657"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -671,7 +671,7 @@
       "id": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -702,7 +702,7 @@
       "commitment": "Permanent",
       "salary": null,
       "posted_at": "2026-01-05T18:44:22.524Z",
-      "fetched_at": "2026-01-06T09:40:49.594Z",
+      "fetched_at": "2026-01-06T09:52:17.220Z",
       "description": "We're the Music Mission Design team, a multidisciplinary group building the experiences that help artists and their teams grow, connect with fans, and shape culture. From rich data insights to messaging tools and release workflows, we design Spotify for Artists, our platform used by artists worldwide to manage their careers and tell their stories.\n\nThis role sits at the intersection of language, systems, and creativity. You'll help define how artists understand what's working, plan what's next, and engage their audience, all through clear, impactful content design. If you're excited about designing with language, collaborating across disciplines, and supporting a global community of creators, you'll find space here to grow and lead.\n\nWe're looking for a Content Designer to join the Music Mission. You'll focus on shaping clear, helpful, and impactful user experiences across Spotify for Artists, with an emphasis on analytics, release tools, video management, messaging, and prompt-based features.\n\nThis is a mid-level role for someone who's confident writing for product flows and systems, energized by complexity, and passionate about helping users take action with clarity and confidence.\n",
       "_raw": {
         "source": "lever",
@@ -711,7 +711,7 @@
       "job_posted_at": "1h"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -731,7 +731,7 @@
       "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -751,7 +751,7 @@
       "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -771,7 +771,7 @@
       "id": "careers-markon-icims-com-jobs-7960-job"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -791,7 +791,7 @@
       "id": "job-boards-greenhouse-io-koddi-jobs-8250169002"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -811,7 +811,7 @@
       "id": "www-tesla-com-careers-search-job-248966"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -831,7 +831,7 @@
       "id": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T09:41:14.952Z",
+    "addedAt": "2026-01-06T09:52:35.488Z",
     "enrichedAt": null,
     "postedAt": null
   }
