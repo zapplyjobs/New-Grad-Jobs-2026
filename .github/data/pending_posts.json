@@ -17,8 +17,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -27,7 +27,7 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "We are now looking for a DL Algorithms Engineer! We are seeking a highly skilled Deep Learning Algorithms Engineer with hands-on experience optimizing and deploying Large Language Models (LLMs), Vision-Language Models (VLMs), and World Foundation Models (WFMs) in production environments. In this role, you will focus on optimizing and deploying deep learning models for efficient and fast inference across diverse GPU platforms, particularly for physical AI and generative AI applications. You will collaborate with research scientists, software engineers, and hardware specialists to bring cutting-edge AI models from prototype to production. What you will be doing: Optimize deep learning models for low-latency, high-throughput inference, with a focus on LLMs, VLMs, diffusion models, and World Foundation Models (WFMs) designed for physical AI applications. Convert, deploy, and optimize models for efficient inference using frameworks such as TensorRT, TensorRT-LLM, vLLM, and SGLang. Understand, analyze, profile, and optimize performance of deep learning and physical AI workloads on state-of-the-art NVIDIA GPU hardware and software platforms Implement and refine components and algorithms for efficient serving of LLMs, VLMs, and WFMs at datacenter scale, leveraging technologies like Dynamo. Collaborate with research scientists, software engineers, and hardware specialists to ensure seamless integration of cutting-edge AI models from training to deployment Contribute to the development of automation and tooling for NVIDIA Inference Microservices (NIMs) and inference optimization, including creating automated benchmarks to track performance regressions What we want to see: Master’s or PhD in Computer Science, Electrical Engineering, Computer Engineering, or a related field (or equivalent experience). Experience in deep learning, applied machine learning, or physical AI development. Strong foundation in deep learning algorithms, including hands-on experience with LLMs, VLMs, and multimodal generative models such as World Foundation Models. Deep understanding of transformer architectures, attention mechanisms, and inference bottlenecks. Proficient in building, optimizing, and deploying models using PyTorch or TensorFlow in production-grade environments. Solid programming skills in Python and C++. Experience with model quantization and modern inference optimization techniques (e.g., KV cache, in-flight batching, parallelization mapping). Strong fundamentals in GPU performance analysis and profiling tools (e.g., Nsight, nsys profiling). Familiarity with serving models using Triton Inference Server and PyTriton via Docker. Ways to stand out from the crowd: Proven experience deploying LLMs, VLMs, diffusion models, or World Foundation Models (WFMs) at scale in real-world applications, especially for robotics or autonomous vehicles. Hands-on experience with model optimization and serving frameworks, such as: TensorRT, TensorRT-LLM, vLLM, SGLang, and ONNX. Direct experience with NVIDIA Cosmos, Isaac Sim, Isaac Lab, or Omniverse platforms for synthetic data generation and physical AI simulation. Experience with data curation pipelines and tools like NVIDIA NeMo Curator for large-scale video data processing and model post-training. Deep understanding of distributed systems for large-scale model inference and serving. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 120,000 USD - 189,750 USD for Level 2, and 148,000 USD - 235,750 USD for Level 3. You will also be eligible for equity and benefits. Applications for this job will be accepted at least until January 9, 2026. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law. NVIDIA is the world leader in accelerated computing. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society. Learn more about NVIDIA.",
+      "job_description": "We are now looking for a DL Algorithms Engineer! We are seeking a highly skilled Deep Learning Algorithms Engineer with hands-on experience optimizing and deploying Large Language Models (LLMs), Vision-Language Models (VLMs), and World Foundation Models (WFMs) in production environments. In this role, you will focus on optimizing and deploying deep learning models for efficient and fast inference across diverse GPU platforms, particularly for physical AI and generative AI applications. You will collaborate with research scientists, software engineers, and hardware specialists to bring cutting-edge AI models from prototype to production.  What you will be doing:Optimize deep learning models for low-latency, high-throughput inference, with a focus on LLMs, VLMs, diffusion models, and World Foundation Models (WFMs) designed for physical AI applications.Convert, deploy, and optimize models for efficient inference using frameworks such as TensorRT, TensorRT-LLM, vLLM, and SGLang.Understand, analyze, profile, and optimize performance of deep learning and physical AI workloads on state-of-the-art NVIDIA GPU hardware and software platformsImplement and refine components and algorithms for efficient serving of LLMs, VLMs, and WFMs at datacenter scale, leveraging technologies like Dynamo.Collaborate with research scientists, software engineers, and hardware specialists to ensure seamless integration of cutting-edge AI models from training to deploymentContribute to the development of automation and tooling for NVIDIA Inference Microservices (NIMs) and inference optimization, including creating automated benchmarks to track performance regressionsWhat we want to see:Master’s or PhD in Computer Science, Electrical Engineering, Computer Engineering, or a related field (or equivalent experience).Experience in deep learning, applied machine learning, or physical AI development.Strong foundation in deep learning algorithms, including hands-on experience with LLMs, VLMs, and multimodal generative models such as World Foundation Models.Deep understanding of transformer architectures, attention mechanisms, and inference bottlenecks.Proficient in building, optimizing, and deploying models using PyTorch or TensorFlow in production-grade environments.Solid programming skills in Python and C++. Experience with model quantization and modern inference optimization techniques (e.g., KV cache, in-flight batching, parallelization mapping).Strong fundamentals in GPU performance analysis and profiling tools (e.g., Nsight, nsys profiling).Familiarity with serving models using Triton Inference Server and PyTriton via Docker.Ways to stand out from the crowd:Proven experience deploying LLMs, VLMs, diffusion models, or World Foundation Models (WFMs) at scale in real-world applications, especially for robotics or autonomous vehicles.Hands-on experience with model optimization and serving frameworks, such as: TensorRT, TensorRT-LLM, vLLM, SGLang, and ONNX.Direct experience with NVIDIA Cosmos, Isaac Sim, Isaac Lab, or Omniverse platforms for synthetic data generation and physical AI simulation.Experience with data curation pipelines and tools like NVIDIA NeMo Curator for large-scale video data processing and model post-training.Deep understanding of distributed systems for large-scale model inference and serving.Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 120,000 USD - 189,750 USD for Level 2, and 148,000 USD - 235,750 USD for Level 3.You will also be eligible for equity and benefits.Applications for this job will be accepted at least until January 9, 2026.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-Algorithms-Engineer---Cosmos----New-College-Graduate-2026_JR2010848-1",
       "job_posted_at_datetime_utc": "2026-01-06T03:26:02.000Z",
       "job_employment_type": "FULLTIME",
@@ -39,8 +39,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -61,8 +61,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -83,8 +83,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -105,8 +105,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -127,8 +127,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -149,8 +149,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -178,7 +178,7 @@
       ],
       "employment_type": null,
       "posted_at": "2026-01-05T20:55:40-05:00",
-      "fetched_at": "2026-01-06T05:11:43.187Z",
+      "fetched_at": "2026-01-06T05:24:43.799Z",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global scale.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Accounting at Brex&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The tax function at Brex sits with the Accounting team, which ensures we produce accurate and timely financial results to stakeholders to guide the business forward.&amp;nbsp; We go beyond closing the books — we automate, iterate, and improve processes in close collaboration with partners across the business. The team also serves as power users and thought leaders for Brex&#39;s own products. We bring precision and curiosity to everything we build, combining deep ownership with a product mindset to help shape the future of finance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As the Director of Tax, you will own and lead the end-to-end tax function. This role will be responsible for ensuring the compliance of our tax records and filings across our global footprint. You will be the key advisor to executive leadership on all tax matters, continuously refine the overall global tax strategy, and support Brex’s long-term growth through tax optimization initiatives. You will work cross-functionally across the organization within a detail-oriented environment, where creative problem-solving is highly valued. Additionally, you will serve as a key partner to the business as we continue to develop globally tax-compliant products for our customers. This role is critical for establishing scalable, efficient, and compliant tax operations across our growing landscape.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Where you&#39;ll work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This role will be based in one of our Brex offices — San Francisco, New York, or Salt Lake City.&amp;nbsp;We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of two coordinated days in the office per week, Wednesday and Thursday. Starting February 2, 2026, we will require three days per week in office - Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead all aspects of tax at Brex, including planning, strategy, financial reporting, and compliance&lt;/li&gt;\n&lt;li&gt;Prepare or manage the preparation of all domestic and foreign tax and information returns&lt;/li&gt;\n&lt;li&gt;Successfully navigate tax audits and examinations by all relevant authorities&lt;/li&gt;\n&lt;li&gt;Ensure all tax accounts, including provisions, are properly reflected in relevant financial reporting&lt;/li&gt;\n&lt;li&gt;Develop and improve tax systems, processes, and policies across the Company&lt;/li&gt;\n&lt;li&gt;Manage the oversight of and partnership with external tax advisors as they provide coverage for our local and international operations&lt;/li&gt;\n&lt;li&gt;Collaborate with Finance, People, Sales, Engineering, and other functions as needed&lt;/li&gt;\n&lt;li&gt;Partner with Payroll and Equity functions in resolving employee-related tax issues&lt;/li&gt;\n&lt;li&gt;Prepare journal entries and perform reconciliations over tax-related accounts&lt;/li&gt;\n&lt;li&gt;Ensure all tax liabilities and obligations are met in a timely manner&lt;/li&gt;\n&lt;li&gt;Ad-hoc projects, such as tax credits and incentive planning, as necessary&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of public accounting or private industry experience covering domestic and international operations&lt;/li&gt;\n&lt;li&gt;Ability to both manage a team and operate as an individual contributor to fulfill responsibilities&lt;/li&gt;\n&lt;li&gt;Talented and highly motivated with a self-starter mentality&lt;/li&gt;\n&lt;li&gt;Strong interpersonal skills and ability to manage deadlines effectively&lt;/li&gt;\n&lt;li&gt;Excellent analytical, problem-solving solving and decision-making skills&lt;/li&gt;\n&lt;li&gt;Effective verbal, listening, and written communication skills&lt;/li&gt;\n&lt;li&gt;CPA License&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Advanced Microsoft Office skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Credit card, payment processing, financial services and SaaS industry experience&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Knowledge and experience using NetSuite, Donnelly, Coupa, Looker and/or other data visualization software&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The expected salary range for this role is $235,040 - $279,110.&amp;nbsp; However, the starting base pay will depend on a number of factors including the candidate’s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
       "_raw": {
         "source": "greenhouse",
@@ -189,8 +189,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -211,8 +211,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -233,8 +233,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -255,8 +255,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -277,8 +277,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -299,8 +299,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -321,8 +321,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -331,7 +331,7 @@
       "employer_name": "Allstate Insurance Company",
       "job_city": "California",
       "job_state": "Locations",
-      "job_description": "At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection. Job DescriptionEarly Career Development ProgramThe Allstate Technology Development Program (TDP) is designed to help you launch your career in technology. In this full-time program, you will work directly in one of Allstate’s Technology Solutions (ATS) teams, gaining hands-on experience and exposure to high-impact projects. You’ll tackle real business problems using cutting-edge technologies and develop the skills needed for a successful career at Allstate. Through mentorship and on-the-job learning, you'll grow as a future technology leader.Program Highlights:Hands-On Experience in one of three key technology areas within Allstate Technology Services (ATS).Mentorship from senior leaders and technical experts to guide your career development.Work with innovative technologies to solve business challenges.Opportunity for growth and leadership development in a collaborative, inclusive environment.Roles as:Product EngineersDigital Product ManagersService AnalystsLocation: Remote with the opportunity to visit our office locations if local – Northbrook and Chicago, IL; Irving, TX; Charlotte, NC; Scottsdale, AZStart Date(s): July 13th 2026Job QualificationsEducation: Bachelor’s Degree in Computer Science, Management Information Systems, Business Analytics, or other relevant fields.Graduation Timeline: Graduating in May 2026 or December 2025.Work Authorization: Applicants must be currently authorized to work in the United States on a full-time basis.Core Skills: Strong problem-solving and analytical abilities.Adaptability: Demonstrates learning agility and a willingness to embrace new challenges.Engagement: Desire to actively participate in development workshops and virtual programming events.Product EngineerAs a Product Engineer, you will focus on developing high-quality, scalable applications and systems that drive business value at Allstate. You’ll:Engineering Excellence: Develop code in modern programming languages, ensuring quality and security throughout the development lifecycle.Outcome-Based Iterative Delivery: Write technical stories, collaborate on prioritizing features, and contribute to product delivery using agile methodologies.Strategic, Design & Systems Thinking: Design solutions that consider both user needs and system integrations across teams.Design Principles: Apply industry best practices (e.g., SOLID) to create flexible, maintainable applications that meet functional and non-functional requirements.Impact & Influence: Collaborate across teams, demonstrating empathy for engineers and clear communication.Continuous Learning: Stay current with emerging technologies and invest in personal growth to expand your technical skill set.Digital Product ManagerAs a Digital Product Manager, you will help shape and deliver digital products that enhance customer experiences. You’ll:Consumer Journey Evangelism & Domain Expertise: Contribute to defining product vision and strategy, ensuring alignment with business goals and customer needs.Outcome-Based Iterative Delivery: Help define product requirements, prioritize features, and collaborate with teams to meet goals.Design & Systems Thinking: Use design thinking principles to create user-centric digital products and solve complex problems.Impact & Influence: Foster a positive team culture, effectively influence stakeholders, and communicate with clarity.KPI & Performance Measurement: Track and measure key performance indicators to evaluate success and iterate for improvement.Service AnalystAs a Service Analyst, you will ensure the reliability and smooth functioning of Allstate’s technology solutions. You’ll:Strategic Thinking: Analyze complex problems and develop effective, long-term strategies.Incident/Problem Management: Follow established protocols to manage incidents, escalate as needed, and minimize disruptions.Communication: Collaborate with cross-functional teams, ensuring stakeholders are informed and issues resolved efficiently.Time Management: Effectively prioritize tasks to meet deadlines.Continuous Improvement: Identify and implement opportunities to enhance processes and improve service delivery.Customer/Service Mindset: Understand and meet customer needs, with a focus on delivering excellent service.SkillsCustomer Centricity, Digital Literacy, Inclusive Leadership, Learning Agility, Results-OrientedJoining our team isn’t just a job — it’s an opportunity. One that takes your skills and pushes them to the next level. One that encourages you to challenge the status quo. One where you can shape the future of protection while supporting causes that mean the most to you. Joining our team means being part of something bigger – a winning team making a meaningful impact.Allstate generally does not sponsor individuals for employment-based visas for this position.Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component.For jobs in San Francisco, please click “here” for information regarding the San Francisco Fair Chance Ordinance.For jobs in Los Angeles, please click “here” for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance.To view the “EEO Know Your Rights” poster click “here”. This poster provides information concerning the laws and procedures for filing complaints of violations of the laws with the Office of Federal Contract Compliance Programs.To view the FMLA poster, click “here”. This poster summarizing the major provisions of the Family and Medical Leave Act (FMLA) and telling employees how to file a complaint.It is the Company’s policy to employ the best qualified individuals available for all jobs. Therefore, any discriminatory action taken on account of an employee’s ancestry, age, color, disability, genetic information, gender, gender identity, gender expression, sexual and reproductive health decision, marital status, medical condition, military or veteran status, national origin, race (include traits historically associated with race, including, but not limited to, hair texture and protective hairstyles), religion (including religious dress), sex, or sexual orientation that adversely affects an employee's terms or conditions of employment is prohibited. This policy applies to all aspects of the employment relationship, including, but not limited to, hiring, training, salary administration, promotion, job assignment, benefits, discipline, and separation of employment.",
+      "job_description": "At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection. Job Description Early Career Development Program The Allstate Technology Development Program (TDP) is designed to help you launch your career in technology. In this full-time program, you will work directly in one of Allstate’s Technology Solutions (ATS) teams, gaining hands-on experience and exposure to high-impact projects. You’ll tackle real business problems using cutting-edge technologies and develop the skills needed for a successful career at Allstate. Through mentorship and on-the-job learning, you'll grow as a future technology leader. Program Highlights: Hands-On Experience in one of three key technology areas within Allstate Technology Services (ATS). Mentorship from senior leaders and technical experts to guide your career development. Work with innovative technologies to solve business challenges. Opportunity for growth and leadership development in a collaborative, inclusive environment. Roles as: Product Engineers Digital Product Managers Service Analysts Location: Remote with the opportunity to visit our office locations if local – Northbrook and Chicago, IL; Irving, TX; Charlotte, NC; Scottsdale, AZ Start Date(s): July 13th 2026 Job Qualifications Education: Bachelor’s Degree in Computer Science, Management Information Systems, Business Analytics, or other relevant fields. Graduation Timeline: Graduating in May 2026 or December 2025. Work Authorization: Applicants must be currently authorized to work in the United States on a full-time basis. Core Skills: Strong problem-solving and analytical abilities. Adaptability: Demonstrates learning agility and a willingness to embrace new challenges. Engagement: Desire to actively participate in development workshops and virtual programming events. Product Engineer As a Product Engineer, you will focus on developing high-quality, scalable applications and systems that drive business value at Allstate. You’ll: Engineering Excellence: Develop code in modern programming languages, ensuring quality and security throughout the development lifecycle. Outcome-Based Iterative Delivery: Write technical stories, collaborate on prioritizing features, and contribute to product delivery using agile methodologies. Strategic, Design &amp; Systems Thinking: Design solutions that consider both user needs and system integrations across teams. Design Principles: Apply industry best practices (e.g., SOLID) to create flexible, maintainable applications that meet functional and non-functional requirements. Impact &amp; Influence: Collaborate across teams, demonstrating empathy for engineers and clear communication. Continuous Learning: Stay current with emerging technologies and invest in personal growth to expand your technical skill set. Digital Product Manager As a Digital Product Manager, you will help shape and deliver digital products that enhance customer experiences. You’ll: Consumer Journey Evangelism &amp; Domain Expertise: Contribute to defining product vision and strategy, ensuring alignment with business goals and customer needs. Outcome-Based Iterative Delivery: Help define product requirements, prioritize features, and collaborate with teams to meet goals. Design &amp; Systems Thinking: Use design thinking principles to create user-centric digital products and solve complex problems. Impact &amp; Influence: Foster a positive team culture, effectively influence stakeholders, and communicate with clarity. KPI &amp; Performance Measurement: Track and measure key performance indicators to evaluate success and iterate for improvement. Service Analyst As a Service Analyst, you will ensure the reliability and smooth functioning of Allstate’s technology solutions. You’ll: Strategic Thinking: Analyze complex problems and develop effective, long-term strategies. Incident/Problem Management: Follow established protocols to manage incidents, escalate as needed, and minimize disruptions. Communication: Collaborate with cross-functional teams, ensuring stakeholders are informed and issues resolved efficiently. Time Management: Effectively prioritize tasks to meet deadlines. Continuous Improvement: Identify and implement opportunities to enhance processes and improve service delivery. Customer/Service Mindset: Understand and meet customer needs, with a focus on delivering excellent service. Skills Customer Centricity, Digital Literacy, Inclusive Leadership, Learning Agility, Results-Oriented Joining our team isn’t just a job — it’s an opportunity. One that takes your skills and pushes them to the next level. One that encourages you to challenge the status quo. One where you can shape the future of protection while supporting causes that mean the most to you. Joining our team means being part of something bigger – a winning team making a meaningful impact. Allstate generally does not sponsor individuals for employment-based visas for this position. Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component. For jobs in San Francisco, please click “here” for information regarding the San Francisco Fair Chance Ordinance. For jobs in Los Angeles, please click “here” for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance. To view the “EEO Know Your Rights” poster click “here”. This poster provides information concerning the laws and procedures for filing complaints of violations of the laws with the Office of Federal Contract Compliance Programs. To view the FMLA poster, click “here”. This poster summarizing the major provisions of the Family and Medical Leave Act (FMLA) and telling employees how to file a complaint. It is the Company’s policy to employ the best qualified individuals available for all jobs. Therefore, any discriminatory action taken on account of an employee’s ancestry, age, color, disability, genetic information, gender, gender identity, gender expression, sexual and reproductive health decision, marital status, medical condition, military or veteran status, national origin, race (include traits historically associated with race, including, but not limited to, hair texture and protective hairstyles), religion (including religious dress), sex, or sexual orientation that adversely affects an employee's terms or conditions of employment is prohibited. This policy applies to all aspects of the employment relationship, including, but not limited to, hiring, training, salary administration, promotion, job assignment, benefits, discipline, and separation of employment. At Allstate, we work hard to help people live a good life every day. Allstaters are dedicated to serving clients, customers, and communities, which allows employees to find meaning and value in their work. Allstate offers an environment that fosters innovative thinking where you’ll be able to explore your ideas and feel proud of the work you do. Allstate helps protect nearly 16 million households with auto, home, life, and retirement products. We want every professional connected to Allstate to be committed to giving our customers the best and that means finding the best talent. We want you to be our next great addition. It’s easy to search and apply for a new opportunity with Allstate. Simply use the links below to identify the openings that interest you. About Us",
       "job_apply_link": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
       "job_posted_at_datetime_utc": "2026-01-05T23:51:24.000Z",
       "job_employment_type": "FULLTIME",
@@ -343,8 +343,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -365,8 +365,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -387,8 +387,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -397,7 +397,7 @@
       "employer_name": "Leidos",
       "job_city": "Silver Spring",
       "job_state": "MD",
-      "job_description": "The Terminal Charting Team on the NISC IV contract is an Aeronautical Information team supporting the Federal Aviation Administration (FAA). We are seeking a highly motivated individual to assist the Leidos Terminal Team as well as the FAA in creating Aeronautical Charts.  In addition, this support is needed to assist Aeronautical Information Services (AJV-A) in its mission to create, maintain, and distribute aeronautical data, charts, and associated products for air traffic control and the flying community. Requirements for chart revisions are cyclic per year.Responsibilities will be:Learning Aeronautical InformationAnalyzing the National Flight Data Digest (NFDD)Evaluating aeronautical information/publications when released to confirm that air navigation information and technical data content is accurate and correct. Initiating corrective action where discrepancies are discovered and, if necessary, accomplishing amendment(s) for affected procedure(s). Assisting in crosschecking air navigation charts and maps to verify accuracy of data.Creating and revising aeronautical charts following established procedures and guidelines.Contacting/interacting with FAA Aeronautical Information Services (AJV-A) cartographers / aeronautical information specialists, and other FAA mapping / charting teams and organizations in an effort to acquire source / documentation, rectify discrepancies in air navigation data, and/or in response to inquiries/special requests.Basic Qualifications:Bachelor’s Degree in Aeronautical Information, Geography or related discipline from an accredited College or University. Additional years of experience maybe considered in lieu of a degree.2- 5 years of experience is requiredKnowledge in Bentley Systems MicroStation Open CitiesWorking knowledge and experience with CAD SoftwareMust be able to obtain a public trust suitability clearanceYou must be either a US citizen or a permanent resident to be considered for this role.Preferred QualificationsAeronautical Information KnowledgeCartographyAt Leidos, we don’t want someone who \"fits the mold\"—we want someone who melts it down and builds something better. This is a role for the restless, the over-caffeinated, the ones who ask, “what’s next?” before the dust settles on “what’s now.”If you’re already scheming step 20 while everyone else is still debating step 2… good. You’ll fit right in.Original Posting:January 5, 2026For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.Pay Range:Pay Range $52,000.00 - $94,000.00The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+      "job_description": "The Terminal Charting Team on the NISC IV contract is an Aeronautical Information team supporting the Federal Aviation Administration (FAA). We are seeking a highly motivated individual to assist the Leidos Terminal Team as well as the FAA in creating Aeronautical Charts. In addition, this support is needed to assist Aeronautical Information Services (AJV-A) in its mission to create, maintain, and distribute aeronautical data, charts, and associated products for air traffic control and the flying community. Requirements for chart revisions are cyclic per year. Responsibilities will be: Learning Aeronautical Information Analyzing the National Flight Data Digest (NFDD) Evaluating aeronautical information/publications when released to confirm that air navigation information and technical data content is accurate and correct. Initiating corrective action where discrepancies are discovered and, if necessary, accomplishing amendment(s) for affected procedure(s). Assisting in crosschecking air navigation charts and maps to verify accuracy of data. Creating and revising aeronautical charts following established procedures and guidelines. Contacting/interacting with FAA Aeronautical Information Services (AJV-A) cartographers / aeronautical information specialists, and other FAA mapping / charting teams and organizations in an effort to acquire source / documentation, rectify discrepancies in air navigation data, and/or in response to inquiries/special requests. Basic Qualifications: Bachelor’s Degree in Aeronautical Information, Geography or related discipline from an accredited College or University. Additional years of experience maybe considered in lieu of a degree. 2- 5 years of experience is required Knowledge in Bentley Systems MicroStation Open Cities Working knowledge and experience with CAD Software Must be able to obtain a public trust suitability clearance You must be either a US citizen or a permanent resident to be considered for this role. Preferred Qualifications Aeronautical Information Knowledge Cartography At Leidos, we don’t want someone who \"fits the mold\"—we want someone who melts it down and builds something better. This is a role for the restless, the over-caffeinated, the ones who ask, “what’s next?” before the dust settles on “what’s now.” If you’re already scheming step 20 while everyone else is still debating step 2… good. You’ll fit right in. Original Posting: January 5, 2026 For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above. Pay Range: Pay Range $52,000.00 - $94,000.00 The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law. Leidos Leidos is a Fortune 500® innovation company rapidly addressing the world's most vexing challenges in national security and health. The company's global workforce of 47,000 collaborates to create smarter technology solutions for customers in heavily regulated industries. Headquartered in Reston, Virginia, Leidos reported annual revenue of approximately $15.4 billion for the fiscal year ended December 29, 2023. For more information visit www.Leidos.com. Pay and Benefits Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here. Securing Your Data Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related information or any other personal information, please report the email to spam.leidos@leidos.com. Commitment and Diversity All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
       "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Terminal-Visual-Charting-Specialist_R-00172965",
       "job_posted_at_datetime_utc": "2026-01-05T23:47:54.000Z",
       "job_employment_type": "FULLTIME",
@@ -409,8 +409,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -431,8 +431,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -453,8 +453,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T05:12:10.145Z",
-    "enrichedAt": "2026-01-06T05:13:50.157Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
+    "enrichedAt": "2026-01-06T05:27:21.795Z",
     "postedAt": null
   },
   {
@@ -473,7 +473,7 @@
       "id": "www-esri-com-careers-5012639007"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -493,7 +493,7 @@
       "id": "jobs-smartrecruiters-com-westerndigital-744000101672270"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -513,7 +513,7 @@
       "id": "jobs-smartrecruiters-com-ramboll3-744000101714944"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -533,7 +533,7 @@
       "id": "www-jellyvision-com-about-us-careers-apply"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -553,7 +553,7 @@
       "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -573,7 +573,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-development-engineer_r160657"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -593,7 +593,7 @@
       "id": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -624,7 +624,7 @@
       "commitment": "Permanent",
       "salary": null,
       "posted_at": "2026-01-05T18:44:22.524Z",
-      "fetched_at": "2026-01-06T05:11:51.583Z",
+      "fetched_at": "2026-01-06T05:24:53.612Z",
       "description": "We're the Music Mission Design team, a multidisciplinary group building the experiences that help artists and their teams grow, connect with fans, and shape culture. From rich data insights to messaging tools and release workflows, we design Spotify for Artists, our platform used by artists worldwide to manage their careers and tell their stories.\n\nThis role sits at the intersection of language, systems, and creativity. You'll help define how artists understand what's working, plan what's next, and engage their audience, all through clear, impactful content design. If you're excited about designing with language, collaborating across disciplines, and supporting a global community of creators, you'll find space here to grow and lead.\n\nWe're looking for a Content Designer to join the Music Mission. You'll focus on shaping clear, helpful, and impactful user experiences across Spotify for Artists, with an emphasis on analytics, release tools, video management, messaging, and prompt-based features.\n\nThis is a mid-level role for someone who's confident writing for product flows and systems, energized by complexity, and passionate about helping users take action with clarity and confidence.\n",
       "_raw": {
         "source": "lever",
@@ -633,7 +633,7 @@
       "job_posted_at": "1h"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -653,7 +653,7 @@
       "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -673,7 +673,7 @@
       "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -693,7 +693,7 @@
       "id": "www-tesla-com-careers-search-job-248966"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -713,7 +713,7 @@
       "id": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T05:12:10.145Z",
+    "addedAt": "2026-01-06T05:25:12.143Z",
     "enrichedAt": null,
     "postedAt": null
   }
