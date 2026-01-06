@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T07:28:47.894Z",
+  "lastUpdated": "2026-01-06T08:27:36.062Z",
   "jobs": [
-    {
-      "id": "lifeattiktok-com-search-7554542061111478536-2025-12-30-1",
-      "jobId": "lifeattiktok-com-search-7554542061111478536",
-      "company": "TikTok",
-      "title": "Mobile Software Engineer Graduate - Product Infrastructure - 2026 Start",
-      "postedToDiscord": "2025-12-30T07:37:39.629Z",
-      "sourceDate": "2025-10-31T12:31:42.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7554542061111478536",
-      "discordThreadId": "1455464827979042879",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-savvy-073aefc5-5eb1-4e67-9cb3-d4059dd8ce58-application-2025-12-30-1",
       "jobId": "jobs-ashbyhq-com-savvy-073aefc5-5eb1-4e67-9cb3-d4059dd8ce58-application",
@@ -14983,6 +14972,17 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719801004",
       "discordThreadId": "1457999312939257939",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-koddi-jobs-8250169002-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-koddi-jobs-8250169002",
+      "company": "Koddi",
+      "title": "Associate Analyst Cohort",
+      "postedToDiscord": "2026-01-06T08:27:36.062Z",
+      "sourceDate": "2025-11-10T23:51:55.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/koddi/jobs/8250169002",
+      "discordThreadId": "1458014110426988556",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -14990,8 +14990,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T07:28:47.894Z",
-      "archived": 0
+      "date": "2026-01-06T08:27:36.062Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
