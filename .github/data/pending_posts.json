@@ -1,6 +1,28 @@
 [
   {
     "job": {
+      "job_title": "DL Algorithms Engineer – New College Graduate 2026 - Cosmos",
+      "employer_name": "NVIDIA",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "We are now looking for a DL Algorithms Engineer! We are seeking a highly skilled Deep Learning Algorithms Engineer with hands-on experience optimizing and deploying Large Language Models (LLMs), Vision-Language Models (VLMs), and World Foundation Models (WFMs) in production environments. In this role, you will focus on optimizing and deploying deep learning models for efficient and fast inference across diverse GPU platforms, particularly for physical AI and generative AI applications. You will collaborate with research scientists, software engineers, and hardware specialists to bring cutting-edge AI models from prototype to production.  What you will be doing:Optimize deep learning models for low-latency, high-throughput inference, with a focus on LLMs, VLMs, diffusion models, and World Foundation Models (WFMs) designed for physical AI applications.Convert, deploy, and optimize models for efficient inference using frameworks such as TensorRT, TensorRT-LLM, vLLM, and SGLang.Understand, analyze, profile, and optimize performance of deep learning and physical AI workloads on state-of-the-art NVIDIA GPU hardware and software platformsImplement and refine components and algorithms for efficient serving of LLMs, VLMs, and WFMs at datacenter scale, leveraging technologies like Dynamo.Collaborate with research scientists, software engineers, and hardware specialists to ensure seamless integration of cutting-edge AI models from training to deploymentContribute to the development of automation and tooling for NVIDIA Inference Microservices (NIMs) and inference optimization, including creating automated benchmarks to track performance regressionsWhat we want to see:Master’s or PhD in Computer Science, Electrical Engineering, Computer Engineering, or a related field (or equivalent experience).Experience in deep learning, applied machine learning, or physical AI development.Strong foundation in deep learning algorithms, including hands-on experience with LLMs, VLMs, and multimodal generative models such as World Foundation Models.Deep understanding of transformer architectures, attention mechanisms, and inference bottlenecks.Proficient in building, optimizing, and deploying models using PyTorch or TensorFlow in production-grade environments.Solid programming skills in Python and C++. Experience with model quantization and modern inference optimization techniques (e.g., KV cache, in-flight batching, parallelization mapping).Strong fundamentals in GPU performance analysis and profiling tools (e.g., Nsight, nsys profiling).Familiarity with serving models using Triton Inference Server and PyTriton via Docker.Ways to stand out from the crowd:Proven experience deploying LLMs, VLMs, diffusion models, or World Foundation Models (WFMs) at scale in real-world applications, especially for robotics or autonomous vehicles.Hands-on experience with model optimization and serving frameworks, such as: TensorRT, TensorRT-LLM, vLLM, SGLang, and ONNX.Direct experience with NVIDIA Cosmos, Isaac Sim, Isaac Lab, or Omniverse platforms for synthetic data generation and physical AI simulation.Experience with data curation pipelines and tools like NVIDIA NeMo Curator for large-scale video data processing and model post-training.Deep understanding of distributed systems for large-scale model inference and serving.Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 120,000 USD - 189,750 USD for Level 2, and 148,000 USD - 235,750 USD for Level 3.You will also be eligible for equity and benefits.Applications for this job will be accepted at least until January 9, 2026.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-Algorithms-Engineer---Cosmos----New-College-Graduate-2026_JR2010848-1",
+      "job_posted_at_datetime_utc": "2026-01-06T03:26:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "source": "simplify",
+      "source_url": "simplify.jobs",
+      "job_posted_at": "1h",
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dl-algorithms-engineer-cosmos-new-college-graduate-2026_jr2010848-1",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
+    "postedAt": "2026-01-06T04:19:38.809Z"
+  },
+  {
+    "job": {
       "job_title": "Research Engineer – PhD New College Grad - Architecture",
       "employer_name": "NVIDIA",
       "job_city": "Austin",
@@ -16,10 +38,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
-    "postedAt": "2026-01-06T03:57:23.545Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -38,10 +60,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "posted",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
-    "postedAt": "2026-01-06T03:57:23.545Z"
+    "status": "enriched",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
+    "postedAt": null
   },
   {
     "job": {
@@ -61,8 +83,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -83,8 +105,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -105,8 +127,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -134,7 +156,7 @@
       ],
       "employment_type": null,
       "posted_at": "2026-01-05T20:55:40-05:00",
-      "fetched_at": "2026-01-06T03:55:11.481Z",
+      "fetched_at": "2026-01-06T04:17:28.103Z",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global scale.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Accounting at Brex&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The tax function at Brex sits with the Accounting team, which ensures we produce accurate and timely financial results to stakeholders to guide the business forward.&amp;nbsp; We go beyond closing the books — we automate, iterate, and improve processes in close collaboration with partners across the business. The team also serves as power users and thought leaders for Brex&#39;s own products. We bring precision and curiosity to everything we build, combining deep ownership with a product mindset to help shape the future of finance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As the Director of Tax, you will own and lead the end-to-end tax function. This role will be responsible for ensuring the compliance of our tax records and filings across our global footprint. You will be the key advisor to executive leadership on all tax matters, continuously refine the overall global tax strategy, and support Brex’s long-term growth through tax optimization initiatives. You will work cross-functionally across the organization within a detail-oriented environment, where creative problem-solving is highly valued. Additionally, you will serve as a key partner to the business as we continue to develop globally tax-compliant products for our customers. This role is critical for establishing scalable, efficient, and compliant tax operations across our growing landscape.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Where you&#39;ll work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This role will be based in one of our Brex offices — San Francisco, New York, or Salt Lake City.&amp;nbsp;We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of two coordinated days in the office per week, Wednesday and Thursday. Starting February 2, 2026, we will require three days per week in office - Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead all aspects of tax at Brex, including planning, strategy, financial reporting, and compliance&lt;/li&gt;\n&lt;li&gt;Prepare or manage the preparation of all domestic and foreign tax and information returns&lt;/li&gt;\n&lt;li&gt;Successfully navigate tax audits and examinations by all relevant authorities&lt;/li&gt;\n&lt;li&gt;Ensure all tax accounts, including provisions, are properly reflected in relevant financial reporting&lt;/li&gt;\n&lt;li&gt;Develop and improve tax systems, processes, and policies across the Company&lt;/li&gt;\n&lt;li&gt;Manage the oversight of and partnership with external tax advisors as they provide coverage for our local and international operations&lt;/li&gt;\n&lt;li&gt;Collaborate with Finance, People, Sales, Engineering, and other functions as needed&lt;/li&gt;\n&lt;li&gt;Partner with Payroll and Equity functions in resolving employee-related tax issues&lt;/li&gt;\n&lt;li&gt;Prepare journal entries and perform reconciliations over tax-related accounts&lt;/li&gt;\n&lt;li&gt;Ensure all tax liabilities and obligations are met in a timely manner&lt;/li&gt;\n&lt;li&gt;Ad-hoc projects, such as tax credits and incentive planning, as necessary&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of public accounting or private industry experience covering domestic and international operations&lt;/li&gt;\n&lt;li&gt;Ability to both manage a team and operate as an individual contributor to fulfill responsibilities&lt;/li&gt;\n&lt;li&gt;Talented and highly motivated with a self-starter mentality&lt;/li&gt;\n&lt;li&gt;Strong interpersonal skills and ability to manage deadlines effectively&lt;/li&gt;\n&lt;li&gt;Excellent analytical, problem-solving solving and decision-making skills&lt;/li&gt;\n&lt;li&gt;Effective verbal, listening, and written communication skills&lt;/li&gt;\n&lt;li&gt;CPA License&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Advanced Microsoft Office skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Credit card, payment processing, financial services and SaaS industry experience&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Knowledge and experience using NetSuite, Donnelly, Coupa, Looker and/or other data visualization software&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The expected salary range for this role is $235,040 - $279,110.&amp;nbsp; However, the starting base pay will depend on a number of factors including the candidate’s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
       "_raw": {
         "source": "greenhouse",
@@ -145,8 +167,8 @@
       "description_success": false
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -167,8 +189,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -189,8 +211,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -211,8 +233,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -233,8 +255,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -255,8 +277,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -277,8 +299,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -299,8 +321,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -321,8 +343,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -343,8 +365,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -365,8 +387,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -387,8 +409,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -409,8 +431,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -431,8 +453,8 @@
       "description_success": true
     },
     "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": "2026-01-06T04:19:28.818Z",
     "postedAt": null
   },
   {
@@ -441,20 +463,18 @@
       "employer_name": "Western Digital",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Developer 2, ProgrammingFull-timeJob Type (exemption status): Exempt position - Please see related compensation & benefits details belowSalary Range: 94,700.00-126,300.00Business Function: ProgrammingWork Location: San Jose Great Oaks Headquarters--LOC_WDT_USCA23Company DescriptionAt Western Digital, our vision is to power global innovation and push the boundaries of technology to make what you thought was once impossible, possible.At our core, Western Digital is a company of problem solvers. People achieve extraordinary things given the right technology. For decades, we’ve been doing just that—our technology helped people put a man on the moon and capture the first-ever picture of a black hole.We offer an expansive portfolio of technologies, HDDs, and platforms for business, creative professionals, and consumers alike under our Western Digital®, WD®, WD_BLACK™, and SanDisk® Professional brands.We are a key partner to some of the largest and highest-growth organizations in the world. From enabling systems to make cities safer and more connected, to powering the data centers behind many of the world’s biggest companies and hyperscale cloud providers, to meeting the massive and ever-growing data storage needs of the AI era, Western Digital is fueling a brighter, smarter future.Today’s exceptional challenges require your unique skills. Together, we can build the future of data storage.Job DescriptionEssential DutiesApply Leading advaned ML and AI concepts for new and exiting automation solutions.Challenge the status quo with solution designs that eliminate repeat failures and reduce business overhead and costs and provide MFG operators with user friendly and easy to understand feedbackTo design, develop, test, and support Automation hosts & applications to fulfill business requirementsResponsible to communicate with various department stakeholders to gather requirements, analyze and provide suitable solution by applying concept of scalability, flexibility, simple and standard. Responsible to handle operation issues, perform root cause analysis, and apply preventive actions and measurements via IT solutions.Follow SDLC phases in software development, document and execute as per requirements and specificationsProvide documentation and training to 24/7 L1 support team.Test and support deployment of new and/or enhanced automation hosts, interface to tools & multiple MES at both Wafer factories.Provide support for applications used in the factory operating in a 24/7 fast moving environment.Collaborate with cross-functional teams to integrate automation solutions with existing systems and processes.Implement and maintain version control systems for all developed software and applications.Participate in code reviews to ensure high-quality, efficient, and maintainable code.Optimize existing automation processes to improve performance and reduce operational costs.Stay current with emerging technologies and industry trends in automation and software development.Contribute to the development of internal tools and frameworks to enhance team productivity.Participate in Agile development processes, including sprint planning, daily stand-ups, and retrospectives. QualificationsRequired:Candidates must possess a Bachelor's or Master's degree in Computer Science, Information Technology, with an expected graduation date between June 2025 and June 2026.It is imperative that applicants have the legal right to work in the United States without requiring Western Digital to commence or sponsor an immigration case for employment at any point in the future (for example, H-1B or other employment-based immigration cases).This position demands a high level of commitment and flexibility. Successful candidates must be prepared to engage in periods of on-call duty and overnight work to support our critical 24/7 factory environment.Technical Skills:The successful candidate must have experience in using C++, C#, as well as source control, object-oriented programming, along with core AI and ML concepts and understandingExperience with the Microsoft Visual Studio development suite and debugging multi-tier architecture is preferred.Knowledge of MS SQL and/or Oracle DB including queries, functions, and stored procedures.Understanding of SECS/GEM protocol and/or other industrial automation standards is a plus.Strong understanding of structured/iterative code development and documentation, and the communications and collaboration with offshore code development team that goes with itExposure to or experience in leveraging ML and AI technologies to support the image analysis, edge computing, and augmented support solutions coming down the road.Emotional Intelligence/EQ:Written communication skills: The successful candidate must be able to write clear requirements documents, design documents, test plans and end-user documentation.Verbal communication skills: The successful candidate must be able to present requirements, designs, test plans and status to peers and management. Team Skills: The successful candidate must have demonstrated successes in operating in a collaborative team development environment. Additional Information.Western Digital is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"Know Your Rights: Workplace Discrimination is Illegal” poster. Our pay transparency policy is available here.Western Digital thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.Western Digital is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at [email protected] to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying. Based on our experience, we anticipate that the application deadline will be 09-24-2025 (3 months from posting), although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update#LI-JS1Compensation & Benefits DetailsAn employee’s pay position within the salary range may be based on several factors including but not limited to (1) relevant education; qualifications; certifications; and experience; (2) skills, ability, knowledge of the job; (3) performance, contribution and results; (4) geographic location; (5) shift; (6) internal and external equity; and (7) business and organizational needs.The salary range is what we believe to be the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in California, Colorado, New York or remote jobs that can be performed in California, Colorado and New York. This range may be modified in the future.If your position is non-exempt, you are eligible for overtime pay pursuant to company policy and applicable laws. You may also be eligible for shift differential pay, depending on the shift to which you are assigned.You will be eligible to be considered for bonuses under either Western Digital’s Short Term Incentive Plan (“STI Plan”) or the Sales Incentive Plan (“SIP”) which provides incentive awards based on Company and individual performance, depending on your role and your performance. You may be eligible to participate in our annual Long-Term Incentive (LTI) program, which consists of restricted stock units (RSUs) or cash equivalents, pursuant to the terms of the LTI plan. Please note that not all roles are eligible to participate in the LTI program, and not all roles are eligible for equity under the LTI plan. RSU awards are also available to eligible new hires, subject to Western Digital’s Standard Terms and Conditions for Restricted Stock Unit Awards.We offer a comprehensive package of benefits including paid vacation time; paid sick leave; medical/dental/vision insurance; life, accident and disability insurance; tax-advantaged flexible spending and health savings accounts; employee assistance program; other voluntary benefit programs such as supplemental life and AD&D, legal plan, pet insurance, critical illness, accident and hospital indemnity; tuition reimbursement; transit; the Applause Program; employee stock purchase plan; and the Western Digital Savings 401(k) Plan.Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.Notice To Candidates: Please be aware that Western Digital and its subsidiaries will never request payment as a condition for applying for a position or receiving an offer of employment. Should you encounter any such requests, please report it immediately to Western Digital Ethics Helpline or email [email protected].I'm interestedI'm interestedPrivacy Policy",
+      "job_description": "Join Western Digital in this exciting opportunity.",
       "job_apply_link": "https://jobs.smartrecruiters.com/WesternDigital/744000101672270",
       "job_posted_at_datetime_utc": "2026-01-05T23:36:53.000Z",
       "job_employment_type": "FULLTIME",
       "source": "simplify",
       "source_url": "simplify.jobs",
       "job_posted_at": "1h",
-      "id": "jobs-smartrecruiters-com-westerndigital-744000101672270",
-      "description_platform": "generic",
-      "description_success": true
+      "id": "jobs-smartrecruiters-com-westerndigital-744000101672270"
     },
-    "status": "enriched",
-    "addedAt": "2026-01-06T03:55:41.616Z",
-    "enrichedAt": "2026-01-06T03:57:07.017Z",
+    "status": "pending",
+    "addedAt": "2026-01-06T04:17:57.170Z",
+    "enrichedAt": null,
     "postedAt": null
   },
   {
@@ -473,7 +493,7 @@
       "id": "jobs-smartrecruiters-com-ramboll3-744000101714944"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -493,7 +513,7 @@
       "id": "www-jellyvision-com-about-us-careers-apply"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -513,7 +533,7 @@
       "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -533,7 +553,7 @@
       "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-development-engineer_r160657"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -553,7 +573,7 @@
       "id": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -584,7 +604,7 @@
       "commitment": "Permanent",
       "salary": null,
       "posted_at": "2026-01-05T18:44:22.524Z",
-      "fetched_at": "2026-01-06T03:55:23.651Z",
+      "fetched_at": "2026-01-06T04:17:35.949Z",
       "description": "We're the Music Mission Design team, a multidisciplinary group building the experiences that help artists and their teams grow, connect with fans, and shape culture. From rich data insights to messaging tools and release workflows, we design Spotify for Artists, our platform used by artists worldwide to manage their careers and tell their stories.\n\nThis role sits at the intersection of language, systems, and creativity. You'll help define how artists understand what's working, plan what's next, and engage their audience, all through clear, impactful content design. If you're excited about designing with language, collaborating across disciplines, and supporting a global community of creators, you'll find space here to grow and lead.\n\nWe're looking for a Content Designer to join the Music Mission. You'll focus on shaping clear, helpful, and impactful user experiences across Spotify for Artists, with an emphasis on analytics, release tools, video management, messaging, and prompt-based features.\n\nThis is a mid-level role for someone who's confident writing for product flows and systems, energized by complexity, and passionate about helping users take action with clarity and confidence.\n",
       "_raw": {
         "source": "lever",
@@ -593,7 +613,7 @@
       "job_posted_at": "1h"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -613,7 +633,7 @@
       "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -633,7 +653,7 @@
       "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -653,7 +673,7 @@
       "id": "www-tesla-com-careers-search-job-248966"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   },
@@ -673,7 +693,7 @@
       "id": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915"
     },
     "status": "pending",
-    "addedAt": "2026-01-06T03:55:41.616Z",
+    "addedAt": "2026-01-06T04:17:57.170Z",
     "enrichedAt": null,
     "postedAt": null
   }
