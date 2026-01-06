@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T18:27:14.822Z",
+  "lastUpdated": "2026-01-06T18:46:48.655Z",
   "jobs": [
     {
       "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
@@ -15093,14 +15093,58 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5736009004?gh_jid=5736009004",
       "discordThreadId": "1458165016741019772",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7493743-2026-01-06-1",
+      "jobId": "careers-datadoghq-com-detail-7493743",
+      "company": "datadog",
+      "title": "People Analyst II",
+      "postedToDiscord": "2026-01-06T18:46:29.223Z",
+      "sourceDate": "2026-01-06T13:35:27-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7493743/?gh_jid=7493743",
+      "discordThreadId": "1458169859018854532",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7490601-2026-01-06-1",
+      "jobId": "careers-datadoghq-com-detail-7490601",
+      "company": "datadog",
+      "title": "Internal Communications Program Manager",
+      "postedToDiscord": "2026-01-06T18:46:35.722Z",
+      "sourceDate": "2026-01-06T13:32:21-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7490601/?gh_jid=7490601",
+      "discordThreadId": "1458169885862658150",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4502508008-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4502508008",
+      "company": "anthropic",
+      "title": "Application Security Engineer",
+      "postedToDiscord": "2026-01-06T18:46:42.140Z",
+      "sourceDate": "2026-01-06T13:31:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
+      "discordThreadId": "1458169913339412532",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-feaa161c-57ca-4efb-bd9f-6a63d195852b-2026-01-06-1",
+      "jobId": "jobs-lever-co-spotify-feaa161c-57ca-4efb-bd9f-6a63d195852b",
+      "company": "spotify",
+      "title": "Engineering Manager II - Personalization",
+      "postedToDiscord": "2026-01-06T18:46:48.655Z",
+      "sourceDate": "2026-01-06T17:24:23.512Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/feaa161c-57ca-4efb-bd9f-6a63d195852b",
+      "discordThreadId": "1458169940505788539",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1372,
+    "totalJobs": 1376,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T18:27:14.822Z",
+      "date": "2026-01-06T18:46:48.655Z",
       "archived": 0
     }
   }
