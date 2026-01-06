@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T23:05:44.857Z",
+  "lastUpdated": "2026-01-06T23:40:39.537Z",
   "jobs": [
-    {
-      "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
-      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762",
-      "company": "CACI",
-      "title": "Entry/Mid Software Developer",
-      "postedToDiscord": "2025-12-30T23:35:20.287Z",
-      "sourceDate": "2025-12-30T23:16:19.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762",
-      "discordThreadId": "1455705835610050570",
-      "instanceNumber": 1
-    },
     {
       "id": "dmainc-wd5-myworkdayjobs-com-dma-job-fort-wayne-in-associate-software-support-java-_req293-2025-12-31-1",
       "jobId": "dmainc-wd5-myworkdayjobs-com-dma-job-fort-wayne-in-associate-software-support-java-_req293",
@@ -15258,14 +15247,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018520008",
       "discordThreadId": "1458235103716053002",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8362678002-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8362678002",
+      "company": "discord",
+      "title": "Staff Product Manager, Payments",
+      "postedToDiscord": "2026-01-06T23:40:05.379Z",
+      "sourceDate": "2026-01-06T18:36:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362678002",
+      "discordThreadId": "1458243746033569927",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cinfin-taleo-net-careersection-ex-jobdetail-ftl-2026-01-06-1",
+      "jobId": "cinfin-taleo-net-careersection-ex-jobdetail-ftl",
+      "company": "Cincinnati Financial",
+      "title": "Sales Analytics Engineer 1 - IV",
+      "postedToDiscord": "2026-01-06T23:40:09.020Z",
+      "sourceDate": "2026-01-06T23:19:22.000Z",
+      "sourceUrl": "https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2600112",
+      "discordThreadId": "1458243761191522325",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-rivian-com-jobs-28531-2026-01-06-1",
+      "jobId": "careers-rivian-com-jobs-28531",
+      "company": "Rivian",
+      "title": "Prototype Data Analyst",
+      "postedToDiscord": "2026-01-06T23:40:13.402Z",
+      "sourceDate": "2026-01-06T23:17:35.000Z",
+      "sourceUrl": "https://careers.rivian.com/jobs/28531?lang=en-us&icims=1",
+      "discordThreadId": "1458243777163694362",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055446008-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055446008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Industries",
+      "postedToDiscord": "2026-01-06T23:40:20.097Z",
+      "sourceDate": "2026-01-06T18:21:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055446008",
+      "discordThreadId": "1458243807622729781",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4931782008-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4931782008",
+      "company": "anthropic",
+      "title": "SMB Account Executive, Industries",
+      "postedToDiscord": "2026-01-06T23:40:24.047Z",
+      "sourceDate": "2026-01-06T18:07:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4931782008",
+      "discordThreadId": "1458243823510618326",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319271-2026-01-06-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319271",
+      "company": "Oracle",
+      "title": "Software Developer 1",
+      "postedToDiscord": "2026-01-06T23:40:30.695Z",
+      "sourceDate": "2026-01-06T23:14:19.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319271",
+      "discordThreadId": "1458243852044468369",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191-2026-01-06-1",
+      "jobId": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Engineer 1 – Senior Engineer – Senior Engineer 2 – Principal Engineer System Protection - Principal Engineer System Protection",
+      "postedToDiscord": "2026-01-06T23:40:34.465Z",
+      "sourceDate": "2026-01-06T23:07:01.000Z",
+      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003191",
+      "discordThreadId": "1458243868179955844",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-nbcuniversal3-744000101905506-2026-01-06-1",
+      "jobId": "jobs-smartrecruiters-com-nbcuniversal3-744000101905506",
+      "company": "NBCUniversal",
+      "title": "Associate Data Engineer",
+      "postedToDiscord": "2026-01-06T23:40:39.537Z",
+      "sourceDate": "2026-01-06T23:13:58.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000101905506",
+      "discordThreadId": "1458243895853973696",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1387,
+    "totalJobs": 1394,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T23:05:44.857Z",
+      "date": "2026-01-06T23:40:39.537Z",
       "archived": 0
     }
   }
