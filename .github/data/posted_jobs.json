@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T16:06:40.147Z",
+  "lastUpdated": "2026-01-06T16:45:51.313Z",
   "jobs": [
     {
       "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-business-intelligence-engineer-i_1625414-2025-12-30-1",
@@ -15005,14 +15005,58 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
       "discordThreadId": "1458129639154126999",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb-2026-01-06-1",
+      "jobId": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb",
+      "company": "spotify",
+      "title": "Senior Machine Learning Engineer - Ads R&D",
+      "postedToDiscord": "2026-01-06T16:45:34.636Z",
+      "sourceDate": "2025-08-26T20:02:52.517Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/6236f25f-f9cc-47c2-af7b-4ace57332eeb",
+      "discordThreadId": "1458139430878581001",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cisco-com-global-en-job-2001899-2026-01-06-1",
+      "jobId": "careers-cisco-com-global-en-job-2001899",
+      "company": "Cisco",
+      "title": "AI Machine Learning Engineer 2",
+      "postedToDiscord": "2026-01-06T16:45:37.998Z",
+      "sourceDate": "2026-01-06T16:18:36.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2001899",
+      "discordThreadId": "1458139445122433086",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7405831-2026-01-06-1",
+      "jobId": "careers-datadoghq-com-detail-7405831",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive ",
+      "postedToDiscord": "2026-01-06T16:45:44.784Z",
+      "sourceDate": "2026-01-06T11:35:06-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831",
+      "discordThreadId": "1458139472704045242",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-shiftsmart-e965f643-121a-41b3-bb50-476ea9f78733-application-2026-01-06-1",
+      "jobId": "jobs-ashbyhq-com-shiftsmart-e965f643-121a-41b3-bb50-476ea9f78733-application",
+      "company": "Shiftsmart",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2026-01-06T16:45:51.313Z",
+      "sourceDate": "2026-01-06T16:17:48.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/shiftsmart/e965f643-121a-41b3-bb50-476ea9f78733/application",
+      "discordThreadId": "1458139500797759621",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1364,
+    "totalJobs": 1368,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T16:06:40.147Z",
+      "date": "2026-01-06T16:45:51.313Z",
       "archived": 0
     }
   }
