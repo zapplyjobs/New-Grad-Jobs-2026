@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T00:23:59.501Z",
+  "lastUpdated": "2026-01-06T00:46:09.266Z",
   "jobs": [
-    {
-      "id": "www-rubrik-com-company-careers-departments-job-6528028-2025-12-30-1",
-      "jobId": "www-rubrik-com-company-careers-departments-job-6528028",
-      "company": "Rubrik",
-      "title": "Software Engineer - Distributed Systems - Platform Software",
-      "postedToDiscord": "2025-12-30T00:42:52.276Z",
-      "sourceDate": "2025-12-30T00:13:36.000Z",
-      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028",
-      "discordThreadId": "1455360443085226104",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-environmental-health-safety-data-management-specialist-hybrid-_jr91800-2025-12-30-1",
-      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-environmental-health-safety-data-management-specialist-hybrid-_jr91800",
-      "company": "Wash U",
-      "title": "Environmental Health & Safety Data Management Specialist",
-      "postedToDiscord": "2025-12-30T00:42:55.795Z",
-      "sourceDate": "2025-12-29T23:26:28.000Z",
-      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800",
-      "discordThreadId": "1455360457605910549",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-8e2623d7-b689-40de-a94b-3f79f7d26474-application-2025-12-30-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-8e2623d7-b689-40de-a94b-3f79f7d26474-application",
-      "company": "Jerry",
-      "title": "Software Engineer - Entry",
-      "postedToDiscord": "2025-12-30T00:43:02.255Z",
-      "sourceDate": "2025-12-29T23:21:00.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application",
-      "discordThreadId": "1455360485242306600",
-      "instanceNumber": 1
-    },
-    {
-      "id": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-data-analyst_rq4045231-2025-12-30-1",
-      "jobId": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-data-analyst_rq4045231",
-      "company": "Mass General Brigham",
-      "title": "Data Analyst",
-      "postedToDiscord": "2025-12-30T00:43:08.750Z",
-      "sourceDate": "2025-12-16T23:40:34.000Z",
-      "sourceUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst_RQ4045231",
-      "discordThreadId": "1455360512018874455",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-careaccess-jobs-4052147009-2025-12-30-1",
-      "jobId": "job-boards-greenhouse-io-careaccess-jobs-4052147009",
-      "company": "Care Access",
-      "title": "Enterprise Performance Analytics Engineer",
-      "postedToDiscord": "2025-12-30T00:43:12.242Z",
-      "sourceDate": "2025-10-29T20:19:08.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/careaccess/jobs/4052147009",
-      "discordThreadId": "1455360526787023038",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-patterndata-jobs-5012589007-2025-12-30-1",
       "jobId": "job-boards-greenhouse-io-patterndata-jobs-5012589007",
@@ -14686,14 +14631,124 @@
       "sourceUrl": "https://www.tesla.com/careers/search/job/248966",
       "discordThreadId": "1457892406656499857",
       "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-statistical-data-analyst-institute-for-informatics-data-science-biostatistics_jr91931-2026-01-06-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-statistical-data-analyst-institute-for-informatics-data-science-biostatistics_jr91931",
+      "company": "Wash U",
+      "title": "Statistical Data Analyst - Institute for Informatics - Data Science & Biostatistics",
+      "postedToDiscord": "2026-01-06T00:45:32.862Z",
+      "sourceDate": "2026-01-06T00:17:19.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Institute-for-Informatics--Data-Science---Biostatistics_JR91931",
+      "discordThreadId": "1457897830621647054",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-predoctoral-appointee-engineer-research-associate_421596-2026-01-06-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-predoctoral-appointee-engineer-research-associate_421596",
+      "company": "Argonne National Laboratory",
+      "title": "Predoctoral Appointee - Engineer Research Associate",
+      "postedToDiscord": "2026-01-06T00:45:36.428Z",
+      "sourceDate": "2026-01-06T00:04:55.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Engineer-Research-Associate_421596",
+      "discordThreadId": "1457897846081716442",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jll-wd1-myworkdayjobs-com-jllcareers-job-minneapolis-mn-research-analyst_req473450-2026-01-06-1",
+      "jobId": "jll-wd1-myworkdayjobs-com-jllcareers-job-minneapolis-mn-research-analyst_req473450",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Research Analyst",
+      "postedToDiscord": "2026-01-06T00:45:39.964Z",
+      "sourceDate": "2026-01-05T23:56:46.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Research-Analyst_REQ473450",
+      "discordThreadId": "1457897861210439995",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-development-engineer_r160657-2026-01-06-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-development-engineer_r160657",
+      "company": "Adobe",
+      "title": "2026 University Graduate - Software Development Engineer",
+      "postedToDiscord": "2026-01-06T00:45:43.692Z",
+      "sourceDate": "2026-01-05T23:17:39.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Development-Engineer_R160657",
+      "discordThreadId": "1457897876066799742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-irvine-ca-software-engineer-i_r202569460-2026-01-06-1",
+      "jobId": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-irvine-ca-software-engineer-i_r202569460",
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-06T00:45:50.282Z",
+      "sourceDate": "2026-01-06T00:05:01.000Z",
+      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202569460",
+      "discordThreadId": "1457897904672079935",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-jb-charleston-sc-product-data-management-specialist-entry-or-associate-level-_jr2025488628-1-2026-01-06-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-jb-charleston-sc-product-data-management-specialist-entry-or-associate-level-_jr2025488628-1",
+      "company": "The Boeing Company",
+      "title": "Product Data Management Specialist - Entry or Associate Level",
+      "postedToDiscord": "2026-01-06T00:45:53.753Z",
+      "sourceDate": "2026-01-05T23:50:30.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---JB-Charleston-SC/Product-Data-Management-Specialist--Entry-or-Associate-Level-_JR2025488628-1",
+      "discordThreadId": "1457897919310205082",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-icapitalnetwork-jobs-8358982002-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-icapitalnetwork-jobs-8358982002",
+      "company": "iCapital Network",
+      "title": "Alternative Data Management - Analyst",
+      "postedToDiscord": "2026-01-06T00:45:57.585Z",
+      "sourceDate": "2026-01-05T23:48:15.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8358982002",
+      "discordThreadId": "1457897933813973165",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-esri-com-careers-5012736007-2026-01-06-1",
+      "jobId": "www-esri-com-careers-5012736007",
+      "company": "Esri",
+      "title": "Web Developer 1 - UI for Arcgis Enterprise",
+      "postedToDiscord": "2026-01-06T00:45:59.283Z",
+      "sourceDate": "2026-01-05T23:43:05.000Z",
+      "sourceUrl": "https://www.esri.com/careers/5012736007?gh_jid=5012736007",
+      "discordThreadId": "1457897949576040459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-charlotte-nc-quantitative-model-analyst-1_2026-0000098-2026-01-06-1",
+      "jobId": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-charlotte-nc-quantitative-model-analyst-1_2026-0000098",
+      "company": "U.S. Bank",
+      "title": "Quantitative Model Analyst 1",
+      "postedToDiscord": "2026-01-06T00:46:05.850Z",
+      "sourceDate": "2026-01-06T00:01:13.000Z",
+      "sourceUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Quantitative-Model-Analyst-1_2026-0000098",
+      "discordThreadId": "1457897970178457736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-ramboll3-744000101714944-2026-01-06-1",
+      "jobId": "jobs-smartrecruiters-com-ramboll3-744000101714944",
+      "company": "Ramboll",
+      "title": "Associate Air Quality Consultant",
+      "postedToDiscord": "2026-01-06T00:46:09.265Z",
+      "sourceDate": "2026-01-05T23:36:50.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000101714944",
+      "discordThreadId": "1457897984548274374",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1335,
+    "totalJobs": 1340,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T00:23:59.501Z",
+      "date": "2026-01-06T00:46:09.266Z",
       "archived": 0
     }
   }
