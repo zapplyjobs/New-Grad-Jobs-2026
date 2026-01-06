@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T17:25:59.864Z",
+  "lastUpdated": "2026-01-06T17:41:48.310Z",
   "jobs": [
-    {
-      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-business-intelligence-engineer-i_1625414-2025-12-30-1",
-      "jobId": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-business-intelligence-engineer-i_1625414",
-      "company": "Centene",
-      "title": "Business Intelligence Engineer 1",
-      "postedToDiscord": "2025-12-30T17:38:08.010Z",
-      "sourceDate": "2025-12-30T17:14:59.000Z",
-      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Intelligence-Engineer-I_1625414",
-      "discordThreadId": "1455615949477777441",
-      "instanceNumber": 1
-    },
-    {
-      "id": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-wv-summit-point-c-uas-test-analyst_r175918-2-2025-12-30-1",
-      "jobId": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-wv-summit-point-c-uas-test-analyst_r175918-2",
-      "company": "Parsons",
-      "title": "C-UAS Test Analyst",
-      "postedToDiscord": "2025-12-30T17:38:14.554Z",
-      "sourceDate": "2025-12-30T17:06:17.000Z",
-      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/C-UAS-Test-Analyst_R175918-2",
-      "discordThreadId": "1455615969320767631",
-      "instanceNumber": 1
-    },
-    {
-      "id": "caci-wd1-myworkdayjobs-com-external-job-us-va-norfolk-applications-programmer-i_313830-2025-12-30-1",
-      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-va-norfolk-applications-programmer-i_313830",
-      "company": "CACI",
-      "title": "Applications Programmer 1",
-      "postedToDiscord": "2025-12-30T17:38:21.080Z",
-      "sourceDate": "2025-12-30T17:02:24.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/Applications-Programmer-I_313830",
-      "discordThreadId": "1455615996764094605",
-      "instanceNumber": 1
-    },
     {
       "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
       "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762",
@@ -15093,14 +15060,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
       "discordThreadId": "1458149602254389452",
       "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-visual-charting-specialist_r-00172970-2026-01-06-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-visual-charting-specialist_r-00172970",
+      "company": "Leidos",
+      "title": "Visual Charting Specialist",
+      "postedToDiscord": "2026-01-06T17:41:41.832Z",
+      "sourceDate": "2026-01-06T16:47:19.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Visual-Charting-Specialist_R-00172970",
+      "discordThreadId": "1458153553880285437",
+      "instanceNumber": 1
+    },
+    {
+      "id": "icf-wd5-myworkdayjobs-com-icfexternal_career_site-job-arlington-va-va31-energy-and-climate-researcher_r2600017-2026-01-06-1",
+      "jobId": "icf-wd5-myworkdayjobs-com-icfexternal_career_site-job-arlington-va-va31-energy-and-climate-researcher_r2600017",
+      "company": "ICF International",
+      "title": "Energy and Climate Researcher",
+      "postedToDiscord": "2026-01-06T17:41:48.310Z",
+      "sourceDate": "2026-01-06T16:36:20.000Z",
+      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Arlington-VA-VA31/Energy-and-Climate-Researcher_R2600017",
+      "discordThreadId": "1458153581076287672",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1372,
+    "totalJobs": 1371,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T17:25:59.864Z",
+      "date": "2026-01-06T17:41:48.310Z",
       "archived": 0
     }
   }
