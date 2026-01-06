@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T01:57:04.169Z",
+  "lastUpdated": "2026-01-06T02:41:46.445Z",
   "jobs": [
     {
       "id": "lifeattiktok-com-search-7554542061111478536-2025-12-30-1",
@@ -14873,14 +14873,58 @@
       "sourceUrl": "https://careers-markon.icims.com/jobs/7960/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1457915830368075871",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-5ed17dbd-5d87-4cae-93b4-beda2b2eb19e-2026-01-06-1",
+      "jobId": "jobs-lever-co-spotify-5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
+      "company": "spotify",
+      "title": "Content Designer, Music Mission",
+      "postedToDiscord": "2026-01-06T02:41:29.540Z",
+      "sourceDate": "2026-01-05T18:44:22.524Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
+      "discordThreadId": "1457927009769623659",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624-2026-01-06-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-06T02:41:36.043Z",
+      "sourceDate": "2026-01-06T02:21:20.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90290660624",
+      "discordThreadId": "1457927037338783899",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-39519933-2026-01-06-1",
+      "jobId": "aexp-eightfold-ai-careers-job-39519933",
+      "company": "American Express",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-06T02:41:39.488Z",
+      "sourceDate": "2026-01-06T02:08:38.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/39519933",
+      "discordThreadId": "1457927051574116501",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8360086002-2026-01-06-1",
+      "jobId": "www-brex-com-careers-8360086002",
+      "company": "brex",
+      "title": "Tax Director",
+      "postedToDiscord": "2026-01-06T02:41:46.445Z",
+      "sourceDate": "2026-01-05T20:55:40-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8360086002?gh_jid=8360086002",
+      "discordThreadId": "1457927079449464862",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1352,
+    "totalJobs": 1356,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T01:57:04.169Z",
+      "date": "2026-01-06T02:41:46.445Z",
       "archived": 0
     }
   }
