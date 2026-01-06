@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T14:42:32.655Z",
+  "lastUpdated": "2026-01-06T15:26:17.649Z",
   "jobs": [
     {
       "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-business-intelligence-engineer-i_1625414-2025-12-30-1",
@@ -14983,14 +14983,25 @@
       "sourceUrl": "https://jobs.lever.co/spotify/0d21c06c-31f7-4898-b34b-b7bcd1518335",
       "discordThreadId": "1458108467817746564",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023089008-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023089008",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Platform",
+      "postedToDiscord": "2026-01-06T15:26:17.648Z",
+      "sourceDate": "2026-01-06T10:21:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023089008",
+      "discordThreadId": "1458119478369058946",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1362,
+    "totalJobs": 1363,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T14:42:32.655Z",
+      "date": "2026-01-06T15:26:17.649Z",
       "archived": 0
     }
   }
