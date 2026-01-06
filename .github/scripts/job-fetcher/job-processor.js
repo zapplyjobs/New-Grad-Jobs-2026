@@ -6,6 +6,7 @@ const {
     ALL_COMPANIES,
     COMPANY_BY_NAME,
     generateJobId,
+    generateJobFingerprint,
     migrateOldJobId,
     normalizeCompanyName,
     getCompanyEmoji,
@@ -399,10 +400,13 @@ function updateSeenJobsStore(jobs, seenIds) {
             console.error('⚠️ Error loading existing seen_jobs.json:', loadError.message);
         }
 
-        // Add new jobs with current timestamp
+        // Add new jobs with current timestamp AND fingerprint
         const now = new Date().toISOString();
         jobs.forEach(job => {
-            seenWithTimestamps[job.id] = now;
+            seenWithTimestamps[job.id] = {
+                timestamp: now,
+                fingerprint: generateJobFingerprint(job)
+            };
         });
 
         // Expire entries older than 7 days
@@ -410,10 +414,13 @@ function updateSeenJobsStore(jobs, seenIds) {
         const validEntries = {};
         let expiredCount = 0;
 
-        Object.entries(seenWithTimestamps).forEach(([id, timestamp]) => {
+        Object.entries(seenWithTimestamps).forEach(([id, data]) => {
+            // Handle both old format (string timestamp) and new format (object with timestamp + fingerprint)
+            const timestamp = typeof data === 'object' ? data.timestamp : data;
             const seenDate = new Date(timestamp).getTime();
+
             if (seenDate >= sevenDaysAgo) {
-                validEntries[id] = timestamp;
+                validEntries[id] = data; // Keep original format (old or new)
             } else {
                 expiredCount++;
             }
@@ -597,13 +604,13 @@ function loadSeenJobsStore() {
     try {
         if (!fs.existsSync(seenPath)) {
             console.log('ℹ️ No existing seen_jobs.json found - starting fresh');
-            return new Set();
+            return { seenIds: new Set(), seenFingerprints: new Set() };
         }
 
         const fileContent = fs.readFileSync(seenPath, 'utf8');
         if (!fileContent.trim()) {
             console.log('⚠️ Empty seen_jobs.json file - starting fresh');
-            return new Set();
+            return { seenIds: new Set(), seenFingerprints: new Set() };
         }
 
         const seenData = JSON.parse(fileContent);
@@ -644,30 +651,46 @@ function loadSeenJobsStore() {
 
         console.log(`✅ Loaded ${Object.keys(validSeenJobs).length} recently seen jobs`);
 
+        // Build fingerprint set from stored data (if available)
+        const seenIds = new Set();
+        const seenFingerprints = new Set();
+
+        Object.entries(validSeenJobs).forEach(([id, data]) => {
+            seenIds.add(id);
+
+            // Handle both old format (string timestamp) and new format (object with fingerprint)
+            if (typeof data === 'object' && data.fingerprint) {
+                seenFingerprints.add(data.fingerprint);
+            }
+            // Old format (string timestamp) - fingerprint will be empty, that's okay
+        });
+
+        console.log(`📌 Loaded ${seenIds.size} job IDs and ${seenFingerprints.size} fingerprints`);
+
         // Migration check: if all IDs are in old format, we need to regenerate them
         // Old format contains commas and multiple dashes, new format doesn't
-        const jobIds = Object.keys(validSeenJobs);
+        const jobIds = Array.from(seenIds);
         const hasOldFormatIds = jobIds.some(id => id.includes(',') || id.includes('---'));
 
         if (hasOldFormatIds && jobIds.length > 0) {
             console.log('⚠️ Detected old job ID format - migrating to new standardized format');
 
             // Migrate old IDs to new format to minimize re-posting
-            const migratedJobs = {};
+            const migratedIds = new Set();
             jobIds.forEach(oldId => {
                 const newId = (oldId.includes(',') || oldId.includes('---'))
                     ? migrateOldJobId(oldId)
                     : oldId;
-                migratedJobs[newId] = validSeenJobs[oldId];
+                migratedIds.add(newId);
             });
 
-            console.log(`📝 Migrated ${jobIds.length} old IDs to ${Object.keys(migratedJobs).length} new format IDs`);
+            console.log(`📝 Migrated ${jobIds.length} old IDs to ${migratedIds.size} new format IDs`);
 
-            return new Set(Object.keys(migratedJobs));
+            return { seenIds: migratedIds, seenFingerprints };
         }
 
-        // Return as Set of IDs for compatibility with existing code
-        return new Set(Object.keys(validSeenJobs));
+        // Return both Sets for deduplication
+        return { seenIds, seenFingerprints };
 
     } catch (error) {
         console.error('❌ Error loading seen_jobs.json:', error.message);
@@ -682,7 +705,7 @@ function loadSeenJobsStore() {
             console.error('⚠️ Could not create backup:', backupError.message);
         }
 
-        return new Set();
+        return { seenIds: new Set(), seenFingerprints: new Set() };
     }
 }
 
@@ -750,7 +773,7 @@ async function processJobs() {
         // Use posted_jobs.json (what we've successfully posted to Discord)
         // instead of seen_jobs.json (what we've fetched from APIs)
         const postedIds = loadPostedJobsStore();
-        const seenIds = loadSeenJobsStore(); // Keep for backwards compatibility
+        const { seenIds, seenFingerprints } = loadSeenJobsStore(); // Returns {seenIds: Set, seenFingerprints: Set}
 
         // Load job dates store
         const jobDatesStore = loadJobDatesStore();
@@ -811,20 +834,35 @@ async function processJobs() {
         let queue = loadPendingQueue();
         queue = cleanupPostedFromQueue(queue, postedIds);
 
-        // Create set of job IDs already in queue to prevent duplicate additions
+        // Create sets of job IDs and fingerprints already in queue to prevent duplicate additions
         const queueIds = new Set(queue.map(item => item.job.id));
+        const queueFingerprints = new Set(queue.map(item => generateJobFingerprint(item.job)));
 
         // STEP 2: Filter for truly NEW jobs (deduplication against BOTH seen_jobs.json AND queue)
         // This ensures we don't add the same job to queue multiple times
         // Log EVERY deduplication check for debugging
         const freshJobs = currentJobs.filter(job => {
-            const isInSeen = seenIds.has(job.id);
-            const isInQueue = queueIds.has(job.id);
-            const isDuplicate = isInSeen || isInQueue;
+            // Layer 1: URL-based ID check (existing)
+            const isInSeenById = seenIds.has(job.id);
+            const isInQueueById = queueIds.has(job.id);
 
-            // Log this check
-            const reason = isInSeen ? 'seen_jobs' : (isInQueue ? 'pending_queue' : null);
-            dedupLogger.logCheck(job, job.id, isDuplicate, null, reason);
+            // Layer 2: Content fingerprint check (NEW - catches duplicates with different IDs)
+            const jobFingerprint = generateJobFingerprint(job);
+            const isInSeenByFingerprint = seenFingerprints.has(jobFingerprint);
+            const isInQueueByFingerprint = queueFingerprints.has(jobFingerprint);
+
+            // Combined duplicate check
+            const isDuplicate = isInSeenById || isInQueueById ||
+                               isInSeenByFingerprint || isInQueueByFingerprint;
+
+            // Determine match method and reason for logging
+            const matchMethod = isInSeenById || isInQueueById ? 'id' :
+                               isInSeenByFingerprint || isInQueueByFingerprint ? 'fingerprint' : null;
+            const reason = (isInSeenById || isInSeenByFingerprint) ? 'seen_jobs' :
+                          (isInQueueById || isInQueueByFingerprint) ? 'pending_queue' : null;
+
+            // Log this check with enhanced metadata
+            dedupLogger.logCheck(job, job.id, isDuplicate, null, reason, matchMethod, jobFingerprint);
 
             return !isDuplicate;
         });

@@ -113,6 +113,44 @@ function generateJobId(job) {
 }
 
 /**
+ * Generate content fingerprint for duplicate detection
+ * Normalizes title/company/location to catch duplicates with different IDs
+ *
+ * This is used as a secondary deduplication layer to catch cases where the
+ * same job has different generated IDs due to API variations
+ */
+function generateJobFingerprint(job) {
+    // Extract and normalize title
+    let title = (job.title || job.job_title || '').toLowerCase().trim();
+
+    // Remove seniority variations (e.g., "Senior" vs "Sr." vs "I/II/III")
+    title = title
+        .replace(/\b(senior|sr\.?|junior|jr\.?|staff|principal|lead|associate)\b/gi, '')
+        .replace(/\b(i{1,3}|iv|v|1|2|3|4|5)\b/g, '') // Roman numerals and numbers
+        .replace(/\s+-\s+[^-]+$/, '')  // Remove team suffix (e.g., "Software Engineer - AGI DS")
+        .replace(/\s+/g, ' ')
+        .trim();
+
+    // Normalize company name
+    const company = (job.company_name || job.employer_name || '')
+        .toLowerCase()
+        .trim()
+        .replace(/\s+(inc\.?|llc|corp\.?|ltd\.?)$/i, '');
+
+    // Normalize location (city only, no state/country)
+    let location = '';
+    if (job.locations && Array.isArray(job.locations) && job.locations.length > 0) {
+        location = job.locations[0].split(',')[0]; // Take city part only
+    } else {
+        location = (job.job_city || '').split(',')[0];
+    }
+    location = location.toLowerCase().trim();
+
+    // Create fingerprint (company::title::location format for readability)
+    return `${company}::${title}::${location}`;
+}
+
+/**
  * Convert old job ID format to new standardized format
  * This helps with migration from the old inconsistent ID system
  */
@@ -123,7 +161,7 @@ function migrateOldJobId(oldId) {
         .replace(/[^\w-]/g, '-')  // Replace special chars with dashes
         .replace(/-+/g, '-')     // Collapse multiple dashes
         .replace(/^-|-$/g, '');  // Remove leading/trailing dashes
-    
+
     return normalized;
 }
 
@@ -491,6 +529,7 @@ module.exports = {
     delay,
     generateJobId,
     generateEnhancedId,
+    generateJobFingerprint,
     migrateOldJobId,
     normalizeCompanyName,
     getCompanyEmoji,

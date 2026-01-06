@@ -15,6 +15,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { generateJobFingerprint } = require('./job-fetcher/utils');
 
 // Thresholds for health checks
 const THRESHOLDS = {
@@ -241,6 +242,170 @@ function checkQueueHealth() {
 }
 
 /**
+ * Check 3.5: Content Duplicate Detection (NEW)
+ * Detect jobs with same title+company+location but different IDs
+ * Auto-recover if duplicates exceed threshold
+ */
+function checkContentDuplicates() {
+    const queuePath = path.join(process.cwd(), '.github', 'data', 'pending_posts.json');
+    const queue = loadJSON(queuePath);
+
+    if (!queue || !Array.isArray(queue)) {
+        return; // Already handled by checkQueueHealth
+    }
+
+    // Detect content duplicates
+    const { totalDuplicates, duplicateGroups } = detectContentDuplicates(queue);
+    const dupRatio = queue.length > 0 ? totalDuplicates / queue.length : 0;
+
+    healthReport.metrics.queue_content_duplicates = totalDuplicates;
+    healthReport.metrics.queue_duplicate_ratio = dupRatio.toFixed(3);
+
+    // Moderate threshold: 10% auto-clean, 25% critical
+    if (dupRatio >= 0.25) {
+        // CRITICAL: Auto-recover + alert
+        const cleaned = autoRecoverDuplicates(queue, duplicateGroups);
+        savePendingQueue(cleaned);
+
+        healthReport.status = 'unhealthy';
+        healthReport.issues.push({
+            severity: 'critical',
+            component: 'queue-corruption',
+            message: `Critical queue corruption: ${totalDuplicates} content duplicates (${(dupRatio * 100).toFixed(1)}%)`,
+            recommendation: `AUTO-RECOVERY EXECUTED: Removed ${queue.length - cleaned.length} duplicates. Kept oldest entry (FIFO).`,
+            threshold: '25%',
+            recoveryAction: 'automatic',
+            duplicateGroups: duplicateGroups.slice(0, 5), // Top 5 examples
+        });
+
+        console.log(`🧹 AUTO-RECOVERY: Removed ${queue.length - cleaned.length} content duplicates from queue`);
+
+    } else if (dupRatio >= 0.10) {
+        // AUTO-CLEAN: Moderate threshold
+        const cleaned = autoRecoverDuplicates(queue, duplicateGroups);
+        savePendingQueue(cleaned);
+
+        healthReport.status = 'degraded';
+        healthReport.warnings.push({
+            severity: 'warning',
+            component: 'queue-duplicates',
+            message: `Queue duplicates detected and cleaned: ${totalDuplicates} removed (${(dupRatio * 100).toFixed(1)}%)`,
+            recommendation: 'Duplicates auto-removed. Monitor for recurrence.',
+            threshold: '10%',
+        });
+
+        console.log(`🧹 AUTO-CLEAN: Removed ${queue.length - cleaned.length} content duplicates from queue`);
+    } else if (dupRatio > 0.05 && dupRatio < 0.10) {
+        // Minor duplicates - log warning but don't auto-clean
+        healthReport.warnings.push({
+            severity: 'info',
+            component: 'queue-duplicates',
+            message: `Minor queue duplicates detected: ${totalDuplicates} (${(dupRatio * 100).toFixed(1)}%)`,
+            recommendation: 'Within acceptable threshold. Monitoring.',
+            threshold: '5%',
+        });
+    }
+}
+
+/**
+ * Detect content duplicates in queue
+ * Returns groups of jobs with same title+company+location but different IDs
+ */
+function detectContentDuplicates(queue) {
+    const contentMap = new Map();
+    const duplicateGroups = [];
+
+    queue.forEach((item, index) => {
+        const fingerprint = generateJobFingerprint(item.job);
+
+        if (!contentMap.has(fingerprint)) {
+            contentMap.set(fingerprint, []);
+        }
+        contentMap.get(fingerprint).push({ item, index, fingerprint });
+    });
+
+    // Find groups with 2+ entries
+    for (const [key, items] of contentMap.entries()) {
+        if (items.length > 1) {
+            duplicateGroups.push({
+                fingerprint: key,
+                count: items.length,
+                items: items.map(i => ({
+                    id: i.item.job.id,
+                    addedAt: i.item.addedAt,
+                    status: i.item.status,
+                    index: i.index,
+                })),
+            });
+        }
+    }
+
+    return {
+        totalDuplicates: duplicateGroups.reduce((sum, g) => sum + (g.count - 1), 0),
+        duplicateGroups,
+    };
+}
+
+/**
+ * Auto-recovery: Remove duplicate content from queue
+ * Keeps oldest entry (FIFO), removes newer duplicates
+ */
+function autoRecoverDuplicates(queue, duplicateGroups) {
+    const indicesToRemove = new Set();
+
+    duplicateGroups.forEach(group => {
+        // Sort: oldest first (FIFO), then by status priority
+        const sorted = [...group.items].sort((a, b) => {
+            const timeA = new Date(a.addedAt).getTime();
+            const timeB = new Date(b.addedAt).getTime();
+            if (timeA !== timeB) return timeA - timeB; // Oldest first
+
+            // Status priority: enriched > pending > posted
+            const priority = { enriched: 3, pending: 2, posted: 1 };
+            return (priority[b.status] || 0) - (priority[a.status] || 0);
+        });
+
+        // Keep first (oldest/highest priority), remove rest
+        sorted.slice(1).forEach(item => indicesToRemove.add(item.index));
+    });
+
+    const cleaned = queue.filter((_, index) => !indicesToRemove.has(index));
+
+    console.log(`   Before: ${queue.length} items | After: ${cleaned.length} items`);
+
+    return cleaned;
+}
+
+/**
+ * Save pending queue to file (used by auto-recovery)
+ */
+function savePendingQueue(queue) {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    const queuePath = path.join(dataDir, 'pending_posts.json');
+
+    // Create backup before writing
+    try {
+        if (fs.existsSync(queuePath)) {
+            const backupPath = path.join(dataDir, `pending_posts.backup-${Date.now()}.json`);
+            fs.copyFileSync(queuePath, backupPath);
+            console.log(`💾 Backup created: ${backupPath}`);
+        }
+    } catch (backupError) {
+        console.error('⚠️ Could not create backup:', backupError.message);
+    }
+
+    // Write updated queue
+    try {
+        const tempPath = queuePath + '.tmp';
+        fs.writeFileSync(tempPath, JSON.stringify(queue, null, 2));
+        fs.renameSync(tempPath, queuePath);
+        console.log(`✅ Queue saved: ${queue.length} items`);
+    } catch (error) {
+        console.error('❌ Error saving queue:', error.message);
+    }
+}
+
+/**
  * Check 4: Posted Jobs Rate
  * Ensure jobs are actually being posted to Discord
  */
@@ -394,6 +559,7 @@ function runHealthChecks() {
     checkDeduplicationRate();
     checkSeenJobsSize();
     checkQueueHealth();
+    checkContentDuplicates(); // NEW: Content-based duplicate detection + auto-recovery
     checkPostedJobsRate();
     checkFileSizes();
 
