@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T20:25:50.953Z",
+  "lastUpdated": "2026-01-06T20:52:07.954Z",
   "jobs": [
     {
       "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
@@ -15170,14 +15170,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055448008",
       "discordThreadId": "1458194863001440412",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7137624-2026-01-06-1",
+      "jobId": "careers-datadoghq-com-detail-7137624",
+      "company": "datadog",
+      "title": "Sales Development Representative (Denver)",
+      "postedToDiscord": "2026-01-06T20:52:07.954Z",
+      "sourceDate": "2026-01-06T15:47:49-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624",
+      "discordThreadId": "1458201485904056393",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1379,
+    "totalJobs": 1380,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T20:25:50.953Z",
+      "date": "2026-01-06T20:52:07.954Z",
       "archived": 0
     }
   }
