@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T16:45:51.313Z",
+  "lastUpdated": "2026-01-06T17:08:50.317Z",
   "jobs": [
     {
       "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-business-intelligence-engineer-i_1625414-2025-12-30-1",
@@ -15049,14 +15049,36 @@
       "sourceUrl": "https://jobs.ashbyhq.com/shiftsmart/e965f643-121a-41b3-bb50-476ea9f78733/application",
       "discordThreadId": "1458139500797759621",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496388-2026-01-06-1",
+      "jobId": "careers-datadoghq-com-detail-7496388",
+      "company": "datadog",
+      "title": "Federal Support Engineer 3 - Denver",
+      "postedToDiscord": "2026-01-06T17:08:43.626Z",
+      "sourceDate": "2026-01-06T12:06:46-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496388/?gh_jid=7496388",
+      "discordThreadId": "1458145263670792193",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4933383008-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4933383008",
+      "company": "anthropic",
+      "title": "Protective Services Program Manager",
+      "postedToDiscord": "2026-01-06T17:08:50.316Z",
+      "sourceDate": "2026-01-06T12:00:02-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933383008",
+      "discordThreadId": "1458145284235464886",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1368,
+    "totalJobs": 1370,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T16:45:51.313Z",
+      "date": "2026-01-06T17:08:50.317Z",
       "archived": 0
     }
   }
