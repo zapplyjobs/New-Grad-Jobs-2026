@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T00:46:09.266Z",
+  "lastUpdated": "2026-01-06T01:15:20.787Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-patterndata-jobs-5012589007-2025-12-30-1",
@@ -14741,14 +14741,124 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000101714944",
       "discordThreadId": "1457897984548274374",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply-2026-01-06-1",
+      "jobId": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply",
+      "company": "Major League Baseball",
+      "title": "Minor League Technology Operator",
+      "postedToDiscord": "2026-01-06T01:14:38.438Z",
+      "sourceDate": "2026-01-05T23:17:08.000Z",
+      "sourceUrl": "https://jobs.lever.co/redsox/b7e58053-8b14-4183-ad66-bc1499c0a762/apply",
+      "discordThreadId": "1457905153498812539",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009",
+      "company": "Voyager Technologies",
+      "title": "Software Engineer - AI Automation - Internal Tools",
+      "postedToDiscord": "2026-01-06T01:14:44.824Z",
+      "sourceDate": "2025-12-23T17:06:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087908009",
+      "discordThreadId": "1457905179893436489",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1-2026-01-06-1",
+      "jobId": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1",
+      "company": "Zeiss",
+      "title": "3D Tomography Application Engineer",
+      "postedToDiscord": "2026-01-06T01:14:48.249Z",
+      "sourceDate": "2025-11-21T09:34:07.000Z",
+      "sourceUrl": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1",
+      "discordThreadId": "1457905194426695780",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915-2026-01-06-1",
+      "jobId": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915",
+      "company": "Wolters Kluwer",
+      "title": "Tax Software Analyst",
+      "postedToDiscord": "2026-01-06T01:14:51.586Z",
+      "sourceDate": "2025-08-20T16:34:49.000Z",
+      "sourceUrl": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Wichita-KS/Tax-Software-Analyst_R0050915",
+      "discordThreadId": "1457905208804773998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11951-2026-01-06-1",
+      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11951",
+      "company": "Q2",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-06T01:14:55.106Z",
+      "sourceDate": "2026-01-05T23:44:26.000Z",
+      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11951",
+      "discordThreadId": "1457905223350882377",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-esri-com-careers-5012639007-2026-01-06-1",
+      "jobId": "www-esri-com-careers-5012639007",
+      "company": "Esri",
+      "title": "Java Software Engineer 1",
+      "postedToDiscord": "2026-01-06T01:14:56.796Z",
+      "sourceDate": "2026-01-05T23:42:44.000Z",
+      "sourceUrl": "https://www.esri.com/careers/5012639007?gh_jid=5012639007",
+      "discordThreadId": "1457905237669974221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-westerndigital-744000101672270-2026-01-06-1",
+      "jobId": "jobs-smartrecruiters-com-westerndigital-744000101672270",
+      "company": "Western Digital",
+      "title": "Developer 2 - Programming",
+      "postedToDiscord": "2026-01-06T01:15:00.711Z",
+      "sourceDate": "2026-01-05T23:36:53.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000101672270",
+      "discordThreadId": "1457905244624126035",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-florida-saint-augustine-engineer-industrial-principal-engineer-industrial_r10218122-2026-01-06-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-florida-saint-augustine-engineer-industrial-principal-engineer-industrial_r10218122",
+      "company": "Northrop Grumman",
+      "title": "Industrial Engineer / Principal Industrial Engineer",
+      "postedToDiscord": "2026-01-06T01:15:07.418Z",
+      "sourceDate": "2026-01-05T23:58:52.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/Engineer-Industrial-Principal-Engineer-Industrial_R10218122",
+      "discordThreadId": "1457905273707565251",
+      "instanceNumber": 1
+    },
+    {
+      "id": "allstate-wd5-myworkdayjobs-com-sourcing_event-job-usa-ca-remote-xmlname-2026-ats-technology-development-program_r22128-1-2026-01-06-1",
+      "jobId": "allstate-wd5-myworkdayjobs-com-sourcing_event-job-usa-ca-remote-xmlname-2026-ats-technology-development-program_r22128-1",
+      "company": "Allstate Insurance Company",
+      "title": "ATS Technology Development Program",
+      "postedToDiscord": "2026-01-06T01:15:14.255Z",
+      "sourceDate": "2026-01-05T23:51:24.000Z",
+      "sourceUrl": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
+      "discordThreadId": "1457905303763943557",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-terminal-visual-charting-specialist_r-00172965-2026-01-06-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-terminal-visual-charting-specialist_r-00172965",
+      "company": "Leidos",
+      "title": "Terminal Visual Charting Specialist",
+      "postedToDiscord": "2026-01-06T01:15:20.787Z",
+      "sourceDate": "2026-01-05T23:47:54.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Terminal-Visual-Charting-Specialist_R-00172965",
+      "discordThreadId": "1457905330569871391",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1340,
+    "totalJobs": 1350,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T00:46:09.266Z",
+      "date": "2026-01-06T01:15:20.787Z",
       "archived": 0
     }
   }
