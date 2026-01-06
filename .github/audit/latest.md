@@ -1,100 +1,144 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-06T18:09:01.976Z
+**Timestamp:** 2026-01-06T18:27:20.547Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 0
+- **Jobs Posted:** 1
 - **Jobs Failed:** 0
-- **Jobs Skipped:** 20
-- **Database Saved:** ❌ No
+- **Jobs Skipped:** 19
+- **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-06T18:08:59.431Z] ========================================
-[2026-01-06T18:08:59.433Z] Discord Bot Execution Log
-[2026-01-06T18:08:59.433Z] Environment: GitHub Actions
-[2026-01-06T18:08:59.433Z] Node Version: v20.19.6
-[2026-01-06T18:08:59.433Z] ========================================
-[2026-01-06T18:08:59.433Z] Environment Variables Check:
-[2026-01-06T18:08:59.433Z] DISCORD_TOKEN: ✅ Set
-[2026-01-06T18:08:59.433Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.433Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-06T18:08:59.434Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-06T18:08:59.434Z] 
+[2026-01-06T18:27:10.199Z] ========================================
+[2026-01-06T18:27:10.201Z] Discord Bot Execution Log
+[2026-01-06T18:27:10.201Z] Environment: GitHub Actions
+[2026-01-06T18:27:10.201Z] Node Version: v20.19.6
+[2026-01-06T18:27:10.201Z] ========================================
+[2026-01-06T18:27:10.201Z] Environment Variables Check:
+[2026-01-06T18:27:10.201Z] DISCORD_TOKEN: ✅ Set
+[2026-01-06T18:27:10.201Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.201Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-06T18:27:10.201Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-06T18:27:10.202Z] 
 Multi-Channel Configuration:
-[2026-01-06T18:08:59.434Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-06T18:08:59.434Z] 
+[2026-01-06T18:27:10.202Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-06T18:27:10.202Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-06T18:08:59.435Z] 
+[2026-01-06T18:27:10.202Z] 
 Data Files Check:
-[2026-01-06T18:08:59.435Z] .github/data/new_jobs.json: ✅ Exists (10 items, 124870 bytes)
-[2026-01-06T18:08:59.441Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 700910 bytes)
-[2026-01-06T18:08:59.441Z] 
+[2026-01-06T18:27:10.203Z] .github/data/new_jobs.json: ✅ Exists (10 items, 119267 bytes)
+[2026-01-06T18:27:10.208Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 700910 bytes)
+[2026-01-06T18:27:10.208Z] 
 ========================================
-[2026-01-06T18:08:59.441Z] Starting Enhanced Discord Bot...
-[2026-01-06T18:08:59.441Z] ========================================
-[2026-01-06T18:08:59.969Z] [BOT] ✅ Loaded V2 database: 1371 jobs
-[2026-01-06T18:09:00.615Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-06T18:09:00.615Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-06T18:27:10.208Z] Starting Enhanced Discord Bot...
+[2026-01-06T18:27:10.209Z] ========================================
+[2026-01-06T18:27:10.732Z] [BOT] ✅ Loaded V2 database: 1371 jobs
+[2026-01-06T18:27:11.226Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-06T18:27:11.226Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply.jobs (CH_20db82b8)
-[2026-01-06T18:09:00.615Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-06T18:09:00.617Z] [BOT] ✅ Loaded pending queue: 49 total (29 pending, 20 enriched, 0 posted)
-[2026-01-06T18:09:00.617Z] [BOT] [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
-[2026-01-06T18:09:00.617Z] [BOT] [BOT] 🔍 Sample enriched job: Head of Protective Services at anthropic
-[2026-01-06T18:09:00.618Z] [BOT] ⏭️  Skipping duplicate: JID_9ad8eece (posted within 7 days)
-[2026-01-06T18:09:00.618Z] [BOT] ⏭️ Skipping already posted: ROLE_8cae02ce at anthropic
-[2026-01-06T18:09:00.618Z] [BOT] ⏭️  Skipping duplicate: JID_c3c61d5c (posted within 7 days)
+[2026-01-06T18:27:11.227Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-06T18:27:11.228Z] [BOT] ✅ Loaded pending queue: 50 total (30 pending, 20 enriched, 0 posted)
+[2026-01-06T18:27:11.228Z] [BOT] [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
+[BOT] 🔍 Sample enriched job: Web Content Strategist at figma
+[2026-01-06T18:27:11.229Z] [BOT] ⏭️  Skipping duplicate: JID_9ad8eece (posted within 7 days)
+[2026-01-06T18:27:11.230Z] [BOT] ⏭️ Skipping already posted: ROLE_8cae02ce at anthropic
+[2026-01-06T18:27:11.230Z] [BOT] ⏭️  Skipping duplicate: JID_c3c61d5c (posted within 7 days)
 ⏭️ Skipping already posted: Staff Software Engineer, Storage at reddit
-[2026-01-06T18:09:00.618Z] [BOT] ⏭️  Skipping duplicate: JID_991a0636 (posted within 7 days)
-[2026-01-06T18:09:00.619Z] [BOT] ⏭️ Skipping already posted: Federal Support Engineer 3 - Denver at datadog
-⏭️  Skipping duplicate: JID_655cfbb9-specialist_r-00172970 (posted within 7 days)
-[2026-01-06T18:09:00.619Z] [BOT] ⏭️ Skipping already posted: ROLE_0ebc6431 at Leidos
+[2026-01-06T18:27:11.230Z] [BOT] ⏭️  Skipping duplicate: JID_991a0636 (posted within 7 days)
+[2026-01-06T18:27:11.230Z] [BOT] ⏭️ Skipping already posted: Federal Support Engineer 3 - Denver at datadog
+[2026-01-06T18:27:11.230Z] [BOT] ⏭️  Skipping duplicate: JID_655cfbb9-specialist_r-00172970 (posted within 7 days)
+⏭️ Skipping already posted: ROLE_0ebc6431 at Leidos
 ⏭️  Skipping duplicate: JID_fb69dbe6-icfexternal_career_site-JID_8dbb479e-researcher_r2600017 (posted within 7 days)
-[2026-01-06T18:09:00.619Z] [BOT] ⏭️ Skipping already posted: ROLE_13d2701c at ICF International
-[2026-01-06T18:09:00.619Z] [BOT] ⏭️  Skipping duplicate: JID_38408935 (posted within 7 days)
+⏭️ Skipping already posted: ROLE_13d2701c at ICF International
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️  Skipping duplicate: JID_38408935 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_a6f7682e  at datadog
-[2026-01-06T18:09:00.619Z] [BOT] ⏭️  Skipping duplicate: JID_42b8d223 (posted within 7 days)
-⏭️ Skipping already posted: AI Machine Learning Engineer 2 at Cisco
-[2026-01-06T18:09:00.619Z] [BOT] ⏭️  Skipping duplicate: JID_38c7271e (posted within 7 days)
+⏭️  Skipping duplicate: JID_42b8d223 (posted within 7 days)
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️ Skipping already posted: AI Machine Learning Engineer 2 at Cisco
+⏭️  Skipping duplicate: JID_38c7271e (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_2237147a at Shiftsmart
-[2026-01-06T18:09:00.620Z] [BOT] ⏭️  Skipping duplicate: JID_7a52a213 (posted within 7 days)
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️  Skipping duplicate: JID_7a52a213 (posted within 7 days)
 ⏭️ Skipping already posted: Premier Support Engineer 2 at datadog
-[2026-01-06T18:09:00.620Z] [BOT] ⏭️  Skipping duplicate: JID_075c3f6f (posted within 7 days)
-⏭️ Skipping already posted: Staff Software Engineer, Platform at anthropic
-[2026-01-06T18:09:00.620Z] [BOT] ⏭️  Skipping duplicate: JID_3e56c54c (posted within 7 days)
-[2026-01-06T18:09:00.620Z] [BOT] ⏭️ Skipping already posted: Senior Staff Machine Learning Engineer - Home at spotify
-⏭️  Skipping duplicate: JID_939a7704 (posted within 7 days)
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️  Skipping duplicate: JID_075c3f6f (posted within 7 days)
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️ Skipping already posted: Staff Software Engineer, Platform at anthropic
+⏭️  Skipping duplicate: JID_3e56c54c (posted within 7 days)
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️ Skipping already posted: Senior Staff Machine Learning Engineer - Home at spotify
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️  Skipping duplicate: JID_939a7704 (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at Twitch
-[2026-01-06T18:09:00.620Z] [BOT] ⏭️  Skipping duplicate: JID_0455e001 (posted within 7 days)
+[2026-01-06T18:27:11.231Z] [BOT] ⏭️  Skipping duplicate: JID_0455e001 (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at Twitch
-[2026-01-06T18:09:00.620Z] [BOT] ⏭️  Skipping duplicate: JID_3847d9eb (posted within 7 days)
+[2026-01-06T18:27:11.232Z] [BOT] ⏭️  Skipping duplicate: JID_3847d9eb (posted within 7 days)
 ⏭️ Skipping already posted: Director of Trust & Safety Engineering at vercel
 ⏭️  Skipping duplicate: JID_19cfc76f (posted within 7 days)
-[2026-01-06T18:09:00.620Z] [BOT] ⏭️ Skipping already posted: Software Engineer - Cloud Growth at Temporal Technologies
-⏭️  Skipping duplicate: JID_9e3993e2-2026_jr2010848-1 (posted within 7 days)
-[2026-01-06T18:09:00.621Z] [BOT] ⏭️ Skipping already posted: DL Algorithms Engineer – New College Graduate 2026 - Cosmos at NVIDIA
-[2026-01-06T18:09:00.621Z] [BOT] ⏭️  Skipping duplicate: JID_2a01d90d-2026_jr2008829 (posted within 7 days)
-⏭️ Skipping already posted: Research Engineer – PhD New College Grad - Architecture at NVIDIA
-[2026-01-06T18:09:00.621Z] [BOT] ⏭️  Skipping duplicate: JID_1a770488-associate_r014247 (posted within 7 days)
+⏭️ Skipping already posted: Software Engineer - Cloud Growth at Temporal Technologies
+[2026-01-06T18:27:11.232Z] [BOT] ⏭️  Skipping duplicate: JID_9e3993e2-2026_jr2010848-1 (posted within 7 days)
+⏭️ Skipping already posted: DL Algorithms Engineer – New College Graduate 2026 - Cosmos at NVIDIA
+⏭️  Skipping duplicate: JID_2a01d90d-2026_jr2008829 (posted within 7 days)
+[2026-01-06T18:27:11.232Z] [BOT] ⏭️ Skipping already posted: Research Engineer – PhD New College Grad - Architecture at NVIDIA
+⏭️  Skipping duplicate: JID_1a770488-associate_r014247 (posted within 7 days)
 ⏭️ Skipping already posted: 2026 Polymer Characterization and Thermal Analysis Research Associate at The Aerospace Corporation
 ⏭️  Skipping duplicate: JID_97f6c11d (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at American Express
-[2026-01-06T18:09:00.621Z] [BOT] ⏭️  Skipping duplicate: JID_c5bbd236 (posted within 7 days)
-⏭️ Skipping already posted: Software Engineer 1 at Intuit
-ℹ️ No new jobs to post - all jobs have been posted already
-[2026-01-06T18:09:00.636Z] 
+[2026-01-06T18:27:11.232Z] [BOT] 📬 Found 1 new jobs (19 already posted)...
+[2026-01-06T18:27:11.232Z] [BOT] 📋 After blacklist filter: 1 jobs (0 blacklisted)
+[2026-01-06T18:27:11.232Z] [BOT] 📋 After data quality filter: 1 jobs (0 invalid)
+[2026-01-06T18:27:11.233Z] [BOT] 📋 After multi-location grouping: 1 unique jobs to post
+[2026-01-06T18:27:11.233Z] [BOT] 📤 Posting 1 jobs...
+🔀 Multi-channel mode enabled - routing jobs to appropriate forums
+[2026-01-06T18:27:11.234Z] [BOT] 📌 Posting 1 jobs to #📈・JID_fb739488
+[2026-01-06T18:27:11.235Z] [BOT] 📍 [ROUTING] "Web Content Strategist" @ figma
+[2026-01-06T18:27:11.236Z] [BOT] Category: DATA-SCIENCE (matched: "analytics")
+   Channel: 📈・JID_fb739488 (1446...2761)
+   ⚠️  Multiple matches: dsMatch, techMatch, nonTechMatch (using data-science)
+[2026-01-06T18:27:11.241Z] [BOT ERROR] (node:3051) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2026-01-06T18:27:11.495Z] [BOT] ✅ Created forum post: 🏢 Web Content Strategist @ figma in #📈・JID_fb739488
+  ✅ Industry: Web Content Strategist @ figma
+[2026-01-06T18:27:13.321Z] [BOT] ✅ Created forum post: 🏢 Web Content Strategist @ figma in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-06T18:27:14.822Z] [BOT] 💾 Marked as posted: Web Content Strategist @ figma (instance #1)
+[2026-01-06T18:27:14.822Z] [BOT] 💾 BEFORE ARCHIVING: 1372 jobs in database
+[2026-01-06T18:27:14.823Z] [BOT] ✅ No jobs to archive (all 1372 jobs within 7-day window)
+[2026-01-06T18:27:14.836Z] [BOT] 💾 Saved posted_jobs.json: 1372 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-06T18:27:17.836Z] [BOT] 🎉 Posting complete! Successfully posted: 1, Failed: 0
+[2026-01-06T18:27:17.836Z] [BOT] ⏭️  Skipping duplicate: JID_f7d9cbb1 (posted within 7 days)
+[2026-01-06T18:27:17.838Z] [BOT] ✅ Loaded pending queue: 50 total (30 pending, 20 enriched, 0 posted)
+[2026-01-06T18:27:17.841Z] [BOT] ✅ Saved pending queue: 50 total (30 pending, 19 enriched, 1 posted)
+[2026-01-06T18:27:17.841Z] [BOT] 📋 Updated queue: marked 1 jobs as posted
+✅ All posting operations complete, cleaning up...
+[2026-01-06T18:27:17.892Z] [BOT] 📂 Loaded 2300 existing routing entries
+[2026-01-06T18:27:17.951Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 1
+[2026-01-06T18:27:17.951Z] [BOT] Total entries: 2301
+   Timestamp: 2026-01-06T18:27:17.936Z
+[2026-01-06T18:27:17.952Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_170b1fae.jsonl
+   Total attempts: 21
+[2026-01-06T18:27:17.952Z] [BOT] Successful: 2
+   Failed: 0
+   Skipped: 19
+[2026-01-06T18:27:17.952Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+   Last cleanup: Never
+[2026-01-06T18:27:17.952Z] [BOT] Total posts: 2
+   Channels used: 2
+   Top channels:
+     1. #📈・JID_fb739488: 1 posts
+     2. #🌉・san-francisco: 1 posts
+[2026-01-06T18:27:17.952Z] [BOT] [STATS] Channel stats saved
+[2026-01-06T18:27:19.963Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+- [BOT ERROR] (node:3051) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
