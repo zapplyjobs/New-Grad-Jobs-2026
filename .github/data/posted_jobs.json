@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T22:40:54.049Z",
+  "lastUpdated": "2026-01-06T22:52:53.132Z",
   "jobs": [
     {
       "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
@@ -15214,14 +15214,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordThreadId": "1458228849639952387",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8359307002-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8359307002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics - Growth/SEO",
+      "postedToDiscord": "2026-01-06T22:52:40.248Z",
+      "sourceDate": "2026-01-06T17:49:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359307002",
+      "discordThreadId": "1458231811971747841",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-dropbox-com-listing-7421204-2026-01-06-1",
+      "jobId": "jobs-dropbox-com-listing-7421204",
+      "company": "dropbox",
+      "title": "Administrative Business Partner",
+      "postedToDiscord": "2026-01-06T22:52:46.743Z",
+      "sourceDate": "2026-01-06T17:45:15-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7421204?gh_jid=7421204",
+      "discordThreadId": "1458231840321044481",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7517372-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7517372",
+      "company": "reddit",
+      "title": "Client Account Manager, Mid-Market (B2B Services)",
+      "postedToDiscord": "2026-01-06T22:52:53.131Z",
+      "sourceDate": "2026-01-06T17:40:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7517372",
+      "discordThreadId": "1458231867613515922",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1383,
+    "totalJobs": 1386,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T22:40:54.049Z",
+      "date": "2026-01-06T22:52:53.132Z",
       "archived": 0
     }
   }
