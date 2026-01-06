@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-06T05:01:33.010Z
+**Timestamp:** 2026-01-06T05:13:54.349Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 0
@@ -8,88 +8,88 @@
 - **Database Saved:** ❌ No
 ## Sanitized Log Output
 ```
-[2026-01-06T05:01:30.395Z] ========================================
-[2026-01-06T05:01:30.397Z] Discord Bot Execution Log
-[2026-01-06T05:01:30.397Z] Environment: GitHub Actions
-[2026-01-06T05:01:30.397Z] Node Version: v20.19.6
-[2026-01-06T05:01:30.397Z] ========================================
-[2026-01-06T05:01:30.397Z] Environment Variables Check:
-[2026-01-06T05:01:30.397Z] DISCORD_TOKEN: ✅ Set
-[2026-01-06T05:01:30.397Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.397Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-06T05:01:30.397Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-06T05:01:30.397Z] 
+[2026-01-06T05:13:52.589Z] ========================================
+[2026-01-06T05:13:52.591Z] Discord Bot Execution Log
+[2026-01-06T05:13:52.591Z] Environment: GitHub Actions
+[2026-01-06T05:13:52.591Z] Node Version: v20.19.6
+[2026-01-06T05:13:52.591Z] ========================================
+[2026-01-06T05:13:52.591Z] Environment Variables Check:
+[2026-01-06T05:13:52.591Z] DISCORD_TOKEN: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-06T05:13:52.592Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-06T05:13:52.592Z] 
 Multi-Channel Configuration:
-[2026-01-06T05:01:30.397Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-06T05:01:30.398Z] 
+[2026-01-06T05:13:52.592Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.592Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.593Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-06T05:13:52.593Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-06T05:01:30.398Z] 
+[2026-01-06T05:13:52.593Z] 
 Data Files Check:
-[2026-01-06T05:01:30.399Z] .github/data/new_jobs.json: ✅ Exists (10 items, 64247 bytes)
-[2026-01-06T05:01:30.405Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 695937 bytes)
-[2026-01-06T05:01:30.405Z] 
+[2026-01-06T05:13:52.594Z] .github/data/new_jobs.json: ✅ Exists (10 items, 64544 bytes)
+[2026-01-06T05:13:52.599Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 695937 bytes)
+[2026-01-06T05:13:52.599Z] 
 ========================================
-[2026-01-06T05:01:30.405Z] Starting Enhanced Discord Bot...
-[2026-01-06T05:01:30.405Z] ========================================
-[2026-01-06T05:01:30.945Z] [BOT] ✅ Loaded V2 database: 1361 jobs
-[2026-01-06T05:01:31.696Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-06T05:01:31.697Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-06T05:13:52.599Z] Starting Enhanced Discord Bot...
+[2026-01-06T05:13:52.599Z] ========================================
+[2026-01-06T05:13:53.146Z] [BOT] ✅ Loaded V2 database: 1361 jobs
+[2026-01-06T05:13:53.725Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-06T05:13:53.726Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply.jobs (CH_20db82b8)
-[2026-01-06T05:01:31.697Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-06T05:01:31.698Z] [BOT] ✅ Loaded pending queue: 32 total (12 pending, 20 enriched, 0 posted)
-[2026-01-06T05:01:31.698Z] [BOT] [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
-[2026-01-06T05:01:31.698Z] [BOT] [BOT] 🔍 Sample enriched job: Software Engineer - Cloud Growth at Temporal Technologies
-[2026-01-06T05:01:31.699Z] [BOT] ⏭️  Skipping duplicate: JID_19cfc76f (posted within 7 days)
-[2026-01-06T05:01:31.699Z] [BOT] ⏭️ Skipping already posted: Software Engineer - Cloud Growth at Temporal Technologies
-[2026-01-06T05:01:31.699Z] [BOT] ⏭️  Skipping duplicate: JID_9e3993e2-2026_jr2010848-1 (posted within 7 days)
+[2026-01-06T05:13:53.726Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-06T05:13:53.727Z] [BOT] ✅ Loaded pending queue: 32 total (12 pending, 20 enriched, 0 posted)
+[2026-01-06T05:13:53.727Z] [BOT] [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
+[2026-01-06T05:13:53.727Z] [BOT] [BOT] 🔍 Sample enriched job: Software Engineer - Cloud Growth at Temporal Technologies
+[2026-01-06T05:13:53.728Z] [BOT] ⏭️  Skipping duplicate: JID_19cfc76f (posted within 7 days)
+[2026-01-06T05:13:53.728Z] [BOT] ⏭️ Skipping already posted: Software Engineer - Cloud Growth at Temporal Technologies
+[2026-01-06T05:13:53.728Z] [BOT] ⏭️  Skipping duplicate: JID_9e3993e2-2026_jr2010848-1 (posted within 7 days)
 ⏭️ Skipping already posted: DL Algorithms Engineer – New College Graduate 2026 - Cosmos at NVIDIA
-[2026-01-06T05:01:31.699Z] [BOT] ⏭️  Skipping duplicate: JID_2a01d90d-2026_jr2008829 (posted within 7 days)
-[2026-01-06T05:01:31.700Z] [BOT] ⏭️ Skipping already posted: Research Engineer – PhD New College Grad - Architecture at NVIDIA
+[2026-01-06T05:13:53.728Z] [BOT] ⏭️  Skipping duplicate: JID_2a01d90d-2026_jr2008829 (posted within 7 days)
+[2026-01-06T05:13:53.729Z] [BOT] ⏭️ Skipping already posted: Research Engineer – PhD New College Grad - Architecture at NVIDIA
 ⏭️  Skipping duplicate: JID_1a770488-associate_r014247 (posted within 7 days)
 ⏭️ Skipping already posted: 2026 Polymer Characterization and Thermal Analysis Research Associate at The Aerospace Corporation
-[2026-01-06T05:01:31.700Z] [BOT] ⏭️  Skipping duplicate: JID_97f6c11d (posted within 7 days)
+[2026-01-06T05:13:53.729Z] [BOT] ⏭️  Skipping duplicate: JID_97f6c11d (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at American Express
-[2026-01-06T05:01:31.700Z] [BOT] ⏭️  Skipping duplicate: JID_c5bbd236 (posted within 7 days)
+[2026-01-06T05:13:53.729Z] [BOT] ⏭️  Skipping duplicate: JID_c5bbd236 (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at Intuit
-[2026-01-06T05:01:31.700Z] [BOT] ⏭️  Skipping duplicate: JID_41c2ce08 (posted within 7 days)
+[2026-01-06T05:13:53.729Z] [BOT] ⏭️  Skipping duplicate: JID_41c2ce08 (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at American Express
-⏭️  Skipping duplicate: JID_ee6499c3 (posted within 7 days)
+[2026-01-06T05:13:53.729Z] [BOT] ⏭️  Skipping duplicate: JID_ee6499c3 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_3b9cda67 at brex
-[2026-01-06T05:01:31.701Z] [BOT] ⏭️  Skipping duplicate: JID_023865ec-biostatistics_jr91931 (posted within 7 days)
+[2026-01-06T05:13:53.729Z] [BOT] ⏭️  Skipping duplicate: JID_023865ec-biostatistics_jr91931 (posted within 7 days)
 ⏭️ Skipping already posted: Statistical Data Analyst - Institute for Informatics - Data Science & Biostatistics at Wash U
-[2026-01-06T05:01:31.701Z] [BOT] ⏭️  Skipping duplicate: JID_b69ed3c9-cox_external_career_site_1-JID_d4dbf916-i_r202569460 (posted within 7 days)
+[2026-01-06T05:13:53.730Z] [BOT] ⏭️  Skipping duplicate: JID_b69ed3c9-cox_external_career_site_1-JID_d4dbf916-i_r202569460 (posted within 7 days)
 ⏭️ Skipping already posted: Software Engineer 1 at Cox
-[2026-01-06T05:01:31.701Z] [BOT] ⏭️  Skipping duplicate: JID_ce2c0c1d-argonne_careers-JID_63dfb498-associate_421596 (posted within 7 days)
+⏭️  Skipping duplicate: JID_ce2c0c1d-argonne_careers-JID_63dfb498-associate_421596 (posted within 7 days)
 ⏭️ Skipping already posted: Predoctoral Appointee - Engineer Research Associate at Argonne National Laboratory
-[2026-01-06T05:01:31.701Z] [BOT] ⏭️  Skipping duplicate: JID_e5aa2072-us_bank_careers-JID_3488340e-1_2026-0000098 (posted within 7 days)
+⏭️  Skipping duplicate: JID_e5aa2072-us_bank_careers-JID_3488340e-1_2026-0000098 (posted within 7 days)
 ⏭️ Skipping already posted: Quantitative Model Analyst 1 at U.S. Bank
 ⏭️  Skipping duplicate: JID_e3128470-northrop_grumman_external_site-JID_10617304-industrial_r10218122 (posted within 7 days)
 ⏭️ Skipping already posted: Industrial Engineer / Principal Industrial Engineer at Northrop Grumman
-[2026-01-06T05:01:31.701Z] [BOT] ⏭️  Skipping duplicate: JID_0593c4c3-analyst_req473450 (posted within 7 days)
+⏭️  Skipping duplicate: JID_0593c4c3-analyst_req473450 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_2ea28857 at Jones Lang LaSalle (JLL)
-⏭️  Skipping duplicate: JID_32370a09-sourcing_event-JID_aa868147-program_r22128-1 (posted within 7 days)
+[2026-01-06T05:13:53.730Z] [BOT] ⏭️  Skipping duplicate: JID_32370a09-sourcing_event-JID_aa868147-program_r22128-1 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_4bf8ed4e at Allstate Insurance Company
 ⏭️  Skipping duplicate: JID_a573c606-external_careers-JID_394fc2b9-_jr2025488628-1 (posted within 7 days)
-[2026-01-06T05:01:31.701Z] [BOT] ⏭️ Skipping already posted: Product Data Management Specialist - Entry or Associate Level at The Boeing Company
+[2026-01-06T05:13:53.730Z] [BOT] ⏭️ Skipping already posted: Product Data Management Specialist - Entry or Associate Level at The Boeing Company
 ⏭️  Skipping duplicate: JID_0dc18936 (posted within 7 days)
 ⏭️ Skipping already posted: Alternative Data Management - Analyst at iCapital Network
-[2026-01-06T05:01:31.701Z] [BOT] ⏭️  Skipping duplicate: JID_57a7d4bd-specialist_r-00172965 (posted within 7 days)
-⏭️ Skipping already posted: ROLE_002677b6 at Leidos
-[2026-01-06T05:01:31.702Z] [BOT] ⏭️  Skipping duplicate: JID_68fe2f2f-engineer_req-11951 (posted within 7 days)
+[2026-01-06T05:13:53.730Z] [BOT] ⏭️  Skipping duplicate: JID_57a7d4bd-specialist_r-00172965 (posted within 7 days)
+[2026-01-06T05:13:53.730Z] [BOT] ⏭️ Skipping already posted: ROLE_002677b6 at Leidos
+[2026-01-06T05:13:53.730Z] [BOT] ⏭️  Skipping duplicate: JID_68fe2f2f-engineer_req-11951 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_6a50d101 at Q2
 ⏭️  Skipping duplicate: JID_cbe01bac (posted within 7 days)
 ⏭️ Skipping already posted: Web Developer 1 - UI for Arcgis Enterprise at Esri
 ℹ️ No new jobs to post - all jobs have been posted already
-[2026-01-06T05:01:31.714Z] 
+[2026-01-06T05:13:53.742Z] 
 ========================================
 ```
 ## Errors Detected
