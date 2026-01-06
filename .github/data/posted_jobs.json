@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T17:08:50.317Z",
+  "lastUpdated": "2026-01-06T17:25:59.864Z",
   "jobs": [
     {
       "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-business-intelligence-engineer-i_1625414-2025-12-30-1",
@@ -15071,14 +15071,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933383008",
       "discordThreadId": "1458145284235464886",
       "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-ohio-beavercreek-associate-ai-software-engineer-aht-_r10210287-2026-01-06-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-ohio-beavercreek-associate-ai-software-engineer-aht-_r10210287",
+      "company": "Northrop Grumman",
+      "title": "Associate AI Software Engineer - Aht",
+      "postedToDiscord": "2026-01-06T17:25:56.167Z",
+      "sourceDate": "2025-12-16T23:44:02.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AHT-_R10210287",
+      "discordThreadId": "1458149588216316067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7511698-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7511698",
+      "company": "reddit",
+      "title": "Staff Software Engineer, Storage",
+      "postedToDiscord": "2026-01-06T17:25:59.864Z",
+      "sourceDate": "2026-01-06T12:21:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
+      "discordThreadId": "1458149602254389452",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1370,
+    "totalJobs": 1372,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T17:08:50.317Z",
+      "date": "2026-01-06T17:25:59.864Z",
       "archived": 0
     }
   }
