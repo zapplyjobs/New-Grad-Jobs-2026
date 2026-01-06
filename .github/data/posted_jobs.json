@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T21:25:38.895Z",
+  "lastUpdated": "2026-01-06T22:06:46.554Z",
   "jobs": [
     {
       "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2025-12-30-1",
@@ -15192,14 +15192,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5056822008",
       "discordThreadId": "1458209913158369517",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4942646008-2026-01-06-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942646008",
+      "company": "anthropic",
+      "title": "Security GRC Specialist",
+      "postedToDiscord": "2026-01-06T22:06:46.553Z",
+      "sourceDate": "2026-01-06T16:46:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942646008",
+      "discordThreadId": "1458220262628786360",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1381,
+    "totalJobs": 1382,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-06T21:25:38.895Z",
+      "date": "2026-01-06T22:06:46.554Z",
       "archived": 0
     }
   }
