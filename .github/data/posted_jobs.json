@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T03:57:13.874Z",
+  "lastUpdated": "2026-01-07T07:41:47.919Z",
   "jobs": [
-    {
-      "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374-2025-12-31-1",
-      "jobId": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374",
-      "company": "KLA",
-      "title": "Software Engineer",
-      "postedToDiscord": "2025-12-31T07:37:59.114Z",
-      "sourceDate": "2025-12-31T07:11:32.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374",
-      "discordThreadId": "1455827297885098046",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-advocatesinc-icims-com-jobs-12496-job-2025-12-31-1",
       "jobId": "careers-advocatesinc-icims-com-jobs-12496-job",
@@ -15544,6 +15533,17 @@
       "sourceUrl": "https://careers-kci.icims.com/jobs/7323/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1458308457911423007",
       "instanceNumber": 1
+    },
+    {
+      "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
+      "jobId": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder",
+      "company": "Amazon",
+      "title": "Software Engineer 1 - Builder",
+      "postedToDiscord": "2026-01-07T07:41:47.919Z",
+      "sourceDate": "2026-01-07T07:08:44.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
+      "discordThreadId": "1458364972550590514",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -15551,8 +15551,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T03:57:13.874Z",
-      "archived": 0
+      "date": "2026-01-07T07:41:47.919Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
