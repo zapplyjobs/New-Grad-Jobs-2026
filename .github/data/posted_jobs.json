@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T12:48:20.502Z",
+  "lastUpdated": "2026-01-07T13:11:00.320Z",
   "jobs": [
     {
       "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1-2025-12-31-1",
@@ -15566,16 +15566,37 @@
       "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R260243-2",
       "discordThreadId": "1458442116693889075",
       "instanceNumber": 1
+    },
+    {
+      "id": "hcmportal-wd5-myworkdayjobs-com-en-us-search-job-in-tdc-1-in110-product-analyst-gen-ai-automation_r25044896-1-2026-01-07-1",
+      "jobId": "hcmportal-wd5-myworkdayjobs-com-en-us-search-job-in-tdc-1-in110-product-analyst-gen-ai-automation_r25044896-1",
+      "company": "United Parcel Service (UPS)",
+      "title": "Product Analyst-Gen AI Automation",
+      "postedToDiscord": "2026-01-07T13:10:53.911Z",
+      "sourceDate": "2026-01-07T12:16:37.000Z",
+      "sourceUrl": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Product-Analyst--Gen-AI-Automation_R25044896-1",
+      "discordThreadId": "1458447800701554894",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-502f2ca0-bb9f-41b8-b272-48624e35d5f8-2026-01-07-1",
+      "jobId": "jobs-lever-co-spotify-502f2ca0-bb9f-41b8-b272-48624e35d5f8",
+      "company": "spotify",
+      "title": "GM, Surfaces Personalization",
+      "postedToDiscord": "2026-01-07T13:11:00.320Z",
+      "sourceDate": "2026-01-07T08:47:11.207Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/502f2ca0-bb9f-41b8-b272-48624e35d5f8",
+      "discordThreadId": "1458447820532224172",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1415,
+    "totalJobs": 1417,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T12:48:20.502Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-07T13:11:00.320Z",
+      "archived": 0
     }
   }
 }
