@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T19:00:15.746Z",
+  "lastUpdated": "2026-01-07T19:51:04.946Z",
   "jobs": [
-    {
-      "id": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1-2025-12-31-1",
-      "jobId": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1",
-      "company": "Salesforce",
-      "title": "Software Engineering AMTS – College Grad",
-      "postedToDiscord": "2025-12-31T19:04:01.344Z",
-      "sourceDate": "2025-12-31T18:27:41.000Z",
-      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
-      "discordThreadId": "1455999943897518100",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2025-12-31-1",
       "jobId": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application",
@@ -15709,6 +15698,17 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735636004?gh_jid=5735636004",
       "discordThreadId": "1458535712940097680",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5057258008-2026-01-07-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5057258008",
+      "company": "anthropic",
+      "title": "Startups Solutions Architect, Applied AI",
+      "postedToDiscord": "2026-01-07T19:51:04.946Z",
+      "sourceDate": "2026-01-07T14:37:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008",
+      "discordThreadId": "1458548502450802912",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -15716,8 +15716,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T19:00:15.746Z",
-      "archived": 0
+      "date": "2026-01-07T19:51:04.946Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
