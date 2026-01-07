@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T13:11:00.320Z",
+  "lastUpdated": "2026-01-07T14:26:28.549Z",
   "jobs": [
     {
       "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1-2025-12-31-1",
@@ -15588,14 +15588,25 @@
       "sourceUrl": "https://jobs.lever.co/spotify/502f2ca0-bb9f-41b8-b272-48624e35d5f8",
       "discordThreadId": "1458447820532224172",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7492120-2026-01-07-1",
+      "jobId": "www-samsara-com-company-careers-roles-7492120",
+      "company": "samsara",
+      "title": "Sr. Sales Operations and Strategy Analyst",
+      "postedToDiscord": "2026-01-07T14:26:28.549Z",
+      "sourceDate": "2026-01-07T09:18:28-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7492120?gh_jid=7492120",
+      "discordThreadId": "1458466812684538072",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1417,
+    "totalJobs": 1418,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T13:11:00.320Z",
+      "date": "2026-01-07T14:26:28.549Z",
       "archived": 0
     }
   }
