@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T22:06:25.739Z",
+  "lastUpdated": "2026-01-07T23:38:40.953Z",
   "jobs": [
-    {
-      "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2025-12-31-1",
-      "jobId": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application",
-      "company": "Citizen Health",
-      "title": "Early Career Software Engineer",
-      "postedToDiscord": "2025-12-31T23:35:49.518Z",
-      "sourceDate": "2025-12-31T23:17:13.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
-      "discordThreadId": "1456068346561822781",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application-2025-12-31-1",
-      "jobId": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application",
-      "company": "Solace Health",
-      "title": "Associate Software Engineer – College Grad 2026",
-      "postedToDiscord": "2025-12-31T23:35:52.987Z",
-      "sourceDate": "2025-12-31T23:13:56.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
-      "discordThreadId": "1456068360688242781",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005-2026-01-01-1",
       "jobId": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005",
@@ -15786,14 +15764,47 @@
       "sourceUrl": "https://www.coinbase.com/careers/positions/7434684?gh_jid=7434684",
       "discordThreadId": "1458582563462582334",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4583696007-2026-01-07-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4583696007",
+      "company": "verkada",
+      "title": "Sr. Field Marketing Manager (Federal / State)",
+      "postedToDiscord": "2026-01-07T23:38:30.393Z",
+      "sourceDate": "2026-01-07T18:28:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4583696007",
+      "discordThreadId": "1458605742859751648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000102177454-2026-01-07-1",
+      "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000102177454",
+      "company": "Palo Alto Networks",
+      "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
+      "postedToDiscord": "2026-01-07T23:38:37.110Z",
+      "sourceDate": "2026-01-07T23:19:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000102177454",
+      "discordThreadId": "1458605763223093502",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-sandisk-744000102169088-2026-01-07-1",
+      "jobId": "jobs-smartrecruiters-com-sandisk-744000102169088",
+      "company": "Sandisk",
+      "title": "Field Application Engineer – New College Graduate - Ncg",
+      "postedToDiscord": "2026-01-07T23:38:40.953Z",
+      "sourceDate": "2026-01-07T23:13:10.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000102169088",
+      "discordThreadId": "1458605778653937747",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1435,
+    "totalJobs": 1436,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T22:06:25.739Z",
+      "date": "2026-01-07T23:38:40.953Z",
       "archived": 0
     }
   }
