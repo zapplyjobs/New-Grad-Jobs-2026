@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T01:56:11.927Z",
+  "lastUpdated": "2026-01-07T03:22:09.805Z",
   "jobs": [
     {
       "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374-2025-12-31-1",
@@ -15522,14 +15522,25 @@
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7514944?gh_jid=7514944",
       "discordThreadId": "1458277999307653132",
       "instanceNumber": 1
+    },
+    {
+      "id": "kla-wd1-myworkdayjobs-com-search-job-totowa-nj-analytical-chemist_2533379-1-2026-01-07-1",
+      "jobId": "kla-wd1-myworkdayjobs-com-search-job-totowa-nj-analytical-chemist_2533379-1",
+      "company": "KLA Corporation",
+      "title": "Analytical Chemist",
+      "postedToDiscord": "2026-01-07T03:22:09.804Z",
+      "sourceDate": "2026-01-07T02:11:09.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Analytical-Chemist_2533379-1",
+      "discordThreadId": "1458299632882028547",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1411,
+    "totalJobs": 1412,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T01:56:11.927Z",
+      "date": "2026-01-07T03:22:09.805Z",
       "archived": 0
     }
   }
