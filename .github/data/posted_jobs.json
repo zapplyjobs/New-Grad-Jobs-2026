@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T21:38:52.084Z",
+  "lastUpdated": "2026-01-07T21:51:38.361Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2025-12-31-1",
@@ -15753,14 +15753,25 @@
       "sourceUrl": "https://jobs.lever.co/spotify/c754ad8f-20a6-41c6-8d04-a38fff357070",
       "discordThreadId": "1458575628059283580",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7521096-2026-01-07-1",
+      "jobId": "careers-datadoghq-com-detail-7521096",
+      "company": "datadog",
+      "title": "Senior Security Engineer - Threat Detection Engineering",
+      "postedToDiscord": "2026-01-07T21:51:38.360Z",
+      "sourceDate": "2026-01-07T16:38:09-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7521096/?gh_jid=7521096",
+      "discordThreadId": "1458578841738940490",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1432,
+    "totalJobs": 1433,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T21:38:52.084Z",
+      "date": "2026-01-07T21:51:38.361Z",
       "archived": 0
     }
   }
