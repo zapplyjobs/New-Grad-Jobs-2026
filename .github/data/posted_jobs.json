@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T14:26:28.549Z",
+  "lastUpdated": "2026-01-07T15:07:21.783Z",
   "jobs": [
     {
       "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1-2025-12-31-1",
@@ -15599,14 +15599,25 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7492120?gh_jid=7492120",
       "discordThreadId": "1458466812684538072",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7460368-2026-01-07-1",
+      "jobId": "careers-datadoghq-com-detail-7460368",
+      "company": "datadog",
+      "title": "Senior Sales Engineer",
+      "postedToDiscord": "2026-01-07T15:07:21.782Z",
+      "sourceDate": "2026-01-07T09:57:18-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368",
+      "discordThreadId": "1458477102331465890",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1418,
+    "totalJobs": 1419,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T14:26:28.549Z",
+      "date": "2026-01-07T15:07:21.783Z",
       "archived": 0
     }
   }
