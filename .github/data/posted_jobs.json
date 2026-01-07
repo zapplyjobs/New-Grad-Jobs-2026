@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T20:06:27.901Z",
+  "lastUpdated": "2026-01-07T20:54:03.168Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2025-12-31-1",
@@ -15720,14 +15720,36 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7248738/?gh_jid=7248738",
       "discordThreadId": "1458552374112161985",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7516179-2026-01-07-1",
+      "jobId": "careers-datadoghq-com-detail-7516179",
+      "company": "datadog",
+      "title": "Regional Manager, Sales Engineer - Key Accounts (East)",
+      "postedToDiscord": "2026-01-07T20:53:56.586Z",
+      "sourceDate": "2026-01-07T15:49:06-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7516179/?gh_jid=7516179",
+      "discordThreadId": "1458564321578844295",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5752684004-2026-01-07-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5752684004",
+      "company": "vercel",
+      "title": "Senior Solutions Engineer",
+      "postedToDiscord": "2026-01-07T20:54:03.168Z",
+      "sourceDate": "2026-01-07T15:45:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5752684004",
+      "discordThreadId": "1458564349386821898",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1429,
+    "totalJobs": 1431,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T20:06:27.901Z",
+      "date": "2026-01-07T20:54:03.168Z",
       "archived": 0
     }
   }
