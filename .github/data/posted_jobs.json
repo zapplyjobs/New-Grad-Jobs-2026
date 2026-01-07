@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T07:41:47.919Z",
+  "lastUpdated": "2026-01-07T07:53:16.520Z",
   "jobs": [
     {
       "id": "careers-advocatesinc-icims-com-jobs-12496-job-2025-12-31-1",
@@ -15544,16 +15544,26 @@
       "sourceUrl": "https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
       "discordThreadId": "1458364972550590514",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7484594-2026-01-07-1",
+      "jobId": "www-samsara-com-company-careers-roles-7484594",
+      "company": "samsara",
+      "title": "Manager, Workplace Operations",
+      "postedToDiscord": "2026-01-07T07:53:16.520Z",
+      "sourceDate": "2026-01-07T02:49:42-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7484594?gh_jid=7484594",
+      "discordThreadId": "1458367860547256423",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1413,
+    "totalJobs": 1414,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T07:41:47.919Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-07T07:53:16.520Z",
+      "archived": 0
     }
   }
 }
