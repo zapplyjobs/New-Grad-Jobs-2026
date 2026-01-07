@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T17:44:06.813Z",
+  "lastUpdated": "2026-01-07T19:00:15.746Z",
   "jobs": [
     {
       "id": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1-2025-12-31-1",
@@ -15698,14 +15698,25 @@
       "sourceUrl": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Entry-Level-Data-Analyst_26_00211",
       "discordThreadId": "1458516548506353716",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735636004-2026-01-07-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735636004",
+      "company": "figma",
+      "title": "Strategic Program Manager, Contingent Workforce",
+      "postedToDiscord": "2026-01-07T19:00:15.746Z",
+      "sourceDate": "2026-01-07T13:46:33-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735636004?gh_jid=5735636004",
+      "discordThreadId": "1458535712940097680",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1427,
+    "totalJobs": 1428,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T17:44:06.813Z",
+      "date": "2026-01-07T19:00:15.746Z",
       "archived": 0
     }
   }
