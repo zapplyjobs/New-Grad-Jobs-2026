@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T15:26:12.006Z",
+  "lastUpdated": "2026-01-07T17:10:09.443Z",
   "jobs": [
-    {
-      "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1-2025-12-31-1",
-      "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1",
-      "company": "Uline",
-      "title": "Associate Business Systems Analyst",
-      "postedToDiscord": "2025-12-31T15:37:22.353Z",
-      "sourceDate": "2025-12-13T10:56:53.000Z",
-      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Business-Systems-Analyst_R259808-1",
-      "discordThreadId": "1455947939011760178",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-versaterm-jobs-5046646008-2025-12-31-1",
-      "jobId": "job-boards-greenhouse-io-versaterm-jobs-5046646008",
-      "company": "Versaterm",
-      "title": "Software Engineer - Geographic Information System",
-      "postedToDiscord": "2025-12-31T17:04:14.009Z",
-      "sourceDate": "2025-12-23T23:22:52.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/versaterm/jobs/5046646008",
-      "discordThreadId": "1455969798407323659",
-      "instanceNumber": 1
-    },
     {
       "id": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1-2025-12-31-1",
       "jobId": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1",
@@ -15621,14 +15599,47 @@
       "sourceUrl": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Charleston-South-Carolina/Software-Engineer_R2045781",
       "discordThreadId": "1458481843018924272",
       "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485-2026-01-07-1",
+      "jobId": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485",
+      "company": "EXL",
+      "title": "Healthcare Analyst",
+      "postedToDiscord": "2026-01-07T17:09:56.268Z",
+      "sourceDate": "2026-01-07T16:25:09.000Z",
+      "sourceUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8485",
+      "discordThreadId": "1458507956550107279",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-inc-nttdata-com-job-louisville-bpo-application-support-health-ky-40201-1354060400-2026-01-07-1",
+      "jobId": "careers-inc-nttdata-com-job-louisville-bpo-application-support-health-ky-40201-1354060400",
+      "company": "NTT Data",
+      "title": "BPO-Application Support-Health",
+      "postedToDiscord": "2026-01-07T17:10:02.798Z",
+      "sourceDate": "2026-01-07T16:19:26.000Z",
+      "sourceUrl": "https://careers-inc.nttdata.com/job/Louisville-BPO-Application-Support-Health-KY-40201/1354060400/?ats=successfactors",
+      "discordThreadId": "1458507976586301574",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmn01-sis-sensors-burnsville-14300-judicial-rd-burnsville-mn-55306-usa-software-engineer-i-hybrid-_01810300-2026-01-07-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmn01-sis-sensors-burnsville-14300-judicial-rd-burnsville-mn-55306-usa-software-engineer-i-hybrid-_01810300",
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-07T17:10:09.443Z",
+      "sourceDate": "2026-01-07T16:17:37.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I--Hybrid-_01810300",
+      "discordThreadId": "1458508004113518672",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1420,
+    "totalJobs": 1421,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T15:26:12.006Z",
+      "date": "2026-01-07T17:10:09.443Z",
       "archived": 0
     }
   }
