@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T00:45:43.195Z",
+  "lastUpdated": "2026-01-07T01:15:27.523Z",
   "jobs": [
     {
       "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374-2025-12-31-1",
@@ -15456,14 +15456,69 @@
       "sourceUrl": "https://careers-americansystems.icims.com/jobs/3850/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1458260262099484732",
       "instanceNumber": 1
+    },
+    {
+      "id": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121-2026-01-07-1",
+      "jobId": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121",
+      "company": "Airgas",
+      "title": "Vie – Research Associate - m/f/d",
+      "postedToDiscord": "2026-01-07T01:15:10.861Z",
+      "sourceDate": "2025-12-17T23:39:09.000Z",
+      "sourceUrl": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD/VIE---Research-Associate--M-F-D-_R10082121",
+      "discordThreadId": "1458267676609871958",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8362863002-2026-01-07-1",
+      "jobId": "careers-duolingo-com-jobs-8362863002",
+      "company": "duolingo",
+      "title": "Senior Android Engineer",
+      "postedToDiscord": "2026-01-07T01:15:14.246Z",
+      "sourceDate": "2026-01-06T20:06:59-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8362863002?gh_jid=8362863002",
+      "discordThreadId": "1458267691545792564",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297-2026-01-07-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297",
+      "company": "Northrop Grumman",
+      "title": "Space Payload 1&T – Engineer/Principal Engineer",
+      "postedToDiscord": "2026-01-07T01:15:17.603Z",
+      "sourceDate": "2026-01-07T00:11:09.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10218297",
+      "discordThreadId": "1458267705353310431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-engineer_r0151272-2026-01-07-1",
+      "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-engineer_r0151272",
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-07T01:15:20.991Z",
+      "sourceDate": "2026-01-06T23:32:36.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0151272",
+      "discordThreadId": "1458267719882379304",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055600008-2026-01-07-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055600008",
+      "company": "anthropic",
+      "title": "Product Designer, Enterprise ",
+      "postedToDiscord": "2026-01-07T01:15:27.522Z",
+      "sourceDate": "2026-01-06T19:45:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055600008",
+      "discordThreadId": "1458267746671267861",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1405,
+    "totalJobs": 1410,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T00:45:43.195Z",
+      "date": "2026-01-07T01:15:27.523Z",
       "archived": 0
     }
   }
