@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T15:07:21.783Z",
+  "lastUpdated": "2026-01-07T15:26:12.006Z",
   "jobs": [
     {
       "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-business-systems-analyst_r259808-1-2025-12-31-1",
@@ -15610,14 +15610,25 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368",
       "discordThreadId": "1458477102331465890",
       "instanceNumber": 1
+    },
+    {
+      "id": "brookfield-wd5-myworkdayjobs-com-brookfieldproperties-job-charleston-south-carolina-software-engineer_r2045781-2026-01-07-1",
+      "jobId": "brookfield-wd5-myworkdayjobs-com-brookfieldproperties-job-charleston-south-carolina-software-engineer_r2045781",
+      "company": "Brookfield Properties",
+      "title": "Martech Software Engineer",
+      "postedToDiscord": "2026-01-07T15:26:12.005Z",
+      "sourceDate": "2025-12-13T15:16:32.000Z",
+      "sourceUrl": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Charleston-South-Carolina/Software-Engineer_R2045781",
+      "discordThreadId": "1458481843018924272",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1419,
+    "totalJobs": 1420,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T15:07:21.783Z",
+      "date": "2026-01-07T15:26:12.006Z",
       "archived": 0
     }
   }
