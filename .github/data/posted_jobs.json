@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T21:51:38.361Z",
+  "lastUpdated": "2026-01-07T22:06:25.739Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2025-12-31-1",
@@ -15764,14 +15764,36 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7521096/?gh_jid=7521096",
       "discordThreadId": "1458578841738940490",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4960248008-2026-01-07-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4960248008",
+      "company": "anthropic",
+      "title": "Security GRC Specialist, Public Sector",
+      "postedToDiscord": "2026-01-07T22:06:22.141Z",
+      "sourceDate": "2026-01-07T16:56:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960248008",
+      "discordThreadId": "1458582548258230358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7434684-2026-01-07-1",
+      "jobId": "www-coinbase-com-careers-positions-7434684",
+      "company": "coinbase",
+      "title": "Business Controller Intern",
+      "postedToDiscord": "2026-01-07T22:06:25.739Z",
+      "sourceDate": "2026-01-07T16:53:00-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7434684?gh_jid=7434684",
+      "discordThreadId": "1458582563462582334",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1433,
+    "totalJobs": 1435,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T21:51:38.361Z",
+      "date": "2026-01-07T22:06:25.739Z",
       "archived": 0
     }
   }
