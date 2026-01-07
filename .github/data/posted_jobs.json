@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T10:49:34.331Z",
+  "lastUpdated": "2026-01-07T11:25:26.832Z",
   "jobs": [
-    {
-      "id": "careers-advocatesinc-icims-com-jobs-12496-job-2025-12-31-1",
-      "jobId": "careers-advocatesinc-icims-com-jobs-12496-job",
-      "company": "Advocates",
-      "title": "Direct Service Worker",
-      "postedToDiscord": "2025-12-31T11:04:09.244Z",
-      "sourceDate": "2025-09-27T08:32:20.000Z",
-      "sourceUrl": "https://careers-advocatesinc.icims.com/jobs/12496/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1455879181698072618",
-      "instanceNumber": 1
-    },
     {
       "id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-accelerator-physics_jr102182-2025-12-31-1",
       "jobId": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-accelerator-physics_jr102182",
@@ -15566,6 +15555,17 @@
       "sourceUrl": "https://magnoliamanorgreenville-careers-fundltc.icims.com/jobs/2057/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1458412234186428480",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jetaviation-com-job-west-palm-beach-associate-azure-data-engineer-fl-33409-1349081857-2026-01-07-1",
+      "jobId": "jobs-jetaviation-com-job-west-palm-beach-associate-azure-data-engineer-fl-33409-1349081857",
+      "company": "General Dynamics",
+      "title": "Associate Azure Data Engineer",
+      "postedToDiscord": "2026-01-07T11:25:26.832Z",
+      "sourceDate": "2025-12-23T23:27:58.000Z",
+      "sourceUrl": "https://jobs.jetaviation.com/job/West-Palm-Beach-Associate-Azure-Data-Engineer-FL-33409/1349081857/?ats=successfactors",
+      "discordThreadId": "1458421255999852695",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -15573,8 +15573,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T10:49:34.331Z",
-      "archived": 0
+      "date": "2026-01-07T11:25:26.832Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
