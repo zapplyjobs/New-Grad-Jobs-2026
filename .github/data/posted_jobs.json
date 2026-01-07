@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T03:22:09.805Z",
+  "lastUpdated": "2026-01-07T03:57:13.874Z",
   "jobs": [
     {
       "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374-2025-12-31-1",
@@ -15533,14 +15533,25 @@
       "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Analytical-Chemist_2533379-1",
       "discordThreadId": "1458299632882028547",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-kci-icims-com-jobs-7323-job-2026-01-07-1",
+      "jobId": "careers-kci-icims-com-jobs-7323-job",
+      "company": "KCI Technologies",
+      "title": "Solutions Analyst - Enterprise Asset Management - Eam",
+      "postedToDiscord": "2026-01-07T03:57:13.874Z",
+      "sourceDate": "2025-09-11T18:22:29.000Z",
+      "sourceUrl": "https://careers-kci.icims.com/jobs/7323/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458308457911423007",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1412,
+    "totalJobs": 1413,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T03:22:09.805Z",
+      "date": "2026-01-07T03:57:13.874Z",
       "archived": 0
     }
   }
