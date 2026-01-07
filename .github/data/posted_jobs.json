@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T01:15:27.523Z",
+  "lastUpdated": "2026-01-07T01:56:11.927Z",
   "jobs": [
     {
       "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374-2025-12-31-1",
@@ -15511,14 +15511,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055600008",
       "discordThreadId": "1458267746671267861",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-cloudflare-jobs-7514944-2026-01-07-1",
+      "jobId": "boards-greenhouse-io-cloudflare-jobs-7514944",
+      "company": "cloudflare",
+      "title": "Senior Security Compliance Specialist (DoD)",
+      "postedToDiscord": "2026-01-07T01:56:11.926Z",
+      "sourceDate": "2026-01-06T20:21:27-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7514944?gh_jid=7514944",
+      "discordThreadId": "1458277999307653132",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1410,
+    "totalJobs": 1411,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T01:15:27.523Z",
+      "date": "2026-01-07T01:56:11.927Z",
       "archived": 0
     }
   }
