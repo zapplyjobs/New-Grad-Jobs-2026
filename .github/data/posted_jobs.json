@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T00:10:48.781Z",
+  "lastUpdated": "2026-01-07T00:45:43.195Z",
   "jobs": [
-    {
-      "id": "vareximaging-wd103-myworkdayjobs-com-external_career_site-job-salt-lake-city-software-engineer_r0005510-2025-12-31-1",
-      "jobId": "vareximaging-wd103-myworkdayjobs-com-external_career_site-job-salt-lake-city-software-engineer_r0005510",
-      "company": "Varex Imaging Corporation",
-      "title": "Software Engineer",
-      "postedToDiscord": "2025-12-31T00:43:39.209Z",
-      "sourceDate": "2025-12-30T23:54:36.000Z",
-      "sourceUrl": "https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineer_R0005510",
-      "discordThreadId": "1455723027340722257",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-spacex-jobs-8310481002-2025-12-31-1",
-      "jobId": "boards-greenhouse-io-spacex-jobs-8310481002",
-      "company": "SpaceX",
-      "title": "Application Software Engineer",
-      "postedToDiscord": "2025-12-31T00:43:42.678Z",
-      "sourceDate": "2025-11-27T01:58:43.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8310481002",
-      "discordThreadId": "1455723042163392744",
-      "instanceNumber": 1
-    },
     {
       "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374-2025-12-31-1",
       "jobId": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-software-engineer_2533374",
@@ -15412,14 +15390,80 @@
       "sourceUrl": "https://jobs.lever.co/sprucesystems/c683a712-7a5a-4bed-b580-f899998f044a/apply",
       "discordThreadId": "1458251478006239264",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8362829002-2026-01-07-1",
+      "jobId": "www-brex-com-careers-8362829002",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-07T00:45:22.910Z",
+      "sourceDate": "2026-01-06T19:31:34-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362829002?gh_jid=8362829002",
+      "discordThreadId": "1458260177592647741",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8362822002-2026-01-07-1",
+      "jobId": "www-brex-com-careers-8362822002",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-07T00:45:22.927Z",
+      "sourceDate": "2026-01-06T19:31:33-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362822002?gh_jid=8362822002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8362828002-2026-01-07-1",
+      "jobId": "www-brex-com-careers-8362828002",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-07T00:45:22.939Z",
+      "sourceDate": "2026-01-06T19:31:33-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362828002?gh_jid=8362828002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4821519008-2026-01-07-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4821519008",
+      "company": "anthropic",
+      "title": "Recruiter, G&A",
+      "postedToDiscord": "2026-01-07T00:45:29.511Z",
+      "sourceDate": "2026-01-06T19:16:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821519008",
+      "discordThreadId": "1458260205430116607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "conagrabrands-wd1-myworkdayjobs-com-careers_us-job-chicago-illinois-associate-systems-analyst-it-sales-trade-portfolio_req-035736-1-2026-01-07-1",
+      "jobId": "conagrabrands-wd1-myworkdayjobs-com-careers_us-job-chicago-illinois-associate-systems-analyst-it-sales-trade-portfolio_req-035736-1",
+      "company": "Conagra Brands",
+      "title": "Associate Systems Analyst-IT Sales & Trade Portfolio",
+      "postedToDiscord": "2026-01-07T00:45:36.522Z",
+      "sourceDate": "2026-01-06T23:46:32.000Z",
+      "sourceUrl": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Associate-Systems-Analyst--IT-Sales---Trade-Portfolio_Req-035736-1",
+      "discordThreadId": "1458260232869511178",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-americansystems-icims-com-jobs-3850-job-2026-01-07-1",
+      "jobId": "careers-americansystems-icims-com-jobs-3850-job",
+      "company": "AMERICAN SYSTEMS",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-07T00:45:43.195Z",
+      "sourceDate": "2026-01-06T23:30:25.000Z",
+      "sourceUrl": "https://careers-americansystems.icims.com/jobs/3850/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458260262099484732",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1401,
+    "totalJobs": 1405,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T00:10:48.781Z",
+      "date": "2026-01-07T00:45:43.195Z",
       "archived": 0
     }
   }
