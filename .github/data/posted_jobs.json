@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T03:22:04.144Z",
+  "lastUpdated": "2026-01-08T07:40:52.505Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-scaleai-jobs-4638305005-2026-01-01-1",
@@ -16171,14 +16171,25 @@
       "sourceUrl": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/Philadelphia-Campus--Roberts-Center-for-Pediatric-Research/Research-Data-Analyst-I_1021666",
       "discordThreadId": "1458661997196607519",
       "instanceNumber": 1
+    },
+    {
+      "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
+      "jobId": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1",
+      "company": "University of Southern California",
+      "title": "Business Data Analyst",
+      "postedToDiscord": "2026-01-08T07:40:52.504Z",
+      "sourceDate": "2026-01-08T07:02:30.000Z",
+      "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA/Business-Data-Analyst_REQ20170647-1",
+      "discordThreadId": "1458727128139960363",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1470,
+    "totalJobs": 1471,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T03:22:04.144Z",
+      "date": "2026-01-08T07:40:52.505Z",
       "archived": 0
     }
   }
