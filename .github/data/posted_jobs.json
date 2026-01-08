@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T15:26:55.109Z",
+  "lastUpdated": "2026-01-08T15:42:25.666Z",
   "jobs": [
-    {
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1-2026-01-01-1",
-      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1",
-      "company": "University of Texas - Austin",
-      "title": "Postdoctoral Fellow - AI Driven Precision Oncology",
-      "postedToDiscord": "2026-01-01T15:37:35.954Z",
-      "sourceDate": "2025-12-13T11:03:34.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow--AI-Driven-Precision-Oncology_R_00039870-1",
-      "discordThreadId": "1456310384754426050",
-      "instanceNumber": 1
-    },
     {
       "id": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-assistant-programmatic_r0015427-2026-01-01-1",
       "jobId": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-assistant-programmatic_r0015427",
@@ -16105,14 +16094,36 @@
       "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate---Computational-Imaging-and-Data-Science-_JR102004-1",
       "discordThreadId": "1458844411558498386",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5748282004-2026-01-08-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5748282004",
+      "company": "figma",
+      "title": "Community Marketing Manager - Figma Weave (New York, United States) ",
+      "postedToDiscord": "2026-01-08T15:42:19.068Z",
+      "sourceDate": "2026-01-08T10:27:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5748282004?gh_jid=5748282004",
+      "discordThreadId": "1458848286386684010",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-waukegan-il-associate-software-developer_r260376-2026-01-08-1",
+      "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-waukegan-il-associate-software-developer_r260376",
+      "company": "Uline",
+      "title": "Associate Software Developer",
+      "postedToDiscord": "2026-01-08T15:42:25.665Z",
+      "sourceDate": "2026-01-08T14:54:31.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376",
+      "discordThreadId": "1458848314509492409",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1464,
+    "totalJobs": 1465,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T15:26:55.109Z",
+      "date": "2026-01-08T15:42:25.666Z",
       "archived": 0
     }
   }
