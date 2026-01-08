@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T18:45:12.695Z",
+  "lastUpdated": "2026-01-08T18:57:39.533Z",
   "jobs": [
     {
       "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939-2026-01-01-1",
@@ -16182,14 +16182,36 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
       "discordThreadId": "1458894312749138123",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7892187002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-7892187002",
+      "company": "brex",
+      "title": "Senior Data Scientist, Finance ",
+      "postedToDiscord": "2026-01-08T18:57:39.514Z",
+      "sourceDate": "2026-01-08T13:48:33-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7892187002?gh_jid=7892187002",
+      "discordThreadId": "1458897445877448890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7892186002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-7892186002",
+      "company": "brex",
+      "title": "Senior Data Scientist, Finance ",
+      "postedToDiscord": "2026-01-08T18:57:39.533Z",
+      "sourceDate": "2026-01-08T13:47:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7892186002?gh_jid=7892186002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1471,
+    "totalJobs": 1473,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T18:45:12.695Z",
+      "date": "2026-01-08T18:57:39.533Z",
       "archived": 0
     }
   }
