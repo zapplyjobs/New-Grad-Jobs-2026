@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T10:43:42.908Z",
+  "lastUpdated": "2026-01-08T10:55:19.591Z",
   "jobs": [
     {
       "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1-2026-01-01-1",
@@ -16171,16 +16171,26 @@
       "sourceUrl": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Software-Engineer_R2356",
       "discordThreadId": "1458773141693272108",
       "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-coldquanta-j-00ec28a7e5-apply-2026-01-08-1",
+      "jobId": "apply-workable-com-coldquanta-j-00ec28a7e5-apply",
+      "company": "Infleqtion",
+      "title": "Quantum Software Engineer",
+      "postedToDiscord": "2026-01-08T10:55:19.591Z",
+      "sourceDate": "2025-12-09T17:36:09.000Z",
+      "sourceUrl": "https://apply.workable.com/coldquanta/j/00EC28A7E5/apply",
+      "discordThreadId": "1458776062975803393",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1470,
+    "totalJobs": 1471,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T10:43:42.908Z",
-      "archived": 3,
-      "monthsAffected": 1
+      "date": "2026-01-08T10:55:19.591Z",
+      "archived": 0
     }
   }
 }
