@@ -615,13 +615,20 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/186487435?v=4",
       "html_url": "https://github.com/mikodusami",
       "starred_at": "2026-01-05T19:12:26Z"
+    },
+    {
+      "login": "crystal-xz-huang",
+      "id": 136415703,
+      "avatar_url": "https://avatars.githubusercontent.com/u/136415703?v=4",
+      "html_url": "https://github.com/crystal-xz-huang",
+      "starred_at": "2026-01-07T12:42:34Z"
     }
   ],
-  "total_count": 88,
-  "last_updated": "2026-01-07T06:04:19.961Z",
+  "total_count": 89,
+  "last_updated": "2026-01-08T06:04:16.112Z",
   "stats": {
-    "new_since_last_run": 0,
+    "new_since_last_run": 1,
     "removed_since_last_run": 0,
-    "net_change": 0
+    "net_change": 1
   }
 }
