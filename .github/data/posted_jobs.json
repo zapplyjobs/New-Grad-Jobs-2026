@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T22:06:16.332Z",
+  "lastUpdated": "2026-01-08T22:25:26.275Z",
   "jobs": [
     {
       "id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061-2026-01-01-1",
@@ -16193,16 +16193,37 @@
       "sourceUrl": "https://jobs.lever.co/spotify/ad23c6cd-e521-4dda-b05f-c60f72548372",
       "discordThreadId": "1458944912094396679",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8367477002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8367477002",
+      "company": "brex",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-08T22:25:26.260Z",
+      "sourceDate": "2026-01-08T17:13:48-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367477002?gh_jid=8367477002",
+      "discordThreadId": "1458949735208452107",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8366850002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8366850002",
+      "company": "brex",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-08T22:25:26.275Z",
+      "sourceDate": "2026-01-08T17:13:05-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1472,
+    "totalJobs": 1474,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T22:06:16.332Z",
-      "archived": 4,
-      "monthsAffected": 1
+      "date": "2026-01-08T22:25:26.275Z",
+      "archived": 0
     }
   }
 }
