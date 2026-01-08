@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T22:53:37.258Z",
+  "lastUpdated": "2026-01-08T23:06:20.758Z",
   "jobs": [
     {
       "id": "careers-geosyntec-icims-com-jobs-4028-job-2026-01-02-1",
@@ -16204,14 +16204,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7453285",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339037002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8339037002",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-08T23:06:14.250Z",
+      "sourceDate": "2026-01-08T18:04:28-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
+      "discordThreadId": "1458960002386755736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8362697002-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8362697002",
+      "company": "discord",
+      "title": "Senior Software Engineer - SEO",
+      "postedToDiscord": "2026-01-08T23:06:20.757Z",
+      "sourceDate": "2026-01-08T17:57:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362697002",
+      "discordThreadId": "1458960030358569073",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1473,
+    "totalJobs": 1475,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T22:53:37.258Z",
+      "date": "2026-01-08T23:06:20.758Z",
       "archived": 0
     }
   }
