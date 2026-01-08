@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T19:25:40.785Z",
+  "lastUpdated": "2026-01-08T19:43:15.826Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply-2026-01-01-1",
-      "jobId": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply",
-      "company": "Uncountable",
-      "title": "Chemical Data Annotation Specialist",
-      "postedToDiscord": "2026-01-01T19:34:06.389Z",
-      "sourceDate": "2025-10-31T07:46:24.000Z",
-      "sourceUrl": "https://jobs.lever.co/uncountable/16362d95-0ded-479d-a54b-9a5b9f29b762/apply",
-      "discordThreadId": "1456369910996533400",
-      "instanceNumber": 1
-    },
     {
       "id": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957-2026-01-01-1",
       "jobId": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957",
@@ -16193,14 +16182,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058714008",
       "discordThreadId": "1458904497429545012",
       "instanceNumber": 1
+    },
+    {
+      "id": "bcbst-wd1-myworkdayjobs-com-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48235-2026-01-08-1",
+      "jobId": "bcbst-wd1-myworkdayjobs-com-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48235",
+      "company": "BlueCross BlueShield of Tennessee",
+      "title": "Associate Software Engineer 1",
+      "postedToDiscord": "2026-01-08T19:42:59.055Z",
+      "sourceDate": "2026-01-08T19:18:39.000Z",
+      "sourceUrl": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-48235",
+      "discordThreadId": "1458908852098433096",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378333-1-2026-01-08-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378333-1",
+      "company": "Walmart",
+      "title": "Senior Software Engineer",
+      "postedToDiscord": "2026-01-08T19:43:02.680Z",
+      "sourceDate": "2026-01-08T19:14:58.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2378333-1",
+      "discordThreadId": "1458908867621687590",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378344-1-2026-01-08-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378344-1",
+      "company": "Walmart",
+      "title": "Senior Software Engineer",
+      "postedToDiscord": "2026-01-08T19:43:02.692Z",
+      "sourceDate": "2026-01-08T19:14:52.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2378344-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-csd-school-of-computer-science_2024014-2026-01-08-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-csd-school-of-computer-science_2024014",
+      "company": "Carnegie Mellon University",
+      "title": "Research Assistant - Csd - School of Computer Science",
+      "postedToDiscord": "2026-01-08T19:43:09.187Z",
+      "sourceDate": "2026-01-08T19:08:52.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD---School-of-Computer-Science_2024014",
+      "discordThreadId": "1458908894951768147",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-nashville-clinic-nashville-tn-therapist-iop-php_r5976-2026-01-08-1",
+      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-nashville-clinic-nashville-tn-therapist-iop-php_r5976",
+      "company": "Rogers Behavioral Health",
+      "title": "Therapist-IOP/PHP",
+      "postedToDiscord": "2026-01-08T19:43:15.825Z",
+      "sourceDate": "2026-01-08T19:07:31.000Z",
+      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Nashville-Clinic-Nashville-TN/Therapist--IOP-PHP_R5976",
+      "discordThreadId": "1458908922672058522",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1472,
+    "totalJobs": 1476,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T19:25:40.785Z",
+      "date": "2026-01-08T19:43:15.826Z",
       "archived": 0
     }
   }
