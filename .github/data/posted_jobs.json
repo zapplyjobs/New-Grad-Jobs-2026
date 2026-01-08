@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T15:42:25.666Z",
+  "lastUpdated": "2026-01-08T16:27:15.460Z",
   "jobs": [
-    {
-      "id": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-assistant-programmatic_r0015427-2026-01-01-1",
-      "jobId": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-assistant-programmatic_r0015427",
-      "company": "Horizon media",
-      "title": "Assistant Programmatic",
-      "postedToDiscord": "2026-01-01T16:04:19.345Z",
-      "sourceDate": "2025-12-01T03:58:26.000Z",
-      "sourceUrl": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Assistant--Programmatic_R0015427",
-      "discordThreadId": "1456317108198703438",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-smartrecruiters-com-360itprofessionals1-743999659854838-2026-01-01-1",
       "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999659854838",
@@ -16116,6 +16105,17 @@
       "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376",
       "discordThreadId": "1458848314509492409",
       "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-cbp-public-trust-or-top-secret-preferred_rq209446-1-2026-01-08-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-cbp-public-trust-or-top-secret-preferred_rq209446-1",
+      "company": "General Dynamics Information Technology",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-08T16:27:15.460Z",
+      "sourceDate": "2025-11-11T00:04:35.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Ashburn/Java-Developer---CBP-public-trust-or-Top-Secret-preferred_RQ209446-1",
+      "discordThreadId": "1458859595631165624",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16123,8 +16123,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T15:42:25.666Z",
-      "archived": 0
+      "date": "2026-01-08T16:27:15.460Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
