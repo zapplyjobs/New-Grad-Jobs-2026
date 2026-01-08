@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T11:52:19.481Z",
+  "lastUpdated": "2026-01-08T14:12:48.064Z",
   "jobs": [
-    {
-      "id": "micron-wd1-myworkdayjobs-com-external-job-boise-id-north-office-new-college-grad-fe-materials-business-intelligence-analyst_jr85030-2026-01-01-1",
-      "jobId": "micron-wd1-myworkdayjobs-com-external-job-boise-id-north-office-new-college-grad-fe-materials-business-intelligence-analyst_jr85030",
-      "company": "Micron Technology",
-      "title": "FE Materials Business Intelligence Analyst",
-      "postedToDiscord": "2026-01-01T12:04:48.977Z",
-      "sourceDate": "2025-12-13T14:58:37.000Z",
-      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/New-College-Grad---FE-Materials-Business-Intelligence-Analyst_JR85030",
-      "discordThreadId": "1456256836524310664",
-      "instanceNumber": 1
-    },
-    {
-      "id": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409-2026-01-01-1",
-      "jobId": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409",
-      "company": "Arkansas Children's",
-      "title": "Digital Services Coordinator 1",
-      "postedToDiscord": "2026-01-01T12:04:55.945Z",
-      "sourceDate": "2025-12-12T23:35:09.000Z",
-      "sourceUrl": "https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Digital-Services-Coordinator-I_R0022409",
-      "discordThreadId": "1456256862725996658",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8330-2026-01-01-1",
-      "jobId": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8330",
-      "company": "Fortive",
-      "title": "Operations Analyst",
-      "postedToDiscord": "2026-01-01T12:46:11.771Z",
-      "sourceDate": "2025-11-26T02:18:00.000Z",
-      "sourceUrl": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8330",
-      "discordThreadId": "1456267249093705800",
-      "instanceNumber": 1
-    },
-    {
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow_r_00030888-2026-01-01-1",
-      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow_r_00030888",
-      "company": "University of Texas - Austin",
-      "title": "Postdoctoral Fellow",
-      "postedToDiscord": "2026-01-01T12:46:18.209Z",
-      "sourceDate": "2025-11-23T08:15:55.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00030888",
-      "discordThreadId": "1456267276616597580",
-      "instanceNumber": 1
-    },
-    {
-      "id": "shi-wd12-myworkdayjobs-com-shicareers-job-austin-tx-usa-finops-analyst_jr2047-1-2026-01-01-1",
-      "jobId": "shi-wd12-myworkdayjobs-com-shicareers-job-austin-tx-usa-finops-analyst_jr2047-1",
-      "company": "SHI International ",
-      "title": "FinOps Analyst",
-      "postedToDiscord": "2026-01-01T12:46:24.703Z",
-      "sourceDate": "2025-11-04T07:30:42.000Z",
-      "sourceUrl": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/FinOps-Analyst_JR2047-1",
-      "discordThreadId": "1456267303464341599",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-new-york-pearl-river-postdoctoral-fellow-in-ai-ml-applications-for-vaccine-research-development_4948673-2-2026-01-01-1",
-      "jobId": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-new-york-pearl-river-postdoctoral-fellow-in-ai-ml-applications-for-vaccine-research-development_4948673-2",
-      "company": "Pfizer",
-      "title": "Postdoctoral Fellow in AI/ML Applications for Vaccine Research and Development",
-      "postedToDiscord": "2026-01-01T13:06:00.094Z",
-      "sourceDate": "2025-12-19T23:54:57.000Z",
-      "sourceUrl": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/Postdoctoral-Fellow-in-AI-ML-Applications-for-Vaccine-Research---Development_4948673-2",
-      "discordThreadId": "1456272232933363775",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8088-2026-01-01-1",
-      "jobId": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8088",
-      "company": "Fortive",
-      "title": "Operations Analyst",
-      "postedToDiscord": "2026-01-01T13:06:06.861Z",
-      "sourceDate": "2025-11-06T23:54:50.000Z",
-      "sourceUrl": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8088",
-      "discordThreadId": "1456272261374804083",
-      "instanceNumber": 1
-    },
-    {
-      "id": "arraytechinc-wd5-myworkdayjobs-com-array_careers-job-chandler-pv-performance-engineer-i_r-100571-2026-01-01-1",
-      "jobId": "arraytechinc-wd5-myworkdayjobs-com-array_careers-job-chandler-pv-performance-engineer-i_r-100571",
-      "company": "ARRAY Technologies",
-      "title": "PV Performance Engineer 1 - Utility Scale Solar",
-      "postedToDiscord": "2026-01-01T13:43:44.327Z",
-      "sourceDate": "2025-12-13T11:26:58.000Z",
-      "sourceUrl": "https://arraytechinc.wd5.myworkdayjobs.com/Array_Careers/job/Chandler/Pv-Performance-Engineer-I_R-100571",
-      "discordThreadId": "1456281730490044416",
-      "instanceNumber": 1
-    },
-    {
-      "id": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228-2026-01-01-1",
-      "jobId": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228",
-      "company": "Texas Capital Bank",
-      "title": "Technology Platform Associate",
-      "postedToDiscord": "2026-01-01T13:43:51.104Z",
-      "sourceDate": "2025-08-21T23:54:41.000Z",
-      "sourceUrl": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Technology-Platform-Associate_JR104228",
-      "discordThreadId": "1456281758491218062",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boydgroup-wd1-myworkdayjobs-com-boydcareers-job-sc-charleston-folly-rd-154011-automotive-mobile-adas-technician_r055451-2026-01-01-1",
-      "jobId": "boydgroup-wd1-myworkdayjobs-com-boydcareers-job-sc-charleston-folly-rd-154011-automotive-mobile-adas-technician_r055451",
-      "company": "The Boyd Group",
-      "title": "Automotive Mobile ADAS Technician",
-      "postedToDiscord": "2026-01-01T14:04:04.366Z",
-      "sourceDate": "2025-12-31T01:54:47.000Z",
-      "sourceUrl": "https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/SC-Charleston-Folly-Rd---154011/Automotive-Mobile-ADAS-Technician_R055451",
-      "discordThreadId": "1456286847721406558",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-peraton-icims-com-jobs-158877-job-2026-01-01-1",
-      "jobId": "careers-peraton-icims-com-jobs-158877-job",
-      "company": "Peraton",
-      "title": "R&D Engineering Analyst",
-      "postedToDiscord": "2026-01-01T14:04:10.902Z",
-      "sourceDate": "2025-12-22T16:28:01.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/158877/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456286874825130006",
-      "instanceNumber": 1
-    },
     {
       "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1-2026-01-01-1",
       "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1",
@@ -16204,15 +16083,27 @@
       "sourceUrl": "https://careers-stonybrookmedicinecpmp.icims.com/jobs/4463/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1458790405951983680",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7228240-2026-01-08-1",
+      "jobId": "careers-datadoghq-com-detail-7228240",
+      "company": "datadog",
+      "title": "Customer Success Associate - Denver",
+      "postedToDiscord": "2026-01-08T14:12:48.064Z",
+      "sourceDate": "2026-01-08T09:06:45-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240",
+      "discordThreadId": "1458825766773981316",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1473,
+    "totalJobs": 1463,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T11:52:19.481Z",
-      "archived": 0
+      "date": "2026-01-08T14:12:48.064Z",
+      "archived": 11,
+      "monthsAffected": 1
     }
   }
 }
