@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T19:43:15.826Z",
+  "lastUpdated": "2026-01-08T20:06:04.272Z",
   "jobs": [
-    {
-      "id": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957-2026-01-01-1",
-      "jobId": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957",
-      "company": "Western Alliance",
-      "title": "Engineer 1 - AI Business Engineer",
-      "postedToDiscord": "2026-01-01T20:04:17.106Z",
-      "sourceDate": "2025-12-19T00:21:36.000Z",
-      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11957",
-      "discordThreadId": "1456377498341478473",
-      "instanceNumber": 1
-    },
-    {
-      "id": "mhicareers-com-job-orlando-technical-translator-i-fl-32809-1261635101-2026-01-01-1",
-      "jobId": "mhicareers-com-job-orlando-technical-translator-i-fl-32809-1261635101",
-      "company": "Primetals Technologies",
-      "title": "Technical Translator 1",
-      "postedToDiscord": "2026-01-01T20:04:23.729Z",
-      "sourceDate": "2025-11-15T07:28:27.000Z",
-      "sourceUrl": "https://mhicareers.com/job/Orlando-Technical-Translator-I-FL-32809/1261635101/?ats=successfactors",
-      "discordThreadId": "1456377525428031599",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-secretariatadvisorsllc-jobs-4034185009-2026-01-01-1",
-      "jobId": "job-boards-greenhouse-io-secretariatadvisorsllc-jobs-4034185009",
-      "company": "Secretariat",
-      "title": "Associate – Entry Level",
-      "postedToDiscord": "2026-01-01T20:04:30.372Z",
-      "sourceDate": "2025-10-10T03:35:28.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4034185009",
-      "discordThreadId": "1456377553131536508",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-freeformfuturecorp-jobs-7575047003-2026-01-01-1",
       "jobId": "job-boards-greenhouse-io-freeformfuturecorp-jobs-7575047003",
@@ -16237,15 +16204,27 @@
       "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Nashville-Clinic-Nashville-TN/Therapist--IOP-PHP_R5976",
       "discordThreadId": "1458908922672058522",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-193d115f-7045-499b-9072-d9322bac8088-2026-01-08-1",
+      "jobId": "jobs-lever-co-spotify-193d115f-7045-499b-9072-d9322bac8088",
+      "company": "spotify",
+      "title": "Business Development Representative - Backstage",
+      "postedToDiscord": "2026-01-08T20:06:04.271Z",
+      "sourceDate": "2025-11-21T15:54:04.594Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/193d115f-7045-499b-9072-d9322bac8088",
+      "discordThreadId": "1458914662639861893",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1476,
+    "totalJobs": 1474,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T19:43:15.826Z",
-      "archived": 0
+      "date": "2026-01-08T20:06:04.272Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
