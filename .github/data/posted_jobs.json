@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T14:12:48.064Z",
+  "lastUpdated": "2026-01-08T15:26:55.109Z",
   "jobs": [
     {
       "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1-2026-01-01-1",
@@ -16094,16 +16094,26 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240",
       "discordThreadId": "1458825766773981316",
       "instanceNumber": 1
+    },
+    {
+      "id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-research-associate-computational-imaging-and-data-science-_jr102004-1-2026-01-08-1",
+      "jobId": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-research-associate-computational-imaging-and-data-science-_jr102004-1",
+      "company": "Brookhaven Lab",
+      "title": "Postdoctoral Research Associate - Computational Imaging and Data Science",
+      "postedToDiscord": "2026-01-08T15:26:55.108Z",
+      "sourceDate": "2025-12-13T14:59:56.000Z",
+      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate---Computational-Imaging-and-Data-Science-_JR102004-1",
+      "discordThreadId": "1458844411558498386",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1463,
+    "totalJobs": 1464,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T14:12:48.064Z",
-      "archived": 11,
-      "monthsAffected": 1
+      "date": "2026-01-08T15:26:55.109Z",
+      "archived": 0
     }
   }
 }
