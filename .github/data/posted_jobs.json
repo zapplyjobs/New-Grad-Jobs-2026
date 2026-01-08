@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T08:06:51.299Z",
+  "lastUpdated": "2026-01-08T10:43:42.908Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-scaleai-jobs-4638305005-2026-01-01-1",
-      "jobId": "job-boards-greenhouse-io-scaleai-jobs-4638305005",
-      "company": "Scale AI",
-      "title": "Vibe Marketer",
-      "postedToDiscord": "2026-01-01T09:05:26.826Z",
-      "sourceDate": "2025-12-10T09:40:24.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
-      "discordThreadId": "1456211696023765073",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-analyticpartners-f7d06503-9067-4fbe-833c-089db235cb8e-apply-2026-01-01-1",
-      "jobId": "jobs-lever-co-analyticpartners-f7d06503-9067-4fbe-833c-089db235cb8e-apply",
-      "company": "Analytic Partners",
-      "title": "Marketing Science Analyst - February 16th - 2026 Start",
-      "postedToDiscord": "2026-01-01T09:39:45.937Z",
-      "sourceDate": "2025-10-22T01:20:00.000Z",
-      "sourceUrl": "https://jobs.lever.co/analyticpartners/f7d06503-9067-4fbe-833c-089db235cb8e/apply",
-      "discordThreadId": "1456220332259020882",
-      "instanceNumber": 1
-    },
-    {
-      "id": "togetherwork-com-application-2026-01-01-1",
-      "jobId": "togetherwork-com-application",
-      "company": "Togetherwork",
-      "title": "Migration Specialist",
-      "postedToDiscord": "2026-01-01T10:04:17.511Z",
-      "sourceDate": "2025-10-17T04:11:55.000Z",
-      "sourceUrl": "https://togetherwork.com/application/?gh_jid=8200180002",
-      "discordThreadId": "1456226505171537943",
-      "instanceNumber": 1
-    },
     {
       "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1-2026-01-01-1",
       "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1",
@@ -16193,15 +16160,27 @@
       "sourceUrl": "https://lifeattiktok.com/search/7539974477397592338",
       "discordThreadId": "1458733665927303212",
       "instanceNumber": 1
+    },
+    {
+      "id": "campaignmonitor-wd5-myworkdayjobs-com-marigold-job-remote-united-states-software-engineer_r2356-2026-01-08-1",
+      "jobId": "campaignmonitor-wd5-myworkdayjobs-com-marigold-job-remote-united-states-software-engineer_r2356",
+      "company": "Marigold",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-08T10:43:42.908Z",
+      "sourceDate": "2026-01-08T09:57:15.000Z",
+      "sourceUrl": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Software-Engineer_R2356",
+      "discordThreadId": "1458773141693272108",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1472,
+    "totalJobs": 1470,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T08:06:51.299Z",
-      "archived": 0
+      "date": "2026-01-08T10:43:42.908Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
