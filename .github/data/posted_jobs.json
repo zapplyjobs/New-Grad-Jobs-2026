@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T18:57:39.533Z",
+  "lastUpdated": "2026-01-08T19:07:20.958Z",
   "jobs": [
-    {
-      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939-2026-01-01-1",
-      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939",
-      "company": "Q2",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-01T19:04:12.786Z",
-      "sourceDate": "2025-12-18T23:52:07.000Z",
-      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
-      "discordThreadId": "1456362380329091203",
-      "instanceNumber": 1
-    },
-    {
-      "id": "emit-fa-ca3-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-76719-2026-01-01-1",
-      "jobId": "emit-fa-ca3-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-76719",
-      "company": "WSP",
-      "title": "Early Career Geologist",
-      "postedToDiscord": "2026-01-01T19:04:16.240Z",
-      "sourceDate": "2025-12-06T13:56:28.000Z",
-      "sourceUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76719",
-      "discordThreadId": "1456362394723942552",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-kimley-horn-icims-com-jobs-21496-job-2026-01-01-1",
-      "jobId": "careers-kimley-horn-icims-com-jobs-21496-job",
-      "company": "Kimley-Horn",
-      "title": "Transportation Planning Analyst",
-      "postedToDiscord": "2026-01-01T19:04:22.641Z",
-      "sourceDate": "2025-12-17T23:22:54.000Z",
-      "sourceUrl": "https://careers-kimley-horn.icims.com/jobs/21496/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456362421806694620",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-jensenhughes-jobs-4932805008-2026-01-01-1",
-      "jobId": "job-boards-greenhouse-io-jensenhughes-jobs-4932805008",
-      "company": "Jensen Hughes",
-      "title": "Associate Nuclear Consultant/Engineer",
-      "postedToDiscord": "2026-01-01T19:04:29.393Z",
-      "sourceDate": "2025-12-09T21:25:54.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/jensenhughes/jobs/4932805008",
-      "discordThreadId": "1456362449199431868",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply-2026-01-01-1",
       "jobId": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply",
@@ -16204,14 +16160,36 @@
       "sourceUrl": "https://www.brex.com/careers/7892186002?gh_jid=7892186002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-dbe8398a-1e65-401a-ac49-52c88a7530d3-2026-01-08-1",
+      "jobId": "jobs-lever-co-spotify-dbe8398a-1e65-401a-ac49-52c88a7530d3",
+      "company": "spotify",
+      "title": "Finance Program Manager",
+      "postedToDiscord": "2026-01-08T19:07:14.125Z",
+      "sourceDate": "2025-10-16T21:38:22.498Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/dbe8398a-1e65-401a-ac49-52c88a7530d3",
+      "discordThreadId": "1458899855320682672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-capco-jobs-7512186-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-capco-jobs-7512186",
+      "company": "Capco",
+      "title": "FAST Configuration Analyst",
+      "postedToDiscord": "2026-01-08T19:07:20.958Z",
+      "sourceDate": "2026-01-08T18:48:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/capco/jobs/7512186",
+      "discordThreadId": "1458899883695018179",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1473,
+    "totalJobs": 1471,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T18:57:39.533Z",
+      "date": "2026-01-08T19:07:20.958Z",
       "archived": 0
     }
   }
