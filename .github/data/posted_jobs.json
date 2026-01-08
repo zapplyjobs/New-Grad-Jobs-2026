@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T19:07:20.958Z",
+  "lastUpdated": "2026-01-08T19:25:40.785Z",
   "jobs": [
     {
       "id": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply-2026-01-01-1",
@@ -16182,14 +16182,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/capco/jobs/7512186",
       "discordThreadId": "1458899883695018179",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5058714008-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5058714008",
+      "company": "anthropic",
+      "title": "Engineering Manager, UI Platform",
+      "postedToDiscord": "2026-01-08T19:25:40.784Z",
+      "sourceDate": "2026-01-08T14:21:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058714008",
+      "discordThreadId": "1458904497429545012",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1471,
+    "totalJobs": 1472,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T19:07:20.958Z",
+      "date": "2026-01-08T19:25:40.785Z",
       "archived": 0
     }
   }
