@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T01:57:15.408Z",
+  "lastUpdated": "2026-01-08T02:41:15.397Z",
   "jobs": [
-    {
-      "id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-medical-informatics-analyst-it-_r0435017-2026-01-01-1",
-      "jobId": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-medical-informatics-analyst-it-_r0435017",
-      "company": "DaVita",
-      "title": "Medical Informatics Analyst",
-      "postedToDiscord": "2026-01-01T02:35:57.279Z",
-      "sourceDate": "2026-01-01T01:36:28.000Z",
-      "sourceUrl": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Medical-Informatics-Analyst--IT-_R0435017",
-      "discordThreadId": "1456113677223727165",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-scaleai-jobs-4638305005-2026-01-01-1",
       "jobId": "job-boards-greenhouse-io-scaleai-jobs-4638305005",
@@ -16138,14 +16127,47 @@
       "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Research-Analyst--PNW_REQ451478",
       "discordThreadId": "1458640653213896777",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971331008-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971331008",
+      "company": "anthropic",
+      "title": "Security GRC Specialist, Customer Trust Lead",
+      "postedToDiscord": "2026-01-08T02:41:05.438Z",
+      "sourceDate": "2026-01-07T21:35:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971331008",
+      "discordThreadId": "1458651683528638617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tmobile-wd1-myworkdayjobs-com-external-job-bellevue-washington-associate-machine-learning-engineer_req329855-1-2026-01-08-1",
+      "jobId": "tmobile-wd1-myworkdayjobs-com-external-job-bellevue-washington-associate-machine-learning-engineer_req329855-1",
+      "company": "T-Mobile",
+      "title": "Associate Machine Learning Engineer",
+      "postedToDiscord": "2026-01-08T02:41:08.872Z",
+      "sourceDate": "2026-01-08T02:22:00.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Machine-Learning-Engineer_REQ329855-1",
+      "discordThreadId": "1458651699203014709",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wyld-pinpointhq-com-en-postings-2555f552-7d63-4256-bcd5-64b09a83176c-2026-01-08-1",
+      "jobId": "wyld-pinpointhq-com-en-postings-2555f552-7d63-4256-bcd5-64b09a83176c",
+      "company": "Wyld",
+      "title": "Data and Integrations Analyst",
+      "postedToDiscord": "2026-01-08T02:41:15.396Z",
+      "sourceDate": "2026-01-08T02:14:00.000Z",
+      "sourceUrl": "https://wyld.pinpointhq.com/en/postings/2555f552-7d63-4256-bcd5-64b09a83176c?ats=pinpointhq",
+      "discordThreadId": "1458651726335709350",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1467,
+    "totalJobs": 1469,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T01:57:15.408Z",
+      "date": "2026-01-08T02:41:15.397Z",
       "archived": 0
     }
   }
