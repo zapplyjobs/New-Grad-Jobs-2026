@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T11:25:53.480Z",
+  "lastUpdated": "2026-01-08T11:52:19.481Z",
   "jobs": [
-    {
-      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1-2026-01-01-1",
-      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1",
-      "company": "Wash U",
-      "title": "Neuroimaging Engineer - Radiology - Neuroimaging Labs Research Center",
-      "postedToDiscord": "2026-01-01T11:35:03.712Z",
-      "sourceDate": "2025-12-13T11:17:49.000Z",
-      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Radiology---Neuroimaging-Labs-Research-Center_JR89315-1",
-      "discordThreadId": "1456249348026404970",
-      "instanceNumber": 1
-    },
     {
       "id": "micron-wd1-myworkdayjobs-com-external-job-boise-id-north-office-new-college-grad-fe-materials-business-intelligence-analyst_jr85030-2026-01-01-1",
       "jobId": "micron-wd1-myworkdayjobs-com-external-job-boise-id-north-office-new-college-grad-fe-materials-business-intelligence-analyst_jr85030",
@@ -16193,14 +16182,36 @@
       "sourceUrl": "https://ats.rippling.com/buxtoncocareers/jobs/27e548cb-8800-46be-967a-6a1deb58163f",
       "discordThreadId": "1458783755228676311",
       "instanceNumber": 1
+    },
+    {
+      "id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-in-theoretical-and-computational-condensed-matter-physics_jr102043-2026-01-08-1",
+      "jobId": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-in-theoretical-and-computational-condensed-matter-physics_jr102043",
+      "company": "Brookhaven Lab",
+      "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
+      "postedToDiscord": "2026-01-08T11:52:12.658Z",
+      "sourceDate": "2025-11-23T15:43:57.000Z",
+      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-in-Theoretical-and-Computational-Condensed-Matter-Physics_JR102043",
+      "discordThreadId": "1458790378860974182",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-stonybrookmedicinecpmp-icims-com-jobs-4463-job-2026-01-08-1",
+      "jobId": "careers-stonybrookmedicinecpmp-icims-com-jobs-4463-job",
+      "company": "Stony Brook Medicine University Physicians",
+      "title": "Medical Assistant",
+      "postedToDiscord": "2026-01-08T11:52:19.481Z",
+      "sourceDate": "2025-09-11T22:57:51.000Z",
+      "sourceUrl": "https://careers-stonybrookmedicinecpmp.icims.com/jobs/4463/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458790405951983680",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1472,
+    "totalJobs": 1473,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T11:25:53.480Z",
+      "date": "2026-01-08T11:52:19.481Z",
       "archived": 0
     }
   }
