@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T16:59:47.223Z",
+  "lastUpdated": "2026-01-08T17:11:17.713Z",
   "jobs": [
-    {
-      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999659854838-2026-01-01-1",
-      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999659854838",
-      "company": "360 IT Professionals",
-      "title": "Salesforce BA",
-      "postedToDiscord": "2026-01-01T17:04:47.747Z",
-      "sourceDate": "2025-08-15T21:17:59.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659854838",
-      "discordThreadId": "1456332328430338201",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999658533708-2026-01-01-1",
-      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999658533708",
-      "company": "360 IT Professionals",
-      "title": "SAP ERP Analyst",
-      "postedToDiscord": "2026-01-01T17:04:54.133Z",
-      "sourceDate": "2025-08-13T05:20:56.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658533708",
-      "discordThreadId": "1456332355349250235",
-      "instanceNumber": 1
-    },
     {
       "id": "hckd-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2035352-2026-01-01-1",
       "jobId": "hckd-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2035352",
@@ -16160,15 +16138,27 @@
       "sourceUrl": "https://www.brex.com/careers/8362761002?gh_jid=8362761002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-72536-2026-01-08-1",
+      "jobId": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-72536",
+      "company": "BNY",
+      "title": "Specialist - Data Transfer - Integration & Quality",
+      "postedToDiscord": "2026-01-08T17:11:17.713Z",
+      "sourceDate": "2026-01-08T16:08:33.000Z",
+      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72536",
+      "discordThreadId": "1458870678089629912",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1469,
+    "totalJobs": 1468,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T16:59:47.223Z",
-      "archived": 0
+      "date": "2026-01-08T17:11:17.713Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
