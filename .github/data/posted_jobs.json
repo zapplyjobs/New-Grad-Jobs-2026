@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T20:06:04.272Z",
+  "lastUpdated": "2026-01-08T20:53:23.893Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-freeformfuturecorp-jobs-7575047003-2026-01-01-1",
@@ -16215,16 +16215,26 @@
       "sourceUrl": "https://jobs.lever.co/spotify/193d115f-7045-499b-9072-d9322bac8088",
       "discordThreadId": "1458914662639861893",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5057647008-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5057647008",
+      "company": "anthropic",
+      "title": "Product Engineer, Applied AI",
+      "postedToDiscord": "2026-01-08T20:53:23.892Z",
+      "sourceDate": "2026-01-08T15:47:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "discordThreadId": "1458926571237802117",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1474,
+    "totalJobs": 1475,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T20:06:04.272Z",
-      "archived": 3,
-      "monthsAffected": 1
+      "date": "2026-01-08T20:53:23.893Z",
+      "archived": 0
     }
   }
 }
