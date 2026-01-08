@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T23:25:50.550Z",
+  "lastUpdated": "2026-01-08T23:52:16.932Z",
   "jobs": [
     {
       "id": "careers-geosyntec-icims-com-jobs-4028-job-2026-01-02-1",
@@ -16270,14 +16270,69 @@
       "sourceUrl": "https://www.brex.com/careers/8367549002?gh_jid=8367549002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-vectra-ai-about-jobs-2026-01-08-1",
+      "jobId": "www-vectra-ai-about-jobs",
+      "company": "Vectra",
+      "title": "Software Engineer – New College Graduate",
+      "postedToDiscord": "2026-01-08T23:51:59.384Z",
+      "sourceDate": "2026-01-08T23:26:35.000Z",
+      "sourceUrl": "https://www.vectra.ai/about/jobs?gh_jid=6142112",
+      "discordThreadId": "1458971514232897689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "empower-wd12-myworkdayjobs-com-empower-job-co-greenwood-village-associate-software-engineer-starting-summer-2026_r0055622-1-2026-01-08-1",
+      "jobId": "empower-wd12-myworkdayjobs-com-empower-job-co-greenwood-village-associate-software-engineer-starting-summer-2026_r0055622-1",
+      "company": "Empower",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-08T23:52:02.916Z",
+      "sourceDate": "2026-01-08T23:20:01.000Z",
+      "sourceUrl": "https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Associate-Software-Engineer---starting-Summer-2026_R0055622-1",
+      "discordThreadId": "1458971531752374402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-servicenow-744000102368485-2026-01-08-1",
+      "jobId": "jobs-smartrecruiters-com-servicenow-744000102368485",
+      "company": "ServiceNow",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-08T23:52:06.483Z",
+      "sourceDate": "2026-01-08T23:05:34.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000102368485",
+      "discordThreadId": "1458971546017071197",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-mcaconnect-b71f43fc-ce70-44c3-8ab3-0489d32e07b7-apply-2026-01-08-1",
+      "jobId": "jobs-lever-co-mcaconnect-b71f43fc-ce70-44c3-8ab3-0489d32e07b7-apply",
+      "company": "MCA Connect",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-08T23:52:13.045Z",
+      "sourceDate": "2026-01-08T23:17:59.000Z",
+      "sourceUrl": "https://jobs.lever.co/mcaconnect/b71f43fc-ce70-44c3-8ab3-0489d32e07b7/apply",
+      "discordThreadId": "1458971573657796674",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-ff67e1e9-a49e-4a17-958c-5b761ff5f754-application-2026-01-08-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-ff67e1e9-a49e-4a17-958c-5b761ff5f754-application",
+      "company": "Jerry",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-08T23:52:16.931Z",
+      "sourceDate": "2026-01-08T23:16:50.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/ff67e1e9-a49e-4a17-958c-5b761ff5f754/application",
+      "discordThreadId": "1458971588803170306",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1479,
+    "totalJobs": 1484,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T23:25:50.550Z",
+      "date": "2026-01-08T23:52:16.932Z",
       "archived": 0
     }
   }
