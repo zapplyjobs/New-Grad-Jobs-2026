@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T23:06:20.758Z",
+  "lastUpdated": "2026-01-08T23:25:50.550Z",
   "jobs": [
     {
       "id": "careers-geosyntec-icims-com-jobs-4028-job-2026-01-02-1",
@@ -16226,14 +16226,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362697002",
       "discordThreadId": "1458960030358569073",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8367554002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8367554002",
+      "company": "brex",
+      "title": "Engineering Manager, Salesforce",
+      "postedToDiscord": "2026-01-08T23:25:46.769Z",
+      "sourceDate": "2026-01-08T18:07:55-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367554002?gh_jid=8367554002",
+      "discordThreadId": "1458964919897554994",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339005002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8339005002",
+      "company": "brex",
+      "title": "Engineering Manager, Salesforce",
+      "postedToDiscord": "2026-01-08T23:25:46.784Z",
+      "sourceDate": "2026-01-08T18:07:24-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339005002?gh_jid=8339005002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8367552002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8367552002",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-08T23:25:50.537Z",
+      "sourceDate": "2026-01-08T18:06:08-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
+      "discordThreadId": "1458964936020463779",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8367549002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8367549002",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-08T23:25:50.550Z",
+      "sourceDate": "2026-01-08T18:05:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367549002?gh_jid=8367549002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1475,
+    "totalJobs": 1479,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T23:06:20.758Z",
+      "date": "2026-01-08T23:25:50.550Z",
       "archived": 0
     }
   }
