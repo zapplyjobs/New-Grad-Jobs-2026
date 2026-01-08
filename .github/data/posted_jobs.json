@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T23:38:40.953Z",
+  "lastUpdated": "2026-01-08T00:12:02.983Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005-2026-01-01-1",
-      "jobId": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005",
-      "company": "Chicago Trading Company",
-      "title": "Associate C++ Engineer",
-      "postedToDiscord": "2026-01-01T00:10:49.137Z",
-      "sourceDate": "2025-12-31T23:29:16.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
-      "discordThreadId": "1456077152817647648",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-steampunk-icims-com-jobs-7259-job-2026-01-01-1",
-      "jobId": "careers-steampunk-icims-com-jobs-7259-job",
-      "company": "Steampunk",
-      "title": "Data Governance Specialist",
-      "postedToDiscord": "2026-01-01T00:10:55.785Z",
-      "sourceDate": "2025-11-04T23:23:09.000Z",
-      "sourceUrl": "https://careers-steampunk.icims.com/jobs/7259/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456077179619246327",
-      "instanceNumber": 1
-    },
     {
       "id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-medical-informatics-analyst-it-_r0435017-2026-01-01-1",
       "jobId": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-medical-informatics-analyst-it-_r0435017",
@@ -15797,14 +15775,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000102169088",
       "discordThreadId": "1458605778653937747",
       "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8484-2026-01-08-1",
+      "jobId": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8484",
+      "company": "EXL",
+      "title": "Analyst",
+      "postedToDiscord": "2026-01-08T00:11:31.357Z",
+      "sourceDate": "2026-01-07T23:24:50.000Z",
+      "sourceUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8484",
+      "discordThreadId": "1458614051373449464",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mcadams-jobs-5017091007-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-mcadams-jobs-5017091007",
+      "company": "McAdams",
+      "title": "GIS Analyst 1",
+      "postedToDiscord": "2026-01-08T00:11:34.746Z",
+      "sourceDate": "2026-01-07T23:23:15.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mcadams/jobs/5017091007",
+      "discordThreadId": "1458614059305013309",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aig-wd1-myworkdayjobs-com-aig-job-ga-atlanta-xmlname-2026-early-career-gen-ai-data-science-analyst-united-states-atlanta-ga-_jr2505608-1-2026-01-08-1",
+      "jobId": "aig-wd1-myworkdayjobs-com-aig-job-ga-atlanta-xmlname-2026-early-career-gen-ai-data-science-analyst-united-states-atlanta-ga-_jr2505608-1",
+      "company": "AIG",
+      "title": "Early Career - Gen AI - Data Science Analyst",
+      "postedToDiscord": "2026-01-08T00:11:38.174Z",
+      "sourceDate": "2026-01-07T23:21:20.000Z",
+      "sourceUrl": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Science-Analyst---United-States--Atlanta--GA--_JR2505608-1",
+      "discordThreadId": "1458614073506926613",
+      "instanceNumber": 1
+    },
+    {
+      "id": "livenation-wd503-myworkdayjobs-com-en-tmexternalsite-job-reston-va-usa-software-engineer-i_jr-85444-2026-01-08-1",
+      "jobId": "livenation-wd503-myworkdayjobs-com-en-tmexternalsite-job-reston-va-usa-software-engineer-i_jr-85444",
+      "company": "Ticketmaster",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-08T00:11:45.072Z",
+      "sourceDate": "2026-01-07T23:22:41.000Z",
+      "sourceUrl": "https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Reston-VA-USA/Software-Engineer-I_JR-85444",
+      "discordThreadId": "1458614100706725889",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210695999-2026-01-08-1",
+      "jobId": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210695999",
+      "company": "JP Morgan Chase",
+      "title": "Mydata Reporting Analytics Solutions - Associate",
+      "postedToDiscord": "2026-01-08T00:11:48.723Z",
+      "sourceDate": "2026-01-07T23:19:29.000Z",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210695999",
+      "discordThreadId": "1458614117416960114",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eevd-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025746-2026-01-08-1",
+      "jobId": "eevd-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025746",
+      "company": "Hearst",
+      "title": "Intelligent Automation Engineer 1",
+      "postedToDiscord": "2026-01-08T00:11:52.217Z",
+      "sourceDate": "2026-01-07T23:19:19.000Z",
+      "sourceUrl": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025746",
+      "discordThreadId": "1458614132101349502",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-sunnyvale-california-united-states-of-america-software-engineer-support-analyst-graduate_1198373-1-2026-01-08-1",
+      "jobId": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-sunnyvale-california-united-states-of-america-software-engineer-support-analyst-graduate_1198373-1",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineer Support Analyst Graduate",
+      "postedToDiscord": "2026-01-08T00:11:55.929Z",
+      "sourceDate": "2026-01-07T23:18:42.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-Support-Analyst-Graduate_1198373-1",
+      "discordThreadId": "1458614146881949756",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-mclean-va-full-stack-developer_r0231822-2026-01-08-1",
+      "jobId": "bah-wd1-myworkdayjobs-com-bah_jobs-job-mclean-va-full-stack-developer_r0231822",
+      "company": "Booz Allen",
+      "title": "Full Stack Developer",
+      "postedToDiscord": "2026-01-08T00:11:59.427Z",
+      "sourceDate": "2026-01-07T23:15:45.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Developer_R0231822",
+      "discordThreadId": "1458614162098749575",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556630980-2026-01-08-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556630980",
+      "company": "Microsoft",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-08T00:12:02.983Z",
+      "sourceDate": "2026-01-07T23:15:07.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556630980",
+      "discordThreadId": "1458614177005441199",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1436,
+    "totalJobs": 1443,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-07T23:38:40.953Z",
+      "date": "2026-01-08T00:12:02.983Z",
       "archived": 0
     }
   }
