@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T17:11:17.713Z",
+  "lastUpdated": "2026-01-08T17:43:59.801Z",
   "jobs": [
-    {
-      "id": "hckd-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2035352-2026-01-01-1",
-      "jobId": "hckd-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2035352",
-      "company": "Molina Healthcare",
-      "title": "Analyst – Risk & Quality Reporting - Remote TX",
-      "postedToDiscord": "2026-01-01T17:37:06.810Z",
-      "sourceDate": "2025-12-31T23:18:45.000Z",
-      "sourceUrl": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2035352",
-      "discordThreadId": "1456340468597264404",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-exxonmobil-com-exxonmobil-job-spring-fluid-properties-technologist-tx-77024-1348491100-2026-01-01-1",
-      "jobId": "jobs-exxonmobil-com-exxonmobil-job-spring-fluid-properties-technologist-tx-77024-1348491100",
-      "company": "ExxonMobil",
-      "title": "Fluid Properties Technologist",
-      "postedToDiscord": "2026-01-01T17:37:13.480Z",
-      "sourceDate": "2025-12-09T23:14:51.000Z",
-      "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Spring-Fluid-Properties-Technologist-TX-77024/1348491100/?ats=successfactors",
-      "discordThreadId": "1456340488448774256",
-      "instanceNumber": 1
-    },
     {
       "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970-2026-01-01-1",
       "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970",
@@ -16149,16 +16127,81 @@
       "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72536",
       "discordThreadId": "1458870678089629912",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283503002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8283503002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-08T17:43:53.321Z",
+      "sourceDate": "2026-01-08T12:41:56-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283503002?gh_jid=8283503002",
+      "discordThreadId": "1458878881774702612",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283457002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8283457002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-08T17:43:53.338Z",
+      "sourceDate": "2026-01-08T12:41:55-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283457002?gh_jid=8283457002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283452002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8283452002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-08T17:43:53.349Z",
+      "sourceDate": "2026-01-08T12:41:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283452002?gh_jid=8283452002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283446002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8283446002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-08T17:43:53.364Z",
+      "sourceDate": "2026-01-08T12:41:50-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283446002?gh_jid=8283446002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283430002-2026-01-08-1",
+      "jobId": "www-brex-com-careers-8283430002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-08T17:43:53.375Z",
+      "sourceDate": "2026-01-08T12:41:49-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283430002?gh_jid=8283430002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5060653008-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5060653008",
+      "company": "anthropic",
+      "title": "Finance Systems, Finance & Strategy Lead",
+      "postedToDiscord": "2026-01-08T17:43:59.800Z",
+      "sourceDate": "2026-01-08T12:29:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5060653008",
+      "discordThreadId": "1458878908693876809",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1468,
+    "totalJobs": 1472,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T17:11:17.713Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-08T17:43:59.801Z",
+      "archived": 0
     }
   }
 }
