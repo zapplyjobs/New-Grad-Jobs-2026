@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T21:25:36.548Z",
+  "lastUpdated": "2026-01-08T21:39:23.580Z",
   "jobs": [
-    {
-      "id": "bowheadcareers-uicalaska-icims-com-jobs-23872-job-2026-01-01-1",
-      "jobId": "bowheadcareers-uicalaska-icims-com-jobs-23872-job",
-      "company": "Bowhead",
-      "title": "SCA Telecommunications Mechanic 1",
-      "postedToDiscord": "2026-01-01T21:36:00.501Z",
-      "sourceDate": "2025-10-30T23:42:17.000Z",
-      "sourceUrl": "https://bowheadcareers-uicalaska.icims.com/jobs/23872/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456400580892426397",
-      "instanceNumber": 1
-    },
     {
       "id": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1-2026-01-01-1",
       "jobId": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1",
@@ -16226,6 +16215,17 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5056499008",
       "discordThreadId": "1458934679141875869",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7485423-2026-01-08-1",
+      "jobId": "careers-datadoghq-com-detail-7485423",
+      "company": "datadog",
+      "title": "Customer Success Associate - Boston (Spanish-speaking)",
+      "postedToDiscord": "2026-01-08T21:39:23.579Z",
+      "sourceDate": "2026-01-08T16:34:40-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485423/?gh_jid=7485423",
+      "discordThreadId": "1458938147516841984",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16233,7 +16233,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T21:25:36.548Z",
+      "date": "2026-01-08T21:39:23.580Z",
       "archived": 1,
       "monthsAffected": 1
     }
