@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T00:12:02.983Z",
+  "lastUpdated": "2026-01-08T00:46:26.466Z",
   "jobs": [
     {
       "id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-medical-informatics-analyst-it-_r0435017-2026-01-01-1",
@@ -15874,14 +15874,124 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556630980",
       "discordThreadId": "1458614177005441199",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-charterup-jobs-5031834008-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-charterup-jobs-5031834008",
+      "company": "CharterUP",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-08T00:45:45.954Z",
+      "sourceDate": "2025-12-12T16:37:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/charterup/jobs/5031834008",
+      "discordThreadId": "1458622661998547137",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amgen-wd1-myworkdayjobs-com-careers-job-us-california-thousand-oaks-principal-engineer-combination-product-operations-msat-primary-container-engineering-sre_r-233208-2026-01-08-1",
+      "jobId": "amgen-wd1-myworkdayjobs-com-careers-job-us-california-thousand-oaks-principal-engineer-combination-product-operations-msat-primary-container-engineering-sre_r-233208",
+      "company": "Amgen",
+      "title": "Principal Engineer",
+      "postedToDiscord": "2026-01-08T00:45:52.367Z",
+      "sourceDate": "2026-01-08T00:03:59.000Z",
+      "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Principal-Engineer-Combination-Product-Operations-MSAT-Primary-Container-Engineering-SRE_R-233208",
+      "discordThreadId": "1458622689114849292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-burlington-ma-c-software-engineer_r50546-2026-01-08-1",
+      "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-burlington-ma-c-software-engineer_r50546",
+      "company": "Cadence Design Systems",
+      "title": "C++ Software Engineer",
+      "postedToDiscord": "2026-01-08T00:45:55.783Z",
+      "sourceDate": "2026-01-07T23:56:13.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/C---Software-Engineer_R50546",
+      "discordThreadId": "1458622703614431282",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-sykesville-engineer-quality-principal-engineer-quality_r10218213-2026-01-08-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-sykesville-engineer-quality-principal-engineer-quality_r10218213",
+      "company": "Northrop Grumman",
+      "title": "Quality Engineer - Principal Quality Engineer",
+      "postedToDiscord": "2026-01-08T00:45:59.365Z",
+      "sourceDate": "2026-01-07T23:54:38.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Engineer-Quality-Principal-Engineer-Quality_R10218213",
+      "discordThreadId": "1458622719066243189",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8362817002-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8362817002",
+      "company": "Twitch",
+      "title": "Software Engineer 1 - Builder Frameworks",
+      "postedToDiscord": "2026-01-08T00:46:02.890Z",
+      "sourceDate": "2026-01-07T23:52:51.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8362817002",
+      "discordThreadId": "1458622733377208421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bcbst-wd1-myworkdayjobs-com-en-us-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48234-2026-01-08-1",
+      "jobId": "bcbst-wd1-myworkdayjobs-com-en-us-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48234",
+      "company": "BCBST",
+      "title": "Associate Software Engineer 1",
+      "postedToDiscord": "2026-01-08T00:46:06.472Z",
+      "sourceDate": "2026-01-07T23:44:29.000Z",
+      "sourceUrl": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-48234",
+      "discordThreadId": "1458622747792904398",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-yext-jobs-7277738-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-yext-jobs-7277738",
+      "company": "Yext",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-08T00:46:10.190Z",
+      "sourceDate": "2026-01-07T23:37:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/yext/jobs/7277738",
+      "discordThreadId": "1458622762959765667",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-accenturefederalservices-jobs-4639310006-2026-01-08-1",
+      "jobId": "boards-greenhouse-io-accenturefederalservices-jobs-4639310006",
+      "company": "Accenture",
+      "title": "SAP Analyst",
+      "postedToDiscord": "2026-01-08T00:46:16.703Z",
+      "sourceDate": "2026-01-07T23:54:35.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4639310006",
+      "discordThreadId": "1458622791162003457",
+      "instanceNumber": 1
+    },
+    {
+      "id": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23248-2026-01-08-1",
+      "jobId": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23248",
+      "company": "Vantor",
+      "title": "Geospatial Analyst",
+      "postedToDiscord": "2026-01-08T00:46:20.012Z",
+      "sourceDate": "2026-01-07T23:45:32.000Z",
+      "sourceUrl": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst_R23248",
+      "discordThreadId": "1458622805775220767",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-tukwila-wa-software-engineer-artificial-intelligence_jr2025489368-2026-01-08-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-tukwila-wa-software-engineer-artificial-intelligence_jr2025489368",
+      "company": "The Boeing Company",
+      "title": "Software Engineer - Artificial Intelligence",
+      "postedToDiscord": "2026-01-08T00:46:26.466Z",
+      "sourceDate": "2026-01-07T23:43:30.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer---Artificial-intelligence_JR2025489368",
+      "discordThreadId": "1458622832601858112",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1443,
+    "totalJobs": 1453,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T00:12:02.983Z",
+      "date": "2026-01-08T00:46:26.466Z",
       "archived": 0
     }
   }
