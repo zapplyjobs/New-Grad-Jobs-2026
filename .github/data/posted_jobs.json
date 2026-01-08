@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T22:25:26.275Z",
+  "lastUpdated": "2026-01-08T22:53:37.258Z",
   "jobs": [
-    {
-      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061-2026-01-01-1",
-      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061",
-      "company": "National Renewable Energy Laboratory",
-      "title": "Director's Fellowship Postdoctoral Researcher",
-      "postedToDiscord": "2026-01-01T22:38:08.038Z",
-      "sourceDate": "2026-01-01T07:41:53.000Z",
-      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
-      "discordThreadId": "1456416215625892064",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-rpa-jobs-4636346005-2026-01-01-1",
-      "jobId": "job-boards-greenhouse-io-rpa-jobs-4636346005",
-      "company": "RPA",
-      "title": "Process Automation Specialist",
-      "postedToDiscord": "2026-01-01T22:38:11.396Z",
-      "sourceDate": "2025-12-16T23:39:30.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/rpa/jobs/4636346005",
-      "discordThreadId": "1456416229936992397",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-rpa-jobs-4636347005-2026-01-01-1",
-      "jobId": "job-boards-greenhouse-io-rpa-jobs-4636347005",
-      "company": "RPA",
-      "title": "Process Automation Analyst - AI & Systems Focus",
-      "postedToDiscord": "2026-01-01T22:38:18.325Z",
-      "sourceDate": "2025-12-17T02:39:37.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/rpa/jobs/4636347005",
-      "discordThreadId": "1456416256965214340",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-geosyntec-icims-com-jobs-4028-job-2026-01-02-1",
       "jobId": "careers-geosyntec-icims-com-jobs-4028-job",
@@ -16215,14 +16182,36 @@
       "sourceUrl": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7524948-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7524948",
+      "company": "reddit",
+      "title": "Manager, Mid-Market Sales (Client Account Executives)",
+      "postedToDiscord": "2026-01-08T22:53:37.240Z",
+      "sourceDate": "2026-01-08T17:47:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7524948",
+      "discordThreadId": "1458956827344637952",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7453285-2026-01-08-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7453285",
+      "company": "reddit",
+      "title": "Manager, Mid-Market Sales (Client Account Executives)",
+      "postedToDiscord": "2026-01-08T22:53:37.258Z",
+      "sourceDate": "2026-01-08T17:47:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7453285",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1474,
+    "totalJobs": 1473,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T22:25:26.275Z",
+      "date": "2026-01-08T22:53:37.258Z",
       "archived": 0
     }
   }
