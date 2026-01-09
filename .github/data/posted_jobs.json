@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T09:55:04.664Z",
+  "lastUpdated": "2026-01-09T10:26:21.653Z",
   "jobs": [
-    {
-      "id": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570349-2026-01-02-1",
-      "jobId": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570349",
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-02T10:04:27.870Z",
-      "sourceDate": "2026-01-02T09:38:15.000Z",
-      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202570349",
-      "discordThreadId": "1456588935592415318",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-enfra-icims-com-jobs-8425-job-2026-01-02-1",
       "jobId": "careers-enfra-icims-com-jobs-8425-job",
@@ -16534,16 +16523,37 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7514855/?gh_jid=7514855",
       "discordThreadId": "1459123288902205483",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply-2026-01-09-1",
+      "jobId": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply",
+      "company": "RWS",
+      "title": "Search Quality Rater - English - Florida",
+      "postedToDiscord": "2026-01-09T10:26:15.001Z",
+      "sourceDate": "2026-01-02T23:19:46.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/8a6af812-0d04-4b9e-8287-9868e3f51db3/apply",
+      "discordThreadId": "1459131128047734961",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-google-com-about-careers-applications-jobs-results-91697964845540038-2026-01-09-1",
+      "jobId": "www-google-com-about-careers-applications-jobs-results-91697964845540038",
+      "company": "Google",
+      "title": "Software Engineer 3 - Security/Privacy - Google Cloud Security and Privacy",
+      "postedToDiscord": "2026-01-09T10:26:21.652Z",
+      "sourceDate": "2025-12-05T23:05:56.000Z",
+      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/91697964845540038",
+      "discordThreadId": "1459131161069752494",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1503,
+    "totalJobs": 1504,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T09:55:04.664Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-09T10:26:21.653Z",
+      "archived": 0
     }
   }
 }
