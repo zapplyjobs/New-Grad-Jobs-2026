@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T05:14:38.191Z",
+  "lastUpdated": "2026-01-09T05:54:24.538Z",
   "jobs": [
-    {
-      "id": "avav-wd1-myworkdayjobs-com-en-us-avav-job-420-national-business-parkway-jessup-md-cno-developer_6358-2026-01-02-1",
-      "jobId": "avav-wd1-myworkdayjobs-com-en-us-avav-job-420-national-business-parkway-jessup-md-cno-developer_6358",
-      "company": "AeroVironment",
-      "title": "CNO Developer",
-      "postedToDiscord": "2026-01-02T05:40:49.199Z",
-      "sourceDate": "2025-12-22T23:28:10.000Z",
-      "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358",
-      "discordThreadId": "1456522587147342020",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400-2026-01-02-1",
       "jobId": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400",
@@ -16512,6 +16501,17 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043427008",
       "discordThreadId": "1459052713731031272",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5061729008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061729008",
+      "company": "anthropic",
+      "title": "Partner Marketing Lead, GSIs",
+      "postedToDiscord": "2026-01-09T05:54:24.538Z",
+      "sourceDate": "2026-01-09T00:47:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061729008",
+      "discordThreadId": "1459062722472841453",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16519,7 +16519,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T05:14:38.191Z",
+      "date": "2026-01-09T05:54:24.538Z",
       "archived": 1,
       "monthsAffected": 1
     }
