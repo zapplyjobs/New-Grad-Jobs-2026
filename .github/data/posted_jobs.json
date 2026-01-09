@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T19:08:18.460Z",
+  "lastUpdated": "2026-01-09T20:06:16.385Z",
   "jobs": [
-    {
-      "id": "howard-wd1-myworkdayjobs-com-hu-job-classroom-building-4-school-of-business-assistant-professor_jr107320-1-2026-01-02-1",
-      "jobId": "howard-wd1-myworkdayjobs-com-hu-job-classroom-building-4-school-of-business-assistant-professor_jr107320-1",
-      "company": "Howard University",
-      "title": "Assistant Professor",
-      "postedToDiscord": "2026-01-02T19:33:17.009Z",
-      "sourceDate": "2025-11-23T08:21:15.000Z",
-      "sourceUrl": "https://howard.wd1.myworkdayjobs.com/HU/job/Classroom-Building-4-School-of-Business/Assistant-Professor_JR107320-1",
-      "discordThreadId": "1456732084243661004",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-jerry-ai-6b4cf72d-3809-45f8-b38f-1b4686434a51-application-2026-01-02-1",
       "jobId": "jobs-ashbyhq-com-jerry-ai-6b4cf72d-3809-45f8-b38f-1b4686434a51-application",
@@ -16446,6 +16435,17 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7517513/?gh_jid=7517513",
       "discordThreadId": "1459262513827807414",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062393008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062393008",
+      "company": "anthropic",
+      "title": "Customer Success Manager, Digital Native Businesses ",
+      "postedToDiscord": "2026-01-09T20:06:16.384Z",
+      "sourceDate": "2026-01-09T14:52:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
+      "discordThreadId": "1459277098387509393",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16453,8 +16453,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T19:08:18.460Z",
-      "archived": 0
+      "date": "2026-01-09T20:06:16.385Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
