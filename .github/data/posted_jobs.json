@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T17:26:12.379Z",
+  "lastUpdated": "2026-01-09T17:53:16.713Z",
   "jobs": [
-    {
-      "id": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507-2026-01-02-1",
-      "jobId": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507",
-      "company": "University of Central Florida",
-      "title": "Assistant Professor - Renewable Energy and Chemical Transformations",
-      "postedToDiscord": "2026-01-02T17:32:19.477Z",
-      "sourceDate": "2025-11-30T07:46:46.000Z",
-      "sourceUrl": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Assistant-Professor--Renewable-Energy-and-Chemical-Transformations_R111507",
-      "discordThreadId": "1456701643608428716",
-      "instanceNumber": 1
-    },
     {
       "id": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1-2026-01-02-1",
       "jobId": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1",
@@ -16457,6 +16446,17 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985093008",
       "discordThreadId": "1459236819295010938",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8364374002-2026-01-09-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8364374002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Direct To Cell",
+      "postedToDiscord": "2026-01-09T17:53:16.712Z",
+      "sourceDate": "2026-01-09T17:21:54.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8364374002",
+      "discordThreadId": "1459243631843086336",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16464,8 +16464,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T17:26:12.379Z",
-      "archived": 0
+      "date": "2026-01-09T17:53:16.713Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
