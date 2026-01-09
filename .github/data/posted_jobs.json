@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T20:26:00.380Z",
+  "lastUpdated": "2026-01-09T20:41:06.758Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-6b4cf72d-3809-45f8-b38f-1b4686434a51-application-2026-01-02-1",
@@ -16457,14 +16457,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054997008",
       "discordThreadId": "1459282066251448334",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8369151002-2026-01-09-1",
+      "jobId": "careers-duolingo-com-jobs-8369151002",
+      "company": "duolingo",
+      "title": "Senior Software Engineer",
+      "postedToDiscord": "2026-01-09T20:41:06.757Z",
+      "sourceDate": "2026-01-09T15:39:09-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8369151002?gh_jid=8369151002",
+      "discordThreadId": "1459285868815847425",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1496,
+    "totalJobs": 1497,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T20:26:00.380Z",
+      "date": "2026-01-09T20:41:06.758Z",
       "archived": 0
     }
   }
