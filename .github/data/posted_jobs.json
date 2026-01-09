@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T03:57:29.171Z",
+  "lastUpdated": "2026-01-09T05:14:38.191Z",
   "jobs": [
-    {
-      "id": "montrose-wd1-myworkdayjobs-com-meg-job-usa-co-arvada-joyce-drive-ftir-field-scientist-stack-_r7552-2026-01-02-1",
-      "jobId": "montrose-wd1-myworkdayjobs-com-meg-job-usa-co-arvada-joyce-drive-ftir-field-scientist-stack-_r7552",
-      "company": "Montrose Environmental Group",
-      "title": "FTIR Field Scientist - Air Emissions",
-      "postedToDiscord": "2026-01-02T04:45:44.329Z",
-      "sourceDate": "2025-11-23T08:48:05.000Z",
-      "sourceUrl": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-CO-Arvada-Joyce-Drive/FTIR-Field-Scientist--Stack-_R7552",
-      "discordThreadId": "1456508725735981128",
-      "instanceNumber": 1
-    },
     {
       "id": "avav-wd1-myworkdayjobs-com-en-us-avav-job-420-national-business-parkway-jessup-md-cno-developer_6358-2026-01-02-1",
       "jobId": "avav-wd1-myworkdayjobs-com-en-us-avav-job-420-national-business-parkway-jessup-md-cno-developer_6358",
@@ -16512,6 +16501,17 @@
       "sourceUrl": "https://amazon.jobs/en/jobs/3155750/software-engineer-i",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043427008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043427008",
+      "company": "anthropic",
+      "title": "Finance & Strategy, GTM",
+      "postedToDiscord": "2026-01-09T05:14:38.190Z",
+      "sourceDate": "2026-01-09T00:12:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043427008",
+      "discordThreadId": "1459052713731031272",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16519,8 +16519,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T03:57:29.171Z",
-      "archived": 0
+      "date": "2026-01-09T05:14:38.191Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
