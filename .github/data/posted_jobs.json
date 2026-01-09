@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T02:42:31.434Z",
+  "lastUpdated": "2026-01-09T03:23:31.320Z",
   "jobs": [
     {
       "id": "ejov-fa-ca2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-23921-2026-01-02-1",
@@ -16435,14 +16435,47 @@
       "sourceUrl": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Missouri---St-Louis---Rider-Trail/Data-Processing-Specialist---Entry_J00173791",
       "discordThreadId": "1459014430972055665",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-service-mesh-27595-90394286240-2026-01-09-1",
+      "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-service-mesh-27595-90394286240",
+      "company": "Intuit",
+      "title": "Software Engineer 1 - Service Mesh",
+      "postedToDiscord": "2026-01-09T03:23:24.295Z",
+      "sourceDate": "2026-01-09T02:17:57.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1-service-mesh/27595/90394286240",
+      "discordThreadId": "1459024720971169792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-pylon-b32c8de1-a8bf-4435-99d4-8d42e12a7e0a-application-2026-01-09-1",
+      "jobId": "jobs-ashbyhq-com-pylon-b32c8de1-a8bf-4435-99d4-8d42e12a7e0a-application",
+      "company": "Pylon",
+      "title": "Newgrad Generalist Engineer",
+      "postedToDiscord": "2026-01-09T03:23:27.852Z",
+      "sourceDate": "2026-01-09T02:13:48.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/pylon/b32c8de1-a8bf-4435-99d4-8d42e12a7e0a/application",
+      "discordThreadId": "1459024735659884697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-md-annapolis-junction-software-developer-associate_rq212586-2026-01-09-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-md-annapolis-junction-software-developer-associate_rq212586",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Developer Associate",
+      "postedToDiscord": "2026-01-09T03:23:31.319Z",
+      "sourceDate": "2026-01-09T02:06:54.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate_RQ212586",
+      "discordThreadId": "1459024750570373270",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1494,
+    "totalJobs": 1497,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T02:42:31.434Z",
+      "date": "2026-01-09T03:23:31.320Z",
       "archived": 0
     }
   }
