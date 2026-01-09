@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T00:11:24.148Z",
+  "lastUpdated": "2026-01-09T00:46:25.072Z",
   "jobs": [
-    {
-      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836-2026-01-02-1",
-      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836",
-      "company": "Rogers Behavioral Health",
-      "title": "Therapist - PHP/IOP",
-      "postedToDiscord": "2026-01-02T00:44:25.342Z",
-      "sourceDate": "2026-01-01T07:33:50.000Z",
-      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Silver-Lake-North-Clinic-Oconomowoc-WI/Therapist---PHP-IOP_R5836",
-      "discordThreadId": "1456447997004222515",
-      "instanceNumber": 1
-    },
-    {
-      "id": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200-2026-01-02-1",
-      "jobId": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200",
-      "company": "Corning",
-      "title": "Research Technician",
-      "postedToDiscord": "2026-01-02T00:44:30.432Z",
-      "sourceDate": "2025-12-05T18:28:08.000Z",
-      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Research-Technician-NY-14831/1347688200/?ats=successfactors",
-      "discordThreadId": "1456448011566842090",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-business-systems-analyst-international_r259571-1-2026-01-02-1",
-      "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-business-systems-analyst-international_r259571-1",
-      "company": "Uline",
-      "title": "Business Systems Analyst - International",
-      "postedToDiscord": "2026-01-02T00:44:33.786Z",
-      "sourceDate": "2025-12-03T16:49:05.000Z",
-      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R259571-1",
-      "discordThreadId": "1456448032781369375",
-      "instanceNumber": 1
-    },
-    {
-      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007198-2026-01-02-1",
-      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007198",
-      "company": "Welocalize",
-      "title": "Search Quality Rater",
-      "postedToDiscord": "2026-01-02T00:44:40.308Z",
-      "sourceDate": "2025-12-13T15:13:33.000Z",
-      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007198",
-      "discordThreadId": "1456448059193163912",
-      "instanceNumber": 1
-    },
-    {
-      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007102-2026-01-02-1",
-      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007102",
-      "company": "Welocalize",
-      "title": "Search Quality Rater",
-      "postedToDiscord": "2026-01-02T00:44:40.311Z",
-      "sourceDate": "2025-12-13T14:57:18.000Z",
-      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007102",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "sterlingmets-wd5-myworkdayjobs-com-mets-job-citi-field-queens-new-york-associate-player-personnel_r1385-2026-01-02-1",
-      "jobId": "sterlingmets-wd5-myworkdayjobs-com-mets-job-citi-field-queens-new-york-associate-player-personnel_r1385",
-      "company": "Major League Baseball",
-      "title": "Associate – Player Personnel",
-      "postedToDiscord": "2026-01-02T00:44:46.934Z",
-      "sourceDate": "2025-12-13T11:27:23.000Z",
-      "sourceUrl": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Player-Personnel_R1385",
-      "discordThreadId": "1456448087051735134",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-welocalize-f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3-apply-2026-01-02-1",
-      "jobId": "jobs-lever-co-welocalize-f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3-apply",
-      "company": "Welocalize",
-      "title": "Scout Search Quality Rater",
-      "postedToDiscord": "2026-01-02T00:44:53.374Z",
-      "sourceDate": "2025-06-19T04:43:30.000Z",
-      "sourceUrl": "https://jobs.lever.co/welocalize/f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3/apply",
-      "discordThreadId": "1456448114821955615",
-      "instanceNumber": 1
-    },
     {
       "id": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688-2026-01-02-1",
       "jobId": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688",
@@ -16347,14 +16270,124 @@
       "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Techs-Physics-Techs-NC/1306097300/?ats=successfactors",
       "discordThreadId": "1458976402241097790",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-ketteringhealth-icims-com-jobs-57432-job-2026-01-09-1",
+      "jobId": "careers-ketteringhealth-icims-com-jobs-57432-job",
+      "company": "Kettering Health",
+      "title": "Advanced Practice Provider - Aprn or PA - Medical Informatics",
+      "postedToDiscord": "2026-01-09T00:45:43.597Z",
+      "sourceDate": "2025-09-11T01:13:53.000Z",
+      "sourceUrl": "https://careers-ketteringhealth.icims.com/jobs/57432/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458985039785361762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23270-2026-01-09-1",
+      "jobId": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23270",
+      "company": "Vantor",
+      "title": "Geospatial Analyst",
+      "postedToDiscord": "2026-01-09T00:45:47.156Z",
+      "sourceDate": "2026-01-09T00:19:35.000Z",
+      "sourceUrl": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst_R23270",
+      "discordThreadId": "1458985054842654846",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-kirtland-afb-nm-atmospheric-scientist-associate-or-mid-level-_jr2026490878-1-2026-01-09-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-kirtland-afb-nm-atmospheric-scientist-associate-or-mid-level-_jr2026490878-1",
+      "company": "The Boeing Company",
+      "title": "Atmospheric Scientist – Associate or Mid-Level",
+      "postedToDiscord": "2026-01-09T00:45:50.617Z",
+      "sourceDate": "2026-01-08T23:47:18.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
+      "discordThreadId": "1458985069786955848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5054819008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054819008",
+      "company": "anthropic",
+      "title": "Manager, Account Executive - Enterprise Sales ",
+      "postedToDiscord": "2026-01-09T00:45:57.146Z",
+      "sourceDate": "2026-01-08T19:25:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054819008",
+      "discordThreadId": "1458985096748208286",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-dhs-or-cbp-public-trust-or-top-secret-preferred_rq212564-1-2026-01-09-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-dhs-or-cbp-public-trust-or-top-secret-preferred_rq212564-1",
+      "company": "General Dynamics Information Technology",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-09T00:46:03.769Z",
+      "sourceDate": "2026-01-08T23:53:29.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Ashburn/Java-Developer---DHS-or-CBP-public-trust-or-Top-Secret-preferred_RQ212564-1",
+      "discordThreadId": "1458985124548051160",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wing-com-careers-8183095002-2026-01-09-1",
+      "jobId": "wing-com-careers-8183095002",
+      "company": "Wing",
+      "title": "Android Software Engineer",
+      "postedToDiscord": "2026-01-09T00:46:07.331Z",
+      "sourceDate": "2026-01-08T23:42:42.000Z",
+      "sourceUrl": "https://wing.com/careers/8183095002?gh_jid=8183095002",
+      "discordThreadId": "1458985139492225045",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-node-_r-48615-2026-01-09-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-node-_r-48615",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - Aws - Node",
+      "postedToDiscord": "2026-01-09T00:46:11.138Z",
+      "sourceDate": "2026-01-08T23:42:36.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS--Node-_R-48615",
+      "discordThreadId": "1458985155334242406",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-net-nodejs-react-_r-48474-2026-01-09-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-net-nodejs-react-_r-48474",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - .Net - Node.js','React",
+      "postedToDiscord": "2026-01-09T00:46:14.833Z",
+      "sourceDate": "2026-01-08T23:42:30.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NET--Nodejs--React-_R-48474",
+      "discordThreadId": "1458985170223890523",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-data-engineer-i-aws-python-_r-48461-2026-01-09-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-data-engineer-i-aws-python-_r-48461",
+      "company": "The Travelers Companies",
+      "title": "Data Engineer 1 - Aws - Python",
+      "postedToDiscord": "2026-01-09T00:46:21.289Z",
+      "sourceDate": "2026-01-08T23:42:38.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python-_R-48461",
+      "discordThreadId": "1458985198506213531",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4749965101-2026-01-09-1",
+      "jobId": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4749965101",
+      "company": "StubHub",
+      "title": "Software Engineer 1 - Direct Issuance",
+      "postedToDiscord": "2026-01-09T00:46:25.072Z",
+      "sourceDate": "2026-01-08T23:38:32.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101",
+      "discordThreadId": "1458985213437939765",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1486,
+    "totalJobs": 1489,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T00:11:24.148Z",
+      "date": "2026-01-09T00:46:25.072Z",
       "archived": 0
     }
   }
