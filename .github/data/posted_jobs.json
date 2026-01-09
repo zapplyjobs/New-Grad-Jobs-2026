@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T08:06:46.821Z",
+  "lastUpdated": "2026-01-09T09:55:04.664Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-accenturefederalservices-jobs-4599649006-2026-01-02-1",
-      "jobId": "boards-greenhouse-io-accenturefederalservices-jobs-4599649006",
-      "company": "Accenture",
-      "title": "Technology Analyst",
-      "postedToDiscord": "2026-01-02T09:05:40.113Z",
-      "sourceDate": "2025-12-22T23:48:33.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599649006",
-      "discordThreadId": "1456574132870316125",
-      "instanceNumber": 1
-    },
     {
       "id": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570349-2026-01-02-1",
       "jobId": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570349",
@@ -16534,6 +16523,17 @@
       "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-62493",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7514855-2026-01-09-1",
+      "jobId": "careers-datadoghq-com-detail-7514855",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Senior Associate - Product Strategy",
+      "postedToDiscord": "2026-01-09T09:55:04.664Z",
+      "sourceDate": "2026-01-09T04:53:29-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7514855/?gh_jid=7514855",
+      "discordThreadId": "1459123288902205483",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16541,8 +16541,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T08:06:46.821Z",
-      "archived": 0
+      "date": "2026-01-09T09:55:04.664Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
