@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T00:46:25.072Z",
+  "lastUpdated": "2026-01-09T01:14:59.382Z",
   "jobs": [
-    {
-      "id": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688-2026-01-02-1",
-      "jobId": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688",
-      "company": "GCI",
-      "title": "Estimating & Planning Engineer 1 - Future Opening",
-      "postedToDiscord": "2026-01-02T01:13:23.725Z",
-      "sourceDate": "2025-09-25T01:13:40.000Z",
-      "sourceUrl": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21002688",
-      "discordThreadId": "1456455295806210160",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-melaleuca-icims-com-jobs-8278-job-2026-01-02-1",
       "jobId": "careers-melaleuca-icims-com-jobs-8278-job",
@@ -16380,14 +16369,36 @@
       "sourceUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101",
       "discordThreadId": "1458985213437939765",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-perpay-jobs-4969039007-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-perpay-jobs-4969039007",
+      "company": "Perpay",
+      "title": "Junior Strategic Analyst - Super Day",
+      "postedToDiscord": "2026-01-09T01:14:52.895Z",
+      "sourceDate": "2025-11-06T23:49:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4969039007",
+      "discordThreadId": "1458992377359503420",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-lgelectronics-jobs-4940087008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-lgelectronics-jobs-4940087008",
+      "company": "LG Electronics",
+      "title": "Bilingual Material Handling Automation Specialist - Korean & English",
+      "postedToDiscord": "2026-01-09T01:14:59.382Z",
+      "sourceDate": "2025-10-02T02:53:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lgelectronics/jobs/4940087008",
+      "discordThreadId": "1458992404878069870",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1489,
+    "totalJobs": 1490,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T00:46:25.072Z",
+      "date": "2026-01-09T01:14:59.382Z",
       "archived": 0
     }
   }
