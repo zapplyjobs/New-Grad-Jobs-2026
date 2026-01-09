@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T15:31:08.442Z",
+  "lastUpdated": "2026-01-09T15:42:02.013Z",
   "jobs": [
-    {
-      "id": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782-2026-01-02-1",
-      "jobId": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782",
-      "company": "Loft",
-      "title": "Analyst – Customer Insights",
-      "postedToDiscord": "2026-01-02T15:38:03.416Z",
-      "sourceDate": "2025-12-09T09:45:34.000Z",
-      "sourceUrl": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
-      "discordThreadId": "1456672887632302121",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wd5-myworkdaysite-com-en-us-recruiting-devonenergy-careers-job-cuero-tx-master-data-maintainer_r25275-2026-01-02-1",
-      "jobId": "wd5-myworkdaysite-com-en-us-recruiting-devonenergy-careers-job-cuero-tx-master-data-maintainer_r25275",
-      "company": "Devon Energy",
-      "title": "Master Data Maintainer",
-      "postedToDiscord": "2026-01-02T15:38:09.865Z",
-      "sourceDate": "2025-11-23T13:51:30.000Z",
-      "sourceUrl": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Cuero-TX/Master-Data-Maintainer_R25275",
-      "discordThreadId": "1456672914337300625",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31451-2026-01-02-1",
-      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31451",
-      "company": "University of Chicago",
-      "title": "Research Professional",
-      "postedToDiscord": "2026-01-02T15:38:16.617Z",
-      "sourceDate": "2025-11-22T10:59:50.000Z",
-      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31451",
-      "discordThreadId": "1456672942023774322",
-      "instanceNumber": 1
-    },
     {
       "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182-2026-01-02-1",
       "jobId": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182",
@@ -16468,15 +16435,26 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058191008",
       "discordThreadId": "1459207862567043172",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-bbd09ee0-742a-46b3-aa89-28233d0fec73-2026-01-09-1",
+      "jobId": "jobs-lever-co-spotify-bbd09ee0-742a-46b3-aa89-28233d0fec73",
+      "company": "spotify",
+      "title": "Data Scientist - Podcast",
+      "postedToDiscord": "2026-01-09T15:42:02.013Z",
+      "sourceDate": "2026-01-02T15:00:54.938Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/bbd09ee0-742a-46b3-aa89-28233d0fec73",
+      "discordThreadId": "1459210602860777544",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1497,
+    "totalJobs": 1495,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T15:31:08.442Z",
-      "archived": 6,
+      "date": "2026-01-09T15:42:02.013Z",
+      "archived": 3,
       "monthsAffected": 1
     }
   }
