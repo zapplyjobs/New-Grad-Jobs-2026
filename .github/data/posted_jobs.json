@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T23:37:58.111Z",
+  "lastUpdated": "2026-01-09T23:51:22.274Z",
   "jobs": [
     {
       "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-software-engineer-iii_r-2347075-2026-01-03-1",
@@ -16501,16 +16501,26 @@
       "sourceUrl": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Full-Stack-Developer_R0068238",
       "discordThreadId": "1459330375808712857",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5018825007-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5018825007",
+      "company": "verkada",
+      "title": "Senior Field Marketing Manager (Enterprise SLED East)",
+      "postedToDiscord": "2026-01-09T23:51:22.274Z",
+      "sourceDate": "2026-01-09T18:40:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5018825007",
+      "discordThreadId": "1459333742953894042",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1500,
+    "totalJobs": 1501,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T23:37:58.111Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-09T23:51:22.274Z",
+      "archived": 0
     }
   }
 }
