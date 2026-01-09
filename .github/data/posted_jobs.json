@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T12:48:18.348Z",
+  "lastUpdated": "2026-01-09T15:31:08.442Z",
   "jobs": [
-    {
-      "id": "ebcs-fa-em2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-36038-2026-01-02-1",
-      "jobId": "ebcs-fa-em2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-36038",
-      "company": "Arcadis",
-      "title": "Entry Level Environmental Engineer",
-      "postedToDiscord": "2026-01-02T13:05:30.032Z",
-      "sourceDate": "2025-12-01T16:23:28.000Z",
-      "sourceUrl": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36038",
-      "discordThreadId": "1456634495381012490",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tcenergy-wd3-myworkdayjobs-com-career_site_tc-job-charleston-west-virginia-gas-quality-analyst_jr-09532-2026-01-02-1",
-      "jobId": "tcenergy-wd3-myworkdayjobs-com-career_site_tc-job-charleston-west-virginia-gas-quality-analyst_jr-09532",
-      "company": "TC Energy",
-      "title": "Gas Quality Analyst",
-      "postedToDiscord": "2026-01-02T13:42:40.920Z",
-      "sourceDate": "2025-12-18T23:31:41.000Z",
-      "sourceUrl": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Gas-Quality-Analyst_JR-09532",
-      "discordThreadId": "1456643849790427217",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505-2026-01-02-1",
-      "jobId": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505",
-      "company": "Endeavor Health",
-      "title": "Applications Analyst 1",
-      "postedToDiscord": "2026-01-02T13:42:47.511Z",
-      "sourceDate": "2025-11-26T02:47:22.000Z",
-      "sourceUrl": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/Applications-Analyst-I_R36505",
-      "discordThreadId": "1456643879989149728",
-      "instanceNumber": 1
-    },
-    {
-      "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-downtown-postdoctoral-scholar-research-associate_req20165823-2026-01-02-1",
-      "jobId": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-downtown-postdoctoral-scholar-research-associate_req20165823",
-      "company": "University of Southern California",
-      "title": "Postdoctoral Scholar Research Associate",
-      "postedToDiscord": "2026-01-02T14:38:21.083Z",
-      "sourceDate": "2025-11-30T07:08:19.000Z",
-      "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
-      "discordThreadId": "1456657861919903958",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-vistrygroup-icims-com-jobs-7941-job-2026-01-02-1",
-      "jobId": "careers-vistrygroup-icims-com-jobs-7941-job",
-      "company": "Vistry Group",
-      "title": "Design and Technical Graduate",
-      "postedToDiscord": "2026-01-02T15:04:23.762Z",
-      "sourceDate": "2025-11-28T21:42:14.000Z",
-      "sourceUrl": "https://careers-vistrygroup.icims.com/jobs/7941/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456664416022954105",
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1-2026-01-02-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1",
-      "company": "PennState University",
-      "title": "IT Applications Specialist",
-      "postedToDiscord": "2026-01-02T15:04:30.412Z",
-      "sourceDate": "2025-11-01T10:17:47.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1",
-      "discordThreadId": "1456664443483328739",
-      "instanceNumber": 1
-    },
     {
       "id": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782-2026-01-02-1",
       "jobId": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782",
@@ -16523,15 +16457,26 @@
       "sourceUrl": "https://jobs.lever.co/gohighlevel/b4af6df2-340f-44e5-a047-de30299159d1",
       "discordThreadId": "1459166890072080468",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5058191008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5058191008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Asset & Wealth Management",
+      "postedToDiscord": "2026-01-09T15:31:08.442Z",
+      "sourceDate": "2026-01-09T10:01:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058191008",
+      "discordThreadId": "1459207862567043172",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1502,
+    "totalJobs": 1497,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T12:48:18.348Z",
-      "archived": 5,
+      "date": "2026-01-09T15:31:08.442Z",
+      "archived": 6,
       "monthsAffected": 1
     }
   }
