@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T17:11:22.834Z",
+  "lastUpdated": "2026-01-09T17:26:12.379Z",
   "jobs": [
     {
       "id": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507-2026-01-02-1",
@@ -16435,14 +16435,36 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1-tax-preparation-data-management/27595/90412641696",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5753933004-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5753933004",
+      "company": "vercel",
+      "title": "FP&A Manager,  GTM",
+      "postedToDiscord": "2026-01-09T17:26:08.908Z",
+      "sourceDate": "2026-01-09T12:16:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753933004",
+      "discordThreadId": "1459236804526997687",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985093008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985093008",
+      "company": "anthropic",
+      "title": " Strategy and Messaging Communications Lead, Narrative",
+      "postedToDiscord": "2026-01-09T17:26:12.379Z",
+      "sourceDate": "2026-01-09T12:13:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985093008",
+      "discordThreadId": "1459236819295010938",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1494,
+    "totalJobs": 1496,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T17:11:22.834Z",
+      "date": "2026-01-09T17:26:12.379Z",
       "archived": 0
     }
   }
