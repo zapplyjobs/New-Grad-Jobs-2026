@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T18:59:10.221Z",
+  "lastUpdated": "2026-01-09T19:08:18.460Z",
   "jobs": [
     {
       "id": "howard-wd1-myworkdayjobs-com-hu-job-classroom-building-4-school-of-business-assistant-professor_jr107320-1-2026-01-02-1",
@@ -16435,16 +16435,26 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753944004",
       "discordThreadId": "1459260213700853881",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7517513-2026-01-09-1",
+      "jobId": "careers-datadoghq-com-detail-7517513",
+      "company": "datadog",
+      "title": "Senior Partner Manager - Channels (Public Sector)",
+      "postedToDiscord": "2026-01-09T19:08:18.460Z",
+      "sourceDate": "2026-01-09T13:58:38-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7517513/?gh_jid=7517513",
+      "discordThreadId": "1459262513827807414",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1494,
+    "totalJobs": 1495,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T18:59:10.221Z",
-      "archived": 3,
-      "monthsAffected": 1
+      "date": "2026-01-09T19:08:18.460Z",
+      "archived": 0
     }
   }
 }
