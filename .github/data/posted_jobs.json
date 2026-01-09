@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T10:54:39.629Z",
+  "lastUpdated": "2026-01-09T11:51:18.811Z",
   "jobs": [
     {
       "id": "careers-enfra-icims-com-jobs-8425-job-2026-01-02-1",
@@ -16556,14 +16556,25 @@
       "sourceUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2925",
       "discordThreadId": "1459138283060592776",
       "instanceNumber": 1
+    },
+    {
+      "id": "amazon-jobs-en-jobs-3144341-software-development-engineer-amazon-leo-us-2026-01-09-1",
+      "jobId": "amazon-jobs-en-jobs-3144341-software-development-engineer-amazon-leo-us",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Amazon Leo - US",
+      "postedToDiscord": "2026-01-09T11:51:18.811Z",
+      "sourceDate": "2025-12-16T23:15:15.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
+      "discordThreadId": "1459152547502624951",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1505,
+    "totalJobs": 1506,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T10:54:39.629Z",
+      "date": "2026-01-09T11:51:18.811Z",
       "archived": 0
     }
   }
