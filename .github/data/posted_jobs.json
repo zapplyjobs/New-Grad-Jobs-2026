@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T10:26:21.653Z",
+  "lastUpdated": "2026-01-09T10:54:39.629Z",
   "jobs": [
     {
       "id": "careers-enfra-icims-com-jobs-8425-job-2026-01-02-1",
@@ -16545,14 +16545,25 @@
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/91697964845540038",
       "discordThreadId": "1459131161069752494",
       "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewmy-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2925-2026-01-09-1",
+      "jobId": "fa-ewmy-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2925",
+      "company": "Verisk",
+      "title": "Software Engineer 2 in Test",
+      "postedToDiscord": "2026-01-09T10:54:39.628Z",
+      "sourceDate": "2025-12-19T23:10:44.000Z",
+      "sourceUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2925",
+      "discordThreadId": "1459138283060592776",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1504,
+    "totalJobs": 1505,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T10:26:21.653Z",
+      "date": "2026-01-09T10:54:39.629Z",
       "archived": 0
     }
   }
