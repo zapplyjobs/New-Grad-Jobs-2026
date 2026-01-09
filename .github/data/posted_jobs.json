@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T15:42:02.013Z",
+  "lastUpdated": "2026-01-09T15:56:20.171Z",
   "jobs": [
     {
       "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182-2026-01-02-1",
@@ -16446,16 +16446,26 @@
       "sourceUrl": "https://jobs.lever.co/spotify/bbd09ee0-742a-46b3-aa89-28233d0fec73",
       "discordThreadId": "1459210602860777544",
       "instanceNumber": 1
+    },
+    {
+      "id": "broadridge-wd5-myworkdayjobs-com-careers-job-edgewood-ny-associate-operations-analyst-hybrid-_jr1078475-2026-01-09-1",
+      "jobId": "broadridge-wd5-myworkdayjobs-com-careers-job-edgewood-ny-associate-operations-analyst-hybrid-_jr1078475",
+      "company": "Broadridge",
+      "title": "Associate Operations Analyst",
+      "postedToDiscord": "2026-01-09T15:56:20.170Z",
+      "sourceDate": "2025-12-16T23:46:53.000Z",
+      "sourceUrl": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Associate-Operations-Analyst--Hybrid-_JR1078475",
+      "discordThreadId": "1459214202634768417",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1495,
+    "totalJobs": 1496,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T15:42:02.013Z",
-      "archived": 3,
-      "monthsAffected": 1
+      "date": "2026-01-09T15:56:20.171Z",
+      "archived": 0
     }
   }
 }
