@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T17:53:16.713Z",
+  "lastUpdated": "2026-01-09T18:59:10.221Z",
   "jobs": [
-    {
-      "id": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1-2026-01-02-1",
-      "jobId": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1",
-      "company": "The University of Kansas Hospital",
-      "title": "Clinical Analyst 1",
-      "postedToDiscord": "2026-01-02T18:04:39.225Z",
-      "sourceDate": "2025-12-15T21:33:02.000Z",
-      "sourceUrl": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I--Remote-_R-48868-1",
-      "discordThreadId": "1456709779459407923",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i_r-45381-1-2026-01-02-1",
-      "jobId": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i_r-45381-1",
-      "company": "The University of Kansas Hospital",
-      "title": "Clinical Analyst 1",
-      "postedToDiscord": "2026-01-02T18:04:39.233Z",
-      "sourceDate": "2025-11-30T09:47:44.000Z",
-      "sourceUrl": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I_R-45381-1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-assistant-or-associate-research-professor-the-thomas-d-larson-transportation-institute_req_0000073124-2-2026-01-02-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-assistant-or-associate-research-professor-the-thomas-d-larson-transportation-institute_req_0000073124-2",
-      "company": "PennState University",
-      "title": "Assistant or Associate Research Professor",
-      "postedToDiscord": "2026-01-02T18:43:34.429Z",
-      "sourceDate": "2025-11-23T08:11:57.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-or-Associate-Research-Professor--The-Thomas-D-Larson-Transportation-Institute_REQ_0000073124-2",
-      "discordThreadId": "1456719572353945632",
-      "instanceNumber": 1
-    },
     {
       "id": "howard-wd1-myworkdayjobs-com-hu-job-classroom-building-4-school-of-business-assistant-professor_jr107320-1-2026-01-02-1",
       "jobId": "howard-wd1-myworkdayjobs-com-hu-job-classroom-building-4-school-of-business-assistant-professor_jr107320-1",
@@ -16457,15 +16424,26 @@
       "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8364374002",
       "discordThreadId": "1459243631843086336",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5753944004-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5753944004",
+      "company": "vercel",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-09T18:59:10.221Z",
+      "sourceDate": "2026-01-09T13:49:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753944004",
+      "discordThreadId": "1459260213700853881",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1496,
+    "totalJobs": 1494,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T17:53:16.713Z",
-      "archived": 1,
+      "date": "2026-01-09T18:59:10.221Z",
+      "archived": 3,
       "monthsAffected": 1
     }
   }
