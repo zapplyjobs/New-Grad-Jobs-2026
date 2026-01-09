@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T20:06:16.385Z",
+  "lastUpdated": "2026-01-09T20:26:00.380Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-6b4cf72d-3809-45f8-b38f-1b4686434a51-application-2026-01-02-1",
@@ -16446,16 +16446,26 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
       "discordThreadId": "1459277098387509393",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5054997008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054997008",
+      "company": "anthropic",
+      "title": "Startup Partnerships ",
+      "postedToDiscord": "2026-01-09T20:26:00.380Z",
+      "sourceDate": "2026-01-09T15:08:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054997008",
+      "discordThreadId": "1459282066251448334",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1495,
+    "totalJobs": 1496,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T20:06:16.385Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-09T20:26:00.380Z",
+      "archived": 0
     }
   }
 }
