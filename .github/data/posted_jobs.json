@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T16:45:06.435Z",
+  "lastUpdated": "2026-01-09T17:11:22.834Z",
   "jobs": [
-    {
-      "id": "careers-libertymutual-icims-com-jobs-72739-job-2026-01-02-1",
-      "jobId": "careers-libertymutual-icims-com-jobs-72739-job",
-      "company": "Liberty Mutual",
-      "title": "Analyst 2",
-      "postedToDiscord": "2026-01-02T17:03:47.049Z",
-      "sourceDate": "2026-01-02T16:27:33.000Z",
-      "sourceUrl": "https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456694461760278721",
-      "instanceNumber": 1
-    },
     {
       "id": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507-2026-01-02-1",
       "jobId": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507",
@@ -16413,14 +16402,47 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7482951?gh_jid=7482951",
       "discordThreadId": "1459226476347003105",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-162604-job-2026-01-09-1",
+      "jobId": "careers-peraton-icims-com-jobs-162604-job",
+      "company": "Peraton",
+      "title": "Meteorologist - NASA Ballon Program",
+      "postedToDiscord": "2026-01-09T17:11:16.345Z",
+      "sourceDate": "2026-01-09T16:48:56.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162604/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1459233060615753820",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-i-front-end-web-27595-90412641632-2026-01-09-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-i-front-end-web-27595-90412641632",
+      "company": "Intuit",
+      "title": "Software Engineer 1 - Front End Web",
+      "postedToDiscord": "2026-01-09T17:11:22.822Z",
+      "sourceDate": "2026-01-09T16:19:35.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-i-front-end-web/27595/90412641632",
+      "discordThreadId": "1459233088147165334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-tax-preparation-data-management-27595-90412641696-2026-01-09-1",
+      "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-tax-preparation-data-management-27595-90412641696",
+      "company": "Intuit",
+      "title": "Software Engineer 1 - Tax Preparation Data Management",
+      "postedToDiscord": "2026-01-09T17:11:22.834Z",
+      "sourceDate": "2026-01-09T16:19:34.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1-tax-preparation-data-management/27595/90412641696",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1492,
+    "totalJobs": 1494,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T16:45:06.435Z",
+      "date": "2026-01-09T17:11:22.834Z",
       "archived": 0
     }
   }
