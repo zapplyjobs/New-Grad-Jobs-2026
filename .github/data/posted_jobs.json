@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T23:05:57.544Z",
+  "lastUpdated": "2026-01-09T23:25:11.972Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-jerry-ai-6b4cf72d-3809-45f8-b38f-1b4686434a51-application-2026-01-02-1",
@@ -16501,14 +16501,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
       "discordThreadId": "1459322319741784154",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4939288008-2026-01-09-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939288008",
+      "company": "anthropic",
+      "title": "Real Estate Project Manager",
+      "postedToDiscord": "2026-01-09T23:25:11.971Z",
+      "sourceDate": "2026-01-09T18:19:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
+      "discordThreadId": "1459327162946555956",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1500,
+    "totalJobs": 1501,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T23:05:57.544Z",
+      "date": "2026-01-09T23:25:11.972Z",
       "archived": 0
     }
   }
