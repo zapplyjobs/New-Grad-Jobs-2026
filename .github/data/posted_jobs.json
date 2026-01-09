@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T05:54:24.538Z",
+  "lastUpdated": "2026-01-09T07:41:15.151Z",
   "jobs": [
-    {
-      "id": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400-2026-01-02-1",
-      "jobId": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400",
-      "company": "Westinghouse Electric Company",
-      "title": "Probabilistic Risk Assessment Engineer 1",
-      "postedToDiscord": "2026-01-02T06:04:43.909Z",
-      "sourceDate": "2025-12-10T23:29:43.000Z",
-      "sourceUrl": "https://careers.westinghousenuclear.com/job/Dallas-Probabilistic-Risk-Assessment-Engineer-1-TX-75201/1320348400/?ats=successfactors",
-      "discordThreadId": "1456528605449556072",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zetaglobal-com-jobs-jobs-at-zeta-global-2026-01-02-1",
-      "jobId": "zetaglobal-com-jobs-jobs-at-zeta-global",
-      "company": "Zeta Global",
-      "title": "Associate – Data Cloud Solutions",
-      "postedToDiscord": "2026-01-02T06:04:47.561Z",
-      "sourceDate": "2025-12-02T01:39:41.000Z",
-      "sourceUrl": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
-      "discordThreadId": "1456528620154519666",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936-2026-01-02-1",
-      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936",
-      "company": "University of Chicago",
-      "title": "Research Specialist",
-      "postedToDiscord": "2026-01-02T06:45:05.434Z",
-      "sourceDate": "2025-12-13T15:14:28.000Z",
-      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31936",
-      "discordThreadId": "1456538761545519137",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ebxs-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-308745-2026-01-02-1",
-      "jobId": "ebxs-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-308745",
-      "company": "Michael Baker International",
-      "title": "Transportation Planner 1",
-      "postedToDiscord": "2026-01-02T07:09:51.769Z",
-      "sourceDate": "2025-11-04T16:31:25.000Z",
-      "sourceUrl": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/308745",
-      "discordThreadId": "1456544996466622497",
-      "instanceNumber": 1
-    },
     {
       "id": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-market-intelligence-analyst_hr-19578-1-2026-01-02-1",
       "jobId": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-market-intelligence-analyst_hr-19578-1",
@@ -16512,16 +16468,37 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061729008",
       "discordThreadId": "1459062722472841453",
       "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-62511-2026-01-09-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-62511",
+      "company": "Southwest Airlines",
+      "title": "Associate Data Engineer - Direct College Hire",
+      "postedToDiscord": "2026-01-09T07:41:11.731Z",
+      "sourceDate": "2026-01-09T07:15:11.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-62511",
+      "discordThreadId": "1459089595936542833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354646300-2026-01-09-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354646300",
+      "company": "Huntington Ingalls Industries",
+      "title": "Engineer Software 1",
+      "postedToDiscord": "2026-01-09T07:41:15.151Z",
+      "sourceDate": "2026-01-09T07:07:36.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354646300/?ats=successfactors",
+      "discordThreadId": "1459089610557624367",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1501,
+    "totalJobs": 1499,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T05:54:24.538Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-09T07:41:15.151Z",
+      "archived": 0
     }
   }
 }
