@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T23:25:11.972Z",
+  "lastUpdated": "2026-01-09T23:37:58.111Z",
   "jobs": [
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-6b4cf72d-3809-45f8-b38f-1b4686434a51-application-2026-01-02-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-6b4cf72d-3809-45f8-b38f-1b4686434a51-application",
-      "company": "Jerry",
-      "title": "Software Engineer - Entry",
-      "postedToDiscord": "2026-01-02T23:35:16.300Z",
-      "sourceDate": "2026-01-02T23:21:51.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/6b4cf72d-3809-45f8-b38f-1b4686434a51/application",
-      "discordThreadId": "1456792982543012073",
-      "instanceNumber": 1
-    },
-    {
-      "id": "main-princeton-icims-com-jobs-21017-job-2026-01-02-1",
-      "jobId": "main-princeton-icims-com-jobs-21017-job",
-      "company": "Princeton University",
-      "title": "Senior Research Specialist 1",
-      "postedToDiscord": "2026-01-02T23:35:19.760Z",
-      "sourceDate": "2025-09-19T23:30:26.000Z",
-      "sourceUrl": "https://main-princeton.icims.com/jobs/21017/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456792997344837854",
-      "instanceNumber": 1
-    },
     {
       "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-software-engineer-iii_r-2347075-2026-01-03-1",
       "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-software-engineer-iii_r-2347075",
@@ -16512,15 +16490,27 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
       "discordThreadId": "1459327162946555956",
       "instanceNumber": 1
+    },
+    {
+      "id": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-full-stack-developer_r0068238-2026-01-09-1",
+      "jobId": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-full-stack-developer_r0068238",
+      "company": "Huntington Bancshares",
+      "title": "Full Stack Developer",
+      "postedToDiscord": "2026-01-09T23:37:58.110Z",
+      "sourceDate": "2026-01-09T23:10:07.000Z",
+      "sourceUrl": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Full-Stack-Developer_R0068238",
+      "discordThreadId": "1459330375808712857",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1501,
+    "totalJobs": 1500,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T23:25:11.972Z",
-      "archived": 0
+      "date": "2026-01-09T23:37:58.111Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
