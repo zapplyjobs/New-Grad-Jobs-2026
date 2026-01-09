@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T07:41:15.151Z",
+  "lastUpdated": "2026-01-09T08:06:46.821Z",
   "jobs": [
-    {
-      "id": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-market-intelligence-analyst_hr-19578-1-2026-01-02-1",
-      "jobId": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-market-intelligence-analyst_hr-19578-1",
-      "company": "Encore Capital Group",
-      "title": "Market Intelligence Analyst",
-      "postedToDiscord": "2026-01-02T08:04:40.192Z",
-      "sourceDate": "2025-12-03T02:51:04.000Z",
-      "sourceUrl": "https://encore.wd1.myworkdayjobs.com/externalnew/job/CA---San-Diego/Market-Intelligence-Analyst_HR-19578-1",
-      "discordThreadId": "1456558788822700115",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-accenturefederalservices-jobs-4599649006-2026-01-02-1",
       "jobId": "boards-greenhouse-io-accenturefederalservices-jobs-4599649006",
@@ -16490,14 +16479,69 @@
       "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354646300/?ats=successfactors",
       "discordThreadId": "1459089610557624367",
       "instanceNumber": 1
+    },
+    {
+      "id": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-san-antonio-home-office-i-data-engineer-entry-level_r0113909-1-2026-01-09-1",
+      "jobId": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-san-antonio-home-office-i-data-engineer-entry-level_r0113909-1",
+      "company": "USAA",
+      "title": "Data Engineer Entry Level",
+      "postedToDiscord": "2026-01-09T08:06:33.858Z",
+      "sourceDate": "2026-01-09T07:38:39.000Z",
+      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-Entry-Level_R0113909-1",
+      "discordThreadId": "1459095980749357170",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354648000-2026-01-09-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354648000",
+      "company": "Huntington Ingalls Industries",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-09T08:06:40.275Z",
+      "sourceDate": "2026-01-09T07:24:50.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354648000/?ats=successfactors",
+      "discordThreadId": "1459096007978647603",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354682700-2026-01-09-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354682700",
+      "company": "Huntington Ingalls Industries",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-09T08:06:40.287Z",
+      "sourceDate": "2026-01-09T07:08:16.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354682700/?ats=successfactors",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62537-2026-01-09-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62537",
+      "company": "Southwest Airlines",
+      "title": "Associate Software Engineer - Direct College Hire",
+      "postedToDiscord": "2026-01-09T08:06:46.809Z",
+      "sourceDate": "2026-01-09T07:15:05.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-62537",
+      "discordThreadId": "1459096034847363185",
+      "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62493-2026-01-09-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62493",
+      "company": "Southwest Airlines",
+      "title": "Associate Software Engineer - Direct College Hire",
+      "postedToDiscord": "2026-01-09T08:06:46.821Z",
+      "sourceDate": "2026-01-09T07:15:04.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-62493",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1499,
+    "totalJobs": 1503,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-09T07:41:15.151Z",
+      "date": "2026-01-09T08:06:46.821Z",
       "archived": 0
     }
   }
