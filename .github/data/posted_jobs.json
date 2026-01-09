@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T23:52:16.932Z",
+  "lastUpdated": "2026-01-09T00:11:24.148Z",
   "jobs": [
-    {
-      "id": "careers-geosyntec-icims-com-jobs-4028-job-2026-01-02-1",
-      "jobId": "careers-geosyntec-icims-com-jobs-4028-job",
-      "company": "Geosyntec Consultants",
-      "title": "Early-Career Geologist or Hydrogeologist",
-      "postedToDiscord": "2026-01-02T00:09:30.780Z",
-      "sourceDate": "2025-11-12T00:09:15.000Z",
-      "sourceUrl": "https://careers-geosyntec.icims.com/jobs/4028/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456439211996479620",
-      "instanceNumber": 1
-    },
     {
       "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836-2026-01-02-1",
       "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836",
@@ -16325,14 +16314,47 @@
       "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/ff67e1e9-a49e-4a17-958c-5b761ff5f754/application",
       "discordThreadId": "1458971588803170306",
       "instanceNumber": 1
+    },
+    {
+      "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241-2026-01-09-1",
+      "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241",
+      "company": "Caesars Entertainment",
+      "title": "Analyst 1 – Labor Analytics - Corporate - Las Vegas",
+      "postedToDiscord": "2026-01-09T00:11:17.313Z",
+      "sourceDate": "2026-01-08T23:21:12.000Z",
+      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/78241",
+      "discordThreadId": "1458976374185263226",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az807-rms-ap-bldg-807-1151-east-hermans-road-building-807-tucson-az-85756-usa-xmlname-2026-fulltime-data-management-analyst-i-onsite_01815653-2026-01-09-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az807-rms-ap-bldg-807-1151-east-hermans-road-building-807-tucson-az-85756-usa-xmlname-2026-fulltime-data-management-analyst-i-onsite_01815653",
+      "company": "RTX",
+      "title": "2026 Fulltime - Data Management Analyst I",
+      "postedToDiscord": "2026-01-09T00:11:20.766Z",
+      "sourceDate": "2026-01-08T23:16:34.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Data-Management-Analyst-I---Onsite_01815653",
+      "discordThreadId": "1458976388697690133",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-techs-physics-techs-nc-1306097300-2026-01-09-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-techs-physics-techs-nc-1306097300",
+      "company": "Westinghouse Electric Company",
+      "title": "Nuclear Analysis Technician - Engineering Techs - Physics Techs",
+      "postedToDiscord": "2026-01-09T00:11:24.148Z",
+      "sourceDate": "2026-01-08T23:14:45.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Techs-Physics-Techs-NC/1306097300/?ats=successfactors",
+      "discordThreadId": "1458976402241097790",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1484,
+    "totalJobs": 1486,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-08T23:52:16.932Z",
+      "date": "2026-01-09T00:11:24.148Z",
       "archived": 0
     }
   }
