@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-10T00:45:43.036Z",
+  "lastUpdated": "2026-01-10T01:14:49.622Z",
   "jobs": [
     {
       "id": "jobs-bytedance-com-en-position-7579851430954125621-detail-2026-01-03-1",
@@ -16512,14 +16512,113 @@
       "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate--Mathematics_R138207",
       "discordThreadId": "1459347425524318228",
       "instanceNumber": 1
+    },
+    {
+      "id": "about-nextdoor-com-careers-list-2026-01-10-1",
+      "jobId": "about-nextdoor-com-careers-list",
+      "company": "Nextdoor",
+      "title": "Machine Learning Engineer – New Grad 2026 - Machine Learning - Nextdoor",
+      "postedToDiscord": "2026-01-10T01:14:09.036Z",
+      "sourceDate": "2025-09-23T03:29:13.000Z",
+      "sourceUrl": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+      "discordThreadId": "1459354580600229981",
+      "instanceNumber": 1
+    },
+    {
+      "id": "allstate-wd5-myworkdayjobs-com-allstate_careers-job-us-remote-product-engineer-multiple-levels-available-_r25322-1-2026-01-10-1",
+      "jobId": "allstate-wd5-myworkdayjobs-com-allstate_careers-job-us-remote-product-engineer-multiple-levels-available-_r25322-1",
+      "company": "Allstate Insurance Company",
+      "title": "Product Engineer - Multiple Levels Available",
+      "postedToDiscord": "2026-01-10T01:14:12.542Z",
+      "sourceDate": "2026-01-09T23:49:50.000Z",
+      "sourceUrl": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Product-Engineer--Multiple-Levels-Available-_R25322-1",
+      "discordThreadId": "1459354596244848815",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-abbvie-3743990011008676-2026-01-10-1",
+      "jobId": "jobs-smartrecruiters-com-abbvie-3743990011008676",
+      "company": "AbbVie",
+      "title": "Data Scientist 2 for Published Clinical Evidence & Competitive Intelligence Insights",
+      "postedToDiscord": "2026-01-10T01:14:16.065Z",
+      "sourceDate": "2026-01-09T23:46:26.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990011008676",
+      "discordThreadId": "1459354610941690020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8365490002-2026-01-10-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8365490002",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer - Starshield",
+      "postedToDiscord": "2026-01-10T01:14:19.464Z",
+      "sourceDate": "2026-01-09T23:37:38.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8365490002",
+      "discordThreadId": "1459354625244266815",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062968008-2026-01-10-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062968008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Claude Experiences",
+      "postedToDiscord": "2026-01-10T01:14:25.968Z",
+      "sourceDate": "2026-01-09T20:09:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008",
+      "discordThreadId": "1459354651953729560",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062960008-2026-01-10-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062960008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Launches",
+      "postedToDiscord": "2026-01-10T01:14:29.793Z",
+      "sourceDate": "2026-01-09T20:08:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062960008",
+      "discordThreadId": "1459354666948100177",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-mn-st-paul-software-engineer-ii-mobile-node-react-aws-_r-48003-1-2026-01-10-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-mn-st-paul-software-engineer-ii-mobile-node-react-aws-_r-48003-1",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 2 - Multiple Teams",
+      "postedToDiscord": "2026-01-10T01:14:36.207Z",
+      "sourceDate": "2026-01-09T23:39:23.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-II--Mobile--Node--React--AWS-_R-48003-1",
+      "discordThreadId": "1459354695553384644",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11617-job-2026-01-10-1",
+      "jobId": "careers-nv5-icims-com-jobs-11617-job",
+      "company": "NV5 Global",
+      "title": "Technician",
+      "postedToDiscord": "2026-01-10T01:14:42.815Z",
+      "sourceDate": "2026-01-09T23:23:19.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11617/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1459354722220642431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-claylabs-7db82522-dd30-4777-bfe2-f7a3aff6b00d-application-2026-01-10-1",
+      "jobId": "jobs-ashbyhq-com-claylabs-7db82522-dd30-4777-bfe2-f7a3aff6b00d-application",
+      "company": "Clay",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-10T01:14:49.622Z",
+      "sourceDate": "2026-01-09T23:22:45.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/claylabs/7db82522-dd30-4777-bfe2-f7a3aff6b00d/application",
+      "discordThreadId": "1459354750456696903",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1501,
+    "totalJobs": 1510,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-10T00:45:43.036Z",
+      "date": "2026-01-10T01:14:49.622Z",
       "archived": 0
     }
   }
