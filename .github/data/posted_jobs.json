@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-10T01:14:49.622Z",
+  "lastUpdated": "2026-01-10T01:55:51.644Z",
   "jobs": [
     {
       "id": "jobs-bytedance-com-en-position-7579851430954125621-detail-2026-01-03-1",
@@ -16611,14 +16611,36 @@
       "sourceUrl": "https://jobs.ashbyhq.com/claylabs/7db82522-dd30-4777-bfe2-f7a3aff6b00d/application",
       "discordThreadId": "1459354750456696903",
       "instanceNumber": 1
+    },
+    {
+      "id": "hollandhospital-wd1-myworkdayjobs-com-external-job-holland-mi-data-analyst-physician-hospital-organization-full-time-hybrid_jr104028-2026-01-10-1",
+      "jobId": "hollandhospital-wd1-myworkdayjobs-com-external-job-holland-mi-data-analyst-physician-hospital-organization-full-time-hybrid_jr104028",
+      "company": "Holland Hospital",
+      "title": "Data Analyst - Physician Hospital Organization - Full time(Hybrid)",
+      "postedToDiscord": "2026-01-10T01:55:45.251Z",
+      "sourceDate": "2026-01-09T23:21:10.000Z",
+      "sourceUrl": "https://hollandhospital.wd1.myworkdayjobs.com/external/job/Holland-MI/Data-Analyst--Physician-Hospital-Organization---full-time--hybrid_JR104028",
+      "discordThreadId": "1459365050505625753",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891-2026-01-10-1",
+      "jobId": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891",
+      "company": "University of Nevada Las Vegas (UNLV)",
+      "title": "Postdoctoral Scholar - Interdisciplinary Data Science",
+      "postedToDiscord": "2026-01-10T01:55:51.643Z",
+      "sourceDate": "2026-01-09T23:18:44.000Z",
+      "sourceUrl": "https://nshe.wd1.myworkdayjobs.com/unlv-external/job/UNLV1-Main-Campus-Las-Vegas/Postdoctoral-Scholar--Interdisciplinary-Data-Science--College-of-Engineering--R0144891-_R0144891",
+      "discordThreadId": "1459365078406271007",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1510,
+    "totalJobs": 1512,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-10T01:14:49.622Z",
+      "date": "2026-01-10T01:55:51.644Z",
       "archived": 0
     }
   }
