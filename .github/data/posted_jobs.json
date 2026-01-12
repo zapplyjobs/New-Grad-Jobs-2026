@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T15:55:50.120Z",
+  "lastUpdated": "2026-01-12T16:08:53.966Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7459715-2026-01-05-1",
-      "jobId": "careers-datadoghq-com-detail-7459715",
-      "company": "datadog",
-      "title": "Product Marketing Manager - CloudPrem",
-      "postedToDiscord": "2026-01-05T16:08:27.485Z",
-      "sourceDate": "2026-01-05T11:05:18-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715",
-      "discordThreadId": "1457767702168080481",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7252012-2026-01-05-1",
       "jobId": "careers-datadoghq-com-detail-7252012",
@@ -4390,6 +4379,17 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7510898",
       "discordThreadId": "1460301240528277558",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7512337-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7512337",
+      "company": "datadog",
+      "title": "Manager, Commercial Sales Engineering (AMER - East)",
+      "postedToDiscord": "2026-01-12T16:08:53.966Z",
+      "sourceDate": "2026-01-12T10:54:30-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7512337/?gh_jid=7512337",
+      "discordThreadId": "1460304527868563547",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -4397,8 +4397,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T15:55:50.120Z",
-      "archived": 0
+      "date": "2026-01-12T16:08:53.966Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
