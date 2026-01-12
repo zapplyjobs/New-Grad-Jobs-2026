@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T23:06:41.616Z",
+  "lastUpdated": "2026-01-12T23:25:42.868Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5055264008-2026-01-05-1",
@@ -6667,14 +6667,124 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8331474002?gh_jid=8331474002",
       "discordThreadId": "1460409669414813900",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8041873002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8041873002",
+      "company": "duolingo",
+      "title": "Senior Security Engineer",
+      "postedToDiscord": "2026-01-12T23:25:05.531Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8041873002?gh_jid=8041873002",
+      "discordThreadId": "1460414299460735027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8100021002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8100021002",
+      "company": "duolingo",
+      "title": "Senior Site Reliability Engineer",
+      "postedToDiscord": "2026-01-12T23:25:08.998Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8100021002?gh_jid=8100021002",
+      "discordThreadId": "1460414313855713518",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8301519002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8301519002",
+      "company": "duolingo",
+      "title": "Social Content Creator, Intern",
+      "postedToDiscord": "2026-01-12T23:25:12.530Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301519002?gh_jid=8301519002",
+      "discordThreadId": "1460414328573526120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8102231002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8102231002",
+      "company": "duolingo",
+      "title": "Staff Android Engineer, Client Architecture",
+      "postedToDiscord": "2026-01-12T23:25:18.034Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8102231002?gh_jid=8102231002",
+      "discordThreadId": "1460414343987335238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8322733002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8322733002",
+      "company": "duolingo",
+      "title": "Staff iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-12T23:25:21.491Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002",
+      "discordThreadId": "1460414366091448582",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8200010002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8200010002",
+      "company": "duolingo",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-12T23:25:25.336Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002",
+      "discordThreadId": "1460414381266440217",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-7966411002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-7966411002",
+      "company": "discord",
+      "title": "Rust/C++ Senior Software Engineer",
+      "postedToDiscord": "2026-01-12T23:25:29.095Z",
+      "sourceDate": "2026-01-06T23:45:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7966411002",
+      "discordThreadId": "1460414397477552220",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4961072008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4961072008",
+      "company": "anthropic",
+      "title": "Recruiter, Applied AI",
+      "postedToDiscord": "2026-01-12T23:25:32.612Z",
+      "sourceDate": "2026-01-06T19:18:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4961072008",
+      "discordThreadId": "1460414412501553245",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4986288008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4986288008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Insurance",
+      "postedToDiscord": "2026-01-12T23:25:39.217Z",
+      "sourceDate": "2026-01-07T08:47:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008",
+      "discordThreadId": "1460414440355659831",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043373008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043373008",
+      "company": "anthropic",
+      "title": "Technical Product Marketing Lead",
+      "postedToDiscord": "2026-01-12T23:25:42.868Z",
+      "sourceDate": "2026-01-06T22:55:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043373008",
+      "discordThreadId": "1460414455488974919",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 606,
+    "totalJobs": 616,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T23:06:41.616Z",
+      "date": "2026-01-12T23:25:42.868Z",
       "archived": 0
     }
   }
