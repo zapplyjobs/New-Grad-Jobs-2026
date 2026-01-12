@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T19:51:21.530Z",
+  "lastUpdated": "2026-01-12T20:11:11.919Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5041343008-2026-01-05-1",
@@ -4940,14 +4940,190 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622",
       "discordThreadId": "1460360511366631549",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7410254-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7410254",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-12T20:10:38.382Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254",
+      "discordThreadId": "1460365363194630258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7405822-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7405822",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-12T20:10:38.391Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7426707-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7426707",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-12T20:10:38.397Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7421331-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7421331",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-12T20:10:38.403Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7465857-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7465857",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-12T20:10:38.407Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7426680-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7426680",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive (FED)",
+      "postedToDiscord": "2026-01-12T20:10:40.364Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
+      "discordThreadId": "1460365378814476419",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7421284-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7421284",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive (FED)",
+      "postedToDiscord": "2026-01-12T20:10:40.368Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7453039-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7453039",
+      "company": "datadog",
+      "title": " Enterprise Sales Executive (SLED)",
+      "postedToDiscord": "2026-01-12T20:10:43.793Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
+      "discordThreadId": "1460365386783654092",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7391751-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7391751",
+      "company": "datadog",
+      "title": "Field CISO",
+      "postedToDiscord": "2026-01-12T20:10:47.324Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7391751/?gh_jid=7391751",
+      "discordThreadId": "1460365400851222674",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7159384-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7159384",
+      "company": "datadog",
+      "title": "Field CTO - Media & Entertainment",
+      "postedToDiscord": "2026-01-12T20:10:50.903Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7159384/?gh_jid=7159384",
+      "discordThreadId": "1460365416370147401",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7129428-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7129428",
+      "company": "datadog",
+      "title": "Enterprise Security Sales Specialist",
+      "postedToDiscord": "2026-01-12T20:10:57.416Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428",
+      "discordThreadId": "1460365443595239458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7132132-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7132132",
+      "company": "datadog",
+      "title": "Enterprise Security Sales Specialist",
+      "postedToDiscord": "2026-01-12T20:10:57.421Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7301380-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7301380",
+      "company": "datadog",
+      "title": "Federal Support Engineer 2 - Denver",
+      "postedToDiscord": "2026-01-12T20:10:59.161Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380",
+      "discordThreadId": "1460365458443075585",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7410744-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7410744",
+      "company": "datadog",
+      "title": "Executive Assistant II - San Francisco",
+      "postedToDiscord": "2026-01-12T20:11:06.620Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7410744/?gh_jid=7410744",
+      "discordThreadId": "1460365478576001128",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7467827-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7467827",
+      "company": "datadog",
+      "title": "Executive Assistant I - NYC",
+      "postedToDiscord": "2026-01-12T20:11:10.234Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
+      "discordThreadId": "1460365496812703989",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476902-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7476902",
+      "company": "datadog",
+      "title": "Field Marketing Manager (LATAM South)",
+      "postedToDiscord": "2026-01-12T20:11:11.919Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
+      "discordThreadId": "1460365511958204426",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 449,
+    "totalJobs": 465,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T19:51:21.530Z",
+      "date": "2026-01-12T20:11:11.919Z",
       "archived": 0
     }
   }
