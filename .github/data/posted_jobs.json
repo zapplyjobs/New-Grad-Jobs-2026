@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T02:04:03.291Z",
+  "lastUpdated": "2026-01-12T02:58:03.371Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a-2026-01-05-1",
@@ -4247,14 +4247,36 @@
       "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-CONFIGURATION-ANALYST-1-Virg/1354568500/?ats=successfactors",
       "discordThreadId": "1460091915545608266",
       "instanceNumber": 1
+    },
+    {
+      "id": "ibnjjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-309521-2026-01-12-1",
+      "jobId": "ibnjjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-309521",
+      "company": "Lifepoint Health",
+      "title": "Partial Hospitalization Program - PHP - Therapist",
+      "postedToDiscord": "2026-01-12T02:57:56.974Z",
+      "sourceDate": "2025-10-31T10:42:43.000Z",
+      "sourceUrl": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/309521",
+      "discordThreadId": "1460105478922178560",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-san-jose-california-united-states-of-america-systems-software-engineer-i_1199912-1-2026-01-12-1",
+      "jobId": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-san-jose-california-united-states-of-america-systems-software-engineer-i_1199912-1",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Systems/Software Engineer 1",
+      "postedToDiscord": "2026-01-12T02:58:03.371Z",
+      "sourceDate": "2026-01-12T02:14:39.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Systems-Software-Engineer-I_1199912-1",
+      "discordThreadId": "1460105505979629588",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 386,
+    "totalJobs": 388,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T02:04:03.291Z",
+      "date": "2026-01-12T02:58:03.371Z",
       "archived": 0
     }
   }
