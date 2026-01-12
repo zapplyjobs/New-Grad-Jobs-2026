@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T19:01:05.760Z",
+  "lastUpdated": "2026-01-12T19:11:32.260Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5007627007-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5007627007",
-      "company": "verkada",
-      "title": "Enterprise Sales Account Executive,  State",
-      "postedToDiscord": "2026-01-05T19:08:11.412Z",
-      "sourceDate": "2026-01-05T14:06:42-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5007627007",
-      "discordThreadId": "1457812931533344880",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5007620007-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5007620007",
-      "company": "verkada",
-      "title": "Enterprise Sales Account Executive,  State",
-      "postedToDiscord": "2026-01-05T19:08:11.429Z",
-      "sourceDate": "2026-01-05T14:05:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5007620007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8326060002-2026-01-05-1",
       "jobId": "job-boards-greenhouse-io-discord-jobs-8326060002",
@@ -4500,14 +4478,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
       "discordThreadId": "1460347861828112448",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4952051008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4952051008",
+      "company": "anthropic",
+      "title": "Machine Learning Systems Engineer, RL Engineering",
+      "postedToDiscord": "2026-01-12T19:10:51.614Z",
+      "sourceDate": "2026-01-09T20:15:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+      "discordThreadId": "1460350316347134197",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4924308008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4924308008",
+      "company": "anthropic",
+      "title": "Research Engineer / Research Scientist, Biology & Life Sciences",
+      "postedToDiscord": "2026-01-12T19:10:55.170Z",
+      "sourceDate": "2026-01-09T20:13:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4924308008",
+      "discordThreadId": "1460350334248681598",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946308008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946308008",
+      "company": "anthropic",
+      "title": "Staff Machine Learning Engineer, Virtual Collaborator",
+      "postedToDiscord": "2026-01-12T19:10:58.930Z",
+      "sourceDate": "2026-01-09T20:12:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946308008",
+      "discordThreadId": "1460350349297586379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980436008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980436008",
+      "company": "anthropic",
+      "title": " [Expression of Interest] Research Manager, Interpretability",
+      "postedToDiscord": "2026-01-12T19:11:02.469Z",
+      "sourceDate": "2026-01-09T20:10:02-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
+      "discordThreadId": "1460350364929753157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4520279008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4520279008",
+      "company": "anthropic",
+      "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
+      "postedToDiscord": "2026-01-12T19:11:09.026Z",
+      "sourceDate": "2026-01-09T20:14:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4520279008",
+      "discordThreadId": "1460350392759222514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845291002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845291002",
+      "company": "airtable",
+      "title": "Software Engineer, Product Backend (2-8 YOE)",
+      "postedToDiscord": "2026-01-12T19:11:16.039Z",
+      "sourceDate": "2026-01-09T19:39:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845291002",
+      "discordThreadId": "1460350419942510736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845287002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845287002",
+      "company": "airtable",
+      "title": "Software Engineer, Product Backend (8+ YOE)",
+      "postedToDiscord": "2026-01-12T19:11:19.950Z",
+      "sourceDate": "2026-01-09T19:35:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845287002",
+      "discordThreadId": "1460350437642473659",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8330419002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8330419002",
+      "company": "discord",
+      "title": "Developer Operations Analyst",
+      "postedToDiscord": "2026-01-12T19:11:23.641Z",
+      "sourceDate": "2026-01-09T17:13:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8330419002",
+      "discordThreadId": "1460350453379502246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5008900007-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5008900007",
+      "company": "verkada",
+      "title": "Channel Development Representative, West (Salt Lake City)",
+      "postedToDiscord": "2026-01-12T19:11:28.720Z",
+      "sourceDate": "2026-01-09T17:31:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5008900007",
+      "discordThreadId": "1460350482437640343",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7426752-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7426752",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-12T19:11:32.260Z",
+      "sourceDate": "2026-01-09T17:06:09-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752",
+      "discordThreadId": "1460350489777668363",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 409,
+    "totalJobs": 417,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T19:01:05.760Z",
+      "date": "2026-01-12T19:11:32.260Z",
       "archived": 0
     }
   }
