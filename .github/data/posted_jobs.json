@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T22:40:34.979Z",
+  "lastUpdated": "2026-01-12T22:52:42.971Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7504966-2026-01-05-1",
-      "jobId": "careers-datadoghq-com-detail-7504966",
-      "company": "datadog",
-      "title": "Head of Sales Programs",
-      "postedToDiscord": "2026-01-05T22:40:39.952Z",
-      "sourceDate": "2026-01-05T17:29:29-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7504966/?gh_jid=7504966",
-      "discordThreadId": "1457866404656320807",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5055264008-2026-01-05-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055264008",
@@ -6447,14 +6436,124 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8303848002?gh_jid=8303848002",
       "discordThreadId": "1460403105668534354",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4819732008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4819732008",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
+      "postedToDiscord": "2026-01-12T22:51:54.662Z",
+      "sourceDate": "2026-01-07T15:21:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
+      "discordThreadId": "1460405949264298026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5730956004-2026-01-12-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5730956004",
+      "company": "figma",
+      "title": "Technical Recruiter, Data Science",
+      "postedToDiscord": "2026-01-12T22:52:01.184Z",
+      "sourceDate": "2026-01-07T13:23:07-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5730956004?gh_jid=5730956004",
+      "discordThreadId": "1460405976438935552",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8338009002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8338009002",
+      "company": "discord",
+      "title": "Group Product Marketing Manager, Developer Commerce Solutions",
+      "postedToDiscord": "2026-01-12T22:52:07.638Z",
+      "sourceDate": "2026-01-07T12:08:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8338009002",
+      "discordThreadId": "1460406003848843440",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8290478002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8290478002",
+      "company": "duolingo",
+      "title": "Director of Learning Design, Immersive Language Learning",
+      "postedToDiscord": "2026-01-12T22:52:11.118Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8290478002?gh_jid=8290478002",
+      "discordThreadId": "1460406017840910429",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8205129002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8205129002",
+      "company": "duolingo",
+      "title": "Director of Learning Design, New Subjects",
+      "postedToDiscord": "2026-01-12T22:52:15.017Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8205129002?gh_jid=8205129002",
+      "discordThreadId": "1460406033171218608",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8326489002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8326489002",
+      "company": "duolingo",
+      "title": "Director of Product Management, Learning",
+      "postedToDiscord": "2026-01-12T22:52:18.423Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8326489002?gh_jid=8326489002",
+      "discordThreadId": "1460406049080086569",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8104665002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8104665002",
+      "company": "duolingo",
+      "title": "Engineering Director, Long-Form Learning",
+      "postedToDiscord": "2026-01-12T22:52:22.295Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8104665002?gh_jid=8104665002",
+      "discordThreadId": "1460406063789768775",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8235305002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8235305002",
+      "company": "duolingo",
+      "title": "Engineering Manager, Design Accelerator",
+      "postedToDiscord": "2026-01-12T22:52:25.829Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8235305002?gh_jid=8235305002",
+      "discordThreadId": "1460406079522340998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8207887002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8207887002",
+      "company": "duolingo",
+      "title": "Ad Sales Lead",
+      "postedToDiscord": "2026-01-12T22:52:34.733Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8207887002?gh_jid=8207887002",
+      "discordThreadId": "1460406115421392906",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-7996986002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-7996986002",
+      "company": "duolingo",
+      "title": "Director of Performance Marketing",
+      "postedToDiscord": "2026-01-12T22:52:42.971Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/7996986002?gh_jid=7996986002",
+      "discordThreadId": "1460406151106658505",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 586,
+    "totalJobs": 595,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T22:40:34.979Z",
+      "date": "2026-01-12T22:52:42.971Z",
       "archived": 0
     }
   }
