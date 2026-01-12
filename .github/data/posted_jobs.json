@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T21:52:44.834Z",
+  "lastUpdated": "2026-01-12T22:07:30.646Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8352070002-2026-01-05-1",
@@ -6106,14 +6106,146 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359",
       "discordThreadId": "1460391059761926187",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7077431-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7077431",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-12T22:06:48.004Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7077431/?gh_jid=7077431",
+      "discordThreadId": "1460394596491333898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6430945-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6430945",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-12T22:06:48.013Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7314667-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7314667",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-12T22:06:48.019Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7411889-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7411889",
+      "company": "datadog",
+      "title": "Technical Account Manager 2 - New York",
+      "postedToDiscord": "2026-01-12T22:06:51.490Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7411889/?gh_jid=7411889",
+      "discordThreadId": "1460394611246895185",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7374245-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7374245",
+      "company": "datadog",
+      "title": "Vice President, GTM Enablement & Business Value - NYC",
+      "postedToDiscord": "2026-01-12T22:06:54.879Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7374245/?gh_jid=7374245",
+      "discordThreadId": "1460394625599537270",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4930182008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4930182008",
+      "company": "anthropic",
+      "title": "Global Real Estate Design & Construction Manager",
+      "postedToDiscord": "2026-01-12T22:06:58.462Z",
+      "sourceDate": "2026-01-09T11:53:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
+      "discordThreadId": "1460394639952445450",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5692764004-2026-01-12-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5692764004",
+      "company": "figma",
+      "title": "Designer Advocate - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-12T22:07:01.856Z",
+      "sourceDate": "2026-01-09T05:46:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
+      "discordThreadId": "1460394654930309181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7251099-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7251099",
+      "company": "datadog",
+      "title": "Technical Content Writer",
+      "postedToDiscord": "2026-01-12T22:07:08.246Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251099/?gh_jid=7251099",
+      "discordThreadId": "1460394681849352368",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496260-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7496260",
+      "company": "datadog",
+      "title": "Technical Support Engineer 2, Premier - Denver",
+      "postedToDiscord": "2026-01-12T22:07:13.058Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260",
+      "discordThreadId": "1460394708323794996",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4966206008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4966206008",
+      "company": "anthropic",
+      "title": "Partner Marketing Manager, Cloud Partners",
+      "postedToDiscord": "2026-01-12T22:07:16.558Z",
+      "sourceDate": "2026-01-09T00:44:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
+      "discordThreadId": "1460394716116947000",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7269743-2026-01-12-1",
+      "jobId": "www-coinbase-com-careers-positions-7269743",
+      "company": "coinbase",
+      "title": "Associate Product Manager Intern",
+      "postedToDiscord": "2026-01-12T22:07:23.791Z",
+      "sourceDate": "2026-01-09T12:26:13-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7269743?gh_jid=7269743",
+      "discordThreadId": "1460394743279259672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ubs-com-tgnewui-search-home-homewithpreload-2026-01-12-1",
+      "jobId": "jobs-ubs-com-tgnewui-search-home-homewithpreload",
+      "company": "UBS",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-12T22:07:30.646Z",
+      "sourceDate": "2026-01-08T23:10:46.000Z",
+      "sourceUrl": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=337849",
+      "discordThreadId": "1460394773985628231",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 555,
+    "totalJobs": 567,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T21:52:44.834Z",
+      "date": "2026-01-12T22:07:30.646Z",
       "archived": 0
     }
   }
