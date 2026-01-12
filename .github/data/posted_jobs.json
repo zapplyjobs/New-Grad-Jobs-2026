@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T22:26:31.396Z",
+  "lastUpdated": "2026-01-12T22:40:34.979Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7504966-2026-01-05-1",
@@ -6337,14 +6337,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
       "discordThreadId": "1460399559053279335",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7325242-2026-01-12-1",
+      "jobId": "www-coinbase-com-careers-positions-7325242",
+      "company": "coinbase",
+      "title": "Supervisor, Customer Success Team (Onsite - Relocation Assistance Available)",
+      "postedToDiscord": "2026-01-12T22:40:00.528Z",
+      "sourceDate": "2026-01-08T11:43:51-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7325242?gh_jid=7325242",
+      "discordThreadId": "1460402961216704733",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-mechanize-b50c89dc-001c-4fb6-a4fc-a9f52f35b490-application-2026-01-12-1",
+      "jobId": "jobs-ashbyhq-com-mechanize-b50c89dc-001c-4fb6-a4fc-a9f52f35b490-application",
+      "company": "Mechanize",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-12T22:40:03.976Z",
+      "sourceDate": "2026-01-08T02:58:31.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application",
+      "discordThreadId": "1460402968338894858",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7268895-2026-01-12-1",
+      "jobId": "www-coinbase-com-careers-positions-7268895",
+      "company": "coinbase",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-12T22:40:08.022Z",
+      "sourceDate": "2026-01-07T16:47:33-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
+      "discordThreadId": "1460402982414712925",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4964610008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4964610008",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+      "postedToDiscord": "2026-01-12T22:40:11.425Z",
+      "sourceDate": "2026-01-07T15:22:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
+      "discordThreadId": "1460402999720411209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5426468004-2026-01-12-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5426468004",
+      "company": "figma",
+      "title": "Account Executive, Enterprise",
+      "postedToDiscord": "2026-01-12T22:40:17.994Z",
+      "sourceDate": "2026-01-08T11:41:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004",
+      "discordThreadId": "1460403027033853972",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4756214008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4756214008",
+      "company": "anthropic",
+      "title": "Head of Infrastructure Accounting ",
+      "postedToDiscord": "2026-01-12T22:40:21.569Z",
+      "sourceDate": "2026-01-07T19:55:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
+      "discordThreadId": "1460403041801998598",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4866589007-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4866589007",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Phoenix - Corporate)",
+      "postedToDiscord": "2026-01-12T22:40:24.717Z",
+      "sourceDate": "2026-01-07T19:22:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4866589007",
+      "discordThreadId": "1460403056834514955",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-ixl-com-company-jobs-2026-01-12-1",
+      "jobId": "www-ixl-com-company-jobs",
+      "company": "IXL Learning",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-12T22:40:31.439Z",
+      "sourceDate": "2026-01-08T02:23:49.000Z",
+      "sourceUrl": "https://www.ixl.com/company/jobs?gh_jid=8364765002",
+      "discordThreadId": "1460403082386079840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8318061002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8318061002",
+      "company": "duolingo",
+      "title": "Motion Design Animator, Thrive Intern",
+      "postedToDiscord": "2026-01-12T22:40:33.275Z",
+      "sourceDate": "2026-01-07T16:06:47-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318061002?gh_jid=8318061002",
+      "discordThreadId": "1460403098320244746",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8303848002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8303848002",
+      "company": "duolingo",
+      "title": "Illustrator, Thrive Intern",
+      "postedToDiscord": "2026-01-12T22:40:34.979Z",
+      "sourceDate": "2026-01-07T16:06:14-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8303848002?gh_jid=8303848002",
+      "discordThreadId": "1460403105668534354",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 576,
+    "totalJobs": 586,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T22:26:31.396Z",
+      "date": "2026-01-12T22:40:34.979Z",
       "archived": 0
     }
   }
