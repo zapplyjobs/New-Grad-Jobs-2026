@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T04:12:46.157Z",
+  "lastUpdated": "2026-01-12T05:45:25.169Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4983584008-2026-01-05-1",
@@ -4324,14 +4324,25 @@
       "sourceUrl": "https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Financial-Crimes-Data-Analyst-1_R016047",
       "discordThreadId": "1460124307098177546",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234-2026-01-12-1",
+      "jobId": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234",
+      "company": "spotify",
+      "title": "Manager, Partner Product and Delivery",
+      "postedToDiscord": "2026-01-12T05:45:25.169Z",
+      "sourceDate": "2026-01-09T18:10:16.546Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/67657e91-5424-429e-a6f2-0697ddc50234",
+      "discordThreadId": "1460147622768546128",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 393,
+    "totalJobs": 394,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T04:12:46.157Z",
+      "date": "2026-01-12T05:45:25.169Z",
       "archived": 0
     }
   }
