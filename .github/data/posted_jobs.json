@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T15:27:15.632Z",
+  "lastUpdated": "2026-01-12T15:43:48.436Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7459715-2026-01-05-1",
@@ -4368,14 +4368,25 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7484127/?gh_jid=7484127",
       "discordThreadId": "1460294048987222197",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7530570-2026-01-12-1",
+      "jobId": "www-coinbase-com-careers-positions-7530570",
+      "company": "coinbase",
+      "title": "Associate Manager, Compliance",
+      "postedToDiscord": "2026-01-12T15:43:48.436Z",
+      "sourceDate": "2026-01-12T10:36:23-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7530570?gh_jid=7530570",
+      "discordThreadId": "1460298220218482754",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 397,
+    "totalJobs": 398,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T15:27:15.632Z",
+      "date": "2026-01-12T15:43:48.436Z",
       "archived": 0
     }
   }
