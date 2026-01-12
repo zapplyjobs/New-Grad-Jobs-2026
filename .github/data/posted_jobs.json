@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T14:58:10.606Z",
+  "lastUpdated": "2026-01-12T15:08:51.354Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7459715-2026-01-05-1",
@@ -4346,14 +4346,25 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
       "discordThreadId": "1460286730132262962",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7519856-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7519856",
+      "company": "datadog",
+      "title": "Product Solutions Architect 3 - Synthetics",
+      "postedToDiscord": "2026-01-12T15:08:51.354Z",
+      "sourceDate": "2026-01-12T10:03:14-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7519856/?gh_jid=7519856",
+      "discordThreadId": "1460289416785428732",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 395,
+    "totalJobs": 396,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T14:58:10.606Z",
+      "date": "2026-01-12T15:08:51.354Z",
       "archived": 0
     }
   }
