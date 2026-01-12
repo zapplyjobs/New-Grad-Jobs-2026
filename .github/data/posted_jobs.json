@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T07:54:19.844Z",
+  "lastUpdated": "2026-01-12T11:39:09.617Z",
   "jobs": [
-    {
-      "id": "rollsroyce-wd3-myworkdayjobs-com-intern_graduate-job-indianapolis-xmlname-launch-into-control-system-configuration-management_jr6148423-2026-01-05-1",
-      "jobId": "rollsroyce-wd3-myworkdayjobs-com-intern_graduate-job-indianapolis-xmlname-launch-into-control-system-configuration-management_jr6148423",
-      "company": "Rolls-Royce",
-      "title": "Launch into Control System Configuration Management",
-      "postedToDiscord": "2026-01-05T08:06:20.626Z",
-      "sourceDate": "2026-01-05T07:22:18.000Z",
-      "sourceUrl": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/XMLNAME--Launch--into-Control-System-Configuration-Management_JR6148423",
-      "discordThreadId": "1457646373322100813",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-visa-744000101541210-2026-01-05-1",
-      "jobId": "jobs-smartrecruiters-com-visa-744000101541210",
-      "company": "Visa",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-05T08:06:27.091Z",
-      "sourceDate": "2026-01-05T07:14:49.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000101541210",
-      "discordThreadId": "1457646400996114626",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5041304008-2026-01-05-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041304008",
@@ -4313,15 +4291,26 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7406118548894026035/detail",
       "discordThreadId": "1460180065412452423",
       "instanceNumber": 1
+    },
+    {
+      "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735-2026-01-12-1",
+      "jobId": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735",
+      "company": "HEXAWARE",
+      "title": "Application Support - Java skills - Associate",
+      "postedToDiscord": "2026-01-12T11:39:09.617Z",
+      "sourceDate": "2026-01-12T10:32:46.000Z",
+      "sourceUrl": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735",
+      "discordThreadId": "1460236646338531465",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 392,
+    "totalJobs": 391,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T07:54:19.844Z",
-      "archived": 3,
+      "date": "2026-01-12T11:39:09.617Z",
+      "archived": 2,
       "monthsAffected": 1
     }
   }
