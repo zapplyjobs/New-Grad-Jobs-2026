@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T12:49:38.554Z",
+  "lastUpdated": "2026-01-12T14:10:34.123Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041304008-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041304008",
-      "company": "anthropic",
-      "title": "Head of Asset & Wealth Management, GTM Sales",
-      "postedToDiscord": "2026-01-05T13:51:27.941Z",
-      "sourceDate": "2026-01-05T08:43:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041304008",
-      "discordThreadId": "1457733225794506814",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041299008-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041299008",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Retail & Commercial Banking",
-      "postedToDiscord": "2026-01-05T13:51:31.559Z",
-      "sourceDate": "2026-01-05T08:34:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041299008",
-      "discordThreadId": "1457733240973562124",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7459715-2026-01-05-1",
       "jobId": "careers-datadoghq-com-detail-7459715",
@@ -4335,15 +4313,27 @@
       "sourceUrl": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Extend-Developer-I_R18423",
       "discordThreadId": "1460254383374733565",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-a576428e-002b-4b2e-a39d-69c9e61dd927-2026-01-12-1",
+      "jobId": "jobs-lever-co-spotify-a576428e-002b-4b2e-a39d-69c9e61dd927",
+      "company": "spotify",
+      "title": "Research Scientist - Personalization",
+      "postedToDiscord": "2026-01-12T14:10:34.122Z",
+      "sourceDate": "2026-01-09T22:41:51.138Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/a576428e-002b-4b2e-a39d-69c9e61dd927",
+      "discordThreadId": "1460274748289454123",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 394,
+    "totalJobs": 393,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T12:49:38.554Z",
-      "archived": 0
+      "date": "2026-01-12T14:10:34.123Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
