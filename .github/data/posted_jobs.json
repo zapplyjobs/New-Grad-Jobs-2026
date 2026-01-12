@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T18:47:45.747Z",
+  "lastUpdated": "2026-01-12T19:01:05.760Z",
   "jobs": [
-    {
-      "id": "www-trexsolutionsllc-com-current-opportunities-at-trex-2026-01-05-1",
-      "jobId": "www-trexsolutionsllc-com-current-opportunities-at-trex",
-      "company": "T-Rex Solutions",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-05T18:58:51.052Z",
-      "sourceDate": "2025-11-21T08:46:58.000Z",
-      "sourceUrl": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8301876002",
-      "discordThreadId": "1457810582823501980",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-5007627007-2026-01-05-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-5007627007",
@@ -4401,14 +4390,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
       "discordThreadId": "1460344507613839515",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4017544008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4017544008",
+      "company": "anthropic",
+      "title": "Staff Machine Learning Engineer, Agent Skills",
+      "postedToDiscord": "2026-01-12T19:00:27.571Z",
+      "sourceDate": "2026-01-09T20:22:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4017544008",
+      "discordThreadId": "1460347700229967957",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4720576008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4720576008",
+      "company": "anthropic",
+      "title": "TPU Kernel Engineer",
+      "postedToDiscord": "2026-01-12T19:00:31.212Z",
+      "sourceDate": "2026-01-09T20:21:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
+      "discordThreadId": "1460347717325684826",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4020350008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4020350008",
+      "company": "anthropic",
+      "title": "Performance Engineer",
+      "postedToDiscord": "2026-01-12T19:00:34.794Z",
+      "sourceDate": "2026-01-09T20:21:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
+      "discordThreadId": "1460347731921997830",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4613568008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613568008",
+      "company": "anthropic",
+      "title": "Research Engineer, Machine Learning (Reinforcement Learning) ",
+      "postedToDiscord": "2026-01-12T19:00:38.474Z",
+      "sourceDate": "2026-01-09T20:18:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
+      "discordThreadId": "1460347747281666129",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4631822008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4631822008",
+      "company": "anthropic",
+      "title": "Research Engineer / Scientist, Alignment Science",
+      "postedToDiscord": "2026-01-12T19:00:41.936Z",
+      "sourceDate": "2026-01-09T20:17:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+      "discordThreadId": "1460347762863505438",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4949336008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4949336008",
+      "company": "anthropic",
+      "title": "Machine Learning Engineer, Safeguards",
+      "postedToDiscord": "2026-01-12T19:00:45.395Z",
+      "sourceDate": "2026-01-09T20:17:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
+      "discordThreadId": "1460347777233059912",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4613592008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613592008",
+      "company": "anthropic",
+      "title": "Research Engineer, Production Model Post Training",
+      "postedToDiscord": "2026-01-12T19:00:48.999Z",
+      "sourceDate": "2026-01-09T20:16:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+      "discordThreadId": "1460347791774716123",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4926227008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4926227008",
+      "company": "anthropic",
+      "title": "Performance Engineer, GPU",
+      "postedToDiscord": "2026-01-12T19:00:55.613Z",
+      "sourceDate": "2026-01-09T20:22:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
+      "discordThreadId": "1460347819641671782",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4926242008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4926242008",
+      "company": "anthropic",
+      "title": "Software Engineer, ML Networking",
+      "postedToDiscord": "2026-01-12T19:00:59.130Z",
+      "sourceDate": "2026-01-09T20:22:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+      "discordThreadId": "1460347835013791754",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4532887008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4532887008",
+      "company": "anthropic",
+      "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
+      "postedToDiscord": "2026-01-12T19:01:05.760Z",
+      "sourceDate": "2026-01-09T20:15:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
+      "discordThreadId": "1460347861828112448",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 400,
+    "totalJobs": 409,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T18:47:45.747Z",
+      "date": "2026-01-12T19:01:05.760Z",
       "archived": 0
     }
   }
