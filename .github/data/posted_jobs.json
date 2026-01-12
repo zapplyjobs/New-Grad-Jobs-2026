@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T11:39:09.617Z",
+  "lastUpdated": "2026-01-12T12:49:38.554Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5041304008-2026-01-05-1",
@@ -4302,16 +4302,48 @@
       "sourceUrl": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735",
       "discordThreadId": "1460236646338531465",
       "instanceNumber": 1
+    },
+    {
+      "id": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3150991-2-2026-01-12-1",
+      "jobId": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3150991-2",
+      "company": "Hewlett Packard (HP)",
+      "title": "AI Lab Junior Machine Learning Engineer",
+      "postedToDiscord": "2026-01-12T12:49:28.341Z",
+      "sourceDate": "2026-01-12T12:05:52.000Z",
+      "sourceUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3150991-2",
+      "discordThreadId": "1460254337250103384",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sabre-wd1-myworkdayjobs-com-sabrejobs-job-united-kingdom-richmond-church-rd-web-digital-specialist-i_jr107155-2026-01-12-1",
+      "jobId": "sabre-wd1-myworkdayjobs-com-sabrejobs-job-united-kingdom-richmond-church-rd-web-digital-specialist-i_jr107155",
+      "company": "Sabre",
+      "title": "Web/Digital Specialist 1",
+      "postedToDiscord": "2026-01-12T12:49:35.117Z",
+      "sourceDate": "2026-01-12T11:59:06.000Z",
+      "sourceUrl": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/United-Kingdom---Richmond-Church-Rd/Web-Digital-Specialist-I_JR107155",
+      "discordThreadId": "1460254367641894964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "isu-wd1-myworkdayjobs-com-iowastatejobs-job-ames-ia-workday-extend-developer-i_r18423-2026-01-12-1",
+      "jobId": "isu-wd1-myworkdayjobs-com-iowastatejobs-job-ames-ia-workday-extend-developer-i_r18423",
+      "company": "Iowa State University",
+      "title": "Workday Extend Developer 1",
+      "postedToDiscord": "2026-01-12T12:49:38.554Z",
+      "sourceDate": "2026-01-12T11:55:22.000Z",
+      "sourceUrl": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Extend-Developer-I_R18423",
+      "discordThreadId": "1460254383374733565",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 391,
+    "totalJobs": 394,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T11:39:09.617Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-12T12:49:38.554Z",
+      "archived": 0
     }
   }
 }
