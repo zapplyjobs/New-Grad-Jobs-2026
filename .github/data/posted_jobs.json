@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T15:08:51.354Z",
+  "lastUpdated": "2026-01-12T15:27:15.632Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7459715-2026-01-05-1",
@@ -4357,14 +4357,25 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7519856/?gh_jid=7519856",
       "discordThreadId": "1460289416785428732",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7484127-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7484127",
+      "company": "datadog",
+      "title": "Director, Channels - Global Systems Integrators (AMER)",
+      "postedToDiscord": "2026-01-12T15:27:15.632Z",
+      "sourceDate": "2026-01-12T10:23:29-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7484127/?gh_jid=7484127",
+      "discordThreadId": "1460294048987222197",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 396,
+    "totalJobs": 397,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T15:08:51.354Z",
+      "date": "2026-01-12T15:27:15.632Z",
       "archived": 0
     }
   }
