@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T23:36:52.390Z",
+  "lastUpdated": "2026-01-12T23:51:14.868Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5055264008-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055264008",
-      "company": "anthropic",
-      "title": "Product Operations Manager, Claude Code",
-      "postedToDiscord": "2026-01-05T23:37:43.190Z",
-      "sourceDate": "2026-01-05T18:35:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055264008",
-      "discordThreadId": "1457880761750392928",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7095084-2026-01-05-1",
-      "jobId": "careers-datadoghq-com-detail-7095084",
-      "company": "datadog",
-      "title": "Premier Support Engineer 2 - New York",
-      "postedToDiscord": "2026-01-05T23:37:49.999Z",
-      "sourceDate": "2026-01-05T18:33:37-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7095084/?gh_jid=7095084",
-      "discordThreadId": "1457880789642514578",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000101691146-2026-01-05-1",
-      "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000101691146",
-      "company": "Palo Alto Networks",
-      "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
-      "postedToDiscord": "2026-01-05T23:37:53.508Z",
-      "sourceDate": "2026-01-05T23:19:25.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000101691146",
-      "discordThreadId": "1457880805501046834",
-      "instanceNumber": 1
-    },
-    {
-      "id": "mtstatejobs-taleo-net-careersection-200-jobdetail-ftl-2026-01-05-1",
-      "jobId": "mtstatejobs-taleo-net-careersection-200-jobdetail-ftl",
-      "company": "State of Montana",
-      "title": "CPM Data Processor 1",
-      "postedToDiscord": "2026-01-05T23:37:55.239Z",
-      "sourceDate": "2026-01-05T23:15:15.000Z",
-      "sourceUrl": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=25143077",
-      "discordThreadId": "1457880820152012841",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319305-2026-01-05-1",
-      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319305",
-      "company": "Oracle",
-      "title": "Systems Analyst 1-Support - Support",
-      "postedToDiscord": "2026-01-05T23:37:57.282Z",
-      "sourceDate": "2026-01-05T23:13:30.000Z",
-      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319305",
-      "discordThreadId": "1457880827319816307",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-cc071a65-fbaa-436c-82a0-c695189038b7-application-2026-01-05-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-cc071a65-fbaa-436c-82a0-c695189038b7-application",
-      "company": "Jerry",
-      "title": "Software Engineer - Entry",
-      "postedToDiscord": "2026-01-05T23:38:04.075Z",
-      "sourceDate": "2026-01-05T23:22:01.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/cc071a65-fbaa-436c-82a0-c695189038b7/application",
-      "discordThreadId": "1457880848564097208",
-      "instanceNumber": 1
-    },
-    {
-      "id": "marvell-wd1-myworkdayjobs-com-marvellcareers2-job-santa-clara-ca-ai-engineer_2503867-1-2026-01-05-1",
-      "jobId": "marvell-wd1-myworkdayjobs-com-marvellcareers2-job-santa-clara-ca-ai-engineer_2503867-1",
-      "company": "Marvell",
-      "title": "AI Engineer",
-      "postedToDiscord": "2026-01-05T23:38:07.659Z",
-      "sourceDate": "2026-01-05T23:17:52.000Z",
-      "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Engineer_2503867-1",
-      "discordThreadId": "1457880864699580561",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-73110-2026-01-05-1",
-      "jobId": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-73110",
-      "company": "BNY",
-      "title": "BNY Analyst Program",
-      "postedToDiscord": "2026-01-05T23:38:14.450Z",
-      "sourceDate": "2026-01-05T23:17:44.000Z",
-      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/73110",
-      "discordThreadId": "1457880892277264619",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-redsox-d80ec9ea-718d-4769-a30d-3a194cf40ef2-apply-2026-01-05-1",
-      "jobId": "jobs-lever-co-redsox-d80ec9ea-718d-4769-a30d-3a194cf40ef2-apply",
-      "company": "Major League Baseball",
-      "title": "Minor League Technology Operator",
-      "postedToDiscord": "2026-01-05T23:38:20.922Z",
-      "sourceDate": "2026-01-05T23:17:15.000Z",
-      "sourceUrl": "https://jobs.lever.co/redsox/d80ec9ea-718d-4769-a30d-3a194cf40ef2/apply",
-      "discordThreadId": "1457880920756588678",
-      "instanceNumber": 1
-    },
     {
       "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459-2026-01-06-1",
       "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459",
@@ -6887,14 +6788,234 @@
       "sourceUrl": "https://www.brex.com/careers/8353867002?gh_jid=8353867002",
       "discordThreadId": "1460417264217227440",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4721383008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4721383008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Claude Developer Platform",
+      "postedToDiscord": "2026-01-12T23:50:43.206Z",
+      "sourceDate": "2026-01-06T12:16:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
+      "discordThreadId": "1460420748853383280",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4988878008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4988878008",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+      "postedToDiscord": "2026-01-12T23:50:46.686Z",
+      "sourceDate": "2026-01-06T12:13:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988878008",
+      "discordThreadId": "1460420763617333280",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-equipmentshare-com-careers-openings-2026-01-12-1",
+      "jobId": "www-equipmentshare-com-careers-openings",
+      "company": "EquipmentShare",
+      "title": "MDM – Master Data Management - Parts Specialist",
+      "postedToDiscord": "2026-01-12T23:50:50.114Z",
+      "sourceDate": "2026-01-06T16:40:37.000Z",
+      "sourceUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=7516161",
+      "discordThreadId": "1460420777781231772",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7454499-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7454499",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Retail Beauty)",
+      "postedToDiscord": "2026-01-12T23:50:57.229Z",
+      "sourceDate": "2026-01-06T12:09:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7454499",
+      "discordThreadId": "1460420807086968964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8350839002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8350839002",
+      "company": "airtable",
+      "title": "Senior Contracts Manager, Procurement and AI",
+      "postedToDiscord": "2026-01-12T23:51:00.745Z",
+      "sourceDate": "2026-01-06T03:01:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8350839002",
+      "discordThreadId": "1460420822219886722",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056801-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056801",
+      "company": "samsara",
+      "title": " Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.900Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056801?gh_jid=6056801",
+      "discordThreadId": "1460420849306959986",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7201309-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-7201309",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.907Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7201309?gh_jid=7201309",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056804-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056804",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.913Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056804?gh_jid=6056804",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056802-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056802",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.918Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056802?gh_jid=6056802",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7201306-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-7201306",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.924Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7201306?gh_jid=7201306",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056800-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056800",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.929Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056800?gh_jid=6056800",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056795-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056795",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.933Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056795?gh_jid=6056795",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056794-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056794",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.938Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056794?gh_jid=6056794",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7090153-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-7090153",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.943Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7090153?gh_jid=7090153",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6157504-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6157504",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.947Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6157504?gh_jid=6157504",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056799-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056799",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-12T23:51:07.952Z",
+      "sourceDate": "2026-01-06T11:45:03-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056799?gh_jid=6056799",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245609-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245609",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-12T23:51:11.386Z",
+      "sourceDate": "2026-01-06T11:39:23-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245609?gh_jid=7245609",
+      "discordThreadId": "1460420867157921842",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245617-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245617",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-12T23:51:11.393Z",
+      "sourceDate": "2026-01-06T11:39:23-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245617?gh_jid=7245617",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245543-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245543",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-12T23:51:14.861Z",
+      "sourceDate": "2026-01-06T11:38:34-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245543?gh_jid=7245543",
+      "discordThreadId": "1460420881741512898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245542-2026-01-12-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245542",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-12T23:51:14.868Z",
+      "sourceDate": "2026-01-06T11:38:34-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245542?gh_jid=7245542",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 626,
+    "totalJobs": 637,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T23:36:52.390Z",
+      "date": "2026-01-12T23:51:14.868Z",
       "archived": 0
     }
   }
