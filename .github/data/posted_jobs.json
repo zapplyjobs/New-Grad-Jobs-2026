@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T22:52:42.971Z",
+  "lastUpdated": "2026-01-12T23:06:41.616Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5055264008-2026-01-05-1",
@@ -6546,14 +6546,135 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/7996986002?gh_jid=7996986002",
       "discordThreadId": "1460406151106658505",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8224301002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8224301002",
+      "company": "duolingo",
+      "title": "Head of Brand Campaigns",
+      "postedToDiscord": "2026-01-12T23:06:04.632Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8224301002?gh_jid=8224301002",
+      "discordThreadId": "1460409514548269138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8301155002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8301155002",
+      "company": "duolingo",
+      "title": "Influencer Marketing, Intern",
+      "postedToDiscord": "2026-01-12T23:06:08.053Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301155002?gh_jid=8301155002",
+      "discordThreadId": "1460409528779673611",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8331172002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8331172002",
+      "company": "duolingo",
+      "title": "Product Marketing Manager, Duolingo Chess",
+      "postedToDiscord": "2026-01-12T23:06:11.362Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331172002?gh_jid=8331172002",
+      "discordThreadId": "1460409542528729237",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8322062002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8322062002",
+      "company": "duolingo",
+      "title": "Senior AI Engineering Manager",
+      "postedToDiscord": "2026-01-12T23:06:17.870Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002",
+      "discordThreadId": "1460409569464291572",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8217266002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8217266002",
+      "company": "duolingo",
+      "title": "Senior Android Engineer",
+      "postedToDiscord": "2026-01-12T23:06:21.207Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002",
+      "discordThreadId": "1460409584157196481",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8054750002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8054750002",
+      "company": "duolingo",
+      "title": "Senior iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-12T23:06:24.576Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002",
+      "discordThreadId": "1460409598187016293",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8318257002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8318257002",
+      "company": "duolingo",
+      "title": "Senior iOS Software Engineer",
+      "postedToDiscord": "2026-01-12T23:06:28.015Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318257002?gh_jid=8318257002",
+      "discordThreadId": "1460409612384600239",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8160578002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8160578002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Ads",
+      "postedToDiscord": "2026-01-12T23:06:34.591Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8160578002?gh_jid=8160578002",
+      "discordThreadId": "1460409639458832518",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8337282002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8337282002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Math",
+      "postedToDiscord": "2026-01-12T23:06:38.202Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8337282002?gh_jid=8337282002",
+      "discordThreadId": "1460409654323581022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8133363002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8133363002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Math",
+      "postedToDiscord": "2026-01-12T23:06:38.210Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8133363002?gh_jid=8133363002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8331474002-2026-01-12-1",
+      "jobId": "careers-duolingo-com-jobs-8331474002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Monetization",
+      "postedToDiscord": "2026-01-12T23:06:41.615Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331474002?gh_jid=8331474002",
+      "discordThreadId": "1460409669414813900",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 595,
+    "totalJobs": 606,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T22:52:42.971Z",
+      "date": "2026-01-12T23:06:41.616Z",
       "archived": 0
     }
   }
