@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T20:54:27.682Z",
+  "lastUpdated": "2026-01-12T21:07:18.637Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-gohighlevel-a97ae4fc-d77f-47eb-a197-ffbdefc0c43f-2026-01-05-1",
-      "jobId": "jobs-lever-co-gohighlevel-a97ae4fc-d77f-47eb-a197-ffbdefc0c43f",
-      "company": "gohighlevel",
-      "title": "Senior Director, Marketing Communications",
-      "postedToDiscord": "2026-01-05T21:05:21.704Z",
-      "sourceDate": "2026-01-05T20:57:17.769Z",
-      "sourceUrl": "https://jobs.lever.co/gohighlevel/a97ae4fc-d77f-47eb-a197-ffbdefc0c43f",
-      "discordThreadId": "1457842427535819027",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5739002004-2026-01-05-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5739002004",
@@ -5512,14 +5501,157 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7345022/?gh_jid=7345022",
       "discordThreadId": "1460376392096284693",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7252012-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7252012",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-12T21:06:33.518Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012",
+      "discordThreadId": "1460379435655106672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7251992-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7251992",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Spanish Speaking)",
+      "postedToDiscord": "2026-01-12T21:06:33.529Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251992/?gh_jid=7251992",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7491955-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7491955",
+      "company": "datadog",
+      "title": "Sales Engineer (Customer Success) - Boston",
+      "postedToDiscord": "2026-01-12T21:06:37.158Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7491955/?gh_jid=7491955",
+      "discordThreadId": "1460379451064848436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7215574-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7215574",
+      "company": "datadog",
+      "title": "Sales Engineer (Customer Success) - Denver",
+      "postedToDiscord": "2026-01-12T21:06:37.163Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7215574/?gh_jid=7215574",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7358137-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7358137",
+      "company": "datadog",
+      "title": "Sales Engineer (Customer Success - Spanish Speaking)",
+      "postedToDiscord": "2026-01-12T21:06:37.167Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7358137/?gh_jid=7358137",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7373580-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7373580",
+      "company": "datadog",
+      "title": "Security Engineer II, Risk Engineering",
+      "postedToDiscord": "2026-01-12T21:06:44.150Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7373580/?gh_jid=7373580",
+      "discordThreadId": "1460379479041114156",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7362587-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7362587",
+      "company": "datadog",
+      "title": "Security Sales Engineer - US East",
+      "postedToDiscord": "2026-01-12T21:06:47.709Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7362587/?gh_jid=7362587",
+      "discordThreadId": "1460379495532990524",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7415266-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7415266",
+      "company": "datadog",
+      "title": "Senior AI Engineer - APM Experiences",
+      "postedToDiscord": "2026-01-12T21:06:54.351Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7415266/?gh_jid=7415266",
+      "discordThreadId": "1460379522850488342",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-5065446-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-5065446",
+      "company": "datadog",
+      "title": "Senior Applied Scientist - Large Language Models / Generative AI",
+      "postedToDiscord": "2026-01-12T21:06:57.933Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/5065446/?gh_jid=5065446",
+      "discordThreadId": "1460379537970958431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7123951-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7123951",
+      "company": "datadog",
+      "title": "Senior Developer Advocate - Generative AI",
+      "postedToDiscord": "2026-01-12T21:07:01.628Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7123951/?gh_jid=7123951",
+      "discordThreadId": "1460379553380958298",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7359328-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7359328",
+      "company": "datadog",
+      "title": "Senior Atlassian Administrator - Enterprise IT Operations",
+      "postedToDiscord": "2026-01-12T21:07:08.139Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7359328/?gh_jid=7359328",
+      "discordThreadId": "1460379581755428875",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7382522-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7382522",
+      "company": "datadog",
+      "title": "Senior Counsel, Corporate & M&A",
+      "postedToDiscord": "2026-01-12T21:07:11.944Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7382522/?gh_jid=7382522",
+      "discordThreadId": "1460379596619907328",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7406998-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7406998",
+      "company": "datadog",
+      "title": "Senior Customer Data Scientist",
+      "postedToDiscord": "2026-01-12T21:07:18.636Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7406998/?gh_jid=7406998",
+      "discordThreadId": "1460379624885321872",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 501,
+    "totalJobs": 513,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T20:54:27.682Z",
+      "date": "2026-01-12T21:07:18.637Z",
       "archived": 0
     }
   }
