@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T18:28:10.881Z",
+  "lastUpdated": "2026-01-12T18:47:45.747Z",
   "jobs": [
-    {
-      "id": "www-uber-com-global-en-careers-list-152427-2026-01-05-1",
-      "jobId": "www-uber-com-global-en-careers-list-152427",
-      "company": "Uber",
-      "title": "Graduate Software Engineer 1",
-      "postedToDiscord": "2026-01-05T18:46:00.012Z",
-      "sourceDate": "2025-12-18T23:17:41.000Z",
-      "sourceUrl": "https://www.uber.com/global/en/careers/list/152427/",
-      "discordThreadId": "1457807348121866376",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-trlm-com-apply-4923778007-2026-01-05-1",
-      "jobId": "www-trlm-com-apply-4923778007",
-      "company": "Trillium",
-      "title": "Data Scientist",
-      "postedToDiscord": "2026-01-05T18:46:06.710Z",
-      "sourceDate": "2025-10-31T01:01:45.000Z",
-      "sourceUrl": "https://www.trlm.com/apply/4923778007?gh_jid=4923778007",
-      "discordThreadId": "1457807375976108217",
-      "instanceNumber": 1
-    },
     {
       "id": "www-trexsolutionsllc-com-current-opportunities-at-trex-2026-01-05-1",
       "jobId": "www-trexsolutionsllc-com-current-opportunities-at-trex",
@@ -4313,14 +4291,124 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
       "discordThreadId": "1460339578476171357",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7367778-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7367778",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Alcohol)",
+      "postedToDiscord": "2026-01-12T18:47:08.241Z",
+      "sourceDate": "2026-01-11T18:27:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7367778",
+      "discordThreadId": "1460344347512803613",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4943668008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4943668008",
+      "company": "anthropic",
+      "title": "Software Engineer, Accelerator Build Infrastructure",
+      "postedToDiscord": "2026-01-12T18:47:11.762Z",
+      "sourceDate": "2026-01-09T20:32:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4943668008",
+      "discordThreadId": "1460344363896017059",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4951814008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951814008",
+      "company": "anthropic",
+      "title": " Research Engineer / Research Scientist, Tokens",
+      "postedToDiscord": "2026-01-12T18:47:15.184Z",
+      "sourceDate": "2026-01-09T20:31:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
+      "discordThreadId": "1460344379032994119",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4741104008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4741104008",
+      "company": "anthropic",
+      "title": "Engineering Manager, ML Acceleration",
+      "postedToDiscord": "2026-01-12T18:47:18.747Z",
+      "sourceDate": "2026-01-09T20:28:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
+      "discordThreadId": "1460344393256013826",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5024835008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024835008",
+      "company": "anthropic",
+      "title": "Senior Research Scientist, Reward Models",
+      "postedToDiscord": "2026-01-12T18:47:22.746Z",
+      "sourceDate": "2026-01-09T20:27:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024835008",
+      "discordThreadId": "1460344408867078321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973067008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973067008",
+      "company": "anthropic",
+      "title": "Staff Infrastructure Engineer, Pre-training",
+      "postedToDiscord": "2026-01-12T18:47:26.199Z",
+      "sourceDate": "2026-01-09T20:27:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+      "discordThreadId": "1460344425279655946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4616971008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4616971008",
+      "company": "anthropic",
+      "title": "Research Engineer, Pre-training",
+      "postedToDiscord": "2026-01-12T18:47:29.833Z",
+      "sourceDate": "2026-01-09T20:26:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
+      "discordThreadId": "1460344439510667327",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5024831008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024831008",
+      "company": "anthropic",
+      "title": "Research Engineer, Reward Models Platform",
+      "postedToDiscord": "2026-01-12T18:47:36.904Z",
+      "sourceDate": "2026-01-09T20:26:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024831008",
+      "discordThreadId": "1460344467969147117",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4669581008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4669581008",
+      "company": "anthropic",
+      "title": "Research Engineer, Discovery",
+      "postedToDiscord": "2026-01-12T18:47:42.394Z",
+      "sourceDate": "2026-01-09T20:25:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
+      "discordThreadId": "1460344485031444615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4593216008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4593216008",
+      "company": "anthropic",
+      "title": "Staff Research Engineer, Discovery Team",
+      "postedToDiscord": "2026-01-12T18:47:45.747Z",
+      "sourceDate": "2026-01-09T20:24:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
+      "discordThreadId": "1460344507613839515",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 392,
+    "totalJobs": 400,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T18:28:10.881Z",
+      "date": "2026-01-12T18:47:45.747Z",
       "archived": 0
     }
   }
