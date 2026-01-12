@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T19:11:32.260Z",
+  "lastUpdated": "2026-01-12T19:26:12.254Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8326060002-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8326060002",
-      "company": "discord",
-      "title": "Staff Software Engineer, Machine Learning (Safety)",
-      "postedToDiscord": "2026-01-05T19:24:44.413Z",
-      "sourceDate": "2026-01-05T14:08:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8326060002",
-      "discordThreadId": "1457817096925745303",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-tesla-com-careers-search-job-software-integration-engineer-factory-firmware-249467-2026-01-05-1",
-      "jobId": "www-tesla-com-careers-search-job-software-integration-engineer-factory-firmware-249467",
-      "company": "Tesla",
-      "title": "Software Integration Engineer, Factory Firmware",
-      "postedToDiscord": "2026-01-05T19:24:51.033Z",
-      "sourceDate": "2025-08-28T20:43:06.000Z",
-      "sourceUrl": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
-      "discordThreadId": "1457817125056938118",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5041343008-2026-01-05-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041343008",
@@ -4588,14 +4566,135 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752",
       "discordThreadId": "1460350489777668363",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4656750007-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4656750007",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (North Carolina - Corporate)",
+      "postedToDiscord": "2026-01-12T19:25:33.964Z",
+      "sourceDate": "2026-01-09T17:01:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4656750007",
+      "discordThreadId": "1460354027060596898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5735116004-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5735116004",
+      "company": "vercel",
+      "title": "Sales Engineer, Startups ",
+      "postedToDiscord": "2026-01-12T19:25:37.782Z",
+      "sourceDate": "2026-01-09T16:31:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5735116004",
+      "discordThreadId": "1460354035327439063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4963718008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4963718008",
+      "company": "anthropic",
+      "title": "Technical Accounting",
+      "postedToDiscord": "2026-01-12T19:25:41.158Z",
+      "sourceDate": "2026-01-09T14:21:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4963718008",
+      "discordThreadId": "1460354051102474283",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7312439-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7312439",
+      "company": "datadog",
+      "title": "Business Value Manager - Enterprise East",
+      "postedToDiscord": "2026-01-12T19:25:44.794Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7312439/?gh_jid=7312439",
+      "discordThreadId": "1460354065342140538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-1694375-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-1694375",
+      "company": "datadog",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-12T19:25:46.654Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+      "discordThreadId": "1460354080861065319",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7460318-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7460318",
+      "company": "datadog",
+      "title": "Commercial Account Executive - LATAM (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-12T19:25:46.658Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7460318/?gh_jid=7460318",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4778843008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4778843008",
+      "company": "anthropic",
+      "title": "ML Infrastructure Engineer, Safeguards",
+      "postedToDiscord": "2026-01-12T19:25:53.113Z",
+      "sourceDate": "2026-01-09T16:22:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+      "discordThreadId": "1460354101060571166",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017202008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017202008",
+      "company": "anthropic",
+      "title": "Software Engineer, Labs",
+      "postedToDiscord": "2026-01-12T19:25:58.468Z",
+      "sourceDate": "2026-01-09T16:18:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
+      "discordThreadId": "1460354115883499609",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7183013-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7183013",
+      "company": "datadog",
+      "title": "AI Research Engineer – Datadog AI Research (DAIR)",
+      "postedToDiscord": "2026-01-12T19:26:02.147Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
+      "discordThreadId": "1460354138406780969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6572669-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6572669",
+      "company": "datadog",
+      "title": "AI Research Scientist – Datadog AI Research (DAIR)",
+      "postedToDiscord": "2026-01-12T19:26:05.809Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+      "discordThreadId": "1460354153598685278",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8230853002-2026-01-12-1",
+      "jobId": "www-brex-com-careers-8230853002",
+      "company": "brex",
+      "title": "Candidate Experience Coordinator (12-month Contract)",
+      "postedToDiscord": "2026-01-12T19:26:12.254Z",
+      "sourceDate": "2026-01-09T14:58:37-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8230853002?gh_jid=8230853002",
+      "discordThreadId": "1460354181129965623",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 417,
+    "totalJobs": 426,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T19:11:32.260Z",
+      "date": "2026-01-12T19:26:12.254Z",
       "archived": 0
     }
   }
