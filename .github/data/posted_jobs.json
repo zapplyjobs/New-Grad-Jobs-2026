@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T20:42:11.059Z",
+  "lastUpdated": "2026-01-12T20:54:27.682Z",
   "jobs": [
     {
       "id": "jobs-lever-co-gohighlevel-a97ae4fc-d77f-47eb-a197-ffbdefc0c43f-2026-01-05-1",
@@ -5380,14 +5380,146 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/6632056/?gh_jid=6632056",
       "discordThreadId": "1460373302395535624",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6163246-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6163246",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-12T20:53:43.220Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246",
+      "discordThreadId": "1460376212915486781",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6665385-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6665385",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-12T20:53:43.230Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6798820-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6798820",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (Boston)",
+      "postedToDiscord": "2026-01-12T20:53:46.987Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820",
+      "discordThreadId": "1460376219945275535",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7082012-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7082012",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (San Francisco)",
+      "postedToDiscord": "2026-01-12T20:53:50.616Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012",
+      "discordThreadId": "1460376235732635772",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7381247-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7381247",
+      "company": "datadog",
+      "title": "Office Operations Associate - NYC",
+      "postedToDiscord": "2026-01-12T20:53:57.118Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7381247/?gh_jid=7381247",
+      "discordThreadId": "1460376263825948692",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7459715-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7459715",
+      "company": "datadog",
+      "title": "Product Marketing Manager - Log Management",
+      "postedToDiscord": "2026-01-12T20:54:00.460Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715",
+      "discordThreadId": "1460376278174793759",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7120493-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7120493",
+      "company": "datadog",
+      "title": "Premier Support Engineer 3 - NYC",
+      "postedToDiscord": "2026-01-12T20:54:07.014Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493",
+      "discordThreadId": "1460376305177460819",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6746794-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6746794",
+      "company": "datadog",
+      "title": "Principal Partner Manager - Cloud Alliances",
+      "postedToDiscord": "2026-01-12T20:54:10.942Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
+      "discordThreadId": "1460376320146935900",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7429838-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7429838",
+      "company": "datadog",
+      "title": "Product Marketing Manager (Product Analytics)",
+      "postedToDiscord": "2026-01-12T20:54:14.421Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7429838/?gh_jid=7429838",
+      "discordThreadId": "1460376336463040554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6970128-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6970128",
+      "company": "datadog",
+      "title": "Product Manager II - Incident Management",
+      "postedToDiscord": "2026-01-12T20:54:21.009Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6970128/?gh_jid=6970128",
+      "discordThreadId": "1460376363339878562",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7292417-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7292417",
+      "company": "datadog",
+      "title": "Product Manager II - Software Delivery Suite",
+      "postedToDiscord": "2026-01-12T20:54:21.015Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7345022-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7345022",
+      "company": "datadog",
+      "title": "Recruiter II, Business Recruiting",
+      "postedToDiscord": "2026-01-12T20:54:27.682Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7345022/?gh_jid=7345022",
+      "discordThreadId": "1460376392096284693",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 489,
+    "totalJobs": 501,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T20:42:11.059Z",
+      "date": "2026-01-12T20:54:27.682Z",
       "archived": 0
     }
   }
