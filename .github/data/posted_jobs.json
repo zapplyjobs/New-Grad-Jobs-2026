@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T16:45:25.659Z",
+  "lastUpdated": "2026-01-12T16:57:56.418Z",
   "jobs": [
     {
       "id": "healthplanone-wd1-myworkdayjobs-com-hpone-job-ct-shelton-ai-engineer_jr1412-1-2026-01-05-1",
@@ -4401,16 +4401,37 @@
       "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Software-Engineer-I_R106463-1",
       "discordThreadId": "1460313719450894532",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8134354002-2026-01-12-1",
+      "jobId": "www-brex-com-careers-8134354002",
+      "company": "brex",
+      "title": "Account Executive, Embedded Finance",
+      "postedToDiscord": "2026-01-12T16:57:56.409Z",
+      "sourceDate": "2026-01-12T11:56:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8134354002?gh_jid=8134354002",
+      "discordThreadId": "1460316869138452733",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7844195002-2026-01-12-1",
+      "jobId": "www-brex-com-careers-7844195002",
+      "company": "brex",
+      "title": "Account Executive, Embedded Finance",
+      "postedToDiscord": "2026-01-12T16:57:56.418Z",
+      "sourceDate": "2026-01-12T11:55:28-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7844195002?gh_jid=7844195002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 400,
+    "totalJobs": 402,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T16:45:25.659Z",
-      "archived": 3,
-      "monthsAffected": 1
+      "date": "2026-01-12T16:57:56.418Z",
+      "archived": 0
     }
   }
 }
