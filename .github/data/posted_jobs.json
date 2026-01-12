@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T20:11:11.919Z",
+  "lastUpdated": "2026-01-12T20:27:03.195Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041343008-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041343008",
-      "company": "anthropic",
-      "title": "Security Development Project Specialist",
-      "postedToDiscord": "2026-01-05T20:25:20.145Z",
-      "sourceDate": "2026-01-05T15:20:33-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041343008",
-      "discordThreadId": "1457832347633455207",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5741899004-2026-01-05-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5741899004",
@@ -5116,14 +5105,146 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
       "discordThreadId": "1460365511958204426",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7357271-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7357271",
+      "company": "datadog",
+      "title": "Global Safety & Security Senior Manager - NYC",
+      "postedToDiscord": "2026-01-12T20:26:19.880Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7357271/?gh_jid=7357271",
+      "discordThreadId": "1460369312886952072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7397939-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7397939",
+      "company": "datadog",
+      "title": "Information Security Analyst II",
+      "postedToDiscord": "2026-01-12T20:26:23.514Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939",
+      "discordThreadId": "1460369327441317939",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7450692-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7450692",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
+      "postedToDiscord": "2026-01-12T20:26:29.957Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7450692/?gh_jid=7450692",
+      "discordThreadId": "1460369355186507967",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7409236-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7409236",
+      "company": "datadog",
+      "title": "Key Accounts Executive (East)",
+      "postedToDiscord": "2026-01-12T20:26:33.640Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236",
+      "discordThreadId": "1460369369681887263",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7492312-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7492312",
+      "company": "datadog",
+      "title": "Major Account Manager",
+      "postedToDiscord": "2026-01-12T20:26:37.007Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312",
+      "discordThreadId": "1460369384957546559",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7409198-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7409198",
+      "company": "datadog",
+      "title": "Major Account Manager",
+      "postedToDiscord": "2026-01-12T20:26:37.013Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7484777-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7484777",
+      "company": "datadog",
+      "title": "Manager 1, Technical Account Management - Denver",
+      "postedToDiscord": "2026-01-12T20:26:38.858Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7484777/?gh_jid=7484777",
+      "discordThreadId": "1460369399956504647",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7472529-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7472529",
+      "company": "datadog",
+      "title": "Manager 1, Technical Account Management - New York",
+      "postedToDiscord": "2026-01-12T20:26:38.864Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7472529/?gh_jid=7472529",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7193803-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7193803",
+      "company": "datadog",
+      "title": "Inclusion Program Manager - NYC",
+      "postedToDiscord": "2026-01-12T20:26:46.815Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7193803/?gh_jid=7193803",
+      "discordThreadId": "1460369420068196514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7341441-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7341441",
+      "company": "datadog",
+      "title": "Internal Communications Specialist - NYC",
+      "postedToDiscord": "2026-01-12T20:26:53.286Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7341441/?gh_jid=7341441",
+      "discordThreadId": "1460369452842487995",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7477194-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7477194",
+      "company": "datadog",
+      "title": "Leadership Training Manager",
+      "postedToDiscord": "2026-01-12T20:26:56.762Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194",
+      "discordThreadId": "1460369467132350516",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7481495-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7481495",
+      "company": "datadog",
+      "title": "Lead UX Designer - New York",
+      "postedToDiscord": "2026-01-12T20:27:03.195Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
+      "discordThreadId": "1460369494605168721",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 465,
+    "totalJobs": 476,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T20:11:11.919Z",
+      "date": "2026-01-12T20:27:03.195Z",
       "archived": 0
     }
   }
