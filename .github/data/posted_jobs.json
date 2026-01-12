@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T16:27:51.367Z",
+  "lastUpdated": "2026-01-12T16:45:25.659Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7252012-2026-01-05-1",
-      "jobId": "careers-datadoghq-com-detail-7252012",
-      "company": "datadog",
-      "title": "Sales Development Representative - Summer 2026 Graduates (Portuguese Speaking)",
-      "postedToDiscord": "2026-01-05T16:44:14.854Z",
-      "sourceDate": "2026-01-05T11:38:07-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012",
-      "discordThreadId": "1457776707527377111",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7251992-2026-01-05-1",
-      "jobId": "careers-datadoghq-com-detail-7251992",
-      "company": "datadog",
-      "title": "Sales Development Representative - Summer 2026 Graduates (Spanish Speaking)",
-      "postedToDiscord": "2026-01-05T16:44:14.868Z",
-      "sourceDate": "2026-01-05T11:37:45-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7251992/?gh_jid=7251992",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "osu-wd1-myworkdayjobs-com-osucareers-job-columbus-campus-research-data-analyst-i-center-for-biostatistics_r142714-2-2026-01-05-1",
-      "jobId": "osu-wd1-myworkdayjobs-com-osucareers-job-columbus-campus-research-data-analyst-i-center-for-biostatistics_r142714-2",
-      "company": "Ohio State University",
-      "title": "Research Data Analyst 1 - Center For Biostatistics",
-      "postedToDiscord": "2026-01-05T16:44:21.309Z",
-      "sourceDate": "2026-01-05T16:20:03.000Z",
-      "sourceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Data-Analyst-I---Center-For-Biostatistics_R142714-2",
-      "discordThreadId": "1457776735775887528",
-      "instanceNumber": 1
-    },
     {
       "id": "healthplanone-wd1-myworkdayjobs-com-hpone-job-ct-shelton-ai-engineer_jr1412-1-2026-01-05-1",
       "jobId": "healthplanone-wd1-myworkdayjobs-com-hpone-job-ct-shelton-ai-engineer_jr1412-1",
@@ -4423,15 +4390,27 @@
       "sourceUrl": "https://www.brex.com/careers/8220013002?gh_jid=8220013002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-philadelphia-pa-software-engineer-i_r106463-1-2026-01-12-1",
+      "jobId": "relx-wd3-myworkdayjobs-com-en-us-relx-job-philadelphia-pa-software-engineer-i_r106463-1",
+      "company": "RELX",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-12T16:45:25.659Z",
+      "sourceDate": "2026-01-12T16:21:30.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Software-Engineer-I_R106463-1",
+      "discordThreadId": "1460313719450894532",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 402,
+    "totalJobs": 400,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T16:27:51.367Z",
-      "archived": 0
+      "date": "2026-01-12T16:45:25.659Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
