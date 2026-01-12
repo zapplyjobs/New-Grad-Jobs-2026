@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T14:45:37.491Z",
+  "lastUpdated": "2026-01-12T14:58:10.606Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7459715-2026-01-05-1",
@@ -4335,14 +4335,25 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7376371/?gh_jid=7376371",
       "discordThreadId": "1460283570580095099",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6741571-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6741571",
+      "company": "datadog",
+      "title": "Sales Development Representative (Boston)",
+      "postedToDiscord": "2026-01-12T14:58:10.605Z",
+      "sourceDate": "2026-01-12T09:49:43-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
+      "discordThreadId": "1460286730132262962",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 394,
+    "totalJobs": 395,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T14:45:37.491Z",
+      "date": "2026-01-12T14:58:10.606Z",
       "archived": 0
     }
   }
