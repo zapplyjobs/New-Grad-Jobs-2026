@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T14:10:34.123Z",
+  "lastUpdated": "2026-01-12T14:45:37.491Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7459715-2026-01-05-1",
@@ -4324,16 +4324,26 @@
       "sourceUrl": "https://jobs.lever.co/spotify/a576428e-002b-4b2e-a39d-69c9e61dd927",
       "discordThreadId": "1460274748289454123",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7376371-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7376371",
+      "company": "datadog",
+      "title": "Senior Director, Product Design",
+      "postedToDiscord": "2026-01-12T14:45:37.490Z",
+      "sourceDate": "2026-01-12T09:40:32-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7376371/?gh_jid=7376371",
+      "discordThreadId": "1460283570580095099",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 393,
+    "totalJobs": 394,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T14:10:34.123Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-12T14:45:37.491Z",
+      "archived": 0
     }
   }
 }
