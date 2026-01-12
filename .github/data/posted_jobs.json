@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T21:40:42.108Z",
+  "lastUpdated": "2026-01-12T21:52:44.834Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5026197008-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026197008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Claude Services",
-      "postedToDiscord": "2026-01-05T21:50:33.211Z",
-      "sourceDate": "2026-01-05T16:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026197008",
-      "discordThreadId": "1457853792522338439",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8352070002-2026-01-05-1",
       "jobId": "job-boards-greenhouse-io-discord-jobs-8352070002",
@@ -5897,14 +5886,234 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7088666/?gh_jid=7088666",
       "discordThreadId": "1460388029049868288",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7027505-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7027505",
+      "company": "datadog",
+      "title": "Staff Accountant II - NYC",
+      "postedToDiscord": "2026-01-12T21:52:05.464Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7027505/?gh_jid=7027505",
+      "discordThreadId": "1460390894971916288",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6958985-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6958985",
+      "company": "datadog",
+      "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "postedToDiscord": "2026-01-12T21:52:11.919Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985",
+      "discordThreadId": "1460390922066854060",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7182907-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7182907",
+      "company": "datadog",
+      "title": "Staff Product Designer, Bits AI",
+      "postedToDiscord": "2026-01-12T21:52:15.380Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7182907/?gh_jid=7182907",
+      "discordThreadId": "1460390936319103079",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496207-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7496207",
+      "company": "datadog",
+      "title": "Staff Product Designer, Visual Systems",
+      "postedToDiscord": "2026-01-12T21:52:21.960Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496207/?gh_jid=7496207",
+      "discordThreadId": "1460390963716554802",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-3210217-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-3210217",
+      "company": "datadog",
+      "title": "Staff Software Engineer",
+      "postedToDiscord": "2026-01-12T21:52:28.476Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3210217/?gh_jid=3210217",
+      "discordThreadId": "1460390991147307100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7375183-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7375183",
+      "company": "datadog",
+      "title": "Staff Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-12T21:52:28.482Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7375183/?gh_jid=7375183",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6620279-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6620279",
+      "company": "datadog",
+      "title": "Staff Software Engineer - Metrics Query",
+      "postedToDiscord": "2026-01-12T21:52:28.487Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6620279/?gh_jid=6620279",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7107437-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7107437",
+      "company": "datadog",
+      "title": "Staff Software Engineer - ML Observability",
+      "postedToDiscord": "2026-01-12T21:52:28.492Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107437/?gh_jid=7107437",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7206358-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7206358",
+      "company": "datadog",
+      "title": "Staff Software Engineer - Query Experience",
+      "postedToDiscord": "2026-01-12T21:52:28.497Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7206358/?gh_jid=7206358",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7291513-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7291513",
+      "company": "datadog",
+      "title": "Staff Software Engineer - Workflow Engine",
+      "postedToDiscord": "2026-01-12T21:52:28.501Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7291513/?gh_jid=7291513",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7144531-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7144531",
+      "company": "datadog",
+      "title": "Staff Statistics Engineer - Feature Flagging and Experimentation",
+      "postedToDiscord": "2026-01-12T21:52:34.911Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7144531/?gh_jid=7144531",
+      "discordThreadId": "1460391018791702640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7131363-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7131363",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.296Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363",
+      "discordThreadId": "1460391045543235780",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7178512-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7178512",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.301Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7178512/?gh_jid=7178512",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7057036-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7057036",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.306Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7117086-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7117086",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.312Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6242929-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6242929",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.317Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7131386-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7131386",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.321Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6522720-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6522720",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.326Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6522755-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-6522755",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-12T21:52:41.330Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6522755/?gh_jid=6522755",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7155359-2026-01-12-1",
+      "jobId": "careers-datadoghq-com-detail-7155359",
+      "company": "datadog",
+      "title": "Strategic Account Executive (FED)",
+      "postedToDiscord": "2026-01-12T21:52:44.834Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359",
+      "discordThreadId": "1460391059761926187",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 536,
+    "totalJobs": 555,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T21:40:42.108Z",
+      "date": "2026-01-12T21:52:44.834Z",
       "archived": 0
     }
   }
