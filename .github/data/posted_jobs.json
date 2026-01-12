@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T23:25:42.868Z",
+  "lastUpdated": "2026-01-12T23:36:52.390Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5055264008-2026-01-05-1",
@@ -6777,14 +6777,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043373008",
       "discordThreadId": "1460414455488974919",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5624231004-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5624231004",
+      "company": "vercel",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-12T23:36:16.204Z",
+      "sourceDate": "2026-01-06T19:04:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5624231004",
+      "discordThreadId": "1460417111901077700",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4103490007-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4103490007",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-12T23:36:17.992Z",
+      "sourceDate": "2026-01-06T16:48:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4103490007",
+      "discordThreadId": "1460417127331659871",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4979834008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4979834008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Startups",
+      "postedToDiscord": "2026-01-12T23:36:21.448Z",
+      "sourceDate": "2026-01-06T15:12:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979834008",
+      "discordThreadId": "1460417134365642855",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4461450008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4461450008",
+      "company": "anthropic",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-12T23:36:24.981Z",
+      "sourceDate": "2026-01-06T15:12:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+      "discordThreadId": "1460417148890386587",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4880880008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4880880008",
+      "company": "anthropic",
+      "title": "Manager, Startup Account Executive",
+      "postedToDiscord": "2026-01-12T23:36:28.506Z",
+      "sourceDate": "2026-01-06T15:11:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+      "discordThreadId": "1460417163977294031",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4423394008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4423394008",
+      "company": "anthropic",
+      "title": "Growth Account Executive",
+      "postedToDiscord": "2026-01-12T23:36:32.138Z",
+      "sourceDate": "2026-01-06T15:10:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+      "discordThreadId": "1460417178510688320",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4976328008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4976328008",
+      "company": "anthropic",
+      "title": "Manager, Growth Account Executive",
+      "postedToDiscord": "2026-01-12T23:36:35.589Z",
+      "sourceDate": "2026-01-06T15:10:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+      "discordThreadId": "1460417193631158406",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-smxtech-com-careers-2026-01-12-1",
+      "jobId": "www-smxtech-com-careers",
+      "company": "SMX",
+      "title": "BI Developer",
+      "postedToDiscord": "2026-01-12T23:36:42.157Z",
+      "sourceDate": "2026-01-06T23:39:15.000Z",
+      "sourceUrl": "https://www.smxtech.com/careers/?gh_jid=7579859003",
+      "discordThreadId": "1460417221149851843",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8359170002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8359170002",
+      "company": "discord",
+      "title": "Product Designer, Notifications",
+      "postedToDiscord": "2026-01-12T23:36:45.839Z",
+      "sourceDate": "2026-01-06T18:09:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359170002",
+      "discordThreadId": "1460417235821531280",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8353867002-2026-01-12-1",
+      "jobId": "www-brex-com-careers-8353867002",
+      "company": "brex",
+      "title": "Software Engineer II, Frontend Platform ",
+      "postedToDiscord": "2026-01-12T23:36:52.389Z",
+      "sourceDate": "2026-01-06T17:45:43-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8353867002?gh_jid=8353867002",
+      "discordThreadId": "1460417264217227440",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 616,
+    "totalJobs": 626,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T23:25:42.868Z",
+      "date": "2026-01-12T23:36:52.390Z",
       "archived": 0
     }
   }
