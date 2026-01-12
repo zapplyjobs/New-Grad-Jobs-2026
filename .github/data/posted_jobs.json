@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T00:48:46.152Z",
+  "lastUpdated": "2026-01-12T02:04:03.291Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a-2026-01-05-1",
@@ -4181,16 +4181,81 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062955008",
       "discordThreadId": "1460072969421197425",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-hioscar-com-careers-7527160-2026-01-12-1",
+      "jobId": "www-hioscar-com-careers-7527160",
+      "company": "Oscar Health",
+      "title": "Data Scientist 1: Network and Contracts",
+      "postedToDiscord": "2026-01-12T02:03:40.061Z",
+      "sourceDate": "2026-01-12T01:09:32.000Z",
+      "sourceUrl": "http://www.hioscar.com/careers/7527160?gh_jid=7527160",
+      "discordThreadId": "1460091818292281475",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-xmlname-2026-associate-software-engineer-2026-software-engineer-roy-ut_r10218884-2026-01-12-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-xmlname-2026-associate-software-engineer-2026-software-engineer-roy-ut_r10218884",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "postedToDiscord": "2026-01-12T02:03:46.519Z",
+      "sourceDate": "2026-01-12T01:03:32.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10218884",
+      "discordThreadId": "1460091845672435970",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blueorigin-wd5-myworkdayjobs-com-blueorigin-job-greater-seattle-area-software-development-engineer-i-early-career-2026-starts-_r58467-2026-01-12-1",
+      "jobId": "blueorigin-wd5-myworkdayjobs-com-blueorigin-job-greater-seattle-area-software-development-engineer-i-early-career-2026-starts-_r58467",
+      "company": "Blue Origin",
+      "title": "Software Development Engineer 1 - Early Career",
+      "postedToDiscord": "2026-01-12T02:03:49.853Z",
+      "sourceDate": "2026-01-12T00:59:45.000Z",
+      "sourceUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467",
+      "discordThreadId": "1460091859891126345",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-research-scientist_r160656-2026-01-12-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-research-scientist_r160656",
+      "company": "Adobe",
+      "title": "2026 University Graduate - Research Scientist/Engineer",
+      "postedToDiscord": "2026-01-12T02:03:56.371Z",
+      "sourceDate": "2026-01-12T00:41:48.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Applied-Research-Scientist_R160656",
+      "discordThreadId": "1460091886613303444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-distyl-a7674245-72ee-403e-8653-6edfca8a89ce-application-2026-01-12-1",
+      "jobId": "jobs-ashbyhq-com-distyl-a7674245-72ee-403e-8653-6edfca8a89ce-application",
+      "company": "Distyl AI",
+      "title": "AI Engineer – New Graduate",
+      "postedToDiscord": "2026-01-12T02:03:59.778Z",
+      "sourceDate": "2026-01-12T00:40:42.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/distyl/a7674245-72ee-403e-8653-6edfca8a89ce/application",
+      "discordThreadId": "1460091901310009515",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-configuration-analyst-1-virg-1354568500-2026-01-12-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-configuration-analyst-1-virg-1354568500",
+      "company": "Huntington Ingalls Industries",
+      "title": "Configuration Analyst 1",
+      "postedToDiscord": "2026-01-12T02:04:03.291Z",
+      "sourceDate": "2026-01-12T00:32:26.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-CONFIGURATION-ANALYST-1-Virg/1354568500/?ats=successfactors",
+      "discordThreadId": "1460091915545608266",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 380,
+    "totalJobs": 386,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T00:48:46.152Z",
-      "archived": 312,
-      "monthsAffected": 1
+      "date": "2026-01-12T02:04:03.291Z",
+      "archived": 0
     }
   }
 }
