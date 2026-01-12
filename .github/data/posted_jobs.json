@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T22:07:30.646Z",
+  "lastUpdated": "2026-01-12T22:26:31.396Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8352070002-2026-01-05-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8352070002",
-      "company": "discord",
-      "title": "Senior Software Engineer - Notifications",
-      "postedToDiscord": "2026-01-05T22:24:22.441Z",
-      "sourceDate": "2026-01-05T17:14:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8352070002",
-      "discordThreadId": "1457862304581292358",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7504966-2026-01-05-1",
       "jobId": "careers-datadoghq-com-detail-7504966",
@@ -6238,14 +6227,124 @@
       "sourceUrl": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=337849",
       "discordThreadId": "1460394773985628231",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7489210-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7489210",
+      "company": "reddit",
+      "title": "Client Account Manager, Mid-Market (B2B Services)",
+      "postedToDiscord": "2026-01-12T22:25:48.432Z",
+      "sourceDate": "2026-01-08T17:18:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7489210",
+      "discordThreadId": "1460399377846763605",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4950664008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4950664008",
+      "company": "anthropic",
+      "title": "Partner Solutions Architect, Applied AI",
+      "postedToDiscord": "2026-01-12T22:25:51.918Z",
+      "sourceDate": "2026-01-08T14:38:55-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
+      "discordThreadId": "1460399394632372341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985877008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985877008",
+      "company": "anthropic",
+      "title": "Forward Deployed Engineer",
+      "postedToDiscord": "2026-01-12T22:25:55.499Z",
+      "sourceDate": "2026-01-08T14:23:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+      "discordThreadId": "1460399408842801290",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4889396008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4889396008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Product Platform & Accounts Platform",
+      "postedToDiscord": "2026-01-12T22:25:58.910Z",
+      "sourceDate": "2026-01-08T13:51:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
+      "discordThreadId": "1460399423849758812",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8330487002-2026-01-12-1",
+      "jobId": "www-brex-com-careers-8330487002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-12T22:26:02.396Z",
+      "sourceDate": "2026-01-08T13:42:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330487002?gh_jid=8330487002",
+      "discordThreadId": "1460399438362181702",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8348158002-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8348158002",
+      "company": "discord",
+      "title": "Staff Product Manager, Growth & SEO",
+      "postedToDiscord": "2026-01-12T22:26:08.957Z",
+      "sourceDate": "2026-01-08T15:45:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348158002",
+      "discordThreadId": "1460399466023747827",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5729399004-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5729399004",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors, v0",
+      "postedToDiscord": "2026-01-12T22:26:15.511Z",
+      "sourceDate": "2026-01-08T15:13:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
+      "discordThreadId": "1460399493076877496",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8340994002-2026-01-12-1",
+      "jobId": "www-brex-com-careers-8340994002",
+      "company": "brex",
+      "title": "Staff Economist",
+      "postedToDiscord": "2026-01-12T22:26:19.163Z",
+      "sourceDate": "2026-01-08T13:55:36-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8340994002?gh_jid=8340994002",
+      "discordThreadId": "1460399508331565067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4956672008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4956672008",
+      "company": "anthropic",
+      "title": "Analytics Data Engineer",
+      "postedToDiscord": "2026-01-12T22:26:27.712Z",
+      "sourceDate": "2026-01-08T14:47:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
+      "discordThreadId": "1460399536307568833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4988308008-2026-01-12-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4988308008",
+      "company": "anthropic",
+      "title": "Cross-functional Prompt Engineer",
+      "postedToDiscord": "2026-01-12T22:26:31.395Z",
+      "sourceDate": "2026-01-08T11:45:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
+      "discordThreadId": "1460399559053279335",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 567,
+    "totalJobs": 576,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T22:07:30.646Z",
+      "date": "2026-01-12T22:26:31.396Z",
       "archived": 0
     }
   }
