@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T04:20:02.601Z",
+  "lastUpdated": "2026-01-13T04:51:48.370Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-temporaltechnologies-jobs-5015157007-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-temporaltechnologies-jobs-5015157007",
-      "company": "Temporal Technologies",
-      "title": "Software Engineer - Cloud Growth",
-      "postedToDiscord": "2026-01-06T04:47:55.325Z",
-      "sourceDate": "2026-01-06T04:15:38.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5015157007",
-      "discordThreadId": "1457958826719318100",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-vercel-jobs-5719801004",
@@ -7690,14 +7679,234 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7276285-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7276285",
+      "company": "samsara",
+      "title": "Executive Assistant, Go to Market",
+      "postedToDiscord": "2026-01-13T04:51:21.295Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7276285?gh_jid=7276285",
+      "discordThreadId": "1460496404194529391",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266419-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266419",
+      "company": "samsara",
+      "title": "Hardware Solutions Firmware Engineer",
+      "postedToDiscord": "2026-01-13T04:51:28.146Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419",
+      "discordThreadId": "1460496433785606330",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605517-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605517",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-13T04:51:32.907Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605517?gh_jid=6605517",
+      "discordThreadId": "1460496462214463723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7195406-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7195406",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-13T04:51:32.914Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7195406?gh_jid=7195406",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7195410-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7195410",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-13T04:51:32.920Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7195410?gh_jid=7195410",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7195408-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7195408",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-13T04:51:32.925Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7195408?gh_jid=7195408",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7285924-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7285924",
+      "company": "samsara",
+      "title": "Manager of Account Development",
+      "postedToDiscord": "2026-01-13T04:51:36.514Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7285924?gh_jid=7285924",
+      "discordThreadId": "1460496469512421470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605429-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605429",
+      "company": "samsara",
+      "title": "Mid-Market Account Development Representative - Outbound",
+      "postedToDiscord": "2026-01-13T04:51:38.268Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605429?gh_jid=6605429",
+      "discordThreadId": "1460496484511256651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605428-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605428",
+      "company": "samsara",
+      "title": "Mid-Market Account Development Representative - Outbound",
+      "postedToDiscord": "2026-01-13T04:51:38.275Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605428?gh_jid=6605428",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6493990-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6493990",
+      "company": "samsara",
+      "title": "Public Sector Major Account Executive",
+      "postedToDiscord": "2026-01-13T04:51:40.039Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6493990?gh_jid=6493990",
+      "discordThreadId": "1460496491910266915",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6242420-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6242420",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST",
+      "postedToDiscord": "2026-01-13T04:51:41.775Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6242420?gh_jid=6242420",
+      "discordThreadId": "1460496499397103719",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6242376-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6242376",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST",
+      "postedToDiscord": "2026-01-13T04:51:41.780Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6242376?gh_jid=6242376",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6392563-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6392563",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Atlanta, GA",
+      "postedToDiscord": "2026-01-13T04:51:41.786Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392563?gh_jid=6392563",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567223-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567223",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Austin, TX",
+      "postedToDiscord": "2026-01-13T04:51:41.792Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567223?gh_jid=6567223",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567263-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567263",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Baltimore, MD",
+      "postedToDiscord": "2026-01-13T04:51:41.798Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567263?gh_jid=6567263",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567240-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567240",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Boston, MA",
+      "postedToDiscord": "2026-01-13T04:51:41.803Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567240?gh_jid=6567240",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6392559-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6392559",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Charlotte, NC",
+      "postedToDiscord": "2026-01-13T04:51:41.809Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392559?gh_jid=6392559",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6392569-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6392569",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Columbia, SC",
+      "postedToDiscord": "2026-01-13T04:51:41.814Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392569?gh_jid=6392569",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6567202-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6567202",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Dallas, TX",
+      "postedToDiscord": "2026-01-13T04:51:41.820Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567202?gh_jid=6567202",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266313-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266313",
+      "company": "samsara",
+      "title": "Manager II, Shipping and Receiving Logistics",
+      "postedToDiscord": "2026-01-13T04:51:48.370Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266313?gh_jid=7266313",
+      "discordThreadId": "1460496519558992070",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 699,
+    "totalJobs": 718,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T04:20:02.601Z",
+      "date": "2026-01-13T04:51:48.370Z",
       "archived": 0
     }
   }

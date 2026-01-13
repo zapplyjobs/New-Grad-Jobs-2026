@@ -1,252 +1,259 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-13T04:20:08.913Z
+**Timestamp:** 2026-01-13T04:51:54.821Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 7
+- **Jobs Posted:** 8
 - **Jobs Failed:** 0
 - **Jobs Skipped:** 0
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-13T04:19:39.472Z] ========================================
-[2026-01-13T04:19:39.473Z] Discord Bot Execution Log
-[2026-01-13T04:19:39.473Z] Environment: GitHub Actions
-[2026-01-13T04:19:39.474Z] Node Version: v20.19.6
-[2026-01-13T04:19:39.474Z] ========================================
-[2026-01-13T04:19:39.474Z] Environment Variables Check:
-[2026-01-13T04:19:39.474Z] DISCORD_TOKEN: ✅ Set
-[2026-01-13T04:19:39.474Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.474Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-13T04:19:39.474Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-13T04:19:39.474Z] 
+[2026-01-13T04:51:14.153Z] ========================================
+[2026-01-13T04:51:14.155Z] Discord Bot Execution Log
+[2026-01-13T04:51:14.155Z] Environment: GitHub Actions
+[2026-01-13T04:51:14.155Z] Node Version: v20.19.6
+[2026-01-13T04:51:14.155Z] ========================================
+[2026-01-13T04:51:14.155Z] Environment Variables Check:
+[2026-01-13T04:51:14.155Z] DISCORD_TOKEN: ✅ Set
+[2026-01-13T04:51:14.155Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.155Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-13T04:51:14.156Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-13T04:51:14.156Z] 
 Multi-Channel Configuration:
-[2026-01-13T04:19:39.474Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.474Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.474Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.474Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.475Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.475Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.475Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.475Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.475Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-13T04:19:39.475Z] 
+[2026-01-13T04:51:14.156Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-13T04:51:14.156Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-13T04:19:39.475Z] 
+[2026-01-13T04:51:14.156Z] 
 Data Files Check:
-[2026-01-13T04:19:39.476Z] .github/data/new_jobs.json: ✅ Exists (10 items, 190547 bytes)
-[2026-01-13T04:19:39.479Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 359201 bytes)
-[2026-01-13T04:19:39.479Z] 
+[2026-01-13T04:51:14.158Z] .github/data/new_jobs.json: ✅ Exists (10 items, 172248 bytes)
+[2026-01-13T04:51:14.161Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 368277 bytes)
+[2026-01-13T04:51:14.161Z] 
 ========================================
-[2026-01-13T04:19:39.479Z] Starting Enhanced Discord Bot...
-[2026-01-13T04:19:39.479Z] ========================================
-[2026-01-13T04:19:39.995Z] [BOT] ✅ Loaded V2 database: 680 jobs
-[2026-01-13T04:19:40.796Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-13T04:19:40.796Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-13T04:51:14.161Z] Starting Enhanced Discord Bot...
+[2026-01-13T04:51:14.161Z] ========================================
+[2026-01-13T04:51:14.610Z] [BOT] ✅ Loaded V2 database: 699 jobs
+[2026-01-13T04:51:17.083Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-13T04:51:17.084Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply.jobs (CH_20db82b8)
-[2026-01-13T04:19:40.797Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-13T04:19:40.906Z] [BOT] ✅ Loaded pending queue: 2701 total (2681 pending, 20 enriched, 0 posted)
+[2026-01-13T04:51:17.084Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-13T04:51:17.229Z] [BOT] ✅ Loaded pending queue: 2702 total (2682 pending, 20 enriched, 0 posted)
 [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
-[BOT] 🔍 Sample enriched job: Account Executive, Commercial at samsara
-[2026-01-13T04:19:40.907Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
-[2026-01-13T04:19:40.907Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
-[2026-01-13T04:19:40.908Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
-[2026-01-13T04:19:40.908Z] [BOT] 📋 After multi-location grouping: 7 unique jobs to post
-[2026-01-13T04:19:40.909Z] [BOT] (13 grouped as same job with different locations)
-📍 3 jobs with multiple locations:
-   - Account Executive, Commercial @ samsara: columbus, denver, los angeles, salt lake, san diego, seattle, boston, atlanta, phoenix, arizona, portland
-   - Core Enterprise Account Executive EST/CST - Remote - Austin, TX @ samsara: austin, chicago, dallas, houston, texas
-   - Director, Sales Commissions @ samsara: phoenix, arizona, united states, atlanta, georgia, united states
-⏸️ Limiting to 10 jobs this run, 13 deferred for next run
-[2026-01-13T04:19:40.909Z] [BOT] 📤 Posting 7 jobs...
+[BOT] 🔍 Sample enriched job: Executive Assistant, Go to Market at samsara
+[2026-01-13T04:51:17.230Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
+[2026-01-13T04:51:17.231Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
+[2026-01-13T04:51:17.231Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
+[2026-01-13T04:51:17.231Z] [BOT] 📋 After multi-location grouping: 8 unique jobs to post
+[2026-01-13T04:51:17.232Z] [BOT] (12 grouped as same job with different locations)
+📍 2 jobs with multiple locations:
+   - Mid-Market Account Development Representative - Outbound @ samsara: atlanta, phoenix
+   - Select Major Account Executive EST/CST @ samsara: milwaukee, chicago, atlanta, austin, baltimore, boston, charlotte, columbia, dallas
+⏸️ Limiting to 10 jobs this run, 12 deferred for next run
+📤 Posting 8 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-13T04:19:40.913Z] [BOT] 📌 Posting 6 jobs to #💲・sales-jobs
-[2026-01-13T04:19:40.914Z] [BOT] 📍 [ROUTING] "Account Executive, Commercial" @ samsara
-   Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-13T04:19:40.918Z] [BOT ERROR] (node:2399) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-13T04:51:17.237Z] [BOT] 📌 Posting 1 jobs to #📁・JID_e938df7b
+[2026-01-13T04:51:17.238Z] [BOT] 📍 [ROUTING] "Executive Assistant, Go to Market" @ samsara
+   Category: HR (matched: "hr")
+   Channel: 📁・JID_e938df7b (1391...7674)
+[2026-01-13T04:51:17.242Z] [BOT ERROR] (node:2418) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-13T04:19:41.296Z] [BOT] ✅ Created forum post: 🏢 Account Executive, Commercial @ samsara in #💲・sales-jobs
-[2026-01-13T04:19:41.296Z] [BOT] ✅ Industry: Account Executive, Commercial @ samsara
-[2026-01-13T04:19:42.799Z] [BOT] 💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-[2026-01-13T04:19:42.799Z] [BOT] 💾 BEFORE ARCHIVING: 681 jobs in database
-[2026-01-13T04:19:42.800Z] [BOT] 📁 Created archive directory: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/data/archive
-[2026-01-13T04:19:42.805Z] [BOT] 📦 Archived 1 jobs to 2026-01.json (1 total in archive)
-[2026-01-13T04:19:42.805Z] [BOT] ✅ Archiving complete: 1 archived, 680 active
-[2026-01-13T04:19:42.811Z] [BOT] 💾 Saved posted_jobs.json: 680 active jobs
-[2026-01-13T04:19:42.811Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:42.811Z] [BOT] 💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-💾 BEFORE ARCHIVING: 681 jobs in database
-[2026-01-13T04:19:42.812Z] [BOT] ✅ No jobs to archive (all 681 jobs within 7-day window)
-[2026-01-13T04:19:42.816Z] [BOT] 💾 Saved posted_jobs.json: 681 active jobs
-[2026-01-13T04:19:42.817Z] [BOT] ✅ Verified: Database file matches in-memory state
-💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-💾 BEFORE ARCHIVING: 682 jobs in database
-[2026-01-13T04:19:42.817Z] [BOT] ✅ No jobs to archive (all 682 jobs within 7-day window)
-[2026-01-13T04:19:42.822Z] [BOT] 💾 Saved posted_jobs.json: 682 active jobs
-[2026-01-13T04:19:42.822Z] [BOT] ✅ Verified: Database file matches in-memory state
-💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-[2026-01-13T04:19:42.822Z] [BOT] 💾 BEFORE ARCHIVING: 683 jobs in database
-[2026-01-13T04:19:42.823Z] [BOT] ✅ No jobs to archive (all 683 jobs within 7-day window)
-[2026-01-13T04:19:42.827Z] [BOT] 💾 Saved posted_jobs.json: 683 active jobs
-[2026-01-13T04:19:42.828Z] [BOT] ✅ Verified: Database file matches in-memory state
-💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-[2026-01-13T04:19:42.828Z] [BOT] 💾 BEFORE ARCHIVING: 684 jobs in database
-[2026-01-13T04:19:42.828Z] [BOT] ✅ No jobs to archive (all 684 jobs within 7-day window)
-[2026-01-13T04:19:42.833Z] [BOT] 💾 Saved posted_jobs.json: 684 active jobs
+[2026-01-13T04:51:17.904Z] [BOT] ✅ Created forum post: 🏢 Executive Assistant, Go to Market @ samsara in #📁・JID_e938df7b
+  ✅ Industry: Executive Assistant, Go to Market @ samsara
+[2026-01-13T04:51:19.794Z] [BOT] ✅ Created forum post: 🏢 Executive Assistant, Go to Market @ samsara in #🌉・san-francisco
+[2026-01-13T04:51:19.794Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-13T04:51:21.296Z] [BOT] 💾 Marked as posted: Executive Assistant, Go to Market @ samsara (instance #1)
+[2026-01-13T04:51:21.296Z] [BOT] 💾 BEFORE ARCHIVING: 700 jobs in database
+[2026-01-13T04:51:21.297Z] [BOT] 📁 Created archive directory: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/data/archive
+[2026-01-13T04:51:21.300Z] [BOT] 📦 Archived 1 jobs to 2026-01.json (1 total in archive)
+[2026-01-13T04:51:21.301Z] [BOT] ✅ Archiving complete: 1 archived, 699 active
+[2026-01-13T04:51:21.307Z] [BOT] 💾 Saved posted_jobs.json: 699 active jobs
+[2026-01-13T04:51:21.307Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:24.308Z] [BOT] 📌 Posting 1 jobs to #💻・tech-jobs
+[2026-01-13T04:51:24.308Z] [BOT] 📍 [ROUTING] "Hardware Solutions Firmware Engineer" @ samsara
+   Category: TECH (matched: "engineer/engineering")
+[2026-01-13T04:51:24.308Z] [BOT] Channel: 💻・tech-jobs (1391...8819)
+[2026-01-13T04:51:24.869Z] [BOT] ✅ Created forum post: 🏢 Hardware Solutions Firmware Engineer @ samsara in #💻・tech-jobs
+[2026-01-13T04:51:24.869Z] [BOT] ✅ Industry: Hardware Solutions Firmware Engineer @ samsara
+[2026-01-13T04:51:26.645Z] [BOT] ✅ Created forum post: 🏢 Hardware Solutions Firmware Engineer @ samsara in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-13T04:51:28.147Z] [BOT] 💾 Marked as posted: Hardware Solutions Firmware Engineer @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 700 jobs in database
+[2026-01-13T04:51:28.147Z] [BOT] ✅ No jobs to archive (all 700 jobs within 7-day window)
+[2026-01-13T04:51:28.153Z] [BOT] 💾 Saved posted_jobs.json: 700 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:42.833Z] [BOT] 💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-[2026-01-13T04:19:42.833Z] [BOT] 💾 BEFORE ARCHIVING: 685 jobs in database
-[2026-01-13T04:19:42.834Z] [BOT] ✅ No jobs to archive (all 685 jobs within 7-day window)
-[2026-01-13T04:19:42.839Z] [BOT] 💾 Saved posted_jobs.json: 685 active jobs
-[2026-01-13T04:19:42.839Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:42.839Z] [BOT] 💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-💾 BEFORE ARCHIVING: 686 jobs in database
-[2026-01-13T04:19:42.839Z] [BOT] ✅ No jobs to archive (all 686 jobs within 7-day window)
-[2026-01-13T04:19:42.844Z] [BOT] 💾 Saved posted_jobs.json: 686 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:42.844Z] [BOT] 💾 Marked as posted: Account Executive, Commercial @ samsara (instance #1)
-[2026-01-13T04:19:42.844Z] [BOT] 💾 BEFORE ARCHIVING: 687 jobs in database
-[2026-01-13T04:19:42.844Z] [BOT] ✅ No jobs to archive (all 687 jobs within 7-day window)
-[2026-01-13T04:19:42.849Z] [BOT] 💾 Saved posted_jobs.json: 687 active jobs
-[2026-01-13T04:19:42.849Z] [BOT] ✅ Verified: Database file matches in-memory state
-💾 Marked as posted: Account Executive, Commercial - (Phoenix, AR) @ samsara (instance #1)
-[2026-01-13T04:19:42.849Z] [BOT] 💾 BEFORE ARCHIVING: 688 jobs in database
-[2026-01-13T04:19:42.849Z] [BOT] ✅ No jobs to archive (all 688 jobs within 7-day window)
-[2026-01-13T04:19:42.854Z] [BOT] 💾 Saved posted_jobs.json: 688 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:42.854Z] [BOT] 💾 Marked as posted: Account Executive, Commercial - (Portland, OR) @ samsara (instance #1)
-[2026-01-13T04:19:42.854Z] [BOT] 💾 BEFORE ARCHIVING: 689 jobs in database
-[2026-01-13T04:19:42.854Z] [BOT] ✅ No jobs to archive (all 689 jobs within 7-day window)
-[2026-01-13T04:19:42.859Z] [BOT] 💾 Saved posted_jobs.json: 689 active jobs
-[2026-01-13T04:19:42.859Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:42.859Z] [BOT] 📍 [ROUTING] "Customer Success Associate" @ samsara
-[2026-01-13T04:19:42.860Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-13T04:19:43.931Z] [BOT] ✅ Created forum post: 🏢 Customer Success Associate @ samsara in #💲・sales-jobs
-[2026-01-13T04:19:43.931Z] [BOT] ✅ Industry: Customer Success Associate @ samsara
-[2026-01-13T04:19:45.635Z] [BOT] ✅ Created forum post: 🏢 Customer Success Associate @ samsara in #💻・remote-usa
-[2026-01-13T04:19:45.635Z] [BOT] ✅ Location: 💻・remote-usa
-[2026-01-13T04:19:47.136Z] [BOT] 💾 Marked as posted: Customer Success Associate @ samsara (instance #1)
-[2026-01-13T04:19:47.136Z] [BOT] 💾 BEFORE ARCHIVING: 690 jobs in database
-[2026-01-13T04:19:47.137Z] [BOT] ✅ No jobs to archive (all 690 jobs within 7-day window)
-[2026-01-13T04:19:47.142Z] [BOT] 💾 Saved posted_jobs.json: 690 active jobs
-[2026-01-13T04:19:47.142Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:47.142Z] [BOT] 📍 [ROUTING] "Director, Sales Commissions" @ samsara
+[2026-01-13T04:51:31.154Z] [BOT] 📌 Posting 5 jobs to #💲・sales-jobs
+[2026-01-13T04:51:31.154Z] [BOT] 📍 [ROUTING] "Manager Account Development, Relocation to Atlanta" @ samsara
    Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-13T04:19:47.370Z] [BOT] ✅ Created forum post: 🏢 Director, Sales Commissions @ samsara in #💲・sales-jobs
-[2026-01-13T04:19:47.370Z] [BOT] ✅ Industry: Director, Sales Commissions @ samsara
-[2026-01-13T04:19:48.870Z] [BOT] 💾 Marked as posted: Director, Sales Commissions @ samsara (instance #1)
-[2026-01-13T04:19:48.870Z] [BOT] 💾 BEFORE ARCHIVING: 691 jobs in database
-[2026-01-13T04:19:48.871Z] [BOT] ✅ No jobs to archive (all 691 jobs within 7-day window)
-[2026-01-13T04:19:48.876Z] [BOT] 💾 Saved posted_jobs.json: 691 active jobs
+[2026-01-13T04:51:31.155Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
+[2026-01-13T04:51:31.404Z] [BOT] ✅ Created forum post: 🏢 Manager Account Development, Relocation to Atlanta @ samsara in #💲・sales-jobs
+[2026-01-13T04:51:31.404Z] [BOT] ✅ Industry: Manager Account Development, Relocation to Atlanta @ samsara
+[2026-01-13T04:51:32.907Z] [BOT] 💾 Marked as posted: Manager Account Development, Relocation to Atlanta @ samsara (instance #1)
+[2026-01-13T04:51:32.907Z] [BOT] 💾 BEFORE ARCHIVING: 701 jobs in database
+[2026-01-13T04:51:32.908Z] [BOT] ✅ No jobs to archive (all 701 jobs within 7-day window)
+[2026-01-13T04:51:32.914Z] [BOT] 💾 Saved posted_jobs.json: 701 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:48.876Z] [BOT] 💾 Marked as posted: Director, Sales Commissions @ samsara (instance #1)
-[2026-01-13T04:19:48.876Z] [BOT] 💾 BEFORE ARCHIVING: 692 jobs in database
-[2026-01-13T04:19:48.877Z] [BOT] ✅ No jobs to archive (all 692 jobs within 7-day window)
-[2026-01-13T04:19:48.882Z] [BOT] 💾 Saved posted_jobs.json: 692 active jobs
-[2026-01-13T04:19:48.882Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:48.882Z] [BOT] 📍 [ROUTING] "Enterprise Account Development Representative - Outbound" @ samsara
-[2026-01-13T04:19:48.882Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-13T04:19:49.165Z] [BOT] ✅ Created forum post: 🏢 Enterprise Account Development Representative - Outbound @ samsara in #💲・sales-jobs
-  ✅ Industry: Enterprise Account Development Representative - Outbound @ samsara
-[2026-01-13T04:19:50.668Z] [BOT] 💾 Marked as posted: Enterprise Account Development Representative - Outbound @ samsara (instance #1)
-[2026-01-13T04:19:50.668Z] [BOT] 💾 BEFORE ARCHIVING: 693 jobs in database
-[2026-01-13T04:19:50.669Z] [BOT] ✅ No jobs to archive (all 693 jobs within 7-day window)
-[2026-01-13T04:19:50.675Z] [BOT] 💾 Saved posted_jobs.json: 693 active jobs
+[2026-01-13T04:51:32.914Z] [BOT] 💾 Marked as posted: Manager Account Development, Relocation to Atlanta @ samsara (instance #1)
+[2026-01-13T04:51:32.914Z] [BOT] 💾 BEFORE ARCHIVING: 702 jobs in database
+[2026-01-13T04:51:32.914Z] [BOT] ✅ No jobs to archive (all 702 jobs within 7-day window)
+[2026-01-13T04:51:32.920Z] [BOT] 💾 Saved posted_jobs.json: 702 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:50.675Z] [BOT] 📍 [ROUTING] "Enterprise Business Development Representative- Outbound" @ samsara
-[2026-01-13T04:19:50.675Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-13T04:19:50.904Z] [BOT] ✅ Created forum post: 🏢 Enterprise Business Development Representative- Outbound @ samsara in #💲・sales-jobs
-[2026-01-13T04:19:50.904Z] [BOT] ✅ Industry: Enterprise Business Development Representative- Outbound @ samsara
-[2026-01-13T04:19:52.406Z] [BOT] 💾 Marked as posted: Enterprise Business Development Representative- Outbound @ samsara (instance #1)
-[2026-01-13T04:19:52.406Z] [BOT] 💾 BEFORE ARCHIVING: 694 jobs in database
-[2026-01-13T04:19:52.407Z] [BOT] ✅ No jobs to archive (all 694 jobs within 7-day window)
-[2026-01-13T04:19:52.412Z] [BOT] 💾 Saved posted_jobs.json: 694 active jobs
+[2026-01-13T04:51:32.920Z] [BOT] 💾 Marked as posted: Manager Account Development, Relocation to Atlanta @ samsara (instance #1)
+[2026-01-13T04:51:32.920Z] [BOT] 💾 BEFORE ARCHIVING: 703 jobs in database
+[2026-01-13T04:51:32.920Z] [BOT] ✅ No jobs to archive (all 703 jobs within 7-day window)
+[2026-01-13T04:51:32.925Z] [BOT] 💾 Saved posted_jobs.json: 703 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:52.412Z] [BOT] 📍 [ROUTING] "Enterprise Implementation Consultant" @ samsara
-[2026-01-13T04:19:52.412Z] [BOT] Category: SALES (matched: "sales")
+[2026-01-13T04:51:32.926Z] [BOT] 💾 Marked as posted: Manager Account Development, Relocation to Atlanta @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 704 jobs in database
+[2026-01-13T04:51:32.926Z] [BOT] ✅ No jobs to archive (all 704 jobs within 7-day window)
+[2026-01-13T04:51:32.930Z] [BOT] 💾 Saved posted_jobs.json: 704 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:32.931Z] [BOT] 📍 [ROUTING] "Manager of Account Development" @ samsara
+[2026-01-13T04:51:32.931Z] [BOT] Category: SALES (matched: "sales")
    Channel: 💲・sales-jobs (1391...3632)
-[2026-01-13T04:19:52.684Z] [BOT] ✅ Created forum post: 🏢 Enterprise Implementation Consultant @ samsara in #💲・sales-jobs
-  ✅ Industry: Enterprise Implementation Consultant @ samsara
-[2026-01-13T04:19:54.408Z] [BOT] ✅ Created forum post: 🏢 Enterprise Implementation Consultant @ samsara in #💻・remote-usa
+[2026-01-13T04:51:33.137Z] [BOT] ✅ Created forum post: 🏢 Manager of Account Development @ samsara in #💲・sales-jobs
+  ✅ Industry: Manager of Account Development @ samsara
+[2026-01-13T04:51:35.013Z] [BOT] ✅ Created forum post: 🏢 Manager of Account Development @ samsara in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2026-01-13T04:19:55.910Z] [BOT] 💾 Marked as posted: Enterprise Implementation Consultant @ samsara (instance #1)
-[2026-01-13T04:19:55.910Z] [BOT] 💾 BEFORE ARCHIVING: 695 jobs in database
-[2026-01-13T04:19:55.910Z] [BOT] ✅ No jobs to archive (all 695 jobs within 7-day window)
-[2026-01-13T04:19:55.916Z] [BOT] 💾 Saved posted_jobs.json: 695 active jobs
-[2026-01-13T04:19:55.916Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:19:58.917Z] [BOT] 📌 Posting 1 jobs to #📈・JID_fb739488
-[2026-01-13T04:19:58.917Z] [BOT] 📍 [ROUTING] "Core Enterprise Account Executive EST/CST - Remote - Austin, TX" @ samsara
-[2026-01-13T04:19:58.918Z] [BOT] Category: DATA-SCIENCE (matched: "analytics")
-   Channel: 📈・JID_fb739488 (1446...2761)
-   ⚠️  Multiple matches: dsMatch, nonTechMatch (using data-science)
-[2026-01-13T04:19:59.269Z] [BOT] ✅ Created forum post: 🏢 Core Enterprise Account Executive EST/CST - Remote - Austin, TX @ samsara in #📈・JID_fb739488
-  ✅ Industry: Core Enterprise Account Executive EST/CST - Remote - Austin, TX @ samsara
-[2026-01-13T04:20:01.082Z] [BOT] ✅ Created forum post: 🏢 Core Enterprise Account Executive EST/CST - Remote - Austin, TX @ samsara in #🤠・austin
-  ✅ Location: 🤠・austin
-[2026-01-13T04:20:02.582Z] [BOT] 💾 Marked as posted: Core Enterprise Account Executive EST/CST - Remote - Austin, TX @ samsara (instance #1)
-[2026-01-13T04:20:02.582Z] [BOT] 💾 BEFORE ARCHIVING: 696 jobs in database
-[2026-01-13T04:20:02.582Z] [BOT] ✅ No jobs to archive (all 696 jobs within 7-day window)
-[2026-01-13T04:20:02.589Z] [BOT] 💾 Saved posted_jobs.json: 696 active jobs
-[2026-01-13T04:20:02.589Z] [BOT] ✅ Verified: Database file matches in-memory state
-💾 Marked as posted: Core Enterprise Account Executive EST/CST - Remote - Chicago, IL @ samsara (instance #1)
-[2026-01-13T04:20:02.589Z] [BOT] 💾 BEFORE ARCHIVING: 697 jobs in database
-[2026-01-13T04:20:02.589Z] [BOT] ✅ No jobs to archive (all 697 jobs within 7-day window)
-[2026-01-13T04:20:02.595Z] [BOT] 💾 Saved posted_jobs.json: 697 active jobs
-[2026-01-13T04:20:02.595Z] [BOT] ✅ Verified: Database file matches in-memory state
-💾 Marked as posted: Core Enterprise Account Executive EST/CST - Remote - Dallas, TX @ samsara (instance #1)
-💾 BEFORE ARCHIVING: 698 jobs in database
-[2026-01-13T04:20:02.595Z] [BOT] ✅ No jobs to archive (all 698 jobs within 7-day window)
-[2026-01-13T04:20:02.601Z] [BOT] 💾 Saved posted_jobs.json: 698 active jobs
-[2026-01-13T04:20:02.601Z] [BOT] ✅ Verified: Database file matches in-memory state
-💾 Marked as posted: Core Enterprise Account Executive EST/CST - Remote - Houston, TX @ samsara (instance #1)
-💾 BEFORE ARCHIVING: 699 jobs in database
-[2026-01-13T04:20:02.601Z] [BOT] ✅ No jobs to archive (all 699 jobs within 7-day window)
-[2026-01-13T04:20:02.606Z] [BOT] 💾 Saved posted_jobs.json: 699 active jobs
-[2026-01-13T04:20:02.606Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-13T04:20:05.607Z] [BOT] 🎉 Posting complete! Successfully posted: 7, Failed: 0
-[2026-01-13T04:20:05.608Z] [BOT] ⏭️  Skipping duplicate: JID_70e975da (posted within 7 days)
-[2026-01-13T04:20:05.608Z] [BOT] ⏭️  Skipping duplicate: JID_e437aa26 (posted within 7 days)
-[2026-01-13T04:20:05.608Z] [BOT] ⏭️  Skipping duplicate: JID_49fc1d4b (posted within 7 days)
-[2026-01-13T04:20:05.608Z] [BOT] ⏭️  Skipping duplicate: JID_6895993a (posted within 7 days)
-[2026-01-13T04:20:05.608Z] [BOT] ⏭️  Skipping duplicate: JID_97f60550 (posted within 7 days)
-[2026-01-13T04:20:05.608Z] [BOT] ⏭️  Skipping duplicate: JID_7f77c8d1 (posted within 7 days)
-[2026-01-13T04:20:05.608Z] [BOT] ⏭️  Skipping duplicate: JID_ff256bbe (posted within 7 days)
-[2026-01-13T04:20:05.719Z] [BOT] ✅ Loaded pending queue: 2701 total (2681 pending, 20 enriched, 0 posted)
-[2026-01-13T04:20:05.880Z] [BOT] ✅ Saved pending queue: 2701 total (2681 pending, 13 enriched, 7 posted)
-[2026-01-13T04:20:05.881Z] [BOT] 📋 Updated queue: marked 7 jobs as posted
+[2026-01-13T04:51:36.514Z] [BOT] 💾 Marked as posted: Manager of Account Development @ samsara (instance #1)
+[2026-01-13T04:51:36.514Z] [BOT] 💾 BEFORE ARCHIVING: 705 jobs in database
+[2026-01-13T04:51:36.515Z] [BOT] ✅ No jobs to archive (all 705 jobs within 7-day window)
+[2026-01-13T04:51:36.520Z] [BOT] 💾 Saved posted_jobs.json: 705 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:36.520Z] [BOT] 📍 [ROUTING] "Mid-Market Account Development Representative - Outbound" @ samsara
+   Category: SALES (matched: "sales")
+[2026-01-13T04:51:36.520Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
+[2026-01-13T04:51:36.767Z] [BOT] ✅ Created forum post: 🏢 Mid-Market Account Development Representative - Outbound @ samsara in #💲・sales-jobs
+  ✅ Industry: Mid-Market Account Development Representative - Outbound @ samsara
+[2026-01-13T04:51:38.269Z] [BOT] 💾 Marked as posted: Mid-Market Account Development Representative - Outbound @ samsara (instance #1)
+[2026-01-13T04:51:38.269Z] [BOT] 💾 BEFORE ARCHIVING: 706 jobs in database
+[2026-01-13T04:51:38.270Z] [BOT] ✅ No jobs to archive (all 706 jobs within 7-day window)
+[2026-01-13T04:51:38.275Z] [BOT] 💾 Saved posted_jobs.json: 706 active jobs
+[2026-01-13T04:51:38.275Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:38.275Z] [BOT] 💾 Marked as posted: Mid-Market Account Development Representative - Outbound @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 707 jobs in database
+[2026-01-13T04:51:38.275Z] [BOT] ✅ No jobs to archive (all 707 jobs within 7-day window)
+[2026-01-13T04:51:38.280Z] [BOT] 💾 Saved posted_jobs.json: 707 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:38.281Z] [BOT] 📍 [ROUTING] "Public Sector Major Account Executive" @ samsara
+   Category: SALES (matched: "sales")
+[2026-01-13T04:51:38.281Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
+[2026-01-13T04:51:38.537Z] [BOT] ✅ Created forum post: 🏢 Public Sector Major Account Executive @ samsara in #💲・sales-jobs
+  ✅ Industry: Public Sector Major Account Executive @ samsara
+[2026-01-13T04:51:40.040Z] [BOT] 💾 Marked as posted: Public Sector Major Account Executive @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 708 jobs in database
+[2026-01-13T04:51:40.040Z] [BOT] ✅ No jobs to archive (all 708 jobs within 7-day window)
+[2026-01-13T04:51:40.045Z] [BOT] 💾 Saved posted_jobs.json: 708 active jobs
+[2026-01-13T04:51:40.045Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:40.046Z] [BOT] 📍 [ROUTING] "Select Major Account Executive EST/CST" @ samsara
+   Category: SALES (matched: "sales")
+[2026-01-13T04:51:40.046Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
+[2026-01-13T04:51:40.273Z] [BOT] ✅ Created forum post: 🏢 Select Major Account Executive EST/CST @ samsara in #💲・sales-jobs
+  ✅ Industry: Select Major Account Executive EST/CST @ samsara
+[2026-01-13T04:51:41.775Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST @ samsara (instance #1)
+[2026-01-13T04:51:41.775Z] [BOT] 💾 BEFORE ARCHIVING: 709 jobs in database
+[2026-01-13T04:51:41.776Z] [BOT] ✅ No jobs to archive (all 709 jobs within 7-day window)
+[2026-01-13T04:51:41.780Z] [BOT] 💾 Saved posted_jobs.json: 709 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:41.780Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST @ samsara (instance #1)
+[2026-01-13T04:51:41.780Z] [BOT] 💾 BEFORE ARCHIVING: 710 jobs in database
+[2026-01-13T04:51:41.781Z] [BOT] ✅ No jobs to archive (all 710 jobs within 7-day window)
+[2026-01-13T04:51:41.786Z] [BOT] 💾 Saved posted_jobs.json: 710 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:41.786Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST - Atlanta, GA @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 711 jobs in database
+[2026-01-13T04:51:41.786Z] [BOT] ✅ No jobs to archive (all 711 jobs within 7-day window)
+[2026-01-13T04:51:41.792Z] [BOT] 💾 Saved posted_jobs.json: 711 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:41.792Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST - Austin, TX @ samsara (instance #1)
+[2026-01-13T04:51:41.792Z] [BOT] 💾 BEFORE ARCHIVING: 712 jobs in database
+[2026-01-13T04:51:41.793Z] [BOT] ✅ No jobs to archive (all 712 jobs within 7-day window)
+[2026-01-13T04:51:41.798Z] [BOT] 💾 Saved posted_jobs.json: 712 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:41.798Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST - Baltimore, MD @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 713 jobs in database
+[2026-01-13T04:51:41.798Z] [BOT] ✅ No jobs to archive (all 713 jobs within 7-day window)
+[2026-01-13T04:51:41.803Z] [BOT] 💾 Saved posted_jobs.json: 713 active jobs
+[2026-01-13T04:51:41.803Z] [BOT] ✅ Verified: Database file matches in-memory state
+💾 Marked as posted: Select Major Account Executive EST/CST - Boston, MA @ samsara (instance #1)
+[2026-01-13T04:51:41.803Z] [BOT] 💾 BEFORE ARCHIVING: 714 jobs in database
+[2026-01-13T04:51:41.804Z] [BOT] ✅ No jobs to archive (all 714 jobs within 7-day window)
+[2026-01-13T04:51:41.809Z] [BOT] 💾 Saved posted_jobs.json: 714 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:41.809Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST - Charlotte, NC @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 715 jobs in database
+[2026-01-13T04:51:41.810Z] [BOT] ✅ No jobs to archive (all 715 jobs within 7-day window)
+[2026-01-13T04:51:41.814Z] [BOT] 💾 Saved posted_jobs.json: 715 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:41.814Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST - Columbia, SC @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 716 jobs in database
+[2026-01-13T04:51:41.815Z] [BOT] ✅ No jobs to archive (all 716 jobs within 7-day window)
+[2026-01-13T04:51:41.820Z] [BOT] 💾 Saved posted_jobs.json: 716 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:41.820Z] [BOT] 💾 Marked as posted: Select Major Account Executive EST/CST - Dallas, TX @ samsara (instance #1)
+💾 BEFORE ARCHIVING: 717 jobs in database
+[2026-01-13T04:51:41.821Z] [BOT] ✅ No jobs to archive (all 717 jobs within 7-day window)
+[2026-01-13T04:51:41.825Z] [BOT] 💾 Saved posted_jobs.json: 717 active jobs
+[2026-01-13T04:51:41.825Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:44.827Z] [BOT] 📌 Posting 1 jobs to #🏗️・JID_b7c6683f
+[2026-01-13T04:51:44.827Z] [BOT] 📍 [ROUTING] "Manager II, Shipping and Receiving Logistics" @ samsara
+   Category: SUPPLY-CHAIN (matched: "logistics")
+   Channel: 🏗️・JID_b7c6683f (1391...9058)
+[2026-01-13T04:51:45.063Z] [BOT] ✅ Created forum post: 🏢 Manager II, Shipping and Receiving Logistics @ samsara in #🏗️・JID_b7c6683f
+  ✅ Industry: Manager II, Shipping and Receiving Logistics @ samsara
+[2026-01-13T04:51:46.870Z] [BOT] ✅ Created forum post: 🏢 Manager II, Shipping and Receiving Logistics @ samsara in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-13T04:51:48.370Z] [BOT] 💾 Marked as posted: Manager II, Shipping and Receiving Logistics @ samsara (instance #1)
+[2026-01-13T04:51:48.371Z] [BOT] 💾 BEFORE ARCHIVING: 718 jobs in database
+[2026-01-13T04:51:48.371Z] [BOT] ✅ No jobs to archive (all 718 jobs within 7-day window)
+[2026-01-13T04:51:48.377Z] [BOT] 💾 Saved posted_jobs.json: 718 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-13T04:51:51.378Z] [BOT] 🎉 Posting complete! Successfully posted: 8, Failed: 0
+[2026-01-13T04:51:51.378Z] [BOT] ⏭️  Skipping duplicate: JID_26334b8f (posted within 7 days)
+⏭️  Skipping duplicate: JID_b46f8a25 (posted within 7 days)
+[2026-01-13T04:51:51.379Z] [BOT] ⏭️  Skipping duplicate: JID_388792bf (posted within 7 days)
+[2026-01-13T04:51:51.379Z] [BOT] ⏭️  Skipping duplicate: JID_28280aa3 (posted within 7 days)
+[2026-01-13T04:51:51.379Z] [BOT] ⏭️  Skipping duplicate: JID_15826a9c (posted within 7 days)
+[2026-01-13T04:51:51.379Z] [BOT] ⏭️  Skipping duplicate: JID_cd31e500 (posted within 7 days)
+[2026-01-13T04:51:51.379Z] [BOT] ⏭️  Skipping duplicate: JID_b84897e7 (posted within 7 days)
+[2026-01-13T04:51:51.379Z] [BOT] ⏭️  Skipping duplicate: JID_3e169f30 (posted within 7 days)
+[2026-01-13T04:51:51.527Z] [BOT] ✅ Loaded pending queue: 2702 total (2682 pending, 20 enriched, 0 posted)
+[2026-01-13T04:51:51.693Z] [BOT] ✅ Saved pending queue: 2702 total (2682 pending, 12 enriched, 8 posted)
+[2026-01-13T04:51:51.693Z] [BOT] 📋 Updated queue: marked 8 jobs as posted
 ✅ All posting operations complete, cleaning up...
-[2026-01-13T04:20:05.932Z] [BOT] 📂 Loaded 2866 existing routing entries
-[2026-01-13T04:20:05.987Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-[2026-01-13T04:20:05.988Z] [BOT] New entries: 7
-   Total entries: 2873
-   Timestamp: 2026-01-13T04:20:05.975Z
-[2026-01-13T04:20:05.988Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_540e3454.jsonl
-   Total attempts: 10
-   Successful: 10
-   Failed: 0
+[2026-01-13T04:51:51.747Z] [BOT] 📂 Loaded 2873 existing routing entries
+[2026-01-13T04:51:51.802Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 8
+   Total entries: 2881
+   Timestamp: 2026-01-13T04:51:51.792Z
+[2026-01-13T04:51:51.803Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_540e3454.jsonl
+   Total attempts: 12
+   Successful: 12
+[2026-01-13T04:51:51.803Z] [BOT] Failed: 0
    Skipped: 0
-[2026-01-13T04:20:05.988Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
-   Last cleanup: Never
-[2026-01-13T04:20:05.988Z] [BOT] Total posts: 10
-   Channels used: 4
+[2026-01-13T04:51:51.803Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+[2026-01-13T04:51:51.803Z] [BOT] Last cleanup: Never
+   Total posts: 12
+   Channels used: 6
    Top channels:
-     1. #💲・sales-jobs: 6 posts
-     2. #💻・remote-usa: 2 posts
-     3. #📈・JID_fb739488: 1 posts
-[2026-01-13T04:20:05.989Z] [BOT] 4. #🤠・austin: 1 posts
-[2026-01-13T04:20:05.989Z] [BOT] [STATS] Channel stats saved
-[2026-01-13T04:20:08.012Z] 
-========================================
+[2026-01-13T04:51:51.804Z] [BOT] 1. #💲・sales-jobs: 5 posts
+     2. #🌉・san-francisco: 3 posts
+     3. #📁・JID_e938df7b: 1 posts
+     4. #💻・tech-jobs: 1 posts
+     5. #💻・remote-usa: 1 posts
+[2026-01-13T04:51:51.804Z] [BOT] [STATS] Channel stats saved
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2399) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2418) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
