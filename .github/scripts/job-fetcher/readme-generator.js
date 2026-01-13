@@ -505,7 +505,7 @@ Experience an advanced career journey with us! 🚀
 <p align="center">
   <a href="https://zapply.jobs"><img src="images/zapply-jobs.png" alt="Zapply Jobs" height="50"></a>
   &nbsp;&nbsp;
-  <a href="https://zapply.jobs"><img src="images/chrome-extension.png" alt="Chrome Extension" height="50"></a>
+  <img src="images/chrome-extension-disabled.png" alt="Chrome Extension - Coming Soon" height="50" title="Coming Soon">
 </p>
 
 ---
