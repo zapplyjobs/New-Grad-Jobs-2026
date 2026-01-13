@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T20:42:59.867Z",
+  "lastUpdated": "2026-01-13T21:01:33.600Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7137624-2026-01-06-1",
-      "jobId": "careers-datadoghq-com-detail-7137624",
-      "company": "datadog",
-      "title": "Sales Development Representative (Denver)",
-      "postedToDiscord": "2026-01-06T20:52:07.954Z",
-      "sourceDate": "2026-01-06T15:47:49-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624",
-      "discordThreadId": "1458201485904056393",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5056822008-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5056822008",
@@ -10737,14 +10726,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935567008",
       "discordThreadId": "1460735893584482455",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985140008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985140008",
+      "company": "anthropic",
+      "title": "Business Systems Analyst ",
+      "postedToDiscord": "2026-01-13T21:00:51.200Z",
+      "sourceDate": "2025-12-17T10:04:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985140008",
+      "discordThreadId": "1460740386971582747",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-data-engineer-iii_r-2350035-2026-01-13-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-data-engineer-iii_r-2350035",
+      "company": "Walmart",
+      "title": "Data Engineer 3",
+      "postedToDiscord": "2026-01-13T21:00:54.872Z",
+      "sourceDate": "2025-12-16T23:54:37.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Data-Engineer-III_R-2350035",
+      "discordThreadId": "1460740403149013026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-plano-legacy-data-engineer-i_r0114228-2026-01-13-1",
+      "jobId": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-plano-legacy-data-engineer-i_r0114228",
+      "company": "USAA",
+      "title": "Data Engineer 1",
+      "postedToDiscord": "2026-01-13T21:00:58.538Z",
+      "sourceDate": "2025-12-16T23:34:26.000Z",
+      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-I_R0114228",
+      "discordThreadId": "1460740418676461771",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ml-systems-new-college-grad-2026_jr2010161-2026-01-13-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ml-systems-new-college-grad-2026_jr2010161",
+      "company": "NVIDIA",
+      "title": "Research Scientist New College Grad - ML Systems",
+      "postedToDiscord": "2026-01-13T21:01:05.294Z",
+      "sourceDate": "2025-12-17T02:25:34.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
+      "discordThreadId": "1460740446694408222",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-intern-lti-school-of-computer-science_2023968-2026-01-13-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-intern-lti-school-of-computer-science_2023968",
+      "company": "Carnegie Mellon University",
+      "title": "Research Associate - Lti - School of Computer Science",
+      "postedToDiscord": "2026-01-13T21:01:08.875Z",
+      "sourceDate": "2025-12-16T23:33:17.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---LTI---School-of-Computer-Science_2023968",
+      "discordThreadId": "1460740462124994560",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-bosonai-fab6b3b2-f6d2-4c06-a0ae-2d747a16cf02-apply-2026-01-13-1",
+      "jobId": "jobs-lever-co-bosonai-fab6b3b2-f6d2-4c06-a0ae-2d747a16cf02-apply",
+      "company": "Boson Ai",
+      "title": "Data Annotation - QC and Crawling - Thai",
+      "postedToDiscord": "2026-01-13T21:01:12.758Z",
+      "sourceDate": "2025-12-16T23:15:04.000Z",
+      "sourceUrl": "https://jobs.lever.co/bosonai/fab6b3b2-f6d2-4c06-a0ae-2d747a16cf02/apply",
+      "discordThreadId": "1460740477509697771",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-associate-college-of-engineering-electrical-and-computer-engineering_2023997-2026-01-13-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-associate-college-of-engineering-electrical-and-computer-engineering_2023997",
+      "company": "Carnegie Mellon University",
+      "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
+      "postedToDiscord": "2026-01-13T21:01:19.324Z",
+      "sourceDate": "2025-12-17T00:38:01.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2023997",
+      "discordThreadId": "1460740506106597376",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-edwards-afb-data-insight-analyst-or-principal-data-insight-analyst_r10213256-2026-01-13-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-edwards-afb-data-insight-analyst-or-principal-data-insight-analyst_r10213256",
+      "company": "Northrop Grumman",
+      "title": "Data Insight Analyst - Principal Data Insight Analyst",
+      "postedToDiscord": "2026-01-13T21:01:22.849Z",
+      "sourceDate": "2025-12-16T23:43:53.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Data-Insight-Analyst-or-Principal-Data-Insight-Analyst_R10213256",
+      "discordThreadId": "1460740520870543512",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ebcs-fa-em2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-36628-2026-01-13-1",
+      "jobId": "ebcs-fa-em2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-36628",
+      "company": "Arcadis",
+      "title": "Field Geologist",
+      "postedToDiscord": "2026-01-13T21:01:27.013Z",
+      "sourceDate": "2025-12-16T23:22:32.000Z",
+      "sourceUrl": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36628",
+      "discordThreadId": "1460740536439668937",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4995014008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4995014008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Industries",
+      "postedToDiscord": "2026-01-13T21:01:33.600Z",
+      "sourceDate": "2025-12-16T18:46:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4995014008",
+      "discordThreadId": "1460740565871235299",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 976,
+    "totalJobs": 985,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T20:42:59.867Z",
+      "date": "2026-01-13T21:01:33.600Z",
       "archived": 0
     }
   }
