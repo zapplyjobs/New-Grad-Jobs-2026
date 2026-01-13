@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T23:08:35.380Z",
+  "lastUpdated": "2026-01-13T23:26:50.019Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8362678002-2026-01-06-1",
@@ -11760,14 +11760,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c",
       "discordThreadId": "1460772541588045965",
       "instanceNumber": 1
+    },
+    {
+      "id": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-quality-engineer-i_r8298-1-2026-01-13-1",
+      "jobId": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-quality-engineer-i_r8298-1",
+      "company": "AspenTech",
+      "title": "Associate Software Quality Engineer I",
+      "postedToDiscord": "2026-01-13T23:26:01.770Z",
+      "sourceDate": "2025-12-11T20:11:28.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer-I_R8298-1",
+      "discordThreadId": "1460776922672795699",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-publicstoragejobs-com-jobs-associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225-2026-01-13-1",
+      "jobId": "www-publicstoragejobs-com-jobs-associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+      "company": "Public Storage",
+      "title": "Associate Cloud Engineer",
+      "postedToDiscord": "2026-01-13T23:26:05.297Z",
+      "sourceDate": "2025-12-11T20:03:37.000Z",
+      "sourceUrl": "https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+      "discordThreadId": "1460776937814364396",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400-2026-01-13-1",
+      "jobId": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400",
+      "company": "Westinghouse Electric Company",
+      "title": "Probabilistic Risk Assessment Engineer 1",
+      "postedToDiscord": "2026-01-13T23:26:09.821Z",
+      "sourceDate": "2025-12-10T23:29:43.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Dallas-Probabilistic-Risk-Assessment-Engineer-1-TX-75201/1320348400/?ats=successfactors",
+      "discordThreadId": "1460776955292025110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-external-job-board-jobs-6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50-2026-01-13-1",
+      "jobId": "ats-rippling-com-external-job-board-jobs-6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
+      "company": "FlexGen",
+      "title": "Energy Storage Application Engineer",
+      "postedToDiscord": "2026-01-13T23:26:13.463Z",
+      "sourceDate": "2025-12-10T23:22:50.000Z",
+      "sourceUrl": "https://ats.rippling.com/external-job-board/jobs/6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
+      "discordThreadId": "1460776971473784947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8334900002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8334900002",
+      "company": "discord",
+      "title": "Product Marketing Manager, Ads ",
+      "postedToDiscord": "2026-01-13T23:26:20.057Z",
+      "sourceDate": "2025-12-11T13:24:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8334900002",
+      "discordThreadId": "1460776999550451852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5347669004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5347669004",
+      "company": "vercel",
+      "title": "Sales Engineer",
+      "postedToDiscord": "2026-01-13T23:26:26.626Z",
+      "sourceDate": "2025-12-11T12:49:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5347669004",
+      "discordThreadId": "1460777027266150492",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5732508004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5732508004",
+      "company": "figma",
+      "title": "Manager, Product Marketing ",
+      "postedToDiscord": "2026-01-13T23:26:30.273Z",
+      "sourceDate": "2025-12-10T19:12:38-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732508004?gh_jid=5732508004",
+      "discordThreadId": "1460777042030231746",
+      "instanceNumber": 1
+    },
+    {
+      "id": "guidehouse-wd1-myworkdayjobs-com-external-job-us-ga-atlanta-biostatistician-ai-data-scientist-i_34595-1-2026-01-13-1",
+      "jobId": "guidehouse-wd1-myworkdayjobs-com-external-job-us-ga-atlanta-biostatistician-ai-data-scientist-i_34595-1",
+      "company": "Guidehouse",
+      "title": "Biostatistician/AI Data Scientist 1",
+      "postedToDiscord": "2026-01-13T23:26:36.868Z",
+      "sourceDate": "2025-12-11T17:07:32.000Z",
+      "sourceUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Biostatistician-AI-Data-Scientist-I_34595-1",
+      "discordThreadId": "1460777070228410369",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ion-beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa-apply-2026-01-13-1",
+      "jobId": "jobs-lever-co-ion-beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa-apply",
+      "company": "ION Group",
+      "title": "Software Developer - 2026 Leadership Development Program - Houston",
+      "postedToDiscord": "2026-01-13T23:26:43.448Z",
+      "sourceDate": "2025-12-11T16:12:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply",
+      "discordThreadId": "1460777097290186773",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5024981008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024981008",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code Growth",
+      "postedToDiscord": "2026-01-13T23:26:50.019Z",
+      "sourceDate": "2025-12-10T19:38:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024981008",
+      "discordThreadId": "1460777125329244173",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1069,
+    "totalJobs": 1079,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T23:08:35.380Z",
+      "date": "2026-01-13T23:26:50.019Z",
       "archived": 0
     }
   }
