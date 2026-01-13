@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T21:01:33.600Z",
+  "lastUpdated": "2026-01-13T21:08:47.233Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5056822008-2026-01-06-1",
@@ -10836,14 +10836,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4995014008",
       "discordThreadId": "1460740565871235299",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5737778004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5737778004",
+      "company": "figma",
+      "title": "Strategic Program Manager",
+      "postedToDiscord": "2026-01-13T21:08:03.272Z",
+      "sourceDate": "2025-12-16T16:59:08-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737778004?gh_jid=5737778004",
+      "discordThreadId": "1460742201054331041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5735704004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5735704004",
+      "company": "vercel",
+      "title": "Staff Data Platform Engineer",
+      "postedToDiscord": "2026-01-13T21:08:09.852Z",
+      "sourceDate": "2025-12-16T15:48:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5735704004",
+      "discordThreadId": "1460742228262523062",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5737697004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5737697004",
+      "company": "vercel",
+      "title": "Manager, Customer Support Engineering",
+      "postedToDiscord": "2026-01-13T21:08:13.466Z",
+      "sourceDate": "2025-12-16T13:12:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5737697004",
+      "discordThreadId": "1460742243148103843",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8332382002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8332382002",
+      "company": "discord",
+      "title": "Senior Security Software Engineer, Detection and Response",
+      "postedToDiscord": "2026-01-13T21:08:17.023Z",
+      "sourceDate": "2025-12-16T11:42:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332382002",
+      "discordThreadId": "1460742258205655234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "warnerbros-wd5-myworkdayjobs-com-global-job-ny-new-york-30-hudson-yards-associate-software-engineer_r000101226-2026-01-13-1",
+      "jobId": "warnerbros-wd5-myworkdayjobs-com-global-job-ny-new-york-30-hudson-yards-associate-software-engineer_r000101226",
+      "company": "Warner Bros.",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-13T21:08:20.406Z",
+      "sourceDate": "2025-12-16T16:13:41.000Z",
+      "sourceUrl": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Associate-Software-Engineer_R000101226",
+      "discordThreadId": "1460742272462229715",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8161010002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8161010002",
+      "company": "discord",
+      "title": "Engineering Manager, Engagement",
+      "postedToDiscord": "2026-01-13T21:08:26.854Z",
+      "sourceDate": "2025-12-16T15:29:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8161010002",
+      "discordThreadId": "1460742300010283129",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5708732004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5708732004",
+      "company": "vercel",
+      "title": "Account Executive, Commercial Install Base ",
+      "postedToDiscord": "2026-01-13T21:08:33.315Z",
+      "sourceDate": "2025-12-16T15:28:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5708732004",
+      "discordThreadId": "1460742326891577425",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5737701004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5737701004",
+      "company": "figma",
+      "title": "Manager, Figma for Education ",
+      "postedToDiscord": "2026-01-13T21:08:36.751Z",
+      "sourceDate": "2025-12-16T13:18:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737701004?gh_jid=5737701004",
+      "discordThreadId": "1460742341198348545",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8332016002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8332016002",
+      "company": "brex",
+      "title": "Staff Economist",
+      "postedToDiscord": "2026-01-13T21:08:40.306Z",
+      "sourceDate": "2025-12-16T12:44:23-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8332016002?gh_jid=8332016002",
+      "discordThreadId": "1460742355333415024",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5517523004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5517523004",
+      "company": "vercel",
+      "title": "AI Engineer",
+      "postedToDiscord": "2026-01-13T21:08:47.232Z",
+      "sourceDate": "2025-12-16T15:16:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5517523004",
+      "discordThreadId": "1460742383372337256",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 985,
+    "totalJobs": 995,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T21:01:33.600Z",
+      "date": "2026-01-13T21:08:47.233Z",
       "archived": 0
     }
   }
