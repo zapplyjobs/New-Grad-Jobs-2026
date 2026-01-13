@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T21:42:14.884Z",
+  "lastUpdated": "2026-01-13T21:53:40.521Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4942646008-2026-01-06-1",
@@ -11045,14 +11045,135 @@
       "sourceUrl": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
       "discordThreadId": "1460750804481867837",
       "instanceNumber": 1
+    },
+    {
+      "id": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396-2026-01-13-1",
+      "jobId": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396",
+      "company": "First Financial ",
+      "title": "Regulatory Data Analyst 1",
+      "postedToDiscord": "2026-01-13T21:52:56.998Z",
+      "sourceDate": "2025-12-15T23:37:04.000Z",
+      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Abilene-Main/Regulatory-Data-Analyst-I_JR102396",
+      "discordThreadId": "1460753499343032554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485-2026-01-13-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485",
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI-Mediated Reality and Interaction Research",
+      "postedToDiscord": "2026-01-13T21:53:03.484Z",
+      "sourceDate": "2025-12-15T23:25:04.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485",
+      "discordThreadId": "1460753526236905492",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wyetechllc-9585d817-be05-461c-bd89-7f55b469a64f-apply-2026-01-13-1",
+      "jobId": "jobs-lever-co-wyetechllc-9585d817-be05-461c-bd89-7f55b469a64f-apply",
+      "company": "Wyetech",
+      "title": "Software Engineer 2",
+      "postedToDiscord": "2026-01-13T21:53:06.992Z",
+      "sourceDate": "2025-12-15T23:09:16.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/9585d817-be05-461c-bd89-7f55b469a64f/apply",
+      "discordThreadId": "1460753540703059973",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e-2026-01-13-1",
+      "jobId": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, Personalization",
+      "postedToDiscord": "2026-01-13T21:53:10.546Z",
+      "sourceDate": "2025-12-15T21:39:25.664Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e",
+      "discordThreadId": "1460753555362156586",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903-2026-01-13-1",
+      "jobId": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903",
+      "company": "Electronic Arts",
+      "title": "EA Sports Academy Software Engineer",
+      "postedToDiscord": "2026-01-13T21:53:16.998Z",
+      "sourceDate": "2025-12-15T23:15:11.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903",
+      "discordThreadId": "1460753582922924186",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application",
+      "company": "Anything",
+      "title": "Backend Engineer - AI",
+      "postedToDiscord": "2026-01-13T21:53:20.577Z",
+      "sourceDate": "2025-12-15T23:14:02.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application",
+      "discordThreadId": "1460753597686878299",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556631972-2026-01-13-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631972",
+      "company": "Microsoft",
+      "title": "Software Engineer - Windows Servicing and Delivery",
+      "postedToDiscord": "2026-01-13T21:53:24.387Z",
+      "sourceDate": "2025-12-15T23:09:54.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
+      "discordThreadId": "1460753613038157856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556631977-2026-01-13-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631977",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-13T21:53:24.397Z",
+      "sourceDate": "2025-12-15T23:09:42.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631977",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1-2026-01-13-1",
+      "jobId": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1",
+      "company": "The University of Kansas Hospital",
+      "title": "Clinical Analyst 1",
+      "postedToDiscord": "2026-01-13T21:53:30.834Z",
+      "sourceDate": "2025-12-15T21:33:02.000Z",
+      "sourceUrl": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I--Remote-_R-48868-1",
+      "discordThreadId": "1460753641291124860",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735296004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735296004",
+      "company": "figma",
+      "title": "Compliance Manager, Customer Trust & Third Party Risk",
+      "postedToDiscord": "2026-01-13T21:53:37.209Z",
+      "sourceDate": "2025-12-15T16:31:12-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735296004?gh_jid=5735296004",
+      "discordThreadId": "1460753668058911016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5734651004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5734651004",
+      "company": "figma",
+      "title": "Senior Manager, Revenue Transformation",
+      "postedToDiscord": "2026-01-13T21:53:40.521Z",
+      "sourceDate": "2025-12-15T16:31:06-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734651004?gh_jid=5734651004",
+      "discordThreadId": "1460753682105761792",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1004,
+    "totalJobs": 1015,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T21:42:14.884Z",
+      "date": "2026-01-13T21:53:40.521Z",
       "archived": 0
     }
   }
