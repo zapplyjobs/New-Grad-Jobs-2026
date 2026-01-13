@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T05:02:22.968Z",
+  "lastUpdated": "2026-01-13T05:16:44.985Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-06-1",
@@ -8119,14 +8119,124 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7375781?gh_jid=7375781",
       "discordThreadId": "1460499180962185290",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266361-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266361",
+      "company": "samsara",
+      "title": "Senior Software Engineer, Connected Workflows",
+      "postedToDiscord": "2026-01-13T05:16:09.432Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266361?gh_jid=7266361",
+      "discordThreadId": "1460502648108093554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7306934-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7306934",
+      "company": "samsara",
+      "title": "Senior Staff Hardware Systems Engineer",
+      "postedToDiscord": "2026-01-13T05:16:12.776Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7306934?gh_jid=7306934",
+      "discordThreadId": "1460502662108807254",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7312588-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7312588",
+      "company": "samsara",
+      "title": "Software Engineer II - Mobile Platform",
+      "postedToDiscord": "2026-01-13T05:16:16.163Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7312588?gh_jid=7312588",
+      "discordThreadId": "1460502676310855771",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-patterndata-jobs-5012589007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-patterndata-jobs-5012589007",
+      "company": "Pattern Data",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-13T05:16:19.660Z",
+      "sourceDate": "2025-12-30T01:09:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
+      "discordThreadId": "1460502690499924081",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-rubrik-com-company-careers-departments-job-6528028-2026-01-13-1",
+      "jobId": "www-rubrik-com-company-careers-departments-job-6528028",
+      "company": "Rubrik",
+      "title": "Software Engineer - Distributed Systems - Platform Software",
+      "postedToDiscord": "2026-01-13T05:16:23.428Z",
+      "sourceDate": "2025-12-30T00:13:36.000Z",
+      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028",
+      "discordThreadId": "1460502706149130286",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8342599002-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8342599002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Starlink Ground Network",
+      "postedToDiscord": "2026-01-13T05:16:26.828Z",
+      "sourceDate": "2025-12-29T23:31:48.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8342599002",
+      "discordThreadId": "1460502721055424635",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-environmental-health-safety-data-management-specialist-hybrid-_jr91800-2026-01-13-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-environmental-health-safety-data-management-specialist-hybrid-_jr91800",
+      "company": "Wash U",
+      "title": "Environmental Health & Safety Data Management Specialist",
+      "postedToDiscord": "2026-01-13T05:16:30.325Z",
+      "sourceDate": "2025-12-29T23:26:28.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800",
+      "discordThreadId": "1460502735400075407",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266465-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266465",
+      "company": "samsara",
+      "title": "Senior Systems EPM",
+      "postedToDiscord": "2026-01-13T05:16:36.787Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266465?gh_jid=7266465",
+      "discordThreadId": "1460502762633826507",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7488083-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7488083",
+      "company": "samsara",
+      "title": "University Recruiter",
+      "postedToDiscord": "2026-01-13T05:16:38.478Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7488083?gh_jid=7488083",
+      "discordThreadId": "1460502776881877198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7298858-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7298858",
+      "company": "samsara",
+      "title": "Solutions Integration Engineer III",
+      "postedToDiscord": "2026-01-13T05:16:44.985Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7298858?gh_jid=7298858",
+      "discordThreadId": "1460502796385259788",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 738,
+    "totalJobs": 748,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T05:02:22.968Z",
+      "date": "2026-01-13T05:16:44.985Z",
       "archived": 0
     }
   }
