@@ -466,99 +466,69 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     currentStats.totalByCompany[company] = (currentStats.totalByCompany[company] || 0) + 1;
   });
 
-  const totalCurrentJobs = (currentStats.byLevel["Entry-Level"] || 0) + 
-                           (currentStats.byLevel["Mid-Level"] || 0) + 
-                           (currentStats.byLevel["Senior"] || 0);
-
   const totalCompanies = Object.keys(currentStats.totalByCompany).length;
-  const faangJobs = currentJobs.filter((job) =>
-    companyCategory.faang_plus?.companies?.some(name => 
-      job.employer_name.toLowerCase().includes(name.toLowerCase()) || 
-      name.toLowerCase().includes(job.employer_name.toLowerCase())
-    )
-  ).length;
 
   return `<div align="center">
 
 <!-- Banner -->
-<img src="images/ngj-heading.png" alt="New Grad Jobs 2026 - Illustration of people networking.">
+<img src="images/ngj-heading.png" alt="New Grad Jobs 2026">
 
 # New Grad Jobs 2026
 
-<br>
-
-<!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length + 47}-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
-${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star)' : ''}
-![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
-![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
-
-<!-- Row 2: Repository Stats -->
-![GitHub stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=blue)
-![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Jobs?style=flat&color=red)
-![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Jobs?style=flat&color=green)
-
-<!-- Row 3: Workflow Health -->
-![Update Jobs](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/update-jobs.yml?style=flat&label=job-updates&logo=github-actions&logoColor=white)
-
-<!-- Row 4: Community & Links (for-the-badge style) -->
-[![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
-[![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UswBsduwcD)
-[![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
-[![Report Issue](https://img.shields.io/badge/Report_Issue-Bug_Tracker-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zapplyjobs/New-Grad-Jobs/issues)
-
-<!-- Zapply extension badge - add when extension launches -->
-<!-- [![Zapply Extension](https://img.shields.io/badge/Extension-Apply_Faster-4F46E5?style=for-the-badge&logo=chrome&logoColor=white)](https://zapply-extension-url) -->
+Updated job openings for new grads in SWE and other tech roles | 2026
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies} companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length} fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+---
 
-<p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
+## 👋 Intro
 
-> [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING.md) here.
+Welcome to an actively maintained collection of software engineering, tech, and IT jobs for new grads, data analysts, scientists, and entry-level software developers by [Zapply](https://zapply.jobs).
+
+This repo tracks roles in the United States and remote positions across tech giants and fast-growing startups. 🎯
 
 ---
 
-## Join Our Community
+# 🌐 Website and Autofill Extension
 
-<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+<img src="images/websote-and-autofill-extension.png" alt="Zapply Website and Autofill Extension">
 
-Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+Explore Zapply's website and check out:
+
+- Our chrome extension that auto-fills your job applications in seconds
+- A dedicated job board with the latest jobs for various types of roles
+- User account providing multiple profiles for different resume roles
+- Job application tracking with streaks to unlock commitment awards
+
+Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+  <a href="https://zapply.jobs"><img src="images/zapply-jobs.png" alt="Zapply Jobs" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://zapply.jobs"><img src="images/chrome-extension.png" alt="Chrome Extension" height="50"></a>
 </p>
 
 ---
 
-## Alerts
+## 🤝 Explore Around
 
-<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+<img src="images/explore-around.png" alt="Explore Around">
 
-**Don't miss new opportunities!**  
-- 🌟 **Star this repo** to get updates on your GitHub dashboard.
-- 👁️ **Watch** for instant notifications on new jobs.
-- 🔔 **Turn on notifications** to never miss FAANG+ postings.
+Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities!
 
----
-
-## Live Stats
-
-<img src="images/stats.png" alt="Real-time counts of roles and companies.">
-
-- 🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs
-- **🏢 Companies**: ${totalCompanies} companies
-${faangJobs > 0 ? '- **⭐ FAANG+ Jobs**: ' + faangJobs + ' premium opportunities\n' : ''}- 📅 **Last Updated:** ${currentDate}
-- 🤖 **Next Update:** Tomorrow at 9 AM UTC
-
-${internshipData ? generateInternshipSection(internshipData) : ""}
+<p align="center">
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord.png" alt="Discord" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Reddit" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/linkedin.png" alt="LinkedIn" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok.png" alt="TikTok" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram.png" alt="Instagram" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs"><img src="images/github.png" alt="GitHub" height="50"></a>
+</p>
 
 ---
 
@@ -570,126 +540,11 @@ ${generateJobTable(currentJobs)}
 
 ---
 
-## Insights on the Repo
+## 📚 More Resources
 
-<img src="images/insights.png" alt="Insights pulled from current listings.">
+<img src="images/more-resources.png" alt="More Resources">
 
-### 🏢 Top Companies (by current openings)
-
-${Object.entries(
-  currentJobs.reduce((acc, job) => {
-    acc[job.employer_name] = (acc[job.employer_name] || 0) + 1;
-    return acc;
-  }, {})
-)
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 15)
-  .map(([company, count]) => `- **${company}**: ${count} ${count === 1 ? 'position' : 'positions'}`)
-  .join("\n")}
-
----
-
-### 📈 Experience Breakdown
-
-| Level               | Count | Percentage | Top Companies                     |
-|---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | ${currentStats.byLevel["Entry-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Entry-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | No or minimal experience |
-| 🟡 Beginner & Early Career | ${currentStats.byLevel["Mid-Level"] || 0} | ${totalCurrentJobs ? Math.round(((currentStats.byLevel["Mid-Level"] || 0) / totalCurrentJobs) * 100) : 0}% | 1-2 years of experience |
-| 🔴 Manager | ${currentStats.byLevel["Senior"] || 0} | ${totalCurrentJobs ? (100 - Math.round(((currentStats.byLevel["Entry-Level"] || 0) / totalCurrentJobs) * 100) - Math.round(((currentStats.byLevel["Mid-Level"] || 0) / totalCurrentJobs) * 100)) : 0}% | 2+ years of experience |
-
----
-
-### 🌍 Top Locations
-${Object.entries(currentStats.byLocation)
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 8)
-  .map(([location, count]) => `- **${location}**: ${count} positions`)
-  .join("\n")}
-
----
-
-### 🔮 Why Software Engineers Choose Our Job Board
-
-✅ **100% Real Jobs**: ${currentJobs.length} verified roles for Software Engineering roles from ${totalCompanies} companies.
-<br>
-✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
-<br>
-✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
-<br>
-✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
-<br>
-✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
-<br>
-✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
-
----
-
-## Job Hunt Tips That Actually Work
-
-<img src="images/tips.png" alt="No fluff — just strategies that help.">
-
-### 🔍 **Research Before Applying**
-- Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
-- Check recent tech decisions: Review their engineering blog for stack changes or new initiatives.
-- Verify visa requirements: Look for 🇺🇸 indicators or "US persons only" in the job description.
-- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
-
-### 📄 **Resume Best Practices**
-- Mirror their tech stack:  Copy exact keywords from job post (React, Django, Node.js, etc.)..
-- Lead with business impact: “Improved app speed by 30%” > “Used JavaScript.”
-- Show product familiarity: Example: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
-
-### 🎯 **Interview Best Practices**
-- Ask domain questions: "How do you handle CI/CD at scale?" shows real research.
-- Prepare case stories: "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
-- Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
-- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
-
-<p align="center">
-  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
-</p>
-
----
-
-## Become a Contributor
-
-<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
-
-Add new jobs! See the [contributing guide](CONTRIBUTING.md).
-
-### Contributing Guide
-#### 🎯 Roles We Accept
-- Located in the US, Canada, or Remote.
-- Not already in our database.
-- Currently accepting applications.
-
-#### 🚀 How to Add Jobs
-1. Create a new issue.
-2. Select the "New Job" template.
-3. Fill out and submit the form.
-   > Submit separate issues for each position, even from the same company.
-
-#### ✏️ How to Update Jobs
-1. Copy the job URL to edit.
-2. Create a new issue.
-3. Select the "Edit Job" template.
-4. Paste the URL and describe changes.
-
-#### ⚡ What Happens Next
-- Our team reviews within 24-48 hours.
-- Approved jobs are added to the main list.
-- The README updates automatically via script.
-- Contributions go live at the next daily refresh (9 AM UTC).
-- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
-
-${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
-
-## More Resources
+Check out our other repos for jobs and free resources!
 
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
@@ -715,6 +570,25 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) 
 
 ---
 
+### 🛠 Become a Contributor
+
+<img src="images/contributor.png" alt="Become a Contributor">
+
+Add new jobs to our listings keeping in mind the following:
+
+- Located in the US, Canada, or Remote.
+- Openings are currently accepting applications and not older than 1 week.
+- Create a new issue to submit different job positions.
+- Update a job by submitting an issue with the job URL and required changes.
+
+Our team reviews within 24-48 hours and approved jobs are added to the main list!
+
+Questions? Create a miscellaneous issue, and we'll assist! 🙏
+
+${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
+
+---
+
 <div align="center">
 
 **🎯 ${currentJobs.length} current opportunities from ${totalCompanies} companies**
@@ -725,7 +599,7 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) 
 
 ---
 
-**Last Updated**: ${currentDate} • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: ${currentDate}
 
 </div>`;
 }
