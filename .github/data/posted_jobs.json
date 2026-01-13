@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T06:28:04.304Z",
+  "lastUpdated": "2026-01-13T06:48:33.124Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-06-1",
@@ -8889,14 +8889,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
       "discordThreadId": "1460520745737392150",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4701504007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4701504007",
+      "company": "verkada",
+      "title": "Strategic Account Executive (Corp)",
+      "postedToDiscord": "2026-01-13T06:47:48.841Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4701504007",
+      "discordThreadId": "1460525721335103573",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4990284007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990284007",
+      "company": "verkada",
+      "title": "Tradeshow Associate",
+      "postedToDiscord": "2026-01-13T06:47:52.176Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990284007",
+      "discordThreadId": "1460525728092131451",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5743232004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5743232004",
+      "company": "vercel",
+      "title": "Strategic Finance Manager, GTM",
+      "postedToDiscord": "2026-01-13T06:47:55.926Z",
+      "sourceDate": "2025-12-23T13:07:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5743232004",
+      "discordThreadId": "1460525742764068936",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-illinois-chicago-predoctoral-scholar_jr32397-2026-01-13-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-illinois-chicago-predoctoral-scholar_jr32397",
+      "company": "University of Chicago",
+      "title": "Predoctoral Scholar",
+      "postedToDiscord": "2026-01-13T06:48:02.322Z",
+      "sourceDate": "2025-12-23T23:32:53.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397",
+      "discordThreadId": "1460525770794598524",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-inc-nttdata-com-job-plano-data-business-insights-associate-tx-1351885800-2026-01-13-1",
+      "jobId": "careers-inc-nttdata-com-job-plano-data-business-insights-associate-tx-1351885800",
+      "company": "NTT Data",
+      "title": "Data & Business Insights Associate",
+      "postedToDiscord": "2026-01-13T06:48:08.746Z",
+      "sourceDate": "2025-12-23T23:09:29.000Z",
+      "sourceUrl": "https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors",
+      "discordThreadId": "1460525797642342504",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087905009-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087905009",
+      "company": "Voyager Technologies",
+      "title": "Software Engineer - Manufacturing Integration",
+      "postedToDiscord": "2026-01-13T06:48:12.298Z",
+      "sourceDate": "2025-12-23T17:07:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009",
+      "discordThreadId": "1460525811869159582",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-blackhawknetwork-icims-com-jobs-24910-job-2026-01-13-1",
+      "jobId": "careers-blackhawknetwork-icims-com-jobs-24910-job",
+      "company": "Blackhawk Network Holdings",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-13T06:48:16.946Z",
+      "sourceDate": "2025-12-23T16:40:47.000Z",
+      "sourceUrl": "https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460525832392146987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8346194002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8346194002",
+      "company": "discord",
+      "title": "Senior Privacy Counsel",
+      "postedToDiscord": "2026-01-13T06:48:23.252Z",
+      "sourceDate": "2025-12-23T15:13:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8346194002",
+      "discordThreadId": "1460525859080245360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087903009-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087903009",
+      "company": "Voyager Technologies",
+      "title": "AI Software Engineer - Agents - Ace",
+      "postedToDiscord": "2026-01-13T06:48:29.751Z",
+      "sourceDate": "2025-12-23T17:06:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009",
+      "discordThreadId": "1460525885403955265",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-162252-job-2026-01-13-1",
+      "jobId": "careers-peraton-icims-com-jobs-162252-job",
+      "company": "Peraton",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-13T06:48:33.124Z",
+      "sourceDate": "2025-12-23T17:01:44.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460525900251795612",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 808,
+    "totalJobs": 818,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T06:28:04.304Z",
+      "date": "2026-01-13T06:48:33.124Z",
       "archived": 0
     }
   }
