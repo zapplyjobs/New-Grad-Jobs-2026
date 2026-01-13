@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T18:47:36.584Z",
+  "lastUpdated": "2026-01-13T19:08:44.234Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7494521-2026-01-06-1",
-      "jobId": "careers-datadoghq-com-detail-7494521",
-      "company": "datadog",
-      "title": "Senior Field Enablement Manager - Leadership Development",
-      "postedToDiscord": "2026-01-06T18:58:01.288Z",
-      "sourceDate": "2026-01-06T13:54:56-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7494521/?gh_jid=7494521",
-      "discordThreadId": "1458172761720619150",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5041870008-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041870008",
@@ -9923,14 +9912,124 @@
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
       "discordThreadId": "1460706856266895625",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8230656002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8230656002",
+      "company": "airtable",
+      "title": "Senior Enterprise Marketing Manager",
+      "postedToDiscord": "2026-01-13T19:08:02.226Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8230656002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8077213002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8077213002",
+      "company": "airtable",
+      "title": "Senior Growth Marketing Manager, Builders",
+      "postedToDiscord": "2026-01-13T19:08:05.727Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8077213002",
+      "discordThreadId": "1460712011615699174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11006-job-2026-01-13-1",
+      "jobId": "careers-nv5-icims-com-jobs-11006-job",
+      "company": "NV5 Global",
+      "title": "GIS Technician",
+      "postedToDiscord": "2026-01-13T19:08:09.277Z",
+      "sourceDate": "2025-12-18T23:33:34.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460712026534842532",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7695026002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7695026002",
+      "company": "airtable",
+      "title": "Technical Sourcer (Contract)",
+      "postedToDiscord": "2026-01-13T19:08:16.001Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7695026002",
+      "discordThreadId": "1460712054557114480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4627111006-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4627111006",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2026-01-13T19:08:22.592Z",
+      "sourceDate": "2025-12-18T23:16:48.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
+      "discordThreadId": "1460712082109366396",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-altamiracorps-job-oms6yfwc-2026-01-13-1",
+      "jobId": "jobs-jobvite-com-altamiracorps-job-oms6yfwc",
+      "company": "Altamira Technologies",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-13T19:08:26.069Z",
+      "sourceDate": "2025-12-18T23:07:45.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
+      "discordThreadId": "1460712097355665561",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737-2026-01-13-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737",
+      "company": "University of Texas - Austin",
+      "title": "Algorithm and Analysis Software Engineer Scientist Associate",
+      "postedToDiscord": "2026-01-13T19:08:30.292Z",
+      "sourceDate": "2025-12-18T23:01:52.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
+      "discordThreadId": "1460712112371269694",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042025008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042025008",
+      "company": "anthropic",
+      "title": "Software Engineer, Growth",
+      "postedToDiscord": "2026-01-13T19:08:33.823Z",
+      "sourceDate": "2025-12-18T17:58:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042025008",
+      "discordThreadId": "1460712129740013660",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8332350002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8332350002",
+      "company": "discord",
+      "title": "Senior Program Manager, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-13T19:08:40.698Z",
+      "sourceDate": "2025-12-18T18:12:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332350002",
+      "discordThreadId": "1460712157690724382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8324819002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8324819002",
+      "company": "discord",
+      "title": "Senior Technical Program Manager, Safety",
+      "postedToDiscord": "2026-01-13T19:08:44.234Z",
+      "sourceDate": "2025-12-18T17:43:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8324819002",
+      "discordThreadId": "1460712173096403097",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 902,
+    "totalJobs": 911,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T18:47:36.584Z",
+      "date": "2026-01-13T19:08:44.234Z",
       "archived": 0
     }
   }
