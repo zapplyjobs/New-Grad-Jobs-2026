@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T01:56:24.342Z",
+  "lastUpdated": "2026-01-13T02:41:32.112Z",
   "jobs": [
-    {
-      "id": "www-jellyvision-com-about-us-careers-apply-2026-01-06-1",
-      "jobId": "www-jellyvision-com-about-us-careers-apply",
-      "company": "Jellyvision",
-      "title": "Data Engineer",
-      "postedToDiscord": "2026-01-06T01:56:55.882Z",
-      "sourceDate": "2026-01-05T23:34:40.000Z",
-      "sourceUrl": "https://www.jellyvision.com/about-us/careers/apply/?gh_jid=8359319002",
-      "discordThreadId": "1457915795828117586",
-      "instanceNumber": 1
-    },
-    {
-      "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417-2026-01-06-1",
-      "jobId": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417",
-      "company": "Medline",
-      "title": "Analyst Data Management",
-      "postedToDiscord": "2026-01-06T01:56:57.629Z",
-      "sourceDate": "2026-01-05T23:33:26.000Z",
-      "sourceUrl": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Analyst-Data-Management_R2522417",
-      "discordThreadId": "1457915810495598643",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-markon-icims-com-jobs-7960-job-2026-01-06-1",
-      "jobId": "careers-markon-icims-com-jobs-7960-job",
-      "company": "Markon",
-      "title": "Software Engineer Level 0",
-      "postedToDiscord": "2026-01-06T01:57:04.169Z",
-      "sourceDate": "2025-11-11T00:04:13.000Z",
-      "sourceUrl": "https://careers-markon.icims.com/jobs/7960/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1457915830368075871",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-5ed17dbd-5d87-4cae-93b4-beda2b2eb19e-2026-01-06-1",
-      "jobId": "jobs-lever-co-spotify-5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
-      "company": "spotify",
-      "title": "Content Designer, Music Mission",
-      "postedToDiscord": "2026-01-06T02:41:29.540Z",
-      "sourceDate": "2026-01-05T18:44:22.524Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/5ed17dbd-5d87-4cae-93b4-beda2b2eb19e",
-      "discordThreadId": "1457927009769623659",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624-2026-01-06-1",
       "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624",
@@ -7206,15 +7162,159 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
       "discordThreadId": "1460452372252983356",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413787-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413787",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market Sales (B2C Services)",
+      "postedToDiscord": "2026-01-13T02:41:06.760Z",
+      "sourceDate": "2026-01-02T03:22:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413787",
+      "discordThreadId": "1460463628737319005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7404504-2026-01-13-1",
+      "jobId": "www-coinbase-com-careers-positions-7404504",
+      "company": "coinbase",
+      "title": "Accounting Intern",
+      "postedToDiscord": "2026-01-13T02:41:10.299Z",
+      "sourceDate": "2026-01-01T16:46:12-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7404504?gh_jid=7404504",
+      "discordThreadId": "1460463644302114899",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413993-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413993",
+      "company": "reddit",
+      "title": "Senior IT Support Engineer, Snoo Operations & Support (SOS)",
+      "postedToDiscord": "2026-01-13T02:41:14.009Z",
+      "sourceDate": "2026-01-01T11:31:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413993",
+      "discordThreadId": "1460463658848227444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488992-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488992",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-13T02:41:17.632Z",
+      "sourceDate": "2026-01-01T11:31:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488992",
+      "discordThreadId": "1460463674790772877",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488991-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488991",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-13T02:41:17.641Z",
+      "sourceDate": "2026-01-01T11:31:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488991",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488986-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488986",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-13T02:41:17.647Z",
+      "sourceDate": "2026-01-01T11:31:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488986",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488988-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488988",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-13T02:41:17.653Z",
+      "sourceDate": "2026-01-01T11:31:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488988",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7393201-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7393201",
+      "company": "reddit",
+      "title": "Client Account Manager, Large Customer Sales (Retail)",
+      "postedToDiscord": "2026-01-13T02:41:21.097Z",
+      "sourceDate": "2026-01-01T11:29:24-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7393201",
+      "discordThreadId": "1460463689751728397",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7392617-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7392617",
+      "company": "reddit",
+      "title": "Client Account Manager, Large Customer Sales (Retail)",
+      "postedToDiscord": "2026-01-13T02:41:21.103Z",
+      "sourceDate": "2026-01-01T11:29:24-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7392617",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7458129-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7458129",
+      "company": "reddit",
+      "title": "Counsel, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-13T02:41:24.573Z",
+      "sourceDate": "2026-01-01T11:28:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7458129",
+      "discordThreadId": "1460463704259821579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7379758-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7379758",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (CPG)",
+      "postedToDiscord": "2026-01-13T02:41:28.169Z",
+      "sourceDate": "2026-01-01T11:26:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7379758",
+      "discordThreadId": "1460463718872649939",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7377978-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7377978",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (CPG)",
+      "postedToDiscord": "2026-01-13T02:41:28.177Z",
+      "sourceDate": "2026-01-01T11:26:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7377978",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7396325-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7396325",
+      "company": "reddit",
+      "title": "Director, Global Sales Enablement",
+      "postedToDiscord": "2026-01-13T02:41:32.112Z",
+      "sourceDate": "2026-01-01T11:25:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7396325",
+      "discordThreadId": "1460463734748221462",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 655,
+    "totalJobs": 664,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T01:56:24.342Z",
-      "archived": 0
+      "date": "2026-01-13T02:41:32.112Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
