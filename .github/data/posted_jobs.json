@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T08:07:50.082Z",
+  "lastUpdated": "2026-01-13T08:27:50.394Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-koddi-jobs-8250169002-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-koddi-jobs-8250169002",
-      "company": "Koddi",
-      "title": "Associate Analyst Cohort",
-      "postedToDiscord": "2026-01-06T08:27:36.062Z",
-      "sourceDate": "2025-11-10T23:51:55.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/koddi/jobs/8250169002",
-      "discordThreadId": "1458014110426988556",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-twitch-jobs-8360103002-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-twitch-jobs-8360103002",
@@ -9659,14 +9648,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8308138002",
       "discordThreadId": "1460545850915815464",
       "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556641984-2026-01-13-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556641984",
+      "company": "Microsoft",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-13T08:27:06.633Z",
+      "sourceDate": "2025-12-19T16:07:44.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
+      "discordThreadId": "1460550702895202438",
+      "instanceNumber": 1
+    },
+    {
+      "id": "qualcomm-eightfold-ai-careers-job-446715939731-2026-01-13-1",
+      "jobId": "qualcomm-eightfold-ai-careers-job-446715939731",
+      "company": "Qualcomm",
+      "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
+      "postedToDiscord": "2026-01-13T08:27:10.211Z",
+      "sourceDate": "2025-12-19T02:23:09.000Z",
+      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715939731",
+      "discordThreadId": "1460550717461893313",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2026-01-13T08:27:13.734Z",
+      "sourceDate": "2025-12-19T00:13:12.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005",
+      "discordThreadId": "1460550732079042574",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808-2026-01-13-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808",
+      "company": "Oracle",
+      "title": "Senior Software Engineer",
+      "postedToDiscord": "2026-01-13T08:27:20.397Z",
+      "sourceDate": "2025-12-19T02:19:52.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320808",
+      "discordThreadId": "1460550760507904142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wmeimg-wd1-myworkdayjobs-com-endeavor-job-ca-beverly-hills-9601-wilshire-analyst-analytics_jr27759-1-2026-01-13-1",
+      "jobId": "wmeimg-wd1-myworkdayjobs-com-endeavor-job-ca-beverly-hills-9601-wilshire-analyst-analytics_jr27759-1",
+      "company": "WME Group",
+      "title": "Analyst – Analytics",
+      "postedToDiscord": "2026-01-13T08:27:23.860Z",
+      "sourceDate": "2025-12-19T02:14:54.000Z",
+      "sourceUrl": "https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1",
+      "discordThreadId": "1460550775158608015",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4627110006-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4627110006",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2026-01-13T08:27:27.239Z",
+      "sourceDate": "2025-12-19T00:23:45.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627110006",
+      "discordThreadId": "1460550789654118400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957-2026-01-13-1",
+      "jobId": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957",
+      "company": "Western Alliance",
+      "title": "Engineer 1 - AI Business Engineer",
+      "postedToDiscord": "2026-01-13T08:27:30.694Z",
+      "sourceDate": "2025-12-19T00:21:36.000Z",
+      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11957",
+      "discordThreadId": "1460550803931664579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042055008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042055008",
+      "company": "anthropic",
+      "title": "Product Lead, Consumer",
+      "postedToDiscord": "2026-01-13T08:27:37.430Z",
+      "sourceDate": "2025-12-18T20:21:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
+      "discordThreadId": "1460550831077064851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182-2026-01-13-1",
+      "jobId": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182",
+      "company": "Caterpillar Inc.",
+      "title": "Mining Application Specialist",
+      "postedToDiscord": "2026-01-13T08:27:43.916Z",
+      "sourceDate": "2025-12-19T00:21:05.000Z",
+      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341182",
+      "discordThreadId": "1460550859137089556",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-axle-jobs-5006708007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-axle-jobs-5006708007",
+      "company": "Axle",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-13T08:27:50.394Z",
+      "sourceDate": "2025-12-19T00:11:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
+      "discordThreadId": "1460550886739939401",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 878,
+    "totalJobs": 887,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T08:07:50.082Z",
+      "date": "2026-01-13T08:27:50.394Z",
       "archived": 0
     }
   }
