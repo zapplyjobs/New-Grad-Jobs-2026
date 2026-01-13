@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T23:38:33.166Z",
+  "lastUpdated": "2026-01-13T23:53:13.534Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8362678002-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8362678002",
-      "company": "discord",
-      "title": "Staff Product Manager, Payments",
-      "postedToDiscord": "2026-01-06T23:40:05.379Z",
-      "sourceDate": "2026-01-06T18:36:47-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362678002",
-      "discordThreadId": "1458243746033569927",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cinfin-taleo-net-careersection-ex-jobdetail-ftl-2026-01-06-1",
-      "jobId": "cinfin-taleo-net-careersection-ex-jobdetail-ftl",
-      "company": "Cincinnati Financial",
-      "title": "Sales Analytics Engineer 1 - IV",
-      "postedToDiscord": "2026-01-06T23:40:09.020Z",
-      "sourceDate": "2026-01-06T23:19:22.000Z",
-      "sourceUrl": "https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2600112",
-      "discordThreadId": "1458243761191522325",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-rivian-com-jobs-28531-2026-01-06-1",
-      "jobId": "careers-rivian-com-jobs-28531",
-      "company": "Rivian",
-      "title": "Prototype Data Analyst",
-      "postedToDiscord": "2026-01-06T23:40:13.402Z",
-      "sourceDate": "2026-01-06T23:17:35.000Z",
-      "sourceUrl": "https://careers.rivian.com/jobs/28531?lang=en-us&icims=1",
-      "discordThreadId": "1458243777163694362",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5055446008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055446008",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Industries",
-      "postedToDiscord": "2026-01-06T23:40:20.097Z",
-      "sourceDate": "2026-01-06T18:21:21-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055446008",
-      "discordThreadId": "1458243807622729781",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4931782008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4931782008",
-      "company": "anthropic",
-      "title": "SMB Account Executive, Industries",
-      "postedToDiscord": "2026-01-06T23:40:24.047Z",
-      "sourceDate": "2026-01-06T18:07:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4931782008",
-      "discordThreadId": "1458243823510618326",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319271-2026-01-06-1",
-      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319271",
-      "company": "Oracle",
-      "title": "Software Developer 1",
-      "postedToDiscord": "2026-01-06T23:40:30.695Z",
-      "sourceDate": "2026-01-06T23:14:19.000Z",
-      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319271",
-      "discordThreadId": "1458243852044468369",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191-2026-01-06-1",
-      "jobId": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191",
-      "company": "Berkshire Hathaway Energy",
-      "title": "Engineer 1 – Senior Engineer – Senior Engineer 2 – Principal Engineer System Protection - Principal Engineer System Protection",
-      "postedToDiscord": "2026-01-06T23:40:34.465Z",
-      "sourceDate": "2026-01-06T23:07:01.000Z",
-      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003191",
-      "discordThreadId": "1458243868179955844",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-nbcuniversal3-744000101905506-2026-01-06-1",
-      "jobId": "jobs-smartrecruiters-com-nbcuniversal3-744000101905506",
-      "company": "NBCUniversal",
-      "title": "Associate Data Engineer",
-      "postedToDiscord": "2026-01-06T23:40:39.537Z",
-      "sourceDate": "2026-01-06T23:13:58.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000101905506",
-      "discordThreadId": "1458243895853973696",
-      "instanceNumber": 1
-    },
     {
       "id": "thomsonreuters-wd5-myworkdayjobs-com-en-us-external_career_site-job-united-states-of-america-new-york-new-york-ai-engineer-materia-new-grad-2026-_jreq196038-2026-01-07-1",
       "jobId": "thomsonreuters-wd5-myworkdayjobs-com-en-us-external_career_site-job-united-states-of-america-new-york-new-york-ai-engineer-materia-new-grad-2026-_jreq196038",
@@ -11980,14 +11892,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
       "discordThreadId": "1460780074147119269",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4982193008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982193008",
+      "company": "anthropic",
+      "title": "Security Engineer, Detection & Response",
+      "postedToDiscord": "2026-01-13T23:52:39.252Z",
+      "sourceDate": "2025-12-10T13:52:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+      "discordThreadId": "1460783623211978919",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4958721008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4958721008",
+      "company": "anthropic",
+      "title": "Manager, Digital Native Sales",
+      "postedToDiscord": "2026-01-13T23:52:45.908Z",
+      "sourceDate": "2025-12-10T13:48:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
+      "discordThreadId": "1460783650902900830",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018233008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018233008",
+      "company": "anthropic",
+      "title": "Global Partner Sales Manager, Systems Integrators",
+      "postedToDiscord": "2026-01-13T23:52:49.317Z",
+      "sourceDate": "2025-12-10T13:43:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
+      "discordThreadId": "1460783666023108708",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4747937008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4747937008",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Deloitte",
+      "postedToDiscord": "2026-01-13T23:52:52.740Z",
+      "sourceDate": "2025-12-10T13:43:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
+      "discordThreadId": "1460783680388595743",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015692008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015692008",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Accenture",
+      "postedToDiscord": "2026-01-13T23:52:56.299Z",
+      "sourceDate": "2025-12-10T13:42:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015692008",
+      "discordThreadId": "1460783694590775361",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983646008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983646008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-13T23:52:59.812Z",
+      "sourceDate": "2025-12-10T13:38:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
+      "discordThreadId": "1460783709551722517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017903008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017903008",
+      "company": "anthropic",
+      "title": "Engagement Manager, Applied AI",
+      "postedToDiscord": "2026-01-13T23:53:06.343Z",
+      "sourceDate": "2025-12-10T13:39:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+      "discordThreadId": "1460783737183932576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-6984450-2026-01-13-1",
+      "jobId": "www-coinbase-com-careers-positions-6984450",
+      "company": "coinbase",
+      "title": "Associate Manager, EDD Compliance",
+      "postedToDiscord": "2026-01-13T23:53:08.242Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984450?gh_jid=6984450",
+      "discordThreadId": "1460783751977107480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7394927-2026-01-13-1",
+      "jobId": "www-coinbase-com-careers-positions-7394927",
+      "company": "coinbase",
+      "title": "Associate Manager, Quality Compliance",
+      "postedToDiscord": "2026-01-13T23:53:10.077Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7394927?gh_jid=7394927",
+      "discordThreadId": "1460783760168714350",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7217423-2026-01-13-1",
+      "jobId": "www-coinbase-com-careers-positions-7217423",
+      "company": "coinbase",
+      "title": "Associate Manager, Residential Security",
+      "postedToDiscord": "2026-01-13T23:53:13.534Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7217423?gh_jid=7217423",
+      "discordThreadId": "1460783767248699476",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1089,
+    "totalJobs": 1091,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T23:38:33.166Z",
+      "date": "2026-01-13T23:53:13.534Z",
       "archived": 0
     }
   }
