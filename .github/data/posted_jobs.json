@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T07:17:01.949Z",
+  "lastUpdated": "2026-01-13T07:27:51.079Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-06-1",
@@ -9230,14 +9230,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
       "discordThreadId": "1460533066987606259",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08-2026-01-13-1",
+      "jobId": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
+      "company": "spotify",
+      "title": "FP&A Analyst, Strategic Planning",
+      "postedToDiscord": "2026-01-13T07:27:10.590Z",
+      "sourceDate": "2025-12-22T18:03:13.128Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
+      "discordThreadId": "1460535620056256579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ffin-wd1-myworkdayjobs-com-en-us-first_financial_bank-job-operations-center-ai-developer-i-call-center_jr102406-2026-01-13-1",
+      "jobId": "ffin-wd1-myworkdayjobs-com-en-us-first_financial_bank-job-operations-center-ai-developer-i-call-center_jr102406",
+      "company": "First Financial Bank",
+      "title": "AI Developer I- Call Center",
+      "postedToDiscord": "2026-01-13T07:27:14.080Z",
+      "sourceDate": "2025-12-22T13:15:12.000Z",
+      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406",
+      "discordThreadId": "1460535634409033934",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-mechanize-b50c89dc-001c-4fb6-a4fc-a9f52f35b490-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-mechanize-b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
+      "company": "Mechanize",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-13T07:27:17.563Z",
+      "sourceDate": "2025-12-22T10:26:57.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
+      "discordThreadId": "1460535649114263644",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-sayari-jobs-4069553009-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-sayari-jobs-4069553009",
+      "company": "Sayari",
+      "title": "Junior Data Engineer",
+      "postedToDiscord": "2026-01-13T07:27:21.054Z",
+      "sourceDate": "2025-12-21T23:43:03.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sayari/jobs/4069553009",
+      "discordThreadId": "1460535663899316279",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043437008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043437008",
+      "company": "anthropic",
+      "title": "Global Technology Partner Lead",
+      "postedToDiscord": "2026-01-13T07:27:27.538Z",
+      "sourceDate": "2025-12-22T12:01:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043437008",
+      "discordThreadId": "1460535691145510985",
+      "instanceNumber": 1
+    },
+    {
+      "id": "compass-wd501-myworkdayjobs-com-en-us-radian_external_career_site-job-new-york-ny-data-scientist-i-hybrid_r20250160-2026-01-13-1",
+      "jobId": "compass-wd501-myworkdayjobs-com-en-us-radian_external_career_site-job-new-york-ny-data-scientist-i-hybrid_r20250160",
+      "company": "Radian",
+      "title": "Data Scientist I - Hybrid",
+      "postedToDiscord": "2026-01-13T07:27:34.033Z",
+      "sourceDate": "2025-12-22T13:19:34.000Z",
+      "sourceUrl": "https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160",
+      "discordThreadId": "1460535718266015785",
+      "instanceNumber": 1
+    },
+    {
+      "id": "warnerbros-wd5-myworkdayjobs-com-en-us-global-job-il-chicago-2650a-w-bradley-place-associate-software-engineer-temporary-_r000101071-2026-01-13-1",
+      "jobId": "warnerbros-wd5-myworkdayjobs-com-en-us-global-job-il-chicago-2650a-w-bradley-place-associate-software-engineer-temporary-_r000101071",
+      "company": "Warner Bros.",
+      "title": "Associate Software Engineer (Temporary)",
+      "postedToDiscord": "2026-01-13T07:27:40.599Z",
+      "sourceDate": "2025-12-22T11:35:16.000Z",
+      "sourceUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071",
+      "discordThreadId": "1460535745851953266",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-astranis-jobs-4621916006-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-astranis-jobs-4621916006",
+      "company": "Astranis",
+      "title": "Software Developer, Network Software Associate",
+      "postedToDiscord": "2026-01-13T07:27:44.215Z",
+      "sourceDate": "2025-12-22T11:27:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
+      "discordThreadId": "1460535760322166847",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-162138-junior-product-software-engineer-job-2026-01-13-1",
+      "jobId": "careers-peraton-icims-com-jobs-162138-junior-product-software-engineer-job",
+      "company": "Peraton",
+      "title": "Junior Product Software Engineer",
+      "postedToDiscord": "2026-01-13T07:27:47.642Z",
+      "sourceDate": "2025-12-22T11:26:00.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job",
+      "discordThreadId": "1460535775576854621",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-oklo-jobs-5739861004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-oklo-jobs-5739861004",
+      "company": "Oklo",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-13T07:27:51.079Z",
+      "sourceDate": "2025-12-22T11:25:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
+      "discordThreadId": "1460535789925695621",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 839,
+    "totalJobs": 849,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T07:17:01.949Z",
+      "date": "2026-01-13T07:27:51.079Z",
       "archived": 0
     }
   }
