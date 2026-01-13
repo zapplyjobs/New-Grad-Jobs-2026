@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T16:47:05.397Z",
+  "lastUpdated": "2026-01-13T17:01:22.040Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7496388-2026-01-06-1",
@@ -9802,14 +9802,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8249560002",
       "discordThreadId": "1460676527279575302",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8199012002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8199012002",
+      "company": "airtable",
+      "title": "Product Manager, AI",
+      "postedToDiscord": "2026-01-13T17:01:22.039Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8199012002",
+      "discordThreadId": "1460680119663333478",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 891,
+    "totalJobs": 892,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T16:47:05.397Z",
+      "date": "2026-01-13T17:01:22.040Z",
       "archived": 0
     }
   }
