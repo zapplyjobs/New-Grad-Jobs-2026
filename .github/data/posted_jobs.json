@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T08:46:31.457Z",
+  "lastUpdated": "2026-01-13T11:39:22.178Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-twitch-jobs-8360103002-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-twitch-jobs-8360103002",
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-06T09:42:45.319Z",
-      "sourceDate": "2026-01-06T09:16:06.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8360103002",
-      "discordThreadId": "1458033024355795017",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-twitch-jobs-8334351002-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-twitch-jobs-8334351002",
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-06T09:42:45.336Z",
-      "sourceDate": "2026-01-06T09:16:05.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8334351002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7247892565525481786-2026-01-06-1",
-      "jobId": "lifeattiktok-com-search-7247892565525481786",
-      "company": "TikTok",
-      "title": "Data Scientist - Risk Data Mining - USDS",
-      "postedToDiscord": "2026-01-06T11:37:43.272Z",
-      "sourceDate": "2025-10-31T10:56:15.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7247892565525481786",
-      "discordThreadId": "1458061956534636607",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335-2026-01-06-1",
       "jobId": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335",
@@ -9769,6 +9736,39 @@
       "sourceUrl": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
       "discordThreadId": "1460555588684480646",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007",
+      "company": "BlueLabs Analytics",
+      "title": "Analytics Associate 1",
+      "postedToDiscord": "2026-01-13T11:39:12.226Z",
+      "sourceDate": "2025-12-18T23:59:39.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8124953002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8124953002",
+      "company": "airtable",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-13T11:39:15.676Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8124953002",
+      "discordThreadId": "1460599058757587003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939-2026-01-13-1",
+      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939",
+      "company": "Q2",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-13T11:39:22.178Z",
+      "sourceDate": "2025-12-18T23:52:07.000Z",
+      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
+      "discordThreadId": "1460599086775537755",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -9776,7 +9776,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T08:46:31.457Z",
+      "date": "2026-01-13T11:39:22.178Z",
       "archived": 0
     }
   }
