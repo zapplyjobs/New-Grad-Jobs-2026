@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T17:14:28.294Z",
+  "lastUpdated": "2026-01-13T18:28:19.332Z",
   "jobs": [
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-ohio-beavercreek-associate-ai-software-engineer-aht-_r10210287-2026-01-06-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-ohio-beavercreek-associate-ai-software-engineer-aht-_r10210287",
-      "company": "Northrop Grumman",
-      "title": "Associate AI Software Engineer - Aht",
-      "postedToDiscord": "2026-01-06T17:25:56.167Z",
-      "sourceDate": "2025-12-16T23:44:02.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AHT-_R10210287",
-      "discordThreadId": "1458149588216316067",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7511698-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7511698",
-      "company": "reddit",
-      "title": "Staff Software Engineer, Storage",
-      "postedToDiscord": "2026-01-06T17:25:59.864Z",
-      "sourceDate": "2026-01-06T12:21:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
-      "discordThreadId": "1458149602254389452",
-      "instanceNumber": 1
-    },
-    {
-      "id": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-visual-charting-specialist_r-00172970-2026-01-06-1",
-      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-visual-charting-specialist_r-00172970",
-      "company": "Leidos",
-      "title": "Visual Charting Specialist",
-      "postedToDiscord": "2026-01-06T17:41:41.832Z",
-      "sourceDate": "2026-01-06T16:47:19.000Z",
-      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Visual-Charting-Specialist_R-00172970",
-      "discordThreadId": "1458153553880285437",
-      "instanceNumber": 1
-    },
-    {
-      "id": "icf-wd5-myworkdayjobs-com-icfexternal_career_site-job-arlington-va-va31-energy-and-climate-researcher_r2600017-2026-01-06-1",
-      "jobId": "icf-wd5-myworkdayjobs-com-icfexternal_career_site-job-arlington-va-va31-energy-and-climate-researcher_r2600017",
-      "company": "ICF International",
-      "title": "Energy and Climate Researcher",
-      "postedToDiscord": "2026-01-06T17:41:48.310Z",
-      "sourceDate": "2026-01-06T16:36:20.000Z",
-      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Arlington-VA-VA31/Energy-and-Climate-Researcher_R2600017",
-      "discordThreadId": "1458153581076287672",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5736009004-2026-01-06-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5736009004",
-      "company": "figma",
-      "title": "Web Content Strategist",
-      "postedToDiscord": "2026-01-06T18:27:14.821Z",
-      "sourceDate": "2026-01-06T13:12:19-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5736009004?gh_jid=5736009004",
-      "discordThreadId": "1458165016741019772",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7493743-2026-01-06-1",
       "jobId": "careers-datadoghq-com-detail-7493743",
@@ -9868,14 +9813,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8292724002",
       "discordThreadId": "1460683418361659577",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8235618002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8235618002",
+      "company": "airtable",
+      "title": "Senior Manager, People Systems",
+      "postedToDiscord": "2026-01-13T18:27:48.517Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8235618002",
+      "discordThreadId": "1460701873215377615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8303885002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8303885002",
+      "company": "airtable",
+      "title": "Senior Paralegal",
+      "postedToDiscord": "2026-01-13T18:27:51.979Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8303885002",
+      "discordThreadId": "1460701888055083018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8229185002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8229185002",
+      "company": "airtable",
+      "title": "Senior Manager, Finance Systems",
+      "postedToDiscord": "2026-01-13T18:27:58.482Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8229185002",
+      "discordThreadId": "1460701915179520072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7982552002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7982552002",
+      "company": "airtable",
+      "title": "Senior Solutions Consultant",
+      "postedToDiscord": "2026-01-13T18:28:02.129Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7982552002",
+      "discordThreadId": "1460701929859580087",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8233343002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8233343002",
+      "company": "airtable",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-13T18:28:05.549Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8233343002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7953553002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7953553002",
+      "company": "airtable",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-13T18:28:12.143Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7953553002",
+      "discordThreadId": "1460701972125716605",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845293002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845293002",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (2-8 YOE)",
+      "postedToDiscord": "2026-01-13T18:28:15.611Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845293002",
+      "discordThreadId": "1460701987258503373",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845295002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845295002",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (8+ YOE)",
+      "postedToDiscord": "2026-01-13T18:28:19.332Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845295002",
+      "discordThreadId": "1460702002190225666",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 897,
+    "totalJobs": 900,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T17:14:28.294Z",
+      "date": "2026-01-13T18:28:19.332Z",
       "archived": 0
     }
   }
