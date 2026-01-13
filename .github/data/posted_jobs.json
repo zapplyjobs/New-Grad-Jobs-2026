@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T17:01:22.040Z",
+  "lastUpdated": "2026-01-13T17:14:28.294Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7496388-2026-01-06-1",
-      "jobId": "careers-datadoghq-com-detail-7496388",
-      "company": "datadog",
-      "title": "Federal Support Engineer 3 - Denver",
-      "postedToDiscord": "2026-01-06T17:08:43.626Z",
-      "sourceDate": "2026-01-06T12:06:46-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7496388/?gh_jid=7496388",
-      "discordThreadId": "1458145263670792193",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4933383008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4933383008",
-      "company": "anthropic",
-      "title": "Protective Services Program Manager",
-      "postedToDiscord": "2026-01-06T17:08:50.316Z",
-      "sourceDate": "2026-01-06T12:00:02-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933383008",
-      "discordThreadId": "1458145284235464886",
-      "instanceNumber": 1
-    },
     {
       "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-ohio-beavercreek-associate-ai-software-engineer-aht-_r10210287-2026-01-06-1",
       "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-ohio-beavercreek-associate-ai-software-engineer-aht-_r10210287",
@@ -9813,14 +9791,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8199012002",
       "discordThreadId": "1460680119663333478",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7968990002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7968990002",
+      "company": "airtable",
+      "title": "People Analytics Lead",
+      "postedToDiscord": "2026-01-13T17:13:54.553Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7968990002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8222508002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8222508002",
+      "company": "airtable",
+      "title": " People Systems Engineer, Airtable Specialist",
+      "postedToDiscord": "2026-01-13T17:14:01.273Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8222508002",
+      "discordThreadId": "1460683303500906769",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8245333002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8245333002",
+      "company": "airtable",
+      "title": "Product Manager, Omni Analysis & Q&A",
+      "postedToDiscord": "2026-01-13T17:14:04.650Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8245333002",
+      "discordThreadId": "1460683318579429608",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8194662002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8194662002",
+      "company": "airtable",
+      "title": "Product Security Engineer",
+      "postedToDiscord": "2026-01-13T17:14:08.552Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194662002",
+      "discordThreadId": "1460683332604919960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8003706002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8003706002",
+      "company": "airtable",
+      "title": "Product Manager, AI & Automation",
+      "postedToDiscord": "2026-01-13T17:14:15.253Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8003706002",
+      "discordThreadId": "1460683362573357300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8318377002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8318377002",
+      "company": "airtable",
+      "title": "Risk Specialist, GRCP",
+      "postedToDiscord": "2026-01-13T17:14:21.973Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8318377002",
+      "discordThreadId": "1460683389777612865",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8292724002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8292724002",
+      "company": "airtable",
+      "title": "Scaled Customer Success Manager",
+      "postedToDiscord": "2026-01-13T17:14:28.294Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8292724002",
+      "discordThreadId": "1460683418361659577",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 892,
+    "totalJobs": 897,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T17:01:22.040Z",
+      "date": "2026-01-13T17:14:28.294Z",
       "archived": 0
     }
   }
