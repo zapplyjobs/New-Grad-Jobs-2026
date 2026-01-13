@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T19:08:44.234Z",
+  "lastUpdated": "2026-01-13T19:26:29.191Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5041870008-2026-01-06-1",
@@ -10022,14 +10022,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8324819002",
       "discordThreadId": "1460712173096403097",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8245153002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8245153002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-13T19:25:49.557Z",
+      "sourceDate": "2025-12-18T16:57:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245153002",
+      "discordThreadId": "1460716473734533303",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8245138002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8245138002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-13T19:25:53.094Z",
+      "sourceDate": "2025-12-18T16:57:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245138002",
+      "discordThreadId": "1460716488406077756",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8187999002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8187999002",
+      "company": "discord",
+      "title": "Director of Engineering, Developer Ecosystem",
+      "postedToDiscord": "2026-01-13T19:25:56.818Z",
+      "sourceDate": "2025-12-18T16:56:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8187999002",
+      "discordThreadId": "1460716503610556517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8177727002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8177727002",
+      "company": "discord",
+      "title": "Software Engineer, Mobile",
+      "postedToDiscord": "2026-01-13T19:26:00.177Z",
+      "sourceDate": "2025-12-18T16:56:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
+      "discordThreadId": "1460716518999330969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8200328002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8200328002",
+      "company": "discord",
+      "title": "Senior Software Engineer- Persistence Infrastructure",
+      "postedToDiscord": "2026-01-13T19:26:03.523Z",
+      "sourceDate": "2025-12-18T16:56:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8200328002",
+      "discordThreadId": "1460716533050376438",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023731008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023731008",
+      "company": "anthropic",
+      "title": "Data Center Strategic Sourcing Lead",
+      "postedToDiscord": "2026-01-13T19:26:09.077Z",
+      "sourceDate": "2025-12-18T15:53:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023731008",
+      "discordThreadId": "1460716547109683436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023727008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023727008",
+      "company": "anthropic",
+      "title": "Data Center Facility Operations Lead",
+      "postedToDiscord": "2026-01-13T19:26:12.480Z",
+      "sourceDate": "2025-12-18T15:52:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023727008",
+      "discordThreadId": "1460716570027229225",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041319008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041319008",
+      "company": "anthropic",
+      "title": "Manager, IT Support & Operations",
+      "postedToDiscord": "2026-01-13T19:26:19.082Z",
+      "sourceDate": "2025-12-18T15:45:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041319008",
+      "discordThreadId": "1460716597550252072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018203008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018203008",
+      "company": "anthropic",
+      "title": "Microsoft GTM Partnerships Manager, Digital Natives & Startups",
+      "postedToDiscord": "2026-01-13T19:26:22.539Z",
+      "sourceDate": "2025-12-18T14:30:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018203008",
+      "discordThreadId": "1460716612175921356",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973158008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973158008",
+      "company": "anthropic",
+      "title": "Google Partnerships Manager, Digital Native & Startups",
+      "postedToDiscord": "2026-01-13T19:26:29.191Z",
+      "sourceDate": "2025-12-18T14:29:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
+      "discordThreadId": "1460716640004997193",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 911,
+    "totalJobs": 921,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T19:08:44.234Z",
+      "date": "2026-01-13T19:26:29.191Z",
       "archived": 0
     }
   }
