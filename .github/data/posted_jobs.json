@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T20:26:48.858Z",
+  "lastUpdated": "2026-01-13T20:42:59.867Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7137624-2026-01-06-1",
@@ -10627,14 +10627,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
       "discordThreadId": "1460731822249083021",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8343795002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8343795002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics - GTM Ads",
+      "postedToDiscord": "2026-01-13T20:42:16.721Z",
+      "sourceDate": "2025-12-17T13:42:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343795002",
+      "discordThreadId": "1460735713174884425",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8343789002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8343789002",
+      "company": "discord",
+      "title": "Data Scientist, Analytics - Ads Reporting",
+      "postedToDiscord": "2026-01-13T20:42:20.535Z",
+      "sourceDate": "2025-12-17T13:41:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
+      "discordThreadId": "1460735728848867503",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-data-engineer-2-3-people-analytics_r10217513-2026-01-13-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-virginia-unknown-city-data-engineer-2-3-people-analytics_r10217513",
+      "company": "Northrop Grumman",
+      "title": "Data Engineer - People Analytics",
+      "postedToDiscord": "2026-01-13T20:42:22.292Z",
+      "sourceDate": "2025-12-17T16:45:16.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513",
+      "discordThreadId": "1460735744699142269",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5737300004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5737300004",
+      "company": "figma",
+      "title": "People Analyst",
+      "postedToDiscord": "2026-01-13T20:42:29.009Z",
+      "sourceDate": "2025-12-17T13:26:06-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737300004?gh_jid=5737300004",
+      "discordThreadId": "1460735764592726212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973116008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973116008",
+      "company": "anthropic",
+      "title": "Customer Activation Manager",
+      "postedToDiscord": "2026-01-13T20:42:32.651Z",
+      "sourceDate": "2025-12-17T12:19:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973116008",
+      "discordThreadId": "1460735780103262319",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-auburn-hills-mi-configuration-management-analyst_j2428597-2026-01-13-1",
+      "jobId": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-auburn-hills-mi-configuration-management-analyst_j2428597",
+      "company": "Jabil",
+      "title": "Configuration Management Analyst",
+      "postedToDiscord": "2026-01-13T20:42:39.386Z",
+      "sourceDate": "2025-12-17T16:51:33.000Z",
+      "sourceUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Auburn-Hills-MI/Configuration-Management-Analyst_J2428597",
+      "discordThreadId": "1460735808033001626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11605-job-2026-01-13-1",
+      "jobId": "careers-nv5-icims-com-jobs-11605-job",
+      "company": "NV5 Global",
+      "title": "Geospatial Technician - 3D Stereo Compilation",
+      "postedToDiscord": "2026-01-13T20:42:45.968Z",
+      "sourceDate": "2025-12-17T16:31:21.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11605/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460735836432896143",
+      "instanceNumber": 1
+    },
+    {
+      "id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-java-_jr104034-2026-01-13-1",
+      "jobId": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-java-_jr104034",
+      "company": "Apex Fintech Solutions",
+      "title": "Software Engineer 1 - Java",
+      "postedToDiscord": "2026-01-13T20:42:52.491Z",
+      "sourceDate": "2025-12-17T16:25:25.000Z",
+      "sourceUrl": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Java-_JR104034",
+      "discordThreadId": "1460735863863509147",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jda-wd5-myworkdayjobs-com-en-us-university-job-dallas-software-engineer-i_253496-2026-01-13-1",
+      "jobId": "jda-wd5-myworkdayjobs-com-en-us-university-job-dallas-software-engineer-i_253496",
+      "company": "Blue Yonder",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-13T20:42:55.994Z",
+      "sourceDate": "2025-12-17T16:08:54.000Z",
+      "sourceUrl": "https://jda.wd5.myworkdayjobs.com/en-US/university/job/Dallas/Software-Engineer-I_253496",
+      "discordThreadId": "1460735878652760267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4935567008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4935567008",
+      "company": "anthropic",
+      "title": "Software Engineer, Languages",
+      "postedToDiscord": "2026-01-13T20:42:59.867Z",
+      "sourceDate": "2025-12-17T11:05:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935567008",
+      "discordThreadId": "1460735893584482455",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 966,
+    "totalJobs": 976,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T20:26:48.858Z",
+      "date": "2026-01-13T20:42:59.867Z",
       "archived": 0
     }
   }
