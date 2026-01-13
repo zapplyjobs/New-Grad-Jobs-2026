@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T03:23:17.447Z",
+  "lastUpdated": "2026-01-13T03:57:42.706Z",
   "jobs": [
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ma-westford-research-engineer-architecture-phd-new-college-grad-2026_jr2008829-2026-01-06-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ma-westford-research-engineer-architecture-phd-new-college-grad-2026_jr2008829",
-      "company": "NVIDIA",
-      "title": "Research Engineer – PhD New College Grad - Architecture",
-      "postedToDiscord": "2026-01-06T03:57:14.087Z",
-      "sourceDate": "2026-01-06T03:26:00.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Engineer--Architecture---PhD-New-College-Grad-2026_JR2008829",
-      "discordThreadId": "1457946071601905704",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-polymer-characterization-and-thermal-analysis-research-associate_r014247-2026-01-06-1",
-      "jobId": "aero-wd5-myworkdayjobs-com-external-job-el-segundo-ca-xmlname-2026-polymer-characterization-and-thermal-analysis-research-associate_r014247",
-      "company": "The Aerospace Corporation",
-      "title": "2026 Polymer Characterization and Thermal Analysis Research Associate",
-      "postedToDiscord": "2026-01-06T03:57:20.530Z",
-      "sourceDate": "2026-01-06T03:11:38.000Z",
-      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Polymer-Characterization-and-Thermal-Analysis-Research-Associate_R014247",
-      "discordThreadId": "1457946098575347784",
-      "instanceNumber": 1
-    },
     {
       "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dl-algorithms-engineer-cosmos-new-college-graduate-2026_jr2010848-1-2026-01-06-1",
       "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dl-algorithms-engineer-cosmos-new-college-graduate-2026_jr2010848-1",
@@ -7371,14 +7349,146 @@
       "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
       "discordThreadId": "1460474244160028793",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-89c320f5-2066-44c4-a465-4ce1db5290c5-2026-01-13-1",
+      "jobId": "jobs-lever-co-spotify-89c320f5-2066-44c4-a465-4ce1db5290c5",
+      "company": "spotify",
+      "title": "Regulatory Operations Specialist",
+      "postedToDiscord": "2026-01-13T03:57:08.828Z",
+      "sourceDate": "2025-12-31T17:28:22.174Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/89c320f5-2066-44c4-a465-4ce1db5290c5",
+      "discordThreadId": "1460482764078846138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boydgroup-wd1-myworkdayjobs-com-boydcareers-job-sc-charleston-folly-rd-154011-automotive-mobile-adas-technician_r055451-2026-01-13-1",
+      "jobId": "boydgroup-wd1-myworkdayjobs-com-boydcareers-job-sc-charleston-folly-rd-154011-automotive-mobile-adas-technician_r055451",
+      "company": "The Boyd Group",
+      "title": "Automotive Mobile ADAS Technician",
+      "postedToDiscord": "2026-01-13T03:57:12.311Z",
+      "sourceDate": "2025-12-31T01:54:47.000Z",
+      "sourceUrl": "https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/SC-Charleston-Folly-Rd---154011/Automotive-Mobile-ADAS-Technician_R055451",
+      "discordThreadId": "1460482778893258793",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762-2026-01-13-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-dc-washington-entry-mid-software-developer_320762",
+      "company": "CACI",
+      "title": "Entry/Mid Software Developer",
+      "postedToDiscord": "2026-01-13T03:57:15.598Z",
+      "sourceDate": "2025-12-30T23:16:19.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762",
+      "discordThreadId": "1460482793342767221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4128860007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4128860007",
+      "company": "verkada",
+      "title": "Global Enterprise Account Executive",
+      "postedToDiscord": "2026-01-13T03:57:20.439Z",
+      "sourceDate": "2025-12-31T12:13:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4128860007",
+      "discordThreadId": "1460482820152492136",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169366-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169366",
+      "company": "samsara",
+      "title": "Account Development Representative Intern",
+      "postedToDiscord": "2026-01-13T03:57:22.445Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169366?gh_jid=7169366",
+      "discordThreadId": "1460482828151292047",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169321-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169321",
+      "company": "samsara",
+      "title": "Account Development Representative Intern ",
+      "postedToDiscord": "2026-01-13T03:57:22.452Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169321?gh_jid=7169321",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169384-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169384",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad)",
+      "postedToDiscord": "2026-01-13T03:57:24.318Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169384?gh_jid=7169384",
+      "discordThreadId": "1460482835671421066",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169397-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169397",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad) ",
+      "postedToDiscord": "2026-01-13T03:57:24.324Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169397?gh_jid=7169397",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-freeformfuturecorp-jobs-7575047003-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-freeformfuturecorp-jobs-7575047003",
+      "company": "Freeform",
+      "title": "Materials Lab Technician",
+      "postedToDiscord": "2026-01-13T03:57:30.651Z",
+      "sourceDate": "2025-12-30T23:56:34.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7575047003",
+      "discordThreadId": "1460482856445939753",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dmainc-wd5-myworkdayjobs-com-dma-job-fort-wayne-in-associate-software-support-java-_req293-2026-01-13-1",
+      "jobId": "dmainc-wd5-myworkdayjobs-com-dma-job-fort-wayne-in-associate-software-support-java-_req293",
+      "company": "DuCharme, McMillen & Associates",
+      "title": "Associate Software Support - Java",
+      "postedToDiscord": "2026-01-13T03:57:37.088Z",
+      "sourceDate": "2025-12-30T23:26:51.000Z",
+      "sourceUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support--Java-_REQ293",
+      "discordThreadId": "1460482882685501566",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-497d99f8-a848-4e33-8dba-1fd64f83f48b-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-supabase-497d99f8-a848-4e33-8dba-1fd64f83f48b",
+      "company": "supabase",
+      "title": "Software Engineer: Platform Services",
+      "postedToDiscord": "2026-01-13T03:57:38.869Z",
+      "sourceDate": "2025-12-30T19:19:43.123+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/497d99f8-a848-4e33-8dba-1fd64f83f48b",
+      "discordThreadId": "1460482897688527033",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5722313004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5722313004",
+      "company": "vercel",
+      "title": "Content Engineer",
+      "postedToDiscord": "2026-01-13T03:57:42.706Z",
+      "sourceDate": "2025-12-30T13:33:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722313004",
+      "discordThreadId": "1460482904382636044",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 670,
+    "totalJobs": 680,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T03:23:17.447Z",
+      "date": "2026-01-13T03:57:42.706Z",
       "archived": 0
     }
   }
