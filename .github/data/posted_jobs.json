@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T15:55:10.336Z",
+  "lastUpdated": "2026-01-13T16:27:26.840Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7449072-2026-01-06-1",
-      "jobId": "careers-datadoghq-com-detail-7449072",
-      "company": "datadog",
-      "title": "Premier Support Engineer 2",
-      "postedToDiscord": "2026-01-06T16:06:40.147Z",
-      "sourceDate": "2026-01-06T11:00:42-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
-      "discordThreadId": "1458129639154126999",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb-2026-01-06-1",
       "jobId": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb",
@@ -9791,14 +9780,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8293251002",
       "discordThreadId": "1460663461947248731",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8208453002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8208453002",
+      "company": "airtable",
+      "title": "Product Designer - DeepSky",
+      "postedToDiscord": "2026-01-13T16:27:20.429Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8208453002",
+      "discordThreadId": "1460671556941381856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8172359002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8172359002",
+      "company": "airtable",
+      "title": "Product Designer - Mobile",
+      "postedToDiscord": "2026-01-13T16:27:20.443Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8172359002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8321974002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8321974002",
+      "company": "airtable",
+      "title": "Field Marketing Specialist, West",
+      "postedToDiscord": "2026-01-13T16:27:26.840Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8321974002",
+      "discordThreadId": "1460671584003031253",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 890,
+    "totalJobs": 892,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T15:55:10.336Z",
+      "date": "2026-01-13T16:27:26.840Z",
       "archived": 0
     }
   }
