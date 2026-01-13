@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T19:31:50.438Z",
+  "lastUpdated": "2026-01-13T19:40:23.916Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041870008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041870008",
-      "company": "anthropic",
-      "title": "Director of UI Engineering, Claude Consumer Products",
-      "postedToDiscord": "2026-01-06T19:32:54.806Z",
-      "sourceDate": "2026-01-06T14:05:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041870008",
-      "discordThreadId": "1458181542336659730",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5055448008-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055448008",
@@ -10297,14 +10286,135 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
       "discordThreadId": "1460717987257647200",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5737291004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5737291004",
+      "company": "figma",
+      "title": "Legal Operations Lead, CLM & Technology",
+      "postedToDiscord": "2026-01-13T19:39:40.939Z",
+      "sourceDate": "2025-12-18T10:56:26-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737291004?gh_jid=5737291004",
+      "discordThreadId": "1460719960908238859",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4831485008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4831485008",
+      "company": "anthropic",
+      "title": "Finance Variable Compensation Lead",
+      "postedToDiscord": "2026-01-13T19:39:44.514Z",
+      "sourceDate": "2025-12-17T23:20:12-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
+      "discordThreadId": "1460719975969853510",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5729141004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5729141004",
+      "company": "figma",
+      "title": "Launch Strategy & Operations - Marketing & Comms",
+      "postedToDiscord": "2026-01-13T19:39:48.204Z",
+      "sourceDate": "2025-12-17T21:34:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5729141004?gh_jid=5729141004",
+      "discordThreadId": "1460719990893449402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735644004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735644004",
+      "company": "figma",
+      "title": "Senior Technical Revenue Manager",
+      "postedToDiscord": "2026-01-13T19:39:53.430Z",
+      "sourceDate": "2025-12-17T19:24:43-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735644004?gh_jid=5735644004",
+      "discordThreadId": "1460720006429016238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-st-paul-clinic-woodbury-mn-therapist-child-adolescent-php-iop_r5758-2026-01-13-1",
+      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-st-paul-clinic-woodbury-mn-therapist-child-adolescent-php-iop_r5758",
+      "company": "Rogers Behavioral Health",
+      "title": "Therapist - Child & Adolescent",
+      "postedToDiscord": "2026-01-13T19:40:00.241Z",
+      "sourceDate": "2025-12-18T16:31:59.000Z",
+      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R5758",
+      "discordThreadId": "1460720040721645764",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a-2026-01-13-1",
+      "jobId": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
+      "company": "spotify",
+      "title": "Senior Manager, Music Label Deal Analysis - FP&A",
+      "postedToDiscord": "2026-01-13T19:40:07.032Z",
+      "sourceDate": "2025-12-18T15:46:29.850Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
+      "discordThreadId": "1460720069284855993",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-roblox-com-jobs-7463634-2026-01-13-1",
+      "jobId": "careers-roblox-com-jobs-7463634",
+      "company": "Roblox",
+      "title": "Data Scientist, Social - PhD Early Career",
+      "postedToDiscord": "2026-01-13T19:40:13.541Z",
+      "sourceDate": "2025-12-18T14:23:56.000Z",
+      "sourceUrl": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634",
+      "discordThreadId": "1460720097705459715",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-us-md-aberdeen-proving-ground-junior-software-engineer_320514-2026-01-13-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-md-aberdeen-proving-ground-junior-software-engineer_320514",
+      "company": "CACI",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-13T19:40:20.361Z",
+      "sourceDate": "2025-12-18T14:21:40.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Junior-Software-Engineer_320514",
+      "discordThreadId": "1460720125471883409",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832160-2026-01-13-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832160",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-13T19:40:23.899Z",
+      "sourceDate": "2025-12-18T02:19:58.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160",
+      "discordThreadId": "1460720141158584475",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832192-2026-01-13-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832192",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-13T19:40:23.908Z",
+      "sourceDate": "2025-12-18T02:16:46.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832192",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89635839264-2026-01-13-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89635839264",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-13T19:40:23.916Z",
+      "sourceDate": "2025-12-18T02:16:30.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89635839264",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 936,
+    "totalJobs": 946,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T19:31:50.438Z",
+      "date": "2026-01-13T19:40:23.916Z",
       "archived": 0
     }
   }
