@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T11:39:22.178Z",
+  "lastUpdated": "2026-01-13T15:11:00.328Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335-2026-01-06-1",
-      "jobId": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335",
-      "company": "spotify",
-      "title": "Senior Staff Machine Learning Engineer - Home",
-      "postedToDiscord": "2026-01-06T14:42:32.655Z",
-      "sourceDate": "2026-01-06T12:03:25.795Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/0d21c06c-31f7-4898-b34b-b7bcd1518335",
-      "discordThreadId": "1458108467817746564",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5023089008-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023089008",
@@ -9769,14 +9758,36 @@
       "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
       "discordThreadId": "1460599086775537755",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5575026004",
+      "company": "figma",
+      "title": "Executive Assistant, Product Support ",
+      "postedToDiscord": "2026-01-13T15:10:56.881Z",
+      "sourceDate": "2025-12-18T18:49:15-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5575026004?gh_jid=5575026004",
+      "discordThreadId": "1460652331468062804",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7883535002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7883535002",
+      "company": "airtable",
+      "title": "Account Executive, Commercial Accounts",
+      "postedToDiscord": "2026-01-13T15:11:00.328Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883535002",
+      "discordThreadId": "1460652346500714496",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 888,
+    "totalJobs": 889,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T11:39:22.178Z",
+      "date": "2026-01-13T15:11:00.328Z",
       "archived": 0
     }
   }
