@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T23:51:14.868Z",
+  "lastUpdated": "2026-01-13T00:11:19.552Z",
   "jobs": [
-    {
-      "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459-2026-01-06-1",
-      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459",
-      "company": "The Travelers Companies",
-      "title": "Software Engineer 1 - Guidewire",
-      "postedToDiscord": "2026-01-06T00:11:12.547Z",
-      "sourceDate": "2026-01-05T23:44:47.000Z",
-      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---Guidewire_R-48459",
-      "discordThreadId": "1457889187893219382",
-      "instanceNumber": 1
-    },
-    {
-      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007321-2026-01-06-1",
-      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007321",
-      "company": "Welocalize",
-      "title": "Search Quality Rater",
-      "postedToDiscord": "2026-01-06T00:11:16.230Z",
-      "sourceDate": "2026-01-05T23:42:53.000Z",
-      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007321",
-      "discordThreadId": "1457889205148586205",
-      "instanceNumber": 1
-    },
     {
       "id": "www-uber-com-global-en-careers-list-150774-2026-01-06-1",
       "jobId": "www-uber-com-global-en-careers-list-150774",
@@ -7008,15 +6986,148 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7245542?gh_jid=7245542",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8073319002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8073319002",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "postedToDiscord": "2026-01-13T00:10:31.663Z",
+      "sourceDate": "2026-01-05T22:20:37-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8073319002?gh_jid=8073319002",
+      "discordThreadId": "1460425734257512731",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8093381002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8093381002",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "postedToDiscord": "2026-01-13T00:10:31.673Z",
+      "sourceDate": "2026-01-05T22:20:37-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8093381002?gh_jid=8093381002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8075296002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8075296002",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "postedToDiscord": "2026-01-13T00:10:31.680Z",
+      "sourceDate": "2026-01-05T22:20:37-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8075296002?gh_jid=8075296002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7461793-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7461793",
+      "company": "samsara",
+      "title": "Senior Sales Strategy Manager, New Product",
+      "postedToDiscord": "2026-01-13T00:10:38.414Z",
+      "sourceDate": "2026-01-05T21:55:32-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7461793?gh_jid=7461793",
+      "discordThreadId": "1460425761151521031",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8307573002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8307573002",
+      "company": "brex",
+      "title": "Tax Director",
+      "postedToDiscord": "2026-01-13T00:10:41.865Z",
+      "sourceDate": "2026-01-05T20:54:47-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8307573002?gh_jid=8307573002",
+      "discordThreadId": "1460425776674373642",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5013277008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5013277008",
+      "company": "anthropic",
+      "title": "Customer Activation Manager, Large-Scale Deployments",
+      "postedToDiscord": "2026-01-13T00:10:46.035Z",
+      "sourceDate": "2026-01-05T16:01:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013277008",
+      "discordThreadId": "1460425791106973851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5732415004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5732415004",
+      "company": "figma",
+      "title": "Director, Product Marketing ",
+      "postedToDiscord": "2026-01-13T00:10:49.414Z",
+      "sourceDate": "2026-01-05T13:20:00-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732415004?gh_jid=5732415004",
+      "discordThreadId": "1460425808513335418",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845265002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845265002",
+      "company": "airtable",
+      "title": "Software Engineer, Product Frontend (2-8 YOE)",
+      "postedToDiscord": "2026-01-13T00:10:56.126Z",
+      "sourceDate": "2026-01-05T20:12:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845265002",
+      "discordThreadId": "1460425835491229746",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4887959008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4887959008",
+      "company": "anthropic",
+      "title": "Senior Software Security Engineer",
+      "postedToDiscord": "2026-01-13T00:11:02.695Z",
+      "sourceDate": "2026-01-05T18:34:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008",
+      "discordThreadId": "1460425863550992570",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4951844008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951844008",
+      "company": "anthropic",
+      "title": "Software Engineer, Safeguards",
+      "postedToDiscord": "2026-01-13T00:11:06.334Z",
+      "sourceDate": "2026-01-05T16:19:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+      "discordThreadId": "1460425877870612677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5722132004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5722132004",
+      "company": "vercel",
+      "title": "Staff Product Marketing Manager, v0",
+      "postedToDiscord": "2026-01-13T00:11:13.113Z",
+      "sourceDate": "2026-01-05T17:38:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722132004",
+      "discordThreadId": "1460425906240880780",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8112284002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8112284002",
+      "company": "airtable",
+      "title": "Analytics Engineer, Product Analytics",
+      "postedToDiscord": "2026-01-13T00:11:19.552Z",
+      "sourceDate": "2026-01-05T13:01:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8112284002",
+      "discordThreadId": "1460425934682329292",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 637,
+    "totalJobs": 647,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-12T23:51:14.868Z",
-      "archived": 0
+      "date": "2026-01-13T00:11:19.552Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
