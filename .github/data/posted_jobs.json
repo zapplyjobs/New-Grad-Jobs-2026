@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T16:27:26.840Z",
+  "lastUpdated": "2026-01-13T16:47:05.397Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb-2026-01-06-1",
-      "jobId": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb",
-      "company": "spotify",
-      "title": "Senior Machine Learning Engineer - Ads R&D",
-      "postedToDiscord": "2026-01-06T16:45:34.636Z",
-      "sourceDate": "2025-08-26T20:02:52.517Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/6236f25f-f9cc-47c2-af7b-4ace57332eeb",
-      "discordThreadId": "1458139430878581001",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-cisco-com-global-en-job-2001899-2026-01-06-1",
-      "jobId": "careers-cisco-com-global-en-job-2001899",
-      "company": "Cisco",
-      "title": "AI Machine Learning Engineer 2",
-      "postedToDiscord": "2026-01-06T16:45:37.998Z",
-      "sourceDate": "2026-01-06T16:18:36.000Z",
-      "sourceUrl": "https://careers.cisco.com/global/en/job/2001899",
-      "discordThreadId": "1458139445122433086",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7405831-2026-01-06-1",
-      "jobId": "careers-datadoghq-com-detail-7405831",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive ",
-      "postedToDiscord": "2026-01-06T16:45:44.784Z",
-      "sourceDate": "2026-01-06T11:35:06-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831",
-      "discordThreadId": "1458139472704045242",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-shiftsmart-e965f643-121a-41b3-bb50-476ea9f78733-application-2026-01-06-1",
-      "jobId": "jobs-ashbyhq-com-shiftsmart-e965f643-121a-41b3-bb50-476ea9f78733-application",
-      "company": "Shiftsmart",
-      "title": "Early Career Software Engineer",
-      "postedToDiscord": "2026-01-06T16:45:51.313Z",
-      "sourceDate": "2026-01-06T16:17:48.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/shiftsmart/e965f643-121a-41b3-bb50-476ea9f78733/application",
-      "discordThreadId": "1458139500797759621",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7496388-2026-01-06-1",
       "jobId": "careers-datadoghq-com-detail-7496388",
@@ -9813,14 +9769,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8321974002",
       "discordThreadId": "1460671584003031253",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8170126002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8170126002",
+      "company": "airtable",
+      "title": "Field Marketing Manager, East",
+      "postedToDiscord": "2026-01-13T16:46:55.427Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170126002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8009894002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8009894002",
+      "company": "airtable",
+      "title": "Lead Solutions Consultant",
+      "postedToDiscord": "2026-01-13T16:47:02.054Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8009894002",
+      "discordThreadId": "1460676512192794895",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8249560002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8249560002",
+      "company": "airtable",
+      "title": "Renewals Associate",
+      "postedToDiscord": "2026-01-13T16:47:05.396Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8249560002",
+      "discordThreadId": "1460676527279575302",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 892,
+    "totalJobs": 891,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T16:27:26.840Z",
+      "date": "2026-01-13T16:47:05.397Z",
       "archived": 0
     }
   }
