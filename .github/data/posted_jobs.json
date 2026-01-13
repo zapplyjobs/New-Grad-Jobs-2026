@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T19:40:23.916Z",
+  "lastUpdated": "2026-01-13T20:00:49.162Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5055448008-2026-01-06-1",
@@ -10407,14 +10407,124 @@
       "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89635839264",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5734604004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5734604004",
+      "company": "figma",
+      "title": "Community Support Specialist",
+      "postedToDiscord": "2026-01-13T20:00:03.194Z",
+      "sourceDate": "2025-12-18T12:24:30-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004",
+      "discordThreadId": "1460725086507106479",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767-2026-01-13-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767",
+      "company": "Walmart",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-13T20:00:10.211Z",
+      "sourceDate": "2025-12-17T23:52:29.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767",
+      "discordThreadId": "1460725115645071584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-affirm-jobs-7560430003-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-affirm-jobs-7560430003",
+      "company": "Affirm",
+      "title": "Analyst 1 - Full Stack",
+      "postedToDiscord": "2026-01-13T20:00:14.419Z",
+      "sourceDate": "2025-12-17T23:41:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7560430003",
+      "discordThreadId": "1460725131755130952",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333-2026-01-13-1",
+      "jobId": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333",
+      "company": "Oshkosh",
+      "title": "NASCAR Cup Track Support Engineer – Entry Level",
+      "postedToDiscord": "2026-01-13T20:00:21.210Z",
+      "sourceDate": "2025-12-17T23:52:04.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
+      "discordThreadId": "1460725161668902926",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008-2026-01-13-1",
+      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008",
+      "company": "Auto-Owners Insurance",
+      "title": "Math Major Software Developer",
+      "postedToDiscord": "2026-01-13T20:00:24.967Z",
+      "sourceDate": "2025-12-17T23:48:31.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
+      "discordThreadId": "1460725178307973274",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273-2026-01-13-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273",
+      "company": "Leidos",
+      "title": "Entry-Level Software Developer",
+      "postedToDiscord": "2026-01-13T20:00:28.499Z",
+      "sourceDate": "2025-12-17T23:33:32.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
+      "discordThreadId": "1460725193419788541",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003",
+      "company": "Major League Baseball",
+      "title": "Data Operator",
+      "postedToDiscord": "2026-01-13T20:00:32.282Z",
+      "sourceDate": "2025-12-17T23:33:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7566484003",
+      "discordThreadId": "1460725208796364810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804-2026-01-13-1",
+      "jobId": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804",
+      "company": "MultiCare Health System",
+      "title": "Software Engineer 1 - Scm",
+      "postedToDiscord": "2026-01-13T20:00:35.808Z",
+      "sourceDate": "2025-12-17T23:30:13.000Z",
+      "sourceUrl": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR65804",
+      "discordThreadId": "1460725224487129109",
+      "instanceNumber": 1
+    },
+    {
+      "id": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3-2026-01-13-1",
+      "jobId": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3",
+      "company": "Harris Computer",
+      "title": "Systems Analyst",
+      "postedToDiscord": "2026-01-13T20:00:42.735Z",
+      "sourceDate": "2025-12-17T23:32:22.000Z",
+      "sourceUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Blair/XMLNAME--Remote--Systems-Analyst_R0038516-3",
+      "discordThreadId": "1460725251456635072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dairynet-wd1-myworkdayjobs-com-dpccareers-job-la-crosse-wisconsin-right-of-way-technician-entry-or-level-i_jr100804-2026-01-13-1",
+      "jobId": "dairynet-wd1-myworkdayjobs-com-dpccareers-job-la-crosse-wisconsin-right-of-way-technician-entry-or-level-i_jr100804",
+      "company": "Dairyland Power Cooperative",
+      "title": "Right-of-Way Technician - Entry or Level I",
+      "postedToDiscord": "2026-01-13T20:00:49.162Z",
+      "sourceDate": "2025-12-17T23:24:59.000Z",
+      "sourceUrl": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Right-of-Way-Technician----Entry-or-Level-I_JR100804",
+      "discordThreadId": "1460725280724221962",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 946,
+    "totalJobs": 956,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T19:40:23.916Z",
+      "date": "2026-01-13T20:00:49.162Z",
       "archived": 0
     }
   }
