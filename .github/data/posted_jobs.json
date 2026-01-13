@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T07:27:51.079Z",
+  "lastUpdated": "2026-01-13T07:41:54.776Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5719801004",
-      "company": "vercel",
-      "title": "Director of Trust & Safety Engineering",
-      "postedToDiscord": "2026-01-06T07:28:47.894Z",
-      "sourceDate": "2026-01-06T02:14:41-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719801004",
-      "discordThreadId": "1457999312939257939",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-koddi-jobs-8250169002-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-koddi-jobs-8250169002",
@@ -9340,14 +9329,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
       "discordThreadId": "1460535789925695621",
       "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-data-center-network-modeling-technician-iii_r0014121-2026-01-13-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-data-center-network-modeling-technician-iii_r0014121",
+      "company": "Astreya",
+      "title": "Data Center Network Modeling Technician 3",
+      "postedToDiscord": "2026-01-13T07:41:15.606Z",
+      "sourceDate": "2025-12-21T17:42:32.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121",
+      "discordThreadId": "1460539163718975488",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042002008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042002008",
+      "company": "anthropic",
+      "title": "Incentive Compensation System Engineer",
+      "postedToDiscord": "2026-01-13T07:41:19.295Z",
+      "sourceDate": "2025-12-20T00:02:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008",
+      "discordThreadId": "1460539178692382794",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-e15854cc-d2f4-44e8-b516-8f582865fe64-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-supabase-e15854cc-d2f4-44e8-b516-8f582865fe64",
+      "company": "supabase",
+      "title": "Platform Engineer: General Compute",
+      "postedToDiscord": "2026-01-13T07:41:21.030Z",
+      "sourceDate": "2025-12-20T01:20:00.983+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/e15854cc-d2f4-44e8-b516-8f582865fe64",
+      "discordThreadId": "1460539194257707071",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8348129002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8348129002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-13T07:41:24.492Z",
+      "sourceDate": "2025-12-19T19:11:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348129002",
+      "discordThreadId": "1460539201585156284",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8177912002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8177912002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-13T07:41:27.948Z",
+      "sourceDate": "2025-12-19T19:09:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177912002",
+      "discordThreadId": "1460539215958900800",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-blissway-206ceeef-4283-481c-a46d-e7273f597844-application-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-blissway-206ceeef-4283-481c-a46d-e7273f597844-application",
+      "company": "Blissway",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-13T07:41:34.543Z",
+      "sourceDate": "2025-12-20T02:11:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application",
+      "discordThreadId": "1460539243104567307",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-new-york-pearl-river-postdoctoral-fellow-in-ai-ml-applications-for-vaccine-research-development_4948673-2-2026-01-13-1",
+      "jobId": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-new-york-pearl-river-postdoctoral-fellow-in-ai-ml-applications-for-vaccine-research-development_4948673-2",
+      "company": "Pfizer",
+      "title": "Postdoctoral Fellow in AI/ML Applications for Vaccine Research and Development",
+      "postedToDiscord": "2026-01-13T07:41:37.996Z",
+      "sourceDate": "2025-12-19T23:54:57.000Z",
+      "sourceUrl": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/Postdoctoral-Fellow-in-AI-ML-Applications-for-Vaccine-Research---Development_4948673-2",
+      "discordThreadId": "1460539258195677369",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5631091004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5631091004",
+      "company": "vercel",
+      "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+      "postedToDiscord": "2026-01-13T07:41:44.757Z",
+      "sourceDate": "2025-12-19T20:27:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5631091004",
+      "discordThreadId": "1460539285575827488",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043435008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043435008",
+      "company": "anthropic",
+      "title": "Partner Operations Specialist",
+      "postedToDiscord": "2026-01-13T07:41:48.191Z",
+      "sourceDate": "2025-12-19T19:46:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
+      "discordThreadId": "1460539301057134744",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5026192008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026192008",
+      "company": "anthropic",
+      "title": "Field Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-13T07:41:54.776Z",
+      "sourceDate": "2025-12-19T20:16:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026192008",
+      "discordThreadId": "1460539328072777810",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 849,
+    "totalJobs": 858,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T07:27:51.079Z",
+      "date": "2026-01-13T07:41:54.776Z",
       "archived": 0
     }
   }
