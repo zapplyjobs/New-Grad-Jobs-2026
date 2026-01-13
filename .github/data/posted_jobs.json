@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T08:27:50.394Z",
+  "lastUpdated": "2026-01-13T08:46:31.457Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-twitch-jobs-8360103002-2026-01-06-1",
@@ -9758,14 +9758,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
       "discordThreadId": "1460550886739939401",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-mlb-com-careers-opportunities-2026-01-13-1",
+      "jobId": "www-mlb-com-careers-opportunities",
+      "company": "Major League Baseball",
+      "title": "Associate Software Engineer - Baseball Enterprise",
+      "postedToDiscord": "2026-01-13T08:46:31.456Z",
+      "sourceDate": "2025-12-19T00:07:46.000Z",
+      "sourceUrl": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
+      "discordThreadId": "1460555588684480646",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 887,
+    "totalJobs": 888,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T08:27:50.394Z",
+      "date": "2026-01-13T08:46:31.457Z",
       "archived": 0
     }
   }
