@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T02:41:32.112Z",
+  "lastUpdated": "2026-01-13T03:23:17.447Z",
   "jobs": [
-    {
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624-2026-01-06-1",
-      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-06T02:41:36.043Z",
-      "sourceDate": "2026-01-06T02:21:20.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90290660624",
-      "discordThreadId": "1457927037338783899",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aexp-eightfold-ai-careers-job-39519933-2026-01-06-1",
-      "jobId": "aexp-eightfold-ai-careers-job-39519933",
-      "company": "American Express",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-06T02:41:39.488Z",
-      "sourceDate": "2026-01-06T02:08:38.000Z",
-      "sourceUrl": "https://aexp.eightfold.ai/careers/job/39519933",
-      "discordThreadId": "1457927051574116501",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8360086002-2026-01-06-1",
-      "jobId": "www-brex-com-careers-8360086002",
-      "company": "brex",
-      "title": "Tax Director",
-      "postedToDiscord": "2026-01-06T02:41:46.445Z",
-      "sourceDate": "2026-01-05T20:55:40-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8360086002?gh_jid=8360086002",
-      "discordThreadId": "1457927079449464862",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aexp-eightfold-ai-careers-job-39519939-2026-01-06-1",
-      "jobId": "aexp-eightfold-ai-careers-job-39519939",
-      "company": "American Express",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-06T03:22:41.350Z",
-      "sourceDate": "2026-01-06T02:27:34.000Z",
-      "sourceUrl": "https://aexp.eightfold.ai/careers/job/39519939",
-      "discordThreadId": "1457937377489064011",
-      "instanceNumber": 1
-    },
     {
       "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ma-westford-research-engineer-architecture-phd-new-college-grad-2026_jr2008829-2026-01-06-1",
       "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ma-westford-research-engineer-architecture-phd-new-college-grad-2026_jr2008829",
@@ -7305,16 +7261,125 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7396325",
       "discordThreadId": "1460463734748221462",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7366237-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7366237",
+      "company": "reddit",
+      "title": "Director, Global Sales Enablement",
+      "postedToDiscord": "2026-01-13T03:22:32.439Z",
+      "sourceDate": "2026-01-01T11:25:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7366237",
+      "discordThreadId": "1460474054858375302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7336592-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7336592",
+      "company": "reddit",
+      "title": "Snoo Operations and IT Support (SOS) Manager",
+      "postedToDiscord": "2026-01-13T03:22:37.481Z",
+      "sourceDate": "2026-01-01T11:22:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7336592",
+      "discordThreadId": "1460474069781840090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7426344-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7426344",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (Gaming & Tech)",
+      "postedToDiscord": "2026-01-13T03:22:41.093Z",
+      "sourceDate": "2026-01-01T11:21:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7426344",
+      "discordThreadId": "1460474091080384526",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2026-01-13T03:22:45.246Z",
+      "sourceDate": "2025-12-31T23:29:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
+      "discordThreadId": "1460474106230341704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061-2026-01-13-1",
+      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Director's Fellowship Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-13T03:22:51.741Z",
+      "sourceDate": "2026-01-01T07:41:53.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
+      "discordThreadId": "1460474135900848338",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836-2026-01-13-1",
+      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836",
+      "company": "Rogers Behavioral Health",
+      "title": "Therapist - PHP/IOP",
+      "postedToDiscord": "2026-01-13T03:22:58.339Z",
+      "sourceDate": "2026-01-01T07:33:50.000Z",
+      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Silver-Lake-North-Clinic-Oconomowoc-WI/Therapist---PHP-IOP_R5836",
+      "discordThreadId": "1460474163444842784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400-2026-01-13-1",
+      "jobId": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400",
+      "company": "Aramark",
+      "title": "Java City – Hhs - AM Food Service Worker - Western Carolina University",
+      "postedToDiscord": "2026-01-13T03:23:05.244Z",
+      "sourceDate": "2026-01-01T07:14:25.000Z",
+      "sourceUrl": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
+      "discordThreadId": "1460474192121298966",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application",
+      "company": "Citizen Health",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2026-01-13T03:23:08.943Z",
+      "sourceDate": "2025-12-31T23:17:13.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
+      "discordThreadId": "1460474207388307497",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application",
+      "company": "Solace Health",
+      "title": "Associate Software Engineer – College Grad 2026",
+      "postedToDiscord": "2026-01-13T03:23:13.963Z",
+      "sourceDate": "2025-12-31T23:13:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
+      "discordThreadId": "1460474222999638231",
+      "instanceNumber": 1
+    },
+    {
+      "id": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1-2026-01-13-1",
+      "jobId": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1",
+      "company": "Salesforce",
+      "title": "Software Engineering AMTS – College Grad",
+      "postedToDiscord": "2026-01-13T03:23:17.447Z",
+      "sourceDate": "2025-12-31T18:27:41.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
+      "discordThreadId": "1460474244160028793",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 664,
+    "totalJobs": 670,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T02:41:32.112Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-13T03:23:17.447Z",
+      "archived": 0
     }
   }
 }
