@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T03:57:42.706Z",
+  "lastUpdated": "2026-01-13T04:20:02.601Z",
   "jobs": [
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dl-algorithms-engineer-cosmos-new-college-graduate-2026_jr2010848-1-2026-01-06-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dl-algorithms-engineer-cosmos-new-college-graduate-2026_jr2010848-1",
-      "company": "NVIDIA",
-      "title": "DL Algorithms Engineer – New College Graduate 2026 - Cosmos",
-      "postedToDiscord": "2026-01-06T04:19:35.795Z",
-      "sourceDate": "2026-01-06T03:26:02.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-Algorithms-Engineer---Cosmos----New-College-Graduate-2026_JR2010848-1",
-      "discordThreadId": "1457951698734682266",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-temporaltechnologies-jobs-5015157007-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-temporaltechnologies-jobs-5015157007",
@@ -7481,14 +7470,234 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722313004",
       "discordThreadId": "1460482904382636044",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605602-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605602",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.798Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605602?gh_jid=6605602",
+      "discordThreadId": "1460488449441403016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165119-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165119",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.811Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165119?gh_jid=6165119",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165124-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165124",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.816Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165124?gh_jid=6165124",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165126-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165126",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.822Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165126?gh_jid=6165126",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165127-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165127",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.827Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165127?gh_jid=6165127",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6165130-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6165130",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.833Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165130?gh_jid=6165130",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605604-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605604",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.839Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605604?gh_jid=6605604",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605601-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605601",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-13T04:19:42.844Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605601?gh_jid=6605601",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6602157-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6602157",
+      "company": "samsara",
+      "title": "Account Executive, Commercial - (Phoenix, AR)",
+      "postedToDiscord": "2026-01-13T04:19:42.849Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6602157?gh_jid=6602157",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6602158-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6602158",
+      "company": "samsara",
+      "title": "Account Executive, Commercial - (Portland, OR)",
+      "postedToDiscord": "2026-01-13T04:19:42.854Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6602158?gh_jid=6602158",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7291579-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7291579",
+      "company": "samsara",
+      "title": "Customer Success Associate",
+      "postedToDiscord": "2026-01-13T04:19:47.136Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579",
+      "discordThreadId": "1460488459209801946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7412433-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7412433",
+      "company": "samsara",
+      "title": "Director, Sales Commissions",
+      "postedToDiscord": "2026-01-13T04:19:48.870Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7412433?gh_jid=7412433",
+      "discordThreadId": "1460488475714261149",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7291576-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7291576",
+      "company": "samsara",
+      "title": "Director, Sales Commissions",
+      "postedToDiscord": "2026-01-13T04:19:48.876Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291576?gh_jid=7291576",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6606593-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6606593",
+      "company": "samsara",
+      "title": "Enterprise Account Development Representative - Outbound",
+      "postedToDiscord": "2026-01-13T04:19:50.667Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6606593?gh_jid=6606593",
+      "discordThreadId": "1460488483347890290",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6606592-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6606592",
+      "company": "samsara",
+      "title": "Enterprise Business Development Representative- Outbound",
+      "postedToDiscord": "2026-01-13T04:19:52.406Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6606592?gh_jid=6606592",
+      "discordThreadId": "1460488490876665866",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266711-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266711",
+      "company": "samsara",
+      "title": "Enterprise Implementation Consultant",
+      "postedToDiscord": "2026-01-13T04:19:55.909Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266711?gh_jid=7266711",
+      "discordThreadId": "1460488497801593057",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6685496-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6685496",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Austin, TX",
+      "postedToDiscord": "2026-01-13T04:20:02.581Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685496?gh_jid=6685496",
+      "discordThreadId": "1460488525781798933",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6685493-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6685493",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Chicago, IL",
+      "postedToDiscord": "2026-01-13T04:20:02.589Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685493?gh_jid=6685493",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6685497-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6685497",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Dallas, TX",
+      "postedToDiscord": "2026-01-13T04:20:02.595Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685497?gh_jid=6685497",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6685499-2026-01-13-1",
+      "jobId": "www-samsara-com-company-careers-roles-6685499",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Houston, TX",
+      "postedToDiscord": "2026-01-13T04:20:02.601Z",
+      "sourceDate": "2025-12-30T10:40:09-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 680,
+    "totalJobs": 699,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T03:57:42.706Z",
+      "date": "2026-01-13T04:20:02.601Z",
       "archived": 0
     }
   }
