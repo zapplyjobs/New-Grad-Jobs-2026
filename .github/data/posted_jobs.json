@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T22:27:22.746Z",
+  "lastUpdated": "2026-01-13T22:43:04.709Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5026189008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
-      "company": "anthropic",
-      "title": "Developer Campaign Marketer - Claude Code",
-      "postedToDiscord": "2026-01-06T22:40:54.048Z",
-      "sourceDate": "2026-01-06T17:27:15-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
-      "discordThreadId": "1458228849639952387",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8359307002-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-discord-jobs-8359307002",
@@ -11419,14 +11408,157 @@
       "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970",
       "discordThreadId": "1460762163168805048",
       "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1-2026-01-13-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow - AI Driven Precision Oncology",
+      "postedToDiscord": "2026-01-13T22:42:21.694Z",
+      "sourceDate": "2025-12-13T11:03:34.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow--AI-Driven-Precision-Oncology_R_00039870-1",
+      "discordThreadId": "1460765933646905698",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-applications-programmer_r59946-2026-01-13-1",
+      "jobId": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-applications-programmer_r59946",
+      "company": "Motorola",
+      "title": "Applications Programmer",
+      "postedToDiscord": "2026-01-13T22:42:25.139Z",
+      "sourceDate": "2025-12-13T00:16:20.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946",
+      "discordThreadId": "1460765948381237319",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply-2026-01-13-1",
+      "jobId": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply",
+      "company": "Tinder",
+      "title": "Data Scientist 2 - Growth",
+      "postedToDiscord": "2026-01-13T22:42:28.796Z",
+      "sourceDate": "2025-12-12T23:15:48.000Z",
+      "sourceUrl": "https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply",
+      "discordThreadId": "1460765963212427356",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-107bb272-9e09-42de-8dee-a0c9a41209d6-2026-01-13-1",
+      "jobId": "jobs-lever-co-gohighlevel-107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Hosted Events",
+      "postedToDiscord": "2026-01-13T22:42:30.522Z",
+      "sourceDate": "2025-12-12T20:32:27.093Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "discordThreadId": "1460765978161054003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-f23300a5-68af-47ed-b6cc-e95b06c6b54f-2026-01-13-1",
+      "jobId": "jobs-lever-co-gohighlevel-f23300a5-68af-47ed-b6cc-e95b06c6b54f",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Sponsored Events",
+      "postedToDiscord": "2026-01-13T22:42:30.531Z",
+      "sourceDate": "2025-12-12T20:06:39.412Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/f23300a5-68af-47ed-b6cc-e95b06c6b54f",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409-2026-01-13-1",
+      "jobId": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409",
+      "company": "Arkansas Children's",
+      "title": "Digital Services Coordinator 1",
+      "postedToDiscord": "2026-01-13T22:42:37.124Z",
+      "sourceDate": "2025-12-12T23:35:09.000Z",
+      "sourceUrl": "https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Digital-Services-Coordinator-I_R0022409",
+      "discordThreadId": "1460765997823955117",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1-2026-01-13-1",
+      "jobId": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1",
+      "company": "Protiviti",
+      "title": "Americas Delivery Center Technology Experienced Analyst",
+      "postedToDiscord": "2026-01-13T22:42:43.842Z",
+      "sourceDate": "2025-12-12T23:23:23.000Z",
+      "sourceUrl": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1",
+      "discordThreadId": "1460766025858416652",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889-2026-01-13-1",
+      "jobId": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889",
+      "company": "Perle",
+      "title": "Cantonese Language Specialist",
+      "postedToDiscord": "2026-01-13T22:42:52.363Z",
+      "sourceDate": "2025-12-12T23:17:09.000Z",
+      "sourceUrl": "https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889",
+      "discordThreadId": "1460766060788715603",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5030680008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5030680008",
+      "company": "anthropic",
+      "title": "Infrastructure Engineer, Sandboxing",
+      "postedToDiscord": "2026-01-13T22:42:55.970Z",
+      "sourceDate": "2025-12-12T18:03:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008",
+      "discordThreadId": "1460766077003759782",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025591008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025591008",
+      "company": "anthropic",
+      "title": "Software Engineer, Sandboxing (Systems)",
+      "postedToDiscord": "2026-01-13T22:43:01.190Z",
+      "sourceDate": "2025-12-12T18:03:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008",
+      "discordThreadId": "1460766092204179479",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339283002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8339283002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-13T22:43:04.692Z",
+      "sourceDate": "2025-12-12T18:00:39-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339283002?gh_jid=8339283002",
+      "discordThreadId": "1460766114098319565",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339277002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8339277002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-13T22:43:04.701Z",
+      "sourceDate": "2025-12-12T18:00:05-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339277002?gh_jid=8339277002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339252002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8339252002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-13T22:43:04.709Z",
+      "sourceDate": "2025-12-12T18:00:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339252002?gh_jid=8339252002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1038,
+    "totalJobs": 1050,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T22:27:22.746Z",
+      "date": "2026-01-13T22:43:04.709Z",
       "archived": 0
     }
   }
