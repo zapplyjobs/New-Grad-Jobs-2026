@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T21:53:40.521Z",
+  "lastUpdated": "2026-01-13T22:08:30.604Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4942646008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942646008",
-      "company": "anthropic",
-      "title": "Security GRC Specialist",
-      "postedToDiscord": "2026-01-06T22:06:46.553Z",
-      "sourceDate": "2026-01-06T16:46:46-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942646008",
-      "discordThreadId": "1458220262628786360",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5026189008-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
@@ -11166,14 +11155,146 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734651004?gh_jid=5734651004",
       "discordThreadId": "1460753682105761792",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8229815002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8229815002",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-13T22:07:47.410Z",
+      "sourceDate": "2025-12-15T16:27:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229815002?gh_jid=8229815002",
+      "discordThreadId": "1460757233875943519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8229814002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8229814002",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-13T22:07:47.426Z",
+      "sourceDate": "2025-12-15T16:27:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229814002?gh_jid=8229814002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8229808002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8229808002",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-13T22:07:47.434Z",
+      "sourceDate": "2025-12-15T16:26:45-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229808002?gh_jid=8229808002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8219295002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8219295002",
+      "company": "discord",
+      "title": "Director, People Business Partners",
+      "postedToDiscord": "2026-01-13T22:07:51.011Z",
+      "sourceDate": "2025-12-15T13:16:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8219295002",
+      "discordThreadId": "1460757248098963517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4982157008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982157008",
+      "company": "anthropic",
+      "title": "Senior Manager, Treasury Operations",
+      "postedToDiscord": "2026-01-13T22:07:57.686Z",
+      "sourceDate": "2025-12-15T13:10:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982157008",
+      "discordThreadId": "1460757276360052985",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8335879002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8335879002",
+      "company": "discord",
+      "title": "Senior Financial Analyst",
+      "postedToDiscord": "2026-01-13T22:08:01.081Z",
+      "sourceDate": "2025-12-15T11:23:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8335879002",
+      "discordThreadId": "1460757291178659921",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8332358002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8332358002",
+      "company": "discord",
+      "title": "Senior Product Manager, Commerce",
+      "postedToDiscord": "2026-01-13T22:08:07.608Z",
+      "sourceDate": "2025-12-15T12:24:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332358002",
+      "discordThreadId": "1460757318110023720",
+      "instanceNumber": 1
+    },
+    {
+      "id": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-acton-massachusetts-associate-software-development-engineer-in-test-hybrid-acton-ma-_req-2025-14278-2026-01-13-1",
+      "jobId": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-acton-massachusetts-associate-software-development-engineer-in-test-hybrid-acton-ma-_req-2025-14278",
+      "company": "Insulet Corporation",
+      "title": "Associate Software Development Engineer in Test",
+      "postedToDiscord": "2026-01-13T22:08:14.178Z",
+      "sourceDate": "2025-12-15T07:45:33.000Z",
+      "sourceUrl": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278",
+      "discordThreadId": "1460757346073448724",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-69725-junior-embedded-software-engineer-28cleared-29-job-2026-01-13-1",
+      "jobId": "careers-gdms-icims-com-jobs-69725-junior-embedded-software-engineer-28cleared-29-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior Embedded Software Engineer (cleared)",
+      "postedToDiscord": "2026-01-13T22:08:19.033Z",
+      "sourceDate": "2025-12-15T07:43:08.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job",
+      "discordThreadId": "1460757362406195553",
+      "instanceNumber": 1
+    },
+    {
+      "id": "career-schwab-icims-com-jobs-117784-associate-software-engineer-job-2026-01-13-1",
+      "jobId": "career-schwab-icims-com-jobs-117784-associate-software-engineer-job",
+      "company": "Charles Schwab",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-13T22:08:23.256Z",
+      "sourceDate": "2025-12-15T07:42:19.000Z",
+      "sourceUrl": "https://career-schwab.icims.com/jobs/117784/associate-software-engineer/job",
+      "discordThreadId": "1460757382329143506",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-thorlabs-j-ea6a31c779-2026-01-13-1",
+      "jobId": "apply-workable-com-thorlabs-j-ea6a31c779",
+      "company": "Thorlabs",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-13T22:08:26.736Z",
+      "sourceDate": "2025-12-15T07:37:32.000Z",
+      "sourceUrl": "https://apply.workable.com/thorlabs/j/EA6A31C779/",
+      "discordThreadId": "1460757398850375730",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-sentra-3c9729ca-67b3-4f9f-9c64-5e1e10be1719-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-sentra-3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
+      "company": "Sentra",
+      "title": "Software Engineer - New Grad",
+      "postedToDiscord": "2026-01-13T22:08:30.603Z",
+      "sourceDate": "2025-12-15T07:36:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
+      "discordThreadId": "1460757414096933109",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1015,
+    "totalJobs": 1026,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T21:53:40.521Z",
+      "date": "2026-01-13T22:08:30.604Z",
       "archived": 0
     }
   }
