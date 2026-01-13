@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T07:01:44.040Z",
+  "lastUpdated": "2026-01-13T07:17:01.949Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-06-1",
@@ -9120,14 +9120,124 @@
       "sourceUrl": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Business-Intelligence-Analyst-(Cincinnati,-OH)-OH-45245/1351636300/?ats=successfactors",
       "discordThreadId": "1460529216843153418",
       "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-us-md-bethesda-data-scientist_320662-2026-01-13-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-md-bethesda-data-scientist_320662",
+      "company": "CACI",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-13T07:16:18.146Z",
+      "sourceDate": "2025-12-22T23:06:01.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Bethesda/Data-Scientist_320662",
+      "discordThreadId": "1460532882979291311",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8-2026-01-13-1",
+      "jobId": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
+      "company": "spotify",
+      "title": "Director of Sales, Scaled Vendor Sales",
+      "postedToDiscord": "2026-01-13T07:16:24.640Z",
+      "sourceDate": "2025-12-22T21:52:24.652Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
+      "discordThreadId": "1460532910636666881",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8328567002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8328567002",
+      "company": "discord",
+      "title": "Senior Director, Corporate Development",
+      "postedToDiscord": "2026-01-13T07:16:31.120Z",
+      "sourceDate": "2025-12-22T15:28:12-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328567002",
+      "discordThreadId": "1460532938084188329",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8244749002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8244749002",
+      "company": "discord",
+      "title": "Staff Software Engineer, New Gaming Features",
+      "postedToDiscord": "2026-01-13T07:16:37.895Z",
+      "sourceDate": "2025-12-22T14:44:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8244749002",
+      "discordThreadId": "1460532965024206890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8337817002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8337817002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Player Experience",
+      "postedToDiscord": "2026-01-13T07:16:41.350Z",
+      "sourceDate": "2025-12-22T14:44:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8337817002",
+      "discordThreadId": "1460532980786270262",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1-2026-01-13-1",
+      "jobId": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1",
+      "company": "BlackRock",
+      "title": "Associate – Application Engineer",
+      "postedToDiscord": "2026-01-13T07:16:44.864Z",
+      "sourceDate": "2025-12-22T19:35:16.000Z",
+      "sourceUrl": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1",
+      "discordThreadId": "1460532994883457117",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043460008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043460008",
+      "company": "anthropic",
+      "title": "Partner Development Manager, Build Partners",
+      "postedToDiscord": "2026-01-13T07:16:51.486Z",
+      "sourceDate": "2025-12-22T14:36:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
+      "discordThreadId": "1460533022439768179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5045003008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045003008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Colo & Networks",
+      "postedToDiscord": "2026-01-13T07:16:54.955Z",
+      "sourceDate": "2025-12-22T14:25:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045003008",
+      "discordThreadId": "1460533037434405005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5045006008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045006008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Compute & Infrastructure",
+      "postedToDiscord": "2026-01-13T07:16:58.515Z",
+      "sourceDate": "2025-12-22T14:21:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045006008",
+      "discordThreadId": "1460533052374515866",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5044994008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5044994008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Datacenters & Construction",
+      "postedToDiscord": "2026-01-13T07:17:01.949Z",
+      "sourceDate": "2025-12-22T14:12:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
+      "discordThreadId": "1460533066987606259",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 829,
+    "totalJobs": 839,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T07:01:44.040Z",
+      "date": "2026-01-13T07:17:01.949Z",
       "archived": 0
     }
   }
