@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T07:53:26.525Z",
+  "lastUpdated": "2026-01-13T08:07:50.082Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-koddi-jobs-8250169002-2026-01-06-1",
@@ -9549,14 +9549,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042144008",
       "discordThreadId": "1460542230178693120",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5739572004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5739572004",
+      "company": "figma",
+      "title": "Sales Enablement Manager ",
+      "postedToDiscord": "2026-01-13T08:07:07.542Z",
+      "sourceDate": "2025-12-19T15:47:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739572004?gh_jid=5739572004",
+      "discordThreadId": "1460545673618260084",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041301008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041301008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, LATAM Financial Services",
+      "postedToDiscord": "2026-01-13T08:07:11.142Z",
+      "sourceDate": "2025-12-19T14:21:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041301008",
+      "discordThreadId": "1460545688768090124",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041290008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041290008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+      "postedToDiscord": "2026-01-13T08:07:14.743Z",
+      "sourceDate": "2025-12-19T14:16:24-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
+      "discordThreadId": "1460545703364526194",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4990162008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4990162008",
+      "company": "anthropic",
+      "title": "Technical Revenue Accountant",
+      "postedToDiscord": "2026-01-13T08:07:21.239Z",
+      "sourceDate": "2025-12-19T14:46:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990162008",
+      "discordThreadId": "1460545731059253278",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5179639004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5179639004",
+      "company": "vercel",
+      "title": "Software Engineer, CDN",
+      "postedToDiscord": "2026-01-13T08:07:28.243Z",
+      "sourceDate": "2025-12-19T14:44:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5179639004",
+      "discordThreadId": "1460545758641258651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-cmtelematics-com-who-we-are-join-our-team-job-posting-2026-01-13-1",
+      "jobId": "www-cmtelematics-com-who-we-are-join-our-team-job-posting",
+      "company": "Cambridge Mobile Telematics",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-13T08:07:31.714Z",
+      "sourceDate": "2025-12-19T16:50:38.000Z",
+      "sourceUrl": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
+      "discordThreadId": "1460545774789202023",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039-2026-01-13-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 4",
+      "postedToDiscord": "2026-01-13T08:07:36.463Z",
+      "sourceDate": "2025-12-19T19:12:08.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039",
+      "discordThreadId": "1460545801909702872",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5741089004-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5741089004",
+      "company": "vercel",
+      "title": "Finance Manager",
+      "postedToDiscord": "2026-01-13T08:07:39.908Z",
+      "sourceDate": "2025-12-19T11:54:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5741089004",
+      "discordThreadId": "1460545809140420772",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8344197002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8344197002",
+      "company": "discord",
+      "title": "Staff Software Engineer - Safety Experience",
+      "postedToDiscord": "2026-01-13T08:07:46.348Z",
+      "sourceDate": "2025-12-19T13:29:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8344197002",
+      "discordThreadId": "1460545836466442392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8308138002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8308138002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics",
+      "postedToDiscord": "2026-01-13T08:07:50.082Z",
+      "sourceDate": "2025-12-19T12:00:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8308138002",
+      "discordThreadId": "1460545850915815464",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 868,
+    "totalJobs": 878,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T07:53:26.525Z",
+      "date": "2026-01-13T08:07:50.082Z",
       "archived": 0
     }
   }
