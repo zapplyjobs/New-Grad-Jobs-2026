@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T15:43:24.757Z",
+  "lastUpdated": "2026-01-13T15:55:10.336Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7449072-2026-01-06-1",
@@ -9780,16 +9780,26 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7891770002",
       "discordThreadId": "1460660500864958669",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8293251002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8293251002",
+      "company": "airtable",
+      "title": "Engineering Manager, AI Platform ",
+      "postedToDiscord": "2026-01-13T15:55:10.336Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8293251002",
+      "discordThreadId": "1460663461947248731",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 889,
+    "totalJobs": 890,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T15:43:24.757Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-13T15:55:10.336Z",
+      "archived": 0
     }
   }
 }
