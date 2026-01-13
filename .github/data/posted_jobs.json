@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T01:13:06.350Z",
+  "lastUpdated": "2026-01-13T01:56:24.342Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply-2026-01-06-1",
-      "jobId": "jobs-lever-co-redsox-b7e58053-8b14-4183-ad66-bc1499c0a762-apply",
-      "company": "Major League Baseball",
-      "title": "Minor League Technology Operator",
-      "postedToDiscord": "2026-01-06T01:14:38.438Z",
-      "sourceDate": "2026-01-05T23:17:08.000Z",
-      "sourceUrl": "https://jobs.lever.co/redsox/b7e58053-8b14-4183-ad66-bc1499c0a762/apply",
-      "discordThreadId": "1457905153498812539",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009",
-      "company": "Voyager Technologies",
-      "title": "Software Engineer - AI Automation - Internal Tools",
-      "postedToDiscord": "2026-01-06T01:14:44.824Z",
-      "sourceDate": "2025-12-23T17:06:58.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087908009",
-      "discordThreadId": "1457905179893436489",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1-2026-01-06-1",
-      "jobId": "zeissgroup-wd3-myworkdayjobs-com-external-job-boise-xmlname-3d-tomography-application-engineer_jr_1044312-1",
-      "company": "Zeiss",
-      "title": "3D Tomography Application Engineer",
-      "postedToDiscord": "2026-01-06T01:14:48.249Z",
-      "sourceDate": "2025-11-21T09:34:07.000Z",
-      "sourceUrl": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1",
-      "discordThreadId": "1457905194426695780",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915-2026-01-06-1",
-      "jobId": "wk-wd3-myworkdayjobs-com-en-us-external-job-usa-wichita-ks-tax-software-analyst_r0050915",
-      "company": "Wolters Kluwer",
-      "title": "Tax Software Analyst",
-      "postedToDiscord": "2026-01-06T01:14:51.586Z",
-      "sourceDate": "2025-08-20T16:34:49.000Z",
-      "sourceUrl": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Wichita-KS/Tax-Software-Analyst_R0050915",
-      "discordThreadId": "1457905208804773998",
-      "instanceNumber": 1
-    },
-    {
-      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11951-2026-01-06-1",
-      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11951",
-      "company": "Q2",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-06T01:14:55.106Z",
-      "sourceDate": "2026-01-05T23:44:26.000Z",
-      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11951",
-      "discordThreadId": "1457905223350882377",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-esri-com-careers-5012639007-2026-01-06-1",
-      "jobId": "www-esri-com-careers-5012639007",
-      "company": "Esri",
-      "title": "Java Software Engineer 1",
-      "postedToDiscord": "2026-01-06T01:14:56.796Z",
-      "sourceDate": "2026-01-05T23:42:44.000Z",
-      "sourceUrl": "https://www.esri.com/careers/5012639007?gh_jid=5012639007",
-      "discordThreadId": "1457905237669974221",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-westerndigital-744000101672270-2026-01-06-1",
-      "jobId": "jobs-smartrecruiters-com-westerndigital-744000101672270",
-      "company": "Western Digital",
-      "title": "Developer 2 - Programming",
-      "postedToDiscord": "2026-01-06T01:15:00.711Z",
-      "sourceDate": "2026-01-05T23:36:53.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000101672270",
-      "discordThreadId": "1457905244624126035",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-florida-saint-augustine-engineer-industrial-principal-engineer-industrial_r10218122-2026-01-06-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-florida-saint-augustine-engineer-industrial-principal-engineer-industrial_r10218122",
-      "company": "Northrop Grumman",
-      "title": "Industrial Engineer / Principal Industrial Engineer",
-      "postedToDiscord": "2026-01-06T01:15:07.418Z",
-      "sourceDate": "2026-01-05T23:58:52.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/Engineer-Industrial-Principal-Engineer-Industrial_R10218122",
-      "discordThreadId": "1457905273707565251",
-      "instanceNumber": 1
-    },
-    {
-      "id": "allstate-wd5-myworkdayjobs-com-sourcing_event-job-usa-ca-remote-xmlname-2026-ats-technology-development-program_r22128-1-2026-01-06-1",
-      "jobId": "allstate-wd5-myworkdayjobs-com-sourcing_event-job-usa-ca-remote-xmlname-2026-ats-technology-development-program_r22128-1",
-      "company": "Allstate Insurance Company",
-      "title": "ATS Technology Development Program",
-      "postedToDiscord": "2026-01-06T01:15:14.255Z",
-      "sourceDate": "2026-01-05T23:51:24.000Z",
-      "sourceUrl": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
-      "discordThreadId": "1457905303763943557",
-      "instanceNumber": 1
-    },
-    {
-      "id": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-terminal-visual-charting-specialist_r-00172965-2026-01-06-1",
-      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-terminal-visual-charting-specialist_r-00172965",
-      "company": "Leidos",
-      "title": "Terminal Visual Charting Specialist",
-      "postedToDiscord": "2026-01-06T01:15:20.787Z",
-      "sourceDate": "2026-01-05T23:47:54.000Z",
-      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Terminal-Visual-Charting-Specialist_R-00172965",
-      "discordThreadId": "1457905330569871391",
-      "instanceNumber": 1
-    },
     {
       "id": "www-jellyvision-com-about-us-careers-apply-2026-01-06-1",
       "jobId": "www-jellyvision-com-about-us-careers-apply",
@@ -7151,14 +7041,179 @@
       "sourceUrl": "https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4694391008",
       "discordThreadId": "1460441481918545930",
       "instanceNumber": 1
+    },
+    {
+      "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-aurora-co-data-processing-technician_r0231593-2026-01-13-1",
+      "jobId": "bah-wd1-myworkdayjobs-com-bah_jobs-job-aurora-co-data-processing-technician_r0231593",
+      "company": "Booz Allen",
+      "title": "Data Processing Technician",
+      "postedToDiscord": "2026-01-13T01:55:41.105Z",
+      "sourceDate": "2026-01-02T23:15:47.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Data-Processing-Technician_R0231593",
+      "discordThreadId": "1460452197358632971",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136713002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8136713002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-13T01:55:47.948Z",
+      "sourceDate": "2026-01-02T15:41:01-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136713002?gh_jid=8136713002",
+      "discordThreadId": "1460452224978260188",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136710002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8136710002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-13T01:55:47.955Z",
+      "sourceDate": "2026-01-02T15:40:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136710002?gh_jid=8136710002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136706002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8136706002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-13T01:55:47.961Z",
+      "sourceDate": "2026-01-02T15:40:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136706002?gh_jid=8136706002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136183002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8136183002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-13T01:55:47.967Z",
+      "sourceDate": "2026-01-02T15:39:47-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136183002?gh_jid=8136183002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316344002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8316344002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-13T01:55:51.426Z",
+      "sourceDate": "2026-01-02T15:38:16-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316344002?gh_jid=8316344002",
+      "discordThreadId": "1460452240790917287",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316337002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8316337002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-13T01:55:51.432Z",
+      "sourceDate": "2026-01-02T15:38:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316337002?gh_jid=8316337002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316335002-2026-01-13-1",
+      "jobId": "www-brex-com-careers-8316335002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-13T01:55:51.437Z",
+      "sourceDate": "2026-01-02T15:37:53-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316335002?gh_jid=8316335002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7493062-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7493062",
+      "company": "reddit",
+      "title": "Business Partner, Global Revenue Strategy & Operations ",
+      "postedToDiscord": "2026-01-13T01:55:58.137Z",
+      "sourceDate": "2026-01-02T15:29:24-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7493062",
+      "discordThreadId": "1460452268343165012",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-libertymutual-icims-com-jobs-72739-job-2026-01-13-1",
+      "jobId": "careers-libertymutual-icims-com-jobs-72739-job",
+      "company": "Liberty Mutual",
+      "title": "Analyst 2",
+      "postedToDiscord": "2026-01-13T01:56:01.728Z",
+      "sourceDate": "2026-01-02T16:27:33.000Z",
+      "sourceUrl": "https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460452283253784773",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7435955-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7435955",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Agency Acquisitions)",
+      "postedToDiscord": "2026-01-13T01:56:05.203Z",
+      "sourceDate": "2026-01-02T03:22:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7435955",
+      "discordThreadId": "1460452298538094682",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7438947-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7438947",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Services Acquisitions)",
+      "postedToDiscord": "2026-01-13T01:56:08.836Z",
+      "sourceDate": "2026-01-02T03:22:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7438947",
+      "discordThreadId": "1460452313121423421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413698-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413698",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market (App Dev)",
+      "postedToDiscord": "2026-01-13T01:56:12.651Z",
+      "sourceDate": "2026-01-02T03:22:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413698",
+      "discordThreadId": "1460452328040693914",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413783-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413783",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-13T01:56:16.284Z",
+      "sourceDate": "2026-01-02T03:22:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413783",
+      "discordThreadId": "1460452344796942514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4858247008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4858247008",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code (Enterprise)",
+      "postedToDiscord": "2026-01-13T01:56:24.341Z",
+      "sourceDate": "2026-01-02T14:55:29-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
+      "discordThreadId": "1460452372252983356",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 650,
+    "totalJobs": 655,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T01:13:06.350Z",
+      "date": "2026-01-13T01:56:24.342Z",
       "archived": 0
     }
   }
