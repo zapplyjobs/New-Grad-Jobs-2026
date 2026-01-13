@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T20:00:49.162Z",
+  "lastUpdated": "2026-01-13T20:07:51.017Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5055448008-2026-01-06-1",
@@ -10517,14 +10517,25 @@
       "sourceUrl": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Right-of-Way-Technician----Entry-or-Level-I_JR100804",
       "discordThreadId": "1460725280724221962",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-mercuryinsurance-icims-com-jobs-5989-job-2026-01-13-1",
+      "jobId": "careers-mercuryinsurance-icims-com-jobs-5989-job",
+      "company": "Mercury Insurance",
+      "title": "Mercury Ignite: Data Engineering Graduate Development Program",
+      "postedToDiscord": "2026-01-13T20:07:51.017Z",
+      "sourceDate": "2025-12-17T23:21:21.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5989/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460727057054171319",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 956,
+    "totalJobs": 957,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T20:00:49.162Z",
+      "date": "2026-01-13T20:07:51.017Z",
       "archived": 0
     }
   }
