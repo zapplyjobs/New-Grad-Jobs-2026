@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T21:08:47.233Z",
+  "lastUpdated": "2026-01-13T21:42:14.884Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5056822008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5056822008",
-      "company": "anthropic",
-      "title": "Enterprise Education Specialist (Contract)",
-      "postedToDiscord": "2026-01-06T21:25:38.894Z",
-      "sourceDate": "2026-01-06T16:19:14-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5056822008",
-      "discordThreadId": "1458209913158369517",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4942646008-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942646008",
@@ -10946,14 +10935,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5517523004",
       "discordThreadId": "1460742383372337256",
       "instanceNumber": 1
+    },
+    {
+      "id": "nidec-wd1-myworkdayjobs-com-nidec-job-north-americausaminnesotaeden-prairie-mn-sales-pricing-analyst_r0013020-2026-01-13-1",
+      "jobId": "nidec-wd1-myworkdayjobs-com-nidec-job-north-americausaminnesotaeden-prairie-mn-sales-pricing-analyst_r0013020",
+      "company": "Nidec",
+      "title": "Sales & Pricing Analyst",
+      "postedToDiscord": "2026-01-13T21:41:33.102Z",
+      "sourceDate": "2025-12-16T16:12:59.000Z",
+      "sourceUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaEden-Prairie-MN/Sales---Pricing-Analyst_R0013020",
+      "discordThreadId": "1460750629529194759",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-baesystems-com-global-en-job-bae1us119273brexternal-entry-level-software-engineer-2026-01-13-1",
+      "jobId": "jobs-baesystems-com-global-en-job-bae1us119273brexternal-entry-level-software-engineer",
+      "company": "BAE Systems",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-13T21:41:39.853Z",
+      "sourceDate": "2025-12-16T16:10:14.000Z",
+      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer",
+      "discordThreadId": "1460750657970507850",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dgx-cloud-performance-engineer-new-grad-2026_jr2009610-2026-01-13-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dgx-cloud-performance-engineer-new-grad-2026_jr2009610",
+      "company": "NVIDIA",
+      "title": "DGX Cloud Performance Engineer",
+      "postedToDiscord": "2026-01-13T21:41:43.462Z",
+      "sourceDate": "2025-12-16T14:41:10.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Performance-Engineer---New-Grad-2026_JR2009610",
+      "discordThreadId": "1460750673338568955",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-softare-engineer-1-27595-89568852704-2026-01-13-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-softare-engineer-1-27595-89568852704",
+      "company": "Intuit",
+      "title": "Softare Engineer 1",
+      "postedToDiscord": "2026-01-13T21:41:47.129Z",
+      "sourceDate": "2025-12-16T07:16:15.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704",
+      "discordThreadId": "1460750689096437988",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0150489-2026-01-13-1",
+      "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0150489",
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-13T21:41:50.545Z",
+      "sourceDate": "2025-12-15T23:47:56.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0150489",
+      "discordThreadId": "1460750703915176192",
+      "instanceNumber": 1
+    },
+    {
+      "id": "curtisswright-wd1-myworkdayjobs-com-cw_external_career_site-job-us-md-frederick-nuclear-graduate-engineer_jr10597-2026-01-13-1",
+      "jobId": "curtisswright-wd1-myworkdayjobs-com-cw_external_career_site-job-us-md-frederick-nuclear-graduate-engineer_jr10597",
+      "company": "Curtiss-Wright Corporation",
+      "title": "Graduate Engineer",
+      "postedToDiscord": "2026-01-13T21:41:54.104Z",
+      "sourceDate": "2025-12-15T23:46:22.000Z",
+      "sourceUrl": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR10597",
+      "discordThreadId": "1460750717882073394",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442-2026-01-13-1",
+      "jobId": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442",
+      "company": "Allied Solutions",
+      "title": "Data Integration Analyst 1",
+      "postedToDiscord": "2026-01-13T21:41:57.653Z",
+      "sourceDate": "2025-12-15T23:43:09.000Z",
+      "sourceUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-File-Analyst--On-Site--IN-_R-010442",
+      "discordThreadId": "1460750733359054981",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-tekion-jobs-7560070003-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-tekion-jobs-7560070003",
+      "company": "Tekion",
+      "title": "Implementation Integrations Analyst 1",
+      "postedToDiscord": "2026-01-13T21:42:01.257Z",
+      "sourceDate": "2025-12-15T23:40:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/tekion/jobs/7560070003",
+      "discordThreadId": "1460750748143976599",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985438008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985438008",
+      "company": "anthropic",
+      "title": "Head of Insurance, GTM Sales",
+      "postedToDiscord": "2026-01-13T21:42:08.017Z",
+      "sourceDate": "2025-12-15T20:27:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985438008",
+      "discordThreadId": "1460750775830581533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-caseguard-jobs-5037116008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-caseguard-jobs-5037116008",
+      "company": "CaseGuard",
+      "title": "Data Annotation Specialist",
+      "postedToDiscord": "2026-01-13T21:42:14.884Z",
+      "sourceDate": "2025-12-15T23:41:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
+      "discordThreadId": "1460750804481867837",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 995,
+    "totalJobs": 1004,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T21:08:47.233Z",
+      "date": "2026-01-13T21:42:14.884Z",
       "archived": 0
     }
   }
