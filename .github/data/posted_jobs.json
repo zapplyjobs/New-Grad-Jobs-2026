@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T23:26:50.019Z",
+  "lastUpdated": "2026-01-13T23:38:33.166Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8362678002-2026-01-06-1",
@@ -11870,14 +11870,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024981008",
       "discordThreadId": "1460777125329244173",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-technicians-nc-1337431200-2026-01-13-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-technicians-nc-1337431200",
+      "company": "Westinghouse Electric Company",
+      "title": "Nuclear Analysis Technician C / Engineering Technicians",
+      "postedToDiscord": "2026-01-13T23:37:44.847Z",
+      "sourceDate": "2025-12-10T23:13:08.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Technicians-NC/1337431200/?ats=successfactors",
+      "discordThreadId": "1460779870987616306",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4941204008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4941204008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Data Infrastructure",
+      "postedToDiscord": "2026-01-13T23:37:48.372Z",
+      "sourceDate": "2025-12-10T13:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4941204008",
+      "discordThreadId": "1460779886741557259",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4970463008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970463008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Databases",
+      "postedToDiscord": "2026-01-13T23:37:51.800Z",
+      "sourceDate": "2025-12-10T13:54:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970463008",
+      "discordThreadId": "1460779901291598030",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-whoop-02b3ba78-ccb4-40a4-94b3-6b14c71eed9e-apply-2026-01-13-1",
+      "jobId": "jobs-lever-co-whoop-02b3ba78-ccb4-40a4-94b3-6b14c71eed9e-apply",
+      "company": "Whoop",
+      "title": "Software Engineer 1 - Backend - Healthcare",
+      "postedToDiscord": "2026-01-13T23:37:58.352Z",
+      "sourceDate": "2025-12-10T23:06:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e/apply",
+      "discordThreadId": "1460779928625873179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4970314008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970314008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Infrastructure",
+      "postedToDiscord": "2026-01-13T23:38:04.771Z",
+      "sourceDate": "2025-12-10T18:01:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
+      "discordThreadId": "1460779955985191157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4632118008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4632118008",
+      "company": "anthropic",
+      "title": "Senior Software Engineer, Infrastructure ",
+      "postedToDiscord": "2026-01-13T23:38:09.653Z",
+      "sourceDate": "2025-12-10T18:00:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
+      "discordThreadId": "1460779970304540797",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018714008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018714008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Model Evaluations",
+      "postedToDiscord": "2026-01-13T23:38:13.470Z",
+      "sourceDate": "2025-12-10T13:56:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018714008",
+      "discordThreadId": "1460779990688862424",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5728495004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5728495004",
+      "company": "figma",
+      "title": "Director, Federal Sales",
+      "postedToDiscord": "2026-01-13T23:38:19.927Z",
+      "sourceDate": "2025-12-10T14:21:16-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004",
+      "discordThreadId": "1460780019524702484",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8103520002-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8103520002",
+      "company": "discord",
+      "title": "Senior Director, Internal Audit",
+      "postedToDiscord": "2026-01-13T23:38:26.406Z",
+      "sourceDate": "2025-12-10T14:07:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8103520002",
+      "discordThreadId": "1460780046548598900",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4960417008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4960417008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Safeguards",
+      "postedToDiscord": "2026-01-13T23:38:33.165Z",
+      "sourceDate": "2025-12-10T13:56:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
+      "discordThreadId": "1460780074147119269",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1079,
+    "totalJobs": 1089,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T23:26:50.019Z",
+      "date": "2026-01-13T23:38:33.166Z",
       "archived": 0
     }
   }
