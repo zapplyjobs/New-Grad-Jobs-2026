@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T20:07:51.017Z",
+  "lastUpdated": "2026-01-13T20:26:48.858Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5055448008-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055448008",
-      "company": "anthropic",
-      "title": "Product Designer, Claude Developer Platform",
-      "postedToDiscord": "2026-01-06T20:25:50.952Z",
-      "sourceDate": "2026-01-06T15:08:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055448008",
-      "discordThreadId": "1458194863001440412",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7137624-2026-01-06-1",
       "jobId": "careers-datadoghq-com-detail-7137624",
@@ -10528,14 +10517,124 @@
       "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5989/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1460727057054171319",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-enova-jobs-3972487-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-enova-jobs-3972487",
+      "company": "Enova",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-13T20:26:16.066Z",
+      "sourceDate": "2025-12-17T23:17:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/3972487",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5707966004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5707966004",
+      "company": "figma",
+      "title": "AI Applied Scientist",
+      "postedToDiscord": "2026-01-13T20:26:19.618Z",
+      "sourceDate": "2025-12-17T13:52:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+      "discordThreadId": "1460731699234340977",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582-2026-01-13-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582",
+      "company": "Oracle",
+      "title": "Advanced Degree Software Engineer - Database Technologies",
+      "postedToDiscord": "2026-01-13T20:26:26.166Z",
+      "sourceDate": "2025-12-17T23:15:24.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320582",
+      "discordThreadId": "1460731726887256084",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023719008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023719008",
+      "company": "anthropic",
+      "title": "Data Center Hardware Operations Lead",
+      "postedToDiscord": "2026-01-13T20:26:29.834Z",
+      "sourceDate": "2025-12-17T17:54:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023719008",
+      "discordThreadId": "1460731741688955164",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-62945518-2468-4cf5-9f36-904b60f75183-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-supabase-62945518-2468-4cf5-9f36-904b60f75183",
+      "company": "supabase",
+      "title": "Database Support Engineer (APAC)",
+      "postedToDiscord": "2026-01-13T20:26:31.534Z",
+      "sourceDate": "2025-12-17T21:46:32.608+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183",
+      "discordThreadId": "1460731756977066157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-3889002e-536e-4046-a330-70e942b0cc96-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-supabase-3889002e-536e-4046-a330-70e942b0cc96",
+      "company": "supabase",
+      "title": "Database Support Engineer (EMEA)",
+      "postedToDiscord": "2026-01-13T20:26:33.368Z",
+      "sourceDate": "2025-12-17T21:45:16.304+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96",
+      "discordThreadId": "1460731764069896225",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-f18b1173-51c3-4ff6-bcda-89f8111931f4-2026-01-13-1",
+      "jobId": "jobs-ashbyhq-com-supabase-f18b1173-51c3-4ff6-bcda-89f8111931f4",
+      "company": "supabase",
+      "title": "Database Support Engineer (AMER)",
+      "postedToDiscord": "2026-01-13T20:26:35.257Z",
+      "sourceDate": "2025-12-17T21:42:14.767+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4",
+      "discordThreadId": "1460731772169093252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5681681004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5681681004",
+      "company": "figma",
+      "title": "Director, Security Operations & Information Security",
+      "postedToDiscord": "2026-01-13T20:26:38.803Z",
+      "sourceDate": "2025-12-17T13:46:20-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5681681004?gh_jid=5681681004",
+      "discordThreadId": "1460731779907588231",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973549008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973549008",
+      "company": "anthropic",
+      "title": "Compensation Systems and Infrastructure",
+      "postedToDiscord": "2026-01-13T20:26:45.395Z",
+      "sourceDate": "2025-12-17T15:52:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973549008",
+      "discordThreadId": "1460731807497457908",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018838008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018838008",
+      "company": "anthropic",
+      "title": "Finance Systems, Senior Business Systems Analyst - Finance & Strategy",
+      "postedToDiscord": "2026-01-13T20:26:48.857Z",
+      "sourceDate": "2025-12-17T14:26:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
+      "discordThreadId": "1460731822249083021",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 957,
+    "totalJobs": 966,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T20:07:51.017Z",
+      "date": "2026-01-13T20:26:48.858Z",
       "archived": 0
     }
   }
