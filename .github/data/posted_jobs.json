@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T06:07:06.936Z",
+  "lastUpdated": "2026-01-13T06:28:04.304Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-06-1",
@@ -8724,14 +8724,179 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185319007",
       "discordThreadId": "1460515471898972190",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4834059007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4834059007",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, West Coast",
+      "postedToDiscord": "2026-01-13T06:27:26.149Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4834059007",
+      "discordThreadId": "1460520586236133642",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949024007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949024007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-13T06:27:29.739Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949024007",
+      "discordThreadId": "1460520599855173784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4945152007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4945152007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-13T06:27:29.746Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945152007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949027007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949027007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-13T06:27:29.751Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949027007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949028007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949028007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-13T06:27:29.757Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949028007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949035007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949035007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-13T06:27:29.762Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949035007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4985491007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4985491007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-13T06:27:29.768Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4985491007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4087164007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4087164007",
+      "company": "verkada",
+      "title": "Solutions Engineer",
+      "postedToDiscord": "2026-01-13T06:27:31.423Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087164007",
+      "discordThreadId": "1460520615218778324",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4185105007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4185105007",
+      "company": "verkada",
+      "title": "Solutions Engineering Manager, Select & Territory",
+      "postedToDiscord": "2026-01-13T06:27:34.906Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
+      "discordThreadId": "1460520622361808898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4824487007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4824487007",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Midwest",
+      "postedToDiscord": "2026-01-13T06:27:41.376Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
+      "discordThreadId": "1460520649834631251",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4387668007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4387668007",
+      "company": "verkada",
+      "title": "Regional Sales Manager, Mid-Market",
+      "postedToDiscord": "2026-01-13T06:27:46.062Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4387668007",
+      "discordThreadId": "1460520676653011042",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4520965007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4520965007",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), New York City ",
+      "postedToDiscord": "2026-01-13T06:27:49.435Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
+      "discordThreadId": "1460520683686727730",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5011857007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5011857007",
+      "company": "verkada",
+      "title": "Sales Recruiter, Salt Lake City",
+      "postedToDiscord": "2026-01-13T06:27:54.276Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5011857007",
+      "discordThreadId": "1460520710957957219",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4648144007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4648144007",
+      "company": "verkada",
+      "title": "Senior Channel Marketing Manager, Northeast (Remote)",
+      "postedToDiscord": "2026-01-13T06:28:00.894Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4648144007",
+      "discordThreadId": "1460520731518570579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4990280007-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990280007",
+      "company": "verkada",
+      "title": "Sr. Tradeshow and Event Marketing Manager",
+      "postedToDiscord": "2026-01-13T06:28:04.304Z",
+      "sourceDate": "2025-12-23T19:09:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
+      "discordThreadId": "1460520745737392150",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 793,
+    "totalJobs": 808,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T06:07:06.936Z",
+      "date": "2026-01-13T06:28:04.304Z",
       "archived": 0
     }
   }
