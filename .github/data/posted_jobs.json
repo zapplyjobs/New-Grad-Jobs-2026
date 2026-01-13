@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T22:43:04.709Z",
+  "lastUpdated": "2026-01-13T22:55:38.423Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8359307002-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8359307002",
-      "company": "discord",
-      "title": "Senior Data Scientist, Analytics - Growth/SEO",
-      "postedToDiscord": "2026-01-06T22:52:40.248Z",
-      "sourceDate": "2026-01-06T17:49:09-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359307002",
-      "discordThreadId": "1458231811971747841",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-dropbox-com-listing-7421204-2026-01-06-1",
-      "jobId": "jobs-dropbox-com-listing-7421204",
-      "company": "dropbox",
-      "title": "Administrative Business Partner",
-      "postedToDiscord": "2026-01-06T22:52:46.743Z",
-      "sourceDate": "2026-01-06T17:45:15-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7421204?gh_jid=7421204",
-      "discordThreadId": "1458231840321044481",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7517372-2026-01-06-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7517372",
-      "company": "reddit",
-      "title": "Client Account Manager, Mid-Market (B2B Services)",
-      "postedToDiscord": "2026-01-06T22:52:53.131Z",
-      "sourceDate": "2026-01-06T17:40:38-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7517372",
-      "discordThreadId": "1458231867613515922",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5018520008-2026-01-06-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018520008",
@@ -11551,14 +11518,124 @@
       "sourceUrl": "https://www.brex.com/careers/8339252002?gh_jid=8339252002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735077004-2026-01-13-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735077004",
+      "company": "figma",
+      "title": "Manager, Inside Sales",
+      "postedToDiscord": "2026-01-13T22:54:54.308Z",
+      "sourceDate": "2025-12-12T13:22:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735077004?gh_jid=5735077004",
+      "discordThreadId": "1460769090980548760",
+      "instanceNumber": 1
+    },
+    {
+      "id": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1-2026-01-13-1",
+      "jobId": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1",
+      "company": "State Street",
+      "title": "Software Engineer 1 - Web Frameworks - Officer",
+      "postedToDiscord": "2026-01-13T22:55:00.931Z",
+      "sourceDate": "2025-12-12T17:11:16.000Z",
+      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1",
+      "discordThreadId": "1460769118033809549",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983-2026-01-13-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Ent",
+      "postedToDiscord": "2026-01-13T22:55:04.362Z",
+      "sourceDate": "2025-12-11T23:44:58.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983",
+      "discordThreadId": "1460769132441243813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "howard-wd1-myworkdayjobs-com-hu-job-downing-hall-college-of-engineering-research-scientist-post-doc-research-fellow-_jr107708-1-2026-01-13-1",
+      "jobId": "howard-wd1-myworkdayjobs-com-hu-job-downing-hall-college-of-engineering-research-scientist-post-doc-research-fellow-_jr107708-1",
+      "company": "Howard University",
+      "title": "Research Scientist - Post Doc Research Fellow",
+      "postedToDiscord": "2026-01-13T22:55:08.070Z",
+      "sourceDate": "2025-12-11T23:21:11.000Z",
+      "sourceUrl": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/Research-Scientist--Post-Doc-Research-Fellow-_JR107708-1",
+      "discordThreadId": "1460769147083559025",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply-2026-01-13-1",
+      "jobId": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply",
+      "company": "Sensor Tower",
+      "title": "Product Analyst - Digital Advertising",
+      "postedToDiscord": "2026-01-13T22:55:14.794Z",
+      "sourceDate": "2025-12-12T16:16:40.000Z",
+      "sourceUrl": "https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply",
+      "discordThreadId": "1460769175600631924",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74-2026-01-13-1",
+      "jobId": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74",
+      "company": "spotify",
+      "title": "Associate Director, Programmatic Platform Operations",
+      "postedToDiscord": "2026-01-13T22:55:18.242Z",
+      "sourceDate": "2025-12-12T15:00:00.855Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1c59f08a-6f03-451e-a4d5-966684acef74",
+      "discordThreadId": "1460769190808916011",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-and-soc-modelling-architect-new-college-grad-2026_jr2009934-2026-01-13-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-and-soc-modelling-architect-new-college-grad-2026_jr2009934",
+      "company": "NVIDIA",
+      "title": "GPU and SoC Modelling Architect – New College Grad",
+      "postedToDiscord": "2026-01-13T22:55:21.743Z",
+      "sourceDate": "2025-12-12T02:18:54.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934",
+      "discordThreadId": "1460769205082263799",
+      "instanceNumber": 1
+    },
+    {
+      "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711-2026-01-13-1",
+      "jobId": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711",
+      "company": "RELX",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-13T22:55:28.583Z",
+      "sourceDate": "2025-12-12T07:14:29.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711",
+      "discordThreadId": "1460769233167188172",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719-2026-01-13-1",
+      "jobId": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719",
+      "company": "Ryan Specialty",
+      "title": "Business Intelligence Analyst",
+      "postedToDiscord": "2026-01-13T22:55:31.922Z",
+      "sourceDate": "2025-12-11T23:48:01.000Z",
+      "sourceUrl": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719",
+      "discordThreadId": "1460769248732381355",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4986738008-2026-01-13-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4986738008",
+      "company": "anthropic",
+      "title": "Segment Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-13T22:55:38.422Z",
+      "sourceDate": "2025-12-12T00:33:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986738008",
+      "discordThreadId": "1460769275638845440",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1050,
+    "totalJobs": 1057,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-13T22:43:04.709Z",
+      "date": "2026-01-13T22:55:38.423Z",
       "archived": 0
     }
   }
