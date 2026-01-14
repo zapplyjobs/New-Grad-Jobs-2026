@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T00:13:19.509Z",
+  "lastUpdated": "2026-01-14T00:49:22.585Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8362829002-2026-01-07-1",
-      "jobId": "www-brex-com-careers-8362829002",
-      "company": "brex",
-      "title": "Litigation and Risk Counsel",
-      "postedToDiscord": "2026-01-07T00:45:22.910Z",
-      "sourceDate": "2026-01-06T19:31:34-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8362829002?gh_jid=8362829002",
-      "discordThreadId": "1458260177592647741",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8362822002-2026-01-07-1",
-      "jobId": "www-brex-com-careers-8362822002",
-      "company": "brex",
-      "title": "Litigation and Risk Counsel",
-      "postedToDiscord": "2026-01-07T00:45:22.927Z",
-      "sourceDate": "2026-01-06T19:31:33-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8362822002?gh_jid=8362822002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8362828002-2026-01-07-1",
-      "jobId": "www-brex-com-careers-8362828002",
-      "company": "brex",
-      "title": "Litigation and Risk Counsel",
-      "postedToDiscord": "2026-01-07T00:45:22.939Z",
-      "sourceDate": "2026-01-06T19:31:33-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8362828002?gh_jid=8362828002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4821519008-2026-01-07-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4821519008",
-      "company": "anthropic",
-      "title": "Recruiter, G&A",
-      "postedToDiscord": "2026-01-07T00:45:29.511Z",
-      "sourceDate": "2026-01-06T19:16:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821519008",
-      "discordThreadId": "1458260205430116607",
-      "instanceNumber": 1
-    },
-    {
-      "id": "conagrabrands-wd1-myworkdayjobs-com-careers_us-job-chicago-illinois-associate-systems-analyst-it-sales-trade-portfolio_req-035736-1-2026-01-07-1",
-      "jobId": "conagrabrands-wd1-myworkdayjobs-com-careers_us-job-chicago-illinois-associate-systems-analyst-it-sales-trade-portfolio_req-035736-1",
-      "company": "Conagra Brands",
-      "title": "Associate Systems Analyst-IT Sales & Trade Portfolio",
-      "postedToDiscord": "2026-01-07T00:45:36.522Z",
-      "sourceDate": "2026-01-06T23:46:32.000Z",
-      "sourceUrl": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Associate-Systems-Analyst--IT-Sales---Trade-Portfolio_Req-035736-1",
-      "discordThreadId": "1458260232869511178",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-americansystems-icims-com-jobs-3850-job-2026-01-07-1",
-      "jobId": "careers-americansystems-icims-com-jobs-3850-job",
-      "company": "AMERICAN SYSTEMS",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-07T00:45:43.195Z",
-      "sourceDate": "2026-01-06T23:30:25.000Z",
-      "sourceUrl": "https://careers-americansystems.icims.com/jobs/3850/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458260262099484732",
-      "instanceNumber": 1
-    },
     {
       "id": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121-2026-01-07-1",
       "jobId": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121",
@@ -12024,14 +11958,124 @@
       "sourceUrl": "https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051",
       "discordThreadId": "1460788824925012059",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-6852375-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-6852375",
+      "company": "coinbase",
+      "title": "Senior AML Investigations Trainer",
+      "postedToDiscord": "2026-01-14T00:48:52.476Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6852375?gh_jid=6852375",
+      "discordThreadId": "1460797779122061525",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-6669415-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-6669415",
+      "company": "coinbase",
+      "title": "Senior Client Strategist, Coinbase Asset Management (Capital Formation)",
+      "postedToDiscord": "2026-01-14T00:48:56.028Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6669415?gh_jid=6669415",
+      "discordThreadId": "1460797786479005776",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7156049-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-7156049",
+      "company": "coinbase",
+      "title": "Supervisor, Customer Success Team",
+      "postedToDiscord": "2026-01-14T00:48:58.013Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049",
+      "discordThreadId": "1460797801511260305",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7317551-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-7317551",
+      "company": "coinbase",
+      "title": "Tax Information Reporting Intern",
+      "postedToDiscord": "2026-01-14T00:49:01.782Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7317551?gh_jid=7317551",
+      "discordThreadId": "1460797809749135442",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7317491-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-7317491",
+      "company": "coinbase",
+      "title": "Tax Operations Intern",
+      "postedToDiscord": "2026-01-14T00:49:05.343Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7317491?gh_jid=7317491",
+      "discordThreadId": "1460797825410535586",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-6675542-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-6675542",
+      "company": "coinbase",
+      "title": "TMS Compliance Analyst III",
+      "postedToDiscord": "2026-01-14T00:49:07.069Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6675542?gh_jid=6675542",
+      "discordThreadId": "1460797840426274890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-6676764-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-6676764",
+      "company": "coinbase",
+      "title": "TMS Quality Compliance Analyst III",
+      "postedToDiscord": "2026-01-14T00:49:08.896Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6676764?gh_jid=6676764",
+      "discordThreadId": "1460797847946399961",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7269775-2026-01-14-1",
+      "jobId": "www-coinbase-com-careers-positions-7269775",
+      "company": "coinbase",
+      "title": "User Researcher Intern",
+      "postedToDiscord": "2026-01-14T00:49:12.567Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7269775?gh_jid=7269775",
+      "discordThreadId": "1460797855668109477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ms-wd5-myworkdayjobs-com-en-us-external-job-new-york-new-york-united-states-of-america-market-risk-analytics-associate-stress-testing-and-ai-integration_pt-jr025318-2026-01-14-1",
+      "jobId": "ms-wd5-myworkdayjobs-com-en-us-external-job-new-york-new-york-united-states-of-america-market-risk-analytics-associate-stress-testing-and-ai-integration_pt-jr025318",
+      "company": "Morgan Stanley",
+      "title": "Market Risk Analytics Associate, Stress Testing and AI Integration",
+      "postedToDiscord": "2026-01-14T00:49:19.105Z",
+      "sourceDate": "2025-12-10T18:33:23.000Z",
+      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Market-Risk-Analytics-Associate--Stress-Testing-and-AI-Integration_PT-JR025318",
+      "discordThreadId": "1460797883308572754",
+      "instanceNumber": 1
+    },
+    {
+      "id": "generalmotors-wd5-myworkdayjobs-com-en-us-careers_gm-job-mountain-view-california-united-states-of-america-applied-scientist-ai-robotics-phd-early-career_jr-202523975-2026-01-14-1",
+      "jobId": "generalmotors-wd5-myworkdayjobs-com-en-us-careers_gm-job-mountain-view-california-united-states-of-america-applied-scientist-ai-robotics-phd-early-career_jr-202523975",
+      "company": "General Motors",
+      "title": "Applied Scientist - AI & Robotics (PhD) - Early Career",
+      "postedToDiscord": "2026-01-14T00:49:22.585Z",
+      "sourceDate": "2025-12-10T18:29:40.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Applied-Scientist---AI---Robotics--PhD----Early-Career_JR-202523975",
+      "discordThreadId": "1460797898131378253",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1093,
+    "totalJobs": 1097,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T00:13:19.509Z",
+      "date": "2026-01-14T00:49:22.585Z",
       "archived": 0
     }
   }
