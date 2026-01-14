@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T06:28:28.015Z",
+  "lastUpdated": "2026-01-14T06:49:10.843Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -13916,14 +13916,124 @@
       "sourceUrl": "https://corningjobs.corning.com/job/Corning-Research-Technician-NY-14831/1347688200/?ats=successfactors",
       "discordThreadId": "1460883233133822066",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015340008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015340008",
+      "company": "anthropic",
+      "title": "Developer Relations, MCP",
+      "postedToDiscord": "2026-01-14T06:48:29.889Z",
+      "sourceDate": "2025-12-05T12:22:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
+      "discordThreadId": "1460888273462366211",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-leverdemo-8-62a71e00-69ef-4145-bae4-3e8b02778a69-apply-2026-01-14-1",
+      "jobId": "jobs-lever-co-leverdemo-8-62a71e00-69ef-4145-bae4-3e8b02778a69-apply",
+      "company": "Lever",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-14T06:48:33.624Z",
+      "sourceDate": "2025-12-04T23:51:01.000Z",
+      "sourceUrl": "https://jobs.lever.co/leverdemo-8/62a71e00-69ef-4145-bae4-3e8b02778a69/apply",
+      "discordThreadId": "1460888288452935839",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-linkllc-fa8fbdb5-ac85-4e50-a8a9-9857a5942cc3-apply-2026-01-14-1",
+      "jobId": "jobs-lever-co-linkllc-fa8fbdb5-ac85-4e50-a8a9-9857a5942cc3-apply",
+      "company": "Link",
+      "title": "Data Science Level 2 - Advanced AI - NLP",
+      "postedToDiscord": "2026-01-14T06:48:37.101Z",
+      "sourceDate": "2025-12-04T23:43:08.000Z",
+      "sourceUrl": "https://jobs.lever.co/linkllc/fa8fbdb5-ac85-4e50-a8a9-9857a5942cc3/apply",
+      "discordThreadId": "1460888303925723263",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-linkllc-01986263-6ad2-4a5b-aea4-e1ba8375cfa9-apply-2026-01-14-1",
+      "jobId": "jobs-lever-co-linkllc-01986263-6ad2-4a5b-aea4-e1ba8375cfa9-apply",
+      "company": "Link",
+      "title": "Cryptoanalyst Level 2 - CCA allowed",
+      "postedToDiscord": "2026-01-14T06:48:40.478Z",
+      "sourceDate": "2025-12-04T23:43:02.000Z",
+      "sourceUrl": "https://jobs.lever.co/linkllc/01986263-6ad2-4a5b-aea4-e1ba8375cfa9/apply",
+      "discordThreadId": "1460888318832279564",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-e35594fa-1c62-487d-833f-774878b6e829-2026-01-14-1",
+      "jobId": "jobs-lever-co-spotify-e35594fa-1c62-487d-833f-774878b6e829",
+      "company": "spotify",
+      "title": "Manager, Sales Operations – Commissions",
+      "postedToDiscord": "2026-01-14T06:48:43.960Z",
+      "sourceDate": "2025-12-04T21:23:29.023Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/e35594fa-1c62-487d-833f-774878b6e829",
+      "discordThreadId": "1460888333138788375",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7378476-2026-01-14-1",
+      "jobId": "careers-datadoghq-com-detail-7378476",
+      "company": "Datadog",
+      "title": "Enablement Operations Data Analyst - NYC",
+      "postedToDiscord": "2026-01-14T06:48:50.435Z",
+      "sourceDate": "2025-12-05T14:27:55.000Z",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7378476/?gh_jid=7378476",
+      "discordThreadId": "1460888360141852867",
+      "instanceNumber": 1
+    },
+    {
+      "id": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-va-mclean-analytics-dashboarding-analyst-ada-_r175222-1-2026-01-14-1",
+      "jobId": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-va-mclean-analytics-dashboarding-analyst-ada-_r175222-1",
+      "company": "Parsons",
+      "title": "Analytics/Dashboarding Analyst - Ada",
+      "postedToDiscord": "2026-01-14T06:48:54.414Z",
+      "sourceDate": "2025-12-05T07:16:18.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Mclean/Analytics-Dashboarding-Analyst--ADA-_R175222-1",
+      "discordThreadId": "1460888374930833561",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cai-wd5-myworkdayjobs-com-computer_aid-job-fl-client-state-systems-analyst_r6732-2026-01-14-1",
+      "jobId": "cai-wd5-myworkdayjobs-com-computer_aid-job-fl-client-state-systems-analyst_r6732",
+      "company": "CAI",
+      "title": "Systems Analyst",
+      "postedToDiscord": "2026-01-14T06:49:00.864Z",
+      "sourceDate": "2025-12-05T07:26:17.000Z",
+      "sourceUrl": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Systems-Analyst_R6732",
+      "discordThreadId": "1460888404269994068",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8324788002-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8324788002",
+      "company": "SpaceX",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-14T06:49:07.331Z",
+      "sourceDate": "2025-12-05T07:20:15.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8324788002",
+      "discordThreadId": "1460888431394689024",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-lsu-alexandria-data-collections-specialist_r00111435-1-2026-01-14-1",
+      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-lsu-alexandria-data-collections-specialist_r00111435-1",
+      "company": "Louisiana State University (LSU)",
+      "title": "Data Collections Specialist",
+      "postedToDiscord": "2026-01-14T06:49:10.843Z",
+      "sourceDate": "2025-12-05T07:12:19.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Alexandria/Data-Collections-Specialist_R00111435-1",
+      "discordThreadId": "1460888445705785453",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1265,
+    "totalJobs": 1275,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T06:28:28.015Z",
+      "date": "2026-01-14T06:49:10.843Z",
       "archived": 0
     }
   }
