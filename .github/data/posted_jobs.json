@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T05:43:42.780Z",
+  "lastUpdated": "2026-01-14T05:55:51.191Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -13586,14 +13586,124 @@
       "sourceUrl": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
       "discordThreadId": "1460871970718486640",
       "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305-2026-01-14-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305",
+      "company": "Northrop Grumman",
+      "title": "Principal Mission Assurance Engineer",
+      "postedToDiscord": "2026-01-14T05:55:04.810Z",
+      "sourceDate": "2025-12-08T22:47:47.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Engineer-Principal-Engineer-Mission-Assurance---16584_R10216305",
+      "discordThreadId": "1460874831338672198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-etum-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-41204-2026-01-14-1",
+      "jobId": "fa-etum-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-41204",
+      "company": "GuideWell Mutual",
+      "title": "Associate Software Developer",
+      "postedToDiscord": "2026-01-14T05:55:08.112Z",
+      "sourceDate": "2025-12-08T22:33:20.000Z",
+      "sourceUrl": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41204",
+      "discordThreadId": "1460874845016555675",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8316122002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8316122002",
+      "company": "discord",
+      "title": "Senior Financial Reporting and Technical Accountant",
+      "postedToDiscord": "2026-01-14T05:55:14.722Z",
+      "sourceDate": "2025-12-08T17:12:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8316122002",
+      "discordThreadId": "1460874872015032505",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-1ef1c258-c89b-40d5-b269-5808eb35ddb5-2026-01-14-1",
+      "jobId": "jobs-lever-co-spotify-1ef1c258-c89b-40d5-b269-5808eb35ddb5",
+      "company": "spotify",
+      "title": "Director of Sales, Emerging & Scaled (New Business)",
+      "postedToDiscord": "2026-01-14T05:55:21.253Z",
+      "sourceDate": "2025-12-08T21:40:09.496Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1ef1c258-c89b-40d5-b269-5808eb35ddb5",
+      "discordThreadId": "1460874899777392821",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-retool-jobs-4633560005-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-retool-jobs-4633560005",
+      "company": "retool",
+      "title": "Enterprise Support Engineer, AMER",
+      "postedToDiscord": "2026-01-14T05:55:24.763Z",
+      "sourceDate": "2025-12-08T12:29:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4633560005",
+      "discordThreadId": "1460874914528755793",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-retool-jobs-4628161005-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-retool-jobs-4628161005",
+      "company": "retool",
+      "title": "UX Researcher",
+      "postedToDiscord": "2026-01-14T05:55:28.252Z",
+      "sourceDate": "2025-12-08T12:29:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4628161005",
+      "discordThreadId": "1460874929158230016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8321982002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8321982002",
+      "company": "discord",
+      "title": "Manager, Global Accounts Receivable",
+      "postedToDiscord": "2026-01-14T05:55:34.688Z",
+      "sourceDate": "2025-12-08T14:54:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8321982002",
+      "discordThreadId": "1460874956798820382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5039945004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5039945004",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors",
+      "postedToDiscord": "2026-01-14T05:55:38.286Z",
+      "sourceDate": "2025-12-08T12:40:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
+      "discordThreadId": "1460874970988023819",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alliantenergy-wd1-myworkdayjobs-com-alliant-job-madison-wi-meter-data-analyst-i_jr-9238-2026-01-14-1",
+      "jobId": "alliantenergy-wd1-myworkdayjobs-com-alliant-job-madison-wi-meter-data-analyst-i_jr-9238",
+      "company": "Alliant Energy",
+      "title": "Meter Data Analyst 1",
+      "postedToDiscord": "2026-01-14T05:55:44.731Z",
+      "sourceDate": "2025-12-08T19:47:05.000Z",
+      "sourceUrl": "https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238",
+      "discordThreadId": "1460874998637138063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-enfra-icims-com-jobs-8425-job-2026-01-14-1",
+      "jobId": "careers-enfra-icims-com-jobs-8425-job",
+      "company": "ENFRA",
+      "title": "Metering Specialist 1",
+      "postedToDiscord": "2026-01-14T05:55:51.190Z",
+      "sourceDate": "2025-12-08T19:24:20.000Z",
+      "sourceUrl": "https://careers-enfra.icims.com/jobs/8425/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460875025249861726",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1235,
+    "totalJobs": 1245,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T05:43:42.780Z",
+      "date": "2026-01-14T05:55:51.191Z",
       "archived": 0
     }
   }
