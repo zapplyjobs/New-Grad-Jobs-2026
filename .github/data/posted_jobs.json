@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T08:47:39.067Z",
+  "lastUpdated": "2026-01-14T11:39:54.018Z",
   "jobs": [
-    {
-      "id": "magnoliamanorgreenville-careers-fundltc-icims-com-jobs-2057-job-2026-01-07-1",
-      "jobId": "magnoliamanorgreenville-careers-fundltc-icims-com-jobs-2057-job",
-      "company": "Magnolia Manor Greenville",
-      "title": "Certified Nursing Assistant / Aide CNA",
-      "postedToDiscord": "2026-01-07T10:49:34.330Z",
-      "sourceDate": "2025-09-11T11:54:18.000Z",
-      "sourceUrl": "https://magnoliamanorgreenville-careers-fundltc.icims.com/jobs/2057/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458412234186428480",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-jetaviation-com-job-west-palm-beach-associate-azure-data-engineer-fl-33409-1349081857-2026-01-07-1",
-      "jobId": "jobs-jetaviation-com-job-west-palm-beach-associate-azure-data-engineer-fl-33409-1349081857",
-      "company": "General Dynamics",
-      "title": "Associate Azure Data Engineer",
-      "postedToDiscord": "2026-01-07T11:25:26.832Z",
-      "sourceDate": "2025-12-23T23:27:58.000Z",
-      "sourceUrl": "https://jobs.jetaviation.com/job/West-Palm-Beach-Associate-Azure-Data-Engineer-FL-33409/1349081857/?ats=successfactors",
-      "discordThreadId": "1458421255999852695",
-      "instanceNumber": 1
-    },
     {
       "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-business-systems-analyst-international_r260243-2-2026-01-07-1",
       "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-business-systems-analyst-international_r260243-2",
@@ -14763,14 +14741,58 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581-2026-01-14-1",
+      "jobId": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581",
+      "company": "Citi",
+      "title": "Technology - Application Development",
+      "postedToDiscord": "2026-01-14T11:39:39.741Z",
+      "sourceDate": "2025-12-01T05:14:10.000Z",
+      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-developer-technology-engineer-public-sector-new-college-grad-2026_jr2008990-2026-01-14-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-developer-technology-engineer-public-sector-new-college-grad-2026_jr2008990",
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineer – New College Grad - Public Sector",
+      "postedToDiscord": "2026-01-14T11:39:43.704Z",
+      "sourceDate": "2025-12-01T05:10:31.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+      "discordThreadId": "1460961562830307369",
+      "instanceNumber": 1
+    },
+    {
+      "id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-technology-application-development-full-time-analyst-tampa-usa-2026_25920348-2026-01-14-1",
+      "jobId": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-technology-application-development-full-time-analyst-tampa-usa-2026_25920348",
+      "company": "Citi",
+      "title": "Technology - Application Development - Full Time Analyst",
+      "postedToDiscord": "2026-01-14T11:39:47.568Z",
+      "sourceDate": "2025-11-30T20:44:45.000Z",
+      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
+      "discordThreadId": "1460961578802479221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5722839004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5722839004",
+      "company": "figma",
+      "title": "Manager, GTM Finance",
+      "postedToDiscord": "2026-01-14T11:39:54.018Z",
+      "sourceDate": "2025-12-01T00:10:22-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
+      "discordThreadId": "1460961608040845375",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1342,
+    "totalJobs": 1344,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T08:47:39.067Z",
+      "date": "2026-01-14T11:39:54.018Z",
       "archived": 0
     }
   }
