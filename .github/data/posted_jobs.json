@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T04:40:19.159Z",
+  "lastUpdated": "2026-01-14T05:02:37.243Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -13146,14 +13146,124 @@
       "sourceUrl": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Intelligence-Analyst_R233902",
       "discordThreadId": "1460856017066655940",
       "instanceNumber": 1
+    },
+    {
+      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105-2026-01-14-1",
+      "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105",
+      "company": "Cadence Design Systems",
+      "title": "Application Engineer",
+      "postedToDiscord": "2026-01-14T05:01:55.691Z",
+      "sourceDate": "2025-12-10T14:40:31.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105",
+      "discordThreadId": "1460861454600110281",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-remote-ai-engineer-ii_r40510-2026-01-14-1",
+      "jobId": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-remote-ai-engineer-ii_r40510",
+      "company": "VCU Health",
+      "title": "AI Engineer 2",
+      "postedToDiscord": "2026-01-14T05:02:02.071Z",
+      "sourceDate": "2025-12-10T14:29:15.000Z",
+      "sourceUrl": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Remote/AI-Engineer-II_R40510",
+      "discordThreadId": "1460861481775009813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-scaleai-jobs-4638305005-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-scaleai-jobs-4638305005",
+      "company": "Scale AI",
+      "title": "Vibe Marketer",
+      "postedToDiscord": "2026-01-14T05:02:05.782Z",
+      "sourceDate": "2025-12-10T09:40:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
+      "discordThreadId": "1460861496241164381",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464-2026-01-14-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464",
+      "company": "NVIDIA",
+      "title": "Research Scientist – New College Grad 2026 - Embodied and Agentic AI",
+      "postedToDiscord": "2026-01-14T05:02:09.159Z",
+      "sourceDate": "2025-12-10T08:48:53.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+      "discordThreadId": "1460861511500304485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-baselayer-jobs-5023888008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-baselayer-jobs-5023888008",
+      "company": "Baselayer",
+      "title": "Senior Data Engineer",
+      "postedToDiscord": "2026-01-14T05:02:15.667Z",
+      "sourceDate": "2025-12-10T11:06:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/baselayer/jobs/5023888008",
+      "discordThreadId": "1460861538557759602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pathward-jobs-5722623004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-pathward-jobs-5722623004",
+      "company": "Pathward",
+      "title": "Data Scientist 1",
+      "postedToDiscord": "2026-01-14T05:02:19.160Z",
+      "sourceDate": "2025-12-10T09:59:38.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pathward/jobs/5722623004",
+      "discordThreadId": "1460861553346875412",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-quest-global-com-global-en-job-p-113946-2026-01-14-1",
+      "jobId": "careers-quest-global-com-global-en-job-p-113946",
+      "company": "Quest Global",
+      "title": "Data Analyst - Python/SQL + Finance knowledge",
+      "postedToDiscord": "2026-01-14T05:02:23.631Z",
+      "sourceDate": "2025-12-10T09:35:56.000Z",
+      "sourceUrl": "https://careers.quest-global.com/global/en/job/P-113946",
+      "discordThreadId": "1460861568123142340",
+      "instanceNumber": 1
+    },
+    {
+      "id": "snc-wd1-myworkdayjobs-com-snc_external_career_site-job-sparks-nv-business-intelligence-developer-i_r0028996-1-2026-01-14-1",
+      "jobId": "snc-wd1-myworkdayjobs-com-snc_external_career_site-job-sparks-nv-business-intelligence-developer-i_r0028996-1",
+      "company": "Sierra Nevada Corporation",
+      "title": "Business Intelligence Developer 1",
+      "postedToDiscord": "2026-01-14T05:02:27.013Z",
+      "sourceDate": "2025-12-10T08:48:35.000Z",
+      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Business-Intelligence-Developer-I_R0028996-1",
+      "discordThreadId": "1460861586519621858",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983107008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983107008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Partnerships & Alliances",
+      "postedToDiscord": "2026-01-14T05:02:33.744Z",
+      "sourceDate": "2025-12-10T00:57:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983107008",
+      "discordThreadId": "1460861613610631230",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4974231008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4974231008",
+      "company": "anthropic",
+      "title": "Senior Manager, Tax Operations, Provision & Compliance",
+      "postedToDiscord": "2026-01-14T05:02:37.243Z",
+      "sourceDate": "2025-12-10T00:56:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4974231008",
+      "discordThreadId": "1460861629121040528",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1195,
+    "totalJobs": 1205,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T04:40:19.159Z",
+      "date": "2026-01-14T05:02:37.243Z",
       "archived": 0
     }
   }
