@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T03:36:53.621Z",
+  "lastUpdated": "2026-01-14T04:19:43.834Z",
   "jobs": [
-    {
-      "id": "careers-kci-icims-com-jobs-7323-job-2026-01-07-1",
-      "jobId": "careers-kci-icims-com-jobs-7323-job",
-      "company": "KCI Technologies",
-      "title": "Solutions Analyst - Enterprise Asset Management - Eam",
-      "postedToDiscord": "2026-01-07T03:57:13.874Z",
-      "sourceDate": "2025-09-11T18:22:29.000Z",
-      "sourceUrl": "https://careers-kci.icims.com/jobs/7323/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458308457911423007",
-      "instanceNumber": 1
-    },
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
       "jobId": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder",
@@ -12772,14 +12761,234 @@
       "sourceUrl": "https://www.brex.com/careers/8249884002?gh_jid=8249884002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7924881002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-7924881002",
+      "company": "brex",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-14T04:19:07.482Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7924881002?gh_jid=7924881002",
+      "discordThreadId": "1460850682998427648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7924840002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-7924840002",
+      "company": "brex",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-14T04:19:07.493Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7924840002?gh_jid=7924840002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8299931002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8299931002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Acquisition",
+      "postedToDiscord": "2026-01-14T04:19:14.009Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299931002?gh_jid=8299931002",
+      "discordThreadId": "1460850710370455697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8299930002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8299930002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Acquisition",
+      "postedToDiscord": "2026-01-14T04:19:14.020Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299930002?gh_jid=8299930002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8299907002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8299907002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Acquisition",
+      "postedToDiscord": "2026-01-14T04:19:14.029Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299907002?gh_jid=8299907002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8184122002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8184122002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management",
+      "postedToDiscord": "2026-01-14T04:19:17.811Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184122002?gh_jid=8184122002",
+      "discordThreadId": "1460850724903846077",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8184694002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8184694002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management ",
+      "postedToDiscord": "2026-01-14T04:19:17.820Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184694002?gh_jid=8184694002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8184695002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8184695002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management ",
+      "postedToDiscord": "2026-01-14T04:19:17.829Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184695002?gh_jid=8184695002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8330492002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8330492002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-14T04:19:24.322Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330492002?gh_jid=8330492002",
+      "discordThreadId": "1460850753374654465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8330495002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8330495002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-14T04:19:24.331Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330495002?gh_jid=8330495002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8075285002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8075285002",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-14T04:19:30.790Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8075285002?gh_jid=8075285002",
+      "discordThreadId": "1460850780516126762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8073147002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8073147002",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-14T04:19:30.798Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8073147002?gh_jid=8073147002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8093385002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8093385002",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-14T04:19:30.807Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8093385002?gh_jid=8093385002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8222783002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8222783002",
+      "company": "brex",
+      "title": " Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-14T04:19:37.270Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8222783002?gh_jid=8222783002",
+      "discordThreadId": "1460850808097603677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8215986002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8215986002",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-14T04:19:37.281Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8215986002?gh_jid=8215986002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8216086002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8216086002",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-14T04:19:37.290Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8216086002?gh_jid=8216086002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8216085002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8216085002",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-14T04:19:37.299Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8216085002?gh_jid=8216085002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8074446002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8074446002",
+      "company": "brex",
+      "title": "Senior Partner Marketing Manager",
+      "postedToDiscord": "2026-01-14T04:19:43.817Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8074446002?gh_jid=8074446002",
+      "discordThreadId": "1460850835276955648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8072895002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8072895002",
+      "company": "brex",
+      "title": "Senior Partner Marketing Manager",
+      "postedToDiscord": "2026-01-14T04:19:43.825Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8072895002?gh_jid=8072895002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8074444002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8074444002",
+      "company": "brex",
+      "title": "Senior Partner Marketing Manager",
+      "postedToDiscord": "2026-01-14T04:19:43.834Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8074444002?gh_jid=8074444002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1161,
+    "totalJobs": 1180,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T03:36:53.621Z",
+      "date": "2026-01-14T04:19:43.834Z",
       "archived": 0
     }
   }
