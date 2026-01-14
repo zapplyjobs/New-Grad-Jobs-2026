@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T07:02:07.086Z",
+  "lastUpdated": "2026-01-14T07:14:38.480Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -14136,14 +14136,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
       "discordThreadId": "1460891701345521665",
       "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-pony-dot-ai-j-a776e97605-apply-2026-01-14-1",
+      "jobId": "apply-workable-com-pony-dot-ai-j-a776e97605-apply",
+      "company": "pony.ai",
+      "title": "Software Engineer - Perception Infrastructure",
+      "postedToDiscord": "2026-01-14T07:13:58.054Z",
+      "sourceDate": "2025-12-04T02:14:06.000Z",
+      "sourceUrl": "https://apply.workable.com/pony-dot-ai/j/A776E97605/apply",
+      "discordThreadId": "1460894683885604936",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-nebraska-bellevue-software-engineer-principal-software-engineer-aht-_r10216147-2026-01-14-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-nebraska-bellevue-software-engineer-principal-software-engineer-aht-_r10216147",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer / Principal Software Engineer - Aht",
+      "postedToDiscord": "2026-01-14T07:14:01.508Z",
+      "sourceDate": "2025-12-04T01:05:15.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer---Principal-Software-Engineer--AHT-_R10216147",
+      "discordThreadId": "1460894698062221399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "transamerica-wd5-myworkdayjobs-com-us-job-philadelphia-pennsylvania-appian-application-developer_r20060158-2026-01-14-1",
+      "jobId": "transamerica-wd5-myworkdayjobs-com-us-job-philadelphia-pennsylvania-appian-application-developer_r20060158",
+      "company": "Transamerica",
+      "title": "Appian Application Developer",
+      "postedToDiscord": "2026-01-14T07:14:05.226Z",
+      "sourceDate": "2025-12-03T23:33:38.000Z",
+      "sourceUrl": "https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158",
+      "discordThreadId": "1460894713052794969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "higher-gs-com-roles-150845-2026-01-14-1",
+      "jobId": "higher-gs-com-roles-150845",
+      "company": "Goldman Sachs",
+      "title": "2026 – Americas - New York City Area - Engineering",
+      "postedToDiscord": "2026-01-14T07:14:11.693Z",
+      "sourceDate": "2025-12-04T02:04:54.000Z",
+      "sourceUrl": "https://higher.gs.com/roles/150845?type=students",
+      "discordThreadId": "1460894741137854484",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076-2026-01-14-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076",
+      "company": "Adobe",
+      "title": "Research Scientist",
+      "postedToDiscord": "2026-01-14T07:14:15.181Z",
+      "sourceDate": "2025-12-04T01:56:43.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R163076",
+      "discordThreadId": "1460894754995966091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5000393008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5000393008",
+      "company": "anthropic",
+      "title": "Finance Systems Integration Engineer",
+      "postedToDiscord": "2026-01-14T07:14:18.687Z",
+      "sourceDate": "2025-12-03T17:01:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
+      "discordThreadId": "1460894770070294693",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5726655004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5726655004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Spanish Speaking",
+      "postedToDiscord": "2026-01-14T07:14:22.148Z",
+      "sourceDate": "2025-12-03T12:12:11-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726655004?gh_jid=5726655004",
+      "discordThreadId": "1460894784750092362",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5725496004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5725496004",
+      "company": "figma",
+      "title": "Marketing Strategy Manager",
+      "postedToDiscord": "2026-01-14T07:14:28.572Z",
+      "sourceDate": "2025-12-03T19:50:28-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725496004?gh_jid=5725496004",
+      "discordThreadId": "1460894812025655453",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8288128002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8288128002",
+      "company": "discord",
+      "title": "Product Manager, Core Product",
+      "postedToDiscord": "2026-01-14T07:14:32.018Z",
+      "sourceDate": "2025-12-03T18:33:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8288128002",
+      "discordThreadId": "1460894826357854342",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4936732008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4936732008",
+      "company": "anthropic",
+      "title": "Global Indirect - Sales Tax & VAT",
+      "postedToDiscord": "2026-01-14T07:14:38.479Z",
+      "sourceDate": "2025-12-03T17:52:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4936732008",
+      "discordThreadId": "1460894853473767621",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1285,
+    "totalJobs": 1295,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T07:02:07.086Z",
+      "date": "2026-01-14T07:14:38.480Z",
       "archived": 0
     }
   }
