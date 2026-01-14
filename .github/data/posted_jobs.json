@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T20:53:44.855Z",
+  "lastUpdated": "2026-01-14T21:07:49.315Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7516179-2026-01-07-1",
-      "jobId": "careers-datadoghq-com-detail-7516179",
-      "company": "datadog",
-      "title": "Regional Manager, Sales Engineer - Key Accounts (East)",
-      "postedToDiscord": "2026-01-07T20:53:56.586Z",
-      "sourceDate": "2026-01-07T15:49:06-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7516179/?gh_jid=7516179",
-      "discordThreadId": "1458564321578844295",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5752684004-2026-01-07-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5752684004",
-      "company": "vercel",
-      "title": "Senior Solutions Engineer",
-      "postedToDiscord": "2026-01-07T20:54:03.168Z",
-      "sourceDate": "2026-01-07T15:45:38-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5752684004",
-      "discordThreadId": "1458564349386821898",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-c754ad8f-20a6-41c6-8d04-a38fff357070-2026-01-07-1",
       "jobId": "jobs-lever-co-spotify-c754ad8f-20a6-41c6-8d04-a38fff357070",
@@ -15731,14 +15709,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933792008",
       "discordThreadId": "1461100987573076160",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4992071008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4992071008",
+      "company": "anthropic",
+      "title": "Product Operations Manager, Research Product ",
+      "postedToDiscord": "2026-01-14T21:07:14.140Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992071008",
+      "discordThreadId": "1461104381586837558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983655008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983655008",
+      "company": "anthropic",
+      "title": "Product Support Manager",
+      "postedToDiscord": "2026-01-14T21:07:17.861Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983655008",
+      "discordThreadId": "1461104396934053938",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4979585008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4979585008",
+      "company": "anthropic",
+      "title": "Product Support Specialist",
+      "postedToDiscord": "2026-01-14T21:07:21.244Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
+      "discordThreadId": "1461104412301725875",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4604015008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4604015008",
+      "company": "anthropic",
+      "title": "Recruiter, AI Research",
+      "postedToDiscord": "2026-01-14T21:07:27.884Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4604015008",
+      "discordThreadId": "1461104439837462722",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980430008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980430008",
+      "company": "anthropic",
+      "title": "Research Engineer, Interpretability",
+      "postedToDiscord": "2026-01-14T21:07:31.547Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+      "discordThreadId": "1461104454815449282",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4990535008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4990535008",
+      "company": "anthropic",
+      "title": "Research Engineer, Model Evaluations",
+      "postedToDiscord": "2026-01-14T21:07:34.897Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990535008",
+      "discordThreadId": "1461104469961080894",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4938432008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4938432008",
+      "company": "anthropic",
+      "title": "Research Engineer, Pretraining Scaling",
+      "postedToDiscord": "2026-01-14T21:07:38.428Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
+      "discordThreadId": "1461104484624105533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980427008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980427008",
+      "company": "anthropic",
+      "title": "Research Scientist, Interpretability",
+      "postedToDiscord": "2026-01-14T21:07:42.159Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
+      "discordThreadId": "1461104499677593850",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4981828008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4981828008",
+      "company": "anthropic",
+      "title": "Senior+ Software Engineer, Research Tools",
+      "postedToDiscord": "2026-01-14T21:07:45.743Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
+      "discordThreadId": "1461104514516914422",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4951696008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951696008",
+      "company": "anthropic",
+      "title": "Senior/Staff Software Engineer, Inference",
+      "postedToDiscord": "2026-01-14T21:07:49.315Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008",
+      "discordThreadId": "1461104530153275701",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1430,
+    "totalJobs": 1438,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T20:53:44.855Z",
+      "date": "2026-01-14T21:07:49.315Z",
       "archived": 0
     }
   }
