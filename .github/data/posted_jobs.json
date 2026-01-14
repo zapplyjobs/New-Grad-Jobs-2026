@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T06:49:10.843Z",
+  "lastUpdated": "2026-01-14T07:02:07.086Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -14026,14 +14026,124 @@
       "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Alexandria/Data-Collections-Specialist_R00111435-1",
       "discordThreadId": "1460888445705785453",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018195008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018195008",
+      "company": "anthropic",
+      "title": "Microsoft GTM Partnership, Enterprise",
+      "postedToDiscord": "2026-01-14T07:01:24.980Z",
+      "sourceDate": "2025-12-04T13:36:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
+      "discordThreadId": "1460891523838382120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015941008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015941008",
+      "company": "anthropic",
+      "title": "Head of Partner Experience & Success",
+      "postedToDiscord": "2026-01-14T07:01:28.521Z",
+      "sourceDate": "2025-12-04T13:34:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015941008",
+      "discordThreadId": "1460891539717750987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5725192004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5725192004",
+      "company": "figma",
+      "title": "Senior CES Operations Manager",
+      "postedToDiscord": "2026-01-14T07:01:32.037Z",
+      "sourceDate": "2025-12-04T11:05:58-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725192004?gh_jid=5725192004",
+      "discordThreadId": "1460891554422980608",
+      "instanceNumber": 1
+    },
+    {
+      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075-2026-01-14-1",
+      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075",
+      "company": "Accenture",
+      "title": "ATC Salesforce Analyst - Nashville",
+      "postedToDiscord": "2026-01-14T07:01:35.886Z",
+      "sourceDate": "2025-12-04T04:36:22.000Z",
+      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075",
+      "discordThreadId": "1460891569367547934",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8323992002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8323992002",
+      "company": "discord",
+      "title": "Senior Product Marketing Manager, Nitro",
+      "postedToDiscord": "2026-01-14T07:01:42.658Z",
+      "sourceDate": "2025-12-04T13:01:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8323992002",
+      "discordThreadId": "1460891597691420809",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-co-golden-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-plastics-upcycling-biorefining_r14058-2026-01-14-1",
+      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-co-golden-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-plastics-upcycling-biorefining_r14058",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-14T07:01:46.066Z",
+      "sourceDate": "2025-12-04T09:36:51.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058",
+      "discordThreadId": "1460891613357150392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gumgum-jobs-7546755003-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-gumgum-jobs-7546755003",
+      "company": "GumGum",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-14T07:01:52.504Z",
+      "sourceDate": "2025-12-04T09:38:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gumgum/jobs/7546755003",
+      "discordThreadId": "1460891640427315211",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-cloud-data-engineer_r0781617-2026-01-14-1",
+      "jobId": "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-cloud-data-engineer_r0781617",
+      "company": "CVS Health",
+      "title": "Associate Cloud Data Engineer",
+      "postedToDiscord": "2026-01-14T07:01:55.857Z",
+      "sourceDate": "2025-12-04T04:50:42.000Z",
+      "sourceUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
+      "discordThreadId": "1460891654969098260",
+      "instanceNumber": 1
+    },
+    {
+      "id": "geha-wd5-myworkdayjobs-com-en-us-gehacareers-job-missouri-remote-associate-analytics-engineer_r-005112-1-2026-01-14-1",
+      "jobId": "geha-wd5-myworkdayjobs-com-en-us-gehacareers-job-missouri-remote-associate-analytics-engineer_r-005112-1",
+      "company": "GEHA",
+      "title": "Associate Analytics Engineer",
+      "postedToDiscord": "2026-01-14T07:02:00.562Z",
+      "sourceDate": "2025-12-04T09:11:53.000Z",
+      "sourceUrl": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005112-1",
+      "discordThreadId": "1460891681770704947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-astranis-jobs-4622097006-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-astranis-jobs-4622097006",
+      "company": "Astranis",
+      "title": "Software Engineer - Backend - Platform",
+      "postedToDiscord": "2026-01-14T07:02:07.085Z",
+      "sourceDate": "2025-12-04T06:49:46.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
+      "discordThreadId": "1460891701345521665",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1275,
+    "totalJobs": 1285,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T06:49:10.843Z",
+      "date": "2026-01-14T07:02:07.086Z",
       "archived": 0
     }
   }
