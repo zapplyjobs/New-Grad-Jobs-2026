@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T19:01:31.292Z",
+  "lastUpdated": "2026-01-14T19:11:03.796Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5057258008-2026-01-07-1",
@@ -14994,14 +14994,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008",
       "discordThreadId": "1461072744048492595",
       "instanceNumber": 1
+    },
+    {
+      "id": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505-2026-01-14-1",
+      "jobId": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505",
+      "company": "Endeavor Health",
+      "title": "Applications Analyst 1",
+      "postedToDiscord": "2026-01-14T19:10:15.233Z",
+      "sourceDate": "2025-11-26T02:47:22.000Z",
+      "sourceUrl": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/Applications-Analyst-I_R36505",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4887952008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4887952008",
+      "company": "anthropic",
+      "title": "IT Systems Engineer",
+      "postedToDiscord": "2026-01-14T19:10:22.306Z",
+      "sourceDate": "2025-11-25T21:30:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
+      "discordThreadId": "1461074970720342104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "edyy-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2002-job-14900-2026-01-14-1",
+      "jobId": "edyy-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2002-job-14900",
+      "company": "Sinclair",
+      "title": "Software Development Engineer - Level 1 - Direct-to-Consumer Streaming",
+      "postedToDiscord": "2026-01-14T19:10:27.281Z",
+      "sourceDate": "2025-11-26T00:26:11.000Z",
+      "sourceUrl": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/14900",
+      "discordThreadId": "1461074987493621933",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4562813008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4562813008",
+      "company": "anthropic",
+      "title": "Application Security Engineering Manager",
+      "postedToDiscord": "2026-01-14T19:10:31.087Z",
+      "sourceDate": "2025-11-25T16:55:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4562813008",
+      "discordThreadId": "1461075008179929395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4897424008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4897424008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Cloud Security",
+      "postedToDiscord": "2026-01-14T19:10:34.856Z",
+      "sourceDate": "2025-11-25T16:54:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
+      "discordThreadId": "1461075024541650944",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-baesystems-com-global-en-job-bae1us118690brexternal-entry-level-software-engineer-2026-01-14-1",
+      "jobId": "jobs-baesystems-com-global-en-job-bae1us118690brexternal-entry-level-software-engineer",
+      "company": "BAE Systems",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-14T19:10:38.546Z",
+      "sourceDate": "2025-11-25T16:26:55.000Z",
+      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US118690BREXTERNAL/Entry-Level-Software-Engineer",
+      "discordThreadId": "1461075040589054074",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8330-2026-01-14-1",
+      "jobId": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8330",
+      "company": "Fortive",
+      "title": "Operations Analyst",
+      "postedToDiscord": "2026-01-14T19:10:47.259Z",
+      "sourceDate": "2025-11-26T02:18:00.000Z",
+      "sourceUrl": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8330",
+      "discordThreadId": "1461075068380778702",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-thealleninstitute-jobs-7417128-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-thealleninstitute-jobs-7417128",
+      "company": "The Allen Institute for AI",
+      "title": "Young Investigator - Flexolmo",
+      "postedToDiscord": "2026-01-14T19:10:53.797Z",
+      "sourceDate": "2025-11-25T23:08:34.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128",
+      "discordThreadId": "1461075104728617123",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-2192a283-7051-43e8-a83b-1ca75d240c00-2026-01-14-1",
+      "jobId": "jobs-lever-co-nominal-2192a283-7051-43e8-a83b-1ca75d240c00",
+      "company": "nominal",
+      "title": "Brand Designer",
+      "postedToDiscord": "2026-01-14T19:10:57.274Z",
+      "sourceDate": "2025-11-25T16:23:57.548Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/2192a283-7051-43e8-a83b-1ca75d240c00",
+      "discordThreadId": "1461075119505015000",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8304667002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8304667002",
+      "company": "discord",
+      "title": "Software Engineer, Payments",
+      "postedToDiscord": "2026-01-14T19:11:03.795Z",
+      "sourceDate": "2025-11-25T17:44:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8304667002",
+      "discordThreadId": "1461075146407415820",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1363,
+    "totalJobs": 1373,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T19:01:31.292Z",
+      "date": "2026-01-14T19:11:03.796Z",
       "archived": 0
     }
   }
