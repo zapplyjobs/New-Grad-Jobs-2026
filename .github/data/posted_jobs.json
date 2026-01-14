@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T00:49:22.585Z",
+  "lastUpdated": "2026-01-14T01:18:11.605Z",
   "jobs": [
-    {
-      "id": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121-2026-01-07-1",
-      "jobId": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121",
-      "company": "Airgas",
-      "title": "Vie – Research Associate - m/f/d",
-      "postedToDiscord": "2026-01-07T01:15:10.861Z",
-      "sourceDate": "2025-12-17T23:39:09.000Z",
-      "sourceUrl": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD/VIE---Research-Associate--M-F-D-_R10082121",
-      "discordThreadId": "1458267676609871958",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8362863002-2026-01-07-1",
-      "jobId": "careers-duolingo-com-jobs-8362863002",
-      "company": "duolingo",
-      "title": "Senior Android Engineer",
-      "postedToDiscord": "2026-01-07T01:15:14.246Z",
-      "sourceDate": "2026-01-06T20:06:59-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8362863002?gh_jid=8362863002",
-      "discordThreadId": "1458267691545792564",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297-2026-01-07-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297",
-      "company": "Northrop Grumman",
-      "title": "Space Payload 1&T – Engineer/Principal Engineer",
-      "postedToDiscord": "2026-01-07T01:15:17.603Z",
-      "sourceDate": "2026-01-07T00:11:09.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10218297",
-      "discordThreadId": "1458267705353310431",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-engineer_r0151272-2026-01-07-1",
-      "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-engineer_r0151272",
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-07T01:15:20.991Z",
-      "sourceDate": "2026-01-06T23:32:36.000Z",
-      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0151272",
-      "discordThreadId": "1458267719882379304",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5055600008-2026-01-07-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055600008",
-      "company": "anthropic",
-      "title": "Product Designer, Enterprise ",
-      "postedToDiscord": "2026-01-07T01:15:27.522Z",
-      "sourceDate": "2026-01-06T19:45:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055600008",
-      "discordThreadId": "1458267746671267861",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-cloudflare-jobs-7514944-2026-01-07-1",
       "jobId": "boards-greenhouse-io-cloudflare-jobs-7514944",
@@ -12068,14 +12013,135 @@
       "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Applied-Scientist---AI---Robotics--PhD----Early-Career_JR-202523975",
       "discordThreadId": "1460797898131378253",
       "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-en-us-external-job-us-md-hanover-data-dictionary-software-engineer-1_320288-2026-01-14-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-en-us-external-job-us-md-hanover-data-dictionary-software-engineer-1_320288",
+      "company": "CACI",
+      "title": "Data Dictionary Software Engineer 1",
+      "postedToDiscord": "2026-01-14T01:17:30.379Z",
+      "sourceDate": "2025-12-10T18:20:36.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288",
+      "discordThreadId": "1460804977218949302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-baselayer-jobs-5023884008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-baselayer-jobs-5023884008",
+      "company": "Baselayer",
+      "title": "Junior Backend Engineer",
+      "postedToDiscord": "2026-01-14T01:17:33.944Z",
+      "sourceDate": "2025-12-10T18:17:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/baselayer/jobs/5023884008",
+      "discordThreadId": "1460804991811063891",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8328684002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8328684002",
+      "company": "Twitch",
+      "title": "Software Engineer I, Frontend",
+      "postedToDiscord": "2026-01-14T01:17:37.611Z",
+      "sourceDate": "2025-12-10T18:16:59.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8328684002",
+      "discordThreadId": "1460805006893518964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8329910002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8329910002",
+      "company": "Twitch",
+      "title": "Software Engineer I, Frontend",
+      "postedToDiscord": "2026-01-14T01:17:37.622Z",
+      "sourceDate": "2025-12-10T18:16:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8329910002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "synthomer-wd3-myworkdayjobs-com-synthomercareers-job-us-oh-akron-atc-scientist-akron-technical-center-onsite_r6616-2026-01-14-1",
+      "jobId": "synthomer-wd3-myworkdayjobs-com-synthomercareers-job-us-oh-akron-atc-scientist-akron-technical-center-onsite_r6616",
+      "company": "Synthomer",
+      "title": "Scientist – Akron Technical Center",
+      "postedToDiscord": "2026-01-14T01:17:41.220Z",
+      "sourceDate": "2025-12-10T16:38:54.000Z",
+      "sourceUrl": "https://synthomer.wd3.myworkdayjobs.com/synthomercareers/job/US-OH-Akron-ATC/Scientist---Akron-Technical-Center---Onsite_R6616",
+      "discordThreadId": "1460805021942943786",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014038-2026-01-14-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014038",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 4",
+      "postedToDiscord": "2026-01-14T01:17:47.790Z",
+      "sourceDate": "2025-12-10T18:15:13.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038",
+      "discordThreadId": "1460805050300367065",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iii_r0014033-2026-01-14-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iii_r0014033",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 3",
+      "postedToDiscord": "2026-01-14T01:17:51.441Z",
+      "sourceDate": "2025-12-10T16:44:42.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033",
+      "discordThreadId": "1460805064812789973",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-danforth-campus-postdoctoral-research-associate-physics_jr91660-2026-01-14-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-danforth-campus-postdoctoral-research-associate-physics_jr91660",
+      "company": "Wash U",
+      "title": "Postdoctoral Research Associate - Physics",
+      "postedToDiscord": "2026-01-14T01:17:57.949Z",
+      "sourceDate": "2025-12-10T16:58:21.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR91660",
+      "discordThreadId": "1460805093036396666",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-7032c810-478c-42fc-9807-25553e978343-2026-01-14-1",
+      "jobId": "jobs-lever-co-spotify-7032c810-478c-42fc-9807-25553e978343",
+      "company": "spotify",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-14T01:18:01.568Z",
+      "sourceDate": "2025-12-10T16:38:48.335Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343",
+      "discordThreadId": "1460805107317739714",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-79fc1e54-c553-4858-b3a5-4fd3cf2d1ebc-2026-01-14-1",
+      "jobId": "jobs-lever-co-spotify-79fc1e54-c553-4858-b3a5-4fd3cf2d1ebc",
+      "company": "spotify",
+      "title": "Backend Engineer",
+      "postedToDiscord": "2026-01-14T01:18:05.214Z",
+      "sourceDate": "2025-12-10T16:29:44.470Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/79fc1e54-c553-4858-b3a5-4fd3cf2d1ebc",
+      "discordThreadId": "1460805122475954359",
+      "instanceNumber": 1
+    },
+    {
+      "id": "axos-wd5-myworkdayjobs-com-axos-job-hq-san-diego-ca-jr-business-technology-analyst-data-scientist-machine-learning-engineer_jr3704-2026-01-14-1",
+      "jobId": "axos-wd5-myworkdayjobs-com-axos-job-hq-san-diego-ca-jr-business-technology-analyst-data-scientist-machine-learning-engineer_jr3704",
+      "company": "Axos Bank",
+      "title": "Junior Business & Technology Analyst",
+      "postedToDiscord": "2026-01-14T01:18:11.605Z",
+      "sourceDate": "2025-12-10T16:49:38.000Z",
+      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Jr-Business---Technology-Analyst---Data-Scientist---Machine-Learning-Engineer_JR3704",
+      "discordThreadId": "1460805150196105329",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1097,
+    "totalJobs": 1103,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T00:49:22.585Z",
+      "date": "2026-01-14T01:18:11.605Z",
       "archived": 0
     }
   }
