@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T18:29:02.439Z",
+  "lastUpdated": "2026-01-14T18:48:20.713Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5735636004-2026-01-07-1",
@@ -14884,14 +14884,80 @@
       "sourceUrl": "https://jobs.ashbyhq.com/reevo/2a1f4f7f-86d3-41f4-bda1-3867ff82eb0d/application",
       "discordThreadId": "1461064571078049793",
       "instanceNumber": 1
+    },
+    {
+      "id": "cisive-wd108-myworkdayjobs-com-cisive-job-remote-maryland-software-developer_jr100117-1-2026-01-14-1",
+      "jobId": "cisive-wd108-myworkdayjobs-com-cisive-job-remote-maryland-software-developer_jr100117-1",
+      "company": "Cisive",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-14T18:47:59.910Z",
+      "sourceDate": "2025-11-28T03:27:00.000Z",
+      "sourceUrl": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-applytotruebuilt-jobs-4588866004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-applytotruebuilt-jobs-4588866004",
+      "company": "TrueBuilt",
+      "title": "Founding Engineer",
+      "postedToDiscord": "2026-01-14T18:48:03.534Z",
+      "sourceDate": "2025-11-26T23:12:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004",
+      "discordThreadId": "1461069356564746385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-trueanomalyinc-jobs-4992058007-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-trueanomalyinc-jobs-4992058007",
+      "company": "True Anomaly",
+      "title": "Front End Software Engineer 1",
+      "postedToDiscord": "2026-01-14T18:48:06.969Z",
+      "sourceDate": "2025-11-26T10:42:01.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992058007",
+      "discordThreadId": "1461069372087865365",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-tmi-agentic-ai-texas-materials-institute-cockrell-school-of-engineering_r_00043444-2026-01-14-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-tmi-agentic-ai-texas-materials-institute-cockrell-school-of-engineering_r_00043444",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow - Agentic AI",
+      "postedToDiscord": "2026-01-14T18:48:13.607Z",
+      "sourceDate": "2025-11-27T01:51:43.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---TMI--Agentic-AI--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043444",
+      "discordThreadId": "1461069399170482320",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-uareai-jobs-4036519009-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-uareai-jobs-4036519009",
+      "company": "Uare.ai",
+      "title": "Software Engineer – Early Career",
+      "postedToDiscord": "2026-01-14T18:48:17.184Z",
+      "sourceDate": "2025-11-26T23:10:02.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
+      "discordThreadId": "1461069414609850651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-ce5934cb-6be9-478c-a856-49b8189d87e2-2026-01-14-1",
+      "jobId": "jobs-lever-co-spotify-ce5934cb-6be9-478c-a856-49b8189d87e2",
+      "company": "spotify",
+      "title": "2026 Summer Internship, Research Scientist - PhD (New York City)",
+      "postedToDiscord": "2026-01-14T18:48:20.713Z",
+      "sourceDate": "2025-11-26T18:30:55.209Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/ce5934cb-6be9-478c-a856-49b8189d87e2",
+      "discordThreadId": "1461069429080330251",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1353,
+    "totalJobs": 1359,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T18:29:02.439Z",
+      "date": "2026-01-14T18:48:20.713Z",
       "archived": 0
     }
   }
