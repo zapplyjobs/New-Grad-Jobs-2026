@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T07:27:41.068Z",
+  "lastUpdated": "2026-01-14T07:44:03.676Z",
   "jobs": [
-    {
-      "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
-      "jobId": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder",
-      "company": "Amazon",
-      "title": "Software Engineer 1 - Builder",
-      "postedToDiscord": "2026-01-07T07:41:47.919Z",
-      "sourceDate": "2026-01-07T07:08:44.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
-      "discordThreadId": "1458364972550590514",
-      "instanceNumber": 1
-    },
     {
       "id": "www-samsara-com-company-careers-roles-7484594-2026-01-07-1",
       "jobId": "www-samsara-com-company-careers-roles-7484594",
@@ -14356,14 +14345,124 @@
       "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193",
       "discordThreadId": "1460898135323705457",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-commercearchitects-ec4bd3b5-3219-4524-805a-d9dff354c5ec-apply-2026-01-14-1",
+      "jobId": "jobs-lever-co-commercearchitects-ec4bd3b5-3219-4524-805a-d9dff354c5ec-apply",
+      "company": "Commerce Architects",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-14T07:43:21.386Z",
+      "sourceDate": "2025-12-03T02:12:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-fermat-6a40e7b5-d9bb-40a6-8b5e-cdcf566d60f1-application-2026-01-14-1",
+      "jobId": "jobs-ashbyhq-com-fermat-6a40e7b5-d9bb-40a6-8b5e-cdcf566d60f1-application",
+      "company": "Fermat",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-14T07:43:24.908Z",
+      "sourceDate": "2025-12-03T02:08:55.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/fermat/6a40e7b5-d9bb-40a6-8b5e-cdcf566d60f1/application",
+      "discordThreadId": "1460902094260404404",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4622541006-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4622541006",
+      "company": "mthree",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-14T07:43:28.431Z",
+      "sourceDate": "2025-12-03T01:35:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006",
+      "discordThreadId": "1460902109045198849",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-permitflow-7fab96f1-04a1-4c33-81d5-f254271c83b6-application-2026-01-14-1",
+      "jobId": "jobs-ashbyhq-com-permitflow-7fab96f1-04a1-4c33-81d5-f254271c83b6-application",
+      "company": "PermitFlow",
+      "title": "Full Stack Software Engineer Graduate",
+      "postedToDiscord": "2026-01-14T07:43:31.913Z",
+      "sourceDate": "2025-12-02T23:14:47.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/permitflow/7fab96f1-04a1-4c33-81d5-f254271c83b6/application",
+      "discordThreadId": "1460902123763011677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-zip-482e918e-411c-481f-94d4-e4c4db36a7f3-application-2026-01-14-1",
+      "jobId": "jobs-ashbyhq-com-zip-482e918e-411c-481f-94d4-e4c4db36a7f3-application",
+      "company": "Zip",
+      "title": "Software Engineer – New Grad - 2026 Start",
+      "postedToDiscord": "2026-01-14T07:43:35.536Z",
+      "sourceDate": "2025-12-02T23:10:45.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/zip/482e918e-411c-481f-94d4-e4c4db36a7f3/application",
+      "discordThreadId": "1460902138329825403",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003893-2026-01-14-1",
+      "jobId": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003893",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Tech 1 – Mapping",
+      "postedToDiscord": "2026-01-14T07:43:39.174Z",
+      "sourceDate": "2025-12-02T23:04:39.000Z",
+      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893",
+      "discordThreadId": "1460902153802485801",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5726175004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5726175004",
+      "company": "figma",
+      "title": "Inside Sales Representative - Early Career (2026)",
+      "postedToDiscord": "2026-01-14T07:43:45.741Z",
+      "sourceDate": "2025-12-02T20:29:41-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726175004?gh_jid=5726175004",
+      "discordThreadId": "1460902181619241113",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-sagesure-com-careers-current-job-openings-2026-01-14-1",
+      "jobId": "www-sagesure-com-careers-current-job-openings",
+      "company": "SageSure",
+      "title": "Associate Data Analyst",
+      "postedToDiscord": "2026-01-14T07:43:52.290Z",
+      "sourceDate": "2025-12-03T01:12:26.000Z",
+      "sourceUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4620339006",
+      "discordThreadId": "1460902209200848992",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motional-com-open-positions-2026-01-14-1",
+      "jobId": "motional-com-open-positions",
+      "company": "Motional",
+      "title": "Machine Learning Engineer - Prediction",
+      "postedToDiscord": "2026-01-14T07:44:00.163Z",
+      "sourceDate": "2025-12-03T00:41:07.000Z",
+      "sourceUrl": "https://motional.com/open-positions/?gh_jid=7545187003#/7545187003",
+      "discordThreadId": "1460902236816150629",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-regalvoice-a0291985-c8cf-41f4-88c1-3a150d1aeb24-apply-2026-01-14-1",
+      "jobId": "jobs-lever-co-regalvoice-a0291985-c8cf-41f4-88c1-3a150d1aeb24-apply",
+      "company": "Regal",
+      "title": "AI Product Specialist",
+      "postedToDiscord": "2026-01-14T07:44:03.676Z",
+      "sourceDate": "2025-12-02T23:16:53.000Z",
+      "sourceUrl": "https://jobs.lever.co/regalvoice/a0291985-c8cf-41f4-88c1-3a150d1aeb24/apply",
+      "discordThreadId": "1460902256873312276",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1305,
+    "totalJobs": 1314,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T07:27:41.068Z",
+      "date": "2026-01-14T07:44:03.676Z",
       "archived": 0
     }
   }
