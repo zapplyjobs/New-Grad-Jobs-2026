@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T02:52:04.178Z",
+  "lastUpdated": "2026-01-14T03:36:53.621Z",
   "jobs": [
-    {
-      "id": "kla-wd1-myworkdayjobs-com-search-job-totowa-nj-analytical-chemist_2533379-1-2026-01-07-1",
-      "jobId": "kla-wd1-myworkdayjobs-com-search-job-totowa-nj-analytical-chemist_2533379-1",
-      "company": "KLA Corporation",
-      "title": "Analytical Chemist",
-      "postedToDiscord": "2026-01-07T03:22:09.804Z",
-      "sourceDate": "2026-01-07T02:11:09.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Analytical-Chemist_2533379-1",
-      "discordThreadId": "1458299632882028547",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-kci-icims-com-jobs-7323-job-2026-01-07-1",
       "jobId": "careers-kci-icims-com-jobs-7323-job",
@@ -12563,14 +12552,234 @@
       "sourceUrl": "https://www.brex.com/careers/8245282002?gh_jid=8245282002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8307799002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8307799002",
+      "company": "brex",
+      "title": "Mid-Market Customer Success Manager",
+      "postedToDiscord": "2026-01-14T03:36:29.770Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8307799002?gh_jid=8307799002",
+      "discordThreadId": "1460839955168235614",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8307850002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8307850002",
+      "company": "brex",
+      "title": "Mid-Market Customer Success Manager",
+      "postedToDiscord": "2026-01-14T03:36:29.786Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8307850002?gh_jid=8307850002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8307843002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8307843002",
+      "company": "brex",
+      "title": "Mid-Market Customer Success Manager",
+      "postedToDiscord": "2026-01-14T03:36:29.794Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8307843002?gh_jid=8307843002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8307841002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8307841002",
+      "company": "brex",
+      "title": "Mid-Market Customer Success Manager",
+      "postedToDiscord": "2026-01-14T03:36:29.802Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8307841002?gh_jid=8307841002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8007563002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8007563002",
+      "company": "brex",
+      "title": "Outbound Sales Development Representative",
+      "postedToDiscord": "2026-01-14T03:36:33.330Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8007563002?gh_jid=8007563002",
+      "discordThreadId": "1460839970053951519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8159838002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8159838002",
+      "company": "brex",
+      "title": "Outbound Sales Development Representative",
+      "postedToDiscord": "2026-01-14T03:36:33.339Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8159838002?gh_jid=8159838002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8007648002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8007648002",
+      "company": "brex",
+      "title": "Outbound Sales Development Representative",
+      "postedToDiscord": "2026-01-14T03:36:33.347Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8007648002?gh_jid=8007648002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8196892002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8196892002",
+      "company": "brex",
+      "title": "Product and Regulatory Counsel",
+      "postedToDiscord": "2026-01-14T03:36:36.900Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8196892002?gh_jid=8196892002",
+      "discordThreadId": "1460839984691941431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8196885002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8196885002",
+      "company": "brex",
+      "title": "Product and Regulatory Counsel",
+      "postedToDiscord": "2026-01-14T03:36:36.910Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8196885002?gh_jid=8196885002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7934899002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-7934899002",
+      "company": "brex",
+      "title": "Product and Regulatory Counsel",
+      "postedToDiscord": "2026-01-14T03:36:36.919Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7934899002?gh_jid=7934899002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8196889002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8196889002",
+      "company": "brex",
+      "title": "Product and Regulatory Counsel",
+      "postedToDiscord": "2026-01-14T03:36:36.927Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8196889002?gh_jid=8196889002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8148601002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8148601002",
+      "company": "brex",
+      "title": "Sales Manager, Startups",
+      "postedToDiscord": "2026-01-14T03:36:40.510Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8148601002?gh_jid=8148601002",
+      "discordThreadId": "1460840000076648531",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8148593002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8148593002",
+      "company": "brex",
+      "title": "Sales Manager, Startups",
+      "postedToDiscord": "2026-01-14T03:36:40.520Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8148593002?gh_jid=8148593002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8324879002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8324879002",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-14T03:36:47.087Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324879002?gh_jid=8324879002",
+      "discordThreadId": "1460840027469910042",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8324890002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8324890002",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-14T03:36:47.095Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324890002?gh_jid=8324890002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8324893002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8324893002",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-14T03:36:47.104Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324893002?gh_jid=8324893002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8324892002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8324892002",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-14T03:36:47.112Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324892002?gh_jid=8324892002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8249658002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8249658002",
+      "company": "brex",
+      "title": "Senior Application Security Engineer",
+      "postedToDiscord": "2026-01-14T03:36:53.602Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8249658002?gh_jid=8249658002",
+      "discordThreadId": "1460840055160574027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8249885002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8249885002",
+      "company": "brex",
+      "title": "Senior Application Security Engineer",
+      "postedToDiscord": "2026-01-14T03:36:53.611Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8249885002?gh_jid=8249885002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8249884002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8249884002",
+      "company": "brex",
+      "title": "Senior Application Security Engineer",
+      "postedToDiscord": "2026-01-14T03:36:53.621Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8249884002?gh_jid=8249884002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1142,
+    "totalJobs": 1161,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T02:52:04.178Z",
+      "date": "2026-01-14T03:36:53.621Z",
       "archived": 0
     }
   }
