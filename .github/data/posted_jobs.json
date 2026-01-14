@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T08:07:56.779Z",
+  "lastUpdated": "2026-01-14T08:28:14.493Z",
   "jobs": [
     {
       "id": "magnoliamanorgreenville-careers-fundltc-icims-com-jobs-2057-job-2026-01-07-1",
@@ -14642,14 +14642,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
       "discordThreadId": "1460908267755671698",
       "instanceNumber": 1
+    },
+    {
+      "id": "onelineage-wd1-myworkdayjobs-com-external-job-novi-mi-humboldt-drive-associate-report-developer_r0097857-2026-01-14-1",
+      "jobId": "onelineage-wd1-myworkdayjobs-com-external-job-novi-mi-humboldt-drive-associate-report-developer_r0097857",
+      "company": "Lineage Logistics",
+      "title": "Associate Report Developer",
+      "postedToDiscord": "2026-01-14T08:27:32.601Z",
+      "sourceDate": "2025-12-02T04:56:10.000Z",
+      "sourceUrl": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-whoop-e52bfb59-5a57-4e23-9991-88ef1b3dd745-apply-2026-01-14-1",
+      "jobId": "jobs-lever-co-whoop-e52bfb59-5a57-4e23-9991-88ef1b3dd745-apply",
+      "company": "Whoop",
+      "title": "Software Engineer 1 - Fullstack - Hardware Accelerate",
+      "postedToDiscord": "2026-01-14T08:27:36.223Z",
+      "sourceDate": "2025-12-01T16:23:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/whoop/e52bfb59-5a57-4e23-9991-88ef1b3dd745/apply",
+      "discordThreadId": "1460913214433787925",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-espx-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2418409-2026-01-14-1",
+      "jobId": "fa-espx-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2418409",
+      "company": "Cummins",
+      "title": "AI/ML Systems Engineer",
+      "postedToDiscord": "2026-01-14T08:27:39.890Z",
+      "sourceDate": "2025-12-01T16:22:39.000Z",
+      "sourceUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409",
+      "discordThreadId": "1460913229482954866",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25028581-2026-01-14-1",
+      "jobId": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25028581",
+      "company": "Emerson Electric",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-14T08:27:43.735Z",
+      "sourceDate": "2025-12-01T16:20:59.000Z",
+      "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028581",
+      "discordThreadId": "1460913244762800211",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-affirm-jobs-7485068003-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-affirm-jobs-7485068003",
+      "company": "Affirm",
+      "title": "Software Engineer, Early Career",
+      "postedToDiscord": "2026-01-14T08:27:47.210Z",
+      "sourceDate": "2025-12-01T15:55:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
+      "discordThreadId": "1460913261066321951",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-stratacareers-jobs-7542763003-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-stratacareers-jobs-7542763003",
+      "company": "Strata Decision Technology",
+      "title": "Analyst – Data Integration",
+      "postedToDiscord": "2026-01-14T08:27:51.014Z",
+      "sourceDate": "2025-12-01T06:03:18.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
+      "discordThreadId": "1460913275628949545",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd3-myworkdaysite-com-recruiting-magna-magna-job-northwood-ohio-us-data-analyst_r00221046-2026-01-14-1",
+      "jobId": "wd3-myworkdaysite-com-recruiting-magna-magna-job-northwood-ohio-us-data-analyst_r00221046",
+      "company": "Magna",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-14T08:27:57.704Z",
+      "sourceDate": "2025-12-02T02:26:36.000Z",
+      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046",
+      "discordThreadId": "1460913303890170029",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5676402004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5676402004",
+      "company": "vercel",
+      "title": "Director, Technical Accounting & Financial Reporting",
+      "postedToDiscord": "2026-01-14T08:28:04.281Z",
+      "sourceDate": "2025-12-01T12:16:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
+      "discordThreadId": "1460913332163842059",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-daa7807b-4822-453e-94a7-2ccc1d9e90ae-2026-01-14-1",
+      "jobId": "jobs-lever-co-spotify-daa7807b-4822-453e-94a7-2ccc1d9e90ae",
+      "company": "spotify",
+      "title": "Machine Learning Engineering Manager II",
+      "postedToDiscord": "2026-01-14T08:28:10.875Z",
+      "sourceDate": "2025-12-01T15:48:49.889Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/daa7807b-4822-453e-94a7-2ccc1d9e90ae",
+      "discordThreadId": "1460913359821078600",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-uncertainty-quantification-and-modeling-of-large-scale-dynamics-in-networks_420061-2026-01-14-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-uncertainty-quantification-and-modeling-of-large-scale-dynamics-in-networks_420061",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee",
+      "postedToDiscord": "2026-01-14T08:28:14.493Z",
+      "sourceDate": "2025-12-01T05:15:47.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061",
+      "discordThreadId": "1460913374635491384",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1331,
+    "totalJobs": 1341,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T08:07:56.779Z",
+      "date": "2026-01-14T08:28:14.493Z",
       "archived": 0
     }
   }
