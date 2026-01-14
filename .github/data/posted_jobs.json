@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T05:13:58.474Z",
+  "lastUpdated": "2026-01-14T05:27:28.499Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -13366,14 +13366,124 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728959004?gh_jid=5728959004",
       "discordThreadId": "1460864480803033312",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-jensenhughes-jobs-4932805008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-jensenhughes-jobs-4932805008",
+      "company": "Jensen Hughes",
+      "title": "Associate Nuclear Consultant/Engineer",
+      "postedToDiscord": "2026-01-14T05:26:48.546Z",
+      "sourceDate": "2025-12-09T21:25:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/jensenhughes/jobs/4932805008",
+      "discordThreadId": "1460867716192931895",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464-2026-01-14-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464",
+      "company": "NVIDIA",
+      "title": "Research Scientist, Embodied and Agentic AI",
+      "postedToDiscord": "2026-01-14T05:26:51.990Z",
+      "sourceDate": "2025-12-09T14:05:13.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+      "discordThreadId": "1460867730906284156",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wyetechllc-c1b8f940-b5ab-4647-832f-f8cdb3c360fa-2026-01-14-1",
+      "jobId": "jobs-lever-co-wyetechllc-c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
+      "company": "Wyetech",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-14T05:26:57.706Z",
+      "sourceDate": "2025-12-09T14:04:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
+      "discordThreadId": "1460867745838010444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4996752008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4996752008",
+      "company": "anthropic",
+      "title": "Product Marketing Manager, Claude Code",
+      "postedToDiscord": "2026-01-14T05:27:04.207Z",
+      "sourceDate": "2025-12-09T14:19:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
+      "discordThreadId": "1460867782118867238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946306008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946306008",
+      "company": "anthropic",
+      "title": "Research Operations & Strategy Lead, Coding & Cybersecurity Data",
+      "postedToDiscord": "2026-01-14T05:27:11.040Z",
+      "sourceDate": "2025-12-09T13:43:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946306008",
+      "discordThreadId": "1460867809302286406",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946314008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946314008",
+      "company": "anthropic",
+      "title": "Data Operations Manager, Computer Use & Tool Use",
+      "postedToDiscord": "2026-01-14T05:27:14.498Z",
+      "sourceDate": "2025-12-09T13:43:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
+      "discordThreadId": "1460867825307619431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sec-wd3-myworkdayjobs-com-en-us-samsung_careers-job-6625-excellence-way-plano-tx-usa-software-quality-assurance-associate_r111947-2026-01-14-1",
+      "jobId": "sec-wd3-myworkdayjobs-com-en-us-samsung_careers-job-6625-excellence-way-plano-tx-usa-software-quality-assurance-associate_r111947",
+      "company": "Samsung",
+      "title": "Software Quality Assurance Associate",
+      "postedToDiscord": "2026-01-14T05:27:18.002Z",
+      "sourceDate": "2025-12-09T14:03:16.000Z",
+      "sourceUrl": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Software-Quality-Assurance-Associate_R111947",
+      "discordThreadId": "1460867839727767655",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003-2026-01-14-1",
+      "jobId": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003",
+      "company": "Samsung",
+      "title": "Staff Engineer I, Software Process Engineering",
+      "postedToDiscord": "2026-01-14T05:27:21.456Z",
+      "sourceDate": "2025-12-09T14:02:19.000Z",
+      "sourceUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003",
+      "discordThreadId": "1460867854093258941",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aspentech-wd5-myworkdayjobs-com-en-us-aspentech-job-bedford-massachusetts-software-developer-i_r8120-2026-01-14-1",
+      "jobId": "aspentech-wd5-myworkdayjobs-com-en-us-aspentech-job-bedford-massachusetts-software-developer-i_r8120",
+      "company": "AspenTech",
+      "title": "Software Developer I",
+      "postedToDiscord": "2026-01-14T05:27:24.981Z",
+      "sourceDate": "2025-12-09T13:59:46.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Bedford-Massachusetts/Software-Developer-I_R8120",
+      "discordThreadId": "1460867869016330292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-magical-2c4734af-1ca2-423a-bb4e-29a7da894249-2026-01-14-1",
+      "jobId": "jobs-ashbyhq-com-magical-2c4734af-1ca2-423a-bb4e-29a7da894249",
+      "company": "Magical",
+      "title": "Junior Software Engineer, AI",
+      "postedToDiscord": "2026-01-14T05:27:28.499Z",
+      "sourceDate": "2025-12-09T13:52:25.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249",
+      "discordThreadId": "1460867883830739078",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1215,
+    "totalJobs": 1225,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T05:13:58.474Z",
+      "date": "2026-01-14T05:27:28.499Z",
       "archived": 0
     }
   }
