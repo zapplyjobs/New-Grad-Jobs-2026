@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T17:01:34.070Z",
+  "lastUpdated": "2026-01-14T17:27:17.020Z",
   "jobs": [
-    {
-      "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485-2026-01-07-1",
-      "jobId": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485",
-      "company": "EXL",
-      "title": "Healthcare Analyst",
-      "postedToDiscord": "2026-01-07T17:09:56.268Z",
-      "sourceDate": "2026-01-07T16:25:09.000Z",
-      "sourceUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8485",
-      "discordThreadId": "1458507956550107279",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-inc-nttdata-com-job-louisville-bpo-application-support-health-ky-40201-1354060400-2026-01-07-1",
-      "jobId": "careers-inc-nttdata-com-job-louisville-bpo-application-support-health-ky-40201-1354060400",
-      "company": "NTT Data",
-      "title": "BPO-Application Support-Health",
-      "postedToDiscord": "2026-01-07T17:10:02.798Z",
-      "sourceDate": "2026-01-07T16:19:26.000Z",
-      "sourceUrl": "https://careers-inc.nttdata.com/job/Louisville-BPO-Application-Support-Health-KY-40201/1354060400/?ats=successfactors",
-      "discordThreadId": "1458507976586301574",
-      "instanceNumber": 1
-    },
-    {
-      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmn01-sis-sensors-burnsville-14300-judicial-rd-burnsville-mn-55306-usa-software-engineer-i-hybrid-_01810300-2026-01-07-1",
-      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmn01-sis-sensors-burnsville-14300-judicial-rd-burnsville-mn-55306-usa-software-engineer-i-hybrid-_01810300",
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-07T17:10:09.443Z",
-      "sourceDate": "2026-01-07T16:17:37.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I--Hybrid-_01810300",
-      "discordThreadId": "1458508004113518672",
-      "instanceNumber": 1
-    },
     {
       "id": "okgov-wd1-myworkdayjobs-com-okgovjobs-job-oklahoma-county-environmental-programs-specialist_jr54578-2026-01-07-1",
       "jobId": "okgov-wd1-myworkdayjobs-com-okgovjobs-job-oklahoma-county-environmental-programs-specialist_jr54578",
@@ -14873,15 +14840,27 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
       "discordThreadId": "1461042557663318121",
       "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-research-engineering-scientist-associate-i-ii-or-iii_r_00040412-2026-01-14-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-research-engineering-scientist-associate-i-ii-or-iii_r_00040412",
+      "company": "University of Texas - Austin",
+      "title": "Research Engineering/Scientist Associate 1",
+      "postedToDiscord": "2026-01-14T17:27:17.019Z",
+      "sourceDate": "2025-11-30T23:35:23.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412",
+      "discordThreadId": "1461049029537562808",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1352,
+    "totalJobs": 1350,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T17:01:34.070Z",
-      "archived": 0
+      "date": "2026-01-14T17:27:17.020Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
