@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T07:53:42.379Z",
+  "lastUpdated": "2026-01-14T08:07:56.779Z",
   "jobs": [
     {
       "id": "magnoliamanorgreenville-careers-fundltc-icims-com-jobs-2057-job-2026-01-07-1",
@@ -14554,14 +14554,102 @@
       "sourceUrl": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer--ML-Training-Data_JR5230",
       "discordThreadId": "1460904683777560649",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-amplitude-jobs-8224986002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-amplitude-jobs-8224986002",
+      "company": "Amplitude",
+      "title": "Software Engineer 1 - Data Warehouse",
+      "postedToDiscord": "2026-01-14T08:07:16.666Z",
+      "sourceDate": "2025-12-02T02:39:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/amplitude/jobs/8224986002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "zetaglobal-com-jobs-jobs-at-zeta-global-2026-01-14-1",
+      "jobId": "zetaglobal-com-jobs-jobs-at-zeta-global",
+      "company": "Zeta Global",
+      "title": "Associate – Data Cloud Solutions",
+      "postedToDiscord": "2026-01-14T08:07:20.167Z",
+      "sourceDate": "2025-12-02T01:39:41.000Z",
+      "sourceUrl": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
+      "discordThreadId": "1460908114349129749",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nexthopai-bamboohr-com-careers-24-2026-01-14-1",
+      "jobId": "nexthopai-bamboohr-com-careers-24",
+      "company": "Nexthop.ai",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-14T08:07:23.596Z",
+      "sourceDate": "2025-12-01T23:10:05.000Z",
+      "sourceUrl": "https://nexthopai.bamboohr.com/careers/24/",
+      "discordThreadId": "1460908128789987451",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cisco-com-global-en-job-2000087-2026-01-14-1",
+      "jobId": "careers-cisco-com-global-en-job-2000087",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack & Application Development 1",
+      "postedToDiscord": "2026-01-14T08:07:27.133Z",
+      "sourceDate": "2025-12-01T23:09:34.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2000087",
+      "discordThreadId": "1460908143708995584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5722244004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5722244004",
+      "company": "figma",
+      "title": "Manager, Software Engineering - Billing",
+      "postedToDiscord": "2026-01-14T08:07:30.677Z",
+      "sourceDate": "2025-12-01T13:41:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004",
+      "discordThreadId": "1460908158146052167",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8305665002-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8305665002",
+      "company": "discord",
+      "title": "Director, Global Payments Strategy and Operations",
+      "postedToDiscord": "2026-01-14T08:07:43.544Z",
+      "sourceDate": "2025-12-01T20:35:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
+      "discordThreadId": "1460908212420349994",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ion-2b8f5185-70e2-4c73-8c85-3a961af411fd-apply-2026-01-14-1",
+      "jobId": "jobs-lever-co-ion-2b8f5185-70e2-4c73-8c85-3a961af411fd-apply",
+      "company": "ION Group",
+      "title": "Software Developer - Leadership Development Program - Uniondale",
+      "postedToDiscord": "2026-01-14T08:07:50.193Z",
+      "sourceDate": "2025-12-01T23:11:51.000Z",
+      "sourceUrl": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
+      "discordThreadId": "1460908239767212165",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5637558004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5637558004",
+      "company": "vercel",
+      "title": "Lifecycle Marketing Manager",
+      "postedToDiscord": "2026-01-14T08:07:56.779Z",
+      "sourceDate": "2025-12-01T12:22:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
+      "discordThreadId": "1460908267755671698",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1323,
+    "totalJobs": 1331,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T07:53:42.379Z",
+      "date": "2026-01-14T08:07:56.779Z",
       "archived": 0
     }
   }
