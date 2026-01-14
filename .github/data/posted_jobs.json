@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T20:27:01.396Z",
+  "lastUpdated": "2026-01-14T20:53:44.855Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7516179-2026-01-07-1",
@@ -15621,14 +15621,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973175008",
       "discordThreadId": "1461094262723711160",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980527008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980527008",
+      "company": "anthropic",
+      "title": "Privacy Counsel",
+      "postedToDiscord": "2026-01-14T20:53:06.345Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980527008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971429008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971429008",
+      "company": "anthropic",
+      "title": "Product Operations Manager",
+      "postedToDiscord": "2026-01-14T20:53:09.838Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971429008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4992055008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4992055008",
+      "company": "anthropic",
+      "title": "Product Operations Manager, Public Sector ",
+      "postedToDiscord": "2026-01-14T20:53:13.650Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992055008",
+      "discordThreadId": "1461100856337498353",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4949108008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4949108008",
+      "company": "anthropic",
+      "title": "Privacy Research Engineer, Safeguards",
+      "postedToDiscord": "2026-01-14T20:53:20.405Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949108008",
+      "discordThreadId": "1461100884430684444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4929512008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929512008",
+      "company": "anthropic",
+      "title": "Product Designer, Claude Experiences",
+      "postedToDiscord": "2026-01-14T20:53:24.079Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929512008",
+      "discordThreadId": "1461100900125905212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4963443008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4963443008",
+      "company": "anthropic",
+      "title": "Product Designer, Growth ",
+      "postedToDiscord": "2026-01-14T20:53:27.710Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4963443008",
+      "discordThreadId": "1461100915409948726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4932942008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4932942008",
+      "company": "anthropic",
+      "title": "Product Manager, Safeguards",
+      "postedToDiscord": "2026-01-14T20:53:31.363Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4932942008",
+      "discordThreadId": "1461100930656239750",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4936029008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4936029008",
+      "company": "anthropic",
+      "title": "Product Manager, API ",
+      "postedToDiscord": "2026-01-14T20:53:37.823Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4936029008",
+      "discordThreadId": "1461100958539976748",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985920008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985920008",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code",
+      "postedToDiscord": "2026-01-14T20:53:41.237Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985920008",
+      "discordThreadId": "1461100973283082395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4933792008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4933792008",
+      "company": "anthropic",
+      "title": "Product Manager, Research",
+      "postedToDiscord": "2026-01-14T20:53:44.855Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933792008",
+      "discordThreadId": "1461100987573076160",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1420,
+    "totalJobs": 1430,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T20:27:01.396Z",
+      "date": "2026-01-14T20:53:44.855Z",
       "archived": 0
     }
   }
