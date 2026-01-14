@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T06:08:13.424Z",
+  "lastUpdated": "2026-01-14T06:28:28.015Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -13806,14 +13806,124 @@
       "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2367375-1",
       "discordThreadId": "1460878138895630530",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8320099002-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8320099002",
+      "company": "SpaceX",
+      "title": "Mission Integration Engineer - Applied Computing - Starshield",
+      "postedToDiscord": "2026-01-14T06:27:42.513Z",
+      "sourceDate": "2025-12-06T01:19:11.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8320099002",
+      "discordThreadId": "1460883042045268084",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017818008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017818008",
+      "company": "anthropic",
+      "title": "Corporate Communications Manager ",
+      "postedToDiscord": "2026-01-14T06:27:46.091Z",
+      "sourceDate": "2025-12-05T18:04:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
+      "discordThreadId": "1460883056834510850",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4929693008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929693008",
+      "company": "anthropic",
+      "title": "Security Engineer, Operating Systems",
+      "postedToDiscord": "2026-01-14T06:27:52.544Z",
+      "sourceDate": "2025-12-05T19:22:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
+      "discordThreadId": "1460883084458066103",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4929689008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929689008",
+      "company": "anthropic",
+      "title": "Systems Integrity Security Architect",
+      "postedToDiscord": "2026-01-14T06:27:55.965Z",
+      "sourceDate": "2025-12-05T19:18:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
+      "discordThreadId": "1460883098689601814",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-nutanix-job-o7nwyfw8-2026-01-14-1",
+      "jobId": "jobs-jobvite-com-nutanix-job-o7nwyfw8",
+      "company": "Nutanix",
+      "title": "Software Engineer - Performance and Observability",
+      "postedToDiscord": "2026-01-14T06:27:59.418Z",
+      "sourceDate": "2025-12-05T23:24:47.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/o7NWyfw8?nl=1&nl=1&fr=false",
+      "discordThreadId": "1460883113130594305",
+      "instanceNumber": 1
+    },
+    {
+      "id": "onyx-insight-breezy-hr-p-c5b7ac562f7301-apply-2026-01-14-1",
+      "jobId": "onyx-insight-breezy-hr-p-c5b7ac562f7301-apply",
+      "company": "ONYX Insight",
+      "title": "Condition Monitoring Engineer",
+      "postedToDiscord": "2026-01-14T06:28:03.058Z",
+      "sourceDate": "2025-12-05T17:26:08.000Z",
+      "sourceUrl": "https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply",
+      "discordThreadId": "1460883127911055431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-seal-beach-ca-linux-system-administrator_jr2025487641-2026-01-14-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-seal-beach-ca-linux-system-administrator_jr2025487641",
+      "company": "The Boeing Company",
+      "title": "Linux System Administrator",
+      "postedToDiscord": "2026-01-14T06:28:09.491Z",
+      "sourceDate": "2025-12-05T23:43:00.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
+      "discordThreadId": "1460883155660570824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-business-intelligence-analytics-sr-analyst_jr32249-2026-01-14-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-business-intelligence-analytics-sr-analyst_jr32249",
+      "company": "University of Chicago",
+      "title": "Business Intelligence & Analytics Senior Analyst",
+      "postedToDiscord": "2026-01-14T06:28:14.811Z",
+      "sourceDate": "2025-12-05T23:38:57.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249",
+      "discordThreadId": "1460883176108064853",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5699965004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5699965004",
+      "company": "figma",
+      "title": "Technical Recruiter",
+      "postedToDiscord": "2026-01-14T06:28:21.557Z",
+      "sourceDate": "2025-12-05T17:12:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004",
+      "discordThreadId": "1460883204910219287",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200-2026-01-14-1",
+      "jobId": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200",
+      "company": "Corning",
+      "title": "Research Technician",
+      "postedToDiscord": "2026-01-14T06:28:28.015Z",
+      "sourceDate": "2025-12-05T18:28:08.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Research-Technician-NY-14831/1347688200/?ats=successfactors",
+      "discordThreadId": "1460883233133822066",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1255,
+    "totalJobs": 1265,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T06:08:13.424Z",
+      "date": "2026-01-14T06:28:28.015Z",
       "archived": 0
     }
   }
