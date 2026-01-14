@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T23:37:36.978Z",
+  "lastUpdated": "2026-01-14T23:51:56.318Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4583696007-2026-01-07-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4583696007",
-      "company": "verkada",
-      "title": "Sr. Field Marketing Manager (Federal / State)",
-      "postedToDiscord": "2026-01-07T23:38:30.393Z",
-      "sourceDate": "2026-01-07T18:28:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4583696007",
-      "discordThreadId": "1458605742859751648",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-paloaltonetworks2-744000102177454-2026-01-07-1",
-      "jobId": "jobs-smartrecruiters-com-paloaltonetworks2-744000102177454",
-      "company": "Palo Alto Networks",
-      "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
-      "postedToDiscord": "2026-01-07T23:38:37.110Z",
-      "sourceDate": "2026-01-07T23:19:19.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000102177454",
-      "discordThreadId": "1458605763223093502",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-sandisk-744000102169088-2026-01-07-1",
-      "jobId": "jobs-smartrecruiters-com-sandisk-744000102169088",
-      "company": "Sandisk",
-      "title": "Field Application Engineer – New College Graduate - Ncg",
-      "postedToDiscord": "2026-01-07T23:38:40.953Z",
-      "sourceDate": "2026-01-07T23:13:10.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000102169088",
-      "discordThreadId": "1458605778653937747",
-      "instanceNumber": 1
-    },
     {
       "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8484-2026-01-08-1",
       "jobId": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8484",
@@ -16787,14 +16754,135 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
       "discordThreadId": "1461142226766921814",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5579903004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5579903004",
+      "company": "figma",
+      "title": "Director, Software Engineering - Growth",
+      "postedToDiscord": "2026-01-14T23:51:18.771Z",
+      "sourceDate": "2025-11-19T09:05:49-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5579903004?gh_jid=5579903004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5600388004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5600388004",
+      "company": "figma",
+      "title": "Director, Software Engineering - Product Platform",
+      "postedToDiscord": "2026-01-14T23:51:18.789Z",
+      "sourceDate": "2025-11-19T09:05:49-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5600388004?gh_jid=5600388004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5568374004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5568374004",
+      "company": "figma",
+      "title": "Manager, Software Engineering - Infrastructure",
+      "postedToDiscord": "2026-01-14T23:51:22.347Z",
+      "sourceDate": "2025-11-19T09:05:48-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5568374004?gh_jid=5568374004",
+      "discordThreadId": "1461145688560767038",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5552530004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5552530004",
+      "company": "figma",
+      "title": "Software Engineer, C++",
+      "postedToDiscord": "2026-01-14T23:51:25.849Z",
+      "sourceDate": "2025-11-19T09:05:46-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004",
+      "discordThreadId": "1461145703261667370",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5574247004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5574247004",
+      "company": "figma",
+      "title": "Product Manager, AI",
+      "postedToDiscord": "2026-01-14T23:51:32.413Z",
+      "sourceDate": "2025-11-19T09:05:48-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5574247004?gh_jid=5574247004",
+      "discordThreadId": "1461145730906329342",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5566267004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5566267004",
+      "company": "figma",
+      "title": "Software Engineer, iOS",
+      "postedToDiscord": "2026-01-14T23:51:36.110Z",
+      "sourceDate": "2025-11-19T09:05:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5566267004?gh_jid=5566267004",
+      "discordThreadId": "1461145745729257630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5552580004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5552580004",
+      "company": "figma",
+      "title": "Data Scientist  ",
+      "postedToDiscord": "2026-01-14T23:51:39.419Z",
+      "sourceDate": "2025-11-19T09:05:46-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004",
+      "discordThreadId": "1461145761013170338",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5552522004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5552522004",
+      "company": "figma",
+      "title": "Software Engineer, Graphics & Media",
+      "postedToDiscord": "2026-01-14T23:51:42.781Z",
+      "sourceDate": "2025-11-19T09:05:46-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004",
+      "discordThreadId": "1461145774518833254",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5558737004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5558737004",
+      "company": "figma",
+      "title": "Account Executive, Strategic",
+      "postedToDiscord": "2026-01-14T23:51:49.292Z",
+      "sourceDate": "2025-11-19T09:05:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5558737004?gh_jid=5558737004",
+      "discordThreadId": "1461145801849045074",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5564202004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5564202004",
+      "company": "figma",
+      "title": "Manager, Mid-Market Sales ",
+      "postedToDiscord": "2026-01-14T23:51:52.645Z",
+      "sourceDate": "2025-11-19T09:05:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5564202004?gh_jid=5564202004",
+      "discordThreadId": "1461145816331718818",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5565447004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5565447004",
+      "company": "figma",
+      "title": "Senior Account Executive, SMB",
+      "postedToDiscord": "2026-01-14T23:51:56.317Z",
+      "sourceDate": "2025-11-19T09:05:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5565447004?gh_jid=5565447004",
+      "discordThreadId": "1461145830869434398",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1526,
+    "totalJobs": 1534,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T23:37:36.978Z",
+      "date": "2026-01-14T23:51:56.318Z",
       "archived": 0
     }
   }
