@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T16:47:19.213Z",
+  "lastUpdated": "2026-01-14T17:01:34.070Z",
   "jobs": [
     {
       "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485-2026-01-07-1",
@@ -14851,14 +14851,36 @@
       "sourceUrl": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567",
       "discordThreadId": "1461038972842147872",
       "instanceNumber": 1
+    },
+    {
+      "id": "fa-exkk-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-1167-2026-01-14-1",
+      "jobId": "fa-exkk-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-1167",
+      "company": "Arlington County VA",
+      "title": "Engineering Support Associate",
+      "postedToDiscord": "2026-01-14T17:01:30.351Z",
+      "sourceDate": "2025-11-28T21:50:53.000Z",
+      "sourceUrl": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5013743008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5013743008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Data Center Infrastructure",
+      "postedToDiscord": "2026-01-14T17:01:34.069Z",
+      "sourceDate": "2025-11-28T15:16:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
+      "discordThreadId": "1461042557663318121",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1350,
+    "totalJobs": 1352,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T16:47:19.213Z",
+      "date": "2026-01-14T17:01:34.070Z",
       "archived": 0
     }
   }
