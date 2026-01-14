@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T05:02:37.243Z",
+  "lastUpdated": "2026-01-14T05:13:58.474Z",
   "jobs": [
     {
       "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-07-1",
@@ -13256,14 +13256,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4974231008",
       "discordThreadId": "1460861629121040528",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4979661008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4979661008",
+      "company": "anthropic",
+      "title": "Policy Communications Manager",
+      "postedToDiscord": "2026-01-14T05:13:17.029Z",
+      "sourceDate": "2025-12-10T00:50:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
+      "discordThreadId": "1460864312808706100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5016875008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5016875008",
+      "company": "anthropic",
+      "title": "Business Development, Strategic Technology Partnerships",
+      "postedToDiscord": "2026-01-14T05:13:20.481Z",
+      "sourceDate": "2025-12-09T18:43:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5016875008",
+      "discordThreadId": "1460864327044300924",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4899511008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4899511008",
+      "company": "anthropic",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-14T05:13:26.878Z",
+      "sourceDate": "2025-12-09T19:09:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+      "discordThreadId": "1460864354277920840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4572744008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4572744008",
+      "company": "anthropic",
+      "title": "Software Engineer, iOS",
+      "postedToDiscord": "2026-01-14T05:13:30.330Z",
+      "sourceDate": "2025-12-09T19:09:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008",
+      "discordThreadId": "1460864368479571968",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ebay-wd5-myworkdayjobs-com-apply-job-san-francisco-applied-researcher-1-search-ranking_r0066187-2026-01-14-1",
+      "jobId": "ebay-wd5-myworkdayjobs-com-apply-job-san-francisco-applied-researcher-1-search-ranking_r0066187",
+      "company": "eBay",
+      "title": "Applied Researcher 2 - Search Ranking",
+      "postedToDiscord": "2026-01-14T05:13:34.008Z",
+      "sourceDate": "2025-12-09T22:36:51.000Z",
+      "sourceUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/San-Francisco/Applied-Researcher-1---Search-Ranking_R0066187",
+      "discordThreadId": "1460864382568366133",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-exxonmobil-com-exxonmobil-job-spring-fluid-properties-technologist-tx-77024-1348491100-2026-01-14-1",
+      "jobId": "jobs-exxonmobil-com-exxonmobil-job-spring-fluid-properties-technologist-tx-77024-1348491100",
+      "company": "ExxonMobil",
+      "title": "Fluid Properties Technologist",
+      "postedToDiscord": "2026-01-14T05:13:40.451Z",
+      "sourceDate": "2025-12-09T23:14:51.000Z",
+      "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Spring-Fluid-Properties-Technologist-TX-77024/1348491100/?ats=successfactors",
+      "discordThreadId": "1460864410980585493",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025624008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025624008",
+      "company": "anthropic",
+      "title": "Research Engineer – Cybersecurity RL",
+      "postedToDiscord": "2026-01-14T05:13:46.887Z",
+      "sourceDate": "2025-12-09T17:20:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+      "discordThreadId": "1460864438172254219",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5733496004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5733496004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Portuguese Speaking",
+      "postedToDiscord": "2026-01-14T05:13:50.211Z",
+      "sourceDate": "2025-12-09T17:11:54-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733496004?gh_jid=5733496004",
+      "discordThreadId": "1460864452328034473",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5733495004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5733495004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Korean Speaking",
+      "postedToDiscord": "2026-01-14T05:13:53.634Z",
+      "sourceDate": "2025-12-09T17:11:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733495004?gh_jid=5733495004",
+      "discordThreadId": "1460864466211176672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5728959004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5728959004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Japanese Speaking",
+      "postedToDiscord": "2026-01-14T05:13:58.473Z",
+      "sourceDate": "2025-12-09T17:11:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728959004?gh_jid=5728959004",
+      "discordThreadId": "1460864480803033312",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1205,
+    "totalJobs": 1215,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T05:02:37.243Z",
+      "date": "2026-01-14T05:13:58.474Z",
       "archived": 0
     }
   }
