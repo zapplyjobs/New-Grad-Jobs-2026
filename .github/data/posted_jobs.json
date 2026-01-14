@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T21:07:49.315Z",
+  "lastUpdated": "2026-01-14T21:42:47.090Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-spotify-c754ad8f-20a6-41c6-8d04-a38fff357070-2026-01-07-1",
-      "jobId": "jobs-lever-co-spotify-c754ad8f-20a6-41c6-8d04-a38fff357070",
-      "company": "spotify",
-      "title": "Backend Engineer II - Minesweeper - Personalization",
-      "postedToDiscord": "2026-01-07T21:38:52.084Z",
-      "sourceDate": "2025-12-15T21:58:50.172Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/c754ad8f-20a6-41c6-8d04-a38fff357070",
-      "discordThreadId": "1458575628059283580",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7521096-2026-01-07-1",
       "jobId": "careers-datadoghq-com-detail-7521096",
@@ -15819,14 +15808,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008",
       "discordThreadId": "1461104530153275701",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4942024008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942024008",
+      "company": "anthropic",
+      "title": "Software Engineer, Beneficial Deployments ",
+      "postedToDiscord": "2026-01-14T21:41:59.229Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
+      "discordThreadId": "1461113128204107797",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4816199008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4816199008",
+      "company": "anthropic",
+      "title": "Software Engineer, Claude Code",
+      "postedToDiscord": "2026-01-14T21:42:02.755Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4816199008",
+      "discordThreadId": "1461113142401695940",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980420008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980420008",
+      "company": "anthropic",
+      "title": "Software Engineer, Desktop",
+      "postedToDiscord": "2026-01-14T21:42:10.610Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980420008",
+      "discordThreadId": "1461113169949753561",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4902636008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4902636008",
+      "company": "anthropic",
+      "title": "Software Engineer, Public Sector",
+      "postedToDiscord": "2026-01-14T21:42:14.118Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4902636008",
+      "discordThreadId": "1461113190686392372",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4561282008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4561282008",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
+      "postedToDiscord": "2026-01-14T21:42:17.601Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4561282008",
+      "discordThreadId": "1461113205018460412",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4989788008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4989788008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Security",
+      "postedToDiscord": "2026-01-14T21:42:21.081Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
+      "discordThreadId": "1461113219442544866",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983644008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983644008",
+      "company": "anthropic",
+      "title": "Support Operations Specialist",
+      "postedToDiscord": "2026-01-14T21:42:27.500Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983644008",
+      "discordThreadId": "1461113246655320188",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4913784008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4913784008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Inference",
+      "postedToDiscord": "2026-01-14T21:42:33.982Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
+      "discordThreadId": "1461113273440272472",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31451-2026-01-14-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31451",
+      "company": "University of Chicago",
+      "title": "Research Professional",
+      "postedToDiscord": "2026-01-14T21:42:40.555Z",
+      "sourceDate": "2025-11-22T10:59:50.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31451",
+      "discordThreadId": "1461113300740735163",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2111121-2026-01-14-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2111121",
+      "company": "KBR",
+      "title": "Operations Research Analyst-Foundational",
+      "postedToDiscord": "2026-01-14T21:42:47.089Z",
+      "sourceDate": "2025-11-22T10:41:51.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2111121",
+      "discordThreadId": "1461113328159166486",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1438,
+    "totalJobs": 1447,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T21:07:49.315Z",
+      "date": "2026-01-14T21:42:47.090Z",
       "archived": 0
     }
   }
