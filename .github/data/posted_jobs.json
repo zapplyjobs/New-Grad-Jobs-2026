@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T19:11:03.796Z",
+  "lastUpdated": "2026-01-14T19:26:33.601Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5057258008-2026-01-07-1",
@@ -15104,14 +15104,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8304667002",
       "discordThreadId": "1461075146407415820",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-bcg-com-global-en-job-55995-2026-01-14-1",
+      "jobId": "careers-bcg-com-global-en-job-55995",
+      "company": "Boston Consulting Group",
+      "title": "AI Engineer",
+      "postedToDiscord": "2026-01-14T19:25:57.429Z",
+      "sourceDate": "2025-11-25T01:02:15.000Z",
+      "sourceUrl": "https://careers.bcg.com/global/en/job/55995",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-altoslabs-jobs-5709084004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-altoslabs-jobs-5709084004",
+      "company": "Altos Labs",
+      "title": "Machine Learning Engineer/Scientist - Multi Modality",
+      "postedToDiscord": "2026-01-14T19:26:00.817Z",
+      "sourceDate": "2025-11-24T23:40:51.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
+      "discordThreadId": "1461078909381644453",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4997951008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4997951008",
+      "company": "anthropic",
+      "title": "Customer Success Manager, Beneficial Deployments",
+      "postedToDiscord": "2026-01-14T19:26:07.575Z",
+      "sourceDate": "2025-11-24T21:50:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4997951008",
+      "discordThreadId": "1461078937068114256",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4996335008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4996335008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Digital Native Business",
+      "postedToDiscord": "2026-01-14T19:26:11.122Z",
+      "sourceDate": "2025-11-24T09:04:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996335008",
+      "discordThreadId": "1461078952213745856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-nutanix-job-otkvyfwq-2026-01-14-1",
+      "jobId": "jobs-jobvite-com-nutanix-job-otkvyfwq",
+      "company": "Nutanix",
+      "title": "Software Engineer 1 - Python - Linux",
+      "postedToDiscord": "2026-01-14T19:26:17.632Z",
+      "sourceDate": "2025-11-25T00:58:31.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false",
+      "discordThreadId": "1461078979766390947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "egay-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_4001-job-38504-2026-01-14-1",
+      "jobId": "egay-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_4001-job-38504",
+      "company": "NOV",
+      "title": "Sustaining Product Engineer",
+      "postedToDiscord": "2026-01-14T19:26:21.383Z",
+      "sourceDate": "2025-11-25T00:47:36.000Z",
+      "sourceUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504",
+      "discordThreadId": "1461078993989009502",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-4a7b66f8-9c95-4a60-8166-37dbb11d1446-2026-01-14-1",
+      "jobId": "jobs-ashbyhq-com-supabase-4a7b66f8-9c95-4a60-8166-37dbb11d1446",
+      "company": "supabase",
+      "title": "Developer Productivity Engineer",
+      "postedToDiscord": "2026-01-14T19:26:23.222Z",
+      "sourceDate": "2025-11-24T20:04:43.442+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/4a7b66f8-9c95-4a60-8166-37dbb11d1446",
+      "discordThreadId": "1461079010112045148",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2114720-2026-01-14-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2114720",
+      "company": "KBR",
+      "title": "Operations Research Analyst-Foundational",
+      "postedToDiscord": "2026-01-14T19:26:30.046Z",
+      "sourceDate": "2025-11-23T16:49:53.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2114720",
+      "discordThreadId": "1461079030198439998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cgg-wd103-myworkdayjobs-com-viridiencareers-job-houston-united-states-of-america-seismic-imaging-analyst_jr101070-2-2026-01-14-1",
+      "jobId": "cgg-wd103-myworkdayjobs-com-viridiencareers-job-houston-united-states-of-america-seismic-imaging-analyst_jr101070-2",
+      "company": "Viridien",
+      "title": "Seismic Imaging Analyst",
+      "postedToDiscord": "2026-01-14T19:26:33.601Z",
+      "sourceDate": "2025-11-23T15:00:16.000Z",
+      "sourceUrl": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2",
+      "discordThreadId": "1461079045918822614",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1373,
+    "totalJobs": 1382,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T19:11:03.796Z",
+      "date": "2026-01-14T19:26:33.601Z",
       "archived": 0
     }
   }
