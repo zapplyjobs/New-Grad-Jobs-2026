@@ -132,22 +132,6 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineer 1 - Elixir",
-    "employer_name": "True Anomaly",
-    "job_city": "Long Beach",
-    "job_state": "CA",
-    "job_description": "A new space race has begun. True Anomaly seeks those with the talent and ambition to build innovative technology that solves the next generation of engineering, manufacturing, and operational challenges for space security and sustainability. OUR MISSION The peaceful use of space is essential for continued prosperity on Earth—from communications and finance to navigation and logistics. True Anomaly builds innovative technology at the intersection of spacecraft, software, and AI to enhance the capabilities of the U.S., its allies, and commercial partners. We safeguard global security by ensuring space access and sustainability for all. OUR VALUES Be the offset. We create asymmetric advantages with creativity and ingenuity What would it take? We challenge assumptions to deliver ambitious results It’s the people. Our team is our competitive advantage and we are better together YOUR MISSION Software is the central nervous system for True Anomaly’s engineering and product thesis. Software bridges the gap between military objectives, theoretical astrodynamics and the human and autonomous control of spacecraft and ground systems in time and space. True Anomaly is seeking a highly-experienced Staff Elixir Software Engineer to lead development of our distributed spacecraft ground control system. You do not need to have experience building space ground systems or experience in aerospace. You’ll have ownership of challenging, greenfield problems and a chance to fundamentally impact the outcome of future conflict (and the future of the company), all while enjoying world-class benefits including platinum healthcare, flexible work hours/location, highly competitive compensation and a generous stock options package. RESPONSIBILITIES Design, develop, and sustain satellite command and control, mission planning, mission data processing and data analysis software systems using Elixir Bring your voice to the table in team collaborations on architecture, design, and code reviews Interact and collaborate with engineers from various disciplines to create emergent results QUALIFICATIONS 0 to 2 years of software development experience Bachelor’s degree in computer science or similar discipline or relevant experience Functional programming experience in Elixir and/or Erlang Proven experience developing resilient and fault-tolerant architecture Demonstrated leadership ability, exceptional written and oral communication skills, and aptitude for working across disciplines Enjoys debugging and problem solving live systems Experience with distributed systems A strong bias towards understanding and rejecting the status quo U.S. Citizen and eligible for DoD Secret or TS/SCI clearance PREFERRED SKILLS AND EXPERIENCE Deep understanding of Elixir and OTP including BEAM scheduling, GenServers, run queues, and pg or the Actor model Experience with OAuth2 and role-based access controls Database experience with PostgreSQL, MySQL Experience with monitoring and tracing in a distributed system Experience working with real-time or game engine backends Ability to maintain or obtain TS//SCI clearance COMPENSATION Colorado Base Salary: $90,000 - $120,000 California Base Salary: $95,000 - $125,000 Equity + Benefits including Health, Dental, Vision, HRA/HSA options, PTO and paid holidays, 401K, Parental Leave Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, location, and experience. ADDITIONAL REQUIREMENTS Work Location— Must be based near Denver or Long Beach. This role requires four days a week onsite with one day remote. Work environment—the work environment; temperature, noise level, inside or outside, or other factors that will affect the person's working conditions while performing the job. Physical demands—the physical demands of the job, including bending, sitting, lifting and driving. This position will be open until it is successfully filled. To submit your application, please follow the directions below. #LI-OnsiteTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. True Anomaly is committed to equal employment opportunity on any basis protected by applicable state and federal laws. If you have a disability or additional need that requires accommodation, please do not hesitate to let us.",
-    "job_apply_link": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4971623007",
-    "job_posted_at_datetime_utc": "2025-11-28T01:04:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "job-boards-greenhouse-io-trueanomalyinc-jobs-4971623007",
-    "description_platform": "greenhouse",
-    "description_success": true
-  },
-  {
     "job_title": "Graduate Engineering Development Program",
     "employer_name": "Astemo",
     "job_city": "Southfield",
@@ -193,6 +177,22 @@
     "job_posted_at": "1h",
     "id": "job-boards-greenhouse-io-clear-jobs-7403318",
     "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Graduate Engineer - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US",
+    "employer_name": "TikTok",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "View our opening for Engineer Graduate: (Machine Learning Engineer, Data-Search-Recommendation TikTok.US - Seattle) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
+    "job_apply_link": "https://lifeattiktok.com/search/7533377193083177234",
+    "job_posted_at_datetime_utc": "2025-11-27T03:42:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "lifeattiktok-com-search-7533377193083177234",
+    "description_platform": "generic",
     "description_success": true
   }
 ]

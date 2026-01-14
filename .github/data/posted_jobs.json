@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T16:27:31.161Z",
+  "lastUpdated": "2026-01-14T16:47:19.213Z",
   "jobs": [
     {
       "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485-2026-01-07-1",
@@ -14818,14 +14818,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4971623007",
       "discordThreadId": "1461033989770055782",
       "instanceNumber": 1
+    },
+    {
+      "id": "astemo-wd102-myworkdayjobs-com-global_career_site-job-farmington-hills-michigan-united-states-new-graduate-engineering-development-program-edp-_r0068868-2026-01-14-1",
+      "jobId": "astemo-wd102-myworkdayjobs-com-global_career_site-job-farmington-hills-michigan-united-states-new-graduate-engineering-development-program-edp-_r0068868",
+      "company": "Astemo",
+      "title": "Graduate Engineering Development Program",
+      "postedToDiscord": "2026-01-14T16:47:03.069Z",
+      "sourceDate": "2025-11-27T23:11:51.000Z",
+      "sourceUrl": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868",
+      "discordThreadId": "1461038905343086705",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5011703008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5011703008",
+      "company": "anthropic",
+      "title": "Corporate Legal Specialist",
+      "postedToDiscord": "2026-01-14T16:47:12.788Z",
+      "sourceDate": "2025-11-28T15:13:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5011703008",
+      "discordThreadId": "1461038945969246290",
+      "instanceNumber": 1
+    },
+    {
+      "id": "chevron-wd5-myworkdayjobs-com-university-job-houston-texas-united-states-of-america-xmlname-2024-2025-earth-scientist-full-time_r000064567-2026-01-14-1",
+      "jobId": "chevron-wd5-myworkdayjobs-com-university-job-houston-texas-united-states-of-america-xmlname-2024-2025-earth-scientist-full-time_r000064567",
+      "company": "Chevron Corporation",
+      "title": "Earth Scientist",
+      "postedToDiscord": "2026-01-14T16:47:19.212Z",
+      "sourceDate": "2025-11-28T03:42:47.000Z",
+      "sourceUrl": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567",
+      "discordThreadId": "1461038972842147872",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1347,
+    "totalJobs": 1350,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T16:27:31.161Z",
+      "date": "2026-01-14T16:47:19.213Z",
       "archived": 0
     }
   }
