@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T21:54:11.005Z",
+  "lastUpdated": "2026-01-14T22:08:50.506Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4960248008-2026-01-07-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4960248008",
-      "company": "anthropic",
-      "title": "Security GRC Specialist, Public Sector",
-      "postedToDiscord": "2026-01-07T22:06:22.141Z",
-      "sourceDate": "2026-01-07T16:56:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960248008",
-      "discordThreadId": "1458582548258230358",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-7434684-2026-01-07-1",
-      "jobId": "www-coinbase-com-careers-positions-7434684",
-      "company": "coinbase",
-      "title": "Business Controller Intern",
-      "postedToDiscord": "2026-01-07T22:06:25.739Z",
-      "sourceDate": "2026-01-07T16:53:00-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7434684?gh_jid=7434684",
-      "discordThreadId": "1458582563462582334",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-4583696007-2026-01-07-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-4583696007",
@@ -16017,14 +15995,146 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5710742004?gh_jid=5710742004",
       "discordThreadId": "1461116196786274304",
       "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711468004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711468004",
+      "company": "figma",
+      "title": "Product Designer - Design, Dev, & AI Tools",
+      "postedToDiscord": "2026-01-14T22:08:01.144Z",
+      "sourceDate": "2025-11-21T10:54:56-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
+      "discordThreadId": "1461119679123820630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711571004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711571004",
+      "company": "figma",
+      "title": "Product Designer ",
+      "postedToDiscord": "2026-01-14T22:08:01.161Z",
+      "sourceDate": "2025-11-21T10:47:08-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711571004?gh_jid=5711571004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-apple-com-en-us-details-200617621-2026-01-14-1",
+      "jobId": "jobs-apple-com-en-us-details-200617621",
+      "company": "Apple",
+      "title": "Systems Software Engineer",
+      "postedToDiscord": "2026-01-14T22:08:04.916Z",
+      "sourceDate": "2025-11-21T10:08:20.000Z",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200617621",
+      "discordThreadId": "1461119693804011582",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-talroo-com-careers-apply-2026-01-14-1",
+      "jobId": "www-talroo-com-careers-apply",
+      "company": "Talroo",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-14T22:08:08.696Z",
+      "sourceDate": "2025-11-21T07:42:28.000Z",
+      "sourceUrl": "https://www.talroo.com/careers/apply/?gh_jid=1003689",
+      "discordThreadId": "1461119709301833851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5704320004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5704320004",
+      "company": "vercel",
+      "title": "Software Engineer (Web Performance), v0",
+      "postedToDiscord": "2026-01-14T22:08:12.242Z",
+      "sourceDate": "2025-11-20T15:09:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5704320004",
+      "discordThreadId": "1461119725382799414",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5711595004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5711595004",
+      "company": "figma",
+      "title": "Product Designer, Growth & Monetization",
+      "postedToDiscord": "2026-01-14T22:08:19.134Z",
+      "sourceDate": "2025-11-21T10:48:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
+      "discordThreadId": "1461119753065333009",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5478247004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5478247004",
+      "company": "figma",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-14T22:08:23.156Z",
+      "sourceDate": "2025-11-20T17:33:13-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5478247004?gh_jid=5478247004",
+      "discordThreadId": "1461119769477382359",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-2056-digital-media-center-postdoctoral-researcher_r00111205-2026-01-14-1",
+      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-2056-digital-media-center-postdoctoral-researcher_r00111205",
+      "company": "Louisiana State University (LSU)",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-14T22:08:29.905Z",
+      "sourceDate": "2025-11-21T08:58:49.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205",
+      "discordThreadId": "1461119798850093212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-3051-digital-media-center-postdoctoral-researcher_r00111216-2026-01-14-1",
+      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-3051-digital-media-center-postdoctoral-researcher_r00111216",
+      "company": "Louisiana State University (LSU)",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-14T22:08:29.917Z",
+      "sourceDate": "2025-11-21T07:45:15.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3051-Digital-Media-Center/Postdoctoral-Researcher_R00111216",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5707695004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5707695004",
+      "company": "figma",
+      "title": "Technical Program Manager, AI Platform",
+      "postedToDiscord": "2026-01-14T22:08:36.691Z",
+      "sourceDate": "2025-11-20T18:28:40-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707695004?gh_jid=5707695004",
+      "discordThreadId": "1461119827648450641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160652-2026-01-14-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160652",
+      "company": "Adobe",
+      "title": "Graduate University Engineer - Machine Learning Engineer",
+      "postedToDiscord": "2026-01-14T22:08:43.723Z",
+      "sourceDate": "2025-11-20T21:01:46.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160652",
+      "discordThreadId": "1461119856395948257",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-coastal-urban-flooding_421450-2026-01-14-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-coastal-urban-flooding_421450",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee - Coastal-urban Flooding",
+      "postedToDiscord": "2026-01-14T22:08:50.506Z",
+      "sourceDate": "2025-11-20T20:27:44.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Coastal-urban-Flooding_421450",
+      "discordThreadId": "1461119884887982266",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1456,
+    "totalJobs": 1466,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T21:54:11.005Z",
+      "date": "2026-01-14T22:08:50.506Z",
       "archived": 0
     }
   }
