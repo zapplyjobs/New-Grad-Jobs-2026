@@ -1,231 +1,335 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-14T22:55:41.788Z
+**Timestamp:** 2026-01-14T23:07:24.331Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 10
-- **Jobs Failed:** 0
+- **Jobs Posted:** 8
+- **Jobs Failed:** 4
 - **Jobs Skipped:** 0
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-14T22:54:45.633Z] ========================================
-[2026-01-14T22:54:45.634Z] Discord Bot Execution Log
-[2026-01-14T22:54:45.635Z] Environment: GitHub Actions
-[2026-01-14T22:54:45.635Z] Node Version: v20.19.6
-[2026-01-14T22:54:45.635Z] ========================================
-[2026-01-14T22:54:45.635Z] Environment Variables Check:
-[2026-01-14T22:54:45.635Z] DISCORD_TOKEN: ✅ Set
-[2026-01-14T22:54:45.635Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.635Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-14T22:54:45.635Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-14T22:54:45.635Z] 
+[2026-01-14T23:06:30.436Z] ========================================
+[2026-01-14T23:06:30.438Z] Discord Bot Execution Log
+[2026-01-14T23:06:30.438Z] Environment: GitHub Actions
+[2026-01-14T23:06:30.438Z] Node Version: v20.19.6
+[2026-01-14T23:06:30.438Z] ========================================
+[2026-01-14T23:06:30.438Z] Environment Variables Check:
+[2026-01-14T23:06:30.438Z] DISCORD_TOKEN: ✅ Set
+[2026-01-14T23:06:30.438Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.438Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-14T23:06:30.439Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-14T23:06:30.439Z] 
 Multi-Channel Configuration:
-[2026-01-14T22:54:45.635Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.635Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.635Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.636Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.636Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.636Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.636Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.636Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.636Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-14T22:54:45.636Z] 
+[2026-01-14T23:06:30.439Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-14T23:06:30.439Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-14T22:54:45.636Z] 
+[2026-01-14T23:06:30.440Z] 
 Data Files Check:
-[2026-01-14T22:54:45.637Z] .github/data/new_jobs.json: ✅ Exists (10 items, 106693 bytes)
-[2026-01-14T22:54:45.643Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 792299 bytes)
-[2026-01-14T22:54:45.643Z] 
+[2026-01-14T23:06:30.441Z] .github/data/new_jobs.json: ✅ Exists (10 items, 173975 bytes)
+[2026-01-14T23:06:30.447Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 797591 bytes)
+[2026-01-14T23:06:30.447Z] 
 ========================================
-[2026-01-14T22:54:45.643Z] Starting Enhanced Discord Bot...
-[2026-01-14T22:54:45.643Z] ========================================
-[2026-01-14T22:54:46.164Z] [BOT] ✅ Loaded V2 database: 1486 jobs
-[2026-01-14T22:54:46.804Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-14T22:54:46.805Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-14T23:06:30.447Z] Starting Enhanced Discord Bot...
+[2026-01-14T23:06:30.447Z] ========================================
+[2026-01-14T23:06:30.987Z] [BOT] ✅ Loaded V2 database: 1496 jobs
+[2026-01-14T23:06:31.503Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-14T23:06:31.503Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-01-14T22:54:46.805Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-14T22:54:46.917Z] [BOT] ✅ Loaded pending queue: 2729 total (2709 pending, 20 enriched, 0 posted)
+[2026-01-14T23:06:31.504Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-14T23:06:31.612Z] [BOT] ✅ Loaded pending queue: 2729 total (2709 pending, 20 enriched, 0 posted)
 [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
-[BOT] 🔍 Sample enriched job: Commercial Account Executive, Greenfield  at vercel
-[2026-01-14T22:54:46.919Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
-[2026-01-14T22:54:46.919Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
-[2026-01-14T22:54:46.920Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
-[2026-01-14T22:54:46.920Z] [BOT] 📋 After multi-location grouping: 20 unique jobs to post
-[2026-01-14T22:54:46.921Z] [BOT] ⏸️ Limiting to 10 jobs this run, 10 deferred for next run
+[BOT] 🔍 Sample enriched job: Director, Payroll Operations at figma
+[2026-01-14T23:06:31.614Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
+[2026-01-14T23:06:31.614Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
+[2026-01-14T23:06:31.615Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
+[2026-01-14T23:06:31.615Z] [BOT] 📋 After multi-location grouping: 18 unique jobs to post
+[2026-01-14T23:06:31.615Z] [BOT] (2 grouped as same job with different locations)
+📍 1 jobs with multiple locations:
+   - Manager, Software Engineering - Creation Engine @ figma: san francisco, ca • new york, ny • united states, new york, ny • united states
+⏸️ Limiting to 10 jobs this run, 10 deferred for next run
 📤 Posting 10 jobs...
-🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-14T22:54:46.925Z] [BOT] 📌 Posting 3 jobs to #💲・sales-jobs
-[2026-01-14T22:54:46.925Z] [BOT] 📍 [ROUTING] "Commercial Account Executive, Greenfield " @ vercel
-[2026-01-14T22:54:46.925Z] [BOT] Category: SALES (matched: "sales")
+[2026-01-14T23:06:31.616Z] [BOT] 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
+[2026-01-14T23:06:31.620Z] [BOT] 📌 Posting 5 jobs to #💲・sales-jobs
+[2026-01-14T23:06:31.620Z] [BOT] 📍 [ROUTING] "Director, Payroll Operations" @ figma
+[2026-01-14T23:06:31.620Z] [BOT] Category: SALES (matched: "sales")
    Channel: 💲・sales-jobs (1391...3632)
-[2026-01-14T22:54:46.942Z] [BOT ERROR] (node:2374) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-14T23:06:31.638Z] [BOT ERROR] (node:2410) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-14T22:54:47.298Z] [BOT] ✅ Created forum post: 🏢 Commercial Account Executive, Greenfield  @ vercel in #💲・sales-jobs
-[2026-01-14T22:54:47.298Z] [BOT] ✅ Industry: Commercial Account Executive, Greenfield  @ vercel
-[2026-01-14T22:54:49.175Z] [BOT] ✅ Created forum post: 🏢 Commercial Account Executive, Greenfield  @ vercel in #🌉・san-francisco
-[2026-01-14T22:54:49.176Z] [BOT] ✅ Location: 🌉・san-francisco
-[2026-01-14T22:54:50.676Z] [BOT] 💾 Marked as posted: Commercial Account Executive, Greenfield  @ vercel (instance #1)
-[2026-01-14T22:54:50.677Z] [BOT] 💾 BEFORE ARCHIVING: 1487 jobs in database
-[2026-01-14T22:54:50.678Z] [BOT] ✅ No jobs to archive (all 1487 jobs within 7-day window)
-[2026-01-14T22:54:50.689Z] [BOT] 💾 Saved posted_jobs.json: 1487 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-14T22:54:50.689Z] [BOT] 📍 [ROUTING] "Director of Sales Engineering, AMER" @ vercel
-[2026-01-14T22:54:50.689Z] [BOT] Category: SALES (matched: "sales")
-   Channel: 💲・sales-jobs (1391...3632)
-[2026-01-14T22:54:50.933Z] [BOT] ✅ Created forum post: 🏢 Director of Sales Engineering, AMER @ vercel in #💲・sales-jobs
-[2026-01-14T22:54:50.933Z] [BOT] ✅ Industry: Director of Sales Engineering, AMER @ vercel
-[2026-01-14T22:54:52.806Z] [BOT] ✅ Created forum post: 🏢 Director of Sales Engineering, AMER @ vercel in #🌉・san-francisco
+[2026-01-14T23:06:31.878Z] [BOT] ✅ Created forum post: 🏢 Director, Payroll Operations @ figma in #💲・sales-jobs
+  ✅ Industry: Director, Payroll Operations @ figma
+[2026-01-14T23:06:33.587Z] [BOT] ✅ Created forum post: 🏢 Director, Payroll Operations @ figma in #🌉・san-francisco
   ✅ Location: 🌉・san-francisco
-[2026-01-14T22:54:54.305Z] [BOT] 💾 Marked as posted: Director of Sales Engineering, AMER @ vercel (instance #1)
-💾 BEFORE ARCHIVING: 1488 jobs in database
-[2026-01-14T22:54:54.307Z] [BOT] ✅ No jobs to archive (all 1488 jobs within 7-day window)
-[2026-01-14T22:54:54.316Z] [BOT] 💾 Saved posted_jobs.json: 1488 active jobs
+[2026-01-14T23:06:35.088Z] [BOT] 💾 Marked as posted: Director, Payroll Operations @ figma (instance #1)
+[2026-01-14T23:06:35.088Z] [BOT] 💾 BEFORE ARCHIVING: 1497 jobs in database
+[2026-01-14T23:06:35.089Z] [BOT] ✅ No jobs to archive (all 1497 jobs within 7-day window)
+[2026-01-14T23:06:35.106Z] [BOT] 💾 Saved posted_jobs.json: 1497 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-14T22:54:54.317Z] [BOT] 📍 [ROUTING] "Corporate Development & Strategy, M&A Integration" @ figma
+[2026-01-14T23:06:35.106Z] [BOT] 📍 [ROUTING] "Manager, Mid-Market Sales" @ figma
    Category: SALES (matched: "sales")
-[2026-01-14T22:54:54.317Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
-[2026-01-14T22:54:54.563Z] [BOT] ✅ Created forum post: 🏢 Corporate Development & Strategy, M&A Integration @ figma in #💲・sales-jobs
-  ✅ Industry: Corporate Development & Strategy, M&A Integration @ figma
-[2026-01-14T22:54:57.741Z] [BOT] ✅ Created forum post: 🏢 Corporate Development & Strategy, M&A Integration @ figma in #🌉・san-francisco
+[2026-01-14T23:06:35.107Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
+[2026-01-14T23:06:35.368Z] [BOT] ✅ Created forum post: 🏢 Manager, Mid-Market Sales @ figma in #💲・sales-jobs
+  ✅ Industry: Manager, Mid-Market Sales @ figma
+[2026-01-14T23:06:37.072Z] [BOT] ✅ Created forum post: 🏢 Manager, Mid-Market Sales @ figma in #🌉・san-francisco
   ✅ Location: 🌉・san-francisco
-[2026-01-14T22:54:59.241Z] [BOT] 💾 Marked as posted: Corporate Development & Strategy, M&A Integration @ figma (instance #1)
-[2026-01-14T22:54:59.242Z] [BOT] 💾 BEFORE ARCHIVING: 1489 jobs in database
-[2026-01-14T22:54:59.243Z] [BOT] ✅ No jobs to archive (all 1489 jobs within 7-day window)
-[2026-01-14T22:54:59.255Z] [BOT] 💾 Saved posted_jobs.json: 1489 active jobs
-[2026-01-14T22:54:59.255Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:02.254Z] [BOT] 📌 Posting 2 jobs to #🤖・ai-jobs
-[2026-01-14T22:55:02.256Z] [BOT] 📍 [ROUTING] "Global Head of Sales Operations & Strategy" @ spotify
-   Category: AI (matched: "artificial intelligence")
-   Channel: 🤖・ai-jobs (1446...1106)
-[2026-01-14T22:55:02.256Z] [BOT] ⚠️  Multiple matches: aiMatch, dsMatch (using ai)
-[2026-01-14T22:55:02.553Z] [BOT] ✅ Created forum post: 🏢 Global Head of Sales Operations & Strategy @ spotify in #🤖・ai-jobs
-  ✅ Industry: Global Head of Sales Operations & Strategy @ spotify
-[2026-01-14T22:55:04.333Z] [BOT] ✅ Created forum post: 🏢 Global Head of Sales Operations & Strategy @ spotify in #🗽・new-york
-[2026-01-14T22:55:04.333Z] [BOT] ✅ Location: 🗽・new-york
-[2026-01-14T22:55:05.835Z] [BOT] 💾 Marked as posted: Global Head of Sales Operations & Strategy @ spotify (instance #1)
-[2026-01-14T22:55:05.835Z] [BOT] 💾 BEFORE ARCHIVING: 1490 jobs in database
-[2026-01-14T22:55:05.836Z] [BOT] ✅ No jobs to archive (all 1490 jobs within 7-day window)
-[2026-01-14T22:55:05.848Z] [BOT] 💾 Saved posted_jobs.json: 1490 active jobs
-[2026-01-14T22:55:05.848Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:05.848Z] [BOT] 📍 [ROUTING] "Manager, SEO" @ figma
-[2026-01-14T22:55:05.848Z] [BOT] Category: AI (matched: "AI/ML")
-   Channel: 🤖・ai-jobs (1446...1106)
-   ⚠️  Multiple matches: aiMatch, dsMatch (using ai)
-[2026-01-14T22:55:06.189Z] [BOT] ✅ Created forum post: 🏢 Manager, SEO @ figma in #🤖・ai-jobs
-  ✅ Industry: Manager, SEO @ figma
-[2026-01-14T22:55:07.951Z] [BOT] ✅ Created forum post: 🏢 Manager, SEO @ figma in #🌉・san-francisco
+[2026-01-14T23:06:38.573Z] [BOT] 💾 Marked as posted: Manager, Mid-Market Sales @ figma (instance #1)
+[2026-01-14T23:06:38.574Z] [BOT] 💾 BEFORE ARCHIVING: 1498 jobs in database
+[2026-01-14T23:06:38.575Z] [BOT] ✅ No jobs to archive (all 1498 jobs within 7-day window)
+[2026-01-14T23:06:38.585Z] [BOT] 💾 Saved posted_jobs.json: 1498 active jobs
+[2026-01-14T23:06:38.585Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-14T23:06:38.585Z] [BOT] 📍 [ROUTING] "Manager, Solutions Consulting" @ figma
+[2026-01-14T23:06:38.585Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-14T23:06:38.867Z] [BOT] ✅ Created forum post: 🏢 Manager, Solutions Consulting @ figma in #💲・sales-jobs
+  ✅ Industry: Manager, Solutions Consulting @ figma
+[2026-01-14T23:06:40.535Z] [BOT] ✅ Created forum post: 🏢 Manager, Solutions Consulting @ figma in #🌉・san-francisco
   ✅ Location: 🌉・san-francisco
-[2026-01-14T22:55:09.451Z] [BOT] 💾 Marked as posted: Manager, SEO @ figma (instance #1)
-[2026-01-14T22:55:09.451Z] [BOT] 💾 BEFORE ARCHIVING: 1491 jobs in database
-[2026-01-14T22:55:09.452Z] [BOT] ✅ No jobs to archive (all 1491 jobs within 7-day window)
-[2026-01-14T22:55:09.463Z] [BOT] 💾 Saved posted_jobs.json: 1491 active jobs
+[2026-01-14T23:06:42.036Z] [BOT] 💾 Marked as posted: Manager, Solutions Consulting @ figma (instance #1)
+[2026-01-14T23:06:42.037Z] [BOT] 💾 BEFORE ARCHIVING: 1499 jobs in database
+[2026-01-14T23:06:42.038Z] [BOT] ✅ No jobs to archive (all 1499 jobs within 7-day window)
+[2026-01-14T23:06:42.048Z] [BOT] 💾 Saved posted_jobs.json: 1499 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:12.463Z] [BOT] 📌 Posting 1 jobs to #📈・JID_fb739488
-[2026-01-14T22:55:12.463Z] [BOT] 📍 [ROUTING] "Staff Data Engineer, Ads" @ discord
-   Category: DATA-SCIENCE (matched: "data science")
+[2026-01-14T23:06:42.049Z] [BOT] 📍 [ROUTING] "Partner Manager, Scaled" @ figma
+[2026-01-14T23:06:42.049Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-14T23:06:42.258Z] [BOT] ✅ Created forum post: 🏢 Partner Manager, Scaled @ figma in #💲・sales-jobs
+[2026-01-14T23:06:42.258Z] [BOT] ✅ Industry: Partner Manager, Scaled @ figma
+[2026-01-14T23:06:44.037Z] [BOT] ✅ Created forum post: 🏢 Partner Manager, Scaled @ figma in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-14T23:06:45.539Z] [BOT] 💾 Marked as posted: Partner Manager, Scaled @ figma (instance #1)
+[2026-01-14T23:06:45.539Z] [BOT] 💾 BEFORE ARCHIVING: 1500 jobs in database
+[2026-01-14T23:06:45.540Z] [BOT] ✅ No jobs to archive (all 1500 jobs within 7-day window)
+[2026-01-14T23:06:45.551Z] [BOT] 💾 Saved posted_jobs.json: 1500 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-14T23:06:45.551Z] [BOT] 📍 [ROUTING] "Account Executive, SMB " @ figma
+[2026-01-14T23:06:45.551Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-14T23:06:45.819Z] [BOT] ✅ Created forum post: 🏢 Account Executive, SMB  @ figma in #💲・sales-jobs
+[2026-01-14T23:06:45.819Z] [BOT] ✅ Industry: Account Executive, SMB  @ figma
+[2026-01-14T23:06:47.485Z] [BOT] ✅ Created forum post: 🏢 Account Executive, SMB  @ figma in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-14T23:06:48.986Z] [BOT] 💾 Marked as posted: Account Executive, SMB  @ figma (instance #1)
+[2026-01-14T23:06:48.986Z] [BOT] 💾 BEFORE ARCHIVING: 1501 jobs in database
+[2026-01-14T23:06:48.987Z] [BOT] ✅ No jobs to archive (all 1501 jobs within 7-day window)
+[2026-01-14T23:06:48.998Z] [BOT] 💾 Saved posted_jobs.json: 1501 active jobs
+[2026-01-14T23:06:48.998Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-14T23:06:51.999Z] [BOT] 📌 Posting 1 jobs to #📣・marketing-jobs
+[2026-01-14T23:06:51.999Z] [BOT] 📍 [ROUTING] "Growth Marketing Manager, Creator & Affiliate" @ figma
+   Category: MARKETING (matched: "marketing")
+[2026-01-14T23:06:51.999Z] [BOT] Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-14T23:06:52.326Z] [BOT] ✅ Created forum post: 🏢 Growth Marketing Manager, Creator & Affiliate @ figma in #📣・marketing-jobs
+  ✅ Industry: Growth Marketing Manager, Creator & Affiliate @ figma
+[2026-01-14T23:06:54.013Z] [BOT] ✅ Created forum post: 🏢 Growth Marketing Manager, Creator & Affiliate @ figma in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-14T23:06:55.515Z] [BOT] 💾 Marked as posted: Growth Marketing Manager, Creator & Affiliate @ figma (instance #1)
+[2026-01-14T23:06:55.515Z] [BOT] 💾 BEFORE ARCHIVING: 1502 jobs in database
+[2026-01-14T23:06:55.516Z] [BOT] ✅ No jobs to archive (all 1502 jobs within 7-day window)
+[2026-01-14T23:06:55.526Z] [BOT] 💾 Saved posted_jobs.json: 1502 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-14T23:06:58.526Z] [BOT] 📌 Posting 2 jobs to #📈・JID_fb739488
+[2026-01-14T23:06:58.527Z] [BOT] 📍 [ROUTING] "Manager, Software Engineering - Creation Engine" @ figma
+[2026-01-14T23:06:58.527Z] [BOT] Category: DATA-SCIENCE (matched: "data science")
    Channel: 📈・JID_fb739488 (1446...2761)
-[2026-01-14T22:55:12.464Z] [BOT] ⚠️  Multiple matches: dsMatch, techMatch (using data-science)
-[2026-01-14T22:55:12.735Z] [BOT] ✅ Created forum post: 🏢 Staff Data Engineer, Ads @ discord in #📈・JID_fb739488
-  ✅ Industry: Staff Data Engineer, Ads @ discord
-[2026-01-14T22:55:14.590Z] [BOT] ✅ Created forum post: 🏢 Staff Data Engineer, Ads @ discord in #🌉・san-francisco
-  ✅ Location: 🌉・san-francisco
-[2026-01-14T22:55:16.091Z] [BOT] 💾 Marked as posted: Staff Data Engineer, Ads @ discord (instance #1)
-[2026-01-14T22:55:16.091Z] [BOT] 💾 BEFORE ARCHIVING: 1492 jobs in database
-[2026-01-14T22:55:16.092Z] [BOT] ✅ No jobs to archive (all 1492 jobs within 7-day window)
-[2026-01-14T22:55:16.103Z] [BOT] 💾 Saved posted_jobs.json: 1492 active jobs
-[2026-01-14T22:55:16.103Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:19.104Z] [BOT] 📌 Posting 3 jobs to #💻・tech-jobs
-[2026-01-14T22:55:19.104Z] [BOT] 📍 [ROUTING] "Graduate Software Engineer" @ ORG_0728f366 Panalytical
-   Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-14T22:55:19.444Z] [BOT] ✅ Created forum post: 🏢 Graduate Software Engineer @ ORG_0728f366 Panalytical in #💻・tech-jobs
-[2026-01-14T22:55:19.444Z] [BOT] ✅ Industry: Graduate Software Engineer @ ORG_0728f366 Panalytical
-[2026-01-14T22:55:21.332Z] [BOT] ✅ Created forum post: 🏢 Graduate Software Engineer @ ORG_0728f366 Panalytical in #🚌・boston
-[2026-01-14T22:55:21.332Z] [BOT] ✅ Location: 🚌・boston
-[2026-01-14T22:55:22.832Z] [BOT] 💾 Marked as posted: Graduate Software Engineer @ ORG_0728f366 Panalytical (instance #1)
-[2026-01-14T22:55:22.832Z] [BOT] 💾 BEFORE ARCHIVING: 1493 jobs in database
-[2026-01-14T22:55:22.833Z] [BOT] ✅ No jobs to archive (all 1493 jobs within 7-day window)
-[2026-01-14T22:55:22.845Z] [BOT] 💾 Saved posted_jobs.json: 1493 active jobs
+   ⚠️  Multiple matches: dsMatch, techMatch (using data-science)
+[2026-01-14T23:06:58.824Z] [BOT] ✅ Created forum post: 🏢 Manager, Software Engineering - Creation Engine @ figma in #📈・JID_fb739488
+[2026-01-14T23:06:58.824Z] [BOT] ✅ Industry: Manager, Software Engineering - Creation Engine @ figma
+[2026-01-14T23:07:00.510Z] [BOT] ✅ Created forum post: 🏢 Manager, Software Engineering - Creation Engine @ figma in #🌉・san-francisco
+[2026-01-14T23:07:00.511Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-14T23:07:02.012Z] [BOT] 💾 Marked as posted: Manager, Software Engineering - Creation Engine @ figma (instance #1)
+[2026-01-14T23:07:02.012Z] [BOT] 💾 BEFORE ARCHIVING: 1503 jobs in database
+[2026-01-14T23:07:02.013Z] [BOT] ✅ No jobs to archive (all 1503 jobs within 7-day window)
+[2026-01-14T23:07:02.025Z] [BOT] 💾 Saved posted_jobs.json: 1503 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:22.845Z] [BOT] 📍 [ROUTING] "Entry-Level Software Engineer" @ ORG_20eac5aa Dynamics Laboratory
-   Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-14T22:55:23.146Z] [BOT] ✅ Created forum post: 🏢 Entry-Level Software Engineer @ ORG_20eac5aa Dynamics Laboratory in #💻・tech-jobs
-[2026-01-14T22:55:23.146Z] [BOT] ✅ Industry: Entry-Level Software Engineer @ ORG_20eac5aa Dynamics Laboratory
-[2026-01-14T22:55:24.897Z] [BOT] ✅ Created forum post: 🏢 Entry-Level Software Engineer @ ORG_20eac5aa Dynamics Laboratory in #💻・remote-usa
-[2026-01-14T22:55:24.897Z] [BOT] ✅ Location: 💻・remote-usa
-[2026-01-14T22:55:26.399Z] [BOT] 💾 Marked as posted: Entry-Level Software Engineer @ ORG_20eac5aa Dynamics Laboratory (instance #1)
-[2026-01-14T22:55:26.399Z] [BOT] 💾 BEFORE ARCHIVING: 1494 jobs in database
-[2026-01-14T22:55:26.400Z] [BOT] ✅ No jobs to archive (all 1494 jobs within 7-day window)
-[2026-01-14T22:55:26.411Z] [BOT] 💾 Saved posted_jobs.json: 1494 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:26.411Z] [BOT] 📍 [ROUTING] "Business Systems Architect, AI" @ figma
-[2026-01-14T22:55:26.411Z] [BOT] Category: TECH (matched: "machine learning")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-14T22:55:26.968Z] [BOT] ✅ Created forum post: 🏢 Business Systems Architect, AI @ figma in #💻・tech-jobs
-  ✅ Industry: Business Systems Architect, AI @ figma
-[2026-01-14T22:55:28.764Z] [BOT] ✅ Created forum post: 🏢 Business Systems Architect, AI @ figma in #🌉・san-francisco
-  ✅ Location: 🌉・san-francisco
-[2026-01-14T22:55:30.265Z] [BOT] 💾 Marked as posted: Business Systems Architect, AI @ figma (instance #1)
-[2026-01-14T22:55:30.265Z] [BOT] 💾 BEFORE ARCHIVING: 1495 jobs in database
-[2026-01-14T22:55:30.266Z] [BOT] ✅ No jobs to archive (all 1495 jobs within 7-day window)
-[2026-01-14T22:55:30.276Z] [BOT] 💾 Saved posted_jobs.json: 1495 active jobs
-[2026-01-14T22:55:30.276Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:33.276Z] [BOT] 📌 Posting 1 jobs to #📦・product-jobs
-[2026-01-14T22:55:33.277Z] [BOT] 📍 [ROUTING] "Product Manager, Billing" @ clerk
+[2026-01-14T23:07:02.025Z] [BOT] 💾 Marked as posted: Manager, Software Engineering - Expressive AI @ figma (instance #1)
+[2026-01-14T23:07:02.026Z] [BOT] 💾 BEFORE ARCHIVING: 1504 jobs in database
+[2026-01-14T23:07:02.027Z] [BOT] ✅ No jobs to archive (all 1504 jobs within 7-day window)
+[2026-01-14T23:07:02.036Z] [BOT] 💾 Saved posted_jobs.json: 1504 active jobs
+[2026-01-14T23:07:02.036Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-14T23:07:02.036Z] [BOT] 💾 Marked as posted: Manager, Software Engineering - Collaboration Tools @ figma (instance #1)
+[2026-01-14T23:07:02.036Z] [BOT] 💾 BEFORE ARCHIVING: 1505 jobs in database
+[2026-01-14T23:07:02.037Z] [BOT] ✅ No jobs to archive (all 1505 jobs within 7-day window)
+[2026-01-14T23:07:02.046Z] [BOT] 💾 Saved posted_jobs.json: 1505 active jobs
+[2026-01-14T23:07:02.046Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-14T23:07:02.046Z] [BOT] 📍 [ROUTING] "Strategic Finance, Finance Systems & Automation" @ figma
+[2026-01-14T23:07:02.046Z] [BOT] Category: DATA-SCIENCE (matched: "data science")
+   Channel: 📈・JID_fb739488 (1446...2761)
+[2026-01-14T23:07:02.358Z] [BOT] ✅ Created forum post: 🏢 Strategic Finance, Finance Systems & Automation @ figma in #📈・JID_fb739488
+[2026-01-14T23:07:02.358Z] [BOT] ✅ Industry: Strategic Finance, Finance Systems & Automation @ figma
+[2026-01-14T23:07:04.130Z] [BOT] ✅ Created forum post: 🏢 Strategic Finance, Finance Systems & Automation @ figma in #🌉・san-francisco
+[2026-01-14T23:07:04.130Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-14T23:07:05.631Z] [BOT] 💾 Marked as posted: Strategic Finance, Finance Systems & Automation @ figma (instance #1)
+[2026-01-14T23:07:05.632Z] [BOT] 💾 BEFORE ARCHIVING: 1506 jobs in database
+[2026-01-14T23:07:05.633Z] [BOT] ✅ No jobs to archive (all 1506 jobs within 7-day window)
+[2026-01-14T23:07:05.643Z] [BOT] 💾 Saved posted_jobs.json: 1506 active jobs
+[2026-01-14T23:07:05.643Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-14T23:07:08.644Z] [BOT] 📌 Posting 1 jobs to #📦・product-jobs
+[2026-01-14T23:07:08.645Z] [BOT] 📍 [ROUTING] "Product Manager, Sites" @ figma
    Category: PRODUCT (matched: "product")
-[2026-01-14T22:55:33.277Z] [BOT] Channel: 📦・product-jobs (1391...8889)
-[2026-01-14T22:55:33.580Z] [BOT] ✅ Created forum post: 🏢 Product Manager, Billing @ clerk in #📦・product-jobs
-  ✅ Industry: Product Manager, Billing @ clerk
-[2026-01-14T22:55:35.082Z] [BOT] 💾 Marked as posted: Product Manager, Billing @ clerk (instance #1)
-[2026-01-14T22:55:35.082Z] [BOT] 💾 BEFORE ARCHIVING: 1496 jobs in database
-[2026-01-14T22:55:35.083Z] [BOT] ✅ No jobs to archive (all 1496 jobs within 7-day window)
-[2026-01-14T22:55:35.093Z] [BOT] 💾 Saved posted_jobs.json: 1496 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-14T22:55:38.093Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
-[2026-01-14T22:55:38.093Z] [BOT] ⏭️  Skipping duplicate: JID_a323b072 (posted within 7 days)
-[2026-01-14T22:55:38.094Z] [BOT] ⏭️  Skipping duplicate: JID_06424e64 (posted within 7 days)
-[2026-01-14T22:55:38.094Z] [BOT] ⏭️  Skipping duplicate: JID_34f5f73e (posted within 7 days)
-[2026-01-14T22:55:38.094Z] [BOT] ⏭️  Skipping duplicate: JID_620b2058 (posted within 7 days)
-[2026-01-14T22:55:38.094Z] [BOT] ⏭️  Skipping duplicate: JID_3fd56fb0-malvern_panalytical_careers-JID_686911c2-engineer_16693 (posted within 7 days)
-[2026-01-14T22:55:38.094Z] [BOT] ⏭️  Skipping duplicate: JID_02c8e9ca (posted within 7 days)
-[2026-01-14T22:55:38.094Z] [BOT] ⏭️  Skipping duplicate: JID_2f3100fc (posted within 7 days)
-⏭️  Skipping duplicate: JID_13c7c220 (posted within 7 days)
-[2026-01-14T22:55:38.094Z] [BOT] ⏭️  Skipping duplicate: JID_976601b2 (posted within 7 days)
-⏭️  Skipping duplicate: JID_509fb2e3 (posted within 7 days)
-[2026-01-14T22:55:38.225Z] [BOT] ✅ Loaded pending queue: 2729 total (2709 pending, 20 enriched, 0 posted)
-[2026-01-14T22:55:38.377Z] [BOT] ✅ Saved pending queue: 2729 total (2709 pending, 10 enriched, 10 posted)
-📋 Updated queue: marked 10 jobs as posted
-[2026-01-14T22:55:38.378Z] [BOT] ✅ All posting operations complete, cleaning up...
-[2026-01-14T22:55:38.431Z] [BOT] 📂 Loaded 3625 existing routing entries
-[2026-01-14T22:55:38.491Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-   New entries: 10
-[2026-01-14T22:55:38.491Z] [BOT] Total entries: 3635
-   Timestamp: 2026-01-14T22:55:38.476Z
-[2026-01-14T22:55:38.492Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_7b68d088.jsonl
-   Total attempts: 19
-   Successful: 19
-[2026-01-14T22:55:38.492Z] [BOT] Failed: 0
+[2026-01-14T23:07:08.645Z] [BOT] Channel: 📦・product-jobs (1391...8889)
+[2026-01-14T23:07:08.766Z] [BOT ERROR] ❌ Error posting job Product Manager, Sites: DiscordAPIError[160006]: Maximum number of active threads reached
+    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
+    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
+    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
+    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
+    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
+    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
+  requestBody: {
+    files: [],
+    json: {
+      name: '🏢 Product Manager, Sites @ figma',
+      auto_archive_duration: 1440,
+      rate_limit_per_user: undefined,
+      applied_tags: undefined,
+      message: [Object]
+    }
+  },
+  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
+  code: 160006,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/channels/CH_c616cbe4/threads'
+}
+[2026-01-14T23:07:08.766Z] [BOT] ❌ Industry post failed: Product Manager, Sites
+⚠️  Channel full error count: 1/5
+[2026-01-14T23:07:10.442Z] [BOT ERROR] ❌ Error posting job Product Manager, Sites: DiscordAPIError[160006]: Maximum number of active threads reached
+    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
+    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
+    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
+    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
+    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
+    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:935:40) {
+  requestBody: {
+    files: [],
+    json: {
+      name: '🏢 Product Manager, Sites @ figma',
+      auto_archive_duration: 1440,
+      rate_limit_per_user: undefined,
+      applied_tags: undefined,
+      message: [Object]
+    }
+  },
+  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
+  code: 160006,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/channels/CH_fac6befb/threads'
+}
+[2026-01-14T23:07:10.442Z] [BOT] ⚠️ Location post failed: 🌉・san-francisco
+[2026-01-14T23:07:14.943Z] [BOT] 📌 Posting 1 jobs to #📁・JID_e938df7b
+[2026-01-14T23:07:14.943Z] [BOT] 📍 [ROUTING] "Technical Recruiter, Product" @ figma
+[2026-01-14T23:07:14.944Z] [BOT] Category: HR (matched: "hr")
+   Channel: 📁・JID_e938df7b (1391...7674)
+[2026-01-14T23:07:15.150Z] [BOT ERROR] ❌ Error posting job Technical Recruiter, Product: DiscordAPIError[160006]: Maximum number of active threads reached
+    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
+    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
+    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
+    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
+    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
+    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
+  requestBody: {
+    files: [],
+    json: {
+      name: '🏢 Technical Recruiter, Product @ figma',
+      auto_archive_duration: 1440,
+      rate_limit_per_user: undefined,
+      applied_tags: undefined,
+      message: [Object]
+    }
+  },
+  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
+  code: 160006,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/channels/CH_6bf05ed9/threads'
+}
+[2026-01-14T23:07:15.150Z] [BOT] ❌ Industry post failed: Technical Recruiter, Product
+⚠️  Channel full error count: 2/5
+[2026-01-14T23:07:16.766Z] [BOT ERROR] ❌ Error posting job Technical Recruiter, Product: DiscordAPIError[160006]: Maximum number of active threads reached
+    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
+    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
+    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
+    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
+    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
+    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:935:40) {
+  requestBody: {
+    files: [],
+    json: {
+      name: '🏢 Technical Recruiter, Product @ figma',
+      auto_archive_duration: 1440,
+      rate_limit_per_user: undefined,
+      applied_tags: undefined,
+      message: [Object]
+    }
+  },
+  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
+  code: 160006,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/channels/CH_fac6befb/threads'
+}
+[2026-01-14T23:07:16.767Z] [BOT] ⚠️ Location post failed: 🌉・san-francisco
+[2026-01-14T23:07:21.268Z] [BOT] 🎉 Posting complete! Successfully posted: 8, Failed: 2
+[2026-01-14T23:07:21.269Z] [BOT] ⏭️  Skipping duplicate: JID_ec3f0bda (posted within 7 days)
+[2026-01-14T23:07:21.270Z] [BOT] ⏭️  Skipping duplicate: JID_ca57f095 (posted within 7 days)
+⏭️  Skipping duplicate: JID_4aa9ae38 (posted within 7 days)
+⏭️  Skipping duplicate: JID_1d1edb55 (posted within 7 days)
+⏭️  Skipping duplicate: JID_e1299199 (posted within 7 days)
+[2026-01-14T23:07:21.270Z] [BOT] ⏭️  Skipping duplicate: JID_caf7d4ef (posted within 7 days)
+⏭️  Skipping duplicate: JID_e63c6a0e (posted within 7 days)
+[2026-01-14T23:07:21.270Z] [BOT] ⏭️  Skipping duplicate: JID_fbea14ba (posted within 7 days)
+[2026-01-14T23:07:21.383Z] [BOT] ✅ Loaded pending queue: 2729 total (2709 pending, 20 enriched, 0 posted)
+[2026-01-14T23:07:21.545Z] [BOT] ✅ Saved pending queue: 2729 total (2709 pending, 12 enriched, 8 posted)
+📋 Updated queue: marked 8 jobs as posted
+[2026-01-14T23:07:21.545Z] [BOT] ✅ All posting operations complete, cleaning up...
+[2026-01-14T23:07:21.599Z] [BOT] 📂 Loaded 3635 existing routing entries
+[2026-01-14T23:07:21.660Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+[2026-01-14T23:07:21.660Z] [BOT] New entries: 10
+   Total entries: 3645
+   Timestamp: 2026-01-14T23:07:21.645Z
+[2026-01-14T23:07:21.661Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_7b68d088.jsonl
+[2026-01-14T23:07:21.661Z] [BOT] Total attempts: 20
+   Successful: 16
+   Failed: 4
    Skipped: 0
-📊 CHANNEL STATS SINCE LAST CLEANUP:
+[2026-01-14T23:07:21.661Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
    Last cleanup: Never
-   Total posts: 19
-   Channels used: 9
+   Total posts: 16
+   Channels used: 4
    Top channels:
-[2026-01-14T22:55:38.492Z] [BOT] 1. #🌉・san-francisco: 6 posts
-     2. #💲・sales-jobs: 3 posts
-     3. #💻・tech-jobs: 3 posts
-     4. #🤖・ai-jobs: 2 posts
-     5. #🗽・new-york: 1 posts
-[2026-01-14T22:55:38.493Z] [BOT] [STATS] Channel stats saved
-[2026-01-14T22:55:40.516Z] 
+     1. #🌉・san-francisco: 8 posts
+[2026-01-14T23:07:21.661Z] [BOT] 2. #💲・sales-jobs: 5 posts
+     3. #📈・JID_fb739488: 2 posts
+     4. #📣・marketing-jobs: 1 posts
+[2026-01-14T23:07:21.661Z] [BOT] [STATS] Channel stats saved
+[2026-01-14T23:07:23.687Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2374) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2410) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] ❌ Error posting job Product Manager, Sites: DiscordAPIError[160006]: Maximum number of active threads reached
+- [BOT] ❌ Industry post failed: Product Manager, Sites
+- [BOT ERROR] ❌ Error posting job Product Manager, Sites: DiscordAPIError[160006]: Maximum number of active threads reached
+- [BOT ERROR] ❌ Error posting job Technical Recruiter, Product: DiscordAPIError[160006]: Maximum number of active threads reached
+- [BOT] ❌ Industry post failed: Technical Recruiter, Product
+- [BOT ERROR] ❌ Error posting job Technical Recruiter, Product: DiscordAPIError[160006]: Maximum number of active threads reached
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
