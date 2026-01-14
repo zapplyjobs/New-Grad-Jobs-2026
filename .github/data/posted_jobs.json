@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T19:42:44.539Z",
+  "lastUpdated": "2026-01-14T19:52:16.419Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5057258008-2026-01-07-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5057258008",
-      "company": "anthropic",
-      "title": "Startups Solutions Architect, Applied AI",
-      "postedToDiscord": "2026-01-07T19:51:04.946Z",
-      "sourceDate": "2026-01-07T14:37:06-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008",
-      "discordThreadId": "1458548502450802912",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7248738-2026-01-07-1",
       "jobId": "careers-datadoghq-com-detail-7248738",
@@ -15313,14 +15302,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4801218008",
       "discordThreadId": "1461083118789333163",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980504008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980504008",
+      "company": "anthropic",
+      "title": "Commercial Legal Specialist, Technical AI Implementation",
+      "postedToDiscord": "2026-01-14T19:51:33.911Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980504008",
+      "discordThreadId": "1461085339559923813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4741102008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4741102008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Inference",
+      "postedToDiscord": "2026-01-14T19:51:37.746Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
+      "discordThreadId": "1461085354307358852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4987662008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4987662008",
+      "company": "anthropic",
+      "title": "Contracts Manager",
+      "postedToDiscord": "2026-01-14T19:51:44.530Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4987662008",
+      "discordThreadId": "1461085382689947914",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4955791008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4955791008",
+      "company": "anthropic",
+      "title": "Contracts Manager, Procurement",
+      "postedToDiscord": "2026-01-14T19:51:48.020Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4955791008",
+      "discordThreadId": "1461085398490022028",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4900975008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4900975008",
+      "company": "anthropic",
+      "title": "Director, Compute Infrastructure Procurement ",
+      "postedToDiscord": "2026-01-14T19:51:52.647Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
+      "discordThreadId": "1461085413816139808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4959525008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959525008",
+      "company": "anthropic",
+      "title": "Director, Order Management & Billing",
+      "postedToDiscord": "2026-01-14T19:51:56.167Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959525008",
+      "discordThreadId": "1461085432216424586",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971073008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971073008",
+      "company": "anthropic",
+      "title": "Customer Marketing Manager",
+      "postedToDiscord": "2026-01-14T19:52:02.785Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971073008",
+      "discordThreadId": "1461085459584123067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4946317008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946317008",
+      "company": "anthropic",
+      "title": "Data Operations Manager",
+      "postedToDiscord": "2026-01-14T19:52:09.282Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946317008",
+      "discordThreadId": "1461085487690416283",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971827008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971827008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Desktop",
+      "postedToDiscord": "2026-01-14T19:52:12.765Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971827008",
+      "discordThreadId": "1461085502353702923",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4903385008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4903385008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Public Sector",
+      "postedToDiscord": "2026-01-14T19:52:16.419Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4903385008",
+      "discordThreadId": "1461085516874256531",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1392,
+    "totalJobs": 1401,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T19:42:44.539Z",
+      "date": "2026-01-14T19:52:16.419Z",
       "archived": 0
     }
   }
