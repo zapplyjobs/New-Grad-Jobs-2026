@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T19:52:16.419Z",
+  "lastUpdated": "2026-01-14T20:08:36.327Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7248738-2026-01-07-1",
-      "jobId": "careers-datadoghq-com-detail-7248738",
-      "company": "datadog",
-      "title": "Sales Development Representative - Summer 2026 Graduates (Boston)",
-      "postedToDiscord": "2026-01-07T20:06:27.900Z",
-      "sourceDate": "2026-01-07T14:57:11-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7248738/?gh_jid=7248738",
-      "discordThreadId": "1458552374112161985",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7516179-2026-01-07-1",
       "jobId": "careers-datadoghq-com-detail-7516179",
@@ -15412,14 +15401,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4903385008",
       "discordThreadId": "1461085516874256531",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4493001008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4493001008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, Digital Native Business",
+      "postedToDiscord": "2026-01-14T20:07:56.963Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4493001008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4959324008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959324008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, DOD/IC",
+      "postedToDiscord": "2026-01-14T20:08:00.551Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959324008",
+      "discordThreadId": "1461089477211590879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4959331008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959331008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, Federal Civilian Sales",
+      "postedToDiscord": "2026-01-14T20:08:04.103Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959331008",
+      "discordThreadId": "1461089492038320181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4959334008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959334008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, Federal Partners Sales",
+      "postedToDiscord": "2026-01-14T20:08:07.571Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959334008",
+      "discordThreadId": "1461089506685091964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4493035008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4493035008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, Industries",
+      "postedToDiscord": "2026-01-14T20:08:12.502Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4493035008",
+      "discordThreadId": "1461089522208215040",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4959329008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959329008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, State & Local Sales",
+      "postedToDiscord": "2026-01-14T20:08:16.038Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959329008",
+      "discordThreadId": "1461089542361841736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4991194008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4991194008",
+      "company": "anthropic",
+      "title": "Finance Systems, Senior Business Systems Analyst",
+      "postedToDiscord": "2026-01-14T20:08:19.674Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4991194008",
+      "discordThreadId": "1461089557209547003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983873008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983873008",
+      "company": "anthropic",
+      "title": "Global Indirect Tax Compliance Lead",
+      "postedToDiscord": "2026-01-14T20:08:23.305Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983873008",
+      "discordThreadId": "1461089572564762658",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4965200008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4965200008",
+      "company": "anthropic",
+      "title": "Event Security Program Coordinator ",
+      "postedToDiscord": "2026-01-14T20:08:29.870Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4965200008",
+      "discordThreadId": "1461089600314282047",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4934940008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4934940008",
+      "company": "anthropic",
+      "title": "Field Marketing Manager, Industries",
+      "postedToDiscord": "2026-01-14T20:08:36.326Z",
+      "sourceDate": "2025-11-22T09:28:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4934940008",
+      "discordThreadId": "1461089627803750460",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1401,
+    "totalJobs": 1410,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T19:52:16.419Z",
+      "date": "2026-01-14T20:08:36.327Z",
       "archived": 0
     }
   }
