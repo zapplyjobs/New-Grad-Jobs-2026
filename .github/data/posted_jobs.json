@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T07:44:03.676Z",
+  "lastUpdated": "2026-01-14T07:53:42.379Z",
   "jobs": [
-    {
-      "id": "www-samsara-com-company-careers-roles-7484594-2026-01-07-1",
-      "jobId": "www-samsara-com-company-careers-roles-7484594",
-      "company": "samsara",
-      "title": "Manager, Workplace Operations",
-      "postedToDiscord": "2026-01-07T07:53:16.520Z",
-      "sourceDate": "2026-01-07T02:49:42-05:00",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/7484594?gh_jid=7484594",
-      "discordThreadId": "1458367860547256423",
-      "instanceNumber": 1
-    },
     {
       "id": "magnoliamanorgreenville-careers-fundltc-icims-com-jobs-2057-job-2026-01-07-1",
       "jobId": "magnoliamanorgreenville-careers-fundltc-icims-com-jobs-2057-job",
@@ -14455,14 +14444,124 @@
       "sourceUrl": "https://jobs.lever.co/regalvoice/a0291985-c8cf-41f4-88c1-3a150d1aeb24/apply",
       "discordThreadId": "1460902256873312276",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5719796004-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5719796004",
+      "company": "vercel",
+      "title": "Mobile Engineer",
+      "postedToDiscord": "2026-01-14T07:53:07.219Z",
+      "sourceDate": "2025-12-02T16:02:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-huntsville-al-full-stack-developer-junior_r0230138-2026-01-14-1",
+      "jobId": "bah-wd1-myworkdayjobs-com-bah_jobs-job-huntsville-al-full-stack-developer-junior_r0230138",
+      "company": "Booz Allen",
+      "title": "Full-Stack Developer - Junior",
+      "postedToDiscord": "2026-01-14T07:53:10.690Z",
+      "sourceDate": "2025-12-02T18:40:37.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230138",
+      "discordThreadId": "1460904551216451646",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corningjobs-corning-com-job-corning-ion-exchange-development-technician-ny-14831-1345630700-2026-01-14-1",
+      "jobId": "corningjobs-corning-com-job-corning-ion-exchange-development-technician-ny-14831-1345630700",
+      "company": "Corning",
+      "title": "Ion Exchange Development Technician",
+      "postedToDiscord": "2026-01-14T07:53:13.994Z",
+      "sourceDate": "2025-12-02T16:19:35.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Ion-Exchange-Development-Technician-NY-14831/1345630700/?ats=successfactors",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "fmr-wd1-myworkdayjobs-com-en-us-targeted-job-merrimack-nh-associate-full-stack-engineer_2120832-1-2026-01-14-1",
+      "jobId": "fmr-wd1-myworkdayjobs-com-en-us-targeted-job-merrimack-nh-associate-full-stack-engineer_2120832-1",
+      "company": "Fidelity Investments",
+      "title": "Associate Full Stack Engineer",
+      "postedToDiscord": "2026-01-14T07:53:17.331Z",
+      "sourceDate": "2025-12-02T15:25:04.000Z",
+      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1",
+      "discordThreadId": "1460904579745976370",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015565008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015565008",
+      "company": "anthropic",
+      "title": "RevOps Reporting & Insights Analyst",
+      "postedToDiscord": "2026-01-14T07:53:23.766Z",
+      "sourceDate": "2025-12-02T15:56:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
+      "discordThreadId": "1460904606342189100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4939815008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939815008",
+      "company": "anthropic",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-14T07:53:27.200Z",
+      "sourceDate": "2025-12-02T10:23:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
+      "discordThreadId": "1460904620485247018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5721796004-2026-01-14-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5721796004",
+      "company": "figma",
+      "title": "Community Experiences Manager",
+      "postedToDiscord": "2026-01-14T07:53:30.795Z",
+      "sourceDate": "2025-12-02T04:45:14-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5721796004?gh_jid=5721796004",
+      "discordThreadId": "1460904635299528707",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-faa7469b-d007-4a29-903f-93ad34c7f472-2026-01-14-1",
+      "jobId": "jobs-lever-co-gohighlevel-faa7469b-d007-4a29-903f-93ad34c7f472",
+      "company": "gohighlevel",
+      "title": "Internship Program Coordinator",
+      "postedToDiscord": "2026-01-14T07:53:35.472Z",
+      "sourceDate": "2025-12-02T16:21:12.895Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/faa7469b-d007-4a29-903f-93ad34c7f472",
+      "discordThreadId": "1460904662680076319",
+      "instanceNumber": 1
+    },
+    {
+      "id": "costar-wd1-myworkdayjobs-com-costar_campus-job-sunnyvale-associate-machine-learning-engineer_r37862-2026-01-14-1",
+      "jobId": "costar-wd1-myworkdayjobs-com-costar_campus-job-sunnyvale-associate-machine-learning-engineer_r37862",
+      "company": "CoStar Group",
+      "title": "Associate Machine Learning Engineer",
+      "postedToDiscord": "2026-01-14T07:53:38.900Z",
+      "sourceDate": "2025-12-02T10:22:09.000Z",
+      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862",
+      "discordThreadId": "1460904669843820750",
+      "instanceNumber": 1
+    },
+    {
+      "id": "etsy-wd5-myworkdayjobs-com-etsy_careers-job-brooklyn-new-york-software-engineer-ml-training-data_jr5230-2026-01-14-1",
+      "jobId": "etsy-wd5-myworkdayjobs-com-etsy_careers-job-brooklyn-new-york-software-engineer-ml-training-data_jr5230",
+      "company": "Etsy",
+      "title": "Software Engineer 1 - Machine Learning",
+      "postedToDiscord": "2026-01-14T07:53:42.378Z",
+      "sourceDate": "2025-12-02T06:28:39.000Z",
+      "sourceUrl": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer--ML-Training-Data_JR5230",
+      "discordThreadId": "1460904683777560649",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1314,
+    "totalJobs": 1323,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T07:44:03.676Z",
+      "date": "2026-01-14T07:53:42.379Z",
       "archived": 0
     }
   }
