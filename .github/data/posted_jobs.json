@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T01:18:11.605Z",
+  "lastUpdated": "2026-01-14T02:01:29.018Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-cloudflare-jobs-7514944-2026-01-07-1",
-      "jobId": "boards-greenhouse-io-cloudflare-jobs-7514944",
-      "company": "cloudflare",
-      "title": "Senior Security Compliance Specialist (DoD)",
-      "postedToDiscord": "2026-01-07T01:56:11.926Z",
-      "sourceDate": "2026-01-06T20:21:27-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7514944?gh_jid=7514944",
-      "discordThreadId": "1458277999307653132",
-      "instanceNumber": 1
-    },
     {
       "id": "kla-wd1-myworkdayjobs-com-search-job-totowa-nj-analytical-chemist_2533379-1-2026-01-07-1",
       "jobId": "kla-wd1-myworkdayjobs-com-search-job-totowa-nj-analytical-chemist_2533379-1",
@@ -12134,14 +12123,234 @@
       "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Jr-Business---Technology-Analyst---Data-Scientist---Machine-Learning-Engineer_JR3704",
       "discordThreadId": "1460805150196105329",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-qualtrics-com-careers-us-en-job-7445366-2026-01-14-1",
+      "jobId": "www-qualtrics-com-careers-us-en-job-7445366",
+      "company": "Qualtrics",
+      "title": "Data Scientist - People Analytics",
+      "postedToDiscord": "2026-01-14T02:00:54.304Z",
+      "sourceDate": "2025-12-10T16:27:04.000Z",
+      "sourceUrl": "https://www.qualtrics.com/careers/us/en/job/7445366?gh_jid=7445366",
+      "discordThreadId": "1460815899018662174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7704446002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-7704446002",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-14T02:01:00.920Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704446002?gh_jid=7704446002",
+      "discordThreadId": "1460815926483222693",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7704415002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-7704415002",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-14T02:01:00.932Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704415002?gh_jid=7704415002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8177687002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8177687002",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-14T02:01:04.505Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177687002?gh_jid=8177687002",
+      "discordThreadId": "1460815941276270815",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8177660002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8177660002",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-14T02:01:04.514Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177660002?gh_jid=8177660002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303858002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8303858002",
+      "company": "brex",
+      "title": " Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-14T02:01:08.128Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303858002?gh_jid=8303858002",
+      "discordThreadId": "1460815955948208364",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303852002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8303852002",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-14T02:01:08.138Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303852002?gh_jid=8303852002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8302391002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8302391002",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-14T02:01:08.146Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8302391002?gh_jid=8302391002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8303855002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8303855002",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-14T02:01:08.153Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303855002?gh_jid=8303855002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8106987002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8106987002",
+      "company": "brex",
+      "title": "Banking Specialist",
+      "postedToDiscord": "2026-01-14T02:01:11.816Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8106987002?gh_jid=8106987002",
+      "discordThreadId": "1460815971638841448",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8106949002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8106949002",
+      "company": "brex",
+      "title": "Banking Specialist",
+      "postedToDiscord": "2026-01-14T02:01:11.825Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8106949002?gh_jid=8106949002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8178537002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8178537002",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-14T02:01:15.278Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178537002?gh_jid=8178537002",
+      "discordThreadId": "1460815986981736449",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8178541002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8178541002",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-14T02:01:15.287Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178541002?gh_jid=8178541002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8178538002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8178538002",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-14T02:01:15.295Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178538002?gh_jid=8178538002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8178536002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8178536002",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-14T02:01:15.303Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178536002?gh_jid=8178536002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8066812002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8066812002",
+      "company": "brex",
+      "title": "Director, Mid Market Sales",
+      "postedToDiscord": "2026-01-14T02:01:18.749Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8066812002?gh_jid=8066812002",
+      "discordThreadId": "1460816001380782144",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316338002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8316338002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-14T02:01:25.296Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316338002?gh_jid=8316338002",
+      "discordThreadId": "1460816028438364235",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316257002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8316257002",
+      "company": "brex",
+      "title": "Compliance Manager (Card & Rewards)",
+      "postedToDiscord": "2026-01-14T02:01:28.998Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316257002?gh_jid=8316257002",
+      "discordThreadId": "1460816043433005233",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316256002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8316256002",
+      "company": "brex",
+      "title": "Compliance Manager (Card & Rewards)",
+      "postedToDiscord": "2026-01-14T02:01:29.009Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316256002?gh_jid=8316256002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316251002-2026-01-14-1",
+      "jobId": "www-brex-com-careers-8316251002",
+      "company": "brex",
+      "title": "Compliance Manager (Card & Rewards)",
+      "postedToDiscord": "2026-01-14T02:01:29.018Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316251002?gh_jid=8316251002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1103,
+    "totalJobs": 1122,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T01:18:11.605Z",
+      "date": "2026-01-14T02:01:29.018Z",
       "archived": 0
     }
   }
