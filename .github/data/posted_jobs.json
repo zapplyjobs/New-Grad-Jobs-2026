@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T18:48:20.713Z",
+  "lastUpdated": "2026-01-14T19:01:31.292Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5735636004-2026-01-07-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5735636004",
-      "company": "figma",
-      "title": "Strategic Program Manager, Contingent Workforce",
-      "postedToDiscord": "2026-01-07T19:00:15.746Z",
-      "sourceDate": "2026-01-07T13:46:33-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735636004?gh_jid=5735636004",
-      "discordThreadId": "1458535712940097680",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5057258008-2026-01-07-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5057258008",
@@ -14950,14 +14939,69 @@
       "sourceUrl": "https://jobs.lever.co/spotify/ce5934cb-6be9-478c-a856-49b8189d87e2",
       "discordThreadId": "1461069429080330251",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7374529-2026-01-14-1",
+      "jobId": "careers-datadoghq-com-detail-7374529",
+      "company": "Datadog",
+      "title": "Data Analyst - GTM Strategy & Operations",
+      "postedToDiscord": "2026-01-14T19:01:12.642Z",
+      "sourceDate": "2025-11-26T23:31:30.000Z",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7374529/?gh_jid=7374529",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-engineer_r_12122-1-2026-01-14-1",
+      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-engineer_r_12122-1",
+      "company": "Auto-Owners Insurance",
+      "title": "Business Intelligence Engineer",
+      "postedToDiscord": "2026-01-14T19:01:16.767Z",
+      "sourceDate": "2025-11-26T11:01:40.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_12122-1",
+      "discordThreadId": "1461072682094297322",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mcafee-wd1-myworkdayjobs-com-external-job-united-states-ai-training-data-acquisition-analyst_jr0032205-2026-01-14-1",
+      "jobId": "mcafee-wd1-myworkdayjobs-com-external-job-united-states-ai-training-data-acquisition-analyst_jr0032205",
+      "company": "McAfee",
+      "title": "AI Training Data Acquisition Analyst",
+      "postedToDiscord": "2026-01-14T19:01:23.633Z",
+      "sourceDate": "2025-11-26T10:54:17.000Z",
+      "sourceUrl": "https://mcafee.wd1.myworkdayjobs.com/external/job/United-States/AI-Training-Data-Acquisition-Analyst_JR0032205",
+      "discordThreadId": "1461072712024985814",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7516666201355962632-2026-01-14-1",
+      "jobId": "lifeattiktok-com-search-7516666201355962632",
+      "company": "TikTok",
+      "title": "（General Hire）Machine Learning Engineer Graduate - E-Commerce - 2026 Start','Phd",
+      "postedToDiscord": "2026-01-14T19:01:27.498Z",
+      "sourceDate": "2025-11-26T04:20:42.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7516666201355962632",
+      "discordThreadId": "1461072728147628142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4935314008-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4935314008",
+      "company": "anthropic",
+      "title": "Technical Recruiter, Specialized",
+      "postedToDiscord": "2026-01-14T19:01:31.291Z",
+      "sourceDate": "2025-11-25T20:22:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008",
+      "discordThreadId": "1461072744048492595",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1359,
+    "totalJobs": 1363,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T18:48:20.713Z",
+      "date": "2026-01-14T19:01:31.292Z",
       "archived": 0
     }
   }
