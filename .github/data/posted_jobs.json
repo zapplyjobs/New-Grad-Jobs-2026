@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T16:07:49.392Z",
+  "lastUpdated": "2026-01-14T16:27:31.161Z",
   "jobs": [
     {
       "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485-2026-01-07-1",
@@ -14807,14 +14807,25 @@
       "sourceUrl": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1",
       "discordThreadId": "1461029033587376188",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-trueanomalyinc-jobs-4971623007-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-trueanomalyinc-jobs-4971623007",
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 - Elixir",
+      "postedToDiscord": "2026-01-14T16:27:31.160Z",
+      "sourceDate": "2025-11-28T01:04:43.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4971623007",
+      "discordThreadId": "1461033989770055782",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1346,
+    "totalJobs": 1347,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T16:07:49.392Z",
+      "date": "2026-01-14T16:27:31.161Z",
       "archived": 0
     }
   }
