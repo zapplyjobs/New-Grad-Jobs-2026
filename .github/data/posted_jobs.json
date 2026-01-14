@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T11:39:54.018Z",
+  "lastUpdated": "2026-01-14T13:12:41.538Z",
   "jobs": [
-    {
-      "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-business-systems-analyst-international_r260243-2-2026-01-07-1",
-      "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-business-systems-analyst-international_r260243-2",
-      "company": "Uline",
-      "title": "Business Systems Analyst - International",
-      "postedToDiscord": "2026-01-07T12:48:20.502Z",
-      "sourceDate": "2026-01-07T12:03:27.000Z",
-      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R260243-2",
-      "discordThreadId": "1458442116693889075",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hcmportal-wd5-myworkdayjobs-com-en-us-search-job-in-tdc-1-in110-product-analyst-gen-ai-automation_r25044896-1-2026-01-07-1",
-      "jobId": "hcmportal-wd5-myworkdayjobs-com-en-us-search-job-in-tdc-1-in110-product-analyst-gen-ai-automation_r25044896-1",
-      "company": "United Parcel Service (UPS)",
-      "title": "Product Analyst-Gen AI Automation",
-      "postedToDiscord": "2026-01-07T13:10:53.911Z",
-      "sourceDate": "2026-01-07T12:16:37.000Z",
-      "sourceUrl": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Product-Analyst--Gen-AI-Automation_R25044896-1",
-      "discordThreadId": "1458447800701554894",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-502f2ca0-bb9f-41b8-b272-48624e35d5f8-2026-01-07-1",
-      "jobId": "jobs-lever-co-spotify-502f2ca0-bb9f-41b8-b272-48624e35d5f8",
-      "company": "spotify",
-      "title": "GM, Surfaces Personalization",
-      "postedToDiscord": "2026-01-07T13:11:00.320Z",
-      "sourceDate": "2026-01-07T08:47:11.207Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/502f2ca0-bb9f-41b8-b272-48624e35d5f8",
-      "discordThreadId": "1458447820532224172",
-      "instanceNumber": 1
-    },
     {
       "id": "www-samsara-com-company-careers-roles-7492120-2026-01-07-1",
       "jobId": "www-samsara-com-company-careers-roles-7492120",
@@ -14785,14 +14752,58 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordThreadId": "1460961608040845375",
       "instanceNumber": 1
+    },
+    {
+      "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825-2026-01-14-1",
+      "jobId": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825",
+      "company": "Morgan Stanley",
+      "title": "Java Developer - Associate",
+      "postedToDiscord": "2026-01-14T13:12:30.954Z",
+      "sourceDate": "2025-11-30T23:43:45.000Z",
+      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
+      "discordThreadId": "1460984915742031893",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd3-myworkdaysite-com-recruiting-magna-magna-job-goleta-california-us-software-engineer-i-thermal-cameras_r00193769-2026-01-14-1",
+      "jobId": "wd3-myworkdaysite-com-recruiting-magna-magna-job-goleta-california-us-software-engineer-i-thermal-cameras_r00193769",
+      "company": "Magna",
+      "title": "Software Engineer 1 - Thermal Camera",
+      "postedToDiscord": "2026-01-14T13:12:34.488Z",
+      "sourceDate": "2025-11-30T20:42:53.000Z",
+      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
+      "discordThreadId": "1460984929587302514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-affirm-jobs-7485072003-2026-01-14-1",
+      "jobId": "job-boards-greenhouse-io-affirm-jobs-7485072003",
+      "company": "Affirm",
+      "title": "Software Engineer – Early Career",
+      "postedToDiscord": "2026-01-14T13:12:38.220Z",
+      "sourceDate": "2025-11-30T20:12:03.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+      "discordThreadId": "1460984944968073286",
+      "instanceNumber": 1
+    },
+    {
+      "id": "campbellsoup-wd5-myworkdayjobs-com-externalcareers_globalsite-job-usa-nj-camden-packaging-engineer-sustainability_req-62127-2026-01-14-1",
+      "jobId": "campbellsoup-wd5-myworkdayjobs-com-externalcareers_globalsite-job-usa-nj-camden-packaging-engineer-sustainability_req-62127",
+      "company": "The Campbell's Company",
+      "title": "Packaging Engineer - Sustainability",
+      "postedToDiscord": "2026-01-14T13:12:41.538Z",
+      "sourceDate": "2025-11-30T11:44:11.000Z",
+      "sourceUrl": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Packaging-Engineer---Sustainability_Req-62127",
+      "discordThreadId": "1460984960394592306",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1344,
+    "totalJobs": 1345,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T11:39:54.018Z",
+      "date": "2026-01-14T13:12:41.538Z",
       "archived": 0
     }
   }
