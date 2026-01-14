@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T14:56:38.836Z",
+  "lastUpdated": "2026-01-14T16:07:49.392Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7460368-2026-01-07-1",
-      "jobId": "careers-datadoghq-com-detail-7460368",
-      "company": "datadog",
-      "title": "Senior Sales Engineer",
-      "postedToDiscord": "2026-01-07T15:07:21.782Z",
-      "sourceDate": "2026-01-07T09:57:18-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368",
-      "discordThreadId": "1458477102331465890",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brookfield-wd5-myworkdayjobs-com-brookfieldproperties-job-charleston-south-carolina-software-engineer_r2045781-2026-01-07-1",
-      "jobId": "brookfield-wd5-myworkdayjobs-com-brookfieldproperties-job-charleston-south-carolina-software-engineer_r2045781",
-      "company": "Brookfield Properties",
-      "title": "Martech Software Engineer",
-      "postedToDiscord": "2026-01-07T15:26:12.005Z",
-      "sourceDate": "2025-12-13T15:16:32.000Z",
-      "sourceUrl": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Charleston-South-Carolina/Software-Engineer_R2045781",
-      "discordThreadId": "1458481843018924272",
-      "instanceNumber": 1
-    },
     {
       "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485-2026-01-07-1",
       "jobId": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8485",
@@ -14807,6 +14785,28 @@
       "sourceUrl": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I_R-45381-1",
       "discordThreadId": "1461011120243343402",
       "instanceNumber": 1
+    },
+    {
+      "id": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507-2026-01-14-1",
+      "jobId": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507",
+      "company": "University of Central Florida",
+      "title": "Assistant Professor - Renewable Energy and Chemical Transformations",
+      "postedToDiscord": "2026-01-14T16:07:43.039Z",
+      "sourceDate": "2025-11-30T07:46:46.000Z",
+      "sourceUrl": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Assistant-Professor--Renewable-Energy-and-Chemical-Transformations_R111507",
+      "discordThreadId": "1461029006861144096",
+      "instanceNumber": 1
+    },
+    {
+      "id": "circle-wd1-myworkdayjobs-com-circle-job-san-francisco-remote-first-in-us-new-grad-software-engineer-backend-2024_jr100011-1-2026-01-14-1",
+      "jobId": "circle-wd1-myworkdayjobs-com-circle-job-san-francisco-remote-first-in-us-new-grad-software-engineer-backend-2024_jr100011-1",
+      "company": "Circle",
+      "title": "New Grad Software Engineer - Backend 2026",
+      "postedToDiscord": "2026-01-14T16:07:49.392Z",
+      "sourceDate": "2025-11-28T21:58:07.000Z",
+      "sourceUrl": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1",
+      "discordThreadId": "1461029033587376188",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -14814,7 +14814,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-14T14:56:38.836Z",
+      "date": "2026-01-14T16:07:49.392Z",
       "archived": 0
     }
   }
