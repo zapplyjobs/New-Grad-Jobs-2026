@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T23:07:44.904Z",
+  "lastUpdated": "2026-01-15T23:27:07.453Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8367554002-2026-01-08-1",
-      "jobId": "www-brex-com-careers-8367554002",
-      "company": "brex",
-      "title": "Engineering Manager, Salesforce",
-      "postedToDiscord": "2026-01-08T23:25:46.769Z",
-      "sourceDate": "2026-01-08T18:07:55-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8367554002?gh_jid=8367554002",
-      "discordThreadId": "1458964919897554994",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8339005002-2026-01-08-1",
-      "jobId": "www-brex-com-careers-8339005002",
-      "company": "brex",
-      "title": "Engineering Manager, Salesforce",
-      "postedToDiscord": "2026-01-08T23:25:46.784Z",
-      "sourceDate": "2026-01-08T18:07:24-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8339005002?gh_jid=8339005002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8367552002-2026-01-08-1",
-      "jobId": "www-brex-com-careers-8367552002",
-      "company": "brex",
-      "title": "Engineering Manager, GTM Engineering ",
-      "postedToDiscord": "2026-01-08T23:25:50.537Z",
-      "sourceDate": "2026-01-08T18:06:08-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
-      "discordThreadId": "1458964936020463779",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8367549002-2026-01-08-1",
-      "jobId": "www-brex-com-careers-8367549002",
-      "company": "brex",
-      "title": "Engineering Manager, GTM Engineering ",
-      "postedToDiscord": "2026-01-08T23:25:50.550Z",
-      "sourceDate": "2026-01-08T18:05:06-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8367549002?gh_jid=8367549002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "www-vectra-ai-about-jobs-2026-01-08-1",
       "jobId": "www-vectra-ai-about-jobs",
@@ -20582,14 +20538,113 @@
       "sourceUrl": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-veeva-52ba79af-1086-457d-b5d2-8e184f111ffd-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-veeva-52ba79af-1086-457d-b5d2-8e184f111ffd-apply",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer – Seeking 2026 Grads",
+      "postedToDiscord": "2026-01-15T23:26:31.499Z",
+      "sourceDate": "2025-10-18T08:15:10.000Z",
+      "sourceUrl": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply",
+      "discordThreadId": "1461501821419000022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-87369448720-2026-01-15-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-87369448720",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-15T23:26:34.990Z",
+      "sourceDate": "2025-10-18T05:25:20.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+      "discordThreadId": "1461501837994758243",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-deepmind-jobs-7341408-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-deepmind-jobs-7341408",
+      "company": "DeepMind",
+      "title": "Research Engineer - Cbrn",
+      "postedToDiscord": "2026-01-15T23:26:38.611Z",
+      "sourceDate": "2025-10-18T01:26:34.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/deepmind/jobs/7341408",
+      "discordThreadId": "1461501853161357532",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-silnahealth-com-0f011347-1665-4c7c-b249-1b936fbf3780-application-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-silnahealth-com-0f011347-1665-4c7c-b249-1b936fbf3780-application",
+      "company": "Silna Health",
+      "title": "AI Deployment Analyst",
+      "postedToDiscord": "2026-01-15T23:26:42.110Z",
+      "sourceDate": "2025-10-17T08:22:12.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/silnahealth.com/0f011347-1665-4c7c-b249-1b936fbf3780/application",
+      "discordThreadId": "1461501867883364476",
+      "instanceNumber": 1
+    },
+    {
+      "id": "groundswell-wd12-myworkdayjobs-com-groundswell-job-mclean-va-technical-consultant-campus-recruiting-entry-level-_jr100868-2026-01-15-1",
+      "jobId": "groundswell-wd12-myworkdayjobs-com-groundswell-job-mclean-va-technical-consultant-campus-recruiting-entry-level-_jr100868",
+      "company": "Groundswell",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-15T23:26:48.742Z",
+      "sourceDate": "2025-10-17T21:06:51.000Z",
+      "sourceUrl": "https://groundswell.wd12.myworkdayjobs.com/groundswell/job/McLean-VA/Technical-Consultant--Campus-Recruiting-Entry-Level-_JR100868",
+      "discordThreadId": "1461501895595130961",
+      "instanceNumber": 1
+    },
+    {
+      "id": "truist-wd1-myworkdayjobs-com-en-us-careers-job-charlotte-nc-software-engineer-i_r0107411-2026-01-15-1",
+      "jobId": "truist-wd1-myworkdayjobs-com-en-us-careers-job-charlotte-nc-software-engineer-i_r0107411",
+      "company": "Truist Bank",
+      "title": "Software Engineer 1 SAS Programmer",
+      "postedToDiscord": "2026-01-15T23:26:55.317Z",
+      "sourceDate": "2025-10-17T06:37:13.000Z",
+      "sourceUrl": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0107411",
+      "discordThreadId": "1461501923189588084",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8211826002-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8211826002",
+      "company": "SpaceX",
+      "title": "Application Software Engineer",
+      "postedToDiscord": "2026-01-15T23:26:58.828Z",
+      "sourceDate": "2025-10-17T06:30:08.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8211826002",
+      "discordThreadId": "1461501937974378672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-4e358def-f3af-44ca-9535-91c6d6179c45-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-supabase-4e358def-f3af-44ca-9535-91c6d6179c45",
+      "company": "supabase",
+      "title": "Account Executive , USA ",
+      "postedToDiscord": "2026-01-15T23:27:05.665Z",
+      "sourceDate": "2025-10-16T18:37:28.869+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/4e358def-f3af-44ca-9535-91c6d6179c45",
+      "discordThreadId": "1461501966176878807",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-a069c886-1107-408e-88b4-e1aa8d33d4bc-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-supabase-a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "company": "supabase",
+      "title": " Account Executive, EMEA",
+      "postedToDiscord": "2026-01-15T23:27:07.453Z",
+      "sourceDate": "2025-10-16T18:37:12.341+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "discordThreadId": "1461501981511385159",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1871,
+    "totalJobs": 1876,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T23:07:44.904Z",
+      "date": "2026-01-15T23:27:07.453Z",
       "archived": 0
     }
   }
