@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T01:56:57.772Z",
+  "lastUpdated": "2026-01-15T02:43:55.045Z",
   "jobs": [
-    {
-      "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-assoc-analyst-technology_r2521966-2026-01-08-1",
-      "jobId": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-assoc-analyst-technology_r2521966",
-      "company": "Medline",
-      "title": "Assoc Analyst Technology",
-      "postedToDiscord": "2026-01-08T01:56:57.806Z",
-      "sourceDate": "2026-01-07T23:36:14.000Z",
-      "sourceUrl": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Assoc-Analyst-Technology_R2521966",
-      "discordThreadId": "1458640585886798028",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-gdms-icims-com-jobs-70083-job-2026-01-08-1",
-      "jobId": "careers-gdms-icims-com-jobs-70083-job",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer – Entry Level",
-      "postedToDiscord": "2026-01-08T01:57:05.239Z",
-      "sourceDate": "2026-01-07T23:33:57.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/70083/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458640606778626223",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003905-2026-01-08-1",
-      "jobId": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003905",
-      "company": "Perficient",
-      "title": "Associate Technical Consultant - ServiceNow",
-      "postedToDiscord": "2026-01-08T01:57:08.900Z",
-      "sourceDate": "2026-01-07T23:28:43.000Z",
-      "sourceUrl": "https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003905",
-      "discordThreadId": "1458640625686544425",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jll-wd1-myworkdayjobs-com-jllcareers-job-seattle-wa-research-analyst-pnw_req451478-2026-01-08-1",
-      "jobId": "jll-wd1-myworkdayjobs-com-jllcareers-job-seattle-wa-research-analyst-pnw_req451478",
-      "company": "Jones Lang LaSalle (JLL)",
-      "title": "Research Analyst - Pnw",
-      "postedToDiscord": "2026-01-08T01:57:15.408Z",
-      "sourceDate": "2026-01-08T00:58:00.000Z",
-      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Research-Analyst--PNW_REQ451478",
-      "discordThreadId": "1458640653213896777",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4971331008-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971331008",
-      "company": "anthropic",
-      "title": "Security GRC Specialist, Customer Trust Lead",
-      "postedToDiscord": "2026-01-08T02:41:05.438Z",
-      "sourceDate": "2026-01-07T21:35:21-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971331008",
-      "discordThreadId": "1458651683528638617",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tmobile-wd1-myworkdayjobs-com-external-job-bellevue-washington-associate-machine-learning-engineer_req329855-1-2026-01-08-1",
-      "jobId": "tmobile-wd1-myworkdayjobs-com-external-job-bellevue-washington-associate-machine-learning-engineer_req329855-1",
-      "company": "T-Mobile",
-      "title": "Associate Machine Learning Engineer",
-      "postedToDiscord": "2026-01-08T02:41:08.872Z",
-      "sourceDate": "2026-01-08T02:22:00.000Z",
-      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Machine-Learning-Engineer_REQ329855-1",
-      "discordThreadId": "1458651699203014709",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wyld-pinpointhq-com-en-postings-2555f552-7d63-4256-bcd5-64b09a83176c-2026-01-08-1",
-      "jobId": "wyld-pinpointhq-com-en-postings-2555f552-7d63-4256-bcd5-64b09a83176c",
-      "company": "Wyld",
-      "title": "Data and Integrations Analyst",
-      "postedToDiscord": "2026-01-08T02:41:15.396Z",
-      "sourceDate": "2026-01-08T02:14:00.000Z",
-      "sourceUrl": "https://wyld.pinpointhq.com/en/postings/2555f552-7d63-4256-bcd5-64b09a83176c?ats=pinpointhq",
-      "discordThreadId": "1458651726335709350",
-      "instanceNumber": 1
-    },
     {
       "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666-2026-01-08-1",
       "jobId": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666",
@@ -16985,14 +16908,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5634748004",
       "discordThreadId": "1461177293882917006",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4619140006-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4619140006",
+      "company": "mthree",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-15T02:43:15.229Z",
+      "sourceDate": "2025-11-18T23:22:55.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006",
+      "discordThreadId": "1461188943864401941",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-homevision-cb8e1f54-b045-4d7f-a851-26f23926fe3c-application-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-homevision-cb8e1f54-b045-4d7f-a851-26f23926fe3c-application",
+      "company": "HomeVision",
+      "title": "Application Support Engineer",
+      "postedToDiscord": "2026-01-15T02:43:20.069Z",
+      "sourceDate": "2025-11-17T07:16:59.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/homevision/cb8e1f54-b045-4d7f-a851-26f23926fe3c/application",
+      "discordThreadId": "1461188971584426179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-circle-com-us-en-job-jr100011-eg-2026-01-15-1",
+      "jobId": "careers-circle-com-us-en-job-jr100011-eg",
+      "company": "Circle",
+      "title": "New Grad Software Engineer - Backend 2026",
+      "postedToDiscord": "2026-01-15T02:43:23.798Z",
+      "sourceDate": "2025-11-17T03:53:10.000Z",
+      "sourceUrl": "https://careers.circle.com/us/en/job/JR100011-EG",
+      "discordThreadId": "1461188978966401037",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-citi-com-job-new-york-technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026-287-88356984496-2026-01-15-1",
+      "jobId": "jobs-citi-com-job-new-york-technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026-287-88356984496",
+      "company": "Citi",
+      "title": "Technology, Production Support, Full-Time Analyst",
+      "postedToDiscord": "2026-01-15T02:43:27.227Z",
+      "sourceDate": "2025-11-17T02:09:29.000Z",
+      "sourceUrl": "https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496",
+      "discordThreadId": "1461188994825191638",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-usu-icims-com-jobs-9751-job-2026-01-15-1",
+      "jobId": "careers-usu-icims-com-jobs-9751-job",
+      "company": "Utah State University",
+      "title": "ServiceNow Junior Developer",
+      "postedToDiscord": "2026-01-15T02:43:31.327Z",
+      "sourceDate": "2025-11-15T00:44:03.000Z",
+      "sourceUrl": "https://careers-usu.icims.com/jobs/9751/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461189010872467588",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-skyepoint-icims-com-jobs-3033-job-2026-01-15-1",
+      "jobId": "careers-skyepoint-icims-com-jobs-3033-job",
+      "company": "Pariveda Solutions",
+      "title": "Qlik Developer",
+      "postedToDiscord": "2026-01-15T02:43:34.677Z",
+      "sourceDate": "2025-11-14T23:43:25.000Z",
+      "sourceUrl": "https://careers-skyepoint.icims.com/jobs/3033/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461189026177618075",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-b34c4e06-2965-4ced-ad55-ebe66253b7b6-2026-01-15-1",
+      "jobId": "jobs-lever-co-nominal-b34c4e06-2965-4ced-ad55-ebe66253b7b6",
+      "company": "nominal",
+      "title": "Accounting Manager",
+      "postedToDiscord": "2026-01-15T02:43:41.169Z",
+      "sourceDate": "2025-11-15T19:03:58.600Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b34c4e06-2965-4ced-ad55-ebe66253b7b6",
+      "discordThreadId": "1461189053193130085",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bilh-wd1-myworkdayjobs-com-external-job-beth-israel-deaconess-medical-center-research-data-coordinator-cardiovascular-research-nezafat-lab_jr87230-2026-01-15-1",
+      "jobId": "bilh-wd1-myworkdayjobs-com-external-job-beth-israel-deaconess-medical-center-research-data-coordinator-cardiovascular-research-nezafat-lab_jr87230",
+      "company": "Beth Israel Lahey Health",
+      "title": "Research Data Coordinator-Cardiovascular Research",
+      "postedToDiscord": "2026-01-15T02:43:44.540Z",
+      "sourceDate": "2025-11-15T00:42:15.000Z",
+      "sourceUrl": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Data-Coordinator--Cardiovascular-Research--Nezafat-Lab_JR87230",
+      "discordThreadId": "1461189067533455522",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r161169-2026-01-15-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r161169",
+      "company": "Adobe",
+      "title": "University Graduate",
+      "postedToDiscord": "2026-01-15T02:43:48.401Z",
+      "sourceDate": "2025-11-14T23:53:49.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R161169",
+      "discordThreadId": "1461189082792333541",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mhicareers-com-job-orlando-technical-translator-i-fl-32809-1261635101-2026-01-15-1",
+      "jobId": "mhicareers-com-job-orlando-technical-translator-i-fl-32809-1261635101",
+      "company": "Primetals Technologies",
+      "title": "Technical Translator 1",
+      "postedToDiscord": "2026-01-15T02:43:55.045Z",
+      "sourceDate": "2025-11-15T07:28:27.000Z",
+      "sourceUrl": "https://mhicareers.com/job/Orlando-Technical-Translator-I-FL-32809/1261635101/?ats=successfactors",
+      "discordThreadId": "1461189110671609969",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1544,
+    "totalJobs": 1547,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T01:56:57.772Z",
+      "date": "2026-01-15T02:43:55.045Z",
       "archived": 0
     }
   }
