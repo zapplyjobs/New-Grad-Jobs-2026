@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T22:44:56.066Z",
+  "lastUpdated": "2026-01-15T22:54:05.675Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7524948-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7524948",
-      "company": "reddit",
-      "title": "Manager, Mid-Market Sales (Client Account Executives)",
-      "postedToDiscord": "2026-01-08T22:53:37.240Z",
-      "sourceDate": "2026-01-08T17:47:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7524948",
-      "discordThreadId": "1458956827344637952",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7453285-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7453285",
-      "company": "reddit",
-      "title": "Manager, Mid-Market Sales (Client Account Executives)",
-      "postedToDiscord": "2026-01-08T22:53:37.258Z",
-      "sourceDate": "2026-01-08T17:47:42-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7453285",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8339037002-2026-01-08-1",
       "jobId": "www-brex-com-careers-8339037002",
@@ -20494,15 +20472,27 @@
       "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering",
       "discordThreadId": "1461491364478058578",
       "instanceNumber": 1
+    },
+    {
+      "id": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-us-massachusetts-associate-software-test-engineer-acton-mass-hybrid-_req-2025-13419-2026-01-15-1",
+      "jobId": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-us-massachusetts-associate-software-test-engineer-acton-mass-hybrid-_req-2025-13419",
+      "company": "Insulet",
+      "title": "Associate Software Test Engineer",
+      "postedToDiscord": "2026-01-15T22:54:05.675Z",
+      "sourceDate": "2025-10-23T09:54:33.000Z",
+      "sourceUrl": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts/Associate-Software-Test-Engineer---Acton--Mass--Hybrid-_REQ-2025-13419",
+      "discordThreadId": "1461493662423711795",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1863,
+    "totalJobs": 1862,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T22:44:56.066Z",
-      "archived": 0
+      "date": "2026-01-15T22:54:05.675Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
