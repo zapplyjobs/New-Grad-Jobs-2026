@@ -48,22 +48,6 @@
     "description_success": true
   },
   {
-    "job_title": "Graduate Machine Learning Engineer - Conversational AI",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "View our opening for Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7536340749852969223/detail",
-    "job_posted_at_datetime_utc": "2025-10-31T09:14:35.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "jobs-bytedance-com-en-position-7536340749852969223-detail",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
     "employer_name": "ByteDance",
     "job_city": "Seattle",
@@ -128,22 +112,6 @@
     "description_success": true
   },
   {
-    "job_title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - BS/MS",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7538932631158212872/detail",
-    "job_posted_at_datetime_utc": "2025-10-31T09:14:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "jobs-bytedance-com-en-position-7538932631158212872-detail",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Research Scientist Graduate - Video Quality Analysis&Coding Strategy - 2026 Start",
     "employer_name": "ByteDance",
     "job_city": "San Diego",
@@ -156,6 +124,38 @@
     "source_url": "simplify.jobs",
     "job_posted_at": "1h",
     "id": "jobs-bytedance-com-en-position-7538948353711950098-detail",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Research Scientist in Generative AI Graduate - Intelligent Creation - 2026 Start",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "View our opening for Research Scientist in Generative AI Graduate (Intelligent Creation) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7517440911816788232/detail",
+    "job_posted_at_datetime_utc": "2025-10-31T09:14:30.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "jobs-bytedance-com-en-position-7517440911816788232-detail",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "View our opening for AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
+    "job_posted_at_datetime_utc": "2025-10-31T09:14:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "jobs-bytedance-com-en-position-7509262740803930376-detail",
     "description_platform": "generic",
     "description_success": true
   }

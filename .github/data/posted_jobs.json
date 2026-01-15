@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T16:11:05.615Z",
+  "lastUpdated": "2026-01-15T16:28:37.694Z",
   "jobs": [
-    {
-      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-cbp-public-trust-or-top-secret-preferred_rq209446-1-2026-01-08-1",
-      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-cbp-public-trust-or-top-secret-preferred_rq209446-1",
-      "company": "General Dynamics Information Technology",
-      "title": "Java Developer",
-      "postedToDiscord": "2026-01-08T16:27:15.460Z",
-      "sourceDate": "2025-11-11T00:04:35.000Z",
-      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Ashburn/Java-Developer---CBP-public-trust-or-Top-Secret-preferred_RQ209446-1",
-      "discordThreadId": "1458859595631165624",
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8366671002-2026-01-08-1",
       "jobId": "www-brex-com-careers-8366671002",
@@ -19372,14 +19361,36 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7538932206750042375/detail",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7517442299329300754-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7517442299329300754",
+      "company": "TikTok",
+      "title": "Graduate Research Scientist Generative AI - Intelligent Creation",
+      "postedToDiscord": "2026-01-15T16:28:31.147Z",
+      "sourceDate": "2025-10-31T09:17:49.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7517442299329300754",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7509262740803930376-detail-2026-01-15-1",
+      "jobId": "jobs-bytedance-com-en-position-7509262740803930376-detail",
+      "company": "ByteDance",
+      "title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
+      "postedToDiscord": "2026-01-15T16:28:37.693Z",
+      "sourceDate": "2025-10-31T09:14:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1761,
+    "totalJobs": 1762,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T16:11:05.615Z",
+      "date": "2026-01-15T16:28:37.694Z",
       "archived": 0
     }
   }
