@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T23:27:07.453Z",
+  "lastUpdated": "2026-01-15T23:40:08.524Z",
   "jobs": [
     {
       "id": "www-vectra-ai-about-jobs-2026-01-08-1",
@@ -20637,14 +20637,25 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
       "discordThreadId": "1461501981511385159",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-veeva-28c47d34-3ad6-4485-85a9-686b4239b9ea-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-veeva-28c47d34-3ad6-4485-85a9-686b4239b9ea-apply",
+      "company": "Veeva Systems",
+      "title": "Marketing Analytics - Data Analyst - Adp",
+      "postedToDiscord": "2026-01-15T23:40:08.523Z",
+      "sourceDate": "2025-10-18T08:16:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
+      "discordThreadId": "1461505250451132613",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1876,
+    "totalJobs": 1877,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T23:27:07.453Z",
+      "date": "2026-01-15T23:40:08.524Z",
       "archived": 0
     }
   }
