@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T00:13:16.223Z",
+  "lastUpdated": "2026-01-15T00:46:56.438Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-charterup-jobs-5031834008-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-charterup-jobs-5031834008",
-      "company": "CharterUP",
-      "title": "Data Analyst",
-      "postedToDiscord": "2026-01-08T00:45:45.954Z",
-      "sourceDate": "2025-12-12T16:37:04.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/charterup/jobs/5031834008",
-      "discordThreadId": "1458622661998547137",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amgen-wd1-myworkdayjobs-com-careers-job-us-california-thousand-oaks-principal-engineer-combination-product-operations-msat-primary-container-engineering-sre_r-233208-2026-01-08-1",
-      "jobId": "amgen-wd1-myworkdayjobs-com-careers-job-us-california-thousand-oaks-principal-engineer-combination-product-operations-msat-primary-container-engineering-sre_r-233208",
-      "company": "Amgen",
-      "title": "Principal Engineer",
-      "postedToDiscord": "2026-01-08T00:45:52.367Z",
-      "sourceDate": "2026-01-08T00:03:59.000Z",
-      "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Principal-Engineer-Combination-Product-Operations-MSAT-Primary-Container-Engineering-SRE_R-233208",
-      "discordThreadId": "1458622689114849292",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-burlington-ma-c-software-engineer_r50546-2026-01-08-1",
-      "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-burlington-ma-c-software-engineer_r50546",
-      "company": "Cadence Design Systems",
-      "title": "C++ Software Engineer",
-      "postedToDiscord": "2026-01-08T00:45:55.783Z",
-      "sourceDate": "2026-01-07T23:56:13.000Z",
-      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/C---Software-Engineer_R50546",
-      "discordThreadId": "1458622703614431282",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-sykesville-engineer-quality-principal-engineer-quality_r10218213-2026-01-08-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-sykesville-engineer-quality-principal-engineer-quality_r10218213",
-      "company": "Northrop Grumman",
-      "title": "Quality Engineer - Principal Quality Engineer",
-      "postedToDiscord": "2026-01-08T00:45:59.365Z",
-      "sourceDate": "2026-01-07T23:54:38.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Engineer-Quality-Principal-Engineer-Quality_R10218213",
-      "discordThreadId": "1458622719066243189",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-twitch-jobs-8362817002-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-twitch-jobs-8362817002",
-      "company": "Twitch",
-      "title": "Software Engineer 1 - Builder Frameworks",
-      "postedToDiscord": "2026-01-08T00:46:02.890Z",
-      "sourceDate": "2026-01-07T23:52:51.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8362817002",
-      "discordThreadId": "1458622733377208421",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bcbst-wd1-myworkdayjobs-com-en-us-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48234-2026-01-08-1",
-      "jobId": "bcbst-wd1-myworkdayjobs-com-en-us-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48234",
-      "company": "BCBST",
-      "title": "Associate Software Engineer 1",
-      "postedToDiscord": "2026-01-08T00:46:06.472Z",
-      "sourceDate": "2026-01-07T23:44:29.000Z",
-      "sourceUrl": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-48234",
-      "discordThreadId": "1458622747792904398",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-yext-jobs-7277738-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-yext-jobs-7277738",
-      "company": "Yext",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-08T00:46:10.190Z",
-      "sourceDate": "2026-01-07T23:37:58.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/yext/jobs/7277738",
-      "discordThreadId": "1458622762959765667",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-accenturefederalservices-jobs-4639310006-2026-01-08-1",
-      "jobId": "boards-greenhouse-io-accenturefederalservices-jobs-4639310006",
-      "company": "Accenture",
-      "title": "SAP Analyst",
-      "postedToDiscord": "2026-01-08T00:46:16.703Z",
-      "sourceDate": "2026-01-07T23:54:35.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4639310006",
-      "discordThreadId": "1458622791162003457",
-      "instanceNumber": 1
-    },
-    {
-      "id": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23248-2026-01-08-1",
-      "jobId": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23248",
-      "company": "Vantor",
-      "title": "Geospatial Analyst",
-      "postedToDiscord": "2026-01-08T00:46:20.012Z",
-      "sourceDate": "2026-01-07T23:45:32.000Z",
-      "sourceUrl": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst_R23248",
-      "discordThreadId": "1458622805775220767",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-tukwila-wa-software-engineer-artificial-intelligence_jr2025489368-2026-01-08-1",
-      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-tukwila-wa-software-engineer-artificial-intelligence_jr2025489368",
-      "company": "The Boeing Company",
-      "title": "Software Engineer - Artificial Intelligence",
-      "postedToDiscord": "2026-01-08T00:46:26.466Z",
-      "sourceDate": "2026-01-07T23:43:30.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer---Artificial-intelligence_JR2025489368",
-      "discordThreadId": "1458622832601858112",
-      "instanceNumber": 1
-    },
     {
       "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-_r-48456-2026-01-08-1",
       "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-_r-48456",
@@ -16886,6 +16776,116 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5422236004?gh_jid=5422236004",
       "discordThreadId": "1461151199813177365",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-citizen-20health-ccd73294-568c-4348-a963-71c5362a5363-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-citizen-20health-ccd73294-568c-4348-a963-71c5362a5363",
+      "company": "Citizen Health",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2026-01-15T00:46:21.996Z",
+      "sourceDate": "2025-11-19T13:52:31.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363",
+      "discordThreadId": "1461159527666684160",
+      "instanceNumber": 1
+    },
+    {
+      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-austin-tx-software-engineer_req-11821-2026-01-15-1",
+      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-austin-tx-software-engineer_req-11821",
+      "company": "Q2",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T00:46:25.525Z",
+      "sourceDate": "2025-11-19T13:39:10.000Z",
+      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821",
+      "discordThreadId": "1461159543080882218",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-amaehealth-jobs-4050820009-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-amaehealth-jobs-4050820009",
+      "company": "Amae Health",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-15T00:46:29.356Z",
+      "sourceDate": "2025-11-19T13:37:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/amaehealth/jobs/4050820009",
+      "discordThreadId": "1461159558876626994",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-alticeusacareers-com-job-bethpage-software-development-engineer-i-ny-11714-1327484300-2026-01-15-1",
+      "jobId": "www-alticeusacareers-com-job-bethpage-software-development-engineer-i-ny-11714-1327484300",
+      "company": "Optimum",
+      "title": "Software Development Engineer I",
+      "postedToDiscord": "2026-01-15T00:46:32.817Z",
+      "sourceDate": "2025-11-19T13:32:03.000Z",
+      "sourceUrl": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/",
+      "discordThreadId": "1461159574013870156",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-skillstorm-com-jobs-entry-level-software-developer-42267-2026-01-15-1",
+      "jobId": "careers-skillstorm-com-jobs-entry-level-software-developer-42267",
+      "company": "SkillStorm",
+      "title": "Entry Level Software Developer",
+      "postedToDiscord": "2026-01-15T00:46:36.173Z",
+      "sourceDate": "2025-11-19T13:27:14.000Z",
+      "sourceUrl": "https://careers.skillstorm.com/jobs/entry-level-software-developer-42267",
+      "discordThreadId": "1461159588379365520",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-imc-jobs-4577504101-2026-01-15-1",
+      "jobId": "job-boards-eu-greenhouse-io-imc-jobs-4577504101",
+      "company": "IMC",
+      "title": "Software Engineer, Early Career",
+      "postedToDiscord": "2026-01-15T00:46:39.643Z",
+      "sourceDate": "2025-11-19T13:20:38.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
+      "discordThreadId": "1461159602384277691",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-developer_r0149243-2026-01-15-1",
+      "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-developer_r0149243",
+      "company": "Amentum",
+      "title": "Entry Level Software Developer",
+      "postedToDiscord": "2026-01-15T00:46:43.077Z",
+      "sourceDate": "2025-11-19T00:58:46.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243",
+      "discordThreadId": "1461159617101828283",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-applovin-jobs-4451556006-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-applovin-jobs-4451556006",
+      "company": "AppLovin",
+      "title": "Backend Engineer, New Grad",
+      "postedToDiscord": "2026-01-15T00:46:49.621Z",
+      "sourceDate": "2025-11-19T13:18:39.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/applovin/jobs/4451556006",
+      "discordThreadId": "1461159644310409247",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cisco-com-global-en-job-2000073-software-engineer-data-ai-intelligent-systems-i-full-time-e2-80-93-united-states-2026-01-15-1",
+      "jobId": "careers-cisco-com-global-en-job-2000073-software-engineer-data-ai-intelligent-systems-i-full-time-e2-80-93-united-states",
+      "company": "Cisco",
+      "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time)",
+      "postedToDiscord": "2026-01-15T00:46:52.954Z",
+      "sourceDate": "2025-11-19T13:13:11.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States",
+      "discordThreadId": "1461159658940010577",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-apple-com-en-us-details-200608195-2026-01-15-1",
+      "jobId": "jobs-apple-com-en-us-details-200608195",
+      "company": "Apple",
+      "title": "Physical Design Engineer - Machine Learning",
+      "postedToDiscord": "2026-01-15T00:46:56.438Z",
+      "sourceDate": "2025-11-19T01:07:41.000Z",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200608195",
+      "discordThreadId": "1461159672840192020",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -16893,7 +16893,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T00:13:16.223Z",
+      "date": "2026-01-15T00:46:56.438Z",
       "archived": 0
     }
   }
