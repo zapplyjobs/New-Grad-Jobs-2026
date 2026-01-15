@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T05:03:05.448Z",
+  "lastUpdated": "2026-01-15T05:18:04.694Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -17557,14 +17557,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8250803002",
       "discordThreadId": "1461224135354093699",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gotion-jobs-8282912002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-gotion-jobs-8282912002",
+      "company": "Gotion",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-15T05:17:29.443Z",
+      "sourceDate": "2025-11-10T23:32:40.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gotion/jobs/8282912002",
+      "discordThreadId": "1461227758914113619",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-2b615824-00a1-45f3-9c68-2ec853547e9b-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-2b615824-00a1-45f3-9c68-2ec853547e9b",
+      "company": "spotify",
+      "title": "Salesforce Engineer",
+      "postedToDiscord": "2026-01-15T05:17:32.980Z",
+      "sourceDate": "2025-11-10T21:22:37.475Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/2b615824-00a1-45f3-9c68-2ec853547e9b",
+      "discordThreadId": "1461227773879259309",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-newsbreak-jobs-4615879006-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-newsbreak-jobs-4615879006",
+      "company": "NewsBreak",
+      "title": "Software Engineer, ML Infra (Junior & New Grad)",
+      "postedToDiscord": "2026-01-15T05:17:36.398Z",
+      "sourceDate": "2025-11-07T22:31:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+      "discordThreadId": "1461227788597071883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "qualcomm-eightfold-ai-careers-job-446715361809-2026-01-15-1",
+      "jobId": "qualcomm-eightfold-ai-careers-job-446715361809",
+      "company": "Qualcomm",
+      "title": "Product Software Engineer",
+      "postedToDiscord": "2026-01-15T05:17:42.941Z",
+      "sourceDate": "2025-11-10T12:03:16.000Z",
+      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715361809",
+      "discordThreadId": "1461227815172309070",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7535220808265681159-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7535220808265681159",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Data Arch - Data Ecosystem)",
+      "postedToDiscord": "2026-01-15T05:17:46.801Z",
+      "sourceDate": "2025-11-10T10:43:03.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535220808265681159",
+      "discordThreadId": "1461227830368272464",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7535528357414570248-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7535528357414570248",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Data Platfrom TikTok BP)",
+      "postedToDiscord": "2026-01-15T05:17:50.218Z",
+      "sourceDate": "2025-11-10T10:41:48.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535528357414570248",
+      "discordThreadId": "1461227846491177216",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-mcdonalds-com-job-chicago-full-stack-engineer-i-iam-il-60607-1341509500-2026-01-15-1",
+      "jobId": "jobs-mcdonalds-com-job-chicago-full-stack-engineer-i-iam-il-60607-1341509500",
+      "company": "McDonald's",
+      "title": "Full Stack Engineer 1",
+      "postedToDiscord": "2026-01-15T05:17:53.783Z",
+      "sourceDate": "2025-11-10T02:36:04.000Z",
+      "sourceUrl": "https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors",
+      "discordThreadId": "1461227860428591250",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-md-annapolis-junction-software-engineer-i_rq210148-1-2026-01-15-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-md-annapolis-junction-software-engineer-i_rq210148-1",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-15T05:17:57.432Z",
+      "sourceDate": "2025-11-08T16:50:06.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1",
+      "discordThreadId": "1461227875628744725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8246482002-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8246482002",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer - Security - Starlink",
+      "postedToDiscord": "2026-01-15T05:18:00.982Z",
+      "sourceDate": "2025-11-08T16:20:27.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8246482002",
+      "discordThreadId": "1461227891340742697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-brycetech-f40e9665-32d7-47d8-90fd-ac1f18dc05be-2026-01-15-1",
+      "jobId": "jobs-smartrecruiters-com-brycetech-f40e9665-32d7-47d8-90fd-ac1f18dc05be",
+      "company": "BryceTech",
+      "title": "Junior Exercise Software IT Specialist",
+      "postedToDiscord": "2026-01-15T05:18:04.694Z",
+      "sourceDate": "2025-11-07T22:33:54.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech",
+      "discordThreadId": "1461227906326986885",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1596,
+    "totalJobs": 1606,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T05:03:05.448Z",
+      "date": "2026-01-15T05:18:04.694Z",
       "archived": 0
     }
   }
