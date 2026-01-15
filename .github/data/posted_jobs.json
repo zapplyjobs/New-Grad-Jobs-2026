@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T21:14:00.702Z",
+  "lastUpdated": "2026-01-15T21:42:50.508Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5056499008-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5056499008",
-      "company": "anthropic",
-      "title": "Data Operations, Product Partnerships",
-      "postedToDiscord": "2026-01-08T21:25:36.547Z",
-      "sourceDate": "2026-01-08T16:16:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5056499008",
-      "discordThreadId": "1458934679141875869",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7485423-2026-01-08-1",
-      "jobId": "careers-datadoghq-com-detail-7485423",
-      "company": "datadog",
-      "title": "Customer Success Associate - Boston (Spanish-speaking)",
-      "postedToDiscord": "2026-01-08T21:39:23.579Z",
-      "sourceDate": "2026-01-08T16:34:40-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7485423/?gh_jid=7485423",
-      "discordThreadId": "1458938147516841984",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-ad23c6cd-e521-4dda-b05f-c60f72548372-2026-01-08-1",
       "jobId": "jobs-lever-co-spotify-ad23c6cd-e521-4dda-b05f-c60f72548372",
@@ -20120,14 +20098,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4606307008",
       "discordThreadId": "1461468475020017749",
       "instanceNumber": 1
+    },
+    {
+      "id": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21003164-2026-01-15-1",
+      "jobId": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21003164",
+      "company": "GCI",
+      "title": "Data Analytics Engineer 1 - Future Opening",
+      "postedToDiscord": "2026-01-15T21:42:14.873Z",
+      "sourceDate": "2025-10-26T23:00:54.000Z",
+      "sourceUrl": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003164",
+      "discordThreadId": "1461475587838443604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-tekion-jobs-7505411003-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-tekion-jobs-7505411003",
+      "company": "Tekion",
+      "title": "Data Conversion Specialist 1",
+      "postedToDiscord": "2026-01-15T21:42:21.439Z",
+      "sourceDate": "2025-10-27T21:21:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/tekion/jobs/7505411003",
+      "discordThreadId": "1461475608570626132",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-f4d6ee97-8ed4-48a8-a5da-407c309f9614-2026-01-15-1",
+      "jobId": "jobs-lever-co-gohighlevel-f4d6ee97-8ed4-48a8-a5da-407c309f9614",
+      "company": "gohighlevel",
+      "title": "Events Partnerships Manager",
+      "postedToDiscord": "2026-01-15T21:42:23.159Z",
+      "sourceDate": "2025-10-27T12:28:40.160Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/f4d6ee97-8ed4-48a8-a5da-407c309f9614",
+      "discordThreadId": "1461475623523455069",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-dexterity-75ba6fc2-629a-41a0-bc79-41e4f8aea6e3-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-dexterity-75ba6fc2-629a-41a0-bc79-41e4f8aea6e3-apply",
+      "company": "Dexterity",
+      "title": "Application Support Engineer",
+      "postedToDiscord": "2026-01-15T21:42:26.797Z",
+      "sourceDate": "2025-10-27T01:50:37.000Z",
+      "sourceUrl": "https://jobs.lever.co/dexterity/75ba6fc2-629a-41a0-bc79-41e4f8aea6e3/apply",
+      "discordThreadId": "1461475630771081471",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wyetechllc-37094832-f2d0-46ce-968d-9c2369068034-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-wyetechllc-37094832-f2d0-46ce-968d-9c2369068034-apply",
+      "company": "Wyetech",
+      "title": "Software Engineer 0",
+      "postedToDiscord": "2026-01-15T21:42:30.297Z",
+      "sourceDate": "2025-10-27T01:07:06.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034/apply",
+      "discordThreadId": "1461475646227091456",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hrone-wd1-myworkdayjobs-com-en-us-universal_logistics_holdings-job-westport-louisville-ky-b-crew-dockman-7_jr115349-1-2026-01-15-1",
+      "jobId": "hrone-wd1-myworkdayjobs-com-en-us-universal_logistics_holdings-job-westport-louisville-ky-b-crew-dockman-7_jr115349-1",
+      "company": "Universal ",
+      "title": "B-Crew Dockman - 7",
+      "postedToDiscord": "2026-01-15T21:42:36.821Z",
+      "sourceDate": "2025-10-27T05:03:34.000Z",
+      "sourceUrl": "https://hrone.wd1.myworkdayjobs.com/en-US/Universal_Logistics_Holdings/job/WESTPORT-LOUISVILLE-KY/B-Crew-Dockman--7_JR115349-1",
+      "discordThreadId": "1461475673506840822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8220138002-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8220138002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Starship Quality",
+      "postedToDiscord": "2026-01-15T21:42:40.379Z",
+      "sourceDate": "2025-10-27T04:24:35.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8220138002",
+      "discordThreadId": "1461475688107475005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "owensminor-wd1-myworkdayjobs-com-omcareers-job-93-warrendale-material-handler-i_req_24_19332-2026-01-15-1",
+      "jobId": "owensminor-wd1-myworkdayjobs-com-omcareers-job-93-warrendale-material-handler-i_req_24_19332",
+      "company": "Owens & Minor",
+      "title": "Material Handler I",
+      "postedToDiscord": "2026-01-15T21:42:43.905Z",
+      "sourceDate": "2025-10-26T22:14:12.000Z",
+      "sourceUrl": "https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/93-Warrendale/Material-Handler-I_REQ_24_19332",
+      "discordThreadId": "1461475702988607696",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-sfgiants-9922308a-8c86-4394-bd22-554939491bc1-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-sfgiants-9922308a-8c86-4394-bd22-554939491bc1-apply",
+      "company": "SF Giants",
+      "title": "Baseball Operations Associate Analyst",
+      "postedToDiscord": "2026-01-15T21:42:50.507Z",
+      "sourceDate": "2025-10-26T20:17:22.000Z",
+      "sourceUrl": "https://jobs.lever.co/sfgiants/9922308a-8c86-4394-bd22-554939491bc1/apply",
+      "discordThreadId": "1461475731019137280",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1829,
+    "totalJobs": 1836,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T21:14:00.702Z",
+      "date": "2026-01-15T21:42:50.508Z",
       "archived": 0
     }
   }
