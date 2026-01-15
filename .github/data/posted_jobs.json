@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T07:15:28.738Z",
+  "lastUpdated": "2026-01-15T07:28:18.690Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -18470,14 +18470,124 @@
       "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-for-Coherent-X-ray-Imaging_421292-1",
       "discordThreadId": "1461257451839029432",
       "instanceNumber": 1
+    },
+    {
+      "id": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715-2026-01-15-1",
+      "jobId": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715",
+      "company": "University of Maryland - College Park",
+      "title": "Postdoctoral Associate",
+      "postedToDiscord": "2026-01-15T07:27:36.670Z",
+      "sourceDate": "2025-11-01T10:18:04.000Z",
+      "sourceUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-associate_JR100715",
+      "discordThreadId": "1461260505321574462",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-part-time-research-assistant-programmer-yanxi-liu_req_0000069003-1-2026-01-15-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-part-time-research-assistant-programmer-yanxi-liu_req_0000069003-1",
+      "company": "PennState University",
+      "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
+      "postedToDiscord": "2026-01-15T07:27:40.060Z",
+      "sourceDate": "2025-11-01T10:17:26.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000069003-1",
+      "discordThreadId": "1461260519653769361",
+      "instanceNumber": 1
+    },
+    {
+      "id": "onto-wd1-myworkdayjobs-com-onto_careers-job-wilmington-ma-upton-senior-software-engineer_r-4963-2026-01-15-1",
+      "jobId": "onto-wd1-myworkdayjobs-com-onto_careers-job-wilmington-ma-upton-senior-software-engineer_r-4963",
+      "company": "Onto Innovation",
+      "title": "Senior Software Engineer",
+      "postedToDiscord": "2026-01-15T07:27:43.462Z",
+      "sourceDate": "2025-11-01T10:17:00.000Z",
+      "sourceUrl": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-4963",
+      "discordThreadId": "1461260533641641987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pg-wd5-myworkdayjobs-com-1000-job-cincinnati-general-offices-data-scientist-b1-_r000135859-1-2026-01-15-1",
+      "jobId": "pg-wd5-myworkdayjobs-com-1000-job-cincinnati-general-offices-data-scientist-b1-_r000135859-1",
+      "company": "Procter & Gamble (P&G)",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-15T07:27:47.060Z",
+      "sourceDate": "2025-11-01T10:15:50.000Z",
+      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--B1-_R000135859-1",
+      "discordThreadId": "1461260548606918739",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1-2026-01-15-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1",
+      "company": "PennState University",
+      "title": "IT Applications Specialist",
+      "postedToDiscord": "2026-01-15T07:27:53.637Z",
+      "sourceDate": "2025-11-01T10:17:47.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1",
+      "discordThreadId": "1461260576192725198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-experimental-ultrahigh-energy-neutrino-pueo-experiment_req_0000043392-2-2026-01-15-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-experimental-ultrahigh-energy-neutrino-pueo-experiment_req_0000043392-2",
+      "company": "PennState University",
+      "title": "Postdoctoral Scholar - Experimental Ultrahigh Energy Neutrino - PUEO Experiment",
+      "postedToDiscord": "2026-01-15T07:27:57.076Z",
+      "sourceDate": "2025-11-01T10:07:32.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Experimental-Ultrahigh-Energy-Neutrino---PUEO-Experiment_REQ_0000043392-2",
+      "discordThreadId": "1461260590788903079",
+      "instanceNumber": 1
+    },
+    {
+      "id": "woundedwarriorproject-wd5-myworkdayjobs-com-wwp-job-jacksonville-fl-senior-salesforce-marketing-cloud-developer_r14110-2026-01-15-1",
+      "jobId": "woundedwarriorproject-wd5-myworkdayjobs-com-wwp-job-jacksonville-fl-senior-salesforce-marketing-cloud-developer_r14110",
+      "company": "Wounded Warrior Project",
+      "title": "Senior Salesforce Marketing Cloud Developer",
+      "postedToDiscord": "2026-01-15T07:28:03.767Z",
+      "sourceDate": "2025-11-01T10:14:00.000Z",
+      "sourceUrl": "https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp/job/Jacksonville-FL/Senior-Salesforce-Marketing-Cloud-Developer_R14110",
+      "discordThreadId": "1461260618609721385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-in-future-runoff-and-reservoir-evaporation-projections-for-texas-river-basins_r_00034762-1-2026-01-15-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-in-future-runoff-and-reservoir-evaporation-projections-for-texas-river-basins_r_00034762-1",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow in Future Runoff and Reservoir Evaporation Projections for Texas River Basins",
+      "postedToDiscord": "2026-01-15T07:28:07.556Z",
+      "sourceDate": "2025-11-01T10:08:59.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-in-Future-Runoff-and-Reservoir-Evaporation-Projections-for-Texas-River-Basins_R_00034762-1",
+      "discordThreadId": "1461260633617203353",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-relativity-jobs-8236930002-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-relativity-jobs-8236930002",
+      "company": "Relativity Space",
+      "title": "GNC Simulation Engineer 1",
+      "postedToDiscord": "2026-01-15T07:28:12.112Z",
+      "sourceDate": "2025-11-01T01:24:46.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/relativity/jobs/8236930002",
+      "discordThreadId": "1461260654009782430",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00109651-2026-01-15-1",
+      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00109651",
+      "company": "Louisiana State University (LSU)",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-15T07:28:18.690Z",
+      "sourceDate": "2025-11-01T10:12:36.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3255-Patrick-F-Taylor-Hall/Postdoctoral-Researcher_R00109651",
+      "discordThreadId": "1461260681159512104",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1679,
+    "totalJobs": 1689,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T07:15:28.738Z",
+      "date": "2026-01-15T07:28:18.690Z",
       "archived": 0
     }
   }
