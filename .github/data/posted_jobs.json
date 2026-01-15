@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T22:54:05.675Z",
+  "lastUpdated": "2026-01-15T23:07:44.904Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8339037002-2026-01-08-1",
-      "jobId": "www-brex-com-careers-8339037002",
-      "company": "brex",
-      "title": "Engineering Manager, GTM Engineering ",
-      "postedToDiscord": "2026-01-08T23:06:14.250Z",
-      "sourceDate": "2026-01-08T18:04:28-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
-      "discordThreadId": "1458960002386755736",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8362697002-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8362697002",
-      "company": "discord",
-      "title": "Senior Software Engineer - SEO",
-      "postedToDiscord": "2026-01-08T23:06:20.757Z",
-      "sourceDate": "2026-01-08T17:57:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362697002",
-      "discordThreadId": "1458960030358569073",
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8367554002-2026-01-08-1",
       "jobId": "www-brex-com-careers-8367554002",
@@ -20483,16 +20461,136 @@
       "sourceUrl": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts/Associate-Software-Test-Engineer---Acton--Mass--Hybrid-_REQ-2025-13419",
       "discordThreadId": "1461493662423711795",
       "instanceNumber": 1
+    },
+    {
+      "id": "logitech-wd5-myworkdayjobs-com-en-us-logitech-job-san-jose-california-usa-junior-software-qa-engineer_144324-2026-01-15-1",
+      "jobId": "logitech-wd5-myworkdayjobs-com-en-us-logitech-job-san-jose-california-usa-junior-software-qa-engineer_144324",
+      "company": "Logitech",
+      "title": "Junior Software QA Engineer",
+      "postedToDiscord": "2026-01-15T23:07:10.284Z",
+      "sourceDate": "2025-10-23T09:33:01.000Z",
+      "sourceUrl": "https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/San-Jose-California---USA/Junior-Software-QA-Engineer_144324",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "ejov-fa-ca2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-23921-2026-01-15-1",
+      "jobId": "ejov-fa-ca2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-23921",
+      "company": "GHD",
+      "title": "Graduate Environmental Engineer",
+      "postedToDiscord": "2026-01-15T23:07:14.252Z",
+      "sourceDate": "2025-10-22T22:36:57.000Z",
+      "sourceUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23921",
+      "discordThreadId": "1461496967799771209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7561662675321096509-detail-2026-01-15-1",
+      "jobId": "jobs-bytedance-com-en-position-7561662675321096509-detail",
+      "company": "ByteDance",
+      "title": "Visual Perception Algorithm Engineer Graduate - Human Body Perception Direction",
+      "postedToDiscord": "2026-01-15T23:07:17.660Z",
+      "sourceDate": "2025-10-22T01:28:10.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7561662675321096509/detail",
+      "discordThreadId": "1461496984383787028",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-spotandtango-com-careers-2026-01-15-1",
+      "jobId": "www-spotandtango-com-careers",
+      "company": "Spot & Tango",
+      "title": "Jr. Software Engineer",
+      "postedToDiscord": "2026-01-15T23:07:21.098Z",
+      "sourceDate": "2025-10-21T17:59:38.000Z",
+      "sourceUrl": "https://www.spotandtango.com/careers?gh_jid=4620638005",
+      "discordThreadId": "1461496998682296431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-shopify-com-careers-demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5-2026-01-15-1",
+      "jobId": "www-shopify-com-careers-demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
+      "company": "Shopify",
+      "title": "Demo Engineer, Software Development",
+      "postedToDiscord": "2026-01-15T23:07:24.645Z",
+      "sourceDate": "2025-10-20T23:44:28.000Z",
+      "sourceUrl": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
+      "discordThreadId": "1461497012955644208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999657426860-2026-01-15-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999657426860",
+      "company": "360 IT Professionals",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-15T23:07:28.237Z",
+      "sourceDate": "2025-10-20T20:28:36.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657426860",
+      "discordThreadId": "1461497028562518068",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-analyticpartners-c161367a-dd4b-447c-b112-d0a2de5d6b67-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-analyticpartners-c161367a-dd4b-447c-b112-d0a2de5d6b67-apply",
+      "company": "Analytic Partners",
+      "title": "Marketing Science Analyst - February 16th - 2026 Start",
+      "postedToDiscord": "2026-01-15T23:07:35.000Z",
+      "sourceDate": "2025-10-22T07:49:12.000Z",
+      "sourceUrl": "https://jobs.lever.co/analyticpartners/c161367a-dd4b-447c-b112-d0a2de5d6b67/apply",
+      "discordThreadId": "1461497055947264130",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-analyticpartners-f7d06503-9067-4fbe-833c-089db235cb8e-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-analyticpartners-f7d06503-9067-4fbe-833c-089db235cb8e-apply",
+      "company": "Analytic Partners",
+      "title": "Marketing Science Analyst - February 16th - 2026 Start",
+      "postedToDiscord": "2026-01-15T23:07:35.015Z",
+      "sourceDate": "2025-10-22T01:20:00.000Z",
+      "sourceUrl": "https://jobs.lever.co/analyticpartners/f7d06503-9067-4fbe-833c-089db235cb8e/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cadent-icims-com-jobs-1266-job-2026-01-15-1",
+      "jobId": "careers-cadent-icims-com-jobs-1266-job",
+      "company": "Adtheorant",
+      "title": "Associate Data Scientist",
+      "postedToDiscord": "2026-01-15T23:07:41.527Z",
+      "sourceDate": "2025-10-20T21:12:30.000Z",
+      "sourceUrl": "https://careers-cadent.icims.com/jobs/1266/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461497084107554908",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-veeva-8fe22df0-02b4-453d-919c-c8998cf913f6-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-veeva-8fe22df0-02b4-453d-919c-c8998cf913f6-apply",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
+      "postedToDiscord": "2026-01-15T23:07:44.889Z",
+      "sourceDate": "2025-10-18T08:29:41.000Z",
+      "sourceUrl": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
+      "discordThreadId": "1461497098808856626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-veeva-907dccc7-0052-41e9-920b-28e5ba6aaba9-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-veeva-907dccc7-0052-41e9-920b-28e5ba6aaba9-apply",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
+      "postedToDiscord": "2026-01-15T23:07:44.904Z",
+      "sourceDate": "2025-10-18T08:29:31.000Z",
+      "sourceUrl": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1862,
+    "totalJobs": 1871,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T22:54:05.675Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-15T23:07:44.904Z",
+      "archived": 0
     }
   }
 }
