@@ -468,12 +468,19 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
   const totalCompanies = Object.keys(currentStats.totalByCompany).length;
 
-  return `<div align="center">
+  return `
+
+<div align="center">
 
 <!-- Banner -->
 <img src="images/ngj-heading.png" alt="New Grad Jobs 2026">
 
 # New Grad Jobs 2026
+
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
+![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
 
