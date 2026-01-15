@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T05:18:04.694Z",
+  "lastUpdated": "2026-01-15T05:32:02.529Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -17667,14 +17667,124 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech",
       "discordThreadId": "1461227906326986885",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "company": "supabase",
+      "title": "Multigres Deployment Engineer",
+      "postedToDiscord": "2026-01-15T05:31:26.909Z",
+      "sourceDate": "2025-11-07T19:57:02.108+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "discordThreadId": "1461231278492881031",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7564547210038380853-detail-2026-01-15-1",
+      "jobId": "jobs-bytedance-com-en-position-7564547210038380853-detail",
+      "company": "ByteDance",
+      "title": "Graduate Research Scientist - 3D/4D Reconstruction/Generation/Relighting",
+      "postedToDiscord": "2026-01-15T05:31:30.281Z",
+      "sourceDate": "2025-11-07T19:35:11.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7564547210038380853/detail",
+      "discordThreadId": "1461231286193492038",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ejov-fa-ca2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-23799-2026-01-15-1",
+      "jobId": "ejov-fa-ca2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-23799",
+      "company": "GHD",
+      "title": "Graduate Engineer",
+      "postedToDiscord": "2026-01-15T05:31:34.114Z",
+      "sourceDate": "2025-11-07T18:02:06.000Z",
+      "sourceUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23799",
+      "discordThreadId": "1461231300546531360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ou-taleo-net-careersection-2-jobdetail-ftl-2026-01-15-1",
+      "jobId": "ou-taleo-net-careersection-2-jobdetail-ftl",
+      "company": "University of Oklahoma",
+      "title": "Data Technician",
+      "postedToDiscord": "2026-01-15T05:31:37.666Z",
+      "sourceDate": "2025-11-07T16:15:49.000Z",
+      "sourceUrl": "https://ou.taleo.net/careersection/2/jobdetail.ftl?job=252356",
+      "discordThreadId": "1461231316367315027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-5342dc96-7ee5-46fe-bb55-1b52bacfd40f-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-supabase-5342dc96-7ee5-46fe-bb55-1b52bacfd40f",
+      "company": "supabase",
+      "title": "FinOps Engineer",
+      "postedToDiscord": "2026-01-15T05:31:39.465Z",
+      "sourceDate": "2025-11-07T09:40:39.073+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/5342dc96-7ee5-46fe-bb55-1b52bacfd40f",
+      "discordThreadId": "1461231331525529722",
+      "instanceNumber": 1
+    },
+    {
+      "id": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-analyst-advanced-analytics_r0016043-2026-01-15-1",
+      "jobId": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-analyst-advanced-analytics_r0016043",
+      "company": "Horizon media",
+      "title": "Analyst Advanced Analytics",
+      "postedToDiscord": "2026-01-15T05:31:42.825Z",
+      "sourceDate": "2025-11-06T23:54:54.000Z",
+      "sourceUrl": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Analyst--Advanced-Analytics_R0016043",
+      "discordThreadId": "1461231338655846444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7398287837747939634-detail-2026-01-15-1",
+      "jobId": "jobs-bytedance-com-en-position-7398287837747939634-detail",
+      "company": "ByteDance",
+      "title": "Research Scientist in Large Language Model - Doubao-PhD Graduates-2025 Start",
+      "postedToDiscord": "2026-01-15T05:31:49.302Z",
+      "sourceDate": "2025-11-07T19:35:52.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7398287837747939634/detail",
+      "discordThreadId": "1461231365805707337",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-b918d247-38fd-449a-b82d-ea1d7c90a099-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-b918d247-38fd-449a-b82d-ea1d7c90a099",
+      "company": "spotify",
+      "title": "Senior Machine Learning Engineer",
+      "postedToDiscord": "2026-01-15T05:31:52.739Z",
+      "sourceDate": "2025-11-07T16:48:55.706Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/b918d247-38fd-449a-b82d-ea1d7c90a099",
+      "discordThreadId": "1461231380129124405",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-science-analyst_jr31922-1-2026-01-15-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-science-analyst_jr31922-1",
+      "company": "University of Chicago",
+      "title": "Data Science - Analyst",
+      "postedToDiscord": "2026-01-15T05:31:59.136Z",
+      "sourceDate": "2025-11-07T17:07:21.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science--Analyst_JR31922-1",
+      "discordThreadId": "1461231407262076978",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-exxonmobil-com-exxonmobil-job-houston-phd-students-seeking-full-time-employment-tx-77001-1314976300-2026-01-15-1",
+      "jobId": "jobs-exxonmobil-com-exxonmobil-job-houston-phd-students-seeking-full-time-employment-tx-77001-1314976300",
+      "company": "ExxonMobil",
+      "title": "PhD Student",
+      "postedToDiscord": "2026-01-15T05:32:02.528Z",
+      "sourceDate": "2025-11-07T17:03:53.000Z",
+      "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-PhD-Students-Seeking-Full-Time-Employment-TX-77001/1314976300/?ats=successfactors",
+      "discordThreadId": "1461231421413654614",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1606,
+    "totalJobs": 1616,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T05:18:04.694Z",
+      "date": "2026-01-15T05:32:02.529Z",
       "archived": 0
     }
   }
