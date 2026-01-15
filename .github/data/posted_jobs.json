@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T20:08:50.234Z",
+  "lastUpdated": "2026-01-15T20:28:19.283Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5057647008-2026-01-08-1",
@@ -19878,14 +19878,124 @@
       "sourceUrl": "https://lifeattiktok.com/search/7533023909790501138",
       "discordThreadId": "1461452073286762692",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7540029640091650312-detail-2026-01-15-1",
+      "jobId": "jobs-bytedance-com-en-position-7540029640091650312-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - AI Platform - 2026 Start",
+      "postedToDiscord": "2026-01-15T20:27:35.829Z",
+      "sourceDate": "2025-10-30T23:52:10.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7540029640091650312/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-orioninc-com-careers-job-2026-01-15-1",
+      "jobId": "www-orioninc-com-careers-job",
+      "company": "Orion Systems Integrators",
+      "title": "Programmer Analyst",
+      "postedToDiscord": "2026-01-15T20:27:39.400Z",
+      "sourceDate": "2025-10-30T23:43:17.000Z",
+      "sourceUrl": "https://www.orioninc.com/careers/job/?gh_jid=4442014006",
+      "discordThreadId": "1461456809788182670",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bowheadcareers-uicalaska-icims-com-jobs-23872-job-2026-01-15-1",
+      "jobId": "bowheadcareers-uicalaska-icims-com-jobs-23872-job",
+      "company": "Bowhead",
+      "title": "SCA Telecommunications Mechanic 1",
+      "postedToDiscord": "2026-01-15T20:27:42.816Z",
+      "sourceDate": "2025-10-30T23:42:17.000Z",
+      "sourceUrl": "https://bowheadcareers-uicalaska.icims.com/jobs/23872/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461456824447270922",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lenovo-com-en_us-careers-jobdetail-software-engineer-ai-productization-69831-2026-01-15-1",
+      "jobId": "jobs-lenovo-com-en_us-careers-jobdetail-software-engineer-ai-productization-69831",
+      "company": "Lenovo",
+      "title": "Software Engineer - AI Productization",
+      "postedToDiscord": "2026-01-15T20:27:46.564Z",
+      "sourceDate": "2025-10-30T15:56:39.000Z",
+      "sourceUrl": "https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Engineer-AI-Productization/69831",
+      "discordThreadId": "1461456839437848677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7532538236133902599-detail-2026-01-15-1",
+      "jobId": "jobs-bytedance-com-en-position-7532538236133902599-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Enterprise",
+      "postedToDiscord": "2026-01-15T20:27:53.091Z",
+      "sourceDate": "2025-10-30T23:52:08.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7532538236133902599/detail",
+      "discordThreadId": "1461456867199815977",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-uncountable-9a594e54-c3d3-4c5e-95f7-16b66ab442a3-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-uncountable-9a594e54-c3d3-4c5e-95f7-16b66ab442a3-apply",
+      "company": "Uncountable",
+      "title": "Data Structuring Specialist",
+      "postedToDiscord": "2026-01-15T20:27:58.882Z",
+      "sourceDate": "2025-10-30T23:50:08.000Z",
+      "sourceUrl": "https://jobs.lever.co/uncountable/9a594e54-c3d3-4c5e-95f7-16b66ab442a3/apply",
+      "discordThreadId": "1461456882299437250",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7533501745109600530-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7533501745109600530",
+      "company": "TikTok",
+      "title": "Graduate Machine Learning Engineer - Monetization GenAI - BS/MS",
+      "postedToDiscord": "2026-01-15T20:28:02.407Z",
+      "sourceDate": "2025-10-30T23:44:07.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533501745109600530",
+      "discordThreadId": "1461456906282336512",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-saronic-30af5320-d158-4127-969f-de7ee92504ce-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-saronic-30af5320-d158-4127-969f-de7ee92504ce-apply",
+      "company": "Saronic",
+      "title": "Perception and Autonomy Engineer",
+      "postedToDiscord": "2026-01-15T20:28:06.118Z",
+      "sourceDate": "2025-10-30T23:40:38.000Z",
+      "sourceUrl": "https://jobs.lever.co/saronic/30af5320-d158-4127-969f-de7ee92504ce/apply",
+      "discordThreadId": "1461456921180639555",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7532272949161593096-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7532272949161593096",
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Shop AMS Data Science",
+      "postedToDiscord": "2026-01-15T20:28:12.801Z",
+      "sourceDate": "2025-10-30T23:39:08.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532272949161593096",
+      "discordThreadId": "1461456949349580832",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-0aba9686-a3f0-4459-be3e-337bc7b0f90c-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-supabase-0aba9686-a3f0-4459-be3e-337bc7b0f90c",
+      "company": "supabase",
+      "title": "Account Executive (USA)",
+      "postedToDiscord": "2026-01-15T20:28:19.282Z",
+      "sourceDate": "2025-10-30T16:21:08.602+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/0aba9686-a3f0-4459-be3e-337bc7b0f90c",
+      "discordThreadId": "1461456976956494049",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1807,
+    "totalJobs": 1817,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T20:08:50.234Z",
+      "date": "2026-01-15T20:28:19.283Z",
       "archived": 0
     }
   }
