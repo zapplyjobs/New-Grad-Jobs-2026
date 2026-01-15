@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T19:27:57.150Z",
+  "lastUpdated": "2026-01-15T19:43:36.473Z",
   "jobs": [
-    {
-      "id": "bcbst-wd1-myworkdayjobs-com-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48235-2026-01-08-1",
-      "jobId": "bcbst-wd1-myworkdayjobs-com-external-job-usa-tn-chattanooga-remote-associate-software-engineer-i_r-48235",
-      "company": "BlueCross BlueShield of Tennessee",
-      "title": "Associate Software Engineer 1",
-      "postedToDiscord": "2026-01-08T19:42:59.055Z",
-      "sourceDate": "2026-01-08T19:18:39.000Z",
-      "sourceUrl": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-48235",
-      "discordThreadId": "1458908852098433096",
-      "instanceNumber": 1
-    },
-    {
-      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378333-1-2026-01-08-1",
-      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378333-1",
-      "company": "Walmart",
-      "title": "Senior Software Engineer",
-      "postedToDiscord": "2026-01-08T19:43:02.680Z",
-      "sourceDate": "2026-01-08T19:14:58.000Z",
-      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2378333-1",
-      "discordThreadId": "1458908867621687590",
-      "instanceNumber": 1
-    },
-    {
-      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378344-1-2026-01-08-1",
-      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378344-1",
-      "company": "Walmart",
-      "title": "Senior Software Engineer",
-      "postedToDiscord": "2026-01-08T19:43:02.692Z",
-      "sourceDate": "2026-01-08T19:14:52.000Z",
-      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2378344-1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-csd-school-of-computer-science_2024014-2026-01-08-1",
-      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-csd-school-of-computer-science_2024014",
-      "company": "Carnegie Mellon University",
-      "title": "Research Assistant - Csd - School of Computer Science",
-      "postedToDiscord": "2026-01-08T19:43:09.187Z",
-      "sourceDate": "2026-01-08T19:08:52.000Z",
-      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD---School-of-Computer-Science_2024014",
-      "discordThreadId": "1458908894951768147",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-nashville-clinic-nashville-tn-therapist-iop-php_r5976-2026-01-08-1",
-      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-nashville-clinic-nashville-tn-therapist-iop-php_r5976",
-      "company": "Rogers Behavioral Health",
-      "title": "Therapist-IOP/PHP",
-      "postedToDiscord": "2026-01-08T19:43:15.825Z",
-      "sourceDate": "2026-01-08T19:07:31.000Z",
-      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Nashville-Clinic-Nashville-TN/Therapist--IOP-PHP_R5976",
-      "discordThreadId": "1458908922672058522",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-193d115f-7045-499b-9072-d9322bac8088-2026-01-08-1",
       "jobId": "jobs-lever-co-spotify-193d115f-7045-499b-9072-d9322bac8088",
@@ -19625,14 +19570,124 @@
       "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31354",
       "discordThreadId": "1461441784134504530",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-voleon-7c185ae4-3fdd-4613-8152-3ede45d2b7c0-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-voleon-7c185ae4-3fdd-4613-8152-3ede45d2b7c0-apply",
+      "company": "The Voleon Group",
+      "title": "Software Engineer - University Hire 2026",
+      "postedToDiscord": "2026-01-15T19:42:55.796Z",
+      "sourceDate": "2025-10-31T01:49:45.000Z",
+      "sourceUrl": "https://jobs.lever.co/voleon/7c185ae4-3fdd-4613-8152-3ede45d2b7c0/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-imc-jobs-4608585101-2026-01-15-1",
+      "jobId": "job-boards-eu-greenhouse-io-imc-jobs-4608585101",
+      "company": "IMC Trading",
+      "title": "Graduate Machine Learning Researcher",
+      "postedToDiscord": "2026-01-15T19:42:59.407Z",
+      "sourceDate": "2025-10-31T01:32:45.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4608585101",
+      "discordThreadId": "1461445568449478678",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-quantcast-fb62370c-e6a6-418e-b116-09de79ad50cf-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-quantcast-fb62370c-e6a6-418e-b116-09de79ad50cf-apply",
+      "company": "Quantcast",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T19:43:02.852Z",
+      "sourceDate": "2025-10-31T01:28:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/quantcast/fb62370c-e6a6-418e-b116-09de79ad50cf/apply",
+      "discordThreadId": "1461445583700230380",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wolve-b42f4d54-02e1-4549-a6a5-7cd5673c8216-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-wolve-b42f4d54-02e1-4549-a6a5-7cd5673c8216-apply",
+      "company": "Wolverine Trading",
+      "title": "Entry-Level C++ Software Engineer",
+      "postedToDiscord": "2026-01-15T19:43:06.330Z",
+      "sourceDate": "2025-10-31T01:21:54.000Z",
+      "sourceUrl": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216/apply",
+      "discordThreadId": "1461445598338351200",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northeastern-wd1-myworkdayjobs-com-careers-job-burlington-ma-temporary-r-d-software-engineer_r123231-2026-01-15-1",
+      "jobId": "northeastern-wd1-myworkdayjobs-com-careers-job-burlington-ma-temporary-r-d-software-engineer_r123231",
+      "company": "Northeastern",
+      "title": "R&D Software Engineer",
+      "postedToDiscord": "2026-01-15T19:43:09.986Z",
+      "sourceDate": "2025-10-31T01:20:39.000Z",
+      "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Burlington-MA/Temporary-R-D-Software-Engineer_R123231",
+      "discordThreadId": "1461445612930339031",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wing-com-careers-8183010002-2026-01-15-1",
+      "jobId": "wing-com-careers-8183010002",
+      "company": "Wing",
+      "title": "Web Software Engineer - Commerce Engineering",
+      "postedToDiscord": "2026-01-15T19:43:16.538Z",
+      "sourceDate": "2025-10-31T01:42:09.000Z",
+      "sourceUrl": "https://wing.com/careers/8183010002?gh_jid=8183010002",
+      "discordThreadId": "1461445640805548326",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-l3harris-com-job-tulsa-associate-image-processing-engineer-tulsa-ok-ok-74115-1320131300-2026-01-15-1",
+      "jobId": "jobs-l3harris-com-job-tulsa-associate-image-processing-engineer-tulsa-ok-ok-74115-1320131300",
+      "company": "L3Harris Technologies",
+      "title": "Associate Image Processing Engineer",
+      "postedToDiscord": "2026-01-15T19:43:20.159Z",
+      "sourceDate": "2025-10-31T01:20:57.000Z",
+      "sourceUrl": "https://jobs.l3harris.com/job/Tulsa-Associate,-Image-Processing-Engineer-(Tulsa,-OK)-OK-74115/1320131300/?ats=successfactors",
+      "discordThreadId": "1461445655854841940",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-agency-jobs-4677212101-2026-01-15-1",
+      "jobId": "job-boards-eu-greenhouse-io-agency-jobs-4677212101",
+      "company": "Invisible Technologies",
+      "title": "Entry Level Specialist - AI Trainer",
+      "postedToDiscord": "2026-01-15T19:43:23.615Z",
+      "sourceDate": "2025-10-31T01:17:56.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4677212101",
+      "discordThreadId": "1461445671033897236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "higher-gs-com-roles-152209-2026-01-15-1",
+      "jobId": "higher-gs-com-roles-152209",
+      "company": "Goldman Sachs",
+      "title": "Asset and Wealth Management Analyst",
+      "postedToDiscord": "2026-01-15T19:43:30.051Z",
+      "sourceDate": "2025-10-31T01:37:46.000Z",
+      "sourceUrl": "https://higher.gs.com/roles/152209",
+      "discordThreadId": "1461445697969586441",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-scsengineers-icims-com-jobs-1613-job-2026-01-15-1",
+      "jobId": "careers-scsengineers-icims-com-jobs-1613-job",
+      "company": "SCS Engineers",
+      "title": "Field Data Analyst",
+      "postedToDiscord": "2026-01-15T19:43:36.472Z",
+      "sourceDate": "2025-10-31T01:14:11.000Z",
+      "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1613/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461445724955738314",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1784,
+    "totalJobs": 1789,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T19:27:57.150Z",
+      "date": "2026-01-15T19:43:36.473Z",
       "archived": 0
     }
   }
