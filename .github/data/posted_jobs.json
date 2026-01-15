@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T06:28:34.443Z",
+  "lastUpdated": "2026-01-15T06:48:48.809Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -18107,14 +18107,135 @@
       "sourceUrl": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC/Physicist_HR101844",
       "discordThreadId": "1461245647163359305",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8190428002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8190428002",
+      "company": "discord",
+      "title": "Senior Product Design Manager, Player & Developer Experience",
+      "postedToDiscord": "2026-01-15T06:48:06.274Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8190428002",
+      "discordThreadId": "1461250561604194357",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8182912002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8182912002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Consumer Revenue",
+      "postedToDiscord": "2026-01-15T06:48:09.871Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8182912002",
+      "discordThreadId": "1461250577601134846",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8196787002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8196787002",
+      "company": "discord",
+      "title": "Staff Data Scientist, Strategic Research & Reporting",
+      "postedToDiscord": "2026-01-15T06:48:13.696Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196787002",
+      "discordThreadId": "1461250592860278848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8101842002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8101842002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Ads",
+      "postedToDiscord": "2026-01-15T06:48:20.129Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8101842002",
+      "discordThreadId": "1461250621335277725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8177757002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8177757002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Ads",
+      "postedToDiscord": "2026-01-15T06:48:20.142Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177757002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8112880002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8112880002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Data Platform",
+      "postedToDiscord": "2026-01-15T06:48:23.692Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8112880002",
+      "discordThreadId": "1461250635440853039",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210682815-2026-01-15-1",
+      "jobId": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210682815",
+      "company": "JP Morgan Chase",
+      "title": "Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence",
+      "postedToDiscord": "2026-01-15T06:48:27.812Z",
+      "sourceDate": "2025-11-03T23:50:14.000Z",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682815",
+      "discordThreadId": "1461250650607325318",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8136321002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8136321002",
+      "company": "discord",
+      "title": "Senior Software Engineer - Platform Infrastructure",
+      "postedToDiscord": "2026-01-15T06:48:34.468Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8136321002",
+      "discordThreadId": "1461250680667771024",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8214127002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8214127002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Safety Processing",
+      "postedToDiscord": "2026-01-15T06:48:38.252Z",
+      "sourceDate": "2025-11-03T19:18:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
+      "discordThreadId": "1461250696128233608",
+      "instanceNumber": 1
+    },
+    {
+      "id": "3m-wd1-myworkdayjobs-com-en-us-search-job-us-minnesota-maplewood-product-engineer_r01158471-2026-01-15-1",
+      "jobId": "3m-wd1-myworkdayjobs-com-en-us-search-job-us-minnesota-maplewood-product-engineer_r01158471",
+      "company": "3M",
+      "title": "Product Engineer",
+      "postedToDiscord": "2026-01-15T06:48:41.961Z",
+      "sourceDate": "2025-11-03T23:49:36.000Z",
+      "sourceUrl": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Product-Engineer_R01158471",
+      "discordThreadId": "1461250711894626478",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-6fb07755-acd8-4400-9de3-fa598e4eeb7d-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-railway-6fb07755-acd8-4400-9de3-fa598e4eeb7d",
+      "company": "railway",
+      "title": "Product Designer",
+      "postedToDiscord": "2026-01-15T06:48:48.809Z",
+      "sourceDate": "2025-11-03T23:54:45.950+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/6fb07755-acd8-4400-9de3-fa598e4eeb7d",
+      "discordThreadId": "1461250739899728019",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1646,
+    "totalJobs": 1657,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T06:28:34.443Z",
+      "date": "2026-01-15T06:48:48.809Z",
       "archived": 0
     }
   }
