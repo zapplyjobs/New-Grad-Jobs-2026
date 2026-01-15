@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T23:40:08.524Z",
+  "lastUpdated": "2026-01-15T23:53:37.206Z",
   "jobs": [
-    {
-      "id": "www-vectra-ai-about-jobs-2026-01-08-1",
-      "jobId": "www-vectra-ai-about-jobs",
-      "company": "Vectra",
-      "title": "Software Engineer – New College Graduate",
-      "postedToDiscord": "2026-01-08T23:51:59.384Z",
-      "sourceDate": "2026-01-08T23:26:35.000Z",
-      "sourceUrl": "https://www.vectra.ai/about/jobs?gh_jid=6142112",
-      "discordThreadId": "1458971514232897689",
-      "instanceNumber": 1
-    },
-    {
-      "id": "empower-wd12-myworkdayjobs-com-empower-job-co-greenwood-village-associate-software-engineer-starting-summer-2026_r0055622-1-2026-01-08-1",
-      "jobId": "empower-wd12-myworkdayjobs-com-empower-job-co-greenwood-village-associate-software-engineer-starting-summer-2026_r0055622-1",
-      "company": "Empower",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-08T23:52:02.916Z",
-      "sourceDate": "2026-01-08T23:20:01.000Z",
-      "sourceUrl": "https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Associate-Software-Engineer---starting-Summer-2026_R0055622-1",
-      "discordThreadId": "1458971531752374402",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-servicenow-744000102368485-2026-01-08-1",
-      "jobId": "jobs-smartrecruiters-com-servicenow-744000102368485",
-      "company": "ServiceNow",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-08T23:52:06.483Z",
-      "sourceDate": "2026-01-08T23:05:34.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000102368485",
-      "discordThreadId": "1458971546017071197",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-mcaconnect-b71f43fc-ce70-44c3-8ab3-0489d32e07b7-apply-2026-01-08-1",
-      "jobId": "jobs-lever-co-mcaconnect-b71f43fc-ce70-44c3-8ab3-0489d32e07b7-apply",
-      "company": "MCA Connect",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-08T23:52:13.045Z",
-      "sourceDate": "2026-01-08T23:17:59.000Z",
-      "sourceUrl": "https://jobs.lever.co/mcaconnect/b71f43fc-ce70-44c3-8ab3-0489d32e07b7/apply",
-      "discordThreadId": "1458971573657796674",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-ff67e1e9-a49e-4a17-958c-5b761ff5f754-application-2026-01-08-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-ff67e1e9-a49e-4a17-958c-5b761ff5f754-application",
-      "company": "Jerry",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-08T23:52:16.931Z",
-      "sourceDate": "2026-01-08T23:16:50.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/ff67e1e9-a49e-4a17-958c-5b761ff5f754/application",
-      "discordThreadId": "1458971588803170306",
-      "instanceNumber": 1
-    },
     {
       "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241-2026-01-09-1",
       "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241",
@@ -20648,14 +20593,124 @@
       "sourceUrl": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
       "discordThreadId": "1461505250451132613",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-184f631b-b751-49d9-bacb-5695b1e3a8e8-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-184f631b-b751-49d9-bacb-5695b1e3a8e8",
+      "company": "spotify",
+      "title": "Payroll Specialist",
+      "postedToDiscord": "2026-01-15T23:53:00.854Z",
+      "sourceDate": "2025-10-16T17:51:15.097Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/184f631b-b751-49d9-bacb-5695b1e3a8e8",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-divergent-jobs-4954950008-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-divergent-jobs-4954950008",
+      "company": "Divergent Technologies",
+      "title": "Software Engineer – New Grads: Fall 2025/Spring 2026",
+      "postedToDiscord": "2026-01-15T23:53:04.344Z",
+      "sourceDate": "2025-10-15T21:20:42.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
+      "discordThreadId": "1461508504425857075",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-2b701338-d869-49aa-9223-fca71967e9a9-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-clerk-2b701338-d869-49aa-9223-fca71967e9a9",
+      "company": "clerk",
+      "title": "Senior Growth Engineer",
+      "postedToDiscord": "2026-01-15T23:53:06.105Z",
+      "sourceDate": "2025-10-15T20:49:36.914+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/2b701338-d869-49aa-9223-fca71967e9a9",
+      "discordThreadId": "1461508519013646459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-c3e23b18-8bab-436a-b0d9-cfe8ccbc1ec5-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-c3e23b18-8bab-436a-b0d9-cfe8ccbc1ec5",
+      "company": "spotify",
+      "title": "Machine Learning Engineering Manager, Personalization",
+      "postedToDiscord": "2026-01-15T23:53:09.824Z",
+      "sourceDate": "2025-10-15T14:26:30.578Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/c3e23b18-8bab-436a-b0d9-cfe8ccbc1ec5",
+      "discordThreadId": "1461508526936686795",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-matx-jobs-4003259008-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-matx-jobs-4003259008",
+      "company": "MatX",
+      "title": "Software Engineer - Kernels",
+      "postedToDiscord": "2026-01-15T23:53:16.352Z",
+      "sourceDate": "2025-10-16T07:39:02.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/matx/jobs/4003259008",
+      "discordThreadId": "1461508554652516615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_pt-jr021580-2026-01-15-1",
+      "jobId": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_pt-jr021580",
+      "company": "Morgan Stanley",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-15T23:53:19.734Z",
+      "sourceDate": "2025-10-16T07:27:02.000Z",
+      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Software-Engineer_PT-JR021580",
+      "discordThreadId": "1461508569387110420",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8211187002-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8211187002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Hardware Test & Automation - Optical Payloads",
+      "postedToDiscord": "2026-01-15T23:53:23.282Z",
+      "sourceDate": "2025-10-16T04:31:35.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8211187002",
+      "discordThreadId": "1461508583496745046",
+      "instanceNumber": 1
+    },
+    {
+      "id": "d3-com-careers-2026-01-15-1",
+      "jobId": "d3-com-careers",
+      "company": "D3",
+      "title": "Frontend Engineer – New Grad",
+      "postedToDiscord": "2026-01-15T23:53:26.894Z",
+      "sourceDate": "2025-10-16T02:14:57.000Z",
+      "sourceUrl": "https://d3.com/careers?gh_jid=4915213008",
+      "discordThreadId": "1461508598617214987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-glide-5ece3064-6884-43c2-923c-066d6187b25d-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-glide-5ece3064-6884-43c2-923c-066d6187b25d",
+      "company": "Glide",
+      "title": "Full Stack Engineer – Early Career",
+      "postedToDiscord": "2026-01-15T23:53:30.337Z",
+      "sourceDate": "2025-10-15T22:46:30.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d",
+      "discordThreadId": "1461508613678960874",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5616603004-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5616603004",
+      "company": "Figma",
+      "title": "Junior Software Engineer - Software Engineer",
+      "postedToDiscord": "2026-01-15T23:53:37.206Z",
+      "sourceDate": "2025-10-16T05:33:10.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5616603004",
+      "discordThreadId": "1461508640715575349",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1877,
+    "totalJobs": 1882,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T23:40:08.524Z",
+      "date": "2026-01-15T23:53:37.206Z",
       "archived": 0
     }
   }
