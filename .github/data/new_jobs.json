@@ -112,22 +112,6 @@
     "description_success": true
   },
   {
-    "job_title": "Machine Learning Engineer Graduate - Multiple Teams",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) -2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7538932630663465224/detail",
-    "job_posted_at_datetime_utc": "2025-10-31T09:14:33.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "jobs-bytedance-com-en-position-7538932630663465224-detail",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
     "employer_name": "ByteDance",
     "job_city": "Seattle",
@@ -156,6 +140,22 @@
     "source_url": "simplify.jobs",
     "job_posted_at": "1h",
     "id": "jobs-bytedance-com-en-position-7532657693459843335-detail",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - BS/MS",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "View our opening for Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7538932631158212872/detail",
+    "job_posted_at_datetime_utc": "2025-10-31T09:14:30.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "jobs-bytedance-com-en-position-7538932631158212872-detail",
     "description_platform": "generic",
     "description_success": true
   }
