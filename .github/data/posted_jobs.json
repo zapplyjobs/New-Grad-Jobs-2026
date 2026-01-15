@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T22:27:59.103Z",
+  "lastUpdated": "2026-01-15T22:44:56.066Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-reddit-jobs-7524948-2026-01-08-1",
@@ -20384,14 +20384,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/4ac110be-208a-4d68-8db2-6c170867b8e7",
       "discordThreadId": "1461487098107531426",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
+      "company": "spotify",
+      "title": "Staff Research Engineer - Music",
+      "postedToDiscord": "2026-01-15T22:44:22.734Z",
+      "sourceDate": "2025-10-23T19:21:19.524Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
+      "company": "spotify",
+      "title": "Senior Research Engineer - Music",
+      "postedToDiscord": "2026-01-15T22:44:27.031Z",
+      "sourceDate": "2025-10-23T19:19:20.027Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
+      "discordThreadId": "1461491232806014979",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e",
+      "company": "spotify",
+      "title": "Principal Research Scientist - Music",
+      "postedToDiscord": "2026-01-15T22:44:30.430Z",
+      "sourceDate": "2025-10-23T19:04:13.533Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/e7ead7e0-5033-4058-9bbf-006811a5147e",
+      "discordThreadId": "1461491249805791339",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969",
+      "company": "spotify",
+      "title": "Staff Research Scientist - Music",
+      "postedToDiscord": "2026-01-15T22:44:33.843Z",
+      "sourceDate": "2025-10-23T19:01:45.505Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/33114d31-b3d0-4bbb-bf7c-ab32596e8969",
+      "discordThreadId": "1461491264158564413",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
+      "company": "spotify",
+      "title": "Senior Research Scientist - Music",
+      "postedToDiscord": "2026-01-15T22:44:37.136Z",
+      "sourceDate": "2025-10-23T18:56:23.111Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
+      "discordThreadId": "1461491278272528548",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a-2026-01-15-1",
+      "jobId": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a",
+      "company": "spotify",
+      "title": "Senior Content Accountant",
+      "postedToDiscord": "2026-01-15T22:44:40.662Z",
+      "sourceDate": "2025-10-23T16:48:05.911Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/32297d46-a347-4680-849c-1c56d0a2666a",
+      "discordThreadId": "1461491292432498864",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-adobe-com-us-en-job-adobusr158465externalenus-software-development-engineer-2026-01-15-1",
+      "jobId": "careers-adobe-com-us-en-job-adobusr158465externalenus-software-development-engineer",
+      "company": "Adobe",
+      "title": "Software Development Engineer",
+      "postedToDiscord": "2026-01-15T22:44:47.167Z",
+      "sourceDate": "2025-10-23T14:09:16.000Z",
+      "sourceUrl": "https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer",
+      "discordThreadId": "1461491319825236202",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-elevenlabs-bed47ac1-9c5c-44ae-8965-3a4312706328-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-elevenlabs-bed47ac1-9c5c-44ae-8965-3a4312706328",
+      "company": "ElevenLabs",
+      "title": "Growth Engineering - Mobile",
+      "postedToDiscord": "2026-01-15T22:44:51.102Z",
+      "sourceDate": "2025-10-23T11:29:51.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328",
+      "discordThreadId": "1461491334966677530",
+      "instanceNumber": 1
+    },
+    {
+      "id": "draftkings-wd1-myworkdayjobs-com-draftkings-job-remote-us-software-engineer_jr13105-3-2026-01-15-1",
+      "jobId": "draftkings-wd1-myworkdayjobs-com-draftkings-job-remote-us-software-engineer_jr13105-3",
+      "company": "DraftKings",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T22:44:54.400Z",
+      "sourceDate": "2025-10-23T11:17:47.000Z",
+      "sourceUrl": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3",
+      "discordThreadId": "1461491350662025497",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-careers-microsoft-com-global-en-job-1900192-software-engineering-2026-01-15-1",
+      "jobId": "jobs-careers-microsoft-com-global-en-job-1900192-software-engineering",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T22:44:56.066Z",
+      "sourceDate": "2025-10-23T11:04:54.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering",
+      "discordThreadId": "1461491364478058578",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1853,
+    "totalJobs": 1863,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T22:27:59.103Z",
+      "date": "2026-01-15T22:44:56.066Z",
       "archived": 0
     }
   }
