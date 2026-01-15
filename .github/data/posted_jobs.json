@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T20:28:19.283Z",
+  "lastUpdated": "2026-01-15T20:56:19.423Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5057647008-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5057647008",
-      "company": "anthropic",
-      "title": "Product Engineer, Applied AI",
-      "postedToDiscord": "2026-01-08T20:53:23.892Z",
-      "sourceDate": "2026-01-08T15:47:40-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-      "discordThreadId": "1458926571237802117",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5056499008-2026-01-08-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5056499008",
@@ -19988,14 +19977,58 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/0aba9686-a3f0-4459-be3e-337bc7b0f90c",
       "discordThreadId": "1461456976956494049",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-c075cd1b-9258-44cf-8728-b56d6b8870f8-2026-01-15-1",
+      "jobId": "jobs-lever-co-nominal-c075cd1b-9258-44cf-8728-b56d6b8870f8",
+      "company": "nominal",
+      "title": "Recruiting Coordinator",
+      "postedToDiscord": "2026-01-15T20:56:05.199Z",
+      "sourceDate": "2025-10-30T15:18:13.321Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/c075cd1b-9258-44cf-8728-b56d6b8870f8",
+      "discordThreadId": "1461463963299610696",
+      "instanceNumber": 1
+    },
+    {
+      "id": "att-wd1-myworkdayjobs-com-attgeneral-job-columbia-maryland-software-developer-asset-management-swe-i-government-_r-88334-2026-01-15-1",
+      "jobId": "att-wd1-myworkdayjobs-com-attgeneral-job-columbia-maryland-software-developer-asset-management-swe-i-government-_r-88334",
+      "company": "AT&T",
+      "title": "Software Developer - Asset Management - SWE I','Government",
+      "postedToDiscord": "2026-01-15T20:56:11.791Z",
+      "sourceDate": "2025-10-30T12:02:09.000Z",
+      "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Software-Developer---Asset-Management--SWE-I---Government-_R-88334",
+      "discordThreadId": "1461463991669756181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-mcdonalds-com-job-chicago-software-engineer-i-c-il-60607-1338320000-2026-01-15-1",
+      "jobId": "jobs-mcdonalds-com-job-chicago-software-engineer-i-c-il-60607-1338320000",
+      "company": "McDonald's",
+      "title": "Software Engineer I C#",
+      "postedToDiscord": "2026-01-15T20:56:15.570Z",
+      "sourceDate": "2025-10-29T18:44:32.000Z",
+      "sourceUrl": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1338320000/?ats=successfactors",
+      "discordThreadId": "1461464006798737604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-agency-jobs-4650952101-2026-01-15-1",
+      "jobId": "job-boards-eu-greenhouse-io-agency-jobs-4650952101",
+      "company": "Invisible Technologies",
+      "title": "Japanese Speaker - AI Trainer",
+      "postedToDiscord": "2026-01-15T20:56:19.422Z",
+      "sourceDate": "2025-10-29T07:41:24.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4650952101",
+      "discordThreadId": "1461464023018111121",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1817,
+    "totalJobs": 1820,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T20:28:19.283Z",
+      "date": "2026-01-15T20:56:19.423Z",
       "archived": 0
     }
   }
