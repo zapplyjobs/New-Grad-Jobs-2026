@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T15:27:17.816Z",
+  "lastUpdated": "2026-01-15T15:43:34.340Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5748282004-2026-01-08-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5748282004",
-      "company": "figma",
-      "title": "Community Marketing Manager - Figma Weave (New York, United States) ",
-      "postedToDiscord": "2026-01-08T15:42:19.068Z",
-      "sourceDate": "2026-01-08T10:27:52-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5748282004?gh_jid=5748282004",
-      "discordThreadId": "1458848286386684010",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-waukegan-il-associate-software-developer_r260376-2026-01-08-1",
-      "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-waukegan-il-associate-software-developer_r260376",
-      "company": "Uline",
-      "title": "Associate Software Developer",
-      "postedToDiscord": "2026-01-08T15:42:25.665Z",
-      "sourceDate": "2026-01-08T14:54:31.000Z",
-      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376",
-      "discordThreadId": "1458848314509492409",
-      "instanceNumber": 1
-    },
     {
       "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-cbp-public-trust-or-top-secret-preferred_rq209446-1-2026-01-08-1",
       "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-cbp-public-trust-or-top-secret-preferred_rq209446-1",
@@ -19339,15 +19317,27 @@
       "sourceUrl": "https://lifeattiktok.com/search/7532629934058178824",
       "discordThreadId": "1461381221811490827",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7538932630663465224-detail-2026-01-15-1",
+      "jobId": "jobs-bytedance-com-en-position-7538932630663465224-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate - Multiple Teams",
+      "postedToDiscord": "2026-01-15T15:43:34.339Z",
+      "sourceDate": "2025-10-31T09:14:33.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538932630663465224/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1758,
+    "totalJobs": 1757,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T15:27:17.816Z",
-      "archived": 0
+      "date": "2026-01-15T15:43:34.340Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
