@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T21:42:50.508Z",
+  "lastUpdated": "2026-01-15T21:55:27.291Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-ad23c6cd-e521-4dda-b05f-c60f72548372-2026-01-08-1",
@@ -20197,14 +20197,102 @@
       "sourceUrl": "https://jobs.lever.co/sfgiants/9922308a-8c86-4394-bd22-554939491bc1/apply",
       "discordThreadId": "1461475731019137280",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-ucm-icims-com-jobs-80172-job-2026-01-15-1",
+      "jobId": "careers-ucm-icims-com-jobs-80172-job",
+      "company": "The University of Chicago Medicine",
+      "title": "Clinical Data Analyst - Same Day Surgery/Observation Coder",
+      "postedToDiscord": "2026-01-15T21:54:54.699Z",
+      "sourceDate": "2025-10-26T09:08:20.000Z",
+      "sourceUrl": "https://careers-ucm.icims.com/jobs/80172/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewgu-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-26148-2026-01-15-1",
+      "jobId": "fa-ewgu-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-26148",
+      "company": "Chubb",
+      "title": "Technology Associate",
+      "postedToDiscord": "2026-01-15T21:55:01.120Z",
+      "sourceDate": "2025-10-26T19:22:06.000Z",
+      "sourceUrl": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/26148",
+      "discordThreadId": "1461478795570581606",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-68761-job-2026-01-15-1",
+      "jobId": "careers-gdms-icims-com-jobs-68761-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-15T21:55:04.609Z",
+      "sourceDate": "2025-10-26T18:59:49.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/68761/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461478809969758301",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-trace3-jobs-7350861-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-trace3-jobs-7350861",
+      "company": "Trace3",
+      "title": "Java DevSecOps Software Engineer",
+      "postedToDiscord": "2026-01-15T21:55:09.860Z",
+      "sourceDate": "2025-10-26T18:55:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/trace3/jobs/7350861",
+      "discordThreadId": "1461478825253933077",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0148259-2026-01-15-1",
+      "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0148259",
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-15T21:55:13.291Z",
+      "sourceDate": "2025-10-26T18:01:44.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
+      "discordThreadId": "1461478846183374972",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-311345-2026-01-15-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-311345",
+      "company": "Oracle",
+      "title": "Advanced Degree Software Engineer - Oracle Health and Analytics",
+      "postedToDiscord": "2026-01-15T21:55:16.943Z",
+      "sourceDate": "2025-10-26T15:55:11.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311345",
+      "discordThreadId": "1461478860896997519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-captivation-jobs-4955322008-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-captivation-jobs-4955322008",
+      "company": "Captivation",
+      "title": "Software Engineer 1 - Hybrid - Java/Mapreduce/Git/Pig/Maven",
+      "postedToDiscord": "2026-01-15T21:55:20.529Z",
+      "sourceDate": "2025-10-26T14:38:20.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/captivation/jobs/4955322008",
+      "discordThreadId": "1461478876160069906",
+      "instanceNumber": 1
+    },
+    {
+      "id": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-material-handler_rq4039209-2026-01-15-1",
+      "jobId": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-boston-ma-material-handler_rq4039209",
+      "company": "Mass General Brigham",
+      "title": "Material Handler",
+      "postedToDiscord": "2026-01-15T21:55:27.290Z",
+      "sourceDate": "2025-10-26T18:21:13.000Z",
+      "sourceUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Material-Handler_RQ4039209",
+      "discordThreadId": "1461478904320753735",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1836,
+    "totalJobs": 1844,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T21:42:50.508Z",
+      "date": "2026-01-15T21:55:27.291Z",
       "archived": 0
     }
   }
