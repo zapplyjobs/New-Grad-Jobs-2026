@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T02:43:55.045Z",
+  "lastUpdated": "2026-01-15T03:24:55.644Z",
   "jobs": [
-    {
-      "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666-2026-01-08-1",
-      "jobId": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666",
-      "company": "Children's Hospital of Philadelphia",
-      "title": "Research Data Analyst 1",
-      "postedToDiscord": "2026-01-08T03:22:04.143Z",
-      "sourceDate": "2026-01-08T02:47:20.000Z",
-      "sourceUrl": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/Philadelphia-Campus--Roberts-Center-for-Pediatric-Research/Research-Data-Analyst-I_1021666",
-      "discordThreadId": "1458661997196607519",
-      "instanceNumber": 1
-    },
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
       "jobId": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1",
@@ -17018,14 +17007,124 @@
       "sourceUrl": "https://mhicareers.com/job/Orlando-Technical-Translator-I-FL-32809/1261635101/?ats=successfactors",
       "discordThreadId": "1461189110671609969",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-altentechnologyusa-jobs-4827839007-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-altentechnologyusa-jobs-4827839007",
+      "company": "ALTEN Technology",
+      "title": "Data Collection Operator 2",
+      "postedToDiscord": "2026-01-15T03:24:14.201Z",
+      "sourceDate": "2025-11-14T23:39:52.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/4827839007",
+      "discordThreadId": "1461199257884430429",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewmy-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2708-2026-01-15-1",
+      "jobId": "fa-ewmy-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2708",
+      "company": "Verisk",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T03:24:17.859Z",
+      "sourceDate": "2025-11-14T23:19:47.000Z",
+      "sourceUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708",
+      "discordThreadId": "1461199272660701204",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mthree-com-careers-job-2026-01-15-1",
+      "jobId": "mthree-com-careers-job",
+      "company": "mthree",
+      "title": "Entry Level - C Software Developer",
+      "postedToDiscord": "2026-01-15T03:24:21.317Z",
+      "sourceDate": "2025-11-14T23:18:19.000Z",
+      "sourceUrl": "https://mthree.com/careers/job/?gh_jid=4602522006",
+      "discordThreadId": "1461199287919575283",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-en-us-kbr_careers-job-huntsville-alabama-junior-software-engineer_r2115179-2026-01-15-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-en-us-kbr_careers-job-huntsville-alabama-junior-software-engineer_r2115179",
+      "company": "KBR",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-15T03:24:25.276Z",
+      "sourceDate": "2025-11-14T16:36:49.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179",
+      "discordThreadId": "1461199302637654151",
+      "instanceNumber": 1
+    },
+    {
+      "id": "metecs-applytojob-com-apply-csavnq7ij4-junior-software-engineer-dst-2026-01-15-1",
+      "jobId": "metecs-applytojob-com-apply-csavnq7ij4-junior-software-engineer-dst",
+      "company": "METECS",
+      "title": "Junior Software Engineer - DST",
+      "postedToDiscord": "2026-01-15T03:24:28.714Z",
+      "sourceDate": "2025-11-14T16:36:10.000Z",
+      "sourceUrl": "https://metecs.applytojob.com/apply/csAVnq7Ij4/Junior-Software-Engineer-DST",
+      "discordThreadId": "1461199318907359465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-exvu-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-1309-2026-01-15-1",
+      "jobId": "fa-exvu-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-1309",
+      "company": "GM financial",
+      "title": "Software Development Engineer 1",
+      "postedToDiscord": "2026-01-15T03:24:32.336Z",
+      "sourceDate": "2025-11-14T02:49:59.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309",
+      "discordThreadId": "1461199333557928029",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-emergingtalent-jobs-7204281-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-emergingtalent-jobs-7204281",
+      "company": "Maven Securities",
+      "title": "Graduate Developer Programme",
+      "postedToDiscord": "2026-01-15T03:24:35.771Z",
+      "sourceDate": "2025-11-14T02:41:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/emergingtalent/jobs/7204281",
+      "discordThreadId": "1461199348430934199",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-lignin-valorization_r13974-1-2026-01-15-1",
+      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-lignin-valorization_r13974-1",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-15T03:24:42.433Z",
+      "sourceDate": "2025-11-14T23:33:49.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-lignin-valorization_R13974-1",
+      "discordThreadId": "1461199375819608248",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-data-scientist-machine-learning-engineer_req_0000072889-2-2026-01-15-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-data-scientist-machine-learning-engineer_req_0000072889-2",
+      "company": "PennState University",
+      "title": "Data Scientist / Machine Learning Engineer",
+      "postedToDiscord": "2026-01-15T03:24:49.099Z",
+      "sourceDate": "2025-11-14T23:07:57.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Data-Scientist---Machine-Learning-Engineer_REQ_0000072889-2",
+      "discordThreadId": "1461199403598479390",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5678141004-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5678141004",
+      "company": "vercel",
+      "title": "Director of Partnerships, North America",
+      "postedToDiscord": "2026-01-15T03:24:55.644Z",
+      "sourceDate": "2025-11-13T18:55:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5678141004",
+      "discordThreadId": "1461199431444598979",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1547,
+    "totalJobs": 1556,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T02:43:55.045Z",
+      "date": "2026-01-15T03:24:55.644Z",
       "archived": 0
     }
   }
