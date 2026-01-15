@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T05:32:02.529Z",
+  "lastUpdated": "2026-01-15T05:45:21.190Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -17777,14 +17777,124 @@
       "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-PhD-Students-Seeking-Full-Time-Employment-TX-77001/1314976300/?ats=successfactors",
       "discordThreadId": "1461231421413654614",
       "instanceNumber": 1
+    },
+    {
+      "id": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8088-2026-01-15-1",
+      "jobId": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8088",
+      "company": "Fortive",
+      "title": "Operations Analyst",
+      "postedToDiscord": "2026-01-15T05:44:42.159Z",
+      "sourceDate": "2025-11-06T23:54:50.000Z",
+      "sourceUrl": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8088",
+      "discordThreadId": "1461234607730196675",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-science_r160136-2026-01-15-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-applied-science_r160136",
+      "company": "Adobe",
+      "title": "University Graduate - Applied Science",
+      "postedToDiscord": "2026-01-15T05:44:48.901Z",
+      "sourceDate": "2025-11-06T23:52:36.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Applied-Science_R160136",
+      "discordThreadId": "1461234634619617426",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-a0188e88-83d7-4ae5-b931-4dc85de0daed-2026-01-15-1",
+      "jobId": "jobs-lever-co-nominal-a0188e88-83d7-4ae5-b931-4dc85de0daed",
+      "company": "nominal",
+      "title": "Software Engineer - Infrastructure",
+      "postedToDiscord": "2026-01-15T05:44:52.406Z",
+      "sourceDate": "2025-11-06T23:42:31.678Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/a0188e88-83d7-4ae5-b931-4dc85de0daed",
+      "discordThreadId": "1461234650310643916",
+      "instanceNumber": 1
+    },
+    {
+      "id": "umiami-wd1-myworkdayjobs-com-umfaculty-job-coral-gables-fl-artificial-intelligence-expertise-in-quantum-science-and-ai-_r100092114-2026-01-15-1",
+      "jobId": "umiami-wd1-myworkdayjobs-com-umfaculty-job-coral-gables-fl-artificial-intelligence-expertise-in-quantum-science-and-ai-_r100092114",
+      "company": "University of Miami",
+      "title": "Artificial Intelligence",
+      "postedToDiscord": "2026-01-15T05:44:55.948Z",
+      "sourceDate": "2025-11-06T23:29:18.000Z",
+      "sourceUrl": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/Artificial-Intelligence--Expertise-in-Quantum-Science-and-AI-_R100092114",
+      "discordThreadId": "1461234664483324056",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-assistant-professor-data-science_r-088833-1-2026-01-15-1",
+      "jobId": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-assistant-professor-data-science_r-088833-1",
+      "company": "Texas A&M University - Corpus Christi",
+      "title": "Assistant Professor - Data Science",
+      "postedToDiscord": "2026-01-15T05:44:59.311Z",
+      "sourceDate": "2025-11-06T23:13:21.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Assistant-Professor--Data-Science_R-088833-1",
+      "discordThreadId": "1461234679742201896",
+      "instanceNumber": 1
+    },
+    {
+      "id": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20262247-2026-01-15-1",
+      "jobId": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20262247",
+      "company": "Vertiv",
+      "title": "Application Engineer - IT Racks and Cabinets",
+      "postedToDiscord": "2026-01-15T05:45:05.907Z",
+      "sourceDate": "2025-11-06T23:42:26.000Z",
+      "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262247",
+      "discordThreadId": "1461234706401198082",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-eb61a78d-9b5f-43f6-8d17-94c7b685d121-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-supabase-eb61a78d-9b5f-43f6-8d17-94c7b685d121",
+      "company": "supabase",
+      "title": "Rust Engineer",
+      "postedToDiscord": "2026-01-15T05:45:07.731Z",
+      "sourceDate": "2025-11-06T18:15:19.871+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/eb61a78d-9b5f-43f6-8d17-94c7b685d121",
+      "discordThreadId": "1461234721529794644",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-69129-job-2026-01-15-1",
+      "jobId": "careers-gdms-icims-com-jobs-69129-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer 1 - Entry Level",
+      "postedToDiscord": "2026-01-15T05:45:11.061Z",
+      "sourceDate": "2025-11-06T13:17:27.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461234728882536459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-125963-2026-01-15-1",
+      "jobId": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-125963",
+      "company": "Honeywell",
+      "title": "Application Engineer 1 - Pre-sale Product Selection",
+      "postedToDiscord": "2026-01-15T05:45:14.732Z",
+      "sourceDate": "2025-11-05T23:45:05.000Z",
+      "sourceUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/125963",
+      "discordThreadId": "1461234742996242467",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-atlanta-ga-report-customization-specialist-temporary-assignment_r17168-2026-01-15-1",
+      "jobId": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-atlanta-ga-report-customization-specialist-temporary-assignment_r17168",
+      "company": "ZOLL Medical Corporation",
+      "title": "Report Customization Specialist - Temporary Assignment",
+      "postedToDiscord": "2026-01-15T05:45:21.189Z",
+      "sourceDate": "2025-11-06T23:34:12.000Z",
+      "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Atlanta-GA/Report-Customization-Specialist---Temporary-Assignment_R17168",
+      "discordThreadId": "1461234770913525821",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1616,
+    "totalJobs": 1626,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T05:32:02.529Z",
+      "date": "2026-01-15T05:45:21.190Z",
       "archived": 0
     }
   }
