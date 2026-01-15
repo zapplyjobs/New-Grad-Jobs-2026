@@ -470,6 +470,8 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
   return `
 
+
+
 <div align="center">
 
 <!-- Banner -->
