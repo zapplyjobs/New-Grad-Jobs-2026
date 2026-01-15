@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T04:49:08.629Z",
+  "lastUpdated": "2026-01-15T05:03:05.448Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -17447,14 +17447,124 @@
       "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Programming-Analyst_JR31969",
       "discordThreadId": "1461220624033906821",
       "instanceNumber": 1
+    },
+    {
+      "id": "biotechne-wd5-myworkdayjobs-com-en-us-biotechne-job-wallingford-ct-software-engineer_jr101306-2026-01-15-1",
+      "jobId": "biotechne-wd5-myworkdayjobs-com-en-us-biotechne-job-wallingford-ct-software-engineer_jr101306",
+      "company": "Bio-Techne",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T05:02:27.795Z",
+      "sourceDate": "2025-11-12T00:39:52.000Z",
+      "sourceUrl": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Engineer_JR101306",
+      "discordThreadId": "1461223977769898228",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-c6f158d0-ef1d-484f-81cb-b5d29c34270e-2026-01-15-1",
+      "jobId": "jobs-lever-co-nominal-c6f158d0-ef1d-484f-81cb-b5d29c34270e",
+      "company": "nominal",
+      "title": "Software Engineer - Full-Stack",
+      "postedToDiscord": "2026-01-15T05:02:31.581Z",
+      "sourceDate": "2025-11-11T15:20:26.571Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/c6f158d0-ef1d-484f-81cb-b5d29c34270e",
+      "discordThreadId": "1461223992240246796",
+      "instanceNumber": 1
+    },
+    {
+      "id": "whitecap-wd1-myworkdayjobs-com-careers-job-atlanta_30360-data-scientist_wcjr-028517-2026-01-15-1",
+      "jobId": "whitecap-wd1-myworkdayjobs-com-careers-job-atlanta_30360-data-scientist_wcjr-028517",
+      "company": "White Cap Supply Holdings",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-15T05:02:34.907Z",
+      "sourceDate": "2025-11-11T00:15:16.000Z",
+      "sourceUrl": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Atlanta_30360/Data-Scientist_WCJR-028517",
+      "discordThreadId": "1461224007750910045",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-pathrobotics-jobs-8284163002-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-pathrobotics-jobs-8284163002",
+      "company": "Path Robotics",
+      "title": "Robotic Data Collection Operator - Tele-Op Systems",
+      "postedToDiscord": "2026-01-15T05:02:41.925Z",
+      "sourceDate": "2025-11-12T00:19:32.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/pathrobotics/jobs/8284163002",
+      "discordThreadId": "1461224034720026686",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-benchling-jobs-7386982-2026-01-15-1",
+      "jobId": "boards-greenhouse-io-benchling-jobs-7386982",
+      "company": "Benchling",
+      "title": "Software Engineer New Grad",
+      "postedToDiscord": "2026-01-15T05:02:45.265Z",
+      "sourceDate": "2025-11-12T00:07:18.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/benchling/jobs/7386982",
+      "discordThreadId": "1461224051090653224",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-quest-global-com-global-en-job-p-113136-2026-01-15-1",
+      "jobId": "careers-quest-global-com-global-en-job-p-113136",
+      "company": "Quest Global",
+      "title": "Data Migration Engineer/Programmer",
+      "postedToDiscord": "2026-01-15T05:02:48.772Z",
+      "sourceDate": "2025-11-11T02:11:31.000Z",
+      "sourceUrl": "https://careers.quest-global.com/global/en/job/P-113136",
+      "discordThreadId": "1461224065183383603",
+      "instanceNumber": 1
+    },
+    {
+      "id": "braunintertec-wd5-myworkdayjobs-com-brauninterteccareers-job-atlanta-epe-gis-specialist-traffic-noise-analyst_r4468-2026-01-15-1",
+      "jobId": "braunintertec-wd5-myworkdayjobs-com-brauninterteccareers-job-atlanta-epe-gis-specialist-traffic-noise-analyst_r4468",
+      "company": "Braun Intertec ",
+      "title": "GIS Specialist/Traffic Noise Analyst",
+      "postedToDiscord": "2026-01-15T05:02:52.201Z",
+      "sourceDate": "2025-11-11T00:31:19.000Z",
+      "sourceUrl": "https://braunintertec.wd5.myworkdayjobs.com/brauninterteccareers/job/Atlanta-EPE/GIS-Specialist-Traffic-Noise-Analyst_R4468",
+      "discordThreadId": "1461224079779434623",
+      "instanceNumber": 1
+    },
+    {
+      "id": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20262349-2026-01-15-1",
+      "jobId": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20262349",
+      "company": "Vertiv",
+      "title": "Manufacturing Engineering Technician",
+      "postedToDiscord": "2026-01-15T05:02:55.479Z",
+      "sourceDate": "2025-11-11T00:25:12.000Z",
+      "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262349",
+      "discordThreadId": "1461224094140731575",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wvu-taleo-net-careersection-faculty-jobdetail-ftl-2026-01-15-1",
+      "jobId": "wvu-taleo-net-careersection-faculty-jobdetail-ftl",
+      "company": "West Virginia University",
+      "title": "Hybrid – Research Data Management Librarian - Downtown Library",
+      "postedToDiscord": "2026-01-15T05:02:58.932Z",
+      "sourceDate": "2025-11-10T23:58:53.000Z",
+      "sourceUrl": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=26134",
+      "discordThreadId": "1461224107550183477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8250803002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8250803002",
+      "company": "discord",
+      "title": "Director, Account Management",
+      "postedToDiscord": "2026-01-15T05:03:05.447Z",
+      "sourceDate": "2025-11-10T20:03:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8250803002",
+      "discordThreadId": "1461224135354093699",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1586,
+    "totalJobs": 1596,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T04:49:08.629Z",
+      "date": "2026-01-15T05:03:05.448Z",
       "archived": 0
     }
   }
