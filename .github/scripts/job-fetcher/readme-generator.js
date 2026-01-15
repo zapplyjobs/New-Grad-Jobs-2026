@@ -506,7 +506,7 @@ Updated job openings for new grads in SWE and other tech roles | 2026
 
 </div>
 
-<p align="center">Welcome to an actively maintained collection of software engineering, tech, and IT jobs for new grads, data analysts, scientists, and entry-level software developers by [Zapply](https://zapply.jobs).</p>
+<p align="center">Welcome to an actively maintained collection of software engineering, tech, and IT jobs for new grads, data analysts, scientists, and entry-level software developers by <a href="https://zapply.jobs"><img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center"></a></p>
 
 <p align="center">This repo tracks roles in the United States and remote positions across tech giants and fast-growing startups.</p>
 
@@ -609,8 +609,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
-
----
 
 <div align="center">
 
