@@ -29,12 +29,24 @@ function filterJobsByAge(allJobs) {
   return { currentJobs, archivedJobs };
 }
 
+// Filter out senior positions - only keep Entry-Level and Mid-Level
+function filterOutSeniorPositions(jobs) {
+  return jobs.filter(job => {
+    const level = getExperienceLevel(job.job_title, job.job_description);
+    return level !== "Senior";
+  });
+}
+
 // Generate enhanced job table with better formatting
 // Import or load the JSON configuration
 
 function generateJobTable(jobs) {
   console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
   
+  // ADD THESE 3 LINES:
+  jobs = filterOutSeniorPositions(jobs);
+  console.log(`🔍 DEBUG: After filtering seniors: ${jobs.length} jobs remaining`);
+
   if (jobs.length === 0) {
     return `| Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -406,6 +418,9 @@ ${internshipData.sources
 function generateArchivedSection(archivedJobs, stats) {
   if (archivedJobs.length === 0) return "";
 
+  // ADD THIS LINE:
+  archivedJobs = filterOutSeniorPositions(archivedJobs);
+
   const archivedFaangJobs = archivedJobs.filter((job) =>
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
@@ -439,6 +454,9 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     month: "long",
     day: "numeric",
   });
+
+  // ADD THIS LINE:
+  currentJobs = filterOutSeniorPositions(currentJobs);
 
   // Calculate stats from currentJobs only (not archived)
   const currentStats = {
@@ -650,4 +668,5 @@ module.exports = {
   generateReadme,
   updateReadme,
   filterJobsByAge, 
+  filterOutSeniorPositions,  // ADD THIS
 };
