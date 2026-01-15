@@ -554,14 +554,6 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 ---
 
-## Fresh Software Jobs 2026
-
-<img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
-
-${generateJobTable(currentJobs)}
-
----
-
 ## More Resources
 
 <img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
@@ -589,6 +581,14 @@ Check out our other repos for jobs and free resources:
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
 </p>
+
+---
+
+## Fresh Software Jobs 2026
+
+<img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+
+${generateJobTable(currentJobs)}
 
 ---
 
