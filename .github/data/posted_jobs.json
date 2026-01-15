@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T05:45:21.190Z",
+  "lastUpdated": "2026-01-15T06:11:37.919Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -17887,14 +17887,124 @@
       "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Atlanta-GA/Report-Customization-Specialist---Temporary-Assignment_R17168",
       "discordThreadId": "1461234770913525821",
       "instanceNumber": 1
+    },
+    {
+      "id": "pacificlife-wd1-myworkdayjobs-com-en-us-pacificlifecareers-job-newport-beach-ca-700-pacific-life-investments-operational-support-analyst-document-data-management_r15681-1-2026-01-15-1",
+      "jobId": "pacificlife-wd1-myworkdayjobs-com-en-us-pacificlifecareers-job-newport-beach-ca-700-pacific-life-investments-operational-support-analyst-document-data-management_r15681-1",
+      "company": "Pacific Life",
+      "title": "Investments Operational Support Analyst - Document/Data Management",
+      "postedToDiscord": "2026-01-15T06:11:03.116Z",
+      "sourceDate": "2025-11-05T23:37:47.000Z",
+      "sourceUrl": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Pacific-Life-Investments-Operational-Support-Analyst---Document-Data-Management_R15681-1",
+      "discordThreadId": "1461241237809135619",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coreweave-com-careers-job-2026-01-15-1",
+      "jobId": "coreweave-com-careers-job",
+      "company": "CoreWeave",
+      "title": "Software Engineer - Inference AI/ML",
+      "postedToDiscord": "2026-01-15T06:11:06.741Z",
+      "sourceDate": "2025-11-05T23:16:44.000Z",
+      "sourceUrl": "https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006",
+      "discordThreadId": "1461241252925407357",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-warp-jobs-4324888004-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-warp-jobs-4324888004",
+      "company": "Warp",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T06:11:10.115Z",
+      "sourceDate": "2025-11-05T16:26:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/warp/jobs/4324888004",
+      "discordThreadId": "1461241267882295412",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-ebscoind-icims-com-jobs-1873-cloud-platform-engineer-i-job-2026-01-15-1",
+      "jobId": "careers-ebscoind-icims-com-jobs-1873-cloud-platform-engineer-i-job",
+      "company": "EBSCO",
+      "title": "Cloud Platform Engineer I",
+      "postedToDiscord": "2026-01-15T06:11:13.602Z",
+      "sourceDate": "2025-11-05T16:25:18.000Z",
+      "sourceUrl": "https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job",
+      "discordThreadId": "1461241282059042847",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-roblox-com-jobs-7357095-2026-01-15-1",
+      "jobId": "careers-roblox-com-jobs-7357095",
+      "company": "Roblox",
+      "title": "2026] Software Engineer – Early Career - Security",
+      "postedToDiscord": "2026-01-15T06:11:17.451Z",
+      "sourceDate": "2025-11-04T23:33:49.000Z",
+      "sourceUrl": "https://careers.roblox.com/jobs/7357095?gh_jid=7357095",
+      "discordThreadId": "1461241296931913920",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-mcdonalds-com-job-chicago-software-engineer-i-c-il-60607-1340292800-2026-01-15-1",
+      "jobId": "jobs-mcdonalds-com-job-chicago-software-engineer-i-c-il-60607-1340292800",
+      "company": "McDonald's",
+      "title": "Software Engineer I C#",
+      "postedToDiscord": "2026-01-15T06:11:20.917Z",
+      "sourceDate": "2025-11-04T23:30:20.000Z",
+      "sourceUrl": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors",
+      "discordThreadId": "1461241312924663919",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-steampunk-icims-com-jobs-7259-job-2026-01-15-1",
+      "jobId": "careers-steampunk-icims-com-jobs-7259-job",
+      "company": "Steampunk",
+      "title": "Data Governance Specialist",
+      "postedToDiscord": "2026-01-15T06:11:24.388Z",
+      "sourceDate": "2025-11-04T23:23:09.000Z",
+      "sourceUrl": "https://careers-steampunk.icims.com/jobs/7259/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461241327529492653",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-google-com-about-careers-applications-jobs-results-106428613359739590-2026-01-15-1",
+      "jobId": "www-google-com-about-careers-applications-jobs-results-106428613359739590",
+      "company": "Google",
+      "title": "Data Scientist – Early Career - Research - PhD",
+      "postedToDiscord": "2026-01-15T06:11:30.919Z",
+      "sourceDate": "2025-11-05T23:27:04.000Z",
+      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/106428613359739590",
+      "discordThreadId": "1461241354859319427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210680850-2026-01-15-1",
+      "jobId": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210680850",
+      "company": "JP Morgan Chase",
+      "title": "Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence",
+      "postedToDiscord": "2026-01-15T06:11:34.394Z",
+      "sourceDate": "2025-11-05T09:06:46.000Z",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680850",
+      "discordThreadId": "1461241369325469737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-engineering-scientist-associate-data-analytics-for-nuclear-engineering-application_r_00042538-2026-01-15-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-engineering-scientist-associate-data-analytics-for-nuclear-engineering-application_r_00042538",
+      "company": "University of Texas - Austin",
+      "title": "Engineering Scientist Associate",
+      "postedToDiscord": "2026-01-15T06:11:37.919Z",
+      "sourceDate": "2025-11-04T23:07:26.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Engineering-Scientist-Associate---Data-Analytics-for-Nuclear-Engineering-Application_R_00042538",
+      "discordThreadId": "1461241384076841103",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1626,
+    "totalJobs": 1636,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T05:45:21.190Z",
+      "date": "2026-01-15T06:11:37.919Z",
       "archived": 0
     }
   }
