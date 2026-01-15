@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T14:56:58.709Z",
+  "lastUpdated": "2026-01-15T15:27:17.816Z",
   "jobs": [
-    {
-      "id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-research-associate-computational-imaging-and-data-science-_jr102004-1-2026-01-08-1",
-      "jobId": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-research-associate-computational-imaging-and-data-science-_jr102004-1",
-      "company": "Brookhaven Lab",
-      "title": "Postdoctoral Research Associate - Computational Imaging and Data Science",
-      "postedToDiscord": "2026-01-08T15:26:55.108Z",
-      "sourceDate": "2025-12-13T14:59:56.000Z",
-      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate---Computational-Imaging-and-Data-Science-_JR102004-1",
-      "discordThreadId": "1458844411558498386",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5748282004-2026-01-08-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5748282004",
@@ -19306,16 +19295,59 @@
       "sourceUrl": "https://lifeattiktok.com/search/7104433489986734350",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7541516408564992264-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7541516408564992264",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate - Ads Infrastructure-MLDP - BS/MS",
+      "postedToDiscord": "2026-01-15T15:27:07.453Z",
+      "sourceDate": "2025-10-31T09:18:09.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7541516408564992264",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7545598011306346770-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7545598011306346770",
+      "company": "TikTok",
+      "title": "Research Engineer Graduate Online Architecture-2026 Start - PhD",
+      "postedToDiscord": "2026-01-15T15:27:11.058Z",
+      "sourceDate": "2025-10-31T09:18:00.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7545598011306346770",
+      "discordThreadId": "1461381193097543762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7531164305472358663-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7531164305472358663",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate - Global SRE - 2026 Start",
+      "postedToDiscord": "2026-01-15T15:27:14.372Z",
+      "sourceDate": "2025-10-31T09:17:46.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7531164305472358663",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7532629934058178824-2026-01-15-1",
+      "jobId": "lifeattiktok-com-search-7532629934058178824",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate User Growth - 2026 Start - BS/MS",
+      "postedToDiscord": "2026-01-15T15:27:17.815Z",
+      "sourceDate": "2025-10-31T09:17:44.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532629934058178824",
+      "discordThreadId": "1461381221811490827",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1755,
+    "totalJobs": 1758,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T14:56:58.709Z",
-      "archived": 3,
-      "monthsAffected": 1
+      "date": "2026-01-15T15:27:17.816Z",
+      "archived": 0
     }
   }
 }
