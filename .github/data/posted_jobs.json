@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T18:29:25.216Z",
+  "lastUpdated": "2026-01-15T18:48:57.216Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8182781002-2026-01-08-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8182781002",
-      "company": "airtable",
-      "title": "Senior Software Engineer, Observability",
-      "postedToDiscord": "2026-01-08T18:45:05.871Z",
-      "sourceDate": "2026-01-08T13:32:03-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8182781002",
-      "discordThreadId": "1458894284555026465",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7003239-2026-01-08-1",
-      "jobId": "careers-datadoghq-com-detail-7003239",
-      "company": "datadog",
-      "title": "Sales Development Representative (LATAM - Spanish Speaking)",
-      "postedToDiscord": "2026-01-08T18:45:12.694Z",
-      "sourceDate": "2026-01-08T13:27:42-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
-      "discordThreadId": "1458894312749138123",
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-7892187002-2026-01-08-1",
       "jobId": "www-brex-com-careers-7892187002",
@@ -19460,14 +19438,80 @@
       "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Ultrafast-Total-X-ray-Scattering_421245",
       "discordThreadId": "1461427055060189198",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-uncountable-16362d95-0ded-479d-a54b-9a5b9f29b762-apply",
+      "company": "Uncountable",
+      "title": "Chemical Data Annotation Specialist",
+      "postedToDiscord": "2026-01-15T18:48:36.120Z",
+      "sourceDate": "2025-10-31T07:46:24.000Z",
+      "sourceUrl": "https://jobs.lever.co/uncountable/16362d95-0ded-479d-a54b-9a5b9f29b762/apply",
+      "discordThreadId": "1461431888806678642",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-elevenlabs-6a530871-b6c6-4783-ac6b-69cc3b084192-application-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-elevenlabs-6a530871-b6c6-4783-ac6b-69cc3b084192-application",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer",
+      "postedToDiscord": "2026-01-15T18:48:39.718Z",
+      "sourceDate": "2025-10-31T07:45:36.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192/application",
+      "discordThreadId": "1461431896427991270",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-businessolver-com-careers-openings-2026-01-15-1",
+      "jobId": "www-businessolver-com-careers-openings",
+      "company": "Businessolver",
+      "title": "Integrations Analyst 1/2",
+      "postedToDiscord": "2026-01-15T18:48:46.234Z",
+      "sourceDate": "2025-10-31T07:48:24.000Z",
+      "sourceUrl": "https://www.businessolver.com/careers/openings/?gh_jid=6346161",
+      "discordThreadId": "1461431924508721276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "steelpoint-llc-com-government-it-consultant-careers-2026-01-15-1",
+      "jobId": "steelpoint-llc-com-government-it-consultant-careers",
+      "company": "Steel Point Solutions",
+      "title": "Software Engineer 1 - Software Engineering",
+      "postedToDiscord": "2026-01-15T18:48:49.667Z",
+      "sourceDate": "2025-10-31T07:48:04.000Z",
+      "sourceUrl": "https://steelpoint-llc.com/government-it-consultant-careers/?gh_jid=7453484003",
+      "discordThreadId": "1461431938962297034",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-l3harris-com-job-greenville-senior-associate-application-development-greenville-tx-tx-75402-1318855300-2026-01-15-1",
+      "jobId": "jobs-l3harris-com-job-greenville-senior-associate-application-development-greenville-tx-tx-75402-1318855300",
+      "company": "L3Harris Technologies",
+      "title": "Senior Associate - Application Development - Greenville TX",
+      "postedToDiscord": "2026-01-15T18:48:53.579Z",
+      "sourceDate": "2025-10-31T07:32:31.000Z",
+      "sourceUrl": "https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Application-Development-(Greenville,-TX)-TX-75402/1318855300/?ats=successfactors",
+      "discordThreadId": "1461431953747345695",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uva-wd1-myworkdayjobs-com-uvastudentjobs-job-charlottesville-va-dops-graduate-software-developer-federal-work-study-remote-optional_r0076751-2026-01-15-1",
+      "jobId": "uva-wd1-myworkdayjobs-com-uvastudentjobs-job-charlottesville-va-dops-graduate-software-developer-federal-work-study-remote-optional_r0076751",
+      "company": "University of Virginia",
+      "title": "DOPS Graduate Software Developer - Federal Work Study - Remote Optional",
+      "postedToDiscord": "2026-01-15T18:48:57.215Z",
+      "sourceDate": "2025-10-31T07:18:20.000Z",
+      "sourceUrl": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/DOPS-Graduate-Software-Developer---Federal-Work-Study---Remote-Optional_R0076751",
+      "discordThreadId": "1461431969895284991",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1769,
+    "totalJobs": 1773,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T18:29:25.216Z",
+      "date": "2026-01-15T18:48:57.216Z",
       "archived": 0
     }
   }
