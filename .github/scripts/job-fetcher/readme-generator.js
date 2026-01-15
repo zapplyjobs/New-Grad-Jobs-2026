@@ -151,7 +151,7 @@ function generateJobTable(jobs) {
           // Shorten level
           const levelShort = {
             "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
+            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
             "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
           }[level] || level;
           // Shorten category
@@ -209,7 +209,7 @@ function generateJobTable(jobs) {
             // ADD THESE TWO LINES:
             const levelShort = {
               "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-              "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
+              "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
               "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
             }[level] || level;
             const categoryShort = category
@@ -289,7 +289,7 @@ function generateJobTable(jobs) {
 
         const levelShort = {
           "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
+          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
           "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
         }[level] || level;
         const categoryShort = category
@@ -345,7 +345,7 @@ function generateJobTable(jobs) {
 
           const levelShort = {
             "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
+            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
             "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
           }[level] || level;
           const categoryShort = category
@@ -508,7 +508,8 @@ Updated job openings for new grads in SWE and other tech roles | 2026
 
 <p align="center">Welcome to an actively maintained collection of software engineering, tech, and IT jobs for new grads, data analysts, scientists, and entry-level software developers by <a href="https://zapply.jobs"><img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center"></a></p>
 
-<p align="center">This repo tracks roles in the United States and remote positions across tech giants and fast-growing startups.</p>
+> [!NOTE]
+> This repo tracks roles in the United States and remote positions across tech giants and fast-growing startups.
 
 ---
 
@@ -526,9 +527,9 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="350"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="350"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
 </p>
 
 ---
@@ -540,17 +541,15 @@ Experience an advanced career journey with us! 🚀
 Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
 
 <p align="center">
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/zapplyjobs"><img src="images/socials-instagram.png" alt="Instagram" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/socials-tiktok.png" alt="TikTok" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/socials-linkedin.png" alt="LinkedIn" height="50"></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
-  &nbsp;&nbsp;
   <a href="https://www.reddit.com/r/Zapply/"><img src="images/socials-reddit.png" alt="Reddit" height="50"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs"><img src="images/socials-github.png" alt="GitHub" height="50"></a>
 </p>
 
 ---
