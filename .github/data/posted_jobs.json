@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T07:04:05.557Z",
+  "lastUpdated": "2026-01-15T07:15:28.738Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -18338,14 +18338,146 @@
       "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Junior-Image-Scientist_R2098927",
       "discordThreadId": "1461254586844053515",
       "instanceNumber": 1
+    },
+    {
+      "id": "ghr-wd1-myworkdayjobs-com-en-us-lateral-us-job-charlotte-quantitative-engineer-analyst_25043236-2026-01-15-1",
+      "jobId": "ghr-wd1-myworkdayjobs-com-en-us-lateral-us-job-charlotte-quantitative-engineer-analyst_25043236",
+      "company": "Bank of America",
+      "title": "Quantitative Engineer Analyst",
+      "postedToDiscord": "2026-01-15T07:14:53.648Z",
+      "sourceDate": "2025-11-01T10:42:03.000Z",
+      "sourceUrl": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Quantitative-Engineer-Analyst_25043236",
+      "discordThreadId": "1461257303599878197",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-software-developer_r_1017-2026-01-15-1",
+      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-software-developer_r_1017",
+      "company": "Auto-Owners Insurance",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-15T07:14:57.309Z",
+      "sourceDate": "2025-11-01T10:41:30.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer_R_1017",
+      "discordThreadId": "1461257319043170392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293-2026-01-15-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer/Principal Software Engineer - Aht",
+      "postedToDiscord": "2026-01-15T07:15:00.816Z",
+      "sourceDate": "2025-11-01T10:41:11.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer-Principal-Software-Engineer--AHT-_R10211293",
+      "discordThreadId": "1461257334218031246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "regalrexnord-wd1-myworkdayjobs-com-careers-job-radford-virginia-united-states-application-engineer-i_r25_03408-2026-01-15-1",
+      "jobId": "regalrexnord-wd1-myworkdayjobs-com-careers-job-radford-virginia-united-states-application-engineer-i_r25_03408",
+      "company": "Regal Rexnord",
+      "title": "Application Engineer 1",
+      "postedToDiscord": "2026-01-15T07:15:04.611Z",
+      "sourceDate": "2025-11-01T10:40:34.000Z",
+      "sourceUrl": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Application-Engineer-I_R25_03408",
+      "discordThreadId": "1461257349183438854",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-software-engineering-graduate_1192959-1-2026-01-15-1",
+      "jobId": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-software-engineering-graduate_1192959-1",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineering Graduate",
+      "postedToDiscord": "2026-01-15T07:15:08.030Z",
+      "sourceDate": "2025-11-01T10:26:17.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Graduate_1192959-1",
+      "discordThreadId": "1461257364975128681",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-us-il-lisle-software-engineer_315814-2-2026-01-15-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-il-lisle-software-engineer_315814-2",
+      "company": "CACI",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-15T07:15:11.426Z",
+      "sourceDate": "2025-11-01T10:21:14.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_315814-2",
+      "discordThreadId": "1461257379583889479",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3151000-2-2026-01-15-1",
+      "jobId": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3151000-2",
+      "company": "Hewlett Packard (HP)",
+      "title": "AI Lab – Junior Machine Learning Engineer - AI Lab - GenAI Modelling",
+      "postedToDiscord": "2026-01-15T07:15:18.189Z",
+      "sourceDate": "2025-11-01T10:33:18.000Z",
+      "sourceUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3151000-2",
+      "discordThreadId": "1461257407199187016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-scientific-machine-learning-for-surrogate-modeling-and-power-grid-dynamics_421104-2026-01-15-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-scientific-machine-learning-for-surrogate-modeling-and-power-grid-dynamics_421104",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee",
+      "postedToDiscord": "2026-01-15T07:15:21.655Z",
+      "sourceDate": "2025-11-01T10:18:23.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Scientific-Machine-Learning-for-Surrogate-Modeling-and-Power-Grid-Dynamics_421104",
+      "discordThreadId": "1461257422290161675",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-electron-microscopy-for-microelectronics_421202-2026-01-15-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-electron-microscopy-for-microelectronics_421202",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee - Electron Microscopy for Microelectronics",
+      "postedToDiscord": "2026-01-15T07:15:21.671Z",
+      "sourceDate": "2025-11-01T10:18:17.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Electron-Microscopy-for-Microelectronics_421202",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-medium-energy-physics_421234-2026-01-15-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-medium-energy-physics_421234",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee - Medium Energy Physics",
+      "postedToDiscord": "2026-01-15T07:15:21.683Z",
+      "sourceDate": "2025-11-01T10:18:17.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Medium-Energy-Physics_421234",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-physics-informed-ai-for-microelectronics-materials_421205-2026-01-15-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-physics-informed-ai-for-microelectronics-materials_421205",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
+      "postedToDiscord": "2026-01-15T07:15:25.184Z",
+      "sourceDate": "2025-11-01T10:18:14.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee--Physics-Informed-AI-for-Microelectronics-Materials_421205",
+      "discordThreadId": "1461257436676493431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ai-for-coherent-x-ray-imaging_421292-1-2026-01-15-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ai-for-coherent-x-ray-imaging_421292-1",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee - AI for Coherent X-ray Imaging",
+      "postedToDiscord": "2026-01-15T07:15:28.738Z",
+      "sourceDate": "2025-11-01T10:18:13.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-for-Coherent-X-ray-Imaging_421292-1",
+      "discordThreadId": "1461257451839029432",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1667,
+    "totalJobs": 1679,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T07:04:05.557Z",
+      "date": "2026-01-15T07:15:28.738Z",
       "archived": 0
     }
   }
