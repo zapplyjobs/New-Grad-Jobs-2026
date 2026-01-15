@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T19:43:36.473Z",
+  "lastUpdated": "2026-01-15T19:54:55.032Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-193d115f-7045-499b-9072-d9322bac8088-2026-01-08-1",
@@ -19680,14 +19680,113 @@
       "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1613/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1461445724955738314",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-sep-83fec215-cbbd-44e3-b532-c00396f6fec8-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-sep-83fec215-cbbd-44e3-b532-c00396f6fec8-apply",
+      "company": "SEP",
+      "title": "Software Engineer - 2026 start dates - In person",
+      "postedToDiscord": "2026-01-15T19:54:15.490Z",
+      "sourceDate": "2025-10-31T01:07:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/sep/83fec215-cbbd-44e3-b532-c00396f6fec8/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-whoop-c1ee90e7-697b-49c2-b805-fa2c1ee20e4f-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-whoop-c1ee90e7-697b-49c2-b805-fa2c1ee20e4f-apply",
+      "company": "Whoop",
+      "title": "Android Engineer 1 - Growth",
+      "postedToDiscord": "2026-01-15T19:54:18.990Z",
+      "sourceDate": "2025-10-31T00:52:44.000Z",
+      "sourceUrl": "https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f/apply",
+      "discordThreadId": "1461448419548856415",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sglottery-wd5-myworkdayjobs-com-scientificgamesexternalcareers-job-clovis-nm-field-service-tech-i_r503556-2026-01-15-1",
+      "jobId": "sglottery-wd5-myworkdayjobs-com-scientificgamesexternalcareers-job-clovis-nm-field-service-tech-i_r503556",
+      "company": "Scientific Games",
+      "title": "Field Service Tech 1 - Clovis",
+      "postedToDiscord": "2026-01-15T19:54:22.382Z",
+      "sourceDate": "2025-10-31T00:39:23.000Z",
+      "sourceUrl": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Clovis-NM/Field-Service-Tech-I_R503556",
+      "discordThreadId": "1461448433993912539",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-deployment-engineer_jr101165-2026-01-15-1",
+      "jobId": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-deployment-engineer_jr101165",
+      "company": "Centific",
+      "title": "Deployment Engineer",
+      "postedToDiscord": "2026-01-15T19:54:28.896Z",
+      "sourceDate": "2025-10-31T00:58:57.000Z",
+      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Deployment-Engineer_JR101165",
+      "discordThreadId": "1461448461034459146",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-c-backend-development-engineer-c2c-_jr103606-2026-01-15-1",
+      "jobId": "centific-wd1-myworkdayjobs-com-centific_global-job-remote-work-usa-c-backend-development-engineer-c2c-_jr103606",
+      "company": "Centific",
+      "title": "C# Backend Development Engineer \"C2C\"",
+      "postedToDiscord": "2026-01-15T19:54:32.321Z",
+      "sourceDate": "2025-10-31T00:58:34.000Z",
+      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/C--Backend-Development-Engineer--C2C-_JR103606",
+      "discordThreadId": "1461448475765113179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-redventures-com-careers-positions-open-2026-01-15-1",
+      "jobId": "www-redventures-com-careers-positions-open",
+      "company": "Red Ventures",
+      "title": "Associate Data Science Product Manager",
+      "postedToDiscord": "2026-01-15T19:54:35.692Z",
+      "sourceDate": "2025-10-31T00:39:21.000Z",
+      "sourceUrl": "https://www.redventures.com/careers/positions/open?gh_jid=7279145",
+      "discordThreadId": "1461448489686007925",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-weston-job-o1noyfwu-2026-01-15-1",
+      "jobId": "jobs-jobvite-com-weston-job-o1noyfwu",
+      "company": "Weston Solutions",
+      "title": "Associate Scientist or Geoscientist - Emergency Response Team",
+      "postedToDiscord": "2026-01-15T19:54:42.288Z",
+      "sourceDate": "2025-10-31T00:56:16.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/weston/job/o1nOyfwu?nl=1&nl=1&fr=false",
+      "discordThreadId": "1461448516709650531",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sglottery-wd5-myworkdayjobs-com-scientificgamesexternalcareers-job-farmington-nm-field-service-tech-i-farmington_r503552-2026-01-15-1",
+      "jobId": "sglottery-wd5-myworkdayjobs-com-scientificgamesexternalcareers-job-farmington-nm-field-service-tech-i-farmington_r503552",
+      "company": "Scientific Games",
+      "title": "Field Service Tech - Farmington",
+      "postedToDiscord": "2026-01-15T19:54:48.595Z",
+      "sourceDate": "2025-10-31T00:39:17.000Z",
+      "sourceUrl": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Farmington-NM/Field-Service-Tech-I--Farmington_R503552",
+      "discordThreadId": "1461448544450908292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-researcher-survey-science-time-domain-astronomy_req_0000072795-2-2026-01-15-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-researcher-survey-science-time-domain-astronomy_req_0000072795-2",
+      "company": "PennState University",
+      "title": "Postdoctoral Researcher - Survey Science/Time Domain Astronomy",
+      "postedToDiscord": "2026-01-15T19:54:55.032Z",
+      "sourceDate": "2025-10-31T00:28:56.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Survey-Science-Time-Domain-Astronomy_REQ_0000072795-2",
+      "discordThreadId": "1461448570610651384",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1789,
+    "totalJobs": 1798,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T19:43:36.473Z",
+      "date": "2026-01-15T19:54:55.032Z",
       "archived": 0
     }
   }
