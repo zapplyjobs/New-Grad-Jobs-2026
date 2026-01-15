@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T06:48:48.809Z",
+  "lastUpdated": "2026-01-15T07:04:05.557Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-08-1",
@@ -18228,14 +18228,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/railway/6fb07755-acd8-4400-9de3-fa598e4eeb7d",
       "discordThreadId": "1461250739899728019",
       "instanceNumber": 1
+    },
+    {
+      "id": "osv-rubicon-wd5-myworkdayjobs-com-en-us-magnitecareers-job-new-york-new-york-engineer-i-automation-and-custom-applications_r-01139-2026-01-15-1",
+      "jobId": "osv-rubicon-wd5-myworkdayjobs-com-en-us-magnitecareers-job-new-york-new-york-engineer-i-automation-and-custom-applications_r-01139",
+      "company": "Magnite",
+      "title": "Engineer 1 - Automation and Custom Applications",
+      "postedToDiscord": "2026-01-15T07:03:27.650Z",
+      "sourceDate": "2025-11-03T23:24:49.000Z",
+      "sourceUrl": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I--Automation-and-Custom-Applications_R-01139",
+      "discordThreadId": "1461254427435597867",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-webfx-08c0fcbe-8b01-4e30-ac0f-ac55a7cc1ba6-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-webfx-08c0fcbe-8b01-4e30-ac0f-ac55a7cc1ba6-apply",
+      "company": "WebFX",
+      "title": "Junior Web Developer",
+      "postedToDiscord": "2026-01-15T07:03:31.041Z",
+      "sourceDate": "2025-11-03T23:22:18.000Z",
+      "sourceUrl": "https://jobs.lever.co/webfx/08c0fcbe-8b01-4e30-ac0f-ac55a7cc1ba6/apply",
+      "discordThreadId": "1461254441905950899",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-webfx-a0edf0cb-108b-4e9a-b8e6-76052540bbc2-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-webfx-a0edf0cb-108b-4e9a-b8e6-76052540bbc2-apply",
+      "company": "WebFX",
+      "title": "React Developer",
+      "postedToDiscord": "2026-01-15T07:03:34.751Z",
+      "sourceDate": "2025-11-03T23:22:16.000Z",
+      "sourceUrl": "https://jobs.lever.co/webfx/a0edf0cb-108b-4e9a-b8e6-76052540bbc2/apply",
+      "discordThreadId": "1461254456564777147",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-webfx-c38d5c28-59d4-477c-abf4-b932debd6be2-apply-2026-01-15-1",
+      "jobId": "jobs-lever-co-webfx-c38d5c28-59d4-477c-abf4-b932debd6be2-apply",
+      "company": "WebFX",
+      "title": "Junior React Developer",
+      "postedToDiscord": "2026-01-15T07:03:38.088Z",
+      "sourceDate": "2025-11-03T23:22:13.000Z",
+      "sourceUrl": "https://jobs.lever.co/webfx/c38d5c28-59d4-477c-abf4-b932debd6be2/apply",
+      "discordThreadId": "1461254471681183827",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-financialtechnologypartners-jobs-8228048002-2026-01-15-1",
+      "jobId": "job-boards-greenhouse-io-financialtechnologypartners-jobs-8228048002",
+      "company": "Financial Technology Partners",
+      "title": "Special Executions Group Analyst / Data Analytics Analyst",
+      "postedToDiscord": "2026-01-15T07:03:44.403Z",
+      "sourceDate": "2025-11-03T23:19:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8228048002",
+      "discordThreadId": "1461254498356822169",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-c16bd707-29f2-46fb-8409-7270ff00978b-2026-01-15-1",
+      "jobId": "jobs-ashbyhq-com-supabase-c16bd707-29f2-46fb-8409-7270ff00978b",
+      "company": "supabase",
+      "title": "Postgres Engineer",
+      "postedToDiscord": "2026-01-15T07:03:49.119Z",
+      "sourceDate": "2025-11-03T21:46:40.328+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c16bd707-29f2-46fb-8409-7270ff00978b",
+      "discordThreadId": "1461254524940324895",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-post-doctoral-fellow_r0003237-2026-01-15-1",
+      "jobId": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-post-doctoral-fellow_r0003237",
+      "company": "Worcester Polytechnic Institute",
+      "title": "Post-Doctoral Fellow",
+      "postedToDiscord": "2026-01-15T07:03:52.393Z",
+      "sourceDate": "2025-11-03T07:07:21.000Z",
+      "sourceUrl": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Post-Doctoral-Fellow_R0003237",
+      "discordThreadId": "1461254531911520277",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-mclean-software-developer-ts-sci-w-polygraph_rq207428-2026-01-15-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-mclean-software-developer-ts-sci-w-polygraph_rq207428",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Developer - TS/SCI Polygraph",
+      "postedToDiscord": "2026-01-15T07:03:55.827Z",
+      "sourceDate": "2025-11-01T10:47:54.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428",
+      "discordThreadId": "1461254545681158277",
+      "instanceNumber": 1
+    },
+    {
+      "id": "freudenberg-wd3-myworkdayjobs-com-freudenberg-group-job-midland-mi-on-site-application-engineer-i-park_r_00091560-2026-01-15-1",
+      "jobId": "freudenberg-wd3-myworkdayjobs-com-freudenberg-group-job-midland-mi-on-site-application-engineer-i-park_r_00091560",
+      "company": "Freudenberg Group",
+      "title": "On-Site Application Engineer - I-Park",
+      "postedToDiscord": "2026-01-15T07:03:59.165Z",
+      "sourceDate": "2025-11-01T10:42:54.000Z",
+      "sourceUrl": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Midland-MI/On-Site-Application-Engineer---I-Park_R_00091560",
+      "discordThreadId": "1461254560059494565",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-chantilly-virginia-junior-image-scientist_r2098927-2026-01-15-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-chantilly-virginia-junior-image-scientist_r2098927",
+      "company": "KBR",
+      "title": "Junior Image Scientist",
+      "postedToDiscord": "2026-01-15T07:04:05.557Z",
+      "sourceDate": "2025-11-01T10:50:28.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Junior-Image-Scientist_R2098927",
+      "discordThreadId": "1461254586844053515",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1657,
+    "totalJobs": 1667,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T06:48:48.809Z",
+      "date": "2026-01-15T07:04:05.557Z",
       "archived": 0
     }
   }
