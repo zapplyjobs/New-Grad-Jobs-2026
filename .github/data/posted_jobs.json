@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T22:29:48.162Z",
+  "lastUpdated": "2026-01-16T22:35:54.635Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-5020484007-2026-01-09-1",
@@ -23816,14 +23816,124 @@
       "sourceUrl": "https://jobs.lever.co/nominal/5584175f-eb34-45d4-9bfb-e54764c39a5f",
       "discordThreadId": "1461849936323805245",
       "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-en-us-external_careers-job-usa-berkeley-mo-entry-level-flight-simulation-software-engineer_jr2025454088-2026-01-16-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-en-us-external_careers-job-usa-berkeley-mo-entry-level-flight-simulation-software-engineer_jr2025454088",
+      "company": "Boeing",
+      "title": "Entry Level Flight Simulation Software Engineer",
+      "postedToDiscord": "2026-01-16T22:35:19.332Z",
+      "sourceDate": "2025-08-15T07:42:05.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
+      "discordThreadId": "1461851325904977963",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-a08b2b5b-5bed-4b71-b925-800670b21fd5-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-a08b2b5b-5bed-4b71-b925-800670b21fd5",
+      "company": "Jerry",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-16T22:35:22.932Z",
+      "sourceDate": "2025-08-15T07:40:38.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5",
+      "discordThreadId": "1461851340597887018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-wd5-myworkdayjobs-com-en-us-kbr_careers-job-colorado-springs-colorado-software-engineer-i_r2110482-2026-01-16-1",
+      "jobId": "kbr-wd5-myworkdayjobs-com-en-us-kbr_careers-job-colorado-springs-colorado-software-engineer-i_r2110482",
+      "company": "KBR",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-16T22:35:26.463Z",
+      "sourceDate": "2025-08-15T07:38:02.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
+      "discordThreadId": "1461851355215040685",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-chelmsford-ma-software-engineer-i-embedded-devices_r16418-2026-01-16-1",
+      "jobId": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-chelmsford-ma-software-engineer-i-embedded-devices_r16418",
+      "company": "Zoll",
+      "title": "Software Engineer I - Embedded Devices",
+      "postedToDiscord": "2026-01-16T22:35:29.973Z",
+      "sourceDate": "2025-08-15T07:33:27.000Z",
+      "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+      "discordThreadId": "1461851370318467238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-careers-microsoft-com-global-en-job-1860403-software-engineer-3a-microsoft-ai-development-acceleration-program-2c-redmond-2026-01-16-1",
+      "jobId": "jobs-careers-microsoft-com-global-en-job-1860403-software-engineer-3a-microsoft-ai-development-acceleration-program-2c-redmond",
+      "company": "Microsoft",
+      "title": "Software Engineer: Microsoft AI Development Acceleration Program",
+      "postedToDiscord": "2026-01-16T22:35:33.636Z",
+      "sourceDate": "2025-08-15T07:27:20.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
+      "discordThreadId": "1461851385174823083",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-hudsonrivertrading-com-hrt-job-algorithm-developer-quant-researcher-2026-grads-2026-01-16-1",
+      "jobId": "www-hudsonrivertrading-com-hrt-job-algorithm-developer-quant-researcher-2026-grads",
+      "company": "Hudson River Trading",
+      "title": "Algorithm Developer (Quant Researcher) – 2026 Grads",
+      "postedToDiscord": "2026-01-16T22:35:37.146Z",
+      "sourceDate": "2025-08-15T07:25:27.000Z",
+      "sourceUrl": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/",
+      "discordThreadId": "1461851400282701855",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7537121677185534216-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7537121677185534216",
+      "company": "ByteDance",
+      "title": "Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS)",
+      "postedToDiscord": "2026-01-16T22:35:40.700Z",
+      "sourceDate": "2025-08-15T07:21:52.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7537121677185534216",
+      "discordThreadId": "1461851415403041090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7536272435440716040-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7536272435440716040",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)",
+      "postedToDiscord": "2026-01-16T22:35:44.316Z",
+      "sourceDate": "2025-08-15T07:20:03.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7536272435440716040",
+      "discordThreadId": "1461851430494146654",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7535606471191824647-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7535606471191824647",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (Monetization Technology - TikTok Ads Creative & Ecosystem) - 2026 Start (BS/MS)",
+      "postedToDiscord": "2026-01-16T22:35:51.032Z",
+      "sourceDate": "2025-08-15T07:29:01.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535606471191824647",
+      "discordThreadId": "1461851458151518402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7532538236133902599-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7532538236133902599",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS)",
+      "postedToDiscord": "2026-01-16T22:35:54.635Z",
+      "sourceDate": "2025-08-15T07:19:07.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7532538236133902599",
+      "discordThreadId": "1461851473305538748",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2165,
+    "totalJobs": 2175,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T22:29:48.162Z",
+      "date": "2026-01-16T22:35:54.635Z",
       "archived": 0
     }
   }
