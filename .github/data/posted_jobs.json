@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T20:32:07.195Z",
+  "lastUpdated": "2026-01-16T20:42:48.504Z",
   "jobs": [
-    {
-      "id": "careers-duolingo-com-jobs-8369151002-2026-01-09-1",
-      "jobId": "careers-duolingo-com-jobs-8369151002",
-      "company": "duolingo",
-      "title": "Senior Software Engineer",
-      "postedToDiscord": "2026-01-09T20:41:06.757Z",
-      "sourceDate": "2026-01-09T15:39:09-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8369151002?gh_jid=8369151002",
-      "discordThreadId": "1459285868815847425",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-5020484007-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-5020484007",
@@ -23079,14 +23068,113 @@
       "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000053661",
       "discordThreadId": "1461820321249104179",
       "instanceNumber": 1
+    },
+    {
+      "id": "nodalexchange-pinpointhq-com-postings-7dfa5f35-8585-4681-bad7-5f26b87bdc47-2026-01-16-1",
+      "jobId": "nodalexchange-pinpointhq-com-postings-7dfa5f35-8585-4681-bad7-5f26b87bdc47",
+      "company": "Nodal",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T20:42:16.999Z",
+      "sourceDate": "2025-08-22T19:16:18.000Z",
+      "sourceUrl": "https://nodalexchange.pinpointhq.com/postings/7dfa5f35-8585-4681-bad7-5f26b87bdc47",
+      "discordThreadId": "1461822878545744071",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpe-wd5-myworkdayjobs-com-en-us-jobsathpe-job-spring-texas-united-states-of-america-cloud-engineer-graduate_1192968-1-2026-01-16-1",
+      "jobId": "hpe-wd5-myworkdayjobs-com-en-us-jobsathpe-job-spring-texas-united-states-of-america-cloud-engineer-graduate_1192968-1",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Cloud Engineer Graduate",
+      "postedToDiscord": "2026-01-16T20:42:20.500Z",
+      "sourceDate": "2025-08-22T13:07:24.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1",
+      "discordThreadId": "1461822893380993156",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-ixl-com-company-careers-2026-01-16-1",
+      "jobId": "www-ixl-com-company-careers",
+      "company": "IXL Learning",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T20:42:24.235Z",
+      "sourceDate": "2025-08-22T13:06:16.000Z",
+      "sourceUrl": "https://www.ixl.com/company/careers?gh_jid=8128533002",
+      "discordThreadId": "1461822907994083559",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-interfaceai-jobs-4571115006-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-interfaceai-jobs-4571115006",
+      "company": "interface.ai",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-16T20:42:27.705Z",
+      "sourceDate": "2025-08-22T13:04:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/interfaceai/jobs/4571115006",
+      "discordThreadId": "1461822923655610470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228-2026-01-16-1",
+      "jobId": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228",
+      "company": "Texas Capital Bank",
+      "title": "Technology Platform Associate",
+      "postedToDiscord": "2026-01-16T20:42:31.256Z",
+      "sourceDate": "2025-08-21T23:54:41.000Z",
+      "sourceUrl": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Technology-Platform-Associate_JR104228",
+      "discordThreadId": "1461822938230689843",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7537387126649391368-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7537387126649391368",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Graduate - Search - Usds",
+      "postedToDiscord": "2026-01-16T20:42:34.837Z",
+      "sourceDate": "2025-08-21T23:40:35.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7537387126649391368",
+      "discordThreadId": "1461822952751239201",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-tesla-com-careers-search-job-247062-2026-01-16-1",
+      "jobId": "www-tesla-com-careers-search-job-247062",
+      "company": "Tesla",
+      "title": "Software Engineer, Communications Platform",
+      "postedToDiscord": "2026-01-16T20:42:38.303Z",
+      "sourceDate": "2025-08-21T23:09:52.000Z",
+      "sourceUrl": "https://www.tesla.com/careers/search/job/247062",
+      "discordThreadId": "1461822968219963465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "geico-wd1-myworkdayjobs-com-en-us-external-job-chevy-chase-md-data-scientist-i_r0059612-2026-01-16-1",
+      "jobId": "geico-wd1-myworkdayjobs-com-en-us-external-job-chevy-chase-md-data-scientist-i_r0059612",
+      "company": "GEICO",
+      "title": "Data Scientist I",
+      "postedToDiscord": "2026-01-16T20:42:44.860Z",
+      "sourceDate": "2025-08-22T13:01:23.000Z",
+      "sourceUrl": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Data-Scientist-I_R0059612",
+      "discordThreadId": "1461822995520815287",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpe-wd5-myworkdayjobs-com-en-us-acjobsite-job-spring-texas-united-states-of-america-data-science-graduate_1192963-2026-01-16-1",
+      "jobId": "hpe-wd5-myworkdayjobs-com-en-us-acjobsite-job-spring-texas-united-states-of-america-data-science-graduate_1192963",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Data Science Graduate",
+      "postedToDiscord": "2026-01-16T20:42:48.504Z",
+      "sourceDate": "2025-08-22T13:00:04.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963",
+      "discordThreadId": "1461823010058276865",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2098,
+    "totalJobs": 2106,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T20:32:07.195Z",
+      "date": "2026-01-16T20:42:48.504Z",
       "archived": 0
     }
   }
