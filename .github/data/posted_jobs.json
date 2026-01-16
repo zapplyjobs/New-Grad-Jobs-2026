@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T07:54:37.809Z",
+  "lastUpdated": "2026-01-16T08:10:34.331Z",
   "jobs": [
-    {
-      "id": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-san-antonio-home-office-i-data-engineer-entry-level_r0113909-1-2026-01-09-1",
-      "jobId": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-san-antonio-home-office-i-data-engineer-entry-level_r0113909-1",
-      "company": "USAA",
-      "title": "Data Engineer Entry Level",
-      "postedToDiscord": "2026-01-09T08:06:33.858Z",
-      "sourceDate": "2026-01-09T07:38:39.000Z",
-      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-Entry-Level_R0113909-1",
-      "discordThreadId": "1459095980749357170",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354648000-2026-01-09-1",
-      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354648000",
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-09T08:06:40.275Z",
-      "sourceDate": "2026-01-09T07:24:50.000Z",
-      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354648000/?ats=successfactors",
-      "discordThreadId": "1459096007978647603",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354682700-2026-01-09-1",
-      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354682700",
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-09T08:06:40.287Z",
-      "sourceDate": "2026-01-09T07:08:16.000Z",
-      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354682700/?ats=successfactors",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62537-2026-01-09-1",
-      "jobId": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62537",
-      "company": "Southwest Airlines",
-      "title": "Associate Software Engineer - Direct College Hire",
-      "postedToDiscord": "2026-01-09T08:06:46.809Z",
-      "sourceDate": "2026-01-09T07:15:05.000Z",
-      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-62537",
-      "discordThreadId": "1459096034847363185",
-      "instanceNumber": 1
-    },
-    {
-      "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62493-2026-01-09-1",
-      "jobId": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-62493",
-      "company": "Southwest Airlines",
-      "title": "Associate Software Engineer - Direct College Hire",
-      "postedToDiscord": "2026-01-09T08:06:46.821Z",
-      "sourceDate": "2026-01-09T07:15:04.000Z",
-      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-62493",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7514855-2026-01-09-1",
       "jobId": "careers-datadoghq-com-detail-7514855",
@@ -21946,14 +21891,135 @@
       "sourceUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
       "discordThreadId": "1461629691919335488",
       "instanceNumber": 1
+    },
+    {
+      "id": "gartner-wd5-myworkdayjobs-com-en-us-ext-job-irving-tx-data-analyst-2026-graduates_103573-2026-01-16-1",
+      "jobId": "gartner-wd5-myworkdayjobs-com-en-us-ext-job-irving-tx-data-analyst-2026-graduates_103573",
+      "company": "Gartner",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-16T08:09:59.698Z",
+      "sourceDate": "2025-09-17T10:05:34.000Z",
+      "sourceUrl": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Irving-TX/Data-Analyst---2026-graduates_103573",
+      "discordThreadId": "1461633558874685643",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gartner-wd5-myworkdayjobs-com-ext-job-irving-tx-data-analyst-2026-graduates_103573-2026-01-16-1",
+      "jobId": "gartner-wd5-myworkdayjobs-com-ext-job-irving-tx-data-analyst-2026-graduates_103573",
+      "company": "Gartner",
+      "title": "Data Analyst - Insights and Product Analytics",
+      "postedToDiscord": "2026-01-16T08:09:59.718Z",
+      "sourceDate": "2025-09-15T06:25:26.000Z",
+      "sourceUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst---2026-graduates_103573",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-ice-icims-com-jobs-11312-job-2026-01-16-1",
+      "jobId": "careers-ice-icims-com-jobs-11312-job",
+      "company": "Intercontinental Exchange",
+      "title": "Cross Asset Market Data Analyst",
+      "postedToDiscord": "2026-01-16T08:10:03.232Z",
+      "sourceDate": "2025-09-15T23:14:11.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11312/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461633573755814068",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aveva-wd3-myworkdayjobs-com-en-us-aveva_careers-job-lake-forest-california-united-states-of-america-artificial-intelligence-graduate-us_r011630-2026-01-16-1",
+      "jobId": "aveva-wd3-myworkdayjobs-com-en-us-aveva_careers-job-lake-forest-california-united-states-of-america-artificial-intelligence-graduate-us_r011630",
+      "company": "AVEVA",
+      "title": "Artificial Intelligence Graduate",
+      "postedToDiscord": "2026-01-16T08:10:09.878Z",
+      "sourceDate": "2025-09-16T04:25:25.000Z",
+      "sourceUrl": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Artificial-Intelligence-Graduate--US_R011630",
+      "discordThreadId": "1461633601035833511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-aifund-e5ef49f6-2014-45d7-a5fb-2d534e6af556-apply-2026-01-16-1",
+      "jobId": "jobs-lever-co-aifund-e5ef49f6-2014-45d7-a5fb-2d534e6af556-apply",
+      "company": "AI Fund",
+      "title": "Founder in Residence - Embedfi - SMB Hardware Leasing",
+      "postedToDiscord": "2026-01-16T08:10:13.461Z",
+      "sourceDate": "2025-09-16T03:02:38.000Z",
+      "sourceUrl": "https://jobs.lever.co/AIFund/e5ef49f6-2014-45d7-a5fb-2d534e6af556/apply",
+      "discordThreadId": "1461633616424599636",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-1e7a99f9-da65-4c1a-a4eb-b718680404ac-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-supabase-1e7a99f9-da65-4c1a-a4eb-b718680404ac",
+      "company": "supabase",
+      "title": "CLI Engineer",
+      "postedToDiscord": "2026-01-16T08:10:18.253Z",
+      "sourceDate": "2025-09-16T01:45:35.388+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/1e7a99f9-da65-4c1a-a4eb-b718680404ac",
+      "discordThreadId": "1461633643725324343",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11395-job-2026-01-16-1",
+      "jobId": "careers-nv5-icims-com-jobs-11395-job",
+      "company": "NV5 Global",
+      "title": "Lidar – Quicklook Data Verification Technician",
+      "postedToDiscord": "2026-01-16T08:10:21.731Z",
+      "sourceDate": "2025-09-16T01:04:07.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11395/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461633651883376731",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-eventualcomputing-becb5675-3480-4d2b-b126-2acad40fd088-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-eventualcomputing-becb5675-3480-4d2b-b126-2acad40fd088-application",
+      "company": "Eventual",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-16T08:10:25.218Z",
+      "sourceDate": "2025-09-16T00:03:47.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
+      "discordThreadId": "1461633666101805157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-application-development-engineer-i_1592119-1-2026-01-16-1",
+      "jobId": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-mo-application-development-engineer-i_1592119-1",
+      "company": "Centene",
+      "title": "Application Development Engineer I",
+      "postedToDiscord": "2026-01-16T08:10:27.311Z",
+      "sourceDate": "2025-09-15T22:34:31.000Z",
+      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Application-Development-Engineer-I_1592119-1",
+      "discordThreadId": "1461633681146777634",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bostonscientific-eightfold-ai-careers-job-563602808591541-2026-01-16-1",
+      "jobId": "bostonscientific-eightfold-ai-careers-job-563602808591541",
+      "company": "Boston Scientific",
+      "title": "Software Development Engineer 1 - Engineering - Development",
+      "postedToDiscord": "2026-01-16T08:10:30.888Z",
+      "sourceDate": "2025-09-15T21:43:17.000Z",
+      "sourceUrl": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
+      "discordThreadId": "1461633689795428403",
+      "instanceNumber": 1
+    },
+    {
+      "id": "redhat-wd5-myworkdayjobs-com-en-us-jobs-job-durham-associate-software-software-engineer_r-050446-1-2026-01-16-1",
+      "jobId": "redhat-wd5-myworkdayjobs-com-en-us-jobs-job-durham-associate-software-software-engineer_r-050446-1",
+      "company": "Red Hat",
+      "title": "Associate Software Software Engineer",
+      "postedToDiscord": "2026-01-16T08:10:34.331Z",
+      "sourceDate": "2025-09-15T09:39:08.000Z",
+      "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1",
+      "discordThreadId": "1461633704530149428",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1995,
+    "totalJobs": 2001,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T07:54:37.809Z",
+      "date": "2026-01-16T08:10:34.331Z",
       "archived": 0
     }
   }
