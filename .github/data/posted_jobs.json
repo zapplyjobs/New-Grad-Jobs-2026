@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T19:52:20.945Z",
+  "lastUpdated": "2026-01-16T20:09:11.462Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5062393008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062393008",
-      "company": "anthropic",
-      "title": "Customer Success Manager, Digital Native Businesses ",
-      "postedToDiscord": "2026-01-09T20:06:16.384Z",
-      "sourceDate": "2026-01-09T14:52:53-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
-      "discordThreadId": "1459277098387509393",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5054997008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054997008",
@@ -22870,14 +22859,135 @@
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670",
       "discordThreadId": "1461810312134131773",
       "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-scholar-department-of-petroleum-and-geosystems-engineering-cockrell-school-of-engineering_r_00018034-2026-01-16-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-scholar-department-of-petroleum-and-geosystems-engineering-cockrell-school-of-engineering_r_00018034",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Scholar - Petroleum and Geosystems Engineering - Cockrell School of Engineering",
+      "postedToDiscord": "2026-01-16T20:08:33.239Z",
+      "sourceDate": "2025-08-26T22:07:56.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
+      "discordThreadId": "1461814388976783402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-celonis-jobs-6691702003-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-celonis-jobs-6691702003",
+      "company": "Celonis",
+      "title": "Associate Value Engineer (Industrial Engineering & AI Applications)",
+      "postedToDiscord": "2026-01-16T20:08:36.830Z",
+      "sourceDate": "2025-08-26T10:21:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6691702003",
+      "discordThreadId": "1461814405158408385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-celonis-jobs-6690522003-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-celonis-jobs-6690522003",
+      "company": "Celonis",
+      "title": "Associate Value Engineer (AI for Supply Chain)",
+      "postedToDiscord": "2026-01-16T20:08:40.344Z",
+      "sourceDate": "2025-08-26T10:18:29.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6690522003",
+      "discordThreadId": "1461814419834142897",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-publicisgroupe-com-jobs-119914-2026-01-16-1",
+      "jobId": "careers-publicisgroupe-com-jobs-119914",
+      "company": "Epsilon",
+      "title": "Associate, Software Engineer",
+      "postedToDiscord": "2026-01-16T20:08:43.946Z",
+      "sourceDate": "2025-08-26T10:06:38.000Z",
+      "sourceUrl": "https://careers.publicisgroupe.com/jobs/119914",
+      "discordThreadId": "1461814434866397417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-zip-39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-zip-39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9-application",
+      "company": "Zip",
+      "title": "Software Engineer - Identity",
+      "postedToDiscord": "2026-01-16T20:08:47.457Z",
+      "sourceDate": "2025-08-25T16:56:18.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/zip/39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9/application",
+      "discordThreadId": "1461814450024612048",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-system-engineer-new-college-grad-2025_jr2001318-2026-01-16-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-system-engineer-new-college-grad-2025_jr2001318",
+      "company": "NVIDIA",
+      "title": "AI System Engineer",
+      "postedToDiscord": "2026-01-16T20:08:50.989Z",
+      "sourceDate": "2025-08-25T08:36:10.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318",
+      "discordThreadId": "1461814464797216799",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-seismology-postdoctoral-fellow_r_00028107-2026-01-16-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-seismology-postdoctoral-fellow_r_00028107",
+      "company": "University of Texas - Austin",
+      "title": "Seismology Postdoctoral Fellow",
+      "postedToDiscord": "2026-01-16T20:08:54.489Z",
+      "sourceDate": "2025-08-25T06:06:52.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
+      "discordThreadId": "1461814479401517198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7542359937256982791-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7542359937256982791",
+      "company": "TikTok",
+      "title": "Data Scientist Graduate - Tiktok UG-Mid Platform - 2026 Start (to be filtered)",
+      "postedToDiscord": "2026-01-16T20:09:01.119Z",
+      "sourceDate": "2025-08-26T02:57:15.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7542359937256982791",
+      "discordThreadId": "1461814507121938644",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7542584919815325960-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7542584919815325960",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Tiktok Recommendation-Live - 2026 Start",
+      "postedToDiscord": "2026-01-16T20:09:07.811Z",
+      "sourceDate": "2025-08-26T02:57:13.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7542584919815325960",
+      "discordThreadId": "1461814534774849637",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r158682-2026-01-16-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r158682",
+      "company": "Adobe",
+      "title": "2026 University Graduate - Machine Learning Engineer",
+      "postedToDiscord": "2026-01-16T20:09:11.446Z",
+      "sourceDate": "2025-08-26T02:25:20.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682",
+      "discordThreadId": "1461814549857566722",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158684-2026-01-16-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158684",
+      "company": "Adobe",
+      "title": "2026 University Graduate - Software Engineer",
+      "postedToDiscord": "2026-01-16T20:09:11.462Z",
+      "sourceDate": "2025-08-25T23:47:19.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2079,
+    "totalJobs": 2089,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T19:52:20.945Z",
+      "date": "2026-01-16T20:09:11.462Z",
       "archived": 0
     }
   }
