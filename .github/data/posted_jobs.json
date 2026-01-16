@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T23:40:02.193Z",
+  "lastUpdated": "2026-01-16T23:54:18.855Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5018825007-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5018825007",
-      "company": "verkada",
-      "title": "Senior Field Marketing Manager (Enterprise SLED East)",
-      "postedToDiscord": "2026-01-09T23:51:22.274Z",
-      "sourceDate": "2026-01-09T18:40:47-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5018825007",
-      "discordThreadId": "1459333742953894042",
-      "instanceNumber": 1
-    },
     {
       "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-environmental-engineering-geology-scientist_r00028796-1-2026-01-10-1",
       "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-environmental-engineering-geology-scientist_r00028796-1",
@@ -24443,14 +24432,135 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/USTechSolutions2/103472117",
       "discordThreadId": "1461867611821178920",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999651681448-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999651681448",
+      "company": "360 IT Professionals",
+      "title": "Frontend Developer - Angular",
+      "postedToDiscord": "2026-01-16T23:53:43.145Z",
+      "sourceDate": "2025-08-12T23:00:59.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999651681448",
+      "discordThreadId": "1461871055043035454",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-103963583-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-103963583",
+      "company": "AG Technologies",
+      "title": "Software Engineer - Software Development - Backend",
+      "postedToDiscord": "2026-01-16T23:53:46.704Z",
+      "sourceDate": "2025-08-12T22:38:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103963583",
+      "discordThreadId": "1461871069781557493",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-appliedintuition-jobs-4592025005-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-appliedintuition-jobs-4592025005",
+      "company": "Applied Intuition",
+      "title": "Software Engineer - New Grad",
+      "postedToDiscord": "2026-01-16T23:53:50.182Z",
+      "sourceDate": "2025-08-12T21:55:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005",
+      "discordThreadId": "1461871084772004092",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-uber-icims-com-jobs-147250-job-2026-01-16-1",
+      "jobId": "university-uber-icims-com-jobs-147250-job",
+      "company": "Uber",
+      "title": "Graduate 2025 Software Engineer I, US",
+      "postedToDiscord": "2026-01-16T23:53:53.918Z",
+      "sourceDate": "2025-08-12T21:53:22.000Z",
+      "sourceUrl": "https://university-uber.icims.com/jobs/147250/job",
+      "discordThreadId": "1461871099917893766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "salesforce-wd12-myworkdayjobs-com-en-us-external_career_site-job-california-san-francisco-software-engineering-amts-new-grad-_jr307625-1-2026-01-16-1",
+      "jobId": "salesforce-wd12-myworkdayjobs-com-en-us-external_career_site-job-california-san-francisco-software-engineering-amts-new-grad-_jr307625-1",
+      "company": "Salesforce",
+      "title": "Software Engineering AMTS – New Grad",
+      "postedToDiscord": "2026-01-16T23:53:57.433Z",
+      "sourceDate": "2025-08-12T20:35:02.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
+      "discordThreadId": "1461871114870325329",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7536272435440716040-detail-2026-01-16-1",
+      "jobId": "jobs-bytedance-com-en-position-7536272435440716040-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Developer Infra - BS/MS",
+      "postedToDiscord": "2026-01-16T23:54:01.163Z",
+      "sourceDate": "2025-08-12T20:03:29.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7536272435440716040/detail",
+      "discordThreadId": "1461871130099974236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-99045004-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-99045004",
+      "company": "Artech Information System",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-16T23:54:04.736Z",
+      "sourceDate": "2025-08-12T16:09:29.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99045004",
+      "discordThreadId": "1461871145140879514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-prosidianconsulting-743999691669771-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-prosidianconsulting-743999691669771",
+      "company": "Prosidian Consulting",
+      "title": "PPM Data Scientist/Statistician 1",
+      "postedToDiscord": "2026-01-16T23:54:11.185Z",
+      "sourceDate": "2025-08-12T21:02:43.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691669771",
+      "discordThreadId": "1461871172764303477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-prosidianconsulting-743999691968534-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-prosidianconsulting-743999691968534",
+      "company": "Prosidian Consulting",
+      "title": "PPM Data Scientist/Statistician 1",
+      "postedToDiscord": "2026-01-16T23:54:11.201Z",
+      "sourceDate": "2025-08-12T13:58:44.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691968534",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-94660615-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-94660615",
+      "company": "Artech Information System",
+      "title": "Data analyst - Applications L1",
+      "postedToDiscord": "2026-01-16T23:54:15.334Z",
+      "sourceDate": "2025-08-12T16:24:21.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/94660615",
+      "discordThreadId": "1461871187373195276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-artechinformationsystemllc-102972473-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-artechinformationsystemllc-102972473",
+      "company": "Artech Information System",
+      "title": ".Net Developer",
+      "postedToDiscord": "2026-01-16T23:54:18.855Z",
+      "sourceDate": "2025-08-12T15:57:21.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/102972473",
+      "discordThreadId": "1461871204792275150",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2222,
+    "totalJobs": 2232,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T23:40:02.193Z",
+      "date": "2026-01-16T23:54:18.855Z",
       "archived": 0
     }
   }
