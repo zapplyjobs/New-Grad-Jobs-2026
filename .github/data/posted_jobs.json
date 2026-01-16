@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T22:53:44.222Z",
+  "lastUpdated": "2026-01-16T23:10:46.072Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5063007008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5063007008",
-      "company": "anthropic",
-      "title": "Software Engineer, Cybersecurity Products",
-      "postedToDiscord": "2026-01-09T23:05:57.544Z",
-      "sourceDate": "2026-01-09T17:55:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
-      "discordThreadId": "1459322319741784154",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4939288008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939288008",
@@ -24124,14 +24113,135 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655678936",
       "discordThreadId": "1461855960049123572",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999658747143-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999658747143",
+      "company": "AG Technologies",
+      "title": "Entry Level Software Engineers",
+      "postedToDiscord": "2026-01-16T23:10:10.275Z",
+      "sourceDate": "2025-08-14T18:02:37.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658747143",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999659664711-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999659664711",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T23:10:13.860Z",
+      "sourceDate": "2025-08-14T18:00:13.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659664711",
+      "discordThreadId": "1461860110748880968",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999655719751-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999655719751",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T23:10:13.874Z",
+      "sourceDate": "2025-08-13T05:45:03.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4585080006-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4585080006",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2026-01-16T23:10:17.533Z",
+      "sourceDate": "2025-08-14T17:17:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4585080006",
+      "discordThreadId": "1461860125781524704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "peak6group-wd1-myworkdayjobs-com-en-us-apexfintechsolutions-job-austin-tx-software-engineer-i-aldp-_jr103414-1-2026-01-16-1",
+      "jobId": "peak6group-wd1-myworkdayjobs-com-en-us-apexfintechsolutions-job-austin-tx-software-engineer-i-aldp-_jr103414-1",
+      "company": "Apex Fintech Solutions",
+      "title": "Software Engineer I (ALDP)",
+      "postedToDiscord": "2026-01-16T23:10:22.567Z",
+      "sourceDate": "2025-08-14T11:31:16.000Z",
+      "sourceUrl": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+      "discordThreadId": "1461860141627343012",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-foliahealth-jobs-4013590009-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-foliahealth-jobs-4013590009",
+      "company": "Folia Health",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-16T23:10:26.025Z",
+      "sourceDate": "2025-08-14T11:29:23.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/foliahealth/jobs/4013590009",
+      "discordThreadId": "1461860162137751753",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veteransunited-wd1-myworkdayjobs-com-en-us-vuhl-job-remote-mo-associate-software-engineer_r5288-2026-01-16-1",
+      "jobId": "veteransunited-wd1-myworkdayjobs-com-en-us-vuhl-job-remote-mo-associate-software-engineer_r5288",
+      "company": "Veterans United Home Loans",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T23:10:29.862Z",
+      "sourceDate": "2025-08-14T11:25:58.000Z",
+      "sourceUrl": "https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288",
+      "discordThreadId": "1461860177102901258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-teksynap-icims-com-jobs-8306-junior-software-developer-job-2026-01-16-1",
+      "jobId": "careers-teksynap-icims-com-jobs-8306-junior-software-developer-job",
+      "company": "TekSynap",
+      "title": "Junior Software Developer",
+      "postedToDiscord": "2026-01-16T23:10:31.658Z",
+      "sourceDate": "2025-08-14T11:21:24.000Z",
+      "sourceUrl": "https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job",
+      "discordThreadId": "1461860192739135770",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-amazon-jobs-en-jobs-3057120-systems-development-engineer-i-ops-tech-solution-ots-2026-01-16-1",
+      "jobId": "www-amazon-jobs-en-jobs-3057120-systems-development-engineer-i-ops-tech-solution-ots",
+      "company": "Amazon",
+      "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+      "postedToDiscord": "2026-01-16T23:10:35.379Z",
+      "sourceDate": "2025-08-14T11:16:43.000Z",
+      "sourceUrl": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
+      "discordThreadId": "1461860200146403444",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-citadelsecurities-com-careers-details-c-software-engineer-4-2026-01-16-1",
+      "jobId": "www-citadelsecurities-com-careers-details-c-software-engineer-4",
+      "company": "Citadel Securities",
+      "title": "C++ Software Engineer",
+      "postedToDiscord": "2026-01-16T23:10:39.081Z",
+      "sourceDate": "2025-08-14T11:12:26.000Z",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/",
+      "discordThreadId": "1461860215795486751",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-brm-ai-05cad7f7-2194-480d-8e70-7338cfd2a189-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-brm-ai-05cad7f7-2194-480d-8e70-7338cfd2a189",
+      "company": "BRM",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T23:10:46.072Z",
+      "sourceDate": "2025-08-14T11:13:38.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189",
+      "discordThreadId": "1461860244748767343",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2193,
+    "totalJobs": 2203,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T22:53:44.222Z",
+      "date": "2026-01-16T23:10:46.072Z",
       "archived": 0
     }
   }
