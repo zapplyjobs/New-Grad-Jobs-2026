@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T23:53:37.206Z",
+  "lastUpdated": "2026-01-16T00:14:45.375Z",
   "jobs": [
-    {
-      "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241-2026-01-09-1",
-      "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241",
-      "company": "Caesars Entertainment",
-      "title": "Analyst 1 – Labor Analytics - Corporate - Las Vegas",
-      "postedToDiscord": "2026-01-09T00:11:17.313Z",
-      "sourceDate": "2026-01-08T23:21:12.000Z",
-      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/78241",
-      "discordThreadId": "1458976374185263226",
-      "instanceNumber": 1
-    },
-    {
-      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az807-rms-ap-bldg-807-1151-east-hermans-road-building-807-tucson-az-85756-usa-xmlname-2026-fulltime-data-management-analyst-i-onsite_01815653-2026-01-09-1",
-      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az807-rms-ap-bldg-807-1151-east-hermans-road-building-807-tucson-az-85756-usa-xmlname-2026-fulltime-data-management-analyst-i-onsite_01815653",
-      "company": "RTX",
-      "title": "2026 Fulltime - Data Management Analyst I",
-      "postedToDiscord": "2026-01-09T00:11:20.766Z",
-      "sourceDate": "2026-01-08T23:16:34.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Data-Management-Analyst-I---Onsite_01815653",
-      "discordThreadId": "1458976388697690133",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-techs-physics-techs-nc-1306097300-2026-01-09-1",
-      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-techs-physics-techs-nc-1306097300",
-      "company": "Westinghouse Electric Company",
-      "title": "Nuclear Analysis Technician - Engineering Techs - Physics Techs",
-      "postedToDiscord": "2026-01-09T00:11:24.148Z",
-      "sourceDate": "2026-01-08T23:14:45.000Z",
-      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Techs-Physics-Techs-NC/1306097300/?ats=successfactors",
-      "discordThreadId": "1458976402241097790",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-ketteringhealth-icims-com-jobs-57432-job-2026-01-09-1",
       "jobId": "careers-ketteringhealth-icims-com-jobs-57432-job",
@@ -20703,14 +20670,157 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5616603004",
       "discordThreadId": "1461508640715575349",
       "instanceNumber": 1
+    },
+    {
+      "id": "aurora-tech-careers-8209480002-2026-01-16-1",
+      "jobId": "aurora-tech-careers-8209480002",
+      "company": "Aurora Innovation",
+      "title": "Software Engineer I - Remote Assist",
+      "postedToDiscord": "2026-01-16T00:14:07.034Z",
+      "sourceDate": "2025-10-15T02:25:26.000Z",
+      "sourceUrl": "https://aurora.tech/careers/8209480002?gh_jid=8209480002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "aurora-tech-careers-8191750002-2026-01-16-1",
+      "jobId": "aurora-tech-careers-8191750002",
+      "company": "Aurora Innovation",
+      "title": "Software Engineer I - Remote Assist",
+      "postedToDiscord": "2026-01-16T00:14:07.053Z",
+      "sourceDate": "2025-10-15T02:22:31.000Z",
+      "sourceUrl": "https://aurora.tech/careers/8191750002?gh_jid=8191750002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-appian-jobs-7287884-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-appian-jobs-7287884",
+      "company": "Appian",
+      "title": "Product Engineer",
+      "postedToDiscord": "2026-01-16T00:14:10.744Z",
+      "sourceDate": "2025-10-13T15:08:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7287884",
+      "discordThreadId": "1461513815735664815",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carislifesciences-wd12-myworkdayjobs-com-en-us-cls-job-irving-tx-75063-associate-software-engineer-clinical-systems-lab-ops-_jr104012-1-2026-01-16-1",
+      "jobId": "carislifesciences-wd12-myworkdayjobs-com-en-us-cls-job-irving-tx-75063-associate-software-engineer-clinical-systems-lab-ops-_jr104012-1",
+      "company": "Caris",
+      "title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
+      "postedToDiscord": "2026-01-16T00:14:14.356Z",
+      "sourceDate": "2025-10-13T14:51:15.000Z",
+      "sourceUrl": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
+      "discordThreadId": "1461513830831099936",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carislifesciences-wd12-myworkdayjobs-com-en-us-cls-job-irving-tx-75063-associate-software-engineer-clinical-systems-external-apps-_jr104015-2026-01-16-1",
+      "jobId": "carislifesciences-wd12-myworkdayjobs-com-en-us-cls-job-irving-tx-75063-associate-software-engineer-clinical-systems-external-apps-_jr104015",
+      "company": "Caris",
+      "title": "Associate Software Engineer - Clinical Systems (External Apps)",
+      "postedToDiscord": "2026-01-16T00:14:14.372Z",
+      "sourceDate": "2025-10-13T14:41:02.000Z",
+      "sourceUrl": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--External-Apps-_JR104015",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-uncountable-f634a632-c93e-4110-8cbf-7fb54b8fe244-apply-2026-01-16-1",
+      "jobId": "jobs-lever-co-uncountable-f634a632-c93e-4110-8cbf-7fb54b8fe244-apply",
+      "company": "Uncountable",
+      "title": "Scientific Data Engineer",
+      "postedToDiscord": "2026-01-16T00:14:21.054Z",
+      "sourceDate": "2025-10-15T00:53:36.000Z",
+      "sourceUrl": "https://jobs.lever.co/uncountable/f634a632-c93e-4110-8cbf-7fb54b8fe244/apply",
+      "discordThreadId": "1461513858899382355",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-76f8e9a4-8639-4d61-8426-747c52c76148-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-76f8e9a4-8639-4d61-8426-747c52c76148",
+      "company": "nominal",
+      "title": "Software Engineer - Rust / Bevy / WebGPU",
+      "postedToDiscord": "2026-01-16T00:14:24.620Z",
+      "sourceDate": "2025-10-14T20:37:22.556Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/76f8e9a4-8639-4d61-8426-747c52c76148",
+      "discordThreadId": "1461513874116186236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-b5e15c02-f51c-454c-9270-e5b96d0b0519-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-b5e15c02-f51c-454c-9270-e5b96d0b0519",
+      "company": "nominal",
+      "title": "Software Engineer – Systems & Real-Time (RTOS / HIL)",
+      "postedToDiscord": "2026-01-16T00:14:28.227Z",
+      "sourceDate": "2025-10-14T20:30:15.240Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b5e15c02-f51c-454c-9270-e5b96d0b0519",
+      "discordThreadId": "1461513888737656875",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-fireworksai-jobs-4036755009-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-fireworksai-jobs-4036755009",
+      "company": "Fireworks AI",
+      "title": "Software Engineer – Early Career - Cloud Infrastructure",
+      "postedToDiscord": "2026-01-16T00:14:31.767Z",
+      "sourceDate": "2025-10-13T23:22:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/fireworksai/jobs/4036755009",
+      "discordThreadId": "1461513903950397452",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-bf300028-11de-4af9-82e7-07a1ee3e51dc-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-bf300028-11de-4af9-82e7-07a1ee3e51dc",
+      "company": "nominal",
+      "title": "Product Designer - Early Career",
+      "postedToDiscord": "2026-01-16T00:14:35.330Z",
+      "sourceDate": "2025-10-13T15:21:24.784Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/bf300028-11de-4af9-82e7-07a1ee3e51dc",
+      "discordThreadId": "1461513918966010050",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7532640666636437767-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7532640666636437767",
+      "company": "TikTok",
+      "title": "Anti-Fraud Data Analyst Graduate",
+      "postedToDiscord": "2026-01-16T00:14:41.837Z",
+      "sourceDate": "2025-10-14T02:04:33.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532640666636437767",
+      "discordThreadId": "1461513946509873163",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7535165875168184583-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7535165875168184583",
+      "company": "TikTok",
+      "title": "Data Scientist Graduate - Tiktok Shop Business Product DS - 2026 Start",
+      "postedToDiscord": "2026-01-16T00:14:45.362Z",
+      "sourceDate": "2025-10-14T02:04:32.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535165875168184583",
+      "discordThreadId": "1461513960871297075",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7535161796786751751-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7535161796786751751",
+      "company": "TikTok",
+      "title": "Data Scientist Graduate - Tiktok Shop Business Product DS - 2026 Start",
+      "postedToDiscord": "2026-01-16T00:14:45.375Z",
+      "sourceDate": "2025-10-14T02:04:00.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535161796786751751",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1882,
+    "totalJobs": 1892,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-15T23:53:37.206Z",
+      "date": "2026-01-16T00:14:45.375Z",
       "archived": 0
     }
   }
