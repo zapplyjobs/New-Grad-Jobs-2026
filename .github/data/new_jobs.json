@@ -1,21 +1,5 @@
 [
   {
-    "job_title": "Junior Data Analyst",
-    "employer_name": "CSC",
-    "job_city": "Wilmington",
-    "job_state": "DE",
-    "job_description": "Junior Data Analyst Wilmington, DE *Hybrid Work Model (Must work 3 days/week onsite in Wilmington) Monday-Friday, 8am-5pm ET Role Overview: We’re looking for a curious and detail-oriented Junior Data Analyst to join our Product Management team. In this role, you’ll support data-driven decision-making by analyzing business and product data, uncover insights, and help shape strategies that improve customer experience and drive growth. You’ll collaborate closely with product managers and project management ensuring internal goals and being tracked and met. Key Responsibilities: - Assist in gathering and interpreting data to support product decisions and business strategies. - Create and maintain dashboards and reports that track key performance indicators (KPIs) across products and customer segments. - Collaborate with cross-functional teams to understand data needs and translate them into actionable reporting solutions. - Support product managers in ident...",
-    "job_apply_link": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12967",
-    "job_posted_at_datetime_utc": "2025-09-05T14:07:07.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "hczw-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-12967",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Machine Learning Engineer",
     "employer_name": "Cantina",
     "job_city": "NYC",
@@ -176,6 +160,22 @@
     "source_url": "simplify.jobs",
     "job_posted_at": "1h",
     "id": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req329843-1",
+    "description_platform": "workday",
+    "description_success": false
+  },
+  {
+    "job_title": "Technology Development Program (TECDP) - Artificial Intelligence",
+    "employer_name": "The Cigna Group",
+    "job_city": "St. Louis",
+    "job_state": "MO",
+    "job_description": "Join The Cigna Group in this exciting opportunity.",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
+    "job_posted_at_datetime_utc": "2025-09-04T08:49:30.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-artificial-intelligence-track-start-date-july-13-2026_25011433",
     "description_platform": "workday",
     "description_success": false
   }

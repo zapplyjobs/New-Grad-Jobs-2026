@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T16:46:26.883Z",
+  "lastUpdated": "2026-01-16T16:58:53.835Z",
   "jobs": [
     {
       "id": "careers-peraton-icims-com-jobs-162604-job-2026-01-09-1",
@@ -22276,16 +22276,37 @@
       "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12967",
       "discordThreadId": "1461763528942948475",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-spearbit-c2664170-9214-41ab-95cb-a38047b2afa8-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-spearbit-c2664170-9214-41ab-95cb-a38047b2afa8-application",
+      "company": "Cantina",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-16T16:58:50.134Z",
+      "sourceDate": "2025-09-05T05:20:34.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/spearbit/c2664170-9214-41ab-95cb-a38047b2afa8/application",
+      "discordThreadId": "1461766645985837099",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-kitware-18fda1ff-79bc-4da5-a075-79284592d6dc-apply-2026-01-16-1",
+      "jobId": "jobs-lever-co-kitware-18fda1ff-79bc-4da5-a075-79284592d6dc-apply",
+      "company": "Kitware",
+      "title": "OSTP Software Developer",
+      "postedToDiscord": "2026-01-16T16:58:53.835Z",
+      "sourceDate": "2025-09-05T04:02:53.000Z",
+      "sourceUrl": "https://jobs.lever.co/kitware/18fda1ff-79bc-4da5-a075-79284592d6dc/apply",
+      "discordThreadId": "1461766660921884783",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2025,
+    "totalJobs": 2027,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T16:46:26.883Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-16T16:58:53.835Z",
+      "archived": 0
     }
   }
 }
