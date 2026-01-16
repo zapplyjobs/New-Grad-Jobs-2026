@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T20:09:11.462Z",
+  "lastUpdated": "2026-01-16T20:32:07.195Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5054997008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054997008",
-      "company": "anthropic",
-      "title": "Startup Partnerships ",
-      "postedToDiscord": "2026-01-09T20:26:00.380Z",
-      "sourceDate": "2026-01-09T15:08:40-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054997008",
-      "discordThreadId": "1459282066251448334",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-duolingo-com-jobs-8369151002-2026-01-09-1",
       "jobId": "careers-duolingo-com-jobs-8369151002",
@@ -22980,14 +22969,124 @@
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-coral-gables-fl-post-doctoral-associate_r100089997-2026-01-16-1",
+      "jobId": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-coral-gables-fl-post-doctoral-associate_r100089997",
+      "company": "University of Miami",
+      "title": "Postdoctoral Associate",
+      "postedToDiscord": "2026-01-16T20:31:23.269Z",
+      "sourceDate": "2025-08-23T14:53:25.000Z",
+      "sourceUrl": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100089997",
+      "discordThreadId": "1461820135126864035",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-e-_2320007-2026-01-16-1",
+      "jobId": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-e-_2320007",
+      "company": "KLA Corporation",
+      "title": "Software Engineer - E",
+      "postedToDiscord": "2026-01-16T20:31:26.936Z",
+      "sourceDate": "2025-08-23T14:47:49.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer--E-_2320007",
+      "discordThreadId": "1461820151476260885",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate_r132402-2026-01-16-1",
+      "jobId": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate_r132402",
+      "company": "Northeastern",
+      "title": "Postdoctoral Research Associate",
+      "postedToDiscord": "2026-01-16T20:31:30.696Z",
+      "sourceDate": "2025-08-23T14:37:47.000Z",
+      "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132402",
+      "discordThreadId": "1461820166789665084",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow_r_00019055-2-2026-01-16-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow_r_00019055-2",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow",
+      "postedToDiscord": "2026-01-16T20:31:36.123Z",
+      "sourceDate": "2025-08-23T13:34:17.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00019055-2",
+      "discordThreadId": "1461820183210627162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-department-of-physics-postdoctoral-scholar-ligo_req_0000062439-1-2026-01-16-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-department-of-physics-postdoctoral-scholar-ligo_req_0000062439-1",
+      "company": "PennState University",
+      "title": "Physics Department - Postdoctoral Scholar - Ligo",
+      "postedToDiscord": "2026-01-16T20:31:39.714Z",
+      "sourceDate": "2025-08-23T13:32:09.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1",
+      "discordThreadId": "1461820205008162868",
+      "instanceNumber": 1
+    },
+    {
+      "id": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-application-engineer_r2700-2026-01-16-1",
+      "jobId": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-application-engineer_r2700",
+      "company": "Waystar",
+      "title": "Application Engineer",
+      "postedToDiscord": "2026-01-16T20:31:43.461Z",
+      "sourceDate": "2025-08-23T13:31:00.000Z",
+      "sourceUrl": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer_R2700",
+      "discordThreadId": "1461820220221165837",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-fellow_r115210-1-2026-01-16-1",
+      "jobId": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-fellow_r115210-1",
+      "company": "Northeastern",
+      "title": "Postdoctoral Research Fellow",
+      "postedToDiscord": "2026-01-16T20:31:47.023Z",
+      "sourceDate": "2025-08-23T12:46:21.000Z",
+      "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Fellow_R115210-1",
+      "discordThreadId": "1461820236054663442",
+      "instanceNumber": 1
+    },
+    {
+      "id": "onto-wd1-myworkdayjobs-com-onto_careers-job-milpitas-ca-sales-data-analyst-1_r-4671-2026-01-16-1",
+      "jobId": "onto-wd1-myworkdayjobs-com-onto_careers-job-milpitas-ca-sales-data-analyst-1_r-4671",
+      "company": "Onto Innovation",
+      "title": "Sales Data Analyst 1",
+      "postedToDiscord": "2026-01-16T20:31:53.748Z",
+      "sourceDate": "2025-08-23T14:40:15.000Z",
+      "sourceUrl": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Sales-Data-Analyst-1_R-4671",
+      "discordThreadId": "1461820263992786985",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-department-of-physics-wissel-research-group_req_0000045022-1-2026-01-16-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-department-of-physics-wissel-research-group_req_0000045022-1",
+      "company": "PennState University",
+      "title": "Postdoctoral Scholar - Department of Physics - Wissel Research Group",
+      "postedToDiscord": "2026-01-16T20:32:00.612Z",
+      "sourceDate": "2025-08-23T13:32:23.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Department-of-Physics---Wissel-Research-Group_REQ_0000045022-1",
+      "discordThreadId": "1461820292912513269",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000053661-2026-01-16-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000053661",
+      "company": "PennState University",
+      "title": "Postdoctoral Scholar",
+      "postedToDiscord": "2026-01-16T20:32:07.194Z",
+      "sourceDate": "2025-08-23T13:32:20.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000053661",
+      "discordThreadId": "1461820321249104179",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2089,
+    "totalJobs": 2098,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T20:09:11.462Z",
+      "date": "2026-01-16T20:32:07.195Z",
       "archived": 0
     }
   }
