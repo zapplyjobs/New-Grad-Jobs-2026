@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T22:41:27.688Z",
+  "lastUpdated": "2026-01-16T22:53:44.222Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5063007008-2026-01-09-1",
@@ -23915,16 +23915,224 @@
       "sourceUrl": "https://joinbytedance.com/search/7535233571066349842",
       "discordThreadId": "1461852864879005804",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-87648199-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-87648199",
+      "company": "AG Technologies",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-16T22:53:12.148Z",
+      "sourceDate": "2025-08-14T18:20:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/87648199",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-92232329-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-92232329",
+      "company": "AG Technologies",
+      "title": "Java Informatica MicroStrategy Training",
+      "postedToDiscord": "2026-01-16T22:53:15.907Z",
+      "sourceDate": "2025-08-14T18:17:16.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/92232329",
+      "discordThreadId": "1461855840939282455",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-99183111-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-99183111",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2026-01-16T22:53:19.498Z",
+      "sourceDate": "2025-08-14T18:15:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/99183111",
+      "discordThreadId": "1461855856244162836",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102986925-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102986925",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2026-01-16T22:53:19.518Z",
+      "sourceDate": "2025-08-14T18:11:52.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102986925",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102632213-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102632213",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2026-01-16T22:53:19.534Z",
+      "sourceDate": "2025-08-14T18:11:51.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102632213",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102766890-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102766890",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "postedToDiscord": "2026-01-16T22:53:19.549Z",
+      "sourceDate": "2025-08-14T18:11:46.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102766890",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-102987934-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-102987934",
+      "company": "AG Technologies",
+      "title": "Software Engineer openings for OPT/GC/EAD",
+      "postedToDiscord": "2026-01-16T22:53:23.174Z",
+      "sourceDate": "2025-08-14T18:10:40.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102987934",
+      "discordThreadId": "1461855871330947227",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-103962489-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-103962489",
+      "company": "AG Technologies",
+      "title": "Training and Placement on Java Informatica Fullstack",
+      "postedToDiscord": "2026-01-16T22:53:26.505Z",
+      "sourceDate": "2025-08-14T18:09:47.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103962489",
+      "discordThreadId": "1461855886174584970",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-105331851-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-105331851",
+      "company": "AG Technologies",
+      "title": "OBIEE Salesforce Training and Placement",
+      "postedToDiscord": "2026-01-16T22:53:29.915Z",
+      "sourceDate": "2025-08-14T18:08:55.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/105331851",
+      "discordThreadId": "1461855900397473905",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-109565143-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-109565143",
+      "company": "AG Technologies",
+      "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force - Java Full Stack - Web Logic and Sales Force",
+      "postedToDiscord": "2026-01-16T22:53:33.454Z",
+      "sourceDate": "2025-08-14T18:07:23.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/109565143",
+      "discordThreadId": "1461855914826010717",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-112718194-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-112718194",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T22:53:37.195Z",
+      "sourceDate": "2025-08-14T18:06:38.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/112718194",
+      "discordThreadId": "1461855929329778800",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-113484514-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-113484514",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T22:53:37.212Z",
+      "sourceDate": "2025-08-14T18:05:45.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/113484514",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999651709482-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999651709482",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T22:53:37.226Z",
+      "sourceDate": "2025-08-14T18:04:48.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999651709482",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999653435829-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999653435829",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T22:53:37.241Z",
+      "sourceDate": "2025-08-14T18:04:13.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999653435829",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999655204204-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999655204204",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T22:53:37.257Z",
+      "sourceDate": "2025-08-14T18:04:08.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999653436079-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999653436079",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T22:53:37.271Z",
+      "sourceDate": "2025-08-14T18:03:35.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999653436079",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999655632519-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999655632519",
+      "company": "AG Technologies",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T22:53:40.676Z",
+      "sourceDate": "2025-08-14T18:03:24.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655632519",
+      "discordThreadId": "1461855945461207125",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999658568718-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999658568718",
+      "company": "AG Technologies",
+      "title": "Entry Level software engineer",
+      "postedToDiscord": "2026-01-16T22:53:40.694Z",
+      "sourceDate": "2025-08-14T18:01:48.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658568718",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999655678936-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999655678936",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer - ",
+      "postedToDiscord": "2026-01-16T22:53:44.222Z",
+      "sourceDate": "2025-08-14T18:03:12.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655678936",
+      "discordThreadId": "1461855960049123572",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2174,
+    "totalJobs": 2193,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T22:41:27.688Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-16T22:53:44.222Z",
+      "archived": 0
     }
   }
 }
