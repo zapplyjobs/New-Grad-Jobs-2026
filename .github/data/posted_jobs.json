@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T15:54:18.199Z",
+  "lastUpdated": "2026-01-16T16:27:27.622Z",
   "jobs": [
-    {
-      "id": "broadridge-wd5-myworkdayjobs-com-careers-job-edgewood-ny-associate-operations-analyst-hybrid-_jr1078475-2026-01-09-1",
-      "jobId": "broadridge-wd5-myworkdayjobs-com-careers-job-edgewood-ny-associate-operations-analyst-hybrid-_jr1078475",
-      "company": "Broadridge",
-      "title": "Associate Operations Analyst",
-      "postedToDiscord": "2026-01-09T15:56:20.170Z",
-      "sourceDate": "2025-12-16T23:46:53.000Z",
-      "sourceUrl": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Associate-Operations-Analyst--Hybrid-_JR1078475",
-      "discordThreadId": "1459214202634768417",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5061517008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061517008",
@@ -22287,6 +22276,17 @@
       "sourceUrl": "https://jobs.ashbyhq.com/offdeal/92b99c6b-e4e1-4e18-8a21-01b341cd1a1a/application",
       "discordThreadId": "1461750406874009650",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4855439007-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4855439007",
+      "company": "Verkada",
+      "title": "Frontend Software Engineer – University Graduate 2026",
+      "postedToDiscord": "2026-01-16T16:27:27.621Z",
+      "sourceDate": "2025-09-06T01:35:20.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
+      "discordThreadId": "1461758750624059679",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -22294,8 +22294,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T15:54:18.199Z",
-      "archived": 0
+      "date": "2026-01-16T16:27:27.622Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
