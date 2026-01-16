@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T16:27:27.622Z",
+  "lastUpdated": "2026-01-16T16:46:26.883Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5061517008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061517008",
-      "company": "anthropic",
-      "title": "Research Engineer, Universes",
-      "postedToDiscord": "2026-01-09T16:44:59.991Z",
-      "sourceDate": "2026-01-09T11:41:45-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
-      "discordThreadId": "1459226448253685801",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-samsara-com-company-careers-roles-7482951-2026-01-09-1",
-      "jobId": "www-samsara-com-company-careers-roles-7482951",
-      "company": "samsara",
-      "title": "Sr Enterprise Renewals Account Executive",
-      "postedToDiscord": "2026-01-09T16:45:06.434Z",
-      "sourceDate": "2026-01-09T11:35:41-05:00",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/7482951?gh_jid=7482951",
-      "discordThreadId": "1459226476347003105",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-peraton-icims-com-jobs-162604-job-2026-01-09-1",
       "jobId": "careers-peraton-icims-com-jobs-162604-job",
@@ -22287,15 +22265,26 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
       "discordThreadId": "1461758750624059679",
       "instanceNumber": 1
+    },
+    {
+      "id": "hczw-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-12967-2026-01-16-1",
+      "jobId": "hczw-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-12967",
+      "company": "CSC",
+      "title": "Junior Data Analyst",
+      "postedToDiscord": "2026-01-16T16:46:26.882Z",
+      "sourceDate": "2025-09-05T14:07:07.000Z",
+      "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12967",
+      "discordThreadId": "1461763528942948475",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2026,
+    "totalJobs": 2025,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T16:27:27.622Z",
-      "archived": 1,
+      "date": "2026-01-16T16:46:26.883Z",
+      "archived": 2,
       "monthsAffected": 1
     }
   }

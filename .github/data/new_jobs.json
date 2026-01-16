@@ -1,21 +1,5 @@
 [
   {
-    "job_title": "Frontend Software Engineer – University Graduate 2026",
-    "employer_name": "Verkada",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_description": "Join Verkada in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
-    "job_posted_at_datetime_utc": "2025-09-06T01:35:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "job-boards-greenhouse-io-verkada-jobs-4855439007",
-    "description_platform": "greenhouse",
-    "description_success": false
-  },
-  {
     "job_title": "Junior Data Analyst",
     "employer_name": "CSC",
     "job_city": "Wilmington",
@@ -176,6 +160,22 @@
     "source_url": "simplify.jobs",
     "job_posted_at": "1h",
     "id": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-infrastructure-cloud-engineering-track-start-date-july-13-2026_25011438-1",
+    "description_platform": "workday",
+    "description_success": false
+  },
+  {
+    "job_title": "Associate AI Engineer",
+    "employer_name": "T-Mobile",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Join T-Mobile in this exciting opportunity.",
+    "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ329843-1",
+    "job_posted_at_datetime_utc": "2025-09-04T08:52:39.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req329843-1",
     "description_platform": "workday",
     "description_success": false
   }
