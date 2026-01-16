@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T00:48:11.661Z",
+  "lastUpdated": "2026-01-16T01:18:27.718Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-perpay-jobs-4969039007-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-perpay-jobs-4969039007",
-      "company": "Perpay",
-      "title": "Junior Strategic Analyst - Super Day",
-      "postedToDiscord": "2026-01-09T01:14:52.895Z",
-      "sourceDate": "2025-11-06T23:49:54.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4969039007",
-      "discordThreadId": "1458992377359503420",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-lgelectronics-jobs-4940087008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-lgelectronics-jobs-4940087008",
-      "company": "LG Electronics",
-      "title": "Bilingual Material Handling Automation Specialist - Korean & English",
-      "postedToDiscord": "2026-01-09T01:14:59.382Z",
-      "sourceDate": "2025-10-02T02:53:08.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/lgelectronics/jobs/4940087008",
-      "discordThreadId": "1458992404878069870",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5059367008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5059367008",
@@ -20802,15 +20780,27 @@
       "sourceUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/5674251004",
       "discordThreadId": "1461522375978778746",
       "instanceNumber": 1
+    },
+    {
+      "id": "hp-wd5-myworkdayjobs-com-exteu-ac-careersite-job-spring-texas-united-states-of-america-software-development-graduate_3152963-2026-01-16-1",
+      "jobId": "hp-wd5-myworkdayjobs-com-exteu-ac-careersite-job-spring-texas-united-states-of-america-software-development-graduate_3152963",
+      "company": "Hewlett Packard (HP)",
+      "title": "Software Development",
+      "postedToDiscord": "2026-01-16T01:18:27.717Z",
+      "sourceDate": "2025-10-13T14:26:43.000Z",
+      "sourceUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
+      "discordThreadId": "1461529994009509920",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1891,
+    "totalJobs": 1890,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T00:48:11.661Z",
-      "archived": 0
+      "date": "2026-01-16T01:18:27.718Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
