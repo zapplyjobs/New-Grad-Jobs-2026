@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T01:18:27.718Z",
+  "lastUpdated": "2026-01-16T02:00:30.456Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5059367008-2026-01-09-1",
@@ -20791,16 +20791,125 @@
       "sourceUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
       "discordThreadId": "1461529994009509920",
       "instanceNumber": 1
+    },
+    {
+      "id": "lbl-taleo-net-careersection-5-jobdetail-ftl-2026-01-16-1",
+      "jobId": "lbl-taleo-net-careersection-5-jobdetail-ftl",
+      "company": "Lawrence Berkeley National Laboratory",
+      "title": "Hoffman Distinguished Postdoctoral Fellow - Nuclear Nonproliferation",
+      "postedToDiscord": "2026-01-16T01:59:55.943Z",
+      "sourceDate": "2025-10-09T16:56:58.000Z",
+      "sourceUrl": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105322",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-valon-5348244b-763b-4ce7-8828-85575eba2a4c-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-valon-5348244b-763b-4ce7-8828-85575eba2a4c-application",
+      "company": "Valon",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-16T01:59:59.271Z",
+      "sourceDate": "2025-10-09T16:02:45.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Valon/5348244b-763b-4ce7-8828-85575eba2a4c/application",
+      "discordThreadId": "1461540444336033812",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-garnerhealth-jobs-5671433004-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-garnerhealth-jobs-5671433004",
+      "company": "Garner Health",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T02:00:02.788Z",
+      "sourceDate": "2025-10-08T07:31:43.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/5671433004",
+      "discordThreadId": "1461540458173038774",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-10alabs-jobs-4035700009-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-10alabs-jobs-4035700009",
+      "company": "10a Labs",
+      "title": "Machine Learning Fellowship",
+      "postedToDiscord": "2026-01-16T02:00:09.904Z",
+      "sourceDate": "2025-10-09T15:30:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/10alabs/jobs/4035700009",
+      "discordThreadId": "1461540486589190218",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow-department-of-computer-science_r_00042583-2026-01-16-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow-department-of-computer-science_r_00042583",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow - Department of Computer Science",
+      "postedToDiscord": "2026-01-16T02:00:13.442Z",
+      "sourceDate": "2025-10-09T15:07:40.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow--Department-of-Computer-Science_R_00042583",
+      "discordThreadId": "1461540503098232852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-b0073689-28a8-446f-8a28-bdeb32b1247b-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-b0073689-28a8-446f-8a28-bdeb32b1247b",
+      "company": "nominal",
+      "title": "Executive Assistant",
+      "postedToDiscord": "2026-01-16T02:00:16.938Z",
+      "sourceDate": "2025-10-08T15:44:43.830Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b0073689-28a8-446f-8a28-bdeb32b1247b",
+      "discordThreadId": "1461540517870571580",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-rogo-ab1afca5-a96f-4ba7-8370-60817d8a38d1-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-rogo-ab1afca5-a96f-4ba7-8370-60817d8a38d1-application",
+      "company": "Rogo",
+      "title": "Entry Level Engineer",
+      "postedToDiscord": "2026-01-16T02:00:20.303Z",
+      "sourceDate": "2025-10-08T07:48:17.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/rogo/ab1afca5-a96f-4ba7-8370-60817d8a38d1/application",
+      "discordThreadId": "1461540532017955026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-assistant-professor_r0003284-2026-01-16-1",
+      "jobId": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-assistant-professor_r0003284",
+      "company": "Worcester Polytechnic Institute",
+      "title": "Assistant Professor",
+      "postedToDiscord": "2026-01-16T02:00:23.885Z",
+      "sourceDate": "2025-10-08T06:09:31.000Z",
+      "sourceUrl": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Assistant-Professor_R0003284",
+      "discordThreadId": "1461540546748088340",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-mercuryinsurance-icims-com-jobs-5990-job-2026-01-16-1",
+      "jobId": "careers-mercuryinsurance-icims-com-jobs-5990-job",
+      "company": "Mercury Insurance",
+      "title": "Mercury Ignite Data Science Graduate Development Program",
+      "postedToDiscord": "2026-01-16T02:00:25.679Z",
+      "sourceDate": "2025-10-07T21:14:34.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5990/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461540561881141288",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-31b9193c-3d36-4af7-99ba-8140451f71fb-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-supabase-31b9193c-3d36-4af7-99ba-8140451f71fb",
+      "company": "supabase",
+      "title": "Brand Designer",
+      "postedToDiscord": "2026-01-16T02:00:30.456Z",
+      "sourceDate": "2025-10-09T12:00:41.782+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/31b9193c-3d36-4af7-99ba-8140451f71fb",
+      "discordThreadId": "1461540581988761711",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1890,
+    "totalJobs": 1900,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T01:18:27.718Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-16T02:00:30.456Z",
+      "archived": 0
     }
   }
 }
