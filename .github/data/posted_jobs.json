@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T19:11:32.453Z",
+  "lastUpdated": "2026-01-16T19:27:38.334Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062393008-2026-01-09-1",
@@ -22540,14 +22540,113 @@
       "sourceUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-SolutionsPlatformsEngineered--SPE--Entry-Level-Rotation-Program_R0000316308",
       "discordThreadId": "1461800042787504212",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-521272b5-9e4e-4ba0-a0b9-e6e5b067c7ac-2026-01-16-1",
+      "jobId": "jobs-lever-co-spotify-521272b5-9e4e-4ba0-a0b9-e6e5b067c7ac",
+      "company": "spotify",
+      "title": "Workday Payroll Specialist",
+      "postedToDiscord": "2026-01-16T19:27:02.412Z",
+      "sourceDate": "2025-08-29T14:36:42.315Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/521272b5-9e4e-4ba0-a0b9-e6e5b067c7ac",
+      "discordThreadId": "1461803942454362195",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-architecture-engineer-new-college-grad-2025_jr2002495-2026-01-16-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-architecture-engineer-new-college-grad-2025_jr2002495",
+      "company": "NVIDIA",
+      "title": "GPU Architecture Engineer",
+      "postedToDiscord": "2026-01-16T19:27:06.017Z",
+      "sourceDate": "2025-08-28T20:44:39.000Z",
+      "sourceUrl": "http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
+      "discordThreadId": "1461803957881147564",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7542657938525538578-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7542657938525538578",
+      "company": "ByteDance",
+      "title": "Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
+      "postedToDiscord": "2026-01-16T19:27:09.881Z",
+      "sourceDate": "2025-08-28T20:38:16.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7542657938525538578",
+      "discordThreadId": "1461803972611538975",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7543114224130689287-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7543114224130689287",
+      "company": "TikTok",
+      "title": "Data Science Graduate - Advertisement Team - PhD",
+      "postedToDiscord": "2026-01-16T19:27:16.536Z",
+      "sourceDate": "2025-08-29T00:15:57.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7543114224130689287",
+      "discordThreadId": "1461804002072072262",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alfa-wd3-myworkdayjobs-com-alfa-job-us-mi-royal-oak-implementation-analyst-grad-program-2026_r170-2026-01-16-1",
+      "jobId": "alfa-wd3-myworkdayjobs-com-alfa-job-us-mi-royal-oak-implementation-analyst-grad-program-2026_r170",
+      "company": "Alfa Financial Software ",
+      "title": "Implementation Analyst",
+      "postedToDiscord": "2026-01-16T19:27:23.118Z",
+      "sourceDate": "2025-08-28T23:36:09.000Z",
+      "sourceUrl": "https://alfa.wd3.myworkdayjobs.com/alfa/job/US-MI-Royal-Oak/Implementation-Analyst---Grad-Program-2026_R170",
+      "discordThreadId": "1461804029775577184",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-oem-account-applications-engineer-new-college-grad-2025_jr2002780-2026-01-16-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-oem-account-applications-engineer-new-college-grad-2025_jr2002780",
+      "company": "NVIDIA",
+      "title": "OEM Account Applications Engineer",
+      "postedToDiscord": "2026-01-16T19:27:29.826Z",
+      "sourceDate": "2025-08-28T20:44:17.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780",
+      "discordThreadId": "1461804057411719365",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7541178634444589319-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7541178634444589319",
+      "company": "TikTok",
+      "title": "AI/ML Software Engineer Graduate (Data Platform TikTok BP)",
+      "postedToDiscord": "2026-01-16T19:27:33.215Z",
+      "sourceDate": "2025-08-28T20:43:55.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7541178634444589319",
+      "discordThreadId": "1461804072733638706",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7540808448918079752-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7540808448918079752",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (AI Applications)",
+      "postedToDiscord": "2026-01-16T19:27:36.618Z",
+      "sourceDate": "2025-08-28T20:37:37.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7540808448918079752",
+      "discordThreadId": "1461804087044472915",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-careers-microsoft-com-global-en-job-1843258-software-engineer-2026-01-16-1",
+      "jobId": "jobs-careers-microsoft-com-global-en-job-1843258-software-engineer",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T19:27:38.333Z",
+      "sourceDate": "2025-08-28T20:31:43.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
+      "discordThreadId": "1461804101254906060",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2049,
+    "totalJobs": 2058,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T19:11:32.453Z",
+      "date": "2026-01-16T19:27:38.334Z",
       "archived": 0
     }
   }
