@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:41:19.238Z",
+  "lastUpdated": "2026-01-16T05:46:54.840Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5061729008-2026-01-09-1",
@@ -21220,16 +21220,147 @@
       "sourceUrl": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1461596144130850837",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-sierra-ce2ae656-714c-4a6c-a020-fe418f868075-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-sierra-ce2ae656-714c-4a6c-a020-fe418f868075-application",
+      "company": "Sierra",
+      "title": "Software Engineer – New Grad - Agent",
+      "postedToDiscord": "2026-01-16T05:46:20.414Z",
+      "sourceDate": "2025-09-26T21:32:48.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8184586002-2026-01-16-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8184586002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Starshield",
+      "postedToDiscord": "2026-01-16T05:46:23.932Z",
+      "sourceDate": "2025-09-25T20:26:46.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8184586002",
+      "discordThreadId": "1461597422106050693",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158638-2026-01-16-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-software-engineer_r158638",
+      "company": "Adobe",
+      "title": "University Graduate Software Engineer - Software Engineering",
+      "postedToDiscord": "2026-01-16T05:46:27.753Z",
+      "sourceDate": "2025-09-25T20:23:10.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
+      "discordThreadId": "1461597437012742220",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wolve-b42f4d54-02e1-4549-a6a5-7cd5673c8216-2026-01-16-1",
+      "jobId": "jobs-lever-co-wolve-b42f4d54-02e1-4549-a6a5-7cd5673c8216",
+      "company": "Wolverine Trading",
+      "title": "C++ Software Engineer",
+      "postedToDiscord": "2026-01-16T05:46:31.246Z",
+      "sourceDate": "2025-09-25T13:39:18.000Z",
+      "sourceUrl": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
+      "discordThreadId": "1461597452359696492",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-113580-2026-01-16-1",
+      "jobId": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-113580",
+      "company": "Honeywell",
+      "title": "Information Systems – Recent Grad/Full Time - IT - Cyber Engineer & Data Science",
+      "postedToDiscord": "2026-01-16T05:46:35.956Z",
+      "sourceDate": "2025-09-26T20:18:06.000Z",
+      "sourceUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113580",
+      "discordThreadId": "1461597479886782599",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-113582-2026-01-16-1",
+      "jobId": "ibqbjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-honeywell-job-113582",
+      "company": "Honeywell",
+      "title": "Information Systems - IT - Cyber Engineer & Data Science",
+      "postedToDiscord": "2026-01-16T05:46:37.665Z",
+      "sourceDate": "2025-09-26T16:49:13.000Z",
+      "sourceUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113582",
+      "discordThreadId": "1461597487034011708",
+      "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-59816-2026-01-16-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-59816",
+      "company": "Southwest Airlines",
+      "title": "Associate Data Engineer",
+      "postedToDiscord": "2026-01-16T05:46:41.240Z",
+      "sourceDate": "2025-09-26T06:40:30.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816",
+      "discordThreadId": "1461597494227239075",
+      "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-59813-2026-01-16-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-59813",
+      "company": "Southwest Airlines",
+      "title": "Associate Data Engineer",
+      "postedToDiscord": "2026-01-16T05:46:41.254Z",
+      "sourceDate": "2025-09-26T06:39:28.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59813",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-data-scientist-direct-college-hire_r-2025-59817-2026-01-16-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-data-scientist-direct-college-hire_r-2025-59817",
+      "company": "Southwest Airlines",
+      "title": "Associate Data Scientist",
+      "postedToDiscord": "2026-01-16T05:46:44.829Z",
+      "sourceDate": "2025-09-26T06:30:46.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817",
+      "discordThreadId": "1461597509469339780",
+      "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-59810-2026-01-16-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-59810",
+      "company": "Southwest Airlines",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T05:46:51.306Z",
+      "sourceDate": "2025-09-26T06:39:02.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59810",
+      "discordThreadId": "1461597536933646460",
+      "instanceNumber": 1
+    },
+    {
+      "id": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-59811-2026-01-16-1",
+      "jobId": "swa-wd1-myworkdayjobs-com-en-us-external-job-tx-dallas-associate-software-engineer-direct-college-hire_r-2025-59811",
+      "company": "Southwest Airlines",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T05:46:51.322Z",
+      "sourceDate": "2025-09-26T06:37:57.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59811",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "medtronic-wd1-myworkdayjobs-com-en-us-redeploymentmedtroniccareers-job-northridge-california-united-states-of-america-software-operations-engineer-i_r46476-2026-01-16-1",
+      "jobId": "medtronic-wd1-myworkdayjobs-com-en-us-redeploymentmedtroniccareers-job-northridge-california-united-states-of-america-software-operations-engineer-i_r46476",
+      "company": "Medtronic",
+      "title": "Software Operations Engineer I",
+      "postedToDiscord": "2026-01-16T05:46:54.839Z",
+      "sourceDate": "2025-09-25T13:40:34.000Z",
+      "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
+      "discordThreadId": "1461597551244480586",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1929,
+    "totalJobs": 1941,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T05:41:19.238Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-16T05:46:54.840Z",
+      "archived": 0
     }
   }
 }
