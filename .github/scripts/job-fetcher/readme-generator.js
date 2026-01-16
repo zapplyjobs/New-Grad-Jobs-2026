@@ -592,7 +592,7 @@ ${generateJobTable(currentJobs)}
 
 ---
 
-### 🛠 Become a Contributor
+## Become a Contributor
 
 <img src="images/contributor.png" alt="Become a Contributor">
 
