@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T08:10:34.331Z",
+  "lastUpdated": "2026-01-16T08:29:46.085Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7514855-2026-01-09-1",
@@ -22012,14 +22012,124 @@
       "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1",
       "discordThreadId": "1461633704530149428",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-falconwood-icims-com-jobs-1672-job-2026-01-16-1",
+      "jobId": "careers-falconwood-icims-com-jobs-1672-job",
+      "company": "Falconwood",
+      "title": "Data Engineer I",
+      "postedToDiscord": "2026-01-16T08:29:13.405Z",
+      "sourceDate": "2025-09-11T23:00:01.000Z",
+      "sourceUrl": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461638398304321702",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-ea821a61-7fc7-49a5-b08c-12293c1d4655-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-ea821a61-7fc7-49a5-b08c-12293c1d4655",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-16T08:29:20.042Z",
+      "sourceDate": "2025-09-14T18:07:28.855Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/ea821a61-7fc7-49a5-b08c-12293c1d4655",
+      "discordThreadId": "1461638425613566093",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-a88321ee-c313-48b4-b911-544660d31494-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-a88321ee-c313-48b4-b911-544660d31494",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-16T08:29:20.063Z",
+      "sourceDate": "2025-09-14T17:56:36.555Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/a88321ee-c313-48b4-b911-544660d31494",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-eliseai-1ffbd278-a5fe-443c-984f-521d61a97353-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-eliseai-1ffbd278-a5fe-443c-984f-521d61a97353",
+      "company": "EliseAI",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T08:29:23.506Z",
+      "sourceDate": "2025-09-12T09:09:16.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
+      "discordThreadId": "1461638440406880318",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-4ced3627-8295-4b84-a871-1e905940aa29-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-4ced3627-8295-4b84-a871-1e905940aa29",
+      "company": "nominal",
+      "title": "Product Designer",
+      "postedToDiscord": "2026-01-16T08:29:27.000Z",
+      "sourceDate": "2025-09-10T18:57:06.619Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/4ced3627-8295-4b84-a871-1e905940aa29",
+      "discordThreadId": "1461638455304912981",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-ef0f109a-2d2a-4720-b760-ffc7b2016aeb-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-clerk-ef0f109a-2d2a-4720-b760-ffc7b2016aeb",
+      "company": "clerk",
+      "title": "Backend Engineer",
+      "postedToDiscord": "2026-01-16T08:29:31.893Z",
+      "sourceDate": "2025-09-12T20:04:12.386+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/ef0f109a-2d2a-4720-b760-ffc7b2016aeb",
+      "discordThreadId": "1461638482932797511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nordstrom-com-engineer-1-full-stack-store-pos-team-hybrid-seattle-wa-job-4d8a4b0ebc4babf554018e5c28260729-2026-01-16-1",
+      "jobId": "careers-nordstrom-com-engineer-1-full-stack-store-pos-team-hybrid-seattle-wa-job-4d8a4b0ebc4babf554018e5c28260729",
+      "company": "Nordstrom",
+      "title": "Engineer 1 - Full Stack, Store POS+",
+      "postedToDiscord": "2026-01-16T08:29:35.241Z",
+      "sourceDate": "2025-09-12T09:08:02.000Z",
+      "sourceUrl": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729",
+      "discordThreadId": "1461638490260373576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-janestreet-com-join-jane-street-position-8053215002-2026-01-16-1",
+      "jobId": "www-janestreet-com-join-jane-street-position-8053215002",
+      "company": "Jane Street",
+      "title": "Cybersecurity Analyst",
+      "postedToDiscord": "2026-01-16T08:29:38.888Z",
+      "sourceDate": "2025-09-12T09:06:03.000Z",
+      "sourceUrl": "https://www.janestreet.com/join-jane-street/position/8053215002/",
+      "discordThreadId": "1461638504374079498",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-credence-llc-icims-com-jobs-9541-entry-level-software-engineer-28computer-engineering-graduate-29-job-2026-01-16-1",
+      "jobId": "careers-credence-llc-icims-com-jobs-9541-entry-level-software-engineer-28computer-engineering-graduate-29-job",
+      "company": "Credence",
+      "title": "Entry-Level Software Engineer",
+      "postedToDiscord": "2026-01-16T08:29:42.627Z",
+      "sourceDate": "2025-09-10T12:52:42.000Z",
+      "sourceUrl": "https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job",
+      "discordThreadId": "1461638519456792732",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-37194866-4a9c-4215-8eac-a99c6e8ea74a-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-37194866-4a9c-4215-8eac-a99c6e8ea74a",
+      "company": "Jerry",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-16T08:29:46.084Z",
+      "sourceDate": "2025-09-10T12:50:37.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a",
+      "discordThreadId": "1461638534955008094",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2001,
+    "totalJobs": 2011,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T08:10:34.331Z",
+      "date": "2026-01-16T08:29:46.085Z",
       "archived": 0
     }
   }
