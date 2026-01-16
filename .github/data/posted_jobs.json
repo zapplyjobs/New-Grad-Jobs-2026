@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T17:27:20.007Z",
+  "lastUpdated": "2026-01-16T18:29:19.127Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-spacex-jobs-8364374002-2026-01-09-1",
-      "jobId": "boards-greenhouse-io-spacex-jobs-8364374002",
-      "company": "SpaceX",
-      "title": "Software Engineer - Direct To Cell",
-      "postedToDiscord": "2026-01-09T17:53:16.712Z",
-      "sourceDate": "2026-01-09T17:21:54.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8364374002",
-      "discordThreadId": "1459243631843086336",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5753944004-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-vercel-jobs-5753944004",
@@ -22342,14 +22331,91 @@
       "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ329843-1",
       "discordThreadId": "1461773818174373910",
       "instanceNumber": 1
+    },
+    {
+      "id": "ibmglobal-avature-net-en_us-careers-jobdetail-2026-01-16-1",
+      "jobId": "ibmglobal-avature-net-en_us-careers-jobdetail",
+      "company": "IBM",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-16T18:28:50.162Z",
+      "sourceDate": "2025-09-02T23:31:52.000Z",
+      "sourceUrl": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
+      "discordThreadId": "1461789296024486069",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8121675002-2026-01-16-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8121675002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer - Software - Starlink",
+      "postedToDiscord": "2026-01-16T18:28:53.700Z",
+      "sourceDate": "2025-09-02T21:14:36.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8121675002",
+      "discordThreadId": "1461789310083793080",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gleanwork-jobs-4592324005-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-gleanwork-jobs-4592324005",
+      "company": "Glean",
+      "title": "Software Engineer – University Grad",
+      "postedToDiscord": "2026-01-16T18:29:00.301Z",
+      "sourceDate": "2025-09-03T23:30:11.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ivo-1629cbb2-c07c-4214-a1e2-b4e96c9cc66c-2026-01-16-1",
+      "jobId": "jobs-lever-co-ivo-1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
+      "company": "Ivo",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T18:29:03.951Z",
+      "sourceDate": "2025-09-03T13:01:00.000Z",
+      "sourceUrl": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
+      "discordThreadId": "1461789352852984104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-alignerr-jobs-4603841007-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-alignerr-jobs-4603841007",
+      "company": "Alignerr",
+      "title": "AI Trainer for Thermodynamics - Freelance - Remote",
+      "postedToDiscord": "2026-01-16T18:29:07.505Z",
+      "sourceDate": "2025-09-02T21:17:13.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/alignerr/jobs/4603841007",
+      "discordThreadId": "1461789367856009358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-5e577461-87aa-464c-937c-fdf92da2bf3f-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-supabase-5e577461-87aa-464c-937c-fdf92da2bf3f",
+      "company": "supabase",
+      "title": "Head of Databases",
+      "postedToDiscord": "2026-01-16T18:29:12.459Z",
+      "sourceDate": "2025-09-03T07:45:33.993+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/5e577461-87aa-464c-937c-fdf92da2bf3f",
+      "discordThreadId": "1461789396318814229",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-arch-co-cb6fe21b-eaba-4cb2-9a91-a856e6ada942-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-arch-co-cb6fe21b-eaba-4cb2-9a91-a856e6ada942-application",
+      "company": "Arch",
+      "title": "Data Operations Associate",
+      "postedToDiscord": "2026-01-16T18:29:19.127Z",
+      "sourceDate": "2025-09-02T18:49:36.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/arch.co/cb6fe21b-eaba-4cb2-9a91-a856e6ada942/application",
+      "discordThreadId": "1461789416799600875",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2031,
+    "totalJobs": 2037,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T17:27:20.007Z",
+      "date": "2026-01-16T18:29:19.127Z",
       "archived": 0
     }
   }
