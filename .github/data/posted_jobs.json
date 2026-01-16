@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:06:37.038Z",
+  "lastUpdated": "2026-01-16T05:41:19.238Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5043427008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043427008",
-      "company": "anthropic",
-      "title": "Finance & Strategy, GTM",
-      "postedToDiscord": "2026-01-09T05:14:38.190Z",
-      "sourceDate": "2026-01-09T00:12:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043427008",
-      "discordThreadId": "1459052713731031272",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5061729008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061729008",
@@ -21220,6 +21209,17 @@
       "sourceUrl": "https://jobs.lever.co/glsllc/b452c19a-d83d-4343-b1d2-8a249d9381c9/apply",
       "discordThreadId": "1461587410822369280",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-enfra-icims-com-jobs-8884-job-2026-01-16-1",
+      "jobId": "careers-enfra-icims-com-jobs-8884-job",
+      "company": "Bernhard",
+      "title": "Utility Analyst 1",
+      "postedToDiscord": "2026-01-16T05:41:19.237Z",
+      "sourceDate": "2025-10-01T09:25:53.000Z",
+      "sourceUrl": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461596144130850837",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -21227,8 +21227,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T05:06:37.038Z",
-      "archived": 0
+      "date": "2026-01-16T05:41:19.238Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
