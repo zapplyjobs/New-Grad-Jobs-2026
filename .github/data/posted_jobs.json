@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T18:49:26.222Z",
+  "lastUpdated": "2026-01-16T19:11:32.453Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5753944004-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5753944004",
-      "company": "vercel",
-      "title": "Senior Accountant",
-      "postedToDiscord": "2026-01-09T18:59:10.221Z",
-      "sourceDate": "2026-01-09T13:49:44-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753944004",
-      "discordThreadId": "1459260213700853881",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7517513-2026-01-09-1",
-      "jobId": "careers-datadoghq-com-detail-7517513",
-      "company": "datadog",
-      "title": "Senior Partner Manager - Channels (Public Sector)",
-      "postedToDiscord": "2026-01-09T19:08:18.460Z",
-      "sourceDate": "2026-01-09T13:58:38-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7517513/?gh_jid=7517513",
-      "discordThreadId": "1459262513827807414",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062393008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062393008",
@@ -22485,14 +22463,91 @@
       "sourceUrl": "https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76/application",
       "discordThreadId": "1461794479886569767",
       "instanceNumber": 1
+    },
+    {
+      "id": "hbbq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-3499-2026-01-16-1",
+      "jobId": "hbbq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-3499",
+      "company": "American Bureau of Shipping",
+      "title": "Digital Engineering Rotational Aspire",
+      "postedToDiscord": "2026-01-16T19:11:10.322Z",
+      "sourceDate": "2025-09-05T01:20:27.000Z",
+      "sourceUrl": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3499",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-67867-entry-level-software-engineer-job-2026-01-16-1",
+      "jobId": "careers-gdms-icims-com-jobs-67867-entry-level-software-engineer-job",
+      "company": "General Dynamics",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T19:11:14.350Z",
+      "sourceDate": "2025-08-29T18:32:58.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job",
+      "discordThreadId": "1461799965188690047",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-oracle-com-en-sites-jobsearch-job-305990-2026-01-16-1",
+      "jobId": "careers-oracle-com-en-sites-jobsearch-job-305990",
+      "company": "Oracle",
+      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+      "postedToDiscord": "2026-01-16T19:11:17.907Z",
+      "sourceDate": "2025-08-29T18:31:09.000Z",
+      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/305990",
+      "discordThreadId": "1461799981366247485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-oracle-com-en-sites-jobsearch-job-305993-2026-01-16-1",
+      "jobId": "careers-oracle-com-en-sites-jobsearch-job-305993",
+      "company": "Oracle",
+      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+      "postedToDiscord": "2026-01-16T19:11:17.926Z",
+      "sourceDate": "2025-08-29T16:42:06.000Z",
+      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/305993",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-applications-development-engineer-bbp_2531350-2026-01-16-1",
+      "jobId": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-applications-development-engineer-bbp_2531350",
+      "company": "KLA Corporation",
+      "title": "Applications Development Engineer - Bbp",
+      "postedToDiscord": "2026-01-16T19:11:22.267Z",
+      "sourceDate": "2025-08-28T23:12:04.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2531350",
+      "discordThreadId": "1461799996524331191",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-amazon-jobs-en-jobs-3066890-system-dev-engineer-i-analytics-adc-2026-01-16-1",
+      "jobId": "www-amazon-jobs-en-jobs-3066890-system-dev-engineer-i-analytics-adc",
+      "company": "Amazon",
+      "title": "System Dev Engineer I, Analytics ADC",
+      "postedToDiscord": "2026-01-16T19:11:25.943Z",
+      "sourceDate": "2025-08-28T20:46:40.000Z",
+      "sourceUrl": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
+      "discordThreadId": "1461800014832734457",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cat-wd5-myworkdayjobs-com-en-us-solarturbines-job-san-diego-california-xmlname-2026-solutionsplatformsengineered-spe-entry-level-rotation-program_r0000316308-2026-01-16-1",
+      "jobId": "cat-wd5-myworkdayjobs-com-en-us-solarturbines-job-san-diego-california-xmlname-2026-solutionsplatformsengineered-spe-entry-level-rotation-program_r0000316308",
+      "company": "Solar Turbines",
+      "title": "Solutions.Platforms.Engineered – Entry Level Rotation Program - Spe",
+      "postedToDiscord": "2026-01-16T19:11:32.453Z",
+      "sourceDate": "2025-09-01T14:34:05.000Z",
+      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-SolutionsPlatformsEngineered--SPE--Entry-Level-Rotation-Program_R0000316308",
+      "discordThreadId": "1461800042787504212",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2044,
+    "totalJobs": 2049,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T18:49:26.222Z",
+      "date": "2026-01-16T19:11:32.453Z",
       "archived": 0
     }
   }
