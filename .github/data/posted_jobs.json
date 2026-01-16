@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T19:27:38.334Z",
+  "lastUpdated": "2026-01-16T19:39:05.386Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062393008-2026-01-09-1",
@@ -22639,14 +22639,124 @@
       "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
       "discordThreadId": "1461804101254906060",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-c3099780-60d5-4b8a-ab08-c701d114cf62-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-supabase-c3099780-60d5-4b8a-ab08-c701d114cf62",
+      "company": "supabase",
+      "title": "Customer Solution Architect (EMEA)",
+      "postedToDiscord": "2026-01-16T19:38:23.608Z",
+      "sourceDate": "2025-08-29T21:24:10.720+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c3099780-60d5-4b8a-ab08-c701d114cf62",
+      "discordThreadId": "1461806807583297667",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-predoctoral-scholar_jr31330-2026-01-16-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-predoctoral-scholar_jr31330",
+      "company": "University of Chicago",
+      "title": "Predoctoral Scholar",
+      "postedToDiscord": "2026-01-16T19:38:31.731Z",
+      "sourceDate": "2025-08-28T17:40:44.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Predoctoral-Scholar_JR31330",
+      "discordThreadId": "1461806832728150090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7523144222812408071-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7523144222812408071",
+      "company": "TikTok",
+      "title": "Research Scientist Graduate - TikTok Recommendation-Agentic AI - 2026 Start",
+      "postedToDiscord": "2026-01-16T19:38:38.434Z",
+      "sourceDate": "2025-08-28T16:14:35.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7523144222812408071",
+      "discordThreadId": "1461806861698338836",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abbott-wd5-myworkdayjobs-com-en-us-abbottcareers-job-united-states-california-sylmar-software-quality-engineer-i_31128083-1-2026-01-16-1",
+      "jobId": "abbott-wd5-myworkdayjobs-com-en-us-abbottcareers-job-united-states-california-sylmar-software-quality-engineer-i_31128083-1",
+      "company": "Abbott",
+      "title": "Software Quality Engineer I",
+      "postedToDiscord": "2026-01-16T19:38:42.235Z",
+      "sourceDate": "2025-08-28T07:51:49.000Z",
+      "sourceUrl": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31128083-1",
+      "discordThreadId": "1461806877397745960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aurora-tech-careers-8137861002-2026-01-16-1",
+      "jobId": "aurora-tech-careers-8137861002",
+      "company": "Aurora",
+      "title": "Security Software Engineer I",
+      "postedToDiscord": "2026-01-16T19:38:45.775Z",
+      "sourceDate": "2025-08-28T07:49:32.000Z",
+      "sourceUrl": "https://aurora.tech/careers/8137861002",
+      "discordThreadId": "1461806893046566933",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-software-engineer-tensorrt-specialized-platforms-new-college-grad-2025_jr2002870-2026-01-16-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-software-engineer-tensorrt-specialized-platforms-new-college-grad-2025_jr2002870",
+      "company": "NVIDIA",
+      "title": "Software Engineer, TensorRT Specialized Platforms",
+      "postedToDiscord": "2026-01-16T19:38:49.164Z",
+      "sourceDate": "2025-08-28T07:47:56.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
+      "discordThreadId": "1461806907852329225",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-68ca5fe0-6ef4-40fc-a926-0a15c2cad087-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-supabase-68ca5fe0-6ef4-40fc-a926-0a15c2cad087",
+      "company": "supabase",
+      "title": "Cloud Partnerships Manager",
+      "postedToDiscord": "2026-01-16T19:38:50.981Z",
+      "sourceDate": "2025-08-27T19:37:26.279+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/68ca5fe0-6ef4-40fc-a926-0a15c2cad087",
+      "discordThreadId": "1461806921890926696",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-commure-com-careers-detail-2026-01-16-1",
+      "jobId": "www-commure-com-careers-detail",
+      "company": "Commure",
+      "title": "Software Engineer (Summer 2026 New Grad)",
+      "postedToDiscord": "2026-01-16T19:38:55.077Z",
+      "sourceDate": "2025-08-27T18:26:44.000Z",
+      "sourceUrl": "https://www.commure.com/careers-detail?ashby_jid=00dbfa4a-986c-4c98-a966-47874d1ff0f8",
+      "discordThreadId": "1461806930363420676",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-ge-vernova-advanced-research-2026-edison-rotational-program_r5015939-1-2026-01-16-1",
+      "jobId": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-niskayuna-ge-vernova-advanced-research-2026-edison-rotational-program_r5015939-1",
+      "company": "GE Vernova",
+      "title": "GE Vernova Advanced Research 2026 Edison Rotational Program",
+      "postedToDiscord": "2026-01-16T19:39:01.848Z",
+      "sourceDate": "2025-08-28T00:13:53.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research-2026-Edison-Rotational-Program_R5015939-1",
+      "discordThreadId": "1461806959689994454",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow_r_00029121-2026-01-16-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow_r_00029121",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow",
+      "postedToDiscord": "2026-01-16T19:39:05.386Z",
+      "sourceDate": "2025-08-27T22:07:40.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00029121",
+      "discordThreadId": "1461806975389008025",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2058,
+    "totalJobs": 2068,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T19:27:38.334Z",
+      "date": "2026-01-16T19:39:05.386Z",
       "archived": 0
     }
   }
