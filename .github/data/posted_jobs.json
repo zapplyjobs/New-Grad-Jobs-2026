@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T23:27:21.368Z",
+  "lastUpdated": "2026-01-16T23:40:02.193Z",
   "jobs": [
-    {
-      "id": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-full-stack-developer_r0068238-2026-01-09-1",
-      "jobId": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-full-stack-developer_r0068238",
-      "company": "Huntington Bancshares",
-      "title": "Full Stack Developer",
-      "postedToDiscord": "2026-01-09T23:37:58.110Z",
-      "sourceDate": "2026-01-09T23:10:07.000Z",
-      "sourceUrl": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Full-Stack-Developer_R0068238",
-      "discordThreadId": "1459330375808712857",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-5018825007-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-5018825007",
@@ -24333,14 +24322,135 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/744000028638835",
       "discordThreadId": "1461864420862066712",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-appliedintuition-jobs-4592027005-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-appliedintuition-jobs-4592027005",
+      "company": "Applied Intuition",
+      "title": "Embedded Software Engineer",
+      "postedToDiscord": "2026-01-16T23:39:27.316Z",
+      "sourceDate": "2025-08-13T02:41:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005",
+      "discordThreadId": "1461867464353779764",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gannettfleming-icims-com-jobs-12404-entry-level-software-developer-job-2026-01-16-1",
+      "jobId": "careers-gannettfleming-icims-com-jobs-12404-entry-level-software-developer-job",
+      "company": "Gannett Fleming",
+      "title": "Entry Level Software Developer",
+      "postedToDiscord": "2026-01-16T23:39:30.814Z",
+      "sourceDate": "2025-08-13T02:40:38.000Z",
+      "sourceUrl": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
+      "discordThreadId": "1461867480053055668",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-92131955-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-92131955",
+      "company": "AG Technologies",
+      "title": "Training and Placement on Java Informatica Microstrategy Tableau",
+      "postedToDiscord": "2026-01-16T23:39:34.336Z",
+      "sourceDate": "2025-08-13T00:46:03.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/92131955",
+      "discordThreadId": "1461867494888181790",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-100730616-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-100730616",
+      "company": "AG Technologies",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T23:39:38.107Z",
+      "sourceDate": "2025-08-13T00:38:53.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/100730616",
+      "discordThreadId": "1461867509773897822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-avanceconsultingservices2-743999658806198-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-avanceconsultingservices2-743999658806198",
+      "company": "Avance Consulting",
+      "title": "Test Analyst - Java - Selenium",
+      "postedToDiscord": "2026-01-16T23:39:41.623Z",
+      "sourceDate": "2025-08-13T00:10:41.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/743999658806198",
+      "discordThreadId": "1461867525477372138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-88420885-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-88420885",
+      "company": "AG Technologies",
+      "title": "Entry Level Informatica Developer",
+      "postedToDiscord": "2026-01-16T23:39:45.095Z",
+      "sourceDate": "2025-08-13T00:09:03.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/88420885",
+      "discordThreadId": "1461867540396507278",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-101942086-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-101942086",
+      "company": "AG Technologies",
+      "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force",
+      "postedToDiscord": "2026-01-16T23:39:48.557Z",
+      "sourceDate": "2025-08-13T00:08:29.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/101942086",
+      "discordThreadId": "1461867554615066800",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-112610151-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-112610151",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T23:39:52.199Z",
+      "sourceDate": "2025-08-12T23:08:58.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/112610151",
+      "discordThreadId": "1461867569161179171",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999655794970-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999655794970",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-16T23:39:52.214Z",
+      "sourceDate": "2025-08-12T20:35:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655794970",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-94518372-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-94518372",
+      "company": "360 IT Professionals",
+      "title": "SQL data analyst",
+      "postedToDiscord": "2026-01-16T23:39:58.707Z",
+      "sourceDate": "2025-08-13T01:56:49.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/94518372",
+      "discordThreadId": "1461867597279662263",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-ustechsolutions2-103472117-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-ustechsolutions2-103472117",
+      "company": "US Tech Solutions",
+      "title": "MDM Data Analyst 1",
+      "postedToDiscord": "2026-01-16T23:40:02.193Z",
+      "sourceDate": "2025-08-13T00:44:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/USTechSolutions2/103472117",
+      "discordThreadId": "1461867611821178920",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2212,
+    "totalJobs": 2222,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T23:27:21.368Z",
+      "date": "2026-01-16T23:40:02.193Z",
       "archived": 0
     }
   }
