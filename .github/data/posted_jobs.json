@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T02:00:30.456Z",
+  "lastUpdated": "2026-01-16T02:43:57.507Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5059367008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5059367008",
-      "company": "anthropic",
-      "title": "Corporate Counsel, M&A",
-      "postedToDiscord": "2026-01-09T02:42:10.759Z",
-      "sourceDate": "2026-01-08T20:58:55-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059367008",
-      "discordThreadId": "1459014346171486329",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aah-wd5-myworkdayjobs-com-external-job-charlotte-nc-1001-blythe-blvd-data-analyst-pediatric-cancer-and-blood-disorders-clinic-atrium-health-cmc-ft_r197676-2026-01-09-1",
-      "jobId": "aah-wd5-myworkdayjobs-com-external-job-charlotte-nc-1001-blythe-blvd-data-analyst-pediatric-cancer-and-blood-disorders-clinic-atrium-health-cmc-ft_r197676",
-      "company": "Advocate Health Care",
-      "title": "Data Analyst",
-      "postedToDiscord": "2026-01-09T02:42:17.269Z",
-      "sourceDate": "2026-01-09T01:53:24.000Z",
-      "sourceUrl": "https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1001-Blythe-Blvd/Data-Analyst--Pediatric-Cancer-and-Blood-Disorders-Clinic--Atrium-Health-CMC--FT_R197676",
-      "discordThreadId": "1459014373644435612",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-scientist_r2517664-2026-01-09-1",
-      "jobId": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-scientist_r2517664",
-      "company": "Applied Materials",
-      "title": "Data Scientist",
-      "postedToDiscord": "2026-01-09T02:42:20.793Z",
-      "sourceDate": "2026-01-09T01:50:53.000Z",
-      "sourceUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2517664",
-      "discordThreadId": "1459014388295143436",
-      "instanceNumber": 1
-    },
-    {
-      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378366-1-2026-01-09-1",
-      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-usa-crossman-respect-building-ca-sunnyvale-home-office-senior-software-engineer_r-2378366-1",
-      "company": "Walmart",
-      "title": "Senior Software Engineer",
-      "postedToDiscord": "2026-01-09T02:42:27.416Z",
-      "sourceDate": "2026-01-09T01:46:11.000Z",
-      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2378366-1",
-      "discordThreadId": "1459014416451240119",
-      "instanceNumber": 1
-    },
-    {
-      "id": "equifax-wd5-myworkdayjobs-com-external-job-usa-missouri-st-louis-rider-trail-data-processing-specialist-entry_j00173791-2026-01-09-1",
-      "jobId": "equifax-wd5-myworkdayjobs-com-external-job-usa-missouri-st-louis-rider-trail-data-processing-specialist-entry_j00173791",
-      "company": "Equifax",
-      "title": "Data Processing Specialist - Entry",
-      "postedToDiscord": "2026-01-09T02:42:31.434Z",
-      "sourceDate": "2026-01-09T01:43:18.000Z",
-      "sourceUrl": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Missouri---St-Louis---Rider-Trail/Data-Processing-Specialist---Entry_J00173791",
-      "discordThreadId": "1459014430972055665",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-intuit-com-job-san-diego-software-engineer-1-service-mesh-27595-90394286240-2026-01-09-1",
       "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-service-mesh-27595-90394286240",
@@ -20901,14 +20846,135 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/31b9193c-3d36-4af7-99ba-8140451f71fb",
       "discordThreadId": "1461540581988761711",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-bcd14783-d2ae-4d09-a6ba-39330aa0f9fc-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-bcd14783-d2ae-4d09-a6ba-39330aa0f9fc",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-16T02:43:21.854Z",
+      "sourceDate": "2025-10-07T17:47:58.341Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/bcd14783-d2ae-4d09-a6ba-39330aa0f9fc",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-205eb559-b828-4463-a9ff-b61d92e8c85d-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-205eb559-b828-4463-a9ff-b61d92e8c85d",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-16T02:43:21.875Z",
+      "sourceDate": "2025-10-07T17:47:18.725Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/205eb559-b828-4463-a9ff-b61d92e8c85d",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-168a8af0-dc24-411d-a1bb-06c53ed9fac3-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-168a8af0-dc24-411d-a1bb-06c53ed9fac3",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-16T02:43:21.890Z",
+      "sourceDate": "2025-10-07T17:38:04.601Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/168a8af0-dc24-411d-a1bb-06c53ed9fac3",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-4e0ed22d-5e64-4090-adc4-0a9d76401b30-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-4e0ed22d-5e64-4090-adc4-0a9d76401b30",
+      "company": "nominal",
+      "title": "Lead Sales Engineer",
+      "postedToDiscord": "2026-01-16T02:43:25.308Z",
+      "sourceDate": "2025-10-07T17:32:02.029Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/4e0ed22d-5e64-4090-adc4-0a9d76401b30",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-careers-microsoft-com-global-en-job-1879561-software-engineer-2026-01-16-1",
+      "jobId": "jobs-careers-microsoft-com-global-en-job-1879561-software-engineer",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T02:43:30.012Z",
+      "sourceDate": "2025-10-07T13:38:37.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
+      "discordThreadId": "1461551401493860485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-en-us-external_career_site-job-usa-md-annapolis-junction-software-developer-associate-ts-sci-w-poly_rq199001-2026-01-16-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-en-us-external_career_site-job-usa-md-annapolis-junction-software-developer-associate-ts-sci-w-poly_rq199001",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Developer Associate - TS/SCI w/Poly",
+      "postedToDiscord": "2026-01-16T02:43:33.476Z",
+      "sourceDate": "2025-10-07T12:44:32.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001",
+      "discordThreadId": "1461551408577908918",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-doordashusa-jobs-7263610-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-doordashusa-jobs-7263610",
+      "company": "DoorDash",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "postedToDiscord": "2026-01-16T02:43:37.040Z",
+      "sourceDate": "2025-10-07T07:03:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
+      "discordThreadId": "1461551423664816128",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-68413-2026-01-16-1",
+      "jobId": "careers-gdms-icims-com-jobs-68413",
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-16T02:43:40.513Z",
+      "sourceDate": "2025-10-06T08:29:49.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/68413",
+      "discordThreadId": "1461551437787168829",
+      "instanceNumber": 1
+    },
+    {
+      "id": "salesforce-wd12-myworkdayjobs-com-en-us-external_career_site-job-washington-bellevue-ai-forward-deployed-engineer-new-grad-_jr312405-1-2026-01-16-1",
+      "jobId": "salesforce-wd12-myworkdayjobs-com-en-us-external_career_site-job-washington-bellevue-ai-forward-deployed-engineer-new-grad-_jr312405-1",
+      "company": "Salesforce",
+      "title": "AI Forward Deployed Engineer – Early Career - Agentforce - Software Engineering",
+      "postedToDiscord": "2026-01-16T02:43:44.143Z",
+      "sourceDate": "2025-10-04T15:35:27.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
+      "discordThreadId": "1461551453041590328",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-benchling-jobs-7289522-2026-01-16-1",
+      "jobId": "boards-greenhouse-io-benchling-jobs-7289522",
+      "company": "Benchling",
+      "title": "Software Engineer - Schemas & Object Framework",
+      "postedToDiscord": "2026-01-16T02:43:50.923Z",
+      "sourceDate": "2025-10-04T14:55:05.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/benchling/jobs/7289522",
+      "discordThreadId": "1461551481890144468",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nelnet-wd1-myworkdayjobs-com-en-us-mynelnet-job-lincoln-ne-data-analyst-i-consumer-loan-analytics_r21677-1-2026-01-16-1",
+      "jobId": "nelnet-wd1-myworkdayjobs-com-en-us-mynelnet-job-lincoln-ne-data-analyst-i-consumer-loan-analytics_r21677-1",
+      "company": "Nelnet",
+      "title": "Data Analyst I - Consumer Loan Analytics",
+      "postedToDiscord": "2026-01-16T02:43:57.506Z",
+      "sourceDate": "2025-10-06T07:51:50.000Z",
+      "sourceUrl": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1",
+      "discordThreadId": "1461551509048135771",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1900,
+    "totalJobs": 1906,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T02:00:30.456Z",
+      "date": "2026-01-16T02:43:57.507Z",
       "archived": 0
     }
   }
