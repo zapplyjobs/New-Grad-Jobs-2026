@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T14:27:11.406Z",
+  "lastUpdated": "2026-01-16T15:54:18.199Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5058191008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5058191008",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Asset & Wealth Management",
-      "postedToDiscord": "2026-01-09T15:31:08.442Z",
-      "sourceDate": "2026-01-09T10:01:52-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058191008",
-      "discordThreadId": "1459207862567043172",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-bbd09ee0-742a-46b3-aa89-28233d0fec73-2026-01-09-1",
-      "jobId": "jobs-lever-co-spotify-bbd09ee0-742a-46b3-aa89-28233d0fec73",
-      "company": "spotify",
-      "title": "Data Scientist - Podcast",
-      "postedToDiscord": "2026-01-09T15:42:02.013Z",
-      "sourceDate": "2026-01-02T15:00:54.938Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/bbd09ee0-742a-46b3-aa89-28233d0fec73",
-      "discordThreadId": "1459210602860777544",
-      "instanceNumber": 1
-    },
     {
       "id": "broadridge-wd5-myworkdayjobs-com-careers-job-edgewood-ny-associate-operations-analyst-hybrid-_jr1078475-2026-01-09-1",
       "jobId": "broadridge-wd5-myworkdayjobs-com-careers-job-edgewood-ny-associate-operations-analyst-hybrid-_jr1078475",
@@ -22287,6 +22265,28 @@
       "sourceUrl": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-whatnot-bc8f8c7f-2c4c-4f43-a238-953568c101b8-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-whatnot-bc8f8c7f-2c4c-4f43-a238-953568c101b8-application",
+      "company": "WhatNot",
+      "title": "Software Engineer – 2026 New Grad",
+      "postedToDiscord": "2026-01-16T15:54:14.892Z",
+      "sourceDate": "2025-09-04T22:12:52.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-offdeal-92b99c6b-e4e1-4e18-8a21-01b341cd1a1a-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-offdeal-92b99c6b-e4e1-4e18-8a21-01b341cd1a1a-application",
+      "company": "OffDeal",
+      "title": "Founding Full Stack Engineer",
+      "postedToDiscord": "2026-01-16T15:54:18.198Z",
+      "sourceDate": "2025-09-04T21:45:31.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/offdeal/92b99c6b-e4e1-4e18-8a21-01b341cd1a1a/application",
+      "discordThreadId": "1461750406874009650",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -22294,7 +22294,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T14:27:11.406Z",
+      "date": "2026-01-16T15:54:18.199Z",
       "archived": 0
     }
   }
