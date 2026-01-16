@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T08:49:19.977Z",
+  "lastUpdated": "2026-01-16T09:13:47.293Z",
   "jobs": [
     {
       "id": "careers-datadoghq-com-detail-7514855-2026-01-09-1",
@@ -22243,14 +22243,25 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/7c1d5022-7a96-4e62-85e9-f5d586b6d34b",
       "discordThreadId": "1461643466357342289",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-arm-com-job-austin-graduate-software-applications-engineer-33099-85831486416-2026-01-16-1",
+      "jobId": "careers-arm-com-job-austin-graduate-software-applications-engineer-33099-85831486416",
+      "company": "Arm Limited",
+      "title": "Graduate Software Applications Engineer",
+      "postedToDiscord": "2026-01-16T09:13:47.292Z",
+      "sourceDate": "2025-09-09T07:00:40.000Z",
+      "sourceUrl": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+      "discordThreadId": "1461649613697192089",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2022,
+    "totalJobs": 2023,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T08:49:19.977Z",
+      "date": "2026-01-16T09:13:47.293Z",
       "archived": 0
     }
   }
