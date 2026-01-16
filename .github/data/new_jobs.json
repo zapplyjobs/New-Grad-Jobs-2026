@@ -1,21 +1,5 @@
 [
   {
-    "job_title": "Graduate Software Applications Engineer",
-    "employer_name": "Arm Limited",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Join Arm Limited in this exciting opportunity.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
-    "job_posted_at_datetime_utc": "2025-09-09T07:00:40.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "careers-arm-com-job-austin-graduate-software-applications-engineer-33099-85831486416",
-    "description_platform": "generic",
-    "description_success": false
-  },
-  {
     "job_title": "Software Engineer – New Grad",
     "employer_name": "Scale AI",
     "job_city": "SF",
@@ -157,6 +141,22 @@
     "job_posted_at": "1h",
     "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-r-d-machine-learning-engineer-engineering-scientist-associate-_r_00041479",
     "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineer - New Grad",
+    "employer_name": "Decagon",
+    "job_city": "San Francisco",
+    "job_state": "Locations",
+    "job_description": "About Decagon Decagon is the leading conversational AI platform empowering every brand to deliver concierge customer experience. Our AI agents provide intelligent, human-like responses across chat, email, and voice, resolving millions of customer inquiries across every language and at any time. Since coming out of stealth, Decagon has experienced rapid growth. We partner with industry leaders like Hertz, Eventbrite, Duolingo, Oura, Bilt, Curology, and Samsara to redefine customer experience at scale. We've raised over $200M from Bain Capital Ventures, Accel, a16z, BOND Capital, A*, Elad Gil, and notable angels such as the founders of Box, Airtable, Rippling, Okta, Lattice, and Klaviyo. We’re an in-office company, driven by a shared commitment to excellence and velocity. Our values— customers are everything , relentless momentum , winner’s mindset , and stronger together —shape how we work and grow as a team. About the Team The Agent Engineering team at Decagon deploys mission-critical AI agents to our customers that impact millions of users and directly drive Decagon’s growth. You will build on our industry-leading AI agent platform, collaborate directly with customers and use your own creativity to devise long-term, scalable solutions. Our mission is to deliver magical support experiences — AI agents working alongside human agents to help users resolve their issues. About the Role On the Agent Engineering team, you’ll have complete ownership and autonomy in building and shipping best-in-class AI agents, from initial implementation through continuous iteration. You’ll work directly with leaders across industries like finance, healthcare, and hospitality, solving their users’ needs with reliable and intuitive AI agents. Engineers here own their work end-to-end and are trusted to make a real impact. This role is for someone who dives deep into complex system challenges and builds elegant solutions that scale to millions of users. This role is designed for candidates graduating between December 2025–July 2026. We are an in-person company based in San Francisco and New York. In this role, you will Design and build AI agents that outperform human agents in managing complex customer interactions and driving customer retention Identify cross-customer trends that guide the evolution of Decagon’s agent building platform and research efforts Experiment with and run evaluations on the latest text and voice models, then integrate them at scale with large enterprise-grade customers Your background looks something like this Pursuing or completing a B.S. (or higher) in Computer Science or a related technical field Proficiency with Python, Typescript, and asynchronous programming Track record of building and shipping high-quality products and features through coursework, internships, or personal projects Excitement to thrive in a fast-paced environment, continuously learn, and sharpen your skills Even better Prior experience working with multi-modal models Benefits Medical, dental, and vision benefits Take what you need vacation policy Daily lunches, dinners, and snacks in the office to keep you at your best Compensation $180K + Offers Equity",
+    "job_apply_link": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
+    "job_posted_at_datetime_utc": "2025-09-05T19:50:07.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "jobs-ashbyhq-com-decagon-2a435dd5-1212-42bb-ae5a-d7432902acd2",
+    "description_platform": "ashby",
     "description_success": true
   }
 ]

@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T09:13:47.293Z",
+  "lastUpdated": "2026-01-16T09:58:15.230Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7514855-2026-01-09-1",
-      "jobId": "careers-datadoghq-com-detail-7514855",
-      "company": "datadog",
-      "title": "GTM Strategy and Operations Senior Associate - Product Strategy",
-      "postedToDiscord": "2026-01-09T09:55:04.664Z",
-      "sourceDate": "2026-01-09T04:53:29-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7514855/?gh_jid=7514855",
-      "discordThreadId": "1459123288902205483",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply-2026-01-09-1",
       "jobId": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply",
@@ -22254,6 +22243,17 @@
       "sourceUrl": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
       "discordThreadId": "1461649613697192089",
       "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-r-d-machine-learning-engineer-engineering-scientist-associate-_r_00041479-2026-01-16-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-r-d-machine-learning-engineer-engineering-scientist-associate-_r_00041479",
+      "company": "University of Texas - Austin",
+      "title": "R&D Machine Learning Engineer - Engineering Scientist Associate",
+      "postedToDiscord": "2026-01-16T09:58:15.230Z",
+      "sourceDate": "2025-09-05T22:07:25.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Machine-Learning-Engineer--Engineering-Scientist-Associate-_R_00041479",
+      "discordThreadId": "1461660802133004464",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -22261,8 +22261,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T09:13:47.293Z",
-      "archived": 0
+      "date": "2026-01-16T09:58:15.230Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
