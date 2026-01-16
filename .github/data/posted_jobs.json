@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T04:49:19.159Z",
+  "lastUpdated": "2026-01-16T05:06:37.038Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5043427008-2026-01-09-1",
@@ -21121,14 +21121,113 @@
       "sourceUrl": "https://yuzu.health/careers/bddd5ff3-3478-497b-b849-76256992b89f",
       "discordThreadId": "1461583057990455316",
       "instanceNumber": 1
+    },
+    {
+      "id": "costar-wd1-myworkdayjobs-com-en-us-costarcareers-job-us-tn-nashville-associate-software-engineer-nashville-tn_r37023-1-2026-01-16-1",
+      "jobId": "costar-wd1-myworkdayjobs-com-en-us-costarcareers-job-us-tn-nashville-associate-software-engineer-nashville-tn_r37023-1",
+      "company": "CoStar Group",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T05:06:02.477Z",
+      "sourceDate": "2025-09-30T13:35:25.000Z",
+      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1",
+      "discordThreadId": "1461587265443598462",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-comcast-com-job-45483-86516813920-2026-01-16-1",
+      "jobId": "jobs-comcast-com-job-45483-86516813920",
+      "company": "Comcast",
+      "title": "Software Engineer 1 with AWS & Python",
+      "postedToDiscord": "2026-01-16T05:06:06.041Z",
+      "sourceDate": "2025-09-30T13:21:03.000Z",
+      "sourceUrl": "https://jobs.comcast.com/job/-/-/45483/86516813920",
+      "discordThreadId": "1461587280371126292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-mcdonalds-com-job-chicago-software-engineer-i-ios-il-60607-1322170500-2026-01-16-1",
+      "jobId": "jobs-mcdonalds-com-job-chicago-software-engineer-i-ios-il-60607-1322170500",
+      "company": "McDonald's",
+      "title": "Software Engineer 1 - iOS - iOS",
+      "postedToDiscord": "2026-01-16T05:06:09.448Z",
+      "sourceDate": "2025-09-29T16:59:16.000Z",
+      "sourceUrl": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
+      "discordThreadId": "1461587295252774962",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-160168-software-engineering-2c-associate-job-2026-01-16-1",
+      "jobId": "careers-peraton-icims-com-jobs-160168-software-engineering-2c-associate-job",
+      "company": "Peraton",
+      "title": "Software Engineering, Associate",
+      "postedToDiscord": "2026-01-16T05:06:13.216Z",
+      "sourceDate": "2025-09-29T03:25:23.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
+      "discordThreadId": "1461587310201143390",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7516697804673190151-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7516697804673190151",
+      "company": "TikTok",
+      "title": "General Hire – Research Scientist Graduate",
+      "postedToDiscord": "2026-01-16T05:06:16.622Z",
+      "sourceDate": "2025-09-28T19:10:53.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7516697804673190151",
+      "discordThreadId": "1461587325334061138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-chathamfinancial-jobs-7271894-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-chathamfinancial-jobs-7271894",
+      "company": "Chatham Financial",
+      "title": "Full Stack Engineer",
+      "postedToDiscord": "2026-01-16T05:06:20.202Z",
+      "sourceDate": "2025-09-27T15:26:43.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7271894",
+      "discordThreadId": "1461587339657875540",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-credit-_r-079402-2026-01-16-1",
+      "jobId": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-credit-_r-079402",
+      "company": "Prairie View A&M University",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-16T05:06:27.056Z",
+      "sourceDate": "2025-09-30T02:14:11.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402",
+      "discordThreadId": "1461587367562575953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7518139910798215442-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7518139910798215442",
+      "company": "TikTok",
+      "title": "General Hire – Machine Learning Engineer Graduate - TikTok Recommendation",
+      "postedToDiscord": "2026-01-16T05:06:30.534Z",
+      "sourceDate": "2025-09-28T05:34:58.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7518139910798215442",
+      "discordThreadId": "1461587383362260992",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-glsllc-b452c19a-d83d-4343-b1d2-8a249d9381c9-apply-2026-01-16-1",
+      "jobId": "jobs-lever-co-glsllc-b452c19a-d83d-4343-b1d2-8a249d9381c9-apply",
+      "company": "Global Lending Services",
+      "title": "Data Developer",
+      "postedToDiscord": "2026-01-16T05:06:37.037Z",
+      "sourceDate": "2025-09-27T15:37:36.000Z",
+      "sourceUrl": "https://jobs.lever.co/glsllc/b452c19a-d83d-4343-b1d2-8a249d9381c9/apply",
+      "discordThreadId": "1461587410822369280",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1920,
+    "totalJobs": 1929,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T04:49:19.159Z",
+      "date": "2026-01-16T05:06:37.038Z",
       "archived": 0
     }
   }
