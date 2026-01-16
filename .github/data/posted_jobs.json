@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T03:26:16.160Z",
+  "lastUpdated": "2026-01-16T04:21:27.576Z",
   "jobs": [
-    {
-      "id": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570283-2026-01-09-1",
-      "jobId": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202570283",
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-09T03:57:19.042Z",
-      "sourceDate": "2025-12-08T23:26:21.000Z",
-      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202570283",
-      "discordThreadId": "1459033255637553354",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-service-mesh-27595-90394280704-2026-01-09-1",
-      "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-service-mesh-27595-90394280704",
-      "company": "Intuit",
-      "title": "Software Engineer 1 - Service Mesh",
-      "postedToDiscord": "2026-01-09T03:57:22.332Z",
-      "sourceDate": "2026-01-09T02:14:58.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1-service-mesh/27595/90394280704",
-      "discordThreadId": "1459033270162296895",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-zip-77f018e3-af9a-4b4e-b5bd-d08820b7dc4f-application-2026-01-09-1",
-      "jobId": "jobs-ashbyhq-com-zip-77f018e3-af9a-4b4e-b5bd-d08820b7dc4f-application",
-      "company": "Zip",
-      "title": "Software Engineer - Identity Access Management",
-      "postedToDiscord": "2026-01-09T03:57:25.830Z",
-      "sourceDate": "2026-01-09T02:13:39.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/zip/77f018e3-af9a-4b4e-b5bd-d08820b7dc4f/application",
-      "discordThreadId": "1459033284305616950",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amazon-jobs-en-jobs-3155746-software-engineer-i-2026-01-09-1",
-      "jobId": "amazon-jobs-en-jobs-3155746-software-engineer-i",
-      "company": "Amazon",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-09T03:57:29.160Z",
-      "sourceDate": "2026-01-09T02:07:09.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3155746/software-engineer-i",
-      "discordThreadId": "1459033298583162981",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amazon-jobs-en-jobs-3155750-software-engineer-i-2026-01-09-1",
-      "jobId": "amazon-jobs-en-jobs-3155750-software-engineer-i",
-      "company": "Amazon",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-09T03:57:29.171Z",
-      "sourceDate": "2026-01-09T02:07:07.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3155750/software-engineer-i",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5043427008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043427008",
@@ -21044,14 +20989,36 @@
       "sourceUrl": "https://jobs.lever.co/weride/7815ebc0-1668-4aa8-b4ba-919f5c3f9622/apply",
       "discordThreadId": "1461562156523716750",
       "instanceNumber": 1
+    },
+    {
+      "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25033-2026-01-16-1",
+      "jobId": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25033",
+      "company": "Fanatics",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-16T04:21:24.210Z",
+      "sourceDate": "2025-10-04T15:07:45.000Z",
+      "sourceUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25033",
+      "discordThreadId": "1461576032627982500",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-38270711-2026-01-16-1",
+      "jobId": "aexp-eightfold-ai-careers-job-38270711",
+      "company": "American Express",
+      "title": "Campus Graduate - Software Engineer II - Technology",
+      "postedToDiscord": "2026-01-16T04:21:27.575Z",
+      "sourceDate": "2025-10-03T02:53:48.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/38270711",
+      "discordThreadId": "1461576046771048652",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1913,
+    "totalJobs": 1910,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T03:26:16.160Z",
+      "date": "2026-01-16T04:21:27.576Z",
       "archived": 0
     }
   }
