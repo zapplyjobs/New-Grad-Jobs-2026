@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:46:54.840Z",
+  "lastUpdated": "2026-01-16T06:29:11.358Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5061729008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061729008",
-      "company": "anthropic",
-      "title": "Partner Marketing Lead, GSIs",
-      "postedToDiscord": "2026-01-09T05:54:24.538Z",
-      "sourceDate": "2026-01-09T00:47:23-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061729008",
-      "discordThreadId": "1459062722472841453",
-      "instanceNumber": 1
-    },
     {
       "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-62511-2026-01-09-1",
       "jobId": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-62511",
@@ -21352,14 +21341,146 @@
       "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
       "discordThreadId": "1461597551244480586",
       "instanceNumber": 1
+    },
+    {
+      "id": "westernalliancebank-wd5-myworkdayjobs-com-en-us-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11486-2026-01-16-1",
+      "jobId": "westernalliancebank-wd5-myworkdayjobs-com-en-us-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11486",
+      "company": "Western Alliance Bancorporation",
+      "title": "Engineer I - AI Business Engineer",
+      "postedToDiscord": "2026-01-16T06:28:37.328Z",
+      "sourceDate": "2025-09-25T13:36:13.000Z",
+      "sourceUrl": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11486",
+      "discordThreadId": "1461608047591030867",
+      "instanceNumber": 1
+    },
+    {
+      "id": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688-2026-01-16-1",
+      "jobId": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688",
+      "company": "GCI",
+      "title": "Estimating & Planning Engineer 1 - Future Opening",
+      "postedToDiscord": "2026-01-16T06:28:39.026Z",
+      "sourceDate": "2025-09-25T01:13:40.000Z",
+      "sourceUrl": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21002688",
+      "discordThreadId": "1461608062430347335",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4604065006-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4604065006",
+      "company": "mthree",
+      "title": "Junior Software Developer - Go Lang",
+      "postedToDiscord": "2026-01-16T06:28:40.917Z",
+      "sourceDate": "2025-09-24T23:03:55.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
+      "discordThreadId": "1461608069606674525",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4600596006-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4600596006",
+      "company": "mthree",
+      "title": "Junior Software Developer - Java/Scala",
+      "postedToDiscord": "2026-01-16T06:28:40.931Z",
+      "sourceDate": "2025-09-24T23:03:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-notion-f7399542-9122-481a-bf64-43bf8093748b-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-notion-f7399542-9122-481a-bf64-43bf8093748b",
+      "company": "Notion",
+      "title": "Software Engineer, Fullstack",
+      "postedToDiscord": "2026-01-16T06:28:47.454Z",
+      "sourceDate": "2025-09-25T11:01:04.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+      "discordThreadId": "1461608090335051806",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figma-jobs-5616603004-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-figma-jobs-5616603004",
+      "company": "Figma",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T06:28:50.925Z",
+      "sourceDate": "2025-09-24T05:32:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figma/jobs/5616603004",
+      "discordThreadId": "1461608104973172776",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-appian-jobs-7272540-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-appian-jobs-7272540",
+      "company": "Appian",
+      "title": "Associate Business Applications Engineer",
+      "postedToDiscord": "2026-01-16T06:28:54.362Z",
+      "sourceDate": "2025-09-24T04:46:41.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7272540",
+      "discordThreadId": "1461608119451910210",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-appian-jobs-7254384-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-appian-jobs-7254384",
+      "company": "Appian",
+      "title": "Internal Technical Consultant",
+      "postedToDiscord": "2026-01-16T06:28:57.803Z",
+      "sourceDate": "2025-09-24T02:30:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7254384",
+      "discordThreadId": "1461608133729456341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-appian-jobs-7272542-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-appian-jobs-7272542",
+      "company": "Appian",
+      "title": "Associate Application Developer - Appian Platform",
+      "postedToDiscord": "2026-01-16T06:29:01.252Z",
+      "sourceDate": "2025-09-24T02:11:36.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7272542",
+      "discordThreadId": "1461608148388544645",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-meshy-jobs-4932258008-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-meshy-jobs-4932258008",
+      "company": "Meshy",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-16T06:29:07.912Z",
+      "sourceDate": "2025-09-25T05:42:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
+      "discordThreadId": "1461608175651262528",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-openai-d0e21c22-c089-44f7-9acb-1e67c8925635-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-openai-d0e21c22-c089-44f7-9acb-1e67c8925635-application",
+      "company": "OpenAI",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-16T06:29:11.344Z",
+      "sourceDate": "2025-09-25T04:47:08.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/openai/d0e21c22-c089-44f7-9acb-1e67c8925635/application",
+      "discordThreadId": "1461608190709071923",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-openai-b83a4808-66ef-4014-b4eb-a7833c39f4c6-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-openai-b83a4808-66ef-4014-b4eb-a7833c39f4c6-application",
+      "company": "OpenAI",
+      "title": "Software Engineer - Android",
+      "postedToDiscord": "2026-01-16T06:29:11.358Z",
+      "sourceDate": "2025-09-24T23:57:47.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/openai/b83a4808-66ef-4014-b4eb-a7833c39f4c6/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1941,
+    "totalJobs": 1952,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T05:46:54.840Z",
+      "date": "2026-01-16T06:29:11.358Z",
       "archived": 0
     }
   }
