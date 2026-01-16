@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T16:58:53.835Z",
+  "lastUpdated": "2026-01-16T17:10:40.658Z",
   "jobs": [
     {
       "id": "careers-peraton-icims-com-jobs-162604-job-2026-01-09-1",
@@ -22298,14 +22298,36 @@
       "sourceUrl": "https://jobs.lever.co/kitware/18fda1ff-79bc-4da5-a075-79284592d6dc/apply",
       "discordThreadId": "1461766660921884783",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-spacex-jobs-8144023002-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-spacex-jobs-8144023002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "postedToDiscord": "2026-01-16T17:10:36.993Z",
+      "sourceDate": "2025-09-04T10:18:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002",
+      "discordThreadId": "1461769611442655295",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-spacex-jobs-8121675002-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-spacex-jobs-8121675002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Starlink)",
+      "postedToDiscord": "2026-01-16T17:10:40.657Z",
+      "sourceDate": "2025-09-04T10:17:01.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002",
+      "discordThreadId": "1461769626152075349",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2027,
+    "totalJobs": 2029,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T16:58:53.835Z",
+      "date": "2026-01-16T17:10:40.658Z",
       "archived": 0
     }
   }
