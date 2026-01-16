@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T21:27:45.040Z",
+  "lastUpdated": "2026-01-16T21:42:55.724Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-5020484007-2026-01-09-1",
@@ -23409,14 +23409,135 @@
       "sourceUrl": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
       "discordThreadId": "1461834320850321581",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-graduate-us-2026-01-16-1",
+      "jobId": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-graduate-us",
+      "company": "Citadel Securities",
+      "title": "Machine Learning Researcher",
+      "postedToDiscord": "2026-01-16T21:42:17.106Z",
+      "sourceDate": "2025-08-20T08:50:25.000Z",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
+      "discordThreadId": "1461837978593661141",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7538114876280817927-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7538114876280817927",
+      "company": "ByteDance",
+      "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+      "postedToDiscord": "2026-01-16T21:42:23.623Z",
+      "sourceDate": "2025-08-19T14:54:10.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7538114876280817927",
+      "discordThreadId": "1461838005965689139",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7538433821165259015-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7538433821165259015",
+      "company": "ByteDance",
+      "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+      "postedToDiscord": "2026-01-16T21:42:23.640Z",
+      "sourceDate": "2025-08-19T14:52:45.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7538433821165259015",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7538106304578963730-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7538106304578963730",
+      "company": "ByteDance",
+      "title": "Network Engineer Graduate (Physical Network Infra)",
+      "postedToDiscord": "2026-01-16T21:42:27.102Z",
+      "sourceDate": "2025-08-19T14:53:14.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7538106304578963730",
+      "discordThreadId": "1461838020796743803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7538120693880834322-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7538120693880834322",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (Edge Platform)",
+      "postedToDiscord": "2026-01-16T21:42:30.484Z",
+      "sourceDate": "2025-08-19T14:52:15.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7538120693880834322",
+      "discordThreadId": "1461838035174817813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7535903852755814674-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7535903852755814674",
+      "company": "ByteDance",
+      "title": "Site Reliability Engineer Graduate (Data Infrastructure)",
+      "postedToDiscord": "2026-01-16T21:42:33.869Z",
+      "sourceDate": "2025-08-19T14:51:14.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7535903852755814674",
+      "discordThreadId": "1461838049360216196",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7538213896365689096-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7538213896365689096",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Commerce Ads)",
+      "postedToDiscord": "2026-01-16T21:42:37.435Z",
+      "sourceDate": "2025-08-19T08:58:16.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538213896365689096",
+      "discordThreadId": "1461838063431844008",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7538318336657606930-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7538318336657606930",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Media Platform)",
+      "postedToDiscord": "2026-01-16T21:42:41.114Z",
+      "sourceDate": "2025-08-19T08:57:02.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538318336657606930",
+      "discordThreadId": "1461838079328256132",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7538325343598741767-2026-01-16-1",
+      "jobId": "lifeattiktok-com-search-7538325343598741767",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Foundation Platform)",
+      "postedToDiscord": "2026-01-16T21:42:44.873Z",
+      "sourceDate": "2025-08-19T08:56:09.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538325343598741767",
+      "discordThreadId": "1461838094209908799",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-chime-jobs-8101747002-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-chime-jobs-8101747002",
+      "company": "Chime",
+      "title": "Product Security Engineer",
+      "postedToDiscord": "2026-01-16T21:42:48.867Z",
+      "sourceDate": "2025-08-19T08:52:50.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chime/jobs/8101747002",
+      "discordThreadId": "1461838109695148331",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-canonical-jobs-3257589-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-canonical-jobs-3257589",
+      "company": "Canonical",
+      "title": "Software Engineer - Python - Cloud",
+      "postedToDiscord": "2026-01-16T21:42:55.724Z",
+      "sourceDate": "2025-08-19T08:51:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
+      "discordThreadId": "1461838139080314933",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2128,
+    "totalJobs": 2139,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T21:27:45.040Z",
+      "date": "2026-01-16T21:42:55.724Z",
       "archived": 0
     }
   }
