@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T11:53:10.363Z",
+  "lastUpdated": "2026-01-16T13:34:19.184Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-gohighlevel-b4af6df2-340f-44e5-a047-de30299159d1-2026-01-09-1",
-      "jobId": "jobs-lever-co-gohighlevel-b4af6df2-340f-44e5-a047-de30299159d1",
-      "company": "gohighlevel",
-      "title": "Manager - BDR",
-      "postedToDiscord": "2026-01-09T12:48:18.347Z",
-      "sourceDate": "2025-09-26T15:36:12.669Z",
-      "sourceUrl": "https://jobs.lever.co/gohighlevel/b4af6df2-340f-44e5-a047-de30299159d1",
-      "discordThreadId": "1459166890072080468",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5058191008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5058191008",
@@ -22232,14 +22221,58 @@
       "sourceUrl": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Systems-Engineer_4003",
       "discordThreadId": "1461689724165951508",
       "instanceNumber": 1
+    },
+    {
+      "id": "epic-avature-net-careers-folderdetail-infrastructure-engineer-23505-2026-01-16-1",
+      "jobId": "epic-avature-net-careers-folderdetail-infrastructure-engineer-23505",
+      "company": "Epic",
+      "title": "Infrastructure Engineer",
+      "postedToDiscord": "2026-01-16T13:34:08.151Z",
+      "sourceDate": "2025-09-08T17:46:59.000Z",
+      "sourceUrl": "https://epic.avature.net/Careers/FolderDetail/Infrastructure-Engineer/23505",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "divergehealth-org-jobs-2026-01-16-1",
+      "jobId": "divergehealth-org-jobs",
+      "company": "Diverge Health",
+      "title": "Associate Software Developer",
+      "postedToDiscord": "2026-01-16T13:34:11.481Z",
+      "sourceDate": "2025-09-08T06:57:27.000Z",
+      "sourceUrl": "https://divergehealth.org/jobs/?gh_jid=4840575007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "extraspace-wd5-myworkdayjobs-com-en-us-ess_external-job-salt-lake-city-ut-united-states-associate-software-engineer_r-72920-2026-01-16-1",
+      "jobId": "extraspace-wd5-myworkdayjobs-com-en-us-ess_external-job-salt-lake-city-ut-united-states-associate-software-engineer_r-72920",
+      "company": "Extra Space Storage",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T13:34:14.926Z",
+      "sourceDate": "2025-09-08T06:55:21.000Z",
+      "sourceUrl": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-72920",
+      "discordThreadId": "1461715160573018154",
+      "instanceNumber": 1
+    },
+    {
+      "id": "labcorp-wd1-myworkdayjobs-com-en-us-external-job-durham-nc-associate-software-engineer_2526628-2026-01-16-1",
+      "jobId": "labcorp-wd1-myworkdayjobs-com-en-us-external-job-durham-nc-associate-software-engineer_2526628",
+      "company": "Labcorp",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T13:34:19.184Z",
+      "sourceDate": "2025-09-08T06:50:25.000Z",
+      "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Associate-Software-Engineer_2526628",
+      "discordThreadId": "1461715175035109555",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2021,
+    "totalJobs": 2024,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T11:53:10.363Z",
+      "date": "2026-01-16T13:34:19.184Z",
       "archived": 0
     }
   }
