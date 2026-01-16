@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T13:34:19.184Z",
+  "lastUpdated": "2026-01-16T14:27:11.406Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5058191008-2026-01-09-1",
@@ -22265,14 +22265,36 @@
       "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Associate-Software-Engineer_2526628",
       "discordThreadId": "1461715175035109555",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-akunacapital-com-job-details-2026-01-16-1",
+      "jobId": "www-akunacapital-com-job-details",
+      "company": "Akuna Capital",
+      "title": "Software Engineer - Entry-Level - C++",
+      "postedToDiscord": "2026-01-16T14:27:08.041Z",
+      "sourceDate": "2025-09-05T23:58:03.000Z",
+      "sourceUrl": "https://www.akunacapital.com/job-details?gh_jid=6926191",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-decagon-2a435dd5-1212-42bb-ae5a-d7432902acd2-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-decagon-2a435dd5-1212-42bb-ae5a-d7432902acd2",
+      "company": "Decagon",
+      "title": "Software Engineer - New Grad",
+      "postedToDiscord": "2026-01-16T14:27:11.405Z",
+      "sourceDate": "2025-09-05T19:50:07.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2024,
+    "totalJobs": 2026,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T13:34:19.184Z",
+      "date": "2026-01-16T14:27:11.406Z",
       "archived": 0
     }
   }
