@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T17:10:40.658Z",
+  "lastUpdated": "2026-01-16T17:27:20.007Z",
   "jobs": [
-    {
-      "id": "careers-peraton-icims-com-jobs-162604-job-2026-01-09-1",
-      "jobId": "careers-peraton-icims-com-jobs-162604-job",
-      "company": "Peraton",
-      "title": "Meteorologist - NASA Ballon Program",
-      "postedToDiscord": "2026-01-09T17:11:16.345Z",
-      "sourceDate": "2026-01-09T16:48:56.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/162604/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1459233060615753820",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-i-front-end-web-27595-90412641632-2026-01-09-1",
-      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-i-front-end-web-27595-90412641632",
-      "company": "Intuit",
-      "title": "Software Engineer 1 - Front End Web",
-      "postedToDiscord": "2026-01-09T17:11:22.822Z",
-      "sourceDate": "2026-01-09T16:19:35.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-i-front-end-web/27595/90412641632",
-      "discordThreadId": "1459233088147165334",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-san-diego-software-engineer-1-tax-preparation-data-management-27595-90412641696-2026-01-09-1",
-      "jobId": "jobs-intuit-com-job-san-diego-software-engineer-1-tax-preparation-data-management-27595-90412641696",
-      "company": "Intuit",
-      "title": "Software Engineer 1 - Tax Preparation Data Management",
-      "postedToDiscord": "2026-01-09T17:11:22.834Z",
-      "sourceDate": "2026-01-09T16:19:34.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-1-tax-preparation-data-management/27595/90412641696",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5753933004-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5753933004",
-      "company": "vercel",
-      "title": "FP&A Manager,  GTM",
-      "postedToDiscord": "2026-01-09T17:26:08.908Z",
-      "sourceDate": "2026-01-09T12:16:38-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753933004",
-      "discordThreadId": "1459236804526997687",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4985093008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985093008",
-      "company": "anthropic",
-      "title": " Strategy and Messaging Communications Lead, Narrative",
-      "postedToDiscord": "2026-01-09T17:26:12.379Z",
-      "sourceDate": "2026-01-09T12:13:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985093008",
-      "discordThreadId": "1459236819295010938",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-spacex-jobs-8364374002-2026-01-09-1",
       "jobId": "boards-greenhouse-io-spacex-jobs-8364374002",
@@ -22320,14 +22265,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002",
       "discordThreadId": "1461769626152075349",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-brellium-8209ac68-d966-4d5f-a925-3b277f8583c3-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-brellium-8209ac68-d966-4d5f-a925-3b277f8583c3-application",
+      "company": "Brellium",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T17:27:00.673Z",
+      "sourceDate": "2025-09-04T16:41:07.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/brellium/8209ac68-d966-4d5f-a925-3b277f8583c3/application",
+      "discordThreadId": "1461773736909996102",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-infrastructure-cloud-engineering-track-start-date-july-13-2026_25011438-1-2026-01-16-1",
+      "jobId": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-infrastructure-cloud-engineering-track-start-date-july-13-2026_25011438-1",
+      "company": "The Cigna Group",
+      "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+      "postedToDiscord": "2026-01-16T17:27:04.406Z",
+      "sourceDate": "2025-09-04T10:14:15.000Z",
+      "sourceUrl": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
+      "discordThreadId": "1461773751824679056",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-artificial-intelligence-track-start-date-july-13-2026_25011433-2026-01-16-1",
+      "jobId": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-artificial-intelligence-track-start-date-july-13-2026_25011433",
+      "company": "The Cigna Group",
+      "title": "Technology Development Program (TECDP) - Artificial Intelligence",
+      "postedToDiscord": "2026-01-16T17:27:04.424Z",
+      "sourceDate": "2025-09-04T08:49:30.000Z",
+      "sourceUrl": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-com-jobs-listing-software-engineer-new-grad-7210112-2026-01-16-1",
+      "jobId": "stripe-com-jobs-listing-software-engineer-new-grad-7210112",
+      "company": "Stripe",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T17:27:08.318Z",
+      "sourceDate": "2025-09-04T08:40:26.000Z",
+      "sourceUrl": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
+      "discordThreadId": "1461773767704313877",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-88345c93-ae5e-416b-af29-69d8ea6fde78-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-88345c93-ae5e-416b-af29-69d8ea6fde78",
+      "company": "Jerry",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-16T17:27:11.713Z",
+      "sourceDate": "2025-09-03T13:26:42.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78",
+      "discordThreadId": "1461773783114449126",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-e8e0a7a9-10d1-44e1-97f0-5868c48eb914-2026-01-16-1",
+      "jobId": "jobs-lever-co-nominal-e8e0a7a9-10d1-44e1-97f0-5868c48eb914",
+      "company": "nominal",
+      "title": "Government Contracts Strategist",
+      "postedToDiscord": "2026-01-16T17:27:16.557Z",
+      "sourceDate": "2025-09-04T22:17:55.500Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/e8e0a7a9-10d1-44e1-97f0-5868c48eb914",
+      "discordThreadId": "1461773810671026196",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req329843-1-2026-01-16-1",
+      "jobId": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req329843-1",
+      "company": "T-Mobile",
+      "title": "Associate AI Engineer",
+      "postedToDiscord": "2026-01-16T17:27:20.006Z",
+      "sourceDate": "2025-09-04T08:52:39.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ329843-1",
+      "discordThreadId": "1461773818174373910",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2029,
+    "totalJobs": 2031,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T17:10:40.658Z",
+      "date": "2026-01-16T17:27:20.007Z",
       "archived": 0
     }
   }
