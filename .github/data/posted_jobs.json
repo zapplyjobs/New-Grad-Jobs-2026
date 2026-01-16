@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T23:10:46.072Z",
+  "lastUpdated": "2026-01-16T23:27:21.368Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4939288008-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939288008",
-      "company": "anthropic",
-      "title": "Real Estate Project Manager",
-      "postedToDiscord": "2026-01-09T23:25:11.971Z",
-      "sourceDate": "2026-01-09T18:19:33-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
-      "discordThreadId": "1459327162946555956",
-      "instanceNumber": 1
-    },
     {
       "id": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-full-stack-developer_r0068238-2026-01-09-1",
       "jobId": "huntington-wd12-myworkdayjobs-com-hnbcareers-job-columbus-oh-full-stack-developer_r0068238",
@@ -24234,14 +24223,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189",
       "discordThreadId": "1461860244748767343",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-jumptrading-com-careers-7141620-2026-01-16-1",
+      "jobId": "www-jumptrading-com-careers-7141620",
+      "company": "Jump Trading",
+      "title": "Campus ML Engineer (Full-Time)",
+      "postedToDiscord": "2026-01-16T23:26:37.342Z",
+      "sourceDate": "2025-08-14T11:00:57.000Z",
+      "sourceUrl": "https://www.jumptrading.com/careers/7141620/?gh_jid=7141620",
+      "discordThreadId": "1461864235901649120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-jumptrading-com-careers-7141658-2026-01-16-1",
+      "jobId": "www-jumptrading-com-careers-7141658",
+      "company": "Jump Trading",
+      "title": "Campus AI Researcher (Full-Time)",
+      "postedToDiscord": "2026-01-16T23:26:41.127Z",
+      "sourceDate": "2025-08-14T10:57:59.000Z",
+      "sourceUrl": "https://www.jumptrading.com/careers/7141658/?gh_jid=7141658",
+      "discordThreadId": "1461864250963398718",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-suno-991c9785-9bd5-499a-98aa-146e8c947752-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-suno-991c9785-9bd5-499a-98aa-146e8c947752",
+      "company": "Suno",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T23:26:47.572Z",
+      "sourceDate": "2025-08-14T10:47:25.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
+      "discordThreadId": "1461864279174152364",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-avanceconsultingservices2-92460015-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-avanceconsultingservices2-92460015",
+      "company": "Avance Consulting",
+      "title": "Application Software Developer",
+      "postedToDiscord": "2026-01-16T23:26:51.217Z",
+      "sourceDate": "2025-08-14T08:39:23.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/92460015",
+      "discordThreadId": "1461864293359419392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-aldp-_jr103414-1-2026-01-16-1",
+      "jobId": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-aldp-_jr103414-1",
+      "company": "Apex Fintech Solutions",
+      "title": "Software Engineer I - Aldp",
+      "postedToDiscord": "2026-01-16T23:26:54.765Z",
+      "sourceDate": "2025-08-14T04:58:35.000Z",
+      "sourceUrl": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+      "discordThreadId": "1461864308727087209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-743999658533708-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-743999658533708",
+      "company": "360 IT Professionals",
+      "title": "SAP ERP Analyst",
+      "postedToDiscord": "2026-01-16T23:26:58.220Z",
+      "sourceDate": "2025-08-13T05:20:56.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658533708",
+      "discordThreadId": "1461864323696820398",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-95501978-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-95501978",
+      "company": "AG Technologies",
+      "title": "Java Informatica MicroStrategy Training",
+      "postedToDiscord": "2026-01-16T23:27:01.771Z",
+      "sourceDate": "2025-08-13T05:20:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/95501978",
+      "discordThreadId": "1461864338028626000",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-ustechsolutions2-93157321-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-ustechsolutions2-93157321",
+      "company": "US Tech Solutions",
+      "title": "SAS Administrator",
+      "postedToDiscord": "2026-01-16T23:27:08.327Z",
+      "sourceDate": "2025-08-13T19:03:19.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/USTechSolutions2/93157321",
+      "discordThreadId": "1461864365765431359",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-avanceconsultingservices2-84052389-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-avanceconsultingservices2-84052389",
+      "company": "Avance Consulting",
+      "title": "Technology Analyst - Cocoa",
+      "postedToDiscord": "2026-01-16T23:27:14.836Z",
+      "sourceDate": "2025-08-13T05:49:23.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/84052389",
+      "discordThreadId": "1461864393179533427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-prosidianconsulting-744000028638835-2026-01-16-1",
+      "jobId": "jobs-smartrecruiters-com-prosidianconsulting-744000028638835",
+      "company": "Prosidian Consulting",
+      "title": "GIS Analyst - Environmental Consulting and Management Services",
+      "postedToDiscord": "2026-01-16T23:27:21.367Z",
+      "sourceDate": "2025-08-13T04:26:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/744000028638835",
+      "discordThreadId": "1461864420862066712",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2203,
+    "totalJobs": 2212,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T23:10:46.072Z",
+      "date": "2026-01-16T23:27:21.368Z",
       "archived": 0
     }
   }
