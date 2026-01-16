@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T22:35:54.635Z",
+  "lastUpdated": "2026-01-16T22:41:27.688Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5020484007-2026-01-09-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5020484007",
-      "company": "verkada",
-      "title": "Channel Development Representative, West (Phoenix) ",
-      "postedToDiscord": "2026-01-09T22:40:20.186Z",
-      "sourceDate": "2026-01-09T17:30:45-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5020484007",
-      "discordThreadId": "1459315880067469322",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7516279-2026-01-09-1",
-      "jobId": "careers-datadoghq-com-detail-7516279",
-      "company": "datadog",
-      "title": "Senior Sales Engineer - Key Accounts (West)",
-      "postedToDiscord": "2026-01-09T22:40:23.640Z",
-      "sourceDate": "2026-01-09T17:27:49-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7516279/?gh_jid=7516279",
-      "discordThreadId": "1459315886845591729",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5063007008-2026-01-09-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5063007008",
@@ -23926,15 +23904,27 @@
       "sourceUrl": "https://joinbytedance.com/search/7532538236133902599",
       "discordThreadId": "1461851473305538748",
       "instanceNumber": 1
+    },
+    {
+      "id": "joinbytedance-com-search-7535233571066349842-2026-01-16-1",
+      "jobId": "joinbytedance-com-search-7535233571066349842",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS)",
+      "postedToDiscord": "2026-01-16T22:41:27.688Z",
+      "sourceDate": "2025-08-15T07:17:18.000Z",
+      "sourceUrl": "https://joinbytedance.com/search/7535233571066349842",
+      "discordThreadId": "1461852864879005804",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2175,
+    "totalJobs": 2174,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T22:35:54.635Z",
-      "archived": 0
+      "date": "2026-01-16T22:41:27.688Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
