@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T07:31:24.484Z",
+  "lastUpdated": "2026-01-16T07:44:49.582Z",
   "jobs": [
-    {
-      "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-62511-2026-01-09-1",
-      "jobId": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-62511",
-      "company": "Southwest Airlines",
-      "title": "Associate Data Engineer - Direct College Hire",
-      "postedToDiscord": "2026-01-09T07:41:11.731Z",
-      "sourceDate": "2026-01-09T07:15:11.000Z",
-      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-62511",
-      "discordThreadId": "1459089595936542833",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354646300-2026-01-09-1",
-      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1354646300",
-      "company": "Huntington Ingalls Industries",
-      "title": "Engineer Software 1",
-      "postedToDiscord": "2026-01-09T07:41:15.151Z",
-      "sourceDate": "2026-01-09T07:07:36.000Z",
-      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354646300/?ats=successfactors",
-      "discordThreadId": "1459089610557624367",
-      "instanceNumber": 1
-    },
     {
       "id": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-san-antonio-home-office-i-data-engineer-entry-level_r0113909-1-2026-01-09-1",
       "jobId": "usaa-wd1-myworkdayjobs-com-en-us-usaajobswd-job-san-antonio-home-office-i-data-engineer-entry-level_r0113909-1",
@@ -21814,14 +21792,47 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436",
       "discordThreadId": "1461623848301629462",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4872797007-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4872797007",
+      "company": "Verkada",
+      "title": "Security Software Engineer",
+      "postedToDiscord": "2026-01-16T07:44:46.155Z",
+      "sourceDate": "2025-09-17T10:09:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
+      "discordThreadId": "1461627210057257117",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8169815002-2026-01-16-1",
+      "jobId": "careers-duolingo-com-jobs-8169815002",
+      "company": "Duolingo",
+      "title": "AI Research Engineer",
+      "postedToDiscord": "2026-01-16T07:44:49.567Z",
+      "sourceDate": "2025-09-17T10:08:03.000Z",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8169815002",
+      "discordThreadId": "1461627225471193290",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8151163002-2026-01-16-1",
+      "jobId": "careers-duolingo-com-jobs-8151163002",
+      "company": "Duolingo",
+      "title": "AI Research Engineer",
+      "postedToDiscord": "2026-01-16T07:44:49.581Z",
+      "sourceDate": "2025-09-17T10:07:29.000Z",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8151163002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1983,
+    "totalJobs": 1984,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T07:31:24.484Z",
+      "date": "2026-01-16T07:44:49.582Z",
       "archived": 0
     }
   }
