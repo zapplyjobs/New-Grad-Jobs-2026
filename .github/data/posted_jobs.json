@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T18:29:19.127Z",
+  "lastUpdated": "2026-01-16T18:49:26.222Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5753944004-2026-01-09-1",
@@ -22408,14 +22408,91 @@
       "sourceUrl": "https://jobs.ashbyhq.com/arch.co/cb6fe21b-eaba-4cb2-9a91-a856e6ada942/application",
       "discordThreadId": "1461789416799600875",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-com-jobs-search-2026-01-16-1",
+      "jobId": "stripe-com-jobs-search",
+      "company": "Stripe",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-16T18:49:01.699Z",
+      "sourceDate": "2025-09-03T03:55:08.000Z",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7210112",
+      "discordThreadId": "1461794376291455139",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-spacex-jobs-8145483002-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-spacex-jobs-8145483002",
+      "company": "SpaceX",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T18:49:05.303Z",
+      "sourceDate": "2025-09-02T23:32:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
+      "discordThreadId": "1461794391806050468",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-en-us-external_careers-job-usa-berkeley-mo-f-22-pilot-training-entry-level-software-engineer-simulation_jr2025457113-1-2026-01-16-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-en-us-external_careers-job-usa-berkeley-mo-f-22-pilot-training-entry-level-software-engineer-simulation_jr2025457113-1",
+      "company": "Boeing",
+      "title": "F-22 Pilot Training Entry-Level Software Engineer – Simulation",
+      "postedToDiscord": "2026-01-16T18:49:08.935Z",
+      "sourceDate": "2025-09-02T10:53:40.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/F-22-Pilot-Training-Entry-Level-Software-Engineer---Simulation_JR2025457113-1",
+      "discordThreadId": "1461794406716805321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-databricks-com-company-careers-university-recruiting-software-engineer-new-grad-2026-start-6865698002-2026-01-16-1",
+      "jobId": "www-databricks-com-company-careers-university-recruiting-software-engineer-new-grad-2026-start-6865698002",
+      "company": "Databricks",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T18:49:12.411Z",
+      "sourceDate": "2025-09-02T10:49:57.000Z",
+      "sourceUrl": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002",
+      "discordThreadId": "1461794422101512328",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cvshealth-wd1-myworkdayjobs-com-en-us-cvs_health_careers-job-ct-hartford-associate-software-development-engineer_r0699201-1-2026-01-16-1",
+      "jobId": "cvshealth-wd1-myworkdayjobs-com-en-us-cvs_health_careers-job-ct-hartford-associate-software-development-engineer_r0699201-1",
+      "company": "CVS Health",
+      "title": "Associate Software Development Engineer",
+      "postedToDiscord": "2026-01-16T18:49:16.141Z",
+      "sourceDate": "2025-08-29T18:39:52.000Z",
+      "sourceUrl": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1",
+      "discordThreadId": "1461794436752085117",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-sierra-6a75b530-b7bb-4439-bb67-37b4f2b75b96-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-sierra-6a75b530-b7bb-4439-bb67-37b4f2b75b96-application",
+      "company": "Sierra",
+      "title": "Software Engineer – New Grad - Agent",
+      "postedToDiscord": "2026-01-16T18:49:22.648Z",
+      "sourceDate": "2025-09-01T22:39:05.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96/application",
+      "discordThreadId": "1461794464983945246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-netic-f645d611-ae5f-40cc-bfa8-613286060a76-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-netic-f645d611-ae5f-40cc-bfa8-613286060a76-application",
+      "company": "Netic",
+      "title": "Machine Learning Engineer – New Grad",
+      "postedToDiscord": "2026-01-16T18:49:26.222Z",
+      "sourceDate": "2025-08-31T22:07:51.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76/application",
+      "discordThreadId": "1461794479886569767",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2037,
+    "totalJobs": 2044,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T18:29:19.127Z",
+      "date": "2026-01-16T18:49:26.222Z",
       "archived": 0
     }
   }
