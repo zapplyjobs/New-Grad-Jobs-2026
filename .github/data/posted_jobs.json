@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T06:29:11.358Z",
+  "lastUpdated": "2026-01-16T06:51:24.028Z",
   "jobs": [
     {
       "id": "swa-wd1-myworkdayjobs-com-external-job-tx-dallas-associate-data-engineer-direct-college-hire_r-2025-62511-2026-01-09-1",
@@ -21473,14 +21473,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/openai/b83a4808-66ef-4014-b4eb-a7833c39f4c6/application",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-siftstack-da9e9490-4156-4390-b9ed-54e215c894b6-application-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-siftstack-da9e9490-4156-4390-b9ed-54e215c894b6-application",
+      "company": "SIFT",
+      "title": "Software Engineer – New College Graduate",
+      "postedToDiscord": "2026-01-16T06:50:45.389Z",
+      "sourceDate": "2025-09-23T09:06:35.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "costar-wd1-myworkdayjobs-com-confidential-job-us-ca-san-diego-associate-software-engineer-san-diego-ca_r37014-1-2026-01-16-1",
+      "jobId": "costar-wd1-myworkdayjobs-com-confidential-job-us-ca-san-diego-associate-software-engineer-san-diego-ca_r37014-1",
+      "company": "CoStar Group",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-16T06:50:48.865Z",
+      "sourceDate": "2025-09-22T06:32:03.000Z",
+      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
+      "discordThreadId": "1461613632889557202",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-siftstack-da9e9490-4156-4390-b9ed-54e215c894b6-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-siftstack-da9e9490-4156-4390-b9ed-54e215c894b6",
+      "company": "Sift",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-16T06:50:52.280Z",
+      "sourceDate": "2025-09-22T06:08:26.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6",
+      "discordThreadId": "1461613647347581041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-lambda-1147c640-8d1b-4e92-8d39-63982f3f88d7-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-lambda-1147c640-8d1b-4e92-8d39-63982f3f88d7",
+      "company": "Lambda",
+      "title": "Cloud Support Engineer I (Support Response)",
+      "postedToDiscord": "2026-01-16T06:50:55.818Z",
+      "sourceDate": "2025-09-22T06:07:32.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/lambda/1147c640-8d1b-4e92-8d39-63982f3f88d7",
+      "discordThreadId": "1461613661641773252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-january-2026-start-date_jr100120-2026-01-16-1",
+      "jobId": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-january-2026-start-date_jr100120",
+      "company": "Ovative Group",
+      "title": "Analyst, Data & Software Engineering",
+      "postedToDiscord": "2026-01-16T06:50:59.535Z",
+      "sourceDate": "2025-09-22T06:02:39.000Z",
+      "sourceUrl": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---January-2026-Start-Date_JR100120",
+      "discordThreadId": "1461613676481085441",
+      "instanceNumber": 1
+    },
+    {
+      "id": "td-wd3-myworkdayjobs-com-en-us-td_bank_careers-job-new-york-new-york-xmlname-2026-full-time-analyst-rotational-program-software-engineering_r_1446300-2026-01-16-1",
+      "jobId": "td-wd3-myworkdayjobs-com-en-us-td_bank_careers-job-new-york-new-york-xmlname-2026-full-time-analyst-rotational-program-software-engineering_r_1446300",
+      "company": "TD",
+      "title": "Analyst Rotational Program – Software Engineering",
+      "postedToDiscord": "2026-01-16T06:51:03.372Z",
+      "sourceDate": "2025-09-22T06:01:19.000Z",
+      "sourceUrl": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Full-Time-Analyst-Rotational-Program---Software-Engineering_R_1446300",
+      "discordThreadId": "1461613692213792810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-machine-learning-engineer_r160133-2026-01-16-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-seattle-xmlname-2026-university-graduate-machine-learning-engineer_r160133",
+      "company": "Adobe",
+      "title": "University Graduate - Machine Learning Engineer",
+      "postedToDiscord": "2026-01-16T06:51:09.843Z",
+      "sourceDate": "2025-09-23T03:20:05.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
+      "discordThreadId": "1461613720936648887",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-berkley-icims-com-jobs-13282-job-2026-01-16-1",
+      "jobId": "careers-berkley-icims-com-jobs-13282-job",
+      "company": "W.R. Berkley",
+      "title": "Data Science Engineer",
+      "postedToDiscord": "2026-01-16T06:51:13.922Z",
+      "sourceDate": "2025-09-22T12:25:39.000Z",
+      "sourceUrl": "https://careers-berkley.icims.com/jobs/13282/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461613735524306974",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jadeglobal-wd5-myworkdayjobs-com-en-us-jade_careers-job-ogden-ut-data-ai-engineer-intern_r-103685-2026-01-16-1",
+      "jobId": "jadeglobal-wd5-myworkdayjobs-com-en-us-jade_careers-job-ogden-ut-data-ai-engineer-intern_r-103685",
+      "company": "Jade Global",
+      "title": "Data/Ai Engineer Intern",
+      "postedToDiscord": "2026-01-16T06:51:17.407Z",
+      "sourceDate": "2025-09-22T06:10:42.000Z",
+      "sourceUrl": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
+      "discordThreadId": "1461613752280547453",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northmark-wd108-myworkdayjobs-com-en-us-nms-job-graduate-program_r12714-2026-01-16-1",
+      "jobId": "northmark-wd108-myworkdayjobs-com-en-us-nms-job-graduate-program_r12714",
+      "company": "NorthMark Strategies",
+      "title": "Graduate Engineering Program",
+      "postedToDiscord": "2026-01-16T06:51:24.028Z",
+      "sourceDate": "2025-09-22T23:55:51.000Z",
+      "sourceUrl": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714",
+      "discordThreadId": "1461613779845513230",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1952,
+    "totalJobs": 1962,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T06:29:11.358Z",
+      "date": "2026-01-16T06:51:24.028Z",
       "archived": 0
     }
   }
