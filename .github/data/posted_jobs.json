@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T09:58:15.230Z",
+  "lastUpdated": "2026-01-16T11:53:10.363Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply-2026-01-09-1",
-      "jobId": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply",
-      "company": "RWS",
-      "title": "Search Quality Rater - English - Florida",
-      "postedToDiscord": "2026-01-09T10:26:15.001Z",
-      "sourceDate": "2026-01-02T23:19:46.000Z",
-      "sourceUrl": "https://jobs.lever.co/rws/8a6af812-0d04-4b9e-8287-9868e3f51db3/apply",
-      "discordThreadId": "1459131128047734961",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-google-com-about-careers-applications-jobs-results-91697964845540038-2026-01-09-1",
-      "jobId": "www-google-com-about-careers-applications-jobs-results-91697964845540038",
-      "company": "Google",
-      "title": "Software Engineer 3 - Security/Privacy - Google Cloud Security and Privacy",
-      "postedToDiscord": "2026-01-09T10:26:21.652Z",
-      "sourceDate": "2025-12-05T23:05:56.000Z",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/91697964845540038",
-      "discordThreadId": "1459131161069752494",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-ewmy-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2925-2026-01-09-1",
-      "jobId": "fa-ewmy-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2925",
-      "company": "Verisk",
-      "title": "Software Engineer 2 in Test",
-      "postedToDiscord": "2026-01-09T10:54:39.628Z",
-      "sourceDate": "2025-12-19T23:10:44.000Z",
-      "sourceUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2925",
-      "discordThreadId": "1459138283060592776",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amazon-jobs-en-jobs-3144341-software-development-engineer-amazon-leo-us-2026-01-09-1",
-      "jobId": "amazon-jobs-en-jobs-3144341-software-development-engineer-amazon-leo-us",
-      "company": "Amazon",
-      "title": "Software Development Engineer - Amazon Leo - US",
-      "postedToDiscord": "2026-01-09T11:51:18.811Z",
-      "sourceDate": "2025-12-16T23:15:15.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
-      "discordThreadId": "1459152547502624951",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-gohighlevel-b4af6df2-340f-44e5-a047-de30299159d1-2026-01-09-1",
       "jobId": "jobs-lever-co-gohighlevel-b4af6df2-340f-44e5-a047-de30299159d1",
@@ -22254,16 +22210,37 @@
       "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Machine-Learning-Engineer--Engineering-Scientist-Associate-_R_00041479",
       "discordThreadId": "1461660802133004464",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-scaleai-jobs-4605996005-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-scaleai-jobs-4605996005",
+      "company": "Scale AI",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-16T11:53:07.005Z",
+      "sourceDate": "2025-09-09T01:40:23.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+      "discordThreadId": "1461689708928172112",
+      "instanceNumber": 1
+    },
+    {
+      "id": "badgermeter-wd5-myworkdayjobs-com-us_careersite-job-milwaukee-wi-systems-engineer_4003-2026-01-16-1",
+      "jobId": "badgermeter-wd5-myworkdayjobs-com-us_careersite-job-milwaukee-wi-systems-engineer_4003",
+      "company": "Badger Meter",
+      "title": "Systems Engineer",
+      "postedToDiscord": "2026-01-16T11:53:10.362Z",
+      "sourceDate": "2025-09-06T00:39:40.000Z",
+      "sourceUrl": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Systems-Engineer_4003",
+      "discordThreadId": "1461689724165951508",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2023,
+    "totalJobs": 2021,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T09:58:15.230Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-16T11:53:10.363Z",
+      "archived": 0
     }
   }
 }
