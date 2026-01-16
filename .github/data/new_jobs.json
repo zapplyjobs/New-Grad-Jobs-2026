@@ -1,37 +1,5 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "Fanatics",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Overview As a Software Engineer I at Fanatics Betting & Gaming (FBG), you’ll be joining a group of engineers responsible for transforming raw data into rich, real-time product experiences across Sportsbook and Casino. Our mission is to build foundational APIs, data pipelines, and service layers that power personalized recommendations, live search, and betting interfaces used by millions of fans. As part of this team, you'll help design and scale backend services that bridge the gap between live sports data, internal content systems, and customer-facing applications. You'll work closely with engineers, data scientists, and product managers to build reliable, low-latency systems that deliver accurate and timely sports experiences — from live odds and search results to real-time box scores. This role is perfect for someone who’s building on existing backend experience and wants to deepen their expertise in data-driven systems while solving complex technical problems in a fast-moving, ...",
-    "job_apply_link": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25033",
-    "job_posted_at_datetime_utc": "2025-10-04T15:07:45.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25033",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Campus Graduate - Software Engineer II - Technology",
-    "employer_name": "American Express",
-    "job_city": "NYC",
-    "job_state": "Locations",
-    "job_description": "Join American Express in this exciting opportunity.",
-    "job_apply_link": "https://aexp.eightfold.ai/careers/job/38270711",
-    "job_posted_at_datetime_utc": "2025-10-03T02:53:48.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "aexp-eightfold-ai-careers-job-38270711",
-    "description_platform": "generic",
-    "description_success": false
-  },
-  {
     "job_title": "Postdoctoral Scholar",
     "employer_name": "PennState University",
     "job_city": "State College",
@@ -158,5 +126,37 @@
     "id": "yuzu-health-careers-c379c43c-8942-41df-ab40-3c5ee7fe4080",
     "description_platform": "generic",
     "description_success": false
+  },
+  {
+    "job_title": "Product Engineer",
+    "employer_name": "Yuzu Health",
+    "job_city": "New York City",
+    "job_state": "Locations",
+    "job_description": "Join Yuzu Health in this exciting opportunity.",
+    "job_apply_link": "https://yuzu.health/careers/bddd5ff3-3478-497b-b849-76256992b89f",
+    "job_posted_at_datetime_utc": "2025-10-01T17:20:51.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "yuzu-health-careers-bddd5ff3-3478-497b-b849-76256992b89f",
+    "description_platform": "generic",
+    "description_success": false
+  },
+  {
+    "job_title": "Software Engineer, Agent",
+    "employer_name": "Sierra",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "About us At Sierra, we’re creating a platform to help businesses build better, more human customer experiences with AI. We are primarily an in-person company based in San Francisco, with growing offices in Atlanta, New York, London, France, Singapore, and Japan. We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do. Our co-founders are Bret Taylor and Clay Bavor . Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. What you’ll do Design and deliver production-grade AI agents : You'll build and ship highly performant, reliable, and intuitive AI agents that are central, mission-critical and drive revenue directly to Sierra's growth. These aren't prototypes—they are powerful, scalable systems running in production environments across industries like finance, healthcare, and commerce. Drive the Agent Development Life Cycle (ADLC): You'll have complete ownership and autonomy from initial pilot through deployment and continuous iteration. You'll be responsible for building, tuning, and evolving AI agents in production environments, defining the standard for ADLC best practices along the way. Partner with large enterprises and cutting-edge startups: You’ll work directly with leaders at some of the world’s largest enterprises to understand their most pressing business challenges, and build AI agents that transform how they operate at scale. You'll also partner with the most cutting-edge startups in Silicon Valley, embedding AI agents across their entire business stack to drive innovation and efficiency. Build the future of the platform: Your direct work with customers will guide the evolution of Sierra's core platform. You'll surface unmet needs, prototype new tools and features, and collaborate with research, product, and platform to shape the future of AI agent development and Sierra's product. Example projects These are some examples of projects that engineers on our team have worked on recently: Design and build AI agents for large telecommunications and media companies that consistently outperform human agents in managing subscription churn Develop and refine AI agents capable of navigating complex customer interactions, like troubleshooting a broken device and personalizing product recommendations Create generalizable AI agent frameworks tailored for industry-specific use cases. See some examples in our financial services blog ! Facilitate design partnerships for new product initiatives, such as new agent architectures, self-service capabilities, and generative agent development Experiment with the latest voice models and figure out how to integrate them at scale to enterprise-grade customers What you'll bring Experience building and scaling end-to-end production systems Strong technical problem-solving skills, especially in fast-changing, ambiguous environments A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship Comfort working directly with customers to understand their needs and solve real-world problems Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences Even better... Experience building or deploying AI/LLM systems in production Have been a founder or founding engineer - you know what it means to balance craft, ownership, and speed Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering Prior experience with React, TypeScript, and/or Go Previous roles where you interfaced with customers or led technical projects with external stakeholders Our values Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work. Customer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it. Craftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve. Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time. Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements. What we offer We want our benefits to reflect our values and offer the following to full-time employees: Flexible (Unlimited) Paid Time Off Medical, Dental, and Vision benefits for you and your family Life Insurance and Disability Benefits Retirement Plan (e.g., 401K, pension) with Sierra match Parental Leave Fertility and family building benefits through Carrot Lunch, as well as delicious snacks and coffee to keep you energized Discretionary Benefit Stipend giving people the ability to spend where it matters most Free alphorn lessons These benefits are further detailed in Sierra's policies and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies. Be you, with us We're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply even if your experience doesn't precisely match the job description. We strive to evaluate all applicants consistently without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.",
+    "job_apply_link": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+    "job_posted_at_datetime_utc": "2025-10-01T14:42:20.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "jobs-ashbyhq-com-sierra-6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+    "description_platform": "ashby",
+    "description_success": true
   }
 ]

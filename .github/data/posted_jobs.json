@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T04:21:27.576Z",
+  "lastUpdated": "2026-01-16T04:49:19.159Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5043427008-2026-01-09-1",
@@ -21011,14 +21011,124 @@
       "sourceUrl": "https://aexp.eightfold.ai/careers/job/38270711",
       "discordThreadId": "1461576046771048652",
       "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000072094-1-2026-01-16-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000072094-1",
+      "company": "PennState University",
+      "title": "Postdoctoral Scholar",
+      "postedToDiscord": "2026-01-16T04:48:44.456Z",
+      "sourceDate": "2025-10-02T16:46:42.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1",
+      "discordThreadId": "1461582911886196831",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req333189-2026-01-16-1",
+      "jobId": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req333189",
+      "company": "T-Mobile",
+      "title": "Associate AI Engineer",
+      "postedToDiscord": "2026-01-16T04:48:47.983Z",
+      "sourceDate": "2025-10-02T13:26:11.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ333189",
+      "discordThreadId": "1461582926318669845",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-sierra-6a75b530-b7bb-4439-bb67-37b4f2b75b96-2026-01-16-1",
+      "jobId": "jobs-ashbyhq-com-sierra-6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "postedToDiscord": "2026-01-16T04:48:51.480Z",
+      "sourceDate": "2025-10-01T14:42:20.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+      "discordThreadId": "1461582941019963495",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-en-us-northrop_grumman_external_site-job-united-states-minnesota-plymouth-associate-embedded-software-engineer_r10208121-1-2026-01-16-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-en-us-northrop_grumman_external_site-job-united-states-minnesota-plymouth-associate-embedded-software-engineer_r10208121-1",
+      "company": "Northrop Grumman",
+      "title": "Associate Embedded Software Engineer",
+      "postedToDiscord": "2026-01-16T04:48:58.139Z",
+      "sourceDate": "2025-10-02T13:28:03.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Associate-Embedded-Software-Engineer_R10208121-1",
+      "discordThreadId": "1461582969331519650",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-momentumcareers-jobs-8c2a6494-73a1-445c-84aa-4dc824d8895e-2026-01-16-1",
+      "jobId": "ats-rippling-com-momentumcareers-jobs-8c2a6494-73a1-445c-84aa-4dc824d8895e",
+      "company": "Momentum Engineering",
+      "title": "Software Engineer 0",
+      "postedToDiscord": "2026-01-16T04:49:01.589Z",
+      "sourceDate": "2025-10-01T18:10:27.000Z",
+      "sourceUrl": "https://ats.rippling.com/momentumcareers/jobs/8c2a6494-73a1-445c-84aa-4dc824d8895e",
+      "discordThreadId": "1461582983898075208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-trmlabs-jobs-5662998004-2026-01-16-1",
+      "jobId": "job-boards-greenhouse-io-trmlabs-jobs-5662998004",
+      "company": "TRM Labs",
+      "title": "University Grad - Product Engineer - 2026",
+      "postedToDiscord": "2026-01-16T04:49:05.366Z",
+      "sourceDate": "2025-10-01T17:31:21.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/trmlabs/jobs/5662998004",
+      "discordThreadId": "1461582998360293581",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-875a76b8-fb1b-4fc0-9478-0127635ae322-2026-01-16-1",
+      "jobId": "yuzu-health-careers-875a76b8-fb1b-4fc0-9478-0127635ae322",
+      "company": "Yuzu Health",
+      "title": "Fullstack Software Engineer",
+      "postedToDiscord": "2026-01-16T04:49:09.088Z",
+      "sourceDate": "2025-10-01T17:22:33.000Z",
+      "sourceUrl": "https://yuzu.health/careers/875a76b8-fb1b-4fc0-9478-0127635ae322",
+      "discordThreadId": "1461583014499717234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-2bfc1773-e826-4a87-9b5f-7f79e1507ae6-2026-01-16-1",
+      "jobId": "yuzu-health-careers-2bfc1773-e826-4a87-9b5f-7f79e1507ae6",
+      "company": "Yuzu Health",
+      "title": "Design Engineer",
+      "postedToDiscord": "2026-01-16T04:49:12.463Z",
+      "sourceDate": "2025-10-01T17:22:04.000Z",
+      "sourceUrl": "https://yuzu.health/careers/2bfc1773-e826-4a87-9b5f-7f79e1507ae6",
+      "discordThreadId": "1461583029712457862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-c379c43c-8942-41df-ab40-3c5ee7fe4080-2026-01-16-1",
+      "jobId": "yuzu-health-careers-c379c43c-8942-41df-ab40-3c5ee7fe4080",
+      "company": "Yuzu Health",
+      "title": "Pricing Engineer",
+      "postedToDiscord": "2026-01-16T04:49:15.837Z",
+      "sourceDate": "2025-10-01T17:21:30.000Z",
+      "sourceUrl": "https://yuzu.health/careers/c379c43c-8942-41df-ab40-3c5ee7fe4080",
+      "discordThreadId": "1461583043910303824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "yuzu-health-careers-bddd5ff3-3478-497b-b849-76256992b89f-2026-01-16-1",
+      "jobId": "yuzu-health-careers-bddd5ff3-3478-497b-b849-76256992b89f",
+      "company": "Yuzu Health",
+      "title": "Product Engineer",
+      "postedToDiscord": "2026-01-16T04:49:19.158Z",
+      "sourceDate": "2025-10-01T17:20:51.000Z",
+      "sourceUrl": "https://yuzu.health/careers/bddd5ff3-3478-497b-b849-76256992b89f",
+      "discordThreadId": "1461583057990455316",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1910,
+    "totalJobs": 1920,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T04:21:27.576Z",
+      "date": "2026-01-16T04:49:19.159Z",
       "archived": 0
     }
   }
