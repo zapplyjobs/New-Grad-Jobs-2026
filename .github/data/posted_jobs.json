@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T06:28:00.319Z",
+  "lastUpdated": "2026-01-17T06:47:28.403Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -25235,14 +25235,91 @@
       "sourceUrl": "https://lifeattiktok.com/search/7530979904155683079",
       "discordThreadId": "1461970281034809470",
       "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7533292831260920082-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7533292831260920082",
+      "company": "TikTok",
+      "title": "Data Engineer Graduate - E-commerce - 2026 Start",
+      "postedToDiscord": "2026-01-17T06:47:01.597Z",
+      "sourceDate": "2025-08-07T08:16:16.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533292831260920082",
+      "discordThreadId": "1461975065917788303",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7533377193083177234-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7533377193083177234-detail",
+      "company": "ByteDance",
+      "title": "Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US",
+      "postedToDiscord": "2026-01-17T06:47:08.080Z",
+      "sourceDate": "2025-08-07T06:19:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533377193083177234/detail",
+      "discordThreadId": "1461975094292119595",
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-postdoctoral-fellow-in-water-systems-ml-_r_00041178-1-2026-01-17-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-postdoctoral-fellow-in-water-systems-ml-_r_00041178-1",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow in Water Systems - Ml",
+      "postedToDiscord": "2026-01-17T06:47:11.499Z",
+      "sourceDate": "2025-08-07T04:44:31.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1",
+      "discordThreadId": "1461975109232234506",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-sustainabletalent-jobs-4593442005-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-sustainabletalent-jobs-4593442005",
+      "company": "Sustainable Talent",
+      "title": "Data Operations Specialist - GenAI Annotation",
+      "postedToDiscord": "2026-01-17T06:47:14.945Z",
+      "sourceDate": "2025-08-05T21:53:19.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sustainabletalent/jobs/4593442005",
+      "discordThreadId": "1461975123539136633",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-brm-ai-05cad7f7-2194-480d-8e70-7338cfd2a189-application-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-brm-ai-05cad7f7-2194-480d-8e70-7338cfd2a189-application",
+      "company": "BRM",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T06:47:18.569Z",
+      "sourceDate": "2025-08-05T10:30:31.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application",
+      "discordThreadId": "1461975138080657459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-fiveringsllc-jobs-4816999008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-fiveringsllc-jobs-4816999008",
+      "company": "Five Rings",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-17T06:47:24.977Z",
+      "sourceDate": "2025-08-07T04:38:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008",
+      "discordThreadId": "1461975165784166529",
+      "instanceNumber": 1
+    },
+    {
+      "id": "app-ripplematch-com-v2-public-job-340fb9c1-2026-01-17-1",
+      "jobId": "app-ripplematch-com-v2-public-job-340fb9c1",
+      "company": "Reddit",
+      "title": "Software Engineer - New Grad",
+      "postedToDiscord": "2026-01-17T06:47:28.403Z",
+      "sourceDate": "2025-08-07T04:29:40.000Z",
+      "sourceUrl": "https://app.ripplematch.com/v2/public/job/340fb9c1",
+      "discordThreadId": "1461975180195663913",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2294,
+    "totalJobs": 2301,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T06:28:00.319Z",
+      "date": "2026-01-17T06:47:28.403Z",
       "archived": 0
     }
   }
