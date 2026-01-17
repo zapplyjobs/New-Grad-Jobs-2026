@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T11:51:30.446Z",
+  "lastUpdated": "2026-01-17T13:43:33.238Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26489,14 +26489,91 @@
       "sourceUrl": "https://jobs.ashbyhq.com/railway/541836a1-6d3f-47bf-845f-5f48fe547568",
       "discordThreadId": "1462051691963613346",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-e0f3ee8b-0030-4506-a6e2-da0710d90a05-2026-01-17-1",
+      "jobId": "jobs-lever-co-nominal-e0f3ee8b-0030-4506-a6e2-da0710d90a05",
+      "company": "nominal",
+      "title": "Software Engineer - Mission Dev",
+      "postedToDiscord": "2026-01-17T13:43:21.064Z",
+      "sourceDate": "2025-05-01T18:37:11.417Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/e0f3ee8b-0030-4506-a6e2-da0710d90a05",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-0a938c16-c497-4104-8196-137c38306d81-2026-01-17-1",
+      "jobId": "jobs-lever-co-nominal-0a938c16-c497-4104-8196-137c38306d81",
+      "company": "nominal",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-17T13:43:21.089Z",
+      "sourceDate": "2024-10-29T21:42:05.811Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/0a938c16-c497-4104-8196-137c38306d81",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-39371884-5911-4c38-9c93-c7d2bece220a-2026-01-17-1",
+      "jobId": "jobs-lever-co-nominal-39371884-5911-4c38-9c93-c7d2bece220a",
+      "company": "nominal",
+      "title": "Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-17T13:43:21.117Z",
+      "sourceDate": "2024-04-11T22:41:47.943Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/39371884-5911-4c38-9c93-c7d2bece220a",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-142135ae-a15f-4ec7-90bb-cb4e7968bc09-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-142135ae-a15f-4ec7-90bb-cb4e7968bc09",
+      "company": "supabase",
+      "title": "Support Engineer (APAC)",
+      "postedToDiscord": "2026-01-17T13:43:22.929Z",
+      "sourceDate": "2025-03-20T18:51:09.252+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09",
+      "discordThreadId": "1462079853569249376",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
+      "company": "supabase",
+      "title": "Support Engineer (AMER)",
+      "postedToDiscord": "2026-01-17T13:43:24.914Z",
+      "sourceDate": "2025-01-15T16:41:31.938+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
+      "discordThreadId": "1462079861173780523",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-7d42f0e8-15a5-453d-8992-9e8638846077-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-railway-7d42f0e8-15a5-453d-8992-9e8638846077",
+      "company": "railway",
+      "title": "Developer Relations",
+      "postedToDiscord": "2026-01-17T13:43:29.759Z",
+      "sourceDate": "2024-12-02T21:09:38.607+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/7d42f0e8-15a5-453d-8992-9e8638846077",
+      "discordThreadId": "1462079870187339828",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-b8072f95-043f-404d-a313-f0bdf8dd3c81-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-railway-b8072f95-043f-404d-a313-f0bdf8dd3c81",
+      "company": "railway",
+      "title": "Infrastructure Engineer",
+      "postedToDiscord": "2026-01-17T13:43:33.238Z",
+      "sourceDate": "2024-06-03T19:11:47.266+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/b8072f95-043f-404d-a313-f0bdf8dd3c81",
+      "discordThreadId": "1462079890172940288",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2408,
+    "totalJobs": 2415,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T11:51:30.446Z",
+      "date": "2026-01-17T13:43:33.238Z",
       "archived": 0
     }
   }
