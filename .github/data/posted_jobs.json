@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T17:38:52.766Z",
+  "lastUpdated": "2026-01-17T18:45:48.331Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26610,14 +26610,69 @@
       "sourceUrl": "https://jobs.lever.co/spotify/35de0846-f4bb-4975-8f21-382b44aa0e40",
       "discordThreadId": "1462139111732150433",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-d5573afa-636c-4219-832f-386f498243bf-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-d5573afa-636c-4219-832f-386f498243bf",
+      "company": "supabase",
+      "title": "Customer Solution Architect (US time zones)",
+      "postedToDiscord": "2026-01-17T18:45:34.368Z",
+      "sourceDate": "2024-11-14T17:58:07.662+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/d5573afa-636c-4219-832f-386f498243bf",
+      "discordThreadId": "1462155901870936280",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5007627007-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5007627007",
+      "company": "verkada",
+      "title": "Enterprise Sales Account Executive,  State",
+      "postedToDiscord": "2026-01-17T18:45:37.870Z",
+      "sourceDate": "2026-01-05T14:06:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5007627007",
+      "discordThreadId": "1462155909684924572",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5007620007-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5007620007",
+      "company": "verkada",
+      "title": "Enterprise Sales Account Executive,  State",
+      "postedToDiscord": "2026-01-17T18:45:37.886Z",
+      "sourceDate": "2026-01-05T14:05:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5007620007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5752781004-2026-01-17-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5752781004",
+      "company": "figma",
+      "title": "Director, Corporate & Securities Counsel",
+      "postedToDiscord": "2026-01-17T18:45:41.786Z",
+      "sourceDate": "2026-01-12T14:14:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5752781004?gh_jid=5752781004",
+      "discordThreadId": "1462155925615018097",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-6ddcfe47-6cce-469b-ba6d-4f0e83440c9d-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-railway-6ddcfe47-6cce-469b-ba6d-4f0e83440c9d",
+      "company": "railway",
+      "title": "Senior Full-Stack Engineer - Product",
+      "postedToDiscord": "2026-01-17T18:45:48.331Z",
+      "sourceDate": "2024-02-07T20:30:20.299+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d",
+      "discordThreadId": "1462155953708339419",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2419,
+    "totalJobs": 2424,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T17:38:52.766Z",
+      "date": "2026-01-17T18:45:48.331Z",
       "archived": 0
     }
   }
