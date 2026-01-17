@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T19:52:43.838Z",
+  "lastUpdated": "2026-01-17T20:10:18.930Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26896,14 +26896,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531467",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-kimley-horn-icims-com-jobs-21338-job-2026-01-17-1",
+      "jobId": "careers-kimley-horn-icims-com-jobs-21338-job",
+      "company": "Kimley-Horn",
+      "title": "Landscape Architecture Analyst",
+      "postedToDiscord": "2026-01-17T20:09:32.549Z",
+      "sourceDate": "2026-01-12T23:16:22.000Z",
+      "sourceUrl": "https://careers-kimley-horn.icims.com/jobs/21338/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462177026709389404",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fiserv-wd5-myworkdayjobs-com-ext-job-omaha-nebraska-technology-analyst-program-omaha-ne-_r-10385188-2026-01-17-1",
+      "jobId": "fiserv-wd5-myworkdayjobs-com-ext-job-omaha-nebraska-technology-analyst-program-omaha-ne-_r-10385188",
+      "company": "Fiserv",
+      "title": "Technology Analyst Program",
+      "postedToDiscord": "2026-01-17T20:09:39.537Z",
+      "sourceDate": "2026-01-12T23:14:43.000Z",
+      "sourceUrl": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Technology-Analyst-Program--Omaha--NE-_R-10385188",
+      "discordThreadId": "1462177055369330918",
+      "instanceNumber": 1
+    },
+    {
+      "id": "liberty-wd5-myworkdayjobs-com-lu_job_board_staff-job-lynchburg-va-electronic-resources-data-analyst-i-for-jfl_r0009510-2026-01-17-1",
+      "jobId": "liberty-wd5-myworkdayjobs-com-lu_job_board_staff-job-lynchburg-va-electronic-resources-data-analyst-i-for-jfl_r0009510",
+      "company": "Liberty University",
+      "title": "Electronic Resources Data Analyst 1",
+      "postedToDiscord": "2026-01-17T20:09:43.077Z",
+      "sourceDate": "2026-01-12T23:01:52.000Z",
+      "sourceUrl": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/Electronic-Resources-Data-Analyst-I-for-JFL_R0009510",
+      "discordThreadId": "1462177070695186525",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-2ffdbe48-35eb-43c0-a13a-94e4c16d7019-application-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-2ffdbe48-35eb-43c0-a13a-94e4c16d7019-application",
+      "company": "Jerry",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-17T20:09:49.526Z",
+      "sourceDate": "2026-01-12T23:13:00.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/2ffdbe48-35eb-43c0-a13a-94e4c16d7019/application",
+      "discordThreadId": "1462177098381656228",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-mcdonalds-com-job-chicago-software-engineer-i-react-c-il-60607-1355423100-2026-01-17-1",
+      "jobId": "jobs-mcdonalds-com-job-chicago-software-engineer-i-react-c-il-60607-1355423100",
+      "company": "McDonald's",
+      "title": "Software Engineer 1 - React/ C#",
+      "postedToDiscord": "2026-01-17T20:09:53.001Z",
+      "sourceDate": "2026-01-12T23:11:26.000Z",
+      "sourceUrl": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-(React-C)-IL-60607/1355423100/?ats=successfactors",
+      "discordThreadId": "1462177112973643816",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7095084-2026-01-17-1",
+      "jobId": "careers-datadoghq-com-detail-7095084",
+      "company": "datadog",
+      "title": "Premier Support Engineer 2 - New York",
+      "postedToDiscord": "2026-01-17T20:09:56.376Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7095084/?gh_jid=7095084",
+      "discordThreadId": "1462177127381074025",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7593345683353012485-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7593345683353012485-detail",
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate - Foundation Model - Generative AI",
+      "postedToDiscord": "2026-01-17T20:10:02.810Z",
+      "sourceDate": "2026-01-12T23:13:00.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7593345683353012485/detail",
+      "discordThreadId": "1462177154250047541",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-richmond-va-applications-analyst-associate_r40772-1-2026-01-17-1",
+      "jobId": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-richmond-va-applications-analyst-associate_r40772-1",
+      "company": "VCU Health",
+      "title": "Applications Analyst Associate",
+      "postedToDiscord": "2026-01-17T20:10:09.164Z",
+      "sourceDate": "2026-01-12T23:07:37.000Z",
+      "sourceUrl": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Richmond-VA/Applications-Analyst-Associate_R40772-1",
+      "discordThreadId": "1462177181160702135",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-usesalvationarmy-icims-com-jobs-14729-job-2026-01-17-1",
+      "jobId": "careers-usesalvationarmy-icims-com-jobs-14729-job",
+      "company": "The Salvation Army",
+      "title": "Recreation Assistant",
+      "postedToDiscord": "2026-01-17T20:10:12.558Z",
+      "sourceDate": "2025-10-10T00:54:03.000Z",
+      "sourceUrl": "https://careers-usesalvationarmy.icims.com/jobs/14729/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462177194896785523",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055264008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055264008",
+      "company": "anthropic",
+      "title": "Product Operations Manager, Claude Code",
+      "postedToDiscord": "2026-01-17T20:10:18.929Z",
+      "sourceDate": "2026-01-05T18:35:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055264008",
+      "discordThreadId": "1462177222163955844",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2445,
+    "totalJobs": 2455,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T19:52:43.838Z",
+      "date": "2026-01-17T20:10:18.930Z",
       "archived": 0
     }
   }
