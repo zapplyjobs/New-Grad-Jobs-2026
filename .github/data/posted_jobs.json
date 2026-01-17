@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:52:36.324Z",
+  "lastUpdated": "2026-01-17T08:08:15.246Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -25851,14 +25851,212 @@
       "sourceUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002",
       "discordThreadId": "1461991571606999165",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ranger-38ef5184-0c8a-4980-836f-95e23e83ae7d-2026-01-17-1",
+      "jobId": "jobs-lever-co-ranger-38ef5184-0c8a-4980-836f-95e23e83ae7d",
+      "company": "Ranger",
+      "title": "Forward-Deployed Test Engineer",
+      "postedToDiscord": "2026-01-17T08:07:39.600Z",
+      "sourceDate": "2025-07-09T00:54:15.000Z",
+      "sourceUrl": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d",
+      "discordThreadId": "1461995359143198818",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-drweng-jobs-6828054-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-drweng-jobs-6828054",
+      "company": "DRW",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-17T08:07:42.994Z",
+      "sourceDate": "2025-07-07T23:51:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/drweng/jobs/6828054",
+      "discordThreadId": "1461995373999554631",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-careers-microsoft-com-global-en-job-1835561-2026-01-17-1",
+      "jobId": "jobs-careers-microsoft-com-global-en-job-1835561",
+      "company": "Microsoft",
+      "title": "Software Engineer - Fullstack",
+      "postedToDiscord": "2026-01-17T08:07:46.377Z",
+      "sourceDate": "2025-07-07T23:50:30.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1835561/",
+      "discordThreadId": "1461995387983368417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-evlf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-28752-2026-01-17-1",
+      "jobId": "fa-evlf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-28752",
+      "company": "Hertz",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-17T08:07:49.799Z",
+      "sourceDate": "2025-07-04T06:30:55.000Z",
+      "sourceUrl": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28752",
+      "discordThreadId": "1461995402302853171",
+      "instanceNumber": 1
+    },
+    {
+      "id": "statestreet-wd1-myworkdayjobs-com-en-us-global-job-burlington-massachusetts-software-engineer-i_r-774355-1-2026-01-17-1",
+      "jobId": "statestreet-wd1-myworkdayjobs-com-en-us-global-job-burlington-massachusetts-software-engineer-i_r-774355-1",
+      "company": "State Street",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-17T08:07:53.191Z",
+      "sourceDate": "2025-07-03T18:00:04.000Z",
+      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1",
+      "discordThreadId": "1461995416857083975",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zeissgroup-wd3-myworkdayjobs-com-external-job-usa-nc-cornelius-application-engineer_jr_1042522-2026-01-17-1",
+      "jobId": "zeissgroup-wd3-myworkdayjobs-com-external-job-usa-nc-cornelius-application-engineer_jr_1042522",
+      "company": "Zeiss",
+      "title": "Application Engineer",
+      "postedToDiscord": "2026-01-17T08:07:56.873Z",
+      "sourceDate": "2025-07-02T23:27:53.000Z",
+      "sourceUrl": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/USA---NC-Cornelius/Application-Engineer_JR_1042522",
+      "discordThreadId": "1461995430908006493",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-candidhealth-8d1922f8-e89d-433e-a21f-b724eabc003b-application-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-candidhealth-8d1922f8-e89d-433e-a21f-b724eabc003b-application",
+      "company": "Candid Health",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "postedToDiscord": "2026-01-17T08:08:00.270Z",
+      "sourceDate": "2025-07-01T23:44:31.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application",
+      "discordThreadId": "1461995446410018816",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-4abf26b4-795c-420a-bf22-1ab98db268b4-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-4abf26b4-795c-420a-bf22-1ab98db268b4-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Infrastructure",
+      "postedToDiscord": "2026-01-17T08:08:03.907Z",
+      "sourceDate": "2025-07-01T15:56:43.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4/apply",
+      "discordThreadId": "1461995460918251521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-e1a6c138-98bf-45e2-97f7-2c70371cc38a-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-e1a6c138-98bf-45e2-97f7-2c70371cc38a-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Production Infrastructure",
+      "postedToDiscord": "2026-01-17T08:08:03.923Z",
+      "sourceDate": "2025-07-01T15:56:41.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-4d5a144e-87ea-45e2-a68c-3fad590629af-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-4d5a144e-87ea-45e2-a68c-3fad590629af-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Production Infrastructure",
+      "postedToDiscord": "2026-01-17T08:08:03.940Z",
+      "sourceDate": "2025-07-01T15:56:41.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-0a838e66-1ab0-4fc4-b4d3-4671c0352278-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-0a838e66-1ab0-4fc4-b4d3-4671c0352278-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Defense",
+      "postedToDiscord": "2026-01-17T08:08:03.954Z",
+      "sourceDate": "2025-07-01T15:56:38.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-18d901fc-93bb-4d18-9f04-c72031e20d79-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-18d901fc-93bb-4d18-9f04-c72031e20d79-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Defense",
+      "postedToDiscord": "2026-01-17T08:08:03.969Z",
+      "sourceDate": "2025-07-01T15:56:38.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-f362d7aa-360d-4059-ab38-f482742693b3-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-f362d7aa-360d-4059-ab38-f482742693b3-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Defense",
+      "postedToDiscord": "2026-01-17T08:08:03.985Z",
+      "sourceDate": "2025-07-01T15:56:37.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-dea9d3d5-75b2-4588-b7bd-585a47b79c8c-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-dea9d3d5-75b2-4588-b7bd-585a47b79c8c-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-17T08:08:03.999Z",
+      "sourceDate": "2025-07-01T15:56:34.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-94984771-0704-446c-88c6-91ce748f6d92-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-94984771-0704-446c-88c6-91ce748f6d92-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-17T08:08:04.015Z",
+      "sourceDate": "2025-07-01T15:56:33.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-palantir-c34b424e-caf2-455a-b104-ae1096ccca29-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-palantir-c34b424e-caf2-455a-b104-ae1096ccca29-apply",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-17T08:08:04.030Z",
+      "sourceDate": "2025-07-01T15:56:32.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-52996c3a-43a8-4195-a5e2-775bdc21db2d-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-52996c3a-43a8-4195-a5e2-775bdc21db2d",
+      "company": "supabase",
+      "title": "Partner Solutions Architect",
+      "postedToDiscord": "2026-01-17T08:08:08.792Z",
+      "sourceDate": "2025-07-08T13:14:26.729+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/52996c3a-43a8-4195-a5e2-775bdc21db2d",
+      "discordThreadId": "1461995488847986802",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewca-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-725-2026-01-17-1",
+      "jobId": "fa-ewca-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-725",
+      "company": "University of Maine System",
+      "title": "Assistant Professor of Computing and Information Science - Machine Learning",
+      "postedToDiscord": "2026-01-17T08:08:15.245Z",
+      "sourceDate": "2025-07-04T16:38:30.000Z",
+      "sourceUrl": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/725",
+      "discordThreadId": "1461995508842365010",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2350,
+    "totalJobs": 2368,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T07:52:36.324Z",
+      "date": "2026-01-17T08:08:15.246Z",
       "archived": 0
     }
   }
