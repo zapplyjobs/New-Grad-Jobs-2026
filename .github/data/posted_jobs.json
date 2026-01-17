@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T23:54:18.855Z",
+  "lastUpdated": "2026-01-17T00:45:22.134Z",
   "jobs": [
-    {
-      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-environmental-engineering-geology-scientist_r00028796-1-2026-01-10-1",
-      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-environmental-engineering-geology-scientist_r00028796-1",
-      "company": "ERM",
-      "title": "Consulting Associate - Environmental Engineering - Geology / Scientist",
-      "postedToDiscord": "2026-01-10T00:11:22.091Z",
-      "sourceDate": "2026-01-09T23:36:38.000Z",
-      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Environmental-Engineering--Geology---Scientist_R00028796-1",
-      "discordThreadId": "1459338781650980925",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202671420-2026-01-10-1",
-      "jobId": "cox-wd1-myworkdayjobs-com-cox_external_career_site_1-job-atlanta-ga-software-engineer-i_r202671420",
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-10T00:11:25.570Z",
-      "sourceDate": "2026-01-09T23:36:03.000Z",
-      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202671420",
-      "discordThreadId": "1459338796570247322",
-      "instanceNumber": 1
-    },
-    {
-      "id": "invenergyllc-wd1-myworkdayjobs-com-en-us-invenergycareers-job-chicago-il-analyst-geospatial-gis-_r10228-1-2026-01-10-1",
-      "jobId": "invenergyllc-wd1-myworkdayjobs-com-en-us-invenergycareers-job-chicago-il-analyst-geospatial-gis-_r10228-1",
-      "company": "Invenergy",
-      "title": "Analyst Geospatial - GIS",
-      "postedToDiscord": "2026-01-10T00:11:32.031Z",
-      "sourceDate": "2026-01-09T23:32:22.000Z",
-      "sourceUrl": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Geospatial--GIS-_R10228-1",
-      "discordThreadId": "1459338823291895903",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-abbvie-3743990011008616-2026-01-10-1",
-      "jobId": "jobs-smartrecruiters-com-abbvie-3743990011008616",
-      "company": "AbbVie",
-      "title": "Data Scientist 2 for Published Clinical Evidence & Competitive Intelligence Insights",
-      "postedToDiscord": "2026-01-10T00:11:38.454Z",
-      "sourceDate": "2026-01-09T23:29:24.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990011008616",
-      "discordThreadId": "1459338850420789290",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-abbvie-3743990011008726-2026-01-10-1",
-      "jobId": "jobs-smartrecruiters-com-abbvie-3743990011008726",
-      "company": "AbbVie",
-      "title": "Data Scientist 2 for Published Clinical Evidence & Competitive Intelligence Insights",
-      "postedToDiscord": "2026-01-10T00:11:38.467Z",
-      "sourceDate": "2026-01-09T23:29:24.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990011008726",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-billiontoone-jobs-4641709005-2026-01-10-1",
-      "jobId": "job-boards-greenhouse-io-billiontoone-jobs-4641709005",
-      "company": "BillionToOne",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-10T00:45:14.916Z",
-      "sourceDate": "2025-12-17T23:39:05.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/billiontoone/jobs/4641709005",
-      "discordThreadId": "1459347306028466370",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-merge-jobs-4069267004-2026-01-10-1",
-      "jobId": "job-boards-greenhouse-io-merge-jobs-4069267004",
-      "company": "Merge",
-      "title": "Integrations Engineer",
-      "postedToDiscord": "2026-01-10T00:45:18.751Z",
-      "sourceDate": "2025-12-12T23:49:19.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/merge/jobs/4069267004",
-      "discordThreadId": "1459347322919194676",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-westinghousenuclear-com-job-cranberry-township-probabilistic-risk-assessment-engineer-nc-1320368800-2026-01-10-1",
       "jobId": "careers-westinghousenuclear-com-job-cranberry-township-probabilistic-risk-assessment-engineer-nc-1320368800",
@@ -24553,15 +24476,49 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/102972473",
       "discordThreadId": "1461871204792275150",
       "instanceNumber": 1
+    },
+    {
+      "id": "cat-wd5-myworkdayjobs-com-en-us-solarturbines-job-san-diego-california-entry-level-controls-software-test-engineer_r0000318546-2026-01-17-1",
+      "jobId": "cat-wd5-myworkdayjobs-com-en-us-solarturbines-job-san-diego-california-entry-level-controls-software-test-engineer_r0000318546",
+      "company": "Solar Turbines",
+      "title": "Entry Level Controls & Software Test Engineer",
+      "postedToDiscord": "2026-01-17T00:45:14.835Z",
+      "sourceDate": "2025-08-12T13:57:04.000Z",
+      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
+      "discordThreadId": "1461884022593556500",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ssctech-wd1-myworkdayjobs-com-en-us-ssctechnologies-job-union-nj-junior-ai-assisted-software-engineer_r36039-2026-01-17-1",
+      "jobId": "ssctech-wd1-myworkdayjobs-com-en-us-ssctechnologies-job-union-nj-junior-ai-assisted-software-engineer_r36039",
+      "company": "SS&C",
+      "title": "Junior AI-Assisted Software Engineer",
+      "postedToDiscord": "2026-01-17T00:45:18.464Z",
+      "sourceDate": "2025-08-12T13:55:27.000Z",
+      "sourceUrl": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+      "discordThreadId": "1461884037118296291",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-360itprofessionals1-99304832-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-360itprofessionals1-99304832",
+      "company": "360 IT Professionals",
+      "title": "Programmer Analyst-.Net Programmer - US Citizen",
+      "postedToDiscord": "2026-01-17T00:45:22.133Z",
+      "sourceDate": "2025-08-12T11:37:48.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/360ITProfessionals1/99304832",
+      "discordThreadId": "1461884052620578958",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2232,
+    "totalJobs": 2228,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-16T23:54:18.855Z",
-      "archived": 0
+      "date": "2026-01-17T00:45:22.134Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
