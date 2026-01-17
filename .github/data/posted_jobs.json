@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T05:42:06.574Z",
+  "lastUpdated": "2026-01-17T05:53:41.623Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -25202,14 +25202,36 @@
       "sourceUrl": "https://lifeattiktok.com/search/7532611737456970002",
       "discordThreadId": "1461958730949201971",
       "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7517107684337748242-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7517107684337748242",
+      "company": "TikTok",
+      "title": "Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
+      "postedToDiscord": "2026-01-17T05:53:38.233Z",
+      "sourceDate": "2025-08-07T08:16:40.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7517107684337748242",
+      "discordThreadId": "1461961631566397703",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7517099008936397064-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7517099008936397064",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM",
+      "postedToDiscord": "2026-01-17T05:53:41.623Z",
+      "sourceDate": "2025-08-07T08:16:28.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7517099008936397064",
+      "discordThreadId": "1461961646129021204",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2291,
+    "totalJobs": 2293,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T05:42:06.574Z",
+      "date": "2026-01-17T05:53:41.623Z",
       "archived": 0
     }
   }
