@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T16:53:43.003Z",
+  "lastUpdated": "2026-01-17T17:38:52.766Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26599,14 +26599,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980530008",
       "discordThreadId": "1462127746741436457",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-35de0846-f4bb-4975-8f21-382b44aa0e40-2026-01-17-1",
+      "jobId": "jobs-lever-co-spotify-35de0846-f4bb-4975-8f21-382b44aa0e40",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, Personalization",
+      "postedToDiscord": "2026-01-17T17:38:52.765Z",
+      "sourceDate": "2024-12-13T17:28:03.259Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/35de0846-f4bb-4975-8f21-382b44aa0e40",
+      "discordThreadId": "1462139111732150433",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2418,
+    "totalJobs": 2419,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T16:53:43.003Z",
+      "date": "2026-01-17T17:38:52.766Z",
       "archived": 0
     }
   }
