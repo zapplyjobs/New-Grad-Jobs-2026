@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T01:56:08.128Z",
+  "lastUpdated": "2026-01-17T02:37:49.272Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -24377,14 +24377,179 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658570182",
       "discordThreadId": "1461901862964953108",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-104232823-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-104232823",
+      "company": "AG Technologies",
+      "title": "Salesforce OBIEE ETL Training and Placement",
+      "postedToDiscord": "2026-01-17T02:37:13.676Z",
+      "sourceDate": "2025-08-12T10:40:50.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/104232823",
+      "discordThreadId": "1461912203769675776",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-andurilindustries-jobs-4776690007-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-andurilindustries-jobs-4776690007",
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Connected Warfare",
+      "postedToDiscord": "2026-01-17T02:37:20.194Z",
+      "sourceDate": "2025-08-12T09:27:51.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
+      "discordThreadId": "1461912230927794362",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-andurilindustries-jobs-4164476007-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-andurilindustries-jobs-4164476007",
+      "company": "Anduril Industries",
+      "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+      "postedToDiscord": "2026-01-17T02:37:23.670Z",
+      "sourceDate": "2025-08-12T09:25:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
+      "discordThreadId": "1461912245461061793",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999652483007-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999652483007",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:30.368Z",
+      "sourceDate": "2025-08-12T08:40:34.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007",
+      "discordThreadId": "1461912272812118126",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999651146019-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999651146019",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:30.385Z",
+      "sourceDate": "2025-08-12T08:36:26.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999659380716-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999659380716",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:30.400Z",
+      "sourceDate": "2025-08-12T08:35:40.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-116232946-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-116232946",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:30.414Z",
+      "sourceDate": "2025-08-12T08:34:39.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/116232946",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999659489800-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999659489800",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:30.434Z",
+      "sourceDate": "2025-08-12T08:30:40.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659489800",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-108734797-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-108734797",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:30.449Z",
+      "sourceDate": "2025-08-12T04:14:00.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999655720227-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999655720227",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:30.462Z",
+      "sourceDate": "2025-08-12T04:11:49.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-92300060-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-92300060",
+      "company": "AG Technologies",
+      "title": "Training & Placement on Informatica/ Microstrategy",
+      "postedToDiscord": "2026-01-17T02:37:33.933Z",
+      "sourceDate": "2025-08-12T08:37:26.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/92300060",
+      "discordThreadId": "1461912288520044817",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-103631768-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-103631768",
+      "company": "AG Technologies",
+      "title": "Software Engineer Position",
+      "postedToDiscord": "2026-01-17T02:37:37.795Z",
+      "sourceDate": "2025-08-12T07:03:43.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103631768",
+      "discordThreadId": "1461912303191724225",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-158789-software-engineering-2c-associate-job-2026-01-17-1",
+      "jobId": "careers-peraton-icims-com-jobs-158789-software-engineering-2c-associate-job",
+      "company": "Peraton",
+      "title": "Software Engineering, Associate",
+      "postedToDiscord": "2026-01-17T02:37:41.879Z",
+      "sourceDate": "2025-08-09T14:04:31.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
+      "discordThreadId": "1461912319691985100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "moog-wd5-myworkdayjobs-com-en-us-moog_external_career_site-job-torrance-ca-eng-assc_r-25-13250-2026-01-17-1",
+      "jobId": "moog-wd5-myworkdayjobs-com-en-us-moog_external_career_site-job-torrance-ca-eng-assc_r-25-13250",
+      "company": "Moog",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:45.316Z",
+      "sourceDate": "2025-08-09T13:59:00.000Z",
+      "sourceUrl": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
+      "discordThreadId": "1461912336238514217",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bmo-wd3-myworkdayjobs-com-en-us-external-job-chicago-il-usa-software-engineer-new-or-recent-graduate-_r250019232-2026-01-17-1",
+      "jobId": "bmo-wd3-myworkdayjobs-com-en-us-external-job-chicago-il-usa-software-engineer-new-or-recent-graduate-_r250019232",
+      "company": "BMO",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-17T02:37:49.272Z",
+      "sourceDate": "2025-08-09T13:53:18.000Z",
+      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
+      "discordThreadId": "1461912351115706536",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2216,
+    "totalJobs": 2231,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T01:56:08.128Z",
+      "date": "2026-01-17T02:37:49.272Z",
       "archived": 0
     }
   }
