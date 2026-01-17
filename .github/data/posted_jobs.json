@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T20:10:18.930Z",
+  "lastUpdated": "2026-01-17T20:54:08.503Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -27006,14 +27006,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055264008",
       "discordThreadId": "1462177222163955844",
       "instanceNumber": 1
+    },
+    {
+      "id": "marvell-wd1-myworkdayjobs-com-marvellcareers2-job-santa-clara-ca-ai-engineer_2503867-1-2026-01-17-1",
+      "jobId": "marvell-wd1-myworkdayjobs-com-marvellcareers2-job-santa-clara-ca-ai-engineer_2503867-1",
+      "company": "Marvell",
+      "title": "AI Engineer",
+      "postedToDiscord": "2026-01-17T20:54:04.985Z",
+      "sourceDate": "2026-01-05T23:17:52.000Z",
+      "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Engineer_2503867-1",
+      "discordThreadId": "1462188234955165990",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist-engineer_r157087-2026-01-17-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist-engineer_r157087",
+      "company": "Adobe",
+      "title": "Applied Scientist",
+      "postedToDiscord": "2026-01-17T20:54:08.502Z",
+      "sourceDate": "2025-12-11T23:20:49.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist---Engineer_R157087",
+      "discordThreadId": "1462188250784337981",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2455,
+    "totalJobs": 2457,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T20:10:18.930Z",
+      "date": "2026-01-17T20:54:08.503Z",
       "archived": 0
     }
   }
