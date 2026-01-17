@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T23:28:24.237Z",
+  "lastUpdated": "2026-01-17T23:40:48.031Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -27512,14 +27512,124 @@
       "sourceUrl": "https://www.brex.com/careers/8360086002?gh_jid=8360086002",
       "discordThreadId": "1462227070791848228",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-vistrygroup-icims-com-jobs-7944-job-2026-01-17-1",
+      "jobId": "careers-vistrygroup-icims-com-jobs-7944-job",
+      "company": "Vistry Group",
+      "title": "Real Estate Graduate",
+      "postedToDiscord": "2026-01-17T23:40:01.161Z",
+      "sourceDate": "2025-11-18T23:08:31.000Z",
+      "sourceUrl": "https://careers-vistrygroup.icims.com/jobs/7944/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-hines-icims-com-jobs-13219-job-2026-01-17-1",
+      "jobId": "careers-hines-icims-com-jobs-13219-job",
+      "company": "Hines",
+      "title": "Leasing Professional - Residential",
+      "postedToDiscord": "2026-01-17T23:40:07.653Z",
+      "sourceDate": "2025-11-17T03:51:39.000Z",
+      "sourceUrl": "https://careers-hines.icims.com/jobs/13219/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462230022747328693",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-essenmed-icims-com-jobs-2039-job-2026-01-17-1",
+      "jobId": "careers-essenmed-icims-com-jobs-2039-job",
+      "company": "Essen Health Care",
+      "title": "Healthcare Analyst",
+      "postedToDiscord": "2026-01-17T23:40:14.264Z",
+      "sourceDate": "2025-10-31T01:20:21.000Z",
+      "sourceUrl": "https://careers-essenmed.icims.com/jobs/2039/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462230049984872714",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-cottinghambutlerinsuranceservicesinc-jobs-4407035008-2026-01-17-1",
+      "jobId": "boards-greenhouse-io-cottinghambutlerinsuranceservicesinc-jobs-4407035008",
+      "company": " Cottingham & Butler",
+      "title": "Benefits Technology Analyst",
+      "postedToDiscord": "2026-01-17T23:40:21.073Z",
+      "sourceDate": "2026-01-13T02:50:55.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4407035008",
+      "discordThreadId": "1462230077948563476",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-candidly-jobs-5022473007-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-candidly-jobs-5022473007",
+      "company": "Candidly",
+      "title": "Data Scientist - AI Engineering",
+      "postedToDiscord": "2026-01-17T23:40:27.738Z",
+      "sourceDate": "2026-01-13T02:24:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/candidly/jobs/5022473007",
+      "discordThreadId": "1462230106591465595",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dl-algorithms-engineer-cosmos-new-college-graduate-2026_jr2010848-1-2026-01-17-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dl-algorithms-engineer-cosmos-new-college-graduate-2026_jr2010848-1",
+      "company": "NVIDIA",
+      "title": "DL Algorithms Engineer – New College Graduate 2026 - Cosmos",
+      "postedToDiscord": "2026-01-17T23:40:31.217Z",
+      "sourceDate": "2026-01-06T03:26:02.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-Algorithms-Engineer---Cosmos----New-College-Graduate-2026_JR2010848-1",
+      "discordThreadId": "1462230121497755983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7531245-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7531245",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Auto)",
+      "postedToDiscord": "2026-01-17T23:40:34.670Z",
+      "sourceDate": "2026-01-12T23:46:12-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531245",
+      "discordThreadId": "1462230136257777704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7531536-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7531536",
+      "company": "reddit",
+      "title": "Client Account Manager, Large Customer Sales (Auto)",
+      "postedToDiscord": "2026-01-17T23:40:38.100Z",
+      "sourceDate": "2026-01-12T23:59:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531536",
+      "discordThreadId": "1462230150442647795",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5719801004-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5719801004",
+      "company": "vercel",
+      "title": "Director of Trust & Safety Engineering",
+      "postedToDiscord": "2026-01-17T23:40:41.495Z",
+      "sourceDate": "2026-01-06T02:14:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719801004",
+      "discordThreadId": "1462230164766326865",
+      "instanceNumber": 1
+    },
+    {
+      "id": "comcast-wd5-myworkdayjobs-com-comcast_careers-job-pa-philadelphia-1701-john-f-kennedy-blvd-engineer-data-analytics_r427045-1-2026-01-17-1",
+      "jobId": "comcast-wd5-myworkdayjobs-com-comcast_careers-job-pa-philadelphia-1701-john-f-kennedy-blvd-engineer-data-analytics_r427045-1",
+      "company": "Comcast",
+      "title": "Engineer Data & Analytics",
+      "postedToDiscord": "2026-01-17T23:40:48.030Z",
+      "sourceDate": "2025-12-22T23:54:12.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer--Data---Analytics_R427045-1",
+      "discordThreadId": "1462230191953940612",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2501,
+    "totalJobs": 2511,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T23:28:24.237Z",
+      "date": "2026-01-17T23:40:48.031Z",
       "archived": 0
     }
   }
