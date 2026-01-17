@@ -5,6 +5,7 @@
  * - Greenhouse
  * - Lever
  * - Ashby
+ * - Workable
  *
  * All APIs are public and require no authentication.
  */
@@ -12,6 +13,7 @@
 const { fetchAllGreenhouseJobs } = require('./greenhouse');
 const { fetchAllLeverJobs } = require('./lever');
 const { fetchAllAshbyJobs } = require('./ashby');
+const { fetchAllWorkableJobs } = require('./workable');
 const companyList = require('./company-list.json');
 
 /**
@@ -21,6 +23,7 @@ const companyList = require('./company-list.json');
  * @param {boolean} options.includeGreenhouse - Fetch from Greenhouse (default: true)
  * @param {boolean} options.includeLever - Fetch from Lever (default: true)
  * @param {boolean} options.includeAshby - Fetch from Ashby (default: true)
+ * @param {boolean} options.includeWorkable - Fetch from Workable (default: true)
  * @returns {Promise<Object>} Object with jobs array and stats
  */
 async function fetchAllATSJobs(options = {}) {
@@ -28,7 +31,8 @@ async function fetchAllATSJobs(options = {}) {
         delayMs = 500,
         includeGreenhouse = true,
         includeLever = true,
-        includeAshby = true
+        includeAshby = true,
+        includeWorkable = true
     } = options;
 
     console.log('\n' + '═'.repeat(50));
@@ -40,6 +44,7 @@ async function fetchAllATSJobs(options = {}) {
         greenhouse: { companies: 0, jobs: 0 },
         lever: { companies: 0, jobs: 0 },
         ashby: { companies: 0, jobs: 0 },
+        workable: { companies: 0, jobs: 0 },
         total: { companies: 0, jobs: 0 }
     };
 
@@ -67,8 +72,16 @@ async function fetchAllATSJobs(options = {}) {
         stats.ashby.jobs = ashbyJobs.length;
     }
 
+    // Fetch from Workable
+    if (includeWorkable && companyList.workable?.length > 0) {
+        const workableJobs = await fetchAllWorkableJobs(companyList.workable, { delayMs });
+        allJobs.push(...workableJobs);
+        stats.workable.companies = companyList.workable.length;
+        stats.workable.jobs = workableJobs.length;
+    }
+
     // Calculate totals
-    stats.total.companies = stats.greenhouse.companies + stats.lever.companies + stats.ashby.companies;
+    stats.total.companies = stats.greenhouse.companies + stats.lever.companies + stats.ashby.companies + stats.workable.companies;
     stats.total.jobs = allJobs.length;
 
     // Summary
@@ -77,6 +90,7 @@ async function fetchAllATSJobs(options = {}) {
     console.log(`   Greenhouse: ${stats.greenhouse.jobs} jobs from ${stats.greenhouse.companies} companies`);
     console.log(`   Lever: ${stats.lever.jobs} jobs from ${stats.lever.companies} companies`);
     console.log(`   Ashby: ${stats.ashby.jobs} jobs from ${stats.ashby.companies} companies`);
+    console.log(`   Workable: ${stats.workable.jobs} jobs from ${stats.workable.companies} companies`);
     console.log(`   ─────────────────────────`);
     console.log(`   TOTAL: ${stats.total.jobs} jobs from ${stats.total.companies} companies`);
     console.log('═'.repeat(50) + '\n');
@@ -116,5 +130,6 @@ module.exports = {
     // Re-export individual fetchers for direct use
     fetchAllGreenhouseJobs,
     fetchAllLeverJobs,
-    fetchAllAshbyJobs
+    fetchAllAshbyJobs,
+    fetchAllWorkableJobs
 };

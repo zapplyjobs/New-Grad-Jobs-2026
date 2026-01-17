@@ -1,43 +1,299 @@
 {
   "_meta": {
     "description": "Curated list of tech companies using Greenhouse, Lever, and Ashby ATS platforms",
-    "last_updated": "2026-01-02",
+    "last_updated": "2026-01-16",
     "verified": "All slugs tested and working as of 2026-01-02",
-    "notes": "Slugs are the company identifier used in their job board URLs"
+    "notes": "YC companies merged (+30 Greenhouse). Workable support added."
   },
-
   "greenhouse": [
-    { "slug": "anthropic", "name": "Anthropic" },
-    { "slug": "discord", "name": "Discord" },
-    { "slug": "stripe", "name": "Stripe" },
-    { "slug": "figma", "name": "Figma" },
-    { "slug": "coinbase", "name": "Coinbase" },
-    { "slug": "datadog", "name": "Datadog" },
-    { "slug": "brex", "name": "Brex" },
-    { "slug": "airtable", "name": "Airtable" },
-    { "slug": "reddit", "name": "Reddit" },
-    { "slug": "duolingo", "name": "Duolingo" },
-    { "slug": "dropbox", "name": "Dropbox" },
-    { "slug": "cloudflare", "name": "Cloudflare" },
-    { "slug": "verkada", "name": "Verkada" },
-    { "slug": "retool", "name": "Retool" },
-    { "slug": "vercel", "name": "Vercel" },
-    { "slug": "samsara", "name": "Samsara" },
-    { "slug": "instacart", "name": "Instacart" }
+    {
+      "slug": "anthropic",
+      "name": "Anthropic"
+    },
+    {
+      "slug": "discord",
+      "name": "Discord"
+    },
+    {
+      "slug": "stripe",
+      "name": "Stripe"
+    },
+    {
+      "slug": "figma",
+      "name": "Figma"
+    },
+    {
+      "slug": "coinbase",
+      "name": "Coinbase"
+    },
+    {
+      "slug": "datadog",
+      "name": "Datadog"
+    },
+    {
+      "slug": "brex",
+      "name": "Brex"
+    },
+    {
+      "slug": "airtable",
+      "name": "Airtable"
+    },
+    {
+      "slug": "reddit",
+      "name": "Reddit"
+    },
+    {
+      "slug": "duolingo",
+      "name": "Duolingo"
+    },
+    {
+      "slug": "dropbox",
+      "name": "Dropbox"
+    },
+    {
+      "slug": "cloudflare",
+      "name": "Cloudflare"
+    },
+    {
+      "slug": "verkada",
+      "name": "Verkada"
+    },
+    {
+      "slug": "retool",
+      "name": "Retool"
+    },
+    {
+      "slug": "vercel",
+      "name": "Vercel"
+    },
+    {
+      "slug": "samsara",
+      "name": "Samsara"
+    },
+    {
+      "slug": "instacart",
+      "name": "Instacart"
+    },
+    {
+      "slug": "icracked",
+      "name": "iCracked",
+      "batch": "Winter 2012",
+      "website": "http://icracked.com"
+    },
+    {
+      "slug": "42floors",
+      "name": "42Floors",
+      "batch": "Winter 2012",
+      "website": "http://42floors.com"
+    },
+    {
+      "slug": "plangrid",
+      "name": "PlanGrid",
+      "batch": "Winter 2012",
+      "website": "http://plangrid.com"
+    },
+    {
+      "slug": "wireover",
+      "name": "WireOver",
+      "batch": "Winter 2012",
+      "website": "http://wireover.com"
+    },
+    {
+      "slug": "the-muse",
+      "name": "The Muse",
+      "batch": "Winter 2012",
+      "website": "http://themuse.com"
+    },
+    {
+      "slug": "sendhub",
+      "name": "SendHub",
+      "batch": "Winter 2012",
+      "website": "http://sendhub.com"
+    },
+    {
+      "slug": "hipmob",
+      "name": "Hipmob",
+      "batch": "Winter 2012",
+      "website": "http://hipmob.com"
+    },
+    {
+      "slug": "myvr",
+      "name": "MyVR",
+      "batch": "Winter 2012",
+      "website": "http://myvr.com"
+    },
+    {
+      "slug": "hireart",
+      "name": "HireArt",
+      "batch": "Winter 2012",
+      "website": "http://hireart.com"
+    },
+    {
+      "slug": "amiato",
+      "name": "Amiato",
+      "batch": "Winter 2012",
+      "website": "http://noudata.com"
+    },
+    {
+      "slug": "medigram",
+      "name": "Medigram",
+      "batch": "Winter 2012",
+      "website": "http://medigram.com"
+    },
+    {
+      "slug": "couple",
+      "name": "Couple",
+      "batch": "Winter 2012",
+      "website": "http://couple.me"
+    },
+    {
+      "slug": "hackpad",
+      "name": "HackPad",
+      "batch": "Winter 2012",
+      "website": "http://hackpad.com"
+    },
+    {
+      "slug": "rescale",
+      "name": "Rescale",
+      "batch": "Winter 2012",
+      "website": "https://rescale.com"
+    },
+    {
+      "slug": "slidepay",
+      "name": "SlidePay",
+      "batch": "Winter 2012",
+      "website": "https://angel.co/slidepay"
+    },
+    {
+      "slug": "tap-to-learn",
+      "name": "Tap to Learn",
+      "batch": "Winter 2012",
+      "website": "http://taptolearn.com"
+    },
+    {
+      "slug": "optilly-installmonetizer",
+      "name": "Optilly/Installmonetizer",
+      "batch": "Winter 2012",
+      "website": "http://optilly.com"
+    },
+    {
+      "slug": "gusto",
+      "name": "Gusto",
+      "batch": "Winter 2012",
+      "website": "https://gusto.com"
+    },
+    {
+      "slug": "familyleaf",
+      "name": "FamilyLeaf",
+      "batch": "Winter 2012",
+      "website": "http://familyleaf.com"
+    },
+    {
+      "slug": "minefold",
+      "name": "Minefold",
+      "batch": "Winter 2012",
+      "website": "http://minefold.com"
+    },
+    {
+      "slug": "chute",
+      "name": "Chute",
+      "batch": "Winter 2012",
+      "website": "http://getchute.com"
+    },
+    {
+      "slug": "matterport",
+      "name": "Matterport",
+      "batch": "Winter 2012",
+      "website": "http://matterport.com"
+    },
+    {
+      "slug": "shoptiques",
+      "name": "Shoptiques",
+      "batch": "Winter 2012",
+      "website": "http://shoptiques.com"
+    },
+    {
+      "slug": "make-school",
+      "name": "Make School",
+      "batch": "Winter 2012",
+      "website": "http://www.makeschool.com"
+    },
+    {
+      "slug": "pixelapse",
+      "name": "Pixelapse",
+      "batch": "Winter 2012",
+      "website": "http://pixelapse.com"
+    },
+    {
+      "slug": "screenleap-inc",
+      "name": "Screenleap",
+      "batch": "Winter 2012",
+      "website": "https://screenleap.com"
+    },
+    {
+      "slug": "talkray-tikl",
+      "name": "Talkray (TiKL)",
+      "batch": "Winter 2012",
+      "website": "http://talkray.com"
+    },
+    {
+      "slug": "zillabyte",
+      "name": "Zillabyte",
+      "batch": "Winter 2012",
+      "website": "http://zillabyte.com"
+    },
+    {
+      "slug": "exec",
+      "name": "Exec",
+      "batch": "Winter 2012",
+      "website": "http://iamexec.com/"
+    },
+    {
+      "slug": "grouper",
+      "name": "Grouper",
+      "batch": "Winter 2012",
+      "website": "http://joingrouper.com"
+    }
   ],
-
   "lever": [
-    { "slug": "spotify", "name": "Spotify" },
-    { "slug": "nominal", "name": "Nominal" },
-    { "slug": "gohighlevel", "name": "HighLevel" },
-    { "slug": "januaryinc", "name": "January AI" }
+    {
+      "slug": "spotify",
+      "name": "Spotify"
+    },
+    {
+      "slug": "nominal",
+      "name": "Nominal"
+    },
+    {
+      "slug": "gohighlevel",
+      "name": "HighLevel"
+    },
+    {
+      "slug": "januaryinc",
+      "name": "January AI"
+    }
   ],
-
   "ashby": [
-    { "slug": "linear", "name": "Linear" },
-    { "slug": "railway", "name": "Railway" },
-    { "slug": "resend", "name": "Resend" },
-    { "slug": "supabase", "name": "Supabase" },
-    { "slug": "clerk", "name": "Clerk" }
-  ]
+    {
+      "slug": "linear",
+      "name": "Linear"
+    },
+    {
+      "slug": "railway",
+      "name": "Railway"
+    },
+    {
+      "slug": "resend",
+      "name": "Resend"
+    },
+    {
+      "slug": "supabase",
+      "name": "Supabase"
+    },
+    {
+      "slug": "clerk",
+      "name": "Clerk"
+    }
+  ],
+  "workable": []
 }
