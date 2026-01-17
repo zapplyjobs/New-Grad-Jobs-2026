@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T09:07:57.317Z",
+  "lastUpdated": "2026-01-17T11:51:30.446Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26467,14 +26467,36 @@
       "sourceUrl": "https://jobs.lever.co/nominal/9f3ce3cf-24ac-4aa2-801e-a53768d44def",
       "discordThreadId": "1462010533254266948",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-0aaf7916-ce76-4c72-b461-1604bf1b5bc2-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-clerk-0aaf7916-ce76-4c72-b461-1604bf1b5bc2",
+      "company": "clerk",
+      "title": "Staff Engineer",
+      "postedToDiscord": "2026-01-17T11:51:26.854Z",
+      "sourceDate": "2025-02-25T20:37:46.389+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/0aaf7916-ce76-4c72-b461-1604bf1b5bc2",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-railway-541836a1-6d3f-47bf-845f-5f48fe547568-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-railway-541836a1-6d3f-47bf-845f-5f48fe547568",
+      "company": "railway",
+      "title": "Infra Engineer - Datacenters",
+      "postedToDiscord": "2026-01-17T11:51:30.446Z",
+      "sourceDate": "2025-02-03T20:01:07.475+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/541836a1-6d3f-47bf-845f-5f48fe547568",
+      "discordThreadId": "1462051691963613346",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2406,
+    "totalJobs": 2408,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T09:07:57.317Z",
+      "date": "2026-01-17T11:51:30.446Z",
       "archived": 0
     }
   }
