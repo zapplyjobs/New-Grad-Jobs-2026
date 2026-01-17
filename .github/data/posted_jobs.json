@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:39:24.495Z",
+  "lastUpdated": "2026-01-17T07:52:36.324Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -25752,14 +25752,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7527430521355143431-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7527430521355143431-detail",
+      "company": "ByteDance",
+      "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
+      "postedToDiscord": "2026-01-17T07:52:12.761Z",
+      "sourceDate": "2025-07-16T02:37:26.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7527430521355143431/detail",
+      "discordThreadId": "1461991472336338965",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7527426391449864466-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7527426391449864466-detail",
+      "company": "ByteDance",
+      "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
+      "postedToDiscord": "2026-01-17T07:52:12.781Z",
+      "sourceDate": "2025-07-16T02:37:25.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7527426391449864466/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7515571512419338514-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7515571512419338514-detail",
+      "company": "ByteDance",
+      "title": "Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM",
+      "postedToDiscord": "2026-01-17T07:52:16.380Z",
+      "sourceDate": "2025-07-16T02:32:41.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7515571512419338514/detail",
+      "discordThreadId": "1461991486177411289",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-citadelsecurities-com-careers-details-software-engineer-university-graduate-us-2026-01-17-1",
+      "jobId": "www-citadelsecurities-com-careers-details-software-engineer-university-graduate-us",
+      "company": "Citadel Securities",
+      "title": "Software Engineer – University Graduate",
+      "postedToDiscord": "2026-01-17T07:52:19.848Z",
+      "sourceDate": "2025-07-11T01:12:50.000Z",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+      "discordThreadId": "1461991501654392835",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-590a0742-97f1-47f4-81a2-567efc939ae2-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-590a0742-97f1-47f4-81a2-567efc939ae2",
+      "company": "supabase",
+      "title": "Support Engineer (EMEA - Weekends)",
+      "postedToDiscord": "2026-01-17T07:52:24.575Z",
+      "sourceDate": "2025-07-15T23:13:13.616+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/590a0742-97f1-47f4-81a2-567efc939ae2",
+      "discordThreadId": "1461991528976355467",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-dcf09dfe-55bc-44ba-b5db-1a2de7f33216-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-dcf09dfe-55bc-44ba-b5db-1a2de7f33216",
+      "company": "supabase",
+      "title": "Support Engineer (AMER - Weekends)",
+      "postedToDiscord": "2026-01-17T07:52:26.242Z",
+      "sourceDate": "2025-07-15T23:00:15.866+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/dcf09dfe-55bc-44ba-b5db-1a2de7f33216",
+      "discordThreadId": "1461991536018460778",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-millenniumspacesystems-jobs-4413815008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-millenniumspacesystems-jobs-4413815008",
+      "company": "Millennium Space Systems",
+      "title": "EGSE Software Engineer - Labview Specialist",
+      "postedToDiscord": "2026-01-17T07:52:29.690Z",
+      "sourceDate": "2025-07-15T15:55:15.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4413815008",
+      "discordThreadId": "1461991543043784913",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-bcc-jobs-5880038003-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-bcc-jobs-5880038003",
+      "company": "Black Canyon Consulting",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-17T07:52:33.065Z",
+      "sourceDate": "2025-07-11T06:13:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bcc/jobs/5880038003",
+      "discordThreadId": "1461991557556342854",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-janestreet-jobs-8061059002-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-janestreet-jobs-8061059002",
+      "company": "Jane Street",
+      "title": "Linux Engineer",
+      "postedToDiscord": "2026-01-17T07:52:36.324Z",
+      "sourceDate": "2025-07-10T15:46:21.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002",
+      "discordThreadId": "1461991571606999165",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2341,
+    "totalJobs": 2350,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T07:39:24.495Z",
+      "date": "2026-01-17T07:52:36.324Z",
       "archived": 0
     }
   }
