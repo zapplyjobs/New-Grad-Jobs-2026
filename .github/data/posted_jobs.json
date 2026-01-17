@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T21:26:41.894Z",
+  "lastUpdated": "2026-01-17T21:54:27.526Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -27083,14 +27083,102 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7488465961747220744/detail",
       "discordThreadId": "1462196444281704736",
       "instanceNumber": 1
+    },
+    {
+      "id": "bmo-wd3-myworkdayjobs-com-external-job-chicago-il-usa-data-analyst-regulatory-data-and-systems-new-or-recent-graduate-opportunity-_r260000698-2026-01-17-1",
+      "jobId": "bmo-wd3-myworkdayjobs-com-external-job-chicago-il-usa-data-analyst-regulatory-data-and-systems-new-or-recent-graduate-opportunity-_r260000698",
+      "company": "Bank of Montreal",
+      "title": "Data Analyst - Regulatory Data and Systems",
+      "postedToDiscord": "2026-01-17T21:53:56.254Z",
+      "sourceDate": "2026-01-12T23:14:17.000Z",
+      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Analyst---Regulatory-Data-and-Systems--New-or-Recent-Graduate-Opportunity-_R260000698",
+      "discordThreadId": "1462203298735063232",
+      "instanceNumber": 1
+    },
+    {
+      "id": "main-princeton-icims-com-jobs-21017-job-2026-01-17-1",
+      "jobId": "main-princeton-icims-com-jobs-21017-job",
+      "company": "Princeton University",
+      "title": "Senior Research Specialist 1",
+      "postedToDiscord": "2026-01-17T21:54:03.187Z",
+      "sourceDate": "2025-09-19T23:30:26.000Z",
+      "sourceUrl": "https://main-princeton.icims.com/jobs/21017/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462203326358753533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-sig-icims-com-jobs-9584-job-2026-01-17-1",
+      "jobId": "careers-sig-icims-com-jobs-9584-job",
+      "company": "Susquehanna International Group (SIG)",
+      "title": "Faculty Fellow",
+      "postedToDiscord": "2026-01-17T21:54:06.708Z",
+      "sourceDate": "2025-09-11T17:49:37.000Z",
+      "sourceUrl": "https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462203342385320234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5065835008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5065835008",
+      "company": "anthropic",
+      "title": "Solutions Architect, Digital Native",
+      "postedToDiscord": "2026-01-17T21:54:10.384Z",
+      "sourceDate": "2026-01-12T19:12:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5065835008",
+      "discordThreadId": "1462203358130606302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-walterpmoore-icims-com-jobs-3038-job-2026-01-17-1",
+      "jobId": "careers-walterpmoore-icims-com-jobs-3038-job",
+      "company": "Walter P Moore",
+      "title": "Graduate Engineer - Diagnostics",
+      "postedToDiscord": "2026-01-17T21:54:17.016Z",
+      "sourceDate": "2025-09-11T16:34:59.000Z",
+      "sourceUrl": "https://careers-walterpmoore.icims.com/jobs/3038/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462203385548767263",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-underdogfantasy-jobs-4647374005-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-underdogfantasy-jobs-4647374005",
+      "company": "Underdog Fantasy",
+      "title": "Associate Software Engineer – 2026 New Grad",
+      "postedToDiscord": "2026-01-17T21:54:20.682Z",
+      "sourceDate": "2026-01-12T16:27:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005",
+      "discordThreadId": "1462203401260503061",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459-2026-01-17-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-guidewire_r-48459",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - Guidewire",
+      "postedToDiscord": "2026-01-17T21:54:24.141Z",
+      "sourceDate": "2026-01-05T23:44:47.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---Guidewire_R-48459",
+      "discordThreadId": "1462203416150282282",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-1800contacts-jobs-7386220-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-1800contacts-jobs-7386220",
+      "company": "1-800 Contacts",
+      "title": "Frontend Web Developer",
+      "postedToDiscord": "2026-01-17T21:54:27.526Z",
+      "sourceDate": "2026-01-05T23:23:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/1800contacts/jobs/7386220",
+      "discordThreadId": "1462203430276698194",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2462,
+    "totalJobs": 2470,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T21:26:41.894Z",
+      "date": "2026-01-17T21:54:27.526Z",
       "archived": 0
     }
   }
