@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T21:54:27.526Z",
+  "lastUpdated": "2026-01-17T22:26:59.219Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -27171,14 +27171,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/1800contacts/jobs/7386220",
       "discordThreadId": "1462203430276698194",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8371093002-2026-01-17-1",
+      "jobId": "www-brex-com-careers-8371093002",
+      "company": "brex",
+      "title": "Head of Legal Operations",
+      "postedToDiscord": "2026-01-17T22:26:45.967Z",
+      "sourceDate": "2026-01-12T19:25:03-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8371093002?gh_jid=8371093002",
+      "discordThreadId": "1462211560549388465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-taboola-com-careers-job-7531115-2026-01-17-1",
+      "jobId": "www-taboola-com-careers-job-7531115",
+      "company": "Taboola",
+      "title": "Business Systems & Solutions Specialist",
+      "postedToDiscord": "2026-01-17T22:26:52.682Z",
+      "sourceDate": "2026-01-12T23:22:22.000Z",
+      "sourceUrl": "https://www.taboola.com/careers/job/7531115?gh_jid=7531115",
+      "discordThreadId": "1462211588340711626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "assaabloy-jobs2web-com-job-mason-city-associate-product-engineer-ia-50401-1280375301-2026-01-17-1",
+      "jobId": "assaabloy-jobs2web-com-job-mason-city-associate-product-engineer-ia-50401-1280375301",
+      "company": "ASSA ABLOY",
+      "title": "Associate Product Engineer",
+      "postedToDiscord": "2026-01-17T22:26:59.218Z",
+      "sourceDate": "2026-01-05T23:15:02.000Z",
+      "sourceUrl": "https://assaabloy.jobs2web.com/job/Mason-City-Associate-Product-Engineer-IA-50401/1280375301/?ats=successfactors",
+      "discordThreadId": "1462211615582584854",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2470,
+    "totalJobs": 2473,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T21:54:27.526Z",
+      "date": "2026-01-17T22:26:59.219Z",
       "archived": 0
     }
   }
