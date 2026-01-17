@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T18:56:38.833Z",
+  "lastUpdated": "2026-01-17T19:37:06.055Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26742,14 +26742,47 @@
       "sourceUrl": "https://jobs.lever.co/spotify/77268df8-939b-4b47-ac1f-ee67988539e7",
       "discordThreadId": "1462158682816123026",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8326060002-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8326060002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Machine Learning (Safety)",
+      "postedToDiscord": "2026-01-17T19:36:57.765Z",
+      "sourceDate": "2026-01-05T14:08:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8326060002",
+      "discordThreadId": "1462168827977793609",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-a97ae4fc-d77f-47eb-a197-ffbdefc0c43f-2026-01-17-1",
+      "jobId": "jobs-lever-co-gohighlevel-a97ae4fc-d77f-47eb-a197-ffbdefc0c43f",
+      "company": "gohighlevel",
+      "title": "Senior Director, Marketing Communications",
+      "postedToDiscord": "2026-01-17T19:36:59.499Z",
+      "sourceDate": "2026-01-05T20:57:17.769Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/a97ae4fc-d77f-47eb-a197-ffbdefc0c43f",
+      "discordThreadId": "1462168842729033768",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-tesla-com-careers-search-job-software-integration-engineer-factory-firmware-249467-2026-01-17-1",
+      "jobId": "www-tesla-com-careers-search-job-software-integration-engineer-factory-firmware-249467",
+      "company": "Tesla",
+      "title": "Software Integration Engineer, Factory Firmware",
+      "postedToDiscord": "2026-01-17T19:37:06.054Z",
+      "sourceDate": "2025-08-28T20:43:06.000Z",
+      "sourceUrl": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
+      "discordThreadId": "1462168862668882116",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2431,
+    "totalJobs": 2434,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T18:56:38.833Z",
+      "date": "2026-01-17T19:37:06.055Z",
       "archived": 0
     }
   }
