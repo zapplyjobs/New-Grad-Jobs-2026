@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T08:44:49.615Z",
+  "lastUpdated": "2026-01-17T08:56:00.050Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26302,14 +26302,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b",
       "discordThreadId": "1462004712546111569",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-8b566220-7e5e-413c-ae69-476e7dc44818-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-8b566220-7e5e-413c-ae69-476e7dc44818",
+      "company": "supabase",
+      "title": "Business Development Representative (USA)",
+      "postedToDiscord": "2026-01-17T08:55:27.658Z",
+      "sourceDate": "2025-05-30T20:33:43.312+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/8b566220-7e5e-413c-ae69-476e7dc44818",
+      "discordThreadId": "1462007387467808791",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-c01f7436-1fdd-4a3e-8b96-8cadc33b006e-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-c01f7436-1fdd-4a3e-8b96-8cadc33b006e",
+      "company": "supabase",
+      "title": "Support Engineer (EMEA)",
+      "postedToDiscord": "2026-01-17T08:55:32.648Z",
+      "sourceDate": "2025-05-30T20:36:32.528+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e",
+      "discordThreadId": "1462007416731209883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7509263561258027272-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7509263561258027272-detail",
+      "company": "ByteDance",
+      "title": "RDMA Network Software Development Engineer - High Speed Network",
+      "postedToDiscord": "2026-01-17T08:55:36.243Z",
+      "sourceDate": "2025-05-28T03:31:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7509263561258027272/detail",
+      "discordThreadId": "1462007424675352738",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7509266973013690631-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7509266973013690631-detail",
+      "company": "ByteDance",
+      "title": "RDMA Network Software Development Engineer Graduate - High Speed Network - 2026 Start",
+      "postedToDiscord": "2026-01-17T08:55:39.581Z",
+      "sourceDate": "2025-05-28T03:31:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7509266973013690631/detail",
+      "discordThreadId": "1462007439464333312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mufgub-wd3-myworkdayjobs-com-mufg-careers-job-irving-tx-global-financial-crimes-issues-management-reporting-data-analysis-analyst_10070365-wd-2026-01-17-1",
+      "jobId": "mufgub-wd3-myworkdayjobs-com-mufg-careers-job-irving-tx-global-financial-crimes-issues-management-reporting-data-analysis-analyst_10070365-wd",
+      "company": "Mitsubishi UFG",
+      "title": "Global Financial Crimes - Issues Management - Reporting & Data Analysis",
+      "postedToDiscord": "2026-01-17T08:55:43.080Z",
+      "sourceDate": "2025-05-24T01:40:15.000Z",
+      "sourceUrl": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD",
+      "discordThreadId": "1462007453343420480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-7a91e2dd-1214-4a50-add2-b6e8a91c6613-2026-01-17-1",
+      "jobId": "jobs-lever-co-spotify-7a91e2dd-1214-4a50-add2-b6e8a91c6613",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, GenRecs, Personalization",
+      "postedToDiscord": "2026-01-17T08:55:49.503Z",
+      "sourceDate": "2025-05-29T16:06:56.227Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7a91e2dd-1214-4a50-add2-b6e8a91c6613",
+      "discordThreadId": "1462007480430231706",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-da37dc7d-ba45-4cab-8aa2-2f7e01db5176-2026-01-17-1",
+      "jobId": "jobs-lever-co-nominal-da37dc7d-ba45-4cab-8aa2-2f7e01db5176",
+      "company": "nominal",
+      "title": "Production Engineer (PE)",
+      "postedToDiscord": "2026-01-17T08:55:53.104Z",
+      "sourceDate": "2025-05-28T20:31:18.305Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/da37dc7d-ba45-4cab-8aa2-2f7e01db5176",
+      "discordThreadId": "1462007494669893713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-59f03137-8957-4732-86c4-bc038ef0b3ba-2026-01-17-1",
+      "jobId": "jobs-lever-co-nominal-59f03137-8957-4732-86c4-bc038ef0b3ba",
+      "company": "nominal",
+      "title": "Production Engineer",
+      "postedToDiscord": "2026-01-17T08:55:56.491Z",
+      "sourceDate": "2025-05-28T19:40:23.093Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/59f03137-8957-4732-86c4-bc038ef0b3ba",
+      "discordThreadId": "1462007510230896803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-201216f8-3cd8-498d-b91a-57fe470fbe60-2026-01-17-1",
+      "jobId": "jobs-lever-co-nominal-201216f8-3cd8-498d-b91a-57fe470fbe60",
+      "company": "nominal",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-17T08:56:00.050Z",
+      "sourceDate": "2025-05-15T20:07:56.597Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/201216f8-3cd8-498d-b91a-57fe470fbe60",
+      "discordThreadId": "1462007524499783720",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2391,
+    "totalJobs": 2400,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T08:44:49.615Z",
+      "date": "2026-01-17T08:56:00.050Z",
       "archived": 0
     }
   }
