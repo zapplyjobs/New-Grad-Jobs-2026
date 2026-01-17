@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T15:07:42.254Z",
+  "lastUpdated": "2026-01-17T16:53:43.003Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26577,14 +26577,36 @@
       "sourceUrl": "https://jobs.lever.co/nominal/cba503aa-f40f-4608-b647-3f4eeb1e5db9",
       "discordThreadId": "1462101066161066160",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nominal-86422272-b1cc-4e82-977a-dd371c73d4fe-2026-01-17-1",
+      "jobId": "jobs-lever-co-nominal-86422272-b1cc-4e82-977a-dd371c73d4fe",
+      "company": "nominal",
+      "title": "Deployment Systems Engineer",
+      "postedToDiscord": "2026-01-17T16:53:39.735Z",
+      "sourceDate": "2024-07-29T17:28:58.936Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/86422272-b1cc-4e82-977a-dd371c73d4fe",
+      "discordThreadId": "1462127732606500995",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4980530008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980530008",
+      "company": "anthropic",
+      "title": "Regulatory Counsel",
+      "postedToDiscord": "2026-01-17T16:53:43.002Z",
+      "sourceDate": "2026-01-12T14:07:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980530008",
+      "discordThreadId": "1462127746741436457",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2416,
+    "totalJobs": 2418,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T15:07:42.254Z",
+      "date": "2026-01-17T16:53:43.003Z",
       "archived": 0
     }
   }

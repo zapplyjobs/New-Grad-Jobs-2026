@@ -1,46 +1,5 @@
 [
   {
-    "job_title": "Cloud Infrastructure Engineer",
-    "employer_name": "nominal",
-    "job_city": "Austin, TX",
-    "job_apply_link": "https://jobs.lever.co/nominal/cba503aa-f40f-4608-b647-3f4eeb1e5db9",
-    "job_posted_at_datetime_utc": "2025-02-14T18:39:02.262Z",
-    "job_description": "Cloud Infrastructure EngineerAustin, TX / New York, NY / Los Angeles, CAEngineering, Product, Design – Software Engineering /Full-time /On-siteApply for this jobAbout NominalNominal is building the software infrastructure powering the world’s most advanced hardware systems — from spacecraft and autonomous vehicles to next-generation industrial machines. Our platform ingests high-rate telemetry, validates complex autonomy software in real time, and enables engineers to iterate faster without sacrificing safety or precision. We’re a small, fast-moving team of engineers and operators who own problems end-to-end, work across disciplines, and thrive on challenges at the intersection of hardware and software.As a dual-use platform, we serve top-tier commercial and defense customers, including the U.S. Navy, United States Air Force, Shield AI, and Anduril. We’re backed by Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed Ventures. Our team draws experience from SpaceX, Palantir, Anduril, Applied Intuition, and other leading companies — united by a common mission: enabling hardware engineers to push the boundaries of advanced technology with speed, safety, and precision.As a Cloud Infrastructure Engineer, you’ll optimize CI/CD pipelines, streamline developer workflows, and ensure consistent, reliable environments across cloud and on-prem systems. Your work directly accelerates product development, improves deployment reliability, and empowers engineers to move fast without sacrificing safety or precision. Key skills include AWS, Kubernetes, Infrastructure as Code, CI/CD, observability tools, and scripting in Bash, Python, or Go.🚀 About the roleEmpower engineering velocity: Ensure our growing engineering team can move quickly and safely by building and improving our DevOps and cloud infrastructure systems. You’ll focus on cloud infrastructure while having the flexibility to contribute to on-prem deployment systems or traditional software engineering.Optimize and scale: Own the systems for deploying and managing cloud infrastructure, refining our CI/CD pipelines, and improving developer experience. Your work will directly enhance developer environment consistency, accelerate build times, and simplify service bootstrapping.Manage tradeoffs: Understand the tensions between effort vs value, short-term vs long-term growth, and any others that may arise.Solve & streamline: See an issue? You’re on it, with the autonomy to fix problems fast and keep our technology ahead of the curve.🔎 We’re looking for someone withProven engineering expertise: You’ve been in the trenches of software engineering (minimum of 4+ YOE), with firsthand experience developing, deploying, and monitoring infrastructure for high-scale distributed systems or complex tools.Technical sharpshooter: Your intellectual curiosity drives you to solve complex problems. You think in systems and see the big picture, yet you’re all about nailing the details.Dynamic leader & team player: With a mix of humility, eagerness to learn, and empathy, you’re a natural at leading and lifting those around you. You don’t just spot problems; you solve them.Project maestro: You’ve got a solid track record in turning technical concepts into reality and managing the full cycle from planning to deployment.Ability to travel 1-2 times a month to be on-site with our customers⚡ Skills that supercharge usAWS cloud infrastructure (required), Azure (nice-to-have).Kubernetes: Deploying, scaling, and troubleshooting applications.CI/CD: Designing and building pipelines with GitHub Actions or similar.Infrastructure as Code: Crossplane, Terraform, or similar.Observability: Datadog, Prometheus (metrics collection, dashboarding, alerting).Scripting and development: Bash, Python, and/or Go✨ Benefits/Perks🏥 100% coverage of medical, dental, and vision insurance🏖️ Unlimited PTO and sick leave🍽️ Free lunch, snacks, and coffee🚀 Professional Development Stipend✈️ Annual company retreat$160,000 - $230,000 a yearThis job description is written to capture a range of experience levels from 2 years to 15+ years, which is why you’ll see a wide band listed. Your actual base salary will be determined on a case-by-case basis and may vary based on a range of considerations, including job-related knowledge and skills, education, prior experience, and other business needs. The listed salary range represents an estimate for base compensation only. Base salary is just one part of the total rewards package. Eligible employees may also receive highly competitive equity grants in the form of stock options, allowing you to share in the company’s long-term success.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. ITAR RequirementsTo conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-    "id": "jobs-lever-co-nominal-cba503aa-f40f-4608-b647-3f4eeb1e5db9",
-    "source": "lever",
-    "source_url": "api.lever.co",
-    "source_id": "cba503aa-f40f-4608-b647-3f4eeb1e5db9",
-    "title": "Cloud Infrastructure Engineer",
-    "company_name": "nominal",
-    "company_slug": "nominal",
-    "location": "Austin, TX",
-    "locations": [
-      "Austin, TX"
-    ],
-    "workplace_type": "onsite",
-    "url": "https://jobs.lever.co/nominal/cba503aa-f40f-4608-b647-3f4eeb1e5db9",
-    "apply_url": "https://jobs.lever.co/nominal/cba503aa-f40f-4608-b647-3f4eeb1e5db9/apply",
-    "team": "Software Engineering",
-    "department": "Engineering, Product, Design",
-    "commitment": "Full-time",
-    "salary": {
-      "min": 160000,
-      "max": 230000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "posted_at": "2025-02-14T18:39:02.262Z",
-    "fetched_at": "2026-01-12T18:26:27.934Z",
-    "description": "About Nominal\n\nNominal is building the software infrastructure powering the world’s most advanced hardware systems — from spacecraft and autonomous vehicles to next-generation industrial machines. Our platform ingests high-rate telemetry, validates complex autonomy software in real time, and enables engineers to iterate faster without sacrificing safety or precision. We’re a small, fast-moving team of engineers and operators who own problems end-to-end, work across disciplines, and thrive on challenges at the intersection of hardware and software.\n\nAs a dual-use platform, we serve top-tier commercial and defense customers, including the U.S. Navy, United States Air Force, Shield AI, and Anduril. We’re backed by Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed Ventures. Our team draws experience from SpaceX, Palantir, Anduril, Applied Intuition, and other leading companies — united by a common mission: enabling hardware engineers to push the boundaries of advanced technology with speed, safety, and precision.\n\nAs a Cloud Infrastructure Engineer, you’ll optimize CI/CD pipelines, streamline developer workflows, and ensure consistent, reliable environments across cloud and on-prem systems. Your work directly accelerates product development, improves deployment reliability, and empowers engineers to move fast without sacrificing safety or precision. Key skills include AWS, Kubernetes, Infrastructure as Code, CI/CD, observability tools, and scripting in Bash, Python, or Go.\n",
-    "_raw": {
-      "source": "lever",
-      "original_id": "cba503aa-f40f-4608-b647-3f4eeb1e5db9"
-    },
-    "job_posted_at": "1h",
-    "description_platform": "lever",
-    "description_success": true
-  },
-  {
     "job_title": "Machine Learning Engineer, Personalization",
     "employer_name": "spotify",
     "job_city": "New York, NY",
@@ -321,6 +280,42 @@
     },
     "job_posted_at": "1h",
     "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Associate Manager, Paid Media",
+    "employer_name": "spotify",
+    "job_city": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/spotify/77268df8-939b-4b47-ac1f-ee67988539e7",
+    "job_posted_at_datetime_utc": "2026-01-12T19:00:56.342Z",
+    "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
+    "id": "jobs-lever-co-spotify-77268df8-939b-4b47-ac1f-ee67988539e7",
+    "source": "lever",
+    "source_url": "api.lever.co",
+    "source_id": "77268df8-939b-4b47-ac1f-ee67988539e7",
+    "title": "Associate Manager, Paid Media",
+    "company_name": "spotify",
+    "company_slug": "spotify",
+    "location": "New York, NY",
+    "locations": [
+      "New York, NY"
+    ],
+    "workplace_type": "remote",
+    "url": "https://jobs.lever.co/spotify/77268df8-939b-4b47-ac1f-ee67988539e7",
+    "apply_url": "https://jobs.lever.co/spotify/77268df8-939b-4b47-ac1f-ee67988539e7/apply",
+    "team": "Advertising Business Marketing",
+    "department": "Advertising",
+    "commitment": null,
+    "salary": null,
+    "posted_at": "2026-01-12T19:00:56.342Z",
+    "fetched_at": "2026-01-12T19:10:11.896Z",
+    "description": "Sell what you love. For us and millions of users across the globe, that’s Spotify. Join the Sales team and you’ll build the relationships that help grow our business in existing markets and beyond. We don’t just sell creative solutions to our clients and partners, we help to shape them; using our expert knowledge of ad products, sales channels and the industry to impact the way the world experiences music and podcasts. \n\n\nSpotify Advertising is looking for an Associate Manager, Paid Media to help scale and optimize our global B2B growth efforts. This role will work closely with both our Growth Marketing Manager and Growth Ad Tech Marketing Manager, supporting high-impact performance marketing programs that drive revenue, unlock new audiences, and fuel advertiser growth on Spotify, while hitting our core KPIs: \n\nThis is a hands-on, associate-level growth role for someone who thrives in the details of execution and analysis, and who is excited to learn how performance strategy is built at scale while working closely with more senior growth leaders—someone who loves digging into performance data, optimizing campaigns, managing ad tech, and collaborating with agencies, while also contributing critical thinking, creative ideas, and new growth opportunities.\n",
+    "_raw": {
+      "source": "lever",
+      "original_id": "77268df8-939b-4b47-ac1f-ee67988539e7"
+    },
+    "job_posted_at": "1h",
+    "description_platform": "lever",
     "description_success": true
   }
 ]
