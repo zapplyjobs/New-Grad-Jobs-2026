@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T03:47:33.432Z",
+  "lastUpdated": "2026-01-17T04:29:13.188Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -24663,14 +24663,58 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7535236062285891847/detail",
       "discordThreadId": "1461929902348566816",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-celonis-jobs-6616403003-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-celonis-jobs-6616403003",
+      "company": "Celonis",
+      "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
+      "postedToDiscord": "2026-01-17T04:28:58.583Z",
+      "sourceDate": "2025-08-08T10:50:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003",
+      "discordThreadId": "1461940324963188911",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-royalcaribbeangroup-com-job-miramar-associate-engineer-2c-software-fl-33132-1314694500-2026-01-17-1",
+      "jobId": "jobs-royalcaribbeangroup-com-job-miramar-associate-engineer-2c-software-fl-33132-1314694500",
+      "company": "Royal Carribean Group",
+      "title": "Associate Engineer, Software",
+      "postedToDiscord": "2026-01-17T04:29:05.631Z",
+      "sourceDate": "2025-08-08T08:46:57.000Z",
+      "sourceUrl": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
+      "discordThreadId": "1461940352763298116",
+      "instanceNumber": 1
+    },
+    {
+      "id": "radiancetech-wd12-myworkdayjobs-com-en-us-radiance_external-job-beavercreek-oh-junior-full-stack-software-engineer_hr101733-2026-01-17-1",
+      "jobId": "radiancetech-wd12-myworkdayjobs-com-en-us-radiance_external-job-beavercreek-oh-junior-full-stack-software-engineer_hr101733",
+      "company": "Radiance Technologies",
+      "title": "Junior Full Stack Software Engineer",
+      "postedToDiscord": "2026-01-17T04:29:08.991Z",
+      "sourceDate": "2025-08-08T08:40:27.000Z",
+      "sourceUrl": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
+      "discordThreadId": "1461940369993502760",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-oracle-com-en-sites-jobsearch-job-304100-2026-01-17-1",
+      "jobId": "careers-oracle-com-en-sites-jobsearch-job-304100",
+      "company": "Oracle",
+      "title": "Undergrad Software Engineer",
+      "postedToDiscord": "2026-01-17T04:29:13.188Z",
+      "sourceDate": "2025-08-08T08:39:01.000Z",
+      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/304100",
+      "discordThreadId": "1461940385000456306",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2242,
+    "totalJobs": 2246,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T03:47:33.432Z",
+      "date": "2026-01-17T04:29:13.188Z",
       "archived": 0
     }
   }
