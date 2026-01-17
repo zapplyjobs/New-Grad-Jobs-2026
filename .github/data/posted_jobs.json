@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:08:01.527Z",
+  "lastUpdated": "2026-01-17T07:27:17.980Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -25499,14 +25499,135 @@
       "sourceUrl": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
       "discordThreadId": "1461980351445336314",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-glsllc-a6e0e275-c1c9-46b2-9af8-5a46aa9d8649-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-glsllc-a6e0e275-c1c9-46b2-9af8-5a46aa9d8649-apply",
+      "company": "Global Lending Services",
+      "title": "Business Systems Analyst - Application Development",
+      "postedToDiscord": "2026-01-17T07:26:40.191Z",
+      "sourceDate": "2025-08-04T16:41:35.000Z",
+      "sourceUrl": "https://jobs.lever.co/glsllc/a6e0e275-c1c9-46b2-9af8-5a46aa9d8649/apply",
+      "discordThreadId": "1461985043860684812",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7532436539684702471-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7532436539684702471",
+      "company": "TikTok",
+      "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
+      "postedToDiscord": "2026-01-17T07:26:46.801Z",
+      "sourceDate": "2025-08-03T03:02:56.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532436539684702471",
+      "discordThreadId": "1461985071404814397",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7531158600791705874-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7531158600791705874",
+      "company": "TikTok",
+      "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
+      "postedToDiscord": "2026-01-17T07:26:50.336Z",
+      "sourceDate": "2025-08-03T02:59:20.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ",
+      "discordThreadId": "1461985086332469269",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-bootcampinstructionalengagement-jobs-5751369002-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-bootcampinstructionalengagement-jobs-5751369002",
+      "company": "edX",
+      "title": "Multiple Roles - Web Development Student Support",
+      "postedToDiscord": "2026-01-17T07:26:53.845Z",
+      "sourceDate": "2025-08-01T22:49:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751369002",
+      "discordThreadId": "1461985101083840676",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-datalabusa-19b74a87-0d5f-4ca1-a218-5dae6004d0ee-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-datalabusa-19b74a87-0d5f-4ca1-a218-5dae6004d0ee-apply",
+      "company": "Datalab USA",
+      "title": "Production Programmer – Entry Level SQL Developer",
+      "postedToDiscord": "2026-01-17T07:26:57.360Z",
+      "sourceDate": "2025-08-01T16:43:18.000Z",
+      "sourceUrl": "https://jobs.lever.co/datalabusa/19b74a87-0d5f-4ca1-a218-5dae6004d0ee/apply",
+      "discordThreadId": "1461985116036530344",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pmg-jobs-8033520002-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-pmg-jobs-8033520002",
+      "company": "PMG",
+      "title": "Graduate Leadership Program - AI & Software Engineering",
+      "postedToDiscord": "2026-01-17T07:27:00.772Z",
+      "sourceDate": "2025-08-01T14:27:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pmg/jobs/8033520002",
+      "discordThreadId": "1461985130506879110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pmg-jobs-8033513002-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-pmg-jobs-8033513002",
+      "company": "PMG",
+      "title": "Graduate Leadership Program - Data Analytics",
+      "postedToDiscord": "2026-01-17T07:27:00.787Z",
+      "sourceDate": "2025-08-01T14:27:51.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pmg/jobs/8033513002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-davinciderivatives-jobs-4245633101-2026-01-17-1",
+      "jobId": "job-boards-eu-greenhouse-io-davinciderivatives-jobs-4245633101",
+      "company": "Da Vinci",
+      "title": "Graduate C++ Software Engineer",
+      "postedToDiscord": "2026-01-17T07:27:04.615Z",
+      "sourceDate": "2025-08-01T06:56:43.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4245633101",
+      "discordThreadId": "1461985144775774271",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7531158608336242962-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7531158608336242962",
+      "company": "TikTok",
+      "title": "New Grad 2026: Machine Learning Engineer (Commerce Ads)",
+      "postedToDiscord": "2026-01-17T07:27:11.137Z",
+      "sourceDate": "2025-08-03T03:01:50.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7531158608336242962",
+      "discordThreadId": "1461985173766803659",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7532349111480273159-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7532349111480273159",
+      "company": "TikTok",
+      "title": "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)",
+      "postedToDiscord": "2026-01-17T07:27:14.579Z",
+      "sourceDate": "2025-08-03T03:01:01.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
+      "discordThreadId": "1461985188274765998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "higher-gs-com-roles-150842-2026-01-17-1",
+      "jobId": "higher-gs-com-roles-150842",
+      "company": "Goldman Sachs",
+      "title": "2026 – Americas - Salt Lake City - Engineering New Analyst",
+      "postedToDiscord": "2026-01-17T07:27:17.980Z",
+      "sourceDate": "2025-08-01T18:19:24.000Z",
+      "sourceUrl": "https://higher.gs.com/roles/150842?type=students",
+      "discordThreadId": "1461985202631999561",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2318,
+    "totalJobs": 2329,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T07:08:01.527Z",
+      "date": "2026-01-17T07:27:17.980Z",
       "archived": 0
     }
   }

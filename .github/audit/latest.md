@@ -1,257 +1,237 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-17T07:08:07.713Z
+**Timestamp:** 2026-01-17T07:27:24.682Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 10
-- **Jobs Failed:** 1
+- **Jobs Failed:** 0
 - **Jobs Skipped:** 0
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-17T07:07:22.368Z] ========================================
-[2026-01-17T07:07:22.369Z] Discord Bot Execution Log
-[2026-01-17T07:07:22.369Z] Environment: GitHub Actions
-[2026-01-17T07:07:22.369Z] Node Version: v20.19.6
-[2026-01-17T07:07:22.370Z] ========================================
-[2026-01-17T07:07:22.370Z] Environment Variables Check:
-[2026-01-17T07:07:22.370Z] DISCORD_TOKEN: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-17T07:07:22.370Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-17T07:07:22.370Z] 
+[2026-01-17T07:26:35.416Z] ========================================
+[2026-01-17T07:26:35.417Z] Discord Bot Execution Log
+[2026-01-17T07:26:35.418Z] Environment: GitHub Actions
+[2026-01-17T07:26:35.418Z] Node Version: v20.19.6
+[2026-01-17T07:26:35.418Z] ========================================
+[2026-01-17T07:26:35.418Z] Environment Variables Check:
+[2026-01-17T07:26:35.418Z] DISCORD_TOKEN: ✅ Set
+[2026-01-17T07:26:35.418Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.418Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-17T07:26:35.418Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-17T07:26:35.418Z] 
 Multi-Channel Configuration:
-[2026-01-17T07:07:22.370Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.370Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.371Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.371Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-17T07:07:22.371Z] 
+[2026-01-17T07:26:35.418Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-17T07:26:35.419Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-17T07:07:22.371Z] 
+[2026-01-17T07:26:35.419Z] 
 Data Files Check:
-[2026-01-17T07:07:22.371Z] .github/data/new_jobs.json: ✅ Exists (10 items, 17073 bytes)
-[2026-01-17T07:07:22.381Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1249505 bytes)
-[2026-01-17T07:07:22.381Z] 
+[2026-01-17T07:26:35.420Z] .github/data/new_jobs.json: ✅ Exists (10 items, 29319 bytes)
+[2026-01-17T07:26:35.428Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1254621 bytes)
+[2026-01-17T07:26:35.428Z] 
 ========================================
-[2026-01-17T07:07:22.381Z] Starting Enhanced Discord Bot...
-[2026-01-17T07:07:22.381Z] ========================================
-[2026-01-17T07:07:22.839Z] [BOT] ✅ Loaded V2 database: 2308 jobs
-[2026-01-17T07:07:23.440Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-17T07:07:23.440Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-17T07:26:35.428Z] Starting Enhanced Discord Bot...
+[2026-01-17T07:26:35.428Z] ========================================
+[2026-01-17T07:26:35.935Z] [BOT] ✅ Loaded V2 database: 2318 jobs
+[2026-01-17T07:26:36.640Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-17T07:26:36.641Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-01-17T07:07:23.440Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-17T07:07:23.594Z] [BOT] ✅ Loaded pending queue: 2884 total (2864 pending, 20 enriched, 0 posted)
+[2026-01-17T07:26:36.641Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-17T07:26:36.759Z] [BOT] ✅ Loaded pending queue: 2884 total (2864 pending, 20 enriched, 0 posted)
 [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
-[BOT] 🔍 Sample enriched job: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) at TikTok
-[2026-01-17T07:07:23.596Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
-[2026-01-17T07:07:23.596Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
-[2026-01-17T07:07:23.596Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
-[2026-01-17T07:07:23.597Z] [BOT] 📋 After multi-location grouping: 19 unique jobs to post
-[2026-01-17T07:07:23.597Z] [BOT] (1 grouped as same job with different locations)
+[BOT] 🔍 Sample enriched job: Business Systems Analyst - Application Development at Global Lending Services
+[2026-01-17T07:26:36.763Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
+[2026-01-17T07:26:36.763Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
+[2026-01-17T07:26:36.764Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
+[2026-01-17T07:26:36.765Z] [BOT] 📋 After multi-location grouping: 19 unique jobs to post
+[2026-01-17T07:26:36.765Z] [BOT] (1 grouped as same job with different locations)
 ⏸️ Limiting to 10 jobs this run, 10 deferred for next run
-[2026-01-17T07:07:23.597Z] [BOT] 📤 Posting 10 jobs...
+[2026-01-17T07:26:36.765Z] [BOT] 📤 Posting 10 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-17T07:07:23.600Z] [BOT] 📌 Posting 8 jobs to #💻・tech-jobs
-[2026-01-17T07:07:23.601Z] [BOT] 📍 [ROUTING] "Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)" @ ORG_1bb6fcfb
-[2026-01-17T07:07:23.601Z] [BOT] Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:23.617Z] [BOT ERROR] (node:2519) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-17T07:26:36.769Z] [BOT] 📌 Posting 1 jobs to #📣・marketing-jobs
+[2026-01-17T07:26:36.769Z] [BOT] 📍 [ROUTING] "Business Systems Analyst - Application Development" @ ORG_a258b30f Lending Services
+[2026-01-17T07:26:36.769Z] [BOT] Category: MARKETING (matched: "growth")
+   Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-17T07:26:36.786Z] [BOT ERROR] (node:2607) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-17T07:07:23.719Z] [BOT ERROR] ❌ Error posting job Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS): DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ TikTok',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_717e47bc/threads'
-}
-[2026-01-17T07:07:23.719Z] [BOT] ❌ Industry post failed: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)
-⚠️  Channel full error count: 1/5
-[2026-01-17T07:07:25.405Z] [BOT] ✅ Created forum post: 🏢 Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #🌉・san-francisco
-  ✅ Location: 🌉・san-francisco
-[2026-01-17T07:07:26.905Z] [BOT] 💾 Marked as posted: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb (instance #1)
-[2026-01-17T07:07:26.906Z] [BOT] 💾 BEFORE ARCHIVING: 2309 jobs in database
-[2026-01-17T07:07:26.907Z] [BOT] ✅ No jobs to archive (all 2309 jobs within 7-day window)
-[2026-01-17T07:07:26.926Z] [BOT] 💾 Saved posted_jobs.json: 2309 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:26.927Z] [BOT] 📍 [ROUTING] "Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS)" @ ORG_1bb6fcfb
-[2026-01-17T07:07:26.927Z] [BOT] Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:27.214Z] [BOT] ✅ Created forum post: 🏢 Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #💻・tech-jobs
-  ✅ Industry: Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS) @ ORG_1bb6fcfb
-[2026-01-17T07:07:29.013Z] [BOT] ✅ Created forum post: 🏢 Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #🌉・san-francisco
-  ✅ Location: 🌉・san-francisco
-[2026-01-17T07:07:30.514Z] [BOT] 💾 Marked as posted: Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS) @ ORG_1bb6fcfb (instance #1)
-[2026-01-17T07:07:30.514Z] [BOT] 💾 BEFORE ARCHIVING: 2310 jobs in database
-[2026-01-17T07:07:30.515Z] [BOT] ✅ No jobs to archive (all 2310 jobs within 7-day window)
-[2026-01-17T07:07:30.528Z] [BOT] 💾 Saved posted_jobs.json: 2310 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:30.528Z] [BOT] 📍 [ROUTING] "Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)" @ ORG_1bb6fcfb
-[2026-01-17T07:07:30.528Z] [BOT] Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:30.707Z] [BOT] ✅ Created forum post: 🏢 Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #💻・tech-jobs
-  ✅ Industry: Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS) @ ORG_1bb6fcfb
-[2026-01-17T07:07:32.669Z] [BOT] ✅ Created forum post: 🏢 Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #🌧️・seattle
-  ✅ Location: 🌧️・seattle
-[2026-01-17T07:07:34.170Z] [BOT] 💾 Marked as posted: Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS) @ ORG_1bb6fcfb (instance #1)
-[2026-01-17T07:07:34.170Z] [BOT] 💾 BEFORE ARCHIVING: 2311 jobs in database
-[2026-01-17T07:07:34.171Z] [BOT] ✅ No jobs to archive (all 2311 jobs within 7-day window)
-[2026-01-17T07:07:34.188Z] [BOT] 💾 Saved posted_jobs.json: 2311 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:34.189Z] [BOT] 📍 [ROUTING] "Software Engineer I - PAAS" @ ORG_28d3793c
-[2026-01-17T07:07:34.189Z] [BOT] Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:34.393Z] [BOT] ✅ Created forum post: 🏢 Software Engineer I - PAAS @ ORG_28d3793c in #💻・tech-jobs
-  ✅ Industry: Software Engineer I - PAAS @ ORG_28d3793c
-[2026-01-17T07:07:36.116Z] [BOT] ✅ Created forum post: 🏢 Software Engineer I - PAAS @ ORG_28d3793c in #🌧️・seattle
-[2026-01-17T07:07:36.116Z] [BOT] ✅ Location: 🌧️・seattle
-[2026-01-17T07:07:37.618Z] [BOT] 💾 Marked as posted: Software Engineer I - PAAS @ ORG_28d3793c (instance #1)
-[2026-01-17T07:07:37.618Z] [BOT] 💾 BEFORE ARCHIVING: 2312 jobs in database
-[2026-01-17T07:07:37.620Z] [BOT] ✅ No jobs to archive (all 2312 jobs within 7-day window)
-[2026-01-17T07:07:37.635Z] [BOT] 💾 Saved posted_jobs.json: 2312 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:37.636Z] [BOT] 📍 [ROUTING] "Associate Software Developer" @ ORG_8e152e21
-[2026-01-17T07:07:37.636Z] [BOT] Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:37.813Z] [BOT] ✅ Created forum post: 🏢 Associate Software Developer @ ORG_8e152e21 in #💻・tech-jobs
-  ✅ Industry: Associate Software Developer @ ORG_8e152e21
-[2026-01-17T07:07:39.580Z] [BOT] ✅ Created forum post: 🏢 Associate Software Developer @ ORG_8e152e21 in #💻・remote-usa
+[2026-01-17T07:26:36.987Z] [BOT] ✅ Created forum post: 🏢 Business Systems Analyst - Application Development @ ORG_a258b30f Lending Services in #📣・marketing-jobs
+[2026-01-17T07:26:36.987Z] [BOT] ✅ Industry: Business Systems Analyst - Application Development @ ORG_a258b30f Lending Services
+[2026-01-17T07:26:38.690Z] [BOT] ✅ Created forum post: 🏢 Business Systems Analyst - Application Development @ ORG_a258b30f Lending Services in #💻・remote-usa
   ✅ Location: 💻・remote-usa
-[2026-01-17T07:07:41.080Z] [BOT] 💾 Marked as posted: Associate Software Developer @ ORG_8e152e21 (instance #1)
-💾 BEFORE ARCHIVING: 2313 jobs in database
-[2026-01-17T07:07:41.082Z] [BOT] ✅ No jobs to archive (all 2313 jobs within 7-day window)
-[2026-01-17T07:07:41.095Z] [BOT] 💾 Saved posted_jobs.json: 2313 active jobs
+[2026-01-17T07:26:40.192Z] [BOT] 💾 Marked as posted: Business Systems Analyst - Application Development @ ORG_a258b30f Lending Services (instance #1)
+[2026-01-17T07:26:40.192Z] [BOT] 💾 BEFORE ARCHIVING: 2319 jobs in database
+[2026-01-17T07:26:40.194Z] [BOT] ✅ No jobs to archive (all 2319 jobs within 7-day window)
+[2026-01-17T07:26:40.211Z] [BOT] 💾 Saved posted_jobs.json: 2319 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:41.096Z] [BOT] 📍 [ROUTING] "Software Engineer, Autonomy" @ ORG_4d802438
-[2026-01-17T07:07:41.096Z] [BOT] Category: TECH (matched: "software")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:41.317Z] [BOT] ✅ Created forum post: 🏢 Software Engineer, Autonomy @ ORG_4d802438 in #💻・tech-jobs
-[2026-01-17T07:07:41.318Z] [BOT] ✅ Industry: Software Engineer, Autonomy @ ORG_4d802438
-[2026-01-17T07:07:43.211Z] [BOT] ✅ Created forum post: 🏢 Software Engineer, Autonomy @ ORG_4d802438 in #🌄・mountain-view
-  ✅ Location: 🌄・mountain-view
-[2026-01-17T07:07:44.712Z] [BOT] 💾 Marked as posted: Software Engineer, Autonomy @ ORG_4d802438 (instance #1)
-[2026-01-17T07:07:44.712Z] [BOT] 💾 BEFORE ARCHIVING: 2314 jobs in database
-[2026-01-17T07:07:44.714Z] [BOT] ✅ No jobs to archive (all 2314 jobs within 7-day window)
-[2026-01-17T07:07:44.729Z] [BOT] 💾 Saved posted_jobs.json: 2314 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:44.730Z] [BOT] 📍 [ROUTING] "Product Security Engineer (University Grad)" @ ORG_4f749de7
-   Category: TECH (matched: "engineer/engineering")
-[2026-01-17T07:07:44.730Z] [BOT] Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:44.907Z] [BOT] ✅ Created forum post: 🔵 Product Security Engineer (University Grad) @ ORG_4f749de7 in #💻・tech-jobs
-[2026-01-17T07:07:44.907Z] [BOT] ✅ Industry: Product Security Engineer (University Grad) @ ORG_4f749de7
-[2026-01-17T07:07:46.636Z] [BOT] ✅ Created forum post: 🔵 Product Security Engineer (University Grad) @ ORG_4f749de7 in #🌧️・seattle
-[2026-01-17T07:07:46.636Z] [BOT] ✅ Location: 🌧️・seattle
-[2026-01-17T07:07:48.136Z] [BOT] 💾 Marked as posted: Product Security Engineer (University Grad) @ ORG_4f749de7 (instance #1)
-[2026-01-17T07:07:48.136Z] [BOT] 💾 BEFORE ARCHIVING: 2315 jobs in database
-[2026-01-17T07:07:48.138Z] [BOT] ✅ No jobs to archive (all 2315 jobs within 7-day window)
-[2026-01-17T07:07:48.153Z] [BOT] 💾 Saved posted_jobs.json: 2315 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:48.153Z] [BOT] 📍 [ROUTING] "Software Developer" @ ORG_a258b30f Lending Services
+[2026-01-17T07:26:43.211Z] [BOT] 📌 Posting 6 jobs to #💻・tech-jobs
+[2026-01-17T07:26:43.212Z] [BOT] 📍 [ROUTING] "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)" @ ORG_1bb6fcfb
    Category: TECH (matched: "software")
-[2026-01-17T07:07:48.153Z] [BOT] Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T07:07:48.330Z] [BOT] ✅ Created forum post: 🏢 Software Developer @ ORG_a258b30f Lending Services in #💻・tech-jobs
-  ✅ Industry: Software Developer @ ORG_a258b30f Lending Services
-[2026-01-17T07:07:50.059Z] [BOT] ✅ Created forum post: 🏢 Software Developer @ ORG_a258b30f Lending Services in #💻・remote-usa
-  ✅ Location: 💻・remote-usa
-[2026-01-17T07:07:51.560Z] [BOT] 💾 Marked as posted: Software Developer @ ORG_a258b30f Lending Services (instance #1)
-💾 BEFORE ARCHIVING: 2316 jobs in database
-[2026-01-17T07:07:51.561Z] [BOT] ✅ No jobs to archive (all 2316 jobs within 7-day window)
-[2026-01-17T07:07:51.574Z] [BOT] 💾 Saved posted_jobs.json: 2316 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:54.576Z] [BOT] 📌 Posting 2 jobs to #🤖・ai-jobs
-📍 [ROUTING] "Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS)" @ ORG_1bb6fcfb
-   Category: AI (matched: "machine learning")
-[2026-01-17T07:07:54.576Z] [BOT] Channel: 🤖・ai-jobs (1446...1106)
-   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-01-17T07:07:54.835Z] [BOT] ✅ Created forum post: 🏢 Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #🤖・ai-jobs
-  ✅ Industry: Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb
-[2026-01-17T07:07:56.527Z] [BOT] ✅ Created forum post: 🏢 Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #🌉・san-francisco
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-17T07:26:43.555Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Dem in #💻・tech-jobs
+[2026-01-17T07:26:43.555Z] [BOT] ✅ Industry: New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration) @ ORG_1bb6fcfb
+[2026-01-17T07:26:45.300Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Dem in #🌉・san-francisco
   ✅ Location: 🌉・san-francisco
-[2026-01-17T07:07:58.027Z] [BOT] 💾 Marked as posted: Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb (instance #1)
-[2026-01-17T07:07:58.028Z] [BOT] 💾 BEFORE ARCHIVING: 2317 jobs in database
-[2026-01-17T07:07:58.029Z] [BOT] ✅ No jobs to archive (all 2317 jobs within 7-day window)
-[2026-01-17T07:07:58.042Z] [BOT] 💾 Saved posted_jobs.json: 2317 active jobs
+[2026-01-17T07:26:46.802Z] [BOT] 💾 Marked as posted: New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration) @ ORG_1bb6fcfb (instance #1)
+💾 BEFORE ARCHIVING: 2320 jobs in database
+[2026-01-17T07:26:46.804Z] [BOT] ✅ No jobs to archive (all 2320 jobs within 7-day window)
+[2026-01-17T07:26:46.820Z] [BOT] 💾 Saved posted_jobs.json: 2320 active jobs
+[2026-01-17T07:26:46.821Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-17T07:26:46.821Z] [BOT] 📍 [ROUTING] "New Grad 2026: Software Engineer (Ads ML Infrastructure)" @ ORG_1bb6fcfb
+[2026-01-17T07:26:46.821Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-17T07:26:47.121Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Software Engineer (Ads ML Infrastructure) @ ORG_1bb6fcfb in #💻・tech-jobs
+[2026-01-17T07:26:47.121Z] [BOT] ✅ Industry: New Grad 2026: Software Engineer (Ads ML Infrastructure) @ ORG_1bb6fcfb
+[2026-01-17T07:26:48.835Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Software Engineer (Ads ML Infrastructure) @ ORG_1bb6fcfb in #🌉・san-francisco
+[2026-01-17T07:26:48.835Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-17T07:26:50.337Z] [BOT] 💾 Marked as posted: New Grad 2026: Software Engineer (Ads ML Infrastructure) @ ORG_1bb6fcfb (instance #1)
+[2026-01-17T07:26:50.337Z] [BOT] 💾 BEFORE ARCHIVING: 2321 jobs in database
+[2026-01-17T07:26:50.338Z] [BOT] ✅ No jobs to archive (all 2321 jobs within 7-day window)
+[2026-01-17T07:26:50.354Z] [BOT] 💾 Saved posted_jobs.json: 2321 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-17T07:07:58.043Z] [BOT] 📍 [ROUTING] "Machine Learning Engineer" @ ORG_28d3793c
-[2026-01-17T07:07:58.043Z] [BOT] Category: AI (matched: "machine learning")
+[2026-01-17T07:26:50.354Z] [BOT] 📍 [ROUTING] "Multiple Roles - Web Development Student Support" @ edX
+[2026-01-17T07:26:50.354Z] [BOT] Category: TECH (matched: "web/mobile dev")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-17T07:26:50.593Z] [BOT] ✅ Created forum post: 🏢 Multiple Roles - Web Development Student Support @ edX in #💻・tech-jobs
+  ✅ Industry: Multiple Roles - Web Development Student Support @ edX
+[2026-01-17T07:26:52.343Z] [BOT] ✅ Created forum post: 🏢 Multiple Roles - Web Development Student Support @ edX in #💻・remote-usa
+  ✅ Location: 💻・remote-usa
+[2026-01-17T07:26:53.846Z] [BOT] 💾 Marked as posted: Multiple Roles - Web Development Student Support @ edX (instance #1)
+[2026-01-17T07:26:53.846Z] [BOT] 💾 BEFORE ARCHIVING: 2322 jobs in database
+[2026-01-17T07:26:53.847Z] [BOT] ✅ No jobs to archive (all 2322 jobs within 7-day window)
+[2026-01-17T07:26:53.860Z] [BOT] 💾 Saved posted_jobs.json: 2322 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T07:26:53.861Z] [BOT] 📍 [ROUTING] "Production Programmer – Entry Level SQL Developer" @ ORG_9dc72f07 USA
+[2026-01-17T07:26:53.861Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-17T07:26:54.118Z] [BOT] ✅ Created forum post: 🏢 Production Programmer – Entry Level SQL Developer @ ORG_9dc72f07 USA in #💻・tech-jobs
+[2026-01-17T07:26:54.118Z] [BOT] ✅ Industry: Production Programmer – Entry Level SQL Developer @ ORG_9dc72f07 USA
+[2026-01-17T07:26:55.859Z] [BOT] ✅ Created forum post: 🏢 Production Programmer – Entry Level SQL Developer @ ORG_9dc72f07 USA in #💻・remote-usa
+[2026-01-17T07:26:55.859Z] [BOT] ✅ Location: 💻・remote-usa
+[2026-01-17T07:26:57.361Z] [BOT] 💾 Marked as posted: Production Programmer – Entry Level SQL Developer @ ORG_9dc72f07 USA (instance #1)
+[2026-01-17T07:26:57.361Z] [BOT] 💾 BEFORE ARCHIVING: 2323 jobs in database
+[2026-01-17T07:26:57.363Z] [BOT] ✅ No jobs to archive (all 2323 jobs within 7-day window)
+[2026-01-17T07:26:57.376Z] [BOT] 💾 Saved posted_jobs.json: 2323 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T07:26:57.377Z] [BOT] 📍 [ROUTING] "Graduate Leadership Program - AI & Software Engineering" @ ORG_b2822ace
+[2026-01-17T07:26:57.377Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-17T07:26:57.568Z] [BOT] ✅ Created forum post: 🏢 Graduate Leadership Program - AI & Software Engineering @ ORG_b2822ace in #💻・tech-jobs
+[2026-01-17T07:26:57.568Z] [BOT] ✅ Industry: Graduate Leadership Program - AI & Software Engineering @ ORG_b2822ace
+[2026-01-17T07:26:59.271Z] [BOT] ✅ Created forum post: 🏢 Graduate Leadership Program - AI & Software Engineering @ ORG_b2822ace in #🤠・austin
+[2026-01-17T07:26:59.271Z] [BOT] ✅ Location: 🤠・austin
+[2026-01-17T07:27:00.772Z] [BOT] 💾 Marked as posted: Graduate Leadership Program - AI & Software Engineering @ ORG_b2822ace (instance #1)
+[2026-01-17T07:27:00.772Z] [BOT] 💾 BEFORE ARCHIVING: 2324 jobs in database
+[2026-01-17T07:27:00.774Z] [BOT] ✅ No jobs to archive (all 2324 jobs within 7-day window)
+[2026-01-17T07:27:00.787Z] [BOT] 💾 Saved posted_jobs.json: 2324 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T07:27:00.788Z] [BOT] 💾 Marked as posted: Graduate Leadership Program - Data Analytics @ ORG_b2822ace (instance #1)
+[2026-01-17T07:27:00.788Z] [BOT] 💾 BEFORE ARCHIVING: 2325 jobs in database
+[2026-01-17T07:27:00.789Z] [BOT] ✅ No jobs to archive (all 2325 jobs within 7-day window)
+[2026-01-17T07:27:00.801Z] [BOT] 💾 Saved posted_jobs.json: 2325 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T07:27:00.802Z] [BOT] 📍 [ROUTING] "Graduate C++ Software Engineer" @ ORG_2de802b0 Vinci
+[2026-01-17T07:27:00.802Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-17T07:27:01.214Z] [BOT] ✅ Created forum post: 🏢 Graduate C++ Software Engineer @ ORG_2de802b0 Vinci in #💻・tech-jobs
+  ✅ Industry: Graduate C++ Software Engineer @ ORG_2de802b0 Vinci
+[2026-01-17T07:27:03.113Z] [BOT] ✅ Created forum post: 🏢 Graduate C++ Software Engineer @ ORG_2de802b0 Vinci in #💻・remote-usa
+  ✅ Location: 💻・remote-usa
+[2026-01-17T07:27:04.616Z] [BOT] 💾 Marked as posted: Graduate C++ Software Engineer @ ORG_2de802b0 Vinci (instance #1)
+[2026-01-17T07:27:04.616Z] [BOT] 💾 BEFORE ARCHIVING: 2326 jobs in database
+[2026-01-17T07:27:04.617Z] [BOT] ✅ No jobs to archive (all 2326 jobs within 7-day window)
+[2026-01-17T07:27:04.630Z] [BOT] 💾 Saved posted_jobs.json: 2326 active jobs
+[2026-01-17T07:27:04.630Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-17T07:27:07.632Z] [BOT] 📌 Posting 3 jobs to #🤖・ai-jobs
+[2026-01-17T07:27:07.632Z] [BOT] 📍 [ROUTING] "New Grad 2026: Machine Learning Engineer (Commerce Ads)" @ ORG_1bb6fcfb
+   Category: AI (matched: "machine learning")
    Channel: 🤖・ai-jobs (1446...1106)
    ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-01-17T07:07:58.297Z] [BOT] ✅ Created forum post: 🏢 Machine Learning Engineer @ ORG_28d3793c in #🤖・ai-jobs
-  ✅ Industry: Machine Learning Engineer @ ORG_28d3793c
-[2026-01-17T07:08:00.025Z] [BOT] ✅ Created forum post: 🏢 Machine Learning Engineer @ ORG_28d3793c in #🌧️・seattle
-  ✅ Location: 🌧️・seattle
-[2026-01-17T07:08:01.527Z] [BOT] 💾 Marked as posted: Machine Learning Engineer @ ORG_28d3793c (instance #1)
-💾 BEFORE ARCHIVING: 2318 jobs in database
-[2026-01-17T07:08:01.528Z] [BOT] ✅ No jobs to archive (all 2318 jobs within 7-day window)
-[2026-01-17T07:08:01.542Z] [BOT] 💾 Saved posted_jobs.json: 2318 active jobs
+[2026-01-17T07:27:07.939Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Machine Learning Engineer (Commerce Ads) @ ORG_1bb6fcfb in #🤖・ai-jobs
+  ✅ Industry: New Grad 2026: Machine Learning Engineer (Commerce Ads) @ ORG_1bb6fcfb
+[2026-01-17T07:27:09.636Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Machine Learning Engineer (Commerce Ads) @ ORG_1bb6fcfb in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-17T07:27:11.137Z] [BOT] 💾 Marked as posted: New Grad 2026: Machine Learning Engineer (Commerce Ads) @ ORG_1bb6fcfb (instance #1)
+[2026-01-17T07:27:11.137Z] [BOT] 💾 BEFORE ARCHIVING: 2327 jobs in database
+[2026-01-17T07:27:11.139Z] [BOT] ✅ No jobs to archive (all 2327 jobs within 7-day window)
+[2026-01-17T07:27:11.153Z] [BOT] 💾 Saved posted_jobs.json: 2327 active jobs
+[2026-01-17T07:27:11.153Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-17T07:27:11.153Z] [BOT] 📍 [ROUTING] "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)" @ ORG_1bb6fcfb
+   Category: AI (matched: "machine learning")
+[2026-01-17T07:27:11.154Z] [BOT] Channel: 🤖・ai-jobs (1446...1106)
+   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
+[2026-01-17T07:27:11.349Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) @ ORG_1bb6fcfb in #🤖・ai-jobs
+[2026-01-17T07:27:11.349Z] [BOT] ✅ Industry: New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) @ ORG_1bb6fcfb
+[2026-01-17T07:27:13.076Z] [BOT] ✅ Created forum post: 🏢 New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) @ ORG_1bb6fcfb in #🌉・san-francisco
+[2026-01-17T07:27:13.077Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-17T07:27:14.579Z] [BOT] 💾 Marked as posted: New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) @ ORG_1bb6fcfb (instance #1)
+[2026-01-17T07:27:14.579Z] [BOT] 💾 BEFORE ARCHIVING: 2328 jobs in database
+[2026-01-17T07:27:14.581Z] [BOT] ✅ No jobs to archive (all 2328 jobs within 7-day window)
+[2026-01-17T07:27:14.594Z] [BOT] 💾 Saved posted_jobs.json: 2328 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-17T07:08:04.542Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_bc68ad0e (posted within 7 days)
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_67095201 (posted within 7 days)
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_e3702d52 (posted within 7 days)
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_7cb7fce5 (posted within 7 days)
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_5ffad40c (posted within 7 days)
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_56d6aa79 (posted within 7 days)
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_a22e1a29 (posted within 7 days)
-⏭️  Skipping duplicate: JID_b27f664a (posted within 7 days)
-[2026-01-17T07:08:04.543Z] [BOT] ⏭️  Skipping duplicate: JID_22d97a8a (posted within 7 days)
-[2026-01-17T07:08:04.544Z] [BOT] ⏭️  Skipping duplicate: JID_6e7a6309 (posted within 7 days)
-[2026-01-17T07:08:04.692Z] [BOT] ✅ Loaded pending queue: 2884 total (2864 pending, 20 enriched, 0 posted)
-[2026-01-17T07:08:04.870Z] [BOT] ✅ Saved pending queue: 2884 total (2864 pending, 10 enriched, 10 posted)
-[2026-01-17T07:08:04.870Z] [BOT] 📋 Updated queue: marked 10 jobs as posted
+[2026-01-17T07:27:14.595Z] [BOT] 📍 [ROUTING] "2026 – Americas - Salt Lake City - Engineering New Analyst" @ ORG_d49bddaa Sachs
+   Category: AI (matched: "machine learning")
+   Channel: 🤖・ai-jobs (1446...1106)
+[2026-01-17T07:27:14.595Z] [BOT] ⚠️  Multiple matches: aiMatch, techMatch (using ai)
+[2026-01-17T07:27:14.784Z] [BOT] ✅ Created forum post: 🏢 2026 – Americas - Salt Lake City - Engineering New Analyst @ ORG_d49bddaa Sachs in #🤖・ai-jobs
+  ✅ Industry: 2026 – Americas - Salt Lake City - Engineering New Analyst @ ORG_d49bddaa Sachs
+[2026-01-17T07:27:16.479Z] [BOT] ✅ Created forum post: 🏢 2026 – Americas - Salt Lake City - Engineering New Analyst @ ORG_d49bddaa Sachs in #💻・remote-usa
+  ✅ Location: 💻・remote-usa
+[2026-01-17T07:27:17.980Z] [BOT] 💾 Marked as posted: 2026 – Americas - Salt Lake City - Engineering New Analyst @ ORG_d49bddaa Sachs (instance #1)
+[2026-01-17T07:27:17.981Z] [BOT] 💾 BEFORE ARCHIVING: 2329 jobs in database
+[2026-01-17T07:27:17.982Z] [BOT] ✅ No jobs to archive (all 2329 jobs within 7-day window)
+[2026-01-17T07:27:17.997Z] [BOT] 💾 Saved posted_jobs.json: 2329 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T07:27:20.997Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
+[2026-01-17T07:27:20.998Z] [BOT] ⏭️  Skipping duplicate: JID_aba714f4 (posted within 7 days)
+[2026-01-17T07:27:20.998Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_1ad6948f (posted within 7 days)
+[2026-01-17T07:27:20.998Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_13c19059 (posted within 7 days)
+⏭️  Skipping duplicate: JID_6796d1d6-CH_e618d0d3 (posted within 7 days)
+[2026-01-17T07:27:20.999Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_42df6b84 (posted within 7 days)
+[2026-01-17T07:27:20.999Z] [BOT] ⏭️  Skipping duplicate: JID_ca942bfb (posted within 7 days)
+[2026-01-17T07:27:20.999Z] [BOT] ⏭️  Skipping duplicate: JID_c851f929 (posted within 7 days)
+⏭️  Skipping duplicate: JID_0e76d18f (posted within 7 days)
+[2026-01-17T07:27:20.999Z] [BOT] ⏭️  Skipping duplicate: JID_e886390a (posted within 7 days)
+[2026-01-17T07:27:20.999Z] [BOT] ⏭️  Skipping duplicate: JID_085b4a59 (posted within 7 days)
+[2026-01-17T07:27:21.107Z] [BOT] ✅ Loaded pending queue: 2884 total (2864 pending, 20 enriched, 0 posted)
+[2026-01-17T07:27:21.297Z] [BOT] ✅ Saved pending queue: 2884 total (2864 pending, 10 enriched, 10 posted)
+[2026-01-17T07:27:21.298Z] [BOT] 📋 Updated queue: marked 10 jobs as posted
 ✅ All posting operations complete, cleaning up...
-[2026-01-17T07:08:04.931Z] [BOT] 📂 Loaded 4525 existing routing entries
-[2026-01-17T07:08:04.994Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+[2026-01-17T07:27:21.355Z] [BOT] 📂 Loaded 4535 existing routing entries
+[2026-01-17T07:27:21.423Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
    New entries: 10
-   Total entries: 4535
-[2026-01-17T07:08:04.994Z] [BOT] Timestamp: 2026-01-17T07:08:04.978Z
-[2026-01-17T07:08:04.995Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_a4acdb16.jsonl
-   Total attempts: 20
-[2026-01-17T07:08:04.995Z] [BOT] Successful: 19
-   Failed: 1
+   Total entries: 4545
+[2026-01-17T07:27:21.423Z] [BOT] Timestamp: 2026-01-17T07:27:21.403Z
+[2026-01-17T07:27:21.424Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_a4acdb16.jsonl
+[2026-01-17T07:27:21.424Z] [BOT] Total attempts: 20
+   Successful: 20
+   Failed: 0
    Skipped: 0
-📊 CHANNEL STATS SINCE LAST CLEANUP:
-   Last cleanup: Never
-   Total posts: 19
+[2026-01-17T07:27:21.424Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+[2026-01-17T07:27:21.424Z] [BOT] Last cleanup: Never
+   Total posts: 20
    Channels used: 6
    Top channels:
-     1. #💻・tech-jobs: 7 posts
-     2. #🌧️・seattle: 4 posts
-     3. #🌉・san-francisco: 3 posts
-     4. #💻・remote-usa: 2 posts
-     5. #🤖・ai-jobs: 2 posts
-[2026-01-17T07:08:04.995Z] [BOT] [STATS] Channel stats saved
-[2026-01-17T07:08:07.013Z] 
+[2026-01-17T07:27:21.424Z] [BOT] 1. #💻・tech-jobs: 6 posts
+[2026-01-17T07:27:21.425Z] [BOT] 2. #💻・remote-usa: 5 posts
+     3. #🌉・san-francisco: 4 posts
+     4. #🤖・ai-jobs: 3 posts
+[2026-01-17T07:27:21.425Z] [BOT] 5. #📣・marketing-jobs: 1 posts
+[2026-01-17T07:27:21.425Z] [BOT] [STATS] Channel stats saved
+[2026-01-17T07:27:23.450Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2519) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
-- [BOT ERROR] ❌ Error posting job Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS): DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT] ❌ Industry post failed: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)
+- [BOT ERROR] (node:2607) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
