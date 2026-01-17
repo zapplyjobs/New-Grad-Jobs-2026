@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T01:14:35.292Z",
+  "lastUpdated": "2026-01-17T01:56:08.128Z",
   "jobs": [
-    {
-      "id": "travelers-wd5-myworkdayjobs-com-external-job-mn-st-paul-software-engineer-ii-mobile-node-react-aws-_r-48003-1-2026-01-10-1",
-      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-mn-st-paul-software-engineer-ii-mobile-node-react-aws-_r-48003-1",
-      "company": "The Travelers Companies",
-      "title": "Software Engineer 2 - Multiple Teams",
-      "postedToDiscord": "2026-01-10T01:14:36.207Z",
-      "sourceDate": "2026-01-09T23:39:23.000Z",
-      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-II--Mobile--Node--React--AWS-_R-48003-1",
-      "discordThreadId": "1459354695553384644",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-nv5-icims-com-jobs-11617-job-2026-01-10-1",
-      "jobId": "careers-nv5-icims-com-jobs-11617-job",
-      "company": "NV5 Global",
-      "title": "Technician",
-      "postedToDiscord": "2026-01-10T01:14:42.815Z",
-      "sourceDate": "2026-01-09T23:23:19.000Z",
-      "sourceUrl": "https://careers-nv5.icims.com/jobs/11617/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1459354722220642431",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-claylabs-7db82522-dd30-4777-bfe2-f7a3aff6b00d-application-2026-01-10-1",
-      "jobId": "jobs-ashbyhq-com-claylabs-7db82522-dd30-4777-bfe2-f7a3aff6b00d-application",
-      "company": "Clay",
-      "title": "Data Analyst",
-      "postedToDiscord": "2026-01-10T01:14:49.622Z",
-      "sourceDate": "2026-01-09T23:22:45.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/claylabs/7db82522-dd30-4777-bfe2-f7a3aff6b00d/application",
-      "discordThreadId": "1459354750456696903",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hollandhospital-wd1-myworkdayjobs-com-external-job-holland-mi-data-analyst-physician-hospital-organization-full-time-hybrid_jr104028-2026-01-10-1",
-      "jobId": "hollandhospital-wd1-myworkdayjobs-com-external-job-holland-mi-data-analyst-physician-hospital-organization-full-time-hybrid_jr104028",
-      "company": "Holland Hospital",
-      "title": "Data Analyst - Physician Hospital Organization - Full time(Hybrid)",
-      "postedToDiscord": "2026-01-10T01:55:45.251Z",
-      "sourceDate": "2026-01-09T23:21:10.000Z",
-      "sourceUrl": "https://hollandhospital.wd1.myworkdayjobs.com/external/job/Holland-MI/Data-Analyst--Physician-Hospital-Organization---full-time--hybrid_JR104028",
-      "discordThreadId": "1459365050505625753",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891-2026-01-10-1",
-      "jobId": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891",
-      "company": "University of Nevada Las Vegas (UNLV)",
-      "title": "Postdoctoral Scholar - Interdisciplinary Data Science",
-      "postedToDiscord": "2026-01-10T01:55:51.643Z",
-      "sourceDate": "2026-01-09T23:18:44.000Z",
-      "sourceUrl": "https://nshe.wd1.myworkdayjobs.com/unlv-external/job/UNLV1-Main-Campus-Las-Vegas/Postdoctoral-Scholar--Interdisciplinary-Data-Science--College-of-Engineering--R0144891-_R0144891",
-      "discordThreadId": "1459365078406271007",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
       "jobId": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199",
@@ -24410,16 +24355,37 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979191923",
       "discordThreadId": "1461891406627868748",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-106636129-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-106636129",
+      "company": "AG Technologies",
+      "title": "Hiring Recent graduated students for full time jobs",
+      "postedToDiscord": "2026-01-17T01:56:04.855Z",
+      "sourceDate": "2025-08-12T10:42:54.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/106636129",
+      "discordThreadId": "1461901848720965763",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-agtechnologies1-743999658570182-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999658570182",
+      "company": "AG Technologies",
+      "title": "Hiring Software Engineer",
+      "postedToDiscord": "2026-01-17T01:56:08.127Z",
+      "sourceDate": "2025-08-12T10:39:34.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658570182",
+      "discordThreadId": "1461901862964953108",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2219,
+    "totalJobs": 2216,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T01:14:35.292Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-17T01:56:08.128Z",
+      "archived": 0
     }
   }
 }
