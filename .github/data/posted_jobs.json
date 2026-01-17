@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T19:37:06.055Z",
+  "lastUpdated": "2026-01-17T19:52:43.838Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26775,14 +26775,135 @@
       "sourceUrl": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
       "discordThreadId": "1462168862668882116",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041343008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041343008",
+      "company": "anthropic",
+      "title": "Security Development Project Specialist",
+      "postedToDiscord": "2026-01-17T19:51:58.845Z",
+      "sourceDate": "2026-01-05T15:20:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041343008",
+      "discordThreadId": "1462172607460802806",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5026197008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026197008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Claude Services",
+      "postedToDiscord": "2026-01-17T19:52:02.327Z",
+      "sourceDate": "2026-01-05T16:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026197008",
+      "discordThreadId": "1462172622187134976",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5686511004-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5686511004",
+      "company": "vercel",
+      "title": "Recruiting Coordinator (Contract)",
+      "postedToDiscord": "2026-01-17T19:52:08.996Z",
+      "sourceDate": "2026-01-12T15:26:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5686511004",
+      "discordThreadId": "1462172649357574297",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-parkhill-icims-com-jobs-1350-job-2026-01-17-1",
+      "jobId": "careers-parkhill-icims-com-jobs-1350-job",
+      "company": "Parkhill",
+      "title": "Senior Lidar Specialist",
+      "postedToDiscord": "2026-01-17T19:52:12.912Z",
+      "sourceDate": "2025-11-14T09:22:03.000Z",
+      "sourceUrl": "https://careers-parkhill.icims.com/jobs/1350/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462172664780029962",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5741899004-2026-01-17-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5741899004",
+      "company": "figma",
+      "title": "Senior Manager, Enterprise Sales - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-17T19:52:19.757Z",
+      "sourceDate": "2026-01-12T13:58:27-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5741899004?gh_jid=5741899004",
+      "discordThreadId": "1462172693775384682",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5739002004-2026-01-17-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5739002004",
+      "company": "figma",
+      "title": "GTM Strategy Manager ",
+      "postedToDiscord": "2026-01-17T19:52:23.245Z",
+      "sourceDate": "2026-01-05T16:34:19-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739002004?gh_jid=5739002004",
+      "discordThreadId": "1462172710019793018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7504966-2026-01-17-1",
+      "jobId": "careers-datadoghq-com-detail-7504966",
+      "company": "datadog",
+      "title": "Head of Sales Programs",
+      "postedToDiscord": "2026-01-17T19:52:26.679Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7504966/?gh_jid=7504966",
+      "discordThreadId": "1462172724334952490",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-kimley-horn-icims-com-jobs-21496-job-2026-01-17-1",
+      "jobId": "careers-kimley-horn-icims-com-jobs-21496-job",
+      "company": "Kimley-Horn",
+      "title": "Transportation Planning Analyst",
+      "postedToDiscord": "2026-01-17T19:52:33.327Z",
+      "sourceDate": "2025-12-17T23:22:54.000Z",
+      "sourceUrl": "https://careers-kimley-horn.icims.com/jobs/21496/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462172751568834716",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4955107008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4955107008",
+      "company": "anthropic",
+      "title": "Software Engineer, Platform",
+      "postedToDiscord": "2026-01-17T19:52:40.110Z",
+      "sourceDate": "2026-01-12T17:05:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4955107008",
+      "discordThreadId": "1462172779683119311",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7531469-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7531469",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Mid-Market (Goods - Acquisitions)",
+      "postedToDiscord": "2026-01-17T19:52:43.817Z",
+      "sourceDate": "2026-01-12T17:14:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531469",
+      "discordThreadId": "1462172795411628216",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7531467-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7531467",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Mid-Market (Goods)",
+      "postedToDiscord": "2026-01-17T19:52:43.838Z",
+      "sourceDate": "2026-01-12T17:12:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531467",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2434,
+    "totalJobs": 2445,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T19:37:06.055Z",
+      "date": "2026-01-17T19:52:43.838Z",
       "archived": 0
     }
   }

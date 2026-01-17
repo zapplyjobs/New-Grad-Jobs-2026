@@ -1,422 +1,238 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-17T19:37:26.406Z
+**Timestamp:** 2026-01-17T19:52:50.547Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 0
-- **Jobs Failed:** 10
+- **Jobs Posted:** 10
+- **Jobs Failed:** 0
 - **Jobs Skipped:** 0
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-17T19:36:52.856Z] ========================================
-[2026-01-17T19:36:52.858Z] Discord Bot Execution Log
-[2026-01-17T19:36:52.858Z] Environment: GitHub Actions
-[2026-01-17T19:36:52.858Z] Node Version: v20.19.6
-[2026-01-17T19:36:52.858Z] ========================================
-[2026-01-17T19:36:52.858Z] Environment Variables Check:
-[2026-01-17T19:36:52.858Z] DISCORD_TOKEN: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-17T19:36:52.859Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-17T19:36:52.859Z] 
+[2026-01-17T19:51:54.073Z] ========================================
+[2026-01-17T19:51:54.075Z] Discord Bot Execution Log
+[2026-01-17T19:51:54.075Z] Environment: GitHub Actions
+[2026-01-17T19:51:54.075Z] Node Version: v20.19.6
+[2026-01-17T19:51:54.075Z] ========================================
+[2026-01-17T19:51:54.076Z] Environment Variables Check:
+[2026-01-17T19:51:54.076Z] DISCORD_TOKEN: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-17T19:51:54.076Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-17T19:51:54.076Z] 
 Multi-Channel Configuration:
-[2026-01-17T19:36:52.859Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.859Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.860Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-17T19:36:52.860Z] 
+[2026-01-17T19:51:54.076Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.076Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.077Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.077Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-17T19:51:54.077Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-17T19:36:52.860Z] 
+[2026-01-17T19:51:54.077Z] 
 Data Files Check:
-[2026-01-17T19:36:52.861Z] .github/data/new_jobs.json: ✅ Exists (10 items, 114625 bytes)
-[2026-01-17T19:36:52.870Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1314732 bytes)
-[2026-01-17T19:36:52.870Z] 
+[2026-01-17T19:51:54.078Z] .github/data/new_jobs.json: ✅ Exists (10 items, 149468 bytes)
+[2026-01-17T19:51:54.088Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1316403 bytes)
+[2026-01-17T19:51:54.088Z] 
 ========================================
-[2026-01-17T19:36:52.870Z] Starting Enhanced Discord Bot...
-[2026-01-17T19:36:52.870Z] ========================================
-[2026-01-17T19:36:53.389Z] [BOT] ✅ Loaded V2 database: 2431 jobs
-[2026-01-17T19:36:54.153Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-17T19:36:54.154Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-17T19:51:54.088Z] Starting Enhanced Discord Bot...
+[2026-01-17T19:51:54.088Z] ========================================
+[2026-01-17T19:51:54.630Z] [BOT] ✅ Loaded V2 database: 2434 jobs
+[2026-01-17T19:51:55.226Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-17T19:51:55.226Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-01-17T19:36:54.154Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-17T19:36:54.295Z] [BOT] ✅ Loaded pending queue: 2905 total (2885 pending, 20 enriched, 0 posted)
+[2026-01-17T19:51:55.226Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-17T19:51:55.347Z] [BOT] ✅ Loaded pending queue: 2904 total (2884 pending, 20 enriched, 0 posted)
 [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
-[BOT] 🔍 Sample enriched job: Staff Software Engineer, Machine Learning (Safety) at discord
-[2026-01-17T19:36:54.297Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
-[2026-01-17T19:36:54.298Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
-[2026-01-17T19:36:54.298Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
-[2026-01-17T19:36:54.299Z] [BOT] 📋 After multi-location grouping: 19 unique jobs to post
-[2026-01-17T19:36:54.299Z] [BOT] (1 grouped as same job with different locations)
+[BOT] 🔍 Sample enriched job: Security Development Project Specialist at anthropic
+[2026-01-17T19:51:55.350Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
+[2026-01-17T19:51:55.351Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
+[2026-01-17T19:51:55.351Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
+[2026-01-17T19:51:55.352Z] [BOT] 📋 After multi-location grouping: 19 unique jobs to post
+[2026-01-17T19:51:55.352Z] [BOT] (1 grouped as same job with different locations)
 ⏸️ Limiting to 10 jobs this run, 10 deferred for next run
 📤 Posting 10 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-17T19:36:54.304Z] [BOT] 📌 Posting 2 jobs to #🤖・ai-jobs
-[2026-01-17T19:36:54.304Z] [BOT] 📍 [ROUTING] "Staff Software Engineer, Machine Learning (Safety)" @ discord
-[2026-01-17T19:36:54.305Z] [BOT] Category: AI (matched: "machine learning")
-   Channel: 🤖・ai-jobs (1446...1106)
-   ⚠️  Multiple matches: aiMatch, dsMatch, techMatch (using ai)
-[2026-01-17T19:36:54.309Z] [BOT ERROR] (node:2615) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-17T19:51:55.357Z] [BOT] 📌 Posting 2 jobs to #💻・tech-jobs
+[2026-01-17T19:51:55.357Z] [BOT] 📍 [ROUTING] "Security Development Project Specialist" @ anthropic
+[2026-01-17T19:51:55.357Z] [BOT] Category: TECH (matched: "security")
+   Channel: 💻・tech-jobs (1391...8819)
+[2026-01-17T19:51:55.362Z] [BOT ERROR] (node:2776) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-17T19:36:54.586Z] [BOT] ✅ Created forum post: 🏢 Staff Software Engineer, Machine Learning (Safety) @ discord in #🤖・ai-jobs
-[2026-01-17T19:36:54.586Z] [BOT] ✅ Industry: Staff Software Engineer, Machine Learning (Safety) @ discord
-[2026-01-17T19:36:56.266Z] [BOT] ✅ Created forum post: 🏢 Staff Software Engineer, Machine Learning (Safety) @ discord in #🌉・san-francisco
-[2026-01-17T19:36:56.266Z] [BOT] ✅ Location: 🌉・san-francisco
-[2026-01-17T19:36:57.766Z] [BOT] 💾 Marked as posted: Staff Software Engineer, Machine Learning (Safety) @ discord (instance #1)
-[2026-01-17T19:36:57.766Z] [BOT] 💾 BEFORE ARCHIVING: 2432 jobs in database
-[2026-01-17T19:36:57.768Z] [BOT] ✅ No jobs to archive (all 2432 jobs within 7-day window)
-[2026-01-17T19:36:57.786Z] [BOT] 💾 Saved posted_jobs.json: 2432 active jobs
-[2026-01-17T19:36:57.786Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-17T19:36:57.787Z] [BOT] 📍 [ROUTING] "Senior Director, Marketing Communications" @ gohighlevel
-   Category: AI (matched: "artificial intelligence")
-[2026-01-17T19:36:57.787Z] [BOT] Channel: 🤖・ai-jobs (1446...1106)
-[2026-01-17T19:36:57.997Z] [BOT] ✅ Created forum post: 🏢 Senior Director, Marketing Communications @ gohighlevel in #🤖・ai-jobs
-[2026-01-17T19:36:57.997Z] [BOT] ✅ Industry: Senior Director, Marketing Communications @ gohighlevel
-[2026-01-17T19:36:59.499Z] [BOT] 💾 Marked as posted: Senior Director, Marketing Communications @ gohighlevel (instance #1)
-[2026-01-17T19:36:59.500Z] [BOT] 💾 BEFORE ARCHIVING: 2433 jobs in database
-[2026-01-17T19:36:59.501Z] [BOT] ✅ No jobs to archive (all 2433 jobs within 7-day window)
-[2026-01-17T19:36:59.515Z] [BOT] 💾 Saved posted_jobs.json: 2433 active jobs
+[2026-01-17T19:51:55.591Z] [BOT] ✅ Created forum post: 🏢 Security Development Project Specialist @ anthropic in #💻・tech-jobs
+[2026-01-17T19:51:55.591Z] [BOT] ✅ Industry: Security Development Project Specialist @ anthropic
+[2026-01-17T19:51:57.346Z] [BOT] ✅ Created forum post: 🏢 Security Development Project Specialist @ anthropic in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-17T19:51:58.846Z] [BOT] 💾 Marked as posted: Security Development Project Specialist @ anthropic (instance #1)
+[2026-01-17T19:51:58.846Z] [BOT] 💾 BEFORE ARCHIVING: 2435 jobs in database
+[2026-01-17T19:51:58.848Z] [BOT] ✅ No jobs to archive (all 2435 jobs within 7-day window)
+[2026-01-17T19:51:58.867Z] [BOT] 💾 Saved posted_jobs.json: 2435 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-17T19:37:02.516Z] [BOT] 📌 Posting 3 jobs to #💻・tech-jobs
-[2026-01-17T19:37:02.516Z] [BOT] 📍 [ROUTING] "Software Integration Engineer, Factory Firmware" @ ORG_f89f8538
-   Category: TECH (matched: "software")
+[2026-01-17T19:51:58.867Z] [BOT] 📍 [ROUTING] "Engineering Manager, Claude Services" @ anthropic
+[2026-01-17T19:51:58.868Z] [BOT] Category: TECH (matched: "engineer/engineering")
    Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T19:37:02.924Z] [BOT] ✅ Created forum post: ⚡ Software Integration Engineer, Factory Firmware @ ORG_f89f8538 in #💻・tech-jobs
-[2026-01-17T19:37:02.924Z] [BOT] ✅ Industry: Software Integration Engineer, Factory Firmware @ ORG_f89f8538
-[2026-01-17T19:37:04.554Z] [BOT ERROR] ❌ Error posting job Software Integration Engineer, Factory Firmware: DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:935:40) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '⚡ Software Integration Engineer, Factory Firmware @ Tesla',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_fac6befb/threads'
-}
-[2026-01-17T19:37:04.554Z] [BOT] ⚠️ Location post failed: 🌉・san-francisco
-[2026-01-17T19:37:06.055Z] [BOT] 💾 Marked as posted: Software Integration Engineer, Factory Firmware @ ORG_f89f8538 (instance #1)
-[2026-01-17T19:37:06.055Z] [BOT] 💾 BEFORE ARCHIVING: 2434 jobs in database
-[2026-01-17T19:37:06.057Z] [BOT] ✅ No jobs to archive (all 2434 jobs within 7-day window)
-[2026-01-17T19:37:06.074Z] [BOT] 💾 Saved posted_jobs.json: 2434 active jobs
-[2026-01-17T19:37:06.074Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-17T19:37:06.074Z] [BOT] 📍 [ROUTING] "Security Development Project Specialist" @ anthropic
-[2026-01-17T19:37:06.074Z] [BOT] Category: TECH (matched: "security")
-[2026-01-17T19:37:06.074Z] [BOT] Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T19:37:06.191Z] [BOT ERROR] ❌ Error posting job Security Development Project Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Security Development Project Specialist @ anthropic',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_717e47bc/threads'
-}
-[2026-01-17T19:37:06.191Z] [BOT] ❌ Industry post failed: Security Development Project Specialist
-⚠️  Channel full error count: 1/5
-[2026-01-17T19:37:07.809Z] [BOT ERROR] ❌ Error posting job Security Development Project Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:935:40) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Security Development Project Specialist @ anthropic',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_fac6befb/threads'
-}
-[2026-01-17T19:37:07.809Z] [BOT] ⚠️ Location post failed: 🌉・san-francisco
-[2026-01-17T19:37:09.310Z] [BOT] 📍 [ROUTING] "Engineering Manager, Claude Services" @ anthropic
-[2026-01-17T19:37:09.310Z] [BOT] Category: TECH (matched: "engineer/engineering")
-   Channel: 💻・tech-jobs (1391...8819)
-[2026-01-17T19:37:09.474Z] [BOT ERROR] ❌ Error posting job Engineering Manager, Claude Services: DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Engineering Manager, Claude Services @ anthropic',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_717e47bc/threads'
-}
-[2026-01-17T19:37:09.474Z] [BOT] ❌ Industry post failed: Engineering Manager, Claude Services
-⚠️  Channel full error count: 2/5
-[2026-01-17T19:37:11.098Z] [BOT ERROR] ❌ Error posting job Engineering Manager, Claude Services: DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:935:40) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Engineering Manager, Claude Services @ anthropic',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_fac6befb/threads'
-}
-[2026-01-17T19:37:11.098Z] [BOT] ⚠️ Location post failed: 🌉・san-francisco
-[2026-01-17T19:37:15.600Z] [BOT] 📌 Posting 2 jobs to #📣・marketing-jobs
-[2026-01-17T19:37:15.600Z] [BOT] 📍 [ROUTING] "Recruiting Coordinator (Contract)" @ vercel
+[2026-01-17T19:51:59.063Z] [BOT] ✅ Created forum post: 🏢 Engineering Manager, Claude Services @ anthropic in #💻・tech-jobs
+[2026-01-17T19:51:59.063Z] [BOT] ✅ Industry: Engineering Manager, Claude Services @ anthropic
+[2026-01-17T19:52:00.826Z] [BOT] ✅ Created forum post: 🏢 Engineering Manager, Claude Services @ anthropic in #🌉・san-francisco
+[2026-01-17T19:52:00.827Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-17T19:52:02.328Z] [BOT] 💾 Marked as posted: Engineering Manager, Claude Services @ anthropic (instance #1)
+[2026-01-17T19:52:02.328Z] [BOT] 💾 BEFORE ARCHIVING: 2436 jobs in database
+[2026-01-17T19:52:02.330Z] [BOT] ✅ No jobs to archive (all 2436 jobs within 7-day window)
+[2026-01-17T19:52:02.343Z] [BOT] 💾 Saved posted_jobs.json: 2436 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:05.345Z] [BOT] 📌 Posting 2 jobs to #📣・marketing-jobs
+[2026-01-17T19:52:05.345Z] [BOT] 📍 [ROUTING] "Recruiting Coordinator (Contract)" @ vercel
    Category: MARKETING (matched: "marketing")
-[2026-01-17T19:37:15.600Z] [BOT] Channel: 📣・marketing-jobs (1391...4570)
-[2026-01-17T19:37:15.866Z] [BOT ERROR] ❌ Error posting job Recruiting Coordinator (Contract): DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Recruiting Coordinator (Contract) @ vercel',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_61c65c32/threads'
-}
-[2026-01-17T19:37:15.866Z] [BOT] ❌ Industry post failed: Recruiting Coordinator (Contract)
-⚠️  Channel full error count: 3/5
-[2026-01-17T19:37:17.497Z] [BOT ERROR] ❌ Error posting job Recruiting Coordinator (Contract): DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:935:40) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Recruiting Coordinator (Contract) @ vercel',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_fac6befb/threads'
-}
-[2026-01-17T19:37:17.497Z] [BOT] ⚠️ Location post failed: 🌉・san-francisco
-[2026-01-17T19:37:18.998Z] [BOT] 📍 [ROUTING] "Senior Lidar Specialist" @ ORG_6ae04125
+   Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-17T19:52:05.553Z] [BOT] ✅ Created forum post: 🏢 Recruiting Coordinator (Contract) @ vercel in #📣・marketing-jobs
+  ✅ Industry: Recruiting Coordinator (Contract) @ vercel
+[2026-01-17T19:52:07.495Z] [BOT] ✅ Created forum post: 🏢 Recruiting Coordinator (Contract) @ vercel in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-17T19:52:08.997Z] [BOT] 💾 Marked as posted: Recruiting Coordinator (Contract) @ vercel (instance #1)
+[2026-01-17T19:52:08.997Z] [BOT] 💾 BEFORE ARCHIVING: 2437 jobs in database
+[2026-01-17T19:52:09.000Z] [BOT] ✅ No jobs to archive (all 2437 jobs within 7-day window)
+[2026-01-17T19:52:09.019Z] [BOT] 💾 Saved posted_jobs.json: 2437 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:09.019Z] [BOT] 📍 [ROUTING] "Senior Lidar Specialist" @ ORG_6ae04125
    Category: MARKETING (matched: "growth")
-[2026-01-17T19:37:18.998Z] [BOT] Channel: 📣・marketing-jobs (1391...4570)
-[2026-01-17T19:37:19.129Z] [BOT ERROR] ❌ Error posting job Senior Lidar Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Senior Lidar Specialist @ Parkhill',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_61c65c32/threads'
-}
-[2026-01-17T19:37:19.129Z] [BOT] ❌ Industry post failed: Senior Lidar Specialist
-⚠️  Channel full error count: 4/5
-[2026-01-17T19:37:20.767Z] [BOT ERROR] ❌ Error posting job Senior Lidar Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:935:40) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Senior Lidar Specialist @ Parkhill',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_7bf909b6/threads'
-}
-[2026-01-17T19:37:20.767Z] [BOT] ⚠️ Location post failed: 💻・remote-usa
-[2026-01-17T19:37:25.269Z] [BOT] 📌 Posting 2 jobs to #💲・sales-jobs
-[2026-01-17T19:37:25.269Z] [BOT] 📍 [ROUTING] "Senior Manager, Enterprise Sales - Figma Weave (New York, United States)" @ figma
+[2026-01-17T19:52:09.019Z] [BOT] Channel: 📣・marketing-jobs (1391...4570)
+[2026-01-17T19:52:09.318Z] [BOT] ✅ Created forum post: 🏢 Senior Lidar Specialist @ ORG_6ae04125 in #📣・marketing-jobs
+[2026-01-17T19:52:09.318Z] [BOT] ✅ Industry: Senior Lidar Specialist @ ORG_6ae04125
+[2026-01-17T19:52:11.411Z] [BOT] ✅ Created forum post: 🏢 Senior Lidar Specialist @ ORG_6ae04125 in #💻・remote-usa
+[2026-01-17T19:52:11.411Z] [BOT] ✅ Location: 💻・remote-usa
+[2026-01-17T19:52:12.912Z] [BOT] 💾 Marked as posted: Senior Lidar Specialist @ ORG_6ae04125 (instance #1)
+[2026-01-17T19:52:12.913Z] [BOT] 💾 BEFORE ARCHIVING: 2438 jobs in database
+[2026-01-17T19:52:12.914Z] [BOT] ✅ No jobs to archive (all 2438 jobs within 7-day window)
+[2026-01-17T19:52:12.930Z] [BOT] 💾 Saved posted_jobs.json: 2438 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:15.931Z] [BOT] 📌 Posting 3 jobs to #💲・sales-jobs
+[2026-01-17T19:52:15.931Z] [BOT] 📍 [ROUTING] "Senior Manager, Enterprise Sales - Figma Weave (New York, United States)" @ figma
+[2026-01-17T19:52:15.931Z] [BOT] Category: SALES (matched: "sales")
+   Channel: 💲・sales-jobs (1391...3632)
+[2026-01-17T19:52:16.202Z] [BOT] ✅ Created forum post: 🏢 Senior Manager, Enterprise Sales - Figma Weave (New York, United States) @ figma in #💲・sales-jobs
+  ✅ Industry: Senior Manager, Enterprise Sales - Figma Weave (New York, United States) @ figma
+[2026-01-17T19:52:18.256Z] [BOT] ✅ Created forum post: 🏢 Senior Manager, Enterprise Sales - Figma Weave (New York, United States) @ figma in #🗽・new-york
+  ✅ Location: 🗽・new-york
+[2026-01-17T19:52:19.758Z] [BOT] 💾 Marked as posted: Senior Manager, Enterprise Sales - Figma Weave (New York, United States) @ figma (instance #1)
+[2026-01-17T19:52:19.758Z] [BOT] 💾 BEFORE ARCHIVING: 2439 jobs in database
+[2026-01-17T19:52:19.760Z] [BOT] ✅ No jobs to archive (all 2439 jobs within 7-day window)
+[2026-01-17T19:52:19.777Z] [BOT] 💾 Saved posted_jobs.json: 2439 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:19.777Z] [BOT] 📍 [ROUTING] "GTM Strategy Manager " @ figma
+[2026-01-17T19:52:19.777Z] [BOT] Category: SALES (matched: "sales")
+[2026-01-17T19:52:19.777Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
+[2026-01-17T19:52:20.010Z] [BOT] ✅ Created forum post: 🏢 GTM Strategy Manager  @ figma in #💲・sales-jobs
+  ✅ Industry: GTM Strategy Manager  @ figma
+[2026-01-17T19:52:21.743Z] [BOT] ✅ Created forum post: 🏢 GTM Strategy Manager  @ figma in #🗽・new-york
+  ✅ Location: 🗽・new-york
+[2026-01-17T19:52:23.245Z] [BOT] 💾 Marked as posted: GTM Strategy Manager  @ figma (instance #1)
+[2026-01-17T19:52:23.246Z] [BOT] 💾 BEFORE ARCHIVING: 2440 jobs in database
+[2026-01-17T19:52:23.247Z] [BOT] ✅ No jobs to archive (all 2440 jobs within 7-day window)
+[2026-01-17T19:52:23.262Z] [BOT] 💾 Saved posted_jobs.json: 2440 active jobs
+[2026-01-17T19:52:23.262Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:23.262Z] [BOT] 📍 [ROUTING] "Head of Sales Programs" @ datadog
    Category: SALES (matched: "sales")
-[2026-01-17T19:37:25.270Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
-[2026-01-17T19:37:25.525Z] [BOT ERROR] ❌ Error posting job Senior Manager, Enterprise Sales - Figma Weave (New York, United States): DiscordAPIError[160006]: Maximum number of active threads reached
-    at handleErrors (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:762:13)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async SequentialHandler.runRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1163:23)
-    at async SequentialHandler.queueRequest (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:994:14)
-    at async _REST.request (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/@discordjs/rest/dist/index.js:1307:22)
-    at async GuildForumThreadManager.create (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/node_modules/discord.js/src/managers/GuildForumThreadManager.js:67:18)
-    at async postJobToForum (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:1364:22)
-    at async Client.<anonymous> (/home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/scripts/JID_f05b60e7.js:866:32) {
-  requestBody: {
-    files: [],
-    json: {
-      name: '🏢 Senior Manager, Enterprise Sales - Figma Weave (New York, United States) @ figma',
-      auto_archive_duration: 1440,
-      rate_limit_per_user: undefined,
-      applied_tags: undefined,
-      message: [Object]
-    }
-  },
-  rawError: { message: 'Maximum number of active threads reached', code: 160006 },
-  code: 160006,
-  status: 400,
-  method: 'POST',
-  url: 'https://discord.com/api/v10/channels/CH_0a8e6a27/threads'
-}
-[2026-01-17T19:37:25.525Z] [BOT] ❌ Industry post failed: Senior Manager, Enterprise Sales - Figma Weave (New York, United States)
-⚠️  Channel full error count: 5/5
-❌ CRITICAL: Discord channel #💲・sales-jobs is full (max active threads reached)
-❌ Exiting early to avoid timeout. 3 jobs posted, 6 failed.
-💡 ACTION REQUIRED: Archive old threads in Discord channel to make room for new posts.
-[2026-01-17T19:37:25.526Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_a4acdb16.jsonl
-[2026-01-17T19:37:25.526Z] [BOT] Total attempts: 14
-   Successful: 4
-   Failed: 10
+[2026-01-17T19:52:23.262Z] [BOT] Channel: 💲・sales-jobs (1391...3632)
+[2026-01-17T19:52:23.487Z] [BOT] ✅ Created forum post: 🏢 Head of Sales Programs @ datadog in #💲・sales-jobs
+  ✅ Industry: Head of Sales Programs @ datadog
+[2026-01-17T19:52:25.179Z] [BOT] ✅ Created forum post: 🏢 Head of Sales Programs @ datadog in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-17T19:52:26.679Z] [BOT] 💾 Marked as posted: Head of Sales Programs @ datadog (instance #1)
+[2026-01-17T19:52:26.679Z] [BOT] 💾 BEFORE ARCHIVING: 2441 jobs in database
+[2026-01-17T19:52:26.681Z] [BOT] ✅ No jobs to archive (all 2441 jobs within 7-day window)
+[2026-01-17T19:52:26.697Z] [BOT] 💾 Saved posted_jobs.json: 2441 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:29.697Z] [BOT] 📌 Posting 1 jobs to #🩺・healthcare-jobs
+[2026-01-17T19:52:29.697Z] [BOT] 📍 [ROUTING] "Transportation Planning Analyst" @ Kimley-Horn
+   Category: HEALTHCARE (matched: "medical")
+   Channel: 🩺・healthcare-jobs (1391...4716)
+[2026-01-17T19:52:30.051Z] [BOT] ✅ Created forum post: 🏢 Transportation Planning Analyst @ Kimley-Horn in #🩺・healthcare-jobs
+[2026-01-17T19:52:30.051Z] [BOT] ✅ Industry: Transportation Planning Analyst @ Kimley-Horn
+[2026-01-17T19:52:31.826Z] [BOT] ✅ Created forum post: 🏢 Transportation Planning Analyst @ Kimley-Horn in #🤠・austin
+[2026-01-17T19:52:31.826Z] [BOT] ✅ Location: 🤠・austin
+[2026-01-17T19:52:33.328Z] [BOT] 💾 Marked as posted: Transportation Planning Analyst @ Kimley-Horn (instance #1)
+[2026-01-17T19:52:33.328Z] [BOT] 💾 BEFORE ARCHIVING: 2442 jobs in database
+[2026-01-17T19:52:33.329Z] [BOT] ✅ No jobs to archive (all 2442 jobs within 7-day window)
+[2026-01-17T19:52:33.345Z] [BOT] 💾 Saved posted_jobs.json: 2442 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:36.346Z] [BOT] 📌 Posting 2 jobs to #🤖・ai-jobs
+[2026-01-17T19:52:36.346Z] [BOT] 📍 [ROUTING] "Software Engineer, Platform" @ anthropic
+[2026-01-17T19:52:36.346Z] [BOT] Category: AI (matched: "AI specialization")
+   Channel: 🤖・ai-jobs (1446...1106)
+   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
+[2026-01-17T19:52:36.840Z] [BOT] ✅ Created forum post: 🏢 Software Engineer, Platform @ anthropic in #🤖・ai-jobs
+  ✅ Industry: Software Engineer, Platform @ anthropic
+[2026-01-17T19:52:38.610Z] [BOT] ✅ Created forum post: 🏢 Software Engineer, Platform @ anthropic in #🌉・san-francisco
+  ✅ Location: 🌉・san-francisco
+[2026-01-17T19:52:40.111Z] [BOT] 💾 Marked as posted: Software Engineer, Platform @ anthropic (instance #1)
+[2026-01-17T19:52:40.111Z] [BOT] 💾 BEFORE ARCHIVING: 2443 jobs in database
+[2026-01-17T19:52:40.113Z] [BOT] ✅ No jobs to archive (all 2443 jobs within 7-day window)
+[2026-01-17T19:52:40.132Z] [BOT] 💾 Saved posted_jobs.json: 2443 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:40.132Z] [BOT] 📍 [ROUTING] "Senior Client Account Manager, Mid-Market (Goods - Acquisitions)" @ reddit
+[2026-01-17T19:52:40.132Z] [BOT] Category: AI (matched: "artificial intelligence")
+   Channel: 🤖・ai-jobs (1446...1106)
+   ⚠️  Multiple matches: aiMatch, nonTechMatch (using ai)
+[2026-01-17T19:52:40.384Z] [BOT] ✅ Created forum post: 🏢 Senior Client Account Manager, Mid-Market (Goods - Acquisitions) @ reddit in #🤖・ai-jobs
+[2026-01-17T19:52:40.384Z] [BOT] ✅ Industry: Senior Client Account Manager, Mid-Market (Goods - Acquisitions) @ reddit
+[2026-01-17T19:52:42.316Z] [BOT] ✅ Created forum post: 🏢 Senior Client Account Manager, Mid-Market (Goods - Acquisitions) @ reddit in #🌉・san-francisco
+[2026-01-17T19:52:42.316Z] [BOT] ✅ Location: 🌉・san-francisco
+[2026-01-17T19:52:43.818Z] [BOT] 💾 Marked as posted: Senior Client Account Manager, Mid-Market (Goods - Acquisitions) @ reddit (instance #1)
+[2026-01-17T19:52:43.818Z] [BOT] 💾 BEFORE ARCHIVING: 2444 jobs in database
+[2026-01-17T19:52:43.819Z] [BOT] ✅ No jobs to archive (all 2444 jobs within 7-day window)
+[2026-01-17T19:52:43.838Z] [BOT] 💾 Saved posted_jobs.json: 2444 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:43.838Z] [BOT] 💾 Marked as posted: Senior Client Account Manager, Mid-Market (Goods) @ reddit (instance #1)
+[2026-01-17T19:52:43.838Z] [BOT] 💾 BEFORE ARCHIVING: 2445 jobs in database
+[2026-01-17T19:52:43.840Z] [BOT] ✅ No jobs to archive (all 2445 jobs within 7-day window)
+[2026-01-17T19:52:43.856Z] [BOT] 💾 Saved posted_jobs.json: 2445 active jobs
+[2026-01-17T19:52:43.856Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-01-17T19:52:46.856Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
+[2026-01-17T19:52:46.857Z] [BOT] ⏭️  Skipping duplicate: JID_68413eab (posted within 7 days)
+[2026-01-17T19:52:46.857Z] [BOT] ⏭️  Skipping duplicate: JID_658bcfb4 (posted within 7 days)
+[2026-01-17T19:52:46.857Z] [BOT] ⏭️  Skipping duplicate: JID_744ef2b2 (posted within 7 days)
+[2026-01-17T19:52:46.858Z] [BOT] ⏭️  Skipping duplicate: JID_64fc9a9d (posted within 7 days)
+[2026-01-17T19:52:46.858Z] [BOT] ⏭️  Skipping duplicate: JID_28fe4b57 (posted within 7 days)
+[2026-01-17T19:52:46.858Z] [BOT] ⏭️  Skipping duplicate: JID_98c1a3c8 (posted within 7 days)
+⏭️  Skipping duplicate: JID_b613c2f8 (posted within 7 days)
+[2026-01-17T19:52:46.858Z] [BOT] ⏭️  Skipping duplicate: JID_000b2714 (posted within 7 days)
+[2026-01-17T19:52:46.858Z] [BOT] ⏭️  Skipping duplicate: JID_ecc1f27f (posted within 7 days)
+[2026-01-17T19:52:46.858Z] [BOT] ⏭️  Skipping duplicate: JID_25a027c8 (posted within 7 days)
+[2026-01-17T19:52:46.979Z] [BOT] ✅ Loaded pending queue: 2904 total (2884 pending, 20 enriched, 0 posted)
+[2026-01-17T19:52:47.156Z] [BOT] ✅ Saved pending queue: 2904 total (2884 pending, 10 enriched, 10 posted)
+📋 Updated queue: marked 10 jobs as posted
+[2026-01-17T19:52:47.156Z] [BOT] ✅ All posting operations complete, cleaning up...
+[2026-01-17T19:52:47.216Z] [BOT] 📂 Loaded 4615 existing routing entries
+[2026-01-17T19:52:47.285Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 10
+   Total entries: 4625
+   Timestamp: 2026-01-17T19:52:47.265Z
+[2026-01-17T19:52:47.285Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_a4acdb16.jsonl
+   Total attempts: 20
+[2026-01-17T19:52:47.286Z] [BOT] Successful: 20
+   Failed: 0
    Skipped: 0
-[2026-01-17T19:37:25.526Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+[2026-01-17T19:52:47.286Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
    Last cleanup: Never
-[2026-01-17T19:37:25.527Z] [BOT] Total posts: 4
-   Channels used: 3
-   Top channels:
-     1. #🤖・ai-jobs: 2 posts
-     2. #🌉・san-francisco: 1 posts
-     3. #💻・tech-jobs: 1 posts
-[2026-01-17T19:37:25.527Z] [BOT] [STATS] Channel stats saved
-[2026-01-17T19:37:25.527Z] [BOT] 💾 Plaintext routing log saved (local only): /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.local/logs/JID_49f2ade9.json
-[2026-01-17T19:37:25.540Z] 
+[2026-01-17T19:52:47.286Z] [BOT] Total posts: 20
+   Channels used: 9
+[2026-01-17T19:52:47.286Z] [BOT] Top channels:
+[2026-01-17T19:52:47.286Z] [BOT] 1. #🌉・san-francisco: 6 posts
+     2. #💲・sales-jobs: 3 posts
+     3. #💻・tech-jobs: 2 posts
+     4. #📣・marketing-jobs: 2 posts
+     5. #🗽・new-york: 2 posts
+[2026-01-17T19:52:47.286Z] [BOT] [STATS] Channel stats saved
+[2026-01-17T19:52:49.309Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2615) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
-- [BOT ERROR] ❌ Error posting job Software Integration Engineer, Factory Firmware: DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT ERROR] ❌ Error posting job Security Development Project Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT] ❌ Industry post failed: Security Development Project Specialist
-- [BOT ERROR] ❌ Error posting job Security Development Project Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT ERROR] ❌ Error posting job Engineering Manager, Claude Services: DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT] ❌ Industry post failed: Engineering Manager, Claude Services
-- [BOT ERROR] ❌ Error posting job Engineering Manager, Claude Services: DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT ERROR] ❌ Error posting job Recruiting Coordinator (Contract): DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT] ❌ Industry post failed: Recruiting Coordinator (Contract)
-- [BOT ERROR] ❌ Error posting job Recruiting Coordinator (Contract): DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT ERROR] ❌ Error posting job Senior Lidar Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT] ❌ Industry post failed: Senior Lidar Specialist
-- [BOT ERROR] ❌ Error posting job Senior Lidar Specialist: DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT ERROR] ❌ Error posting job Senior Manager, Enterprise Sales - Figma Weave (New York, United States): DiscordAPIError[160006]: Maximum number of active threads reached
-- [BOT] ❌ Industry post failed: Senior Manager, Enterprise Sales - Figma Weave (New York, United States)
-- ❌ CRITICAL: Discord channel #💲・sales-jobs is full (max active threads reached)
-- ❌ Exiting early to avoid timeout. 3 jobs posted, 6 failed.
+- [BOT ERROR] (node:2776) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
