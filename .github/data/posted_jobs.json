@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T08:08:15.246Z",
+  "lastUpdated": "2026-01-17T08:29:11.847Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -26049,14 +26049,157 @@
       "sourceUrl": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/725",
       "discordThreadId": "1461995508842365010",
       "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-memryx-jobs-f9cddbe0-dc8e-4f60-8243-003928a35f13-2026-01-17-1",
+      "jobId": "ats-rippling-com-memryx-jobs-f9cddbe0-dc8e-4f60-8243-003928a35f13",
+      "company": "MemryX",
+      "title": "Software Engineer, Applications and Customer Solutions",
+      "postedToDiscord": "2026-01-17T08:28:32.881Z",
+      "sourceDate": "2025-06-29T16:04:03.000Z",
+      "sourceUrl": "https://ats.rippling.com/memryx/jobs/f9cddbe0-dc8e-4f60-8243-003928a35f13",
+      "discordThreadId": "1462000615118078064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-metacareers-com-jobs-592280103506066-2026-01-17-1",
+      "jobId": "www-metacareers-com-jobs-592280103506066",
+      "company": "Meta",
+      "title": "Software Engineer - Product",
+      "postedToDiscord": "2026-01-17T08:28:36.648Z",
+      "sourceDate": "2025-06-25T07:11:26.000Z",
+      "sourceUrl": "https://www.metacareers.com/jobs/592280103506066",
+      "discordThreadId": "1462000630838067261",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-zeeco-bbbf7d70-d942-48a8-9f76-b26f3f283498-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-zeeco-bbbf7d70-d942-48a8-9f76-b26f3f283498-apply",
+      "company": "Zeeco",
+      "title": "Application Engineer - Mandarin",
+      "postedToDiscord": "2026-01-17T08:28:40.363Z",
+      "sourceDate": "2025-06-19T00:10:26.000Z",
+      "sourceUrl": "https://jobs.lever.co/zeeco/bbbf7d70-d942-48a8-9f76-b26f3f283498/apply",
+      "discordThreadId": "1462000646688608267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-skildai-careers-jobs-4782103008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-skildai-careers-jobs-4782103008",
+      "company": "Skild AI",
+      "title": "Robot Operator",
+      "postedToDiscord": "2026-01-17T08:28:46.926Z",
+      "sourceDate": "2025-06-26T04:55:15.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/skildai-careers/jobs/4782103008",
+      "discordThreadId": "1462000674790445228",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-welocalize-f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-welocalize-f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3-apply",
+      "company": "Welocalize",
+      "title": "Scout Search Quality Rater",
+      "postedToDiscord": "2026-01-17T08:28:50.457Z",
+      "sourceDate": "2025-06-19T04:43:30.000Z",
+      "sourceUrl": "https://jobs.lever.co/welocalize/f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3/apply",
+      "discordThreadId": "1462000689625567272",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-welocalize-8c5d74a0-775b-420a-bf87-5bc20ba5a48e-apply-2026-01-17-1",
+      "jobId": "jobs-lever-co-welocalize-8c5d74a0-775b-420a-bf87-5bc20ba5a48e-apply",
+      "company": "Welocalize",
+      "title": "Scout Search Quality Rater - Spanish - USA",
+      "postedToDiscord": "2026-01-17T08:28:54.317Z",
+      "sourceDate": "2025-06-19T04:43:26.000Z",
+      "sourceUrl": "https://jobs.lever.co/welocalize/8c5d74a0-775b-420a-bf87-5bc20ba5a48e/apply",
+      "discordThreadId": "1462000704121208957",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7515582521393318151-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7515582521393318151-detail",
+      "company": "ByteDance",
+      "title": "Machine Learning Graduate",
+      "postedToDiscord": "2026-01-17T08:28:57.788Z",
+      "sourceDate": "2025-06-18T04:44:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7515582521393318151/detail",
+      "discordThreadId": "1462000720600371230",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516656741909793042-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7516656741909793042-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
+      "postedToDiscord": "2026-01-17T08:29:01.617Z",
+      "sourceDate": "2025-06-17T20:12:18.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516656741909793042/detail",
+      "discordThreadId": "1462000736698237080",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516656742424430856-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7516656742424430856-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Training",
+      "postedToDiscord": "2026-01-17T08:29:01.634Z",
+      "sourceDate": "2025-06-17T19:00:02.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516656742424430856/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516657604077914386-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7516657604077914386-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Mldev",
+      "postedToDiscord": "2026-01-17T08:29:01.651Z",
+      "sourceDate": "2025-06-17T18:59:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516657604077914386/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7516654594874476808-detail-2026-01-17-1",
+      "jobId": "jobs-bytedance-com-en-position-7516654594874476808-detail",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Applied Machine Learning - Enterprise",
+      "postedToDiscord": "2026-01-17T08:29:01.669Z",
+      "sourceDate": "2025-06-17T05:34:25.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7516654594874476808/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-reevo-2ea4d267-cd80-4481-9965-216ecd469e7e-application-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-reevo-2ea4d267-cd80-4481-9965-216ecd469e7e-application",
+      "company": "Reevo",
+      "title": "Builder – New Grad - Software Engineer",
+      "postedToDiscord": "2026-01-17T08:29:05.303Z",
+      "sourceDate": "2025-06-17T04:32:40.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e/application",
+      "discordThreadId": "1462000751630090406",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-69d1b2ec-9d9b-45b0-937a-a8454f66487e-2026-01-17-1",
+      "jobId": "jobs-ashbyhq-com-supabase-69d1b2ec-9d9b-45b0-937a-a8454f66487e",
+      "company": "supabase",
+      "title": "Enterprise Account Executive (USA)",
+      "postedToDiscord": "2026-01-17T08:29:11.846Z",
+      "sourceDate": "2025-06-24T03:44:45.544+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/69d1b2ec-9d9b-45b0-937a-a8454f66487e",
+      "discordThreadId": "1462000779354177619",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2368,
+    "totalJobs": 2381,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T08:08:15.246Z",
+      "date": "2026-01-17T08:29:11.847Z",
       "archived": 0
     }
   }
