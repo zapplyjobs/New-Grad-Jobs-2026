@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T05:53:41.623Z",
+  "lastUpdated": "2026-01-17T06:28:00.319Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -25224,14 +25224,25 @@
       "sourceUrl": "https://lifeattiktok.com/search/7517099008936397064",
       "discordThreadId": "1461961646129021204",
       "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7530979904155683079-2026-01-17-1",
+      "jobId": "lifeattiktok-com-search-7530979904155683079",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate Short Video Content Ecology - 2026 Start - PhD",
+      "postedToDiscord": "2026-01-17T06:28:00.319Z",
+      "sourceDate": "2025-08-07T08:16:20.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7530979904155683079",
+      "discordThreadId": "1461970281034809470",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2293,
+    "totalJobs": 2294,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T05:53:41.623Z",
+      "date": "2026-01-17T06:28:00.319Z",
       "archived": 0
     }
   }
