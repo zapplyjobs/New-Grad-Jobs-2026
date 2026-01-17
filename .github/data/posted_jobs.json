@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T22:41:55.792Z",
+  "lastUpdated": "2026-01-17T22:53:56.906Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
@@ -27303,14 +27303,113 @@
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Development-Engineer_R160657",
       "discordThreadId": "1462215375818195288",
       "instanceNumber": 1
+    },
+    {
+      "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417-2026-01-17-1",
+      "jobId": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-analyst-data-management_r2522417",
+      "company": "Medline",
+      "title": "Analyst Data Management",
+      "postedToDiscord": "2026-01-17T22:53:16.128Z",
+      "sourceDate": "2026-01-05T23:33:26.000Z",
+      "sourceUrl": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Analyst-Data-Management_R2522417",
+      "discordThreadId": "1462218237608595526",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rfsmart-jobs-5060767008-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-rfsmart-jobs-5060767008",
+      "company": "RF-SMART",
+      "title": "Technical Consultant 1",
+      "postedToDiscord": "2026-01-17T22:53:22.871Z",
+      "sourceDate": "2026-01-12T23:32:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5060767008",
+      "discordThreadId": "1462218257732866048",
+      "instanceNumber": 1
+    },
+    {
+      "id": "allstate-wd5-myworkdayjobs-com-sourcing_event-job-usa-ca-remote-xmlname-2026-ats-technology-development-program_r22128-1-2026-01-17-1",
+      "jobId": "allstate-wd5-myworkdayjobs-com-sourcing_event-job-usa-ca-remote-xmlname-2026-ats-technology-development-program_r22128-1",
+      "company": "Allstate Insurance Company",
+      "title": "ATS Technology Development Program",
+      "postedToDiscord": "2026-01-17T22:53:26.604Z",
+      "sourceDate": "2026-01-05T23:51:24.000Z",
+      "sourceUrl": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
+      "discordThreadId": "1462218273084145919",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-sigmacomputing-jobs-7587162003-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-sigmacomputing-jobs-7587162003",
+      "company": "Sigma Computing",
+      "title": "Software Engineer – New Grad Program",
+      "postedToDiscord": "2026-01-17T22:53:33.030Z",
+      "sourceDate": "2026-01-12T23:31:43.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7587162003",
+      "discordThreadId": "1462218301185855529",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rocketlab-jobs-7582424003-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-rocketlab-jobs-7582424003",
+      "company": "Rocket Lab USA",
+      "title": "Software Engineer 1/2 - Digital Engineering",
+      "postedToDiscord": "2026-01-17T22:53:39.589Z",
+      "sourceDate": "2026-01-09T01:38:39.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7582424003",
+      "discordThreadId": "1462218328264409257",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-westerndigital-744000101672270-2026-01-17-1",
+      "jobId": "jobs-smartrecruiters-com-westerndigital-744000101672270",
+      "company": "Western Digital",
+      "title": "Developer 2 - Programming",
+      "postedToDiscord": "2026-01-17T22:53:43.071Z",
+      "sourceDate": "2026-01-05T23:36:53.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000101672270",
+      "discordThreadId": "1462218343082758337",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009-2026-01-17-1",
+      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087908009",
+      "company": "Voyager Technologies",
+      "title": "Software Engineer - AI Automation - Internal Tools",
+      "postedToDiscord": "2026-01-17T22:53:46.563Z",
+      "sourceDate": "2025-12-23T17:06:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087908009",
+      "discordThreadId": "1462218357917880616",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-kent-wa-software-engineer-mid-junior_jr2025484122-1-2026-01-17-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-kent-wa-software-engineer-mid-junior_jr2025484122-1",
+      "company": "The Boeing Company",
+      "title": "Software Engineer-Associate/Experienced",
+      "postedToDiscord": "2026-01-17T22:53:50.296Z",
+      "sourceDate": "2025-12-05T23:43:07.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer-Mid-Junior_JR2025484122-1",
+      "discordThreadId": "1462218372405264385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-terminal-visual-charting-specialist_r-00172965-2026-01-17-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-terminal-visual-charting-specialist_r-00172965",
+      "company": "Leidos",
+      "title": "Terminal Visual Charting Specialist",
+      "postedToDiscord": "2026-01-17T22:53:56.906Z",
+      "sourceDate": "2026-01-05T23:47:54.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Terminal-Visual-Charting-Specialist_R-00172965",
+      "discordThreadId": "1462218400901365861",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2482,
+    "totalJobs": 2491,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T22:41:55.792Z",
+      "date": "2026-01-17T22:53:56.906Z",
       "archived": 0
     }
   }
