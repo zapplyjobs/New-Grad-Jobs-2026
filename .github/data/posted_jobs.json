@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:08:54.302Z",
+  "lastUpdated": "2026-01-18T07:27:51.805Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28876,14 +28876,113 @@
       "sourceUrl": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2518708",
       "discordThreadId": "1462342968504619040",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5066995008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5066995008",
+      "company": "anthropic",
+      "title": "Technical Cyber Threat Investigator ",
+      "postedToDiscord": "2026-01-18T07:27:15.186Z",
+      "sourceDate": "2026-01-13T23:58:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066995008",
+      "discordThreadId": "1462347576589287498",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121-2026-01-18-1",
+      "jobId": "airliquidehr-wd3-myworkdayjobs-com-airgasexternalcareer-job-newark-de-icd-vie-research-associate-m-f-d-_r10082121",
+      "company": "Airgas",
+      "title": "Vie – Research Associate - m/f/d",
+      "postedToDiscord": "2026-01-18T07:27:21.605Z",
+      "sourceDate": "2025-12-17T23:39:09.000Z",
+      "sourceUrl": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD/VIE---Research-Associate--M-F-D-_R10082121",
+      "discordThreadId": "1462347605823586488",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-trace3-jobs-7219425-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-trace3-jobs-7219425",
+      "company": "Trace3",
+      "title": "Analyst & Simulation Developer",
+      "postedToDiscord": "2026-01-18T07:27:25.002Z",
+      "sourceDate": "2025-11-13T00:02:52.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/trace3/jobs/7219425",
+      "discordThreadId": "1462347620037951626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rocketlab-jobs-7587006003-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-rocketlab-jobs-7587006003",
+      "company": "Rocket Lab USA",
+      "title": "Ground Software Engineer 1/2",
+      "postedToDiscord": "2026-01-18T07:27:28.430Z",
+      "sourceDate": "2026-01-13T23:38:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7587006003",
+      "discordThreadId": "1462347634277748868",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-cloudflare-jobs-7514944-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-cloudflare-jobs-7514944",
+      "company": "cloudflare",
+      "title": "Senior Security Compliance Specialist (DoD)",
+      "postedToDiscord": "2026-01-18T07:27:31.929Z",
+      "sourceDate": "2026-01-06T20:21:27-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7514944?gh_jid=7514944",
+      "discordThreadId": "1462347648328794246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "championx-wd1-myworkdayjobs-com-championx_external-job-usa-tx-midland-regional-application-engineer-i_r00134579-2026-01-18-1",
+      "jobId": "championx-wd1-myworkdayjobs-com-championx_external-job-usa-tx-midland-regional-application-engineer-i_r00134579",
+      "company": "ChampionX",
+      "title": "Application Engineer 1",
+      "postedToDiscord": "2026-01-18T07:27:35.253Z",
+      "sourceDate": "2026-01-14T02:35:13.000Z",
+      "sourceUrl": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA--TX---Midland-Regional/Application-Engineer-I_R00134579",
+      "discordThreadId": "1462347663050670238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8373117002-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8373117002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Beam Planning - Starlink",
+      "postedToDiscord": "2026-01-18T07:27:38.901Z",
+      "sourceDate": "2026-01-14T02:33:14.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8373117002",
+      "discordThreadId": "1462347677277753405",
+      "instanceNumber": 1
+    },
+    {
+      "id": "thehartford-wd5-myworkdayjobs-com-careers_external-job-chicago-il-consultant-digital-transformation-and-reporting_r2623644-2026-01-18-1",
+      "jobId": "thehartford-wd5-myworkdayjobs-com-careers_external-job-chicago-il-consultant-digital-transformation-and-reporting_r2623644",
+      "company": "The Hartford ",
+      "title": "Consultant - Digital Transformation and Reporting",
+      "postedToDiscord": "2026-01-18T07:27:45.291Z",
+      "sourceDate": "2026-01-13T23:20:45.000Z",
+      "sourceUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Consultant--Digital-Transformation-and-Reporting_R2623644",
+      "discordThreadId": "1462347705111281860",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5061738008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061738008",
+      "company": "anthropic",
+      "title": "Finance and Strategy, People & Headcount Planning",
+      "postedToDiscord": "2026-01-18T07:27:51.805Z",
+      "sourceDate": "2026-01-13T21:11:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061738008",
+      "discordThreadId": "1462347732281987243",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2625,
+    "totalJobs": 2634,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T07:08:54.302Z",
+      "date": "2026-01-18T07:27:51.805Z",
       "archived": 0
     }
   }
