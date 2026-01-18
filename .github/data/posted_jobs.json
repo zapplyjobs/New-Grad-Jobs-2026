@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T16:07:37.943Z",
+  "lastUpdated": "2026-01-18T16:27:20.788Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29646,14 +29646,25 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7521096/?gh_jid=7521096",
       "discordThreadId": "1462478536370553057",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4960248008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4960248008",
+      "company": "anthropic",
+      "title": "Security GRC Specialist, Public Sector",
+      "postedToDiscord": "2026-01-18T16:27:20.787Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960248008",
+      "discordThreadId": "1462483497880129627",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2695,
+    "totalJobs": 2696,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T16:07:37.943Z",
+      "date": "2026-01-18T16:27:20.788Z",
       "archived": 0
     }
   }
