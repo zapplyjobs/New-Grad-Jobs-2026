@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T23:40:48.031Z",
+  "lastUpdated": "2026-01-18T00:51:02.499Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-10-1",
-      "jobId": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199",
-      "company": "spotify",
-      "title": "Data Scientist - Growth Analytics (Performance Marketing)",
-      "postedToDiscord": "2026-01-10T23:51:28.957Z",
-      "sourceDate": "2025-10-03T02:39:56.674Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199",
-      "discordThreadId": "1459696164587831621",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
       "jobId": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application",
@@ -27622,14 +27611,36 @@
       "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer--Data---Analytics_R427045-1",
       "discordThreadId": "1462230191953940612",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-chasebrass-icims-com-jobs-3674-job-2026-01-18-1",
+      "jobId": "careers-chasebrass-icims-com-jobs-3674-job",
+      "company": "Wieland",
+      "title": "Learning Technology Specialist",
+      "postedToDiscord": "2026-01-18T00:50:59.235Z",
+      "sourceDate": "2025-10-21T07:47:04.000Z",
+      "sourceUrl": "https://careers-chasebrass.icims.com/jobs/3674/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462247854998294638",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-challp-icims-com-jobs-7444-job-2026-01-18-1",
+      "jobId": "jobs-challp-icims-com-jobs-7444-job",
+      "company": "CHA Consulting",
+      "title": "Instrument Operator",
+      "postedToDiscord": "2026-01-18T00:51:02.498Z",
+      "sourceDate": "2025-10-31T11:37:53.000Z",
+      "sourceUrl": "https://jobs-challp.icims.com/jobs/7444/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462247869242151077",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2511,
+    "totalJobs": 2512,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-17T23:40:48.031Z",
+      "date": "2026-01-18T00:51:02.499Z",
       "archived": 0
     }
   }
