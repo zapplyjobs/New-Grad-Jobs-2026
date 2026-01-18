@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T04:49:32.042Z",
+  "lastUpdated": "2026-01-18T05:03:10.887Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28216,14 +28216,80 @@
       "sourceUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8734",
       "discordThreadId": "1462307894782591089",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496388-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7496388",
+      "company": "datadog",
+      "title": "Federal Support Engineer 3 - Denver",
+      "postedToDiscord": "2026-01-18T05:02:47.221Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496388/?gh_jid=7496388",
+      "discordThreadId": "1462311229585358858",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4502508008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4502508008",
+      "company": "anthropic",
+      "title": "Application Security Engineer",
+      "postedToDiscord": "2026-01-18T05:02:50.790Z",
+      "sourceDate": "2026-01-06T13:31:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
+      "discordThreadId": "1462311236879519946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-152427-2026-01-18-1",
+      "jobId": "www-uber-com-global-en-careers-list-152427",
+      "company": "Uber",
+      "title": "Graduate Software Engineer 1",
+      "postedToDiscord": "2026-01-18T05:02:54.147Z",
+      "sourceDate": "2025-12-18T23:17:41.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152427/",
+      "discordThreadId": "1462311251844796615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041870008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041870008",
+      "company": "anthropic",
+      "title": "Engineering Manager, UI Claude Consumer Products",
+      "postedToDiscord": "2026-01-18T05:02:57.633Z",
+      "sourceDate": "2026-01-08T15:21:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041870008",
+      "discordThreadId": "1462311266050773072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-wiscenterprises-icims-com-jobs-1607-job-2026-01-18-1",
+      "jobId": "careers-wiscenterprises-icims-com-jobs-1607-job",
+      "company": "WiSC Enterprises, LLC",
+      "title": "Technical Advisor",
+      "postedToDiscord": "2026-01-18T05:03:04.147Z",
+      "sourceDate": "2025-09-11T17:33:56.000Z",
+      "sourceUrl": "https://careers-wiscenterprises.icims.com/jobs/1607/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462311293452025982",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7490601-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7490601",
+      "company": "datadog",
+      "title": "Internal Communications Program Manager",
+      "postedToDiscord": "2026-01-18T05:03:10.886Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7490601/?gh_jid=7490601",
+      "discordThreadId": "1462311320782373093",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2565,
+    "totalJobs": 2571,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T04:49:32.042Z",
+      "date": "2026-01-18T05:03:10.887Z",
       "archived": 0
     }
   }
