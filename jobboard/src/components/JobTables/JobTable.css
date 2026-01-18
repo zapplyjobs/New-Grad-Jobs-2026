@@ -111,6 +111,14 @@
   box-shadow: 0 0 0 3px rgba(255, 107, 74, 0.1), 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
+/* Smaller company filter on desktop to fit reset button on same row */
+@media (min-width: 769px) {
+  .filter-company {
+    min-width: 120px;
+    max-width: 150px;
+  }
+}
+
 .reset-filters {
   padding: 12px 24px;
   background: linear-gradient(135deg, #FF6B4A 0%, #FF5E3C 100%);

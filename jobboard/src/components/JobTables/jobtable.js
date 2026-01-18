@@ -490,11 +490,11 @@ const JobTable = ({ jobs }) => {
       {/* Filters */}
       <div className="job-filters">
         <div className="filter-row">
-          <select 
-            name="company" 
+          <select
+            name="company"
             value={filters.company}
             onChange={handleFilterChange}
-            className="filter-select"
+            className="filter-select filter-company"
           >
             <option value="">Companies</option>
             {companies.map((company, i) => (
@@ -563,11 +563,12 @@ const JobTable = ({ jobs }) => {
           <option value="No">On-site Only</option>
         </select>
 
-          <select 
-            name="sponsorship" 
+          <select
+            name="sponsorship"
             value={filters.sponsorship}
             onChange={handleFilterChange}
             className="filter-select"
+            style={{ display: 'none' }}
           >
             <option value="">Visa Status</option>
             <option value="Yes">Sponsorship Available</option>
