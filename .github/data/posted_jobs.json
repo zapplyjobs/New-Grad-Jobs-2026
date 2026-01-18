@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:14:53.510Z",
+  "lastUpdated": "2026-01-18T05:28:05.377Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28337,14 +28337,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8052077002",
       "discordThreadId": "1462314268962590823",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8369113002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8369113002",
+      "company": "discord",
+      "title": "Finance Manager, Business Operations",
+      "postedToDiscord": "2026-01-18T05:27:22.223Z",
+      "sourceDate": "2026-01-13T14:20:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8369113002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5059602008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5059602008",
+      "company": "anthropic",
+      "title": "Data Center Physical Security Lead",
+      "postedToDiscord": "2026-01-18T05:27:28.937Z",
+      "sourceDate": "2026-01-13T15:02:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059602008",
+      "discordThreadId": "1462317436534526094",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5065894008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5065894008",
+      "company": "anthropic",
+      "title": "Senior / Staff Software Engineer - Autonomous Agent Infrastructure",
+      "postedToDiscord": "2026-01-18T05:27:32.390Z",
+      "sourceDate": "2026-01-13T15:39:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5065894008",
+      "discordThreadId": "1462317451818565763",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055448008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055448008",
+      "company": "anthropic",
+      "title": "Product Designer, Claude Developer Platform",
+      "postedToDiscord": "2026-01-18T05:27:39.455Z",
+      "sourceDate": "2026-01-06T15:08:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055448008",
+      "discordThreadId": "1462317478905512081",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4942646008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942646008",
+      "company": "anthropic",
+      "title": "Security GRC Specialist",
+      "postedToDiscord": "2026-01-18T05:27:43.462Z",
+      "sourceDate": "2026-01-06T16:46:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942646008",
+      "discordThreadId": "1462317496081186949",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5026189008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
+      "company": "anthropic",
+      "title": "Developer Campaign Marketer - Claude Code",
+      "postedToDiscord": "2026-01-18T05:27:47.090Z",
+      "sourceDate": "2026-01-06T17:27:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
+      "discordThreadId": "1462317513051214020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7137624-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7137624",
+      "company": "datadog",
+      "title": "Sales Development Representative (Denver)",
+      "postedToDiscord": "2026-01-18T05:27:51.832Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624",
+      "discordThreadId": "1462317540616442080",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7883346002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7883346002",
+      "company": "airtable",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-18T05:27:55.325Z",
+      "sourceDate": "2026-01-13T16:08:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883346002",
+      "discordThreadId": "1462317547943624714",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5065798008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5065798008",
+      "company": "anthropic",
+      "title": "Recruiting Systems Analyst",
+      "postedToDiscord": "2026-01-18T05:27:58.725Z",
+      "sourceDate": "2026-01-13T16:58:42-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5065798008",
+      "discordThreadId": "1462317562451984414",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5023333007-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5023333007",
+      "company": "verkada",
+      "title": "Channel Sales Manager, HBS",
+      "postedToDiscord": "2026-01-18T05:28:05.376Z",
+      "sourceDate": "2026-01-13T17:22:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5023333007",
+      "discordThreadId": "1462317589580742697",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2576,
+    "totalJobs": 2586,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T05:14:53.510Z",
+      "date": "2026-01-18T05:28:05.377Z",
       "archived": 0
     }
   }
