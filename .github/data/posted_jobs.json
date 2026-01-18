@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T04:27:17.459Z",
+  "lastUpdated": "2026-01-18T04:49:32.042Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28117,14 +28117,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103266546",
       "discordThreadId": "1462302289707667506",
       "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-herndon-va-audio-visual-programmer_jr2025482477-1-2026-01-18-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-herndon-va-audio-visual-programmer_jr2025482477-1",
+      "company": "The Boeing Company",
+      "title": "Audio Visual Programmer",
+      "postedToDiscord": "2026-01-18T04:48:54.122Z",
+      "sourceDate": "2025-12-05T07:37:25.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audio-Visual-Programmer_JR2025482477-1",
+      "discordThreadId": "1462307728545288312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-herndon-va-audiovisual-programmer_jr2025487536-1-2026-01-18-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-herndon-va-audiovisual-programmer_jr2025487536-1",
+      "company": "The Boeing Company",
+      "title": "Audiovisual Programmer",
+      "postedToDiscord": "2026-01-18T04:48:57.578Z",
+      "sourceDate": "2025-12-05T07:36:55.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Programmer_JR2025487536-1",
+      "discordThreadId": "1462307742831218922",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5759501004-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5759501004",
+      "company": "figma",
+      "title": "Software Engineer, Web Platform",
+      "postedToDiscord": "2026-01-18T04:49:03.954Z",
+      "sourceDate": "2026-01-13T12:28:14-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759501004?gh_jid=5759501004",
+      "discordThreadId": "1462307769859440640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7511698-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7511698",
+      "company": "reddit",
+      "title": "Staff Software Engineer, Storage",
+      "postedToDiscord": "2026-01-18T04:49:07.449Z",
+      "sourceDate": "2026-01-06T12:21:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
+      "discordThreadId": "1462307784170410034",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4814348008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4814348008",
+      "company": "anthropic",
+      "title": "Recruiter, Technical",
+      "postedToDiscord": "2026-01-18T04:49:14.033Z",
+      "sourceDate": "2026-01-13T12:13:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4814348008",
+      "discordThreadId": "1462307811819262003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-visual-charting-specialist_r-00172970-2026-01-18-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-silver-spring-md-visual-charting-specialist_r-00172970",
+      "company": "Leidos",
+      "title": "Visual Charting Specialist",
+      "postedToDiscord": "2026-01-18T04:49:17.484Z",
+      "sourceDate": "2026-01-06T16:47:19.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Visual-Charting-Specialist_R-00172970",
+      "discordThreadId": "1462307825987358867",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pg-wd5-myworkdayjobs-com-1000-job-auburn-plant-site-manufacturing-data-engineer_r000142913-1-2026-01-18-1",
+      "jobId": "pg-wd5-myworkdayjobs-com-1000-job-auburn-plant-site-manufacturing-data-engineer_r000142913-1",
+      "company": "Procter & Gamble (P&G)",
+      "title": "Site Manufacturing Data Engineer",
+      "postedToDiscord": "2026-01-18T04:49:23.849Z",
+      "sourceDate": "2026-01-13T16:25:59.000Z",
+      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/AUBURN-PLANT/Site-Manufacturing-Data-Engineer_R000142913-1",
+      "discordThreadId": "1462307853447467080",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5736009004-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5736009004",
+      "company": "figma",
+      "title": "Web Content Strategist",
+      "postedToDiscord": "2026-01-18T04:49:27.367Z",
+      "sourceDate": "2026-01-06T13:12:19-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5736009004?gh_jid=5736009004",
+      "discordThreadId": "1462307867397853319",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8734-2026-01-18-1",
+      "jobId": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8734",
+      "company": "EXL",
+      "title": "Healthcare Analyst",
+      "postedToDiscord": "2026-01-18T04:49:32.041Z",
+      "sourceDate": "2026-01-13T16:20:35.000Z",
+      "sourceUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8734",
+      "discordThreadId": "1462307894782591089",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2556,
+    "totalJobs": 2565,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T04:27:17.459Z",
+      "date": "2026-01-18T04:49:32.042Z",
       "archived": 0
     }
   }
