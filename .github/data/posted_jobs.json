@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T03:27:59.166Z",
+  "lastUpdated": "2026-01-18T04:02:35.808Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -27864,14 +27864,157 @@
       "sourceUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
       "discordThreadId": "1462287365518266578",
       "instanceNumber": 1
+    },
+    {
+      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11951-2026-01-18-1",
+      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11951",
+      "company": "Q2",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-18T04:01:53.820Z",
+      "sourceDate": "2026-01-05T23:44:26.000Z",
+      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11951",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7449072-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7449072",
+      "company": "datadog",
+      "title": "Premier Support Engineer 2",
+      "postedToDiscord": "2026-01-18T04:01:57.252Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
+      "discordThreadId": "1462295913547567216",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nextech-f5c5c7cb-2295-47ba-b1e9-845b26dcaff0-apply-2026-01-18-1",
+      "jobId": "jobs-lever-co-nextech-f5c5c7cb-2295-47ba-b1e9-845b26dcaff0-apply",
+      "company": "Nextech Systems",
+      "title": "Software Engineer 1 - AI",
+      "postedToDiscord": "2026-01-18T04:02:00.609Z",
+      "sourceDate": "2026-01-13T16:15:15.000Z",
+      "sourceUrl": "https://jobs.lever.co/nextech/f5c5c7cb-2295-47ba-b1e9-845b26dcaff0/apply",
+      "discordThreadId": "1462295927929966612",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sanofi-wd3-myworkdayjobs-com-sanoficareers-job-cambridge-ma-scientist-i-data-science_r2822005-1-2026-01-18-1",
+      "jobId": "sanofi-wd3-myworkdayjobs-com-sanoficareers-job-cambridge-ma-scientist-i-data-science_r2822005-1",
+      "company": "Sanofi",
+      "title": "Scientist 1 - Data Science",
+      "postedToDiscord": "2026-01-18T04:02:07.034Z",
+      "sourceDate": "2025-12-13T19:09:13.000Z",
+      "sourceUrl": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Scientist-I--Data-Science_R2822005-1",
+      "discordThreadId": "1462295954941153391",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023089008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023089008",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Platform",
+      "postedToDiscord": "2026-01-18T04:02:12.146Z",
+      "sourceDate": "2026-01-08T13:57:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023089008",
+      "discordThreadId": "1462295969033883839",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7519923-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7519923",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-18T04:02:15.689Z",
+      "sourceDate": "2026-01-13T11:30:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7519923",
+      "discordThreadId": "1462295990349467822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7532202-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7532202",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-18T04:02:15.707Z",
+      "sourceDate": "2026-01-13T11:30:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7532202",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7532238-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7532238",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (Goods - Shopping)",
+      "postedToDiscord": "2026-01-18T04:02:19.117Z",
+      "sourceDate": "2026-01-13T11:30:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7532238",
+      "discordThreadId": "1462296005264277697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7532242-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7532242",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (Goods - Shopping)",
+      "postedToDiscord": "2026-01-18T04:02:19.135Z",
+      "sourceDate": "2026-01-13T11:30:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7532242",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7519917-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7519917",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (Goods - Shopping)",
+      "postedToDiscord": "2026-01-18T04:02:19.153Z",
+      "sourceDate": "2026-01-13T11:30:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7519917",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-visa-744000103269677-2026-01-18-1",
+      "jobId": "jobs-smartrecruiters-com-visa-744000103269677",
+      "company": "Visa",
+      "title": "Software Engineer – New College Grad - 2026 - Foster City",
+      "postedToDiscord": "2026-01-18T04:02:22.594Z",
+      "sourceDate": "2026-01-13T16:18:08.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103269677",
+      "discordThreadId": "1462296019697008853",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-enfra-icims-com-jobs-7509-job-2026-01-18-1",
+      "jobId": "careers-enfra-icims-com-jobs-7509-job",
+      "company": "ENFRA",
+      "title": "Controls Technologist 1",
+      "postedToDiscord": "2026-01-18T04:02:29.371Z",
+      "sourceDate": "2025-10-31T00:17:42.000Z",
+      "sourceUrl": "https://careers-enfra.icims.com/jobs/7509/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462296047387934862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-visa-744000103271936-2026-01-18-1",
+      "jobId": "jobs-smartrecruiters-com-visa-744000103271936",
+      "company": "Visa",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-18T04:02:35.807Z",
+      "sourceDate": "2026-01-13T16:18:03.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103271936",
+      "discordThreadId": "1462296074889728237",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2533,
+    "totalJobs": 2546,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T03:27:59.166Z",
+      "date": "2026-01-18T04:02:35.808Z",
       "archived": 0
     }
   }
