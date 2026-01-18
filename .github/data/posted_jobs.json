@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T22:54:19.604Z",
+  "lastUpdated": "2026-01-18T23:27:29.733Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30658,14 +30658,146 @@
       "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376",
       "discordThreadId": "1462580883965087797",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-zoro-com-careers-jobs-2026-01-18-1",
+      "jobId": "www-zoro-com-careers-jobs",
+      "company": "Zoro",
+      "title": "Data Scientist 1",
+      "postedToDiscord": "2026-01-18T23:26:53.780Z",
+      "sourceDate": "2026-01-15T16:36:53.000Z",
+      "sourceUrl": "https://www.zoro.com/careers/jobs?gh_jid=4645173006",
+      "discordThreadId": "1462589080385880116",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-dominionenergy-com-job-richmond-associate-dev-business-intelligence-analyst-va-23219-1356523700-2026-01-18-1",
+      "jobId": "careers-dominionenergy-com-job-richmond-associate-dev-business-intelligence-analyst-va-23219-1356523700",
+      "company": "Dominion Energy",
+      "title": "Associate Developer Business Intelligence Analyst",
+      "postedToDiscord": "2026-01-18T23:26:58.706Z",
+      "sourceDate": "2026-01-15T16:21:26.000Z",
+      "sourceUrl": "https://careers.dominionenergy.com/job/RICHMOND-Associate-DEV-Business-Intelligence-Analyst-VA-23219/1356523700/?ats=successfactors",
+      "discordThreadId": "1462589095103430800",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jmfamily-wd1-myworkdayjobs-com-jmfamily_external-job-florida-jacksonville-it-services-academy-program-software-analyst_jr104504-2026-01-18-1",
+      "jobId": "jmfamily-wd1-myworkdayjobs-com-jmfamily_external-job-florida-jacksonville-it-services-academy-program-software-analyst_jr104504",
+      "company": "JM Family",
+      "title": "IT Services Academy Program-Software Analyst",
+      "postedToDiscord": "2026-01-18T23:27:05.595Z",
+      "sourceDate": "2026-01-15T16:33:30.000Z",
+      "sourceUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/IT-Services-Academy-Program--Software-Analyst_JR104504",
+      "discordThreadId": "1462589128968245405",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-testnisc-jobs-7541251-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-testnisc-jobs-7541251",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Software Developer - Provisioning",
+      "postedToDiscord": "2026-01-18T23:27:09.119Z",
+      "sourceDate": "2026-01-15T16:20:43.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/testnisc/jobs/7541251",
+      "discordThreadId": "1462589144764256462",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cotiviti-icims-com-jobs-17318-job-2026-01-18-1",
+      "jobId": "careers-cotiviti-icims-com-jobs-17318-job",
+      "company": "Cotiviti",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-18T23:27:12.750Z",
+      "sourceDate": "2025-09-10T21:45:50.000Z",
+      "sourceUrl": "https://careers-cotiviti.icims.com/jobs/17318/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462589159679201331",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-72536-2026-01-18-1",
+      "jobId": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-72536",
+      "company": "BNY",
+      "title": "Specialist - Data Transfer - Integration & Quality",
+      "postedToDiscord": "2026-01-18T23:27:16.238Z",
+      "sourceDate": "2026-01-08T16:08:33.000Z",
+      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72536",
+      "discordThreadId": "1462589174791147617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8376619002-2026-01-18-1",
+      "jobId": "careers-duolingo-com-jobs-8376619002",
+      "company": "duolingo",
+      "title": "QA Engineer II",
+      "postedToDiscord": "2026-01-18T23:27:19.622Z",
+      "sourceDate": "2026-01-15T13:17:31-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8376619002?gh_jid=8376619002",
+      "discordThreadId": "1462589189446041651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8366663002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8366663002",
+      "company": "brex",
+      "title": "BizOps Lead, BD",
+      "postedToDiscord": "2026-01-18T23:27:26.165Z",
+      "sourceDate": "2026-01-12T22:14:22-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8366663002?gh_jid=8366663002",
+      "discordThreadId": "1462589216537055303",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8366662002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8366662002",
+      "company": "brex",
+      "title": "BizOps Lead, BD",
+      "postedToDiscord": "2026-01-18T23:27:26.183Z",
+      "sourceDate": "2026-01-12T22:14:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8366662002?gh_jid=8366662002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8362761002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8362761002",
+      "company": "brex",
+      "title": " BizOps Lead, BD",
+      "postedToDiscord": "2026-01-18T23:27:26.202Z",
+      "sourceDate": "2026-01-12T22:13:52-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362761002?gh_jid=8362761002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8366671002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8366671002",
+      "company": "brex",
+      "title": "BizOps Lead, BD",
+      "postedToDiscord": "2026-01-18T23:27:26.220Z",
+      "sourceDate": "2026-01-08T11:53:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8366671002?gh_jid=8366671002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-geosyntec-icims-com-jobs-4105-job-2026-01-18-1",
+      "jobId": "careers-geosyntec-icims-com-jobs-4105-job",
+      "company": "Geosyntec Consultants",
+      "title": "Early-Career Subsurface Modeler",
+      "postedToDiscord": "2026-01-18T23:27:29.732Z",
+      "sourceDate": "2025-09-16T20:04:36.000Z",
+      "sourceUrl": "https://careers-geosyntec.icims.com/jobs/4105/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462589231275839738",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2787,
+    "totalJobs": 2799,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T22:54:19.604Z",
+      "date": "2026-01-18T23:27:29.733Z",
       "archived": 0
     }
   }
