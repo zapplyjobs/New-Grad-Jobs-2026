@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T09:27:19.992Z",
+  "lastUpdated": "2026-01-18T10:08:28.656Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29536,14 +29536,36 @@
       "sourceUrl": "https://jobs.lever.co/spotify/153a90f2-5762-411a-a283-5c8efae519ea",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5067283008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5067283008",
+      "company": "anthropic",
+      "title": "Product Policy Manager, Frontier Risk",
+      "postedToDiscord": "2026-01-18T10:08:21.819Z",
+      "sourceDate": "2026-01-14T15:21:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067283008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5070787008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5070787008",
+      "company": "anthropic",
+      "title": "Health and Life Science Policy Lead",
+      "postedToDiscord": "2026-01-18T10:08:28.656Z",
+      "sourceDate": "2026-01-14T15:28:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5070787008",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2685,
+    "totalJobs": 2687,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T09:27:19.992Z",
+      "date": "2026-01-18T10:08:28.656Z",
       "archived": 0
     }
   }
