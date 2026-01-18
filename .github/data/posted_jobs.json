@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T06:29:30.511Z",
+  "lastUpdated": "2026-01-18T06:48:23.023Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28612,14 +28612,124 @@
       "sourceUrl": "https://fa-eqsg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3748",
       "discordThreadId": "1462333045410369702",
       "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-neurology_jr91941-1-2026-01-18-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-neurology_jr91941-1",
+      "company": "Wash U",
+      "title": "Neuroimaging Engineer - Neurology",
+      "postedToDiscord": "2026-01-18T06:47:51.757Z",
+      "sourceDate": "2026-01-06T23:17:35.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Neurology_JR91941-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cisco-com-global-en-job-2005290-2026-01-18-1",
+      "jobId": "careers-cisco-com-global-en-job-2005290",
+      "company": "Cisco",
+      "title": "Software Engineer Frontend 2 - Full Time - United States",
+      "postedToDiscord": "2026-01-18T06:47:55.288Z",
+      "sourceDate": "2026-01-06T23:17:08.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2005290",
+      "discordThreadId": "1462337680493776918",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-sprucesystems-c683a712-7a5a-4bed-b580-f899998f044a-apply-2026-01-18-1",
+      "jobId": "jobs-lever-co-sprucesystems-c683a712-7a5a-4bed-b580-f899998f044a-apply",
+      "company": "SpruceID",
+      "title": "Full-Stack Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-18T06:47:58.720Z",
+      "sourceDate": "2026-01-06T23:16:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/sprucesystems/c683a712-7a5a-4bed-b580-f899998f044a/apply",
+      "discordThreadId": "1462337695153131630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026741-2026-01-18-1",
+      "jobId": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026741",
+      "company": "Yahoo",
+      "title": "Software Developer 1",
+      "postedToDiscord": "2026-01-18T06:48:02.120Z",
+      "sourceDate": "2026-01-13T23:38:02.000Z",
+      "sourceUrl": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026741",
+      "discordThreadId": "1462337709321486441",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-central-data-platform-engineer-software-dev-engineer-i_jr0026738-1-2026-01-18-1",
+      "jobId": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-central-data-platform-engineer-software-dev-engineer-i_jr0026738-1",
+      "company": "Yahoo",
+      "title": "Central Data Platform Engineer - Software Dev Engineer I",
+      "postedToDiscord": "2026-01-18T06:48:03.984Z",
+      "sourceDate": "2026-01-13T23:37:58.000Z",
+      "sourceUrl": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Central-Data-Platform-Engineer---Software-Dev-Engineer-I_JR0026738-1",
+      "discordThreadId": "1462337723905085595",
+      "instanceNumber": 1
+    },
+    {
+      "id": "isnetworld-com-en-about-careers-jobs-2026-01-18-1",
+      "jobId": "isnetworld-com-en-about-careers-jobs",
+      "company": "ISN Software",
+      "title": "Associate Software Developer - Dev Support",
+      "postedToDiscord": "2026-01-18T06:48:07.759Z",
+      "sourceDate": "2026-01-13T23:36:43.000Z",
+      "sourceUrl": "https://isnetworld.com/en/about/careers/jobs?gh_jid=5763677004",
+      "discordThreadId": "1462337732368928873",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-az-chandler-engineer-i-cad-software-development-_r2665-25-2026-01-18-1",
+      "jobId": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-az-chandler-engineer-i-cad-software-development-_r2665-25",
+      "company": "Microchip Technology",
+      "title": "Engineer 1-CAD - Software Development",
+      "postedToDiscord": "2026-01-18T06:48:11.349Z",
+      "sourceDate": "2026-01-13T23:35:49.000Z",
+      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--CAD--Software-Development-_R2665-25",
+      "discordThreadId": "1462337747372085318",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-arizona-unknown-city-solumina-iseries-software-developer-2-3_r10218870-2026-01-18-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-arizona-unknown-city-solumina-iseries-software-developer-2-3_r10218870",
+      "company": "Northrop Grumman",
+      "title": "Solumina iSeries Software Developer",
+      "postedToDiscord": "2026-01-18T06:48:13.061Z",
+      "sourceDate": "2026-01-13T23:33:23.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Unknown-City/Solumina-iSeries-Software-Developer-2-3_R10218870",
+      "discordThreadId": "1462337761976778784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "td-wd3-myworkdayjobs-com-td_bank_careers-job-new-york-new-york-applied-machine-learning-scientist-i-traditional-ai-_r_1465899-1-2026-01-18-1",
+      "jobId": "td-wd3-myworkdayjobs-com-td_bank_careers-job-new-york-new-york-applied-machine-learning-scientist-i-traditional-ai-_r_1465899-1",
+      "company": "TD Bank",
+      "title": "Applied Machine Learning Scientist 1 - Traditional AI",
+      "postedToDiscord": "2026-01-18T06:48:19.545Z",
+      "sourceDate": "2026-01-13T23:40:26.000Z",
+      "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Applied-Machine-Learning-Scientist-I--Traditional-AI-_R_1465899-1",
+      "discordThreadId": "1462337782419558613",
+      "instanceNumber": 1
+    },
+    {
+      "id": "snyk-wd103-myworkdayjobs-com-external-job-united-states-boston-office-associate-product-engineer_jr100284-2026-01-18-1",
+      "jobId": "snyk-wd103-myworkdayjobs-com-external-job-united-states-boston-office-associate-product-engineer_jr100284",
+      "company": "Snyk",
+      "title": "Associate Product Engineer",
+      "postedToDiscord": "2026-01-18T06:48:23.023Z",
+      "sourceDate": "2026-01-13T23:38:18.000Z",
+      "sourceUrl": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Associate-Product-Engineer_JR100284",
+      "discordThreadId": "1462337796806021180",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2601,
+    "totalJobs": 2611,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T06:29:30.511Z",
+      "date": "2026-01-18T06:48:23.023Z",
       "archived": 0
     }
   }
