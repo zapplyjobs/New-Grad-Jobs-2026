@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T22:42:13.894Z",
+  "lastUpdated": "2026-01-18T22:54:19.604Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30559,14 +30559,113 @@
       "sourceUrl": "https://careers-depaul.icims.com/jobs/6409/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1462577840238235763",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-electronic-therapy-icims-com-jobs-2721-job-2026-01-18-1",
+      "jobId": "careers-electronic-therapy-icims-com-jobs-2721-job",
+      "company": "Electronic Therapy",
+      "title": "Speech Language Pathologist Clinical Fellow",
+      "postedToDiscord": "2026-01-18T22:53:42.710Z",
+      "sourceDate": "2025-09-11T04:25:29.000Z",
+      "sourceUrl": "https://careers-electronic-therapy.icims.com/jobs/2721/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462580729467764888",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-clerk-7635ac5c-bb36-48aa-a572-e467eb9ab429-2026-01-18-1",
+      "jobId": "jobs-ashbyhq-com-clerk-7635ac5c-bb36-48aa-a572-e467eb9ab429",
+      "company": "clerk",
+      "title": "Product Designer",
+      "postedToDiscord": "2026-01-18T22:53:47.467Z",
+      "sourceDate": "2026-01-15T14:49:56.387+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/7635ac5c-bb36-48aa-a572-e467eb9ab429",
+      "discordThreadId": "1462580756911100028",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5748282004-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5748282004",
+      "company": "figma",
+      "title": "Community Marketing Manager - Figma Weave (New York, United States) ",
+      "postedToDiscord": "2026-01-18T22:53:50.909Z",
+      "sourceDate": "2026-01-08T10:41:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5748282004?gh_jid=5748282004",
+      "discordThreadId": "1462580764158857238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jj-wd5-myworkdayjobs-com-jj-job-beerse-antwerp-belgium-postdoctoral-researcher-omics-r-d-data-science-digital-health_r-052122-2026-01-18-1",
+      "jobId": "jj-wd5-myworkdayjobs-com-jj-job-beerse-antwerp-belgium-postdoctoral-researcher-omics-r-d-data-science-digital-health_r-052122",
+      "company": "Johnson & Johnson",
+      "title": "Postdoctoral researcher Omics",
+      "postedToDiscord": "2026-01-18T22:53:57.443Z",
+      "sourceDate": "2026-01-15T12:08:23.000Z",
+      "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-researcher-Omics--R-D-Data-Science---Digital-Health_R-052122",
+      "discordThreadId": "1462580791199662163",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-87ac8be9-799d-414f-b855-70a1cf2729b4-2026-01-18-1",
+      "jobId": "jobs-lever-co-spotify-87ac8be9-799d-414f-b855-70a1cf2729b4",
+      "company": "spotify",
+      "title": "Data Engineer II - Gen AI - Music",
+      "postedToDiscord": "2026-01-18T22:54:00.952Z",
+      "sourceDate": "2025-12-09T16:02:19.950Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/87ac8be9-799d-414f-b855-70a1cf2729b4",
+      "discordThreadId": "1462580806043177064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-in-theoretical-and-computational-condensed-matter-physics_jr102043-2026-01-18-1",
+      "jobId": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-research-associate-in-theoretical-and-computational-condensed-matter-physics_jr102043",
+      "company": "Brookhaven Lab",
+      "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
+      "postedToDiscord": "2026-01-18T22:54:04.532Z",
+      "sourceDate": "2025-11-23T15:43:57.000Z",
+      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-in-Theoretical-and-Computational-Condensed-Matter-Physics_JR102043",
+      "discordThreadId": "1462580820597407745",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7228240-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7228240",
+      "company": "datadog",
+      "title": "Customer Success Associate - Denver",
+      "postedToDiscord": "2026-01-18T22:54:09.528Z",
+      "sourceDate": "2026-01-14T09:30:09-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240",
+      "discordThreadId": "1462580848384675947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7534907-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7534907",
+      "company": "datadog",
+      "title": "Security Director, Sales Engineering",
+      "postedToDiscord": "2026-01-18T22:54:15.984Z",
+      "sourceDate": "2026-01-15T09:56:50-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7534907/?gh_jid=7534907",
+      "discordThreadId": "1462580868919857366",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-waukegan-il-associate-software-developer_r260376-2026-01-18-1",
+      "jobId": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-waukegan-il-associate-software-developer_r260376",
+      "company": "Uline",
+      "title": "Associate Software Developer",
+      "postedToDiscord": "2026-01-18T22:54:19.603Z",
+      "sourceDate": "2026-01-08T14:54:31.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376",
+      "discordThreadId": "1462580883965087797",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2778,
+    "totalJobs": 2787,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T22:42:13.894Z",
+      "date": "2026-01-18T22:54:19.604Z",
       "archived": 0
     }
   }
