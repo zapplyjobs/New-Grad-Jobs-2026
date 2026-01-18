@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:27:51.805Z",
+  "lastUpdated": "2026-01-18T07:39:49.696Z",
   "jobs": [
-    {
-      "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
-      "jobId": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application",
-      "company": "OpusClip",
-      "title": "Software Engineer - AI Video Agent",
-      "postedToDiscord": "2026-01-11T07:38:34.140Z",
-      "sourceDate": "2026-01-11T07:26:03.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
-      "discordThreadId": "1459813710708215872",
-      "instanceNumber": 1
-    },
     {
       "id": "apply-careers-microsoft-com-careers-job-1970393556643050-2026-01-11-1",
       "jobId": "apply-careers-microsoft-com-careers-job-1970393556643050",
@@ -28975,14 +28964,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061738008",
       "discordThreadId": "1462347732281987243",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5067003008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5067003008",
+      "company": "anthropic",
+      "title": "Technical Scaled Abuse Threat Investigator",
+      "postedToDiscord": "2026-01-18T07:39:15.908Z",
+      "sourceDate": "2026-01-14T00:02:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067003008",
+      "discordThreadId": "1462350599386566687",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5066997008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5066997008",
+      "company": "anthropic",
+      "title": "Technical CBRN-E  Threat Investigator ",
+      "postedToDiscord": "2026-01-18T07:39:19.431Z",
+      "sourceDate": "2026-01-14T00:01:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066997008",
+      "discordThreadId": "1462350615614062654",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1355744100-2026-01-18-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1355744100",
+      "company": "Huntington Ingalls Industries",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-18T07:39:22.809Z",
+      "sourceDate": "2026-01-14T07:05:34.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1355744100/?ats=successfactors",
+      "discordThreadId": "1462350630742917142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5066977008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5066977008",
+      "company": "anthropic",
+      "title": "Biological Safety Research Scientist",
+      "postedToDiscord": "2026-01-18T07:39:29.226Z",
+      "sourceDate": "2026-01-13T23:56:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008",
+      "discordThreadId": "1462350657540587587",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5759582004-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5759582004",
+      "company": "figma",
+      "title": "Account Executive, SMB - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-18T07:39:32.670Z",
+      "sourceDate": "2026-01-14T04:19:54-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759582004?gh_jid=5759582004",
+      "discordThreadId": "1462350671910146049",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5755146004-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5755146004",
+      "company": "figma",
+      "title": "Account Executive, Mid-Market - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-18T07:39:35.999Z",
+      "sourceDate": "2026-01-14T04:19:29-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5755146004?gh_jid=5755146004",
+      "discordThreadId": "1462350686237884578",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder-2026-01-18-1",
+      "jobId": "amazon-jobs-en-jobs-3154041-software-engineer-i-builder",
+      "company": "Amazon",
+      "title": "Software Engineer 1 - Builder",
+      "postedToDiscord": "2026-01-18T07:39:42.697Z",
+      "sourceDate": "2026-01-07T07:08:44.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
+      "discordThreadId": "1462350713157058794",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7484594-2026-01-18-1",
+      "jobId": "www-samsara-com-company-careers-roles-7484594",
+      "company": "samsara",
+      "title": "Manager, Workplace Operations",
+      "postedToDiscord": "2026-01-18T07:39:46.294Z",
+      "sourceDate": "2026-01-13T16:15:51-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7484594?gh_jid=7484594",
+      "discordThreadId": "1462350728436645960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-zip-ec19389b-6943-4ba8-8060-ac6bdfa23987-application-2026-01-18-1",
+      "jobId": "jobs-ashbyhq-com-zip-ec19389b-6943-4ba8-8060-ac6bdfa23987-application",
+      "company": "Zip",
+      "title": "Software Engineer – New Grad - 2026 Start",
+      "postedToDiscord": "2026-01-18T07:39:49.695Z",
+      "sourceDate": "2026-01-12T23:14:13.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/zip/ec19389b-6943-4ba8-8060-ac6bdfa23987/application",
+      "discordThreadId": "1462350743225892981",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2634,
+    "totalJobs": 2642,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T07:27:51.805Z",
+      "date": "2026-01-18T07:39:49.696Z",
       "archived": 0
     }
   }
