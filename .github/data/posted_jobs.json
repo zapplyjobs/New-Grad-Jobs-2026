@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T21:28:08.016Z",
+  "lastUpdated": "2026-01-18T21:41:08.114Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30229,14 +30229,80 @@
       "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Software-Systems-Engineer_JR2025489040-1",
       "discordThreadId": "1462559192698061085",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4971331008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971331008",
+      "company": "anthropic",
+      "title": "Customer Trust Lead",
+      "postedToDiscord": "2026-01-18T21:40:43.988Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971331008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nshe-wd1-myworkdayjobs-com-unr-external-job-university-of-nevada-reno-main-campus-postdoctoral-scholar-high-energy-density-hed-physics_r0150275-2026-01-18-1",
+      "jobId": "nshe-wd1-myworkdayjobs-com-unr-external-job-university-of-nevada-reno-main-campus-postdoctoral-scholar-high-energy-density-hed-physics_r0150275",
+      "company": "University of Nevada Reno",
+      "title": "Postdoctoral Scholar - Multiple Teams",
+      "postedToDiscord": "2026-01-18T21:40:47.425Z",
+      "sourceDate": "2026-01-15T00:29:25.000Z",
+      "sourceUrl": "https://nshe.wd1.myworkdayjobs.com/unr-external/job/University-of-Nevada-Reno---Main-Campus/Postdoctoral-Scholar--High-Energy-Density--HED--Physics_R0150275",
+      "discordThreadId": "1462562378414821541",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-aws-javascript-react-_r-48736-2026-01-18-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-aws-javascript-react-_r-48736",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "postedToDiscord": "2026-01-18T21:40:53.921Z",
+      "sourceDate": "2026-01-15T00:17:59.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48736",
+      "discordThreadId": "1462562405497438451",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-application-modernization_r-515424-2026-01-18-1",
+      "jobId": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-application-modernization_r-515424",
+      "company": "Wells Fargo",
+      "title": "Engineering Associate - Application Modernization",
+      "postedToDiscord": "2026-01-18T21:40:57.719Z",
+      "sourceDate": "2026-01-15T00:12:44.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Engineering-Associate---Application-Modernization_R-515424",
+      "discordThreadId": "1462562420064125062",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-affirm-jobs-7566696003-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-affirm-jobs-7566696003",
+      "company": "Affirm",
+      "title": "Software Engineer – Early Career",
+      "postedToDiscord": "2026-01-18T21:41:01.576Z",
+      "sourceDate": "2026-01-15T02:42:21.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7566696003",
+      "discordThreadId": "1462562436652597268",
+      "instanceNumber": 1
+    },
+    {
+      "id": "thomsonreuters-wd5-myworkdayjobs-com-en-us-external_career_site-job-united-states-of-america-new-york-new-york-ai-engineer-materia-new-grad-2026-_jreq196038-2026-01-18-1",
+      "jobId": "thomsonreuters-wd5-myworkdayjobs-com-en-us-external_career_site-job-united-states-of-america-new-york-new-york-ai-engineer-materia-new-grad-2026-_jreq196038",
+      "company": "Thomson Reuters",
+      "title": "AI Engineer – New Grad - Materia",
+      "postedToDiscord": "2026-01-18T21:41:08.113Z",
+      "sourceDate": "2026-01-06T23:49:35.000Z",
+      "sourceUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ196038",
+      "discordThreadId": "1462562465068875856",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2748,
+    "totalJobs": 2754,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T21:28:08.016Z",
+      "date": "2026-01-18T21:41:08.114Z",
       "archived": 0
     }
   }
