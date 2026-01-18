@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T09:08:09.922Z",
+  "lastUpdated": "2026-01-18T09:27:19.992Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29503,14 +29503,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067287008",
       "discordThreadId": "1462372973167120542",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5057258008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5057258008",
+      "company": "anthropic",
+      "title": "Startups Solutions Architect, Applied AI",
+      "postedToDiscord": "2026-01-18T09:27:13.253Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-77cebaa5-acc4-4bf6-8ab2-14e4ef61ed39-2026-01-18-1",
+      "jobId": "jobs-lever-co-spotify-77cebaa5-acc4-4bf6-8ab2-14e4ef61ed39",
+      "company": "spotify",
+      "title": "Product Designer - Music Mission",
+      "postedToDiscord": "2026-01-18T09:27:16.621Z",
+      "sourceDate": "2026-01-13T17:14:54.538Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/77cebaa5-acc4-4bf6-8ab2-14e4ef61ed39",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-153a90f2-5762-411a-a283-5c8efae519ea-2026-01-18-1",
+      "jobId": "jobs-lever-co-spotify-153a90f2-5762-411a-a283-5c8efae519ea",
+      "company": "spotify",
+      "title": "Mixed Methods Researcher - Music Mission",
+      "postedToDiscord": "2026-01-18T09:27:19.991Z",
+      "sourceDate": "2025-12-08T03:55:40.260Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/153a90f2-5762-411a-a283-5c8efae519ea",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2682,
+    "totalJobs": 2685,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T09:08:09.922Z",
+      "date": "2026-01-18T09:27:19.992Z",
       "archived": 0
     }
   }
