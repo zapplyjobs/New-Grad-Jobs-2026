@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T17:07:32.385Z",
+  "lastUpdated": "2026-01-18T17:28:15.307Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29701,14 +29701,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8371252002",
       "discordThreadId": "1462493612511199549",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-sandisk-744000102169088-2026-01-18-1",
+      "jobId": "jobs-smartrecruiters-com-sandisk-744000102169088",
+      "company": "Sandisk",
+      "title": "Field Application Engineer – New College Graduate - Ncg",
+      "postedToDiscord": "2026-01-18T17:28:15.306Z",
+      "sourceDate": "2026-01-07T23:13:10.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000102169088",
+      "discordThreadId": "1462498825137553684",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2700,
+    "totalJobs": 2701,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T17:07:32.385Z",
+      "date": "2026-01-18T17:28:15.307Z",
       "archived": 0
     }
   }
