@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T21:53:02.672Z",
+  "lastUpdated": "2026-01-18T22:27:11.600Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30339,14 +30339,124 @@
       "sourceUrl": "https://careers-plslogistics.icims.com/jobs/1255/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1462565461882437892",
       "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmd31-annapolis-md-2551-riva-road-annapolis-md-21401-7435-usa-software-engineer-i-connected-aviation-onsite-_01816959-2026-01-18-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmd31-annapolis-md-2551-riva-road-annapolis-md-21401-7435-usa-software-engineer-i-connected-aviation-onsite-_01816959",
+      "company": "RTX",
+      "title": "Software Engineer 1 - Connected Aviation",
+      "postedToDiscord": "2026-01-18T22:26:37.722Z",
+      "sourceDate": "2026-01-15T00:31:25.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMD31-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/Software-Engineer-I---Connected-Aviation--Onsite-_01816959",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "intel-wd1-myworkdayjobs-com-en-us-external-job-us-oregon-hillsboro-platform-enabling-software-engineer_jr0279546-2026-01-18-1",
+      "jobId": "intel-wd1-myworkdayjobs-com-en-us-external-job-us-oregon-hillsboro-platform-enabling-software-engineer_jr0279546",
+      "company": "Intel",
+      "title": "Platform Enabling Software Engineer",
+      "postedToDiscord": "2026-01-18T22:26:41.386Z",
+      "sourceDate": "2026-01-15T00:16:16.000Z",
+      "sourceUrl": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Enabling-Software-Engineer_JR0279546",
+      "discordThreadId": "1462573928248639664",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-ketteringhealth-icims-com-jobs-57002-job-2026-01-18-1",
+      "jobId": "careers-ketteringhealth-icims-com-jobs-57002-job",
+      "company": "Kettering Health",
+      "title": "Clinical Analytics Analyst - IS Analytic Health",
+      "postedToDiscord": "2026-01-18T22:26:44.925Z",
+      "sourceDate": "2025-12-20T02:23:56.000Z",
+      "sourceUrl": "https://careers-ketteringhealth.icims.com/jobs/57002/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462573943503323312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aah-wd5-myworkdayjobs-com-external-job-atrium-health-wake-forest-baptist-medical-center-blvd-winston-salem-nc-it-data-solutions-develop-associate_r178892-2026-01-18-1",
+      "jobId": "aah-wd5-myworkdayjobs-com-external-job-atrium-health-wake-forest-baptist-medical-center-blvd-winston-salem-nc-it-data-solutions-develop-associate_r178892",
+      "company": "Advocate Health Care",
+      "title": "IT Data Solutions Developer Associate",
+      "postedToDiscord": "2026-01-18T22:26:48.513Z",
+      "sourceDate": "2025-09-11T02:18:18.000Z",
+      "sourceUrl": "https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/IT-Data-Solutions-Develop-Associate_R178892",
+      "discordThreadId": "1462573958816600155",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-postman-jobs-6535743003-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-postman-jobs-6535743003",
+      "company": "Postman",
+      "title": "Forward Deployed Engineer",
+      "postedToDiscord": "2026-01-18T22:26:52.017Z",
+      "sourceDate": "2025-06-13T03:40:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/postman/jobs/6535743003",
+      "discordThreadId": "1462573973811364002",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amplify-wd1-myworkdayjobs-com-en-us-amplify_careers-job-remote-united-states-contractor-tutoring-data-contractor-_req_12395-2026-01-18-1",
+      "jobId": "amplify-wd1-myworkdayjobs-com-en-us-amplify_careers-job-remote-united-states-contractor-tutoring-data-contractor-_req_12395",
+      "company": "Amplify",
+      "title": "Contractor - Tutoring Data - Contractor",
+      "postedToDiscord": "2026-01-18T22:26:55.688Z",
+      "sourceDate": "2026-01-15T02:25:13.000Z",
+      "sourceUrl": "https://amplify.wd1.myworkdayjobs.com/en-US/Amplify_Careers/job/Remote---United-States/Contractor--Tutoring-Data--Contractor-_Req_12395",
+      "discordThreadId": "1462573989116379250",
+      "instanceNumber": 1
+    },
+    {
+      "id": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-san-diego-ca-united-states-associate-engineer-cloud-development_jr_047682-1-2026-01-18-1",
+      "jobId": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-san-diego-ca-united-states-associate-engineer-cloud-development_jr_047682-1",
+      "company": "Resmed",
+      "title": "Associate Engineer - Cloud Development",
+      "postedToDiscord": "2026-01-18T22:26:59.292Z",
+      "sourceDate": "2026-01-15T00:35:52.000Z",
+      "sourceUrl": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Engineer-Cloud-Development_JR_047682-1",
+      "discordThreadId": "1462574003716882626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ma311-woburn-ma-225-presidential-225-presidential-way-goddard-building-27-woburn-ma-01801-usa-xmlname-2026-full-time-raytheon-isma-engineer-i-onsite_01816801-2026-01-18-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ma311-woburn-ma-225-presidential-225-presidential-way-goddard-building-27-woburn-ma-01801-usa-xmlname-2026-full-time-raytheon-isma-engineer-i-onsite_01816801",
+      "company": "RTX",
+      "title": "Raytheon ISMA Engineer 1",
+      "postedToDiscord": "2026-01-18T22:27:02.856Z",
+      "sourceDate": "2026-01-15T00:31:38.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Full-Time-Raytheon-ISMA-Engineer-I---Onsite_01816801",
+      "discordThreadId": "1462574018946269264",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-shein-jobs-5069402008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-shein-jobs-5069402008",
+      "company": "SHEIN",
+      "title": "Senior Software Development Engineer",
+      "postedToDiscord": "2026-01-18T22:27:04.565Z",
+      "sourceDate": "2026-01-15T00:29:12.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/shein/jobs/5069402008",
+      "discordThreadId": "1462574033663950889",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-latitude-jobs-7536135-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-latitude-jobs-7536135",
+      "company": "Latitude AI",
+      "title": "Triage Associate 1",
+      "postedToDiscord": "2026-01-18T22:27:11.599Z",
+      "sourceDate": "2026-01-15T00:25:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/latitude/jobs/7536135",
+      "discordThreadId": "1462574053750472726",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2758,
+    "totalJobs": 2768,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T21:53:02.672Z",
+      "date": "2026-01-18T22:27:11.600Z",
       "archived": 0
     }
   }
