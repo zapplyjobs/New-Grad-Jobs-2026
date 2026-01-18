@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T20:27:34.969Z",
+  "lastUpdated": "2026-01-18T20:41:41.966Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29954,14 +29954,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067443008",
       "discordThreadId": "1462543955140018348",
       "instanceNumber": 1
+    },
+    {
+      "id": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666-2026-01-18-1",
+      "jobId": "chop-wd5-myworkdayjobs-com-chopexternalcareers-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666",
+      "company": "Children's Hospital of Philadelphia",
+      "title": "Research Data Analyst 1",
+      "postedToDiscord": "2026-01-18T20:41:15.257Z",
+      "sourceDate": "2026-01-08T02:47:20.000Z",
+      "sourceUrl": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/Philadelphia-Campus--Roberts-Center-for-Pediatric-Research/Research-Data-Analyst-I_1021666",
+      "discordThreadId": "1462547394267709625",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5067441008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5067441008",
+      "company": "anthropic",
+      "title": "Program Manager, Global Education",
+      "postedToDiscord": "2026-01-18T20:41:21.701Z",
+      "sourceDate": "2026-01-14T23:32:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067441008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7536129-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7536129",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Finance)",
+      "postedToDiscord": "2026-01-18T20:41:25.357Z",
+      "sourceDate": "2026-01-15T00:24:18-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7536129",
+      "discordThreadId": "1462547437096009941",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-8451-jobs-8300984002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-8451-jobs-8300984002",
+      "company": "84.51 Degrees",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-18T20:41:28.745Z",
+      "sourceDate": "2026-01-15T00:02:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/8451/jobs/8300984002",
+      "discordThreadId": "1462547452488843285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-flex-jobs-4649208005-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-flex-jobs-4649208005",
+      "company": "Flex",
+      "title": "Software Engineer 1 – New Grad - Fullstack - Risk Engineering",
+      "postedToDiscord": "2026-01-18T20:41:35.260Z",
+      "sourceDate": "2026-01-15T00:07:11.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/flex/jobs/4649208005",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-jr_-application-solutions-analyst-nc-1356387200-2026-01-18-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-jr_-application-solutions-analyst-nc-1356387200",
+      "company": "Westinghouse Electric Company",
+      "title": "Junior Application Solutions Analyst",
+      "postedToDiscord": "2026-01-18T20:41:41.965Z",
+      "sourceDate": "2026-01-15T00:07:03.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Jr_-Application-Solutions-Analyst-NC/1356387200/?ats=successfactors",
+      "discordThreadId": "1462547507048353792",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2723,
+    "totalJobs": 2729,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T20:27:34.969Z",
+      "date": "2026-01-18T20:41:41.966Z",
       "archived": 0
     }
   }
