@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:45:07.942Z",
+  "lastUpdated": "2026-01-18T08:55:46.974Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29305,14 +29305,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7460051?gh_jid=7460051",
       "discordThreadId": "1462367176672678073",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7460368-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7460368",
+      "company": "datadog",
+      "title": "Senior Sales Engineer",
+      "postedToDiscord": "2026-01-18T08:55:04.817Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368",
+      "discordThreadId": "1462369680101736470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5068721008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5068721008",
+      "company": "anthropic",
+      "title": "Revenue Systems Solution Architect",
+      "postedToDiscord": "2026-01-18T08:55:08.362Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068721008",
+      "discordThreadId": "1462369695629054014",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8374797002-2026-01-18-1",
+      "jobId": "careers-duolingo-com-jobs-8374797002",
+      "company": "duolingo",
+      "title": "Senior Account Executive",
+      "postedToDiscord": "2026-01-18T08:55:12.004Z",
+      "sourceDate": "2026-01-14T13:11:37-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8374797002?gh_jid=8374797002",
+      "discordThreadId": "1462369710459846840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7487344-2026-01-18-1",
+      "jobId": "www-samsara-com-company-careers-roles-7487344",
+      "company": "samsara",
+      "title": "Manager I, Customer Success",
+      "postedToDiscord": "2026-01-18T08:55:15.895Z",
+      "sourceDate": "2026-01-14T12:39:11-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7487344?gh_jid=7487344",
+      "discordThreadId": "1462369726071177362",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-google-com-about-careers-applications-jobs-results-118548224553165510-2026-01-18-1",
+      "jobId": "www-google-com-about-careers-applications-jobs-results-118548224553165510",
+      "company": "Google",
+      "title": "Software Engineer - Spanner Hybrid Search",
+      "postedToDiscord": "2026-01-18T08:55:22.410Z",
+      "sourceDate": "2026-01-14T16:09:30.000Z",
+      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/118548224553165510",
+      "discordThreadId": "1462369754697175185",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-nch-901-w-kirchhoff-rd-arlington-heights-mental-health-associate-i-nch-behavioral-health-day-shift_r37241-2026-01-18-1",
+      "jobId": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-nch-901-w-kirchhoff-rd-arlington-heights-mental-health-associate-i-nch-behavioral-health-day-shift_r37241",
+      "company": "Endeavor Health",
+      "title": "Mental Health Associate 1 - NCH Behavioral Health PHP/IOP-Day Shift",
+      "postedToDiscord": "2026-01-18T08:55:32.215Z",
+      "sourceDate": "2026-01-14T16:37:50.000Z",
+      "sourceUrl": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NCH-901-W-Kirchhoff-Rd-Arlington-Heights/Mental-Health-Associate-I---NCH-Behavioral-Health---Day-Shift_R37241",
+      "discordThreadId": "1462369795952480431",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-chicago-illinois-digital-data-analyst_r0000335361-2026-01-18-1",
+      "jobId": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-chicago-illinois-digital-data-analyst_r0000335361",
+      "company": "Caterpillar Inc.",
+      "title": "Digital Data Analyst",
+      "postedToDiscord": "2026-01-18T08:55:40.466Z",
+      "sourceDate": "2025-11-26T01:54:49.000Z",
+      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361",
+      "discordThreadId": "1462369830152966403",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-hawkeyeinnovations-f7e21161-975e-4dc3-adb0-3bc744df1c8f-application-2026-01-18-1",
+      "jobId": "jobs-ashbyhq-com-hawkeyeinnovations-f7e21161-975e-4dc3-adb0-3bc744df1c8f-application",
+      "company": "Hawk-Eye Innovations",
+      "title": "Baseball Technical Operations Coordinator",
+      "postedToDiscord": "2026-01-18T08:55:46.973Z",
+      "sourceDate": "2026-01-14T16:14:36.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/hawkeyeinnovations/f7e21161-975e-4dc3-adb0-3bc744df1c8f/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2664,
+    "totalJobs": 2672,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T08:45:07.942Z",
+      "date": "2026-01-18T08:55:46.974Z",
       "archived": 0
     }
   }
