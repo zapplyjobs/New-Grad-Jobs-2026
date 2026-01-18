@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T21:41:08.114Z",
+  "lastUpdated": "2026-01-18T21:53:02.672Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30295,14 +30295,58 @@
       "sourceUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ196038",
       "discordThreadId": "1462562465068875856",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-arcinstitute-jobs-5618816004-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-arcinstitute-jobs-5618816004",
+      "company": "Arc Institute",
+      "title": "Machine Learning Research Scientist - Hsu & Konermann Labs",
+      "postedToDiscord": "2026-01-18T21:52:47.716Z",
+      "sourceDate": "2025-08-14T20:35:18.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/arcinstitute/jobs/5618816004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1-2026-01-18-1",
+      "jobId": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-business-data-analyst_req20170647-1",
+      "company": "University of Southern California",
+      "title": "Business Data Analyst",
+      "postedToDiscord": "2026-01-18T21:52:52.523Z",
+      "sourceDate": "2026-01-08T07:02:30.000Z",
+      "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA/Business-Data-Analyst_REQ20170647-1",
+      "discordThreadId": "1462565426725650502",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lifeattiktok-com-search-7539974477397592338-2026-01-18-1",
+      "jobId": "lifeattiktok-com-search-7539974477397592338",
+      "company": "TikTok",
+      "title": "Data Scientist Graduate - Product Analytics",
+      "postedToDiscord": "2026-01-18T21:52:56.138Z",
+      "sourceDate": "2026-01-08T07:55:03.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7539974477397592338",
+      "discordThreadId": "1462565434065686579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-plslogistics-icims-com-jobs-1255-job-2026-01-18-1",
+      "jobId": "careers-plslogistics-icims-com-jobs-1255-job",
+      "company": "PLS Logistics Services",
+      "title": "Logistics Coordinator",
+      "postedToDiscord": "2026-01-18T21:53:02.672Z",
+      "sourceDate": "2025-09-11T17:34:04.000Z",
+      "sourceUrl": "https://careers-plslogistics.icims.com/jobs/1255/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462565461882437892",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2754,
+    "totalJobs": 2758,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T21:41:08.114Z",
+      "date": "2026-01-18T21:53:02.672Z",
       "archived": 0
     }
   }
