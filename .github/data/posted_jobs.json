@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T19:26:31.730Z",
+  "lastUpdated": "2026-01-18T19:36:26.246Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29811,14 +29811,36 @@
       "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/C---Software-Engineer_R50546",
       "discordThreadId": "1462528590284460215",
       "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-sykesville-engineer-quality-principal-engineer-quality_r10218213-2026-01-18-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-sykesville-engineer-quality-principal-engineer-quality_r10218213",
+      "company": "Northrop Grumman",
+      "title": "Quality Engineer - Principal Quality Engineer",
+      "postedToDiscord": "2026-01-18T19:36:22.839Z",
+      "sourceDate": "2026-01-07T23:54:38.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Engineer-Quality-Principal-Engineer-Quality_R10218213",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8362817002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8362817002",
+      "company": "Twitch",
+      "title": "Software Engineer 1 - Builder Frameworks",
+      "postedToDiscord": "2026-01-18T19:36:26.245Z",
+      "sourceDate": "2026-01-07T23:52:51.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8362817002",
+      "discordThreadId": "1462531084418813962",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2710,
+    "totalJobs": 2712,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T19:26:31.730Z",
+      "date": "2026-01-18T19:36:26.246Z",
       "archived": 0
     }
   }
