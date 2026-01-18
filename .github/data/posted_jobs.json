@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T22:27:11.600Z",
+  "lastUpdated": "2026-01-18T22:42:13.894Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30449,14 +30449,124 @@
       "sourceUrl": "https://job-boards.greenhouse.io/latitude/jobs/7536135",
       "discordThreadId": "1462574053750472726",
       "instanceNumber": 1
+    },
+    {
+      "id": "barclays-wd3-myworkdayjobs-com-external_career_site_barclays-job-dryrock-building-wilmington-data-scientist-machine-learning-_jr-0000083143-1-2026-01-18-1",
+      "jobId": "barclays-wd3-myworkdayjobs-com-external_career_site_barclays-job-dryrock-building-wilmington-data-scientist-machine-learning-_jr-0000083143-1",
+      "company": "Barclays",
+      "title": "Data Scientist - Machine Learning",
+      "postedToDiscord": "2026-01-18T22:41:25.781Z",
+      "sourceDate": "2026-01-15T00:18:57.000Z",
+      "sourceUrl": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dryrock-Building-Wilmington/Data-Scientist--Machine-Learning-_JR-0000083143-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ethena-4843c8de-b04c-45f2-a861-0aa6532e74b3-apply-2026-01-18-1",
+      "jobId": "jobs-lever-co-ethena-4843c8de-b04c-45f2-a861-0aa6532e74b3-apply",
+      "company": "Ethena",
+      "title": "Commercial Operations & Analytics Associate",
+      "postedToDiscord": "2026-01-18T22:41:29.482Z",
+      "sourceDate": "2026-01-15T00:05:33.000Z",
+      "sourceUrl": "https://jobs.lever.co/ethena/4843c8de-b04c-45f2-a861-0aa6532e74b3/apply",
+      "discordThreadId": "1462577653537046610",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-datavisor-jobs-j-05c2988e2d-apply-2026-01-18-1",
+      "jobId": "apply-workable-com-datavisor-jobs-j-05c2988e2d-apply",
+      "company": "DataVisor",
+      "title": "AI/Machine Learning Engineer",
+      "postedToDiscord": "2026-01-18T22:41:33.444Z",
+      "sourceDate": "2025-12-11T23:13:09.000Z",
+      "sourceUrl": "https://apply.workable.com/datavisor-jobs/j/05C2988E2D/apply",
+      "discordThreadId": "1462577669278269468",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7534733-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7534733",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Senior Associate - AMER Commercial & Mid Market",
+      "postedToDiscord": "2026-01-18T22:41:39.914Z",
+      "sourceDate": "2026-01-15T05:14:30-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7534733/?gh_jid=7534733",
+      "discordThreadId": "1462577698105983028",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-bncollege-icims-com-jobs-21408-job-2026-01-18-1",
+      "jobId": "careers-bncollege-icims-com-jobs-21408-job",
+      "company": "Barnes & Noble Education",
+      "title": "Campus Retail Associate",
+      "postedToDiscord": "2026-01-18T22:41:43.846Z",
+      "sourceDate": "2025-12-12T23:33:49.000Z",
+      "sourceUrl": "https://careers-bncollege.icims.com/jobs/21408/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462577712488124641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-riversidehealth-icims-com-jobs-9418-job-2026-01-18-1",
+      "jobId": "careers-riversidehealth-icims-com-jobs-9418-job",
+      "company": "St. Johns Riverside Hospital",
+      "title": "Environmental Services Aide",
+      "postedToDiscord": "2026-01-18T22:41:50.687Z",
+      "sourceDate": "2025-12-18T16:12:28.000Z",
+      "sourceUrl": "https://careers-riversidehealth.icims.com/jobs/9418/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462577741701316729",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-coldquanta-j-00ec28a7e5-apply-2026-01-18-1",
+      "jobId": "apply-workable-com-coldquanta-j-00ec28a7e5-apply",
+      "company": "Infleqtion",
+      "title": "Quantum Software Engineer",
+      "postedToDiscord": "2026-01-18T22:41:57.219Z",
+      "sourceDate": "2025-12-09T17:36:09.000Z",
+      "sourceUrl": "https://apply.workable.com/coldquanta/j/00EC28A7E5/apply",
+      "discordThreadId": "1462577770239492110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ursamajor-com-careers-2026-01-18-1",
+      "jobId": "ursamajor-com-careers",
+      "company": "Ursa Major",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-18T22:42:00.862Z",
+      "sourceDate": "2025-10-09T22:14:43.000Z",
+      "sourceUrl": "https://ursamajor.com/careers/?gh_jid=4585198005",
+      "discordThreadId": "1462577785015898266",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-42northdental-icims-com-jobs-8895-job-2026-01-18-1",
+      "jobId": "careers-42northdental-icims-com-jobs-8895-job",
+      "company": "42 North Dental",
+      "title": "Dental Hygienist",
+      "postedToDiscord": "2026-01-18T22:42:07.298Z",
+      "sourceDate": "2025-10-30T11:52:47.000Z",
+      "sourceUrl": "https://careers-42northdental.icims.com/jobs/8895/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462577813088505967",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-depaul-icims-com-jobs-6409-job-2026-01-18-1",
+      "jobId": "careers-depaul-icims-com-jobs-6409-job",
+      "company": "DePaul",
+      "title": "Entitlement Specialist",
+      "postedToDiscord": "2026-01-18T22:42:13.894Z",
+      "sourceDate": "2025-10-01T09:23:53.000Z",
+      "sourceUrl": "https://careers-depaul.icims.com/jobs/6409/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462577840238235763",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2768,
+    "totalJobs": 2778,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T22:27:11.600Z",
+      "date": "2026-01-18T22:42:13.894Z",
       "archived": 0
     }
   }
