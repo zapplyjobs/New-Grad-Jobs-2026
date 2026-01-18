@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:39:49.696Z",
+  "lastUpdated": "2026-01-18T08:08:29.776Z",
   "jobs": [
     {
       "id": "apply-careers-microsoft-com-careers-job-1970393556643050-2026-01-11-1",
@@ -29063,14 +29063,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/zip/ec19389b-6943-4ba8-8060-ac6bdfa23987/application",
       "discordThreadId": "1462350743225892981",
       "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-temporary-data-engineer-with-apache-airflow-20-and-30-experience-temporary-employment-services_2024012-2026-01-18-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-temporary-data-engineer-with-apache-airflow-20-and-30-experience-temporary-employment-services_2024012",
+      "company": "Carnegie Mellon University",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-18T08:07:46.755Z",
+      "sourceDate": "2025-12-22T23:30:02.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Temporary-Data-Engineer--with-Apache-Airflow-20-and-30-experience-------Temporary-Employment-Services_2024012",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-mechanize-1ef28bb2-6251-4da6-a590-a4a7606368cb-application-2026-01-18-1",
+      "jobId": "jobs-ashbyhq-com-mechanize-1ef28bb2-6251-4da6-a590-a4a7606368cb-application",
+      "company": "Mechanize",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-18T08:07:51.730Z",
+      "sourceDate": "2026-01-08T02:58:31.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/mechanize/1ef28bb2-6251-4da6-a590-a4a7606368cb/application",
+      "discordThreadId": "1462357797940367411",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-sig-icims-com-jobs-10365-job-2026-01-18-1",
+      "jobId": "careers-sig-icims-com-jobs-10365-job",
+      "company": "Susquehanna International Group (SIG)",
+      "title": "Power Analyst - Power",
+      "postedToDiscord": "2026-01-18T08:07:55.127Z",
+      "sourceDate": "2025-12-12T16:28:38.000Z",
+      "sourceUrl": "https://careers-sig.icims.com/jobs/10365/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462357812800913440",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-arlington-va-data-scientist_r0227412-1-2026-01-18-1",
+      "jobId": "bah-wd1-myworkdayjobs-com-bah_jobs-job-arlington-va-data-scientist_r0227412-1",
+      "company": "Booz Allen",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-18T08:07:58.874Z",
+      "sourceDate": "2025-12-10T18:14:34.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0227412-1",
+      "discordThreadId": "1462357826906230809",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-upstart-com-jobs-2026-01-18-1",
+      "jobId": "careers-upstart-com-jobs",
+      "company": "Upstart",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-18T08:08:02.375Z",
+      "sourceDate": "2025-10-31T01:04:31.000Z",
+      "sourceUrl": "https://careers.upstart.com/jobs?gh_jid=6709289",
+      "discordThreadId": "1462357842747986003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "byu-wd1-myworkdayjobs-com-byu-careers-job-provo-ut-ai-and-data-science-administrator-part-time-28-hrs-per-week-_jr-7678-2026-01-18-1",
+      "jobId": "byu-wd1-myworkdayjobs-com-byu-careers-job-provo-ut-ai-and-data-science-administrator-part-time-28-hrs-per-week-_jr-7678",
+      "company": "Brigham Young University - Provo",
+      "title": "AI and Data Science Administrator - Part-time/28 hrs per week",
+      "postedToDiscord": "2026-01-18T08:08:08.871Z",
+      "sourceDate": "2026-01-09T23:04:01.000Z",
+      "sourceUrl": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/AI-and-Data-Science-Administrator----part-time-28-hrs-per-week-_JR-7678",
+      "discordThreadId": "1462357870208356443",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jetaviation-com-job-west-palm-beach-associate-azure-data-engineer-fl-33409-1349081857-2026-01-18-1",
+      "jobId": "jobs-jetaviation-com-job-west-palm-beach-associate-azure-data-engineer-fl-33409-1349081857",
+      "company": "General Dynamics",
+      "title": "Associate Azure Data Engineer",
+      "postedToDiscord": "2026-01-18T08:08:12.471Z",
+      "sourceDate": "2025-12-23T23:27:58.000Z",
+      "sourceUrl": "https://jobs.jetaviation.com/job/West-Palm-Beach-Associate-Azure-Data-Engineer-FL-33409/1349081857/?ats=successfactors",
+      "discordThreadId": "1462357884565323883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-rivian-com-jobs-27934-2026-01-18-1",
+      "jobId": "careers-rivian-com-jobs-27934",
+      "company": "Rivian",
+      "title": "Software Engineer - Engineering Productivity - Infotainment Platform",
+      "postedToDiscord": "2026-01-18T08:08:19.314Z",
+      "sourceDate": "2025-12-03T16:27:12.000Z",
+      "sourceUrl": "https://careers.rivian.com/jobs/27934?lang=en-us&icims=1",
+      "discordThreadId": "1462357912822218834",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-ii-product_r1840-25-2026-01-18-1",
+      "jobId": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-ii-product_r1840-25",
+      "company": "Microchip Technology",
+      "title": "Engineer 2 - Product",
+      "postedToDiscord": "2026-01-18T08:08:22.978Z",
+      "sourceDate": "2025-11-01T10:23:16.000Z",
+      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-II---Product_R1840-25",
+      "discordThreadId": "1462357928500662402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-tuality-icims-com-jobs-10551-job-2026-01-18-1",
+      "jobId": "careers-tuality-icims-com-jobs-10551-job",
+      "company": "Tuality Healthcare",
+      "title": "Admitting Representative",
+      "postedToDiscord": "2026-01-18T08:08:29.776Z",
+      "sourceDate": "2025-11-24T23:11:52.000Z",
+      "sourceUrl": "https://careers-tuality.icims.com/jobs/10551/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462357956719939629",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2642,
+    "totalJobs": 2652,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T07:39:49.696Z",
+      "date": "2026-01-18T08:08:29.776Z",
       "archived": 0
     }
   }
