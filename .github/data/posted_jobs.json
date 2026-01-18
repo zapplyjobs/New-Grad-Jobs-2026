@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T23:27:29.733Z",
+  "lastUpdated": "2026-01-18T23:53:00.698Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30790,14 +30790,80 @@
       "sourceUrl": "https://careers-geosyntec.icims.com/jobs/4105/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1462589231275839738",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-blueridgehealth-icims-com-jobs-1884-job-2026-01-18-1",
+      "jobId": "careers-blueridgehealth-icims-com-jobs-1884-job",
+      "company": "Blue Ridge Health",
+      "title": "Dental Assistant",
+      "postedToDiscord": "2026-01-18T23:52:32.407Z",
+      "sourceDate": "2025-09-27T14:26:03.000Z",
+      "sourceUrl": "https://careers-blueridgehealth.icims.com/jobs/1884/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462595534056587267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7540782-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7540782",
+      "company": "reddit",
+      "title": "Senior Manager, Large Customer Sales (Tech)",
+      "postedToDiscord": "2026-01-18T23:52:39.096Z",
+      "sourceDate": "2026-01-15T13:05:29-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7540782",
+      "discordThreadId": "1462595562455961722",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062712008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062712008",
+      "company": "anthropic",
+      "title": "Solutions Architect, Beneficial Deployments",
+      "postedToDiscord": "2026-01-18T23:52:44.377Z",
+      "sourceDate": "2026-01-15T12:42:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062712008",
+      "discordThreadId": "1462595583905628375",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5025464007-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5025464007",
+      "company": "verkada",
+      "title": "Regional Sales Manager, Mid-Market, Austin",
+      "postedToDiscord": "2026-01-18T23:52:50.898Z",
+      "sourceDate": "2026-01-15T12:56:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5025464007",
+      "discordThreadId": "1462595611617398865",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7508981-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7508981",
+      "company": "datadog",
+      "title": "Area Vice President, Enterprise Sales - Public Sector",
+      "postedToDiscord": "2026-01-18T23:52:54.329Z",
+      "sourceDate": "2026-01-15T12:21:20-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7508981/?gh_jid=7508981",
+      "discordThreadId": "1462595626255650969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4667572008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4667572008",
+      "company": "anthropic",
+      "title": "Software Engineer, Enterprise Foundations",
+      "postedToDiscord": "2026-01-18T23:53:00.697Z",
+      "sourceDate": "2026-01-15T12:22:55-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4667572008",
+      "discordThreadId": "1462595653225025607",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2799,
+    "totalJobs": 2805,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T23:27:29.733Z",
+      "date": "2026-01-18T23:53:00.698Z",
       "archived": 0
     }
   }
