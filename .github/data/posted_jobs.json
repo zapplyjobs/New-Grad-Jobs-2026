@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T00:51:02.499Z",
+  "lastUpdated": "2026-01-18T02:39:54.626Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -27633,14 +27633,135 @@
       "sourceUrl": "https://jobs-challp.icims.com/jobs/7444/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1462247869242151077",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-markon-icims-com-jobs-7960-job-2026-01-18-1",
+      "jobId": "careers-markon-icims-com-jobs-7960-job",
+      "company": "Markon",
+      "title": "Software Engineer Level 0",
+      "postedToDiscord": "2026-01-18T02:39:10.062Z",
+      "sourceDate": "2025-11-11T00:04:13.000Z",
+      "sourceUrl": "https://careers-markon.icims.com/jobs/7960/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462275079919374398",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8360103002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8360103002",
+      "company": "Twitch",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-18T02:39:13.731Z",
+      "sourceDate": "2026-01-06T09:16:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8360103002",
+      "discordThreadId": "1462275094033334323",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8334351002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8334351002",
+      "company": "Twitch",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-18T02:39:13.748Z",
+      "sourceDate": "2026-01-06T09:16:05.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8334351002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-riversidehealth-icims-com-jobs-7971-job-2026-01-18-1",
+      "jobId": "careers-riversidehealth-icims-com-jobs-7971-job",
+      "company": "St. Johns Riverside Hospital",
+      "title": "Security Officer",
+      "postedToDiscord": "2026-01-18T02:39:17.402Z",
+      "sourceDate": "2025-11-12T23:50:05.000Z",
+      "sourceUrl": "https://careers-riversidehealth.icims.com/jobs/7971/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462275109674024970",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-koddi-jobs-8250169002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-koddi-jobs-8250169002",
+      "company": "Koddi",
+      "title": "Associate Analyst Cohort",
+      "postedToDiscord": "2026-01-18T02:39:23.869Z",
+      "sourceDate": "2025-11-10T23:51:55.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/koddi/jobs/8250169002",
+      "discordThreadId": "1462275137666682890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5759369004-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5759369004",
+      "company": "figma",
+      "title": "Account Executive, Enterprise - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-18T02:39:30.524Z",
+      "sourceDate": "2026-01-13T03:35:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759369004?gh_jid=5759369004",
+      "discordThreadId": "1462275164711555212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-massachusetts-cambridge-director-of-ai-engineering-pfizer-r-d_4949810-2026-01-18-1",
+      "jobId": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-united-states-massachusetts-cambridge-director-of-ai-engineering-pfizer-r-d_4949810",
+      "company": "Pfizer",
+      "title": "Director of AI Engineering Pfizer R&D",
+      "postedToDiscord": "2026-01-18T02:39:37.097Z",
+      "sourceDate": "2026-01-13T07:36:41.000Z",
+      "sourceUrl": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Director-of-AI-Engineering-Pfizer-R-D_4949810",
+      "discordThreadId": "1462275192578637931",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-appen-88569e5a-56e4-4acc-bbd9-32d936ee8142-apply-2026-01-18-1",
+      "jobId": "jobs-lever-co-appen-88569e5a-56e4-4acc-bbd9-32d936ee8142-apply",
+      "company": "CrowdGen by Appen",
+      "title": "Project Jigglypuff Transcription - English-United States",
+      "postedToDiscord": "2026-01-18T02:39:40.821Z",
+      "sourceDate": "2025-12-05T02:23:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/appen/88569e5a-56e4-4acc-bbd9-32d936ee8142/apply",
+      "discordThreadId": "1462275207753633803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-geosyntec-icims-com-jobs-4028-job-2026-01-18-1",
+      "jobId": "careers-geosyntec-icims-com-jobs-4028-job",
+      "company": "Geosyntec Consultants",
+      "title": "Early-Career Geologist or Hydrogeologist",
+      "postedToDiscord": "2026-01-18T02:39:47.428Z",
+      "sourceDate": "2025-11-12T00:09:15.000Z",
+      "sourceUrl": "https://careers-geosyntec.icims.com/jobs/4028/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462275236178432032",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-eyesouthpartners-icims-com-jobs-8354-job-2026-01-18-1",
+      "jobId": "careers-eyesouthpartners-icims-com-jobs-8354-job",
+      "company": "EyeSouth Partners",
+      "title": "Call Center Representative",
+      "postedToDiscord": "2026-01-18T02:39:50.973Z",
+      "sourceDate": "2026-01-08T23:22:03.000Z",
+      "sourceUrl": "https://careers-eyesouthpartners.icims.com/jobs/8354/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462275250866618521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-flanigans-icims-com-jobs-22818-job-2026-01-18-1",
+      "jobId": "careers-flanigans-icims-com-jobs-22818-job",
+      "company": "Flanigan's Enterprises",
+      "title": "ID Checker",
+      "postedToDiscord": "2026-01-18T02:39:54.625Z",
+      "sourceDate": "2025-11-25T23:17:38.000Z",
+      "sourceUrl": "https://careers-flanigans.icims.com/jobs/22818/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462275265890746429",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2512,
+    "totalJobs": 2523,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T00:51:02.499Z",
+      "date": "2026-01-18T02:39:54.626Z",
       "archived": 0
     }
   }
