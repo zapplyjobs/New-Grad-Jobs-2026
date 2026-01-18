@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:44:35.068Z",
+  "lastUpdated": "2026-01-18T05:56:01.918Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28491,14 +28491,47 @@
       "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003191",
       "discordThreadId": "1462321741568151686",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8359307002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8359307002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics - Growth/SEO",
+      "postedToDiscord": "2026-01-18T05:55:48.794Z",
+      "sourceDate": "2026-01-06T17:49:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359307002",
+      "discordThreadId": "1462324567132471336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brookfield-wd5-myworkdayjobs-com-bpandc-job-us-ny-new-york-city-data-scientist-ii_r6000940-2026-01-18-1",
+      "jobId": "brookfield-wd5-myworkdayjobs-com-bpandc-job-us-ny-new-york-city-data-scientist-ii_r6000940",
+      "company": "Argo Group",
+      "title": "Data Scientist 2",
+      "postedToDiscord": "2026-01-18T05:55:55.508Z",
+      "sourceDate": "2026-01-13T23:37:36.000Z",
+      "sourceUrl": "https://brookfield.wd5.myworkdayjobs.com/bpandc/job/US-NY---New-York-City/Data-Scientist-II_R6000940",
+      "discordThreadId": "1462324595129585876",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5066951008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5066951008",
+      "company": "anthropic",
+      "title": "Policy Manager, Chemical Weapons and High Yield Explosives",
+      "postedToDiscord": "2026-01-18T05:56:01.917Z",
+      "sourceDate": "2026-01-13T17:54:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066951008",
+      "discordThreadId": "1462324622329643008",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2590,
+    "totalJobs": 2593,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T05:44:35.068Z",
+      "date": "2026-01-18T05:56:01.918Z",
       "archived": 0
     }
   }
