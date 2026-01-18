@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:03:10.887Z",
+  "lastUpdated": "2026-01-18T05:14:53.510Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28282,14 +28282,69 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7490601/?gh_jid=7490601",
       "discordThreadId": "1462311320782373093",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7493743-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7493743",
+      "company": "datadog",
+      "title": "People Analyst II",
+      "postedToDiscord": "2026-01-18T05:14:33.351Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7493743/?gh_jid=7493743",
+      "discordThreadId": "1462314183428145225",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7461785-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7461785",
+      "company": "datadog",
+      "title": "Associate Event Marketing Manager (New York)",
+      "postedToDiscord": "2026-01-18T05:14:36.888Z",
+      "sourceDate": "2026-01-13T16:18:55-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7461785/?gh_jid=7461785",
+      "discordThreadId": "1462314198779560098",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5068424008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5068424008",
+      "company": "anthropic",
+      "title": "Compute Capacity Strategy & Operations",
+      "postedToDiscord": "2026-01-18T05:14:43.467Z",
+      "sourceDate": "2026-01-13T14:06:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068424008",
+      "discordThreadId": "1462314226256445589",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7494521-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7494521",
+      "company": "datadog",
+      "title": "Senior Field Enablement Manager - Leadership Development",
+      "postedToDiscord": "2026-01-18T05:14:50.051Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7494521/?gh_jid=7494521",
+      "discordThreadId": "1462314253871616042",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8052077002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8052077002",
+      "company": "airtable",
+      "title": "Emerging Small Business, Account Executive",
+      "postedToDiscord": "2026-01-18T05:14:53.509Z",
+      "sourceDate": "2026-01-13T15:18:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8052077002",
+      "discordThreadId": "1462314268962590823",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2571,
+    "totalJobs": 2576,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T05:03:10.887Z",
+      "date": "2026-01-18T05:14:53.510Z",
       "archived": 0
     }
   }
