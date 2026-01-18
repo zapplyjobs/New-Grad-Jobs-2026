@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T06:48:23.023Z",
+  "lastUpdated": "2026-01-18T07:01:40.077Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28722,14 +28722,36 @@
       "sourceUrl": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Associate-Product-Engineer_JR100284",
       "discordThreadId": "1462337796806021180",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-software-development-engineer-virg-1355684900-2026-01-18-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-software-development-engineer-virg-1355684900",
+      "company": "Huntington Ingalls Industries",
+      "title": "Software Development Engineer",
+      "postedToDiscord": "2026-01-18T07:01:36.617Z",
+      "sourceDate": "2026-01-13T23:17:22.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1355684900/?ats=successfactors",
+      "discordThreadId": "1462341125435166720",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-alarmcom-jobs-8360017002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-alarmcom-jobs-8360017002",
+      "company": "Alarm.com",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-18T07:01:40.076Z",
+      "sourceDate": "2026-01-13T23:34:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8360017002",
+      "discordThreadId": "1462341139909705728",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2611,
+    "totalJobs": 2613,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T06:48:23.023Z",
+      "date": "2026-01-18T07:01:40.077Z",
       "archived": 0
     }
   }
