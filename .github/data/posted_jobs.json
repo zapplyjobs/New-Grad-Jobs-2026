@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T15:08:29.443Z",
+  "lastUpdated": "2026-01-18T15:39:09.778Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29591,14 +29591,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5752684004",
       "discordThreadId": "1462463652815966229",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7516179-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7516179",
+      "company": "datadog",
+      "title": "Regional Manager, Sales Engineer - Key Accounts (East)",
+      "postedToDiscord": "2026-01-18T15:38:57.853Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7516179/?gh_jid=7516179",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5064245008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5064245008",
+      "company": "anthropic",
+      "title": "Finance Systems, Tax Technology",
+      "postedToDiscord": "2026-01-18T15:39:03.100Z",
+      "sourceDate": "2026-01-14T17:29:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5064245008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5066957008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5066957008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Security - Detection & Response",
+      "postedToDiscord": "2026-01-18T15:39:09.778Z",
+      "sourceDate": "2026-01-14T14:42:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066957008",
+      "discordThreadId": "1462471370851221689",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2690,
+    "totalJobs": 2693,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T15:08:29.443Z",
+      "date": "2026-01-18T15:39:09.778Z",
       "archived": 0
     }
   }
