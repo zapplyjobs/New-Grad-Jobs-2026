@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T15:39:09.778Z",
+  "lastUpdated": "2026-01-18T16:07:37.943Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29624,14 +29624,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066957008",
       "discordThreadId": "1462471370851221689",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7232590-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7232590",
+      "company": "datadog",
+      "title": "Customer Success Manager - Denver",
+      "postedToDiscord": "2026-01-18T16:07:31.448Z",
+      "sourceDate": "2026-01-14T16:36:33-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590",
+      "discordThreadId": "1462478515885572348",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7521096-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7521096",
+      "company": "datadog",
+      "title": "Senior Security Engineer - Threat Detection Engineering",
+      "postedToDiscord": "2026-01-18T16:07:37.942Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7521096/?gh_jid=7521096",
+      "discordThreadId": "1462478536370553057",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2693,
+    "totalJobs": 2695,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T15:39:09.778Z",
+      "date": "2026-01-18T16:07:37.943Z",
       "archived": 0
     }
   }
