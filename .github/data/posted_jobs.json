@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:55:46.974Z",
+  "lastUpdated": "2026-01-18T09:08:09.922Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29393,14 +29393,124 @@
       "sourceUrl": "https://jobs.ashbyhq.com/hawkeyeinnovations/f7e21161-975e-4dc3-adb0-3bc744df1c8f/application",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8362661002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8362661002",
+      "company": "discord",
+      "title": "Strategic Sourcing Manager",
+      "postedToDiscord": "2026-01-18T09:07:22.237Z",
+      "sourceDate": "2026-01-14T11:56:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362661002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "gsknch-wd3-myworkdayjobs-com-gskcareers-job-uk-greater-london-associate-data-scientist_539155-2026-01-18-1",
+      "jobId": "gsknch-wd3-myworkdayjobs-com-gskcareers-job-uk-greater-london-associate-data-scientist_539155",
+      "company": "Haleon",
+      "title": "Associate Data Scientist",
+      "postedToDiscord": "2026-01-18T09:07:27.008Z",
+      "sourceDate": "2026-01-14T16:17:07.000Z",
+      "sourceUrl": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/UK---Greater-London/Associate-Data-Scientist_539155",
+      "discordThreadId": "1462372801242468515",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-centriaautism-jobs-8366397002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-centriaautism-jobs-8366397002",
+      "company": "Centria Autism",
+      "title": "Marketing and Sales Data Analyst",
+      "postedToDiscord": "2026-01-18T09:07:30.386Z",
+      "sourceDate": "2026-01-14T16:20:30.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/centriaautism/jobs/8366397002",
+      "discordThreadId": "1462372808255344743",
+      "instanceNumber": 1
+    },
+    {
+      "id": "staff-emory-icims-com-jobs-151025-job-2026-01-18-1",
+      "jobId": "staff-emory-icims-com-jobs-151025-job",
+      "company": "Emory University",
+      "title": "Data Analyst-School of Medicine - Hematology",
+      "postedToDiscord": "2026-01-18T09:07:33.798Z",
+      "sourceDate": "2026-01-14T16:20:29.000Z",
+      "sourceUrl": "https://staff-emory.icims.com/jobs/151025/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462372822411120839",
+      "instanceNumber": 1
+    },
+    {
+      "id": "campingworld-wd5-myworkdayjobs-com-en-us-jobs-job-chicago-il-entry-level-data-analyst_26_00211-2026-01-18-1",
+      "jobId": "campingworld-wd5-myworkdayjobs-com-en-us-jobs-job-chicago-il-entry-level-data-analyst_26_00211",
+      "company": "Camping World",
+      "title": "Entry-Level Data Analyst",
+      "postedToDiscord": "2026-01-18T09:07:37.256Z",
+      "sourceDate": "2026-01-07T16:31:08.000Z",
+      "sourceUrl": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Entry-Level-Data-Analyst_26_00211",
+      "discordThreadId": "1462372836701110315",
+      "instanceNumber": 1
+    },
+    {
+      "id": "okgov-wd1-myworkdayjobs-com-okgovjobs-job-oklahoma-county-environmental-programs-specialist_jr54578-2026-01-18-1",
+      "jobId": "okgov-wd1-myworkdayjobs-com-okgovjobs-job-oklahoma-county-environmental-programs-specialist_jr54578",
+      "company": "Oklahoma State Government",
+      "title": "Environmental Programs Specialist",
+      "postedToDiscord": "2026-01-18T09:07:43.884Z",
+      "sourceDate": "2026-01-07T17:08:54.000Z",
+      "sourceUrl": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Environmental-Programs-Specialist_JR54578",
+      "discordThreadId": "1462372864328994877",
+      "instanceNumber": 1
+    },
+    {
+      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-research-assistant-in-geomorphology-geosci_req_0000074720-1-2026-01-18-1",
+      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-research-assistant-in-geomorphology-geosci_req_0000074720-1",
+      "company": "PennState University",
+      "title": "Research Assistant in Geomorphology-GEOSCI",
+      "postedToDiscord": "2026-01-18T09:07:50.255Z",
+      "sourceDate": "2026-01-07T17:02:30.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-Geomorphology-GEOSCI_REQ_0000074720-1",
+      "discordThreadId": "1462372892170911906",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-charlotte-nc-quantitative-model-analyst-1_2026-0000098-2026-01-18-1",
+      "jobId": "usbank-wd1-myworkdayjobs-com-us_bank_careers-job-charlotte-nc-quantitative-model-analyst-1_2026-0000098",
+      "company": "U.S. Bank",
+      "title": "Quantitative Model Analyst 1",
+      "postedToDiscord": "2026-01-18T09:07:56.770Z",
+      "sourceDate": "2026-01-06T00:01:13.000Z",
+      "sourceUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Quantitative-Model-Analyst-1_2026-0000098",
+      "discordThreadId": "1462372918674718835",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735636004-2026-01-18-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735636004",
+      "company": "figma",
+      "title": "Strategic Program Manager, Contingent Workforce",
+      "postedToDiscord": "2026-01-18T09:08:03.238Z",
+      "sourceDate": "2026-01-07T13:46:33-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735636004?gh_jid=5735636004",
+      "discordThreadId": "1462372945979506790",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5067287008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5067287008",
+      "company": "anthropic",
+      "title": "External Policy & Partnerships Manager, Safeguards",
+      "postedToDiscord": "2026-01-18T09:08:09.922Z",
+      "sourceDate": "2026-01-14T14:04:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067287008",
+      "discordThreadId": "1462372973167120542",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2672,
+    "totalJobs": 2682,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T08:55:46.974Z",
+      "date": "2026-01-18T09:08:09.922Z",
       "archived": 0
     }
   }
