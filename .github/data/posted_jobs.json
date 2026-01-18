@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T13:43:44.340Z",
+  "lastUpdated": "2026-01-18T15:08:29.443Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29569,14 +29569,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066981008",
       "discordThreadId": "1462442324641448018",
       "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-buxtoncocareers-jobs-d0620c82-5176-4a35-bc55-3984d4ca95f9-2026-01-18-1",
+      "jobId": "ats-rippling-com-buxtoncocareers-jobs-d0620c82-5176-4a35-bc55-3984d4ca95f9",
+      "company": "Buxton ",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-18T15:08:22.966Z",
+      "sourceDate": "2026-01-14T16:14:36.000Z",
+      "sourceUrl": "https://ats.rippling.com/buxtoncocareers/jobs/d0620c82-5176-4a35-bc55-3984d4ca95f9",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5752684004-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5752684004",
+      "company": "vercel",
+      "title": "Senior Solutions Engineer",
+      "postedToDiscord": "2026-01-18T15:08:29.442Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5752684004",
+      "discordThreadId": "1462463652815966229",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2688,
+    "totalJobs": 2690,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T13:43:44.340Z",
+      "date": "2026-01-18T15:08:29.443Z",
       "archived": 0
     }
   }
