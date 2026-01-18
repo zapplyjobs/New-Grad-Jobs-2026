@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T20:54:30.410Z",
+  "lastUpdated": "2026-01-18T21:28:08.016Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30119,14 +30119,124 @@
       "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Data-Engineer_JR-202520494",
       "discordThreadId": "1462550730643865753",
       "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-software-engineer_r-00171275-2026-01-18-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-software-engineer_r-00171275",
+      "company": "Leidos",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-18T21:27:33.039Z",
+      "sourceDate": "2025-12-04T02:14:22.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00171275",
+      "discordThreadId": "1462559046451073054",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-software-systems-engineer_r-00171075-2026-01-18-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-software-systems-engineer_r-00171075",
+      "company": "Leidos",
+      "title": "Software Systems Engineer",
+      "postedToDiscord": "2026-01-18T21:27:36.599Z",
+      "sourceDate": "2025-11-26T11:29:16.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Systems-Engineer_R-00171075",
+      "discordThreadId": "1462559061466939517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-san-diego-ca-united-states-engineer-cloud-development_jr_047681-1-2026-01-18-1",
+      "jobId": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-san-diego-ca-united-states-engineer-cloud-development_jr_047681-1",
+      "company": "Resmed",
+      "title": "Engineer – Cloud Development",
+      "postedToDiscord": "2026-01-18T21:27:40.241Z",
+      "sourceDate": "2026-01-15T00:35:44.000Z",
+      "sourceUrl": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Engineer-Cloud-Development_JR_047681-1",
+      "discordThreadId": "1462559075765190732",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8352070002-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8352070002",
+      "company": "discord",
+      "title": "Senior Software Engineer - Notifications",
+      "postedToDiscord": "2026-01-18T21:27:46.965Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8352070002",
+      "discordThreadId": "1462559103644729380",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-wd3-myworkdayjobs-com-asmlext1-job-san-diego-ca-usa-software-engineer_j-00331106-2026-01-18-1",
+      "jobId": "asml-wd3-myworkdayjobs-com-asmlext1-job-san-diego-ca-usa-software-engineer_j-00331106",
+      "company": "ASML",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-18T21:27:50.524Z",
+      "sourceDate": "2026-01-15T02:24:09.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Software-Engineer_J-00331106",
+      "discordThreadId": "1462559119402864883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-crm-27595-90599273872-2026-01-18-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-crm-27595-90599273872",
+      "company": "Intuit",
+      "title": "Software Engineer 1 - CRM",
+      "postedToDiscord": "2026-01-18T21:27:53.941Z",
+      "sourceDate": "2026-01-15T02:16:12.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1-crm/27595/90599273872",
+      "discordThreadId": "1462559134363681090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90599273824-2026-01-18-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90599273824",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-18T21:27:53.960Z",
+      "sourceDate": "2026-01-15T02:16:06.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90599273824",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-visa-744000103598105-2026-01-18-1",
+      "jobId": "jobs-smartrecruiters-com-visa-744000103598105",
+      "company": "Visa",
+      "title": "Software Engineer – New College Grad",
+      "postedToDiscord": "2026-01-18T21:27:57.985Z",
+      "sourceDate": "2026-01-15T02:13:45.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103598105",
+      "discordThreadId": "1462559149408911370",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-2026_jr2011392-2026-01-18-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-2026_jr2011392",
+      "company": "NVIDIA",
+      "title": "AI Software Engineer - LLM Inference Performance Analysis",
+      "postedToDiscord": "2026-01-18T21:28:01.528Z",
+      "sourceDate": "2026-01-15T00:31:52.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--LLM-Inference-Performance-Analysis---New-College-Grad-2026_JR2011392",
+      "discordThreadId": "1462559165535883416",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-phantom-works-software-systems-engineer_jr2025489040-1-2026-01-18-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-phantom-works-software-systems-engineer_jr2025489040-1",
+      "company": "The Boeing Company",
+      "title": "Software Systems Engineer",
+      "postedToDiscord": "2026-01-18T21:28:08.016Z",
+      "sourceDate": "2026-01-15T00:31:11.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Software-Systems-Engineer_JR2025489040-1",
+      "discordThreadId": "1462559192698061085",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2738,
+    "totalJobs": 2748,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T20:54:30.410Z",
+      "date": "2026-01-18T21:28:08.016Z",
       "archived": 0
     }
   }
