@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T17:39:45.503Z",
+  "lastUpdated": "2026-01-18T17:52:22.423Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29723,14 +29723,25 @@
       "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-Support-Analyst-Graduate_1198373-1",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "livenation-wd503-myworkdayjobs-com-en-tmexternalsite-job-reston-va-usa-software-engineer-i_jr-85444-2026-01-18-1",
+      "jobId": "livenation-wd503-myworkdayjobs-com-en-tmexternalsite-job-reston-va-usa-software-engineer-i_jr-85444",
+      "company": "Ticketmaster",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-18T17:52:22.422Z",
+      "sourceDate": "2026-01-07T23:22:41.000Z",
+      "sourceUrl": "https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Reston-VA-USA/Software-Engineer-I_JR-85444",
+      "discordThreadId": "1462504895616782654",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2702,
+    "totalJobs": 2703,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T17:39:45.503Z",
+      "date": "2026-01-18T17:52:22.423Z",
       "archived": 0
     }
   }
