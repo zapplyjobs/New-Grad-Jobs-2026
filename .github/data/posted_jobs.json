@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T18:46:00.030Z",
+  "lastUpdated": "2026-01-18T19:26:31.730Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29767,14 +29767,58 @@
       "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Principal-Engineer-Combination-Product-Operations-MSAT-Primary-Container-Engineering-SRE_R-233208",
       "discordThreadId": "1462518391003812056",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5070425008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5070425008",
+      "company": "anthropic",
+      "title": "Security Risk & Compliance, Cloud & Data Center",
+      "postedToDiscord": "2026-01-18T19:26:18.120Z",
+      "sourceDate": "2026-01-14T19:43:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5070425008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-tukwila-wa-software-engineer-artificial-intelligence_jr2025489368-2026-01-18-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-tukwila-wa-software-engineer-artificial-intelligence_jr2025489368",
+      "company": "The Boeing Company",
+      "title": "Software Engineer - Artificial Intelligence",
+      "postedToDiscord": "2026-01-18T19:26:21.799Z",
+      "sourceDate": "2026-01-07T23:43:30.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer---Artificial-intelligence_JR2025489368",
+      "discordThreadId": "1462528548219781284",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-westerndigital-744000102169342-2026-01-18-1",
+      "jobId": "jobs-smartrecruiters-com-westerndigital-744000102169342",
+      "company": "Western Digital",
+      "title": "Early Career Talent - Data Engineer",
+      "postedToDiscord": "2026-01-18T19:26:25.215Z",
+      "sourceDate": "2026-01-07T23:55:11.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000102169342",
+      "discordThreadId": "1462528562681745568",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-burlington-ma-c-software-engineer_r50546-2026-01-18-1",
+      "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-burlington-ma-c-software-engineer_r50546",
+      "company": "Cadence Design Systems",
+      "title": "C++ Software Engineer",
+      "postedToDiscord": "2026-01-18T19:26:31.730Z",
+      "sourceDate": "2026-01-07T23:56:13.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/C---Software-Engineer_R50546",
+      "discordThreadId": "1462528590284460215",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2706,
+    "totalJobs": 2710,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T18:46:00.030Z",
+      "date": "2026-01-18T19:26:31.730Z",
       "archived": 0
     }
   }
