@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T20:41:41.966Z",
+  "lastUpdated": "2026-01-18T20:54:30.410Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30020,14 +30020,113 @@
       "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Jr_-Application-Solutions-Analyst-NC/1356387200/?ats=successfactors",
       "discordThreadId": "1462547507048353792",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055672008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055672008",
+      "company": "anthropic",
+      "title": "Technical Product Marketing Lead",
+      "postedToDiscord": "2026-01-18T20:53:50.312Z",
+      "sourceDate": "2026-01-15T00:58:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055672008",
+      "discordThreadId": "1462550562108215309",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-jacksoncasino-icims-com-jobs-8374-job-2026-01-18-1",
+      "jobId": "careers-jacksoncasino-icims-com-jobs-8374-job",
+      "company": "Jackson Rancheria Casino Resort",
+      "title": "Assistant – Sales",
+      "postedToDiscord": "2026-01-18T20:53:53.767Z",
+      "sourceDate": "2025-11-06T23:09:05.000Z",
+      "sourceUrl": "https://careers-jacksoncasino.icims.com/jobs/8374/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462550576825897124",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-assoc-analyst-technology_r2521966-2026-01-18-1",
+      "jobId": "medline-wd5-myworkdayjobs-com-en-us-medline-job-remote-illinois-assoc-analyst-technology_r2521966",
+      "company": "Medline",
+      "title": "Assoc Analyst Technology",
+      "postedToDiscord": "2026-01-18T20:53:58.591Z",
+      "sourceDate": "2026-01-07T23:36:14.000Z",
+      "sourceUrl": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Assoc-Analyst-Technology_R2521966",
+      "discordThreadId": "1462550604131074361",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-consoreng-icims-com-jobs-5830-job-2026-01-18-1",
+      "jobId": "careers-consoreng-icims-com-jobs-5830-job",
+      "company": "Consor",
+      "title": "Construction Inspector",
+      "postedToDiscord": "2026-01-18T20:54:05.372Z",
+      "sourceDate": "2025-12-16T23:03:24.000Z",
+      "sourceUrl": "https://careers-consoreng.icims.com/jobs/5830/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462550624913719501",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corningjobs-corning-com-job-wilmington-it-warehouse-system-developer-nc-28405-1356374900-2026-01-18-1",
+      "jobId": "corningjobs-corning-com-job-wilmington-it-warehouse-system-developer-nc-28405-1356374900",
+      "company": "Corning",
+      "title": "IT Warehouse System Developer",
+      "postedToDiscord": "2026-01-18T20:54:11.786Z",
+      "sourceDate": "2026-01-15T00:10:22.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Wilmington-IT-Warehouse-System-Developer-NC-28405/1356374900/?ats=successfactors",
+      "discordThreadId": "1462550652462043149",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-153663-2026-01-18-1",
+      "jobId": "www-uber-com-global-en-careers-list-153663",
+      "company": "Uber",
+      "title": "Graduate 2026 PhD Software Engineer 2 - Consumer Structural Pricing - United States",
+      "postedToDiscord": "2026-01-18T20:54:15.401Z",
+      "sourceDate": "2026-01-15T00:06:10.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/153663/",
+      "discordThreadId": "1462550667393761451",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-cordtechnologies-c9e9091c-2e89-4cbf-9fc6-982e39f10348-apply-2026-01-18-1",
+      "jobId": "jobs-lever-co-cordtechnologies-c9e9091c-2e89-4cbf-9fc6-982e39f10348-apply",
+      "company": "Encord",
+      "title": "Associate Software Engineer Graduate",
+      "postedToDiscord": "2026-01-18T20:54:21.918Z",
+      "sourceDate": "2026-01-15T00:08:07.000Z",
+      "sourceUrl": "https://jobs.lever.co/CordTechnologies/c9e9091c-2e89-4cbf-9fc6-982e39f10348/apply",
+      "discordThreadId": "1462550694849679464",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-brainco-bb6e555b-8bb1-4cd7-9813-4f82a5ebe839-application-2026-01-18-1",
+      "jobId": "jobs-ashbyhq-com-brainco-bb6e555b-8bb1-4cd7-9813-4f82a5ebe839-application",
+      "company": "Brain Co.",
+      "title": "Early Career AI/ML Engineer",
+      "postedToDiscord": "2026-01-18T20:54:23.893Z",
+      "sourceDate": "2026-01-14T23:41:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application",
+      "discordThreadId": "1462550709663957216",
+      "instanceNumber": 1
+    },
+    {
+      "id": "generalmotors-wd5-myworkdayjobs-com-careers_gm-job-warren-michigan-united-states-of-america-entry-level-data-engineer_jr-202520494-2026-01-18-1",
+      "jobId": "generalmotors-wd5-myworkdayjobs-com-careers_gm-job-warren-michigan-united-states-of-america-entry-level-data-engineer_jr-202520494",
+      "company": "General Motors",
+      "title": "Entry-Level Data Engineer",
+      "postedToDiscord": "2026-01-18T20:54:30.409Z",
+      "sourceDate": "2026-01-15T00:03:29.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Data-Engineer_JR-202520494",
+      "discordThreadId": "1462550730643865753",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2729,
+    "totalJobs": 2738,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T20:41:41.966Z",
+      "date": "2026-01-18T20:54:30.410Z",
       "archived": 0
     }
   }
