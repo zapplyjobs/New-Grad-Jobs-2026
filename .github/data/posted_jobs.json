@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T04:02:35.808Z",
+  "lastUpdated": "2026-01-18T04:27:17.459Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28007,14 +28007,124 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103271936",
       "discordThreadId": "1462296074889728237",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7405831-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7405831",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive ",
+      "postedToDiscord": "2026-01-18T04:26:48.527Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4933383008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4933383008",
+      "company": "anthropic",
+      "title": "Head of Protective Services",
+      "postedToDiscord": "2026-01-18T04:26:52.044Z",
+      "sourceDate": "2026-01-08T16:18:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933383008",
+      "discordThreadId": "1462302182442401878",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7509363-2026-01-18-1",
+      "jobId": "careers-datadoghq-com-detail-7509363",
+      "company": "datadog",
+      "title": "Senior Associate, Sales Enablement Operations",
+      "postedToDiscord": "2026-01-18T04:26:57.141Z",
+      "sourceDate": "2026-01-13T12:58:27-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7509363/?gh_jid=7509363",
+      "discordThreadId": "1462302198154137600",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8372636002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8372636002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, Product-Led Growth",
+      "postedToDiscord": "2026-01-18T04:27:00.560Z",
+      "sourceDate": "2026-01-13T12:57:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372636002?gh_jid=8372636002",
+      "discordThreadId": "1462302219004284948",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8372631002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8372631002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, Product-Led Growth",
+      "postedToDiscord": "2026-01-18T04:27:00.579Z",
+      "sourceDate": "2026-01-13T12:57:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372631002?gh_jid=8372631002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8372597002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8372597002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, B2B Sales",
+      "postedToDiscord": "2026-01-18T04:27:04.006Z",
+      "sourceDate": "2026-01-13T12:56:47-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372597002?gh_jid=8372597002",
+      "discordThreadId": "1462302233461915796",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8372627002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8372627002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, B2B Sales",
+      "postedToDiscord": "2026-01-18T04:27:04.024Z",
+      "sourceDate": "2026-01-13T12:56:26-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372627002?gh_jid=8372627002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-cisco-com-global-en-job-2001899-2026-01-18-1",
+      "jobId": "careers-cisco-com-global-en-job-2001899",
+      "company": "Cisco",
+      "title": "AI Machine Learning Engineer 2",
+      "postedToDiscord": "2026-01-18T04:27:10.421Z",
+      "sourceDate": "2026-01-06T16:18:36.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2001899",
+      "discordThreadId": "1462302260028768376",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-visa-744000103266367-2026-01-18-1",
+      "jobId": "jobs-smartrecruiters-com-visa-744000103266367",
+      "company": "Visa",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-18T04:27:13.946Z",
+      "sourceDate": "2026-01-13T16:18:02.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103266367",
+      "discordThreadId": "1462302274763227267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-visa-744000103266546-2026-01-18-1",
+      "jobId": "jobs-smartrecruiters-com-visa-744000103266546",
+      "company": "Visa",
+      "title": "Software Engineer  New College Grad - New College Grad",
+      "postedToDiscord": "2026-01-18T04:27:17.458Z",
+      "sourceDate": "2026-01-13T16:17:58.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103266546",
+      "discordThreadId": "1462302289707667506",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2546,
+    "totalJobs": 2556,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T04:02:35.808Z",
+      "date": "2026-01-18T04:27:17.459Z",
       "archived": 0
     }
   }
