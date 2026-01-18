@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:28:05.377Z",
+  "lastUpdated": "2026-01-18T05:44:35.068Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28447,14 +28447,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5023333007",
       "discordThreadId": "1462317589580742697",
       "instanceNumber": 1
+    },
+    {
+      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007321-2026-01-18-1",
+      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007321",
+      "company": "Welocalize",
+      "title": "Search Quality Rater",
+      "postedToDiscord": "2026-01-18T05:44:28.129Z",
+      "sourceDate": "2026-01-05T23:42:53.000Z",
+      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007321",
+      "discordThreadId": "1462321712292167702",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-321657-2026-01-18-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-321657",
+      "company": "Oracle",
+      "title": "Software Developer 1",
+      "postedToDiscord": "2026-01-18T05:44:31.678Z",
+      "sourceDate": "2026-01-13T23:09:07.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321657",
+      "discordThreadId": "1462321726649274477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319271-2026-01-18-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-319271",
+      "company": "Oracle",
+      "title": "Software Developer 1",
+      "postedToDiscord": "2026-01-18T05:44:31.695Z",
+      "sourceDate": "2026-01-06T23:14:19.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319271",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191-2026-01-18-1",
+      "jobId": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Engineer 1 – Senior Engineer – Senior Engineer 2 – Principal Engineer System Protection - Principal Engineer System Protection",
+      "postedToDiscord": "2026-01-18T05:44:35.068Z",
+      "sourceDate": "2026-01-06T23:07:01.000Z",
+      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003191",
+      "discordThreadId": "1462321741568151686",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2586,
+    "totalJobs": 2590,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T05:28:05.377Z",
+      "date": "2026-01-18T05:44:35.068Z",
       "archived": 0
     }
   }
