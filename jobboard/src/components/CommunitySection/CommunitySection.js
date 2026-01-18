@@ -26,7 +26,7 @@ const CommunitySection = () => {
         >
           <img src={`${process.env.PUBLIC_URL}/community-image.svg`} alt="Community meetup" className="community-image" />
           <div className="community-overlay">
-            <a href="https://discord.gg/yKWw28q7Yq" target="_blank" rel="noopener noreferrer" className="social-icon discord-icon">
+            <a href="https://discord.com/invite/UswBsduwcD" target="_blank" rel="noopener noreferrer" className="social-icon discord-icon">
               <img src={`${process.env.PUBLIC_URL}/discord-yellow.svg`} alt="Discord" />
             </a>
             <a href="https://www.reddit.com/r/Zapply/" target="_blank" rel="noopener noreferrer" className="social-icon reddit-icon">
@@ -47,7 +47,7 @@ const CommunitySection = () => {
             Seek advice from growing network of fellow students and new grads. We will give you the VIP treatment you deserve.
           </p>
           <div className="community-buttons">
-            <a href="https://discord.gg/yKWw28q7Yq" target="_blank" rel="noopener noreferrer" className="community-btn">
+            <a href="https://discord.com/invite/UswBsduwcD" target="_blank" rel="noopener noreferrer" className="community-btn">
               <img src={isDarkMode ? `${process.env.PUBLIC_URL}/discord-button.svg` : `${process.env.PUBLIC_URL}/discord-button-dark.svg`} alt="Discord" />
             </a>
             <a href="https://www.reddit.com/r/Zapply/" target="_blank" rel="noopener noreferrer" className="community-btn">
