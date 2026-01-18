@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:01:40.077Z",
+  "lastUpdated": "2026-01-18T07:08:54.302Z",
   "jobs": [
     {
       "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-11-1",
@@ -28744,14 +28744,146 @@
       "sourceUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8360017002",
       "discordThreadId": "1462341139909705728",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4821519008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4821519008",
+      "company": "anthropic",
+      "title": "Recruiter, G&A",
+      "postedToDiscord": "2026-01-18T07:08:09.257Z",
+      "sourceDate": "2026-01-07T11:54:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821519008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8362829002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8362829002",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-18T07:08:15.831Z",
+      "sourceDate": "2026-01-06T19:31:34-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362829002?gh_jid=8362829002",
+      "discordThreadId": "1462342799495270552",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8362828002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8362828002",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-18T07:08:15.852Z",
+      "sourceDate": "2026-01-06T19:31:33-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362828002?gh_jid=8362828002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8362822002-2026-01-18-1",
+      "jobId": "www-brex-com-careers-8362822002",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-18T07:08:15.871Z",
+      "sourceDate": "2026-01-06T19:31:33-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362822002?gh_jid=8362822002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "conagrabrands-wd1-myworkdayjobs-com-careers_us-job-chicago-illinois-associate-systems-analyst-it-sales-trade-portfolio_req-035736-1-2026-01-18-1",
+      "jobId": "conagrabrands-wd1-myworkdayjobs-com-careers_us-job-chicago-illinois-associate-systems-analyst-it-sales-trade-portfolio_req-035736-1",
+      "company": "Conagra Brands",
+      "title": "Associate Systems Analyst-IT Sales & Trade Portfolio",
+      "postedToDiscord": "2026-01-18T07:08:22.411Z",
+      "sourceDate": "2026-01-06T23:46:32.000Z",
+      "sourceUrl": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Associate-Systems-Analyst--IT-Sales---Trade-Portfolio_Req-035736-1",
+      "discordThreadId": "1462342827165089802",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5061691008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061691008",
+      "company": "anthropic",
+      "title": "Head of IT SOX",
+      "postedToDiscord": "2026-01-18T07:08:25.970Z",
+      "sourceDate": "2026-01-13T20:16:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061691008",
+      "discordThreadId": "1462342841870061569",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-applied-scientist-ai-enterprise-products-new-college-grad-2026_jr2006411-2026-01-18-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-applied-scientist-ai-enterprise-products-new-college-grad-2026_jr2006411",
+      "company": "NVIDIA",
+      "title": "Applied Scientist – New College Grad - AI Enterprise Products",
+      "postedToDiscord": "2026-01-18T07:08:32.473Z",
+      "sourceDate": "2026-01-13T23:33:39.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Scientist--AI-Enterprise-Products---New-College-Grad-2026_JR2006411",
+      "discordThreadId": "1462342869313650732",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055600008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055600008",
+      "company": "anthropic",
+      "title": "Product Designer, Enterprise ",
+      "postedToDiscord": "2026-01-18T07:08:35.966Z",
+      "sourceDate": "2026-01-06T19:45:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055600008",
+      "discordThreadId": "1462342884358488273",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4644457006-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4644457006",
+      "company": "mthree",
+      "title": "Junior Java Developer",
+      "postedToDiscord": "2026-01-18T07:08:42.399Z",
+      "sourceDate": "2026-01-13T23:27:41.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4644457006",
+      "discordThreadId": "1462342911386583137",
+      "instanceNumber": 1
+    },
+    {
+      "id": "healthfirst-wd1-myworkdayjobs-com-healthfirst-job-new-york-ny-xmlname-2026-technology-early-career-development-program-full-stack-development_r021433-2026-01-18-1",
+      "jobId": "healthfirst-wd1-myworkdayjobs-com-healthfirst-job-new-york-ny-xmlname-2026-technology-early-career-development-program-full-stack-development_r021433",
+      "company": "Healthfirst",
+      "title": "2026 Technology Early Career Development Program-Full Stack Development",
+      "postedToDiscord": "2026-01-18T07:08:46.089Z",
+      "sourceDate": "2026-01-13T23:26:51.000Z",
+      "sourceUrl": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/New-York-NY/XMLNAME-2026-Technology-Early-Career-Development-Program--Full-Stack-Development_R021433",
+      "discordThreadId": "1462342925714198660",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297-2026-01-18-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297",
+      "company": "Northrop Grumman",
+      "title": "Space Payload 1&T – Engineer/Principal Engineer",
+      "postedToDiscord": "2026-01-18T07:08:49.507Z",
+      "sourceDate": "2026-01-07T00:11:09.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10218297",
+      "discordThreadId": "1462342941027733779",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ppg-wd5-myworkdayjobs-com-ppg_careers-job-usa-delaware-plant-manufacturing-data-analyst_jr2518708-2026-01-18-1",
+      "jobId": "ppg-wd5-myworkdayjobs-com-ppg_careers-job-usa-delaware-plant-manufacturing-data-analyst_jr2518708",
+      "company": "PPG Industries",
+      "title": "Manufacturing Data Analyst",
+      "postedToDiscord": "2026-01-18T07:08:54.302Z",
+      "sourceDate": "2025-12-23T03:01:12.000Z",
+      "sourceUrl": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2518708",
+      "discordThreadId": "1462342968504619040",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2613,
+    "totalJobs": 2625,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T07:01:40.077Z",
+      "date": "2026-01-18T07:08:54.302Z",
       "archived": 0
     }
   }
