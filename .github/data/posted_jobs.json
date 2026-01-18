@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T17:52:22.423Z",
+  "lastUpdated": "2026-01-18T18:46:00.030Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29734,14 +29734,47 @@
       "sourceUrl": "https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Reston-VA-USA/Software-Engineer-I_JR-85444",
       "discordThreadId": "1462504895616782654",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4583696007-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4583696007",
+      "company": "verkada",
+      "title": "Senior Field Marketing Manager (Federal / State)",
+      "postedToDiscord": "2026-01-18T18:45:50.022Z",
+      "sourceDate": "2026-01-08T20:39:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4583696007",
+      "discordThreadId": "1462518347769057321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556630980-2026-01-18-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556630980",
+      "company": "Microsoft",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-18T18:45:56.558Z",
+      "sourceDate": "2026-01-07T23:15:07.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556630980",
+      "discordThreadId": "1462518375887409416",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amgen-wd1-myworkdayjobs-com-careers-job-us-california-thousand-oaks-principal-engineer-combination-product-operations-msat-primary-container-engineering-sre_r-233208-2026-01-18-1",
+      "jobId": "amgen-wd1-myworkdayjobs-com-careers-job-us-california-thousand-oaks-principal-engineer-combination-product-operations-msat-primary-container-engineering-sre_r-233208",
+      "company": "Amgen",
+      "title": "Principal Engineer",
+      "postedToDiscord": "2026-01-18T18:46:00.029Z",
+      "sourceDate": "2026-01-08T00:03:59.000Z",
+      "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Principal-Engineer-Combination-Product-Operations-MSAT-Primary-Container-Engineering-SRE_R-233208",
+      "discordThreadId": "1462518391003812056",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2703,
+    "totalJobs": 2706,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T17:52:22.423Z",
+      "date": "2026-01-18T18:46:00.030Z",
       "archived": 0
     }
   }
