@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:30:04.145Z",
+  "lastUpdated": "2026-01-18T08:45:07.942Z",
   "jobs": [
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556643050-2026-01-11-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556643050",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-11T08:43:26.636Z",
-      "sourceDate": "2026-01-11T08:07:50.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556643050",
-      "discordThreadId": "1459830036969558098",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062955008",
@@ -29283,14 +29272,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068272008",
       "discordThreadId": "1462363386615431325",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-3fa6a596-d62b-4cc0-afec-2ccd84b1a8e2-2026-01-18-1",
+      "jobId": "jobs-lever-co-spotify-3fa6a596-d62b-4cc0-afec-2ccd84b1a8e2",
+      "company": "spotify",
+      "title": "Backend Engineer, Ads Product & Tech",
+      "postedToDiscord": "2026-01-18T08:45:00.704Z",
+      "sourceDate": "2026-01-14T14:19:49.697Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/3fa6a596-d62b-4cc0-afec-2ccd84b1a8e2",
+      "discordThreadId": "1462367146590994558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brookfield-wd5-myworkdayjobs-com-brookfieldproperties-job-charleston-south-carolina-software-engineer_r2045781-2026-01-18-1",
+      "jobId": "brookfield-wd5-myworkdayjobs-com-brookfieldproperties-job-charleston-south-carolina-software-engineer_r2045781",
+      "company": "Brookfield Properties",
+      "title": "Martech Software Engineer",
+      "postedToDiscord": "2026-01-18T08:45:04.160Z",
+      "sourceDate": "2025-12-13T15:16:32.000Z",
+      "sourceUrl": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Charleston-South-Carolina/Software-Engineer_R2045781",
+      "discordThreadId": "1462367161426378808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7460051-2026-01-18-1",
+      "jobId": "www-samsara-com-company-careers-roles-7460051",
+      "company": "samsara",
+      "title": "Senior Hardware Reliability Engineer",
+      "postedToDiscord": "2026-01-18T08:45:07.941Z",
+      "sourceDate": "2026-01-14T11:07:37-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7460051?gh_jid=7460051",
+      "discordThreadId": "1462367176672678073",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2662,
+    "totalJobs": 2664,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T08:30:04.145Z",
+      "date": "2026-01-18T08:45:07.942Z",
       "archived": 0
     }
   }
