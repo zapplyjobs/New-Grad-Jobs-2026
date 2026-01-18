@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T20:07:54.322Z",
+  "lastUpdated": "2026-01-18T20:27:34.969Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29888,14 +29888,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7201580",
       "discordThreadId": "1462539003457704098",
       "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-redondo-beach-software-engineer-level-1-2-space-systems-_r10218502-2026-01-18-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-redondo-beach-software-engineer-level-1-2-space-systems-_r10218502",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Level - Space Systems",
+      "postedToDiscord": "2026-01-18T20:27:13.550Z",
+      "sourceDate": "2026-01-08T00:56:12.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer---Level-1-2--Space-Systems-_R10218502",
+      "discordThreadId": "1462543863649669397",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-_r-48456-2026-01-18-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-_r-48456",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - Aws",
+      "postedToDiscord": "2026-01-18T20:27:17.012Z",
+      "sourceDate": "2026-01-07T23:34:49.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-_R-48456",
+      "discordThreadId": "1462543879470317713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003905-2026-01-18-1",
+      "jobId": "fa-etqd-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2025003905",
+      "company": "Perficient",
+      "title": "Associate Technical Consultant - ServiceNow",
+      "postedToDiscord": "2026-01-18T20:27:20.435Z",
+      "sourceDate": "2026-01-07T23:28:43.000Z",
+      "sourceUrl": "https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003905",
+      "discordThreadId": "1462543894225879060",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alation-wd503-myworkdayjobs-com-externalsite-job-usa-ca-redwood-city-ai-ml-engineer_r10000621-2026-01-18-1",
+      "jobId": "alation-wd503-myworkdayjobs-com-externalsite-job-usa-ca-redwood-city-ai-ml-engineer_r10000621",
+      "company": "Alation",
+      "title": "AI/ML Engineer",
+      "postedToDiscord": "2026-01-18T20:27:27.897Z",
+      "sourceDate": "2025-12-16T23:41:31.000Z",
+      "sourceUrl": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/AI-ML-Engineer_R10000621",
+      "discordThreadId": "1462543921686118670",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jll-wd1-myworkdayjobs-com-jllcareers-job-seattle-wa-research-analyst-pnw_req451478-2026-01-18-1",
+      "jobId": "jll-wd1-myworkdayjobs-com-jllcareers-job-seattle-wa-research-analyst-pnw_req451478",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Research Analyst - Pnw",
+      "postedToDiscord": "2026-01-18T20:27:31.522Z",
+      "sourceDate": "2026-01-08T00:58:00.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Research-Analyst--PNW_REQ451478",
+      "discordThreadId": "1462543939876684032",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5067443008-2026-01-18-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5067443008",
+      "company": "anthropic",
+      "title": "Program Manager, US K-12 Education",
+      "postedToDiscord": "2026-01-18T20:27:34.969Z",
+      "sourceDate": "2026-01-14T23:33:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067443008",
+      "discordThreadId": "1462543955140018348",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2717,
+    "totalJobs": 2723,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T20:07:54.322Z",
+      "date": "2026-01-18T20:27:34.969Z",
       "archived": 0
     }
   }
