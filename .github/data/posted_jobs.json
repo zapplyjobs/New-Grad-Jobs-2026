@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T16:27:20.788Z",
+  "lastUpdated": "2026-01-18T16:54:38.576Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -29657,14 +29657,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960248008",
       "discordThreadId": "1462483497880129627",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7434684-2026-01-18-1",
+      "jobId": "www-coinbase-com-careers-positions-7434684",
+      "company": "coinbase",
+      "title": "Business Controller Intern",
+      "postedToDiscord": "2026-01-18T16:54:38.576Z",
+      "sourceDate": "2026-01-14T13:03:34-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7434684?gh_jid=7434684",
+      "discordThreadId": "1462490366774350079",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2696,
+    "totalJobs": 2697,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T16:27:20.788Z",
+      "date": "2026-01-18T16:54:38.576Z",
       "archived": 0
     }
   }
