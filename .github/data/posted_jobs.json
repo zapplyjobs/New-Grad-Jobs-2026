@@ -1,227 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T18:50:56.888Z",
+  "lastUpdated": "2026-01-19T19:11:54.698Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4017544008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4017544008",
-      "company": "anthropic",
-      "title": "Staff Machine Learning Engineer, Agent Skills",
-      "postedToDiscord": "2026-01-12T19:00:27.571Z",
-      "sourceDate": "2026-01-09T20:22:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4017544008",
-      "discordThreadId": "1460347700229967957",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4720576008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4720576008",
-      "company": "anthropic",
-      "title": "TPU Kernel Engineer",
-      "postedToDiscord": "2026-01-12T19:00:31.212Z",
-      "sourceDate": "2026-01-09T20:21:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
-      "discordThreadId": "1460347717325684826",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4020350008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4020350008",
-      "company": "anthropic",
-      "title": "Performance Engineer",
-      "postedToDiscord": "2026-01-12T19:00:34.794Z",
-      "sourceDate": "2026-01-09T20:21:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
-      "discordThreadId": "1460347731921997830",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4613568008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613568008",
-      "company": "anthropic",
-      "title": "Research Engineer, Machine Learning (Reinforcement Learning) ",
-      "postedToDiscord": "2026-01-12T19:00:38.474Z",
-      "sourceDate": "2026-01-09T20:18:28-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
-      "discordThreadId": "1460347747281666129",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4631822008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4631822008",
-      "company": "anthropic",
-      "title": "Research Engineer / Scientist, Alignment Science",
-      "postedToDiscord": "2026-01-12T19:00:41.936Z",
-      "sourceDate": "2026-01-09T20:17:19-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
-      "discordThreadId": "1460347762863505438",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4949336008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4949336008",
-      "company": "anthropic",
-      "title": "Machine Learning Engineer, Safeguards",
-      "postedToDiscord": "2026-01-12T19:00:45.395Z",
-      "sourceDate": "2026-01-09T20:17:08-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
-      "discordThreadId": "1460347777233059912",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4613592008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613592008",
-      "company": "anthropic",
-      "title": "Research Engineer, Production Model Post Training",
-      "postedToDiscord": "2026-01-12T19:00:48.999Z",
-      "sourceDate": "2026-01-09T20:16:23-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
-      "discordThreadId": "1460347791774716123",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4926227008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4926227008",
-      "company": "anthropic",
-      "title": "Performance Engineer, GPU",
-      "postedToDiscord": "2026-01-12T19:00:55.613Z",
-      "sourceDate": "2026-01-09T20:22:40-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
-      "discordThreadId": "1460347819641671782",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4926242008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4926242008",
-      "company": "anthropic",
-      "title": "Software Engineer, ML Networking",
-      "postedToDiscord": "2026-01-12T19:00:59.130Z",
-      "sourceDate": "2026-01-09T20:22:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
-      "discordThreadId": "1460347835013791754",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4532887008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4532887008",
-      "company": "anthropic",
-      "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
-      "postedToDiscord": "2026-01-12T19:01:05.760Z",
-      "sourceDate": "2026-01-09T20:15:15-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
-      "discordThreadId": "1460347861828112448",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4952051008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4952051008",
-      "company": "anthropic",
-      "title": "Machine Learning Systems Engineer, RL Engineering",
-      "postedToDiscord": "2026-01-12T19:10:51.614Z",
-      "sourceDate": "2026-01-09T20:15:14-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-      "discordThreadId": "1460350316347134197",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4924308008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4924308008",
-      "company": "anthropic",
-      "title": "Research Engineer / Research Scientist, Biology & Life Sciences",
-      "postedToDiscord": "2026-01-12T19:10:55.170Z",
-      "sourceDate": "2026-01-09T20:13:35-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4924308008",
-      "discordThreadId": "1460350334248681598",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4946308008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946308008",
-      "company": "anthropic",
-      "title": "Staff Machine Learning Engineer, Virtual Collaborator",
-      "postedToDiscord": "2026-01-12T19:10:58.930Z",
-      "sourceDate": "2026-01-09T20:12:46-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946308008",
-      "discordThreadId": "1460350349297586379",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4980436008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980436008",
-      "company": "anthropic",
-      "title": " [Expression of Interest] Research Manager, Interpretability",
-      "postedToDiscord": "2026-01-12T19:11:02.469Z",
-      "sourceDate": "2026-01-09T20:10:02-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
-      "discordThreadId": "1460350364929753157",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4520279008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4520279008",
-      "company": "anthropic",
-      "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
-      "postedToDiscord": "2026-01-12T19:11:09.026Z",
-      "sourceDate": "2026-01-09T20:14:31-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4520279008",
-      "discordThreadId": "1460350392759222514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7845291002-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845291002",
-      "company": "airtable",
-      "title": "Software Engineer, Product Backend (2-8 YOE)",
-      "postedToDiscord": "2026-01-12T19:11:16.039Z",
-      "sourceDate": "2026-01-09T19:39:46-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845291002",
-      "discordThreadId": "1460350419942510736",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7845287002-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845287002",
-      "company": "airtable",
-      "title": "Software Engineer, Product Backend (8+ YOE)",
-      "postedToDiscord": "2026-01-12T19:11:19.950Z",
-      "sourceDate": "2026-01-09T19:35:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845287002",
-      "discordThreadId": "1460350437642473659",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8330419002-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8330419002",
-      "company": "discord",
-      "title": "Developer Operations Analyst",
-      "postedToDiscord": "2026-01-12T19:11:23.641Z",
-      "sourceDate": "2026-01-09T17:13:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8330419002",
-      "discordThreadId": "1460350453379502246",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5008900007-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5008900007",
-      "company": "verkada",
-      "title": "Channel Development Representative, West (Salt Lake City)",
-      "postedToDiscord": "2026-01-12T19:11:28.720Z",
-      "sourceDate": "2026-01-09T17:31:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5008900007",
-      "discordThreadId": "1460350482437640343",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7426752-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7426752",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-12T19:11:32.260Z",
-      "sourceDate": "2026-01-09T17:06:09-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752",
-      "discordThreadId": "1460350489777668363",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-4656750007-2026-01-12-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-4656750007",
@@ -32484,14 +32264,69 @@
       "sourceUrl": "https://boards.greenhouse.io/robinhood/jobs/7263578",
       "discordThreadId": "1462882023680245855",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-agency-jobs-4758627101-2026-01-19-1",
+      "jobId": "job-boards-eu-greenhouse-io-agency-jobs-4758627101",
+      "company": "Invisible Technologies AI",
+      "title": "Entry-Level AI Generalist",
+      "postedToDiscord": "2026-01-19T19:11:38.957Z",
+      "sourceDate": "2026-01-16T23:29:12.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4758627101",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062733008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062733008",
+      "company": "anthropic",
+      "title": "Customer Success Manager, Digital Native Business",
+      "postedToDiscord": "2026-01-19T19:11:42.481Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062733008",
+      "discordThreadId": "1462887248159703233",
+      "instanceNumber": 1
+    },
+    {
+      "id": "allstate-wd5-myworkdayjobs-com-allstate_careers-job-us-remote-product-engineer-multiple-levels-available-_r25322-1-2026-01-19-1",
+      "jobId": "allstate-wd5-myworkdayjobs-com-allstate_careers-job-us-remote-product-engineer-multiple-levels-available-_r25322-1",
+      "company": "Allstate Insurance Company",
+      "title": "Product Engineer - Multiple Levels Available",
+      "postedToDiscord": "2026-01-19T19:11:47.599Z",
+      "sourceDate": "2026-01-09T23:49:50.000Z",
+      "sourceUrl": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Product-Engineer--Multiple-Levels-Available-_R25322-1",
+      "discordThreadId": "1462887262885773333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-abbvie-3743990011008676-2026-01-19-1",
+      "jobId": "jobs-smartrecruiters-com-abbvie-3743990011008676",
+      "company": "AbbVie",
+      "title": "Data Scientist 2 for Published Clinical Evidence & Competitive Intelligence Insights",
+      "postedToDiscord": "2026-01-19T19:11:51.172Z",
+      "sourceDate": "2026-01-09T23:46:26.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990011008676",
+      "discordThreadId": "1462887284926972109",
+      "instanceNumber": 1
+    },
+    {
+      "id": "about-nextdoor-com-careers-list-2026-01-19-1",
+      "jobId": "about-nextdoor-com-careers-list",
+      "company": "Nextdoor",
+      "title": "Machine Learning Engineer – New Grad 2026 - Machine Learning - Nextdoor",
+      "postedToDiscord": "2026-01-19T19:11:54.697Z",
+      "sourceDate": "2025-09-23T03:29:13.000Z",
+      "sourceUrl": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+      "discordThreadId": "1462887299376480357",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2953,
+    "totalJobs": 2938,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T18:50:56.888Z",
+      "date": "2026-01-19T19:11:54.698Z",
       "archived": 0
     }
   }
