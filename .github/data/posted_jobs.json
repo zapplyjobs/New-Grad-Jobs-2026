@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T20:44:26.668Z",
+  "lastUpdated": "2026-01-19T20:55:39.448Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-6163246-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6163246",
-      "company": "datadog",
-      "title": "Mid Market Account Executive",
-      "postedToDiscord": "2026-01-12T20:53:43.220Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246",
-      "discordThreadId": "1460376212915486781",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6665385-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6665385",
-      "company": "datadog",
-      "title": "Mid Market Account Executive",
-      "postedToDiscord": "2026-01-12T20:53:43.230Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6798820-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6798820",
-      "company": "datadog",
-      "title": "Mid-Market Account Executive (Boston)",
-      "postedToDiscord": "2026-01-12T20:53:46.987Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820",
-      "discordThreadId": "1460376219945275535",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7082012-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7082012",
-      "company": "datadog",
-      "title": "Mid-Market Account Executive (San Francisco)",
-      "postedToDiscord": "2026-01-12T20:53:50.616Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012",
-      "discordThreadId": "1460376235732635772",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7381247-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7381247",
-      "company": "datadog",
-      "title": "Office Operations Associate - NYC",
-      "postedToDiscord": "2026-01-12T20:53:57.118Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7381247/?gh_jid=7381247",
-      "discordThreadId": "1460376263825948692",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7459715-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7459715",
-      "company": "datadog",
-      "title": "Product Marketing Manager - Log Management",
-      "postedToDiscord": "2026-01-12T20:54:00.460Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715",
-      "discordThreadId": "1460376278174793759",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7120493-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7120493",
-      "company": "datadog",
-      "title": "Premier Support Engineer 3 - NYC",
-      "postedToDiscord": "2026-01-12T20:54:07.014Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493",
-      "discordThreadId": "1460376305177460819",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6746794-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6746794",
-      "company": "datadog",
-      "title": "Principal Partner Manager - Cloud Alliances",
-      "postedToDiscord": "2026-01-12T20:54:10.942Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
-      "discordThreadId": "1460376320146935900",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7429838-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7429838",
-      "company": "datadog",
-      "title": "Product Marketing Manager (Product Analytics)",
-      "postedToDiscord": "2026-01-12T20:54:14.421Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7429838/?gh_jid=7429838",
-      "discordThreadId": "1460376336463040554",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6970128-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6970128",
-      "company": "datadog",
-      "title": "Product Manager II - Incident Management",
-      "postedToDiscord": "2026-01-12T20:54:21.009Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6970128/?gh_jid=6970128",
-      "discordThreadId": "1460376363339878562",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7292417-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7292417",
-      "company": "datadog",
-      "title": "Product Manager II - Software Delivery Suite",
-      "postedToDiscord": "2026-01-12T20:54:21.015Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7345022-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7345022",
-      "company": "datadog",
-      "title": "Recruiter II, Business Recruiting",
-      "postedToDiscord": "2026-01-12T20:54:27.682Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7345022/?gh_jid=7345022",
-      "discordThreadId": "1460376392096284693",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7252012-2026-01-12-1",
       "jobId": "careers-datadoghq-com-detail-7252012",
@@ -31835,14 +31703,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7434475",
       "discordThreadId": "1462910585669943360",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7441084-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7441084",
+      "company": "gusto",
+      "title": "Staff Software Engineer - Payroll Platform",
+      "postedToDiscord": "2026-01-19T20:55:15.550Z",
+      "sourceDate": "2026-01-13T12:45:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7441084",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7460244-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7460244",
+      "company": "gusto",
+      "title": "People Tech Integrations Developer",
+      "postedToDiscord": "2026-01-19T20:55:19.067Z",
+      "sourceDate": "2026-01-09T15:41:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7460244",
+      "discordThreadId": "1462913322574680229",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7452431-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7452431",
+      "company": "gusto",
+      "title": "Product Counsel - PEO/Employment Law",
+      "postedToDiscord": "2026-01-19T20:55:25.740Z",
+      "sourceDate": "2026-01-13T09:58:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7452431",
+      "discordThreadId": "1462913350148030628",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7215808-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7215808",
+      "company": "gusto",
+      "title": "Head of Onboarding and Implementation (GTM Operations)",
+      "postedToDiscord": "2026-01-19T20:55:32.512Z",
+      "sourceDate": "2026-01-12T17:59:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7215808",
+      "discordThreadId": "1462913377956532434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7378983-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7378983",
+      "company": "gusto",
+      "title": "Future Opportunities: Early Career Sales Talent",
+      "postedToDiscord": "2026-01-19T20:55:36.090Z",
+      "sourceDate": "2026-01-12T17:55:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7378983",
+      "discordThreadId": "1462913393378984089",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7474010-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7474010",
+      "company": "gusto",
+      "title": "Sales Development Representative",
+      "postedToDiscord": "2026-01-19T20:55:39.447Z",
+      "sourceDate": "2026-01-09T15:41:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7474010",
+      "discordThreadId": "1462913408511770861",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2894,
+    "totalJobs": 2888,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T20:44:26.668Z",
+      "date": "2026-01-19T20:55:39.448Z",
       "archived": 0
     }
   }
