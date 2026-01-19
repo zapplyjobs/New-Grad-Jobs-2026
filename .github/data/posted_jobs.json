@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T08:14:26.917Z",
+  "lastUpdated": "2026-01-19T08:49:23.909Z",
   "jobs": [
     {
       "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735-2026-01-12-1",
@@ -32264,14 +32264,135 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753944004",
       "discordThreadId": "1462721842421960859",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-6698ffb1-ad8f-4173-bf81-884357eaba0d-2026-01-19-1",
+      "jobId": "jobs-lever-co-spotify-6698ffb1-ad8f-4173-bf81-884357eaba0d",
+      "company": "spotify",
+      "title": "Data Engineer II, Ads Product & Tech",
+      "postedToDiscord": "2026-01-19T08:48:44.392Z",
+      "sourceDate": "2026-01-12T20:02:57.087Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/6698ffb1-ad8f-4173-bf81-884357eaba0d",
+      "discordThreadId": "1462730473028456481",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7545290-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7545290",
+      "company": "reddit",
+      "title": "Vendor Performance Manager, North America",
+      "postedToDiscord": "2026-01-19T08:48:46.197Z",
+      "sourceDate": "2026-01-16T14:48:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7545290",
+      "discordThreadId": "1462730487876554772",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062393008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062393008",
+      "company": "anthropic",
+      "title": "Customer Success Manager, Digital Native Businesses ",
+      "postedToDiscord": "2026-01-19T08:48:49.956Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
+      "discordThreadId": "1462730495388291136",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5054997008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054997008",
+      "company": "anthropic",
+      "title": "Startup Partnerships ",
+      "postedToDiscord": "2026-01-19T08:48:53.447Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054997008",
+      "discordThreadId": "1462730511217725522",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5068226008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5068226008",
+      "company": "anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments",
+      "postedToDiscord": "2026-01-19T08:48:57.074Z",
+      "sourceDate": "2026-01-16T15:57:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068226008",
+      "discordThreadId": "1462730525880877088",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-e34e365c-b69a-42c2-9370-aa25cd10ce0d-2026-01-19-1",
+      "jobId": "jobs-lever-co-spotify-e34e365c-b69a-42c2-9370-aa25cd10ce0d",
+      "company": "spotify",
+      "title": "Senior Data Engineer, Ads Product & Tech",
+      "postedToDiscord": "2026-01-19T08:49:03.673Z",
+      "sourceDate": "2026-01-12T19:50:11.898Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/e34e365c-b69a-42c2-9370-aa25cd10ce0d",
+      "discordThreadId": "1462730553676795984",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8370535002-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8370535002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Design Systems",
+      "postedToDiscord": "2026-01-19T08:49:10.131Z",
+      "sourceDate": "2026-01-16T14:40:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8370535002",
+      "discordThreadId": "1462730581371785331",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-zip-77f018e3-af9a-4b4e-b5bd-d08820b7dc4f-application-2026-01-19-1",
+      "jobId": "jobs-ashbyhq-com-zip-77f018e3-af9a-4b4e-b5bd-d08820b7dc4f-application",
+      "company": "Zip",
+      "title": "Software Engineer - Identity Access Management",
+      "postedToDiscord": "2026-01-19T08:49:13.847Z",
+      "sourceDate": "2026-01-09T02:13:39.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/zip/77f018e3-af9a-4b4e-b5bd-d08820b7dc4f/application",
+      "discordThreadId": "1462730595397533819",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8369151002-2026-01-19-1",
+      "jobId": "careers-duolingo-com-jobs-8369151002",
+      "company": "duolingo",
+      "title": "Senior iOS Engineer, Application Stability & Performance",
+      "postedToDiscord": "2026-01-19T08:49:17.232Z",
+      "sourceDate": "2026-01-09T17:32:46-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8369151002?gh_jid=8369151002",
+      "discordThreadId": "1462730611344281703",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8378840002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8378840002",
+      "company": "brex",
+      "title": "Senior GRC Lead",
+      "postedToDiscord": "2026-01-19T08:49:23.889Z",
+      "sourceDate": "2026-01-16T15:02:45-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8378840002?gh_jid=8378840002",
+      "discordThreadId": "1462730637990432874",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8378792002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8378792002",
+      "company": "brex",
+      "title": "Senior GRC Lead",
+      "postedToDiscord": "2026-01-19T08:49:23.908Z",
+      "sourceDate": "2026-01-16T15:02:44-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8378792002?gh_jid=8378792002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2933,
+    "totalJobs": 2944,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T08:14:26.917Z",
+      "date": "2026-01-19T08:49:23.909Z",
       "archived": 0
     }
   }
