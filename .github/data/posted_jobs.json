@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T05:31:07.246Z",
+  "lastUpdated": "2026-01-19T05:48:08.235Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234-2026-01-12-1",
-      "jobId": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234",
-      "company": "spotify",
-      "title": "Manager, Partner Product and Delivery",
-      "postedToDiscord": "2026-01-12T05:45:25.169Z",
-      "sourceDate": "2026-01-09T18:10:16.546Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/67657e91-5424-429e-a6f2-0697ddc50234",
-      "discordThreadId": "1460147622768546128",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-bytedance-com-en-position-7406118548894026035-detail-2026-01-12-1",
       "jobId": "jobs-bytedance-com-en-position-7406118548894026035-detail",
@@ -31472,14 +31461,91 @@
       "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python-_R-48461",
       "discordThreadId": "1462680740226662576",
       "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-net-nodejs-react-_r-48474-2026-01-19-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-net-nodejs-react-_r-48474",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - .Net - Node.js','React",
+      "postedToDiscord": "2026-01-19T05:47:44.698Z",
+      "sourceDate": "2026-01-08T23:42:30.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NET--Nodejs--React-_R-48474",
+      "discordThreadId": "1462684923918815263",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5071506008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5071506008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Detection and Response",
+      "postedToDiscord": "2026-01-19T05:47:48.082Z",
+      "sourceDate": "2026-01-15T20:08:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5071506008",
+      "discordThreadId": "1462684938875703317",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pru-wd5-myworkdayjobs-com-careers-job-newark-nj-usa-associate-software-engineer_r-122920-1-2026-01-19-1",
+      "jobId": "pru-wd5-myworkdayjobs-com-careers-job-newark-nj-usa-associate-software-engineer_r-122920-1",
+      "company": "Prudential Financial",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-19T05:47:51.432Z",
+      "sourceDate": "2026-01-15T23:39:25.000Z",
+      "sourceUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Associate-Software-Engineer_R-122920-1",
+      "discordThreadId": "1462684953044189237",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-february-2026-start-date_jr100158-1-2026-01-19-1",
+      "jobId": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-february-2026-start-date_jr100158-1",
+      "company": "Ovative",
+      "title": "Analyst – Data & Software Engineering - February 2026 Start Date",
+      "postedToDiscord": "2026-01-19T05:47:54.842Z",
+      "sourceDate": "2026-01-15T23:35:22.000Z",
+      "sourceUrl": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---February-2026-Start-Date_JR100158-1",
+      "discordThreadId": "1462684967120273473",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4749965101-2026-01-19-1",
+      "jobId": "job-boards-eu-greenhouse-io-stubhubinc-jobs-4749965101",
+      "company": "StubHub",
+      "title": "Software Engineer 1 - Direct Issuance",
+      "postedToDiscord": "2026-01-19T05:48:01.430Z",
+      "sourceDate": "2026-01-08T23:38:32.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101",
+      "discordThreadId": "1462684994026606739",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amgen-wd1-myworkdayjobs-com-careers-job-united-states-remote-associate-machine-learning-engineer_r-234146-2026-01-19-1",
+      "jobId": "amgen-wd1-myworkdayjobs-com-careers-job-united-states-remote-associate-machine-learning-engineer_r-234146",
+      "company": "Amgen",
+      "title": "Associate Machine Learning Engineer",
+      "postedToDiscord": "2026-01-19T05:48:04.892Z",
+      "sourceDate": "2026-01-15T23:38:09.000Z",
+      "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Associate-Machine-Learning-Engineer_R-234146",
+      "discordThreadId": "1462685008828567575",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-merrimack-nh-it-software-engineering-data-engineer_2123335-1-2026-01-19-1",
+      "jobId": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-merrimack-nh-it-software-engineering-data-engineer_2123335-1",
+      "company": "Fidelity Investments",
+      "title": "IT Software Engineering - Data Engineer",
+      "postedToDiscord": "2026-01-19T05:48:08.235Z",
+      "sourceDate": "2026-01-15T23:38:21.000Z",
+      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/IT---Software-Engineering---Data-Engineer_2123335-1",
+      "discordThreadId": "1462685023692914872",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2861,
+    "totalJobs": 2867,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T05:31:07.246Z",
+      "date": "2026-01-19T05:48:08.235Z",
       "archived": 0
     }
   }
