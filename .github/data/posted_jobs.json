@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:11:54.698Z",
+  "lastUpdated": "2026-01-19T19:29:43.243Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4656750007-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4656750007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (North Carolina - Corporate)",
-      "postedToDiscord": "2026-01-12T19:25:33.964Z",
-      "sourceDate": "2026-01-09T17:01:31-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4656750007",
-      "discordThreadId": "1460354027060596898",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5735116004-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5735116004",
-      "company": "vercel",
-      "title": "Sales Engineer, Startups ",
-      "postedToDiscord": "2026-01-12T19:25:37.782Z",
-      "sourceDate": "2026-01-09T16:31:19-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5735116004",
-      "discordThreadId": "1460354035327439063",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4963718008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4963718008",
-      "company": "anthropic",
-      "title": "Technical Accounting",
-      "postedToDiscord": "2026-01-12T19:25:41.158Z",
-      "sourceDate": "2026-01-09T14:21:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4963718008",
-      "discordThreadId": "1460354051102474283",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7312439-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7312439",
-      "company": "datadog",
-      "title": "Business Value Manager - Enterprise East",
-      "postedToDiscord": "2026-01-12T19:25:44.794Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7312439/?gh_jid=7312439",
-      "discordThreadId": "1460354065342140538",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-1694375-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-1694375",
-      "company": "datadog",
-      "title": "Commercial Account Executive",
-      "postedToDiscord": "2026-01-12T19:25:46.654Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
-      "discordThreadId": "1460354080861065319",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7460318-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7460318",
-      "company": "datadog",
-      "title": "Commercial Account Executive - LATAM (Portuguese Speaking)",
-      "postedToDiscord": "2026-01-12T19:25:46.658Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7460318/?gh_jid=7460318",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4778843008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4778843008",
-      "company": "anthropic",
-      "title": "ML Infrastructure Engineer, Safeguards",
-      "postedToDiscord": "2026-01-12T19:25:53.113Z",
-      "sourceDate": "2026-01-09T16:22:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
-      "discordThreadId": "1460354101060571166",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5017202008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017202008",
-      "company": "anthropic",
-      "title": "Software Engineer, Labs",
-      "postedToDiscord": "2026-01-12T19:25:58.468Z",
-      "sourceDate": "2026-01-09T16:18:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
-      "discordThreadId": "1460354115883499609",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7183013-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7183013",
-      "company": "datadog",
-      "title": "AI Research Engineer – Datadog AI Research (DAIR)",
-      "postedToDiscord": "2026-01-12T19:26:02.147Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
-      "discordThreadId": "1460354138406780969",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6572669-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6572669",
-      "company": "datadog",
-      "title": "AI Research Scientist – Datadog AI Research (DAIR)",
-      "postedToDiscord": "2026-01-12T19:26:05.809Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
-      "discordThreadId": "1460354153598685278",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8230853002-2026-01-12-1",
-      "jobId": "www-brex-com-careers-8230853002",
-      "company": "brex",
-      "title": "Candidate Experience Coordinator (12-month Contract)",
-      "postedToDiscord": "2026-01-12T19:26:12.254Z",
-      "sourceDate": "2026-01-09T14:58:37-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8230853002?gh_jid=8230853002",
-      "discordThreadId": "1460354181129965623",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-1497543-2026-01-12-1",
       "jobId": "careers-datadoghq-com-detail-1497543",
@@ -32319,14 +32198,80 @@
       "sourceUrl": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
       "discordThreadId": "1462887299376480357",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062968008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062968008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Claude Experiences",
+      "postedToDiscord": "2026-01-19T19:29:21.690Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062960008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062960008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Launches",
+      "postedToDiscord": "2026-01-19T19:29:25.150Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062960008",
+      "discordThreadId": "1462891705610146094",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate-mathematics_r138207-2026-01-19-1",
+      "jobId": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate-mathematics_r138207",
+      "company": "Northeastern University",
+      "title": "Postdoctoral Research Associate - Mathematics",
+      "postedToDiscord": "2026-01-19T19:29:31.620Z",
+      "sourceDate": "2026-01-09T23:23:39.000Z",
+      "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate--Mathematics_R138207",
+      "discordThreadId": "1462891732743225606",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-probabilistic-risk-assessment-engineer-nc-1320368800-2026-01-19-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-probabilistic-risk-assessment-engineer-nc-1320368800",
+      "company": "Westinghouse Electric Company",
+      "title": "Probabilistic Risk Assessment Engineer",
+      "postedToDiscord": "2026-01-19T19:29:38.135Z",
+      "sourceDate": "2026-01-09T23:22:51.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Probabilistic-Risk-Assessment-Engineer-NC/1320368800/?ats=successfactors",
+      "discordThreadId": "1462891759985103130",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-lynk-687b2d43-17e1-4b4b-9ef2-8d61923dfff7-application-2026-01-19-1",
+      "jobId": "jobs-ashbyhq-com-lynk-687b2d43-17e1-4b4b-9ef2-8d61923dfff7-application",
+      "company": "Lynk",
+      "title": "Mission Systems Software Engineer - Full Stack - Mission Operations",
+      "postedToDiscord": "2026-01-19T19:29:39.872Z",
+      "sourceDate": "2026-01-17T02:14:20.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Lynk/687b2d43-17e1-4b4b-9ef2-8d61923dfff7/application",
+      "discordThreadId": "1462891774602248334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "niagarawater-wd5-myworkdayjobs-com-niagara-job-corp-offsite-diamond-bar-ca-mfg-system-implementations-engineer-i_r52230-2026-01-19-1",
+      "jobId": "niagarawater-wd5-myworkdayjobs-com-niagara-job-corp-offsite-diamond-bar-ca-mfg-system-implementations-engineer-i_r52230",
+      "company": "Niagara Bottling",
+      "title": "MFG System Implementations Engineer 1",
+      "postedToDiscord": "2026-01-19T19:29:43.242Z",
+      "sourceDate": "2026-01-17T02:31:28.000Z",
+      "sourceUrl": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Offsite---Diamond-Bar-CA/MFG-System-Implementations-Engineer-I_R52230",
+      "discordThreadId": "1462891781854200060",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2938,
+    "totalJobs": 2933,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T19:11:54.698Z",
+      "date": "2026-01-19T19:29:43.243Z",
       "archived": 0
     }
   }
