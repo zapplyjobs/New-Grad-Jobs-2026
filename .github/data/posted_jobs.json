@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T06:29:29.715Z",
+  "lastUpdated": "2026-01-19T06:49:58.634Z",
   "jobs": [
     {
       "id": "jobs-bytedance-com-en-position-7406118548894026035-detail-2026-01-12-1",
@@ -31615,14 +31615,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/pylon/b32c8de1-a8bf-4435-99d4-8d42e12a7e0a/application",
       "discordThreadId": "1462695431841513547",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-ketteringhealth-icims-com-jobs-57432-job-2026-01-19-1",
+      "jobId": "careers-ketteringhealth-icims-com-jobs-57432-job",
+      "company": "Kettering Health",
+      "title": "Advanced Practice Provider - Aprn or PA - Medical Informatics",
+      "postedToDiscord": "2026-01-19T06:49:16.069Z",
+      "sourceDate": "2025-09-11T01:13:53.000Z",
+      "sourceUrl": "https://careers-ketteringhealth.icims.com/jobs/57432/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-lgelectronics-jobs-4940087008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-lgelectronics-jobs-4940087008",
+      "company": "LG Electronics",
+      "title": "Bilingual Material Handling Automation Specialist - Korean & English",
+      "postedToDiscord": "2026-01-19T06:49:22.627Z",
+      "sourceDate": "2025-10-02T02:53:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lgelectronics/jobs/4940087008",
+      "discordThreadId": "1462700434794872959",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fis-wd5-myworkdayjobs-com-searchjobs-job-us-ga-atl-201-ste-900-database-analyst-i_jr0303337-2026-01-19-1",
+      "jobId": "fis-wd5-myworkdayjobs-com-searchjobs-job-us-ga-atl-201-ste-900-database-analyst-i_jr0303337",
+      "company": "Fidelity National Information Services",
+      "title": "Database Analyst 1",
+      "postedToDiscord": "2026-01-19T06:49:29.044Z",
+      "sourceDate": "2026-01-15T23:22:17.000Z",
+      "sourceUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Database-Analyst-I_JR0303337",
+      "discordThreadId": "1462700461994938449",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-scientist_r2517664-2026-01-19-1",
+      "jobId": "amat-wd1-myworkdayjobs-com-external-job-santa-claraca-data-scientist_r2517664",
+      "company": "Applied Materials",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-19T06:49:32.497Z",
+      "sourceDate": "2026-01-09T01:50:53.000Z",
+      "sourceUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2517664",
+      "discordThreadId": "1462700476339323015",
+      "instanceNumber": 1
+    },
+    {
+      "id": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-somerville-ma-data-analyst_rq4036902-2026-01-19-1",
+      "jobId": "massgeneralbrigham-wd1-myworkdayjobs-com-mgbexternal-job-somerville-ma-data-analyst_rq4036902",
+      "company": "Mass General Brigham",
+      "title": "EHR Data Analyst",
+      "postedToDiscord": "2026-01-19T06:49:35.884Z",
+      "sourceDate": "2026-01-16T02:30:32.000Z",
+      "sourceUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst_RQ4036902",
+      "discordThreadId": "1462700490633646165",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-miltoncat-icims-com-jobs-6054-job-2026-01-19-1",
+      "jobId": "careers-miltoncat-icims-com-jobs-6054-job",
+      "company": "Milton CAT",
+      "title": "Parts Counter Sales Representative",
+      "postedToDiscord": "2026-01-19T06:49:40.794Z",
+      "sourceDate": "2025-12-29T23:26:16.000Z",
+      "sourceUrl": "https://careers-miltoncat.icims.com/jobs/6054/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462700517708009569",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5026072007-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5026072007",
+      "company": "Verkada",
+      "title": "Security Software Engineer – University Graduate 2026",
+      "postedToDiscord": "2026-01-19T06:49:48.573Z",
+      "sourceDate": "2026-01-16T02:30:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5026072007",
+      "discordThreadId": "1462700543494324376",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5026066007-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5026066007",
+      "company": "Verkada",
+      "title": "Backend Software Engineer – University Graduate",
+      "postedToDiscord": "2026-01-19T06:49:51.921Z",
+      "sourceDate": "2026-01-16T02:30:21.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5026066007",
+      "discordThreadId": "1462700558044368968",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4645471006-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4645471006",
+      "company": "mthree",
+      "title": "Entry Level Software Developer",
+      "postedToDiscord": "2026-01-19T06:49:58.633Z",
+      "sourceDate": "2026-01-16T02:30:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4645471006",
+      "discordThreadId": "1462700585101955249",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2874,
+    "totalJobs": 2883,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T06:29:29.715Z",
+      "date": "2026-01-19T06:49:58.634Z",
       "archived": 0
     }
   }
