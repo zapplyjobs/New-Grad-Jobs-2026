@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T16:13:45.798Z",
+  "lastUpdated": "2026-01-19T16:30:21.164Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8220031002-2026-01-12-1",
-      "jobId": "www-brex-com-careers-8220031002",
-      "company": "brex",
-      "title": "Expansion Account Executive, Enterprise",
-      "postedToDiscord": "2026-01-12T16:27:51.355Z",
-      "sourceDate": "2026-01-12T11:11:30-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8220031002?gh_jid=8220031002",
-      "discordThreadId": "1460309297232744534",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8220030002-2026-01-12-1",
-      "jobId": "www-brex-com-careers-8220030002",
-      "company": "brex",
-      "title": "Expansion Account Executive, Enterprise",
-      "postedToDiscord": "2026-01-12T16:27:51.363Z",
-      "sourceDate": "2026-01-12T11:11:29-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8220030002?gh_jid=8220030002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8220013002-2026-01-12-1",
-      "jobId": "www-brex-com-careers-8220013002",
-      "company": "brex",
-      "title": "Expansion Account Executive, Enterprise",
-      "postedToDiscord": "2026-01-12T16:27:51.367Z",
-      "sourceDate": "2026-01-12T11:11:27-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8220013002?gh_jid=8220013002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-philadelphia-pa-software-engineer-i_r106463-1-2026-01-12-1",
       "jobId": "relx-wd3-myworkdayjobs-com-en-us-relx-job-philadelphia-pa-software-engineer-i_r106463-1",
@@ -32616,15 +32583,27 @@
       "sourceUrl": "https://job-boards.greenhouse.io/merge/jobs/4069267004",
       "discordThreadId": "1462842466561425597",
       "instanceNumber": 1
+    },
+    {
+      "id": "qualcomm-eightfold-ai-careers-job-446715563394-2026-01-19-1",
+      "jobId": "qualcomm-eightfold-ai-careers-job-446715563394",
+      "company": "Qualcomm",
+      "title": "Software Engineer - Core Platform Test - Software Engineering",
+      "postedToDiscord": "2026-01-19T16:30:21.163Z",
+      "sourceDate": "2025-12-02T02:13:56.000Z",
+      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715563394",
+      "discordThreadId": "1462846642414686271",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2965,
+    "totalJobs": 2963,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T16:13:45.798Z",
-      "archived": 0
+      "date": "2026-01-19T16:30:21.164Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
