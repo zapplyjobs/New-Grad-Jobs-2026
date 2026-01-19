@@ -1,183 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:54:59.252Z",
+  "lastUpdated": "2026-01-19T20:11:12.655Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7410254-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7410254",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-12T20:10:38.382Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254",
-      "discordThreadId": "1460365363194630258",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7405822-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7405822",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-12T20:10:38.391Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7426707-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7426707",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-12T20:10:38.397Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7421331-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7421331",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-12T20:10:38.403Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7465857-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7465857",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-12T20:10:38.407Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7426680-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7426680",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive (FED)",
-      "postedToDiscord": "2026-01-12T20:10:40.364Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
-      "discordThreadId": "1460365378814476419",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7421284-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7421284",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive (FED)",
-      "postedToDiscord": "2026-01-12T20:10:40.368Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7453039-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7453039",
-      "company": "datadog",
-      "title": " Enterprise Sales Executive (SLED)",
-      "postedToDiscord": "2026-01-12T20:10:43.793Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
-      "discordThreadId": "1460365386783654092",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7391751-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7391751",
-      "company": "datadog",
-      "title": "Field CISO",
-      "postedToDiscord": "2026-01-12T20:10:47.324Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7391751/?gh_jid=7391751",
-      "discordThreadId": "1460365400851222674",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7159384-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7159384",
-      "company": "datadog",
-      "title": "Field CTO - Media & Entertainment",
-      "postedToDiscord": "2026-01-12T20:10:50.903Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7159384/?gh_jid=7159384",
-      "discordThreadId": "1460365416370147401",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7129428-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7129428",
-      "company": "datadog",
-      "title": "Enterprise Security Sales Specialist",
-      "postedToDiscord": "2026-01-12T20:10:57.416Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428",
-      "discordThreadId": "1460365443595239458",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7132132-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7132132",
-      "company": "datadog",
-      "title": "Enterprise Security Sales Specialist",
-      "postedToDiscord": "2026-01-12T20:10:57.421Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7301380-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7301380",
-      "company": "datadog",
-      "title": "Federal Support Engineer 2 - Denver",
-      "postedToDiscord": "2026-01-12T20:10:59.161Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380",
-      "discordThreadId": "1460365458443075585",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7410744-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7410744",
-      "company": "datadog",
-      "title": "Executive Assistant II - San Francisco",
-      "postedToDiscord": "2026-01-12T20:11:06.620Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7410744/?gh_jid=7410744",
-      "discordThreadId": "1460365478576001128",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7467827-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7467827",
-      "company": "datadog",
-      "title": "Executive Assistant I - NYC",
-      "postedToDiscord": "2026-01-12T20:11:10.234Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
-      "discordThreadId": "1460365496812703989",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7476902-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7476902",
-      "company": "datadog",
-      "title": "Field Marketing Manager (LATAM South)",
-      "postedToDiscord": "2026-01-12T20:11:11.919Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
-      "discordThreadId": "1460365511958204426",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7357271-2026-01-12-1",
       "jobId": "careers-datadoghq-com-detail-7357271",
@@ -32099,15 +31923,71 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7365755",
       "discordThreadId": "1462898140041711829",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-nextech-7df18d47-b2fd-401c-a0c6-68ecbf8f225b-apply-2026-01-19-1",
+      "jobId": "jobs-lever-co-nextech-7df18d47-b2fd-401c-a0c6-68ecbf8f225b-apply",
+      "company": "Nextech Systems",
+      "title": "Software Engineer 1 - Python - Remote United States",
+      "postedToDiscord": "2026-01-19T20:10:58.241Z",
+      "sourceDate": "2026-01-17T02:19:45.000Z",
+      "sourceUrl": "https://jobs.lever.co/nextech/7df18d47-b2fd-401c-a0c6-68ecbf8f225b/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-markon-icims-com-jobs-8011-job-2026-01-19-1",
+      "jobId": "careers-markon-icims-com-jobs-8011-job",
+      "company": "Markon",
+      "title": "Database Engineer 1",
+      "postedToDiscord": "2026-01-19T20:11:01.649Z",
+      "sourceDate": "2026-01-01T07:32:57.000Z",
+      "sourceUrl": "https://careers-markon.icims.com/jobs/8011/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-rambus-icims-com-jobs-22433-job-2026-01-19-1",
+      "jobId": "careers-rambus-icims-com-jobs-22433-job",
+      "company": "Rambus",
+      "title": "Digital Design Engineer",
+      "postedToDiscord": "2026-01-19T20:11:05.467Z",
+      "sourceDate": "2025-11-20T19:16:47.000Z",
+      "sourceUrl": "https://careers-rambus.icims.com/jobs/22433/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462902191491780848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ca550-fullerton-ca-bldg-675-1801-west-hughes-drive-building-675-fullerton-ca-92834-usa-xmlname-2026-full-time-software-engineer-1-onsite-ca-_01804761-2026-01-19-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-ca550-fullerton-ca-bldg-675-1801-west-hughes-drive-building-675-fullerton-ca-92834-usa-xmlname-2026-full-time-software-engineer-1-onsite-ca-_01804761",
+      "company": "RTX",
+      "title": "2026 Full-time - Software Engineer 1 - Onsite - CA",
+      "postedToDiscord": "2026-01-19T20:11:09.034Z",
+      "sourceDate": "2025-11-05T23:27:17.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--CA-_01804761",
+      "discordThreadId": "1462902207132209192",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7289988-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7289988",
+      "company": "gusto",
+      "title": "Senior Staff Mobile Platform Engineer, iOS",
+      "postedToDiscord": "2026-01-19T20:11:12.655Z",
+      "sourceDate": "2026-01-16T19:33:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7289988",
+      "discordThreadId": "1462902222349275158",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2918,
+    "totalJobs": 2907,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T19:54:59.252Z",
-      "archived": 0
+      "date": "2026-01-19T20:11:12.655Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
