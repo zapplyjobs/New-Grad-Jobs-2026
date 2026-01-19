@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T02:20:39.984Z",
+  "lastUpdated": "2026-01-19T03:05:25.354Z",
   "jobs": [
-    {
-      "id": "ibnjjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-309521-2026-01-12-1",
-      "jobId": "ibnjjb-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-309521",
-      "company": "Lifepoint Health",
-      "title": "Partial Hospitalization Program - PHP - Therapist",
-      "postedToDiscord": "2026-01-12T02:57:56.974Z",
-      "sourceDate": "2025-10-31T10:42:43.000Z",
-      "sourceUrl": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/309521",
-      "discordThreadId": "1460105478922178560",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-san-jose-california-united-states-of-america-systems-software-engineer-i_1199912-1-2026-01-12-1",
-      "jobId": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-san-jose-california-united-states-of-america-systems-software-engineer-i_1199912-1",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Systems/Software Engineer 1",
-      "postedToDiscord": "2026-01-12T02:58:03.371Z",
-      "sourceDate": "2026-01-12T02:14:39.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Systems-Software-Engineer-I_1199912-1",
-      "discordThreadId": "1460105505979629588",
-      "instanceNumber": 1
-    },
     {
       "id": "autismspectrum-learnbehavioral-icims-com-jobs-41010-job-2026-01-12-1",
       "jobId": "autismspectrum-learnbehavioral-icims-com-jobs-41010-job",
@@ -31241,6 +31219,28 @@
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R161061",
       "discordThreadId": "1462632811918922069",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8364479002-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8364479002",
+      "company": "discord",
+      "title": "Data Engineering Manager",
+      "postedToDiscord": "2026-01-19T03:05:21.837Z",
+      "sourceDate": "2026-01-15T13:34:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8364479002",
+      "discordThreadId": "1462644067245625475",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-nisc-jobs-7524118-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-nisc-jobs-7524118",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Database Conversion - ETL - Programmer",
+      "postedToDiscord": "2026-01-19T03:05:25.353Z",
+      "sourceDate": "2026-01-15T23:18:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/nisc/jobs/7524118",
+      "discordThreadId": "1462644074530996264",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -31248,7 +31248,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T02:20:39.984Z",
+      "date": "2026-01-19T03:05:25.354Z",
       "archived": 0
     }
   }
