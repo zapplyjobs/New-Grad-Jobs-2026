@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T09:03:24.753Z",
+  "lastUpdated": "2026-01-19T09:20:51.165Z",
   "jobs": [
     {
       "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735-2026-01-12-1",
@@ -32495,14 +32495,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073388008",
       "discordThreadId": "1462734165047775265",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4939288008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939288008",
+      "company": "anthropic",
+      "title": "Real Estate Project Manager",
+      "postedToDiscord": "2026-01-19T09:20:25.498Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
+      "discordThreadId": "1462738446815723522",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5074052008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074052008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, GTM",
+      "postedToDiscord": "2026-01-19T09:20:32.309Z",
+      "sourceDate": "2026-01-16T18:32:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
+      "discordThreadId": "1462738474766434446",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8379352002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8379352002",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-19T09:20:35.755Z",
+      "sourceDate": "2026-01-16T19:14:22-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8379352002?gh_jid=8379352002",
+      "discordThreadId": "1462738490251939863",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8379350002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8379350002",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-19T09:20:35.777Z",
+      "sourceDate": "2026-01-16T19:14:21-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8379350002?gh_jid=8379350002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8379349002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8379349002",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-19T09:20:35.802Z",
+      "sourceDate": "2026-01-16T19:14:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8379349002?gh_jid=8379349002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8377510002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8377510002",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-19T09:20:35.823Z",
+      "sourceDate": "2026-01-16T19:13:59-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8377510002?gh_jid=8377510002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5074045008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074045008",
+      "company": "anthropic",
+      "title": "Product Counsel, Safety",
+      "postedToDiscord": "2026-01-19T09:20:42.446Z",
+      "sourceDate": "2026-01-16T18:27:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074045008",
+      "discordThreadId": "1462738517909311608",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eyglobal-yello-co-jobs-cmbujccdjj3xxyhgn1ggyg-2026-01-19-1",
+      "jobId": "eyglobal-yello-co-jobs-cmbujccdjj3xxyhgn1ggyg",
+      "company": "Ernst & Young",
+      "title": "USA – Tax - Indirect Tax",
+      "postedToDiscord": "2026-01-19T09:20:44.332Z",
+      "sourceDate": "2026-01-16T23:09:22.000Z",
+      "sourceUrl": "https://eyglobal.yello.co/jobs/CmBUJcCDjJ3XXYHGn1GgYg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "discordThreadId": "1462738533096882305",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-blackboard-job-o617yfww-2026-01-19-1",
+      "jobId": "jobs-jobvite-com-blackboard-job-o617yfww",
+      "company": "Blackboard",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-19T09:20:51.165Z",
+      "sourceDate": "2026-01-16T23:16:28.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/blackboard/job/o617yfww?nl=1&nl=1&fr=false",
+      "discordThreadId": "1462738553661296846",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2954,
+    "totalJobs": 2963,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T09:03:24.753Z",
+      "date": "2026-01-19T09:20:51.165Z",
       "archived": 0
     }
   }
