@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T05:59:28.570Z",
+  "lastUpdated": "2026-01-19T06:29:29.715Z",
   "jobs": [
     {
       "id": "jobs-bytedance-com-en-position-7406118548894026035-detail-2026-01-12-1",
@@ -31549,14 +31549,80 @@
       "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS--Node-_R-48615",
       "discordThreadId": "1462687875526164737",
       "instanceNumber": 1
+    },
+    {
+      "id": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-ai-full-stack-development_2531265-3-2026-01-19-1",
+      "jobId": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-ai-full-stack-development_2531265-3",
+      "company": "KLA",
+      "title": "Software Engineer - AI & Full Stack Development",
+      "postedToDiscord": "2026-01-19T06:29:08.139Z",
+      "sourceDate": "2026-01-15T23:13:48.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer---AI---Full-Stack-Development_2531265-3",
+      "discordThreadId": "1462695340686971073",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5059367008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5059367008",
+      "company": "anthropic",
+      "title": "Corporate Counsel, M&A",
+      "postedToDiscord": "2026-01-19T06:29:11.501Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059367008",
+      "discordThreadId": "1462695355283013655",
+      "instanceNumber": 1
+    },
+    {
+      "id": "equifax-wd5-myworkdayjobs-com-external-job-usa-missouri-st-louis-rider-trail-data-processing-specialist-entry_j00173791-2026-01-19-1",
+      "jobId": "equifax-wd5-myworkdayjobs-com-external-job-usa-missouri-st-louis-rider-trail-data-processing-specialist-entry_j00173791",
+      "company": "Equifax",
+      "title": "Data Processing Specialist - Entry",
+      "postedToDiscord": "2026-01-19T06:29:17.827Z",
+      "sourceDate": "2026-01-09T01:43:18.000Z",
+      "sourceUrl": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Missouri---St-Louis---Rider-Trail/Data-Processing-Specialist---Entry_J00173791",
+      "discordThreadId": "1462695381916975186",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-irving-tx-engineering-associate-application-modernization_r-515575-2026-01-19-1",
+      "jobId": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-irving-tx-engineering-associate-application-modernization_r-515575",
+      "company": "Wells Fargo",
+      "title": "Engineering Associate - Application Development",
+      "postedToDiscord": "2026-01-19T06:29:21.307Z",
+      "sourceDate": "2026-01-16T02:18:25.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---Application-Modernization_R-515575",
+      "discordThreadId": "1462695395770765416",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-md-annapolis-junction-junior-software-developer-active-ts-sci-with-poly-required-_rq212931-2026-01-19-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-md-annapolis-junction-junior-software-developer-active-ts-sci-with-poly-required-_rq212931",
+      "company": "General Dynamics Information Technology",
+      "title": "Junior Software Developer - Active TS/SCI with Poly Required",
+      "postedToDiscord": "2026-01-19T06:29:26.427Z",
+      "sourceDate": "2026-01-13T23:33:29.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
+      "discordThreadId": "1462695416922636341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-pylon-b32c8de1-a8bf-4435-99d4-8d42e12a7e0a-application-2026-01-19-1",
+      "jobId": "jobs-ashbyhq-com-pylon-b32c8de1-a8bf-4435-99d4-8d42e12a7e0a-application",
+      "company": "Pylon",
+      "title": "Newgrad Generalist Engineer",
+      "postedToDiscord": "2026-01-19T06:29:29.714Z",
+      "sourceDate": "2026-01-09T02:13:48.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/pylon/b32c8de1-a8bf-4435-99d4-8d42e12a7e0a/application",
+      "discordThreadId": "1462695431841513547",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2868,
+    "totalJobs": 2874,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T05:59:28.570Z",
+      "date": "2026-01-19T06:29:29.715Z",
       "archived": 0
     }
   }
