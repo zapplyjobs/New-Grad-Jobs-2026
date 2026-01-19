@@ -1,150 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:40:43.888Z",
+  "lastUpdated": "2026-01-19T19:54:59.252Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7420653-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7420653",
-      "company": "datadog",
-      "title": "Deal Desk Analyst",
-      "postedToDiscord": "2026-01-12T19:50:44.907Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7420653/?gh_jid=7420653",
-      "discordThreadId": "1460360357678682132",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7420668-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7420668",
-      "company": "datadog",
-      "title": "Deal Desk Analyst - Denver",
-      "postedToDiscord": "2026-01-12T19:50:44.916Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7420668/?gh_jid=7420668",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6752773-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6752773",
-      "company": "datadog",
-      "title": "Director, Enterprise Sales (SLED)",
-      "postedToDiscord": "2026-01-12T19:50:48.562Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6752773/?gh_jid=6752773",
-      "discordThreadId": "1460360372937822459",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7416680-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7416680",
-      "company": "datadog",
-      "title": "Director, Pricing and Monetization",
-      "postedToDiscord": "2026-01-12T19:50:52.186Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7416680/?gh_jid=7416680",
-      "discordThreadId": "1460360388565663867",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7191464-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7191464",
-      "company": "datadog",
-      "title": "Director, Sales Field Enablement - NYC",
-      "postedToDiscord": "2026-01-12T19:50:55.766Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7191464/?gh_jid=7191464",
-      "discordThreadId": "1460360403094737086",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7416668-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7416668",
-      "company": "datadog",
-      "title": "Director, Technical Product Partnerships",
-      "postedToDiscord": "2026-01-12T19:50:59.338Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7416668/?gh_jid=7416668",
-      "discordThreadId": "1460360418265399411",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7462573-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7462573",
-      "company": "datadog",
-      "title": "Enterprise Customer Success Manager - Denver",
-      "postedToDiscord": "2026-01-12T19:51:01.143Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7462573/?gh_jid=7462573",
-      "discordThreadId": "1460360433373548745",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7472550-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7472550",
-      "company": "datadog",
-      "title": "Enterprise Customer Success Manager - East Coast",
-      "postedToDiscord": "2026-01-12T19:51:01.148Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7472550/?gh_jid=7472550",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7379789-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7379789",
-      "company": "datadog",
-      "title": "Enterprise Sales Engineer",
-      "postedToDiscord": "2026-01-12T19:51:04.620Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789",
-      "discordThreadId": "1460360440763777191",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7476093-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7476093",
-      "company": "datadog",
-      "title": "Enterprise Sales Engineer - South Africa",
-      "postedToDiscord": "2026-01-12T19:51:04.625Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7378592-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7378592",
-      "company": "datadog",
-      "title": "Developer Advocate - Community",
-      "postedToDiscord": "2026-01-12T19:51:11.275Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7378592/?gh_jid=7378592",
-      "discordThreadId": "1460360467808518216",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7476431-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7476431",
-      "company": "datadog",
-      "title": "Engineering Manager, Application Security Platform",
-      "postedToDiscord": "2026-01-12T19:51:14.944Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7476431/?gh_jid=7476431",
-      "discordThreadId": "1460360483398750279",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7465622-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7465622",
-      "company": "datadog",
-      "title": "Employee Relation Specialist - Workplace Investigations",
-      "postedToDiscord": "2026-01-12T19:51:21.529Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622",
-      "discordThreadId": "1460360511366631549",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7410254-2026-01-12-1",
       "jobId": "careers-datadoghq-com-detail-7410254",
@@ -32187,14 +32044,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073277008",
       "discordThreadId": "1462894552133144607",
       "instanceNumber": 1
+    },
+    {
+      "id": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891-2026-01-19-1",
+      "jobId": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891",
+      "company": "University of Nevada Las Vegas (UNLV)",
+      "title": "Postdoctoral Scholar - Interdisciplinary Data Science",
+      "postedToDiscord": "2026-01-19T19:54:37.199Z",
+      "sourceDate": "2026-01-09T23:18:44.000Z",
+      "sourceUrl": "https://nshe.wd1.myworkdayjobs.com/unlv-external/job/UNLV1-Main-Campus-Las-Vegas/Postdoctoral-Scholar--Interdisciplinary-Data-Science--College-of-Engineering--R0144891-_R0144891",
+      "discordThreadId": "1462898046835888234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-walnut-creek-california-gis-technician_r00028912-1-2026-01-19-1",
+      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-walnut-creek-california-gis-technician_r00028912-1",
+      "company": "ERM",
+      "title": "GIS Technician",
+      "postedToDiscord": "2026-01-19T19:54:45.650Z",
+      "sourceDate": "2026-01-17T02:25:34.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Walnut-Creek-California/GIS-Technician_R00028912-1",
+      "discordThreadId": "1462898075336179887",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-united-states-remote-devsecops-software-engineer-associate-or-experienced-virtual_jr2026490992-2026-01-19-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-united-states-remote-devsecops-software-engineer-associate-or-experienced-virtual_jr2026490992",
+      "company": "The Boeing Company",
+      "title": "DevSecOps Software Engineer",
+      "postedToDiscord": "2026-01-19T19:54:52.218Z",
+      "sourceDate": "2026-01-17T02:29:10.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/DevSecOps-Software-Engineer--Associate-or-Experienced--Virtual_JR2026490992",
+      "discordThreadId": "1462898110459023501",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7443426-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7443426",
+      "company": "gusto",
+      "title": "Head of Product, Core Experiences Platform",
+      "postedToDiscord": "2026-01-19T19:54:55.863Z",
+      "sourceDate": "2026-01-16T19:33:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7443426",
+      "discordThreadId": "1462898124929499421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7365755-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7365755",
+      "company": "gusto",
+      "title": "Senior Principal Revenue Analyst",
+      "postedToDiscord": "2026-01-19T19:54:59.252Z",
+      "sourceDate": "2026-01-16T18:24:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7365755",
+      "discordThreadId": "1462898140041711829",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2926,
+    "totalJobs": 2918,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T19:40:43.888Z",
+      "date": "2026-01-19T19:54:59.252Z",
       "archived": 0
     }
   }
