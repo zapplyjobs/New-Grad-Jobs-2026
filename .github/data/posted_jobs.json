@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T03:05:25.354Z",
+  "lastUpdated": "2026-01-19T03:47:12.843Z",
   "jobs": [
     {
       "id": "autismspectrum-learnbehavioral-icims-com-jobs-41010-job-2026-01-12-1",
@@ -31241,14 +31241,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/nisc/jobs/7524118",
       "discordThreadId": "1462644074530996264",
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339037002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8339037002",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-19T03:47:12.798Z",
+      "sourceDate": "2026-01-08T18:04:28-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
+      "discordThreadId": "1462654591144296662",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8367552002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8367552002",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-19T03:47:12.822Z",
+      "sourceDate": "2026-01-08T18:06:08-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8367549002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8367549002",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-19T03:47:12.842Z",
+      "sourceDate": "2026-01-08T18:05:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367549002?gh_jid=8367549002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2840,
+    "totalJobs": 2843,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T03:05:25.354Z",
+      "date": "2026-01-19T03:47:12.843Z",
       "archived": 0
     }
   }
