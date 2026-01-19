@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T05:48:08.235Z",
+  "lastUpdated": "2026-01-19T05:59:28.570Z",
   "jobs": [
     {
       "id": "jobs-bytedance-com-en-position-7406118548894026035-detail-2026-01-12-1",
@@ -31538,14 +31538,25 @@
       "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/IT---Software-Engineering---Data-Engineer_2123335-1",
       "discordThreadId": "1462685023692914872",
       "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-node-_r-48615-2026-01-19-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ga-atlanta-software-engineer-i-aws-node-_r-48615",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - Aws - Node",
+      "postedToDiscord": "2026-01-19T05:59:28.569Z",
+      "sourceDate": "2026-01-08T23:42:36.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS--Node-_R-48615",
+      "discordThreadId": "1462687875526164737",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2867,
+    "totalJobs": 2868,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T05:48:08.235Z",
+      "date": "2026-01-19T05:59:28.570Z",
       "archived": 0
     }
   }
