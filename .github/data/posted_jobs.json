@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:29:43.243Z",
+  "lastUpdated": "2026-01-19T19:40:43.888Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-1497543-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-1497543",
-      "company": "datadog",
-      "title": "Commercial Account Executive (Boston)",
-      "postedToDiscord": "2026-01-12T19:38:20.098Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543",
-      "discordThreadId": "1460357232796504187",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7329207-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7329207",
-      "company": "datadog",
-      "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
-      "postedToDiscord": "2026-01-12T19:38:24.029Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207",
-      "discordThreadId": "1460357249036718081",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7452669-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7452669",
-      "company": "datadog",
-      "title": "Commercial Sales Engineer (East)",
-      "postedToDiscord": "2026-01-12T19:38:28.291Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
-      "discordThreadId": "1460357265352687668",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7491559-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7491559",
-      "company": "datadog",
-      "title": "Commercial Sales Engineer - NYC",
-      "postedToDiscord": "2026-01-12T19:38:31.983Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7491559/?gh_jid=7491559",
-      "discordThreadId": "1460357282947924150",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7485441-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7485441",
-      "company": "datadog",
-      "title": "Customer Success Associate - Boston (Portuguese-speaking)",
-      "postedToDiscord": "2026-01-12T19:38:35.718Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7485441/?gh_jid=7485441",
-      "discordThreadId": "1460357298504597615",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7128703-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7128703",
-      "company": "datadog",
-      "title": "Customer Success Manager - Boston",
-      "postedToDiscord": "2026-01-12T19:38:39.241Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703",
-      "discordThreadId": "1460357314203746375",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7485376-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7485376",
-      "company": "datadog",
-      "title": "Customer Success Manager - Boston (Portuguese-speaking)",
-      "postedToDiscord": "2026-01-12T19:38:42.748Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7485376/?gh_jid=7485376",
-      "discordThreadId": "1460357329097589024",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7128771-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7128771",
-      "company": "datadog",
-      "title": "Datadog for Startups Lead",
-      "postedToDiscord": "2026-01-12T19:38:46.571Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7128771/?gh_jid=7128771",
-      "discordThreadId": "1460357344222380084",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7363514-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7363514",
-      "company": "datadog",
-      "title": "Container Runtime Engineer",
-      "postedToDiscord": "2026-01-12T19:38:53.267Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7363514/?gh_jid=7363514",
-      "discordThreadId": "1460357372814950612",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7449657-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7449657",
-      "company": "datadog",
-      "title": "Coordinator, Business Recruiting - Contract",
-      "postedToDiscord": "2026-01-12T19:39:00.337Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7449657/?gh_jid=7449657",
-      "discordThreadId": "1460357400463671386",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7420653-2026-01-12-1",
       "jobId": "careers-datadoghq-com-detail-7420653",
@@ -32264,14 +32154,47 @@
       "sourceUrl": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Offsite---Diamond-Bar-CA/MFG-System-Implementations-Engineer-I_R52230",
       "discordThreadId": "1462891781854200060",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8378561002-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8378561002",
+      "company": "discord",
+      "title": "Content Technologist",
+      "postedToDiscord": "2026-01-19T19:40:33.794Z",
+      "sourceDate": "2026-01-16T20:23:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8378561002",
+      "discordThreadId": "1462894508059656386",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11617-job-2026-01-19-1",
+      "jobId": "careers-nv5-icims-com-jobs-11617-job",
+      "company": "NV5 Global",
+      "title": "Technician",
+      "postedToDiscord": "2026-01-19T19:40:37.360Z",
+      "sourceDate": "2026-01-09T23:23:19.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11617/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462894524719431794",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5073277008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5073277008",
+      "company": "anthropic",
+      "title": "Applied AI Engineer, Startups",
+      "postedToDiscord": "2026-01-19T19:40:43.887Z",
+      "sourceDate": "2026-01-16T20:13:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073277008",
+      "discordThreadId": "1462894552133144607",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2933,
+    "totalJobs": 2926,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T19:29:43.243Z",
+      "date": "2026-01-19T19:40:43.888Z",
       "archived": 0
     }
   }
