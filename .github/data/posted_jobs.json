@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T04:14:54.495Z",
+  "lastUpdated": "2026-01-19T04:42:10.813Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234-2026-01-12-1",
@@ -31219,14 +31219,47 @@
       "sourceUrl": "https://www.brex.com/careers/8339005002?gh_jid=8339005002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-visa-744000103810770-2026-01-19-1",
+      "jobId": "jobs-smartrecruiters-com-visa-744000103810770",
+      "company": "Visa",
+      "title": "Analyst - Merchant Data Platform",
+      "postedToDiscord": "2026-01-19T04:42:03.503Z",
+      "sourceDate": "2026-01-15T23:16:55.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103810770",
+      "discordThreadId": "1462668387342614553",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ciena-wd5-myworkdayjobs-com-careers-job-atlanta-verification-and-field-application-engineer-new-grad_r029794-2026-01-19-1",
+      "jobId": "ciena-wd5-myworkdayjobs-com-careers-job-atlanta-verification-and-field-application-engineer-new-grad_r029794",
+      "company": "Ciena",
+      "title": "Verification and Field Application Engineer – New Grad",
+      "postedToDiscord": "2026-01-19T04:42:07.125Z",
+      "sourceDate": "2026-01-15T23:05:15.000Z",
+      "sourceUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R029794",
+      "discordThreadId": "1462668408410865858",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624-2026-01-19-1",
+      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90290660624",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-19T04:42:10.813Z",
+      "sourceDate": "2026-01-06T02:21:20.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90290660624",
+      "discordThreadId": "1462668423950762057",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2838,
+    "totalJobs": 2841,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T04:14:54.495Z",
+      "date": "2026-01-19T04:42:10.813Z",
       "archived": 0
     }
   }
