@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T20:11:12.655Z",
+  "lastUpdated": "2026-01-19T20:30:29.951Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7357271-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7357271",
-      "company": "datadog",
-      "title": "Global Safety & Security Senior Manager - NYC",
-      "postedToDiscord": "2026-01-12T20:26:19.880Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7357271/?gh_jid=7357271",
-      "discordThreadId": "1460369312886952072",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7397939-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7397939",
-      "company": "datadog",
-      "title": "Information Security Analyst II",
-      "postedToDiscord": "2026-01-12T20:26:23.514Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939",
-      "discordThreadId": "1460369327441317939",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7450692-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7450692",
-      "company": "datadog",
-      "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
-      "postedToDiscord": "2026-01-12T20:26:29.957Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7450692/?gh_jid=7450692",
-      "discordThreadId": "1460369355186507967",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7409236-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7409236",
-      "company": "datadog",
-      "title": "Key Accounts Executive (East)",
-      "postedToDiscord": "2026-01-12T20:26:33.640Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236",
-      "discordThreadId": "1460369369681887263",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7492312-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7492312",
-      "company": "datadog",
-      "title": "Major Account Manager",
-      "postedToDiscord": "2026-01-12T20:26:37.007Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312",
-      "discordThreadId": "1460369384957546559",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7409198-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7409198",
-      "company": "datadog",
-      "title": "Major Account Manager",
-      "postedToDiscord": "2026-01-12T20:26:37.013Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7484777-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7484777",
-      "company": "datadog",
-      "title": "Manager 1, Technical Account Management - Denver",
-      "postedToDiscord": "2026-01-12T20:26:38.858Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7484777/?gh_jid=7484777",
-      "discordThreadId": "1460369399956504647",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7472529-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7472529",
-      "company": "datadog",
-      "title": "Manager 1, Technical Account Management - New York",
-      "postedToDiscord": "2026-01-12T20:26:38.864Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7472529/?gh_jid=7472529",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7193803-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7193803",
-      "company": "datadog",
-      "title": "Inclusion Program Manager - NYC",
-      "postedToDiscord": "2026-01-12T20:26:46.815Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7193803/?gh_jid=7193803",
-      "discordThreadId": "1460369420068196514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7341441-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7341441",
-      "company": "datadog",
-      "title": "Internal Communications Specialist - NYC",
-      "postedToDiscord": "2026-01-12T20:26:53.286Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7341441/?gh_jid=7341441",
-      "discordThreadId": "1460369452842487995",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7477194-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7477194",
-      "company": "datadog",
-      "title": "Leadership Training Manager",
-      "postedToDiscord": "2026-01-12T20:26:56.762Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194",
-      "discordThreadId": "1460369467132350516",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7481495-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7481495",
-      "company": "datadog",
-      "title": "Lead UX Designer - New York",
-      "postedToDiscord": "2026-01-12T20:27:03.195Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
-      "discordThreadId": "1460369494605168721",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7380289-2026-01-12-1",
       "jobId": "careers-datadoghq-com-detail-7380289",
@@ -31978,16 +31846,125 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7289988",
       "discordThreadId": "1462902222349275158",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7522730-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7522730",
+      "company": "gusto",
+      "title": "Workforce Management Program Manager",
+      "postedToDiscord": "2026-01-19T20:29:38.462Z",
+      "sourceDate": "2026-01-16T14:41:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522730",
+      "discordThreadId": "1462906858980249653",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7517166-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7517166",
+      "company": "gusto",
+      "title": "Workforce Management Scheduling Team Lead",
+      "postedToDiscord": "2026-01-19T20:29:44.907Z",
+      "sourceDate": "2026-01-16T12:28:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7517166",
+      "discordThreadId": "1462906888252424356",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7528860-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7528860",
+      "company": "gusto",
+      "title": "Sr Staff Software Engineer, Gusto Pro",
+      "postedToDiscord": "2026-01-19T20:29:51.874Z",
+      "sourceDate": "2026-01-16T12:14:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7528860",
+      "discordThreadId": "1462906915083518032",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7357589-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7357589",
+      "company": "gusto",
+      "title": "Principal Engineer",
+      "postedToDiscord": "2026-01-19T20:29:55.749Z",
+      "sourceDate": "2026-01-15T01:34:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7357589",
+      "discordThreadId": "1462906931394904189",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-6670374-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-6670374",
+      "company": "gusto",
+      "title": "Sales Associate",
+      "postedToDiscord": "2026-01-19T20:30:02.595Z",
+      "sourceDate": "2026-01-16T12:00:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6670374",
+      "discordThreadId": "1462906960385933363",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-6821046-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-6821046",
+      "company": "gusto",
+      "title": "Senior Manager, Revenue Accounting",
+      "postedToDiscord": "2026-01-19T20:30:06.354Z",
+      "sourceDate": "2026-01-15T23:54:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6821046",
+      "discordThreadId": "1462906976928272434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-6963956-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-6963956",
+      "company": "gusto",
+      "title": "Senior Motion Designer, Brand Studio",
+      "postedToDiscord": "2026-01-19T20:30:12.973Z",
+      "sourceDate": "2026-01-15T18:53:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6963956",
+      "discordThreadId": "1462907005088960533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7408219-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7408219",
+      "company": "gusto",
+      "title": "Product Partnerships Deal Lead",
+      "postedToDiscord": "2026-01-19T20:30:16.833Z",
+      "sourceDate": "2026-01-15T14:08:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7408219",
+      "discordThreadId": "1462907020117283080",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7440789-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7440789",
+      "company": "gusto",
+      "title": "Tax Resolution Advocate",
+      "postedToDiscord": "2026-01-19T20:30:23.273Z",
+      "sourceDate": "2026-01-14T17:37:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7440789",
+      "discordThreadId": "1462907048793477153",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7522739-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7522739",
+      "company": "gusto",
+      "title": "Tools Administration Lead",
+      "postedToDiscord": "2026-01-19T20:30:29.950Z",
+      "sourceDate": "2026-01-14T13:51:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522739",
+      "discordThreadId": "1462907076060774451",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2907,
+    "totalJobs": 2905,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T20:11:12.655Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-19T20:30:29.951Z",
+      "archived": 0
     }
   }
 }
