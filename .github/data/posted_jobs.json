@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T16:49:13.493Z",
+  "lastUpdated": "2026-01-19T17:45:35.787Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8134354002-2026-01-12-1",
-      "jobId": "www-brex-com-careers-8134354002",
-      "company": "brex",
-      "title": "Account Executive, Embedded Finance",
-      "postedToDiscord": "2026-01-12T16:57:56.409Z",
-      "sourceDate": "2026-01-12T11:56:04-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8134354002?gh_jid=8134354002",
-      "discordThreadId": "1460316869138452733",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7844195002-2026-01-12-1",
-      "jobId": "www-brex-com-careers-7844195002",
-      "company": "brex",
-      "title": "Account Executive, Embedded Finance",
-      "postedToDiscord": "2026-01-12T16:57:56.418Z",
-      "sourceDate": "2026-01-12T11:55:28-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7844195002?gh_jid=7844195002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-f4e84f7b-c89b-40b1-ba39-700ba2ec2719-2026-01-12-1",
-      "jobId": "jobs-lever-co-spotify-f4e84f7b-c89b-40b1-ba39-700ba2ec2719",
-      "company": "spotify",
-      "title": "Legal Counsel, Audiobook Licensing",
-      "postedToDiscord": "2026-01-12T17:09:25.173Z",
-      "sourceDate": "2026-01-12T16:00:28.923Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/f4e84f7b-c89b-40b1-ba39-700ba2ec2719",
-      "discordThreadId": "1460319758837612690",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-d33ef090-2e71-43a2-ac10-cb81dfb13489-2026-01-12-1",
-      "jobId": "jobs-lever-co-spotify-d33ef090-2e71-43a2-ac10-cb81dfb13489",
-      "company": "spotify",
-      "title": "Account Executive - Backstage",
-      "postedToDiscord": "2026-01-12T17:09:28.483Z",
-      "sourceDate": "2026-01-12T15:20:23.728Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/d33ef090-2e71-43a2-ac10-cb81dfb13489",
-      "discordThreadId": "1460319772699918366",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8369339002-2026-01-12-1",
       "jobId": "job-boards-greenhouse-io-discord-jobs-8369339002",
@@ -32594,16 +32550,37 @@
       "sourceUrl": "https://careers.cisco.com/global/en/job/2000127",
       "discordThreadId": "1462851391805722644",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5018825007-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5018825007",
+      "company": "verkada",
+      "title": "Senior Field Marketing Manager (Enterprise SLED East)",
+      "postedToDiscord": "2026-01-19T17:45:29.093Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5018825007",
+      "discordThreadId": "1462865548944867339",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8375488002-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8375488002",
+      "company": "discord",
+      "title": "Senior Technical Recruiter (Temporary)",
+      "postedToDiscord": "2026-01-19T17:45:35.786Z",
+      "sourceDate": "2026-01-16T19:57:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8375488002",
+      "discordThreadId": "1462865576882864168",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2963,
+    "totalJobs": 2961,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T16:49:13.493Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-19T17:45:35.787Z",
+      "archived": 0
     }
   }
 }
