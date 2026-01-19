@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T06:49:58.634Z",
+  "lastUpdated": "2026-01-19T07:06:09.124Z",
   "jobs": [
     {
       "id": "jobs-bytedance-com-en-position-7406118548894026035-detail-2026-01-12-1",
@@ -31714,14 +31714,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4645471006",
       "discordThreadId": "1462700585101955249",
       "instanceNumber": 1
+    },
+    {
+      "id": "aexp-eightfold-ai-careers-job-39568135-2026-01-19-1",
+      "jobId": "aexp-eightfold-ai-careers-job-39568135",
+      "company": "American Express",
+      "title": "Software Engineer - Full Stack",
+      "postedToDiscord": "2026-01-19T07:05:44.411Z",
+      "sourceDate": "2026-01-12T23:09:10.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/39568135",
+      "discordThreadId": "1462704552821264497",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-uipath-32206bf8-e395-4ba9-bf2f-6bfc32272697-application-2026-01-19-1",
+      "jobId": "jobs-ashbyhq-com-uipath-32206bf8-e395-4ba9-bf2f-6bfc32272697-application",
+      "company": "UiPath",
+      "title": "Software Engineer 1 - Backend",
+      "postedToDiscord": "2026-01-19T07:05:47.793Z",
+      "sourceDate": "2026-01-16T07:07:58.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/uipath/32206bf8-e395-4ba9-bf2f-6bfc32272697/application",
+      "discordThreadId": "1462704567157264517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cardinalhealth-wd1-myworkdayjobs-com-ext-job-tx-el-paso-butterfield-product-engineer_20173691-1-2026-01-19-1",
+      "jobId": "cardinalhealth-wd1-myworkdayjobs-com-ext-job-tx-el-paso-butterfield-product-engineer_20173691-1",
+      "company": "Cardinal Health",
+      "title": "Product Engineer",
+      "postedToDiscord": "2026-01-19T07:05:51.172Z",
+      "sourceDate": "2026-01-16T07:35:52.000Z",
+      "sourceUrl": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-El-Paso-Butterfield/Product-Engineer_20173691-1",
+      "discordThreadId": "1462704581237801101",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply-2026-01-19-1",
+      "jobId": "jobs-lever-co-rws-8a6af812-0d04-4b9e-8287-9868e3f51db3-apply",
+      "company": "RWS",
+      "title": "Search Quality Rater - English - Florida",
+      "postedToDiscord": "2026-01-19T07:05:54.799Z",
+      "sourceDate": "2026-01-02T23:19:46.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/8a6af812-0d04-4b9e-8287-9868e3f51db3/apply",
+      "discordThreadId": "1462704595473272833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-67c51404-9542-46a6-8752-dcfa9fa8daf7-2026-01-19-1",
+      "jobId": "jobs-lever-co-spotify-67c51404-9542-46a6-8752-dcfa9fa8daf7",
+      "company": "spotify",
+      "title": "Customer Success Manager, Ad Sales",
+      "postedToDiscord": "2026-01-19T07:06:01.426Z",
+      "sourceDate": "2026-01-15T14:24:50.254Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/67c51404-9542-46a6-8752-dcfa9fa8daf7",
+      "discordThreadId": "1462704623390556258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-huntingtoningalls-com-job-newport-news-engineering-technician-1-virg-1356738500-2026-01-19-1",
+      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineering-technician-1-virg-1356738500",
+      "company": "Huntington Ingalls Industries",
+      "title": "Engineering Technician 1",
+      "postedToDiscord": "2026-01-19T07:06:05.598Z",
+      "sourceDate": "2026-01-16T07:07:16.000Z",
+      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-1-Virg/1356738500/?ats=successfactors",
+      "discordThreadId": "1462704639240704154",
+      "instanceNumber": 1
+    },
+    {
+      "id": "capitalone-wd12-myworkdayjobs-com-capital_one-job-new-york-ny-applied-researcher-i-ai-foundations-_r229418-1-2026-01-19-1",
+      "jobId": "capitalone-wd12-myworkdayjobs-com-capital_one-job-new-york-ny-applied-researcher-i-ai-foundations-_r229418-1",
+      "company": "Capital One",
+      "title": "Applied Researcher 1 - AI Foundations",
+      "postedToDiscord": "2026-01-19T07:06:09.124Z",
+      "sourceDate": "2026-01-16T07:32:54.000Z",
+      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R229418-1",
+      "discordThreadId": "1462704656114389044",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2883,
+    "totalJobs": 2890,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T06:49:58.634Z",
+      "date": "2026-01-19T07:06:09.124Z",
       "archived": 0
     }
   }
