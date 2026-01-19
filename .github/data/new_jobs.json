@@ -34,22 +34,6 @@
     "description_success": true
   },
   {
-    "job_title": "Business Intelligence Analyst",
-    "employer_name": "Hub Group",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_description": "The Business Intelligence Analyst provides decision support through data compilation, analysis, and distribution.",
-    "job_apply_link": "https://hdat.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11145",
-    "job_posted_at_datetime_utc": "2026-01-16T23:16:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "source": "simplify",
-    "source_url": "simplify.jobs",
-    "job_posted_at": "1h",
-    "id": "hdat-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-11145",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Data Scientist 2 for Published Clinical Evidence & Competitive Intelligence Insights",
     "employer_name": "AbbVie",
     "job_city": "Waukegan",
@@ -193,6 +177,22 @@
     "job_posted_at": "1h",
     "id": "truist-wd1-myworkdayjobs-com-en-us-careers-job-greenville-sc-data-scientist-i_r0110362",
     "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Developer",
+    "employer_name": "Axle",
+    "job_city": "North Bethesda",
+    "job_state": "MD",
+    "job_description": "Axle is a bioscience and information technology company that offers advancements in translational research, biomedical informatics, and data science applications to research centers and healthcare organizations around the globe. With experts in biomedical science, software engineering, and program management, we focus on developing and applying research tools and techniques to empower decision-making and accelerate research discoveries. We work with some of the top research organizations and facilities in the country including multiple institutes at the National Institutes of Health (NIH). Benefits: 100% Medical, Dental & Vision Coverage for Employees Paid Time Off (Including Holidays) Employee Referral Bonus 401K Match Tuition reimbursement and professional development opportunities Flexible Spending Accounts: Healthcare (FSA) Parking Reimbursement Account (PRK) Dependent Care Assistant Program (DCAP) Transportation Reimbursement Account (TRN) Overview: Axle is looking to add a driven, flexible, organized, and meticulous Developer to our dynamic team. Requirements: Responsible for the analysis, design, implementation, and support of software applications Provide analytical support and maintenance after the implementation of software using Java, AWS, JavaScript, SQL Server, JSON Master's in Computer Science + 6 months work experience Mail Resumes to: Axle Informatics, Attn: Human Resources, 6116 Executive Blvd, Suite 400, North Bethesda, MD 20852 Only mailed resumes will be considered.",
+    "job_apply_link": "https://job-boards.greenhouse.io/axle/jobs/5026603007",
+    "job_posted_at_datetime_utc": "2026-01-16T23:44:02.000Z",
+    "job_employment_type": "FULLTIME",
+    "source": "simplify",
+    "source_url": "simplify.jobs",
+    "job_posted_at": "1h",
+    "id": "job-boards-greenhouse-io-axle-jobs-5026603007",
+    "description_platform": "greenhouse",
     "description_success": true
   }
 ]

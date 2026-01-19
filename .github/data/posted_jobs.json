@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T15:16:08.989Z",
+  "lastUpdated": "2026-01-19T15:47:10.049Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7484127-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7484127",
-      "company": "datadog",
-      "title": "Director, Channels - Global Systems Integrators (AMER)",
-      "postedToDiscord": "2026-01-12T15:27:15.632Z",
-      "sourceDate": "2026-01-12T10:23:29-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7484127/?gh_jid=7484127",
-      "discordThreadId": "1460294048987222197",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-7530570-2026-01-12-1",
-      "jobId": "www-coinbase-com-careers-positions-7530570",
-      "company": "coinbase",
-      "title": "Associate Manager, Compliance",
-      "postedToDiscord": "2026-01-12T15:43:48.436Z",
-      "sourceDate": "2026-01-12T10:36:23-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7530570?gh_jid=7530570",
-      "discordThreadId": "1460298220218482754",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-reddit-jobs-7510898-2026-01-12-1",
       "jobId": "job-boards-greenhouse-io-reddit-jobs-7510898",
@@ -32605,16 +32583,48 @@
       "sourceUrl": "https://hdat.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11145",
       "discordThreadId": "1462827968089952469",
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-abbvie-3743990011008616-2026-01-19-1",
+      "jobId": "jobs-smartrecruiters-com-abbvie-3743990011008616",
+      "company": "AbbVie",
+      "title": "Data Scientist 2 for Published Clinical Evidence & Competitive Intelligence Insights",
+      "postedToDiscord": "2026-01-19T15:47:06.160Z",
+      "sourceDate": "2026-01-09T23:29:24.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990011008616",
+      "discordThreadId": "1462835757482905671",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-abbvie-3743990011008726-2026-01-19-1",
+      "jobId": "jobs-smartrecruiters-com-abbvie-3743990011008726",
+      "company": "AbbVie",
+      "title": "Data Scientist 2 for Published Clinical Evidence & Competitive Intelligence Insights",
+      "postedToDiscord": "2026-01-19T15:47:06.193Z",
+      "sourceDate": "2026-01-09T23:29:24.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990011008726",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "truist-wd1-myworkdayjobs-com-en-us-careers-job-greenville-sc-data-scientist-i_r0110362-2026-01-19-1",
+      "jobId": "truist-wd1-myworkdayjobs-com-en-us-careers-job-greenville-sc-data-scientist-i_r0110362",
+      "company": "Truist Bank",
+      "title": "Data Scientist 1",
+      "postedToDiscord": "2026-01-19T15:47:10.049Z",
+      "sourceDate": "2026-01-16T23:45:01.000Z",
+      "sourceUrl": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greenville-SC/Data-Scientist-I_R0110362",
+      "discordThreadId": "1462835773123596288",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2964,
+    "totalJobs": 2965,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T15:16:08.989Z",
-      "archived": 7,
-      "monthsAffected": 1
+      "date": "2026-01-19T15:47:10.049Z",
+      "archived": 0
     }
   }
 }
