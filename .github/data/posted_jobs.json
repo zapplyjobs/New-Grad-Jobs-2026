@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T03:47:12.843Z",
+  "lastUpdated": "2026-01-19T04:14:54.495Z",
   "jobs": [
-    {
-      "id": "autismspectrum-learnbehavioral-icims-com-jobs-41010-job-2026-01-12-1",
-      "jobId": "autismspectrum-learnbehavioral-icims-com-jobs-41010-job",
-      "company": "Autism Spectrum Therapies",
-      "title": "Behavior Technician",
-      "postedToDiscord": "2026-01-12T04:12:25.775Z",
-      "sourceDate": "2025-12-03T23:22:06.000Z",
-      "sourceUrl": "https://autismspectrum-learnbehavioral.icims.com/jobs/41010/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460124221853138986",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-actslife-icims-com-jobs-17536-job-2026-01-12-1",
-      "jobId": "careers-actslife-icims-com-jobs-17536-job",
-      "company": "Acts",
-      "title": "Licensed Practical Nurse - LPN",
-      "postedToDiscord": "2026-01-12T04:12:29.362Z",
-      "sourceDate": "2025-09-12T23:50:40.000Z",
-      "sourceUrl": "https://careers-actslife.icims.com/jobs/17536/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460124237015814260",
-      "instanceNumber": 1
-    },
-    {
-      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-mountain-view-650-castro-corp-xmlname-software-engineer-6078916_13942102-2026-01-12-1",
-      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-mountain-view-650-castro-corp-xmlname-software-engineer-6078916_13942102",
-      "company": "Accenture",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-12T04:12:35.820Z",
-      "sourceDate": "2026-01-12T02:38:05.000Z",
-      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/XMLNAME--Software-Engineer---6078916_13942102",
-      "discordThreadId": "1460124264643432448",
-      "instanceNumber": 1
-    },
-    {
-      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-san-francisco-415-mission-street-corp-xmlname-software-engineer-6078908_13942096-1-2026-01-12-1",
-      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-san-francisco-415-mission-street-corp-xmlname-software-engineer-6078908_13942096-1",
-      "company": "Accenture",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-12T04:12:35.824Z",
-      "sourceDate": "2026-01-12T02:38:01.000Z",
-      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/XMLNAME--Software-Engineer---6078908_13942096-1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-pitchbookdata-jobs-4643737006-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-pitchbookdata-jobs-4643737006",
-      "company": "PitchBook",
-      "title": "Associate Machine Learning Engineer",
-      "postedToDiscord": "2026-01-12T04:12:39.374Z",
-      "sourceDate": "2026-01-12T01:02:26.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4643737006",
-      "discordThreadId": "1460124279277617173",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-pitchbookdata-jobs-4643736006-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-pitchbookdata-jobs-4643736006",
-      "company": "PitchBook",
-      "title": "Associate Machine Learning Engineer",
-      "postedToDiscord": "2026-01-12T04:12:39.379Z",
-      "sourceDate": "2026-01-12T01:02:24.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4643736006",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "hancockwhitney-wd5-myworkdayjobs-com-careers-job-uno-center-new-orleans-la-financial-crimes-data-analyst-1_r016047-2026-01-12-1",
-      "jobId": "hancockwhitney-wd5-myworkdayjobs-com-careers-job-uno-center-new-orleans-la-financial-crimes-data-analyst-1_r016047",
-      "company": "Hancock Whitney",
-      "title": "Financial Crimes Data Analyst 1",
-      "postedToDiscord": "2026-01-12T04:12:46.156Z",
-      "sourceDate": "2026-01-12T00:55:21.000Z",
-      "sourceUrl": "https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Financial-Crimes-Data-Analyst-1_R016047",
-      "discordThreadId": "1460124307098177546",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234-2026-01-12-1",
       "jobId": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234",
@@ -31274,14 +31197,36 @@
       "sourceUrl": "https://www.brex.com/careers/8367549002?gh_jid=8367549002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8367554002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8367554002",
+      "company": "brex",
+      "title": "Engineering Manager, Salesforce",
+      "postedToDiscord": "2026-01-19T04:14:54.466Z",
+      "sourceDate": "2026-01-08T18:07:55-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367554002?gh_jid=8367554002",
+      "discordThreadId": "1462661561905844429",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339005002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8339005002",
+      "company": "brex",
+      "title": "Engineering Manager, Salesforce",
+      "postedToDiscord": "2026-01-19T04:14:54.495Z",
+      "sourceDate": "2026-01-08T18:07:24-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339005002?gh_jid=8339005002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2843,
+    "totalJobs": 2838,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T03:47:12.843Z",
+      "date": "2026-01-19T04:14:54.495Z",
       "archived": 0
     }
   }
