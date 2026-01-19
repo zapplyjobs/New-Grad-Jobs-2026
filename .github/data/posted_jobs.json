@@ -1,216 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T17:56:43.505Z",
+  "lastUpdated": "2026-01-19T18:50:56.888Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8369339002-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8369339002",
-      "company": "discord",
-      "title": "Senior Software Engineer, Machine Learning (Safety)",
-      "postedToDiscord": "2026-01-12T18:27:37.939Z",
-      "sourceDate": "2026-01-12T13:22:53-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8369339002",
-      "discordThreadId": "1460339441695588434",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7375850-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7375850",
-      "company": "reddit",
-      "title": "Senior Client Partner, Large Customer Sales (CPG)",
-      "postedToDiscord": "2026-01-12T18:27:41.652Z",
-      "sourceDate": "2026-01-12T13:05:42-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7375850",
-      "discordThreadId": "1460339455918346429",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7375572-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7375572",
-      "company": "reddit",
-      "title": "Senior Client Partner, Large Customer Sales (CPG)",
-      "postedToDiscord": "2026-01-12T18:27:41.657Z",
-      "sourceDate": "2026-01-12T13:05:40-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7375572",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4461444008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4461444008",
-      "company": "anthropic",
-      "title": "Solutions Architect, Enterprise Industries",
-      "postedToDiscord": "2026-01-12T18:27:45.699Z",
-      "sourceDate": "2026-01-12T12:54:08-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
-      "discordThreadId": "1460339471525347421",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4135267007-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4135267007",
-      "company": "verkada",
-      "title": "Sales Development Representative (AAE), Phoenix",
-      "postedToDiscord": "2026-01-12T18:27:50.418Z",
-      "sourceDate": "2026-01-12T13:03:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4135267007",
-      "discordThreadId": "1460339500910772438",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5025065008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025065008",
-      "company": "anthropic",
-      "title": "Research Engineer, Data Ingestion",
-      "postedToDiscord": "2026-01-12T18:27:56.856Z",
-      "sourceDate": "2026-01-12T12:44:32-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025065008",
-      "discordThreadId": "1460339520712081460",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4595463008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4595463008",
-      "company": "anthropic",
-      "title": "Security Software Engineer, D&R Platform",
-      "postedToDiscord": "2026-01-12T18:28:00.615Z",
-      "sourceDate": "2026-01-12T11:23:13-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
-      "discordThreadId": "1460339535350337626",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7181025-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7181025",
-      "company": "datadog",
-      "title": "Engineering Manager I - Cyber Threat Intelligence",
-      "postedToDiscord": "2026-01-12T18:28:04.227Z",
-      "sourceDate": "2026-01-12T10:48:35-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7181025/?gh_jid=7181025",
-      "discordThreadId": "1460339550877388831",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7476873-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7476873",
-      "company": "datadog",
-      "title": "Partner Marketing Manager (Public Sector)",
-      "postedToDiscord": "2026-01-12T18:28:10.881Z",
-      "sourceDate": "2026-01-12T12:36:11-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
-      "discordThreadId": "1460339578476171357",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7367778-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7367778",
-      "company": "reddit",
-      "title": "Senior Client Partner, Large Customer Sales (Alcohol)",
-      "postedToDiscord": "2026-01-12T18:47:08.241Z",
-      "sourceDate": "2026-01-11T18:27:39-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7367778",
-      "discordThreadId": "1460344347512803613",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4943668008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4943668008",
-      "company": "anthropic",
-      "title": "Software Engineer, Accelerator Build Infrastructure",
-      "postedToDiscord": "2026-01-12T18:47:11.762Z",
-      "sourceDate": "2026-01-09T20:32:53-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4943668008",
-      "discordThreadId": "1460344363896017059",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4951814008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951814008",
-      "company": "anthropic",
-      "title": " Research Engineer / Research Scientist, Tokens",
-      "postedToDiscord": "2026-01-12T18:47:15.184Z",
-      "sourceDate": "2026-01-09T20:31:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-      "discordThreadId": "1460344379032994119",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4741104008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4741104008",
-      "company": "anthropic",
-      "title": "Engineering Manager, ML Acceleration",
-      "postedToDiscord": "2026-01-12T18:47:18.747Z",
-      "sourceDate": "2026-01-09T20:28:42-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
-      "discordThreadId": "1460344393256013826",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5024835008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024835008",
-      "company": "anthropic",
-      "title": "Senior Research Scientist, Reward Models",
-      "postedToDiscord": "2026-01-12T18:47:22.746Z",
-      "sourceDate": "2026-01-09T20:27:23-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024835008",
-      "discordThreadId": "1460344408867078321",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4973067008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973067008",
-      "company": "anthropic",
-      "title": "Staff Infrastructure Engineer, Pre-training",
-      "postedToDiscord": "2026-01-12T18:47:26.199Z",
-      "sourceDate": "2026-01-09T20:27:04-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
-      "discordThreadId": "1460344425279655946",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4616971008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4616971008",
-      "company": "anthropic",
-      "title": "Research Engineer, Pre-training",
-      "postedToDiscord": "2026-01-12T18:47:29.833Z",
-      "sourceDate": "2026-01-09T20:26:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
-      "discordThreadId": "1460344439510667327",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5024831008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024831008",
-      "company": "anthropic",
-      "title": "Research Engineer, Reward Models Platform",
-      "postedToDiscord": "2026-01-12T18:47:36.904Z",
-      "sourceDate": "2026-01-09T20:26:23-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024831008",
-      "discordThreadId": "1460344467969147117",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4669581008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4669581008",
-      "company": "anthropic",
-      "title": "Research Engineer, Discovery",
-      "postedToDiscord": "2026-01-12T18:47:42.394Z",
-      "sourceDate": "2026-01-09T20:25:40-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
-      "discordThreadId": "1460344485031444615",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4593216008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4593216008",
-      "company": "anthropic",
-      "title": "Staff Research Engineer, Discovery Team",
-      "postedToDiscord": "2026-01-12T18:47:45.747Z",
-      "sourceDate": "2026-01-09T20:24:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
-      "discordThreadId": "1460344507613839515",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4017544008-2026-01-12-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4017544008",
@@ -32594,14 +32385,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/rhombuspower/jobs/7595490003",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-axle-jobs-5026603007-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-axle-jobs-5026603007",
+      "company": "Axle",
+      "title": "Developer",
+      "postedToDiscord": "2026-01-19T18:50:22.257Z",
+      "sourceDate": "2026-01-16T23:44:02.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5026603007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-mobilityware-jobs-7545222-2026-01-19-1",
+      "jobId": "boards-greenhouse-io-mobilityware-jobs-7545222",
+      "company": "Mobilityware",
+      "title": "Data Analyst 1",
+      "postedToDiscord": "2026-01-19T18:50:25.795Z",
+      "sourceDate": "2026-01-16T23:32:28.000Z",
+      "sourceUrl": "http://boards.greenhouse.io/mobilityware/jobs/7545222",
+      "discordThreadId": "1462881893275144420",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-smithfield-ri-associate-marketing-technologist_2122316-1-2026-01-19-1",
+      "jobId": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-smithfield-ri-associate-marketing-technologist_2122316-1",
+      "company": "Fidelity Investments",
+      "title": "Associate – Marketing Technologist",
+      "postedToDiscord": "2026-01-19T18:50:32.235Z",
+      "sourceDate": "2026-01-16T23:41:40.000Z",
+      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Associate--Marketing-Technologist_2122316-1",
+      "discordThreadId": "1462881920609288324",
+      "instanceNumber": 1
+    },
+    {
+      "id": "univision-wd1-myworkdayjobs-com-en-us-external-job-new-york-ny-digital-analyst_r019735-1-2026-01-19-1",
+      "jobId": "univision-wd1-myworkdayjobs-com-en-us-external-job-new-york-ny-digital-analyst_r019735-1",
+      "company": "TelevisaUnivision",
+      "title": "Digital Analyst",
+      "postedToDiscord": "2026-01-19T18:50:36.047Z",
+      "sourceDate": "2026-01-16T23:39:44.000Z",
+      "sourceUrl": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019735-1",
+      "discordThreadId": "1462881935415054584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-software-application-engineer-entry-level_r43851-2026-01-19-1",
+      "jobId": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-software-application-engineer-entry-level_r43851",
+      "company": "Oshkosh",
+      "title": "Software Application Engineer – Entry Level",
+      "postedToDiscord": "2026-01-19T18:50:42.685Z",
+      "sourceDate": "2026-01-16T23:41:29.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Application-Engineer---Entry-Level_R43851",
+      "discordThreadId": "1462881963969876122",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globusmedical-wd5-myworkdayjobs-com-gmed_careers-job-audubon-pa-associate-software-engineer_jr105520-2026-01-19-1",
+      "jobId": "globusmedical-wd5-myworkdayjobs-com-gmed_careers-job-audubon-pa-associate-software-engineer_jr105520",
+      "company": "Globus Medical",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-19T18:50:46.186Z",
+      "sourceDate": "2026-01-16T23:36:12.000Z",
+      "sourceUrl": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR105520",
+      "discordThreadId": "1462881978956251257",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-entry-level-software-engineer-simulation_jr2026491418-1-2026-01-19-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-entry-level-software-engineer-simulation_jr2026491418-1",
+      "company": "The Boeing Company",
+      "title": "Entry Level Software Engineer-Simulation",
+      "postedToDiscord": "2026-01-19T18:50:49.701Z",
+      "sourceDate": "2026-01-16T23:33:59.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation_JR2026491418-1",
+      "discordThreadId": "1462881993237991618",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-st-petersburgtampa-fl-programmer-analyst-i_j2437182-2026-01-19-1",
+      "jobId": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-st-petersburgtampa-fl-programmer-analyst-i_j2437182",
+      "company": "Jabil",
+      "title": "Programmer Analyst 1",
+      "postedToDiscord": "2026-01-19T18:50:53.366Z",
+      "sourceDate": "2026-01-16T23:30:22.000Z",
+      "sourceUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Programmer-Analyst-I_J2437182",
+      "discordThreadId": "1462882008643670349",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-robinhood-jobs-7263578-2026-01-19-1",
+      "jobId": "boards-greenhouse-io-robinhood-jobs-7263578",
+      "company": "Robinhood",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-19T18:50:56.887Z",
+      "sourceDate": "2026-01-16T07:29:15.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/robinhood/jobs/7263578",
+      "discordThreadId": "1462882023680245855",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2963,
+    "totalJobs": 2953,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T17:56:43.505Z",
+      "date": "2026-01-19T18:50:56.888Z",
       "archived": 0
     }
   }
