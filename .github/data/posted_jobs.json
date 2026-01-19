@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T05:06:32.828Z",
+  "lastUpdated": "2026-01-19T05:31:07.246Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234-2026-01-12-1",
@@ -31362,14 +31362,124 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8377539002?gh_jid=8377539002",
       "discordThreadId": "1462674556321005759",
       "instanceNumber": 1
+    },
+    {
+      "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_jr019008-2026-01-19-1",
+      "jobId": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_jr019008",
+      "company": "Morgan Stanley",
+      "title": "Associate – Software Engineer",
+      "postedToDiscord": "2026-01-19T05:30:25.261Z",
+      "sourceDate": "2026-01-15T23:36:54.000Z",
+      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR019008",
+      "discordThreadId": "1462680564728598571",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abb-wd3-myworkdayjobs-com-external_career_page-job-dallas-texas-united-states-of-america-associate-field-application-engineer_jr00021516-2026-01-19-1",
+      "jobId": "abb-wd3-myworkdayjobs-com-external_career_page-job-dallas-texas-united-states-of-america-associate-field-application-engineer_jr00021516",
+      "company": "ABB",
+      "title": "Associate Field Application Engineer",
+      "postedToDiscord": "2026-01-19T05:30:28.736Z",
+      "sourceDate": "2026-01-15T23:27:40.000Z",
+      "sourceUrl": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dallas-Texas-United-States-of-America/Associate-Field-Application-Engineer_JR00021516",
+      "discordThreadId": "1462680579194486897",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-tools-20for-20humanity-5e076db5-ef04-46d2-a586-dc7675485808-application-2026-01-19-1",
+      "jobId": "jobs-ashbyhq-com-tools-20for-20humanity-5e076db5-ef04-46d2-a586-dc7675485808-application",
+      "company": "Tools for Humanity",
+      "title": "Fellow",
+      "postedToDiscord": "2026-01-19T05:30:32.322Z",
+      "sourceDate": "2026-01-15T23:13:53.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/5e076db5-ef04-46d2-a586-dc7675485808/application",
+      "discordThreadId": "1462680593933406258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-dhs-or-cbp-public-trust-or-top-secret-preferred_rq212564-1-2026-01-19-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-dhs-or-cbp-public-trust-or-top-secret-preferred_rq212564-1",
+      "company": "General Dynamics Information Technology",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-19T05:30:35.931Z",
+      "sourceDate": "2026-01-08T23:53:29.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Ashburn/Java-Developer---DHS-or-CBP-public-trust-or-Top-Secret-preferred_RQ212564-1",
+      "discordThreadId": "1462680609209188472",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sofi-com-careers-job-7593749003-2026-01-19-1",
+      "jobId": "sofi-com-careers-job-7593749003",
+      "company": "SoFi",
+      "title": "Senior Data Engineer",
+      "postedToDiscord": "2026-01-19T05:30:40.672Z",
+      "sourceDate": "2026-01-15T23:36:18.000Z",
+      "sourceUrl": "https://sofi.com/careers/job/7593749003?gh_jid=7593749003",
+      "discordThreadId": "1462680636245676209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-us-ca-norco-data-analyst-systems-analysis-electrical-engineer-scientist-support-_321185-2026-01-19-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-ca-norco-data-analyst-systems-analysis-electrical-engineer-scientist-support-_321185",
+      "company": "CACI",
+      "title": "Data Analyst - Systems Analysis - Electrical Engineer/Scientist Support",
+      "postedToDiscord": "2026-01-19T05:30:44.201Z",
+      "sourceDate": "2026-01-15T23:14:42.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Analyst--Systems-Analysis--Electrical-Engineer-Scientist-Support-_321185",
+      "discordThreadId": "1462680644013522946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-integrated-food-energy-water-systems-_r-089880-1-2026-01-19-1",
+      "jobId": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-integrated-food-energy-water-systems-_r-089880-1",
+      "company": "Prairie View A&M University",
+      "title": "Postdoctoral Researcher - Pier - Integrated Food-Energy-Water Systems",
+      "postedToDiscord": "2026-01-19T05:30:50.625Z",
+      "sourceDate": "2026-01-15T23:12:36.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Integrated-Food-Energy-Water-Systems-_R-089880-1",
+      "discordThreadId": "1462680671095881813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-kirtland-afb-nm-atmospheric-scientist-associate-or-mid-level-_jr2026490878-1-2026-01-19-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-kirtland-afb-nm-atmospheric-scientist-associate-or-mid-level-_jr2026490878-1",
+      "company": "The Boeing Company",
+      "title": "Atmospheric Scientist – Associate or Mid-Level",
+      "postedToDiscord": "2026-01-19T05:30:54.239Z",
+      "sourceDate": "2026-01-08T23:47:18.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
+      "discordThreadId": "1462680685276954737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5054819008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054819008",
+      "company": "anthropic",
+      "title": "Manager, Account Executive - Enterprise Sales (Industries)",
+      "postedToDiscord": "2026-01-19T05:31:00.612Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054819008",
+      "discordThreadId": "1462680713026469909",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-data-engineer-i-aws-python-_r-48461-2026-01-19-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-data-engineer-i-aws-python-_r-48461",
+      "company": "The Travelers Companies",
+      "title": "Data Engineer 1 - Aws - Python",
+      "postedToDiscord": "2026-01-19T05:31:07.246Z",
+      "sourceDate": "2026-01-08T23:42:38.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python-_R-48461",
+      "discordThreadId": "1462680740226662576",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2851,
+    "totalJobs": 2861,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T05:06:32.828Z",
+      "date": "2026-01-19T05:31:07.246Z",
       "archived": 0
     }
   }
