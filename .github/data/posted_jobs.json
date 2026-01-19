@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T21:29:45.483Z",
+  "lastUpdated": "2026-01-19T21:42:06.037Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7440306-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7440306",
-      "company": "datadog",
-      "title": "Senior Security Engineer, Data Security",
-      "postedToDiscord": "2026-01-12T21:39:53.911Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7440306/?gh_jid=7440306",
-      "discordThreadId": "1460387819292725311",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-3851935-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-3851935",
-      "company": "datadog",
-      "title": "Senior Software Engineer ",
-      "postedToDiscord": "2026-01-12T21:40:00.428Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935",
-      "discordThreadId": "1460387853715505420",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-3851927-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-3851927",
-      "company": "datadog",
-      "title": "Senior Software Engineer - Distributed Systems",
-      "postedToDiscord": "2026-01-12T21:40:00.435Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-4732393-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-4732393",
-      "company": "datadog",
-      "title": "Senior Software Engineer - Frontend",
-      "postedToDiscord": "2026-01-12T21:40:00.440Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/4732393/?gh_jid=4732393",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7081040-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7081040",
-      "company": "datadog",
-      "title": "Senior Staff Engineer - Event Platform Storage",
-      "postedToDiscord": "2026-01-12T21:40:03.933Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7081040/?gh_jid=7081040",
-      "discordThreadId": "1460387868517204071",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-5608424-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-5608424",
-      "company": "datadog",
-      "title": "Senior Staff Software Engineer ",
-      "postedToDiscord": "2026-01-12T21:40:07.592Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424",
-      "discordThreadId": "1460387883226501255",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7107875-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7107875",
-      "company": "datadog",
-      "title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
-      "postedToDiscord": "2026-01-12T21:40:14.093Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875",
-      "discordThreadId": "1460387911538315437",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7107873-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7107873",
-      "company": "datadog",
-      "title": "Senior Software Engineer - IDE AI Experiences - LLM Engineer",
-      "postedToDiscord": "2026-01-12T21:40:17.810Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873",
-      "discordThreadId": "1460387925668790577",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6960503-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-6960503",
-      "company": "datadog",
-      "title": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
-      "postedToDiscord": "2026-01-12T21:40:21.224Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
-      "discordThreadId": "1460387941263212545",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7395012-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7395012",
-      "company": "datadog",
-      "title": "Senior Tax Accountant - NYC",
-      "postedToDiscord": "2026-01-12T21:40:27.797Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7395012/?gh_jid=7395012",
-      "discordThreadId": "1460387968169545912",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7446392-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7446392",
-      "company": "datadog",
-      "title": "Senior Technical Program Manager, Knowledge Systems",
-      "postedToDiscord": "2026-01-12T21:40:35.703Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392",
-      "discordThreadId": "1460387995914866709",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7088666-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7088666",
-      "company": "datadog",
-      "title": "Services Architect 3 - New York",
-      "postedToDiscord": "2026-01-12T21:40:42.108Z",
-      "sourceDate": "2026-01-09T12:55:41-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7088666/?gh_jid=7088666",
-      "discordThreadId": "1460388029049868288",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7027505-2026-01-12-1",
       "jobId": "careers-datadoghq-com-detail-7027505",
@@ -31604,14 +31472,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7435943",
       "discordThreadId": "1462921990351487079",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7426379-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7426379",
+      "company": "gusto",
+      "title": "Senior Product Marketing Manager, HR Experiences",
+      "postedToDiscord": "2026-01-19T21:41:42.622Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7426379",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7407322-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7407322",
+      "company": "gusto",
+      "title": "Senior Tax Credits Specialist",
+      "postedToDiscord": "2026-01-19T21:41:46.140Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7407322",
+      "discordThreadId": "1462925012058116108",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7413640-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7413640",
+      "company": "gusto",
+      "title": "Sr. Platform Engineer",
+      "postedToDiscord": "2026-01-19T21:41:52.566Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7413640",
+      "discordThreadId": "1462925039316762840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7413644-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7413644",
+      "company": "gusto",
+      "title": "Staff Software Engineer, Database Infrastructure",
+      "postedToDiscord": "2026-01-19T21:41:56.068Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7413644",
+      "discordThreadId": "1462925053887910073",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7425727-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7425727",
+      "company": "gusto",
+      "title": "Sr Sales Operations Analyst",
+      "postedToDiscord": "2026-01-19T21:42:02.594Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7425727",
+      "discordThreadId": "1462925081238831306",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7421455-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7421455",
+      "company": "gusto",
+      "title": "Technical Enterprise Client Success Manager - Symmetry",
+      "postedToDiscord": "2026-01-19T21:42:06.037Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7421455",
+      "discordThreadId": "1462925096145387612",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2873,
+    "totalJobs": 2867,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T21:29:45.483Z",
+      "date": "2026-01-19T21:42:06.037Z",
       "archived": 0
     }
   }
