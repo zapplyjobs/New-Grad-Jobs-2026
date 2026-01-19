@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T22:48:58.148Z",
+  "lastUpdated": "2026-01-19T22:56:47.958Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4819732008-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4819732008",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
-      "postedToDiscord": "2026-01-12T22:51:54.662Z",
-      "sourceDate": "2026-01-07T15:21:32-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
-      "discordThreadId": "1460405949264298026",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5730956004-2026-01-12-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5730956004",
-      "company": "figma",
-      "title": "Technical Recruiter, Data Science",
-      "postedToDiscord": "2026-01-12T22:52:01.184Z",
-      "sourceDate": "2026-01-07T13:23:07-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5730956004?gh_jid=5730956004",
-      "discordThreadId": "1460405976438935552",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8338009002-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8338009002",
-      "company": "discord",
-      "title": "Group Product Marketing Manager, Developer Commerce Solutions",
-      "postedToDiscord": "2026-01-12T22:52:07.638Z",
-      "sourceDate": "2026-01-07T12:08:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8338009002",
-      "discordThreadId": "1460406003848843440",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8290478002-2026-01-12-1",
-      "jobId": "careers-duolingo-com-jobs-8290478002",
-      "company": "duolingo",
-      "title": "Director of Learning Design, Immersive Language Learning",
-      "postedToDiscord": "2026-01-12T22:52:11.118Z",
-      "sourceDate": "2026-01-07T10:01:30-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8290478002?gh_jid=8290478002",
-      "discordThreadId": "1460406017840910429",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8205129002-2026-01-12-1",
-      "jobId": "careers-duolingo-com-jobs-8205129002",
-      "company": "duolingo",
-      "title": "Director of Learning Design, New Subjects",
-      "postedToDiscord": "2026-01-12T22:52:15.017Z",
-      "sourceDate": "2026-01-07T10:01:30-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8205129002?gh_jid=8205129002",
-      "discordThreadId": "1460406033171218608",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8326489002-2026-01-12-1",
-      "jobId": "careers-duolingo-com-jobs-8326489002",
-      "company": "duolingo",
-      "title": "Director of Product Management, Learning",
-      "postedToDiscord": "2026-01-12T22:52:18.423Z",
-      "sourceDate": "2026-01-07T10:01:30-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8326489002?gh_jid=8326489002",
-      "discordThreadId": "1460406049080086569",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8104665002-2026-01-12-1",
-      "jobId": "careers-duolingo-com-jobs-8104665002",
-      "company": "duolingo",
-      "title": "Engineering Director, Long-Form Learning",
-      "postedToDiscord": "2026-01-12T22:52:22.295Z",
-      "sourceDate": "2026-01-07T10:01:30-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8104665002?gh_jid=8104665002",
-      "discordThreadId": "1460406063789768775",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8235305002-2026-01-12-1",
-      "jobId": "careers-duolingo-com-jobs-8235305002",
-      "company": "duolingo",
-      "title": "Engineering Manager, Design Accelerator",
-      "postedToDiscord": "2026-01-12T22:52:25.829Z",
-      "sourceDate": "2026-01-07T10:01:30-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8235305002?gh_jid=8235305002",
-      "discordThreadId": "1460406079522340998",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8207887002-2026-01-12-1",
-      "jobId": "careers-duolingo-com-jobs-8207887002",
-      "company": "duolingo",
-      "title": "Ad Sales Lead",
-      "postedToDiscord": "2026-01-12T22:52:34.733Z",
-      "sourceDate": "2026-01-07T10:01:30-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8207887002?gh_jid=8207887002",
-      "discordThreadId": "1460406115421392906",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-7996986002-2026-01-12-1",
-      "jobId": "careers-duolingo-com-jobs-7996986002",
-      "company": "duolingo",
-      "title": "Director of Performance Marketing",
-      "postedToDiscord": "2026-01-12T22:52:42.971Z",
-      "sourceDate": "2026-01-07T10:01:30-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/7996986002?gh_jid=7996986002",
-      "discordThreadId": "1460406151106658505",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-duolingo-com-jobs-8224301002-2026-01-12-1",
       "jobId": "careers-duolingo-com-jobs-8224301002",
@@ -31197,6 +31087,116 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6447954",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-6678216-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-6678216",
+      "company": "gusto",
+      "title": "Expansion Account Manager ",
+      "postedToDiscord": "2026-01-19T22:56:05.459Z",
+      "sourceDate": "2026-01-09T15:41:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6678216",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-6348898-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-6348898",
+      "company": "gusto",
+      "title": "Corporate Development & Partnerships Deal Lead",
+      "postedToDiscord": "2026-01-19T22:56:12.112Z",
+      "sourceDate": "2026-01-09T15:41:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6348898",
+      "discordThreadId": "1462943743563792405",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-5959078-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-5959078",
+      "company": "gusto",
+      "title": "Software Engineering Manager, Symmetry ",
+      "postedToDiscord": "2026-01-19T22:56:18.906Z",
+      "sourceDate": "2026-01-09T15:41:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/5959078",
+      "discordThreadId": "1462943771892387924",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8365490002-2026-01-19-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8365490002",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer - Starshield",
+      "postedToDiscord": "2026-01-19T22:56:22.396Z",
+      "sourceDate": "2026-01-09T23:37:38.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8365490002",
+      "discordThreadId": "1462943786807333076",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-wd3-myworkdayjobs-com-asmlext1-job-san-jose-ca-usa-senior-algorithm-application-engineer_j-00329367-2026-01-19-1",
+      "jobId": "asml-wd3-myworkdayjobs-com-asmlext1-job-san-jose-ca-usa-senior-algorithm-application-engineer_j-00329367",
+      "company": "ASML",
+      "title": "Senior Algorithm Application Engineer",
+      "postedToDiscord": "2026-01-19T22:56:25.920Z",
+      "sourceDate": "2025-12-13T18:58:11.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Senior-Algorithm-Application-Engineer_J-00329367",
+      "discordThreadId": "1462943801881661480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-rws-1e82a9f7-a518-4302-9479-b221e8e0abce-apply-2026-01-19-1",
+      "jobId": "jobs-lever-co-rws-1e82a9f7-a518-4302-9479-b221e8e0abce-apply",
+      "company": "RWS",
+      "title": "AI Data Specialist - Ohio - US",
+      "postedToDiscord": "2026-01-19T22:56:27.698Z",
+      "sourceDate": "2025-11-21T23:15:49.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/1e82a9f7-a518-4302-9479-b221e8e0abce/apply",
+      "discordThreadId": "1462943816523841699",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-5864071-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-5864071",
+      "company": "gusto",
+      "title": "Senior Staff Software Engineer, Payments and Risk",
+      "postedToDiscord": "2026-01-19T22:56:34.348Z",
+      "sourceDate": "2026-01-09T15:41:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/5864071",
+      "discordThreadId": "1462943836971208777",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556659076-2026-01-19-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556659076",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-19T22:56:40.857Z",
+      "sourceDate": "2026-01-16T23:22:34.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556659076",
+      "discordThreadId": "1462943864691097716",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556654596-2026-01-19-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556654596",
+      "company": "Microsoft",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-19T22:56:44.220Z",
+      "sourceDate": "2026-01-13T23:10:04.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556654596",
+      "discordThreadId": "1462943879086215440",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-formlabs-com-job-7181193-apply-2026-01-19-1",
+      "jobId": "careers-formlabs-com-job-7181193-apply",
+      "company": "Formlabs",
+      "title": "Revenue Analytics Lead",
+      "postedToDiscord": "2026-01-19T22:56:47.957Z",
+      "sourceDate": "2025-12-03T16:48:26.000Z",
+      "sourceUrl": "https://careers.formlabs.com/job/7181193/apply/?gh_jid=7181193",
+      "discordThreadId": "1462943893849903281",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -31204,7 +31204,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T22:48:58.148Z",
+      "date": "2026-01-19T22:56:47.958Z",
       "archived": 0
     }
   }
