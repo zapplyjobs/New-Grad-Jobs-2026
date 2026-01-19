@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T10:09:52.790Z",
+  "lastUpdated": "2026-01-19T11:53:38.480Z",
   "jobs": [
-    {
-      "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735-2026-01-12-1",
-      "jobId": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735",
-      "company": "HEXAWARE",
-      "title": "Application Support - Java skills - Associate",
-      "postedToDiscord": "2026-01-12T11:39:09.617Z",
-      "sourceDate": "2026-01-12T10:32:46.000Z",
-      "sourceUrl": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735",
-      "discordThreadId": "1460236646338531465",
-      "instanceNumber": 1
-    },
     {
       "id": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3150991-2-2026-01-12-1",
       "jobId": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3150991-2",
@@ -32638,14 +32627,36 @@
       "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Fort-Lauderdale-Florida/Software-Engineer-I--US-_R_1463799",
       "discordThreadId": "1462750892578181141",
       "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-associate-reverse-engineer-researcher_2024059-1-2026-01-19-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-associate-reverse-engineer-researcher_2024059-1",
+      "company": "Carnegie Mellon University",
+      "title": "Associate Reverse Engineer",
+      "postedToDiscord": "2026-01-19T11:53:35.063Z",
+      "sourceDate": "2026-01-16T23:27:55.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Associate-Reverse-Engineer-Researcher_2024059-1",
+      "discordThreadId": "1462776991039230064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "msd-wd5-myworkdayjobs-com-searchjobs-job-usa-massachusetts-cambridge-320-bent-street-associate-scientist-postdoctoral-fellow-data-science-for-multi-omics-and-biomarker-modelling-in-neuroscience-_r371433-2026-01-19-1",
+      "jobId": "msd-wd5-myworkdayjobs-com-searchjobs-job-usa-massachusetts-cambridge-320-bent-street-associate-scientist-postdoctoral-fellow-data-science-for-multi-omics-and-biomarker-modelling-in-neuroscience-_r371433",
+      "company": "Merck",
+      "title": "Associate Scientist",
+      "postedToDiscord": "2026-01-19T11:53:38.479Z",
+      "sourceDate": "2026-01-16T23:26:47.000Z",
+      "sourceUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Scientist--Postdoctoral-Fellow--Data-Science-for-Multi-omics-and-Biomarker-Modelling-in-Neuroscience-_R371433",
+      "discordThreadId": "1462777005631344676",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2967,
+    "totalJobs": 2968,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T10:09:52.790Z",
+      "date": "2026-01-19T11:53:38.480Z",
       "archived": 0
     }
   }
