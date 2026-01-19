@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T16:30:21.164Z",
+  "lastUpdated": "2026-01-19T16:49:13.493Z",
   "jobs": [
-    {
-      "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-philadelphia-pa-software-engineer-i_r106463-1-2026-01-12-1",
-      "jobId": "relx-wd3-myworkdayjobs-com-en-us-relx-job-philadelphia-pa-software-engineer-i_r106463-1",
-      "company": "RELX",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-12T16:45:25.659Z",
-      "sourceDate": "2026-01-12T16:21:30.000Z",
-      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Software-Engineer-I_R106463-1",
-      "discordThreadId": "1460313719450894532",
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8134354002-2026-01-12-1",
       "jobId": "www-brex-com-careers-8134354002",
@@ -32594,6 +32583,17 @@
       "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715563394",
       "discordThreadId": "1462846642414686271",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-cisco-com-global-en-job-2000127-2026-01-19-1",
+      "jobId": "careers-cisco-com-global-en-job-2000127",
+      "company": "Cisco",
+      "title": "Software Engineer 2 - Full Stack and Application Development",
+      "postedToDiscord": "2026-01-19T16:49:13.492Z",
+      "sourceDate": "2025-11-20T18:46:27.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2000127",
+      "discordThreadId": "1462851391805722644",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -32601,8 +32601,8 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T16:30:21.164Z",
-      "archived": 3,
+      "date": "2026-01-19T16:49:13.493Z",
+      "archived": 1,
       "monthsAffected": 1
     }
   }
