@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T04:42:10.813Z",
+  "lastUpdated": "2026-01-19T05:06:32.828Z",
   "jobs": [
     {
       "id": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234-2026-01-12-1",
@@ -31252,14 +31252,124 @@
       "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90290660624",
       "discordThreadId": "1462668423950762057",
       "instanceNumber": 1
+    },
+    {
+      "id": "nisource-wd1-myworkdayjobs-com-nisource-job-monaca-pa-op-ctr-gis-technician_r00941773-2026-01-19-1",
+      "jobId": "nisource-wd1-myworkdayjobs-com-nisource-job-monaca-pa-op-ctr-gis-technician_r00941773",
+      "company": "NiSource",
+      "title": "GIS Technician",
+      "postedToDiscord": "2026-01-19T05:05:53.572Z",
+      "sourceDate": "2026-01-15T23:31:08.000Z",
+      "sourceUrl": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Monaca-PA-Op-Ctr/GIS-Technician_R00941773",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-remodelhealth-jobs-4880033008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-remodelhealth-jobs-4880033008",
+      "company": "Remodel Health",
+      "title": "Tech Lead – Software Engineering",
+      "postedToDiscord": "2026-01-19T05:06:00.286Z",
+      "sourceDate": "2026-01-15T23:19:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/remodelhealth/jobs/4880033008",
+      "discordThreadId": "1462674419402019020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241-2026-01-19-1",
+      "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-78241",
+      "company": "Caesars Entertainment",
+      "title": "Analyst 1 – Labor Analytics - Corporate - Las Vegas",
+      "postedToDiscord": "2026-01-19T05:06:03.936Z",
+      "sourceDate": "2026-01-08T23:21:12.000Z",
+      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/78241",
+      "discordThreadId": "1462674434690252983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az807-rms-ap-bldg-807-1151-east-hermans-road-building-807-tucson-az-85756-usa-xmlname-2026-fulltime-data-management-analyst-i-onsite_01815653-2026-01-19-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-az807-rms-ap-bldg-807-1151-east-hermans-road-building-807-tucson-az-85756-usa-xmlname-2026-fulltime-data-management-analyst-i-onsite_01815653",
+      "company": "RTX",
+      "title": "2026 Fulltime - Data Management Analyst I",
+      "postedToDiscord": "2026-01-19T05:06:07.365Z",
+      "sourceDate": "2026-01-08T23:16:34.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Data-Management-Analyst-I---Onsite_01815653",
+      "discordThreadId": "1462674449563385961",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-techs-physics-techs-nc-1306097300-2026-01-19-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-techs-physics-techs-nc-1306097300",
+      "company": "Westinghouse Electric Company",
+      "title": "Nuclear Analysis Technician - Engineering Techs - Physics Techs",
+      "postedToDiscord": "2026-01-19T05:06:10.945Z",
+      "sourceDate": "2026-01-08T23:14:45.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Techs-Physics-Techs-NC/1306097300/?ats=successfactors",
+      "discordThreadId": "1462674464155242603",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-co102-16800-e-centretech-pkwyaurora-16800-east-centretech-pkwy-building-s75-aurora-co-80011-usa-xmlname-2026-full-time-software-engineer-i-onsite-co-_01810840-2026-01-19-1",
+      "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-co102-16800-e-centretech-pkwyaurora-16800-east-centretech-pkwy-building-s75-aurora-co-80011-usa-xmlname-2026-full-time-software-engineer-i-onsite-co-_01810840",
+      "company": "RTX",
+      "title": "2026 Full-time - Software Engineer I - Onsite/CO",
+      "postedToDiscord": "2026-01-19T05:06:14.392Z",
+      "sourceDate": "2025-12-09T12:54:01.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01810840",
+      "discordThreadId": "1462674479099678879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-subsplash-jobs-8337452002-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-subsplash-jobs-8337452002",
+      "company": "Subsplash",
+      "title": "Software Development Engineer 1 - Frontend",
+      "postedToDiscord": "2026-01-19T05:06:16.292Z",
+      "sourceDate": "2026-01-15T23:38:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/subsplash/jobs/8337452002",
+      "discordThreadId": "1462674493976875072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-barkley-jobs-5766198004-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-barkley-jobs-5766198004",
+      "company": "Barkley",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-19T05:06:22.753Z",
+      "sourceDate": "2026-01-15T23:12:03.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/barkley/jobs/5766198004",
+      "discordThreadId": "1462674514633560168",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4956333008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4956333008",
+      "company": "anthropic",
+      "title": "People Analytics Data Engineer",
+      "postedToDiscord": "2026-01-19T05:06:26.233Z",
+      "sourceDate": "2026-01-15T19:30:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956333008",
+      "discordThreadId": "1462674528907034696",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8377539002-2026-01-19-1",
+      "jobId": "careers-duolingo-com-jobs-8377539002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Learning",
+      "postedToDiscord": "2026-01-19T05:06:32.828Z",
+      "sourceDate": "2026-01-15T19:43:04-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8377539002?gh_jid=8377539002",
+      "discordThreadId": "1462674556321005759",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2841,
+    "totalJobs": 2851,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T04:42:10.813Z",
+      "date": "2026-01-19T05:06:32.828Z",
       "archived": 0
     }
   }
