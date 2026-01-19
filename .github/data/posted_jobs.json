@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T15:47:10.049Z",
+  "lastUpdated": "2026-01-19T16:13:45.798Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7510898-2026-01-12-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7510898",
-      "company": "reddit",
-      "title": "Internal Communications Senior Manager (Global Sales)",
-      "postedToDiscord": "2026-01-12T15:55:50.119Z",
-      "sourceDate": "2026-01-12T10:48:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7510898",
-      "discordThreadId": "1460301240528277558",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7512337-2026-01-12-1",
-      "jobId": "careers-datadoghq-com-detail-7512337",
-      "company": "datadog",
-      "title": "Manager, Commercial Sales Engineering (AMER - East)",
-      "postedToDiscord": "2026-01-12T16:08:53.966Z",
-      "sourceDate": "2026-01-12T10:54:30-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7512337/?gh_jid=7512337",
-      "discordThreadId": "1460304527868563547",
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8220031002-2026-01-12-1",
       "jobId": "www-brex-com-careers-8220031002",
@@ -32616,6 +32594,28 @@
       "sourceUrl": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greenville-SC/Data-Scientist-I_R0110362",
       "discordThreadId": "1462835773123596288",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-billiontoone-jobs-4641709005-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-billiontoone-jobs-4641709005",
+      "company": "BillionToOne",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-19T16:13:42.134Z",
+      "sourceDate": "2025-12-17T23:39:05.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/billiontoone/jobs/4641709005",
+      "discordThreadId": "1462842451419992281",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-merge-jobs-4069267004-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-merge-jobs-4069267004",
+      "company": "Merge",
+      "title": "Integrations Engineer",
+      "postedToDiscord": "2026-01-19T16:13:45.798Z",
+      "sourceDate": "2025-12-12T23:49:19.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/merge/jobs/4069267004",
+      "discordThreadId": "1462842466561425597",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -32623,7 +32623,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T15:47:10.049Z",
+      "date": "2026-01-19T16:13:45.798Z",
       "archived": 0
     }
   }
