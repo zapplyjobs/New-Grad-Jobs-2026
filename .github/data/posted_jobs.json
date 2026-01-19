@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T17:45:35.787Z",
+  "lastUpdated": "2026-01-19T17:56:43.505Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8369339002-2026-01-12-1",
@@ -32572,14 +32572,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8375488002",
       "discordThreadId": "1462865576882864168",
       "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rhombuspower-jobs-7595481003-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-rhombuspower-jobs-7595481003",
+      "company": "Rhombus Power",
+      "title": "Data Labeling Specialist - Imagery",
+      "postedToDiscord": "2026-01-19T17:56:43.479Z",
+      "sourceDate": "2026-01-16T23:43:52.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rhombuspower/jobs/7595481003",
+      "discordThreadId": "1462868378040668271",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-rhombuspower-jobs-7595490003-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-rhombuspower-jobs-7595490003",
+      "company": "Rhombus Power",
+      "title": "Data Labeling Specialist - Gdelt",
+      "postedToDiscord": "2026-01-19T17:56:43.505Z",
+      "sourceDate": "2026-01-16T23:43:50.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/rhombuspower/jobs/7595490003",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2961,
+    "totalJobs": 2963,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T17:45:35.787Z",
+      "date": "2026-01-19T17:56:43.505Z",
       "archived": 0
     }
   }
