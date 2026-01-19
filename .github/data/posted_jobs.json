@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T09:20:51.165Z",
+  "lastUpdated": "2026-01-19T09:35:35.147Z",
   "jobs": [
     {
       "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735-2026-01-12-1",
@@ -32594,14 +32594,47 @@
       "sourceUrl": "https://jobs.jobvite.com/blackboard/job/o617yfww?nl=1&nl=1&fr=false",
       "discordThreadId": "1462738553661296846",
       "instanceNumber": 1
+    },
+    {
+      "id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-golang-_jr104106-2026-01-19-1",
+      "jobId": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-golang-_jr104106",
+      "company": "Apex Fintech Solutions",
+      "title": "Software Engineer 1 - Golang",
+      "postedToDiscord": "2026-01-19T09:35:24.903Z",
+      "sourceDate": "2026-01-15T23:16:46.000Z",
+      "sourceUrl": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Golang-_JR104106",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8376990002-2026-01-19-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8376990002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer - Software - Starlink",
+      "postedToDiscord": "2026-01-19T09:35:31.640Z",
+      "sourceDate": "2026-01-16T23:39:57.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8376990002",
+      "discordThreadId": "1462742247731761153",
+      "instanceNumber": 1
+    },
+    {
+      "id": "avav-wd1-myworkdayjobs-com-en-us-avav-job-308-sentinel-drive-annapolis-junction-md-software-engineer_6521-1-2026-01-19-1",
+      "jobId": "avav-wd1-myworkdayjobs-com-en-us-avav-job-308-sentinel-drive-annapolis-junction-md-software-engineer_6521-1",
+      "company": "AeroVironment",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-19T09:35:35.147Z",
+      "sourceDate": "2026-01-16T23:27:18.000Z",
+      "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/308-Sentinel-Drive-Annapolis-Junction-MD/Software-Engineer_6521-1",
+      "discordThreadId": "1462742261963165852",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2963,
+    "totalJobs": 2966,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T09:20:51.165Z",
+      "date": "2026-01-19T09:35:35.147Z",
       "archived": 0
     }
   }
