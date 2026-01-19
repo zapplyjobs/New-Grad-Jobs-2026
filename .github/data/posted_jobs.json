@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T08:49:23.909Z",
+  "lastUpdated": "2026-01-19T09:03:24.753Z",
   "jobs": [
     {
       "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735-2026-01-12-1",
@@ -32385,14 +32385,124 @@
       "sourceUrl": "https://www.brex.com/careers/8378792002?gh_jid=8378792002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-6dfd1d6f-5efc-473a-aa48-8026eea476fc-2026-01-19-1",
+      "jobId": "jobs-lever-co-spotify-6dfd1d6f-5efc-473a-aa48-8026eea476fc",
+      "company": "spotify",
+      "title": "Data Scientist - Finance Data & Insights, Ads and Podcasts",
+      "postedToDiscord": "2026-01-19T09:02:45.426Z",
+      "sourceDate": "2026-01-16T18:57:13.601Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/6dfd1d6f-5efc-473a-aa48-8026eea476fc",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335-2026-01-19-1",
+      "jobId": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335",
+      "company": "spotify",
+      "title": "Senior Staff Machine Learning Engineer - Home",
+      "postedToDiscord": "2026-01-19T09:02:49.013Z",
+      "sourceDate": "2026-01-06T12:03:25.795Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/0d21c06c-31f7-4898-b34b-b7bcd1518335",
+      "discordThreadId": "1462734015252529234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb-2026-01-19-1",
+      "jobId": "jobs-lever-co-spotify-6236f25f-f9cc-47c2-af7b-4ace57332eeb",
+      "company": "spotify",
+      "title": "Senior Machine Learning Engineer - Ads R&D",
+      "postedToDiscord": "2026-01-19T09:02:52.651Z",
+      "sourceDate": "2025-08-26T20:02:52.517Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/6236f25f-f9cc-47c2-af7b-4ace57332eeb",
+      "discordThreadId": "1462734030121341002",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5074815008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074815008",
+      "company": "anthropic",
+      "title": "Research Engineer, Audio",
+      "postedToDiscord": "2026-01-19T09:02:56.147Z",
+      "sourceDate": "2026-01-16T17:13:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074815008",
+      "discordThreadId": "1462734045652979723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5074217008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074217008",
+      "company": "anthropic",
+      "title": "Research Engineer / Research Scientist, Vision",
+      "postedToDiscord": "2026-01-19T09:02:59.677Z",
+      "sourceDate": "2026-01-16T17:41:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
+      "discordThreadId": "1462734060202885256",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-5020484007-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-5020484007",
+      "company": "verkada",
+      "title": "Channel Development Representative, West (Phoenix) ",
+      "postedToDiscord": "2026-01-19T09:03:04.427Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5020484007",
+      "discordThreadId": "1462734087713325128",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7516279-2026-01-19-1",
+      "jobId": "careers-datadoghq-com-detail-7516279",
+      "company": "datadog",
+      "title": "Senior Sales Engineer - Key Accounts (West)",
+      "postedToDiscord": "2026-01-19T09:03:08.193Z",
+      "sourceDate": "2026-01-09T17:27:49-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7516279/?gh_jid=7516279",
+      "discordThreadId": "1462734095221260390",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062861008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062861008",
+      "company": "anthropic",
+      "title": "Director, FX & Investments",
+      "postedToDiscord": "2026-01-19T09:03:11.694Z",
+      "sourceDate": "2026-01-16T18:05:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062861008",
+      "discordThreadId": "1462734111058825349",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5063007008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5063007008",
+      "company": "anthropic",
+      "title": "Software Engineer, Cybersecurity Products",
+      "postedToDiscord": "2026-01-19T09:03:18.143Z",
+      "sourceDate": "2026-01-14T14:42:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
+      "discordThreadId": "1462734138166612051",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5073388008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5073388008",
+      "company": "anthropic",
+      "title": "Program Manager, Responsible Scaling Policy",
+      "postedToDiscord": "2026-01-19T09:03:24.752Z",
+      "sourceDate": "2026-01-16T18:23:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073388008",
+      "discordThreadId": "1462734165047775265",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2944,
+    "totalJobs": 2954,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T08:49:23.909Z",
+      "date": "2026-01-19T09:03:24.753Z",
       "archived": 0
     }
   }
