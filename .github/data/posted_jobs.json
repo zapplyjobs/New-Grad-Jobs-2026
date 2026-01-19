@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T11:53:38.480Z",
+  "lastUpdated": "2026-01-19T12:09:28.439Z",
   "jobs": [
     {
       "id": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3150991-2-2026-01-12-1",
@@ -32649,14 +32649,36 @@
       "sourceUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Scientist--Postdoctoral-Fellow--Data-Science-for-Multi-omics-and-Biomarker-Modelling-in-Neuroscience-_R371433",
       "discordThreadId": "1462777005631344676",
       "instanceNumber": 1
+    },
+    {
+      "id": "qualcomm-eightfold-ai-careers-job-446715660330-2026-01-19-1",
+      "jobId": "qualcomm-eightfold-ai-careers-job-446715660330",
+      "company": "Qualcomm",
+      "title": "Software Engineer - Platform Test - Systems Test Engineering",
+      "postedToDiscord": "2026-01-19T12:09:24.994Z",
+      "sourceDate": "2026-01-16T23:18:28.000Z",
+      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715660330",
+      "discordThreadId": "1462780975141490742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-environmental-engineering-geology-scientist_r00028796-1-2026-01-19-1",
+      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-environmental-engineering-geology-scientist_r00028796-1",
+      "company": "ERM",
+      "title": "Consulting Associate - Environmental Engineering - Geology / Scientist",
+      "postedToDiscord": "2026-01-19T12:09:28.438Z",
+      "sourceDate": "2026-01-09T23:36:38.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Environmental-Engineering--Geology---Scientist_R00028796-1",
+      "discordThreadId": "1462780989645262890",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2968,
+    "totalJobs": 2970,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T11:53:38.480Z",
+      "date": "2026-01-19T12:09:28.439Z",
       "archived": 0
     }
   }
