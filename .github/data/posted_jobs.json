@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T23:53:00.698Z",
+  "lastUpdated": "2026-01-19T00:19:28.695Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-12-1",
@@ -30856,14 +30856,146 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4667572008",
       "discordThreadId": "1462595653225025607",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7508990-2026-01-19-1",
+      "jobId": "careers-datadoghq-com-detail-7508990",
+      "company": "datadog",
+      "title": "Area Vice President, Enterprise Security Sales",
+      "postedToDiscord": "2026-01-19T00:18:57.873Z",
+      "sourceDate": "2026-01-15T12:21:42-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jmfamily-wd1-myworkdayjobs-com-jmfamily_external-job-florida-deerfield-beach-it-services-academy-program-software-analyst_jr104494-2026-01-19-1",
+      "jobId": "jmfamily-wd1-myworkdayjobs-com-jmfamily_external-job-florida-deerfield-beach-it-services-academy-program-software-analyst_jr104494",
+      "company": "JM Family",
+      "title": "IT Services Academy Program - Software Analyst",
+      "postedToDiscord": "2026-01-19T00:19:01.539Z",
+      "sourceDate": "2026-01-15T16:33:31.000Z",
+      "sourceUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/IT-Services-Academy-Program---Software-Analyst_JR104494",
+      "discordThreadId": "1462602198621094119",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-sas-icims-com-jobs-40406-job-2026-01-19-1",
+      "jobId": "careers-sas-icims-com-jobs-40406-job",
+      "company": "SAS",
+      "title": "Software Developer - Emerging Career - Java / Spring Boot",
+      "postedToDiscord": "2026-01-19T00:19:05.180Z",
+      "sourceDate": "2026-01-15T16:23:47.000Z",
+      "sourceUrl": "https://careers-sas.icims.com/jobs/40406/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462602214274236519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-statistical-data-analyst-surgery_jr92156-2026-01-19-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-statistical-data-analyst-surgery_jr92156",
+      "company": "Wash U",
+      "title": "Statistical Data Analyst - Surgery",
+      "postedToDiscord": "2026-01-19T00:19:11.667Z",
+      "sourceDate": "2026-01-15T16:18:18.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Surgery_JR92156",
+      "discordThreadId": "1462602242229276826",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5060653008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5060653008",
+      "company": "anthropic",
+      "title": "Finance Systems, Finance & Strategy Lead",
+      "postedToDiscord": "2026-01-19T00:19:18.145Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5060653008",
+      "discordThreadId": "1462602269198516296",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5055669008-2026-01-19-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5055669008",
+      "company": "anthropic",
+      "title": "Product Marketing Lead, Agents",
+      "postedToDiscord": "2026-01-19T00:19:21.687Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055669008",
+      "discordThreadId": "1462602283668865157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283503002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8283503002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-19T00:19:25.189Z",
+      "sourceDate": "2026-01-08T12:41:56-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283503002?gh_jid=8283503002",
+      "discordThreadId": "1462602298579751105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283457002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8283457002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-19T00:19:25.209Z",
+      "sourceDate": "2026-01-08T12:41:55-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283457002?gh_jid=8283457002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283452002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8283452002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-19T00:19:25.227Z",
+      "sourceDate": "2026-01-08T12:41:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283452002?gh_jid=8283452002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283446002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8283446002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-19T00:19:25.243Z",
+      "sourceDate": "2026-01-08T12:41:50-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283446002?gh_jid=8283446002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8283430002-2026-01-19-1",
+      "jobId": "www-brex-com-careers-8283430002",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-19T00:19:25.261Z",
+      "sourceDate": "2026-01-08T12:41:49-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283430002?gh_jid=8283430002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7003239-2026-01-19-1",
+      "jobId": "careers-datadoghq-com-detail-7003239",
+      "company": "datadog",
+      "title": "Sales Development Representative (LATAM - Spanish Speaking)",
+      "postedToDiscord": "2026-01-19T00:19:28.694Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
+      "discordThreadId": "1462602313637298307",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2805,
+    "totalJobs": 2817,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-18T23:53:00.698Z",
+      "date": "2026-01-19T00:19:28.695Z",
       "archived": 0
     }
   }
