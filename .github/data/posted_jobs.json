@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:55:54.270Z",
+  "lastUpdated": "2026-01-20T12:16:32.680Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
@@ -33631,14 +33631,116 @@
       "discordThreadId": "1463139961912954944",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "e66408cd36712091-2026-01-20-1",
+      "jobId": "e66408cd36712091",
+      "company": "duolingo",
+      "title": "Director of Learning Design, Immersive Language Learning",
+      "postedToDiscord": "2026-01-20T12:16:22.208Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8290478002?gh_jid=8290478002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463145125994561660",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:16:22.208Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463145133934510284",
+          "channelType": "location",
+          "postedAt": "2026-01-20T12:16:23.960Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8290478002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8290478002",
+      "company": "duolingo",
+      "title": "Director of Learning Design, Immersive Language Learning",
+      "postedToDiscord": "2026-01-20T12:16:25.481Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8290478002?gh_jid=8290478002",
+      "discordThreadId": "1463145125994561660",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5209dd5c2bedbcc0-2026-01-20-1",
+      "jobId": "5209dd5c2bedbcc0",
+      "company": "duolingo",
+      "title": "Director of Learning Design, New Subjects",
+      "postedToDiscord": "2026-01-20T12:16:25.700Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8205129002?gh_jid=8205129002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463145140830077158",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:16:25.700Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463145148757315678",
+          "channelType": "location",
+          "postedAt": "2026-01-20T12:16:27.512Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8205129002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8205129002",
+      "company": "duolingo",
+      "title": "Director of Learning Design, New Subjects",
+      "postedToDiscord": "2026-01-20T12:16:29.035Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8205129002?gh_jid=8205129002",
+      "discordThreadId": "1463145140830077158",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "546e0e22bcb6d6bf-2026-01-20-1",
+      "jobId": "546e0e22bcb6d6bf",
+      "company": "duolingo",
+      "title": "Director of Performance Marketing",
+      "postedToDiscord": "2026-01-20T12:16:29.286Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/7996986002?gh_jid=7996986002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463145156390682668",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:16:29.286Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463145163705811114",
+          "channelType": "location",
+          "postedAt": "2026-01-20T12:16:31.156Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-7996986002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-7996986002",
+      "company": "duolingo",
+      "title": "Director of Performance Marketing",
+      "postedToDiscord": "2026-01-20T12:16:32.679Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/7996986002?gh_jid=7996986002",
+      "discordThreadId": "1463145156390682668",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2909,
+    "totalJobs": 2915,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T11:55:54.270Z",
+      "date": "2026-01-20T12:16:32.680Z",
       "archived": 0
     }
   }
