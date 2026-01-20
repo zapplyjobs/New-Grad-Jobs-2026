@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:30:27.252Z",
+  "lastUpdated": "2026-01-20T10:49:08.377Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -33093,14 +33093,140 @@
       "discordThreadId": null,
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "52878dd43d7e3a3c-2026-01-20-1",
+      "jobId": "52878dd43d7e3a3c",
+      "company": "datadog",
+      "title": "Technical Account Manager 2 - New York",
+      "postedToDiscord": "2026-01-20T10:48:55.104Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7411889/?gh_jid=7411889",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463123118573748257",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:48:55.104Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463123125779828811",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:48:56.911Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7411889-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7411889",
+      "company": "datadog",
+      "title": "Technical Account Manager 2 - New York",
+      "postedToDiscord": "2026-01-20T10:48:58.432Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7411889/?gh_jid=7411889",
+      "discordThreadId": "1463123118573748257",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "28094dea45227c69-2026-01-20-1",
+      "jobId": "28094dea45227c69",
+      "company": "datadog",
+      "title": "Technical Content Writer",
+      "postedToDiscord": "2026-01-20T10:48:58.696Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251099/?gh_jid=7251099",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463123132972924976",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:48:58.696Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463123140841574564",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:49:00.375Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7251099-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7251099",
+      "company": "datadog",
+      "title": "Technical Content Writer",
+      "postedToDiscord": "2026-01-20T10:49:01.899Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251099/?gh_jid=7251099",
+      "discordThreadId": "1463123132972924976",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "693bf1cde49fcad9-2026-01-20-1",
+      "jobId": "693bf1cde49fcad9",
+      "company": "datadog",
+      "title": "Technical Support Engineer 2, Premier - Denver",
+      "postedToDiscord": "2026-01-20T10:49:02.090Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463123148001251369",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:49:02.090Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496260-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7496260",
+      "company": "datadog",
+      "title": "Technical Support Engineer 2, Premier - Denver",
+      "postedToDiscord": "2026-01-20T10:49:03.610Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260",
+      "discordThreadId": "1463123148001251369",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "612cbf574a50d002-2026-01-20-1",
+      "jobId": "612cbf574a50d002",
+      "company": "coinbase",
+      "title": "Associate Product Manager Intern",
+      "postedToDiscord": "2026-01-20T10:49:06.851Z",
+      "sourceDate": "2026-01-09T12:26:13-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7269743?gh_jid=7269743",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463123167852892160",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:49:06.851Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7269743-2026-01-20-1",
+      "jobId": "www-coinbase-com-careers-positions-7269743",
+      "company": "coinbase",
+      "title": "Associate Product Manager Intern",
+      "postedToDiscord": "2026-01-20T10:49:08.377Z",
+      "sourceDate": "2026-01-09T12:26:13-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7269743?gh_jid=7269743",
+      "discordThreadId": "1463123167852892160",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2874,
+    "totalJobs": 2882,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T10:30:27.252Z",
+      "date": "2026-01-20T10:49:08.377Z",
       "archived": 0
     }
   }
