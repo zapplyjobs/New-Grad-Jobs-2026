@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T05:50:24.377Z",
+  "lastUpdated": "2026-01-20T06:02:03.513Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4984340007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4984340007",
-      "company": "verkada",
-      "title": "Channel Marketing Associate (Remote)",
-      "postedToDiscord": "2026-01-13T05:53:58.586Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4984340007",
-      "discordThreadId": "1460512165948559564",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4872410007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4872410007",
-      "company": "verkada",
-      "title": "Communications Manager",
-      "postedToDiscord": "2026-01-13T05:54:04.261Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4872410007",
-      "discordThreadId": "1460512179760398559",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4998116007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4998116007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Chicago - SLED)",
-      "postedToDiscord": "2026-01-13T05:54:07.741Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4998116007",
-      "discordThreadId": "1460512203613536286",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4977098007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4977098007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Colorado - SLED)",
-      "postedToDiscord": "2026-01-13T05:54:09.548Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977098007",
-      "discordThreadId": "1460512218373427362",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4680763007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4680763007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Corporate/Manufacturing - East)",
-      "postedToDiscord": "2026-01-13T05:54:12.858Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4680763007",
-      "discordThreadId": "1460512225717653681",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4410381007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4410381007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Houston - SLED)",
-      "postedToDiscord": "2026-01-13T05:54:14.510Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4410381007",
-      "discordThreadId": "1460512239462256818",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4978267007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4978267007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Kansas - SLED)",
-      "postedToDiscord": "2026-01-13T05:54:16.350Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4978267007",
-      "discordThreadId": "1460512247339159767",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4926883007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4926883007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (New York State  - SLED)",
-      "postedToDiscord": "2026-01-13T05:54:19.910Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4926883007",
-      "discordThreadId": "1460512254574198979",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4904906007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4904906007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (SoCal - Corporate)",
-      "postedToDiscord": "2026-01-13T05:54:23.262Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4904906007",
-      "discordThreadId": "1460512269275234315",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4977081007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4977081007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Southern California - Local, Higher Education)",
-      "postedToDiscord": "2026-01-13T05:54:26.534Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977081007",
-      "discordThreadId": "1460512283338735753",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-4952537007-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-4952537007",
@@ -31140,14 +31030,312 @@
       "discordThreadId": "1463047988933955702",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "2b9be70de8d5269b-2026-01-20-1",
+      "jobId": "2b9be70de8d5269b",
+      "company": "datadog",
+      "title": "Customer Success Associate - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-20T06:01:34.501Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485441/?gh_jid=7485441",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463050806243754069",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:34.501Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7485441-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7485441",
+      "company": "datadog",
+      "title": "Customer Success Associate - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-20T06:01:36.023Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485441/?gh_jid=7485441",
+      "discordThreadId": "1463050806243754069",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "11585d57190a58a3-2026-01-20-1",
+      "jobId": "11585d57190a58a3",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston",
+      "postedToDiscord": "2026-01-20T06:01:36.280Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463050813357424738",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:36.280Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7128703-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7128703",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston",
+      "postedToDiscord": "2026-01-20T06:01:37.801Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703",
+      "discordThreadId": "1463050813357424738",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "76431e961c585119-2026-01-20-1",
+      "jobId": "76431e961c585119",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-20T06:01:38.096Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485376/?gh_jid=7485376",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463050820688937124",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:38.096Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7485376-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7485376",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-20T06:01:39.617Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485376/?gh_jid=7485376",
+      "discordThreadId": "1463050820688937124",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a0f6b95bcc774933-2026-01-20-1",
+      "jobId": "a0f6b95bcc774933",
+      "company": "datadog",
+      "title": "Deal Desk Analyst",
+      "postedToDiscord": "2026-01-20T06:01:39.988Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7420653/?gh_jid=7420653",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463050828955914379",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:39.988Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463050836761509965",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:01:41.772Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7420653-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7420653",
+      "company": "datadog",
+      "title": "Deal Desk Analyst",
+      "postedToDiscord": "2026-01-20T06:01:43.291Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7420653/?gh_jid=7420653",
+      "discordThreadId": "1463050828955914379",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7420668-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7420668",
+      "company": "datadog",
+      "title": "Deal Desk Analyst - Denver",
+      "postedToDiscord": "2026-01-20T06:01:43.313Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7420668/?gh_jid=7420668",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b55ca0dd25db403b-2026-01-20-1",
+      "jobId": "b55ca0dd25db403b",
+      "company": "datadog",
+      "title": "Director, Pricing and Monetization",
+      "postedToDiscord": "2026-01-20T06:01:43.675Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416680/?gh_jid=7416680",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463050844520976497",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:43.675Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463050852083302472",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:01:45.447Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7416680-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7416680",
+      "company": "datadog",
+      "title": "Director, Pricing and Monetization",
+      "postedToDiscord": "2026-01-20T06:01:46.966Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416680/?gh_jid=7416680",
+      "discordThreadId": "1463050844520976497",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4f7a0d29ab2dfb0f-2026-01-20-1",
+      "jobId": "4f7a0d29ab2dfb0f",
+      "company": "datadog",
+      "title": "Director, Sales Field Enablement - NYC",
+      "postedToDiscord": "2026-01-20T06:01:47.167Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7191464/?gh_jid=7191464",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463050859171545089",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:47.167Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463050866574753893",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:01:48.838Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7191464-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7191464",
+      "company": "datadog",
+      "title": "Director, Sales Field Enablement - NYC",
+      "postedToDiscord": "2026-01-20T06:01:50.358Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7191464/?gh_jid=7191464",
+      "discordThreadId": "1463050859171545089",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "82981d9c3b971f47-2026-01-20-1",
+      "jobId": "82981d9c3b971f47",
+      "company": "datadog",
+      "title": "Datadog for Startups Lead",
+      "postedToDiscord": "2026-01-20T06:01:53.620Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128771/?gh_jid=7128771",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463050886409621628",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:53.620Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7128771-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7128771",
+      "company": "datadog",
+      "title": "Datadog for Startups Lead",
+      "postedToDiscord": "2026-01-20T06:01:55.139Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128771/?gh_jid=7128771",
+      "discordThreadId": "1463050886409621628",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d0fcf90f2db046c3-2026-01-20-1",
+      "jobId": "d0fcf90f2db046c3",
+      "company": "datadog",
+      "title": "Developer Advocate - Community",
+      "postedToDiscord": "2026-01-20T06:01:55.386Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7378592/?gh_jid=7378592",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463050893741265037",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:01:55.386Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463050901081030787",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:01:57.228Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7378592-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7378592",
+      "company": "datadog",
+      "title": "Developer Advocate - Community",
+      "postedToDiscord": "2026-01-20T06:01:58.747Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7378592/?gh_jid=7378592",
+      "discordThreadId": "1463050893741265037",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "244f5f9ee761c0ed-2026-01-20-1",
+      "jobId": "244f5f9ee761c0ed",
+      "company": "datadog",
+      "title": "Director, Technical Product Partnerships",
+      "postedToDiscord": "2026-01-20T06:02:00.296Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416668/?gh_jid=7416668",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463050909146939454",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:02:00.296Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463050921339523275",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:02:01.994Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7416668-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7416668",
+      "company": "datadog",
+      "title": "Director, Technical Product Partnerships",
+      "postedToDiscord": "2026-01-20T06:02:03.513Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416668/?gh_jid=7416668",
+      "discordThreadId": "1463050909146939454",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2781,
+    "totalJobs": 2790,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T05:50:24.377Z",
+      "date": "2026-01-20T06:02:03.513Z",
       "archived": 0
     }
   }
