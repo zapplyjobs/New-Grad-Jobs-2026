@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:43:41.238Z",
+  "lastUpdated": "2026-01-20T23:56:30.690Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4982193008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982193008",
-      "company": "anthropic",
-      "title": "Security Engineer, Detection & Response",
-      "postedToDiscord": "2026-01-13T23:52:39.252Z",
-      "sourceDate": "2025-12-10T13:52:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
-      "discordThreadId": "1460783623211978919",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4958721008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4958721008",
-      "company": "anthropic",
-      "title": "Manager, Digital Native Sales",
-      "postedToDiscord": "2026-01-13T23:52:45.908Z",
-      "sourceDate": "2025-12-10T13:48:52-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
-      "discordThreadId": "1460783650902900830",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5018233008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018233008",
-      "company": "anthropic",
-      "title": "Global Partner Sales Manager, Systems Integrators",
-      "postedToDiscord": "2026-01-13T23:52:49.317Z",
-      "sourceDate": "2025-12-10T13:43:45-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
-      "discordThreadId": "1460783666023108708",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4747937008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4747937008",
-      "company": "anthropic",
-      "title": "Global Partner Lead, Deloitte",
-      "postedToDiscord": "2026-01-13T23:52:52.740Z",
-      "sourceDate": "2025-12-10T13:43:00-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
-      "discordThreadId": "1460783680388595743",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5015692008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015692008",
-      "company": "anthropic",
-      "title": "Global Partner Lead, Accenture",
-      "postedToDiscord": "2026-01-13T23:52:56.299Z",
-      "sourceDate": "2025-12-10T13:42:19-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015692008",
-      "discordThreadId": "1460783694590775361",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4983646008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983646008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive",
-      "postedToDiscord": "2026-01-13T23:52:59.812Z",
-      "sourceDate": "2025-12-10T13:38:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
-      "discordThreadId": "1460783709551722517",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5017903008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017903008",
-      "company": "anthropic",
-      "title": "Engagement Manager, Applied AI",
-      "postedToDiscord": "2026-01-13T23:53:06.343Z",
-      "sourceDate": "2025-12-10T13:39:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
-      "discordThreadId": "1460783737183932576",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-6984450-2026-01-13-1",
-      "jobId": "www-coinbase-com-careers-positions-6984450",
-      "company": "coinbase",
-      "title": "Associate Manager, EDD Compliance",
-      "postedToDiscord": "2026-01-13T23:53:08.242Z",
-      "sourceDate": "2025-12-10T13:34:44-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/6984450?gh_jid=6984450",
-      "discordThreadId": "1460783751977107480",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-7394927-2026-01-13-1",
-      "jobId": "www-coinbase-com-careers-positions-7394927",
-      "company": "coinbase",
-      "title": "Associate Manager, Quality Compliance",
-      "postedToDiscord": "2026-01-13T23:53:10.077Z",
-      "sourceDate": "2025-12-10T13:34:44-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7394927?gh_jid=7394927",
-      "discordThreadId": "1460783760168714350",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-7217423-2026-01-13-1",
-      "jobId": "www-coinbase-com-careers-positions-7217423",
-      "company": "coinbase",
-      "title": "Associate Manager, Residential Security",
-      "postedToDiscord": "2026-01-13T23:53:13.534Z",
-      "sourceDate": "2025-12-10T13:34:44-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7217423?gh_jid=7217423",
-      "discordThreadId": "1460783767248699476",
-      "instanceNumber": 1
-    },
     {
       "id": "www-coinbase-com-careers-positions-6984453-2026-01-14-1",
       "jobId": "www-coinbase-com-careers-positions-6984453",
@@ -36798,14 +36688,384 @@
       "discordThreadId": "1463318081756729374",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "f033fdccd45ed6db-2026-01-20-1",
+      "jobId": "f033fdccd45ed6db",
+      "company": "Gallup",
+      "title": "Senior Backend Developer",
+      "postedToDiscord": "2026-01-20T23:55:56.118Z",
+      "sourceDate": "2025-12-26T16:43:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gallup/jobs/4077186009",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463321177220190342",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:55:56.118Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463321185185173678",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:55:57.863Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gallup-jobs-4077186009-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-gallup-jobs-4077186009",
+      "company": "Gallup",
+      "title": "Senior Backend Developer",
+      "postedToDiscord": "2026-01-20T23:55:59.384Z",
+      "sourceDate": "2025-12-26T16:43:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gallup/jobs/4077186009",
+      "discordThreadId": "1463321177220190342",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a0a4e4472596def1-2026-01-20-1",
+      "jobId": "a0a4e4472596def1",
+      "company": "spotify",
+      "title": "Backend Engineer  - Data Infrastructure",
+      "postedToDiscord": "2026-01-20T23:55:59.624Z",
+      "sourceDate": "2025-12-26T12:49:03.807Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463321192554299569",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:55:59.624Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463321199793803356",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:56:01.300Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-66492688-d5b0-4cf8-b1a4-4a715157edd9-2026-01-20-1",
+      "jobId": "jobs-lever-co-spotify-66492688-d5b0-4cf8-b1a4-4a715157edd9",
+      "company": "spotify",
+      "title": "Backend Engineer  - Data Infrastructure",
+      "postedToDiscord": "2026-01-20T23:56:02.822Z",
+      "sourceDate": "2025-12-26T12:49:03.807Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9",
+      "discordThreadId": "1463321192554299569",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a4f6137a7281d3fe-2026-01-20-1",
+      "jobId": "a4f6137a7281d3fe",
+      "company": "University of Chicago",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-20T23:56:03.040Z",
+      "sourceDate": "2025-12-24T16:29:42.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32386",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463321206609543232",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:03.040Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-analyst_jr32386-2026-01-20-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-data-analyst_jr32386",
+      "company": "University of Chicago",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-20T23:56:04.562Z",
+      "sourceDate": "2025-12-24T16:29:42.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32386",
+      "discordThreadId": "1463321206609543232",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "92ecf37f2d658936-2026-01-20-1",
+      "jobId": "92ecf37f2d658936",
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior RUST Embedded Software Engineer (cleared)",
+      "postedToDiscord": "2026-01-20T23:56:07.804Z",
+      "sourceDate": "2025-12-26T15:47:04.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463321226956116121",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:07.804Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-gdms-icims-com-jobs-69871-junior-rust-embedded-software-engineer-28cleared-29-job-2026-01-20-1",
+      "jobId": "careers-gdms-icims-com-jobs-69871-junior-rust-embedded-software-engineer-28cleared-29-job",
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior RUST Embedded Software Engineer (cleared)",
+      "postedToDiscord": "2026-01-20T23:56:09.325Z",
+      "sourceDate": "2025-12-26T15:47:04.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job",
+      "discordThreadId": "1463321226956116121",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a298a948c0f083d3-2026-01-20-1",
+      "jobId": "a298a948c0f083d3",
+      "company": "ERM",
+      "title": "Consulting Associate - Engineering or Geology",
+      "postedToDiscord": "2026-01-20T23:56:10.935Z",
+      "sourceDate": "2025-12-24T23:30:08.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Engineering-or-Geology_R00028752",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463321234098880563",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:10.935Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463321247231250464",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:56:12.626Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-engineering-or-geology_r00028752-2026-01-20-1",
+      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-engineering-or-geology_r00028752",
+      "company": "ERM",
+      "title": "Consulting Associate - Engineering or Geology",
+      "postedToDiscord": "2026-01-20T23:56:14.145Z",
+      "sourceDate": "2025-12-24T23:30:08.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Engineering-or-Geology_R00028752",
+      "discordThreadId": "1463321234098880563",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d043a70eda2ac052-2026-01-20-1",
+      "jobId": "d043a70eda2ac052",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-20T23:56:17.412Z",
+      "sourceDate": "2026-01-16T20:33:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087051007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463321266793746463",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:17.412Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4087051007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4087051007",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-20T23:56:18.933Z",
+      "sourceDate": "2026-01-16T20:33:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087051007",
+      "discordThreadId": "1463321266793746463",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4135236007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4135236007",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-20T23:56:18.953Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4135236007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4087046007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4087046007",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-20T23:56:18.973Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087046007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4103493007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4103493007",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-20T23:56:18.993Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4103493007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dda5eae8b78fde99-2026-01-20-1",
+      "jobId": "dda5eae8b78fde99",
+      "company": "verkada",
+      "title": "Account Executive, Select, Austin",
+      "postedToDiscord": "2026-01-20T23:56:19.202Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4248001007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463321274666451139",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:19.202Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4248001007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4248001007",
+      "company": "verkada",
+      "title": "Account Executive, Select, Austin",
+      "postedToDiscord": "2026-01-20T23:56:20.722Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4248001007",
+      "discordThreadId": "1463321274666451139",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a9a3c1247563d8b4-2026-01-20-1",
+      "jobId": "a9a3c1247563d8b4",
+      "company": "verkada",
+      "title": "Channel Development Representative, South East (Tampa)",
+      "postedToDiscord": "2026-01-20T23:56:20.979Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950605007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463321282039775273",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:20.979Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4950605007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4950605007",
+      "company": "verkada",
+      "title": "Channel Development Representative, South East (Tampa)",
+      "postedToDiscord": "2026-01-20T23:56:22.500Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950605007",
+      "discordThreadId": "1463321282039775273",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "cc7aac65ead3076a-2026-01-20-1",
+      "jobId": "cc7aac65ead3076a",
+      "company": "PURE Insurance",
+      "title": "Technology Analyst Program",
+      "postedToDiscord": "2026-01-20T23:56:22.700Z",
+      "sourceDate": "2025-12-24T03:05:15.000Z",
+      "sourceUrl": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463321289488859421",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:22.700Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463321296548004120",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:56:24.373Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "pureinsurance-wd5-myworkdayjobs-com-pure-job-warren-technology-analyst-program-september-2026_r2561-2026-01-20-1",
+      "jobId": "pureinsurance-wd5-myworkdayjobs-com-pure-job-warren-technology-analyst-program-september-2026_r2561",
+      "company": "PURE Insurance",
+      "title": "Technology Analyst Program",
+      "postedToDiscord": "2026-01-20T23:56:25.892Z",
+      "sourceDate": "2025-12-24T03:05:15.000Z",
+      "sourceUrl": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561",
+      "discordThreadId": "1463321289488859421",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "140481eac4d53461-2026-01-20-1",
+      "jobId": "140481eac4d53461",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-20T23:56:29.131Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945720007",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463321316194259070",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:56:29.131Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4945720007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4945720007",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-20T23:56:30.651Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945720007",
+      "discordThreadId": "1463321316194259070",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4950450007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4950450007",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-20T23:56:30.671Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950450007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4950449007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4950449007",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-20T23:56:30.690Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950449007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3060,
+    "totalJobs": 3075,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T23:43:41.238Z",
+      "date": "2026-01-20T23:56:30.690Z",
       "archived": 0
     }
   }
