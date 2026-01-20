@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T22:44:10.589Z",
+  "lastUpdated": "2026-01-20T22:56:13.107Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5735077004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5735077004",
-      "company": "figma",
-      "title": "Manager, Inside Sales",
-      "postedToDiscord": "2026-01-13T22:54:54.308Z",
-      "sourceDate": "2025-12-12T13:22:44-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735077004?gh_jid=5735077004",
-      "discordThreadId": "1460769090980548760",
-      "instanceNumber": 1
-    },
-    {
-      "id": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1-2026-01-13-1",
-      "jobId": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1",
-      "company": "State Street",
-      "title": "Software Engineer 1 - Web Frameworks - Officer",
-      "postedToDiscord": "2026-01-13T22:55:00.931Z",
-      "sourceDate": "2025-12-12T17:11:16.000Z",
-      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1",
-      "discordThreadId": "1460769118033809549",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983-2026-01-13-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer - Ent",
-      "postedToDiscord": "2026-01-13T22:55:04.362Z",
-      "sourceDate": "2025-12-11T23:44:58.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983",
-      "discordThreadId": "1460769132441243813",
-      "instanceNumber": 1
-    },
-    {
-      "id": "howard-wd1-myworkdayjobs-com-hu-job-downing-hall-college-of-engineering-research-scientist-post-doc-research-fellow-_jr107708-1-2026-01-13-1",
-      "jobId": "howard-wd1-myworkdayjobs-com-hu-job-downing-hall-college-of-engineering-research-scientist-post-doc-research-fellow-_jr107708-1",
-      "company": "Howard University",
-      "title": "Research Scientist - Post Doc Research Fellow",
-      "postedToDiscord": "2026-01-13T22:55:08.070Z",
-      "sourceDate": "2025-12-11T23:21:11.000Z",
-      "sourceUrl": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/Research-Scientist--Post-Doc-Research-Fellow-_JR107708-1",
-      "discordThreadId": "1460769147083559025",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply-2026-01-13-1",
-      "jobId": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply",
-      "company": "Sensor Tower",
-      "title": "Product Analyst - Digital Advertising",
-      "postedToDiscord": "2026-01-13T22:55:14.794Z",
-      "sourceDate": "2025-12-12T16:16:40.000Z",
-      "sourceUrl": "https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply",
-      "discordThreadId": "1460769175600631924",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74-2026-01-13-1",
-      "jobId": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74",
-      "company": "spotify",
-      "title": "Associate Director, Programmatic Platform Operations",
-      "postedToDiscord": "2026-01-13T22:55:18.242Z",
-      "sourceDate": "2025-12-12T15:00:00.855Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/1c59f08a-6f03-451e-a4d5-966684acef74",
-      "discordThreadId": "1460769190808916011",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-and-soc-modelling-architect-new-college-grad-2026_jr2009934-2026-01-13-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-and-soc-modelling-architect-new-college-grad-2026_jr2009934",
-      "company": "NVIDIA",
-      "title": "GPU and SoC Modelling Architect – New College Grad",
-      "postedToDiscord": "2026-01-13T22:55:21.743Z",
-      "sourceDate": "2025-12-12T02:18:54.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934",
-      "discordThreadId": "1460769205082263799",
-      "instanceNumber": 1
-    },
-    {
-      "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711-2026-01-13-1",
-      "jobId": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711",
-      "company": "RELX",
-      "title": "Data Analyst",
-      "postedToDiscord": "2026-01-13T22:55:28.583Z",
-      "sourceDate": "2025-12-12T07:14:29.000Z",
-      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711",
-      "discordThreadId": "1460769233167188172",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719-2026-01-13-1",
-      "jobId": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719",
-      "company": "Ryan Specialty",
-      "title": "Business Intelligence Analyst",
-      "postedToDiscord": "2026-01-13T22:55:31.922Z",
-      "sourceDate": "2025-12-11T23:48:01.000Z",
-      "sourceUrl": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719",
-      "discordThreadId": "1460769248732381355",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4986738008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4986738008",
-      "company": "anthropic",
-      "title": "Segment Marketing Manager, Startups",
-      "postedToDiscord": "2026-01-13T22:55:38.422Z",
-      "sourceDate": "2025-12-12T00:33:45-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986738008",
-      "discordThreadId": "1460769275638845440",
-      "instanceNumber": 1
-    },
     {
       "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generalist-embodied-agent-research-new-college-grad-2026_jr2009294-2026-01-13-1",
       "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generalist-embodied-agent-research-new-college-grad-2026_jr2009294",
@@ -35887,14 +35777,377 @@
       "discordThreadId": null,
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a2b0d531e1913c61-2026-01-20-1",
+      "jobId": "a2b0d531e1913c61",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Houston, TX",
+      "postedToDiscord": "2026-01-20T22:55:43.621Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463306025838051479",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:55:43.621Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6685499-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6685499",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Houston, TX",
+      "postedToDiscord": "2026-01-20T22:55:45.155Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499",
+      "discordThreadId": "1463306025838051479",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a22ff0985e68a4da-2026-01-20-1",
+      "jobId": "a22ff0985e68a4da",
+      "company": "samsara",
+      "title": "Customer Success Associate",
+      "postedToDiscord": "2026-01-20T22:55:48.473Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306046222106624",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:55:48.473Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463306053666996410",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:55:50.278Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7291579-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7291579",
+      "company": "samsara",
+      "title": "Customer Success Associate",
+      "postedToDiscord": "2026-01-20T22:55:51.800Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579",
+      "discordThreadId": "1463306046222106624",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "61f3fc0c17500c17-2026-01-20-1",
+      "jobId": "61f3fc0c17500c17",
+      "company": "samsara",
+      "title": "Director, Sales Commissions",
+      "postedToDiscord": "2026-01-20T22:55:52.001Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7412433?gh_jid=7412433",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306061179129916",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:55:52.001Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7412433-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7412433",
+      "company": "samsara",
+      "title": "Director, Sales Commissions",
+      "postedToDiscord": "2026-01-20T22:55:53.523Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7412433?gh_jid=7412433",
+      "discordThreadId": "1463306061179129916",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7291576-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7291576",
+      "company": "samsara",
+      "title": "Director, Sales Commissions",
+      "postedToDiscord": "2026-01-20T22:55:53.545Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291576?gh_jid=7291576",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0262778e71d3abb4-2026-01-20-1",
+      "jobId": "0262778e71d3abb4",
+      "company": "samsara",
+      "title": "Enterprise Account Development Representative - Outbound",
+      "postedToDiscord": "2026-01-20T22:55:53.968Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6606593?gh_jid=6606593",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306068959564046",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:55:53.968Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463306076622422207",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:55:55.710Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6606593-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6606593",
+      "company": "samsara",
+      "title": "Enterprise Account Development Representative - Outbound",
+      "postedToDiscord": "2026-01-20T22:55:57.230Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6606593?gh_jid=6606593",
+      "discordThreadId": "1463306068959564046",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "843fdf1f9d9b7c7f-2026-01-20-1",
+      "jobId": "843fdf1f9d9b7c7f",
+      "company": "samsara",
+      "title": "Enterprise Business Development Representative- Outbound",
+      "postedToDiscord": "2026-01-20T22:55:57.683Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6606592?gh_jid=6606592",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306084411248670",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:55:57.683Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463306092153933855",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:55:59.372Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6606592-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6606592",
+      "company": "samsara",
+      "title": "Enterprise Business Development Representative- Outbound",
+      "postedToDiscord": "2026-01-20T22:56:00.893Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6606592?gh_jid=6606592",
+      "discordThreadId": "1463306084411248670",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b3a5dd1b34e789c1-2026-01-20-1",
+      "jobId": "b3a5dd1b34e789c1",
+      "company": "samsara",
+      "title": "Enterprise Implementation Consultant",
+      "postedToDiscord": "2026-01-20T22:56:01.088Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266711?gh_jid=7266711",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306098969804974",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:56:01.088Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463306106456506390",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:56:02.945Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266711-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266711",
+      "company": "samsara",
+      "title": "Enterprise Implementation Consultant",
+      "postedToDiscord": "2026-01-20T22:56:04.468Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266711?gh_jid=7266711",
+      "discordThreadId": "1463306098969804974",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "94085e935a4eb4bb-2026-01-20-1",
+      "jobId": "94085e935a4eb4bb",
+      "company": "samsara",
+      "title": "Executive Assistant, Go to Market",
+      "postedToDiscord": "2026-01-20T22:56:04.647Z",
+      "sourceDate": "2026-01-16T13:14:37-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7276285?gh_jid=7276285",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306114358706312",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:56:04.647Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7276285-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7276285",
+      "company": "samsara",
+      "title": "Executive Assistant, Go to Market",
+      "postedToDiscord": "2026-01-20T22:56:06.168Z",
+      "sourceDate": "2026-01-16T13:14:37-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7276285?gh_jid=7276285",
+      "discordThreadId": "1463306114358706312",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1a72a69f9551ebea-2026-01-20-1",
+      "jobId": "1a72a69f9551ebea",
+      "company": "samsara",
+      "title": "Hardware Solutions Firmware Engineer",
+      "postedToDiscord": "2026-01-20T22:56:06.391Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306121589690442",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:56:06.391Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266419-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266419",
+      "company": "samsara",
+      "title": "Hardware Solutions Firmware Engineer",
+      "postedToDiscord": "2026-01-20T22:56:07.914Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419",
+      "discordThreadId": "1463306121589690442",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2440135d2c4cd5d7-2026-01-20-1",
+      "jobId": "2440135d2c4cd5d7",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-20T22:56:08.116Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605517?gh_jid=6605517",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306128757887179",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:56:08.116Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463306135900520498",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:56:09.809Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6605517-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6605517",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-20T22:56:11.331Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605517?gh_jid=6605517",
+      "discordThreadId": "1463306128757887179",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7195406-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7195406",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-20T22:56:11.351Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7195406?gh_jid=7195406",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7195410-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7195410",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-20T22:56:11.371Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7195410?gh_jid=7195410",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7195408-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7195408",
+      "company": "samsara",
+      "title": "Manager Account Development, Relocation to Atlanta",
+      "postedToDiscord": "2026-01-20T22:56:11.395Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7195408?gh_jid=7195408",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "eab4a93b9b249632-2026-01-20-1",
+      "jobId": "eab4a93b9b249632",
+      "company": "samsara",
+      "title": "Manager II, Shipping and Receiving Logistics",
+      "postedToDiscord": "2026-01-20T22:56:11.585Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266313?gh_jid=7266313",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463306143354064918",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:56:11.585Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7266313-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7266313",
+      "company": "samsara",
+      "title": "Manager II, Shipping and Receiving Logistics",
+      "postedToDiscord": "2026-01-20T22:56:13.107Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266313?gh_jid=7266313",
+      "discordThreadId": "1463306143354064918",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3006,
+    "totalJobs": 3020,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T22:44:10.589Z",
+      "date": "2026-01-20T22:56:13.107Z",
       "archived": 0
     }
   }
