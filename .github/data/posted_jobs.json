@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T12:32:48.684Z",
+  "lastUpdated": "2026-01-20T12:56:33.918Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
@@ -33830,14 +33830,111 @@
       "discordThreadId": "1463149257891774476",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "b9ba2494d26b0a23-2026-01-20-1",
+      "jobId": "b9ba2494d26b0a23",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Insurance",
+      "postedToDiscord": "2026-01-20T12:56:25.469Z",
+      "sourceDate": "2026-01-14T15:56:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463155205293211727",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:56:25.469Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463155213790613597",
+          "channelType": "location",
+          "postedAt": "2026-01-20T12:56:27.167Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4986288008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4986288008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Insurance",
+      "postedToDiscord": "2026-01-20T12:56:28.687Z",
+      "sourceDate": "2026-01-14T15:56:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008",
+      "discordThreadId": "1463155205293211727",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "674426e73f42c521-2026-01-20-1",
+      "jobId": "674426e73f42c521",
+      "company": "anthropic",
+      "title": "Recruiter, Applied AI",
+      "postedToDiscord": "2026-01-20T12:56:28.944Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4961072008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463155220677787736",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:56:28.944Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4961072008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4961072008",
+      "company": "anthropic",
+      "title": "Recruiter, Applied AI",
+      "postedToDiscord": "2026-01-20T12:56:30.467Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4961072008",
+      "discordThreadId": "1463155220677787736",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6b7e31ceefc7c6eb-2026-01-20-1",
+      "jobId": "6b7e31ceefc7c6eb",
+      "company": "duolingo",
+      "title": "Head of Brand Campaigns",
+      "postedToDiscord": "2026-01-20T12:56:30.679Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8224301002?gh_jid=8224301002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463155228508557545",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:56:30.679Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463155235655778364",
+          "channelType": "location",
+          "postedAt": "2026-01-20T12:56:32.398Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8224301002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8224301002",
+      "company": "duolingo",
+      "title": "Head of Brand Campaigns",
+      "postedToDiscord": "2026-01-20T12:56:33.918Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8224301002?gh_jid=8224301002",
+      "discordThreadId": "1463155228508557545",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2921,
+    "totalJobs": 2927,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T12:32:48.684Z",
+      "date": "2026-01-20T12:56:33.918Z",
       "archived": 0
     }
   }
