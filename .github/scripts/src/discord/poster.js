@@ -153,15 +153,7 @@ function buildJobEmbed(job) {
     });
   }
 
-  // Add cleaned description preview if available
-  const cleanedDescription = cleanJobDescription(job.job_description, job.description_format);
-  if (cleanedDescription) {
-    embed.addFields({
-      name: '📋 Description',
-      value: cleanedDescription,
-      inline: false
-    });
-  }
+  // Description field removed for cleaner, more concise job posts
 
   return embed;
 }
