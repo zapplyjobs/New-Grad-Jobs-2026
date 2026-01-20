@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:13:55.197Z",
+  "lastUpdated": "2026-01-20T10:30:27.252Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -32849,14 +32849,258 @@
       "discordThreadId": "1463114296861917318",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "0f887c9dcf2a3cc4-2026-01-20-1",
+      "jobId": "0f887c9dcf2a3cc4",
+      "company": "datadog",
+      "title": "Staff Statistics Engineer - Feature Flagging and Experimentation",
+      "postedToDiscord": "2026-01-20T10:30:10.351Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7144531/?gh_jid=7144531",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463118399549866108",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:30:10.351Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463118407992872961",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:30:12.076Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7144531-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7144531",
+      "company": "datadog",
+      "title": "Staff Statistics Engineer - Feature Flagging and Experimentation",
+      "postedToDiscord": "2026-01-20T10:30:13.598Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7144531/?gh_jid=7144531",
+      "discordThreadId": "1463118399549866108",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "aeb8cd8b79aed6ad-2026-01-20-1",
+      "jobId": "aeb8cd8b79aed6ad",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:16.851Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463118428041773198",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:30:16.851Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463118435369091168",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:30:18.527Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7131363-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7131363",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.052Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363",
+      "discordThreadId": "1463118428041773198",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7131386-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7131386",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.072Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6522755-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6522755",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.092Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6522755/?gh_jid=6522755",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7178512-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7178512",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.111Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7178512/?gh_jid=7178512",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6522720-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6522720",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.130Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6242929-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6242929",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.148Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7057036-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7057036",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.168Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7117086-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7117086",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:30:20.186Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c48cfbbf03dc82ae-2026-01-20-1",
+      "jobId": "c48cfbbf03dc82ae",
+      "company": "datadog",
+      "title": "Strategic Account Executive (FED)",
+      "postedToDiscord": "2026-01-20T10:30:20.393Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463118443191468279",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:30:20.393Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463118450707665060",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:30:22.240Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7155359-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7155359",
+      "company": "datadog",
+      "title": "Strategic Account Executive (FED)",
+      "postedToDiscord": "2026-01-20T10:30:23.759Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359",
+      "discordThreadId": "1463118443191468279",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fb26f6d6d19da1f4-2026-01-20-1",
+      "jobId": "fb26f6d6d19da1f4",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-20T10:30:23.978Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463118457951359140",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:30:23.978Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463118465337524255",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:30:25.692Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6430945-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6430945",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-20T10:30:27.213Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945",
+      "discordThreadId": "1463118457951359140",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7077431-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7077431",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-20T10:30:27.233Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7077431/?gh_jid=7077431",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7314667-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7314667",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-20T10:30:27.252Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2857,
+    "totalJobs": 2874,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T10:13:55.197Z",
+      "date": "2026-01-20T10:30:27.252Z",
       "archived": 0
     }
   }
