@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:31:59.378Z",
+  "lastUpdated": "2026-01-20T11:44:55.409Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007",
-      "company": "BlueLabs Analytics",
-      "title": "Analytics Associate 1",
-      "postedToDiscord": "2026-01-13T11:39:12.226Z",
-      "sourceDate": "2025-12-18T23:59:39.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8124953002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8124953002",
-      "company": "airtable",
-      "title": "Data Engineer",
-      "postedToDiscord": "2026-01-13T11:39:15.676Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8124953002",
-      "discordThreadId": "1460599058757587003",
-      "instanceNumber": 1
-    },
-    {
-      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939-2026-01-13-1",
-      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939",
-      "company": "Q2",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-13T11:39:22.178Z",
-      "sourceDate": "2025-12-18T23:52:07.000Z",
-      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
-      "discordThreadId": "1460599086775537755",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5575026004",
@@ -33485,14 +33452,101 @@
       "discordThreadId": "1463133951051829349",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "bd7b0ce48a593b3e-2026-01-20-1",
+      "jobId": "bd7b0ce48a593b3e",
+      "company": "duolingo",
+      "title": "Motion Design Animator, Thrive Intern",
+      "postedToDiscord": "2026-01-20T11:44:50.427Z",
+      "sourceDate": "2026-01-07T16:06:47-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318061002?gh_jid=8318061002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463137191986466971",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:44:50.427Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8318061002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8318061002",
+      "company": "duolingo",
+      "title": "Motion Design Animator, Thrive Intern",
+      "postedToDiscord": "2026-01-20T11:44:51.968Z",
+      "sourceDate": "2026-01-07T16:06:47-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318061002?gh_jid=8318061002",
+      "discordThreadId": "1463137191986466971",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e72004f4d748ba75-2026-01-20-1",
+      "jobId": "e72004f4d748ba75",
+      "company": "duolingo",
+      "title": "Illustrator, Thrive Intern",
+      "postedToDiscord": "2026-01-20T11:44:52.174Z",
+      "sourceDate": "2026-01-07T16:06:14-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8303848002?gh_jid=8303848002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463137199024373774",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:44:52.174Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8303848002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8303848002",
+      "company": "duolingo",
+      "title": "Illustrator, Thrive Intern",
+      "postedToDiscord": "2026-01-20T11:44:53.699Z",
+      "sourceDate": "2026-01-07T16:06:14-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8303848002?gh_jid=8303848002",
+      "discordThreadId": "1463137199024373774",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c4c5d9fbd43d6480-2026-01-20-1",
+      "jobId": "c4c5d9fbd43d6480",
+      "company": "discord",
+      "title": "Group Product Marketing Manager, Developer Commerce Solutions",
+      "postedToDiscord": "2026-01-20T11:44:53.881Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8338009002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463137206456553618",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:44:53.881Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8338009002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8338009002",
+      "company": "discord",
+      "title": "Group Product Marketing Manager, Developer Commerce Solutions",
+      "postedToDiscord": "2026-01-20T11:44:55.408Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8338009002",
+      "discordThreadId": "1463137206456553618",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2900,
+    "totalJobs": 2903,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T11:31:59.378Z",
+      "date": "2026-01-20T11:44:55.409Z",
       "archived": 0
     }
   }
