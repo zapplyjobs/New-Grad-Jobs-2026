@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T12:16:32.680Z",
+  "lastUpdated": "2026-01-20T12:32:48.684Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
@@ -33733,14 +33733,111 @@
       "discordThreadId": "1463145156390682668",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "4182d45f3e238305-2026-01-20-1",
+      "jobId": "4182d45f3e238305",
+      "company": "duolingo",
+      "title": "Director of Product Management, Learning",
+      "postedToDiscord": "2026-01-20T12:32:40.256Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8326489002?gh_jid=8326489002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463149228732977307",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:32:40.256Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463149235602981105",
+          "channelType": "location",
+          "postedAt": "2026-01-20T12:32:41.974Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8326489002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8326489002",
+      "company": "duolingo",
+      "title": "Director of Product Management, Learning",
+      "postedToDiscord": "2026-01-20T12:32:43.496Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8326489002?gh_jid=8326489002",
+      "discordThreadId": "1463149228732977307",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8800b400fee1e031-2026-01-20-1",
+      "jobId": "8800b400fee1e031",
+      "company": "duolingo",
+      "title": "Engineering Manager, Design Accelerator",
+      "postedToDiscord": "2026-01-20T12:32:43.727Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8235305002?gh_jid=8235305002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463149243148669126",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:32:43.727Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463149250606010390",
+          "channelType": "location",
+          "postedAt": "2026-01-20T12:32:45.434Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8235305002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8235305002",
+      "company": "duolingo",
+      "title": "Engineering Manager, Design Accelerator",
+      "postedToDiscord": "2026-01-20T12:32:46.958Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8235305002?gh_jid=8235305002",
+      "discordThreadId": "1463149243148669126",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "17c646832b4e04d9-2026-01-20-1",
+      "jobId": "17c646832b4e04d9",
+      "company": "discord",
+      "title": "Rust/C++ Senior Software Engineer",
+      "postedToDiscord": "2026-01-20T12:32:47.164Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7966411002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463149257891774476",
+          "channelType": "category",
+          "postedAt": "2026-01-20T12:32:47.164Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-7966411002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-7966411002",
+      "company": "discord",
+      "title": "Rust/C++ Senior Software Engineer",
+      "postedToDiscord": "2026-01-20T12:32:48.683Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7966411002",
+      "discordThreadId": "1463149257891774476",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2915,
+    "totalJobs": 2921,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T12:16:32.680Z",
+      "date": "2026-01-20T12:32:48.684Z",
       "archived": 0
     }
   }
