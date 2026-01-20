@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T00:27:50.018Z",
+  "lastUpdated": "2026-01-20T00:55:40.117Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8328560002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8328560002",
-      "company": "discord",
-      "title": "Software Engineer - Realtime Infrastructure",
-      "postedToDiscord": "2026-01-13T00:43:03.506Z",
-      "sourceDate": "2026-01-05T12:46:31-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328560002",
-      "discordThreadId": "1460433919953338559",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7512048-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7512048",
-      "company": "reddit",
-      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
-      "postedToDiscord": "2026-01-13T00:43:10.063Z",
-      "sourceDate": "2026-01-05T12:27:34-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7512048",
-      "discordThreadId": "1460433947652526162",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7512046-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7512046",
-      "company": "reddit",
-      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
-      "postedToDiscord": "2026-01-13T00:43:10.070Z",
-      "sourceDate": "2026-01-05T12:27:02-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7512046",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7414834-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414834",
-      "company": "reddit",
-      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
-      "postedToDiscord": "2026-01-13T00:43:10.076Z",
-      "sourceDate": "2026-01-05T12:25:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414834",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-captivation-jobs-5054344008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-captivation-jobs-5054344008",
-      "company": "Captivation",
-      "title": "Software Engineer - Java/AI/ML/Kubernetes",
-      "postedToDiscord": "2026-01-13T00:43:13.806Z",
-      "sourceDate": "2026-01-05T16:31:54.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/captivation/jobs/5054344008",
-      "discordThreadId": "1460433962664202455",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4983584008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983584008",
-      "company": "anthropic",
-      "title": "Data Scientist, Marketing",
-      "postedToDiscord": "2026-01-13T00:43:17.271Z",
-      "sourceDate": "2026-01-05T01:34:34-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983584008",
-      "discordThreadId": "1460433977826607313",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7254586-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7254586",
-      "company": "reddit",
-      "title": "Director, Global 3rd Party Partnerships",
-      "postedToDiscord": "2026-01-13T00:43:20.684Z",
-      "sourceDate": "2026-01-04T07:52:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7254586",
-      "discordThreadId": "1460433992657666079",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5042174004-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5042174004",
-      "company": "vercel",
-      "title": "Enterprise Account Executive",
-      "postedToDiscord": "2026-01-13T00:43:27.099Z",
-      "sourceDate": "2026-01-05T12:12:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042174004",
-      "discordThreadId": "1460434019190837593",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041304008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041304008",
-      "company": "anthropic",
-      "title": "Head of Asset & Wealth Management, GTM Sales",
-      "postedToDiscord": "2026-01-13T00:43:30.450Z",
-      "sourceDate": "2026-01-05T08:43:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041304008",
-      "discordThreadId": "1460434033321443339",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041299008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041299008",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Retail & Commercial Banking",
-      "postedToDiscord": "2026-01-13T00:43:33.804Z",
-      "sourceDate": "2026-01-05T08:34:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041299008",
-      "discordThreadId": "1460434047754047509",
-      "instanceNumber": 1
-    },
-    {
-      "id": "crowe-wd12-myworkdayjobs-com-en-us-external_careers-job-chicago-il-usa-netsuite-implementation-consultant_r-50086-2026-01-13-1",
-      "jobId": "crowe-wd12-myworkdayjobs-com-en-us-external_careers-job-chicago-il-usa-netsuite-implementation-consultant_r-50086",
-      "company": "Crowe",
-      "title": "NetSuite Implementation Consultant",
-      "postedToDiscord": "2026-01-13T00:43:40.227Z",
-      "sourceDate": "2026-01-05T16:32:28.000Z",
-      "sourceUrl": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Consultant_R-50086",
-      "discordThreadId": "1460434074635075871",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rollsroyce-wd3-myworkdayjobs-com-intern_graduate-job-indianapolis-xmlname-launch-into-control-system-configuration-management_jr6148423-2026-01-13-1",
-      "jobId": "rollsroyce-wd3-myworkdayjobs-com-intern_graduate-job-indianapolis-xmlname-launch-into-control-system-configuration-management_jr6148423",
-      "company": "Rolls-Royce",
-      "title": "Launch into Control System Configuration Management",
-      "postedToDiscord": "2026-01-13T00:43:43.660Z",
-      "sourceDate": "2026-01-05T07:22:18.000Z",
-      "sourceUrl": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/XMLNAME--Launch--into-Control-System-Configuration-Management_JR6148423",
-      "discordThreadId": "1460434088854032496",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-airtable-jobs-8327916002-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-airtable-jobs-8327916002",
@@ -30702,14 +30570,157 @@
       "sourceUrl": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst_R23270",
       "discordThreadId": "1462966804140785814",
       "instanceNumber": 1
+    },
+    {
+      "id": "university-uber-icims-com-jobs-153663-job-2026-01-20-1",
+      "jobId": "university-uber-icims-com-jobs-153663-job",
+      "company": "Uber",
+      "title": "Graduate 2026 PhD Software Engineer 2 - Consumer Structural Pricing - United States",
+      "postedToDiscord": "2026-01-20T00:54:54.958Z",
+      "sourceDate": "2026-01-15T00:19:27.000Z",
+      "sourceUrl": "https://university-uber.icims.com/jobs/153663/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8377248002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8377248002",
+      "company": "discord",
+      "title": "Senior Software Engineer - Safety Processing",
+      "postedToDiscord": "2026-01-20T00:54:58.664Z",
+      "sourceDate": "2026-01-15T16:42:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8377248002",
+      "discordThreadId": "1462973634074247311",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8377133002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8377133002",
+      "company": "discord",
+      "title": "Senior Software Engineer - Safety Experience",
+      "postedToDiscord": "2026-01-20T00:54:58.682Z",
+      "sourceDate": "2026-01-15T16:42:45-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8377133002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8362697002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8362697002",
+      "company": "discord",
+      "title": "Senior Software Engineer - SEO",
+      "postedToDiscord": "2026-01-20T00:54:58.701Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362697002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062955008",
+      "company": "anthropic",
+      "title": "Applied Safety Research Engineer, Safeguards",
+      "postedToDiscord": "2026-01-20T00:55:02.250Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062955008",
+      "discordThreadId": "1462973649718870120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i_r-48464-2026-01-20-1",
+      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i_r-48464",
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1 - Aws",
+      "postedToDiscord": "2026-01-20T00:55:08.893Z",
+      "sourceDate": "2026-01-15T23:28:29.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-48464",
+      "discordThreadId": "1462973677858721864",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-testnisc-jobs-7542316-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-testnisc-jobs-7542316",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Software Developer - Provisioning",
+      "postedToDiscord": "2026-01-20T00:55:12.663Z",
+      "sourceDate": "2026-01-15T23:17:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/testnisc/jobs/7542316",
+      "discordThreadId": "1462973692199047292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-nisc-jobs-7541232-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-nisc-jobs-7541232",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Software Developer - Provisioning",
+      "postedToDiscord": "2026-01-20T00:55:12.683Z",
+      "sourceDate": "2026-01-15T16:43:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/nisc/jobs/7541232",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5765928004-2026-01-20-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5765928004",
+      "company": "figma",
+      "title": "Customer Enablement Manager - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-20T00:55:19.159Z",
+      "sourceDate": "2026-01-18T17:22:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5765928004?gh_jid=5765928004",
+      "discordThreadId": "1462973721063985348",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7514855-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7514855",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Senior Associate - Product Strategy",
+      "postedToDiscord": "2026-01-20T00:55:22.976Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7514855/?gh_jid=7514855",
+      "discordThreadId": "1462973735542984727",
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7528854-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7528854",
+      "company": "gusto",
+      "title": "Head of Technical Recruiting",
+      "postedToDiscord": "2026-01-20T00:55:29.807Z",
+      "sourceDate": "2026-01-18T18:20:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7528854",
+      "discordThreadId": "1462973764202397903",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-nutanix-job-omxjzfwv-2026-01-20-1",
+      "jobId": "jobs-jobvite-com-nutanix-job-omxjzfwv",
+      "company": "Nutanix",
+      "title": "Member of Technical Staff 2",
+      "postedToDiscord": "2026-01-20T00:55:33.362Z",
+      "sourceDate": "2026-01-18T23:18:22.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/omxjzfwv?nl=1&nl=1&fr=false",
+      "discordThreadId": "1462973780123975681",
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-hioscar-com-careers-7527160-2026-01-20-1",
+      "jobId": "www-hioscar-com-careers-7527160",
+      "company": "Oscar Health",
+      "title": "Data Scientist 1: Network and Contracts",
+      "postedToDiscord": "2026-01-20T00:55:40.116Z",
+      "sourceDate": "2026-01-12T01:09:32.000Z",
+      "sourceUrl": "http://www.hioscar.com/careers/7527160?gh_jid=7527160",
+      "discordThreadId": "1462973808611688501",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2791,
+    "totalJobs": 2792,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T00:27:50.018Z",
+      "date": "2026-01-20T00:55:40.117Z",
       "archived": 0
     }
   }
