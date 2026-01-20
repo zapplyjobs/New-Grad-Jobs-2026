@@ -1,392 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T19:06:01.435Z",
+  "lastUpdated": "2026-01-20T19:32:27.338Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8230656002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8230656002",
-      "company": "airtable",
-      "title": "Senior Enterprise Marketing Manager",
-      "postedToDiscord": "2026-01-13T19:08:02.226Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8230656002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8077213002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8077213002",
-      "company": "airtable",
-      "title": "Senior Growth Marketing Manager, Builders",
-      "postedToDiscord": "2026-01-13T19:08:05.727Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8077213002",
-      "discordThreadId": "1460712011615699174",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-nv5-icims-com-jobs-11006-job-2026-01-13-1",
-      "jobId": "careers-nv5-icims-com-jobs-11006-job",
-      "company": "NV5 Global",
-      "title": "GIS Technician",
-      "postedToDiscord": "2026-01-13T19:08:09.277Z",
-      "sourceDate": "2025-12-18T23:33:34.000Z",
-      "sourceUrl": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460712026534842532",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7695026002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7695026002",
-      "company": "airtable",
-      "title": "Technical Sourcer (Contract)",
-      "postedToDiscord": "2026-01-13T19:08:16.001Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7695026002",
-      "discordThreadId": "1460712054557114480",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-figureai-jobs-4627111006-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-figureai-jobs-4627111006",
-      "company": "Figure",
-      "title": "Helix Data Creator",
-      "postedToDiscord": "2026-01-13T19:08:22.592Z",
-      "sourceDate": "2025-12-18T23:16:48.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
-      "discordThreadId": "1460712082109366396",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-jobvite-com-altamiracorps-job-oms6yfwc-2026-01-13-1",
-      "jobId": "jobs-jobvite-com-altamiracorps-job-oms6yfwc",
-      "company": "Altamira Technologies",
-      "title": "Junior Software Engineer",
-      "postedToDiscord": "2026-01-13T19:08:26.069Z",
-      "sourceDate": "2025-12-18T23:07:45.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
-      "discordThreadId": "1460712097355665561",
-      "instanceNumber": 1
-    },
-    {
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737-2026-01-13-1",
-      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737",
-      "company": "University of Texas - Austin",
-      "title": "Algorithm and Analysis Software Engineer Scientist Associate",
-      "postedToDiscord": "2026-01-13T19:08:30.292Z",
-      "sourceDate": "2025-12-18T23:01:52.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
-      "discordThreadId": "1460712112371269694",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5042025008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042025008",
-      "company": "anthropic",
-      "title": "Software Engineer, Growth",
-      "postedToDiscord": "2026-01-13T19:08:33.823Z",
-      "sourceDate": "2025-12-18T17:58:31-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042025008",
-      "discordThreadId": "1460712129740013660",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8332350002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8332350002",
-      "company": "discord",
-      "title": "Senior Program Manager, Product & Platform Compliance",
-      "postedToDiscord": "2026-01-13T19:08:40.698Z",
-      "sourceDate": "2025-12-18T18:12:23-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332350002",
-      "discordThreadId": "1460712157690724382",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8324819002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8324819002",
-      "company": "discord",
-      "title": "Senior Technical Program Manager, Safety",
-      "postedToDiscord": "2026-01-13T19:08:44.234Z",
-      "sourceDate": "2025-12-18T17:43:47-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8324819002",
-      "discordThreadId": "1460712173096403097",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8245153002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8245153002",
-      "company": "discord",
-      "title": "Staff Software Engineer, Mobile Architecture",
-      "postedToDiscord": "2026-01-13T19:25:49.557Z",
-      "sourceDate": "2025-12-18T16:57:35-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245153002",
-      "discordThreadId": "1460716473734533303",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8245138002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8245138002",
-      "company": "discord",
-      "title": "Senior Software Engineer, Mobile Architecture",
-      "postedToDiscord": "2026-01-13T19:25:53.094Z",
-      "sourceDate": "2025-12-18T16:57:13-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245138002",
-      "discordThreadId": "1460716488406077756",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8187999002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8187999002",
-      "company": "discord",
-      "title": "Director of Engineering, Developer Ecosystem",
-      "postedToDiscord": "2026-01-13T19:25:56.818Z",
-      "sourceDate": "2025-12-18T16:56:48-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8187999002",
-      "discordThreadId": "1460716503610556517",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8177727002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8177727002",
-      "company": "discord",
-      "title": "Software Engineer, Mobile",
-      "postedToDiscord": "2026-01-13T19:26:00.177Z",
-      "sourceDate": "2025-12-18T16:56:28-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
-      "discordThreadId": "1460716518999330969",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8200328002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8200328002",
-      "company": "discord",
-      "title": "Senior Software Engineer- Persistence Infrastructure",
-      "postedToDiscord": "2026-01-13T19:26:03.523Z",
-      "sourceDate": "2025-12-18T16:56:03-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8200328002",
-      "discordThreadId": "1460716533050376438",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5023731008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023731008",
-      "company": "anthropic",
-      "title": "Data Center Strategic Sourcing Lead",
-      "postedToDiscord": "2026-01-13T19:26:09.077Z",
-      "sourceDate": "2025-12-18T15:53:58-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023731008",
-      "discordThreadId": "1460716547109683436",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5023727008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023727008",
-      "company": "anthropic",
-      "title": "Data Center Facility Operations Lead",
-      "postedToDiscord": "2026-01-13T19:26:12.480Z",
-      "sourceDate": "2025-12-18T15:52:04-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023727008",
-      "discordThreadId": "1460716570027229225",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041319008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041319008",
-      "company": "anthropic",
-      "title": "Manager, IT Support & Operations",
-      "postedToDiscord": "2026-01-13T19:26:19.082Z",
-      "sourceDate": "2025-12-18T15:45:28-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041319008",
-      "discordThreadId": "1460716597550252072",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5018203008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018203008",
-      "company": "anthropic",
-      "title": "Microsoft GTM Partnerships Manager, Digital Natives & Startups",
-      "postedToDiscord": "2026-01-13T19:26:22.539Z",
-      "sourceDate": "2025-12-18T14:30:46-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018203008",
-      "discordThreadId": "1460716612175921356",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4973158008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973158008",
-      "company": "anthropic",
-      "title": "Google Partnerships Manager, Digital Native & Startups",
-      "postedToDiscord": "2026-01-13T19:26:29.191Z",
-      "sourceDate": "2025-12-18T14:29:32-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
-      "discordThreadId": "1460716640004997193",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5026097008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026097008",
-      "company": "anthropic",
-      "title": "Software Engineer, Web Product",
-      "postedToDiscord": "2026-01-13T19:31:15.297Z",
-      "sourceDate": "2025-12-18T14:00:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026097008",
-      "discordThreadId": "1460717840293433344",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4613599008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4613599008",
-      "company": "anthropic",
-      "title": "Research Engineer, Reward Models Training",
-      "postedToDiscord": "2026-01-13T19:31:21.806Z",
-      "sourceDate": "2025-12-18T13:16:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613599008",
-      "discordThreadId": "1460717867602284544",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7415003-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7415003",
-      "company": "reddit",
-      "title": "Android Software Engineer, Ad Formats",
-      "postedToDiscord": "2026-01-13T19:31:25.749Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7415003",
-      "discordThreadId": "1460717882055852043",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7414993-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414993",
-      "company": "reddit",
-      "title": "Android Software Engineer, Ad Formats",
-      "postedToDiscord": "2026-01-13T19:31:25.758Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414993",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7415013-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7415013",
-      "company": "reddit",
-      "title": "Android Software Engineer, Ad Formats",
-      "postedToDiscord": "2026-01-13T19:31:25.765Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7415013",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7414842-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414842",
-      "company": "reddit",
-      "title": "iOS Software Engineer, Ad Formats",
-      "postedToDiscord": "2026-01-13T19:31:29.291Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414842",
-      "discordThreadId": "1460717898875146462",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7414849-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7414849",
-      "company": "reddit",
-      "title": "iOS Software Engineer, Ad Formats",
-      "postedToDiscord": "2026-01-13T19:31:29.299Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414849",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7370708-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7370708",
-      "company": "reddit",
-      "title": "Senior Android Engineer, Apps Platform (Performance)",
-      "postedToDiscord": "2026-01-13T19:31:32.811Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7370708",
-      "discordThreadId": "1460717913743822961",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7370711-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7370711",
-      "company": "reddit",
-      "title": "Senior Android Engineer, Apps Platform (Performance)",
-      "postedToDiscord": "2026-01-13T19:31:32.818Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7370711",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7195138-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7195138",
-      "company": "reddit",
-      "title": "Senior Client Account Manager, Large Customer Sales (B2B Tech)",
-      "postedToDiscord": "2026-01-13T19:31:36.324Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7195138",
-      "discordThreadId": "1460717928419823920",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7348119-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7348119",
-      "company": "reddit",
-      "title": "Senior iOS Software Engineer, iOS Platform",
-      "postedToDiscord": "2026-01-13T19:31:40.296Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7348119",
-      "discordThreadId": "1460717943720640756",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7348120-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7348120",
-      "company": "reddit",
-      "title": "Senior iOS Software Engineer, iOS Platform",
-      "postedToDiscord": "2026-01-13T19:31:40.306Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7348120",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7348117-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7348117",
-      "company": "reddit",
-      "title": "Senior iOS Software Engineer, iOS Platform",
-      "postedToDiscord": "2026-01-13T19:31:40.313Z",
-      "sourceDate": "2025-12-18T13:07:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7348117",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-27596acc-85c1-4c45-b4b9-669d1b37e068-2026-01-13-1",
-      "jobId": "jobs-lever-co-spotify-27596acc-85c1-4c45-b4b9-669d1b37e068",
-      "company": "spotify",
-      "title": "Data Scientist  - Business Analytics",
-      "postedToDiscord": "2026-01-13T19:31:43.798Z",
-      "sourceDate": "2025-12-18T16:59:11.283Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/27596acc-85c1-4c45-b4b9-669d1b37e068",
-      "discordThreadId": "1460717959797542912",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4976314008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4976314008",
-      "company": "anthropic",
-      "title": "Nonprofit Account Executive",
-      "postedToDiscord": "2026-01-13T19:31:50.438Z",
-      "sourceDate": "2025-12-18T13:16:04-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
-      "discordThreadId": "1460717987257647200",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5737291004-2026-01-13-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5737291004",
@@ -34099,14 +33714,351 @@
       "discordThreadId": null,
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "1eb8929410884a35-2026-01-20-1",
+      "jobId": "1eb8929410884a35",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Monetization",
+      "postedToDiscord": "2026-01-20T19:31:50.424Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331474002?gh_jid=8331474002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254715688030353",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:31:50.424Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463254723573321871",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:31:52.193Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8331474002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8331474002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Monetization",
+      "postedToDiscord": "2026-01-20T19:31:53.712Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331474002?gh_jid=8331474002",
+      "discordThreadId": "1463254715688030353",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2e8e3dbdbd50f60c-2026-01-20-1",
+      "jobId": "2e8e3dbdbd50f60c",
+      "company": "duolingo",
+      "title": "Senior Site Reliability Engineer",
+      "postedToDiscord": "2026-01-20T19:31:53.911Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8100021002?gh_jid=8100021002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254730548707402",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:31:53.911Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463254738064773209",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:31:55.701Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8100021002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8100021002",
+      "company": "duolingo",
+      "title": "Senior Site Reliability Engineer",
+      "postedToDiscord": "2026-01-20T19:31:57.221Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8100021002?gh_jid=8100021002",
+      "discordThreadId": "1463254730548707402",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a289f8f9948527f6-2026-01-20-1",
+      "jobId": "a289f8f9948527f6",
+      "company": "duolingo",
+      "title": "Social Content Creator, Intern",
+      "postedToDiscord": "2026-01-20T19:31:57.487Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301519002?gh_jid=8301519002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254745681756301",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:31:57.487Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463254752652558542",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:31:59.223Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8301519002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8301519002",
+      "company": "duolingo",
+      "title": "Social Content Creator, Intern",
+      "postedToDiscord": "2026-01-20T19:32:00.747Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301519002?gh_jid=8301519002",
+      "discordThreadId": "1463254745681756301",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f2d4d17b43624826-2026-01-20-1",
+      "jobId": "f2d4d17b43624826",
+      "company": "duolingo",
+      "title": "Staff Android Engineer, Client Architecture",
+      "postedToDiscord": "2026-01-20T19:32:01.187Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8102231002?gh_jid=8102231002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254760625803487",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:32:01.187Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463254768645308476",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:32:02.897Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8102231002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8102231002",
+      "company": "duolingo",
+      "title": "Staff Android Engineer, Client Architecture",
+      "postedToDiscord": "2026-01-20T19:32:04.417Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8102231002?gh_jid=8102231002",
+      "discordThreadId": "1463254760625803487",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2b8702dccccd885f-2026-01-20-1",
+      "jobId": "2b8702dccccd885f",
+      "company": "duolingo",
+      "title": "Staff iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-20T19:32:04.644Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254775767236673",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:32:04.644Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463254783887540255",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:32:06.688Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8322733002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8322733002",
+      "company": "duolingo",
+      "title": "Staff iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-20T19:32:08.208Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002",
+      "discordThreadId": "1463254775767236673",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b8109eb3dfd07b9b-2026-01-20-1",
+      "jobId": "b8109eb3dfd07b9b",
+      "company": "duolingo",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-20T19:32:08.589Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254791995129983",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:32:08.589Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463254799641481392",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:32:10.433Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8200010002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8200010002",
+      "company": "duolingo",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-20T19:32:11.954Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002",
+      "discordThreadId": "1463254791995129983",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0f0e222f197e816d-2026-01-20-1",
+      "jobId": "0f0e222f197e816d",
+      "company": "Sherwin-Williams",
+      "title": "R&D-Technician 1",
+      "postedToDiscord": "2026-01-20T19:32:12.287Z",
+      "sourceDate": "2026-01-19T23:15:54.000Z",
+      "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2601571",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254807455334472",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:32:12.287Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463254816284217419",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:32:14.346Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ejhp-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-2601571-2026-01-20-1",
+      "jobId": "ejhp-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-2601571",
+      "company": "Sherwin-Williams",
+      "title": "R&D-Technician 1",
+      "postedToDiscord": "2026-01-20T19:32:15.867Z",
+      "sourceDate": "2026-01-19T23:15:54.000Z",
+      "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2601571",
+      "discordThreadId": "1463254807455334472",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c679229d67723eea-2026-01-20-1",
+      "jobId": "c679229d67723eea",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-20T19:32:16.118Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245542?gh_jid=7245542",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463254823901073479",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:32:16.118Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245542-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245542",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-20T19:32:17.639Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245542?gh_jid=7245542",
+      "discordThreadId": "1463254823901073479",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245543-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245543",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-20T19:32:17.658Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245543?gh_jid=7245543",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b985a66be297808e-2026-01-20-1",
+      "jobId": "b985a66be297808e",
+      "company": "Jerry",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-20T19:32:20.869Z",
+      "sourceDate": "2026-01-19T23:12:55.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/7c5fb743-5d95-489c-a620-0f6ca62d775c/application",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463254843916292177",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:32:20.869Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-7c5fb743-5d95-489c-a620-0f6ca62d775c-application-2026-01-20-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-7c5fb743-5d95-489c-a620-0f6ca62d775c-application",
+      "company": "Jerry",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-20T19:32:22.389Z",
+      "sourceDate": "2026-01-19T23:12:55.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/7c5fb743-5d95-489c-a620-0f6ca62d775c/application",
+      "discordThreadId": "1463254843916292177",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b18b5e7af525a8df-2026-01-20-1",
+      "jobId": "b18b5e7af525a8df",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-20T19:32:25.818Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4103490007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463254864317517894",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:32:25.818Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4103490007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4103490007",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-20T19:32:27.338Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4103490007",
+      "discordThreadId": "1463254864317517894",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2927,
+    "totalJobs": 2913,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T19:06:01.435Z",
+      "date": "2026-01-20T19:32:27.338Z",
       "archived": 0
     }
   }
