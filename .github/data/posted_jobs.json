@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:17:26.461Z",
+  "lastUpdated": "2026-01-20T11:31:59.378Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -33398,14 +33398,101 @@
       "discordThreadId": "1463130289701388289",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "104cf2637c421a51-2026-01-20-1",
+      "jobId": "104cf2637c421a51",
+      "company": "coinbase",
+      "title": "Supervisor, Customer Success Team (Onsite - Relocation Assistance Available)",
+      "postedToDiscord": "2026-01-20T11:31:51.228Z",
+      "sourceDate": "2026-01-08T11:43:51-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7325242?gh_jid=7325242",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463133923100852228",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:31:51.228Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7325242-2026-01-20-1",
+      "jobId": "www-coinbase-com-careers-positions-7325242",
+      "company": "coinbase",
+      "title": "Supervisor, Customer Success Team (Onsite - Relocation Assistance Available)",
+      "postedToDiscord": "2026-01-20T11:31:52.757Z",
+      "sourceDate": "2026-01-08T11:43:51-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7325242?gh_jid=7325242",
+      "discordThreadId": "1463133923100852228",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a77c3df00c9741c6-2026-01-20-1",
+      "jobId": "a77c3df00c9741c6",
+      "company": "figma",
+      "title": "Account Executive, Enterprise",
+      "postedToDiscord": "2026-01-20T11:31:56.061Z",
+      "sourceDate": "2026-01-08T11:41:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463133943862657158",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:31:56.061Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5426468004-2026-01-20-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5426468004",
+      "company": "figma",
+      "title": "Account Executive, Enterprise",
+      "postedToDiscord": "2026-01-20T11:31:57.585Z",
+      "sourceDate": "2026-01-08T11:41:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004",
+      "discordThreadId": "1463133943862657158",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "458a5bc1a5898322-2026-01-20-1",
+      "jobId": "458a5bc1a5898322",
+      "company": "IXL Learning",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-20T11:31:57.856Z",
+      "sourceDate": "2026-01-08T02:23:49.000Z",
+      "sourceUrl": "https://www.ixl.com/company/jobs?gh_jid=8364765002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463133951051829349",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:31:57.856Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-ixl-com-company-jobs-2026-01-20-1",
+      "jobId": "www-ixl-com-company-jobs",
+      "company": "IXL Learning",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-20T11:31:59.378Z",
+      "sourceDate": "2026-01-08T02:23:49.000Z",
+      "sourceUrl": "https://www.ixl.com/company/jobs?gh_jid=8364765002",
+      "discordThreadId": "1463133951051829349",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2894,
+    "totalJobs": 2900,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T11:17:26.461Z",
+      "date": "2026-01-20T11:31:59.378Z",
       "archived": 0
     }
   }
