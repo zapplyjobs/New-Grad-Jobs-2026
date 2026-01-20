@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:29:58.208Z",
+  "lastUpdated": "2026-01-20T21:43:17.434Z",
   "jobs": [
-    {
-      "id": "nidec-wd1-myworkdayjobs-com-nidec-job-north-americausaminnesotaeden-prairie-mn-sales-pricing-analyst_r0013020-2026-01-13-1",
-      "jobId": "nidec-wd1-myworkdayjobs-com-nidec-job-north-americausaminnesotaeden-prairie-mn-sales-pricing-analyst_r0013020",
-      "company": "Nidec",
-      "title": "Sales & Pricing Analyst",
-      "postedToDiscord": "2026-01-13T21:41:33.102Z",
-      "sourceDate": "2025-12-16T16:12:59.000Z",
-      "sourceUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaEden-Prairie-MN/Sales---Pricing-Analyst_R0013020",
-      "discordThreadId": "1460750629529194759",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-baesystems-com-global-en-job-bae1us119273brexternal-entry-level-software-engineer-2026-01-13-1",
-      "jobId": "jobs-baesystems-com-global-en-job-bae1us119273brexternal-entry-level-software-engineer",
-      "company": "BAE Systems",
-      "title": "Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-13T21:41:39.853Z",
-      "sourceDate": "2025-12-16T16:10:14.000Z",
-      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer",
-      "discordThreadId": "1460750657970507850",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dgx-cloud-performance-engineer-new-grad-2026_jr2009610-2026-01-13-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-dgx-cloud-performance-engineer-new-grad-2026_jr2009610",
-      "company": "NVIDIA",
-      "title": "DGX Cloud Performance Engineer",
-      "postedToDiscord": "2026-01-13T21:41:43.462Z",
-      "sourceDate": "2025-12-16T14:41:10.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Performance-Engineer---New-Grad-2026_JR2009610",
-      "discordThreadId": "1460750673338568955",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-mountain-view-softare-engineer-1-27595-89568852704-2026-01-13-1",
-      "jobId": "jobs-intuit-com-job-mountain-view-softare-engineer-1-27595-89568852704",
-      "company": "Intuit",
-      "title": "Softare Engineer 1",
-      "postedToDiscord": "2026-01-13T21:41:47.129Z",
-      "sourceDate": "2025-12-16T07:16:15.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704",
-      "discordThreadId": "1460750689096437988",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0150489-2026-01-13-1",
-      "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0150489",
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-13T21:41:50.545Z",
-      "sourceDate": "2025-12-15T23:47:56.000Z",
-      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0150489",
-      "discordThreadId": "1460750703915176192",
-      "instanceNumber": 1
-    },
-    {
-      "id": "curtisswright-wd1-myworkdayjobs-com-cw_external_career_site-job-us-md-frederick-nuclear-graduate-engineer_jr10597-2026-01-13-1",
-      "jobId": "curtisswright-wd1-myworkdayjobs-com-cw_external_career_site-job-us-md-frederick-nuclear-graduate-engineer_jr10597",
-      "company": "Curtiss-Wright Corporation",
-      "title": "Graduate Engineer",
-      "postedToDiscord": "2026-01-13T21:41:54.104Z",
-      "sourceDate": "2025-12-15T23:46:22.000Z",
-      "sourceUrl": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR10597",
-      "discordThreadId": "1460750717882073394",
-      "instanceNumber": 1
-    },
-    {
-      "id": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442-2026-01-13-1",
-      "jobId": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442",
-      "company": "Allied Solutions",
-      "title": "Data Integration Analyst 1",
-      "postedToDiscord": "2026-01-13T21:41:57.653Z",
-      "sourceDate": "2025-12-15T23:43:09.000Z",
-      "sourceUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-File-Analyst--On-Site--IN-_R-010442",
-      "discordThreadId": "1460750733359054981",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-tekion-jobs-7560070003-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-tekion-jobs-7560070003",
-      "company": "Tekion",
-      "title": "Implementation Integrations Analyst 1",
-      "postedToDiscord": "2026-01-13T21:42:01.257Z",
-      "sourceDate": "2025-12-15T23:40:54.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/tekion/jobs/7560070003",
-      "discordThreadId": "1460750748143976599",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4985438008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985438008",
-      "company": "anthropic",
-      "title": "Head of Insurance, GTM Sales",
-      "postedToDiscord": "2026-01-13T21:42:08.017Z",
-      "sourceDate": "2025-12-15T20:27:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985438008",
-      "discordThreadId": "1460750775830581533",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-caseguard-jobs-5037116008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-caseguard-jobs-5037116008",
-      "company": "CaseGuard",
-      "title": "Data Annotation Specialist",
-      "postedToDiscord": "2026-01-13T21:42:14.884Z",
-      "sourceDate": "2025-12-15T23:41:57.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
-      "discordThreadId": "1460750804481867837",
-      "instanceNumber": 1
-    },
     {
       "id": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396-2026-01-13-1",
       "jobId": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396",
@@ -35045,14 +34935,329 @@
       "discordThreadId": "1463284438078197967",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "ec1d517051ed6f0a-2026-01-20-1",
+      "jobId": "ec1d517051ed6f0a",
+      "company": "ByteDance",
+      "title": "Research Scientist in Large Language Model Graduate - Seed-LLM",
+      "postedToDiscord": "2026-01-20T21:42:47.829Z",
+      "sourceDate": "2026-01-02T23:18:15.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7561701031874693429/detail",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287672318726155",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:42:47.829Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7561701031874693429-detail-2026-01-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7561701031874693429-detail",
+      "company": "ByteDance",
+      "title": "Research Scientist in Large Language Model Graduate - Seed-LLM",
+      "postedToDiscord": "2026-01-20T21:42:49.358Z",
+      "sourceDate": "2026-01-02T23:18:15.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7561701031874693429/detail",
+      "discordThreadId": "1463287672318726155",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3c40f2819a79ee73-2026-01-20-1",
+      "jobId": "3c40f2819a79ee73",
+      "company": "reddit",
+      "title": "Business Partner, Global Revenue Strategy & Operations ",
+      "postedToDiscord": "2026-01-20T21:42:49.595Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7493062",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287679876730982",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:42:49.595Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463287687342457047",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:42:51.412Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7493062-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7493062",
+      "company": "reddit",
+      "title": "Business Partner, Global Revenue Strategy & Operations ",
+      "postedToDiscord": "2026-01-20T21:42:52.935Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7493062",
+      "discordThreadId": "1463287679876730982",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a705d729696cd70d-2026-01-20-1",
+      "jobId": "a705d729696cd70d",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market (App Dev)",
+      "postedToDiscord": "2026-01-20T21:42:53.116Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413698",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287694888271872",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:42:53.116Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463287702194491434",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:42:55.074Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413698-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413698",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market (App Dev)",
+      "postedToDiscord": "2026-01-20T21:42:56.594Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413698",
+      "discordThreadId": "1463287694888271872",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9d50f55fac433d99-2026-01-20-1",
+      "jobId": "9d50f55fac433d99",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-20T21:42:56.828Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413783",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287710285561917",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:42:56.828Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413783-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413783",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-20T21:42:58.358Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413783",
+      "discordThreadId": "1463287710285561917",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1a226c81897508d3-2026-01-20-1",
+      "jobId": "1a226c81897508d3",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market Sales (B2C Services)",
+      "postedToDiscord": "2026-01-20T21:42:58.794Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413787",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287717587587095",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:42:58.794Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463287725766742158",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:43:00.538Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413787-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413787",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market Sales (B2C Services)",
+      "postedToDiscord": "2026-01-20T21:43:02.059Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413787",
+      "discordThreadId": "1463287717587587095",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3e8ac719e8789b65-2026-01-20-1",
+      "jobId": "3e8ac719e8789b65",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Agency Acquisitions)",
+      "postedToDiscord": "2026-01-20T21:43:02.368Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7435955",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287733005975700",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:43:02.368Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463287740979482841",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:43:04.174Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7435955-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7435955",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Agency Acquisitions)",
+      "postedToDiscord": "2026-01-20T21:43:05.696Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7435955",
+      "discordThreadId": "1463287733005975700",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8f66ed1d58f31918-2026-01-20-1",
+      "jobId": "8f66ed1d58f31918",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Services Acquisitions)",
+      "postedToDiscord": "2026-01-20T21:43:05.909Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7438947",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287748499603659",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:43:05.909Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7438947-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7438947",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Services Acquisitions)",
+      "postedToDiscord": "2026-01-20T21:43:07.431Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7438947",
+      "discordThreadId": "1463287748499603659",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "59aac2c3eb1c4828-2026-01-20-1",
+      "jobId": "59aac2c3eb1c4828",
+      "company": "reddit",
+      "title": "Counsel, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-20T21:43:07.656Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7458129",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463287755747627149",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:43:07.656Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463287763158831248",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:43:09.420Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7458129-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7458129",
+      "company": "reddit",
+      "title": "Counsel, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-20T21:43:10.943Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7458129",
+      "discordThreadId": "1463287755747627149",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "070dd6fd23f55776-2026-01-20-1",
+      "jobId": "070dd6fd23f55776",
+      "company": "anthropic",
+      "title": "Technical Revenue Accounting",
+      "postedToDiscord": "2026-01-20T21:43:14.225Z",
+      "sourceDate": "2026-01-19T22:02:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5077106008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463287783010340968",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:43:14.225Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5077106008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5077106008",
+      "company": "anthropic",
+      "title": "Technical Revenue Accounting",
+      "postedToDiscord": "2026-01-20T21:43:15.746Z",
+      "sourceDate": "2026-01-19T22:02:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5077106008",
+      "discordThreadId": "1463287783010340968",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "31e3075f2d863917-2026-01-20-1",
+      "jobId": "31e3075f2d863917",
+      "company": "anthropic",
+      "title": "Director, Compute Infrastructure Procurement ",
+      "postedToDiscord": "2026-01-20T21:43:15.914Z",
+      "sourceDate": "2026-01-19T21:52:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5077105008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463287790547636369",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:43:15.914Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5077105008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5077105008",
+      "company": "anthropic",
+      "title": "Director, Compute Infrastructure Procurement ",
+      "postedToDiscord": "2026-01-20T21:43:17.433Z",
+      "sourceDate": "2026-01-19T21:52:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5077105008",
+      "discordThreadId": "1463287790547636369",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2964,
+    "totalJobs": 2974,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T21:29:58.208Z",
+      "date": "2026-01-20T21:43:17.434Z",
       "archived": 0
     }
   }
