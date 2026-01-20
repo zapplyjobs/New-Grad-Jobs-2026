@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T09:33:49.194Z",
+  "lastUpdated": "2026-01-20T09:51:27.965Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -32602,14 +32602,130 @@
       "discordThreadId": "1463104212882952235",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "de697f049ed6564d-2026-01-20-1",
+      "jobId": "de697f049ed6564d",
+      "company": "anthropic",
+      "title": "Engineering Manager, Product Platform & Accounts Platform",
+      "postedToDiscord": "2026-01-20T09:51:15.097Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463108605988573282",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:51:15.097Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4889396008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4889396008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Product Platform & Accounts Platform",
+      "postedToDiscord": "2026-01-20T09:51:16.623Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
+      "discordThreadId": "1463108605988573282",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fd6a4b52444c892e-2026-01-20-1",
+      "jobId": "fd6a4b52444c892e",
+      "company": "anthropic",
+      "title": "Partner Solutions Architect, Applied AI",
+      "postedToDiscord": "2026-01-20T09:51:16.889Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463108613718671515",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:51:16.889Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4950664008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4950664008",
+      "company": "anthropic",
+      "title": "Partner Solutions Architect, Applied AI",
+      "postedToDiscord": "2026-01-20T09:51:18.411Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
+      "discordThreadId": "1463108613718671515",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d428c95dda6d59d7-2026-01-20-1",
+      "jobId": "d428c95dda6d59d7",
+      "company": "anthropic",
+      "title": "Global Real Estate Design & Construction Manager",
+      "postedToDiscord": "2026-01-20T09:51:21.655Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463108633792483442",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:51:21.655Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4930182008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4930182008",
+      "company": "anthropic",
+      "title": "Global Real Estate Design & Construction Manager",
+      "postedToDiscord": "2026-01-20T09:51:23.175Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
+      "discordThreadId": "1463108633792483442",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b0d95d19dd9a49ae-2026-01-20-1",
+      "jobId": "b0d95d19dd9a49ae",
+      "company": "anthropic",
+      "title": "Partner Marketing Manager, Cloud Partners",
+      "postedToDiscord": "2026-01-20T09:51:26.442Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463108653887524959",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:51:26.442Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4966206008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4966206008",
+      "company": "anthropic",
+      "title": "Partner Marketing Manager, Cloud Partners",
+      "postedToDiscord": "2026-01-20T09:51:27.965Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
+      "discordThreadId": "1463108653887524959",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2841,
+    "totalJobs": 2849,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T09:33:49.194Z",
+      "date": "2026-01-20T09:51:27.965Z",
       "archived": 0
     }
   }
