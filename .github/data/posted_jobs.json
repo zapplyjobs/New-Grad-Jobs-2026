@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T09:51:27.965Z",
+  "lastUpdated": "2026-01-20T10:13:55.197Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -32718,14 +32718,145 @@
       "discordThreadId": "1463108653887524959",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "ec9a963d8cf101a9-2026-01-20-1",
+      "jobId": "ec9a963d8cf101a9",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors, v0",
+      "postedToDiscord": "2026-01-20T10:13:36.684Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463114232450252954",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:13:36.684Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5729399004-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5729399004",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors, v0",
+      "postedToDiscord": "2026-01-20T10:13:38.210Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
+      "discordThreadId": "1463114232450252954",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "afb6fe61a509a0c6-2026-01-20-1",
+      "jobId": "afb6fe61a509a0c6",
+      "company": "datadog",
+      "title": "Staff Product Designer, Visual Systems",
+      "postedToDiscord": "2026-01-20T10:13:38.453Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496207/?gh_jid=7496207",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463114240238948457",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:13:38.453Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463114248048611504",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:13:40.388Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7496207-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7496207",
+      "company": "datadog",
+      "title": "Staff Product Designer, Visual Systems",
+      "postedToDiscord": "2026-01-20T10:13:41.909Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496207/?gh_jid=7496207",
+      "discordThreadId": "1463114240238948457",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ad8717ba2e66f892-2026-01-20-1",
+      "jobId": "ad8717ba2e66f892",
+      "company": "datadog",
+      "title": "Staff Accountant II - NYC",
+      "postedToDiscord": "2026-01-20T10:13:45.157Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7027505/?gh_jid=7027505",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463114268957343797",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:13:45.157Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463114276075208724",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:13:46.871Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7027505-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7027505",
+      "company": "datadog",
+      "title": "Staff Accountant II - NYC",
+      "postedToDiscord": "2026-01-20T10:13:48.392Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7027505/?gh_jid=7027505",
+      "discordThreadId": "1463114268957343797",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5db29ec8d848769f-2026-01-20-1",
+      "jobId": "5db29ec8d848769f",
+      "company": "datadog",
+      "title": "Staff Product Designer, Bits AI",
+      "postedToDiscord": "2026-01-20T10:13:51.892Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7182907/?gh_jid=7182907",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463114296861917318",
+          "channelType": "category",
+          "postedAt": "2026-01-20T10:13:51.892Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463114304583762005",
+          "channelType": "location",
+          "postedAt": "2026-01-20T10:13:53.677Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7182907-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7182907",
+      "company": "datadog",
+      "title": "Staff Product Designer, Bits AI",
+      "postedToDiscord": "2026-01-20T10:13:55.197Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7182907/?gh_jid=7182907",
+      "discordThreadId": "1463114296861917318",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2849,
+    "totalJobs": 2857,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T09:51:27.965Z",
+      "date": "2026-01-20T10:13:55.197Z",
       "archived": 0
     }
   }
