@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:46:42.309Z",
+  "lastUpdated": "2026-01-20T07:57:28.416Z",
   "jobs": [
-    {
-      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-electrical-and-computer-engineering_2023955-2026-01-13-1",
-      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-assistant-college-of-engineering-electrical-and-computer-engineering_2023955",
-      "company": "Carnegie Mellon University",
-      "title": "Research Assistant - Electrical and Computer Engineering",
-      "postedToDiscord": "2026-01-13T07:52:45.027Z",
-      "sourceDate": "2025-12-19T23:33:47.000Z",
-      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955",
-      "discordThreadId": "1460542054823100550",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon-2026-01-13-1",
-      "jobId": "amazon-jobs-en-jobs-3130180-applied-scientist-i-amazon",
-      "company": "Amazon",
-      "title": "Applied Scientist 1 - Amazon",
-      "postedToDiscord": "2026-01-13T07:52:48.362Z",
-      "sourceDate": "2025-12-19T23:22:04.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3130180/applied-scientist-i-amazon",
-      "discordThreadId": "1460542070245818572",
-      "instanceNumber": 1
-    },
-    {
-      "id": "axomic-bamboohr-com-careers-162-2026-01-13-1",
-      "jobId": "axomic-bamboohr-com-careers-162",
-      "company": "Open Asset",
-      "title": "Support Engineer - Entry-Level",
-      "postedToDiscord": "2026-01-13T07:52:51.754Z",
-      "sourceDate": "2025-12-19T23:15:07.000Z",
-      "sourceUrl": "https://axomic.bamboohr.com/careers/162/",
-      "discordThreadId": "1460542084305125451",
-      "instanceNumber": 1
-    },
-    {
-      "id": "emsl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-2021718-2026-01-13-1",
-      "jobId": "emsl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-2021718",
-      "company": "CTB",
-      "title": "Sales and Product Development Engineer",
-      "postedToDiscord": "2026-01-13T07:52:55.117Z",
-      "sourceDate": "2025-12-19T23:10:46.000Z",
-      "sourceUrl": "https://emsl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2021718",
-      "discordThreadId": "1460542098502586410",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-applovin-jobs-4624972006-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-applovin-jobs-4624972006",
-      "company": "AppLovin",
-      "title": "Data Scientist - Analytics",
-      "postedToDiscord": "2026-01-13T07:53:01.568Z",
-      "sourceDate": "2025-12-19T23:30:37.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/applovin/jobs/4624972006",
-      "discordThreadId": "1460542124981223609",
-      "instanceNumber": 1
-    },
-    {
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r158869-2026-01-13-1",
-      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r158869",
-      "company": "Adobe",
-      "title": "2026 University Graduate - Research Scientist/Engineer",
-      "postedToDiscord": "2026-01-13T07:53:05.111Z",
-      "sourceDate": "2025-12-19T23:14:30.000Z",
-      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R158869",
-      "discordThreadId": "1460542139812413501",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-trustworthy-artificial-intelligence-2_r-089885-1-2026-01-13-1",
-      "jobId": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-trustworthy-artificial-intelligence-2_r-089885-1",
-      "company": "Prairie View A&M University",
-      "title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
-      "postedToDiscord": "2026-01-13T07:53:08.519Z",
-      "sourceDate": "2025-12-19T23:05:45.000Z",
-      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--2_R-089885-1",
-      "discordThreadId": "1460542154521968640",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-ketteringhealth-icims-com-jobs-57144-job-2026-01-13-1",
-      "jobId": "careers-ketteringhealth-icims-com-jobs-57144-job",
-      "company": "Kettering Health",
-      "title": "Business Intelligence Developer - IT Analytics Health",
-      "postedToDiscord": "2026-01-13T07:53:16.523Z",
-      "sourceDate": "2025-12-19T23:21:51.000Z",
-      "sourceUrl": "https://careers-ketteringhealth.icims.com/jobs/57144/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460542181558190257",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5501424004-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5501424004",
-      "company": "vercel",
-      "title": "GSI & Consultancies, Partner Lead",
-      "postedToDiscord": "2026-01-13T07:53:23.123Z",
-      "sourceDate": "2025-12-19T17:30:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5501424004",
-      "discordThreadId": "1460542215389446209",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5042144008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042144008",
-      "company": "anthropic",
-      "title": "Strategic Partner Development, Product Partnerships ",
-      "postedToDiscord": "2026-01-13T07:53:26.525Z",
-      "sourceDate": "2025-12-19T17:03:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042144008",
-      "discordThreadId": "1460542230178693120",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5739572004-2026-01-13-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5739572004",
@@ -32158,14 +32048,208 @@
       "discordThreadId": "1463077249367412861",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "d834e77520f289ba-2026-01-20-1",
+      "jobId": "d834e77520f289ba",
+      "company": "datadog",
+      "title": "Senior Developer Advocate - Generative AI",
+      "postedToDiscord": "2026-01-20T07:57:04.020Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7123951/?gh_jid=7123951",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463079870543167622",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:57:04.020Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7123951-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7123951",
+      "company": "datadog",
+      "title": "Senior Developer Advocate - Generative AI",
+      "postedToDiscord": "2026-01-20T07:57:05.553Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7123951/?gh_jid=7123951",
+      "discordThreadId": "1463079870543167622",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "cc7ee78255aafb24-2026-01-20-1",
+      "jobId": "cc7ee78255aafb24",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (AI)",
+      "postedToDiscord": "2026-01-20T07:57:05.794Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7182750/?gh_jid=7182750",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463079878155964479",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:57:05.794Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7182750-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7182750",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (AI)",
+      "postedToDiscord": "2026-01-20T07:57:07.315Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7182750/?gh_jid=7182750",
+      "discordThreadId": "1463079878155964479",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fd2d451942b05040-2026-01-20-1",
+      "jobId": "fd2d451942b05040",
+      "company": "datadog",
+      "title": "Senior FP&A Analyst - NYC",
+      "postedToDiscord": "2026-01-20T07:57:10.716Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467351/?gh_jid=7467351",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463079898775293972",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:57:10.716Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463079906094219347",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:57:12.405Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7467351-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7467351",
+      "company": "datadog",
+      "title": "Senior FP&A Analyst - NYC",
+      "postedToDiscord": "2026-01-20T07:57:13.929Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467351/?gh_jid=7467351",
+      "discordThreadId": "1463079898775293972",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "461f55f9d40929fa-2026-01-20-1",
+      "jobId": "461f55f9d40929fa",
+      "company": "datadog",
+      "title": "Senior GTM Compensation Partner - NYC",
+      "postedToDiscord": "2026-01-20T07:57:17.600Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7275536/?gh_jid=7275536",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463079926520352790",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:57:17.600Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463079934825201786",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:57:19.508Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7275536-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7275536",
+      "company": "datadog",
+      "title": "Senior GTM Compensation Partner - NYC",
+      "postedToDiscord": "2026-01-20T07:57:21.029Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7275536/?gh_jid=7275536",
+      "discordThreadId": "1463079926520352790",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b6dd8f620100f8c0-2026-01-20-1",
+      "jobId": "b6dd8f620100f8c0",
+      "company": "datadog",
+      "title": "Senior Manager, People Business Partner - NYC",
+      "postedToDiscord": "2026-01-20T07:57:21.566Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7341691/?gh_jid=7341691",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463079943759073424",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:57:21.566Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463079951602548943",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:57:23.370Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7341691-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7341691",
+      "company": "datadog",
+      "title": "Senior Manager, People Business Partner - NYC",
+      "postedToDiscord": "2026-01-20T07:57:24.890Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7341691/?gh_jid=7341691",
+      "discordThreadId": "1463079943759073424",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d0a5d8dce1683631-2026-01-20-1",
+      "jobId": "d0a5d8dce1683631",
+      "company": "datadog",
+      "title": "Senior Product Designer",
+      "postedToDiscord": "2026-01-20T07:57:25.201Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7394266/?gh_jid=7394266",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463079959223341070",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:57:25.201Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463079966852775978",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:57:26.897Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7394266-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7394266",
+      "company": "datadog",
+      "title": "Senior Product Designer",
+      "postedToDiscord": "2026-01-20T07:57:28.416Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7394266/?gh_jid=7394266",
+      "discordThreadId": "1463079959223341070",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2822,
+    "totalJobs": 2824,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T07:46:42.309Z",
+      "date": "2026-01-20T07:57:28.416Z",
       "archived": 0
     }
   }
