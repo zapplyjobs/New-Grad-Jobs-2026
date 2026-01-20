@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:49:08.377Z",
+  "lastUpdated": "2026-01-20T11:02:30.824Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -33219,14 +33219,106 @@
       "discordThreadId": "1463123167852892160",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "8867d33323655b9c-2026-01-20-1",
+      "jobId": "8867d33323655b9c",
+      "company": "brex",
+      "title": "Staff Economist",
+      "postedToDiscord": "2026-01-20T11:02:21.071Z",
+      "sourceDate": "2026-01-08T13:55:36-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8340994002?gh_jid=8340994002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463126498734243942",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:02:21.071Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463126506011099147",
+          "channelType": "location",
+          "postedAt": "2026-01-20T11:02:22.813Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8340994002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8340994002",
+      "company": "brex",
+      "title": "Staff Economist",
+      "postedToDiscord": "2026-01-20T11:02:24.331Z",
+      "sourceDate": "2026-01-08T13:55:36-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8340994002?gh_jid=8340994002",
+      "discordThreadId": "1463126498734243942",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3be085965e08b385-2026-01-20-1",
+      "jobId": "3be085965e08b385",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-20T11:02:27.575Z",
+      "sourceDate": "2026-01-08T13:42:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330487002?gh_jid=8330487002",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463126526496210954",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:02:27.575Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8330487002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8330487002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-20T11:02:29.098Z",
+      "sourceDate": "2026-01-08T13:42:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330487002?gh_jid=8330487002",
+      "discordThreadId": "1463126526496210954",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6ec219befa28977b-2026-01-20-1",
+      "jobId": "6ec219befa28977b",
+      "company": "coinbase",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-20T11:02:29.302Z",
+      "sourceDate": "2026-01-16T17:47:19-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463126533693767743",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:02:29.302Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7268895-2026-01-20-1",
+      "jobId": "www-coinbase-com-careers-positions-7268895",
+      "company": "coinbase",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-20T11:02:30.823Z",
+      "sourceDate": "2026-01-16T17:47:19-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
+      "discordThreadId": "1463126533693767743",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2882,
+    "totalJobs": 2888,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T10:49:08.377Z",
+      "date": "2026-01-20T11:02:30.824Z",
       "archived": 0
     }
   }
