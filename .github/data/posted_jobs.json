@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T13:52:19.133Z",
+  "lastUpdated": "2026-01-20T14:16:39.964Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
@@ -34063,14 +34063,48 @@
       "discordThreadId": "1463169257977413738",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "d00a1c3110979b95-2026-01-20-1",
+      "jobId": "d00a1c3110979b95",
+      "company": "duolingo",
+      "title": "Senior iOS Software Engineer",
+      "postedToDiscord": "2026-01-20T14:16:36.677Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318257002?gh_jid=8318257002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463175384748003439",
+          "channelType": "category",
+          "postedAt": "2026-01-20T14:16:36.677Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463175393514225726",
+          "channelType": "location",
+          "postedAt": "2026-01-20T14:16:38.443Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8318257002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8318257002",
+      "company": "duolingo",
+      "title": "Senior iOS Software Engineer",
+      "postedToDiscord": "2026-01-20T14:16:39.964Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318257002?gh_jid=8318257002",
+      "discordThreadId": "1463175384748003439",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2935,
+    "totalJobs": 2937,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T13:52:19.133Z",
+      "date": "2026-01-20T14:16:39.964Z",
       "archived": 0
     }
   }
