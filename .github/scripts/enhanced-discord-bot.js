@@ -718,7 +718,7 @@ client.once('ready', async () => {
           channelStats.recordPost(channelId, channel.name);
 
           // NEW: Track posting in multi-channel schema
-          dataManager.markAsPostedToChannel(
+          postedJobsManager.markAsPostedToChannel(
             job,
             industryResult.messageId,
             industryResult.channelId,
@@ -793,7 +793,7 @@ client.once('ready', async () => {
                   channelStats.recordPost(locationChannelId, locationChannel.name);
 
                   // NEW: Track posting in multi-channel schema
-                  dataManager.markAsPostedToChannel(
+                  postedJobsManager.markAsPostedToChannel(
                     job,
                     locationResult.messageId,
                     locationResult.channelId,
