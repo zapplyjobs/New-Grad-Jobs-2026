@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T09:17:12.631Z",
+  "lastUpdated": "2026-01-20T09:33:49.194Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -32486,14 +32486,130 @@
       "discordThreadId": "1463100032676008083",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "f97099587a82f377-2026-01-20-1",
+      "jobId": "f97099587a82f377",
+      "company": "anthropic",
+      "title": "Forward Deployed Engineer",
+      "postedToDiscord": "2026-01-20T09:33:39.124Z",
+      "sourceDate": "2026-01-16T15:25:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463104176429990055",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:33:39.124Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4985877008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985877008",
+      "company": "anthropic",
+      "title": "Forward Deployed Engineer",
+      "postedToDiscord": "2026-01-20T09:33:40.650Z",
+      "sourceDate": "2026-01-16T15:25:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+      "discordThreadId": "1463104176429990055",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dab4113221c3af94-2026-01-20-1",
+      "jobId": "dab4113221c3af94",
+      "company": "reddit",
+      "title": "Client Account Manager, Mid-Market (B2B Services)",
+      "postedToDiscord": "2026-01-20T09:33:40.900Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7489210",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463104184575332487",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:33:40.900Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7489210-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7489210",
+      "company": "reddit",
+      "title": "Client Account Manager, Mid-Market (B2B Services)",
+      "postedToDiscord": "2026-01-20T09:33:42.421Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7489210",
+      "discordThreadId": "1463104184575332487",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8af4333f131e54e3-2026-01-20-1",
+      "jobId": "8af4333f131e54e3",
+      "company": "anthropic",
+      "title": "Analytics Data Engineer",
+      "postedToDiscord": "2026-01-20T09:33:45.879Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463104205261770798",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:33:45.879Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4956672008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4956672008",
+      "company": "anthropic",
+      "title": "Analytics Data Engineer",
+      "postedToDiscord": "2026-01-20T09:33:47.401Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
+      "discordThreadId": "1463104205261770798",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a9007131065666cd-2026-01-20-1",
+      "jobId": "a9007131065666cd",
+      "company": "anthropic",
+      "title": "Cross-functional Prompt Engineer",
+      "postedToDiscord": "2026-01-20T09:33:47.669Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463104212882952235",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:33:47.669Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4988308008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4988308008",
+      "company": "anthropic",
+      "title": "Cross-functional Prompt Engineer",
+      "postedToDiscord": "2026-01-20T09:33:49.193Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
+      "discordThreadId": "1463104212882952235",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2833,
+    "totalJobs": 2841,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T09:17:12.631Z",
+      "date": "2026-01-20T09:33:49.194Z",
       "archived": 0
     }
   }
