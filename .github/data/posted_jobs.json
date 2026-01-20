@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:44:55.409Z",
+  "lastUpdated": "2026-01-20T11:55:54.270Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
@@ -33539,14 +33539,106 @@
       "discordThreadId": "1463137206456553618",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "87d3dfa0f3e9592a-2026-01-20-1",
+      "jobId": "87d3dfa0f3e9592a",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
+      "postedToDiscord": "2026-01-20T11:55:41.319Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463139921685647362",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:55:41.319Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4819732008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4819732008",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
+      "postedToDiscord": "2026-01-20T11:55:42.845Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
+      "discordThreadId": "1463139921685647362",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6f237fae3da21a4d-2026-01-20-1",
+      "jobId": "6f237fae3da21a4d",
+      "company": "figma",
+      "title": "Technical Recruiter, Data Science",
+      "postedToDiscord": "2026-01-20T11:55:46.057Z",
+      "sourceDate": "2026-01-07T13:23:07-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5730956004?gh_jid=5730956004",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463139941826691193",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:55:46.057Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5730956004-2026-01-20-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5730956004",
+      "company": "figma",
+      "title": "Technical Recruiter, Data Science",
+      "postedToDiscord": "2026-01-20T11:55:47.582Z",
+      "sourceDate": "2026-01-07T13:23:07-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5730956004?gh_jid=5730956004",
+      "discordThreadId": "1463139941826691193",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f763ccf92d10cae6-2026-01-20-1",
+      "jobId": "f763ccf92d10cae6",
+      "company": "duolingo",
+      "title": "Ad Sales Lead",
+      "postedToDiscord": "2026-01-20T11:55:50.892Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8207887002?gh_jid=8207887002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463139961912954944",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:55:50.892Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463139969462829183",
+          "channelType": "location",
+          "postedAt": "2026-01-20T11:55:52.745Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8207887002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8207887002",
+      "company": "duolingo",
+      "title": "Ad Sales Lead",
+      "postedToDiscord": "2026-01-20T11:55:54.269Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8207887002?gh_jid=8207887002",
+      "discordThreadId": "1463139961912954944",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2903,
+    "totalJobs": 2909,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T11:44:55.409Z",
+      "date": "2026-01-20T11:55:54.270Z",
       "archived": 0
     }
   }
