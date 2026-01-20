@@ -1,425 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T01:41:28.399Z",
+  "lastUpdated": "2026-01-20T03:37:22.611Z",
   "jobs": [
-    {
-      "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-aurora-co-data-processing-technician_r0231593-2026-01-13-1",
-      "jobId": "bah-wd1-myworkdayjobs-com-bah_jobs-job-aurora-co-data-processing-technician_r0231593",
-      "company": "Booz Allen",
-      "title": "Data Processing Technician",
-      "postedToDiscord": "2026-01-13T01:55:41.105Z",
-      "sourceDate": "2026-01-02T23:15:47.000Z",
-      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Data-Processing-Technician_R0231593",
-      "discordThreadId": "1460452197358632971",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8136713002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8136713002",
-      "company": "brex",
-      "title": "Technical Consultant",
-      "postedToDiscord": "2026-01-13T01:55:47.948Z",
-      "sourceDate": "2026-01-02T15:41:01-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8136713002?gh_jid=8136713002",
-      "discordThreadId": "1460452224978260188",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8136710002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8136710002",
-      "company": "brex",
-      "title": "Technical Consultant",
-      "postedToDiscord": "2026-01-13T01:55:47.955Z",
-      "sourceDate": "2026-01-02T15:40:17-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8136710002?gh_jid=8136710002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8136706002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8136706002",
-      "company": "brex",
-      "title": "Technical Consultant",
-      "postedToDiscord": "2026-01-13T01:55:47.961Z",
-      "sourceDate": "2026-01-02T15:40:02-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8136706002?gh_jid=8136706002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8136183002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8136183002",
-      "company": "brex",
-      "title": "Technical Consultant",
-      "postedToDiscord": "2026-01-13T01:55:47.967Z",
-      "sourceDate": "2026-01-02T15:39:47-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8136183002?gh_jid=8136183002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8316344002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8316344002",
-      "company": "brex",
-      "title": "Associate Technical Consultant",
-      "postedToDiscord": "2026-01-13T01:55:51.426Z",
-      "sourceDate": "2026-01-02T15:38:16-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8316344002?gh_jid=8316344002",
-      "discordThreadId": "1460452240790917287",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8316337002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8316337002",
-      "company": "brex",
-      "title": "Associate Technical Consultant",
-      "postedToDiscord": "2026-01-13T01:55:51.432Z",
-      "sourceDate": "2026-01-02T15:38:06-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8316337002?gh_jid=8316337002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8316335002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8316335002",
-      "company": "brex",
-      "title": "Associate Technical Consultant",
-      "postedToDiscord": "2026-01-13T01:55:51.437Z",
-      "sourceDate": "2026-01-02T15:37:53-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8316335002?gh_jid=8316335002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7493062-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7493062",
-      "company": "reddit",
-      "title": "Business Partner, Global Revenue Strategy & Operations ",
-      "postedToDiscord": "2026-01-13T01:55:58.137Z",
-      "sourceDate": "2026-01-02T15:29:24-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7493062",
-      "discordThreadId": "1460452268343165012",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-libertymutual-icims-com-jobs-72739-job-2026-01-13-1",
-      "jobId": "careers-libertymutual-icims-com-jobs-72739-job",
-      "company": "Liberty Mutual",
-      "title": "Analyst 2",
-      "postedToDiscord": "2026-01-13T01:56:01.728Z",
-      "sourceDate": "2026-01-02T16:27:33.000Z",
-      "sourceUrl": "https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460452283253784773",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7435955-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7435955",
-      "company": "reddit",
-      "title": "Client Partner, Mid-Market (Agency Acquisitions)",
-      "postedToDiscord": "2026-01-13T01:56:05.203Z",
-      "sourceDate": "2026-01-02T03:22:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7435955",
-      "discordThreadId": "1460452298538094682",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7438947-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7438947",
-      "company": "reddit",
-      "title": "Client Partner, Mid-Market (Services Acquisitions)",
-      "postedToDiscord": "2026-01-13T01:56:08.836Z",
-      "sourceDate": "2026-01-02T03:22:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7438947",
-      "discordThreadId": "1460452313121423421",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7413698-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413698",
-      "company": "reddit",
-      "title": "Client Account Executive, Mid-Market (App Dev)",
-      "postedToDiscord": "2026-01-13T01:56:12.651Z",
-      "sourceDate": "2026-01-02T03:22:21-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413698",
-      "discordThreadId": "1460452328040693914",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7413783-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413783",
-      "company": "reddit",
-      "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
-      "postedToDiscord": "2026-01-13T01:56:16.284Z",
-      "sourceDate": "2026-01-02T03:22:21-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413783",
-      "discordThreadId": "1460452344796942514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4858247008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4858247008",
-      "company": "anthropic",
-      "title": "Product Manager, Claude Code (Enterprise)",
-      "postedToDiscord": "2026-01-13T01:56:24.341Z",
-      "sourceDate": "2026-01-02T14:55:29-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
-      "discordThreadId": "1460452372252983356",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7413787-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413787",
-      "company": "reddit",
-      "title": "Client Account Executive, Mid-Market Sales (B2C Services)",
-      "postedToDiscord": "2026-01-13T02:41:06.760Z",
-      "sourceDate": "2026-01-02T03:22:21-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413787",
-      "discordThreadId": "1460463628737319005",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-7404504-2026-01-13-1",
-      "jobId": "www-coinbase-com-careers-positions-7404504",
-      "company": "coinbase",
-      "title": "Accounting Intern",
-      "postedToDiscord": "2026-01-13T02:41:10.299Z",
-      "sourceDate": "2026-01-01T16:46:12-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7404504?gh_jid=7404504",
-      "discordThreadId": "1460463644302114899",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7413993-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413993",
-      "company": "reddit",
-      "title": "Senior IT Support Engineer, Snoo Operations & Support (SOS)",
-      "postedToDiscord": "2026-01-13T02:41:14.009Z",
-      "sourceDate": "2026-01-01T11:31:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413993",
-      "discordThreadId": "1460463658848227444",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7488992-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488992",
-      "company": "reddit",
-      "title": "Senior Software Engineer, Android Test Engineering",
-      "postedToDiscord": "2026-01-13T02:41:17.632Z",
-      "sourceDate": "2026-01-01T11:31:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488992",
-      "discordThreadId": "1460463674790772877",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7488991-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488991",
-      "company": "reddit",
-      "title": "Senior Software Engineer, Android Test Engineering",
-      "postedToDiscord": "2026-01-13T02:41:17.641Z",
-      "sourceDate": "2026-01-01T11:31:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488991",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7488986-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488986",
-      "company": "reddit",
-      "title": "Senior Software Engineer, Android Test Engineering",
-      "postedToDiscord": "2026-01-13T02:41:17.647Z",
-      "sourceDate": "2026-01-01T11:31:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488986",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7488988-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488988",
-      "company": "reddit",
-      "title": "Senior Software Engineer, Android Test Engineering",
-      "postedToDiscord": "2026-01-13T02:41:17.653Z",
-      "sourceDate": "2026-01-01T11:31:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488988",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7393201-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7393201",
-      "company": "reddit",
-      "title": "Client Account Manager, Large Customer Sales (Retail)",
-      "postedToDiscord": "2026-01-13T02:41:21.097Z",
-      "sourceDate": "2026-01-01T11:29:24-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7393201",
-      "discordThreadId": "1460463689751728397",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7392617-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7392617",
-      "company": "reddit",
-      "title": "Client Account Manager, Large Customer Sales (Retail)",
-      "postedToDiscord": "2026-01-13T02:41:21.103Z",
-      "sourceDate": "2026-01-01T11:29:24-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7392617",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7458129-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7458129",
-      "company": "reddit",
-      "title": "Counsel, Product & Platform Compliance",
-      "postedToDiscord": "2026-01-13T02:41:24.573Z",
-      "sourceDate": "2026-01-01T11:28:45-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7458129",
-      "discordThreadId": "1460463704259821579",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7379758-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7379758",
-      "company": "reddit",
-      "title": "Senior Client Account Manager, Large Customer Sales (CPG)",
-      "postedToDiscord": "2026-01-13T02:41:28.169Z",
-      "sourceDate": "2026-01-01T11:26:52-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7379758",
-      "discordThreadId": "1460463718872649939",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7377978-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7377978",
-      "company": "reddit",
-      "title": "Senior Client Account Manager, Large Customer Sales (CPG)",
-      "postedToDiscord": "2026-01-13T02:41:28.177Z",
-      "sourceDate": "2026-01-01T11:26:52-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7377978",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7396325-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7396325",
-      "company": "reddit",
-      "title": "Director, Global Sales Enablement",
-      "postedToDiscord": "2026-01-13T02:41:32.112Z",
-      "sourceDate": "2026-01-01T11:25:48-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7396325",
-      "discordThreadId": "1460463734748221462",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7366237-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7366237",
-      "company": "reddit",
-      "title": "Director, Global Sales Enablement",
-      "postedToDiscord": "2026-01-13T03:22:32.439Z",
-      "sourceDate": "2026-01-01T11:25:48-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7366237",
-      "discordThreadId": "1460474054858375302",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7336592-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7336592",
-      "company": "reddit",
-      "title": "Snoo Operations and IT Support (SOS) Manager",
-      "postedToDiscord": "2026-01-13T03:22:37.481Z",
-      "sourceDate": "2026-01-01T11:22:35-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7336592",
-      "discordThreadId": "1460474069781840090",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7426344-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7426344",
-      "company": "reddit",
-      "title": "Senior Client Account Manager, Large Customer Sales (Gaming & Tech)",
-      "postedToDiscord": "2026-01-13T03:22:41.093Z",
-      "sourceDate": "2026-01-01T11:21:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7426344",
-      "discordThreadId": "1460474091080384526",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005",
-      "company": "Chicago Trading Company",
-      "title": "Associate C++ Engineer",
-      "postedToDiscord": "2026-01-13T03:22:45.246Z",
-      "sourceDate": "2025-12-31T23:29:16.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
-      "discordThreadId": "1460474106230341704",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061-2026-01-13-1",
-      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061",
-      "company": "National Renewable Energy Laboratory",
-      "title": "Director's Fellowship Postdoctoral Researcher",
-      "postedToDiscord": "2026-01-13T03:22:51.741Z",
-      "sourceDate": "2026-01-01T07:41:53.000Z",
-      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
-      "discordThreadId": "1460474135900848338",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836-2026-01-13-1",
-      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-silver-lake-north-clinic-oconomowoc-wi-therapist-php-iop_r5836",
-      "company": "Rogers Behavioral Health",
-      "title": "Therapist - PHP/IOP",
-      "postedToDiscord": "2026-01-13T03:22:58.339Z",
-      "sourceDate": "2026-01-01T07:33:50.000Z",
-      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Silver-Lake-North-Clinic-Oconomowoc-WI/Therapist---PHP-IOP_R5836",
-      "discordThreadId": "1460474163444842784",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400-2026-01-13-1",
-      "jobId": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400",
-      "company": "Aramark",
-      "title": "Java City – Hhs - AM Food Service Worker - Western Carolina University",
-      "postedToDiscord": "2026-01-13T03:23:05.244Z",
-      "sourceDate": "2026-01-01T07:14:25.000Z",
-      "sourceUrl": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
-      "discordThreadId": "1460474192121298966",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2026-01-13-1",
-      "jobId": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application",
-      "company": "Citizen Health",
-      "title": "Early Career Software Engineer",
-      "postedToDiscord": "2026-01-13T03:23:08.943Z",
-      "sourceDate": "2025-12-31T23:17:13.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
-      "discordThreadId": "1460474207388307497",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application-2026-01-13-1",
-      "jobId": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application",
-      "company": "Solace Health",
-      "title": "Associate Software Engineer – College Grad 2026",
-      "postedToDiscord": "2026-01-13T03:23:13.963Z",
-      "sourceDate": "2025-12-31T23:13:56.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
-      "discordThreadId": "1460474222999638231",
-      "instanceNumber": 1
-    },
-    {
-      "id": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1-2026-01-13-1",
-      "jobId": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1",
-      "company": "Salesforce",
-      "title": "Software Engineering AMTS – College Grad",
-      "postedToDiscord": "2026-01-13T03:23:17.447Z",
-      "sourceDate": "2025-12-31T18:27:41.000Z",
-      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
-      "discordThreadId": "1460474244160028793",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-89c320f5-2066-44c4-a465-4ce1db5290c5-2026-01-13-1",
       "jobId": "jobs-lever-co-spotify-89c320f5-2066-44c4-a465-4ce1db5290c5",
@@ -30724,14 +30306,329 @@
       "sourceUrl": "https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Financial-Crimes-Data-Analyst-1_R016047",
       "discordThreadId": "1462985334236250184",
       "instanceNumber": 1
+    },
+    {
+      "id": "4ec8f0929e1c043d-2026-01-20-1",
+      "jobId": "4ec8f0929e1c043d",
+      "company": "spotify",
+      "title": "Data Scientist - Growth Analytics (Performance Marketing)",
+      "postedToDiscord": "2026-01-20T03:36:52.274Z",
+      "sourceDate": "2025-10-03T02:39:56.674Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463014389258125467",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:36:52.274Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463014397357064400",
+          "channelType": "location",
+          "postedAt": "2026-01-20T03:36:54.031Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199-2026-01-20-1",
+      "jobId": "jobs-lever-co-spotify-063a7916-cd2b-4e61-a332-30364edf5199",
+      "company": "spotify",
+      "title": "Data Scientist - Growth Analytics (Performance Marketing)",
+      "postedToDiscord": "2026-01-20T03:36:55.549Z",
+      "sourceDate": "2025-10-03T02:39:56.674Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199",
+      "discordThreadId": "1463014389258125467",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d5fd462a9297a0fb-2026-01-20-1",
+      "jobId": "d5fd462a9297a0fb",
+      "company": "spotify",
+      "title": "Research Scientist - Personalization",
+      "postedToDiscord": "2026-01-20T03:36:55.850Z",
+      "sourceDate": "2026-01-09T22:41:51.138Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/a576428e-002b-4b2e-a39d-69c9e61dd927",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463014404801958053",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:36:55.850Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463014413026984020",
+          "channelType": "location",
+          "postedAt": "2026-01-20T03:36:58.082Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-a576428e-002b-4b2e-a39d-69c9e61dd927-2026-01-20-1",
+      "jobId": "jobs-lever-co-spotify-a576428e-002b-4b2e-a39d-69c9e61dd927",
+      "company": "spotify",
+      "title": "Research Scientist - Personalization",
+      "postedToDiscord": "2026-01-20T03:36:59.601Z",
+      "sourceDate": "2026-01-09T22:41:51.138Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/a576428e-002b-4b2e-a39d-69c9e61dd927",
+      "discordThreadId": "1463014404801958053",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "37b0908e611effa8-2026-01-20-1",
+      "jobId": "37b0908e611effa8",
+      "company": "StarCompliance",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-20T03:36:59.877Z",
+      "sourceDate": "2026-01-19T15:11:21.000Z",
+      "sourceUrl": "https://jobs.lever.co/starcompliance/fb9eb934-0c2a-407d-890f-21eff584cd37/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463014422065840169",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:36:59.877Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-starcompliance-fb9eb934-0c2a-407d-890f-21eff584cd37-apply-2026-01-20-1",
+      "jobId": "jobs-lever-co-starcompliance-fb9eb934-0c2a-407d-890f-21eff584cd37-apply",
+      "company": "StarCompliance",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-20T03:37:01.400Z",
+      "sourceDate": "2026-01-19T15:11:21.000Z",
+      "sourceUrl": "https://jobs.lever.co/starcompliance/fb9eb934-0c2a-407d-890f-21eff584cd37/apply",
+      "discordThreadId": "1463014422065840169",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d04d9d718ae2e970-2026-01-20-1",
+      "jobId": "d04d9d718ae2e970",
+      "company": "coinbase",
+      "title": "Associate Manager, Compliance",
+      "postedToDiscord": "2026-01-20T03:37:01.626Z",
+      "sourceDate": "2026-01-12T10:36:23-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7530570?gh_jid=7530570",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463014429644951707",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:37:01.626Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7530570-2026-01-20-1",
+      "jobId": "www-coinbase-com-careers-positions-7530570",
+      "company": "coinbase",
+      "title": "Associate Manager, Compliance",
+      "postedToDiscord": "2026-01-20T03:37:03.149Z",
+      "sourceDate": "2026-01-12T10:36:23-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7530570?gh_jid=7530570",
+      "discordThreadId": "1463014429644951707",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "feebbcf270fa5ef9-2026-01-20-1",
+      "jobId": "feebbcf270fa5ef9",
+      "company": "reddit",
+      "title": "Internal Communications Senior Manager (Global Sales)",
+      "postedToDiscord": "2026-01-20T03:37:03.482Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7510898",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463014436989309018",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:37:03.482Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463014444396449927",
+          "channelType": "location",
+          "postedAt": "2026-01-20T03:37:05.207Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7510898-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7510898",
+      "company": "reddit",
+      "title": "Internal Communications Senior Manager (Global Sales)",
+      "postedToDiscord": "2026-01-20T03:37:06.732Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7510898",
+      "discordThreadId": "1463014436989309018",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "83dd07671295efb7-2026-01-20-1",
+      "jobId": "83dd07671295efb7",
+      "company": "HEXAWARE",
+      "title": "Application Support - Java skills - Associate",
+      "postedToDiscord": "2026-01-20T03:37:10.115Z",
+      "sourceDate": "2026-01-12T10:32:46.000Z",
+      "sourceUrl": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463014465237942272",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:37:10.115Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735-2026-01-20-1",
+      "jobId": "fa-etqo-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-589735",
+      "company": "HEXAWARE",
+      "title": "Application Support - Java skills - Associate",
+      "postedToDiscord": "2026-01-20T03:37:11.634Z",
+      "sourceDate": "2026-01-12T10:32:46.000Z",
+      "sourceUrl": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735",
+      "discordThreadId": "1463014465237942272",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "08d3918e39adfad5-2026-01-20-1",
+      "jobId": "08d3918e39adfad5",
+      "company": "datadog",
+      "title": "Product Solutions Architect 3 - Synthetics",
+      "postedToDiscord": "2026-01-20T03:37:11.866Z",
+      "sourceDate": "2026-01-13T14:01:21-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7519856/?gh_jid=7519856",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463014472292765799",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:37:11.866Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463014479783530516",
+          "channelType": "location",
+          "postedAt": "2026-01-20T03:37:13.627Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7519856-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7519856",
+      "company": "datadog",
+      "title": "Product Solutions Architect 3 - Synthetics",
+      "postedToDiscord": "2026-01-20T03:37:15.146Z",
+      "sourceDate": "2026-01-13T14:01:21-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7519856/?gh_jid=7519856",
+      "discordThreadId": "1463014472292765799",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "693749f7a51587e6-2026-01-20-1",
+      "jobId": "693749f7a51587e6",
+      "company": "datadog",
+      "title": "Senior Director, Product Design",
+      "postedToDiscord": "2026-01-20T03:37:15.444Z",
+      "sourceDate": "2026-01-13T12:27:52-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7376371/?gh_jid=7376371",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463014487366959134",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:37:15.444Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463014494794940609",
+          "channelType": "location",
+          "postedAt": "2026-01-20T03:37:17.237Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7376371-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7376371",
+      "company": "datadog",
+      "title": "Senior Director, Product Design",
+      "postedToDiscord": "2026-01-20T03:37:18.758Z",
+      "sourceDate": "2026-01-13T12:27:52-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7376371/?gh_jid=7376371",
+      "discordThreadId": "1463014487366959134",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5ab6808dd80f18df-2026-01-20-1",
+      "jobId": "5ab6808dd80f18df",
+      "company": "datadog",
+      "title": "Sales Development Representative (Boston)",
+      "postedToDiscord": "2026-01-20T03:37:19.268Z",
+      "sourceDate": "2026-01-12T09:49:43-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463014502969643079",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:37:19.268Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6741571-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6741571",
+      "company": "datadog",
+      "title": "Sales Development Representative (Boston)",
+      "postedToDiscord": "2026-01-20T03:37:20.787Z",
+      "sourceDate": "2026-01-12T09:49:43-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
+      "discordThreadId": "1463014502969643079",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e9386f5ef76316f1-2026-01-20-1",
+      "jobId": "e9386f5ef76316f1",
+      "company": "Sabre",
+      "title": "Web/Digital Specialist 1",
+      "postedToDiscord": "2026-01-20T03:37:21.092Z",
+      "sourceDate": "2026-01-12T11:59:06.000Z",
+      "sourceUrl": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/United-Kingdom---Richmond-Church-Rd/Web-Digital-Specialist-I_JR107155",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463014511010382004",
+          "channelType": "category",
+          "postedAt": "2026-01-20T03:37:21.092Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "sabre-wd1-myworkdayjobs-com-sabrejobs-job-united-kingdom-richmond-church-rd-web-digital-specialist-i_jr107155-2026-01-20-1",
+      "jobId": "sabre-wd1-myworkdayjobs-com-sabrejobs-job-united-kingdom-richmond-church-rd-web-digital-specialist-i_jr107155",
+      "company": "Sabre",
+      "title": "Web/Digital Specialist 1",
+      "postedToDiscord": "2026-01-20T03:37:22.610Z",
+      "sourceDate": "2026-01-12T11:59:06.000Z",
+      "sourceUrl": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/United-Kingdom---Richmond-Church-Rd/Web-Digital-Specialist-I_JR107155",
+      "discordThreadId": "1463014511010382004",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2793,
+    "totalJobs": 2775,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T01:41:28.399Z",
+      "date": "2026-01-20T03:37:22.611Z",
       "archived": 0
     }
   }
