@@ -1,238 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T19:32:27.338Z",
+  "lastUpdated": "2026-01-20T20:04:11.123Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5737291004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5737291004",
-      "company": "figma",
-      "title": "Legal Operations Lead, CLM & Technology",
-      "postedToDiscord": "2026-01-13T19:39:40.939Z",
-      "sourceDate": "2025-12-18T10:56:26-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737291004?gh_jid=5737291004",
-      "discordThreadId": "1460719960908238859",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4831485008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4831485008",
-      "company": "anthropic",
-      "title": "Finance Variable Compensation Lead",
-      "postedToDiscord": "2026-01-13T19:39:44.514Z",
-      "sourceDate": "2025-12-17T23:20:12-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
-      "discordThreadId": "1460719975969853510",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5729141004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5729141004",
-      "company": "figma",
-      "title": "Launch Strategy & Operations - Marketing & Comms",
-      "postedToDiscord": "2026-01-13T19:39:48.204Z",
-      "sourceDate": "2025-12-17T21:34:51-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5729141004?gh_jid=5729141004",
-      "discordThreadId": "1460719990893449402",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5735644004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5735644004",
-      "company": "figma",
-      "title": "Senior Technical Revenue Manager",
-      "postedToDiscord": "2026-01-13T19:39:53.430Z",
-      "sourceDate": "2025-12-17T19:24:43-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735644004?gh_jid=5735644004",
-      "discordThreadId": "1460720006429016238",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-st-paul-clinic-woodbury-mn-therapist-child-adolescent-php-iop_r5758-2026-01-13-1",
-      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-st-paul-clinic-woodbury-mn-therapist-child-adolescent-php-iop_r5758",
-      "company": "Rogers Behavioral Health",
-      "title": "Therapist - Child & Adolescent",
-      "postedToDiscord": "2026-01-13T19:40:00.241Z",
-      "sourceDate": "2025-12-18T16:31:59.000Z",
-      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R5758",
-      "discordThreadId": "1460720040721645764",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a-2026-01-13-1",
-      "jobId": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
-      "company": "spotify",
-      "title": "Senior Manager, Music Label Deal Analysis - FP&A",
-      "postedToDiscord": "2026-01-13T19:40:07.032Z",
-      "sourceDate": "2025-12-18T15:46:29.850Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
-      "discordThreadId": "1460720069284855993",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-roblox-com-jobs-7463634-2026-01-13-1",
-      "jobId": "careers-roblox-com-jobs-7463634",
-      "company": "Roblox",
-      "title": "Data Scientist, Social - PhD Early Career",
-      "postedToDiscord": "2026-01-13T19:40:13.541Z",
-      "sourceDate": "2025-12-18T14:23:56.000Z",
-      "sourceUrl": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634",
-      "discordThreadId": "1460720097705459715",
-      "instanceNumber": 1
-    },
-    {
-      "id": "caci-wd1-myworkdayjobs-com-external-job-us-md-aberdeen-proving-ground-junior-software-engineer_320514-2026-01-13-1",
-      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-md-aberdeen-proving-ground-junior-software-engineer_320514",
-      "company": "CACI",
-      "title": "Junior Software Engineer",
-      "postedToDiscord": "2026-01-13T19:40:20.361Z",
-      "sourceDate": "2025-12-18T14:21:40.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Junior-Software-Engineer_320514",
-      "discordThreadId": "1460720125471883409",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832160-2026-01-13-1",
-      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832160",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-13T19:40:23.899Z",
-      "sourceDate": "2025-12-18T02:19:58.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160",
-      "discordThreadId": "1460720141158584475",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832192-2026-01-13-1",
-      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832192",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-13T19:40:23.908Z",
-      "sourceDate": "2025-12-18T02:16:46.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832192",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89635839264-2026-01-13-1",
-      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89635839264",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-13T19:40:23.916Z",
-      "sourceDate": "2025-12-18T02:16:30.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89635839264",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5734604004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5734604004",
-      "company": "figma",
-      "title": "Community Support Specialist",
-      "postedToDiscord": "2026-01-13T20:00:03.194Z",
-      "sourceDate": "2025-12-18T12:24:30-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004",
-      "discordThreadId": "1460725086507106479",
-      "instanceNumber": 1
-    },
-    {
-      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767-2026-01-13-1",
-      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767",
-      "company": "Walmart",
-      "title": "Senior Data Scientist",
-      "postedToDiscord": "2026-01-13T20:00:10.211Z",
-      "sourceDate": "2025-12-17T23:52:29.000Z",
-      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767",
-      "discordThreadId": "1460725115645071584",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-affirm-jobs-7560430003-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-affirm-jobs-7560430003",
-      "company": "Affirm",
-      "title": "Analyst 1 - Full Stack",
-      "postedToDiscord": "2026-01-13T20:00:14.419Z",
-      "sourceDate": "2025-12-17T23:41:44.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7560430003",
-      "discordThreadId": "1460725131755130952",
-      "instanceNumber": 1
-    },
-    {
-      "id": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333-2026-01-13-1",
-      "jobId": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333",
-      "company": "Oshkosh",
-      "title": "NASCAR Cup Track Support Engineer – Entry Level",
-      "postedToDiscord": "2026-01-13T20:00:21.210Z",
-      "sourceDate": "2025-12-17T23:52:04.000Z",
-      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
-      "discordThreadId": "1460725161668902926",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008-2026-01-13-1",
-      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008",
-      "company": "Auto-Owners Insurance",
-      "title": "Math Major Software Developer",
-      "postedToDiscord": "2026-01-13T20:00:24.967Z",
-      "sourceDate": "2025-12-17T23:48:31.000Z",
-      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
-      "discordThreadId": "1460725178307973274",
-      "instanceNumber": 1
-    },
-    {
-      "id": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273-2026-01-13-1",
-      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273",
-      "company": "Leidos",
-      "title": "Entry-Level Software Developer",
-      "postedToDiscord": "2026-01-13T20:00:28.499Z",
-      "sourceDate": "2025-12-17T23:33:32.000Z",
-      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
-      "discordThreadId": "1460725193419788541",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003",
-      "company": "Major League Baseball",
-      "title": "Data Operator",
-      "postedToDiscord": "2026-01-13T20:00:32.282Z",
-      "sourceDate": "2025-12-17T23:33:14.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7566484003",
-      "discordThreadId": "1460725208796364810",
-      "instanceNumber": 1
-    },
-    {
-      "id": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804-2026-01-13-1",
-      "jobId": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804",
-      "company": "MultiCare Health System",
-      "title": "Software Engineer 1 - Scm",
-      "postedToDiscord": "2026-01-13T20:00:35.808Z",
-      "sourceDate": "2025-12-17T23:30:13.000Z",
-      "sourceUrl": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR65804",
-      "discordThreadId": "1460725224487129109",
-      "instanceNumber": 1
-    },
-    {
-      "id": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3-2026-01-13-1",
-      "jobId": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3",
-      "company": "Harris Computer",
-      "title": "Systems Analyst",
-      "postedToDiscord": "2026-01-13T20:00:42.735Z",
-      "sourceDate": "2025-12-17T23:32:22.000Z",
-      "sourceUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Blair/XMLNAME--Remote--Systems-Analyst_R0038516-3",
-      "discordThreadId": "1460725251456635072",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dairynet-wd1-myworkdayjobs-com-dpccareers-job-la-crosse-wisconsin-right-of-way-technician-entry-or-level-i_jr100804-2026-01-13-1",
-      "jobId": "dairynet-wd1-myworkdayjobs-com-dpccareers-job-la-crosse-wisconsin-right-of-way-technician-entry-or-level-i_jr100804",
-      "company": "Dairyland Power Cooperative",
-      "title": "Right-of-Way Technician - Entry or Level I",
-      "postedToDiscord": "2026-01-13T20:00:49.162Z",
-      "sourceDate": "2025-12-17T23:24:59.000Z",
-      "sourceUrl": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Right-of-Way-Technician----Entry-or-Level-I_JR100804",
-      "discordThreadId": "1460725280724221962",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-mercuryinsurance-icims-com-jobs-5989-job-2026-01-13-1",
       "jobId": "careers-mercuryinsurance-icims-com-jobs-5989-job",
@@ -34051,14 +33820,412 @@
       "discordThreadId": "1463254864317517894",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "485bc3925066ee98-2026-01-20-1",
+      "jobId": "485bc3925066ee98",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-20T20:03:47.064Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245609?gh_jid=7245609",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463262755137261701",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:03:47.064Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245609-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245609",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-20T20:03:48.592Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245609?gh_jid=7245609",
+      "discordThreadId": "1463262755137261701",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7245617-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7245617",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-20T20:03:48.612Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245617?gh_jid=7245617",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0a646b9209512a00-2026-01-20-1",
+      "jobId": "0a646b9209512a00",
+      "company": "samsara",
+      "title": " Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:48.910Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056801?gh_jid=6056801",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463262762653192204",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:03:48.910Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056801-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056801",
+      "company": "samsara",
+      "title": " Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.432Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056801?gh_jid=6056801",
+      "discordThreadId": "1463262762653192204",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7090153-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7090153",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.453Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7090153?gh_jid=7090153",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056802-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056802",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.472Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056802?gh_jid=6056802",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7201306-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7201306",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.491Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7201306?gh_jid=7201306",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7201309-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7201309",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.508Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7201309?gh_jid=7201309",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056794-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056794",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.527Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056794?gh_jid=6056794",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056804-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056804",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.546Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056804?gh_jid=6056804",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056799-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056799",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.565Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056799?gh_jid=6056799",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6157504-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6157504",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.583Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6157504?gh_jid=6157504",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056800-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056800",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.601Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056800?gh_jid=6056800",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-6056795-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-6056795",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-20T20:03:50.619Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056795?gh_jid=6056795",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "25adea846fc3e5da-2026-01-20-1",
+      "jobId": "25adea846fc3e5da",
+      "company": "anthropic",
+      "title": "Engineering Manager, Claude Developer Platform",
+      "postedToDiscord": "2026-01-20T20:03:51.022Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463262771515752615",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:03:51.022Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4721383008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4721383008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Claude Developer Platform",
+      "postedToDiscord": "2026-01-20T20:03:52.542Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
+      "discordThreadId": "1463262771515752615",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "03b655e46ca679b2-2026-01-20-1",
+      "jobId": "03b655e46ca679b2",
+      "company": "anthropic",
+      "title": "Growth Account Executive",
+      "postedToDiscord": "2026-01-20T20:03:52.773Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463262779128414434",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:03:52.773Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4423394008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4423394008",
+      "company": "anthropic",
+      "title": "Growth Account Executive",
+      "postedToDiscord": "2026-01-20T20:03:54.291Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+      "discordThreadId": "1463262779128414434",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8a0ffba239e584a8-2026-01-20-1",
+      "jobId": "8a0ffba239e584a8",
+      "company": "anthropic",
+      "title": "Manager, Growth Account Executive",
+      "postedToDiscord": "2026-01-20T20:03:54.506Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463262786380628060",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:03:54.506Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4976328008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4976328008",
+      "company": "anthropic",
+      "title": "Manager, Growth Account Executive",
+      "postedToDiscord": "2026-01-20T20:03:56.028Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+      "discordThreadId": "1463262786380628060",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2097465c635dea8f-2026-01-20-1",
+      "jobId": "2097465c635dea8f",
+      "company": "anthropic",
+      "title": "Manager, Startup Account Executive",
+      "postedToDiscord": "2026-01-20T20:03:56.217Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463262793389047924",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:03:56.217Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4880880008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4880880008",
+      "company": "anthropic",
+      "title": "Manager, Startup Account Executive",
+      "postedToDiscord": "2026-01-20T20:03:57.739Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+      "discordThreadId": "1463262793389047924",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "271cee153b1c6dee-2026-01-20-1",
+      "jobId": "271cee153b1c6dee",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+      "postedToDiscord": "2026-01-20T20:03:58.067Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988878008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463262800972611786",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:03:58.067Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4988878008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4988878008",
+      "company": "anthropic",
+      "title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+      "postedToDiscord": "2026-01-20T20:03:59.590Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988878008",
+      "discordThreadId": "1463262800972611786",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "74167023b6d9c334-2026-01-20-1",
+      "jobId": "74167023b6d9c334",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Retail Beauty)",
+      "postedToDiscord": "2026-01-20T20:04:02.945Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7454499",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463262821453267018",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:04:02.945Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463262828579393741",
+          "channelType": "location",
+          "postedAt": "2026-01-20T20:04:04.607Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7454499-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7454499",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Retail Beauty)",
+      "postedToDiscord": "2026-01-20T20:04:06.129Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7454499",
+      "discordThreadId": "1463262821453267018",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c0d91c4a9c5c742d-2026-01-20-1",
+      "jobId": "c0d91c4a9c5c742d",
+      "company": "discord",
+      "title": "Product Designer, Notifications",
+      "postedToDiscord": "2026-01-20T20:04:09.602Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359170002",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463262849194393786",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:04:09.602Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8359170002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8359170002",
+      "company": "discord",
+      "title": "Product Designer, Notifications",
+      "postedToDiscord": "2026-01-20T20:04:11.123Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359170002",
+      "discordThreadId": "1463262849194393786",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2913,
+    "totalJobs": 2921,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T19:32:27.338Z",
+      "date": "2026-01-20T20:04:11.123Z",
       "archived": 0
     }
   }
