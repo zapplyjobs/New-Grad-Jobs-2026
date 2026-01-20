@@ -1,271 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:55:29.379Z",
+  "lastUpdated": "2026-01-20T22:30:50.738Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8229815002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8229815002",
-      "company": "brex",
-      "title": "Senior Growth Marketing Manager",
-      "postedToDiscord": "2026-01-13T22:07:47.410Z",
-      "sourceDate": "2025-12-15T16:27:17-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8229815002?gh_jid=8229815002",
-      "discordThreadId": "1460757233875943519",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8229814002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8229814002",
-      "company": "brex",
-      "title": "Senior Growth Marketing Manager",
-      "postedToDiscord": "2026-01-13T22:07:47.426Z",
-      "sourceDate": "2025-12-15T16:27:02-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8229814002?gh_jid=8229814002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8229808002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8229808002",
-      "company": "brex",
-      "title": "Senior Growth Marketing Manager",
-      "postedToDiscord": "2026-01-13T22:07:47.434Z",
-      "sourceDate": "2025-12-15T16:26:45-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8229808002?gh_jid=8229808002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8219295002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8219295002",
-      "company": "discord",
-      "title": "Director, People Business Partners",
-      "postedToDiscord": "2026-01-13T22:07:51.011Z",
-      "sourceDate": "2025-12-15T13:16:13-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8219295002",
-      "discordThreadId": "1460757248098963517",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4982157008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982157008",
-      "company": "anthropic",
-      "title": "Senior Manager, Treasury Operations",
-      "postedToDiscord": "2026-01-13T22:07:57.686Z",
-      "sourceDate": "2025-12-15T13:10:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982157008",
-      "discordThreadId": "1460757276360052985",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8335879002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8335879002",
-      "company": "discord",
-      "title": "Senior Financial Analyst",
-      "postedToDiscord": "2026-01-13T22:08:01.081Z",
-      "sourceDate": "2025-12-15T11:23:32-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8335879002",
-      "discordThreadId": "1460757291178659921",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8332358002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8332358002",
-      "company": "discord",
-      "title": "Senior Product Manager, Commerce",
-      "postedToDiscord": "2026-01-13T22:08:07.608Z",
-      "sourceDate": "2025-12-15T12:24:06-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332358002",
-      "discordThreadId": "1460757318110023720",
-      "instanceNumber": 1
-    },
-    {
-      "id": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-acton-massachusetts-associate-software-development-engineer-in-test-hybrid-acton-ma-_req-2025-14278-2026-01-13-1",
-      "jobId": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-acton-massachusetts-associate-software-development-engineer-in-test-hybrid-acton-ma-_req-2025-14278",
-      "company": "Insulet Corporation",
-      "title": "Associate Software Development Engineer in Test",
-      "postedToDiscord": "2026-01-13T22:08:14.178Z",
-      "sourceDate": "2025-12-15T07:45:33.000Z",
-      "sourceUrl": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278",
-      "discordThreadId": "1460757346073448724",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-gdms-icims-com-jobs-69725-junior-embedded-software-engineer-28cleared-29-job-2026-01-13-1",
-      "jobId": "careers-gdms-icims-com-jobs-69725-junior-embedded-software-engineer-28cleared-29-job",
-      "company": "General Dynamics Mission Systems",
-      "title": "Junior Embedded Software Engineer (cleared)",
-      "postedToDiscord": "2026-01-13T22:08:19.033Z",
-      "sourceDate": "2025-12-15T07:43:08.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job",
-      "discordThreadId": "1460757362406195553",
-      "instanceNumber": 1
-    },
-    {
-      "id": "career-schwab-icims-com-jobs-117784-associate-software-engineer-job-2026-01-13-1",
-      "jobId": "career-schwab-icims-com-jobs-117784-associate-software-engineer-job",
-      "company": "Charles Schwab",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-13T22:08:23.256Z",
-      "sourceDate": "2025-12-15T07:42:19.000Z",
-      "sourceUrl": "https://career-schwab.icims.com/jobs/117784/associate-software-engineer/job",
-      "discordThreadId": "1460757382329143506",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-workable-com-thorlabs-j-ea6a31c779-2026-01-13-1",
-      "jobId": "apply-workable-com-thorlabs-j-ea6a31c779",
-      "company": "Thorlabs",
-      "title": "Software Engineer I",
-      "postedToDiscord": "2026-01-13T22:08:26.736Z",
-      "sourceDate": "2025-12-15T07:37:32.000Z",
-      "sourceUrl": "https://apply.workable.com/thorlabs/j/EA6A31C779/",
-      "discordThreadId": "1460757398850375730",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-sentra-3c9729ca-67b3-4f9f-9c64-5e1e10be1719-2026-01-13-1",
-      "jobId": "jobs-ashbyhq-com-sentra-3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
-      "company": "Sentra",
-      "title": "Software Engineer - New Grad",
-      "postedToDiscord": "2026-01-13T22:08:30.603Z",
-      "sourceDate": "2025-12-15T07:36:14.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
-      "discordThreadId": "1460757414096933109",
-      "instanceNumber": 1
-    },
-    {
-      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-macdill-afb-software-engineer_rq211472-1-2026-01-13-1",
-      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-macdill-afb-software-engineer_rq211472-1",
-      "company": "General Dynamics Information Technology",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-13T22:26:37.404Z",
-      "sourceDate": "2025-12-15T07:36:13.000Z",
-      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ211472-1",
-      "discordThreadId": "1460761973103919234",
-      "instanceNumber": 1
-    },
-    {
-      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007198-2026-01-13-1",
-      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007198",
-      "company": "Welocalize",
-      "title": "Search Quality Rater",
-      "postedToDiscord": "2026-01-13T22:26:40.868Z",
-      "sourceDate": "2025-12-13T15:13:33.000Z",
-      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007198",
-      "discordThreadId": "1460761987410821121",
-      "instanceNumber": 1
-    },
-    {
-      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007102-2026-01-13-1",
-      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007102",
-      "company": "Welocalize",
-      "title": "Search Quality Rater",
-      "postedToDiscord": "2026-01-13T22:26:40.876Z",
-      "sourceDate": "2025-12-13T14:57:18.000Z",
-      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007102",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1-2026-01-13-1",
-      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1",
-      "company": "Wash U",
-      "title": "Neuroimaging Engineer - Radiology - Neuroimaging Labs Research Center",
-      "postedToDiscord": "2026-01-13T22:26:44.281Z",
-      "sourceDate": "2025-12-13T11:17:49.000Z",
-      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Radiology---Neuroimaging-Labs-Research-Center_JR89315-1",
-      "discordThreadId": "1460762002170581087",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-0100-campus-federal-credit-union-data-quality-analyst-1_r00111644-1-2026-01-13-1",
-      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-0100-campus-federal-credit-union-data-quality-analyst-1_r00111644-1",
-      "company": "Louisiana State University (LSU)",
-      "title": "Data Quality Analyst 1",
-      "postedToDiscord": "2026-01-13T22:26:47.881Z",
-      "sourceDate": "2025-12-13T11:15:56.000Z",
-      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0100-Campus-Federal-Credit-Union/Data-Quality-Analyst-1_R00111644-1",
-      "discordThreadId": "1460762016577749083",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-inductiveautomation-5cdc7a76-69f7-4979-8971-72e5e06015a0-2026-01-13-1",
-      "jobId": "jobs-lever-co-inductiveautomation-5cdc7a76-69f7-4979-8971-72e5e06015a0",
-      "company": "Inductive Automation",
-      "title": "Software Quality Assurance Engineer I",
-      "postedToDiscord": "2026-01-13T22:26:54.347Z",
-      "sourceDate": "2025-12-15T07:34:13.000Z",
-      "sourceUrl": "https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0",
-      "discordThreadId": "1460762044398833705",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-autonomous-vehicles-new-college-grad-2026_jr2008395-2026-01-13-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-autonomous-vehicles-new-college-grad-2026_jr2008395",
-      "company": "NVIDIA",
-      "title": "Research Scientist – PhD New College Grad 2026 - Autonomous Vehicles",
-      "postedToDiscord": "2026-01-13T22:26:57.794Z",
-      "sourceDate": "2025-12-13T14:56:58.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Vehicles---New-College-Grad-2026_JR2008395",
-      "discordThreadId": "1460762058793422928",
-      "instanceNumber": 1
-    },
-    {
-      "id": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-wi-data-engineer-i_1624077-2026-01-13-1",
-      "jobId": "centene-wd5-myworkdayjobs-com-centene_external-job-remote-wi-data-engineer-i_1624077",
-      "company": "Centene",
-      "title": "Data Engineer 1",
-      "postedToDiscord": "2026-01-13T22:27:02.522Z",
-      "sourceDate": "2025-12-15T07:26:32.000Z",
-      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077",
-      "discordThreadId": "1460762085947346944",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5025976008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025976008",
-      "company": "anthropic",
-      "title": "Product Designer, Claude Code ",
-      "postedToDiscord": "2026-01-13T22:27:08.945Z",
-      "sourceDate": "2025-12-14T00:23:34-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025976008",
-      "discordThreadId": "1460762105786662925",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936-2026-01-13-1",
-      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936",
-      "company": "University of Chicago",
-      "title": "Research Specialist",
-      "postedToDiscord": "2026-01-13T22:27:15.837Z",
-      "sourceDate": "2025-12-13T15:14:28.000Z",
-      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31936",
-      "discordThreadId": "1460762133481656516",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31878-2026-01-13-1",
-      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31878",
-      "company": "University of Chicago",
-      "title": "Research Specialist",
-      "postedToDiscord": "2026-01-13T22:27:15.847Z",
-      "sourceDate": "2025-12-13T10:20:35.000Z",
-      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31878",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970-2026-01-13-1",
-      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970",
-      "company": "ERM",
-      "title": "Consulting Associate - EHS Management Information Systems",
-      "postedToDiscord": "2026-01-13T22:27:22.746Z",
-      "sourceDate": "2025-12-13T14:39:32.000Z",
-      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970",
-      "discordThreadId": "1460762163168805048",
-      "instanceNumber": 1
-    },
     {
       "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1-2026-01-13-1",
       "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1",
@@ -35547,14 +35283,348 @@
       "discordThreadId": null,
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "2419f2f2cf46a801-2026-01-20-1",
+      "jobId": "2419f2f2cf46a801",
+      "company": "coinbase",
+      "title": "Accounting Intern",
+      "postedToDiscord": "2026-01-20T22:30:20.006Z",
+      "sourceDate": "2026-01-01T16:46:12-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7404504?gh_jid=7404504",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463299634775592980",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:20.006Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463299642753290394",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:30:21.750Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7404504-2026-01-20-1",
+      "jobId": "www-coinbase-com-careers-positions-7404504",
+      "company": "coinbase",
+      "title": "Accounting Intern",
+      "postedToDiscord": "2026-01-20T22:30:23.271Z",
+      "sourceDate": "2026-01-01T16:46:12-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7404504?gh_jid=7404504",
+      "discordThreadId": "1463299634775592980",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ce63d5e348d0889a-2026-01-20-1",
+      "jobId": "ce63d5e348d0889a",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2026-01-20T22:30:23.479Z",
+      "sourceDate": "2025-12-31T23:29:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463299650089123840",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:23.479Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4645115005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2026-01-20T22:30:25.001Z",
+      "sourceDate": "2025-12-31T23:29:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
+      "discordThreadId": "1463299650089123840",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a670a607c4842013-2026-01-20-1",
+      "jobId": "a670a607c4842013",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Director's Fellowship Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-20T22:30:28.345Z",
+      "sourceDate": "2026-01-01T07:41:53.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463299670284697643",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:28.345Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463299677712810105",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:30:30.093Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061-2026-01-20-1",
+      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Director's Fellowship Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-20T22:30:31.616Z",
+      "sourceDate": "2026-01-01T07:41:53.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
+      "discordThreadId": "1463299670284697643",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "cec9ee8d5fdf3d25-2026-01-20-1",
+      "jobId": "cec9ee8d5fdf3d25",
+      "company": "Aramark",
+      "title": "Java City – Hhs - AM Food Service Worker - Western Carolina University",
+      "postedToDiscord": "2026-01-20T22:30:31.866Z",
+      "sourceDate": "2026-01-01T07:14:25.000Z",
+      "sourceUrl": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463299685069357239",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:31.866Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463299692288016611",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:30:33.702Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400-2026-01-20-1",
+      "jobId": "aramarkcareers-com-unitedstates-job-cullowhee-java-city-hhs-am-food-service-worker-western-carolina-university-nc-28723-1346909400",
+      "company": "Aramark",
+      "title": "Java City – Hhs - AM Food Service Worker - Western Carolina University",
+      "postedToDiscord": "2026-01-20T22:30:35.224Z",
+      "sourceDate": "2026-01-01T07:14:25.000Z",
+      "sourceUrl": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
+      "discordThreadId": "1463299685069357239",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "de8b478cc6b3c225-2026-01-20-1",
+      "jobId": "de8b478cc6b3c225",
+      "company": "Citizen Health",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2026-01-20T22:30:35.460Z",
+      "sourceDate": "2025-12-31T23:17:13.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463299700261261415",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:35.460Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application-2026-01-20-1",
+      "jobId": "jobs-ashbyhq-com-citizen-20health-7133dff5-e5a0-425b-81da-b6f78e78d944-application",
+      "company": "Citizen Health",
+      "title": "Early Career Software Engineer",
+      "postedToDiscord": "2026-01-20T22:30:36.981Z",
+      "sourceDate": "2025-12-31T23:17:13.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
+      "discordThreadId": "1463299700261261415",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "cc943f152da303ef-2026-01-20-1",
+      "jobId": "cc943f152da303ef",
+      "company": "Solace Health",
+      "title": "Associate Software Engineer – College Grad 2026",
+      "postedToDiscord": "2026-01-20T22:30:37.156Z",
+      "sourceDate": "2025-12-31T23:13:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463299707584647219",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:37.156Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application-2026-01-20-1",
+      "jobId": "jobs-ashbyhq-com-solace-d7906c8c-395f-4d6b-8e64-e2c7be52b929-application",
+      "company": "Solace Health",
+      "title": "Associate Software Engineer – College Grad 2026",
+      "postedToDiscord": "2026-01-20T22:30:38.678Z",
+      "sourceDate": "2025-12-31T23:13:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
+      "discordThreadId": "1463299707584647219",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9bb459002e6c6696-2026-01-20-1",
+      "jobId": "9bb459002e6c6696",
+      "company": "Salesforce",
+      "title": "Software Engineering AMTS – College Grad",
+      "postedToDiscord": "2026-01-20T22:30:39.089Z",
+      "sourceDate": "2025-12-31T18:27:41.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463299714719154222",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:39.089Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463299722772218011",
+          "channelType": "location",
+          "postedAt": "2026-01-20T22:30:40.821Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1-2026-01-20-1",
+      "jobId": "salesforce-wd12-myworkdayjobs-com-external_career_site-job-texas-dallas-software-engineering-amts-college-grad-_jr322433-1",
+      "company": "Salesforce",
+      "title": "Software Engineering AMTS – College Grad",
+      "postedToDiscord": "2026-01-20T22:30:42.343Z",
+      "sourceDate": "2025-12-31T18:27:41.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
+      "discordThreadId": "1463299714719154222",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1e4736b10f8ad4ab-2026-01-20-1",
+      "jobId": "1e4736b10f8ad4ab",
+      "company": "samsara",
+      "title": "Account Development Representative Intern",
+      "postedToDiscord": "2026-01-20T22:30:42.615Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169366?gh_jid=7169366",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463299730237952041",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:42.615Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169366-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169366",
+      "company": "samsara",
+      "title": "Account Development Representative Intern",
+      "postedToDiscord": "2026-01-20T22:30:44.137Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169366?gh_jid=7169366",
+      "discordThreadId": "1463299730237952041",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169321-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169321",
+      "company": "samsara",
+      "title": "Account Development Representative Intern ",
+      "postedToDiscord": "2026-01-20T22:30:44.157Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169321?gh_jid=7169321",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5553c029b03b5dde-2026-01-20-1",
+      "jobId": "5553c029b03b5dde",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad)",
+      "postedToDiscord": "2026-01-20T22:30:44.374Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169384?gh_jid=7169384",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463299737712201781",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:44.374Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169384-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169384",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad)",
+      "postedToDiscord": "2026-01-20T22:30:45.894Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169384?gh_jid=7169384",
+      "discordThreadId": "1463299737712201781",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-samsara-com-company-careers-roles-7169397-2026-01-20-1",
+      "jobId": "www-samsara-com-company-careers-roles-7169397",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad) ",
+      "postedToDiscord": "2026-01-20T22:30:45.914Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169397?gh_jid=7169397",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ecbe3281d399d631-2026-01-20-1",
+      "jobId": "ecbe3281d399d631",
+      "company": "verkada",
+      "title": "Global Enterprise Account Executive",
+      "postedToDiscord": "2026-01-20T22:30:49.216Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4128860007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463299757517570110",
+          "channelType": "category",
+          "postedAt": "2026-01-20T22:30:49.216Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4128860007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4128860007",
+      "company": "verkada",
+      "title": "Global Enterprise Account Executive",
+      "postedToDiscord": "2026-01-20T22:30:50.738Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4128860007",
+      "discordThreadId": "1463299757517570110",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2992,
+    "totalJobs": 2990,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T21:55:29.379Z",
+      "date": "2026-01-20T22:30:50.738Z",
       "archived": 0
     }
   }
