@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:02:30.824Z",
+  "lastUpdated": "2026-01-20T11:17:26.461Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -33311,14 +33311,101 @@
       "discordThreadId": "1463126533693767743",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "e34b22b7942823f8-2026-01-20-1",
+      "jobId": "e34b22b7942823f8",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Phoenix - Corporate)",
+      "postedToDiscord": "2026-01-20T11:17:18.371Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4866589007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463130262207467543",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:17:18.371Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4866589007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4866589007",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Phoenix - Corporate)",
+      "postedToDiscord": "2026-01-20T11:17:19.899Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4866589007",
+      "discordThreadId": "1463130262207467543",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "06af23f9bc1b6900-2026-01-20-1",
+      "jobId": "06af23f9bc1b6900",
+      "company": "anthropic",
+      "title": "Head of Infrastructure Accounting ",
+      "postedToDiscord": "2026-01-20T11:17:20.142Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463130270051074185",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:17:20.142Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4756214008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4756214008",
+      "company": "anthropic",
+      "title": "Head of Infrastructure Accounting ",
+      "postedToDiscord": "2026-01-20T11:17:21.665Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
+      "discordThreadId": "1463130270051074185",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "49be4e5e8f57c374-2026-01-20-1",
+      "jobId": "49be4e5e8f57c374",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+      "postedToDiscord": "2026-01-20T11:17:24.938Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463130289701388289",
+          "channelType": "category",
+          "postedAt": "2026-01-20T11:17:24.938Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4964610008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4964610008",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+      "postedToDiscord": "2026-01-20T11:17:26.461Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
+      "discordThreadId": "1463130289701388289",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2888,
+    "totalJobs": 2894,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T11:02:30.824Z",
+      "date": "2026-01-20T11:17:26.461Z",
       "archived": 0
     }
   }
