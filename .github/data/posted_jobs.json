@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T06:02:03.513Z",
+  "lastUpdated": "2026-01-20T06:20:20.895Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4952537007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4952537007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (US West - Federal Veterans Affairs)",
-      "postedToDiscord": "2026-01-13T06:06:39.037Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4952537007",
-      "discordThreadId": "1460515354022383636",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4629544007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4629544007",
-      "company": "verkada",
-      "title": "Enterprise Development Manager",
-      "postedToDiscord": "2026-01-13T06:06:42.650Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4629544007",
-      "discordThreadId": "1460515369512075357",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4140679007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4140679007",
-      "company": "verkada",
-      "title": "Enterprise Development Representative",
-      "postedToDiscord": "2026-01-13T06:06:46.102Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4140679007",
-      "discordThreadId": "1460515384376557599",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4940356007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4940356007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Carolinas ",
-      "postedToDiscord": "2026-01-13T06:06:50.914Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4940356007",
-      "discordThreadId": "1460515411933265950",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4086572007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4086572007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Greater Atlanta Area",
-      "postedToDiscord": "2026-01-13T06:06:52.650Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4086572007",
-      "discordThreadId": "1460515419344470088",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4351374007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4351374007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Mid-West, SLED",
-      "postedToDiscord": "2026-01-13T06:06:56.256Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4351374007",
-      "discordThreadId": "1460515426864726208",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4567322007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4567322007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Northeast",
-      "postedToDiscord": "2026-01-13T06:06:59.759Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4567322007",
-      "discordThreadId": "1460515441708630097",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5001585007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5001585007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Rocky Mountains",
-      "postedToDiscord": "2026-01-13T06:07:01.643Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5001585007",
-      "discordThreadId": "1460515456778764309",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4847421007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4847421007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Southeast",
-      "postedToDiscord": "2026-01-13T06:07:03.424Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4847421007",
-      "discordThreadId": "1460515464101756985",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4185319007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4185319007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Southern California",
-      "postedToDiscord": "2026-01-13T06:07:06.936Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185319007",
-      "discordThreadId": "1460515471898972190",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-4834059007-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-4834059007",
@@ -31328,14 +31218,396 @@
       "discordThreadId": "1463050909146939454",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "77ec81e16184d5ce-2026-01-20-1",
+      "jobId": "77ec81e16184d5ce",
+      "company": "datadog",
+      "title": "Employee Relation Specialist - Workplace Investigations",
+      "postedToDiscord": "2026-01-20T06:19:55.792Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055425246335048",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:19:55.792Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463055432754135041",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:19:57.524Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7465622-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7465622",
+      "company": "datadog",
+      "title": "Employee Relation Specialist - Workplace Investigations",
+      "postedToDiscord": "2026-01-20T06:19:59.044Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622",
+      "discordThreadId": "1463055425246335048",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b690134c447d3247-2026-01-20-1",
+      "jobId": "b690134c447d3247",
+      "company": "datadog",
+      "title": "Engineering Manager, Application Security Platform",
+      "postedToDiscord": "2026-01-20T06:19:59.377Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476431/?gh_jid=7476431",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055440119201817",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:19:59.377Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463055447450980405",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:20:01.183Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476431-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7476431",
+      "company": "datadog",
+      "title": "Engineering Manager, Application Security Platform",
+      "postedToDiscord": "2026-01-20T06:20:02.703Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476431/?gh_jid=7476431",
+      "discordThreadId": "1463055440119201817",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "89d240750e5a834a-2026-01-20-1",
+      "jobId": "89d240750e5a834a",
+      "company": "datadog",
+      "title": "Enterprise Customer Success Manager - Denver",
+      "postedToDiscord": "2026-01-20T06:20:03.185Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7462573/?gh_jid=7462573",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055455612829716",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:20:03.185Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7462573-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7462573",
+      "company": "datadog",
+      "title": "Enterprise Customer Success Manager - Denver",
+      "postedToDiscord": "2026-01-20T06:20:04.705Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7462573/?gh_jid=7462573",
+      "discordThreadId": "1463055455612829716",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7472550-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7472550",
+      "company": "datadog",
+      "title": "Enterprise Customer Success Manager - East Coast",
+      "postedToDiscord": "2026-01-20T06:20:04.726Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7472550/?gh_jid=7472550",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d5a618fb3fa696d4-2026-01-20-1",
+      "jobId": "d5a618fb3fa696d4",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer",
+      "postedToDiscord": "2026-01-20T06:20:04.914Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055463485673578",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:20:04.914Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463055471135952897",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:20:06.732Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7379789-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7379789",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer",
+      "postedToDiscord": "2026-01-20T06:20:08.254Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789",
+      "discordThreadId": "1463055463485673578",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476093-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7476093",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer - South Africa",
+      "postedToDiscord": "2026-01-20T06:20:08.277Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "16b9f4c45672c103-2026-01-20-1",
+      "jobId": "16b9f4c45672c103",
+      "company": "datadog",
+      "title": " Enterprise Sales Executive (SLED)",
+      "postedToDiscord": "2026-01-20T06:20:08.535Z",
+      "sourceDate": "2026-01-14T10:42:21-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055478866182178",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:20:08.535Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463055486076326014",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:20:10.230Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7453039-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7453039",
+      "company": "datadog",
+      "title": " Enterprise Sales Executive (SLED)",
+      "postedToDiscord": "2026-01-20T06:20:11.753Z",
+      "sourceDate": "2026-01-14T10:42:21-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
+      "discordThreadId": "1463055478866182178",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "92ac541e4dc034e9-2026-01-20-1",
+      "jobId": "92ac541e4dc034e9",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T06:20:12.009Z",
+      "sourceDate": "2026-01-14T10:41:51-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055493298782280",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:20:12.009Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7426707-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7426707",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T06:20:13.543Z",
+      "sourceDate": "2026-01-14T10:41:51-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
+      "discordThreadId": "1463055493298782280",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7421331-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7421331",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T06:20:13.565Z",
+      "sourceDate": "2026-01-14T10:41:51-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7465857-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7465857",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T06:20:13.588Z",
+      "sourceDate": "2026-01-14T10:39:17-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7410254-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7410254",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T06:20:13.611Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7405822-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7405822",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T06:20:13.637Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9809cfd6780d1b76-2026-01-20-1",
+      "jobId": "9809cfd6780d1b76",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive (FED)",
+      "postedToDiscord": "2026-01-20T06:20:13.924Z",
+      "sourceDate": "2026-01-14T10:39:58-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055501272023135",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:20:13.924Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7426680-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7426680",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive (FED)",
+      "postedToDiscord": "2026-01-20T06:20:15.449Z",
+      "sourceDate": "2026-01-14T10:39:58-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
+      "discordThreadId": "1463055501272023135",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7421284-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7421284",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive (FED)",
+      "postedToDiscord": "2026-01-20T06:20:15.467Z",
+      "sourceDate": "2026-01-14T10:39:58-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8fc538ea165a51d4-2026-01-20-1",
+      "jobId": "8fc538ea165a51d4",
+      "company": "datadog",
+      "title": "Enterprise Security Sales Specialist",
+      "postedToDiscord": "2026-01-20T06:20:15.738Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055508964638861",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:20:15.738Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463055516241498268",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:20:17.465Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7132132-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7132132",
+      "company": "datadog",
+      "title": "Enterprise Security Sales Specialist",
+      "postedToDiscord": "2026-01-20T06:20:18.985Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132",
+      "discordThreadId": "1463055508964638861",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7129428-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7129428",
+      "company": "datadog",
+      "title": "Enterprise Security Sales Specialist",
+      "postedToDiscord": "2026-01-20T06:20:19.008Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4c63844a7f907c01-2026-01-20-1",
+      "jobId": "4c63844a7f907c01",
+      "company": "datadog",
+      "title": "Executive Assistant II - San Francisco",
+      "postedToDiscord": "2026-01-20T06:20:19.370Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7410744/?gh_jid=7410744",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463055523925725215",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:20:19.370Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7410744-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7410744",
+      "company": "datadog",
+      "title": "Executive Assistant II - San Francisco",
+      "postedToDiscord": "2026-01-20T06:20:20.894Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7410744/?gh_jid=7410744",
+      "discordThreadId": "1463055523925725215",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2790,
+    "totalJobs": 2806,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T06:02:03.513Z",
+      "date": "2026-01-20T06:20:20.895Z",
       "archived": 0
     }
   }
