@@ -1,359 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T14:16:39.964Z",
+  "lastUpdated": "2026-01-20T19:06:01.435Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5575026004",
-      "company": "figma",
-      "title": "Executive Assistant, Product Support ",
-      "postedToDiscord": "2026-01-13T15:10:56.881Z",
-      "sourceDate": "2025-12-18T18:49:15-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5575026004?gh_jid=5575026004",
-      "discordThreadId": "1460652331468062804",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7883535002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7883535002",
-      "company": "airtable",
-      "title": "Account Executive, Commercial Accounts",
-      "postedToDiscord": "2026-01-13T15:11:00.328Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883535002",
-      "discordThreadId": "1460652346500714496",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7891770002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7891770002",
-      "company": "airtable",
-      "title": "Business Development Representative",
-      "postedToDiscord": "2026-01-13T15:43:24.757Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7891770002",
-      "discordThreadId": "1460660500864958669",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8293251002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8293251002",
-      "company": "airtable",
-      "title": "Engineering Manager, AI Platform ",
-      "postedToDiscord": "2026-01-13T15:55:10.336Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8293251002",
-      "discordThreadId": "1460663461947248731",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8208453002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8208453002",
-      "company": "airtable",
-      "title": "Product Designer - DeepSky",
-      "postedToDiscord": "2026-01-13T16:27:20.429Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8208453002",
-      "discordThreadId": "1460671556941381856",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8172359002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8172359002",
-      "company": "airtable",
-      "title": "Product Designer - Mobile",
-      "postedToDiscord": "2026-01-13T16:27:20.443Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8172359002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8321974002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8321974002",
-      "company": "airtable",
-      "title": "Field Marketing Specialist, West",
-      "postedToDiscord": "2026-01-13T16:27:26.840Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8321974002",
-      "discordThreadId": "1460671584003031253",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8170126002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8170126002",
-      "company": "airtable",
-      "title": "Field Marketing Manager, East",
-      "postedToDiscord": "2026-01-13T16:46:55.427Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170126002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8009894002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8009894002",
-      "company": "airtable",
-      "title": "Lead Solutions Consultant",
-      "postedToDiscord": "2026-01-13T16:47:02.054Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8009894002",
-      "discordThreadId": "1460676512192794895",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8249560002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8249560002",
-      "company": "airtable",
-      "title": "Renewals Associate",
-      "postedToDiscord": "2026-01-13T16:47:05.396Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8249560002",
-      "discordThreadId": "1460676527279575302",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8199012002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8199012002",
-      "company": "airtable",
-      "title": "Product Manager, AI",
-      "postedToDiscord": "2026-01-13T17:01:22.039Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8199012002",
-      "discordThreadId": "1460680119663333478",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7968990002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7968990002",
-      "company": "airtable",
-      "title": "People Analytics Lead",
-      "postedToDiscord": "2026-01-13T17:13:54.553Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7968990002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8222508002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8222508002",
-      "company": "airtable",
-      "title": " People Systems Engineer, Airtable Specialist",
-      "postedToDiscord": "2026-01-13T17:14:01.273Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8222508002",
-      "discordThreadId": "1460683303500906769",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8245333002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8245333002",
-      "company": "airtable",
-      "title": "Product Manager, Omni Analysis & Q&A",
-      "postedToDiscord": "2026-01-13T17:14:04.650Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8245333002",
-      "discordThreadId": "1460683318579429608",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8194662002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8194662002",
-      "company": "airtable",
-      "title": "Product Security Engineer",
-      "postedToDiscord": "2026-01-13T17:14:08.552Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194662002",
-      "discordThreadId": "1460683332604919960",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8003706002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8003706002",
-      "company": "airtable",
-      "title": "Product Manager, AI & Automation",
-      "postedToDiscord": "2026-01-13T17:14:15.253Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8003706002",
-      "discordThreadId": "1460683362573357300",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8318377002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8318377002",
-      "company": "airtable",
-      "title": "Risk Specialist, GRCP",
-      "postedToDiscord": "2026-01-13T17:14:21.973Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8318377002",
-      "discordThreadId": "1460683389777612865",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8292724002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8292724002",
-      "company": "airtable",
-      "title": "Scaled Customer Success Manager",
-      "postedToDiscord": "2026-01-13T17:14:28.294Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8292724002",
-      "discordThreadId": "1460683418361659577",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8235618002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8235618002",
-      "company": "airtable",
-      "title": "Senior Manager, People Systems",
-      "postedToDiscord": "2026-01-13T18:27:48.517Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8235618002",
-      "discordThreadId": "1460701873215377615",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8303885002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8303885002",
-      "company": "airtable",
-      "title": "Senior Paralegal",
-      "postedToDiscord": "2026-01-13T18:27:51.979Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8303885002",
-      "discordThreadId": "1460701888055083018",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8229185002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8229185002",
-      "company": "airtable",
-      "title": "Senior Manager, Finance Systems",
-      "postedToDiscord": "2026-01-13T18:27:58.482Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8229185002",
-      "discordThreadId": "1460701915179520072",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7982552002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7982552002",
-      "company": "airtable",
-      "title": "Senior Solutions Consultant",
-      "postedToDiscord": "2026-01-13T18:28:02.129Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7982552002",
-      "discordThreadId": "1460701929859580087",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8233343002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8233343002",
-      "company": "airtable",
-      "title": "Solutions Consultant",
-      "postedToDiscord": "2026-01-13T18:28:05.549Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8233343002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7953553002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7953553002",
-      "company": "airtable",
-      "title": "Software Engineer, Android",
-      "postedToDiscord": "2026-01-13T18:28:12.143Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7953553002",
-      "discordThreadId": "1460701972125716605",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7845293002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845293002",
-      "company": "airtable",
-      "title": "Software Engineer, Infrastructure (2-8 YOE)",
-      "postedToDiscord": "2026-01-13T18:28:15.611Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845293002",
-      "discordThreadId": "1460701987258503373",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7845295002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845295002",
-      "company": "airtable",
-      "title": "Software Engineer, Infrastructure (8+ YOE)",
-      "postedToDiscord": "2026-01-13T18:28:19.332Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845295002",
-      "discordThreadId": "1460702002190225666",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8194658002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8194658002",
-      "company": "airtable",
-      "title": "Web Developer",
-      "postedToDiscord": "2026-01-13T18:47:14.980Z",
-      "sourceDate": "2025-12-18T18:40:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194658002",
-      "discordThreadId": "1460706765309083873",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8058456002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8058456002",
-      "company": "discord",
-      "title": "Staff Software Engineer - UI and Interactions (Full-Stack)",
-      "postedToDiscord": "2026-01-13T18:47:18.441Z",
-      "sourceDate": "2025-12-18T18:39:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8058456002",
-      "discordThreadId": "1460706780685402113",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-7854326002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-7854326002",
-      "company": "discord",
-      "title": "Staff Software Engineer – UI/UX Specialist",
-      "postedToDiscord": "2026-01-13T18:47:22.457Z",
-      "sourceDate": "2025-12-18T18:37:55-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7854326002",
-      "discordThreadId": "1460706794954293342",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89660152512-2026-01-13-1",
-      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-89660152512",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-13T18:47:26.085Z",
-      "sourceDate": "2025-12-18T23:33:32.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512",
-      "discordThreadId": "1460706812083830856",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-uber-com-global-en-careers-list-152559-2026-01-13-1",
-      "jobId": "www-uber-com-global-en-careers-list-152559",
-      "company": "Uber",
-      "title": "Graduate Software Engineer 1 - Mobile",
-      "postedToDiscord": "2026-01-13T18:47:29.925Z",
-      "sourceDate": "2025-12-18T23:17:46.000Z",
-      "sourceUrl": "https://www.uber.com/global/en/careers/list/152559/",
-      "discordThreadId": "1460706827510616228",
-      "instanceNumber": 1
-    },
-    {
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648-2026-01-13-1",
-      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648",
-      "company": "Adobe",
-      "title": "University Graduate - Machine Learning Engineer",
-      "postedToDiscord": "2026-01-13T18:47:36.583Z",
-      "sourceDate": "2025-12-18T23:21:21.000Z",
-      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
-      "discordThreadId": "1460706856266895625",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-airtable-jobs-8230656002-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-airtable-jobs-8230656002",
@@ -34097,14 +33745,368 @@
       "discordThreadId": "1463175384748003439",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "33af582ef1b51413-2026-01-20-1",
+      "jobId": "33af582ef1b51413",
+      "company": "datadog",
+      "title": "Partner Marketing Manager (Public Sector)",
+      "postedToDiscord": "2026-01-20T19:05:30.908Z",
+      "sourceDate": "2026-01-12T12:36:11-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248091451887646",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:30.908Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463248098024230953",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:32.588Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476873-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7476873",
+      "company": "datadog",
+      "title": "Partner Marketing Manager (Public Sector)",
+      "postedToDiscord": "2026-01-20T19:05:34.107Z",
+      "sourceDate": "2026-01-12T12:36:11-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
+      "discordThreadId": "1463248091451887646",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ae67f3033dfb0c0e-2026-01-20-1",
+      "jobId": "ae67f3033dfb0c0e",
+      "company": "datadog",
+      "title": "Inclusion Program Manager - NYC",
+      "postedToDiscord": "2026-01-20T19:05:34.298Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7193803/?gh_jid=7193803",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248105544614032",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:34.298Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463248112658288700",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:36.041Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7193803-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7193803",
+      "company": "datadog",
+      "title": "Inclusion Program Manager - NYC",
+      "postedToDiscord": "2026-01-20T19:05:37.565Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7193803/?gh_jid=7193803",
+      "discordThreadId": "1463248105544614032",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ad1a9d9eff913f94-2026-01-20-1",
+      "jobId": "ad1a9d9eff913f94",
+      "company": "datadog",
+      "title": "Product Marketing Manager - Log Management",
+      "postedToDiscord": "2026-01-20T19:05:37.855Z",
+      "sourceDate": "2026-01-14T11:55:47-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248120325472360",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:37.855Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463248127535350010",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:39.518Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7459715-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7459715",
+      "company": "datadog",
+      "title": "Product Marketing Manager - Log Management",
+      "postedToDiscord": "2026-01-20T19:05:41.040Z",
+      "sourceDate": "2026-01-14T11:55:47-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715",
+      "discordThreadId": "1463248120325472360",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8b3caa8fe7606431-2026-01-20-1",
+      "jobId": "8b3caa8fe7606431",
+      "company": "datadog",
+      "title": "Product Manager II - Incident Management",
+      "postedToDiscord": "2026-01-20T19:05:41.218Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6970128/?gh_jid=6970128",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248134653218856",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:41.218Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463248141376688324",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:42.913Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6970128-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6970128",
+      "company": "datadog",
+      "title": "Product Manager II - Incident Management",
+      "postedToDiscord": "2026-01-20T19:05:44.434Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6970128/?gh_jid=6970128",
+      "discordThreadId": "1463248134653218856",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7292417-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7292417",
+      "company": "datadog",
+      "title": "Product Manager II - Software Delivery Suite",
+      "postedToDiscord": "2026-01-20T19:05:44.454Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5d47892ffd308037-2026-01-20-1",
+      "jobId": "5d47892ffd308037",
+      "company": "datadog",
+      "title": "Senior Technical Program Manager, Knowledge Systems",
+      "postedToDiscord": "2026-01-20T19:05:44.626Z",
+      "sourceDate": "2026-01-13T11:09:22-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248149002064015",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:44.626Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7446392-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7446392",
+      "company": "datadog",
+      "title": "Senior Technical Program Manager, Knowledge Systems",
+      "postedToDiscord": "2026-01-20T19:05:46.146Z",
+      "sourceDate": "2026-01-13T11:09:22-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392",
+      "discordThreadId": "1463248149002064015",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a853b26d5cb7939e-2026-01-20-1",
+      "jobId": "a853b26d5cb7939e",
+      "company": "discord",
+      "title": "Staff Product Manager, Growth & SEO",
+      "postedToDiscord": "2026-01-20T19:05:46.292Z",
+      "sourceDate": "2026-01-19T17:01:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348158002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248155788181622",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:46.292Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8348158002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8348158002",
+      "company": "discord",
+      "title": "Staff Product Manager, Growth & SEO",
+      "postedToDiscord": "2026-01-20T19:05:47.811Z",
+      "sourceDate": "2026-01-19T17:01:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348158002",
+      "discordThreadId": "1463248155788181622",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f61e5f3b68f52006-2026-01-20-1",
+      "jobId": "f61e5f3b68f52006",
+      "company": "figma",
+      "title": "Designer Advocate - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-20T19:05:48.044Z",
+      "sourceDate": "2026-01-09T05:46:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248163052847124",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:48.044Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463248169906339905",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:49.759Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5692764004-2026-01-20-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5692764004",
+      "company": "figma",
+      "title": "Designer Advocate - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-20T19:05:51.279Z",
+      "sourceDate": "2026-01-09T05:46:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
+      "discordThreadId": "1463248163052847124",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d0730a41ea08e894-2026-01-20-1",
+      "jobId": "d0730a41ea08e894",
+      "company": "duolingo",
+      "title": "Product Marketing Manager, Duolingo Chess",
+      "postedToDiscord": "2026-01-20T19:05:51.469Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331172002?gh_jid=8331172002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248177204560100",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:51.469Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463248184666095792",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:53.141Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8331172002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8331172002",
+      "company": "duolingo",
+      "title": "Product Marketing Manager, Duolingo Chess",
+      "postedToDiscord": "2026-01-20T19:05:54.659Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331172002?gh_jid=8331172002",
+      "discordThreadId": "1463248177204560100",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6e02422c6ea8e06d-2026-01-20-1",
+      "jobId": "6e02422c6ea8e06d",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Ads",
+      "postedToDiscord": "2026-01-20T19:05:54.822Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8160578002?gh_jid=8160578002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248191741755463",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:54.822Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463248198469419234",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:56.555Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8160578002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8160578002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Ads",
+      "postedToDiscord": "2026-01-20T19:05:58.074Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8160578002?gh_jid=8160578002",
+      "discordThreadId": "1463248191741755463",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3c418d333118c5da-2026-01-20-1",
+      "jobId": "3c418d333118c5da",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Math",
+      "postedToDiscord": "2026-01-20T19:05:58.231Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8337282002?gh_jid=8337282002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463248206027821096",
+          "channelType": "category",
+          "postedAt": "2026-01-20T19:05:58.231Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463248212981842053",
+          "channelType": "location",
+          "postedAt": "2026-01-20T19:05:59.894Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8337282002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8337282002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Math",
+      "postedToDiscord": "2026-01-20T19:06:01.415Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8337282002?gh_jid=8337282002",
+      "discordThreadId": "1463248206027821096",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8133363002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8133363002",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Math",
+      "postedToDiscord": "2026-01-20T19:06:01.435Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8133363002?gh_jid=8133363002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2937,
+    "totalJobs": 2927,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T14:16:39.964Z",
+      "date": "2026-01-20T19:06:01.435Z",
       "archived": 0
     }
   }
