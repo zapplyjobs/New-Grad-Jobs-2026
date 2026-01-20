@@ -287,13 +287,11 @@ async function postJobToChannel(job, channel) {
   return discordApiCall(
     async () => {
       const jobId = generateJobId(job);
-      const messageContent = buildJobMessage(job);
       const embed = buildJobEmbed(job);
       const actionRow = buildActionRow(job);
 
-      // Build message data
+      // Build message data (embed only, no text content)
       const messageData = {
-        content: messageContent,
         embeds: [embed]
       };
 
