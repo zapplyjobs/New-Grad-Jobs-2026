@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T08:14:09.513Z",
+  "lastUpdated": "2026-01-20T08:51:42.078Z",
   "jobs": [
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556641984-2026-01-13-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556641984",
-      "company": "Microsoft",
-      "title": "Machine Learning Engineer",
-      "postedToDiscord": "2026-01-13T08:27:06.633Z",
-      "sourceDate": "2025-12-19T16:07:44.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
-      "discordThreadId": "1460550702895202438",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qualcomm-eightfold-ai-careers-job-446715939731-2026-01-13-1",
-      "jobId": "qualcomm-eightfold-ai-careers-job-446715939731",
-      "company": "Qualcomm",
-      "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
-      "postedToDiscord": "2026-01-13T08:27:10.211Z",
-      "sourceDate": "2025-12-19T02:23:09.000Z",
-      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715939731",
-      "discordThreadId": "1460550717461893313",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005",
-      "company": "Chicago Trading Company",
-      "title": "Associate C++ Engineer",
-      "postedToDiscord": "2026-01-13T08:27:13.734Z",
-      "sourceDate": "2025-12-19T00:13:12.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005",
-      "discordThreadId": "1460550732079042574",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808-2026-01-13-1",
-      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808",
-      "company": "Oracle",
-      "title": "Senior Software Engineer",
-      "postedToDiscord": "2026-01-13T08:27:20.397Z",
-      "sourceDate": "2025-12-19T02:19:52.000Z",
-      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320808",
-      "discordThreadId": "1460550760507904142",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wmeimg-wd1-myworkdayjobs-com-endeavor-job-ca-beverly-hills-9601-wilshire-analyst-analytics_jr27759-1-2026-01-13-1",
-      "jobId": "wmeimg-wd1-myworkdayjobs-com-endeavor-job-ca-beverly-hills-9601-wilshire-analyst-analytics_jr27759-1",
-      "company": "WME Group",
-      "title": "Analyst – Analytics",
-      "postedToDiscord": "2026-01-13T08:27:23.860Z",
-      "sourceDate": "2025-12-19T02:14:54.000Z",
-      "sourceUrl": "https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1",
-      "discordThreadId": "1460550775158608015",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-figureai-jobs-4627110006-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-figureai-jobs-4627110006",
-      "company": "Figure",
-      "title": "Helix Data Creator",
-      "postedToDiscord": "2026-01-13T08:27:27.239Z",
-      "sourceDate": "2025-12-19T00:23:45.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627110006",
-      "discordThreadId": "1460550789654118400",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957-2026-01-13-1",
-      "jobId": "wd5-myworkdaysite-com-recruiting-westernalliancebank-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11957",
-      "company": "Western Alliance",
-      "title": "Engineer 1 - AI Business Engineer",
-      "postedToDiscord": "2026-01-13T08:27:30.694Z",
-      "sourceDate": "2025-12-19T00:21:36.000Z",
-      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11957",
-      "discordThreadId": "1460550803931664579",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5042055008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042055008",
-      "company": "anthropic",
-      "title": "Product Lead, Consumer",
-      "postedToDiscord": "2026-01-13T08:27:37.430Z",
-      "sourceDate": "2025-12-18T20:21:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
-      "discordThreadId": "1460550831077064851",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182-2026-01-13-1",
-      "jobId": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182",
-      "company": "Caterpillar Inc.",
-      "title": "Mining Application Specialist",
-      "postedToDiscord": "2026-01-13T08:27:43.916Z",
-      "sourceDate": "2025-12-19T00:21:05.000Z",
-      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341182",
-      "discordThreadId": "1460550859137089556",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-axle-jobs-5006708007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-axle-jobs-5006708007",
-      "company": "Axle",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-13T08:27:50.394Z",
-      "sourceDate": "2025-12-19T00:11:06.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
-      "discordThreadId": "1460550886739939401",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-mlb-com-careers-opportunities-2026-01-13-1",
-      "jobId": "www-mlb-com-careers-opportunities",
-      "company": "Major League Baseball",
-      "title": "Associate Software Engineer - Baseball Enterprise",
-      "postedToDiscord": "2026-01-13T08:46:31.456Z",
-      "sourceDate": "2025-12-19T00:07:46.000Z",
-      "sourceUrl": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
-      "discordThreadId": "1460555588684480646",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007",
@@ -32316,14 +32195,179 @@
       "discordThreadId": "1463084157252141263",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "b376b563a21a792d-2026-01-20-1",
+      "jobId": "b376b563a21a792d",
+      "company": "datadog",
+      "title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
+      "postedToDiscord": "2026-01-20T08:51:22.906Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463093538714681347",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:51:22.906Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463093546839179265",
+          "channelType": "location",
+          "postedAt": "2026-01-20T08:51:24.648Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7107875-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7107875",
+      "company": "datadog",
+      "title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
+      "postedToDiscord": "2026-01-20T08:51:26.167Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875",
+      "discordThreadId": "1463093538714681347",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "037f92cd679bbd52-2026-01-20-1",
+      "jobId": "037f92cd679bbd52",
+      "company": "datadog",
+      "title": "Senior Software Engineer - IDE AI Experiences - LLM Engineer",
+      "postedToDiscord": "2026-01-20T08:51:26.389Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463093554241867870",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:51:26.389Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7107873-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7107873",
+      "company": "datadog",
+      "title": "Senior Software Engineer - IDE AI Experiences - LLM Engineer",
+      "postedToDiscord": "2026-01-20T08:51:27.909Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873",
+      "discordThreadId": "1463093554241867870",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "90674954e3cdac26-2026-01-20-1",
+      "jobId": "90674954e3cdac26",
+      "company": "datadog",
+      "title": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "postedToDiscord": "2026-01-20T08:51:28.262Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463093561770770577",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:51:28.262Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463093569513590921",
+          "channelType": "location",
+          "postedAt": "2026-01-20T08:51:30.085Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6960503-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6960503",
+      "company": "datadog",
+      "title": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "postedToDiscord": "2026-01-20T08:51:31.604Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
+      "discordThreadId": "1463093561770770577",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e1f2c9625f6e9e3c-2026-01-20-1",
+      "jobId": "e1f2c9625f6e9e3c",
+      "company": "datadog",
+      "title": "Senior Staff Engineer - Event Platform Storage",
+      "postedToDiscord": "2026-01-20T08:51:34.913Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7081040/?gh_jid=7081040",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463093589746782402",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:51:34.913Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463093597652914219",
+          "channelType": "location",
+          "postedAt": "2026-01-20T08:51:36.965Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7081040-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7081040",
+      "company": "datadog",
+      "title": "Senior Staff Engineer - Event Platform Storage",
+      "postedToDiscord": "2026-01-20T08:51:38.486Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7081040/?gh_jid=7081040",
+      "discordThreadId": "1463093589746782402",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d7ffd38185bef85a-2026-01-20-1",
+      "jobId": "d7ffd38185bef85a",
+      "company": "datadog",
+      "title": "Senior Staff Software Engineer ",
+      "postedToDiscord": "2026-01-20T08:51:38.744Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463093605957894154",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:51:38.744Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463093613243142227",
+          "channelType": "location",
+          "postedAt": "2026-01-20T08:51:40.558Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-5608424-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-5608424",
+      "company": "datadog",
+      "title": "Senior Staff Software Engineer ",
+      "postedToDiscord": "2026-01-20T08:51:42.077Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424",
+      "discordThreadId": "1463093605957894154",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2826,
+    "totalJobs": 2825,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T08:14:09.513Z",
+      "date": "2026-01-20T08:51:42.078Z",
       "archived": 0
     }
   }
