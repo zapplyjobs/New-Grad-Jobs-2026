@@ -1,316 +1,254 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-20T06:20:27.389Z
+**Timestamp:** 2026-01-20T06:37:31.984Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 9
+- **Jobs Posted:** 8
 - **Jobs Failed:** 0
 - **Jobs Skipped:** 0
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-20T06:19:53.805Z] ========================================
-[2026-01-20T06:19:53.807Z] Discord Bot Execution Log
-[2026-01-20T06:19:53.807Z] Environment: GitHub Actions
-[2026-01-20T06:19:53.807Z] Node Version: v20.19.6
-[2026-01-20T06:19:53.807Z] ========================================
-[2026-01-20T06:19:53.808Z] Environment Variables Check:
-[2026-01-20T06:19:53.808Z] DISCORD_TOKEN: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-20T06:19:53.808Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-20T06:19:53.808Z] 
+[2026-01-20T06:37:00.044Z] ========================================
+[2026-01-20T06:37:00.046Z] Discord Bot Execution Log
+[2026-01-20T06:37:00.046Z] Environment: GitHub Actions
+[2026-01-20T06:37:00.046Z] Node Version: v20.19.6
+[2026-01-20T06:37:00.046Z] ========================================
+[2026-01-20T06:37:00.046Z] Environment Variables Check:
+[2026-01-20T06:37:00.046Z] DISCORD_TOKEN: ✅ Set
+[2026-01-20T06:37:00.046Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.046Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-20T06:37:00.046Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-20T06:37:00.046Z] 
 Multi-Channel Configuration:
-[2026-01-20T06:19:53.808Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.808Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.809Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-20T06:19:53.809Z] 
+[2026-01-20T06:37:00.046Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-20T06:37:00.047Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-20T06:19:53.809Z] 
+[2026-01-20T06:37:00.047Z] 
 Data Files Check:
-[2026-01-20T06:19:53.810Z] .github/data/new_jobs.json: ✅ Exists (10 items, 157923 bytes)
-[2026-01-20T06:19:53.822Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1544128 bytes)
-[2026-01-20T06:19:53.822Z] 
+[2026-01-20T06:37:00.049Z] .github/data/new_jobs.json: ✅ Exists (10 items, 175639 bytes)
+[2026-01-20T06:37:00.060Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1553713 bytes)
+[2026-01-20T06:37:00.060Z] 
 ========================================
-[2026-01-20T06:19:53.822Z] Starting Enhanced Discord Bot...
-[2026-01-20T06:19:53.822Z] ========================================
-[2026-01-20T06:19:54.337Z] [BOT] ✅ Loaded V2 database: 2790 jobs
-[2026-01-20T06:19:55.296Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-20T06:19:55.297Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-20T06:37:00.060Z] Starting Enhanced Discord Bot...
+[2026-01-20T06:37:00.060Z] ========================================
+[2026-01-20T06:37:00.573Z] [BOT] ✅ Loaded V2 database: 2806 jobs
+[2026-01-20T06:37:01.207Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-20T06:37:01.208Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-01-20T06:19:55.297Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-20T06:19:55.465Z] [BOT] ✅ Loaded pending queue: 2808 total (2788 pending, 20 enriched, 0 posted)
+[2026-01-20T06:37:01.208Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-20T06:37:01.327Z] [BOT] ✅ Loaded pending queue: 2806 total (2786 pending, 20 enriched, 0 posted)
 [BOT] 📬 Found 20 enriched jobs ready to post from pending queue
 [BOT] 🔍 Sample enriched job: Partner Marketing Manager (Public Sector) at datadog
-[2026-01-20T06:19:55.469Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
-[2026-01-20T06:19:55.470Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
-[2026-01-20T06:19:55.470Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
-[2026-01-20T06:19:55.471Z] [BOT] 📋 After multi-location grouping: 12 unique jobs to post
-   (8 grouped as same job with different locations)
-📍 4 jobs with multiple locations:
-   - Enterprise Customer Success Manager - Denver @ datadog: denver, colorado, usa, boston, massachusetts, usa; new york, new york, usa
-   - Enterprise Sales Executive @ datadog: washington, district of columbia, usa, remote, boston, massachusetts, usa
-   - Enterprise Sales Executive (FED) @ datadog: washington, district of columbia, usa, remote
-   - Enterprise Security Sales Specialist @ datadog: remote, chicago, illinois, usa; san francisco, california, usa
+[2026-01-20T06:37:01.331Z] [BOT] 📬 Found 20 new jobs (0 already posted)...
+[2026-01-20T06:37:01.331Z] [BOT] 📋 After blacklist filter: 20 jobs (0 blacklisted)
+[2026-01-20T06:37:01.332Z] [BOT] 📋 After data quality filter: 20 jobs (0 invalid)
+[2026-01-20T06:37:01.333Z] [BOT] 📋 After multi-location grouping: 17 unique jobs to post
+[2026-01-20T06:37:01.333Z] [BOT] (3 grouped as same job with different locations)
+📍 3 jobs with multiple locations:
+   - Major Account Manager @ datadog: boston, massachusetts, usa; new york, new york, usa, remote
+   - Manager 1, Technical Account Management - Denver @ datadog: denver, colorado, usa, new york, new york, usa
+   - Manager 2, Premier Support Engineering -  Boston @ datadog: boston, massachusetts, usa, new york, new york, usa
 ⏸️ Limiting to 10 jobs this run, 10 deferred for next run
-📤 Posting 10 jobs...
+[2026-01-20T06:37:01.333Z] [BOT] 📤 Posting 10 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-20T06:19:55.473Z] [BOT ERROR] ⚠️ No channel configured for job: Partner Marketing Manager (Public Sector) - skipping
-[2026-01-20T06:19:55.475Z] [BOT] 📌 Posting 9 jobs to #tech-jobs
-[2026-01-20T06:19:55.476Z] [BOT] 📍 [ROUTING] "Employee Relation Specialist - Workplace Investigations" @ datadog
-   Category: TECH (default)
-[2026-01-20T06:19:55.476Z] [BOT] Channel: tech-jobs (1462...4987)
-[2026-01-20T06:19:55.481Z] [BOT ERROR] (node:2427) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-20T06:37:01.335Z] [BOT ERROR] ⚠️ No channel configured for job: Partner Marketing Manager (Public Sector) - skipping
+[2026-01-20T06:37:01.337Z] [BOT ERROR] ⚠️ No channel configured for job: Inclusion Program Manager - NYC - skipping
+[2026-01-20T06:37:01.337Z] [BOT] 📌 Posting 5 jobs to #tech-jobs
+[2026-01-20T06:37:01.338Z] [BOT] 📍 [ROUTING] "Executive Assistant I - NYC" @ datadog
+[2026-01-20T06:37:01.338Z] [BOT] Category: TECH (default)
+   Channel: tech-jobs (1462...4987)
+[2026-01-20T06:37:01.342Z] [BOT ERROR] (node:2382) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-20T06:19:55.792Z] [BOT] ✅ Posted message: Employee Relation Specialist - Workplace Investigations @ datadog in #tech-jobs
-[2026-01-20T06:19:55.793Z] [BOT] ✅ Industry: Employee Relation Specialist - Workplace Investigations @ datadog
-[2026-01-20T06:19:55.793Z] [BOT] 💾 Added channel posting: Employee Relation Specialist - Workplace Investigations @ datadog → category channel (1 total channels)
-[2026-01-20T06:19:55.793Z] [BOT] 💾 BEFORE ARCHIVING: 2791 jobs in database
-[2026-01-20T06:19:55.796Z] [BOT] 📁 Created archive directory: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/data/archive
-[2026-01-20T06:19:55.800Z] [BOT] 📦 Archived 10 jobs to 2026-01.json (10 total in archive)
-[2026-01-20T06:19:55.800Z] [BOT] ✅ Archiving complete: 10 archived, 2781 active
-[2026-01-20T06:19:55.825Z] [BOT] 💾 Saved posted_jobs.json: 2781 active jobs
+[2026-01-20T06:37:01.788Z] [BOT] ✅ Posted message: Executive Assistant I - NYC @ datadog in #tech-jobs
+[2026-01-20T06:37:01.788Z] [BOT] ✅ Industry: Executive Assistant I - NYC @ datadog
+[2026-01-20T06:37:01.789Z] [BOT] 💾 Added channel posting: Executive Assistant I - NYC @ datadog → category channel (1 total channels)
+[2026-01-20T06:37:01.789Z] [BOT] 💾 BEFORE ARCHIVING: 2807 jobs in database
+[2026-01-20T06:37:01.791Z] [BOT] 📁 Created archive directory: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/data/archive
+[2026-01-20T06:37:01.796Z] [BOT] 📦 Archived 15 jobs to 2026-01.json (15 total in archive)
+[2026-01-20T06:37:01.796Z] [BOT] ✅ Archiving complete: 15 archived, 2792 active
+[2026-01-20T06:37:01.813Z] [BOT] 💾 Saved posted_jobs.json: 2792 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:19:57.524Z] [BOT] ✅ Posted message: Employee Relation Specialist - Workplace Investigations @ datadog in #JID_98d4f0de
-[2026-01-20T06:19:57.525Z] [BOT] ✅ Location: JID_98d4f0de
-[2026-01-20T06:19:57.525Z] [BOT] 💾 Added channel posting: Employee Relation Specialist - Workplace Investigations @ datadog → location channel (2 total channels)
-[2026-01-20T06:19:57.525Z] [BOT] 💾 BEFORE ARCHIVING: 2781 jobs in database
-[2026-01-20T06:19:57.527Z] [BOT] ✅ No jobs to archive (all 2781 jobs within 7-day window)
-[2026-01-20T06:19:57.545Z] [BOT] 💾 Saved posted_jobs.json: 2781 active jobs
+[2026-01-20T06:37:03.546Z] [BOT] ✅ Posted message: Executive Assistant I - NYC @ datadog in #JID_98d4f0de
+[2026-01-20T06:37:03.547Z] [BOT] ✅ Location: JID_98d4f0de
+[2026-01-20T06:37:03.547Z] [BOT] 💾 Added channel posting: Executive Assistant I - NYC @ datadog → location channel (2 total channels)
+💾 BEFORE ARCHIVING: 2792 jobs in database
+[2026-01-20T06:37:03.549Z] [BOT] ✅ No jobs to archive (all 2792 jobs within 7-day window)
+[2026-01-20T06:37:03.566Z] [BOT] 💾 Saved posted_jobs.json: 2792 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:19:59.045Z] [BOT] 💾 Marked as posted: Employee Relation Specialist - Workplace Investigations @ datadog (instance #1)
-[2026-01-20T06:19:59.045Z] [BOT] 💾 BEFORE ARCHIVING: 2782 jobs in database
-[2026-01-20T06:19:59.047Z] [BOT] ✅ No jobs to archive (all 2782 jobs within 7-day window)
-[2026-01-20T06:19:59.067Z] [BOT] 💾 Saved posted_jobs.json: 2782 active jobs
+[2026-01-20T06:37:05.068Z] [BOT] 💾 Marked as posted: Executive Assistant I - NYC @ datadog (instance #1)
+[2026-01-20T06:37:05.068Z] [BOT] 💾 BEFORE ARCHIVING: 2793 jobs in database
+[2026-01-20T06:37:05.070Z] [BOT] ✅ No jobs to archive (all 2793 jobs within 7-day window)
+[2026-01-20T06:37:05.090Z] [BOT] 💾 Saved posted_jobs.json: 2793 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:19:59.067Z] [BOT] 📍 [ROUTING] "Engineering Manager, Application Security Platform" @ datadog
+[2026-01-20T06:37:05.091Z] [BOT] 📍 [ROUTING] "Federal Support Engineer 2 - Denver" @ datadog
    Category: TECH (matched: "engineer/engineering")
-[2026-01-20T06:19:59.067Z] [BOT] Channel: tech-jobs (1462...4987)
-[2026-01-20T06:19:59.377Z] [BOT] ✅ Posted message: Engineering Manager, Application Security Platform @ datadog in #tech-jobs
-  ✅ Industry: Engineering Manager, Application Security Platform @ datadog
-[2026-01-20T06:19:59.378Z] [BOT] 💾 Added channel posting: Engineering Manager, Application Security Platform @ datadog → category channel (1 total channels)
-[2026-01-20T06:19:59.378Z] [BOT] 💾 BEFORE ARCHIVING: 2783 jobs in database
-[2026-01-20T06:19:59.380Z] [BOT] ✅ No jobs to archive (all 2783 jobs within 7-day window)
-[2026-01-20T06:19:59.398Z] [BOT] 💾 Saved posted_jobs.json: 2783 active jobs
+[2026-01-20T06:37:05.091Z] [BOT] Channel: tech-jobs (1462...4987)
+[2026-01-20T06:37:05.221Z] [BOT] ✅ Posted message: Federal Support Engineer 2 - Denver @ datadog in #tech-jobs
+[2026-01-20T06:37:05.221Z] [BOT] ✅ Industry: Federal Support Engineer 2 - Denver @ datadog
+[2026-01-20T06:37:05.222Z] [BOT] 💾 Added channel posting: Federal Support Engineer 2 - Denver @ datadog → category channel (1 total channels)
+[2026-01-20T06:37:05.222Z] [BOT] 💾 BEFORE ARCHIVING: 2794 jobs in database
+[2026-01-20T06:37:05.224Z] [BOT] ✅ No jobs to archive (all 2794 jobs within 7-day window)
+[2026-01-20T06:37:05.242Z] [BOT] 💾 Saved posted_jobs.json: 2794 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:01.183Z] [BOT] ✅ Posted message: Engineering Manager, Application Security Platform @ datadog in #JID_98d4f0de
-[2026-01-20T06:20:01.183Z] [BOT] ✅ Location: JID_98d4f0de
-[2026-01-20T06:20:01.184Z] [BOT] 💾 Added channel posting: Engineering Manager, Application Security Platform @ datadog → location channel (2 total channels)
-💾 BEFORE ARCHIVING: 2783 jobs in database
-[2026-01-20T06:20:01.185Z] [BOT] ✅ No jobs to archive (all 2783 jobs within 7-day window)
-[2026-01-20T06:20:01.203Z] [BOT] 💾 Saved posted_jobs.json: 2783 active jobs
+[2026-01-20T06:37:06.745Z] [BOT] 💾 Marked as posted: Federal Support Engineer 2 - Denver @ datadog (instance #1)
+[2026-01-20T06:37:06.745Z] [BOT] 💾 BEFORE ARCHIVING: 2795 jobs in database
+[2026-01-20T06:37:06.747Z] [BOT] ✅ No jobs to archive (all 2795 jobs within 7-day window)
+[2026-01-20T06:37:06.765Z] [BOT] 💾 Saved posted_jobs.json: 2795 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:02.703Z] [BOT] 💾 Marked as posted: Engineering Manager, Application Security Platform @ datadog (instance #1)
-[2026-01-20T06:20:02.704Z] [BOT] 💾 BEFORE ARCHIVING: 2784 jobs in database
-[2026-01-20T06:20:02.705Z] [BOT] ✅ No jobs to archive (all 2784 jobs within 7-day window)
-[2026-01-20T06:20:02.722Z] [BOT] 💾 Saved posted_jobs.json: 2784 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:02.722Z] [BOT] 📍 [ROUTING] "Enterprise Customer Success Manager - Denver" @ datadog
-[2026-01-20T06:20:02.722Z] [BOT] Category: TECH (default)
-   Channel: tech-jobs (1462...4987)
-[2026-01-20T06:20:03.185Z] [BOT] ✅ Posted message: Enterprise Customer Success Manager - Denver @ datadog in #tech-jobs
-[2026-01-20T06:20:03.185Z] [BOT] ✅ Industry: Enterprise Customer Success Manager - Denver @ datadog
-[2026-01-20T06:20:03.186Z] [BOT] 💾 Added channel posting: Enterprise Customer Success Manager - Denver @ datadog → category channel (1 total channels)
-[2026-01-20T06:20:03.186Z] [BOT] 💾 BEFORE ARCHIVING: 2785 jobs in database
-[2026-01-20T06:20:03.187Z] [BOT] ✅ No jobs to archive (all 2785 jobs within 7-day window)
-[2026-01-20T06:20:03.204Z] [BOT] 💾 Saved posted_jobs.json: 2785 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:04.705Z] [BOT] 💾 Marked as posted: Enterprise Customer Success Manager - Denver @ datadog (instance #1)
-[2026-01-20T06:20:04.706Z] [BOT] 💾 BEFORE ARCHIVING: 2786 jobs in database
-[2026-01-20T06:20:04.708Z] [BOT] ✅ No jobs to archive (all 2786 jobs within 7-day window)
-[2026-01-20T06:20:04.726Z] [BOT] 💾 Saved posted_jobs.json: 2786 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:04.726Z] [BOT] 💾 Marked as posted: Enterprise Customer Success Manager - East Coast @ datadog (instance #1)
-[2026-01-20T06:20:04.727Z] [BOT] 💾 BEFORE ARCHIVING: 2787 jobs in database
-[2026-01-20T06:20:04.728Z] [BOT] ✅ No jobs to archive (all 2787 jobs within 7-day window)
-[2026-01-20T06:20:04.745Z] [BOT] 💾 Saved posted_jobs.json: 2787 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:04.745Z] [BOT] 📍 [ROUTING] "Enterprise Sales Engineer" @ datadog
+[2026-01-20T06:37:06.765Z] [BOT] 📍 [ROUTING] "Field Marketing Manager (LATAM South)" @ datadog
    Category: TECH (default)
-[2026-01-20T06:20:04.745Z] [BOT] Channel: tech-jobs (1462...4987)
-[2026-01-20T06:20:04.915Z] [BOT] ✅ Posted message: Enterprise Sales Engineer @ datadog in #tech-jobs
-[2026-01-20T06:20:04.915Z] [BOT] ✅ Industry: Enterprise Sales Engineer @ datadog
-[2026-01-20T06:20:04.915Z] [BOT] 💾 Added channel posting: Enterprise Sales Engineer @ datadog → category channel (1 total channels)
-[2026-01-20T06:20:04.915Z] [BOT] 💾 BEFORE ARCHIVING: 2788 jobs in database
-[2026-01-20T06:20:04.917Z] [BOT] ✅ No jobs to archive (all 2788 jobs within 7-day window)
-[2026-01-20T06:20:04.933Z] [BOT] 💾 Saved posted_jobs.json: 2788 active jobs
+[2026-01-20T06:37:06.765Z] [BOT] Channel: tech-jobs (1462...4987)
+[2026-01-20T06:37:06.905Z] [BOT] ✅ Posted message: Field Marketing Manager (LATAM South) @ datadog in #tech-jobs
+  ✅ Industry: Field Marketing Manager (LATAM South) @ datadog
+[2026-01-20T06:37:06.905Z] [BOT] 💾 Added channel posting: Field Marketing Manager (LATAM South) @ datadog → category channel (1 total channels)
+💾 BEFORE ARCHIVING: 2796 jobs in database
+[2026-01-20T06:37:06.907Z] [BOT] ✅ No jobs to archive (all 2796 jobs within 7-day window)
+[2026-01-20T06:37:06.924Z] [BOT] 💾 Saved posted_jobs.json: 2796 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:06.733Z] [BOT] ✅ Posted message: Enterprise Sales Engineer @ datadog in #JID_ead674af
-[2026-01-20T06:20:06.733Z] [BOT] ✅ Location: JID_ead674af
-[2026-01-20T06:20:06.734Z] [BOT] 💾 Added channel posting: Enterprise Sales Engineer @ datadog → location channel (2 total channels)
-💾 BEFORE ARCHIVING: 2788 jobs in database
-[2026-01-20T06:20:06.735Z] [BOT] ✅ No jobs to archive (all 2788 jobs within 7-day window)
-[2026-01-20T06:20:06.754Z] [BOT] 💾 Saved posted_jobs.json: 2788 active jobs
+[2026-01-20T06:37:08.425Z] [BOT] 💾 Marked as posted: Field Marketing Manager (LATAM South) @ datadog (instance #1)
+💾 BEFORE ARCHIVING: 2797 jobs in database
+[2026-01-20T06:37:08.427Z] [BOT] ✅ No jobs to archive (all 2797 jobs within 7-day window)
+[2026-01-20T06:37:08.442Z] [BOT] 💾 Saved posted_jobs.json: 2797 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:08.255Z] [BOT] 💾 Marked as posted: Enterprise Sales Engineer @ datadog (instance #1)
-[2026-01-20T06:20:08.255Z] [BOT] 💾 BEFORE ARCHIVING: 2789 jobs in database
-[2026-01-20T06:20:08.257Z] [BOT] ✅ No jobs to archive (all 2789 jobs within 7-day window)
-[2026-01-20T06:20:08.277Z] [BOT] 💾 Saved posted_jobs.json: 2789 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:08.278Z] [BOT] 💾 Marked as posted: Enterprise Sales Engineer - South Africa @ datadog (instance #1)
-[2026-01-20T06:20:08.278Z] [BOT] 💾 BEFORE ARCHIVING: 2790 jobs in database
-[2026-01-20T06:20:08.280Z] [BOT] ✅ No jobs to archive (all 2790 jobs within 7-day window)
-[2026-01-20T06:20:08.301Z] [BOT] 💾 Saved posted_jobs.json: 2790 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:08.301Z] [BOT] 📍 [ROUTING] " Enterprise Sales Executive (SLED)" @ datadog
+[2026-01-20T06:37:08.442Z] [BOT] 📍 [ROUTING] "Lead UX Designer - New York" @ datadog
    Category: TECH (default)
-[2026-01-20T06:20:08.301Z] [BOT] Channel: tech-jobs (1462...4987)
-[2026-01-20T06:20:08.535Z] [BOT] ✅ Posted message:  Enterprise Sales Executive (SLED) @ datadog in #tech-jobs
-[2026-01-20T06:20:08.535Z] [BOT] ✅ Industry:  Enterprise Sales Executive (SLED) @ datadog
-[2026-01-20T06:20:08.536Z] [BOT] 💾 Added channel posting:  Enterprise Sales Executive (SLED) @ datadog → category channel (1 total channels)
-[2026-01-20T06:20:08.536Z] [BOT] 💾 BEFORE ARCHIVING: 2791 jobs in database
-[2026-01-20T06:20:08.537Z] [BOT] ✅ No jobs to archive (all 2791 jobs within 7-day window)
-[2026-01-20T06:20:08.556Z] [BOT] 💾 Saved posted_jobs.json: 2791 active jobs
+[2026-01-20T06:37:08.442Z] [BOT] Channel: tech-jobs (1462...4987)
+[2026-01-20T06:37:08.620Z] [BOT] ✅ Posted message: Lead UX Designer - New York @ datadog in #tech-jobs
+  ✅ Industry: Lead UX Designer - New York @ datadog
+[2026-01-20T06:37:08.621Z] [BOT] 💾 Added channel posting: Lead UX Designer - New York @ datadog → category channel (1 total channels)
+[2026-01-20T06:37:08.621Z] [BOT] 💾 BEFORE ARCHIVING: 2798 jobs in database
+[2026-01-20T06:37:08.623Z] [BOT] ✅ No jobs to archive (all 2798 jobs within 7-day window)
+[2026-01-20T06:37:08.638Z] [BOT] 💾 Saved posted_jobs.json: 2798 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:10.230Z] [BOT] ✅ Posted message:  Enterprise Sales Executive (SLED) @ datadog in #JID_ead674af
-  ✅ Location: JID_ead674af
-[2026-01-20T06:20:10.231Z] [BOT] 💾 Added channel posting:  Enterprise Sales Executive (SLED) @ datadog → location channel (2 total channels)
-[2026-01-20T06:20:10.231Z] [BOT] 💾 BEFORE ARCHIVING: 2791 jobs in database
-[2026-01-20T06:20:10.233Z] [BOT] ✅ No jobs to archive (all 2791 jobs within 7-day window)
-[2026-01-20T06:20:10.253Z] [BOT] 💾 Saved posted_jobs.json: 2791 active jobs
+[2026-01-20T06:37:10.674Z] [BOT] ✅ Posted message: Lead UX Designer - New York @ datadog in #JID_98d4f0de
+  ✅ Location: JID_98d4f0de
+[2026-01-20T06:37:10.674Z] [BOT] 💾 Added channel posting: Lead UX Designer - New York @ datadog → location channel (2 total channels)
+[2026-01-20T06:37:10.674Z] [BOT] 💾 BEFORE ARCHIVING: 2798 jobs in database
+[2026-01-20T06:37:10.677Z] [BOT] ✅ No jobs to archive (all 2798 jobs within 7-day window)
+[2026-01-20T06:37:10.696Z] [BOT] 💾 Saved posted_jobs.json: 2798 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:11.754Z] [BOT] 💾 Marked as posted:  Enterprise Sales Executive (SLED) @ datadog (instance #1)
-[2026-01-20T06:20:11.754Z] [BOT] 💾 BEFORE ARCHIVING: 2792 jobs in database
-[2026-01-20T06:20:11.756Z] [BOT] ✅ No jobs to archive (all 2792 jobs within 7-day window)
-[2026-01-20T06:20:11.780Z] [BOT] 💾 Saved posted_jobs.json: 2792 active jobs
+[2026-01-20T06:37:12.197Z] [BOT] 💾 Marked as posted: Lead UX Designer - New York @ datadog (instance #1)
+[2026-01-20T06:37:12.197Z] [BOT] 💾 BEFORE ARCHIVING: 2799 jobs in database
+[2026-01-20T06:37:12.199Z] [BOT] ✅ No jobs to archive (all 2799 jobs within 7-day window)
+[2026-01-20T06:37:12.219Z] [BOT] 💾 Saved posted_jobs.json: 2799 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:11.781Z] [BOT] 📍 [ROUTING] "Enterprise Sales Executive" @ datadog
-   Category: TECH (default)
-   Channel: tech-jobs (1462...4987)
-[2026-01-20T06:20:12.009Z] [BOT] ✅ Posted message: Enterprise Sales Executive @ datadog in #tech-jobs
-  ✅ Industry: Enterprise Sales Executive @ datadog
-[2026-01-20T06:20:12.011Z] [BOT] 💾 Added channel posting: Enterprise Sales Executive @ datadog → category channel (1 total channels)
-[2026-01-20T06:20:12.011Z] [BOT] 💾 BEFORE ARCHIVING: 2793 jobs in database
-[2026-01-20T06:20:12.013Z] [BOT] ✅ No jobs to archive (all 2793 jobs within 7-day window)
-[2026-01-20T06:20:12.043Z] [BOT] 💾 Saved posted_jobs.json: 2793 active jobs
+[2026-01-20T06:37:12.219Z] [BOT] 📍 [ROUTING] "Global Safety & Security Senior Manager - NYC" @ datadog
+   Category: TECH (matched: "security")
+[2026-01-20T06:37:12.220Z] [BOT] Channel: tech-jobs (1462...4987)
+[2026-01-20T06:37:12.644Z] [BOT] ✅ Posted message: Global Safety & Security Senior Manager - NYC @ datadog in #tech-jobs
+  ✅ Industry: Global Safety & Security Senior Manager - NYC @ datadog
+[2026-01-20T06:37:12.645Z] [BOT] 💾 Added channel posting: Global Safety & Security Senior Manager - NYC @ datadog → category channel (1 total channels)
+[2026-01-20T06:37:12.645Z] [BOT] 💾 BEFORE ARCHIVING: 2800 jobs in database
+[2026-01-20T06:37:12.647Z] [BOT] ✅ No jobs to archive (all 2800 jobs within 7-day window)
+[2026-01-20T06:37:12.664Z] [BOT] 💾 Saved posted_jobs.json: 2800 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:13.544Z] [BOT] 💾 Marked as posted: Enterprise Sales Executive @ datadog (instance #1)
-[2026-01-20T06:20:13.544Z] [BOT] 💾 BEFORE ARCHIVING: 2794 jobs in database
-[2026-01-20T06:20:13.546Z] [BOT] ✅ No jobs to archive (all 2794 jobs within 7-day window)
-[2026-01-20T06:20:13.565Z] [BOT] 💾 Saved posted_jobs.json: 2794 active jobs
+[2026-01-20T06:37:14.385Z] [BOT] ✅ Posted message: Global Safety & Security Senior Manager - NYC @ datadog in #JID_98d4f0de
+[2026-01-20T06:37:14.386Z] [BOT] ✅ Location: JID_98d4f0de
+[2026-01-20T06:37:14.386Z] [BOT] 💾 Added channel posting: Global Safety & Security Senior Manager - NYC @ datadog → location channel (2 total channels)
+[2026-01-20T06:37:14.386Z] [BOT] 💾 BEFORE ARCHIVING: 2800 jobs in database
+[2026-01-20T06:37:14.388Z] [BOT] ✅ No jobs to archive (all 2800 jobs within 7-day window)
+[2026-01-20T06:37:14.405Z] [BOT] 💾 Saved posted_jobs.json: 2800 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:13.566Z] [BOT] 💾 Marked as posted: Enterprise Sales Executive @ datadog (instance #1)
-[2026-01-20T06:20:13.566Z] [BOT] 💾 BEFORE ARCHIVING: 2795 jobs in database
-[2026-01-20T06:20:13.569Z] [BOT] ✅ No jobs to archive (all 2795 jobs within 7-day window)
-[2026-01-20T06:20:13.588Z] [BOT] 💾 Saved posted_jobs.json: 2795 active jobs
+[2026-01-20T06:37:15.906Z] [BOT] 💾 Marked as posted: Global Safety & Security Senior Manager - NYC @ datadog (instance #1)
+[2026-01-20T06:37:15.906Z] [BOT] 💾 BEFORE ARCHIVING: 2801 jobs in database
+[2026-01-20T06:37:15.908Z] [BOT] ✅ No jobs to archive (all 2801 jobs within 7-day window)
+[2026-01-20T06:37:15.926Z] [BOT] 💾 Saved posted_jobs.json: 2801 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:13.588Z] [BOT] 💾 Marked as posted: Enterprise Sales Executive @ datadog (instance #1)
-[2026-01-20T06:20:13.588Z] [BOT] 💾 BEFORE ARCHIVING: 2796 jobs in database
-[2026-01-20T06:20:13.590Z] [BOT] ✅ No jobs to archive (all 2796 jobs within 7-day window)
-[2026-01-20T06:20:13.611Z] [BOT] 💾 Saved posted_jobs.json: 2796 active jobs
+[2026-01-20T06:37:18.927Z] [BOT] 📌 Posting 3 jobs to #finance-jobs
+[2026-01-20T06:37:18.928Z] [BOT] 📍 [ROUTING] "Field CISO" @ datadog
+   Category: FINANCE (matched: "finance")
+[2026-01-20T06:37:18.928Z] [BOT] Channel: finance-jobs (1462...4023)
+[2026-01-20T06:37:19.184Z] [BOT] ✅ Posted message: Field CISO @ datadog in #finance-jobs
+  ✅ Industry: Field CISO @ datadog
+[2026-01-20T06:37:19.184Z] [BOT] 💾 Added channel posting: Field CISO @ datadog → category channel (1 total channels)
+[2026-01-20T06:37:19.184Z] [BOT] 💾 BEFORE ARCHIVING: 2802 jobs in database
+[2026-01-20T06:37:19.186Z] [BOT] ✅ No jobs to archive (all 2802 jobs within 7-day window)
+[2026-01-20T06:37:19.203Z] [BOT] 💾 Saved posted_jobs.json: 2802 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:13.611Z] [BOT] 💾 Marked as posted: Enterprise Sales Executive @ datadog (instance #1)
-[2026-01-20T06:20:13.612Z] [BOT] 💾 BEFORE ARCHIVING: 2797 jobs in database
-[2026-01-20T06:20:13.613Z] [BOT] ✅ No jobs to archive (all 2797 jobs within 7-day window)
-[2026-01-20T06:20:13.637Z] [BOT] 💾 Saved posted_jobs.json: 2797 active jobs
+[2026-01-20T06:37:20.705Z] [BOT] 💾 Marked as posted: Field CISO @ datadog (instance #1)
+[2026-01-20T06:37:20.705Z] [BOT] 💾 BEFORE ARCHIVING: 2803 jobs in database
+[2026-01-20T06:37:20.706Z] [BOT] ✅ No jobs to archive (all 2803 jobs within 7-day window)
+[2026-01-20T06:37:20.725Z] [BOT] 💾 Saved posted_jobs.json: 2803 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:13.637Z] [BOT] 💾 Marked as posted: Enterprise Sales Executive @ datadog (instance #1)
-💾 BEFORE ARCHIVING: 2798 jobs in database
-[2026-01-20T06:20:13.641Z] [BOT] ✅ No jobs to archive (all 2798 jobs within 7-day window)
-[2026-01-20T06:20:13.660Z] [BOT] 💾 Saved posted_jobs.json: 2798 active jobs
+[2026-01-20T06:37:20.725Z] [BOT] 📍 [ROUTING] "Field CTO - Media & Entertainment" @ datadog
+   Category: FINANCE (matched: "finance")
+[2026-01-20T06:37:20.726Z] [BOT] Channel: finance-jobs (1462...4023)
+[2026-01-20T06:37:20.950Z] [BOT] ✅ Posted message: Field CTO - Media & Entertainment @ datadog in #finance-jobs
+[2026-01-20T06:37:20.950Z] [BOT] ✅ Industry: Field CTO - Media & Entertainment @ datadog
+[2026-01-20T06:37:20.950Z] [BOT] 💾 Added channel posting: Field CTO - Media & Entertainment @ datadog → category channel (1 total channels)
+[2026-01-20T06:37:20.950Z] [BOT] 💾 BEFORE ARCHIVING: 2804 jobs in database
+[2026-01-20T06:37:20.952Z] [BOT] ✅ No jobs to archive (all 2804 jobs within 7-day window)
+[2026-01-20T06:37:20.967Z] [BOT] 💾 Saved posted_jobs.json: 2804 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:13.661Z] [BOT] 📍 [ROUTING] "Enterprise Sales Executive (FED)" @ datadog
-   Category: TECH (default)
-   Channel: tech-jobs (1462...4987)
-[2026-01-20T06:20:13.924Z] [BOT] ✅ Posted message: Enterprise Sales Executive (FED) @ datadog in #tech-jobs
-[2026-01-20T06:20:13.925Z] [BOT] ✅ Industry: Enterprise Sales Executive (FED) @ datadog
-[2026-01-20T06:20:13.925Z] [BOT] 💾 Added channel posting: Enterprise Sales Executive (FED) @ datadog → category channel (1 total channels)
-[2026-01-20T06:20:13.926Z] [BOT] 💾 BEFORE ARCHIVING: 2799 jobs in database
-[2026-01-20T06:20:13.927Z] [BOT] ✅ No jobs to archive (all 2799 jobs within 7-day window)
-[2026-01-20T06:20:13.949Z] [BOT] 💾 Saved posted_jobs.json: 2799 active jobs
+[2026-01-20T06:37:22.469Z] [BOT] 💾 Marked as posted: Field CTO - Media & Entertainment @ datadog (instance #1)
+💾 BEFORE ARCHIVING: 2805 jobs in database
+[2026-01-20T06:37:22.471Z] [BOT] ✅ No jobs to archive (all 2805 jobs within 7-day window)
+[2026-01-20T06:37:22.488Z] [BOT] 💾 Saved posted_jobs.json: 2805 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:15.450Z] [BOT] 💾 Marked as posted: Enterprise Sales Executive (FED) @ datadog (instance #1)
-[2026-01-20T06:20:15.450Z] [BOT] 💾 BEFORE ARCHIVING: 2800 jobs in database
-[2026-01-20T06:20:15.452Z] [BOT] ✅ No jobs to archive (all 2800 jobs within 7-day window)
-[2026-01-20T06:20:15.467Z] [BOT] 💾 Saved posted_jobs.json: 2800 active jobs
-[2026-01-20T06:20:15.467Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:15.467Z] [BOT] 💾 Marked as posted: Enterprise Sales Executive (FED) @ datadog (instance #1)
-[2026-01-20T06:20:15.467Z] [BOT] 💾 BEFORE ARCHIVING: 2801 jobs in database
-[2026-01-20T06:20:15.469Z] [BOT] ✅ No jobs to archive (all 2801 jobs within 7-day window)
-[2026-01-20T06:20:15.484Z] [BOT] 💾 Saved posted_jobs.json: 2801 active jobs
+[2026-01-20T06:37:22.489Z] [BOT] 📍 [ROUTING] "GTM Strategy and Operations Analyst - Channels & Alliances" @ datadog
+   Category: FINANCE (matched: "investment")
+[2026-01-20T06:37:22.489Z] [BOT] Channel: finance-jobs (1462...4023)
+[2026-01-20T06:37:22.722Z] [BOT] ✅ Posted message: GTM Strategy and Operations Analyst - Channels & Alliances @ datadog in #finance-jobs
+  ✅ Industry: GTM Strategy and Operations Analyst - Channels & Alliances @ datadog
+[2026-01-20T06:37:22.723Z] [BOT] 💾 Added channel posting: GTM Strategy and Operations Analyst - Channels & Alliances @ datadog → category channel (1 total channels)
+[2026-01-20T06:37:22.723Z] [BOT] 💾 BEFORE ARCHIVING: 2806 jobs in database
+[2026-01-20T06:37:22.725Z] [BOT] ✅ No jobs to archive (all 2806 jobs within 7-day window)
+[2026-01-20T06:37:22.744Z] [BOT] 💾 Saved posted_jobs.json: 2806 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:15.485Z] [BOT] 📍 [ROUTING] "Enterprise Security Sales Specialist" @ datadog
-[2026-01-20T06:20:15.485Z] [BOT] Category: TECH (matched: "security")
-   Channel: tech-jobs (1462...4987)
-[2026-01-20T06:20:15.738Z] [BOT] ✅ Posted message: Enterprise Security Sales Specialist @ datadog in #tech-jobs
-  ✅ Industry: Enterprise Security Sales Specialist @ datadog
-[2026-01-20T06:20:15.739Z] [BOT] 💾 Added channel posting: Enterprise Security Sales Specialist @ datadog → category channel (1 total channels)
-[2026-01-20T06:20:15.739Z] [BOT] 💾 BEFORE ARCHIVING: 2802 jobs in database
-[2026-01-20T06:20:15.740Z] [BOT] ✅ No jobs to archive (all 2802 jobs within 7-day window)
-[2026-01-20T06:20:15.758Z] [BOT] 💾 Saved posted_jobs.json: 2802 active jobs
+[2026-01-20T06:37:24.385Z] [BOT] ✅ Posted message: GTM Strategy and Operations Analyst - Channels & Alliances @ datadog in #JID_98d4f0de
+  ✅ Location: JID_98d4f0de
+[2026-01-20T06:37:24.385Z] [BOT] 💾 Added channel posting: GTM Strategy and Operations Analyst - Channels & Alliances @ datadog → location channel (2 total channels)
+[2026-01-20T06:37:24.385Z] [BOT] 💾 BEFORE ARCHIVING: 2806 jobs in database
+[2026-01-20T06:37:24.387Z] [BOT] ✅ No jobs to archive (all 2806 jobs within 7-day window)
+[2026-01-20T06:37:24.403Z] [BOT] 💾 Saved posted_jobs.json: 2806 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:17.465Z] [BOT] ✅ Posted message: Enterprise Security Sales Specialist @ datadog in #JID_ead674af
-  ✅ Location: JID_ead674af
-[2026-01-20T06:20:17.466Z] [BOT] 💾 Added channel posting: Enterprise Security Sales Specialist @ datadog → location channel (2 total channels)
-[2026-01-20T06:20:17.466Z] [BOT] 💾 BEFORE ARCHIVING: 2802 jobs in database
-[2026-01-20T06:20:17.468Z] [BOT] ✅ No jobs to archive (all 2802 jobs within 7-day window)
-[2026-01-20T06:20:17.484Z] [BOT] 💾 Saved posted_jobs.json: 2802 active jobs
+[2026-01-20T06:37:25.905Z] [BOT] 💾 Marked as posted: GTM Strategy and Operations Analyst - Channels & Alliances @ datadog (instance #1)
+[2026-01-20T06:37:25.905Z] [BOT] 💾 BEFORE ARCHIVING: 2807 jobs in database
+[2026-01-20T06:37:25.907Z] [BOT] ✅ No jobs to archive (all 2807 jobs within 7-day window)
+[2026-01-20T06:37:25.925Z] [BOT] 💾 Saved posted_jobs.json: 2807 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:18.986Z] [BOT] 💾 Marked as posted: Enterprise Security Sales Specialist @ datadog (instance #1)
-[2026-01-20T06:20:18.986Z] [BOT] 💾 BEFORE ARCHIVING: 2803 jobs in database
-[2026-01-20T06:20:18.988Z] [BOT] ✅ No jobs to archive (all 2803 jobs within 7-day window)
-[2026-01-20T06:20:19.008Z] [BOT] 💾 Saved posted_jobs.json: 2803 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:19.009Z] [BOT] 💾 Marked as posted: Enterprise Security Sales Specialist @ datadog (instance #1)
-[2026-01-20T06:20:19.009Z] [BOT] 💾 BEFORE ARCHIVING: 2804 jobs in database
-[2026-01-20T06:20:19.011Z] [BOT] ✅ No jobs to archive (all 2804 jobs within 7-day window)
-[2026-01-20T06:20:19.030Z] [BOT] 💾 Saved posted_jobs.json: 2804 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:19.030Z] [BOT] 📍 [ROUTING] "Executive Assistant II - San Francisco" @ datadog
-[2026-01-20T06:20:19.030Z] [BOT] Category: TECH (default)
-   Channel: tech-jobs (1462...4987)
-[2026-01-20T06:20:19.371Z] [BOT] ✅ Posted message: Executive Assistant II - San Francisco @ datadog in #tech-jobs
-  ✅ Industry: Executive Assistant II - San Francisco @ datadog
-[2026-01-20T06:20:19.371Z] [BOT] 💾 Added channel posting: Executive Assistant II - San Francisco @ datadog → category channel (1 total channels)
-[2026-01-20T06:20:19.371Z] [BOT] 💾 BEFORE ARCHIVING: 2805 jobs in database
-[2026-01-20T06:20:19.373Z] [BOT] ✅ No jobs to archive (all 2805 jobs within 7-day window)
-[2026-01-20T06:20:19.394Z] [BOT] 💾 Saved posted_jobs.json: 2805 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:20.895Z] [BOT] 💾 Marked as posted: Executive Assistant II - San Francisco @ datadog (instance #1)
-[2026-01-20T06:20:20.895Z] [BOT] 💾 BEFORE ARCHIVING: 2806 jobs in database
-[2026-01-20T06:20:20.897Z] [BOT] ✅ No jobs to archive (all 2806 jobs within 7-day window)
-[2026-01-20T06:20:20.918Z] [BOT] 💾 Saved posted_jobs.json: 2806 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-20T06:20:23.918Z] [BOT] 🎉 Posting complete! Successfully posted: 9, Failed: 0
-[2026-01-20T06:20:23.920Z] [BOT] ⏭️  Skipping duplicate: JID_5c406f64 (posted within 7 days)
-[2026-01-20T06:20:23.920Z] [BOT] ⏭️  Skipping duplicate: JID_54d6023b (posted within 7 days)
-[2026-01-20T06:20:23.920Z] [BOT] ⏭️  Skipping duplicate: JID_6da9444c (posted within 7 days)
-[2026-01-20T06:20:23.920Z] [BOT] ⏭️  Skipping duplicate: JID_20b447ad (posted within 7 days)
-[2026-01-20T06:20:23.921Z] [BOT] ⏭️  Skipping duplicate: JID_0a4dca01 (posted within 7 days)
-[2026-01-20T06:20:23.921Z] [BOT] ⏭️  Skipping duplicate: JID_986c19a5 (posted within 7 days)
-[2026-01-20T06:20:23.921Z] [BOT] ⏭️  Skipping duplicate: JID_f16f7e01 (posted within 7 days)
-[2026-01-20T06:20:23.921Z] [BOT] ⏭️  Skipping duplicate: JID_bffaf944 (posted within 7 days)
-[2026-01-20T06:20:23.921Z] [BOT] ⏭️  Skipping duplicate: JID_84d2607c (posted within 7 days)
-[2026-01-20T06:20:24.072Z] [BOT] ✅ Loaded pending queue: 2808 total (2788 pending, 20 enriched, 0 posted)
-[2026-01-20T06:20:24.237Z] [BOT] ✅ Saved pending queue: 2808 total (2788 pending, 11 enriched, 9 posted)
-📋 Updated queue: marked 9 jobs as posted
+[2026-01-20T06:37:28.925Z] [BOT] 🎉 Posting complete! Successfully posted: 8, Failed: 0
+[2026-01-20T06:37:28.926Z] [BOT] ⏭️  Skipping duplicate: JID_03d6c806 (posted within 7 days)
+[2026-01-20T06:37:28.926Z] [BOT] ⏭️  Skipping duplicate: JID_9271b02d (posted within 7 days)
+[2026-01-20T06:37:28.927Z] [BOT] ⏭️  Skipping duplicate: JID_7de3b3fa (posted within 7 days)
+[2026-01-20T06:37:28.927Z] [BOT] ⏭️  Skipping duplicate: JID_96b2c378 (posted within 7 days)
+[2026-01-20T06:37:28.927Z] [BOT] ⏭️  Skipping duplicate: JID_2b763968 (posted within 7 days)
+[2026-01-20T06:37:28.927Z] [BOT] ⏭️  Skipping duplicate: JID_78a569be (posted within 7 days)
+[2026-01-20T06:37:28.927Z] [BOT] ⏭️  Skipping duplicate: JID_d1b38d6c (posted within 7 days)
+[2026-01-20T06:37:28.927Z] [BOT] ⏭️  Skipping duplicate: JID_d9e3e533 (posted within 7 days)
+[2026-01-20T06:37:29.040Z] [BOT] ✅ Loaded pending queue: 2806 total (2786 pending, 20 enriched, 0 posted)
+[2026-01-20T06:37:29.210Z] [BOT] ✅ Saved pending queue: 2806 total (2786 pending, 12 enriched, 8 posted)
+📋 Updated queue: marked 8 jobs as posted
 ✅ All posting operations complete, cleaning up...
-[2026-01-20T06:20:24.302Z] [BOT] 📂 Loaded 5319 existing routing entries
-[2026-01-20T06:20:24.371Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-   New entries: 9
-   Total entries: 5328
-   Timestamp: 2026-01-20T06:20:24.352Z
-[2026-01-20T06:20:24.372Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_fe0e0e6e.jsonl
-   Total attempts: 14
-   Successful: 14
+[2026-01-20T06:37:29.278Z] [BOT] 📂 Loaded 5328 existing routing entries
+[2026-01-20T06:37:29.349Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 8
+   Total entries: 5336
+[2026-01-20T06:37:29.349Z] [BOT] Timestamp: 2026-01-20T06:37:29.332Z
+[2026-01-20T06:37:29.351Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_fe0e0e6e.jsonl
+   Total attempts: 12
+   Successful: 12
    Failed: 0
    Skipped: 0
 📊 CHANNEL STATS SINCE LAST CLEANUP:
    Last cleanup: Never
-   Total posts: 14
+   Total posts: 12
    Channels used: 3
    Top channels:
-     1. #tech-jobs: 9 posts
-     2. #JID_ead674af: 3 posts
-     3. #JID_98d4f0de: 2 posts
-[2026-01-20T06:20:24.372Z] [BOT] [STATS] Channel stats saved
-[2026-01-20T06:20:26.387Z] 
+     1. #tech-jobs: 5 posts
+     2. #JID_98d4f0de: 4 posts
+     3. #finance-jobs: 3 posts
+[STATS] Channel stats saved
+[2026-01-20T06:37:31.372Z] 
 ========================================
 ```
 ## Errors Detected
@@ -318,6 +256,7 @@ Data Files Check:
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
 - [BOT ERROR] ⚠️ No channel configured for job: Partner Marketing Manager (Public Sector) - skipping
-- [BOT ERROR] (node:2427) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] ⚠️ No channel configured for job: Inclusion Program Manager - NYC - skipping
+- [BOT ERROR] (node:2382) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*

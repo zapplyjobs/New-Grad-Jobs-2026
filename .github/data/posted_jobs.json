@@ -1,172 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T06:20:20.895Z",
+  "lastUpdated": "2026-01-20T06:37:25.905Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4834059007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4834059007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, West Coast",
-      "postedToDiscord": "2026-01-13T06:27:26.149Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4834059007",
-      "discordThreadId": "1460520586236133642",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949024007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949024007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-13T06:27:29.739Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949024007",
-      "discordThreadId": "1460520599855173784",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4945152007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4945152007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-13T06:27:29.746Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945152007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949027007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949027007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-13T06:27:29.751Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949027007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949028007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949028007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-13T06:27:29.757Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949028007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949035007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949035007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-13T06:27:29.762Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949035007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4985491007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4985491007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-13T06:27:29.768Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4985491007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4087164007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4087164007",
-      "company": "verkada",
-      "title": "Solutions Engineer",
-      "postedToDiscord": "2026-01-13T06:27:31.423Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087164007",
-      "discordThreadId": "1460520615218778324",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4185105007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4185105007",
-      "company": "verkada",
-      "title": "Solutions Engineering Manager, Select & Territory",
-      "postedToDiscord": "2026-01-13T06:27:34.906Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
-      "discordThreadId": "1460520622361808898",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4824487007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4824487007",
-      "company": "verkada",
-      "title": "National Channel Sales Manager, Midwest",
-      "postedToDiscord": "2026-01-13T06:27:41.376Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
-      "discordThreadId": "1460520649834631251",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4387668007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4387668007",
-      "company": "verkada",
-      "title": "Regional Sales Manager, Mid-Market",
-      "postedToDiscord": "2026-01-13T06:27:46.062Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4387668007",
-      "discordThreadId": "1460520676653011042",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4520965007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4520965007",
-      "company": "verkada",
-      "title": "Sales Development Representative (AAE), New York City ",
-      "postedToDiscord": "2026-01-13T06:27:49.435Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
-      "discordThreadId": "1460520683686727730",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5011857007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5011857007",
-      "company": "verkada",
-      "title": "Sales Recruiter, Salt Lake City",
-      "postedToDiscord": "2026-01-13T06:27:54.276Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5011857007",
-      "discordThreadId": "1460520710957957219",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4648144007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4648144007",
-      "company": "verkada",
-      "title": "Senior Channel Marketing Manager, Northeast (Remote)",
-      "postedToDiscord": "2026-01-13T06:28:00.894Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4648144007",
-      "discordThreadId": "1460520731518570579",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4990280007-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990280007",
-      "company": "verkada",
-      "title": "Sr. Tradeshow and Event Marketing Manager",
-      "postedToDiscord": "2026-01-13T06:28:04.304Z",
-      "sourceDate": "2025-12-23T19:09:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
-      "discordThreadId": "1460520745737392150",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-verkada-jobs-4701504007-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-verkada-jobs-4701504007",
@@ -31600,14 +31435,266 @@
       "discordThreadId": "1463055523925725215",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "7943cad093f2b869-2026-01-20-1",
+      "jobId": "7943cad093f2b869",
+      "company": "datadog",
+      "title": "Executive Assistant I - NYC",
+      "postedToDiscord": "2026-01-20T06:37:01.788Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463059728036007959",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:01.788Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463059735795335325",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:37:03.546Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7467827-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7467827",
+      "company": "datadog",
+      "title": "Executive Assistant I - NYC",
+      "postedToDiscord": "2026-01-20T06:37:05.067Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
+      "discordThreadId": "1463059728036007959",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3a75464e97e9f126-2026-01-20-1",
+      "jobId": "3a75464e97e9f126",
+      "company": "datadog",
+      "title": "Federal Support Engineer 2 - Denver",
+      "postedToDiscord": "2026-01-20T06:37:05.221Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463059743382835210",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:05.221Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7301380-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7301380",
+      "company": "datadog",
+      "title": "Federal Support Engineer 2 - Denver",
+      "postedToDiscord": "2026-01-20T06:37:06.744Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380",
+      "discordThreadId": "1463059743382835210",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7fcaf5e4eeffb0a1-2026-01-20-1",
+      "jobId": "7fcaf5e4eeffb0a1",
+      "company": "datadog",
+      "title": "Field Marketing Manager (LATAM South)",
+      "postedToDiscord": "2026-01-20T06:37:06.904Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463059750399774884",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:06.904Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7476902-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7476902",
+      "company": "datadog",
+      "title": "Field Marketing Manager (LATAM South)",
+      "postedToDiscord": "2026-01-20T06:37:08.424Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
+      "discordThreadId": "1463059750399774884",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "425cea262a587b99-2026-01-20-1",
+      "jobId": "425cea262a587b99",
+      "company": "datadog",
+      "title": "Lead UX Designer - New York",
+      "postedToDiscord": "2026-01-20T06:37:08.620Z",
+      "sourceDate": "2026-01-14T16:14:34-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463059757433753714",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:08.620Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463059765608317042",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:37:10.674Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7481495-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7481495",
+      "company": "datadog",
+      "title": "Lead UX Designer - New York",
+      "postedToDiscord": "2026-01-20T06:37:12.196Z",
+      "sourceDate": "2026-01-14T16:14:34-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
+      "discordThreadId": "1463059757433753714",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fac756810c9408bd-2026-01-20-1",
+      "jobId": "fac756810c9408bd",
+      "company": "datadog",
+      "title": "Global Safety & Security Senior Manager - NYC",
+      "postedToDiscord": "2026-01-20T06:37:12.644Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7357271/?gh_jid=7357271",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463059773367914541",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:12.644Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463059781412585484",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:37:14.385Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7357271-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7357271",
+      "company": "datadog",
+      "title": "Global Safety & Security Senior Manager - NYC",
+      "postedToDiscord": "2026-01-20T06:37:15.905Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7357271/?gh_jid=7357271",
+      "discordThreadId": "1463059773367914541",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "eb11e4fa970e997f-2026-01-20-1",
+      "jobId": "eb11e4fa970e997f",
+      "company": "datadog",
+      "title": "Field CISO",
+      "postedToDiscord": "2026-01-20T06:37:19.184Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7391751/?gh_jid=7391751",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463059801339855032",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:19.184Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7391751-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7391751",
+      "company": "datadog",
+      "title": "Field CISO",
+      "postedToDiscord": "2026-01-20T06:37:20.704Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7391751/?gh_jid=7391751",
+      "discordThreadId": "1463059801339855032",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "50929f84f9515735-2026-01-20-1",
+      "jobId": "50929f84f9515735",
+      "company": "datadog",
+      "title": "Field CTO - Media & Entertainment",
+      "postedToDiscord": "2026-01-20T06:37:20.950Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7159384/?gh_jid=7159384",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463059809182945422",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:20.950Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7159384-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7159384",
+      "company": "datadog",
+      "title": "Field CTO - Media & Entertainment",
+      "postedToDiscord": "2026-01-20T06:37:22.469Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7159384/?gh_jid=7159384",
+      "discordThreadId": "1463059809182945422",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0f0610bfbc86412f-2026-01-20-1",
+      "jobId": "0f0610bfbc86412f",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
+      "postedToDiscord": "2026-01-20T06:37:22.722Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7450692/?gh_jid=7450692",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463059816464388273",
+          "channelType": "category",
+          "postedAt": "2026-01-20T06:37:22.722Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463059823699558440",
+          "channelType": "location",
+          "postedAt": "2026-01-20T06:37:24.385Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7450692-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7450692",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
+      "postedToDiscord": "2026-01-20T06:37:25.904Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7450692/?gh_jid=7450692",
+      "discordThreadId": "1463059816464388273",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2806,
+    "totalJobs": 2807,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T06:20:20.895Z",
+      "date": "2026-01-20T06:37:25.905Z",
       "archived": 0
     }
   }
