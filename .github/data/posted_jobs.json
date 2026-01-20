@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:30:15.256Z",
+  "lastUpdated": "2026-01-20T23:43:41.238Z",
   "jobs": [
-    {
-      "id": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-technicians-nc-1337431200-2026-01-13-1",
-      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-technicians-nc-1337431200",
-      "company": "Westinghouse Electric Company",
-      "title": "Nuclear Analysis Technician C / Engineering Technicians",
-      "postedToDiscord": "2026-01-13T23:37:44.847Z",
-      "sourceDate": "2025-12-10T23:13:08.000Z",
-      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Technicians-NC/1337431200/?ats=successfactors",
-      "discordThreadId": "1460779870987616306",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4941204008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4941204008",
-      "company": "anthropic",
-      "title": "Staff+ Software Engineer, Data Infrastructure",
-      "postedToDiscord": "2026-01-13T23:37:48.372Z",
-      "sourceDate": "2025-12-10T13:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4941204008",
-      "discordThreadId": "1460779886741557259",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4970463008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970463008",
-      "company": "anthropic",
-      "title": "Staff+ Software Engineer, Databases",
-      "postedToDiscord": "2026-01-13T23:37:51.800Z",
-      "sourceDate": "2025-12-10T13:54:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970463008",
-      "discordThreadId": "1460779901291598030",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-whoop-02b3ba78-ccb4-40a4-94b3-6b14c71eed9e-apply-2026-01-13-1",
-      "jobId": "jobs-lever-co-whoop-02b3ba78-ccb4-40a4-94b3-6b14c71eed9e-apply",
-      "company": "Whoop",
-      "title": "Software Engineer 1 - Backend - Healthcare",
-      "postedToDiscord": "2026-01-13T23:37:58.352Z",
-      "sourceDate": "2025-12-10T23:06:28.000Z",
-      "sourceUrl": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e/apply",
-      "discordThreadId": "1460779928625873179",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4970314008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970314008",
-      "company": "anthropic",
-      "title": "Staff+ Software Engineer, Infrastructure",
-      "postedToDiscord": "2026-01-13T23:38:04.771Z",
-      "sourceDate": "2025-12-10T18:01:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
-      "discordThreadId": "1460779955985191157",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4632118008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4632118008",
-      "company": "anthropic",
-      "title": "Senior Software Engineer, Infrastructure ",
-      "postedToDiscord": "2026-01-13T23:38:09.653Z",
-      "sourceDate": "2025-12-10T18:00:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
-      "discordThreadId": "1460779970304540797",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5018714008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018714008",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Model Evaluations",
-      "postedToDiscord": "2026-01-13T23:38:13.470Z",
-      "sourceDate": "2025-12-10T13:56:01-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018714008",
-      "discordThreadId": "1460779990688862424",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5728495004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5728495004",
-      "company": "figma",
-      "title": "Director, Federal Sales",
-      "postedToDiscord": "2026-01-13T23:38:19.927Z",
-      "sourceDate": "2025-12-10T14:21:16-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004",
-      "discordThreadId": "1460780019524702484",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8103520002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8103520002",
-      "company": "discord",
-      "title": "Senior Director, Internal Audit",
-      "postedToDiscord": "2026-01-13T23:38:26.406Z",
-      "sourceDate": "2025-12-10T14:07:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8103520002",
-      "discordThreadId": "1460780046548598900",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4960417008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4960417008",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Safeguards",
-      "postedToDiscord": "2026-01-13T23:38:33.165Z",
-      "sourceDate": "2025-12-10T13:56:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
-      "discordThreadId": "1460780074147119269",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4982193008-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982193008",
@@ -36598,14 +36488,324 @@
       "discordThreadId": "1463314708072235023",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "2e44a2bb4b516fc8-2026-01-20-1",
+      "jobId": "2e44a2bb4b516fc8",
+      "company": "Pattern Data",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-20T23:43:10.877Z",
+      "sourceDate": "2025-12-30T01:09:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463317967751090201",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:10.877Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463317975435313226",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:43:12.555Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-patterndata-jobs-5012589007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-patterndata-jobs-5012589007",
+      "company": "Pattern Data",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-20T23:43:14.076Z",
+      "sourceDate": "2025-12-30T01:09:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
+      "discordThreadId": "1463317967751090201",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d1d6208d9c5234e7-2026-01-20-1",
+      "jobId": "d1d6208d9c5234e7",
+      "company": "Rubrik",
+      "title": "Software Engineer - Distributed Systems - Platform Software",
+      "postedToDiscord": "2026-01-20T23:43:14.221Z",
+      "sourceDate": "2025-12-30T00:13:36.000Z",
+      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463317982515167488",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:14.221Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-rubrik-com-company-careers-departments-job-6528028-2026-01-20-1",
+      "jobId": "www-rubrik-com-company-careers-departments-job-6528028",
+      "company": "Rubrik",
+      "title": "Software Engineer - Distributed Systems - Platform Software",
+      "postedToDiscord": "2026-01-20T23:43:15.745Z",
+      "sourceDate": "2025-12-30T00:13:36.000Z",
+      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028",
+      "discordThreadId": "1463317982515167488",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2dc54d92e2b3a3bf-2026-01-20-1",
+      "jobId": "2dc54d92e2b3a3bf",
+      "company": "SpaceX",
+      "title": "Software Engineer - Starlink Ground Network",
+      "postedToDiscord": "2026-01-20T23:43:15.975Z",
+      "sourceDate": "2025-12-29T23:31:48.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8342599002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463317989637226668",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:15.975Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8342599002-2026-01-20-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8342599002",
+      "company": "SpaceX",
+      "title": "Software Engineer - Starlink Ground Network",
+      "postedToDiscord": "2026-01-20T23:43:17.496Z",
+      "sourceDate": "2025-12-29T23:31:48.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8342599002",
+      "discordThreadId": "1463317989637226668",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "45b173dde499fbf1-2026-01-20-1",
+      "jobId": "45b173dde499fbf1",
+      "company": "The Job Sauce",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-20T23:43:17.735Z",
+      "sourceDate": "2025-12-29T23:17:24.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463317996863881238",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:17.735Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application-2026-01-20-1",
+      "jobId": "jobs-ashbyhq-com-the-20job-20sauce-7b706a15-cd92-4384-ba1e-fe97586b2b0a-application",
+      "company": "The Job Sauce",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-20T23:43:19.257Z",
+      "sourceDate": "2025-12-29T23:17:24.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application",
+      "discordThreadId": "1463317996863881238",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "98896e338b433f79-2026-01-20-1",
+      "jobId": "98896e338b433f79",
+      "company": "Citi",
+      "title": "Applications Development Intermediate Programmer Analyst",
+      "postedToDiscord": "2026-01-20T23:43:19.490Z",
+      "sourceDate": "2025-12-29T17:44:14.000Z",
+      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463318004396982394",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:19.490Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463318011149680883",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:43:21.203Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-apps-dev-intmd-programmer-analyst-officer_25926282-2026-01-20-1",
+      "jobId": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-apps-dev-intmd-programmer-analyst-officer_25926282",
+      "company": "Citi",
+      "title": "Applications Development Intermediate Programmer Analyst",
+      "postedToDiscord": "2026-01-20T23:43:22.727Z",
+      "sourceDate": "2025-12-29T17:44:14.000Z",
+      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282",
+      "discordThreadId": "1463318004396982394",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3207ebb8af5e0a7d-2026-01-20-1",
+      "jobId": "3207ebb8af5e0a7d",
+      "company": "Fanatics",
+      "title": "Software Engineer 1 - Backend",
+      "postedToDiscord": "2026-01-20T23:43:22.919Z",
+      "sourceDate": "2025-12-27T07:13:23.000Z",
+      "sourceUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463318018833514516",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:22.919Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463318025674424447",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:43:24.719Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910-2026-01-20-1",
+      "jobId": "fa-exki-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25910",
+      "company": "Fanatics",
+      "title": "Software Engineer 1 - Backend",
+      "postedToDiscord": "2026-01-20T23:43:26.242Z",
+      "sourceDate": "2025-12-27T07:13:23.000Z",
+      "sourceUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910",
+      "discordThreadId": "1463318018833514516",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6de0e820e860e0e7-2026-01-20-1",
+      "jobId": "6de0e820e860e0e7",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), Salt Lake City",
+      "postedToDiscord": "2026-01-20T23:43:29.491Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087170007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463318046276976825",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:29.491Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4087170007-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4087170007",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), Salt Lake City",
+      "postedToDiscord": "2026-01-20T23:43:31.014Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087170007",
+      "discordThreadId": "1463318046276976825",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8e1512d4b777d74d-2026-01-20-1",
+      "jobId": "8e1512d4b777d74d",
+      "company": "discord",
+      "title": "Senior Manager, Stock Administration",
+      "postedToDiscord": "2026-01-20T23:43:31.318Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8350416002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463318053478465681",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:31.318Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8350416002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8350416002",
+      "company": "discord",
+      "title": "Senior Manager, Stock Administration",
+      "postedToDiscord": "2026-01-20T23:43:32.841Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8350416002",
+      "discordThreadId": "1463318053478465681",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c2887fe07db587ec-2026-01-20-1",
+      "jobId": "c2887fe07db587ec",
+      "company": "Western Digital",
+      "title": "Early Career Talent - Applications Engineer - Data Science/Automation",
+      "postedToDiscord": "2026-01-20T23:43:36.172Z",
+      "sourceDate": "2025-12-29T23:05:13.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000100914956",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463318074181554267",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:36.172Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-smartrecruiters-com-westerndigital-744000100914956-2026-01-20-1",
+      "jobId": "jobs-smartrecruiters-com-westerndigital-744000100914956",
+      "company": "Western Digital",
+      "title": "Early Career Talent - Applications Engineer - Data Science/Automation",
+      "postedToDiscord": "2026-01-20T23:43:37.696Z",
+      "sourceDate": "2025-12-29T23:05:13.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000100914956",
+      "discordThreadId": "1463318074181554267",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2c55805654a54a82-2026-01-20-1",
+      "jobId": "2c55805654a54a82",
+      "company": "Certik",
+      "title": "Business Data Analyst",
+      "postedToDiscord": "2026-01-20T23:43:37.906Z",
+      "sourceDate": "2025-12-27T02:27:58.000Z",
+      "sourceUrl": "https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463318081756729374",
+          "channelType": "category",
+          "postedAt": "2026-01-20T23:43:37.906Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463318088853229661",
+          "channelType": "location",
+          "postedAt": "2026-01-20T23:43:39.714Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-certik-20f8e282-fd1a-4f17-8dcf-358e2200c1cf-apply-2026-01-20-1",
+      "jobId": "jobs-lever-co-certik-20f8e282-fd1a-4f17-8dcf-358e2200c1cf-apply",
+      "company": "Certik",
+      "title": "Business Data Analyst",
+      "postedToDiscord": "2026-01-20T23:43:41.238Z",
+      "sourceDate": "2025-12-27T02:27:58.000Z",
+      "sourceUrl": "https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply",
+      "discordThreadId": "1463318081756729374",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3050,
+    "totalJobs": 3060,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T23:30:15.256Z",
+      "date": "2026-01-20T23:43:41.238Z",
       "archived": 0
     }
   }
