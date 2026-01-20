@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:03:04.538Z",
+  "lastUpdated": "2026-01-20T07:16:43.201Z",
   "jobs": [
-    {
-      "id": "caci-wd1-myworkdayjobs-com-external-job-us-md-bethesda-data-scientist_320662-2026-01-13-1",
-      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-md-bethesda-data-scientist_320662",
-      "company": "CACI",
-      "title": "Data Scientist",
-      "postedToDiscord": "2026-01-13T07:16:18.146Z",
-      "sourceDate": "2025-12-22T23:06:01.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Bethesda/Data-Scientist_320662",
-      "discordThreadId": "1460532882979291311",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8-2026-01-13-1",
-      "jobId": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
-      "company": "spotify",
-      "title": "Director of Sales, Scaled Vendor Sales",
-      "postedToDiscord": "2026-01-13T07:16:24.640Z",
-      "sourceDate": "2025-12-22T21:52:24.652Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
-      "discordThreadId": "1460532910636666881",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8328567002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8328567002",
-      "company": "discord",
-      "title": "Senior Director, Corporate Development",
-      "postedToDiscord": "2026-01-13T07:16:31.120Z",
-      "sourceDate": "2025-12-22T15:28:12-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328567002",
-      "discordThreadId": "1460532938084188329",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8244749002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8244749002",
-      "company": "discord",
-      "title": "Staff Software Engineer, New Gaming Features",
-      "postedToDiscord": "2026-01-13T07:16:37.895Z",
-      "sourceDate": "2025-12-22T14:44:50-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8244749002",
-      "discordThreadId": "1460532965024206890",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8337817002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8337817002",
-      "company": "discord",
-      "title": "Staff Software Engineer, Player Experience",
-      "postedToDiscord": "2026-01-13T07:16:41.350Z",
-      "sourceDate": "2025-12-22T14:44:50-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8337817002",
-      "discordThreadId": "1460532980786270262",
-      "instanceNumber": 1
-    },
     {
       "id": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1-2026-01-13-1",
       "jobId": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1",
@@ -31749,14 +31694,317 @@
       "discordThreadId": "1463066269778448489",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "08b640cb548022b8-2026-01-20-1",
+      "jobId": "08b640cb548022b8",
+      "company": "datadog",
+      "title": "Manager, Customer Success - Denver",
+      "postedToDiscord": "2026-01-20T07:16:14.208Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7488348/?gh_jid=7488348",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463069595416920131",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:14.208Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7488348-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7488348",
+      "company": "datadog",
+      "title": "Manager, Customer Success - Denver",
+      "postedToDiscord": "2026-01-20T07:16:15.738Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7488348/?gh_jid=7488348",
+      "discordThreadId": "1463069595416920131",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7254173-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7254173",
+      "company": "datadog",
+      "title": "Manager, Customer Success - Denver",
+      "postedToDiscord": "2026-01-20T07:16:15.757Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7254173/?gh_jid=7254173",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c9c9a011b33f3e18-2026-01-20-1",
+      "jobId": "c9c9a011b33f3e18",
+      "company": "datadog",
+      "title": "Manager I, Developer Advocacy",
+      "postedToDiscord": "2026-01-20T07:16:16.144Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7414003/?gh_jid=7414003",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463069603143090271",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:16.144Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463069611221192838",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:16:17.987Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7414003-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7414003",
+      "company": "datadog",
+      "title": "Manager I, Developer Advocacy",
+      "postedToDiscord": "2026-01-20T07:16:19.506Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7414003/?gh_jid=7414003",
+      "discordThreadId": "1463069603143090271",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "10ad4de51230cc09-2026-01-20-1",
+      "jobId": "10ad4de51230cc09",
+      "company": "datadog",
+      "title": "Manager I, Engineering - APM SDK Capabilities",
+      "postedToDiscord": "2026-01-20T07:16:19.677Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308962/?gh_jid=7308962",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463069618624008218",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:19.677Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463069625313919043",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:16:21.364Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7308962-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7308962",
+      "company": "datadog",
+      "title": "Manager I, Engineering - APM SDK Capabilities",
+      "postedToDiscord": "2026-01-20T07:16:22.882Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308962/?gh_jid=7308962",
+      "discordThreadId": "1463069618624008218",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6881788-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6881788",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Infrastructure Remediation",
+      "postedToDiscord": "2026-01-20T07:16:22.905Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6881788/?gh_jid=6881788",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7308940-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7308940",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Language Platform",
+      "postedToDiscord": "2026-01-20T07:16:22.925Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308940/?gh_jid=7308940",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "589ea9d29cd0066e-2026-01-20-1",
+      "jobId": "589ea9d29cd0066e",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Cloud SIEM - Security Data Enrichment",
+      "postedToDiscord": "2026-01-20T07:16:23.279Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308805/?gh_jid=7308805",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463069633287295174",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:23.279Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463069640422068276",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:16:24.946Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7308805-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7308805",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Cloud SIEM - Security Data Enrichment",
+      "postedToDiscord": "2026-01-20T07:16:26.467Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308805/?gh_jid=7308805",
+      "discordThreadId": "1463069633287295174",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b66a508a9de6572e-2026-01-20-1",
+      "jobId": "b66a508a9de6572e",
+      "company": "datadog",
+      "title": "Manager, Networking",
+      "postedToDiscord": "2026-01-20T07:16:26.628Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6632056/?gh_jid=6632056",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463069647472693377",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:26.628Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463069654808530975",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:16:28.295Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6632056-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6632056",
+      "company": "datadog",
+      "title": "Manager, Networking",
+      "postedToDiscord": "2026-01-20T07:16:29.815Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6632056/?gh_jid=6632056",
+      "discordThreadId": "1463069647472693377",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "71ec64d13f0f4032-2026-01-20-1",
+      "jobId": "71ec64d13f0f4032",
+      "company": "datadog",
+      "title": "Manager, People Analytics Data Platform",
+      "postedToDiscord": "2026-01-20T07:16:29.974Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463069661842247790",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:29.974Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463069669001789511",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:16:31.775Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7467678-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7467678",
+      "company": "datadog",
+      "title": "Manager, People Analytics Data Platform",
+      "postedToDiscord": "2026-01-20T07:16:33.296Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678",
+      "discordThreadId": "1463069661842247790",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f16e613604baff63-2026-01-20-1",
+      "jobId": "f16e613604baff63",
+      "company": "datadog",
+      "title": "Principal Partner Manager - Cloud Alliances (AWS)",
+      "postedToDiscord": "2026-01-20T07:16:33.458Z",
+      "sourceDate": "2026-01-15T12:10:29-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463069676358729801",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:33.458Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463069683426267166",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:16:35.225Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6746794-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6746794",
+      "company": "datadog",
+      "title": "Principal Partner Manager - Cloud Alliances (AWS)",
+      "postedToDiscord": "2026-01-20T07:16:36.744Z",
+      "sourceDate": "2026-01-15T12:10:29-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
+      "discordThreadId": "1463069676358729801",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "837ddccd6fd6fc3f-2026-01-20-1",
+      "jobId": "837ddccd6fd6fc3f",
+      "company": "datadog",
+      "title": "Manager II, Engineering - Bits AI Security Analyst",
+      "postedToDiscord": "2026-01-20T07:16:39.971Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7482671/?gh_jid=7482671",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463069703671906462",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:16:39.971Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463069710685044790",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:16:41.681Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7482671-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7482671",
+      "company": "datadog",
+      "title": "Manager II, Engineering - Bits AI Security Analyst",
+      "postedToDiscord": "2026-01-20T07:16:43.201Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7482671/?gh_jid=7482671",
+      "discordThreadId": "1463069703671906462",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2805,
+    "totalJobs": 2819,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T07:03:04.538Z",
+      "date": "2026-01-20T07:16:43.201Z",
       "archived": 0
     }
   }
