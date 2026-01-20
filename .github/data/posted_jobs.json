@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T23:55:22.789Z",
+  "lastUpdated": "2026-01-20T00:27:50.018Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8073319002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8073319002",
-      "company": "brex",
-      "title": "Sales Recruiter (12-month contract)",
-      "postedToDiscord": "2026-01-13T00:10:31.663Z",
-      "sourceDate": "2026-01-05T22:20:37-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8073319002?gh_jid=8073319002",
-      "discordThreadId": "1460425734257512731",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8093381002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8093381002",
-      "company": "brex",
-      "title": "Sales Recruiter (12-month contract)",
-      "postedToDiscord": "2026-01-13T00:10:31.673Z",
-      "sourceDate": "2026-01-05T22:20:37-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8093381002?gh_jid=8093381002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8075296002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8075296002",
-      "company": "brex",
-      "title": "Sales Recruiter (12-month contract)",
-      "postedToDiscord": "2026-01-13T00:10:31.680Z",
-      "sourceDate": "2026-01-05T22:20:37-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8075296002?gh_jid=8075296002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-samsara-com-company-careers-roles-7461793-2026-01-13-1",
-      "jobId": "www-samsara-com-company-careers-roles-7461793",
-      "company": "samsara",
-      "title": "Senior Sales Strategy Manager, New Product",
-      "postedToDiscord": "2026-01-13T00:10:38.414Z",
-      "sourceDate": "2026-01-05T21:55:32-05:00",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/7461793?gh_jid=7461793",
-      "discordThreadId": "1460425761151521031",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8307573002-2026-01-13-1",
-      "jobId": "www-brex-com-careers-8307573002",
-      "company": "brex",
-      "title": "Tax Director",
-      "postedToDiscord": "2026-01-13T00:10:41.865Z",
-      "sourceDate": "2026-01-05T20:54:47-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8307573002?gh_jid=8307573002",
-      "discordThreadId": "1460425776674373642",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5013277008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5013277008",
-      "company": "anthropic",
-      "title": "Customer Activation Manager, Large-Scale Deployments",
-      "postedToDiscord": "2026-01-13T00:10:46.035Z",
-      "sourceDate": "2026-01-05T16:01:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013277008",
-      "discordThreadId": "1460425791106973851",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5732415004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5732415004",
-      "company": "figma",
-      "title": "Director, Product Marketing ",
-      "postedToDiscord": "2026-01-13T00:10:49.414Z",
-      "sourceDate": "2026-01-05T13:20:00-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732415004?gh_jid=5732415004",
-      "discordThreadId": "1460425808513335418",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-7845265002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845265002",
-      "company": "airtable",
-      "title": "Software Engineer, Product Frontend (2-8 YOE)",
-      "postedToDiscord": "2026-01-13T00:10:56.126Z",
-      "sourceDate": "2026-01-05T20:12:04-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845265002",
-      "discordThreadId": "1460425835491229746",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4887959008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4887959008",
-      "company": "anthropic",
-      "title": "Senior Software Security Engineer",
-      "postedToDiscord": "2026-01-13T00:11:02.695Z",
-      "sourceDate": "2026-01-05T18:34:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008",
-      "discordThreadId": "1460425863550992570",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4951844008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4951844008",
-      "company": "anthropic",
-      "title": "Software Engineer, Safeguards",
-      "postedToDiscord": "2026-01-13T00:11:06.334Z",
-      "sourceDate": "2026-01-05T16:19:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
-      "discordThreadId": "1460425877870612677",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5722132004-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5722132004",
-      "company": "vercel",
-      "title": "Staff Product Marketing Manager, v0",
-      "postedToDiscord": "2026-01-13T00:11:13.113Z",
-      "sourceDate": "2026-01-05T17:38:36-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722132004",
-      "discordThreadId": "1460425906240880780",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-airtable-jobs-8112284002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-airtable-jobs-8112284002",
-      "company": "airtable",
-      "title": "Analytics Engineer, Product Analytics",
-      "postedToDiscord": "2026-01-13T00:11:19.552Z",
-      "sourceDate": "2026-01-05T13:01:15-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8112284002",
-      "discordThreadId": "1460425934682329292",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8328560002-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-discord-jobs-8328560002",
@@ -30746,16 +30614,103 @@
       "sourceUrl": "https://jobs.lever.co/rws/191a1010-b228-4141-92e0-9349cbca3a79/apply",
       "discordThreadId": "1462958643698860063",
       "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-leadership-program-new-grad-engineer-parts-nc-1357243200-2026-01-20-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-leadership-program-new-grad-engineer-parts-nc-1357243200",
+      "company": "Westinghouse Electric Company",
+      "title": "Leadership program new grad Engineer - Parts",
+      "postedToDiscord": "2026-01-20T00:27:21.444Z",
+      "sourceDate": "2026-01-17T23:14:25.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Leadership-program-new-grad-Engineer-(parts)-NC/1357243200/?ats=successfactors",
+      "discordThreadId": "1462966683940425933",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-eyesouthpartners-icims-com-jobs-8450-job-2026-01-20-1",
+      "jobId": "careers-eyesouthpartners-icims-com-jobs-8450-job",
+      "company": "EyeSouth Partners",
+      "title": "Ophthalmic Technician 1",
+      "postedToDiscord": "2026-01-20T00:27:24.988Z",
+      "sourceDate": "2025-09-11T22:06:20.000Z",
+      "sourceUrl": "https://careers-eyesouthpartners.icims.com/jobs/8450/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462966698851434657",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-20-1",
+      "jobId": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application",
+      "company": "OpusClip",
+      "title": "Software Engineer - AI Video Agent",
+      "postedToDiscord": "2026-01-20T00:27:28.575Z",
+      "sourceDate": "2026-01-11T07:26:03.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
+      "discordThreadId": "1462966713464258704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-daifuku-america-icims-com-jobs-20879-job-2026-01-20-1",
+      "jobId": "careers-daifuku-america-icims-com-jobs-20879-job",
+      "company": "Daifuku",
+      "title": "Junior IT Software Developer",
+      "postedToDiscord": "2026-01-20T00:27:32.340Z",
+      "sourceDate": "2025-11-27T02:34:46.000Z",
+      "sourceUrl": "https://careers-daifuku-america.icims.com/jobs/20879/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462966728857227264",
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-melaleuca-icims-com-jobs-8278-job-2026-01-20-1",
+      "jobId": "careers-melaleuca-icims-com-jobs-8278-job",
+      "company": "Melaleuca",
+      "title": "Digital Marketing Analyst 1",
+      "postedToDiscord": "2026-01-20T00:27:35.872Z",
+      "sourceDate": "2025-12-12T16:03:58.000Z",
+      "sourceUrl": "https://careers-melaleuca.icims.com/jobs/8278/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1462966744405508178",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-bytedance-com-en-position-7406115237839014171-detail-2026-01-20-1",
+      "jobId": "jobs-bytedance-com-en-position-7406115237839014171-detail",
+      "company": "ByteDance",
+      "title": "Graduate Research Scientist - Foundation Model - Video Generation",
+      "postedToDiscord": "2026-01-20T00:27:39.663Z",
+      "sourceDate": "2025-10-31T09:14:48.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7406115237839014171/detail",
+      "discordThreadId": "1462966759328976969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-java-api_r-515563-2026-01-20-1",
+      "jobId": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-java-api_r-515563",
+      "company": "Wells Fargo",
+      "title": "Engineering Associate - Java API",
+      "postedToDiscord": "2026-01-20T00:27:43.199Z",
+      "sourceDate": "2026-01-16T15:20:26.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Engineering-Associate---Java-API_R-515563",
+      "discordThreadId": "1462966775200219198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23270-2026-01-20-1",
+      "jobId": "maxar-wd1-myworkdayjobs-com-vantor-job-tampa-fl-geospatial-analyst_r23270",
+      "company": "Vantor",
+      "title": "Geospatial Analyst",
+      "postedToDiscord": "2026-01-20T00:27:50.017Z",
+      "sourceDate": "2026-01-09T00:19:35.000Z",
+      "sourceUrl": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst_R23270",
+      "discordThreadId": "1462966804140785814",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2795,
+    "totalJobs": 2791,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-19T23:55:22.789Z",
-      "archived": 30,
-      "monthsAffected": 1
+      "date": "2026-01-20T00:27:50.018Z",
+      "archived": 0
     }
   }
 }
