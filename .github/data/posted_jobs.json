@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T13:25:53.911Z",
+  "lastUpdated": "2026-01-20T13:52:19.133Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
@@ -33995,14 +33995,82 @@
       "discordThreadId": "1463162609426497720",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "5f484789598e9df2-2026-01-20-1",
+      "jobId": "5f484789598e9df2",
+      "company": "duolingo",
+      "title": "Senior Android Engineer",
+      "postedToDiscord": "2026-01-20T13:52:12.152Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463169243586498805",
+          "channelType": "category",
+          "postedAt": "2026-01-20T13:52:12.152Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463169250771599370",
+          "channelType": "location",
+          "postedAt": "2026-01-20T13:52:13.868Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8217266002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8217266002",
+      "company": "duolingo",
+      "title": "Senior Android Engineer",
+      "postedToDiscord": "2026-01-20T13:52:15.390Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002",
+      "discordThreadId": "1463169243586498805",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "db688ccd8cd846b3-2026-01-20-1",
+      "jobId": "db688ccd8cd846b3",
+      "company": "duolingo",
+      "title": "Senior iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-20T13:52:15.538Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463169257977413738",
+          "channelType": "category",
+          "postedAt": "2026-01-20T13:52:15.538Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463169265434886250",
+          "channelType": "location",
+          "postedAt": "2026-01-20T13:52:17.606Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8054750002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8054750002",
+      "company": "duolingo",
+      "title": "Senior iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-20T13:52:19.132Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002",
+      "discordThreadId": "1463169257977413738",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2931,
+    "totalJobs": 2935,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T13:25:53.911Z",
+      "date": "2026-01-20T13:52:19.133Z",
       "archived": 0
     }
   }
