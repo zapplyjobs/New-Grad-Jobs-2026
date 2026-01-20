@@ -95,32 +95,14 @@ function isTechRole(title) {
  */
 function isNonTechRole(title) {
   const nonTechPatterns = [
-    // Sales (explicit titles only)
-    {
-      category: 'sales',
-      regex: /\b(sales (manager|director|executive|representative|rep)|account executive|account manager|bdr|sdr|business development (manager|rep))\b/,
-      keyword: 'sales'
-    },
-
-    // Marketing (explicit titles only)
-    {
-      category: 'marketing',
-      regex: /\b(marketing (manager|director|coordinator)|seo (specialist|manager)|content (strategist|manager)|brand manager|campaign manager)\b/,
-      keyword: 'marketing'
-    },
+    // REMOVED: sales, marketing, healthcare, supply-chain, hr (archived channels)
+    // These will now fall back to 'tech' as the default
 
     // Finance (explicit titles only)
     {
       category: 'finance',
       regex: /\b(financial analyst|accountant|controller|treasury|audit|tax (analyst|specialist)|investment (analyst|banker))\b/,
       keyword: 'finance'
-    },
-
-    // Healthcare (explicit titles only)
-    {
-      category: 'healthcare',
-      regex: /\b(nurse|doctor|physician|therapist|clinical|pharmacist|medical (assistant|technician))\b/,
-      keyword: 'healthcare'
     },
 
     // Product Management
@@ -130,25 +112,11 @@ function isNonTechRole(title) {
       keyword: 'product'
     },
 
-    // Supply Chain (explicit titles only)
-    {
-      category: 'supply-chain',
-      regex: /\b(supply chain (manager|analyst)|logistics (manager|coordinator)|procurement (specialist|manager)|warehouse (manager|supervisor))\b/,
-      keyword: 'supply-chain'
-    },
-
     // Project Management
     {
       category: 'project-management',
       regex: /\b(project manager|program manager|scrum master|agile coach)\b/,
       keyword: 'project-management'
-    },
-
-    // HR (explicit titles only)
-    {
-      category: 'hr',
-      regex: /\b(hr (manager|specialist|coordinator)|recruiter|talent acquisition|people operations)\b/,
-      keyword: 'hr'
     }
   ];
 
@@ -311,29 +279,13 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
   const combined = `${title} ${description}`;
 
   const descriptionPatterns = [
-    {
-      category: 'sales',
-      channelId: CHANNEL_CONFIG.sales,
-      regex: /\b(sales|account executive|account manager|bdr|sdr|business development|customer success|revenue|quota|donor)\b/,
-      keywords: ['sales', 'account executive', 'account manager', 'bdr', 'sdr', 'business development', 'customer success', 'revenue', 'quota', 'donor']
-    },
-    {
-      category: 'marketing',
-      channelId: CHANNEL_CONFIG.marketing,
-      regex: /\b(marketing|growth|seo|sem|content marketing|brand|campaign|digital marketing|social media|copywriter|creative director)\b/,
-      keywords: ['marketing', 'growth', 'seo', 'sem', 'content marketing', 'brand', 'campaign', 'digital marketing', 'social media', 'copywriter', 'creative director']
-    },
+    // REMOVED: sales, marketing, healthcare, supply-chain, hr (archived channels)
+    // These will now fall back to 'tech' as the default
     {
       category: 'finance',
       channelId: CHANNEL_CONFIG.finance,
       regex: /\b(finance|accounting|financial analyst|controller|treasury|audit|tax|bookkeep|cfo|actuarial|investment|banker)\b/,
       keywords: ['finance', 'accounting', 'financial analyst', 'controller', 'treasury', 'audit', 'tax', 'bookkeep', 'cfo', 'actuarial', 'investment', 'banker']
-    },
-    {
-      category: 'healthcare',
-      channelId: CHANNEL_CONFIG.healthcare,
-      regex: /\b(healthcare|medical|clinical|health|nurse|doctor|physician|therapist|pharmaceutical|biotech|hospital|patient care)\b/,
-      keywords: ['healthcare', 'medical', 'clinical', 'health', 'nurse', 'doctor', 'physician', 'therapist', 'pharmaceutical', 'biotech', 'hospital', 'patient care']
     },
     {
       category: 'product',
@@ -342,22 +294,10 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
       keywords: ['product manager', 'product owner', 'product marketing', 'pm', 'product lead', 'product strategy', 'product analyst']
     },
     {
-      category: 'supply-chain',
-      channelId: CHANNEL_CONFIG['supply-chain'],
-      regex: /\b(supply chain|logistics|(?<!people )operations manager|procurement|inventory|warehouse|distribution|sourcing|fulfillment|shipping)\b/,
-      keywords: ['supply chain', 'logistics', 'operations manager', 'procurement', 'inventory', 'warehouse', 'distribution', 'sourcing', 'fulfillment', 'shipping']
-    },
-    {
       category: 'project-management',
       channelId: CHANNEL_CONFIG['project-management'],
       regex: /\b(project manager|program manager|scrum master|agile coach|pmo|project coordinator|delivery manager)\b/,
       keywords: ['project manager', 'program manager', 'scrum master', 'agile coach', 'pmo', 'project coordinator', 'delivery manager']
-    },
-    {
-      category: 'hr',
-      channelId: CHANNEL_CONFIG.hr,
-      regex: /\b(human resources|(\bhr\b)|recruiter|talent acquisition|people operations|compensation|benefits|hiring manager|recruitment|workforce)\b/,
-      keywords: ['human resources', 'hr', 'recruiter', 'talent acquisition', 'people operations', 'compensation', 'benefits', 'hiring manager', 'recruitment', 'workforce']
     }
   ];
 

@@ -5,13 +5,15 @@
  * Sources:
  * 1. API-based companies (legacy - currently disabled)
  * 2. Primary data source (aggregator)
- * 3. ATS platforms (Greenhouse, Lever, Ashby) - NEW
+ * 3. ATS platforms (Greenhouse, Lever, Ashby, Workable)
+ * 4. USAJobs API (Federal Government Jobs) - NEW
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 const { fetchAllATSJobs } = require('./job-fetcher/sources');
+const { fetchUSAJobs } = require('./job-fetcher/sources/usajobs');
 
 /**
  * Delay helper for rate limiting
@@ -97,6 +99,31 @@ async function fetchAllJobs() {
     console.log(`📊 After ATS sources: ${allJobs.length} jobs total`);
   } catch (error) {
     console.error(`❌ ATS sources failed:`, error.message);
+  }
+
+  // === Part 4: Fetch from USAJobs API (Federal Government Jobs) ===
+  console.log('\n📡 Fetching from USAJobs API...');
+
+  try {
+    const usaJobs = await fetchUSAJobs({ maxPages: 4, resultsPerPage: 250 });
+
+    // Normalize USAJobs to match expected format
+    const normalizedUSAJobs = usaJobs.map(job => ({
+      // Map to legacy format expected by downstream processors
+      job_title: job.title,
+      employer_name: job.company_name,
+      job_city: job.location,
+      job_apply_link: job.url,
+      job_posted_at_datetime_utc: job.posted_at,
+      job_description: job.description,
+      // Keep original fields for reference
+      ...job
+    }));
+
+    allJobs.push(...normalizedUSAJobs);
+    console.log(`📊 After USAJobs: ${allJobs.length} jobs total`);
+  } catch (error) {
+    console.error(`❌ USAJobs failed:`, error.message);
   }
 
   // === Part 5: Filter to US-only jobs ===

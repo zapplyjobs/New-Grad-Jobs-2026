@@ -23,6 +23,8 @@ const { normalizeJob } = require('./src/utils/job-normalizer');
 const { formatPostedDate, cleanJobDescription } = require('./src/utils/job-formatters');
 const PostedJobsManager = require('./src/data/posted-jobs-manager-v2');
 const SubscriptionManager = require('./src/data/subscription-manager');
+// NEW: Import text message posting function
+const { postJobToChannel, generateTags, buildJobEmbed, buildActionRow } = require('./src/discord/poster');
 
 // Environment variables
 const TOKEN = process.env.DISCORD_TOKEN;
@@ -861,17 +863,25 @@ client.once('ready', async () => {
         let jobPostedSuccessfully = false;
         let primaryThreadId = null; // Track thread ID for database
 
-        // INDUSTRY POST: Post to industry channel
+        // INDUSTRY POST: Post to industry channel (NEW: text messages with multi-channel tracking)
         const industryStartTime = Date.now();
-        const industryResult = await postJobToForum(job, channel);
+        const industryResult = await postJobToChannel(job, channel);
         const industryDuration = Date.now() - industryStartTime;
 
         if (industryResult.success) {
           console.log(`  ✅ Industry: ${job.job_title} @ ${job.employer_name}`);
           jobPostedSuccessfully = true;
-          primaryThreadId = industryResult.thread?.id || null; // Capture thread ID
+          primaryThreadId = industryResult.messageId || null; // Capture message ID (was thread ID)
           channelFullErrorCount = 0; // Reset counter on success
           channelStats.recordPost(channelId, channel.name);
+
+          // NEW: Track posting in multi-channel schema
+          dataManager.markAsPostedToChannel(
+            job,
+            industryResult.messageId,
+            industryResult.channelId,
+            'category'
+          );
 
           // Log successful post
           postLogger.logSuccess(
@@ -879,7 +889,7 @@ client.once('ready', async () => {
             jobId,
             channelId,
             channel.name,
-            industryResult.message?.id || null,
+            industryResult.messageId,
             primaryThreadId,
             industryDuration
           );
@@ -932,7 +942,7 @@ client.once('ready', async () => {
             if (locationChannel) {
               try {
                 const locationStartTime = Date.now();
-                const locationResult = await postJobToForum(job, locationChannel);
+                const locationResult = await postJobToChannel(job, locationChannel);
                 const locationDuration = Date.now() - locationStartTime;
 
                 if (locationResult.success) {
@@ -940,13 +950,21 @@ client.once('ready', async () => {
                   jobPostedSuccessfully = true;
                   channelStats.recordPost(locationChannelId, locationChannel.name);
 
+                  // NEW: Track posting in multi-channel schema
+                  dataManager.markAsPostedToChannel(
+                    job,
+                    locationResult.messageId,
+                    locationResult.channelId,
+                    'location'
+                  );
+
                   // Log successful location post
                   postLogger.logSuccess(
                     job,
                     jobId,
                     locationChannelId,
                     locationChannel.name,
-                    locationResult.message?.id || null,
+                    locationResult.messageId,
                     locationResult.thread?.id || null,
                     locationDuration
                   );

@@ -17,24 +17,25 @@ function getJobLocationChannel(job) {
   const description = (job.job_description || '').toLowerCase();
   const combined = `${title} ${description} ${city} ${state}`;
 
-  // Metro area city matching (comprehensive)
+  // Metro area city matching (regional consolidation)
   const cityMatches = {
-    // San Francisco Bay Area
-    'san francisco': 'san-francisco',
-    'oakland': 'san-francisco',
-    'berkeley': 'san-francisco',
-    'san jose': 'san-francisco',
-    'palo alto': 'san-francisco',
-    'fremont': 'san-francisco',
-    'hayward': 'san-francisco',
-    'richmond': 'san-francisco',
-    'daly city': 'san-francisco',
-    'alameda': 'san-francisco',
-    'cupertino': 'san-francisco',
-    'santa clara': 'san-francisco',
-    'mountain view': 'mountain-view',
-    'sunnyvale': 'sunnyvale',
-    'san bruno': 'san-bruno',
+    // Bay Area (consolidated: SF, Mountain View, Sunnyvale, San Bruno, San Jose, Palo Alto, Menlo Park)
+    'san francisco': 'bay-area',
+    'oakland': 'bay-area',
+    'berkeley': 'bay-area',
+    'san jose': 'bay-area',
+    'palo alto': 'bay-area',
+    'menlo park': 'bay-area',
+    'fremont': 'bay-area',
+    'hayward': 'bay-area',
+    'richmond': 'bay-area',
+    'daly city': 'bay-area',
+    'alameda': 'bay-area',
+    'cupertino': 'bay-area',
+    'santa clara': 'bay-area',
+    'mountain view': 'bay-area',
+    'sunnyvale': 'bay-area',
+    'san bruno': 'bay-area',
 
     // NYC Metro Area
     'new york': 'new-york',
@@ -49,56 +50,46 @@ function getJobLocationChannel(job) {
     'white plains': 'new-york',
     'yonkers': 'new-york',
 
-    // Seattle Metro Area
-    'seattle': 'seattle',
-    'bellevue': 'seattle',
-    'tacoma': 'seattle',
-    'everett': 'seattle',
-    'renton': 'seattle',
-    'kent': 'seattle',
-    'redmond': 'redmond',
+    // Pacific Northwest (consolidated: Seattle, Redmond, Bellevue)
+    'seattle': 'pacific-northwest',
+    'bellevue': 'pacific-northwest',
+    'redmond': 'pacific-northwest',
+    'tacoma': 'pacific-northwest',
+    'everett': 'pacific-northwest',
+    'renton': 'pacific-northwest',
+    'kent': 'pacific-northwest',
 
-    // Austin Metro Area
-    'austin': 'austin',
-    'round rock': 'austin',
-    'cedar park': 'austin',
-    'georgetown': 'austin',
-    'pflugerville': 'austin',
-
-    // Chicago Metro Area
-    'chicago': 'chicago',
-    'naperville': 'chicago',
-    'aurora': 'chicago',
-    'joliet': 'chicago',
-    'evanston': 'chicago',
-    'schaumburg': 'chicago',
-
-    // Boston Metro Area
-    'boston': 'boston',
-    'cambridge': 'boston',
-    'somerville': 'boston',
-    'brookline': 'boston',
-    'quincy': 'boston',
-    'newton': 'boston',
-    'waltham': 'boston',
-    'revere': 'boston',
-    'medford': 'boston',
-
-    // Los Angeles Metro Area
-    'los angeles': 'los-angeles',
-    'santa monica': 'los-angeles',
-    'pasadena': 'los-angeles',
-    'long beach': 'los-angeles',
-    'glendale': 'los-angeles',
-    'irvine': 'los-angeles',
-    'anaheim': 'los-angeles',
-    'burbank': 'los-angeles',
-    'torrance': 'los-angeles'
+    // Other USA cities (consolidated: Austin, Chicago, Boston, LA, etc.)
+    'austin': 'other-usa',
+    'round rock': 'other-usa',
+    'cedar park': 'other-usa',
+    'georgetown': 'other-usa',
+    'pflugerville': 'other-usa',
+    'chicago': 'other-usa',
+    'naperville': 'other-usa',
+    'aurora': 'other-usa',
+    'joliet': 'other-usa',
+    'evanston': 'other-usa',
+    'schaumburg': 'other-usa',
+    'boston': 'other-usa',
+    'cambridge': 'other-usa',
+    'somerville': 'other-usa',
+    'brookline': 'other-usa',
+    'los angeles': 'other-usa',
+    'santa monica': 'other-usa',
+    'pasadena': 'other-usa',
+    'irvine': 'other-usa',
+    'denver': 'other-usa',
+    'phoenix': 'other-usa',
+    'atlanta': 'other-usa',
+    'miami': 'other-usa',
+    'philadelphia': 'other-usa',
+    'portland': 'other-usa'
   };
 
   // City abbreviations
   const cityAbbreviations = {
-    'sf': 'san-francisco',
+    'sf': 'bay-area',
     'nyc': 'new-york'
   };
 
@@ -127,28 +118,24 @@ function getJobLocationChannel(job) {
   // If we have a state but no specific city match, map to the main city in that state
   if (state) {
     if (state === 'ca' || state === 'california') {
-      // CA jobs without specific city go to LA (most CA jobs not in Bay Area)
+      // CA jobs without specific city → other-usa
       // Bay Area cities already caught by city matching above
-      return LOCATION_CHANNEL_CONFIG['los-angeles'];
+      return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
     if (state === 'ma' || state === 'massachusetts') {
-      return LOCATION_CHANNEL_CONFIG['boston'];
+      return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
     if (state === 'ny' || state === 'new york') {
       return LOCATION_CHANNEL_CONFIG['new-york'];
     }
     if (state === 'tx' || state === 'texas') {
-      return LOCATION_CHANNEL_CONFIG['austin'];
+      return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
     if (state === 'wa' || state === 'washington') {
-      // Check if Redmond is specifically mentioned
-      if (combined.includes('redmond')) {
-        return LOCATION_CHANNEL_CONFIG['redmond'];
-      }
-      return LOCATION_CHANNEL_CONFIG['seattle'];
+      return LOCATION_CHANNEL_CONFIG['pacific-northwest'];
     }
     if (state === 'il' || state === 'illinois') {
-      return LOCATION_CHANNEL_CONFIG['chicago'];
+      return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
   }
 
@@ -158,14 +145,14 @@ function getJobLocationChannel(job) {
     return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
-  // 6. Default fallback: US jobs without specific location channels → remote-usa
+  // 6. Default fallback: US jobs without specific location channels → other-usa
   // This ensures jobs from Phoenix, Denver, Miami, etc. still get posted somewhere
   // Only apply to confirmed US states to avoid posting Canadian/international jobs
   const usStates = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt', 'va', 'wa', 'wv', 'wi', 'wy', 'dc',
     'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota', 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico', 'new york', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania', 'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming', 'district of columbia'];
 
   if (state && usStates.includes(state)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
+    return LOCATION_CHANNEL_CONFIG['other-usa'];
   }
 
   // No location data at all - skip location channels
