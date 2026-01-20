@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T08:51:42.078Z",
+  "lastUpdated": "2026-01-20T09:17:12.631Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-13-1",
@@ -32360,14 +32360,140 @@
       "discordThreadId": "1463093605957894154",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "db1a82b5fec698be-2026-01-20-1",
+      "jobId": "db1a82b5fec698be",
+      "company": "datadog",
+      "title": "Senior Tax Accountant - NYC",
+      "postedToDiscord": "2026-01-20T09:16:59.049Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7395012/?gh_jid=7395012",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463099982193229845",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:16:59.049Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463099989982052473",
+          "channelType": "location",
+          "postedAt": "2026-01-20T09:17:00.896Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7395012-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7395012",
+      "company": "datadog",
+      "title": "Senior Tax Accountant - NYC",
+      "postedToDiscord": "2026-01-20T09:17:02.415Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7395012/?gh_jid=7395012",
+      "discordThreadId": "1463099982193229845",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9e2c0ba7d9af32d7-2026-01-20-1",
+      "jobId": "9e2c0ba7d9af32d7",
+      "company": "datadog",
+      "title": "Services Architect 3 - New York",
+      "postedToDiscord": "2026-01-20T09:17:02.713Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7088666/?gh_jid=7088666",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463099997795909695",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:17:02.713Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463100004741681319",
+          "channelType": "location",
+          "postedAt": "2026-01-20T09:17:04.370Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7088666-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7088666",
+      "company": "datadog",
+      "title": "Services Architect 3 - New York",
+      "postedToDiscord": "2026-01-20T09:17:05.891Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7088666/?gh_jid=7088666",
+      "discordThreadId": "1463099997795909695",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ca3128c38ebb719c-2026-01-20-1",
+      "jobId": "ca3128c38ebb719c",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, Product-Led Growth",
+      "postedToDiscord": "2026-01-20T09:17:09.237Z",
+      "sourceDate": "2026-01-19T17:17:12-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8380681002?gh_jid=8380681002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463100024891113622",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:17:09.237Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8380681002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8380681002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, Product-Led Growth",
+      "postedToDiscord": "2026-01-20T09:17:10.760Z",
+      "sourceDate": "2026-01-19T17:17:12-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8380681002?gh_jid=8380681002",
+      "discordThreadId": "1463100024891113622",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3690897589de63c7-2026-01-20-1",
+      "jobId": "3690897589de63c7",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, B2B Sales",
+      "postedToDiscord": "2026-01-20T09:17:11.109Z",
+      "sourceDate": "2026-01-19T17:16:19-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8380680002?gh_jid=8380680002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463100032676008083",
+          "channelType": "category",
+          "postedAt": "2026-01-20T09:17:11.109Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8380680002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8380680002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, B2B Sales",
+      "postedToDiscord": "2026-01-20T09:17:12.631Z",
+      "sourceDate": "2026-01-19T17:16:19-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8380680002?gh_jid=8380680002",
+      "discordThreadId": "1463100032676008083",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2825,
+    "totalJobs": 2833,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T08:51:42.078Z",
+      "date": "2026-01-20T09:17:12.631Z",
       "archived": 0
     }
   }
