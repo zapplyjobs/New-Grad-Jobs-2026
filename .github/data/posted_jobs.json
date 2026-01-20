@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T20:04:11.123Z",
+  "lastUpdated": "2026-01-20T20:36:57.640Z",
   "jobs": [
-    {
-      "id": "careers-mercuryinsurance-icims-com-jobs-5989-job-2026-01-13-1",
-      "jobId": "careers-mercuryinsurance-icims-com-jobs-5989-job",
-      "company": "Mercury Insurance",
-      "title": "Mercury Ignite: Data Engineering Graduate Development Program",
-      "postedToDiscord": "2026-01-13T20:07:51.017Z",
-      "sourceDate": "2025-12-17T23:21:21.000Z",
-      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5989/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460727057054171319",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-enova-jobs-3972487-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-enova-jobs-3972487",
-      "company": "Enova",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-13T20:26:16.066Z",
-      "sourceDate": "2025-12-17T23:17:10.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/3972487",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5707966004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5707966004",
-      "company": "figma",
-      "title": "AI Applied Scientist",
-      "postedToDiscord": "2026-01-13T20:26:19.618Z",
-      "sourceDate": "2025-12-17T13:52:04-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
-      "discordThreadId": "1460731699234340977",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582-2026-01-13-1",
-      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582",
-      "company": "Oracle",
-      "title": "Advanced Degree Software Engineer - Database Technologies",
-      "postedToDiscord": "2026-01-13T20:26:26.166Z",
-      "sourceDate": "2025-12-17T23:15:24.000Z",
-      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320582",
-      "discordThreadId": "1460731726887256084",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5023719008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023719008",
-      "company": "anthropic",
-      "title": "Data Center Hardware Operations Lead",
-      "postedToDiscord": "2026-01-13T20:26:29.834Z",
-      "sourceDate": "2025-12-17T17:54:09-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023719008",
-      "discordThreadId": "1460731741688955164",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-supabase-62945518-2468-4cf5-9f36-904b60f75183-2026-01-13-1",
-      "jobId": "jobs-ashbyhq-com-supabase-62945518-2468-4cf5-9f36-904b60f75183",
-      "company": "supabase",
-      "title": "Database Support Engineer (APAC)",
-      "postedToDiscord": "2026-01-13T20:26:31.534Z",
-      "sourceDate": "2025-12-17T21:46:32.608+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183",
-      "discordThreadId": "1460731756977066157",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-supabase-3889002e-536e-4046-a330-70e942b0cc96-2026-01-13-1",
-      "jobId": "jobs-ashbyhq-com-supabase-3889002e-536e-4046-a330-70e942b0cc96",
-      "company": "supabase",
-      "title": "Database Support Engineer (EMEA)",
-      "postedToDiscord": "2026-01-13T20:26:33.368Z",
-      "sourceDate": "2025-12-17T21:45:16.304+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96",
-      "discordThreadId": "1460731764069896225",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-supabase-f18b1173-51c3-4ff6-bcda-89f8111931f4-2026-01-13-1",
-      "jobId": "jobs-ashbyhq-com-supabase-f18b1173-51c3-4ff6-bcda-89f8111931f4",
-      "company": "supabase",
-      "title": "Database Support Engineer (AMER)",
-      "postedToDiscord": "2026-01-13T20:26:35.257Z",
-      "sourceDate": "2025-12-17T21:42:14.767+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4",
-      "discordThreadId": "1460731772169093252",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5681681004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5681681004",
-      "company": "figma",
-      "title": "Director, Security Operations & Information Security",
-      "postedToDiscord": "2026-01-13T20:26:38.803Z",
-      "sourceDate": "2025-12-17T13:46:20-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5681681004?gh_jid=5681681004",
-      "discordThreadId": "1460731779907588231",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4973549008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973549008",
-      "company": "anthropic",
-      "title": "Compensation Systems and Infrastructure",
-      "postedToDiscord": "2026-01-13T20:26:45.395Z",
-      "sourceDate": "2025-12-17T15:52:36-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973549008",
-      "discordThreadId": "1460731807497457908",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5018838008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018838008",
-      "company": "anthropic",
-      "title": "Finance Systems, Senior Business Systems Analyst - Finance & Strategy",
-      "postedToDiscord": "2026-01-13T20:26:48.857Z",
-      "sourceDate": "2025-12-17T14:26:32-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
-      "discordThreadId": "1460731822249083021",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-discord-jobs-8343795002-2026-01-13-1",
       "jobId": "job-boards-greenhouse-io-discord-jobs-8343795002",
@@ -34218,14 +34097,329 @@
       "discordThreadId": "1463262849194393786",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "647f4ea2091c8cc7-2026-01-20-1",
+      "jobId": "647f4ea2091c8cc7",
+      "company": "anthropic",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-20T20:36:24.826Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463270965868757012",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:24.826Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4461450008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4461450008",
+      "company": "anthropic",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-20T20:36:26.353Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+      "discordThreadId": "1463270965868757012",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e16d0f6aeb3a798b-2026-01-20-1",
+      "jobId": "e16d0f6aeb3a798b",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Startups",
+      "postedToDiscord": "2026-01-20T20:36:26.581Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979834008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463270974052110366",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:26.581Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4979834008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4979834008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Startups",
+      "postedToDiscord": "2026-01-20T20:36:28.100Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979834008",
+      "discordThreadId": "1463270974052110366",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5d1187e67340a5b4-2026-01-20-1",
+      "jobId": "5d1187e67340a5b4",
+      "company": "vercel",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-20T20:36:28.461Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5624231004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463270981249269794",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:28.461Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5624231004-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5624231004",
+      "company": "vercel",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-20T20:36:29.981Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5624231004",
+      "discordThreadId": "1463270981249269794",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "93a9ac54665ad7f2-2026-01-20-1",
+      "jobId": "93a9ac54665ad7f2",
+      "company": "brex",
+      "title": "Software Engineer II, Frontend Platform ",
+      "postedToDiscord": "2026-01-20T20:36:30.185Z",
+      "sourceDate": "2026-01-06T17:45:43-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8353867002?gh_jid=8353867002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463270989193547877",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:30.185Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463270996353089652",
+          "channelType": "location",
+          "postedAt": "2026-01-20T20:36:32.070Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8353867002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8353867002",
+      "company": "brex",
+      "title": "Software Engineer II, Frontend Platform ",
+      "postedToDiscord": "2026-01-20T20:36:33.588Z",
+      "sourceDate": "2026-01-06T17:45:43-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8353867002?gh_jid=8353867002",
+      "discordThreadId": "1463270989193547877",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "80e1f3f4aeef8757-2026-01-20-1",
+      "jobId": "80e1f3f4aeef8757",
+      "company": "EquipmentShare",
+      "title": "MDM – Master Data Management - Parts Specialist",
+      "postedToDiscord": "2026-01-20T20:36:33.807Z",
+      "sourceDate": "2026-01-06T16:40:37.000Z",
+      "sourceUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=7516161",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463271004078997648",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:33.807Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463271011632939170",
+          "channelType": "location",
+          "postedAt": "2026-01-20T20:36:35.547Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-equipmentshare-com-careers-openings-2026-01-20-1",
+      "jobId": "www-equipmentshare-com-careers-openings",
+      "company": "EquipmentShare",
+      "title": "MDM – Master Data Management - Parts Specialist",
+      "postedToDiscord": "2026-01-20T20:36:37.067Z",
+      "sourceDate": "2026-01-06T16:40:37.000Z",
+      "sourceUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=7516161",
+      "discordThreadId": "1463271004078997648",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6c9a93c732c33c70-2026-01-20-1",
+      "jobId": "6c9a93c732c33c70",
+      "company": "SMX",
+      "title": "BI Developer",
+      "postedToDiscord": "2026-01-20T20:36:40.420Z",
+      "sourceDate": "2026-01-06T23:39:15.000Z",
+      "sourceUrl": "https://www.smxtech.com/careers/?gh_jid=7579859003",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463271031773987041",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:40.420Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463271039076405384",
+          "channelType": "location",
+          "postedAt": "2026-01-20T20:36:42.244Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-smxtech-com-careers-2026-01-20-1",
+      "jobId": "www-smxtech-com-careers",
+      "company": "SMX",
+      "title": "BI Developer",
+      "postedToDiscord": "2026-01-20T20:36:43.768Z",
+      "sourceDate": "2026-01-06T23:39:15.000Z",
+      "sourceUrl": "https://www.smxtech.com/careers/?gh_jid=7579859003",
+      "discordThreadId": "1463271031773987041",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "995a36ee17ee49c5-2026-01-20-1",
+      "jobId": "995a36ee17ee49c5",
+      "company": "airtable",
+      "title": "Senior Contracts Manager, Procurement and AI",
+      "postedToDiscord": "2026-01-20T20:36:47.051Z",
+      "sourceDate": "2026-01-06T03:01:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8350839002",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463271059791941938",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:47.051Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8350839002-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8350839002",
+      "company": "airtable",
+      "title": "Senior Contracts Manager, Procurement and AI",
+      "postedToDiscord": "2026-01-20T20:36:48.572Z",
+      "sourceDate": "2026-01-06T03:01:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8350839002",
+      "discordThreadId": "1463271059791941938",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "23157fc75b1d2a10-2026-01-20-1",
+      "jobId": "23157fc75b1d2a10",
+      "company": "Eli Lilly and Company",
+      "title": "Engineer – MES System",
+      "postedToDiscord": "2026-01-20T20:36:48.837Z",
+      "sourceDate": "2026-01-19T23:30:49.000Z",
+      "sourceUrl": "https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/US-Indianapolis-IN/Engineer---MES-System_R-91305-1",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463271067257671691",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:48.837Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463271074689978582",
+          "channelType": "location",
+          "postedAt": "2026-01-20T20:36:50.664Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "lilly-wd5-myworkdayjobs-com-en-us-lly-job-us-indianapolis-in-engineer-mes-system_r-91305-1-2026-01-20-1",
+      "jobId": "lilly-wd5-myworkdayjobs-com-en-us-lly-job-us-indianapolis-in-engineer-mes-system_r-91305-1",
+      "company": "Eli Lilly and Company",
+      "title": "Engineer – MES System",
+      "postedToDiscord": "2026-01-20T20:36:52.183Z",
+      "sourceDate": "2026-01-19T23:30:49.000Z",
+      "sourceUrl": "https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/US-Indianapolis-IN/Engineer---MES-System_R-91305-1",
+      "discordThreadId": "1463271067257671691",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "96370e53223acccd-2026-01-20-1",
+      "jobId": "96370e53223acccd",
+      "company": "Jerry",
+      "title": "Software Engineer - Entry",
+      "postedToDiscord": "2026-01-20T20:36:52.423Z",
+      "sourceDate": "2026-01-19T23:12:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/d84db733-460c-4cdb-8ef9-aab18ff790b8/application",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463271082340519946",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:52.423Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-d84db733-460c-4cdb-8ef9-aab18ff790b8-application-2026-01-20-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-d84db733-460c-4cdb-8ef9-aab18ff790b8-application",
+      "company": "Jerry",
+      "title": "Software Engineer - Entry",
+      "postedToDiscord": "2026-01-20T20:36:53.944Z",
+      "sourceDate": "2026-01-19T23:12:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/d84db733-460c-4cdb-8ef9-aab18ff790b8/application",
+      "discordThreadId": "1463271082340519946",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e3cf31cb4ba709d0-2026-01-20-1",
+      "jobId": "e3cf31cb4ba709d0",
+      "company": "RWS",
+      "title": "AI Data Specialist - Wisconsin - US",
+      "postedToDiscord": "2026-01-20T20:36:54.232Z",
+      "sourceDate": "2026-01-19T23:09:29.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/c4f5986d-789a-4a53-972b-957278e844cd/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463271089709908101",
+          "channelType": "category",
+          "postedAt": "2026-01-20T20:36:54.232Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463271097599267046",
+          "channelType": "location",
+          "postedAt": "2026-01-20T20:36:56.119Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-rws-c4f5986d-789a-4a53-972b-957278e844cd-apply-2026-01-20-1",
+      "jobId": "jobs-lever-co-rws-c4f5986d-789a-4a53-972b-957278e844cd-apply",
+      "company": "RWS",
+      "title": "AI Data Specialist - Wisconsin - US",
+      "postedToDiscord": "2026-01-20T20:36:57.640Z",
+      "sourceDate": "2026-01-19T23:09:29.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/c4f5986d-789a-4a53-972b-957278e844cd/apply",
+      "discordThreadId": "1463271089709908101",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2921,
+    "totalJobs": 2930,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T20:04:11.123Z",
+      "date": "2026-01-20T20:36:57.640Z",
       "archived": 0
     }
   }
