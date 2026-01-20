@@ -105,16 +105,16 @@ function isNonTechRole(title) {
       keyword: 'finance'
     },
 
-    // Product Management
+    // Product Management (consolidated into tech)
     {
-      category: 'product',
+      category: 'tech',
       regex: /\b(product manager|product owner|product lead)\b/,
       keyword: 'product'
     },
 
-    // Project Management
+    // Project Management (consolidated into tech)
     {
-      category: 'project-management',
+      category: 'tech',
       regex: /\b(project manager|program manager|scrum master|agile coach)\b/,
       keyword: 'project-management'
     }
@@ -288,14 +288,14 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
       keywords: ['finance', 'accounting', 'financial analyst', 'controller', 'treasury', 'audit', 'tax', 'bookkeep', 'cfo', 'actuarial', 'investment', 'banker']
     },
     {
-      category: 'product',
-      channelId: CHANNEL_CONFIG.product,
+      category: 'tech', // Product roles consolidated into tech
+      channelId: CHANNEL_CONFIG.tech,
       regex: /\b(product manager|product owner|product marketing|(\bpm\b)|product lead|product strategy|product analyst)\b/,
       keywords: ['product manager', 'product owner', 'product marketing', 'pm', 'product lead', 'product strategy', 'product analyst']
     },
     {
-      category: 'project-management',
-      channelId: CHANNEL_CONFIG['project-management'],
+      category: 'tech', // Project management roles consolidated into tech
+      channelId: CHANNEL_CONFIG.tech,
       regex: /\b(project manager|program manager|scrum master|agile coach|pmo|project coordinator|delivery manager)\b/,
       keywords: ['project manager', 'program manager', 'scrum master', 'agile coach', 'pmo', 'project coordinator', 'delivery manager']
     }
