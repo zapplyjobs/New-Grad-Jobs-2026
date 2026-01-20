@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:57:28.416Z",
+  "lastUpdated": "2026-01-20T08:14:09.513Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5739572004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5739572004",
-      "company": "figma",
-      "title": "Sales Enablement Manager ",
-      "postedToDiscord": "2026-01-13T08:07:07.542Z",
-      "sourceDate": "2025-12-19T15:47:32-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739572004?gh_jid=5739572004",
-      "discordThreadId": "1460545673618260084",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041301008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041301008",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, LATAM Financial Services",
-      "postedToDiscord": "2026-01-13T08:07:11.142Z",
-      "sourceDate": "2025-12-19T14:21:48-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041301008",
-      "discordThreadId": "1460545688768090124",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5041290008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041290008",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
-      "postedToDiscord": "2026-01-13T08:07:14.743Z",
-      "sourceDate": "2025-12-19T14:16:24-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
-      "discordThreadId": "1460545703364526194",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4990162008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4990162008",
-      "company": "anthropic",
-      "title": "Technical Revenue Accountant",
-      "postedToDiscord": "2026-01-13T08:07:21.239Z",
-      "sourceDate": "2025-12-19T14:46:44-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990162008",
-      "discordThreadId": "1460545731059253278",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5179639004-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5179639004",
-      "company": "vercel",
-      "title": "Software Engineer, CDN",
-      "postedToDiscord": "2026-01-13T08:07:28.243Z",
-      "sourceDate": "2025-12-19T14:44:04-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5179639004",
-      "discordThreadId": "1460545758641258651",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-cmtelematics-com-who-we-are-join-our-team-job-posting-2026-01-13-1",
-      "jobId": "www-cmtelematics-com-who-we-are-join-our-team-job-posting",
-      "company": "Cambridge Mobile Telematics",
-      "title": "Software Engineer - Backend",
-      "postedToDiscord": "2026-01-13T08:07:31.714Z",
-      "sourceDate": "2025-12-19T16:50:38.000Z",
-      "sourceUrl": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
-      "discordThreadId": "1460545774789202023",
-      "instanceNumber": 1
-    },
-    {
-      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039-2026-01-13-1",
-      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039",
-      "company": "Astreya",
-      "title": "Fiber Network Mapping Specialist 4",
-      "postedToDiscord": "2026-01-13T08:07:36.463Z",
-      "sourceDate": "2025-12-19T19:12:08.000Z",
-      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039",
-      "discordThreadId": "1460545801909702872",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5741089004-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5741089004",
-      "company": "vercel",
-      "title": "Finance Manager",
-      "postedToDiscord": "2026-01-13T08:07:39.908Z",
-      "sourceDate": "2025-12-19T11:54:31-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5741089004",
-      "discordThreadId": "1460545809140420772",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8344197002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8344197002",
-      "company": "discord",
-      "title": "Staff Software Engineer - Safety Experience",
-      "postedToDiscord": "2026-01-13T08:07:46.348Z",
-      "sourceDate": "2025-12-19T13:29:08-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8344197002",
-      "discordThreadId": "1460545836466442392",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8308138002-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8308138002",
-      "company": "discord",
-      "title": "Senior Data Scientist, Analytics",
-      "postedToDiscord": "2026-01-13T08:07:50.082Z",
-      "sourceDate": "2025-12-19T12:00:50-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8308138002",
-      "discordThreadId": "1460545850915815464",
-      "instanceNumber": 1
-    },
     {
       "id": "apply-careers-microsoft-com-careers-job-1970393556641984-2026-01-13-1",
       "jobId": "apply-careers-microsoft-com-careers-job-1970393556641984",
@@ -32242,14 +32132,198 @@
       "discordThreadId": "1463079959223341070",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "741704b10af49ebe-2026-01-20-1",
+      "jobId": "741704b10af49ebe",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (AI Security)",
+      "postedToDiscord": "2026-01-20T08:13:52.186Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7373098/?gh_jid=7373098",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463084098225705139",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:13:52.186Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7373098-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7373098",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (AI Security)",
+      "postedToDiscord": "2026-01-20T08:13:53.716Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7373098/?gh_jid=7373098",
+      "discordThreadId": "1463084098225705139",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1bfd518f3b6fbf78-2026-01-20-1",
+      "jobId": "1bfd518f3b6fbf78",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (Cloud Cost Management)",
+      "postedToDiscord": "2026-01-20T08:13:53.982Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7329541/?gh_jid=7329541",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463084106408657009",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:13:53.982Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7329541-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7329541",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (Cloud Cost Management)",
+      "postedToDiscord": "2026-01-20T08:13:55.505Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7329541/?gh_jid=7329541",
+      "discordThreadId": "1463084106408657009",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "192d995449e05eb6-2026-01-20-1",
+      "jobId": "192d995449e05eb6",
+      "company": "datadog",
+      "title": "Senior Sales Engineer - Majors Northeast",
+      "postedToDiscord": "2026-01-20T08:13:55.876Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7393792/?gh_jid=7393792",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463084114440622141",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:13:55.876Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463084122103742464",
+          "channelType": "location",
+          "postedAt": "2026-01-20T08:13:57.574Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7393792-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7393792",
+      "company": "datadog",
+      "title": "Senior Sales Engineer - Majors Northeast",
+      "postedToDiscord": "2026-01-20T08:13:59.092Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7393792/?gh_jid=7393792",
+      "discordThreadId": "1463084114440622141",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bab546342c947753-2026-01-20-1",
+      "jobId": "bab546342c947753",
+      "company": "datadog",
+      "title": "Senior Software Engineer ",
+      "postedToDiscord": "2026-01-20T08:13:59.277Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463084129179537479",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:13:59.277Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463084136028836007",
+          "channelType": "location",
+          "postedAt": "2026-01-20T08:14:01.084Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-3851935-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-3851935",
+      "company": "datadog",
+      "title": "Senior Software Engineer ",
+      "postedToDiscord": "2026-01-20T08:14:02.609Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935",
+      "discordThreadId": "1463084129179537479",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-3851927-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-3851927",
+      "company": "datadog",
+      "title": "Senior Software Engineer - Distributed Systems",
+      "postedToDiscord": "2026-01-20T08:14:02.632Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-4732393-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-4732393",
+      "company": "datadog",
+      "title": "Senior Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-20T08:14:02.655Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/4732393/?gh_jid=4732393",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "569db26e7581e9de-2026-01-20-1",
+      "jobId": "569db26e7581e9de",
+      "company": "datadog",
+      "title": "Senior Security Engineer, Data Security",
+      "postedToDiscord": "2026-01-20T08:14:06.106Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7440306/?gh_jid=7440306",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463084157252141263",
+          "channelType": "category",
+          "postedAt": "2026-01-20T08:14:06.106Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463084165049090061",
+          "channelType": "location",
+          "postedAt": "2026-01-20T08:14:07.990Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7440306-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7440306",
+      "company": "datadog",
+      "title": "Senior Security Engineer, Data Security",
+      "postedToDiscord": "2026-01-20T08:14:09.513Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7440306/?gh_jid=7440306",
+      "discordThreadId": "1463084157252141263",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2824,
+    "totalJobs": 2826,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T07:57:28.416Z",
+      "date": "2026-01-20T08:14:09.513Z",
       "archived": 0
     }
   }
