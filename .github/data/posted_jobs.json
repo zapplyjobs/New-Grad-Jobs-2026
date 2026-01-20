@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:16:43.201Z",
+  "lastUpdated": "2026-01-20T07:22:41.859Z",
   "jobs": [
-    {
-      "id": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1-2026-01-13-1",
-      "jobId": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1",
-      "company": "BlackRock",
-      "title": "Associate – Application Engineer",
-      "postedToDiscord": "2026-01-13T07:16:44.864Z",
-      "sourceDate": "2025-12-22T19:35:16.000Z",
-      "sourceUrl": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1",
-      "discordThreadId": "1460532994883457117",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5043460008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043460008",
-      "company": "anthropic",
-      "title": "Partner Development Manager, Build Partners",
-      "postedToDiscord": "2026-01-13T07:16:51.486Z",
-      "sourceDate": "2025-12-22T14:36:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
-      "discordThreadId": "1460533022439768179",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5045003008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045003008",
-      "company": "anthropic",
-      "title": "Commercial Counsel, Colo & Networks",
-      "postedToDiscord": "2026-01-13T07:16:54.955Z",
-      "sourceDate": "2025-12-22T14:25:54-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045003008",
-      "discordThreadId": "1460533037434405005",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5045006008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045006008",
-      "company": "anthropic",
-      "title": "Commercial Counsel, Compute & Infrastructure",
-      "postedToDiscord": "2026-01-13T07:16:58.515Z",
-      "sourceDate": "2025-12-22T14:21:42-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045006008",
-      "discordThreadId": "1460533052374515866",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5044994008-2026-01-13-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5044994008",
-      "company": "anthropic",
-      "title": "Commercial Counsel, Datacenters & Construction",
-      "postedToDiscord": "2026-01-13T07:17:01.949Z",
-      "sourceDate": "2025-12-22T14:12:06-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
-      "discordThreadId": "1460533066987606259",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08-2026-01-13-1",
       "jobId": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
@@ -31997,14 +31942,227 @@
       "discordThreadId": "1463069703671906462",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "aa421259a2f91452-2026-01-20-1",
+      "jobId": "aa421259a2f91452",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-20T07:22:26.044Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463071154972524682",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:22:26.044Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463071162350174249",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:22:27.741Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6665385-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6665385",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-20T07:22:29.260Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385",
+      "discordThreadId": "1463071154972524682",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6163246-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6163246",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-20T07:22:29.282Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "52badf62125fa39d-2026-01-20-1",
+      "jobId": "52badf62125fa39d",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (Boston)",
+      "postedToDiscord": "2026-01-20T07:22:29.577Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463071169749061662",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:22:29.577Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6798820-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-6798820",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (Boston)",
+      "postedToDiscord": "2026-01-20T07:22:31.098Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820",
+      "discordThreadId": "1463071169749061662",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c31bd24d4b15af11-2026-01-20-1",
+      "jobId": "c31bd24d4b15af11",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (San Francisco)",
+      "postedToDiscord": "2026-01-20T07:22:31.269Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463071177189621790",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:22:31.269Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7082012-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7082012",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (San Francisco)",
+      "postedToDiscord": "2026-01-20T07:22:32.789Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012",
+      "discordThreadId": "1463071177189621790",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "99aaa8142b5ac957-2026-01-20-1",
+      "jobId": "99aaa8142b5ac957",
+      "company": "datadog",
+      "title": "Premier Support Engineer 3 - NYC",
+      "postedToDiscord": "2026-01-20T07:22:33.018Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463071184315879576",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:22:33.018Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463071191555113065",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:22:34.788Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7120493-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7120493",
+      "company": "datadog",
+      "title": "Premier Support Engineer 3 - NYC",
+      "postedToDiscord": "2026-01-20T07:22:36.312Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493",
+      "discordThreadId": "1463071184315879576",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3ee175759a205ec2-2026-01-20-1",
+      "jobId": "3ee175759a205ec2",
+      "company": "datadog",
+      "title": "Product Marketing Manager (Product Analytics)",
+      "postedToDiscord": "2026-01-20T07:22:36.742Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7429838/?gh_jid=7429838",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463071199562305629",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:22:36.742Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463071207237619868",
+          "channelType": "location",
+          "postedAt": "2026-01-20T07:22:38.481Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7429838-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7429838",
+      "company": "datadog",
+      "title": "Product Marketing Manager (Product Analytics)",
+      "postedToDiscord": "2026-01-20T07:22:40.003Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7429838/?gh_jid=7429838",
+      "discordThreadId": "1463071199562305629",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bd868f785e2f57d4-2026-01-20-1",
+      "jobId": "bd868f785e2f57d4",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-20T07:22:40.321Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463071214456012843",
+          "channelType": "category",
+          "postedAt": "2026-01-20T07:22:40.321Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7252012-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7252012",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-20T07:22:41.841Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012",
+      "discordThreadId": "1463071214456012843",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7251992-2026-01-20-1",
+      "jobId": "careers-datadoghq-com-detail-7251992",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Spanish Speaking)",
+      "postedToDiscord": "2026-01-20T07:22:41.859Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251992/?gh_jid=7251992",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2819,
+    "totalJobs": 2828,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T07:16:43.201Z",
+      "date": "2026-01-20T07:22:41.859Z",
       "archived": 0
     }
   }
