@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:43:17.434Z",
+  "lastUpdated": "2026-01-20T21:55:29.379Z",
   "jobs": [
-    {
-      "id": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396-2026-01-13-1",
-      "jobId": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396",
-      "company": "First Financial ",
-      "title": "Regulatory Data Analyst 1",
-      "postedToDiscord": "2026-01-13T21:52:56.998Z",
-      "sourceDate": "2025-12-15T23:37:04.000Z",
-      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Abilene-Main/Regulatory-Data-Analyst-I_JR102396",
-      "discordThreadId": "1460753499343032554",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485-2026-01-13-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485",
-      "company": "NVIDIA",
-      "title": "Research Scientist - AI-Mediated Reality and Interaction Research",
-      "postedToDiscord": "2026-01-13T21:53:03.484Z",
-      "sourceDate": "2025-12-15T23:25:04.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485",
-      "discordThreadId": "1460753526236905492",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-wyetechllc-9585d817-be05-461c-bd89-7f55b469a64f-apply-2026-01-13-1",
-      "jobId": "jobs-lever-co-wyetechllc-9585d817-be05-461c-bd89-7f55b469a64f-apply",
-      "company": "Wyetech",
-      "title": "Software Engineer 2",
-      "postedToDiscord": "2026-01-13T21:53:06.992Z",
-      "sourceDate": "2025-12-15T23:09:16.000Z",
-      "sourceUrl": "https://jobs.lever.co/wyetechllc/9585d817-be05-461c-bd89-7f55b469a64f/apply",
-      "discordThreadId": "1460753540703059973",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e-2026-01-13-1",
-      "jobId": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e",
-      "company": "spotify",
-      "title": "Machine Learning Engineer, Personalization",
-      "postedToDiscord": "2026-01-13T21:53:10.546Z",
-      "sourceDate": "2025-12-15T21:39:25.664Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e",
-      "discordThreadId": "1460753555362156586",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903-2026-01-13-1",
-      "jobId": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903",
-      "company": "Electronic Arts",
-      "title": "EA Sports Academy Software Engineer",
-      "postedToDiscord": "2026-01-13T21:53:16.998Z",
-      "sourceDate": "2025-12-15T23:15:11.000Z",
-      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903",
-      "discordThreadId": "1460753582922924186",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application-2026-01-13-1",
-      "jobId": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application",
-      "company": "Anything",
-      "title": "Backend Engineer - AI",
-      "postedToDiscord": "2026-01-13T21:53:20.577Z",
-      "sourceDate": "2025-12-15T23:14:02.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application",
-      "discordThreadId": "1460753597686878299",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556631972-2026-01-13-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631972",
-      "company": "Microsoft",
-      "title": "Software Engineer - Windows Servicing and Delivery",
-      "postedToDiscord": "2026-01-13T21:53:24.387Z",
-      "sourceDate": "2025-12-15T23:09:54.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
-      "discordThreadId": "1460753613038157856",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556631977-2026-01-13-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631977",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-13T21:53:24.397Z",
-      "sourceDate": "2025-12-15T23:09:42.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631977",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1-2026-01-13-1",
-      "jobId": "kansashealthsystem-wd1-myworkdayjobs-com-careers-job-shawnee-mission-ks-clinical-analyst-i-remote-_r-48868-1",
-      "company": "The University of Kansas Hospital",
-      "title": "Clinical Analyst 1",
-      "postedToDiscord": "2026-01-13T21:53:30.834Z",
-      "sourceDate": "2025-12-15T21:33:02.000Z",
-      "sourceUrl": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I--Remote-_R-48868-1",
-      "discordThreadId": "1460753641291124860",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5735296004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5735296004",
-      "company": "figma",
-      "title": "Compliance Manager, Customer Trust & Third Party Risk",
-      "postedToDiscord": "2026-01-13T21:53:37.209Z",
-      "sourceDate": "2025-12-15T16:31:12-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735296004?gh_jid=5735296004",
-      "discordThreadId": "1460753668058911016",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5734651004-2026-01-13-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5734651004",
-      "company": "figma",
-      "title": "Senior Manager, Revenue Transformation",
-      "postedToDiscord": "2026-01-13T21:53:40.521Z",
-      "sourceDate": "2025-12-15T16:31:06-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734651004?gh_jid=5734651004",
-      "discordThreadId": "1460753682105761792",
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8229815002-2026-01-13-1",
       "jobId": "www-brex-com-careers-8229815002",
@@ -35250,14 +35129,432 @@
       "discordThreadId": "1463287790547636369",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "04b63d85b3334564-2026-01-20-1",
+      "jobId": "04b63d85b3334564",
+      "company": "reddit",
+      "title": "Director, Global Sales Enablement",
+      "postedToDiscord": "2026-01-20T21:54:55.506Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7366237",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463290724245176382",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:54:55.506Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463290731622825997",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:54:57.243Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7366237-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7366237",
+      "company": "reddit",
+      "title": "Director, Global Sales Enablement",
+      "postedToDiscord": "2026-01-20T21:54:58.763Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7366237",
+      "discordThreadId": "1463290724245176382",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7396325-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7396325",
+      "company": "reddit",
+      "title": "Director, Global Sales Enablement",
+      "postedToDiscord": "2026-01-20T21:54:58.786Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7396325",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0481bca16731a256-2026-01-20-1",
+      "jobId": "0481bca16731a256",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (Gaming & Tech)",
+      "postedToDiscord": "2026-01-20T21:54:59.034Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7426344",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463290739470368799",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:54:59.034Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463290746835570708",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:55:00.795Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7426344-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7426344",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (Gaming & Tech)",
+      "postedToDiscord": "2026-01-20T21:55:02.315Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7426344",
+      "discordThreadId": "1463290739470368799",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "abda5eb54f5e1662-2026-01-20-1",
+      "jobId": "abda5eb54f5e1662",
+      "company": "reddit",
+      "title": "Senior IT Support Engineer, Snoo Operations & Support (SOS)",
+      "postedToDiscord": "2026-01-20T21:55:02.663Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413993",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463290754263679050",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:02.663Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7413993-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7413993",
+      "company": "reddit",
+      "title": "Senior IT Support Engineer, Snoo Operations & Support (SOS)",
+      "postedToDiscord": "2026-01-20T21:55:04.185Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413993",
+      "discordThreadId": "1463290754263679050",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "36af2defa970328e-2026-01-20-1",
+      "jobId": "36af2defa970328e",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-20T21:55:04.411Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488992",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463290761712898305",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:04.411Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463290769396858962",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:55:06.190Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488992-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488992",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-20T21:55:07.714Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488992",
+      "discordThreadId": "1463290761712898305",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488991-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488991",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-20T21:55:07.735Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488991",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488986-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488986",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-20T21:55:07.754Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488986",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7488988-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7488988",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-20T21:55:07.773Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488988",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "06cf84e11bd750ba-2026-01-20-1",
+      "jobId": "06cf84e11bd750ba",
+      "company": "reddit",
+      "title": "Technical Support Manager ",
+      "postedToDiscord": "2026-01-20T21:55:08.006Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7336592",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463290776745410615",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:08.006Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7336592-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7336592",
+      "company": "reddit",
+      "title": "Technical Support Manager ",
+      "postedToDiscord": "2026-01-20T21:55:09.528Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7336592",
+      "discordThreadId": "1463290776745410615",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ae54c20439d9cec2-2026-01-20-1",
+      "jobId": "ae54c20439d9cec2",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code (Enterprise)",
+      "postedToDiscord": "2026-01-20T21:55:12.834Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463290797117149184",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:12.834Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4858247008-2026-01-20-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4858247008",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code (Enterprise)",
+      "postedToDiscord": "2026-01-20T21:55:14.355Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
+      "discordThreadId": "1463290797117149184",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "403096c16bc2dcba-2026-01-20-1",
+      "jobId": "403096c16bc2dcba",
+      "company": "Walmart",
+      "title": "Software Engineer 3",
+      "postedToDiscord": "2026-01-20T21:55:14.557Z",
+      "sourceDate": "2026-01-02T23:48:41.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2347075",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463290804389937203",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:14.557Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-software-engineer-iii_r-2347075-2026-01-20-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-software-engineer-iii_r-2347075",
+      "company": "Walmart",
+      "title": "Software Engineer 3",
+      "postedToDiscord": "2026-01-20T21:55:16.080Z",
+      "sourceDate": "2026-01-02T23:48:41.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2347075",
+      "discordThreadId": "1463290804389937203",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3b41dfdb5c196d52-2026-01-20-1",
+      "jobId": "3b41dfdb5c196d52",
+      "company": "Booz Allen",
+      "title": "Data Processing Technician",
+      "postedToDiscord": "2026-01-20T21:55:19.336Z",
+      "sourceDate": "2026-01-02T23:15:47.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Data-Processing-Technician_R0231593",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463290824421802005",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:19.336Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-aurora-co-data-processing-technician_r0231593-2026-01-20-1",
+      "jobId": "bah-wd1-myworkdayjobs-com-bah_jobs-job-aurora-co-data-processing-technician_r0231593",
+      "company": "Booz Allen",
+      "title": "Data Processing Technician",
+      "postedToDiscord": "2026-01-20T21:55:20.856Z",
+      "sourceDate": "2026-01-02T23:15:47.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Data-Processing-Technician_R0231593",
+      "discordThreadId": "1463290824421802005",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ba5cc96531fffe2b-2026-01-20-1",
+      "jobId": "ba5cc96531fffe2b",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:24.196Z",
+      "sourceDate": "2026-01-02T15:41:01-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136713002?gh_jid=8136713002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463290844395213016",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:24.196Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8136713002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8136713002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:25.716Z",
+      "sourceDate": "2026-01-02T15:41:01-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136713002?gh_jid=8136713002",
+      "discordThreadId": "1463290844395213016",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8136710002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8136710002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:25.737Z",
+      "sourceDate": "2026-01-02T15:40:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136710002?gh_jid=8136710002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8136706002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8136706002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:25.756Z",
+      "sourceDate": "2026-01-02T15:40:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136706002?gh_jid=8136706002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8136183002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8136183002",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:25.775Z",
+      "sourceDate": "2026-01-02T15:39:47-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136183002?gh_jid=8136183002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2ffd60db5d353b4c-2026-01-20-1",
+      "jobId": "2ffd60db5d353b4c",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:26.033Z",
+      "sourceDate": "2026-01-02T15:38:16-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316344002?gh_jid=8316344002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463290852268048509",
+          "channelType": "category",
+          "postedAt": "2026-01-20T21:55:26.033Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463290860027384063",
+          "channelType": "location",
+          "postedAt": "2026-01-20T21:55:27.820Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8316344002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8316344002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:29.340Z",
+      "sourceDate": "2026-01-02T15:38:16-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316344002?gh_jid=8316344002",
+      "discordThreadId": "1463290852268048509",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8316337002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8316337002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:29.361Z",
+      "sourceDate": "2026-01-02T15:38:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316337002?gh_jid=8316337002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8316335002-2026-01-20-1",
+      "jobId": "www-brex-com-careers-8316335002",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T21:55:29.379Z",
+      "sourceDate": "2026-01-02T15:37:53-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316335002?gh_jid=8316335002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2974,
+    "totalJobs": 2992,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T21:43:17.434Z",
+      "date": "2026-01-20T21:55:29.379Z",
       "archived": 0
     }
   }
