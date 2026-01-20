@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T12:56:33.918Z",
+  "lastUpdated": "2026-01-20T13:25:53.911Z",
   "jobs": [
     {
       "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-13-1",
@@ -33927,14 +33927,82 @@
       "discordThreadId": "1463155228508557545",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "888532439bf0d113-2026-01-20-1",
+      "jobId": "888532439bf0d113",
+      "company": "duolingo",
+      "title": "Influencer Marketing, Intern",
+      "postedToDiscord": "2026-01-20T13:25:46.060Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301155002?gh_jid=8301155002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463162590845866046",
+          "channelType": "category",
+          "postedAt": "2026-01-20T13:25:46.060Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463162602296312002",
+          "channelType": "location",
+          "postedAt": "2026-01-20T13:25:48.793Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8301155002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8301155002",
+      "company": "duolingo",
+      "title": "Influencer Marketing, Intern",
+      "postedToDiscord": "2026-01-20T13:25:50.314Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301155002?gh_jid=8301155002",
+      "discordThreadId": "1463162590845866046",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "87aa412388646945-2026-01-20-1",
+      "jobId": "87aa412388646945",
+      "company": "duolingo",
+      "title": "Senior AI Engineering Manager",
+      "postedToDiscord": "2026-01-20T13:25:50.575Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463162609426497720",
+          "channelType": "category",
+          "postedAt": "2026-01-20T13:25:50.575Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463162616863133708",
+          "channelType": "location",
+          "postedAt": "2026-01-20T13:25:52.387Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-duolingo-com-jobs-8322062002-2026-01-20-1",
+      "jobId": "careers-duolingo-com-jobs-8322062002",
+      "company": "duolingo",
+      "title": "Senior AI Engineering Manager",
+      "postedToDiscord": "2026-01-20T13:25:53.911Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002",
+      "discordThreadId": "1463162609426497720",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 2927,
+    "totalJobs": 2931,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-20T12:56:33.918Z",
+      "date": "2026-01-20T13:25:53.911Z",
       "archived": 0
     }
   }
