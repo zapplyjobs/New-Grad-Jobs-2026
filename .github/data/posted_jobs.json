@@ -1,227 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T06:57:05.122Z",
+  "lastUpdated": "2026-01-21T07:17:12.533Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5018195008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018195008",
-      "company": "anthropic",
-      "title": "Microsoft GTM Partnership, Enterprise",
-      "postedToDiscord": "2026-01-14T07:01:24.980Z",
-      "sourceDate": "2025-12-04T13:36:31-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
-      "discordThreadId": "1460891523838382120",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5015941008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015941008",
-      "company": "anthropic",
-      "title": "Head of Partner Experience & Success",
-      "postedToDiscord": "2026-01-14T07:01:28.521Z",
-      "sourceDate": "2025-12-04T13:34:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015941008",
-      "discordThreadId": "1460891539717750987",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5725192004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5725192004",
-      "company": "figma",
-      "title": "Senior CES Operations Manager",
-      "postedToDiscord": "2026-01-14T07:01:32.037Z",
-      "sourceDate": "2025-12-04T11:05:58-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725192004?gh_jid=5725192004",
-      "discordThreadId": "1460891554422980608",
-      "instanceNumber": 1
-    },
-    {
-      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075-2026-01-14-1",
-      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075",
-      "company": "Accenture",
-      "title": "ATC Salesforce Analyst - Nashville",
-      "postedToDiscord": "2026-01-14T07:01:35.886Z",
-      "sourceDate": "2025-12-04T04:36:22.000Z",
-      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075",
-      "discordThreadId": "1460891569367547934",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8323992002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8323992002",
-      "company": "discord",
-      "title": "Senior Product Marketing Manager, Nitro",
-      "postedToDiscord": "2026-01-14T07:01:42.658Z",
-      "sourceDate": "2025-12-04T13:01:32-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8323992002",
-      "discordThreadId": "1460891597691420809",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-co-golden-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-plastics-upcycling-biorefining_r14058-2026-01-14-1",
-      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-co-golden-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-plastics-upcycling-biorefining_r14058",
-      "company": "National Renewable Energy Laboratory",
-      "title": "Postdoctoral Researcher",
-      "postedToDiscord": "2026-01-14T07:01:46.066Z",
-      "sourceDate": "2025-12-04T09:36:51.000Z",
-      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058",
-      "discordThreadId": "1460891613357150392",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gumgum-jobs-7546755003-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-gumgum-jobs-7546755003",
-      "company": "GumGum",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-14T07:01:52.504Z",
-      "sourceDate": "2025-12-04T09:38:37.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/gumgum/jobs/7546755003",
-      "discordThreadId": "1460891640427315211",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-cloud-data-engineer_r0781617-2026-01-14-1",
-      "jobId": "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-cloud-data-engineer_r0781617",
-      "company": "CVS Health",
-      "title": "Associate Cloud Data Engineer",
-      "postedToDiscord": "2026-01-14T07:01:55.857Z",
-      "sourceDate": "2025-12-04T04:50:42.000Z",
-      "sourceUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
-      "discordThreadId": "1460891654969098260",
-      "instanceNumber": 1
-    },
-    {
-      "id": "geha-wd5-myworkdayjobs-com-en-us-gehacareers-job-missouri-remote-associate-analytics-engineer_r-005112-1-2026-01-14-1",
-      "jobId": "geha-wd5-myworkdayjobs-com-en-us-gehacareers-job-missouri-remote-associate-analytics-engineer_r-005112-1",
-      "company": "GEHA",
-      "title": "Associate Analytics Engineer",
-      "postedToDiscord": "2026-01-14T07:02:00.562Z",
-      "sourceDate": "2025-12-04T09:11:53.000Z",
-      "sourceUrl": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005112-1",
-      "discordThreadId": "1460891681770704947",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-astranis-jobs-4622097006-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-astranis-jobs-4622097006",
-      "company": "Astranis",
-      "title": "Software Engineer - Backend - Platform",
-      "postedToDiscord": "2026-01-14T07:02:07.085Z",
-      "sourceDate": "2025-12-04T06:49:46.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
-      "discordThreadId": "1460891701345521665",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-workable-com-pony-dot-ai-j-a776e97605-apply-2026-01-14-1",
-      "jobId": "apply-workable-com-pony-dot-ai-j-a776e97605-apply",
-      "company": "pony.ai",
-      "title": "Software Engineer - Perception Infrastructure",
-      "postedToDiscord": "2026-01-14T07:13:58.054Z",
-      "sourceDate": "2025-12-04T02:14:06.000Z",
-      "sourceUrl": "https://apply.workable.com/pony-dot-ai/j/A776E97605/apply",
-      "discordThreadId": "1460894683885604936",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-nebraska-bellevue-software-engineer-principal-software-engineer-aht-_r10216147-2026-01-14-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-nebraska-bellevue-software-engineer-principal-software-engineer-aht-_r10216147",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer / Principal Software Engineer - Aht",
-      "postedToDiscord": "2026-01-14T07:14:01.508Z",
-      "sourceDate": "2025-12-04T01:05:15.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer---Principal-Software-Engineer--AHT-_R10216147",
-      "discordThreadId": "1460894698062221399",
-      "instanceNumber": 1
-    },
-    {
-      "id": "transamerica-wd5-myworkdayjobs-com-us-job-philadelphia-pennsylvania-appian-application-developer_r20060158-2026-01-14-1",
-      "jobId": "transamerica-wd5-myworkdayjobs-com-us-job-philadelphia-pennsylvania-appian-application-developer_r20060158",
-      "company": "Transamerica",
-      "title": "Appian Application Developer",
-      "postedToDiscord": "2026-01-14T07:14:05.226Z",
-      "sourceDate": "2025-12-03T23:33:38.000Z",
-      "sourceUrl": "https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158",
-      "discordThreadId": "1460894713052794969",
-      "instanceNumber": 1
-    },
-    {
-      "id": "higher-gs-com-roles-150845-2026-01-14-1",
-      "jobId": "higher-gs-com-roles-150845",
-      "company": "Goldman Sachs",
-      "title": "2026 – Americas - New York City Area - Engineering",
-      "postedToDiscord": "2026-01-14T07:14:11.693Z",
-      "sourceDate": "2025-12-04T02:04:54.000Z",
-      "sourceUrl": "https://higher.gs.com/roles/150845?type=students",
-      "discordThreadId": "1460894741137854484",
-      "instanceNumber": 1
-    },
-    {
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076-2026-01-14-1",
-      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076",
-      "company": "Adobe",
-      "title": "Research Scientist",
-      "postedToDiscord": "2026-01-14T07:14:15.181Z",
-      "sourceDate": "2025-12-04T01:56:43.000Z",
-      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R163076",
-      "discordThreadId": "1460894754995966091",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5000393008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5000393008",
-      "company": "anthropic",
-      "title": "Finance Systems Integration Engineer",
-      "postedToDiscord": "2026-01-14T07:14:18.687Z",
-      "sourceDate": "2025-12-03T17:01:13-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
-      "discordThreadId": "1460894770070294693",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5726655004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5726655004",
-      "company": "figma",
-      "title": "Enterprise Support Specialist, Spanish Speaking",
-      "postedToDiscord": "2026-01-14T07:14:22.148Z",
-      "sourceDate": "2025-12-03T12:12:11-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726655004?gh_jid=5726655004",
-      "discordThreadId": "1460894784750092362",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5725496004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5725496004",
-      "company": "figma",
-      "title": "Marketing Strategy Manager",
-      "postedToDiscord": "2026-01-14T07:14:28.572Z",
-      "sourceDate": "2025-12-03T19:50:28-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725496004?gh_jid=5725496004",
-      "discordThreadId": "1460894812025655453",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8288128002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8288128002",
-      "company": "discord",
-      "title": "Product Manager, Core Product",
-      "postedToDiscord": "2026-01-14T07:14:32.018Z",
-      "sourceDate": "2025-12-03T18:33:28-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8288128002",
-      "discordThreadId": "1460894826357854342",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4936732008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4936732008",
-      "company": "anthropic",
-      "title": "Global Indirect - Sales Tax & VAT",
-      "postedToDiscord": "2026-01-14T07:14:38.479Z",
-      "sourceDate": "2025-12-03T17:52:46-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4936732008",
-      "discordThreadId": "1460894853473767621",
-      "instanceNumber": 1
-    },
     {
       "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-developer_r_12154-2026-01-14-1",
       "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-developer_r_12154",
@@ -39150,6 +38930,301 @@
       "discordThreadId": "1463427157538898060",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "69da9cc5979175be-2026-01-21-1",
+      "jobId": "69da9cc5979175be",
+      "company": "airtable",
+      "title": "Scaled Customer Success Manager",
+      "postedToDiscord": "2026-01-21T07:16:47.307Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8292724002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463432122143346840",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:16:47.307Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8292724002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8292724002",
+      "company": "airtable",
+      "title": "Scaled Customer Success Manager",
+      "postedToDiscord": "2026-01-21T07:16:48.833Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8292724002",
+      "discordThreadId": "1463432122143346840",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "258d8fceebc015a6-2026-01-21-1",
+      "jobId": "258d8fceebc015a6",
+      "company": "airtable",
+      "title": "Senior Solutions Consultant",
+      "postedToDiscord": "2026-01-21T07:16:49.144Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7982552002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463432129554944042",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:16:49.144Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463432136848707719",
+          "channelType": "location",
+          "postedAt": "2026-01-21T07:16:50.899Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7982552002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7982552002",
+      "company": "airtable",
+      "title": "Senior Solutions Consultant",
+      "postedToDiscord": "2026-01-21T07:16:52.422Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7982552002",
+      "discordThreadId": "1463432129554944042",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ec2ef1342356b6c4-2026-01-21-1",
+      "jobId": "ec2ef1342356b6c4",
+      "company": "airtable",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-21T07:16:52.677Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7953553002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463432144750641152",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:16:52.677Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7953553002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7953553002",
+      "company": "airtable",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-21T07:16:54.199Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7953553002",
+      "discordThreadId": "1463432144750641152",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1548e840fb7dcf86-2026-01-21-1",
+      "jobId": "1548e840fb7dcf86",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (8+ YOE)",
+      "postedToDiscord": "2026-01-21T07:16:54.506Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845295002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463432151772041382",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:16:54.506Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845295002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845295002",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (8+ YOE)",
+      "postedToDiscord": "2026-01-21T07:16:56.029Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845295002",
+      "discordThreadId": "1463432151772041382",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dc8895c875892962-2026-01-21-1",
+      "jobId": "dc8895c875892962",
+      "company": "airtable",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-21T07:16:56.321Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8233343002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463432159648944213",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:16:56.321Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8233343002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8233343002",
+      "company": "airtable",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-21T07:16:57.845Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8233343002",
+      "discordThreadId": "1463432159648944213",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5480b1a630879c63-2026-01-21-1",
+      "jobId": "5480b1a630879c63",
+      "company": "Uber",
+      "title": "Graduate Software Engineer 1 - Mobile",
+      "postedToDiscord": "2026-01-21T07:16:58.033Z",
+      "sourceDate": "2025-12-18T23:17:46.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152559/",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463432166976520338",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:16:58.033Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-uber-com-global-en-careers-list-152559-2026-01-21-1",
+      "jobId": "www-uber-com-global-en-careers-list-152559",
+      "company": "Uber",
+      "title": "Graduate Software Engineer 1 - Mobile",
+      "postedToDiscord": "2026-01-21T07:16:59.557Z",
+      "sourceDate": "2025-12-18T23:17:46.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152559/",
+      "discordThreadId": "1463432166976520338",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "62e3e4641d296045-2026-01-21-1",
+      "jobId": "62e3e4641d296045",
+      "company": "airtable",
+      "title": "Senior Manager, Finance Systems",
+      "postedToDiscord": "2026-01-21T07:17:02.742Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8229185002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463432187142734038",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:17:02.742Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8229185002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8229185002",
+      "company": "airtable",
+      "title": "Senior Manager, Finance Systems",
+      "postedToDiscord": "2026-01-21T07:17:04.267Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8229185002",
+      "discordThreadId": "1463432187142734038",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6ec54abcfa7ba850-2026-01-21-1",
+      "jobId": "6ec54abcfa7ba850",
+      "company": "airtable",
+      "title": "Senior Manager, People Systems",
+      "postedToDiscord": "2026-01-21T07:17:04.440Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8235618002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463432193832390784",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:17:04.440Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8235618002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8235618002",
+      "company": "airtable",
+      "title": "Senior Manager, People Systems",
+      "postedToDiscord": "2026-01-21T07:17:05.964Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8235618002",
+      "discordThreadId": "1463432193832390784",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7fb07f98fdcfb065-2026-01-21-1",
+      "jobId": "7fb07f98fdcfb065",
+      "company": "Adobe",
+      "title": "University Graduate - Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T07:17:09.182Z",
+      "sourceDate": "2025-12-18T23:21:21.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463432213839351935",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:17:09.182Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648-2026-01-21-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-machine-learning-engineer_r160648",
+      "company": "Adobe",
+      "title": "University Graduate - Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T07:17:10.704Z",
+      "sourceDate": "2025-12-18T23:21:21.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
+      "discordThreadId": "1463432213839351935",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "095bec6cba018603-2026-01-21-1",
+      "jobId": "095bec6cba018603",
+      "company": "KCI Technologies",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-21T07:17:11.006Z",
+      "sourceDate": "2025-09-17T20:02:56.000Z",
+      "sourceUrl": "https://careers-kci.icims.com/jobs/7401/job?mobile=true&needsRedirect=false",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463432221364060212",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:17:11.006Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-kci-icims-com-jobs-7401-job-2026-01-21-1",
+      "jobId": "careers-kci-icims-com-jobs-7401-job",
+      "company": "KCI Technologies",
+      "title": "Associate Software Engineer",
+      "postedToDiscord": "2026-01-21T07:17:12.532Z",
+      "sourceDate": "2025-09-17T20:02:56.000Z",
+      "sourceUrl": "https://careers-kci.icims.com/jobs/7401/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1463432221364060212",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
@@ -39157,7 +39232,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T06:57:05.122Z",
+      "date": "2026-01-21T07:17:12.533Z",
       "archived": 0
     }
   }
