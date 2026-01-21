@@ -1,227 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T02:37:54.651Z",
+  "lastUpdated": "2026-01-21T03:33:14.864Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8066813002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8066813002",
-      "company": "brex",
-      "title": "Director, Mid Market Sales",
-      "postedToDiscord": "2026-01-14T02:51:33.528Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8066813002?gh_jid=8066813002",
-      "discordThreadId": "1460828645924016361",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8055182002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8055182002",
-      "company": "brex",
-      "title": "Director, Mid Market Sales",
-      "postedToDiscord": "2026-01-14T02:51:33.542Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8055182002?gh_jid=8055182002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7732133002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7732133002",
-      "company": "brex",
-      "title": "Enterprise Account Executive",
-      "postedToDiscord": "2026-01-14T02:51:37.074Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7732133002?gh_jid=7732133002",
-      "discordThreadId": "1460828660750749852",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7732107002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7732107002",
-      "company": "brex",
-      "title": "Enterprise Account Executive",
-      "postedToDiscord": "2026-01-14T02:51:37.083Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7732107002?gh_jid=7732107002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8152938002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8152938002",
-      "company": "brex",
-      "title": "Enterprise Implementation Consultant, Financial Saas",
-      "postedToDiscord": "2026-01-14T02:51:40.689Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8152938002?gh_jid=8152938002",
-      "discordThreadId": "1460828675716026513",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8152968002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8152968002",
-      "company": "brex",
-      "title": "Enterprise Implementation Consultant, Financial Saas",
-      "postedToDiscord": "2026-01-14T02:51:40.704Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8152968002?gh_jid=8152968002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8152963002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8152963002",
-      "company": "brex",
-      "title": "Enterprise Implementation Consultant, Financial Saas",
-      "postedToDiscord": "2026-01-14T02:51:40.714Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8152963002?gh_jid=8152963002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8152870002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8152870002",
-      "company": "brex",
-      "title": "Enterprise Implementation Consultant, Financial Saas",
-      "postedToDiscord": "2026-01-14T02:51:40.722Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8152870002?gh_jid=8152870002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8299954002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8299954002",
-      "company": "brex",
-      "title": "Implementation Consultant II",
-      "postedToDiscord": "2026-01-14T02:51:44.085Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8299954002?gh_jid=8299954002",
-      "discordThreadId": "1460828690920378532",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8299949002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8299949002",
-      "company": "brex",
-      "title": "Implementation Consultant II",
-      "postedToDiscord": "2026-01-14T02:51:44.094Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8299949002?gh_jid=8299949002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8175966002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8175966002",
-      "company": "brex",
-      "title": "Implementation Consultant II",
-      "postedToDiscord": "2026-01-14T02:51:44.103Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8175966002?gh_jid=8175966002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8299951002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8299951002",
-      "company": "brex",
-      "title": "Implementation Consultant II",
-      "postedToDiscord": "2026-01-14T02:51:44.112Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8299951002?gh_jid=8299951002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7881519002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7881519002",
-      "company": "brex",
-      "title": "Manager, Sales Development",
-      "postedToDiscord": "2026-01-14T02:51:47.490Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7881519002?gh_jid=7881519002",
-      "discordThreadId": "1460828705290195065",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8324887002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8324887002",
-      "company": "brex",
-      "title": "Manager, Sales Development",
-      "postedToDiscord": "2026-01-14T02:51:47.499Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8324887002?gh_jid=8324887002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7882861002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7882861002",
-      "company": "brex",
-      "title": "Manager, Sales Development",
-      "postedToDiscord": "2026-01-14T02:51:47.508Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7882861002?gh_jid=7882861002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8330477002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8330477002",
-      "company": "brex",
-      "title": "Engineering Manager, Security Engineering ",
-      "postedToDiscord": "2026-01-14T02:51:54.181Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8330477002?gh_jid=8330477002",
-      "discordThreadId": "1460828732368355412",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8330465002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8330465002",
-      "company": "brex",
-      "title": "Engineering Manager, Security Engineering ",
-      "postedToDiscord": "2026-01-14T02:51:54.189Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8330465002?gh_jid=8330465002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8291068002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8291068002",
-      "company": "brex",
-      "title": "Head of Internal Communications",
-      "postedToDiscord": "2026-01-14T02:52:00.649Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8291068002?gh_jid=8291068002",
-      "discordThreadId": "1460828759765553349",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8245281002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8245281002",
-      "company": "brex",
-      "title": "Manager, Recruiting Coordination and Programs",
-      "postedToDiscord": "2026-01-14T02:52:04.166Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8245281002?gh_jid=8245281002",
-      "discordThreadId": "1460828775037014159",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8245282002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8245282002",
-      "company": "brex",
-      "title": "Manager, Recruiting Coordination and Programs",
-      "postedToDiscord": "2026-01-14T02:52:04.178Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8245282002?gh_jid=8245282002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8307799002-2026-01-14-1",
       "jobId": "www-brex-com-careers-8307799002",
@@ -37472,6 +37252,306 @@
       "discordThreadId": "1463361926456148194",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a2816e9729cc32d7-2026-01-21-1",
+      "jobId": "a2816e9729cc32d7",
+      "company": "verkada",
+      "title": "Sr. Tradeshow and Event Marketing Manager",
+      "postedToDiscord": "2026-01-21T03:32:44.340Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463375737951223858",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:32:44.340Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463375745354043459",
+          "channelType": "location",
+          "postedAt": "2026-01-21T03:32:46.085Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4990280007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990280007",
+      "company": "verkada",
+      "title": "Sr. Tradeshow and Event Marketing Manager",
+      "postedToDiscord": "2026-01-21T03:32:47.605Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
+      "discordThreadId": "1463375737951223858",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7ec4629cd7373577-2026-01-21-1",
+      "jobId": "7ec4629cd7373577",
+      "company": "verkada",
+      "title": "Strategic Account Executive (Corp)",
+      "postedToDiscord": "2026-01-21T03:32:47.896Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4701504007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463375753084145696",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:32:47.896Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4701504007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4701504007",
+      "company": "verkada",
+      "title": "Strategic Account Executive (Corp)",
+      "postedToDiscord": "2026-01-21T03:32:49.421Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4701504007",
+      "discordThreadId": "1463375753084145696",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9aa61c7ccf9e3db1-2026-01-21-1",
+      "jobId": "9aa61c7ccf9e3db1",
+      "company": "verkada",
+      "title": "Tradeshow Associate",
+      "postedToDiscord": "2026-01-21T03:32:49.620Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990284007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463375760567042185",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:32:49.620Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463375767730786482",
+          "channelType": "location",
+          "postedAt": "2026-01-21T03:32:51.348Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4990284007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990284007",
+      "company": "verkada",
+      "title": "Tradeshow Associate",
+      "postedToDiscord": "2026-01-21T03:32:52.869Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990284007",
+      "discordThreadId": "1463375760567042185",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e3ed27832ec28413-2026-01-21-1",
+      "jobId": "e3ed27832ec28413",
+      "company": "vercel",
+      "title": "Strategic Finance Manager, GTM",
+      "postedToDiscord": "2026-01-21T03:32:53.086Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5743232004",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463375774873686138",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:32:53.086Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5743232004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5743232004",
+      "company": "vercel",
+      "title": "Strategic Finance Manager, GTM",
+      "postedToDiscord": "2026-01-21T03:32:54.610Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5743232004",
+      "discordThreadId": "1463375774873686138",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0dcc71f6f7ccb2b4-2026-01-21-1",
+      "jobId": "0dcc71f6f7ccb2b4",
+      "company": "discord",
+      "title": "Senior Product Design Manager, Growth & Safety",
+      "postedToDiscord": "2026-01-21T03:32:57.846Z",
+      "sourceDate": "2026-01-19T17:03:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196805002",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463375794872258686",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:32:57.846Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8196805002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8196805002",
+      "company": "discord",
+      "title": "Senior Product Design Manager, Growth & Safety",
+      "postedToDiscord": "2026-01-21T03:32:59.371Z",
+      "sourceDate": "2026-01-19T17:03:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196805002",
+      "discordThreadId": "1463375794872258686",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e576c29ddc58fb7f-2026-01-21-1",
+      "jobId": "e576c29ddc58fb7f",
+      "company": "University of Chicago",
+      "title": "Predoctoral Scholar",
+      "postedToDiscord": "2026-01-21T03:32:59.804Z",
+      "sourceDate": "2025-12-23T23:32:53.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463375802723995699",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:32:59.804Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-illinois-chicago-predoctoral-scholar_jr32397-2026-01-21-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-illinois-chicago-predoctoral-scholar_jr32397",
+      "company": "University of Chicago",
+      "title": "Predoctoral Scholar",
+      "postedToDiscord": "2026-01-21T03:33:01.325Z",
+      "sourceDate": "2025-12-23T23:32:53.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397",
+      "discordThreadId": "1463375802723995699",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "50473507569ff984-2026-01-21-1",
+      "jobId": "50473507569ff984",
+      "company": "discord",
+      "title": "Senior Privacy Counsel",
+      "postedToDiscord": "2026-01-21T03:33:04.802Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8346194002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463375823213170762",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:33:04.802Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8346194002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8346194002",
+      "company": "discord",
+      "title": "Senior Privacy Counsel",
+      "postedToDiscord": "2026-01-21T03:33:06.325Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8346194002",
+      "discordThreadId": "1463375823213170762",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d57503037fda7723-2026-01-21-1",
+      "jobId": "d57503037fda7723",
+      "company": "Voyager Technologies",
+      "title": "Software Engineer - Manufacturing Integration",
+      "postedToDiscord": "2026-01-21T03:33:06.699Z",
+      "sourceDate": "2025-12-23T17:07:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463375831509368833",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:33:06.699Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087905009-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087905009",
+      "company": "Voyager Technologies",
+      "title": "Software Engineer - Manufacturing Integration",
+      "postedToDiscord": "2026-01-21T03:33:08.220Z",
+      "sourceDate": "2025-12-23T17:07:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009",
+      "discordThreadId": "1463375831509368833",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "55c2a82b5acda370-2026-01-21-1",
+      "jobId": "55c2a82b5acda370",
+      "company": "coinbase",
+      "title": "On‑Site IT Support Engineer (Residential Operations)",
+      "postedToDiscord": "2026-01-21T03:33:11.459Z",
+      "sourceDate": "2026-01-14T13:30:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7409941?gh_jid=7409941",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463375851851874421",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:33:11.459Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7409941-2026-01-21-1",
+      "jobId": "www-coinbase-com-careers-positions-7409941",
+      "company": "coinbase",
+      "title": "On‑Site IT Support Engineer (Residential Operations)",
+      "postedToDiscord": "2026-01-21T03:33:12.984Z",
+      "sourceDate": "2026-01-14T13:30:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7409941?gh_jid=7409941",
+      "discordThreadId": "1463375851851874421",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1f96889daf69b4be-2026-01-21-1",
+      "jobId": "1f96889daf69b4be",
+      "company": "Voyager Technologies",
+      "title": "AI Software Engineer - Agents - Ace",
+      "postedToDiscord": "2026-01-21T03:33:13.339Z",
+      "sourceDate": "2025-12-23T17:06:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463375859779108968",
+          "channelType": "category",
+          "postedAt": "2026-01-21T03:33:13.339Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087903009-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-voyagertechnologiesinc-jobs-4087903009",
+      "company": "Voyager Technologies",
+      "title": "AI Software Engineer - Agents - Ace",
+      "postedToDiscord": "2026-01-21T03:33:14.864Z",
+      "sourceDate": "2025-12-23T17:06:49.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009",
+      "discordThreadId": "1463375859779108968",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
@@ -37479,7 +37559,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T02:37:54.651Z",
+      "date": "2026-01-21T03:33:14.864Z",
       "archived": 0
     }
   }
