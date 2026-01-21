@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T11:13:45.617Z",
+  "lastUpdated": "2026-01-21T11:31:20.305Z",
   "jobs": [
     {
       "id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581-2026-01-14-1",
@@ -42151,14 +42151,336 @@
       "discordThreadId": "1463491744246009991",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "908c3b844485d4ec-2026-01-21-1",
+      "jobId": "908c3b844485d4ec",
+      "company": "Thorlabs",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-21T11:30:49.029Z",
+      "sourceDate": "2025-12-15T07:37:32.000Z",
+      "sourceUrl": "https://apply.workable.com/thorlabs/j/EA6A31C779/",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463496050466623582",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:30:49.029Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463496057966301227",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:30:50.849Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-thorlabs-j-ea6a31c779-2026-01-21-1",
+      "jobId": "apply-workable-com-thorlabs-j-ea6a31c779",
+      "company": "Thorlabs",
+      "title": "Software Engineer I",
+      "postedToDiscord": "2026-01-21T11:30:52.373Z",
+      "sourceDate": "2025-12-15T07:37:32.000Z",
+      "sourceUrl": "https://apply.workable.com/thorlabs/j/EA6A31C779/",
+      "discordThreadId": "1463496050466623582",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c5c4eb5933c70609-2026-01-21-1",
+      "jobId": "c5c4eb5933c70609",
+      "company": "Sentra",
+      "title": "Software Engineer - New Grad",
+      "postedToDiscord": "2026-01-21T11:30:52.732Z",
+      "sourceDate": "2025-12-15T07:36:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463496065885143054",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:30:52.732Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-sentra-3c9729ca-67b3-4f9f-9c64-5e1e10be1719-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-sentra-3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
+      "company": "Sentra",
+      "title": "Software Engineer - New Grad",
+      "postedToDiscord": "2026-01-21T11:30:54.258Z",
+      "sourceDate": "2025-12-15T07:36:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
+      "discordThreadId": "1463496065885143054",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3a4b84e3776e15c3-2026-01-21-1",
+      "jobId": "3a4b84e3776e15c3",
+      "company": "University of Chicago",
+      "title": "Research Specialist",
+      "postedToDiscord": "2026-01-21T11:30:54.442Z",
+      "sourceDate": "2025-12-13T15:14:28.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31936",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463496073120059394",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:30:54.442Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936-2026-01-21-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31936",
+      "company": "University of Chicago",
+      "title": "Research Specialist",
+      "postedToDiscord": "2026-01-21T11:30:55.965Z",
+      "sourceDate": "2025-12-13T15:14:28.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31936",
+      "discordThreadId": "1463496073120059394",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31878-2026-01-21-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-specialist_jr31878",
+      "company": "University of Chicago",
+      "title": "Research Specialist",
+      "postedToDiscord": "2026-01-21T11:30:55.988Z",
+      "sourceDate": "2025-12-13T10:20:35.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31878",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "cbdb5b859b868eea-2026-01-21-1",
+      "jobId": "cbdb5b859b868eea",
+      "company": "Welocalize",
+      "title": "Search Quality Rater",
+      "postedToDiscord": "2026-01-21T11:30:56.331Z",
+      "sourceDate": "2025-12-13T15:13:33.000Z",
+      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007198",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463496080971792404",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:30:56.331Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463496088517349483",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:30:58.049Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007198-2026-01-21-1",
+      "jobId": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0007198",
+      "company": "Welocalize",
+      "title": "Search Quality Rater",
+      "postedToDiscord": "2026-01-21T11:30:59.578Z",
+      "sourceDate": "2025-12-13T15:13:33.000Z",
+      "sourceUrl": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007198",
+      "discordThreadId": "1463496080971792404",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7cddeceeee74879e-2026-01-21-1",
+      "jobId": "7cddeceeee74879e",
+      "company": "Wash U",
+      "title": "Neuroimaging Engineer - Radiology - Neuroimaging Labs Research Center",
+      "postedToDiscord": "2026-01-21T11:30:59.850Z",
+      "sourceDate": "2025-12-13T11:17:49.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Radiology---Neuroimaging-Labs-Research-Center_JR89315-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463496095463116822",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:30:59.850Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463496103176699946",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:31:01.597Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1-2026-01-21-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-medical-campus-neuroimaging-engineer-radiology-neuroimaging-labs-research-center_jr89315-1",
+      "company": "Wash U",
+      "title": "Neuroimaging Engineer - Radiology - Neuroimaging Labs Research Center",
+      "postedToDiscord": "2026-01-21T11:31:03.120Z",
+      "sourceDate": "2025-12-13T11:17:49.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Radiology---Neuroimaging-Labs-Research-Center_JR89315-1",
+      "discordThreadId": "1463496095463116822",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6700d7981a6fb402-2026-01-21-1",
+      "jobId": "6700d7981a6fb402",
+      "company": "Louisiana State University (LSU)",
+      "title": "Data Quality Analyst 1",
+      "postedToDiscord": "2026-01-21T11:31:03.509Z",
+      "sourceDate": "2025-12-13T11:15:56.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0100-Campus-Federal-Credit-Union/Data-Quality-Analyst-1_R00111644-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463496110873116674",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:31:03.509Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463496119169454217",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:31:05.479Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-0100-campus-federal-credit-union-data-quality-analyst-1_r00111644-1-2026-01-21-1",
+      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-0100-campus-federal-credit-union-data-quality-analyst-1_r00111644-1",
+      "company": "Louisiana State University (LSU)",
+      "title": "Data Quality Analyst 1",
+      "postedToDiscord": "2026-01-21T11:31:07.003Z",
+      "sourceDate": "2025-12-13T11:15:56.000Z",
+      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0100-Campus-Federal-Credit-Union/Data-Quality-Analyst-1_R00111644-1",
+      "discordThreadId": "1463496110873116674",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "06cdacdcf65ee238-2026-01-21-1",
+      "jobId": "06cdacdcf65ee238",
+      "company": "anthropic",
+      "title": "Infrastructure Engineer, Sandboxing",
+      "postedToDiscord": "2026-01-21T11:31:07.325Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463496126811476198",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:31:07.325Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5030680008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5030680008",
+      "company": "anthropic",
+      "title": "Infrastructure Engineer, Sandboxing",
+      "postedToDiscord": "2026-01-21T11:31:08.850Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008",
+      "discordThreadId": "1463496126811476198",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dbdce4a7aec405d0-2026-01-21-1",
+      "jobId": "dbdce4a7aec405d0",
+      "company": "Inductive Automation",
+      "title": "Software Quality Assurance Engineer I",
+      "postedToDiscord": "2026-01-21T11:31:12.193Z",
+      "sourceDate": "2025-12-15T07:34:13.000Z",
+      "sourceUrl": "https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463496147552309250",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:31:12.193Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-inductiveautomation-5cdc7a76-69f7-4979-8971-72e5e06015a0-2026-01-21-1",
+      "jobId": "jobs-lever-co-inductiveautomation-5cdc7a76-69f7-4979-8971-72e5e06015a0",
+      "company": "Inductive Automation",
+      "title": "Software Quality Assurance Engineer I",
+      "postedToDiscord": "2026-01-21T11:31:13.718Z",
+      "sourceDate": "2025-12-15T07:34:13.000Z",
+      "sourceUrl": "https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0",
+      "discordThreadId": "1463496147552309250",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "82c63ca5df706259-2026-01-21-1",
+      "jobId": "82c63ca5df706259",
+      "company": "NVIDIA",
+      "title": "Research Scientist – PhD New College Grad 2026 - Autonomous Vehicles",
+      "postedToDiscord": "2026-01-21T11:31:13.954Z",
+      "sourceDate": "2025-12-13T14:56:58.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Vehicles---New-College-Grad-2026_JR2008395",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463496155265761311",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:31:13.954Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-autonomous-vehicles-new-college-grad-2026_jr2008395-2026-01-21-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-autonomous-vehicles-new-college-grad-2026_jr2008395",
+      "company": "NVIDIA",
+      "title": "Research Scientist – PhD New College Grad 2026 - Autonomous Vehicles",
+      "postedToDiscord": "2026-01-21T11:31:15.479Z",
+      "sourceDate": "2025-12-13T14:56:58.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Vehicles---New-College-Grad-2026_JR2008395",
+      "discordThreadId": "1463496155265761311",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "81d02ee325149cb6-2026-01-21-1",
+      "jobId": "81d02ee325149cb6",
+      "company": "ERM",
+      "title": "Consulting Associate - EHS Management Information Systems",
+      "postedToDiscord": "2026-01-21T11:31:18.778Z",
+      "sourceDate": "2025-12-13T14:39:32.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463496174815285343",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:31:18.778Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970-2026-01-21-1",
+      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-atlanta-georgia-consulting-associate-ehs-management-information-systems-entry-level-_r00025970",
+      "company": "ERM",
+      "title": "Consulting Associate - EHS Management Information Systems",
+      "postedToDiscord": "2026-01-21T11:31:20.304Z",
+      "sourceDate": "2025-12-13T14:39:32.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970",
+      "discordThreadId": "1463496174815285343",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3339,
+    "totalJobs": 3360,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T11:13:45.617Z",
+      "date": "2026-01-21T11:31:20.305Z",
       "archived": 0
     }
   }
