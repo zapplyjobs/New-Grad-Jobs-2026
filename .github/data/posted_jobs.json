@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T20:03:08.924Z",
+  "lastUpdated": "2026-01-21T20:19:18.452Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4493001008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4493001008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, Digital Native Business",
-      "postedToDiscord": "2026-01-14T20:07:56.963Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4493001008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4959324008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959324008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, DOD/IC",
-      "postedToDiscord": "2026-01-14T20:08:00.551Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959324008",
-      "discordThreadId": "1461089477211590879",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4959331008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959331008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, Federal Civilian Sales",
-      "postedToDiscord": "2026-01-14T20:08:04.103Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959331008",
-      "discordThreadId": "1461089492038320181",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4959334008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959334008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, Federal Partners Sales",
-      "postedToDiscord": "2026-01-14T20:08:07.571Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959334008",
-      "discordThreadId": "1461089506685091964",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4493035008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4493035008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, Industries",
-      "postedToDiscord": "2026-01-14T20:08:12.502Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4493035008",
-      "discordThreadId": "1461089522208215040",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4959329008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959329008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, State & Local Sales",
-      "postedToDiscord": "2026-01-14T20:08:16.038Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959329008",
-      "discordThreadId": "1461089542361841736",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4991194008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4991194008",
-      "company": "anthropic",
-      "title": "Finance Systems, Senior Business Systems Analyst",
-      "postedToDiscord": "2026-01-14T20:08:19.674Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4991194008",
-      "discordThreadId": "1461089557209547003",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4983873008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983873008",
-      "company": "anthropic",
-      "title": "Global Indirect Tax Compliance Lead",
-      "postedToDiscord": "2026-01-14T20:08:23.305Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983873008",
-      "discordThreadId": "1461089572564762658",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4965200008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4965200008",
-      "company": "anthropic",
-      "title": "Event Security Program Coordinator ",
-      "postedToDiscord": "2026-01-14T20:08:29.870Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4965200008",
-      "discordThreadId": "1461089600314282047",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4934940008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4934940008",
-      "company": "anthropic",
-      "title": "Field Marketing Manager, Industries",
-      "postedToDiscord": "2026-01-14T20:08:36.326Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4934940008",
-      "discordThreadId": "1461089627803750460",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4934660008-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4934660008",
@@ -48890,14 +48780,334 @@
       "discordThreadId": "1463624976790982818",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "463308b73e696af1-2026-01-21-1",
+      "jobId": "463308b73e696af1",
+      "company": "anthropic",
+      "title": "Founding Developer Relations Lead",
+      "postedToDiscord": "2026-01-21T20:18:38.169Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463628880358281290",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:18:38.169Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4781798008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4781798008",
+      "company": "anthropic",
+      "title": "Founding Developer Relations Lead",
+      "postedToDiscord": "2026-01-21T20:18:39.717Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
+      "discordThreadId": "1463628880358281290",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7926e9ffdbf9954e-2026-01-21-1",
+      "jobId": "7926e9ffdbf9954e",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T20:18:40.007Z",
+      "sourceDate": "2025-12-03T07:35:34.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631205",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463628888381849663",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:18:40.007Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556631205-2026-01-21-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631205",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T20:18:41.535Z",
+      "sourceDate": "2025-12-03T07:35:34.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631205",
+      "discordThreadId": "1463628888381849663",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8a0d595d7973f9c8-2026-01-21-1",
+      "jobId": "8a0d595d7973f9c8",
+      "company": "Dimensional Fund Advisors",
+      "title": "Associate – Investment Analytics and Data - Portfolio Analytics",
+      "postedToDiscord": "2026-01-21T20:18:41.783Z",
+      "sourceDate": "2025-12-03T03:46:22.000Z",
+      "sourceUrl": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463628895839326374",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:18:41.783Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463628903028494534",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:18:43.501Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "dimensional-wd5-myworkdayjobs-com-dfa_careers-job-charlotte-associate-investment-analytics-and-data-portfolio-analytics-_2025-8613-2026-01-21-1",
+      "jobId": "dimensional-wd5-myworkdayjobs-com-dfa_careers-job-charlotte-associate-investment-analytics-and-data-portfolio-analytics-_2025-8613",
+      "company": "Dimensional Fund Advisors",
+      "title": "Associate – Investment Analytics and Data - Portfolio Analytics",
+      "postedToDiscord": "2026-01-21T20:18:45.027Z",
+      "sourceDate": "2025-12-03T03:46:22.000Z",
+      "sourceUrl": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613",
+      "discordThreadId": "1463628895839326374",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c2297825b96aba3d-2026-01-21-1",
+      "jobId": "c2297825b96aba3d",
+      "company": "Cambia Health Solutions",
+      "title": "AI Scientist 1 - Healthcare",
+      "postedToDiscord": "2026-01-21T20:18:45.296Z",
+      "sourceDate": "2025-12-03T03:41:28.000Z",
+      "sourceUrl": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Renton-WA/AI-Scientist-I--Healthcare-_R-5997",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463628910536298599",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:18:45.296Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463628917641580647",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:18:47.061Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "cambiahealth-wd1-myworkdayjobs-com-external-job-renton-wa-ai-scientist-i-healthcare-_r-5997-2026-01-21-1",
+      "jobId": "cambiahealth-wd1-myworkdayjobs-com-external-job-renton-wa-ai-scientist-i-healthcare-_r-5997",
+      "company": "Cambia Health Solutions",
+      "title": "AI Scientist 1 - Healthcare",
+      "postedToDiscord": "2026-01-21T20:18:48.591Z",
+      "sourceDate": "2025-12-03T03:41:28.000Z",
+      "sourceUrl": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Renton-WA/AI-Scientist-I--Healthcare-_R-5997",
+      "discordThreadId": "1463628910536298599",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6a6dab29159ed9b5-2026-01-21-1",
+      "jobId": "6a6dab29159ed9b5",
+      "company": "Waystar",
+      "title": "ML Engineer 2",
+      "postedToDiscord": "2026-01-21T20:18:48.837Z",
+      "sourceDate": "2025-12-03T03:14:04.000Z",
+      "sourceUrl": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/ML-Engineer-II_R2882-1",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463628924889202957",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:18:48.837Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463628932577366179",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:18:50.570Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-ml-engineer-ii_r2882-1-2026-01-21-1",
+      "jobId": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-ml-engineer-ii_r2882-1",
+      "company": "Waystar",
+      "title": "ML Engineer 2",
+      "postedToDiscord": "2026-01-21T20:18:52.096Z",
+      "sourceDate": "2025-12-03T03:14:04.000Z",
+      "sourceUrl": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/ML-Engineer-II_R2882-1",
+      "discordThreadId": "1463628924889202957",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ed041b149e2d2ae9-2026-01-21-1",
+      "jobId": "ed041b149e2d2ae9",
+      "company": "Auto-Owners Insurance",
+      "title": "Business Intelligence Developer",
+      "postedToDiscord": "2026-01-21T20:18:55.421Z",
+      "sourceDate": "2025-12-03T17:09:49.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463628953037307935",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:18:55.421Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463628960528204017",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:18:57.301Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-developer_r_12154-2026-01-21-1",
+      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-developer_r_12154",
+      "company": "Auto-Owners Insurance",
+      "title": "Business Intelligence Developer",
+      "postedToDiscord": "2026-01-21T20:18:58.830Z",
+      "sourceDate": "2025-12-03T17:09:49.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154",
+      "discordThreadId": "1463628953037307935",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2eb0510072bd9ebe-2026-01-21-1",
+      "jobId": "2eb0510072bd9ebe",
+      "company": "General Dynamics Information Technology",
+      "title": "Human Performance Data Scientist 1",
+      "postedToDiscord": "2026-01-21T20:18:59.144Z",
+      "sourceDate": "2025-12-03T03:14:45.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463628968195395654",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:18:59.144Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-hurlburt-field-hurlburt-fld-flc017-human-performance-data-scientist-i_rq210954-2026-01-21-1",
+      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-hurlburt-field-hurlburt-fld-flc017-human-performance-data-scientist-i_rq210954",
+      "company": "General Dynamics Information Technology",
+      "title": "Human Performance Data Scientist 1",
+      "postedToDiscord": "2026-01-21T20:19:00.671Z",
+      "sourceDate": "2025-12-03T03:14:45.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954",
+      "discordThreadId": "1463628968195395654",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "58db3b829ad1ac45-2026-01-21-1",
+      "jobId": "58db3b829ad1ac45",
+      "company": "Sierra Space",
+      "title": "Business Intelligence Developer 1",
+      "postedToDiscord": "2026-01-21T20:19:00.887Z",
+      "sourceDate": "2025-12-03T02:32:17.000Z",
+      "sourceUrl": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO-Arapahoe-2---CO_ARA/Business-Intelligence-Developer-I_R25115-1",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463628975598473401",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:19:00.887Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463628984310042655",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:19:05.003Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "sierraspace-wd1-myworkdayjobs-com-en-us-sierra_space_external_career_site-job-centennial-co-arapahoe-2-co_ara-business-intelligence-developer-i_r25115-1-2026-01-21-1",
+      "jobId": "sierraspace-wd1-myworkdayjobs-com-en-us-sierra_space_external_career_site-job-centennial-co-arapahoe-2-co_ara-business-intelligence-developer-i_r25115-1",
+      "company": "Sierra Space",
+      "title": "Business Intelligence Developer 1",
+      "postedToDiscord": "2026-01-21T20:19:06.530Z",
+      "sourceDate": "2025-12-03T02:32:17.000Z",
+      "sourceUrl": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO-Arapahoe-2---CO_ARA/Business-Intelligence-Developer-I_R25115-1",
+      "discordThreadId": "1463628975598473401",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b9c404cc80a6f62d-2026-01-21-1",
+      "jobId": "b9c404cc80a6f62d",
+      "company": "Carnegie Mellon University",
+      "title": "Research Associate - Electrical and Computer Engineering",
+      "postedToDiscord": "2026-01-21T20:19:09.938Z",
+      "sourceDate": "2025-12-03T02:44:14.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463629013183496358",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:19:09.938Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463629021513519258",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:19:11.851Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-associate-electrical-and-computer-engineering_2022193-2026-01-21-1",
+      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-associate-electrical-and-computer-engineering_2022193",
+      "company": "Carnegie Mellon University",
+      "title": "Research Associate - Electrical and Computer Engineering",
+      "postedToDiscord": "2026-01-21T20:19:13.380Z",
+      "sourceDate": "2025-12-03T02:44:14.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193",
+      "discordThreadId": "1463629013183496358",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0025ddb5fbf66351-2026-01-21-1",
+      "jobId": "0025ddb5fbf66351",
+      "company": "anthropic",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-21T20:19:16.926Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463629042560401418",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:19:16.926Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4939815008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939815008",
+      "company": "anthropic",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-21T20:19:18.451Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
+      "discordThreadId": "1463629042560401418",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3767,
+    "totalJobs": 3777,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T20:03:08.924Z",
+      "date": "2026-01-21T20:19:18.452Z",
       "archived": 0
     }
   }
