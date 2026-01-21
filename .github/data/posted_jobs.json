@@ -1,227 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T04:03:26.580Z",
+  "lastUpdated": "2026-01-21T04:34:46.697Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-7924881002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7924881002",
-      "company": "brex",
-      "title": "Senior Data Scientist",
-      "postedToDiscord": "2026-01-14T04:19:07.482Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7924881002?gh_jid=7924881002",
-      "discordThreadId": "1460850682998427648",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7924840002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7924840002",
-      "company": "brex",
-      "title": "Senior Data Scientist",
-      "postedToDiscord": "2026-01-14T04:19:07.493Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7924840002?gh_jid=7924840002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8299931002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8299931002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Acquisition",
-      "postedToDiscord": "2026-01-14T04:19:14.009Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8299931002?gh_jid=8299931002",
-      "discordThreadId": "1460850710370455697",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8299930002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8299930002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Acquisition",
-      "postedToDiscord": "2026-01-14T04:19:14.020Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8299930002?gh_jid=8299930002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8299907002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8299907002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Acquisition",
-      "postedToDiscord": "2026-01-14T04:19:14.029Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8299907002?gh_jid=8299907002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8184122002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8184122002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Risk Management",
-      "postedToDiscord": "2026-01-14T04:19:17.811Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8184122002?gh_jid=8184122002",
-      "discordThreadId": "1460850724903846077",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8184694002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8184694002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Risk Management ",
-      "postedToDiscord": "2026-01-14T04:19:17.820Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8184694002?gh_jid=8184694002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8184695002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8184695002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Risk Management ",
-      "postedToDiscord": "2026-01-14T04:19:17.829Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8184695002?gh_jid=8184695002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8330492002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8330492002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Activation",
-      "postedToDiscord": "2026-01-14T04:19:24.322Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8330492002?gh_jid=8330492002",
-      "discordThreadId": "1460850753374654465",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8330495002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8330495002",
-      "company": "brex",
-      "title": "Senior Engineering Manager, Activation",
-      "postedToDiscord": "2026-01-14T04:19:24.331Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8330495002?gh_jid=8330495002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8075285002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8075285002",
-      "company": "brex",
-      "title": "Senior GTM Recruiter",
-      "postedToDiscord": "2026-01-14T04:19:30.790Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8075285002?gh_jid=8075285002",
-      "discordThreadId": "1460850780516126762",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8073147002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8073147002",
-      "company": "brex",
-      "title": "Senior GTM Recruiter",
-      "postedToDiscord": "2026-01-14T04:19:30.798Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8073147002?gh_jid=8073147002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8093385002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8093385002",
-      "company": "brex",
-      "title": "Senior GTM Recruiter",
-      "postedToDiscord": "2026-01-14T04:19:30.807Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8093385002?gh_jid=8093385002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8222783002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8222783002",
-      "company": "brex",
-      "title": " Senior Manager, Implementation",
-      "postedToDiscord": "2026-01-14T04:19:37.270Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8222783002?gh_jid=8222783002",
-      "discordThreadId": "1460850808097603677",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8215986002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8215986002",
-      "company": "brex",
-      "title": "Senior Manager, Implementation",
-      "postedToDiscord": "2026-01-14T04:19:37.281Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8215986002?gh_jid=8215986002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8216086002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8216086002",
-      "company": "brex",
-      "title": "Senior Manager, Implementation",
-      "postedToDiscord": "2026-01-14T04:19:37.290Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8216086002?gh_jid=8216086002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8216085002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8216085002",
-      "company": "brex",
-      "title": "Senior Manager, Implementation",
-      "postedToDiscord": "2026-01-14T04:19:37.299Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8216085002?gh_jid=8216085002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8074446002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8074446002",
-      "company": "brex",
-      "title": "Senior Partner Marketing Manager",
-      "postedToDiscord": "2026-01-14T04:19:43.817Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8074446002?gh_jid=8074446002",
-      "discordThreadId": "1460850835276955648",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8072895002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8072895002",
-      "company": "brex",
-      "title": "Senior Partner Marketing Manager",
-      "postedToDiscord": "2026-01-14T04:19:43.825Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8072895002?gh_jid=8072895002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8074444002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8074444002",
-      "company": "brex",
-      "title": "Senior Partner Marketing Manager",
-      "postedToDiscord": "2026-01-14T04:19:43.834Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8074444002?gh_jid=8074444002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8213577002-2026-01-14-1",
       "jobId": "www-brex-com-careers-8213577002",
@@ -37644,6 +37424,306 @@
       "discordThreadId": "1463383458213793816",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "e85db0b2e273651e-2026-01-21-1",
+      "jobId": "e85db0b2e273651e",
+      "company": "discord",
+      "title": "Staff Software Engineer, Player Experience",
+      "postedToDiscord": "2026-01-21T04:34:19.341Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8337817002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463391236055629907",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:19.341Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8337817002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8337817002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Player Experience",
+      "postedToDiscord": "2026-01-21T04:34:20.881Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8337817002",
+      "discordThreadId": "1463391236055629907",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3b82b7cd67317314-2026-01-21-1",
+      "jobId": "3b82b7cd67317314",
+      "company": "anthropic",
+      "title": "Partner Development Manager, Build Partners",
+      "postedToDiscord": "2026-01-21T04:34:21.194Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463391244070817966",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:21.194Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043460008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043460008",
+      "company": "anthropic",
+      "title": "Partner Development Manager, Build Partners",
+      "postedToDiscord": "2026-01-21T04:34:22.718Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
+      "discordThreadId": "1463391244070817966",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b16dd00ccbd75f6b-2026-01-21-1",
+      "jobId": "b16dd00ccbd75f6b",
+      "company": "BlackRock",
+      "title": "Associate – Application Engineer",
+      "postedToDiscord": "2026-01-21T04:34:22.997Z",
+      "sourceDate": "2025-12-22T19:35:16.000Z",
+      "sourceUrl": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463391251297730623",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:22.997Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463391259040415755",
+          "channelType": "location",
+          "postedAt": "2026-01-21T04:34:24.795Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1-2026-01-21-1",
+      "jobId": "blackrock-wd1-myworkdayjobs-com-en-us-blackrock_professional-job-new-york-ny-associate-application-engineer_r258341-1",
+      "company": "BlackRock",
+      "title": "Associate – Application Engineer",
+      "postedToDiscord": "2026-01-21T04:34:26.316Z",
+      "sourceDate": "2025-12-22T19:35:16.000Z",
+      "sourceUrl": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1",
+      "discordThreadId": "1463391251297730623",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fb7baace1735ea1b-2026-01-21-1",
+      "jobId": "fb7baace1735ea1b",
+      "company": "discord",
+      "title": "Staff Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-21T04:34:26.664Z",
+      "sourceDate": "2026-01-16T18:39:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177912002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463391266510340147",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:26.664Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8177912002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8177912002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-21T04:34:28.185Z",
+      "sourceDate": "2026-01-16T18:39:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177912002",
+      "discordThreadId": "1463391266510340147",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b5def4d70d63ad76-2026-01-21-1",
+      "jobId": "b5def4d70d63ad76",
+      "company": "discord",
+      "title": "Senior Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-21T04:34:28.355Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348129002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463391274273996800",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:28.355Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8348129002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8348129002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-21T04:34:29.878Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348129002",
+      "discordThreadId": "1463391274273996800",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e66d72868e99ef10-2026-01-21-1",
+      "jobId": "e66d72868e99ef10",
+      "company": "anthropic",
+      "title": "Field Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-21T04:34:30.292Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026192008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463391281269968999",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:30.292Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5026192008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5026192008",
+      "company": "anthropic",
+      "title": "Field Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-21T04:34:31.814Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026192008",
+      "discordThreadId": "1463391281269968999",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2aa81701dff62dac-2026-01-21-1",
+      "jobId": "2aa81701dff62dac",
+      "company": "spotify",
+      "title": "Director of Sales, Scaled Vendor Sales",
+      "postedToDiscord": "2026-01-21T04:34:35.082Z",
+      "sourceDate": "2025-12-22T21:52:24.652Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463391302162059422",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:35.082Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463391309661474931",
+          "channelType": "location",
+          "postedAt": "2026-01-21T04:34:36.872Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
+      "company": "spotify",
+      "title": "Director of Sales, Scaled Vendor Sales",
+      "postedToDiscord": "2026-01-21T04:34:38.395Z",
+      "sourceDate": "2025-12-22T21:52:24.652Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
+      "discordThreadId": "1463391302162059422",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "46655020d51c7f4e-2026-01-21-1",
+      "jobId": "46655020d51c7f4e",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Colo & Networks",
+      "postedToDiscord": "2026-01-21T04:34:41.668Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045003008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463391330049855608",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:41.668Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5045003008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045003008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Colo & Networks",
+      "postedToDiscord": "2026-01-21T04:34:43.193Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045003008",
+      "discordThreadId": "1463391330049855608",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "55e8dd99e3f56654-2026-01-21-1",
+      "jobId": "55e8dd99e3f56654",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Compute & Infrastructure",
+      "postedToDiscord": "2026-01-21T04:34:43.441Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045006008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463391337322647681",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:43.441Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5045006008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5045006008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Compute & Infrastructure",
+      "postedToDiscord": "2026-01-21T04:34:44.964Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045006008",
+      "discordThreadId": "1463391337322647681",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "338d0b23b6ff95a8-2026-01-21-1",
+      "jobId": "338d0b23b6ff95a8",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Datacenters & Construction",
+      "postedToDiscord": "2026-01-21T04:34:45.174Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463391344692301856",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:34:45.174Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5044994008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5044994008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Datacenters & Construction",
+      "postedToDiscord": "2026-01-21T04:34:46.697Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
+      "discordThreadId": "1463391344692301856",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
@@ -37651,7 +37731,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T04:03:26.580Z",
+      "date": "2026-01-21T04:34:46.697Z",
       "archived": 0
     }
   }
