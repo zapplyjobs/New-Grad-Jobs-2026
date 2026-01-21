@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T23:45:03.360Z",
+  "lastUpdated": "2026-01-21T23:57:32.903Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5579903004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5579903004",
-      "company": "figma",
-      "title": "Director, Software Engineering - Growth",
-      "postedToDiscord": "2026-01-14T23:51:18.771Z",
-      "sourceDate": "2025-11-19T09:05:49-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5579903004?gh_jid=5579903004",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5600388004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5600388004",
-      "company": "figma",
-      "title": "Director, Software Engineering - Product Platform",
-      "postedToDiscord": "2026-01-14T23:51:18.789Z",
-      "sourceDate": "2025-11-19T09:05:49-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5600388004?gh_jid=5600388004",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5568374004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5568374004",
-      "company": "figma",
-      "title": "Manager, Software Engineering - Infrastructure",
-      "postedToDiscord": "2026-01-14T23:51:22.347Z",
-      "sourceDate": "2025-11-19T09:05:48-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5568374004?gh_jid=5568374004",
-      "discordThreadId": "1461145688560767038",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5552530004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5552530004",
-      "company": "figma",
-      "title": "Software Engineer, C++",
-      "postedToDiscord": "2026-01-14T23:51:25.849Z",
-      "sourceDate": "2025-11-19T09:05:46-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004",
-      "discordThreadId": "1461145703261667370",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5574247004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5574247004",
-      "company": "figma",
-      "title": "Product Manager, AI",
-      "postedToDiscord": "2026-01-14T23:51:32.413Z",
-      "sourceDate": "2025-11-19T09:05:48-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5574247004?gh_jid=5574247004",
-      "discordThreadId": "1461145730906329342",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5566267004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5566267004",
-      "company": "figma",
-      "title": "Software Engineer, iOS",
-      "postedToDiscord": "2026-01-14T23:51:36.110Z",
-      "sourceDate": "2025-11-19T09:05:47-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5566267004?gh_jid=5566267004",
-      "discordThreadId": "1461145745729257630",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5552580004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5552580004",
-      "company": "figma",
-      "title": "Data Scientist  ",
-      "postedToDiscord": "2026-01-14T23:51:39.419Z",
-      "sourceDate": "2025-11-19T09:05:46-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004",
-      "discordThreadId": "1461145761013170338",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5552522004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5552522004",
-      "company": "figma",
-      "title": "Software Engineer, Graphics & Media",
-      "postedToDiscord": "2026-01-14T23:51:42.781Z",
-      "sourceDate": "2025-11-19T09:05:46-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004",
-      "discordThreadId": "1461145774518833254",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5558737004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5558737004",
-      "company": "figma",
-      "title": "Account Executive, Strategic",
-      "postedToDiscord": "2026-01-14T23:51:49.292Z",
-      "sourceDate": "2025-11-19T09:05:47-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5558737004?gh_jid=5558737004",
-      "discordThreadId": "1461145801849045074",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5564202004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5564202004",
-      "company": "figma",
-      "title": "Manager, Mid-Market Sales ",
-      "postedToDiscord": "2026-01-14T23:51:52.645Z",
-      "sourceDate": "2025-11-19T09:05:47-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5564202004?gh_jid=5564202004",
-      "discordThreadId": "1461145816331718818",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5565447004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5565447004",
-      "company": "figma",
-      "title": "Senior Account Executive, SMB",
-      "postedToDiscord": "2026-01-14T23:51:56.317Z",
-      "sourceDate": "2025-11-19T09:05:47-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5565447004?gh_jid=5565447004",
-      "discordThreadId": "1461145830869434398",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5552560004-2026-01-15-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5552560004",
@@ -48704,9 +48583,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463680697825890535",
+          "messageId": "1463683834783731723",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:32.571Z"
+          "postedAt": "2026-01-21T23:57:00.350Z"
         }
       },
       "instanceNumber": 1
@@ -48721,14 +48600,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463680706596180090",
+          "messageId": "1463683842601652286",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:34.563Z"
+          "postedAt": "2026-01-21T23:57:02.178Z"
         },
         "1462989305181114450": {
-          "messageId": "1463680714024157431",
+          "messageId": "1463683850109714473",
           "channelType": "location",
-          "postedAt": "2026-01-21T23:44:36.316Z"
+          "postedAt": "2026-01-21T23:57:03.922Z"
         }
       },
       "instanceNumber": 1
@@ -48743,14 +48622,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463680721569845303",
+          "messageId": "1463683857353019496",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:38.139Z"
+          "postedAt": "2026-01-21T23:57:05.630Z"
         },
         "1462988831530680422": {
-          "messageId": "1463680729060868151",
+          "messageId": "1463683864579805259",
           "channelType": "location",
-          "postedAt": "2026-01-21T23:44:39.866Z"
+          "postedAt": "2026-01-21T23:57:07.329Z"
         }
       },
       "instanceNumber": 1
@@ -48765,9 +48644,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463680736572735550",
+          "messageId": "1463683871370383401",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:41.601Z"
+          "postedAt": "2026-01-21T23:57:09.017Z"
         }
       },
       "instanceNumber": 1
@@ -48782,14 +48661,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463680743841726535",
+          "messageId": "1463683878874255405",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:43.313Z"
+          "postedAt": "2026-01-21T23:57:12.827Z"
         },
         "1462988831530680422": {
-          "messageId": "1463680751018184880",
+          "messageId": "1463683894762143836",
           "channelType": "location",
-          "postedAt": "2026-01-21T23:44:45.000Z"
+          "postedAt": "2026-01-21T23:57:14.520Z"
         }
       },
       "instanceNumber": 1
@@ -48804,9 +48683,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463680770911502384",
+          "messageId": "1463683914492149781",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:49.825Z"
+          "postedAt": "2026-01-21T23:57:19.360Z"
         }
       },
       "instanceNumber": 1
@@ -48821,14 +48700,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463680778364915712",
+          "messageId": "1463683922163663053",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:51.534Z"
+          "postedAt": "2026-01-21T23:57:21.061Z"
         },
         "1462989305181114450": {
-          "messageId": "1463680785411211369",
+          "messageId": "1463683928971022430",
           "channelType": "location",
-          "postedAt": "2026-01-21T23:44:53.334Z"
+          "postedAt": "2026-01-21T23:57:22.739Z"
         }
       },
       "instanceNumber": 1
@@ -48843,9 +48722,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463680792700911710",
+          "messageId": "1463683936113655919",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:55.053Z"
+          "postedAt": "2026-01-21T23:57:24.558Z"
         }
       },
       "instanceNumber": 1
@@ -48860,14 +48739,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463680800321966163",
+          "messageId": "1463683943982170274",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:44:56.807Z"
+          "postedAt": "2026-01-21T23:57:26.358Z"
         },
         "1462989305181114450": {
-          "messageId": "1463680807746015448",
+          "messageId": "1463683951552888893",
           "channelType": "location",
-          "postedAt": "2026-01-21T23:44:58.621Z"
+          "postedAt": "2026-01-21T23:57:28.087Z"
         }
       },
       "instanceNumber": 1
@@ -48882,20 +48761,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463680827698450455",
+          "messageId": "1463683971555790920",
           "channelType": "category",
-          "postedAt": "2026-01-21T23:45:03.360Z"
+          "postedAt": "2026-01-21T23:57:32.903Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3725,
+    "totalJobs": 3714,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T23:45:03.360Z",
+      "date": "2026-01-21T23:57:32.903Z",
       "archived": 0
     }
   }
