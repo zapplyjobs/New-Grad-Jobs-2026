@@ -82,14 +82,16 @@ function analyzePostingHealth(jobs, last24hOnly = false) {
     job.discordPosts && Object.keys(job.discordPosts).length > 0
   );
 
-  // Jobs with empty discordPosts (posted to 0 channels - THE CRITICAL BUG)
-  const jobsWithZeroChannels = analyzedJobs.filter(job =>
-    job.discordPosts && Object.keys(job.discordPosts).length === 0
+  // Jobs with V1 schema (discordThreadId) - includes transition jobs with both schemas
+  // During V1→V2 migration, some jobs had discordThreadId + empty discordPosts{}
+  // These are SUCCESSFUL posts using V1 schema, not failures
+  const jobsWithLegacyPost = analyzedJobs.filter(job =>
+    job.discordThreadId && (!job.discordPosts || Object.keys(job.discordPosts).length === 0)
   );
 
-  // Jobs with legacy schema (discordThreadId)
-  const jobsWithLegacyPost = analyzedJobs.filter(job =>
-    job.discordThreadId && !job.discordPosts
+  // Jobs with empty discordPosts AND no discordThreadId (TRUE FAILURES)
+  const jobsWithZeroChannels = analyzedJobs.filter(job =>
+    job.discordPosts && Object.keys(job.discordPosts).length === 0 && !job.discordThreadId
   );
 
   // Jobs with no schema at all (never processed)
