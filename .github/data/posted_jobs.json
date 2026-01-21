@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T18:02:29.215Z",
+  "lastUpdated": "2026-01-21T18:26:44.361Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-clear-jobs-7403318-2026-01-14-1",
@@ -47679,14 +47679,329 @@
       "discordThreadId": "1463594604027711675",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "3e77ec9b1ad4d547-2026-01-21-1",
+      "jobId": "3e77ec9b1ad4d547",
+      "company": "discord",
+      "title": "Data Scientist, Analytics - Ads Reporting",
+      "postedToDiscord": "2026-01-21T18:26:11.314Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463600581515018451",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:11.314Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8343789002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8343789002",
+      "company": "discord",
+      "title": "Data Scientist, Analytics - Ads Reporting",
+      "postedToDiscord": "2026-01-21T18:26:12.846Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
+      "discordThreadId": "1463600581515018451",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "406354c94e1df3f9-2026-01-21-1",
+      "jobId": "406354c94e1df3f9",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics - GTM Ads",
+      "postedToDiscord": "2026-01-21T18:26:13.144Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343795002",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463600589869944942",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:13.144Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8343795002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8343795002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics - GTM Ads",
+      "postedToDiscord": "2026-01-21T18:26:14.671Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343795002",
+      "discordThreadId": "1463600589869944942",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "031fc3b60a4bfa71-2026-01-21-1",
+      "jobId": "031fc3b60a4bfa71",
+      "company": "discord",
+      "title": "Staff Software Engineer, Quest Experiences",
+      "postedToDiscord": "2026-01-21T18:26:18.030Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8101803002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463600609801277483",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:18.030Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8101803002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8101803002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Quest Experiences",
+      "postedToDiscord": "2026-01-21T18:26:19.555Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8101803002",
+      "discordThreadId": "1463600609801277483",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "675be785218014ab-2026-01-21-1",
+      "jobId": "675be785218014ab",
+      "company": "QBE Insurance",
+      "title": "Software Engineering Associate",
+      "postedToDiscord": "2026-01-21T18:26:19.828Z",
+      "sourceDate": "2025-12-09T10:16:55.000Z",
+      "sourceUrl": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---ThreeNEO/Software-Engineering-Associate_347265",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463600617871114323",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:19.828Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463600625118871573",
+          "channelType": "location",
+          "postedAt": "2026-01-21T18:26:21.539Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "qbe-wd3-myworkdayjobs-com-qbe-careers-job-phl-threeneo-software-engineering-associate_347265-2026-01-21-1",
+      "jobId": "qbe-wd3-myworkdayjobs-com-qbe-careers-job-phl-threeneo-software-engineering-associate_347265",
+      "company": "QBE Insurance",
+      "title": "Software Engineering Associate",
+      "postedToDiscord": "2026-01-21T18:26:23.068Z",
+      "sourceDate": "2025-12-09T10:16:55.000Z",
+      "sourceUrl": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---ThreeNEO/Software-Engineering-Associate_347265",
+      "discordThreadId": "1463600617871114323",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9955b7635a89ed98-2026-01-21-1",
+      "jobId": "9955b7635a89ed98",
+      "company": "Loft",
+      "title": "Analyst – Customer Insights",
+      "postedToDiscord": "2026-01-21T18:26:23.288Z",
+      "sourceDate": "2025-12-09T09:45:34.000Z",
+      "sourceUrl": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463600632588931264",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:23.288Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463600639811649606",
+          "channelType": "location",
+          "postedAt": "2026-01-21T18:26:25.048Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782-2026-01-21-1",
+      "jobId": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782",
+      "company": "Loft",
+      "title": "Analyst – Customer Insights",
+      "postedToDiscord": "2026-01-21T18:26:26.579Z",
+      "sourceDate": "2025-12-09T09:45:34.000Z",
+      "sourceUrl": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
+      "discordThreadId": "1463600632588931264",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "53eab35a529ab0a5-2026-01-21-1",
+      "jobId": "53eab35a529ab0a5",
+      "company": "Hudl",
+      "title": "Software Engineer – May Graduates",
+      "postedToDiscord": "2026-01-21T18:26:27.008Z",
+      "sourceDate": "2025-12-08T23:01:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/hudl/jobs/7449433",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463600648032358656",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:27.008Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463600655360065636",
+          "channelType": "location",
+          "postedAt": "2026-01-21T18:26:28.801Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-hudl-jobs-7449433-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-hudl-jobs-7449433",
+      "company": "Hudl",
+      "title": "Software Engineer – May Graduates",
+      "postedToDiscord": "2026-01-21T18:26:30.328Z",
+      "sourceDate": "2025-12-08T23:01:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/hudl/jobs/7449433",
+      "discordThreadId": "1463600648032358656",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dcf4866464061748-2026-01-21-1",
+      "jobId": "dcf4866464061748",
+      "company": "Horizon media",
+      "title": "Associate Data Science",
+      "postedToDiscord": "2026-01-21T18:26:33.695Z",
+      "sourceDate": "2025-12-09T10:38:40.000Z",
+      "sourceUrl": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0016354",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463600675869954151",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:33.695Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463600683310776383",
+          "channelType": "location",
+          "postedAt": "2026-01-21T18:26:35.486Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-associate-data-science_r0016354-2026-01-21-1",
+      "jobId": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-associate-data-science_r0016354",
+      "company": "Horizon media",
+      "title": "Associate Data Science",
+      "postedToDiscord": "2026-01-21T18:26:37.011Z",
+      "sourceDate": "2025-12-09T10:38:40.000Z",
+      "sourceUrl": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0016354",
+      "discordThreadId": "1463600675869954151",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4f3d9e87169fce17-2026-01-21-1",
+      "jobId": "4f3d9e87169fce17",
+      "company": "gohighlevel",
+      "title": "Staff Analytics Engineer",
+      "postedToDiscord": "2026-01-21T18:26:37.213Z",
+      "sourceDate": "2025-12-09T04:58:13.829Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/47e51c81-6464-429a-a8a5-b15383da5362",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463600691028299848",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:37.213Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362-2026-01-21-1",
+      "jobId": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362",
+      "company": "gohighlevel",
+      "title": "Staff Analytics Engineer",
+      "postedToDiscord": "2026-01-21T18:26:38.740Z",
+      "sourceDate": "2025-12-09T04:58:13.829Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/47e51c81-6464-429a-a8a5-b15383da5362",
+      "discordThreadId": "1463600691028299848",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6a58d8f494b77843-2026-01-21-1",
+      "jobId": "6a58d8f494b77843",
+      "company": "Marriott International",
+      "title": "Senior Systems Engineer - Corporate Systems",
+      "postedToDiscord": "2026-01-21T18:26:39.043Z",
+      "sourceDate": "2025-12-09T00:54:09.000Z",
+      "sourceUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25195783",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463600698322059379",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:39.043Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463600705767211205",
+          "channelType": "location",
+          "postedAt": "2026-01-21T18:26:40.816Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ejwl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-25195783-2026-01-21-1",
+      "jobId": "ejwl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-25195783",
+      "company": "Marriott International",
+      "title": "Senior Systems Engineer - Corporate Systems",
+      "postedToDiscord": "2026-01-21T18:26:42.343Z",
+      "sourceDate": "2025-12-09T00:54:09.000Z",
+      "sourceUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25195783",
+      "discordThreadId": "1463600698322059379",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ead6080905d95fd6-2026-01-21-1",
+      "jobId": "ead6080905d95fd6",
+      "company": "CHA Consulting",
+      "title": "AI Developer",
+      "postedToDiscord": "2026-01-21T18:26:42.834Z",
+      "sourceDate": "2025-12-09T00:44:08.000Z",
+      "sourceUrl": "https://jobs-challp.icims.com/jobs/7422/job?mobile=true&needsRedirect=false",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463600714034188433",
+          "channelType": "category",
+          "postedAt": "2026-01-21T18:26:42.834Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-challp-icims-com-jobs-7422-job-2026-01-21-1",
+      "jobId": "jobs-challp-icims-com-jobs-7422-job",
+      "company": "CHA Consulting",
+      "title": "AI Developer",
+      "postedToDiscord": "2026-01-21T18:26:44.361Z",
+      "sourceDate": "2025-12-09T00:44:08.000Z",
+      "sourceUrl": "https://jobs-challp.icims.com/jobs/7422/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1463600714034188433",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3706,
+    "totalJobs": 3726,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T18:02:29.215Z",
+      "date": "2026-01-21T18:26:44.361Z",
       "archived": 0
     }
   }
