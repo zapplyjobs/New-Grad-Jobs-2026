@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T10:18:35.039Z",
+  "lastUpdated": "2026-01-21T10:52:58.875Z",
   "jobs": [
     {
       "id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581-2026-01-14-1",
@@ -41500,14 +41500,346 @@
       "discordThreadId": "1463477858079997995",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "e6872ecef19a16b7-2026-01-21-1",
+      "jobId": "e6872ecef19a16b7",
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-21T10:52:25.409Z",
+      "sourceDate": "2025-12-15T23:47:56.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0150489",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463486388153618596",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:25.409Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463486395375943692",
+          "channelType": "location",
+          "postedAt": "2026-01-21T10:52:27.077Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0150489-2026-01-21-1",
+      "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-dahlgren-entry-level-software-engineer_r0150489",
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "postedToDiscord": "2026-01-21T10:52:28.616Z",
+      "sourceDate": "2025-12-15T23:47:56.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0150489",
+      "discordThreadId": "1463486388153618596",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5bdaee450a4e4deb-2026-01-21-1",
+      "jobId": "5bdaee450a4e4deb",
+      "company": "Allied Solutions",
+      "title": "Data Integration Analyst 1",
+      "postedToDiscord": "2026-01-21T10:52:28.804Z",
+      "sourceDate": "2025-12-15T23:43:09.000Z",
+      "sourceUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-File-Analyst--On-Site--IN-_R-010442",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463486402489745609",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:28.804Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463486409662009518",
+          "channelType": "location",
+          "postedAt": "2026-01-21T10:52:30.490Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442-2026-01-21-1",
+      "jobId": "alliedsolutions-wd501-myworkdayjobs-com-allied_external-job-carmel-in-data-file-analyst-on-site-in-_r-010442",
+      "company": "Allied Solutions",
+      "title": "Data Integration Analyst 1",
+      "postedToDiscord": "2026-01-21T10:52:32.015Z",
+      "sourceDate": "2025-12-15T23:43:09.000Z",
+      "sourceUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-File-Analyst--On-Site--IN-_R-010442",
+      "discordThreadId": "1463486402489745609",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1cbf2a540585f5ff-2026-01-21-1",
+      "jobId": "1cbf2a540585f5ff",
+      "company": "Electronic Arts",
+      "title": "EA Sports Academy Software Engineer",
+      "postedToDiscord": "2026-01-21T10:52:32.307Z",
+      "sourceDate": "2025-12-15T23:15:11.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463486417417277440",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:32.307Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463486424564367567",
+          "channelType": "location",
+          "postedAt": "2026-01-21T10:52:33.992Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903-2026-01-21-1",
+      "jobId": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211903",
+      "company": "Electronic Arts",
+      "title": "EA Sports Academy Software Engineer",
+      "postedToDiscord": "2026-01-21T10:52:35.520Z",
+      "sourceDate": "2025-12-15T23:15:11.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903",
+      "discordThreadId": "1463486417417277440",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1edb208814eab5e3-2026-01-21-1",
+      "jobId": "1edb208814eab5e3",
+      "company": "Anything",
+      "title": "Backend Engineer - AI",
+      "postedToDiscord": "2026-01-21T10:52:35.745Z",
+      "sourceDate": "2025-12-15T23:14:02.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463486431900205160",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:35.745Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-anything-f4123aa5-855a-4b82-b762-66fb4a77f493-application",
+      "company": "Anything",
+      "title": "Backend Engineer - AI",
+      "postedToDiscord": "2026-01-21T10:52:37.271Z",
+      "sourceDate": "2025-12-15T23:14:02.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application",
+      "discordThreadId": "1463486431900205160",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "285efb7c874960fb-2026-01-21-1",
+      "jobId": "285efb7c874960fb",
+      "company": "Microsoft",
+      "title": "Software Engineer - Windows Servicing and Delivery",
+      "postedToDiscord": "2026-01-21T10:52:37.427Z",
+      "sourceDate": "2025-12-15T23:09:54.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463486439198032080",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:37.427Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556631972-2026-01-21-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631972",
+      "company": "Microsoft",
+      "title": "Software Engineer - Windows Servicing and Delivery",
+      "postedToDiscord": "2026-01-21T10:52:38.950Z",
+      "sourceDate": "2025-12-15T23:09:54.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
+      "discordThreadId": "1463486439198032080",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556631977-2026-01-21-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631977",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T10:52:38.973Z",
+      "sourceDate": "2025-12-15T23:09:42.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631977",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a6e36d3f3f210a81-2026-01-21-1",
+      "jobId": "a6e36d3f3f210a81",
+      "company": "CaseGuard",
+      "title": "Data Annotation Specialist",
+      "postedToDiscord": "2026-01-21T10:52:42.340Z",
+      "sourceDate": "2025-12-15T23:41:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463486459414843474",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:42.340Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463486466398228532",
+          "channelType": "location",
+          "postedAt": "2026-01-21T10:52:44.013Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-caseguard-jobs-5037116008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-caseguard-jobs-5037116008",
+      "company": "CaseGuard",
+      "title": "Data Annotation Specialist",
+      "postedToDiscord": "2026-01-21T10:52:45.537Z",
+      "sourceDate": "2025-12-15T23:41:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
+      "discordThreadId": "1463486459414843474",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7ede63eeb98777e9-2026-01-21-1",
+      "jobId": "7ede63eeb98777e9",
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI-Mediated Reality and Interaction Research",
+      "postedToDiscord": "2026-01-21T10:52:45.733Z",
+      "sourceDate": "2025-12-15T23:25:04.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463486473893576854",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:45.733Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485-2026-01-21-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-mediated-reality-and-interaction-research-new-college-grad-2026_jr2009485",
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI-Mediated Reality and Interaction Research",
+      "postedToDiscord": "2026-01-21T10:52:47.258Z",
+      "sourceDate": "2025-12-15T23:25:04.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485",
+      "discordThreadId": "1463486473893576854",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "32a359f143974fed-2026-01-21-1",
+      "jobId": "32a359f143974fed",
+      "company": "Wyetech",
+      "title": "Software Engineer 2",
+      "postedToDiscord": "2026-01-21T10:52:47.434Z",
+      "sourceDate": "2025-12-15T23:09:16.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/9585d817-be05-461c-bd89-7f55b469a64f/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463486480742617129",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:47.434Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463486488061939837",
+          "channelType": "location",
+          "postedAt": "2026-01-21T10:52:49.197Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-wyetechllc-9585d817-be05-461c-bd89-7f55b469a64f-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-wyetechllc-9585d817-be05-461c-bd89-7f55b469a64f-apply",
+      "company": "Wyetech",
+      "title": "Software Engineer 2",
+      "postedToDiscord": "2026-01-21T10:52:50.721Z",
+      "sourceDate": "2025-12-15T23:09:16.000Z",
+      "sourceUrl": "https://jobs.lever.co/wyetechllc/9585d817-be05-461c-bd89-7f55b469a64f/apply",
+      "discordThreadId": "1463486480742617129",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dfe4d35f0b45a99c-2026-01-21-1",
+      "jobId": "dfe4d35f0b45a99c",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, Personalization",
+      "postedToDiscord": "2026-01-21T10:52:50.987Z",
+      "sourceDate": "2025-12-15T21:39:25.664Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463486495452037233",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:50.987Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463486503001788533",
+          "channelType": "location",
+          "postedAt": "2026-01-21T10:52:52.650Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-de3f6a47-4d75-4512-8351-b362f1d1c32e",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, Personalization",
+      "postedToDiscord": "2026-01-21T10:52:54.172Z",
+      "sourceDate": "2025-12-15T21:39:25.664Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e",
+      "discordThreadId": "1463486495452037233",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "aa8dd9e68bd94801-2026-01-21-1",
+      "jobId": "aa8dd9e68bd94801",
+      "company": "First Financial ",
+      "title": "Regulatory Data Analyst 1",
+      "postedToDiscord": "2026-01-21T10:52:57.351Z",
+      "sourceDate": "2025-12-15T23:37:04.000Z",
+      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Abilene-Main/Regulatory-Data-Analyst-I_JR102396",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463486522287198349",
+          "channelType": "category",
+          "postedAt": "2026-01-21T10:52:57.351Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396-2026-01-21-1",
+      "jobId": "ffin-wd1-myworkdayjobs-com-first_financial_bank-job-abilene-main-regulatory-data-analyst-i_jr102396",
+      "company": "First Financial ",
+      "title": "Regulatory Data Analyst 1",
+      "postedToDiscord": "2026-01-21T10:52:58.874Z",
+      "sourceDate": "2025-12-15T23:37:04.000Z",
+      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Abilene-Main/Regulatory-Data-Analyst-I_JR102396",
+      "discordThreadId": "1463486522287198349",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3296,
+    "totalJobs": 3317,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T10:18:35.039Z",
+      "date": "2026-01-21T10:52:58.875Z",
       "archived": 0
     }
   }
