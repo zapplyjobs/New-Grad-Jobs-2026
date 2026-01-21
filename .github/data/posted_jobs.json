@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T07:17:12.533Z",
+  "lastUpdated": "2026-01-21T07:32:36.415Z",
   "jobs": [
-    {
-      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-developer_r_12154-2026-01-14-1",
-      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-developer_r_12154",
-      "company": "Auto-Owners Insurance",
-      "title": "Business Intelligence Developer",
-      "postedToDiscord": "2026-01-14T07:27:05.116Z",
-      "sourceDate": "2025-12-03T17:09:49.000Z",
-      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154",
-      "discordThreadId": "1460897985071288330",
-      "instanceNumber": 1
-    },
-    {
-      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-hurlburt-field-hurlburt-fld-flc017-human-performance-data-scientist-i_rq210954-2026-01-14-1",
-      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-fl-hurlburt-field-hurlburt-fld-flc017-human-performance-data-scientist-i_rq210954",
-      "company": "General Dynamics Information Technology",
-      "title": "Human Performance Data Scientist 1",
-      "postedToDiscord": "2026-01-14T07:27:06.961Z",
-      "sourceDate": "2025-12-03T03:14:45.000Z",
-      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954",
-      "discordThreadId": "1460897999529185513",
-      "instanceNumber": 1
-    },
-    {
-      "id": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-market-intelligence-analyst_hr-19578-1-2026-01-14-1",
-      "jobId": "encore-wd1-myworkdayjobs-com-externalnew-job-ca-san-diego-market-intelligence-analyst_hr-19578-1",
-      "company": "Encore Capital Group",
-      "title": "Market Intelligence Analyst",
-      "postedToDiscord": "2026-01-14T07:27:10.376Z",
-      "sourceDate": "2025-12-03T02:51:04.000Z",
-      "sourceUrl": "https://encore.wd1.myworkdayjobs.com/externalnew/job/CA---San-Diego/Market-Intelligence-Analyst_HR-19578-1",
-      "discordThreadId": "1460898007162814576",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sierraspace-wd1-myworkdayjobs-com-en-us-sierra_space_external_career_site-job-centennial-co-arapahoe-2-co_ara-business-intelligence-developer-i_r25115-1-2026-01-14-1",
-      "jobId": "sierraspace-wd1-myworkdayjobs-com-en-us-sierra_space_external_career_site-job-centennial-co-arapahoe-2-co_ara-business-intelligence-developer-i_r25115-1",
-      "company": "Sierra Space",
-      "title": "Business Intelligence Developer 1",
-      "postedToDiscord": "2026-01-14T07:27:13.892Z",
-      "sourceDate": "2025-12-03T02:32:17.000Z",
-      "sourceUrl": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO-Arapahoe-2---CO_ARA/Business-Intelligence-Developer-I_R25115-1",
-      "discordThreadId": "1460898021544820746",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4781798008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4781798008",
-      "company": "anthropic",
-      "title": "Founding Developer Relations Lead",
-      "postedToDiscord": "2026-01-14T07:27:20.340Z",
-      "sourceDate": "2025-12-03T11:18:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
-      "discordThreadId": "1460898048971636842",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556631205-2026-01-14-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556631205",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-14T07:27:23.774Z",
-      "sourceDate": "2025-12-03T07:35:34.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631205",
-      "discordThreadId": "1460898063261630525",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dimensional-wd5-myworkdayjobs-com-dfa_careers-job-charlotte-associate-investment-analytics-and-data-portfolio-analytics-_2025-8613-2026-01-14-1",
-      "jobId": "dimensional-wd5-myworkdayjobs-com-dfa_careers-job-charlotte-associate-investment-analytics-and-data-portfolio-analytics-_2025-8613",
-      "company": "Dimensional Fund Advisors",
-      "title": "Associate – Investment Analytics and Data - Portfolio Analytics",
-      "postedToDiscord": "2026-01-14T07:27:27.442Z",
-      "sourceDate": "2025-12-03T03:46:22.000Z",
-      "sourceUrl": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613",
-      "discordThreadId": "1460898077895561324",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cambiahealth-wd1-myworkdayjobs-com-external-job-renton-wa-ai-scientist-i-healthcare-_r-5997-2026-01-14-1",
-      "jobId": "cambiahealth-wd1-myworkdayjobs-com-external-job-renton-wa-ai-scientist-i-healthcare-_r-5997",
-      "company": "Cambia Health Solutions",
-      "title": "AI Scientist 1 - Healthcare",
-      "postedToDiscord": "2026-01-14T07:27:31.031Z",
-      "sourceDate": "2025-12-03T03:41:28.000Z",
-      "sourceUrl": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Renton-WA/AI-Scientist-I--Healthcare-_R-5997",
-      "discordThreadId": "1460898093053771836",
-      "instanceNumber": 1
-    },
-    {
-      "id": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-ml-engineer-ii_r2882-1-2026-01-14-1",
-      "jobId": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-ml-engineer-ii_r2882-1",
-      "company": "Waystar",
-      "title": "ML Engineer 2",
-      "postedToDiscord": "2026-01-14T07:27:34.454Z",
-      "sourceDate": "2025-12-03T03:14:04.000Z",
-      "sourceUrl": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/ML-Engineer-II_R2882-1",
-      "discordThreadId": "1460898108035563556",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-associate-electrical-and-computer-engineering_2022193-2026-01-14-1",
-      "jobId": "cmu-wd5-myworkdayjobs-com-cmu-job-pittsburgh-pa-research-associate-electrical-and-computer-engineering_2022193",
-      "company": "Carnegie Mellon University",
-      "title": "Research Associate - Electrical and Computer Engineering",
-      "postedToDiscord": "2026-01-14T07:27:41.067Z",
-      "sourceDate": "2025-12-03T02:44:14.000Z",
-      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193",
-      "discordThreadId": "1460898135323705457",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-commercearchitects-ec4bd3b5-3219-4524-805a-d9dff354c5ec-apply-2026-01-14-1",
       "jobId": "jobs-lever-co-commercearchitects-ec4bd3b5-3219-4524-805a-d9dff354c5ec-apply",
@@ -39225,14 +39115,304 @@
       "discordThreadId": "1463432221364060212",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "ac17768ad998d38a-2026-01-21-1",
+      "jobId": "ac17768ad998d38a",
+      "company": "discord",
+      "title": "Senior Program Manager, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-21T07:32:16.063Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332350002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436017611706470",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:16.063Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8332350002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8332350002",
+      "company": "discord",
+      "title": "Senior Program Manager, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-21T07:32:17.594Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332350002",
+      "discordThreadId": "1463436017611706470",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dac8a2135651da3e-2026-01-21-1",
+      "jobId": "dac8a2135651da3e",
+      "company": "discord",
+      "title": "Senior Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-21T07:32:17.927Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245138002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436025329352734",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:17.927Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8245138002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8245138002",
+      "company": "discord",
+      "title": "Senior Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-21T07:32:19.452Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245138002",
+      "discordThreadId": "1463436025329352734",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "005feed9740de448-2026-01-21-1",
+      "jobId": "005feed9740de448",
+      "company": "discord",
+      "title": "Senior Technical Program Manager, Safety",
+      "postedToDiscord": "2026-01-21T07:32:19.825Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8324819002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436032547754191",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:19.825Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8324819002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8324819002",
+      "company": "discord",
+      "title": "Senior Technical Program Manager, Safety",
+      "postedToDiscord": "2026-01-21T07:32:21.351Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8324819002",
+      "discordThreadId": "1463436032547754191",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9f9dea5f1fbc3c07-2026-01-21-1",
+      "jobId": "9f9dea5f1fbc3c07",
+      "company": "discord",
+      "title": "Director of Engineering, Developer Ecosystem",
+      "postedToDiscord": "2026-01-21T07:32:21.565Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8187999002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436040491630707",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:21.565Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8187999002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8187999002",
+      "company": "discord",
+      "title": "Director of Engineering, Developer Ecosystem",
+      "postedToDiscord": "2026-01-21T07:32:23.087Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8187999002",
+      "discordThreadId": "1463436040491630707",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "852715c3708ae2d1-2026-01-21-1",
+      "jobId": "852715c3708ae2d1",
+      "company": "discord",
+      "title": "Senior Software Engineer- Persistence Infrastructure",
+      "postedToDiscord": "2026-01-21T07:32:23.349Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8200328002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436047814885389",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:23.349Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8200328002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8200328002",
+      "company": "discord",
+      "title": "Senior Software Engineer- Persistence Infrastructure",
+      "postedToDiscord": "2026-01-21T07:32:24.871Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8200328002",
+      "discordThreadId": "1463436047814885389",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "878b22e664a5233c-2026-01-21-1",
+      "jobId": "878b22e664a5233c",
+      "company": "discord",
+      "title": "Software Engineer, Mobile",
+      "postedToDiscord": "2026-01-21T07:32:25.021Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436055482077328",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:25.021Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8177727002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8177727002",
+      "company": "discord",
+      "title": "Software Engineer, Mobile",
+      "postedToDiscord": "2026-01-21T07:32:26.546Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
+      "discordThreadId": "1463436055482077328",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7b061c0b68e20af4-2026-01-21-1",
+      "jobId": "7b061c0b68e20af4",
+      "company": "discord",
+      "title": "Staff Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-21T07:32:26.745Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245153002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436062574776529",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:26.745Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8245153002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8245153002",
+      "company": "discord",
+      "title": "Staff Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-21T07:32:28.269Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245153002",
+      "discordThreadId": "1463436062574776529",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "416ed0afce1a3375-2026-01-21-1",
+      "jobId": "416ed0afce1a3375",
+      "company": "anthropic",
+      "title": "Data Center Facility Operations Lead",
+      "postedToDiscord": "2026-01-21T07:32:28.424Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023727008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436069738385555",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:28.424Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023727008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023727008",
+      "company": "anthropic",
+      "title": "Data Center Facility Operations Lead",
+      "postedToDiscord": "2026-01-21T07:32:29.947Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023727008",
+      "discordThreadId": "1463436069738385555",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ae58a3d59071c298-2026-01-21-1",
+      "jobId": "ae58a3d59071c298",
+      "company": "anthropic",
+      "title": "Data Center Strategic Sourcing Lead",
+      "postedToDiscord": "2026-01-21T07:32:30.181Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023731008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463436076520571045",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:30.181Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023731008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023731008",
+      "company": "anthropic",
+      "title": "Data Center Strategic Sourcing Lead",
+      "postedToDiscord": "2026-01-21T07:32:31.704Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023731008",
+      "discordThreadId": "1463436076520571045",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "903b0455daccf47b-2026-01-21-1",
+      "jobId": "903b0455daccf47b",
+      "company": "anthropic",
+      "title": "Google Partnerships Manager, Digital Native & Startups",
+      "postedToDiscord": "2026-01-21T07:32:34.890Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463436096619941974",
+          "channelType": "category",
+          "postedAt": "2026-01-21T07:32:34.890Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973158008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973158008",
+      "company": "anthropic",
+      "title": "Google Partnerships Manager, Digital Native & Startups",
+      "postedToDiscord": "2026-01-21T07:32:36.414Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
+      "discordThreadId": "1463436096619941974",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3158,
+    "totalJobs": 3168,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T07:17:12.533Z",
+      "date": "2026-01-21T07:32:36.415Z",
       "archived": 0
     }
   }
