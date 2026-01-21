@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T08:15:30.054Z",
+  "lastUpdated": "2026-01-21T08:32:04.458Z",
   "jobs": [
-    {
-      "id": "onelineage-wd1-myworkdayjobs-com-external-job-novi-mi-humboldt-drive-associate-report-developer_r0097857-2026-01-14-1",
-      "jobId": "onelineage-wd1-myworkdayjobs-com-external-job-novi-mi-humboldt-drive-associate-report-developer_r0097857",
-      "company": "Lineage Logistics",
-      "title": "Associate Report Developer",
-      "postedToDiscord": "2026-01-14T08:27:32.601Z",
-      "sourceDate": "2025-12-02T04:56:10.000Z",
-      "sourceUrl": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-whoop-e52bfb59-5a57-4e23-9991-88ef1b3dd745-apply-2026-01-14-1",
-      "jobId": "jobs-lever-co-whoop-e52bfb59-5a57-4e23-9991-88ef1b3dd745-apply",
-      "company": "Whoop",
-      "title": "Software Engineer 1 - Fullstack - Hardware Accelerate",
-      "postedToDiscord": "2026-01-14T08:27:36.223Z",
-      "sourceDate": "2025-12-01T16:23:23.000Z",
-      "sourceUrl": "https://jobs.lever.co/whoop/e52bfb59-5a57-4e23-9991-88ef1b3dd745/apply",
-      "discordThreadId": "1460913214433787925",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-espx-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2418409-2026-01-14-1",
-      "jobId": "fa-espx-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-2418409",
-      "company": "Cummins",
-      "title": "AI/ML Systems Engineer",
-      "postedToDiscord": "2026-01-14T08:27:39.890Z",
-      "sourceDate": "2025-12-01T16:22:39.000Z",
-      "sourceUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409",
-      "discordThreadId": "1460913229482954866",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25028581-2026-01-14-1",
-      "jobId": "hdjq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-25028581",
-      "company": "Emerson Electric",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-14T08:27:43.735Z",
-      "sourceDate": "2025-12-01T16:20:59.000Z",
-      "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028581",
-      "discordThreadId": "1460913244762800211",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-affirm-jobs-7485068003-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-affirm-jobs-7485068003",
-      "company": "Affirm",
-      "title": "Software Engineer, Early Career",
-      "postedToDiscord": "2026-01-14T08:27:47.210Z",
-      "sourceDate": "2025-12-01T15:55:49.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
-      "discordThreadId": "1460913261066321951",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-stratacareers-jobs-7542763003-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-stratacareers-jobs-7542763003",
-      "company": "Strata Decision Technology",
-      "title": "Analyst – Data Integration",
-      "postedToDiscord": "2026-01-14T08:27:51.014Z",
-      "sourceDate": "2025-12-01T06:03:18.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
-      "discordThreadId": "1460913275628949545",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wd3-myworkdaysite-com-recruiting-magna-magna-job-northwood-ohio-us-data-analyst_r00221046-2026-01-14-1",
-      "jobId": "wd3-myworkdaysite-com-recruiting-magna-magna-job-northwood-ohio-us-data-analyst_r00221046",
-      "company": "Magna",
-      "title": "Data Analyst",
-      "postedToDiscord": "2026-01-14T08:27:57.704Z",
-      "sourceDate": "2025-12-02T02:26:36.000Z",
-      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046",
-      "discordThreadId": "1460913303890170029",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5676402004-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5676402004",
-      "company": "vercel",
-      "title": "Director, Technical Accounting & Financial Reporting",
-      "postedToDiscord": "2026-01-14T08:28:04.281Z",
-      "sourceDate": "2025-12-01T12:16:15-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
-      "discordThreadId": "1460913332163842059",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-daa7807b-4822-453e-94a7-2ccc1d9e90ae-2026-01-14-1",
-      "jobId": "jobs-lever-co-spotify-daa7807b-4822-453e-94a7-2ccc1d9e90ae",
-      "company": "spotify",
-      "title": "Machine Learning Engineering Manager II",
-      "postedToDiscord": "2026-01-14T08:28:10.875Z",
-      "sourceDate": "2025-12-01T15:48:49.889Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/daa7807b-4822-453e-94a7-2ccc1d9e90ae",
-      "discordThreadId": "1460913359821078600",
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-uncertainty-quantification-and-modeling-of-large-scale-dynamics-in-networks_420061-2026-01-14-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-uncertainty-quantification-and-modeling-of-large-scale-dynamics-in-networks_420061",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee",
-      "postedToDiscord": "2026-01-14T08:28:14.493Z",
-      "sourceDate": "2025-12-01T05:15:47.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061",
-      "discordThreadId": "1460913374635491384",
-      "instanceNumber": 1
-    },
     {
       "id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1-2026-01-14-1",
       "jobId": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1",
@@ -39796,14 +39686,324 @@
       "discordThreadId": "1463446890883321887",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "e34bc629364dc34a-2026-01-21-1",
+      "jobId": "e34bc629364dc34a",
+      "company": "Jerry",
+      "title": "Software Engineer - Entry",
+      "postedToDiscord": "2026-01-21T08:31:30.963Z",
+      "sourceDate": "2026-01-19T23:13:01.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/357dcf52-0cb3-4ed8-a33b-6f5d3b9be7be/application",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463450927934607430",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:30.963Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-jerry-ai-357dcf52-0cb3-4ed8-a33b-6f5d3b9be7be-application-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-jerry-ai-357dcf52-0cb3-4ed8-a33b-6f5d3b9be7be-application",
+      "company": "Jerry",
+      "title": "Software Engineer - Entry",
+      "postedToDiscord": "2026-01-21T08:31:32.495Z",
+      "sourceDate": "2026-01-19T23:13:01.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/357dcf52-0cb3-4ed8-a33b-6f5d3b9be7be/application",
+      "discordThreadId": "1463450927934607430",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1811d06047849074-2026-01-21-1",
+      "jobId": "1811d06047849074",
+      "company": "spotify",
+      "title": "Senior Manager, Music Label Deal Analysis - FP&A",
+      "postedToDiscord": "2026-01-21T08:31:32.674Z",
+      "sourceDate": "2025-12-18T15:46:29.850Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463450935333490729",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:32.674Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463450942279122986",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:31:34.433Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
+      "company": "spotify",
+      "title": "Senior Manager, Music Label Deal Analysis - FP&A",
+      "postedToDiscord": "2026-01-21T08:31:35.958Z",
+      "sourceDate": "2025-12-18T15:46:29.850Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
+      "discordThreadId": "1463450935333490729",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "08ddb222c02dbd17-2026-01-21-1",
+      "jobId": "08ddb222c02dbd17",
+      "company": "figma",
+      "title": "Community Support Specialist",
+      "postedToDiscord": "2026-01-21T08:31:39.242Z",
+      "sourceDate": "2025-12-18T12:24:30-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463450962780749904",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:39.242Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5734604004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5734604004",
+      "company": "figma",
+      "title": "Community Support Specialist",
+      "postedToDiscord": "2026-01-21T08:31:40.769Z",
+      "sourceDate": "2025-12-18T12:24:30-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004",
+      "discordThreadId": "1463450962780749904",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5d3f31eefe5de282-2026-01-21-1",
+      "jobId": "5d3f31eefe5de282",
+      "company": "Rogers Behavioral Health",
+      "title": "Therapist - Child & Adolescent",
+      "postedToDiscord": "2026-01-21T08:31:41.024Z",
+      "sourceDate": "2025-12-18T16:31:59.000Z",
+      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R5758",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463450969944756235",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:41.024Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463450977708539905",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:31:42.838Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-st-paul-clinic-woodbury-mn-therapist-child-adolescent-php-iop_r5758-2026-01-21-1",
+      "jobId": "rogersbh-wd1-myworkdayjobs-com-rbhcareer-job-st-paul-clinic-woodbury-mn-therapist-child-adolescent-php-iop_r5758",
+      "company": "Rogers Behavioral Health",
+      "title": "Therapist - Child & Adolescent",
+      "postedToDiscord": "2026-01-21T08:31:44.364Z",
+      "sourceDate": "2025-12-18T16:31:59.000Z",
+      "sourceUrl": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R5758",
+      "discordThreadId": "1463450969944756235",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "205cc15502c4e7fa-2026-01-21-1",
+      "jobId": "205cc15502c4e7fa",
+      "company": "figma",
+      "title": "Legal Operations Lead, CLM & Technology",
+      "postedToDiscord": "2026-01-21T08:31:44.629Z",
+      "sourceDate": "2025-12-18T10:56:26-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737291004?gh_jid=5737291004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463450984994046099",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:44.629Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5737291004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5737291004",
+      "company": "figma",
+      "title": "Legal Operations Lead, CLM & Technology",
+      "postedToDiscord": "2026-01-21T08:31:46.152Z",
+      "sourceDate": "2025-12-18T10:56:26-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737291004?gh_jid=5737291004",
+      "discordThreadId": "1463450984994046099",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f3255cb790bc2991-2026-01-21-1",
+      "jobId": "f3255cb790bc2991",
+      "company": "CACI",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-21T08:31:46.587Z",
+      "sourceDate": "2025-12-18T14:21:40.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Junior-Software-Engineer_320514",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463450992703045657",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:46.587Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463451001057972345",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:31:48.449Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-external-job-us-md-aberdeen-proving-ground-junior-software-engineer_320514-2026-01-21-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-md-aberdeen-proving-ground-junior-software-engineer_320514",
+      "company": "CACI",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-21T08:31:49.971Z",
+      "sourceDate": "2025-12-18T14:21:40.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Junior-Software-Engineer_320514",
+      "discordThreadId": "1463450992703045657",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7efc05dee83535c2-2026-01-21-1",
+      "jobId": "7efc05dee83535c2",
+      "company": "figma",
+      "title": "Launch Strategy & Operations - Marketing & Comms",
+      "postedToDiscord": "2026-01-21T08:31:50.124Z",
+      "sourceDate": "2025-12-17T21:34:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5729141004?gh_jid=5729141004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463451008599330975",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:50.124Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5729141004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5729141004",
+      "company": "figma",
+      "title": "Launch Strategy & Operations - Marketing & Comms",
+      "postedToDiscord": "2026-01-21T08:31:51.647Z",
+      "sourceDate": "2025-12-17T21:34:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5729141004?gh_jid=5729141004",
+      "discordThreadId": "1463451008599330975",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e559a901ae1bb6b0-2026-01-21-1",
+      "jobId": "e559a901ae1bb6b0",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-21T08:31:51.834Z",
+      "sourceDate": "2025-12-18T02:19:58.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463451015721517056",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:51.834Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463451022801371168",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:31:53.520Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832160-2026-01-21-1",
+      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-27595-89635832160",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-21T08:31:55.043Z",
+      "sourceDate": "2025-12-18T02:19:58.000Z",
+      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160",
+      "discordThreadId": "1463451015721517056",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0bd6cadc5e5342bb-2026-01-21-1",
+      "jobId": "0bd6cadc5e5342bb",
+      "company": "Roblox",
+      "title": "Data Scientist, Social - PhD Early Career",
+      "postedToDiscord": "2026-01-21T08:31:58.222Z",
+      "sourceDate": "2025-12-18T14:23:56.000Z",
+      "sourceUrl": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463451042573324390",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:31:58.222Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-roblox-com-jobs-7463634-2026-01-21-1",
+      "jobId": "careers-roblox-com-jobs-7463634",
+      "company": "Roblox",
+      "title": "Data Scientist, Social - PhD Early Career",
+      "postedToDiscord": "2026-01-21T08:31:59.748Z",
+      "sourceDate": "2025-12-18T14:23:56.000Z",
+      "sourceUrl": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634",
+      "discordThreadId": "1463451042573324390",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e0631be48b0c106e-2026-01-21-1",
+      "jobId": "e0631be48b0c106e",
+      "company": "figma",
+      "title": "Senior Technical Revenue Manager",
+      "postedToDiscord": "2026-01-21T08:32:02.935Z",
+      "sourceDate": "2025-12-17T19:24:43-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735644004?gh_jid=5735644004",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463451062168977521",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:32:02.935Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735644004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735644004",
+      "company": "figma",
+      "title": "Senior Technical Revenue Manager",
+      "postedToDiscord": "2026-01-21T08:32:04.458Z",
+      "sourceDate": "2025-12-17T19:24:43-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735644004?gh_jid=5735644004",
+      "discordThreadId": "1463451062168977521",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3187,
+    "totalJobs": 3197,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T08:15:30.054Z",
+      "date": "2026-01-21T08:32:04.458Z",
       "archived": 0
     }
   }
