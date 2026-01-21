@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T20:36:28.771Z",
+  "lastUpdated": "2026-01-21T20:53:53.722Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4980527008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980527008",
-      "company": "anthropic",
-      "title": "Privacy Counsel",
-      "postedToDiscord": "2026-01-14T20:53:06.345Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980527008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4971429008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971429008",
-      "company": "anthropic",
-      "title": "Product Operations Manager",
-      "postedToDiscord": "2026-01-14T20:53:09.838Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971429008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4992055008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4992055008",
-      "company": "anthropic",
-      "title": "Product Operations Manager, Public Sector ",
-      "postedToDiscord": "2026-01-14T20:53:13.650Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992055008",
-      "discordThreadId": "1461100856337498353",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4949108008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4949108008",
-      "company": "anthropic",
-      "title": "Privacy Research Engineer, Safeguards",
-      "postedToDiscord": "2026-01-14T20:53:20.405Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949108008",
-      "discordThreadId": "1461100884430684444",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4929512008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929512008",
-      "company": "anthropic",
-      "title": "Product Designer, Claude Experiences",
-      "postedToDiscord": "2026-01-14T20:53:24.079Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929512008",
-      "discordThreadId": "1461100900125905212",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4963443008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4963443008",
-      "company": "anthropic",
-      "title": "Product Designer, Growth ",
-      "postedToDiscord": "2026-01-14T20:53:27.710Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4963443008",
-      "discordThreadId": "1461100915409948726",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4932942008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4932942008",
-      "company": "anthropic",
-      "title": "Product Manager, Safeguards",
-      "postedToDiscord": "2026-01-14T20:53:31.363Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4932942008",
-      "discordThreadId": "1461100930656239750",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4936029008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4936029008",
-      "company": "anthropic",
-      "title": "Product Manager, API ",
-      "postedToDiscord": "2026-01-14T20:53:37.823Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4936029008",
-      "discordThreadId": "1461100958539976748",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4985920008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985920008",
-      "company": "anthropic",
-      "title": "Product Manager, Claude Code",
-      "postedToDiscord": "2026-01-14T20:53:41.237Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985920008",
-      "discordThreadId": "1461100973283082395",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4933792008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4933792008",
-      "company": "anthropic",
-      "title": "Product Manager, Research",
-      "postedToDiscord": "2026-01-14T20:53:44.855Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933792008",
-      "discordThreadId": "1461100987573076160",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4992071008-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4992071008",
@@ -49310,14 +49200,319 @@
       "discordThreadId": "1463633356972622059",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "50e6078d0e2aebfd-2026-01-21-1",
+      "jobId": "50e6078d0e2aebfd",
+      "company": "gohighlevel",
+      "title": "Internship Program Coordinator",
+      "postedToDiscord": "2026-01-21T20:53:24.790Z",
+      "sourceDate": "2025-12-02T16:21:12.895Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/faa7469b-d007-4a29-903f-93ad34c7f472",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463637632444792965",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:24.790Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-faa7469b-d007-4a29-903f-93ad34c7f472-2026-01-21-1",
+      "jobId": "jobs-lever-co-gohighlevel-faa7469b-d007-4a29-903f-93ad34c7f472",
+      "company": "gohighlevel",
+      "title": "Internship Program Coordinator",
+      "postedToDiscord": "2026-01-21T20:53:26.324Z",
+      "sourceDate": "2025-12-02T16:21:12.895Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/faa7469b-d007-4a29-903f-93ad34c7f472",
+      "discordThreadId": "1463637632444792965",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "962524f76a03a2e1-2026-01-21-1",
+      "jobId": "962524f76a03a2e1",
+      "company": "CoStar Group",
+      "title": "Associate Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T20:53:26.566Z",
+      "sourceDate": "2025-12-02T10:22:09.000Z",
+      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463637639960854530",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:26.566Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "costar-wd1-myworkdayjobs-com-costar_campus-job-sunnyvale-associate-machine-learning-engineer_r37862-2026-01-21-1",
+      "jobId": "costar-wd1-myworkdayjobs-com-costar_campus-job-sunnyvale-associate-machine-learning-engineer_r37862",
+      "company": "CoStar Group",
+      "title": "Associate Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T20:53:28.094Z",
+      "sourceDate": "2025-12-02T10:22:09.000Z",
+      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862",
+      "discordThreadId": "1463637639960854530",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "665dfc9ae166b360-2026-01-21-1",
+      "jobId": "665dfc9ae166b360",
+      "company": "ION Group",
+      "title": "Software Developer - Leadership Development Program - Uniondale",
+      "postedToDiscord": "2026-01-21T20:53:28.284Z",
+      "sourceDate": "2025-12-01T23:11:51.000Z",
+      "sourceUrl": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463637647367864381",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:28.284Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463637654443790584",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:53:30.084Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ion-2b8f5185-70e2-4c73-8c85-3a961af411fd-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-ion-2b8f5185-70e2-4c73-8c85-3a961af411fd-apply",
+      "company": "ION Group",
+      "title": "Software Developer - Leadership Development Program - Uniondale",
+      "postedToDiscord": "2026-01-21T20:53:31.608Z",
+      "sourceDate": "2025-12-01T23:11:51.000Z",
+      "sourceUrl": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
+      "discordThreadId": "1463637647367864381",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ee85147ecf10152d-2026-01-21-1",
+      "jobId": "ee85147ecf10152d",
+      "company": "Fidelity Investments",
+      "title": "Associate Full Stack Engineer",
+      "postedToDiscord": "2026-01-21T20:53:35.068Z",
+      "sourceDate": "2025-12-02T15:25:04.000Z",
+      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463637674899280036",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:35.068Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463637683019583559",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:53:36.883Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "fmr-wd1-myworkdayjobs-com-en-us-targeted-job-merrimack-nh-associate-full-stack-engineer_2120832-1-2026-01-21-1",
+      "jobId": "fmr-wd1-myworkdayjobs-com-en-us-targeted-job-merrimack-nh-associate-full-stack-engineer_2120832-1",
+      "company": "Fidelity Investments",
+      "title": "Associate Full Stack Engineer",
+      "postedToDiscord": "2026-01-21T20:53:38.411Z",
+      "sourceDate": "2025-12-02T15:25:04.000Z",
+      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1",
+      "discordThreadId": "1463637674899280036",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bf24e1e60a00c674-2026-01-21-1",
+      "jobId": "bf24e1e60a00c674",
+      "company": "figma",
+      "title": "Community Experiences Manager",
+      "postedToDiscord": "2026-01-21T20:53:38.608Z",
+      "sourceDate": "2025-12-02T04:45:14-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5721796004?gh_jid=5721796004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463637690292375563",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:38.608Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5721796004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5721796004",
+      "company": "figma",
+      "title": "Community Experiences Manager",
+      "postedToDiscord": "2026-01-21T20:53:40.135Z",
+      "sourceDate": "2025-12-02T04:45:14-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5721796004?gh_jid=5721796004",
+      "discordThreadId": "1463637690292375563",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5ba45fcdc640ff7d-2026-01-21-1",
+      "jobId": "5ba45fcdc640ff7d",
+      "company": "vercel",
+      "title": "Lifecycle Marketing Manager",
+      "postedToDiscord": "2026-01-21T20:53:40.409Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463637697892585677",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:40.409Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5637558004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5637558004",
+      "company": "vercel",
+      "title": "Lifecycle Marketing Manager",
+      "postedToDiscord": "2026-01-21T20:53:41.936Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
+      "discordThreadId": "1463637697892585677",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6ef960f5dd3ce945-2026-01-21-1",
+      "jobId": "6ef960f5dd3ce945",
+      "company": "Amplitude",
+      "title": "Software Engineer 1 - Data Warehouse",
+      "postedToDiscord": "2026-01-21T20:53:42.138Z",
+      "sourceDate": "2025-12-02T02:39:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/amplitude/jobs/8224986002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463637705211645986",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:42.138Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-amplitude-jobs-8224986002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-amplitude-jobs-8224986002",
+      "company": "Amplitude",
+      "title": "Software Engineer 1 - Data Warehouse",
+      "postedToDiscord": "2026-01-21T20:53:43.664Z",
+      "sourceDate": "2025-12-02T02:39:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/amplitude/jobs/8224986002",
+      "discordThreadId": "1463637705211645986",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "19ba5a4c33925e18-2026-01-21-1",
+      "jobId": "19ba5a4c33925e18",
+      "company": "Zeta Global",
+      "title": "Associate – Data Cloud Solutions",
+      "postedToDiscord": "2026-01-21T20:53:43.953Z",
+      "sourceDate": "2025-12-02T01:39:41.000Z",
+      "sourceUrl": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463637712731902081",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:43.953Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463637720227119164",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:53:45.681Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "zetaglobal-com-jobs-jobs-at-zeta-global-2026-01-21-1",
+      "jobId": "zetaglobal-com-jobs-jobs-at-zeta-global",
+      "company": "Zeta Global",
+      "title": "Associate – Data Cloud Solutions",
+      "postedToDiscord": "2026-01-21T20:53:47.207Z",
+      "sourceDate": "2025-12-02T01:39:41.000Z",
+      "sourceUrl": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
+      "discordThreadId": "1463637712731902081",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3fff20b069dc0041-2026-01-21-1",
+      "jobId": "3fff20b069dc0041",
+      "company": "Nexthop.ai",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-21T20:53:47.409Z",
+      "sourceDate": "2025-12-01T23:10:05.000Z",
+      "sourceUrl": "https://nexthopai.bamboohr.com/careers/24/",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463637727479205918",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:47.409Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nexthopai-bamboohr-com-careers-24-2026-01-21-1",
+      "jobId": "nexthopai-bamboohr-com-careers-24",
+      "company": "Nexthop.ai",
+      "title": "Software Engineer – New Grad",
+      "postedToDiscord": "2026-01-21T20:53:48.936Z",
+      "sourceDate": "2025-12-01T23:10:05.000Z",
+      "sourceUrl": "https://nexthopai.bamboohr.com/careers/24/",
+      "discordThreadId": "1463637727479205918",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6de2f991cb0aa3f1-2026-01-21-1",
+      "jobId": "6de2f991cb0aa3f1",
+      "company": "discord",
+      "title": "Director, Global Payments Strategy and Operations",
+      "postedToDiscord": "2026-01-21T20:53:52.196Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463637747347750997",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:53:52.196Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8305665002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8305665002",
+      "company": "discord",
+      "title": "Director, Global Payments Strategy and Operations",
+      "postedToDiscord": "2026-01-21T20:53:53.721Z",
+      "sourceDate": "2026-01-20T14:23:57-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
+      "discordThreadId": "1463637747347750997",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3787,
+    "totalJobs": 3797,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T20:36:28.771Z",
+      "date": "2026-01-21T20:53:53.722Z",
       "archived": 0
     }
   }
