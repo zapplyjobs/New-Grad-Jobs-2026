@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T08:32:04.458Z",
+  "lastUpdated": "2026-01-21T09:16:05.074Z",
   "jobs": [
-    {
-      "id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1-2026-01-14-1",
-      "jobId": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1",
-      "company": "Texas A&M University - Corpus Christi",
-      "title": "Postdoctoral Research Associate",
-      "postedToDiscord": "2026-01-14T08:47:39.066Z",
-      "sourceDate": "2025-11-30T17:06:45.000Z",
-      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581-2026-01-14-1",
       "jobId": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581",
@@ -39996,14 +39985,339 @@
       "discordThreadId": "1463451062168977521",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "6b6d3023bf16a693-2026-01-21-1",
+      "jobId": "6b6d3023bf16a693",
+      "company": "Walmart",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-21T09:15:29.051Z",
+      "sourceDate": "2025-12-17T23:52:29.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463461992521273542",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:29.051Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463462000263692288",
+          "channelType": "location",
+          "postedAt": "2026-01-21T09:15:30.755Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767-2026-01-21-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767",
+      "company": "Walmart",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-21T09:15:32.277Z",
+      "sourceDate": "2025-12-17T23:52:29.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767",
+      "discordThreadId": "1463461992521273542",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4adc26f89d7d95d7-2026-01-21-1",
+      "jobId": "4adc26f89d7d95d7",
+      "company": "Affirm",
+      "title": "Analyst 1 - Full Stack",
+      "postedToDiscord": "2026-01-21T09:15:32.507Z",
+      "sourceDate": "2025-12-17T23:41:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7560430003",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463462007557853318",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:32.507Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-affirm-jobs-7560430003-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-affirm-jobs-7560430003",
+      "company": "Affirm",
+      "title": "Analyst 1 - Full Stack",
+      "postedToDiscord": "2026-01-21T09:15:34.032Z",
+      "sourceDate": "2025-12-17T23:41:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7560430003",
+      "discordThreadId": "1463462007557853318",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3b8623d7ae5e706c-2026-01-21-1",
+      "jobId": "3b8623d7ae5e706c",
+      "company": "Oshkosh",
+      "title": "NASCAR Cup Track Support Engineer – Entry Level",
+      "postedToDiscord": "2026-01-21T09:15:37.311Z",
+      "sourceDate": "2025-12-17T23:52:04.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463462027698901067",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:37.311Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463462034619236399",
+          "channelType": "location",
+          "postedAt": "2026-01-21T09:15:39.119Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333-2026-01-21-1",
+      "jobId": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-nascar-cup-track-support-engineer-entry-level_r43333",
+      "company": "Oshkosh",
+      "title": "NASCAR Cup Track Support Engineer – Entry Level",
+      "postedToDiscord": "2026-01-21T09:15:40.647Z",
+      "sourceDate": "2025-12-17T23:52:04.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
+      "discordThreadId": "1463462027698901067",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "784fce6433dbf5d8-2026-01-21-1",
+      "jobId": "784fce6433dbf5d8",
+      "company": "Auto-Owners Insurance",
+      "title": "Math Major Software Developer",
+      "postedToDiscord": "2026-01-21T09:15:40.994Z",
+      "sourceDate": "2025-12-17T23:48:31.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463462042722631701",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:40.994Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463462050729693194",
+          "channelType": "location",
+          "postedAt": "2026-01-21T09:15:42.783Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008-2026-01-21-1",
+      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-math-major-software-developer_r_1008",
+      "company": "Auto-Owners Insurance",
+      "title": "Math Major Software Developer",
+      "postedToDiscord": "2026-01-21T09:15:44.307Z",
+      "sourceDate": "2025-12-17T23:48:31.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
+      "discordThreadId": "1463462042722631701",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "08ac3621eb0b6ecb-2026-01-21-1",
+      "jobId": "08ac3621eb0b6ecb",
+      "company": "Leidos",
+      "title": "Entry-Level Software Developer",
+      "postedToDiscord": "2026-01-21T09:15:44.487Z",
+      "sourceDate": "2025-12-17T23:33:32.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463462057864335492",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:44.487Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463462064914698333",
+          "channelType": "location",
+          "postedAt": "2026-01-21T09:15:46.156Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273-2026-01-21-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-huntsville-al-xmlname-entry-level-software-developer-_r-00172273",
+      "company": "Leidos",
+      "title": "Entry-Level Software Developer",
+      "postedToDiscord": "2026-01-21T09:15:47.679Z",
+      "sourceDate": "2025-12-17T23:33:32.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
+      "discordThreadId": "1463462057864335492",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "56f731e01d023435-2026-01-21-1",
+      "jobId": "56f731e01d023435",
+      "company": "Major League Baseball",
+      "title": "Data Operator",
+      "postedToDiscord": "2026-01-21T09:15:48.061Z",
+      "sourceDate": "2025-12-17T23:33:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7566484003",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463462072355389552",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:48.061Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463462079913529355",
+          "channelType": "location",
+          "postedAt": "2026-01-21T09:15:49.741Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7566484003",
+      "company": "Major League Baseball",
+      "title": "Data Operator",
+      "postedToDiscord": "2026-01-21T09:15:51.264Z",
+      "sourceDate": "2025-12-17T23:33:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7566484003",
+      "discordThreadId": "1463462072355389552",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ec1663b7979009da-2026-01-21-1",
+      "jobId": "ec1663b7979009da",
+      "company": "MultiCare Health System",
+      "title": "Software Engineer 1 - Scm",
+      "postedToDiscord": "2026-01-21T09:15:51.475Z",
+      "sourceDate": "2025-12-17T23:30:13.000Z",
+      "sourceUrl": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR65804",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463462087098634306",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:51.475Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804-2026-01-21-1",
+      "jobId": "multicare-wd1-myworkdayjobs-com-multicare-job-tacoma-washington-software-engineer-i-scm_jr65804",
+      "company": "MultiCare Health System",
+      "title": "Software Engineer 1 - Scm",
+      "postedToDiscord": "2026-01-21T09:15:52.999Z",
+      "sourceDate": "2025-12-17T23:30:13.000Z",
+      "sourceUrl": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR65804",
+      "discordThreadId": "1463462087098634306",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f412f1f342b4d71b-2026-01-21-1",
+      "jobId": "f412f1f342b4d71b",
+      "company": "anthropic",
+      "title": "User Experience Researcher",
+      "postedToDiscord": "2026-01-21T09:15:53.217Z",
+      "sourceDate": "2026-01-20T15:29:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5077218008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463462094203781122",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:53.217Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5077218008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5077218008",
+      "company": "anthropic",
+      "title": "User Experience Researcher",
+      "postedToDiscord": "2026-01-21T09:15:54.742Z",
+      "sourceDate": "2026-01-20T15:29:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5077218008",
+      "discordThreadId": "1463462094203781122",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fd8b015e4a6dd685-2026-01-21-1",
+      "jobId": "fd8b015e4a6dd685",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-21T09:15:54.956Z",
+      "sourceDate": "2026-01-20T15:11:23-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463462101753401448",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:15:54.956Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463462108699037846",
+          "channelType": "location",
+          "postedAt": "2026-01-21T09:15:56.710Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7453034-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-7453034",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-21T09:15:58.232Z",
+      "sourceDate": "2026-01-20T15:11:23-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034",
+      "discordThreadId": "1463462101753401448",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c151a75839a74000-2026-01-21-1",
+      "jobId": "c151a75839a74000",
+      "company": "Harris Computer",
+      "title": "Systems Analyst",
+      "postedToDiscord": "2026-01-21T09:16:01.839Z",
+      "sourceDate": "2025-12-17T23:32:22.000Z",
+      "sourceUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Blair/XMLNAME--Remote--Systems-Analyst_R0038516-3",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463462130060886181",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:16:01.839Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463462137836863540",
+          "channelType": "location",
+          "postedAt": "2026-01-21T09:16:03.550Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3-2026-01-21-1",
+      "jobId": "harriscomputer-wd3-myworkdayjobs-com-1-job-office-blair-xmlname-remote-systems-analyst_r0038516-3",
+      "company": "Harris Computer",
+      "title": "Systems Analyst",
+      "postedToDiscord": "2026-01-21T09:16:05.073Z",
+      "sourceDate": "2025-12-17T23:32:22.000Z",
+      "sourceUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Blair/XMLNAME--Remote--Systems-Analyst_R0038516-3",
+      "discordThreadId": "1463462130060886181",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3197,
+    "totalJobs": 3216,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T08:32:04.458Z",
+      "date": "2026-01-21T09:16:05.074Z",
       "archived": 0
     }
   }
