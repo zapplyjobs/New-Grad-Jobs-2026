@@ -1,172 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T18:53:27.676Z",
+  "lastUpdated": "2026-01-21T19:18:20.244Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7374529-2026-01-14-1",
-      "jobId": "careers-datadoghq-com-detail-7374529",
-      "company": "Datadog",
-      "title": "Data Analyst - GTM Strategy & Operations",
-      "postedToDiscord": "2026-01-14T19:01:12.642Z",
-      "sourceDate": "2025-11-26T23:31:30.000Z",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7374529/?gh_jid=7374529",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-engineer_r_12122-1-2026-01-14-1",
-      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-business-intelligence-engineer_r_12122-1",
-      "company": "Auto-Owners Insurance",
-      "title": "Business Intelligence Engineer",
-      "postedToDiscord": "2026-01-14T19:01:16.767Z",
-      "sourceDate": "2025-11-26T11:01:40.000Z",
-      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_12122-1",
-      "discordThreadId": "1461072682094297322",
-      "instanceNumber": 1
-    },
-    {
-      "id": "mcafee-wd1-myworkdayjobs-com-external-job-united-states-ai-training-data-acquisition-analyst_jr0032205-2026-01-14-1",
-      "jobId": "mcafee-wd1-myworkdayjobs-com-external-job-united-states-ai-training-data-acquisition-analyst_jr0032205",
-      "company": "McAfee",
-      "title": "AI Training Data Acquisition Analyst",
-      "postedToDiscord": "2026-01-14T19:01:23.633Z",
-      "sourceDate": "2025-11-26T10:54:17.000Z",
-      "sourceUrl": "https://mcafee.wd1.myworkdayjobs.com/external/job/United-States/AI-Training-Data-Acquisition-Analyst_JR0032205",
-      "discordThreadId": "1461072712024985814",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7516666201355962632-2026-01-14-1",
-      "jobId": "lifeattiktok-com-search-7516666201355962632",
-      "company": "TikTok",
-      "title": "（General Hire）Machine Learning Engineer Graduate - E-Commerce - 2026 Start','Phd",
-      "postedToDiscord": "2026-01-14T19:01:27.498Z",
-      "sourceDate": "2025-11-26T04:20:42.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7516666201355962632",
-      "discordThreadId": "1461072728147628142",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4935314008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4935314008",
-      "company": "anthropic",
-      "title": "Technical Recruiter, Specialized",
-      "postedToDiscord": "2026-01-14T19:01:31.291Z",
-      "sourceDate": "2025-11-25T20:22:09-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008",
-      "discordThreadId": "1461072744048492595",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505-2026-01-14-1",
-      "jobId": "nshs-wd1-myworkdayjobs-com-ns-eeh-job-sro-corporate-center-warrenville-4201-winfield-road-applications-analyst-i_r36505",
-      "company": "Endeavor Health",
-      "title": "Applications Analyst 1",
-      "postedToDiscord": "2026-01-14T19:10:15.233Z",
-      "sourceDate": "2025-11-26T02:47:22.000Z",
-      "sourceUrl": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/Applications-Analyst-I_R36505",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4887952008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4887952008",
-      "company": "anthropic",
-      "title": "IT Systems Engineer",
-      "postedToDiscord": "2026-01-14T19:10:22.306Z",
-      "sourceDate": "2025-11-25T21:30:13-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
-      "discordThreadId": "1461074970720342104",
-      "instanceNumber": 1
-    },
-    {
-      "id": "edyy-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2002-job-14900-2026-01-14-1",
-      "jobId": "edyy-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2002-job-14900",
-      "company": "Sinclair",
-      "title": "Software Development Engineer - Level 1 - Direct-to-Consumer Streaming",
-      "postedToDiscord": "2026-01-14T19:10:27.281Z",
-      "sourceDate": "2025-11-26T00:26:11.000Z",
-      "sourceUrl": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/14900",
-      "discordThreadId": "1461074987493621933",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4562813008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4562813008",
-      "company": "anthropic",
-      "title": "Application Security Engineering Manager",
-      "postedToDiscord": "2026-01-14T19:10:31.087Z",
-      "sourceDate": "2025-11-25T16:55:47-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4562813008",
-      "discordThreadId": "1461075008179929395",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4897424008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4897424008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Cloud Security",
-      "postedToDiscord": "2026-01-14T19:10:34.856Z",
-      "sourceDate": "2025-11-25T16:54:54-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
-      "discordThreadId": "1461075024541650944",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-baesystems-com-global-en-job-bae1us118690brexternal-entry-level-software-engineer-2026-01-14-1",
-      "jobId": "jobs-baesystems-com-global-en-job-bae1us118690brexternal-entry-level-software-engineer",
-      "company": "BAE Systems",
-      "title": "Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-14T19:10:38.546Z",
-      "sourceDate": "2025-11-25T16:26:55.000Z",
-      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US118690BREXTERNAL/Entry-Level-Software-Engineer",
-      "discordThreadId": "1461075040589054074",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8330-2026-01-14-1",
-      "jobId": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-8330",
-      "company": "Fortive",
-      "title": "Operations Analyst",
-      "postedToDiscord": "2026-01-14T19:10:47.259Z",
-      "sourceDate": "2025-11-26T02:18:00.000Z",
-      "sourceUrl": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8330",
-      "discordThreadId": "1461075068380778702",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-thealleninstitute-jobs-7417128-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-thealleninstitute-jobs-7417128",
-      "company": "The Allen Institute for AI",
-      "title": "Young Investigator - Flexolmo",
-      "postedToDiscord": "2026-01-14T19:10:53.797Z",
-      "sourceDate": "2025-11-25T23:08:34.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128",
-      "discordThreadId": "1461075104728617123",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-2192a283-7051-43e8-a83b-1ca75d240c00-2026-01-14-1",
-      "jobId": "jobs-lever-co-nominal-2192a283-7051-43e8-a83b-1ca75d240c00",
-      "company": "nominal",
-      "title": "Brand Designer",
-      "postedToDiscord": "2026-01-14T19:10:57.274Z",
-      "sourceDate": "2025-11-25T16:23:57.548Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/2192a283-7051-43e8-a83b-1ca75d240c00",
-      "discordThreadId": "1461075119505015000",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8304667002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8304667002",
-      "company": "discord",
-      "title": "Software Engineer, Payments",
-      "postedToDiscord": "2026-01-14T19:11:03.795Z",
-      "sourceDate": "2025-11-25T17:44:28-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8304667002",
-      "discordThreadId": "1461075146407415820",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-bcg-com-global-en-job-55995-2026-01-14-1",
       "jobId": "careers-bcg-com-global-en-job-55995",
@@ -48139,14 +47974,324 @@
       "discordThreadId": "1463607439063781447",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a1aba8cebf967d76-2026-01-21-1",
+      "jobId": "a1aba8cebf967d76",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee - Energy Systems",
+      "postedToDiscord": "2026-01-21T19:17:50.899Z",
+      "sourceDate": "2025-12-07T05:47:52.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463613574395199490",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:17:50.899Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-energy-systems_420958-2026-01-21-1",
+      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-energy-systems_420958",
+      "company": "Argonne National Laboratory",
+      "title": "Postdoctoral Appointee - Energy Systems",
+      "postedToDiscord": "2026-01-21T19:17:52.438Z",
+      "sourceDate": "2025-12-07T05:47:52.000Z",
+      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958",
+      "discordThreadId": "1463613574395199490",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f52cff826018706a-2026-01-21-1",
+      "jobId": "f52cff826018706a",
+      "company": "Watts Water",
+      "title": "Engineering Support 1",
+      "postedToDiscord": "2026-01-21T19:17:52.808Z",
+      "sourceDate": "2025-12-06T22:47:39.000Z",
+      "sourceUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Franklin-NH/Engineering-Support-I_10015998-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463613590576693330",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:17:52.808Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463613598231433389",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:17:54.538Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1-2026-01-21-1",
+      "jobId": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1",
+      "company": "Watts Water",
+      "title": "Engineering Support 1",
+      "postedToDiscord": "2026-01-21T19:17:56.070Z",
+      "sourceDate": "2025-12-06T22:47:39.000Z",
+      "sourceUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Franklin-NH/Engineering-Support-I_10015998-1",
+      "discordThreadId": "1463613590576693330",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "57ff654270539c69-2026-01-21-1",
+      "jobId": "57ff654270539c69",
+      "company": "Fermilab",
+      "title": "Lederman Fellow",
+      "postedToDiscord": "2026-01-21T19:17:56.291Z",
+      "sourceDate": "2025-12-06T18:53:06.000Z",
+      "sourceUrl": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Lederman-Fellow_R_008876",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463613605210624154",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:17:56.291Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "fermilab-wd5-myworkdayjobs-com-fermilabcareers-job-batavia-lederman-fellow_r_008876-2026-01-21-1",
+      "jobId": "fermilab-wd5-myworkdayjobs-com-fermilabcareers-job-batavia-lederman-fellow_r_008876",
+      "company": "Fermilab",
+      "title": "Lederman Fellow",
+      "postedToDiscord": "2026-01-21T19:17:57.820Z",
+      "sourceDate": "2025-12-06T18:53:06.000Z",
+      "sourceUrl": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Lederman-Fellow_R_008876",
+      "discordThreadId": "1463613605210624154",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "546292a4de27f586-2026-01-21-1",
+      "jobId": "546292a4de27f586",
+      "company": "Caesars Entertainment",
+      "title": "Analyst 1",
+      "postedToDiscord": "2026-01-21T19:17:58.036Z",
+      "sourceDate": "2025-12-06T05:17:13.000Z",
+      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76888",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463613612567298163",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:17:58.036Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463613620050067548",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:17:59.723Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-76888-2026-01-21-1",
+      "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-76888",
+      "company": "Caesars Entertainment",
+      "title": "Analyst 1",
+      "postedToDiscord": "2026-01-21T19:18:01.258Z",
+      "sourceDate": "2025-12-06T05:17:13.000Z",
+      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76888",
+      "discordThreadId": "1463613612567298163",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b8a1437e3a3af24a-2026-01-21-1",
+      "jobId": "b8a1437e3a3af24a",
+      "company": "Leidos",
+      "title": "Entry Level Graphics Software Developer",
+      "postedToDiscord": "2026-01-21T19:18:01.534Z",
+      "sourceDate": "2025-12-06T03:31:58.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463613627373195507",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:18:01.534Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463613634377814070",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:18:04.631Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-wd5-myworkdayjobs-com-external-job-bethesda-md-entry-level-graphics-software-developer_r-00171511-2026-01-21-1",
+      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-bethesda-md-entry-level-graphics-software-developer_r-00171511",
+      "company": "Leidos",
+      "title": "Entry Level Graphics Software Developer",
+      "postedToDiscord": "2026-01-21T19:18:06.160Z",
+      "sourceDate": "2025-12-06T03:31:58.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511",
+      "discordThreadId": "1463613627373195507",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b08ac1b22923d22d-2026-01-21-1",
+      "jobId": "b08ac1b22923d22d",
+      "company": "anthropic",
+      "title": "Security Engineer, Operating Systems",
+      "postedToDiscord": "2026-01-21T19:18:06.400Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463613647711502534",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:18:06.400Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4929693008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929693008",
+      "company": "anthropic",
+      "title": "Security Engineer, Operating Systems",
+      "postedToDiscord": "2026-01-21T19:18:07.931Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
+      "discordThreadId": "1463613647711502534",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9a9a9cd09f82e448-2026-01-21-1",
+      "jobId": "9a9a9cd09f82e448",
+      "company": "anthropic",
+      "title": "Systems Integrity Security Architect",
+      "postedToDiscord": "2026-01-21T19:18:08.159Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463613655353524330",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:18:08.159Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4929689008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929689008",
+      "company": "anthropic",
+      "title": "Systems Integrity Security Architect",
+      "postedToDiscord": "2026-01-21T19:18:09.688Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
+      "discordThreadId": "1463613655353524330",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "568ae2adf35eed48-2026-01-21-1",
+      "jobId": "568ae2adf35eed48",
+      "company": "MatX",
+      "title": "Software Engineer - Simulators",
+      "postedToDiscord": "2026-01-21T19:18:12.958Z",
+      "sourceDate": "2025-12-06T06:19:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/matx/jobs/4102858008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463613675322478785",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:18:12.958Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-matx-jobs-4102858008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-matx-jobs-4102858008",
+      "company": "MatX",
+      "title": "Software Engineer - Simulators",
+      "postedToDiscord": "2026-01-21T19:18:14.486Z",
+      "sourceDate": "2025-12-06T06:19:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/matx/jobs/4102858008",
+      "discordThreadId": "1463613675322478785",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "edc9cc352c9d0b67-2026-01-21-1",
+      "jobId": "edc9cc352c9d0b67",
+      "company": "Walmart",
+      "title": "Senior – Data Scientist",
+      "postedToDiscord": "2026-01-21T19:18:14.962Z",
+      "sourceDate": "2025-12-06T03:46:52.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2367375-1",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463613682553454666",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:18:14.962Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463613690732482582",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:18:16.709Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2367375-1-2026-01-21-1",
+      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2367375-1",
+      "company": "Walmart",
+      "title": "Senior – Data Scientist",
+      "postedToDiscord": "2026-01-21T19:18:18.239Z",
+      "sourceDate": "2025-12-06T03:46:52.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2367375-1",
+      "discordThreadId": "1463613682553454666",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ab56c50d7c5026d6-2026-01-21-1",
+      "jobId": "ab56c50d7c5026d6",
+      "company": "anthropic",
+      "title": "Corporate Communications Manager ",
+      "postedToDiscord": "2026-01-21T19:18:18.715Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463613699020427386",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:18:18.715Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017818008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017818008",
+      "company": "anthropic",
+      "title": "Corporate Communications Manager ",
+      "postedToDiscord": "2026-01-21T19:18:20.243Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
+      "discordThreadId": "1463613699020427386",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3731,
+    "totalJobs": 3736,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T18:53:27.676Z",
+      "date": "2026-01-21T19:18:20.244Z",
       "archived": 0
     }
   }
