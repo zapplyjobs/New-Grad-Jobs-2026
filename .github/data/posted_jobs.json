@@ -1,227 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T01:40:39.210Z",
+  "lastUpdated": "2026-01-21T02:37:54.651Z",
   "jobs": [
-    {
-      "id": "www-qualtrics-com-careers-us-en-job-7445366-2026-01-14-1",
-      "jobId": "www-qualtrics-com-careers-us-en-job-7445366",
-      "company": "Qualtrics",
-      "title": "Data Scientist - People Analytics",
-      "postedToDiscord": "2026-01-14T02:00:54.304Z",
-      "sourceDate": "2025-12-10T16:27:04.000Z",
-      "sourceUrl": "https://www.qualtrics.com/careers/us/en/job/7445366?gh_jid=7445366",
-      "discordThreadId": "1460815899018662174",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7704446002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7704446002",
-      "company": "brex",
-      "title": "Account Executive, Mid Market",
-      "postedToDiscord": "2026-01-14T02:01:00.920Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7704446002?gh_jid=7704446002",
-      "discordThreadId": "1460815926483222693",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7704415002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7704415002",
-      "company": "brex",
-      "title": "Account Executive, Mid Market",
-      "postedToDiscord": "2026-01-14T02:01:00.932Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7704415002?gh_jid=7704415002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8177687002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8177687002",
-      "company": "brex",
-      "title": "Accounting Channel Partnerships Manager",
-      "postedToDiscord": "2026-01-14T02:01:04.505Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8177687002?gh_jid=8177687002",
-      "discordThreadId": "1460815941276270815",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8177660002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8177660002",
-      "company": "brex",
-      "title": "Accounting Channel Partnerships Manager",
-      "postedToDiscord": "2026-01-14T02:01:04.514Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8177660002?gh_jid=8177660002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8303858002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8303858002",
-      "company": "brex",
-      "title": " Accounting Manager, Legal Entity Controllership",
-      "postedToDiscord": "2026-01-14T02:01:08.128Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8303858002?gh_jid=8303858002",
-      "discordThreadId": "1460815955948208364",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8303852002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8303852002",
-      "company": "brex",
-      "title": "Accounting Manager, Legal Entity Controllership",
-      "postedToDiscord": "2026-01-14T02:01:08.138Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8303852002?gh_jid=8303852002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8302391002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8302391002",
-      "company": "brex",
-      "title": "Accounting Manager, Legal Entity Controllership",
-      "postedToDiscord": "2026-01-14T02:01:08.146Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8302391002?gh_jid=8302391002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8303855002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8303855002",
-      "company": "brex",
-      "title": "Accounting Manager, Legal Entity Controllership",
-      "postedToDiscord": "2026-01-14T02:01:08.153Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8303855002?gh_jid=8303855002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8106987002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8106987002",
-      "company": "brex",
-      "title": "Banking Specialist",
-      "postedToDiscord": "2026-01-14T02:01:11.816Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8106987002?gh_jid=8106987002",
-      "discordThreadId": "1460815971638841448",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8106949002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8106949002",
-      "company": "brex",
-      "title": "Banking Specialist",
-      "postedToDiscord": "2026-01-14T02:01:11.825Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8106949002?gh_jid=8106949002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8178537002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8178537002",
-      "company": "brex",
-      "title": "Commercial Account Executive",
-      "postedToDiscord": "2026-01-14T02:01:15.278Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8178537002?gh_jid=8178537002",
-      "discordThreadId": "1460815986981736449",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8178541002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8178541002",
-      "company": "brex",
-      "title": "Commercial Account Executive",
-      "postedToDiscord": "2026-01-14T02:01:15.287Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8178541002?gh_jid=8178541002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8178538002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8178538002",
-      "company": "brex",
-      "title": "Commercial Account Executive",
-      "postedToDiscord": "2026-01-14T02:01:15.295Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8178538002?gh_jid=8178538002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8178536002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8178536002",
-      "company": "brex",
-      "title": "Commercial Account Executive",
-      "postedToDiscord": "2026-01-14T02:01:15.303Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8178536002?gh_jid=8178536002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8066812002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8066812002",
-      "company": "brex",
-      "title": "Director, Mid Market Sales",
-      "postedToDiscord": "2026-01-14T02:01:18.749Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8066812002?gh_jid=8066812002",
-      "discordThreadId": "1460816001380782144",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8316338002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8316338002",
-      "company": "brex",
-      "title": "Associate Technical Consultant",
-      "postedToDiscord": "2026-01-14T02:01:25.296Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8316338002?gh_jid=8316338002",
-      "discordThreadId": "1460816028438364235",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8316257002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8316257002",
-      "company": "brex",
-      "title": "Compliance Manager (Card & Rewards)",
-      "postedToDiscord": "2026-01-14T02:01:28.998Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8316257002?gh_jid=8316257002",
-      "discordThreadId": "1460816043433005233",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8316256002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8316256002",
-      "company": "brex",
-      "title": "Compliance Manager (Card & Rewards)",
-      "postedToDiscord": "2026-01-14T02:01:29.009Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8316256002?gh_jid=8316256002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8316251002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8316251002",
-      "company": "brex",
-      "title": "Compliance Manager (Card & Rewards)",
-      "postedToDiscord": "2026-01-14T02:01:29.018Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8316251002?gh_jid=8316251002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "www-brex-com-careers-8066813002-2026-01-14-1",
       "jobId": "www-brex-com-careers-8066813002",
@@ -37322,14 +37102,384 @@
       "discordThreadId": "1463347524873228288",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "8347de206bea233c-2026-01-21-1",
+      "jobId": "8347de206bea233c",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Southeast",
+      "postedToDiscord": "2026-01-21T02:37:24.120Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4847421007",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463361812203311184",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:24.120Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4847421007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4847421007",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Southeast",
+      "postedToDiscord": "2026-01-21T02:37:25.658Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4847421007",
+      "discordThreadId": "1463361812203311184",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b2d1955105ea9f1d-2026-01-21-1",
+      "jobId": "b2d1955105ea9f1d",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Southern California",
+      "postedToDiscord": "2026-01-21T02:37:25.943Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185319007",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463361819635744882",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:25.943Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4185319007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4185319007",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Southern California",
+      "postedToDiscord": "2026-01-21T02:37:27.467Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185319007",
+      "discordThreadId": "1463361819635744882",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "310c63c636f32536-2026-01-21-1",
+      "jobId": "310c63c636f32536",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, West Coast",
+      "postedToDiscord": "2026-01-21T02:37:27.689Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4834059007",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463361827307262065",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:27.689Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4834059007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4834059007",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, West Coast",
+      "postedToDiscord": "2026-01-21T02:37:29.214Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4834059007",
+      "discordThreadId": "1463361827307262065",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "afdb2e4a3239dc57-2026-01-21-1",
+      "jobId": "afdb2e4a3239dc57",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-21T02:37:29.455Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945152007",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463361834332721276",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:29.455Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463361841882333387",
+          "channelType": "location",
+          "postedAt": "2026-01-21T02:37:31.137Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4945152007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4945152007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-21T02:37:32.658Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945152007",
+      "discordThreadId": "1463361834332721276",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949035007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949035007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-21T02:37:32.683Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949035007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4985491007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4985491007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-21T02:37:32.705Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4985491007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949024007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949024007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-21T02:37:32.727Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949024007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949027007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949027007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-21T02:37:32.746Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949027007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4949028007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949028007",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-21T02:37:32.766Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949028007",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "911d9bdffc96172b-2026-01-21-1",
+      "jobId": "911d9bdffc96172b",
+      "company": "verkada",
+      "title": "Solutions Engineer",
+      "postedToDiscord": "2026-01-21T02:37:32.921Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087164007",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463361849260118049",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:32.921Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4087164007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4087164007",
+      "company": "verkada",
+      "title": "Solutions Engineer",
+      "postedToDiscord": "2026-01-21T02:37:34.442Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087164007",
+      "discordThreadId": "1463361849260118049",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c890e919af7d2999-2026-01-21-1",
+      "jobId": "c890e919af7d2999",
+      "company": "verkada",
+      "title": "Solutions Engineering Manager, Select & Territory",
+      "postedToDiscord": "2026-01-21T02:37:34.619Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463361856096960548",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:34.619Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463361863667548346",
+          "channelType": "location",
+          "postedAt": "2026-01-21T02:37:36.393Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4185105007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4185105007",
+      "company": "verkada",
+      "title": "Solutions Engineering Manager, Select & Territory",
+      "postedToDiscord": "2026-01-21T02:37:37.915Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
+      "discordThreadId": "1463361856096960548",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "79cd72bc928fd7cb-2026-01-21-1",
+      "jobId": "79cd72bc928fd7cb",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Midwest",
+      "postedToDiscord": "2026-01-21T02:37:41.314Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463361884333015211",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:41.314Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4824487007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4824487007",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Midwest",
+      "postedToDiscord": "2026-01-21T02:37:42.836Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
+      "discordThreadId": "1463361884333015211",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "acbb8b55c28bed90-2026-01-21-1",
+      "jobId": "acbb8b55c28bed90",
+      "company": "verkada",
+      "title": "Regional Sales Manager, Mid-Market",
+      "postedToDiscord": "2026-01-21T02:37:46.126Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4387668007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463361904536719474",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:46.126Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4387668007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4387668007",
+      "company": "verkada",
+      "title": "Regional Sales Manager, Mid-Market",
+      "postedToDiscord": "2026-01-21T02:37:47.649Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4387668007",
+      "discordThreadId": "1463361904536719474",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c0e6517a4dcc8305-2026-01-21-1",
+      "jobId": "c0e6517a4dcc8305",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), New York City ",
+      "postedToDiscord": "2026-01-21T02:37:47.885Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463361911944122378",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:47.885Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463361919196074005",
+          "channelType": "location",
+          "postedAt": "2026-01-21T02:37:49.598Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4520965007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4520965007",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), New York City ",
+      "postedToDiscord": "2026-01-21T02:37:51.120Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
+      "discordThreadId": "1463361911944122378",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9dd5a647c910eca1-2026-01-21-1",
+      "jobId": "9dd5a647c910eca1",
+      "company": "verkada",
+      "title": "Senior Channel Marketing Manager, Northeast (Remote)",
+      "postedToDiscord": "2026-01-21T02:37:51.413Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4648144007",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463361926456148194",
+          "channelType": "category",
+          "postedAt": "2026-01-21T02:37:51.413Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463361933901172799",
+          "channelType": "location",
+          "postedAt": "2026-01-21T02:37:53.129Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-verkada-jobs-4648144007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-verkada-jobs-4648144007",
+      "company": "verkada",
+      "title": "Senior Channel Marketing Manager, Northeast (Remote)",
+      "postedToDiscord": "2026-01-21T02:37:54.651Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4648144007",
+      "discordThreadId": "1463361926456148194",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3084,
+    "totalJobs": 3089,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T01:40:39.210Z",
+      "date": "2026-01-21T02:37:54.651Z",
       "archived": 0
     }
   }
