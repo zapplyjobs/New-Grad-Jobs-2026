@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T20:19:18.452Z",
+  "lastUpdated": "2026-01-21T20:36:28.771Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4934660008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4934660008",
-      "company": "anthropic",
-      "title": "Head of GTM Narrative ",
-      "postedToDiscord": "2026-01-14T20:26:22.807Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4934660008",
-      "discordThreadId": "1461094100739817536",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4930325008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4930325008",
-      "company": "anthropic",
-      "title": "Head of Product Communications",
-      "postedToDiscord": "2026-01-14T20:26:26.233Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930325008",
-      "discordThreadId": "1461094115466018868",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4914907008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4914907008",
-      "company": "anthropic",
-      "title": "Manager, Customer Success",
-      "postedToDiscord": "2026-01-14T20:26:30.388Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
-      "discordThreadId": "1461094131353915615",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4947472008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4947472008",
-      "company": "anthropic",
-      "title": "Manager of Associate Solutions Architects",
-      "postedToDiscord": "2026-01-14T20:26:34.023Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4947472008",
-      "discordThreadId": "1461094147078361182",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4884644008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4884644008",
-      "company": "anthropic",
-      "title": "Manager, Sales Development",
-      "postedToDiscord": "2026-01-14T20:26:37.688Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4884644008",
-      "discordThreadId": "1461094162219929773",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4931772008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4931772008",
-      "company": "anthropic",
-      "title": "Mid-Market Account Executive, Industries",
-      "postedToDiscord": "2026-01-14T20:26:40.975Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4931772008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4985873008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985873008",
-      "company": "anthropic",
-      "title": "Portfolio Activation Manager",
-      "postedToDiscord": "2026-01-14T20:26:44.883Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985873008",
-      "discordThreadId": "1461094191718465782",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4933813008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4933813008",
-      "company": "anthropic",
-      "title": "Lead Product Manager, Research",
-      "postedToDiscord": "2026-01-14T20:26:51.429Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933813008",
-      "discordThreadId": "1461094220579213363",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4952079008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4952079008",
-      "company": "anthropic",
-      "title": "Machine Learning Systems Engineer, Research Tools",
-      "postedToDiscord": "2026-01-14T20:26:57.906Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
-      "discordThreadId": "1461094248177729822",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4973175008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973175008",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Public Sector, Applied AI",
-      "postedToDiscord": "2026-01-14T20:27:01.396Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973175008",
-      "discordThreadId": "1461094262723711160",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4980527008-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980527008",
@@ -49100,14 +48990,334 @@
       "discordThreadId": "1463629042560401418",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "61f530708ca746ce-2026-01-21-1",
+      "jobId": "61f530708ca746ce",
+      "company": "anthropic",
+      "title": "RevOps Reporting & Insights Analyst",
+      "postedToDiscord": "2026-01-21T20:35:54.490Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463633226814722181",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:35:54.490Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015565008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015565008",
+      "company": "anthropic",
+      "title": "RevOps Reporting & Insights Analyst",
+      "postedToDiscord": "2026-01-21T20:35:56.028Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
+      "discordThreadId": "1463633226814722181",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bb1aa88453bec2d4-2026-01-21-1",
+      "jobId": "bb1aa88453bec2d4",
+      "company": "vercel",
+      "title": "Mobile Engineer",
+      "postedToDiscord": "2026-01-21T20:35:56.321Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463633234700009593",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:35:56.321Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463633242442698802",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:35:58.199Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5719796004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5719796004",
+      "company": "vercel",
+      "title": "Mobile Engineer",
+      "postedToDiscord": "2026-01-21T20:35:59.727Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
+      "discordThreadId": "1463633234700009593",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3349348c3dc8eda2-2026-01-21-1",
+      "jobId": "3349348c3dc8eda2",
+      "company": "Commerce Architects",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T20:35:59.950Z",
+      "sourceDate": "2025-12-03T02:12:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463633250277789802",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:35:59.950Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-commercearchitects-ec4bd3b5-3219-4524-805a-d9dff354c5ec-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-commercearchitects-ec4bd3b5-3219-4524-805a-d9dff354c5ec-apply",
+      "company": "Commerce Architects",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T20:36:01.478Z",
+      "sourceDate": "2025-12-03T02:12:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply",
+      "discordThreadId": "1463633250277789802",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6cfadfe423187b12-2026-01-21-1",
+      "jobId": "6cfadfe423187b12",
+      "company": "mthree",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-21T20:36:01.681Z",
+      "sourceDate": "2025-12-03T01:35:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463633257559228518",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:36:01.681Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4622541006-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4622541006",
+      "company": "mthree",
+      "title": "Java Developer",
+      "postedToDiscord": "2026-01-21T20:36:03.207Z",
+      "sourceDate": "2025-12-03T01:35:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006",
+      "discordThreadId": "1463633257559228518",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "03c8b7dbdaa3d9de-2026-01-21-1",
+      "jobId": "03c8b7dbdaa3d9de",
+      "company": "figma",
+      "title": "Inside Sales Representative - Early Career (2026)",
+      "postedToDiscord": "2026-01-21T20:36:03.453Z",
+      "sourceDate": "2025-12-02T20:29:41-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726175004?gh_jid=5726175004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463633264865575057",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:36:03.453Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463633271840833620",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:36:05.182Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5726175004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5726175004",
+      "company": "figma",
+      "title": "Inside Sales Representative - Early Career (2026)",
+      "postedToDiscord": "2026-01-21T20:36:06.712Z",
+      "sourceDate": "2025-12-02T20:29:41-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726175004?gh_jid=5726175004",
+      "discordThreadId": "1463633264865575057",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ffa671d7c67d2217-2026-01-21-1",
+      "jobId": "ffa671d7c67d2217",
+      "company": "PermitFlow",
+      "title": "Full Stack Software Engineer Graduate",
+      "postedToDiscord": "2026-01-21T20:36:06.935Z",
+      "sourceDate": "2025-12-02T23:14:47.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/permitflow/7fab96f1-04a1-4c33-81d5-f254271c83b6/application",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463633279449300992",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:36:06.935Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463633286445400208",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:36:08.659Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-permitflow-7fab96f1-04a1-4c33-81d5-f254271c83b6-application-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-permitflow-7fab96f1-04a1-4c33-81d5-f254271c83b6-application",
+      "company": "PermitFlow",
+      "title": "Full Stack Software Engineer Graduate",
+      "postedToDiscord": "2026-01-21T20:36:10.185Z",
+      "sourceDate": "2025-12-02T23:14:47.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/permitflow/7fab96f1-04a1-4c33-81d5-f254271c83b6/application",
+      "discordThreadId": "1463633279449300992",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ee0a9f4badcfaeb8-2026-01-21-1",
+      "jobId": "ee0a9f4badcfaeb8",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Tech 1 – Mapping",
+      "postedToDiscord": "2026-01-21T20:36:10.471Z",
+      "sourceDate": "2025-12-02T23:04:39.000Z",
+      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463633293797884019",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:36:10.471Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463633301188120761",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:36:12.263Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003893-2026-01-21-1",
+      "jobId": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003893",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Tech 1 – Mapping",
+      "postedToDiscord": "2026-01-21T20:36:13.790Z",
+      "sourceDate": "2025-12-02T23:04:39.000Z",
+      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893",
+      "discordThreadId": "1463633293797884019",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "562454cec2b487f7-2026-01-21-1",
+      "jobId": "562454cec2b487f7",
+      "company": "SageSure",
+      "title": "Associate Data Analyst",
+      "postedToDiscord": "2026-01-21T20:36:17.081Z",
+      "sourceDate": "2025-12-03T01:12:26.000Z",
+      "sourceUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4620339006",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463633322134602030",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:36:17.081Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463633329235427440",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:36:18.761Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-sagesure-com-careers-current-job-openings-2026-01-21-1",
+      "jobId": "www-sagesure-com-careers-current-job-openings",
+      "company": "SageSure",
+      "title": "Associate Data Analyst",
+      "postedToDiscord": "2026-01-21T20:36:20.291Z",
+      "sourceDate": "2025-12-03T01:12:26.000Z",
+      "sourceUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4620339006",
+      "discordThreadId": "1463633322134602030",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4e690d59fcf33a05-2026-01-21-1",
+      "jobId": "4e690d59fcf33a05",
+      "company": "Motional",
+      "title": "Machine Learning Engineer - Prediction",
+      "postedToDiscord": "2026-01-21T20:36:23.548Z",
+      "sourceDate": "2025-12-03T00:41:07.000Z",
+      "sourceUrl": "https://motional.com/open-positions/?gh_jid=7545187003#/7545187003",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463633349301239818",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:36:23.548Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "motional-com-open-positions-2026-01-21-1",
+      "jobId": "motional-com-open-positions",
+      "company": "Motional",
+      "title": "Machine Learning Engineer - Prediction",
+      "postedToDiscord": "2026-01-21T20:36:25.079Z",
+      "sourceDate": "2025-12-03T00:41:07.000Z",
+      "sourceUrl": "https://motional.com/open-positions/?gh_jid=7545187003#/7545187003",
+      "discordThreadId": "1463633349301239818",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d25682443af2da58-2026-01-21-1",
+      "jobId": "d25682443af2da58",
+      "company": "Regal",
+      "title": "AI Product Specialist",
+      "postedToDiscord": "2026-01-21T20:36:25.555Z",
+      "sourceDate": "2025-12-02T23:16:53.000Z",
+      "sourceUrl": "https://jobs.lever.co/regalvoice/a0291985-c8cf-41f4-88c1-3a150d1aeb24/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463633356972622059",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:36:25.555Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463633364803256433",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:36:27.244Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-regalvoice-a0291985-c8cf-41f4-88c1-3a150d1aeb24-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-regalvoice-a0291985-c8cf-41f4-88c1-3a150d1aeb24-apply",
+      "company": "Regal",
+      "title": "AI Product Specialist",
+      "postedToDiscord": "2026-01-21T20:36:28.771Z",
+      "sourceDate": "2025-12-02T23:16:53.000Z",
+      "sourceUrl": "https://jobs.lever.co/regalvoice/a0291985-c8cf-41f4-88c1-3a150d1aeb24/apply",
+      "discordThreadId": "1463633356972622059",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3777,
+    "totalJobs": 3787,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T20:19:18.452Z",
+      "date": "2026-01-21T20:36:28.771Z",
       "archived": 0
     }
   }
