@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T16:33:47.538Z",
+  "lastUpdated": "2026-01-21T17:33:13.838Z",
   "jobs": [
-    {
-      "id": "astemo-wd102-myworkdayjobs-com-global_career_site-job-farmington-hills-michigan-united-states-new-graduate-engineering-development-program-edp-_r0068868-2026-01-14-1",
-      "jobId": "astemo-wd102-myworkdayjobs-com-global_career_site-job-farmington-hills-michigan-united-states-new-graduate-engineering-development-program-edp-_r0068868",
-      "company": "Astemo",
-      "title": "Graduate Engineering Development Program",
-      "postedToDiscord": "2026-01-14T16:47:03.069Z",
-      "sourceDate": "2025-11-27T23:11:51.000Z",
-      "sourceUrl": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868",
-      "discordThreadId": "1461038905343086705",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5011703008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5011703008",
-      "company": "anthropic",
-      "title": "Corporate Legal Specialist",
-      "postedToDiscord": "2026-01-14T16:47:12.788Z",
-      "sourceDate": "2025-11-28T15:13:21-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5011703008",
-      "discordThreadId": "1461038945969246290",
-      "instanceNumber": 1
-    },
-    {
-      "id": "chevron-wd5-myworkdayjobs-com-university-job-houston-texas-united-states-of-america-xmlname-2024-2025-earth-scientist-full-time_r000064567-2026-01-14-1",
-      "jobId": "chevron-wd5-myworkdayjobs-com-university-job-houston-texas-united-states-of-america-xmlname-2024-2025-earth-scientist-full-time_r000064567",
-      "company": "Chevron Corporation",
-      "title": "Earth Scientist",
-      "postedToDiscord": "2026-01-14T16:47:19.212Z",
-      "sourceDate": "2025-11-28T03:42:47.000Z",
-      "sourceUrl": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567",
-      "discordThreadId": "1461038972842147872",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-exkk-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-1167-2026-01-14-1",
-      "jobId": "fa-exkk-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-1167",
-      "company": "Arlington County VA",
-      "title": "Engineering Support Associate",
-      "postedToDiscord": "2026-01-14T17:01:30.351Z",
-      "sourceDate": "2025-11-28T21:50:53.000Z",
-      "sourceUrl": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5013743008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5013743008",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Data Center Infrastructure",
-      "postedToDiscord": "2026-01-14T17:01:34.069Z",
-      "sourceDate": "2025-11-28T15:16:03-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
-      "discordThreadId": "1461042557663318121",
-      "instanceNumber": 1
-    },
-    {
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-research-engineering-scientist-associate-i-ii-or-iii_r_00040412-2026-01-14-1",
-      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-research-engineering-scientist-associate-i-ii-or-iii_r_00040412",
-      "company": "University of Texas - Austin",
-      "title": "Research Engineering/Scientist Associate 1",
-      "postedToDiscord": "2026-01-14T17:27:17.019Z",
-      "sourceDate": "2025-11-30T23:35:23.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412",
-      "discordThreadId": "1461049029537562808",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-clear-jobs-7403318-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-clear-jobs-7403318",
@@ -47145,14 +47079,314 @@
       "discordThreadId": "1463572290187821148",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a21ec0360b3b7dc9-2026-01-21-1",
+      "jobId": "a21ec0360b3b7dc9",
+      "company": "Cadence Design Systems",
+      "title": "Application Engineer",
+      "postedToDiscord": "2026-01-21T17:32:46.537Z",
+      "sourceDate": "2025-12-10T14:40:31.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463587139999502454",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:32:46.537Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105-2026-01-21-1",
+      "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105",
+      "company": "Cadence Design Systems",
+      "title": "Application Engineer",
+      "postedToDiscord": "2026-01-21T17:32:48.078Z",
+      "sourceDate": "2025-12-10T14:40:31.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105",
+      "discordThreadId": "1463587139999502454",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "22b67685631e3673-2026-01-21-1",
+      "jobId": "22b67685631e3673",
+      "company": "VCU Health",
+      "title": "AI Engineer 2",
+      "postedToDiscord": "2026-01-21T17:32:51.378Z",
+      "sourceDate": "2025-12-10T14:29:15.000Z",
+      "sourceUrl": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Remote/AI-Engineer-II_R40510",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463587160484610124",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:32:51.378Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-remote-ai-engineer-ii_r40510-2026-01-21-1",
+      "jobId": "vcuhealth-wd1-myworkdayjobs-com-vcuhealth_careers-job-remote-ai-engineer-ii_r40510",
+      "company": "VCU Health",
+      "title": "AI Engineer 2",
+      "postedToDiscord": "2026-01-21T17:32:52.907Z",
+      "sourceDate": "2025-12-10T14:29:15.000Z",
+      "sourceUrl": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Remote/AI-Engineer-II_R40510",
+      "discordThreadId": "1463587160484610124",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0198bdaa0f2eb196-2026-01-21-1",
+      "jobId": "0198bdaa0f2eb196",
+      "company": "Scale AI",
+      "title": "Vibe Marketer",
+      "postedToDiscord": "2026-01-21T17:32:53.180Z",
+      "sourceDate": "2025-12-10T09:40:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463587168269369487",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:32:53.180Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-scaleai-jobs-4638305005-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-scaleai-jobs-4638305005",
+      "company": "Scale AI",
+      "title": "Vibe Marketer",
+      "postedToDiscord": "2026-01-21T17:32:54.705Z",
+      "sourceDate": "2025-12-10T09:40:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
+      "discordThreadId": "1463587168269369487",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7ef8c2dd4a0e680f-2026-01-21-1",
+      "jobId": "7ef8c2dd4a0e680f",
+      "company": "NVIDIA",
+      "title": "Research Scientist – New College Grad 2026 - Embodied and Agentic AI",
+      "postedToDiscord": "2026-01-21T17:32:55.014Z",
+      "sourceDate": "2025-12-10T08:48:53.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463587175642955817",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:32:55.014Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464-2026-01-21-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464",
+      "company": "NVIDIA",
+      "title": "Research Scientist – New College Grad 2026 - Embodied and Agentic AI",
+      "postedToDiscord": "2026-01-21T17:32:56.547Z",
+      "sourceDate": "2025-12-10T08:48:53.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+      "discordThreadId": "1463587175642955817",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9990038b87bab02f-2026-01-21-1",
+      "jobId": "9990038b87bab02f",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Portuguese Speaking",
+      "postedToDiscord": "2026-01-21T17:32:56.759Z",
+      "sourceDate": "2025-12-09T17:11:54-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733496004?gh_jid=5733496004",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463587183037518018",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:32:56.759Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5733496004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5733496004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Portuguese Speaking",
+      "postedToDiscord": "2026-01-21T17:32:58.288Z",
+      "sourceDate": "2025-12-09T17:11:54-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733496004?gh_jid=5733496004",
+      "discordThreadId": "1463587183037518018",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d6b8fb9132a1a7ab-2026-01-21-1",
+      "jobId": "d6b8fb9132a1a7ab",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Korean Speaking",
+      "postedToDiscord": "2026-01-21T17:32:58.488Z",
+      "sourceDate": "2025-12-09T17:11:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733495004?gh_jid=5733495004",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463587190620819551",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:32:58.488Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5733495004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5733495004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Korean Speaking",
+      "postedToDiscord": "2026-01-21T17:33:00.024Z",
+      "sourceDate": "2025-12-09T17:11:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733495004?gh_jid=5733495004",
+      "discordThreadId": "1463587190620819551",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5e377243a05e41d3-2026-01-21-1",
+      "jobId": "5e377243a05e41d3",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Japanese Speaking",
+      "postedToDiscord": "2026-01-21T17:33:00.252Z",
+      "sourceDate": "2025-12-09T17:11:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728959004?gh_jid=5728959004",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463587197809594420",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:33:00.252Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5728959004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5728959004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Japanese Speaking",
+      "postedToDiscord": "2026-01-21T17:33:01.785Z",
+      "sourceDate": "2025-12-09T17:11:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728959004?gh_jid=5728959004",
+      "discordThreadId": "1463587197809594420",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b84a5ddcb039ac13-2026-01-21-1",
+      "jobId": "b84a5ddcb039ac13",
+      "company": "Pathward",
+      "title": "Data Scientist 1",
+      "postedToDiscord": "2026-01-21T17:33:05.059Z",
+      "sourceDate": "2025-12-10T09:59:38.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pathward/jobs/5722623004",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463587218286182542",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:33:05.059Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463587225681006735",
+          "channelType": "location",
+          "postedAt": "2026-01-21T17:33:06.870Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-pathward-jobs-5722623004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-pathward-jobs-5722623004",
+      "company": "Pathward",
+      "title": "Data Scientist 1",
+      "postedToDiscord": "2026-01-21T17:33:08.395Z",
+      "sourceDate": "2025-12-10T09:59:38.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pathward/jobs/5722623004",
+      "discordThreadId": "1463587218286182542",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4060b473bd4870e6-2026-01-21-1",
+      "jobId": "4060b473bd4870e6",
+      "company": "Quest Global",
+      "title": "Data Analyst - Python/SQL + Finance knowledge",
+      "postedToDiscord": "2026-01-21T17:33:08.871Z",
+      "sourceDate": "2025-12-10T09:35:56.000Z",
+      "sourceUrl": "https://careers.quest-global.com/global/en/job/P-113946",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463587233444659395",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:33:08.871Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-quest-global-com-global-en-job-p-113946-2026-01-21-1",
+      "jobId": "careers-quest-global-com-global-en-job-p-113946",
+      "company": "Quest Global",
+      "title": "Data Analyst - Python/SQL + Finance knowledge",
+      "postedToDiscord": "2026-01-21T17:33:10.399Z",
+      "sourceDate": "2025-12-10T09:35:56.000Z",
+      "sourceUrl": "https://careers.quest-global.com/global/en/job/P-113946",
+      "discordThreadId": "1463587233444659395",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "625ac356ced26d54-2026-01-21-1",
+      "jobId": "625ac356ced26d54",
+      "company": "Sierra Nevada Corporation",
+      "title": "Business Intelligence Developer 1",
+      "postedToDiscord": "2026-01-21T17:33:10.593Z",
+      "sourceDate": "2025-12-10T08:48:35.000Z",
+      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Business-Intelligence-Developer-I_R0028996-1",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463587241359179942",
+          "channelType": "category",
+          "postedAt": "2026-01-21T17:33:10.593Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463587248632103016",
+          "channelType": "location",
+          "postedAt": "2026-01-21T17:33:12.312Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "snc-wd1-myworkdayjobs-com-snc_external_career_site-job-sparks-nv-business-intelligence-developer-i_r0028996-1-2026-01-21-1",
+      "jobId": "snc-wd1-myworkdayjobs-com-snc_external_career_site-job-sparks-nv-business-intelligence-developer-i_r0028996-1",
+      "company": "Sierra Nevada Corporation",
+      "title": "Business Intelligence Developer 1",
+      "postedToDiscord": "2026-01-21T17:33:13.838Z",
+      "sourceDate": "2025-12-10T08:48:35.000Z",
+      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Business-Intelligence-Developer-I_R0028996-1",
+      "discordThreadId": "1463587241359179942",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3672,
+    "totalJobs": 3686,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T16:33:47.538Z",
+      "date": "2026-01-21T17:33:13.838Z",
       "archived": 0
     }
   }
