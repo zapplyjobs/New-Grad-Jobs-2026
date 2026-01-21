@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T15:51:38.741Z",
+  "lastUpdated": "2026-01-21T16:16:37.438Z",
   "jobs": [
-    {
-      "id": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507-2026-01-14-1",
-      "jobId": "ucf-wd1-myworkdayjobs-com-careers-job-orlando-fl-main-campus-assistant-professor-renewable-energy-and-chemical-transformations_r111507",
-      "company": "University of Central Florida",
-      "title": "Assistant Professor - Renewable Energy and Chemical Transformations",
-      "postedToDiscord": "2026-01-14T16:07:43.039Z",
-      "sourceDate": "2025-11-30T07:46:46.000Z",
-      "sourceUrl": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Assistant-Professor--Renewable-Energy-and-Chemical-Transformations_R111507",
-      "discordThreadId": "1461029006861144096",
-      "instanceNumber": 1
-    },
-    {
-      "id": "circle-wd1-myworkdayjobs-com-circle-job-san-francisco-remote-first-in-us-new-grad-software-engineer-backend-2024_jr100011-1-2026-01-14-1",
-      "jobId": "circle-wd1-myworkdayjobs-com-circle-job-san-francisco-remote-first-in-us-new-grad-software-engineer-backend-2024_jr100011-1",
-      "company": "Circle",
-      "title": "New Grad Software Engineer - Backend 2026",
-      "postedToDiscord": "2026-01-14T16:07:49.392Z",
-      "sourceDate": "2025-11-28T21:58:07.000Z",
-      "sourceUrl": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1",
-      "discordThreadId": "1461029033587376188",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-trueanomalyinc-jobs-4971623007-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-trueanomalyinc-jobs-4971623007",
@@ -46453,14 +46431,410 @@
       "discordThreadId": null,
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "12ecc1e6c68658b5-2026-01-21-1",
+      "jobId": "12ecc1e6c68658b5",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management ",
+      "postedToDiscord": "2026-01-21T16:16:09.986Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184694002?gh_jid=8184694002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463567860189233424",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:09.986Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8184694002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8184694002",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management ",
+      "postedToDiscord": "2026-01-21T16:16:11.523Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184694002?gh_jid=8184694002",
+      "discordThreadId": "1463567860189233424",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b184e5de71572972-2026-01-21-1",
+      "jobId": "b184e5de71572972",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-21T16:16:11.722Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8073147002?gh_jid=8073147002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463567868577710080",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:11.722Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8073147002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8073147002",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-21T16:16:13.251Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8073147002?gh_jid=8073147002",
+      "discordThreadId": "1463567868577710080",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8075285002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8075285002",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-21T16:16:13.280Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8075285002?gh_jid=8075285002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8093385002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8093385002",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-21T16:16:13.306Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8093385002?gh_jid=8093385002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d532a454e6c2e35d-2026-01-21-1",
+      "jobId": "d532a454e6c2e35d",
+      "company": "brex",
+      "title": "Senior Software Engineer, Product ",
+      "postedToDiscord": "2026-01-21T16:16:13.480Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7521386002?gh_jid=7521386002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463567875959820462",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:13.480Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463567883140599923",
+          "channelType": "location",
+          "postedAt": "2026-01-21T16:16:15.287Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7521386002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-7521386002",
+      "company": "brex",
+      "title": "Senior Software Engineer, Product ",
+      "postedToDiscord": "2026-01-21T16:16:16.813Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7521386002?gh_jid=7521386002",
+      "discordThreadId": "1463567875959820462",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d818ff3287365327-2026-01-21-1",
+      "jobId": "d818ff3287365327",
+      "company": "brex",
+      "title": "Software Engineer II, Product ",
+      "postedToDiscord": "2026-01-21T16:16:17.104Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8318332002?gh_jid=8318332002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463567890946199747",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:17.104Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8318332002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8318332002",
+      "company": "brex",
+      "title": "Software Engineer II, Product ",
+      "postedToDiscord": "2026-01-21T16:16:18.629Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8318332002?gh_jid=8318332002",
+      "discordThreadId": "1463567890946199747",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8318331002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8318331002",
+      "company": "brex",
+      "title": "Software Engineer II, Product ",
+      "postedToDiscord": "2026-01-21T16:16:18.661Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8318331002?gh_jid=8318331002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8318333002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8318333002",
+      "company": "brex",
+      "title": "Software Engineer II, Product ",
+      "postedToDiscord": "2026-01-21T16:16:18.691Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8318333002?gh_jid=8318333002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4fcb6eb71c4b1a21-2026-01-21-1",
+      "jobId": "4fcb6eb71c4b1a21",
+      "company": "brex",
+      "title": "Staff Brand Designer",
+      "postedToDiscord": "2026-01-21T16:16:18.869Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7595422002?gh_jid=7595422002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463567898546147520",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:18.869Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7595422002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-7595422002",
+      "company": "brex",
+      "title": "Staff Brand Designer",
+      "postedToDiscord": "2026-01-21T16:16:20.395Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7595422002?gh_jid=7595422002",
+      "discordThreadId": "1463567898546147520",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4ee7b7d6342dca0a-2026-01-21-1",
+      "jobId": "4ee7b7d6342dca0a",
+      "company": "brex",
+      "title": "Staff Brand Designer, Interactive",
+      "postedToDiscord": "2026-01-21T16:16:20.747Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8198574002?gh_jid=8198574002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463567905802293258",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:20.747Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8198574002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8198574002",
+      "company": "brex",
+      "title": "Staff Brand Designer, Interactive",
+      "postedToDiscord": "2026-01-21T16:16:22.273Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8198574002?gh_jid=8198574002",
+      "discordThreadId": "1463567905802293258",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "acdc343a99fb5488-2026-01-21-1",
+      "jobId": "acdc343a99fb5488",
+      "company": "brex",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-21T16:16:22.461Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7669111002?gh_jid=7669111002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463567913330937990",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:22.461Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7669111002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-7669111002",
+      "company": "brex",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-21T16:16:23.987Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7669111002?gh_jid=7669111002",
+      "discordThreadId": "1463567913330937990",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8124973002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8124973002",
+      "company": "brex",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-21T16:16:24.012Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8124973002?gh_jid=8124973002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "49634601079c078f-2026-01-21-1",
+      "jobId": "49634601079c078f",
+      "company": "brex",
+      "title": " Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-21T16:16:27.372Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8222783002?gh_jid=8222783002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463567933740548191",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:27.372Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463567941307203695",
+          "channelType": "location",
+          "postedAt": "2026-01-21T16:16:29.068Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8222783002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8222783002",
+      "company": "brex",
+      "title": " Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-21T16:16:30.594Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8222783002?gh_jid=8222783002",
+      "discordThreadId": "1463567933740548191",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8216086002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8216086002",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-21T16:16:30.618Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8216086002?gh_jid=8216086002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8216085002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8216085002",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-21T16:16:30.644Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8216085002?gh_jid=8216085002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8215986002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8215986002",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-21T16:16:30.669Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8215986002?gh_jid=8215986002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fdc243d2412e97e6-2026-01-21-1",
+      "jobId": "fdc243d2412e97e6",
+      "company": "anthropic",
+      "title": "Corporate Finance & Strategy, Planning & Reporting",
+      "postedToDiscord": "2026-01-21T16:16:31.003Z",
+      "sourceDate": "2026-01-20T23:31:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017273008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463567948894568468",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:31.003Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017273008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017273008",
+      "company": "anthropic",
+      "title": "Corporate Finance & Strategy, Planning & Reporting",
+      "postedToDiscord": "2026-01-21T16:16:32.528Z",
+      "sourceDate": "2026-01-20T23:31:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017273008",
+      "discordThreadId": "1463567948894568468",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "901032918d84407b-2026-01-21-1",
+      "jobId": "901032918d84407b",
+      "company": "brex",
+      "title": "Senior Software Engineer, Full-Stack",
+      "postedToDiscord": "2026-01-21T16:16:35.913Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8213577002?gh_jid=8213577002",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463567969354256528",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:16:35.913Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8213577002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8213577002",
+      "company": "brex",
+      "title": "Senior Software Engineer, Full-Stack",
+      "postedToDiscord": "2026-01-21T16:16:37.437Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8213577002?gh_jid=8213577002",
+      "discordThreadId": "1463567969354256528",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3625,
+    "totalJobs": 3651,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T15:51:38.741Z",
+      "date": "2026-01-21T16:16:37.438Z",
       "archived": 0
     }
   }
