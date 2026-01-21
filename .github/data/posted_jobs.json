@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T12:17:04.403Z",
+  "lastUpdated": "2026-01-21T12:56:38.849Z",
   "jobs": [
     {
       "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825-2026-01-14-1",
@@ -43431,14 +43431,314 @@
       "discordThreadId": null,
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a8822d22208b6d41-2026-01-21-1",
+      "jobId": "a8822d22208b6d41",
+      "company": "discord",
+      "title": "Product Marketing Manager, Ads ",
+      "postedToDiscord": "2026-01-21T12:56:11.597Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8334900002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517536367677510",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:11.597Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8334900002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8334900002",
+      "company": "discord",
+      "title": "Product Marketing Manager, Ads ",
+      "postedToDiscord": "2026-01-21T12:56:13.132Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8334900002",
+      "discordThreadId": "1463517536367677510",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a0c193dbb08e9fbd-2026-01-21-1",
+      "jobId": "a0c193dbb08e9fbd",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code Growth",
+      "postedToDiscord": "2026-01-21T12:56:13.408Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024981008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517543712034877",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:13.408Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5024981008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5024981008",
+      "company": "anthropic",
+      "title": "Product Manager, Claude Code Growth",
+      "postedToDiscord": "2026-01-21T12:56:14.933Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024981008",
+      "discordThreadId": "1463517543712034877",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "be9b6b1f52be5d09-2026-01-21-1",
+      "jobId": "be9b6b1f52be5d09",
+      "company": "vercel",
+      "title": "Sales Engineer",
+      "postedToDiscord": "2026-01-21T12:56:15.199Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5347669004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517551295201425",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:15.199Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5347669004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5347669004",
+      "company": "vercel",
+      "title": "Sales Engineer",
+      "postedToDiscord": "2026-01-21T12:56:16.724Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5347669004",
+      "discordThreadId": "1463517551295201425",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "dc3711f8fcf3d3fb-2026-01-21-1",
+      "jobId": "dc3711f8fcf3d3fb",
+      "company": "AspenTech",
+      "title": "Associate Software Quality Engineer I",
+      "postedToDiscord": "2026-01-21T12:56:16.978Z",
+      "sourceDate": "2025-12-11T20:11:28.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer-I_R8298-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517558693953701",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:16.978Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463517565870538795",
+          "channelType": "location",
+          "postedAt": "2026-01-21T12:56:18.766Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-quality-engineer-i_r8298-1-2026-01-21-1",
+      "jobId": "aspentech-wd5-myworkdayjobs-com-aspentech-job-medina-minnesota-associate-software-quality-engineer-i_r8298-1",
+      "company": "AspenTech",
+      "title": "Associate Software Quality Engineer I",
+      "postedToDiscord": "2026-01-21T12:56:20.290Z",
+      "sourceDate": "2025-12-11T20:11:28.000Z",
+      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer-I_R8298-1",
+      "discordThreadId": "1463517558693953701",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fae2eca3f8b53ce1-2026-01-21-1",
+      "jobId": "fae2eca3f8b53ce1",
+      "company": "Public Storage",
+      "title": "Associate Cloud Engineer",
+      "postedToDiscord": "2026-01-21T12:56:20.480Z",
+      "sourceDate": "2025-12-11T20:03:37.000Z",
+      "sourceUrl": "https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517573646913680",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:20.480Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-publicstoragejobs-com-jobs-associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225-2026-01-21-1",
+      "jobId": "www-publicstoragejobs-com-jobs-associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+      "company": "Public Storage",
+      "title": "Associate Cloud Engineer",
+      "postedToDiscord": "2026-01-21T12:56:22.005Z",
+      "sourceDate": "2025-12-11T20:03:37.000Z",
+      "sourceUrl": "https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+      "discordThreadId": "1463517573646913680",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ec926caaaff96bd2-2026-01-21-1",
+      "jobId": "ec926caaaff96bd2",
+      "company": "figma",
+      "title": "Manager, Product Marketing ",
+      "postedToDiscord": "2026-01-21T12:56:22.249Z",
+      "sourceDate": "2025-12-10T19:12:38-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732508004?gh_jid=5732508004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517580974362677",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:22.249Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5732508004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5732508004",
+      "company": "figma",
+      "title": "Manager, Product Marketing ",
+      "postedToDiscord": "2026-01-21T12:56:23.773Z",
+      "sourceDate": "2025-12-10T19:12:38-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732508004?gh_jid=5732508004",
+      "discordThreadId": "1463517580974362677",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "80d636216d47e1c6-2026-01-21-1",
+      "jobId": "80d636216d47e1c6",
+      "company": "Westinghouse Electric Company",
+      "title": "Probabilistic Risk Assessment Engineer 1",
+      "postedToDiscord": "2026-01-21T12:56:23.966Z",
+      "sourceDate": "2025-12-10T23:29:43.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Dallas-Probabilistic-Risk-Assessment-Engineer-1-TX-75201/1320348400/?ats=successfactors",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517588007944248",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:23.966Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400-2026-01-21-1",
+      "jobId": "careers-westinghousenuclear-com-job-dallas-probabilistic-risk-assessment-engineer-1-tx-75201-1320348400",
+      "company": "Westinghouse Electric Company",
+      "title": "Probabilistic Risk Assessment Engineer 1",
+      "postedToDiscord": "2026-01-21T12:56:25.489Z",
+      "sourceDate": "2025-12-10T23:29:43.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Dallas-Probabilistic-Risk-Assessment-Engineer-1-TX-75201/1320348400/?ats=successfactors",
+      "discordThreadId": "1463517588007944248",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fd38cd099683fc31-2026-01-21-1",
+      "jobId": "fd38cd099683fc31",
+      "company": "FlexGen",
+      "title": "Energy Storage Application Engineer",
+      "postedToDiscord": "2026-01-21T12:56:25.738Z",
+      "sourceDate": "2025-12-10T23:22:50.000Z",
+      "sourceUrl": "https://ats.rippling.com/external-job-board/jobs/6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463517595440254986",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:25.738Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463517602704789670",
+          "channelType": "location",
+          "postedAt": "2026-01-21T12:56:27.458Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-external-job-board-jobs-6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50-2026-01-21-1",
+      "jobId": "ats-rippling-com-external-job-board-jobs-6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
+      "company": "FlexGen",
+      "title": "Energy Storage Application Engineer",
+      "postedToDiscord": "2026-01-21T12:56:28.981Z",
+      "sourceDate": "2025-12-10T23:22:50.000Z",
+      "sourceUrl": "https://ats.rippling.com/external-job-board/jobs/6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
+      "discordThreadId": "1463517595440254986",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "828e419051621c32-2026-01-21-1",
+      "jobId": "828e419051621c32",
+      "company": "ION Group",
+      "title": "Software Developer - 2026 Leadership Development Program - Houston",
+      "postedToDiscord": "2026-01-21T12:56:32.554Z",
+      "sourceDate": "2025-12-11T16:12:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463517623596617833",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:32.554Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-ion-beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-ion-beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa-apply",
+      "company": "ION Group",
+      "title": "Software Developer - 2026 Leadership Development Program - Houston",
+      "postedToDiscord": "2026-01-21T12:56:34.079Z",
+      "sourceDate": "2025-12-11T16:12:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply",
+      "discordThreadId": "1463517623596617833",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "59dd490125526c02-2026-01-21-1",
+      "jobId": "59dd490125526c02",
+      "company": "discord",
+      "title": "Senior Director, Internal Audit",
+      "postedToDiscord": "2026-01-21T12:56:37.325Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8103520002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463517644316606475",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:56:37.325Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8103520002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8103520002",
+      "company": "discord",
+      "title": "Senior Director, Internal Audit",
+      "postedToDiscord": "2026-01-21T12:56:38.848Z",
+      "sourceDate": "2026-01-20T14:23:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8103520002",
+      "discordThreadId": "1463517644316606475",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3422,
+    "totalJobs": 3442,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T12:17:04.403Z",
+      "date": "2026-01-21T12:56:38.849Z",
       "archived": 0
     }
   }
