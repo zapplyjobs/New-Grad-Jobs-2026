@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T05:33:11.040Z",
+  "lastUpdated": "2026-01-21T05:50:17.439Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-baselayer-jobs-5023887008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-baselayer-jobs-5023887008",
-      "company": "Baselayer",
-      "title": "Senior Backend Engineer",
-      "postedToDiscord": "2026-01-14T05:43:06.400Z",
-      "sourceDate": "2025-12-09T13:17:46.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/baselayer/jobs/5023887008",
-      "discordThreadId": "1460871815873171548",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qbe-wd3-myworkdayjobs-com-qbe-careers-job-phl-threeneo-software-engineering-associate_347265-2026-01-14-1",
-      "jobId": "qbe-wd3-myworkdayjobs-com-qbe-careers-job-phl-threeneo-software-engineering-associate_347265",
-      "company": "QBE Insurance",
-      "title": "Software Engineering Associate",
-      "postedToDiscord": "2026-01-14T05:43:09.849Z",
-      "sourceDate": "2025-12-09T10:16:55.000Z",
-      "sourceUrl": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---ThreeNEO/Software-Engineering-Associate_347265",
-      "discordThreadId": "1460871832365432965",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8101803002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8101803002",
-      "company": "discord",
-      "title": "Staff Software Engineer, Quest Experiences",
-      "postedToDiscord": "2026-01-14T05:43:13.316Z",
-      "sourceDate": "2025-12-08T19:30:03-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8101803002",
-      "discordThreadId": "1460871846881792146",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-hudl-jobs-7449433-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-hudl-jobs-7449433",
-      "company": "Hudl",
-      "title": "Software Engineer – May Graduates",
-      "postedToDiscord": "2026-01-14T05:43:16.899Z",
-      "sourceDate": "2025-12-08T23:01:09.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/hudl/jobs/7449433",
-      "discordThreadId": "1460871861352267938",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-315615-2026-01-14-1",
-      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-315615",
-      "company": "Oracle",
-      "title": "Software Developer 1",
-      "postedToDiscord": "2026-01-14T05:43:20.577Z",
-      "sourceDate": "2025-12-08T22:48:26.000Z",
-      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315615",
-      "discordThreadId": "1460871876447305748",
-      "instanceNumber": 1
-    },
-    {
-      "id": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-associate-data-science_r0016354-2026-01-14-1",
-      "jobId": "horizonmedia-wd1-myworkdayjobs-com-en-us-careeropportunities-job-new-york-new-york-associate-data-science_r0016354",
-      "company": "Horizon media",
-      "title": "Associate Data Science",
-      "postedToDiscord": "2026-01-14T05:43:27.158Z",
-      "sourceDate": "2025-12-09T10:38:40.000Z",
-      "sourceUrl": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0016354",
-      "discordThreadId": "1460871904490553435",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362-2026-01-14-1",
-      "jobId": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362",
-      "company": "gohighlevel",
-      "title": "Staff Analytics Engineer",
-      "postedToDiscord": "2026-01-14T05:43:29.117Z",
-      "sourceDate": "2025-12-09T04:58:13.829Z",
-      "sourceUrl": "https://jobs.lever.co/gohighlevel/47e51c81-6464-429a-a8a5-b15383da5362",
-      "discordThreadId": "1460871919762018396",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ejwl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-25195783-2026-01-14-1",
-      "jobId": "ejwl-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-25195783",
-      "company": "Marriott International",
-      "title": "Senior Systems Engineer - Corporate Systems",
-      "postedToDiscord": "2026-01-14T05:43:32.738Z",
-      "sourceDate": "2025-12-09T00:54:09.000Z",
-      "sourceUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25195783",
-      "discordThreadId": "1460871927878123672",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-challp-icims-com-jobs-7422-job-2026-01-14-1",
-      "jobId": "jobs-challp-icims-com-jobs-7422-job",
-      "company": "CHA Consulting",
-      "title": "AI Developer",
-      "postedToDiscord": "2026-01-14T05:43:36.345Z",
-      "sourceDate": "2025-12-09T00:44:08.000Z",
-      "sourceUrl": "https://jobs-challp.icims.com/jobs/7422/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460871942981685386",
-      "instanceNumber": 1
-    },
-    {
-      "id": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782-2026-01-14-1",
-      "jobId": "knitwellgroup-wd1-myworkdayjobs-com-us_corporate_jobs-job-times-square-tower-ann-new-york-ny-10036-analyst-customer-insights_r-2019782",
-      "company": "Loft",
-      "title": "Analyst – Customer Insights",
-      "postedToDiscord": "2026-01-14T05:43:42.779Z",
-      "sourceDate": "2025-12-09T09:45:34.000Z",
-      "sourceUrl": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
-      "discordThreadId": "1460871970718486640",
-      "instanceNumber": 1
-    },
     {
       "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305-2026-01-14-1",
       "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305",
@@ -38139,14 +38029,343 @@
       "discordThreadId": "1463406042560856249",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a791c0d3c2b7fee9-2026-01-21-1",
+      "jobId": "a791c0d3c2b7fee9",
+      "company": "Cambridge Mobile Telematics",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-21T05:49:48.043Z",
+      "sourceDate": "2025-12-19T16:50:38.000Z",
+      "sourceUrl": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463410230925983810",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:49:48.043Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-cmtelematics-com-who-we-are-join-our-team-job-posting-2026-01-21-1",
+      "jobId": "www-cmtelematics-com-who-we-are-join-our-team-job-posting",
+      "company": "Cambridge Mobile Telematics",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-21T05:49:49.574Z",
+      "sourceDate": "2025-12-19T16:50:38.000Z",
+      "sourceUrl": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
+      "discordThreadId": "1463410230925983810",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bb7aa8a43e61e236-2026-01-21-1",
+      "jobId": "bb7aa8a43e61e236",
+      "company": "anthropic",
+      "title": "Product Lead, Consumer",
+      "postedToDiscord": "2026-01-21T05:49:49.934Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463410238752559165",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:49:49.934Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042055008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042055008",
+      "company": "anthropic",
+      "title": "Product Lead, Consumer",
+      "postedToDiscord": "2026-01-21T05:49:51.457Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
+      "discordThreadId": "1463410238752559165",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7e4b3d0634b0929a-2026-01-21-1",
+      "jobId": "7e4b3d0634b0929a",
+      "company": "datadog",
+      "title": "Staff Software Engineer",
+      "postedToDiscord": "2026-01-21T05:49:51.694Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3210217/?gh_jid=3210217",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463410246285267027",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:49:51.694Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463410253352665218",
+          "channelType": "location",
+          "postedAt": "2026-01-21T05:49:53.400Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-3210217-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-3210217",
+      "company": "datadog",
+      "title": "Staff Software Engineer",
+      "postedToDiscord": "2026-01-21T05:49:54.922Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3210217/?gh_jid=3210217",
+      "discordThreadId": "1463410246285267027",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7107437-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-7107437",
+      "company": "datadog",
+      "title": "Staff Software Engineer - ML Observability",
+      "postedToDiscord": "2026-01-21T05:49:54.944Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107437/?gh_jid=7107437",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7375183-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-7375183",
+      "company": "datadog",
+      "title": "Staff Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-21T05:49:54.963Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7375183/?gh_jid=7375183",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d38a1c04ad6f9865-2026-01-21-1",
+      "jobId": "d38a1c04ad6f9865",
+      "company": "Oracle",
+      "title": "Senior Software Engineer",
+      "postedToDiscord": "2026-01-21T05:49:55.183Z",
+      "sourceDate": "2025-12-19T02:19:52.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320808",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463410260948680837",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:49:55.183Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808-2026-01-21-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808",
+      "company": "Oracle",
+      "title": "Senior Software Engineer",
+      "postedToDiscord": "2026-01-21T05:49:56.703Z",
+      "sourceDate": "2025-12-19T02:19:52.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320808",
+      "discordThreadId": "1463410260948680837",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9f319d97b142f773-2026-01-21-1",
+      "jobId": "9f319d97b142f773",
+      "company": "WME Group",
+      "title": "Analyst – Analytics",
+      "postedToDiscord": "2026-01-21T05:49:57.033Z",
+      "sourceDate": "2025-12-19T02:14:54.000Z",
+      "sourceUrl": "https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463410268234186865",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:49:57.033Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "wmeimg-wd1-myworkdayjobs-com-endeavor-job-ca-beverly-hills-9601-wilshire-analyst-analytics_jr27759-1-2026-01-21-1",
+      "jobId": "wmeimg-wd1-myworkdayjobs-com-endeavor-job-ca-beverly-hills-9601-wilshire-analyst-analytics_jr27759-1",
+      "company": "WME Group",
+      "title": "Analyst – Analytics",
+      "postedToDiscord": "2026-01-21T05:49:58.557Z",
+      "sourceDate": "2025-12-19T02:14:54.000Z",
+      "sourceUrl": "https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1",
+      "discordThreadId": "1463410268234186865",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a8557082b0f31c75-2026-01-21-1",
+      "jobId": "a8557082b0f31c75",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2026-01-21T05:49:58.808Z",
+      "sourceDate": "2025-12-19T00:23:45.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627110006",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463410275826012286",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:49:58.808Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4627110006-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4627110006",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2026-01-21T05:50:00.330Z",
+      "sourceDate": "2025-12-19T00:23:45.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627110006",
+      "discordThreadId": "1463410275826012286",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "73a8f1bdf68c949f-2026-01-21-1",
+      "jobId": "73a8f1bdf68c949f",
+      "company": "Caterpillar Inc.",
+      "title": "Mining Application Specialist",
+      "postedToDiscord": "2026-01-21T05:50:00.622Z",
+      "sourceDate": "2025-12-19T00:21:05.000Z",
+      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341182",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463410283153461395",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:50:00.622Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463410291164450850",
+          "channelType": "location",
+          "postedAt": "2026-01-21T05:50:02.501Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182-2026-01-21-1",
+      "jobId": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-arizona-mining-application-specialist-early-career_r0000341182",
+      "company": "Caterpillar Inc.",
+      "title": "Mining Application Specialist",
+      "postedToDiscord": "2026-01-21T05:50:04.022Z",
+      "sourceDate": "2025-12-19T00:21:05.000Z",
+      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341182",
+      "discordThreadId": "1463410283153461395",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b946d085f387c152-2026-01-21-1",
+      "jobId": "b946d085f387c152",
+      "company": "Microsoft",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T05:50:07.410Z",
+      "sourceDate": "2025-12-19T16:07:44.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463410311955746888",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:50:07.410Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556641984-2026-01-21-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556641984",
+      "company": "Microsoft",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T05:50:08.934Z",
+      "sourceDate": "2025-12-19T16:07:44.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
+      "discordThreadId": "1463410311955746888",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f07e21f61f0a0d8e-2026-01-21-1",
+      "jobId": "f07e21f61f0a0d8e",
+      "company": "Qualcomm",
+      "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
+      "postedToDiscord": "2026-01-21T05:50:09.263Z",
+      "sourceDate": "2025-12-19T02:23:09.000Z",
+      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715939731",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463410319803154651",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:50:09.263Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "qualcomm-eightfold-ai-careers-job-446715939731-2026-01-21-1",
+      "jobId": "qualcomm-eightfold-ai-careers-job-446715939731",
+      "company": "Qualcomm",
+      "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
+      "postedToDiscord": "2026-01-21T05:50:10.786Z",
+      "sourceDate": "2025-12-19T02:23:09.000Z",
+      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446715939731",
+      "discordThreadId": "1463410319803154651",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "762e40606c908635-2026-01-21-1",
+      "jobId": "762e40606c908635",
+      "company": "Axle",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T05:50:14.144Z",
+      "sourceDate": "2025-12-19T00:11:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463410340351185003",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:50:14.144Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463410347431165987",
+          "channelType": "location",
+          "postedAt": "2026-01-21T05:50:15.915Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-axle-jobs-5006708007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-axle-jobs-5006708007",
+      "company": "Axle",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T05:50:17.439Z",
+      "sourceDate": "2025-12-19T00:11:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
+      "discordThreadId": "1463410340351185003",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3105,
+    "totalJobs": 3117,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T05:33:11.040Z",
+      "date": "2026-01-21T05:50:17.439Z",
       "archived": 0
     }
   }
