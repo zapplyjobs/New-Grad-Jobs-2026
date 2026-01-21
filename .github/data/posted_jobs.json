@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T11:57:19.609Z",
+  "lastUpdated": "2026-01-21T12:17:04.403Z",
   "jobs": [
     {
       "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825-2026-01-14-1",
@@ -43080,14 +43080,365 @@
       "discordThreadId": "1463502707741688013",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "19f4288576892e90-2026-01-21-1",
+      "jobId": "19f4288576892e90",
+      "company": "anthropic",
+      "title": "GTM Partner Enablement",
+      "postedToDiscord": "2026-01-21T12:16:25.225Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973162008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463507526531285003",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:25.225Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973162008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973162008",
+      "company": "anthropic",
+      "title": "GTM Partner Enablement",
+      "postedToDiscord": "2026-01-21T12:16:26.755Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973162008",
+      "discordThreadId": "1463507526531285003",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f3d13eb74f5e0862-2026-01-21-1",
+      "jobId": "f3d13eb74f5e0862",
+      "company": "Microsoft",
+      "title": "Quantum Software Engineer",
+      "postedToDiscord": "2026-01-21T12:16:27.231Z",
+      "sourceDate": "2025-12-11T23:06:51.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640339",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463507535179812874",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:27.231Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-careers-microsoft-com-careers-job-1970393556640339-2026-01-21-1",
+      "jobId": "apply-careers-microsoft-com-careers-job-1970393556640339",
+      "company": "Microsoft",
+      "title": "Quantum Software Engineer",
+      "postedToDiscord": "2026-01-21T12:16:28.756Z",
+      "sourceDate": "2025-12-11T23:06:51.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640339",
+      "discordThreadId": "1463507535179812874",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c89bcf27363d4619-2026-01-21-1",
+      "jobId": "c89bcf27363d4619",
+      "company": "supabase",
+      "title": "Customer Solution Architect Team Lead (AMER)",
+      "postedToDiscord": "2026-01-21T12:16:29.186Z",
+      "sourceDate": "2025-12-11T20:26:22.518+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463507543237070945",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:29.186Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-66bab062-b769-43cf-ac3c-a2630257624c-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-supabase-66bab062-b769-43cf-ac3c-a2630257624c",
+      "company": "supabase",
+      "title": "Customer Solution Architect Team Lead (AMER)",
+      "postedToDiscord": "2026-01-21T12:16:30.712Z",
+      "sourceDate": "2025-12-11T20:26:22.518+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c",
+      "discordThreadId": "1463507543237070945",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5c60f6f6cfd77da3-2026-01-21-1",
+      "jobId": "5c60f6f6cfd77da3",
+      "company": "Harmonia",
+      "title": "Junior Full Stack Developer",
+      "postedToDiscord": "2026-01-21T12:16:31.001Z",
+      "sourceDate": "2025-12-11T20:18:33.000Z",
+      "sourceUrl": "https://harmonia.com/job-openings/job-application/?gh_jid=7548893003",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463507550778556556",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:31.001Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463507564053659814",
+          "channelType": "location",
+          "postedAt": "2026-01-21T12:16:34.077Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "harmonia-com-job-openings-job-application-2026-01-21-1",
+      "jobId": "harmonia-com-job-openings-job-application",
+      "company": "Harmonia",
+      "title": "Junior Full Stack Developer",
+      "postedToDiscord": "2026-01-21T12:16:35.603Z",
+      "sourceDate": "2025-12-11T20:18:33.000Z",
+      "sourceUrl": "https://harmonia.com/job-openings/job-application/?gh_jid=7548893003",
+      "discordThreadId": "1463507550778556556",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e8df391c550019c8-2026-01-21-1",
+      "jobId": "e8df391c550019c8",
+      "company": "Booz Allen",
+      "title": "Full-Stack Developer, Junior",
+      "postedToDiscord": "2026-01-21T12:16:35.919Z",
+      "sourceDate": "2025-12-11T20:15:59.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230620",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463507571351621706",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:35.919Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463507579312537610",
+          "channelType": "location",
+          "postedAt": "2026-01-21T12:16:37.709Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "bah-wd1-myworkdayjobs-com-en-us-bah_jobs-job-huntsville-al-full-stack-developer-junior_r0230620-2026-01-21-1",
+      "jobId": "bah-wd1-myworkdayjobs-com-en-us-bah_jobs-job-huntsville-al-full-stack-developer-junior_r0230620",
+      "company": "Booz Allen",
+      "title": "Full-Stack Developer, Junior",
+      "postedToDiscord": "2026-01-21T12:16:39.233Z",
+      "sourceDate": "2025-12-11T20:15:59.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230620",
+      "discordThreadId": "1463507571351621706",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "05b2925d22e0ff8d-2026-01-21-1",
+      "jobId": "05b2925d22e0ff8d",
+      "company": "BTI Solutions",
+      "title": "Korean Bilingual Software Test Engineer (Entry Level)",
+      "postedToDiscord": "2026-01-21T12:16:41.244Z",
+      "sourceDate": "2025-12-11T20:14:39.000Z",
+      "sourceUrl": "https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Korean-Bilingual-Software-Test-Engineer--Entry-Level--AO7167525_JR101482",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463507593896132622",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:41.244Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "btisolutions-wd12-myworkdayjobs-com-external-job-plano-tx-korean-bilingual-software-test-engineer-entry-level-ao7167525_jr101482-2026-01-21-1",
+      "jobId": "btisolutions-wd12-myworkdayjobs-com-external-job-plano-tx-korean-bilingual-software-test-engineer-entry-level-ao7167525_jr101482",
+      "company": "BTI Solutions",
+      "title": "Korean Bilingual Software Test Engineer (Entry Level)",
+      "postedToDiscord": "2026-01-21T12:16:42.770Z",
+      "sourceDate": "2025-12-11T20:14:39.000Z",
+      "sourceUrl": "https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Korean-Bilingual-Software-Test-Engineer--Entry-Level--AO7167525_JR101482",
+      "discordThreadId": "1463507593896132622",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6abdc861ad76da92-2026-01-21-1",
+      "jobId": "6abdc861ad76da92",
+      "company": "NVIDIA",
+      "title": "Research Scientist - Generalist Embodied Agent Research",
+      "postedToDiscord": "2026-01-21T12:16:46.141Z",
+      "sourceDate": "2025-12-11T23:18:35.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generalist-Embodied-Agent-Research---New-College-Grad-2026_JR2009294",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463507614754410539",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:46.141Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generalist-embodied-agent-research-new-college-grad-2026_jr2009294-2026-01-21-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-generalist-embodied-agent-research-new-college-grad-2026_jr2009294",
+      "company": "NVIDIA",
+      "title": "Research Scientist - Generalist Embodied Agent Research",
+      "postedToDiscord": "2026-01-21T12:16:47.665Z",
+      "sourceDate": "2025-12-11T23:18:35.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generalist-Embodied-Agent-Research---New-College-Grad-2026_JR2009294",
+      "discordThreadId": "1463507614754410539",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8d9e64262f870c83-2026-01-21-1",
+      "jobId": "8d9e64262f870c83",
+      "company": "spotify",
+      "title": "GM, AI Foundation",
+      "postedToDiscord": "2026-01-21T12:16:48.003Z",
+      "sourceDate": "2025-12-11T21:29:33.016Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/18420f9a-8c80-4dea-8177-409380b390bf",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463507622161416194",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:48.003Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463507629979471963",
+          "channelType": "location",
+          "postedAt": "2026-01-21T12:16:49.765Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-18420f9a-8c80-4dea-8177-409380b390bf-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-18420f9a-8c80-4dea-8177-409380b390bf",
+      "company": "spotify",
+      "title": "GM, AI Foundation",
+      "postedToDiscord": "2026-01-21T12:16:51.289Z",
+      "sourceDate": "2025-12-11T21:29:33.016Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/18420f9a-8c80-4dea-8177-409380b390bf",
+      "discordThreadId": "1463507622161416194",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "49cf1367de7fbd98-2026-01-21-1",
+      "jobId": "49cf1367de7fbd98",
+      "company": "Caesars Entertainment",
+      "title": "Graduate Data Scientist",
+      "postedToDiscord": "2026-01-21T12:16:54.552Z",
+      "sourceDate": "2025-12-11T23:15:38.000Z",
+      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73987",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463507650074378363",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:16:54.552Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463507656932196535",
+          "channelType": "location",
+          "postedAt": "2026-01-21T12:16:56.259Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-73987-2026-01-21-1",
+      "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-73987",
+      "company": "Caesars Entertainment",
+      "title": "Graduate Data Scientist",
+      "postedToDiscord": "2026-01-21T12:16:57.786Z",
+      "sourceDate": "2025-12-11T23:15:38.000Z",
+      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73987",
+      "discordThreadId": "1463507650074378363",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4eab5a6e84dd81a8-2026-01-21-1",
+      "jobId": "4eab5a6e84dd81a8",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-21T12:17:01.054Z",
+      "sourceDate": "2025-12-11T16:49:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335473002?gh_jid=8335473002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463507677081767969",
+          "channelType": "category",
+          "postedAt": "2026-01-21T12:17:01.054Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463507684610539643",
+          "channelType": "location",
+          "postedAt": "2026-01-21T12:17:02.807Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8335473002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8335473002",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-21T12:17:04.332Z",
+      "sourceDate": "2025-12-11T16:49:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335473002?gh_jid=8335473002",
+      "discordThreadId": "1463507677081767969",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8335464002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8335464002",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-21T12:17:04.357Z",
+      "sourceDate": "2025-12-11T16:48:19-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335464002?gh_jid=8335464002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8335456002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8335456002",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-21T12:17:04.381Z",
+      "sourceDate": "2025-12-11T16:48:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335456002?gh_jid=8335456002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8335440002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8335440002",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-21T12:17:04.403Z",
+      "sourceDate": "2025-12-11T16:47:56-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335440002?gh_jid=8335440002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3399,
+    "totalJobs": 3422,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T11:57:19.609Z",
+      "date": "2026-01-21T12:17:04.403Z",
       "archived": 0
     }
   }
