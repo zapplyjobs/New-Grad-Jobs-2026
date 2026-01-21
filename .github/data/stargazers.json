@@ -636,13 +636,20 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/156727932?v=4",
       "html_url": "https://github.com/AkshayaRediee",
       "starred_at": "2026-01-13T18:35:38Z"
+    },
+    {
+      "login": "brianjames-dev",
+      "id": 91099588,
+      "avatar_url": "https://avatars.githubusercontent.com/u/91099588?v=4",
+      "html_url": "https://github.com/brianjames-dev",
+      "starred_at": "2026-01-20T19:37:41Z"
     }
   ],
-  "total_count": 91,
-  "last_updated": "2026-01-20T06:05:20.002Z",
+  "total_count": 92,
+  "last_updated": "2026-01-21T06:05:28.316Z",
   "stats": {
-    "new_since_last_run": 0,
+    "new_since_last_run": 1,
     "removed_since_last_run": 0,
-    "net_change": 0
+    "net_change": 1
   }
 }
