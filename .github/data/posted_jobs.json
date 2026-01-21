@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T12:56:38.849Z",
+  "lastUpdated": "2026-01-21T13:26:44.491Z",
   "jobs": [
-    {
-      "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825-2026-01-14-1",
-      "jobId": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825",
-      "company": "Morgan Stanley",
-      "title": "Java Developer - Associate",
-      "postedToDiscord": "2026-01-14T13:12:30.954Z",
-      "sourceDate": "2025-11-30T23:43:45.000Z",
-      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
-      "discordThreadId": "1460984915742031893",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wd3-myworkdaysite-com-recruiting-magna-magna-job-goleta-california-us-software-engineer-i-thermal-cameras_r00193769-2026-01-14-1",
-      "jobId": "wd3-myworkdaysite-com-recruiting-magna-magna-job-goleta-california-us-software-engineer-i-thermal-cameras_r00193769",
-      "company": "Magna",
-      "title": "Software Engineer 1 - Thermal Camera",
-      "postedToDiscord": "2026-01-14T13:12:34.488Z",
-      "sourceDate": "2025-11-30T20:42:53.000Z",
-      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
-      "discordThreadId": "1460984929587302514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-affirm-jobs-7485072003-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-affirm-jobs-7485072003",
-      "company": "Affirm",
-      "title": "Software Engineer – Early Career",
-      "postedToDiscord": "2026-01-14T13:12:38.220Z",
-      "sourceDate": "2025-11-30T20:12:03.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
-      "discordThreadId": "1460984944968073286",
-      "instanceNumber": 1
-    },
-    {
-      "id": "campbellsoup-wd5-myworkdayjobs-com-externalcareers_globalsite-job-usa-nj-camden-packaging-engineer-sustainability_req-62127-2026-01-14-1",
-      "jobId": "campbellsoup-wd5-myworkdayjobs-com-externalcareers_globalsite-job-usa-nj-camden-packaging-engineer-sustainability_req-62127",
-      "company": "The Campbell's Company",
-      "title": "Packaging Engineer - Sustainability",
-      "postedToDiscord": "2026-01-14T13:12:41.538Z",
-      "sourceDate": "2025-11-30T11:44:11.000Z",
-      "sourceUrl": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Packaging-Engineer---Sustainability_Req-62127",
-      "discordThreadId": "1460984960394592306",
-      "instanceNumber": 1
-    },
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-downtown-postdoctoral-scholar-research-associate_req20165823-2026-01-14-1",
       "jobId": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-downtown-postdoctoral-scholar-research-associate_req20165823",
@@ -43731,14 +43687,314 @@
       "discordThreadId": "1463517644316606475",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "c5550ac91032afd2-2026-01-21-1",
+      "jobId": "c5550ac91032afd2",
+      "company": "anthropic",
+      "title": "Senior Software Engineer, Infrastructure ",
+      "postedToDiscord": "2026-01-21T13:26:17.233Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463525109187874867",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:17.233Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4632118008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4632118008",
+      "company": "anthropic",
+      "title": "Senior Software Engineer, Infrastructure ",
+      "postedToDiscord": "2026-01-21T13:26:18.766Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
+      "discordThreadId": "1463525109187874867",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0e3f8deefcd3a2e6-2026-01-21-1",
+      "jobId": "0e3f8deefcd3a2e6",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Infrastructure",
+      "postedToDiscord": "2026-01-21T13:26:19.047Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463525117219967112",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:19.047Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4970314008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970314008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Infrastructure",
+      "postedToDiscord": "2026-01-21T13:26:20.573Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
+      "discordThreadId": "1463525117219967112",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3b2660fd0ba82e6c-2026-01-21-1",
+      "jobId": "3b2660fd0ba82e6c",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Model Evaluations",
+      "postedToDiscord": "2026-01-21T13:26:20.776Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018714008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463525124576645245",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:20.776Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018714008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018714008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Model Evaluations",
+      "postedToDiscord": "2026-01-21T13:26:22.301Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018714008",
+      "discordThreadId": "1463525124576645245",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "45e25c089919f0e5-2026-01-21-1",
+      "jobId": "45e25c089919f0e5",
+      "company": "reddit",
+      "title": "Senior Manager, Large Customer Sales (Pharma)",
+      "postedToDiscord": "2026-01-21T13:26:22.524Z",
+      "sourceDate": "2026-01-20T18:42:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7551216",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463525131866345562",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:22.524Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463525138699129057",
+          "channelType": "location",
+          "postedAt": "2026-01-21T13:26:24.238Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-reddit-jobs-7551216-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-reddit-jobs-7551216",
+      "company": "reddit",
+      "title": "Senior Manager, Large Customer Sales (Pharma)",
+      "postedToDiscord": "2026-01-21T13:26:25.762Z",
+      "sourceDate": "2026-01-20T18:42:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7551216",
+      "discordThreadId": "1463525131866345562",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "88353ec418d8d60d-2026-01-21-1",
+      "jobId": "88353ec418d8d60d",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Databases",
+      "postedToDiscord": "2026-01-21T13:26:29.086Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970463008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463525158991167727",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:29.086Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4970463008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4970463008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Databases",
+      "postedToDiscord": "2026-01-21T13:26:30.615Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970463008",
+      "discordThreadId": "1463525158991167727",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a00a35ba9d5c896f-2026-01-21-1",
+      "jobId": "a00a35ba9d5c896f",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Data Infrastructure",
+      "postedToDiscord": "2026-01-21T13:26:30.914Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4941204008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463525166771470414",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:30.914Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4941204008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4941204008",
+      "company": "anthropic",
+      "title": "Staff+ Software Engineer, Data Infrastructure",
+      "postedToDiscord": "2026-01-21T13:26:32.441Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4941204008",
+      "discordThreadId": "1463525166771470414",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4114584fd9aabeba-2026-01-21-1",
+      "jobId": "4114584fd9aabeba",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Safeguards",
+      "postedToDiscord": "2026-01-21T13:26:32.720Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463525174598041660",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:32.720Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4960417008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4960417008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Safeguards",
+      "postedToDiscord": "2026-01-21T13:26:34.244Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
+      "discordThreadId": "1463525174598041660",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "354548d1c5533b32-2026-01-21-1",
+      "jobId": "354548d1c5533b32",
+      "company": "Westinghouse Electric Company",
+      "title": "Nuclear Analysis Technician C / Engineering Technicians",
+      "postedToDiscord": "2026-01-21T13:26:34.528Z",
+      "sourceDate": "2025-12-10T23:13:08.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Technicians-NC/1337431200/?ats=successfactors",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463525182055645196",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:34.528Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463525189445877855",
+          "channelType": "location",
+          "postedAt": "2026-01-21T13:26:36.367Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-technicians-nc-1337431200-2026-01-21-1",
+      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-nuclear-analysis-tech-c-engineering-technicians-nc-1337431200",
+      "company": "Westinghouse Electric Company",
+      "title": "Nuclear Analysis Technician C / Engineering Technicians",
+      "postedToDiscord": "2026-01-21T13:26:37.891Z",
+      "sourceDate": "2025-12-10T23:13:08.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Technicians-NC/1337431200/?ats=successfactors",
+      "discordThreadId": "1463525182055645196",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "22a4f86bb01fa31c-2026-01-21-1",
+      "jobId": "22a4f86bb01fa31c",
+      "company": "figma",
+      "title": "Director, Federal Sales",
+      "postedToDiscord": "2026-01-21T13:26:38.205Z",
+      "sourceDate": "2025-12-10T14:21:16-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463525197125648544",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:38.205Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5728495004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5728495004",
+      "company": "figma",
+      "title": "Director, Federal Sales",
+      "postedToDiscord": "2026-01-21T13:26:39.733Z",
+      "sourceDate": "2025-12-10T14:21:16-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004",
+      "discordThreadId": "1463525197125648544",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bc944db40d788f4c-2026-01-21-1",
+      "jobId": "bc944db40d788f4c",
+      "company": "Whoop",
+      "title": "Software Engineer 1 - Backend - Healthcare",
+      "postedToDiscord": "2026-01-21T13:26:42.964Z",
+      "sourceDate": "2025-12-10T23:06:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e/apply",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463525217661096058",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:26:42.964Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-whoop-02b3ba78-ccb4-40a4-94b3-6b14c71eed9e-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-whoop-02b3ba78-ccb4-40a4-94b3-6b14c71eed9e-apply",
+      "company": "Whoop",
+      "title": "Software Engineer 1 - Backend - Healthcare",
+      "postedToDiscord": "2026-01-21T13:26:44.490Z",
+      "sourceDate": "2025-12-10T23:06:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e/apply",
+      "discordThreadId": "1463525217661096058",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3442,
+    "totalJobs": 3458,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T12:56:38.849Z",
+      "date": "2026-01-21T13:26:44.491Z",
       "archived": 0
     }
   }
