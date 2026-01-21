@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T06:02:12.890Z",
+  "lastUpdated": "2026-01-21T06:18:23.966Z",
   "jobs": [
-    {
-      "id": "truist-wd1-myworkdayjobs-com-en-us-careers-job-charlotte-nc-business-data-steward-consumer-and-small-business-banking_r0107465-2026-01-14-1",
-      "jobId": "truist-wd1-myworkdayjobs-com-en-us-careers-job-charlotte-nc-business-data-steward-consumer-and-small-business-banking_r0107465",
-      "company": "Truist Bank",
-      "title": "Business Data Steward - Consumer and Small Business Banking",
-      "postedToDiscord": "2026-01-14T06:07:33.981Z",
-      "sourceDate": "2025-12-07T07:24:45.000Z",
-      "sourceUrl": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465",
-      "discordThreadId": "1460877972822167697",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nimbleai-2a9d9e52-9b84-4653-a423-ba62f1ef7f57-apply-2026-01-14-1",
-      "jobId": "jobs-lever-co-nimbleai-2a9d9e52-9b84-4653-a423-ba62f1ef7f57-apply",
-      "company": "Nimble Robotics",
-      "title": "Software Engineer - Robotics",
-      "postedToDiscord": "2026-01-14T06:07:37.339Z",
-      "sourceDate": "2025-12-06T23:32:05.000Z",
-      "sourceUrl": "https://jobs.lever.co/NimbleAI/2a9d9e52-9b84-4653-a423-ba62f1ef7f57/apply",
-      "discordThreadId": "1460877987808411691",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1-2026-01-14-1",
-      "jobId": "wattswater-wd5-myworkdayjobs-com-external-job-franklin-nh-engineering-support-i_10015998-1",
-      "company": "Watts Water",
-      "title": "Engineering Support 1",
-      "postedToDiscord": "2026-01-14T06:07:40.681Z",
-      "sourceDate": "2025-12-06T22:47:39.000Z",
-      "sourceUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Franklin-NH/Engineering-Support-I_10015998-1",
-      "discordThreadId": "1460878001741762591",
-      "instanceNumber": 1
-    },
-    {
-      "id": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-76888-2026-01-14-1",
-      "jobId": "edmn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-76888",
-      "company": "Caesars Entertainment",
-      "title": "Analyst 1",
-      "postedToDiscord": "2026-01-14T06:07:44.084Z",
-      "sourceDate": "2025-12-06T05:17:13.000Z",
-      "sourceUrl": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76888",
-      "discordThreadId": "1460878015906058263",
-      "instanceNumber": 1
-    },
-    {
-      "id": "leidos-wd5-myworkdayjobs-com-external-job-bethesda-md-entry-level-graphics-software-developer_r-00171511-2026-01-14-1",
-      "jobId": "leidos-wd5-myworkdayjobs-com-external-job-bethesda-md-entry-level-graphics-software-developer_r-00171511",
-      "company": "Leidos",
-      "title": "Entry Level Graphics Software Developer",
-      "postedToDiscord": "2026-01-14T06:07:47.507Z",
-      "sourceDate": "2025-12-06T03:31:58.000Z",
-      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511",
-      "discordThreadId": "1460878030007304416",
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-energy-systems_420958-2026-01-14-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-energy-systems_420958",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee - Energy Systems",
-      "postedToDiscord": "2026-01-14T06:07:53.888Z",
-      "sourceDate": "2025-12-07T05:47:52.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958",
-      "discordThreadId": "1460878056947449981",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fermilab-wd5-myworkdayjobs-com-fermilabcareers-job-batavia-lederman-fellow_r_008876-2026-01-14-1",
-      "jobId": "fermilab-wd5-myworkdayjobs-com-fermilabcareers-job-batavia-lederman-fellow_r_008876",
-      "company": "Fermilab",
-      "title": "Lederman Fellow",
-      "postedToDiscord": "2026-01-14T06:08:00.338Z",
-      "sourceDate": "2025-12-06T18:53:06.000Z",
-      "sourceUrl": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Lederman-Fellow_R_008876",
-      "discordThreadId": "1460878083979612356",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amat-wd1-myworkdayjobs-com-external-job-austintx-automation-software-engineer-new-college-grad-bachelor-s-austin-tx-_r2519059-2026-01-14-1",
-      "jobId": "amat-wd1-myworkdayjobs-com-external-job-austintx-automation-software-engineer-new-college-grad-bachelor-s-austin-tx-_r2519059",
-      "company": "Applied Materials",
-      "title": "Automation Software Engineer",
-      "postedToDiscord": "2026-01-14T06:08:06.705Z",
-      "sourceDate": "2025-12-06T10:05:08.000Z",
-      "sourceUrl": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059",
-      "discordThreadId": "1460878110923685909",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-matx-jobs-4102858008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-matx-jobs-4102858008",
-      "company": "MatX",
-      "title": "Software Engineer - Simulators",
-      "postedToDiscord": "2026-01-14T06:08:10.030Z",
-      "sourceDate": "2025-12-06T06:19:25.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/matx/jobs/4102858008",
-      "discordThreadId": "1460878124974870539",
-      "instanceNumber": 1
-    },
-    {
-      "id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2367375-1-2026-01-14-1",
-      "jobId": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2367375-1",
-      "company": "Walmart",
-      "title": "Senior – Data Scientist",
-      "postedToDiscord": "2026-01-14T06:08:13.423Z",
-      "sourceDate": "2025-12-06T03:46:52.000Z",
-      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2367375-1",
-      "discordThreadId": "1460878138895630530",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-spacex-jobs-8320099002-2026-01-14-1",
       "jobId": "boards-greenhouse-io-spacex-jobs-8320099002",
@@ -38563,14 +38453,319 @@
       "discordThreadId": "1463413341526560960",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "ad28b13361c45f6d-2026-01-21-1",
+      "jobId": "ad28b13361c45f6d",
+      "company": "Q2",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T06:17:53.945Z",
+      "sourceDate": "2025-12-18T23:52:07.000Z",
+      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463417301981204676",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:17:53.945Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939-2026-01-21-1",
+      "jobId": "q2ebanking-wd5-myworkdayjobs-com-q2-job-cary-north-carolina-software-engineer_req-11939",
+      "company": "Q2",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T06:17:55.476Z",
+      "sourceDate": "2025-12-18T23:52:07.000Z",
+      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
+      "discordThreadId": "1463417301981204676",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d1d2810da2a2e17c-2026-01-21-1",
+      "jobId": "d1d2810da2a2e17c",
+      "company": "anthropic",
+      "title": "Engineering Manager, Networking",
+      "postedToDiscord": "2026-01-21T06:17:56.013Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949199008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463417309841330311",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:17:56.013Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4949199008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4949199008",
+      "company": "anthropic",
+      "title": "Engineering Manager, Networking",
+      "postedToDiscord": "2026-01-21T06:17:57.538Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949199008",
+      "discordThreadId": "1463417309841330311",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "69d6ddaef94bc1ce-2026-01-21-1",
+      "jobId": "69d6ddaef94bc1ce",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, Life Sciences",
+      "postedToDiscord": "2026-01-21T06:17:57.739Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074995008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463417318192447551",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:17:57.739Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5074995008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074995008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, Life Sciences",
+      "postedToDiscord": "2026-01-21T06:17:59.263Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074995008",
+      "discordThreadId": "1463417318192447551",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "eecba62fdee82b1e-2026-01-21-1",
+      "jobId": "eecba62fdee82b1e",
+      "company": "DXC Technology",
+      "title": "Associate Professional Application Programmer",
+      "postedToDiscord": "2026-01-21T06:17:59.460Z",
+      "sourceDate": "2026-01-20T15:38:02.000Z",
+      "sourceUrl": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463417325368901741",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:17:59.460Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463417332444692665",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:18:01.254Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "dxctechnology-wd1-myworkdayjobs-com-dxcjobs-job-usa-ct-any-city-associate-professional-application-programmer_51569293-2026-01-21-1",
+      "jobId": "dxctechnology-wd1-myworkdayjobs-com-dxcjobs-job-usa-ct-any-city-associate-professional-application-programmer_51569293",
+      "company": "DXC Technology",
+      "title": "Associate Professional Application Programmer",
+      "postedToDiscord": "2026-01-21T06:18:02.778Z",
+      "sourceDate": "2026-01-20T15:38:02.000Z",
+      "sourceUrl": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293",
+      "discordThreadId": "1463417325368901741",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4eaec1286e5e3e99-2026-01-21-1",
+      "jobId": "4eaec1286e5e3e99",
+      "company": "airtable",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-21T06:18:05.961Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8124953002",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463417352606453845",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:18:05.961Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8124953002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8124953002",
+      "company": "airtable",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-21T06:18:07.485Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8124953002",
+      "discordThreadId": "1463417352606453845",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "590f1d0c2befb7fd-2026-01-21-1",
+      "jobId": "590f1d0c2befb7fd",
+      "company": "anthropic",
+      "title": "Compute Analyst",
+      "postedToDiscord": "2026-01-21T06:18:07.628Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075086008",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463417359837691946",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:18:07.628Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5075086008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5075086008",
+      "company": "anthropic",
+      "title": "Compute Analyst",
+      "postedToDiscord": "2026-01-21T06:18:09.152Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075086008",
+      "discordThreadId": "1463417359837691946",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "cd6578737e46de2e-2026-01-21-1",
+      "jobId": "cd6578737e46de2e",
+      "company": "University of Texas - Austin",
+      "title": "Power BI Analyst",
+      "postedToDiscord": "2026-01-21T06:18:09.413Z",
+      "sourceDate": "2026-01-20T15:03:25.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Power-BI-Analyst_R_00044081-1",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463417366669951112",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:18:09.413Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-power-bi-analyst_r_00044081-1-2026-01-21-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-power-bi-analyst_r_00044081-1",
+      "company": "University of Texas - Austin",
+      "title": "Power BI Analyst",
+      "postedToDiscord": "2026-01-21T06:18:10.936Z",
+      "sourceDate": "2026-01-20T15:03:25.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Power-BI-Analyst_R_00044081-1",
+      "discordThreadId": "1463417366669951112",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0f0a37c7303a2708-2026-01-21-1",
+      "jobId": "0f0a37c7303a2708",
+      "company": "spotify",
+      "title": "Data Scientist - Podcast Monetization",
+      "postedToDiscord": "2026-01-21T06:18:14.145Z",
+      "sourceDate": "2026-01-02T15:00:54.938Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/bbd09ee0-742a-46b3-aa89-28233d0fec73",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463417387004067921",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:18:14.145Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463417394058887188",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:18:15.786Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-bbd09ee0-742a-46b3-aa89-28233d0fec73-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-bbd09ee0-742a-46b3-aa89-28233d0fec73",
+      "company": "spotify",
+      "title": "Data Scientist - Podcast Monetization",
+      "postedToDiscord": "2026-01-21T06:18:17.309Z",
+      "sourceDate": "2026-01-02T15:00:54.938Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/bbd09ee0-742a-46b3-aa89-28233d0fec73",
+      "discordThreadId": "1463417387004067921",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d57abb7146a178a4-2026-01-21-1",
+      "jobId": "d57abb7146a178a4",
+      "company": "datadog",
+      "title": "Enablement Operations Senior Associate",
+      "postedToDiscord": "2026-01-21T06:18:19.123Z",
+      "sourceDate": "2026-01-20T12:43:37-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463417401340067850",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:18:19.123Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463417414661177378",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:18:20.784Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7538717-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-7538717",
+      "company": "datadog",
+      "title": "Enablement Operations Senior Associate",
+      "postedToDiscord": "2026-01-21T06:18:22.307Z",
+      "sourceDate": "2026-01-20T12:43:37-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717",
+      "discordThreadId": "1463417401340067850",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e54808328d8d7cea-2026-01-21-1",
+      "jobId": "e54808328d8d7cea",
+      "company": "brex",
+      "title": "Senior Software Engineer, Full-Stack",
+      "postedToDiscord": "2026-01-21T06:18:22.440Z",
+      "sourceDate": "2026-01-20T11:50:43-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8381523002?gh_jid=8381523002",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463417421997281354",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:18:22.440Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8381523002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8381523002",
+      "company": "brex",
+      "title": "Senior Software Engineer, Full-Stack",
+      "postedToDiscord": "2026-01-21T06:18:23.965Z",
+      "sourceDate": "2026-01-20T11:50:43-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8381523002?gh_jid=8381523002",
+      "discordThreadId": "1463417421997281354",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3127,
+    "totalJobs": 3137,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T06:02:12.890Z",
+      "date": "2026-01-21T06:18:23.966Z",
       "archived": 0
     }
   }
