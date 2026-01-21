@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T05:17:39.644Z",
+  "lastUpdated": "2026-01-21T05:33:11.040Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-jensenhughes-jobs-4932805008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-jensenhughes-jobs-4932805008",
-      "company": "Jensen Hughes",
-      "title": "Associate Nuclear Consultant/Engineer",
-      "postedToDiscord": "2026-01-14T05:26:48.546Z",
-      "sourceDate": "2025-12-09T21:25:54.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/jensenhughes/jobs/4932805008",
-      "discordThreadId": "1460867716192931895",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464-2026-01-14-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-embodied-and-agentic-ai-new-college-grad-2026_jr2009464",
-      "company": "NVIDIA",
-      "title": "Research Scientist, Embodied and Agentic AI",
-      "postedToDiscord": "2026-01-14T05:26:51.990Z",
-      "sourceDate": "2025-12-09T14:05:13.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
-      "discordThreadId": "1460867730906284156",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-wyetechllc-c1b8f940-b5ab-4647-832f-f8cdb3c360fa-2026-01-14-1",
-      "jobId": "jobs-lever-co-wyetechllc-c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-14T05:26:57.706Z",
-      "sourceDate": "2025-12-09T14:04:23.000Z",
-      "sourceUrl": "https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
-      "discordThreadId": "1460867745838010444",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4996752008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4996752008",
-      "company": "anthropic",
-      "title": "Product Marketing Manager, Claude Code",
-      "postedToDiscord": "2026-01-14T05:27:04.207Z",
-      "sourceDate": "2025-12-09T14:19:47-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
-      "discordThreadId": "1460867782118867238",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4946306008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946306008",
-      "company": "anthropic",
-      "title": "Research Operations & Strategy Lead, Coding & Cybersecurity Data",
-      "postedToDiscord": "2026-01-14T05:27:11.040Z",
-      "sourceDate": "2025-12-09T13:43:58-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946306008",
-      "discordThreadId": "1460867809302286406",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4946314008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946314008",
-      "company": "anthropic",
-      "title": "Data Operations Manager, Computer Use & Tool Use",
-      "postedToDiscord": "2026-01-14T05:27:14.498Z",
-      "sourceDate": "2025-12-09T13:43:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
-      "discordThreadId": "1460867825307619431",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sec-wd3-myworkdayjobs-com-en-us-samsung_careers-job-6625-excellence-way-plano-tx-usa-software-quality-assurance-associate_r111947-2026-01-14-1",
-      "jobId": "sec-wd3-myworkdayjobs-com-en-us-samsung_careers-job-6625-excellence-way-plano-tx-usa-software-quality-assurance-associate_r111947",
-      "company": "Samsung",
-      "title": "Software Quality Assurance Associate",
-      "postedToDiscord": "2026-01-14T05:27:18.002Z",
-      "sourceDate": "2025-12-09T14:03:16.000Z",
-      "sourceUrl": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Software-Quality-Assurance-Associate_R111947",
-      "discordThreadId": "1460867839727767655",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003-2026-01-14-1",
-      "jobId": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003",
-      "company": "Samsung",
-      "title": "Staff Engineer I, Software Process Engineering",
-      "postedToDiscord": "2026-01-14T05:27:21.456Z",
-      "sourceDate": "2025-12-09T14:02:19.000Z",
-      "sourceUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003",
-      "discordThreadId": "1460867854093258941",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aspentech-wd5-myworkdayjobs-com-en-us-aspentech-job-bedford-massachusetts-software-developer-i_r8120-2026-01-14-1",
-      "jobId": "aspentech-wd5-myworkdayjobs-com-en-us-aspentech-job-bedford-massachusetts-software-developer-i_r8120",
-      "company": "AspenTech",
-      "title": "Software Developer I",
-      "postedToDiscord": "2026-01-14T05:27:24.981Z",
-      "sourceDate": "2025-12-09T13:59:46.000Z",
-      "sourceUrl": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Bedford-Massachusetts/Software-Developer-I_R8120",
-      "discordThreadId": "1460867869016330292",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-magical-2c4734af-1ca2-423a-bb4e-29a7da894249-2026-01-14-1",
-      "jobId": "jobs-ashbyhq-com-magical-2c4734af-1ca2-423a-bb4e-29a7da894249",
-      "company": "Magical",
-      "title": "Junior Software Engineer, AI",
-      "postedToDiscord": "2026-01-14T05:27:28.499Z",
-      "sourceDate": "2025-12-09T13:52:25.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249",
-      "discordThreadId": "1460867883830739078",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-baselayer-jobs-5023887008-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-baselayer-jobs-5023887008",
@@ -37954,14 +37844,309 @@
       "discordThreadId": "1463402136397156565",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "dafd01262200dcfd-2026-01-21-1",
+      "jobId": "dafd01262200dcfd",
+      "company": "United Parcel Service (UPS)",
+      "title": "Bus Systems Analysis Associate",
+      "postedToDiscord": "2026-01-21T05:32:40.833Z",
+      "sourceDate": "2026-01-20T07:37:25.000Z",
+      "sourceUrl": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Bus-Systems-Analysis-Associate_R25043013",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463405922121416894",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:32:40.833Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "hcmportal-wd5-myworkdayjobs-com-en-us-search-job-in-tdc-1-in110-bus-systems-analysis-associate_r25043013-2026-01-21-1",
+      "jobId": "hcmportal-wd5-myworkdayjobs-com-en-us-search-job-in-tdc-1-in110-bus-systems-analysis-associate_r25043013",
+      "company": "United Parcel Service (UPS)",
+      "title": "Bus Systems Analysis Associate",
+      "postedToDiscord": "2026-01-21T05:32:42.362Z",
+      "sourceDate": "2026-01-20T07:37:25.000Z",
+      "sourceUrl": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Bus-Systems-Analysis-Associate_R25043013",
+      "discordThreadId": "1463405922121416894",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "118394559ba85b8a-2026-01-21-1",
+      "jobId": "118394559ba85b8a",
+      "company": "Maricopa County",
+      "title": "GIS Property Technician",
+      "postedToDiscord": "2026-01-21T05:32:42.749Z",
+      "sourceDate": "2026-01-20T07:11:28.000Z",
+      "sourceUrl": "https://maricopa.wd1.myworkdayjobs.com/en-US/MC_External/job/301-W-Jefferson-St-Phoenix-AZ-85003/GIS-Property-Technician_JR21559",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463405930166222919",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:32:42.749Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463405937468637215",
+          "channelType": "location",
+          "postedAt": "2026-01-21T05:32:44.529Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "maricopa-wd1-myworkdayjobs-com-en-us-mc_external-job-301-w-jefferson-st-phoenix-az-85003-gis-property-technician_jr21559-2026-01-21-1",
+      "jobId": "maricopa-wd1-myworkdayjobs-com-en-us-mc_external-job-301-w-jefferson-st-phoenix-az-85003-gis-property-technician_jr21559",
+      "company": "Maricopa County",
+      "title": "GIS Property Technician",
+      "postedToDiscord": "2026-01-21T05:32:46.054Z",
+      "sourceDate": "2026-01-20T07:11:28.000Z",
+      "sourceUrl": "https://maricopa.wd1.myworkdayjobs.com/en-US/MC_External/job/301-W-Jefferson-St-Phoenix-AZ-85003/GIS-Property-Technician_JR21559",
+      "discordThreadId": "1463405930166222919",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "07d2c3c8d9cec190-2026-01-21-1",
+      "jobId": "07d2c3c8d9cec190",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, LATAM Financial Services",
+      "postedToDiscord": "2026-01-21T05:32:46.397Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041301008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463405945496535215",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:32:46.397Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041301008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041301008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, LATAM Financial Services",
+      "postedToDiscord": "2026-01-21T05:32:47.918Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041301008",
+      "discordThreadId": "1463405945496535215",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a8cf9dbaa64b8e10-2026-01-21-1",
+      "jobId": "a8cf9dbaa64b8e10",
+      "company": "vercel",
+      "title": "Software Engineer, CDN",
+      "postedToDiscord": "2026-01-21T05:32:48.366Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5179639004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463405953176178834",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:32:48.366Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5179639004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5179639004",
+      "company": "vercel",
+      "title": "Software Engineer, CDN",
+      "postedToDiscord": "2026-01-21T05:32:49.887Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5179639004",
+      "discordThreadId": "1463405953176178834",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d08187224938978a-2026-01-21-1",
+      "jobId": "d08187224938978a",
+      "company": "figma",
+      "title": "Sales Enablement Manager ",
+      "postedToDiscord": "2026-01-21T05:32:50.213Z",
+      "sourceDate": "2025-12-19T15:47:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739572004?gh_jid=5739572004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463405961162264587",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:32:50.213Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5739572004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5739572004",
+      "company": "figma",
+      "title": "Sales Enablement Manager ",
+      "postedToDiscord": "2026-01-21T05:32:51.738Z",
+      "sourceDate": "2025-12-19T15:47:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739572004?gh_jid=5739572004",
+      "discordThreadId": "1463405961162264587",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ad076863de1681c4-2026-01-21-1",
+      "jobId": "ad076863de1681c4",
+      "company": "Northrop Grumman",
+      "title": "Data Scientist - Machine Learning and Predictive Analytics",
+      "postedToDiscord": "2026-01-21T05:32:55.526Z",
+      "sourceDate": "2026-01-20T07:28:17.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Scientist---Machine-Learning-and-Predictive-Analytics_R10218634",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463405983542804563",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:32:55.526Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-san-diego-data-scientist-machine-learning-and-predictive-analytics_r10218634-2026-01-21-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-san-diego-data-scientist-machine-learning-and-predictive-analytics_r10218634",
+      "company": "Northrop Grumman",
+      "title": "Data Scientist - Machine Learning and Predictive Analytics",
+      "postedToDiscord": "2026-01-21T05:32:57.050Z",
+      "sourceDate": "2026-01-20T07:28:17.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Scientist---Machine-Learning-and-Predictive-Analytics_R10218634",
+      "discordThreadId": "1463405983542804563",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2f6bb1118f99a7e5-2026-01-21-1",
+      "jobId": "2f6bb1118f99a7e5",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics",
+      "postedToDiscord": "2026-01-21T05:33:00.605Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8308138002",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463406005177155647",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:33:00.605Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8308138002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8308138002",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics",
+      "postedToDiscord": "2026-01-21T05:33:02.127Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8308138002",
+      "discordThreadId": "1463406005177155647",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "053f220477fc3721-2026-01-21-1",
+      "jobId": "053f220477fc3721",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+      "postedToDiscord": "2026-01-21T05:33:05.823Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463406027054514230",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:33:05.823Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5041290008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5041290008",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+      "postedToDiscord": "2026-01-21T05:33:07.346Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
+      "discordThreadId": "1463406027054514230",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "199ae2a32f44482e-2026-01-21-1",
+      "jobId": "199ae2a32f44482e",
+      "company": "vercel",
+      "title": "Finance Manager",
+      "postedToDiscord": "2026-01-21T05:33:07.699Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5741089004",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463406034780426414",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:33:07.699Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5741089004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5741089004",
+      "company": "vercel",
+      "title": "Finance Manager",
+      "postedToDiscord": "2026-01-21T05:33:09.221Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5741089004",
+      "discordThreadId": "1463406034780426414",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "268df0a3931dcd0f-2026-01-21-1",
+      "jobId": "268df0a3931dcd0f",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 4",
+      "postedToDiscord": "2026-01-21T05:33:09.512Z",
+      "sourceDate": "2025-12-19T19:12:08.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463406042560856249",
+          "channelType": "category",
+          "postedAt": "2026-01-21T05:33:09.512Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039-2026-01-21-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iv_r0014039",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 4",
+      "postedToDiscord": "2026-01-21T05:33:11.040Z",
+      "sourceDate": "2025-12-19T19:12:08.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039",
+      "discordThreadId": "1463406042560856249",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3095,
+    "totalJobs": 3105,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T05:17:39.644Z",
+      "date": "2026-01-21T05:33:11.040Z",
       "archived": 0
     }
   }
