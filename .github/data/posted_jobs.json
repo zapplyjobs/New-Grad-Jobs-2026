@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T14:36:26.946Z",
+  "lastUpdated": "2026-01-21T14:53:07.273Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-downtown-postdoctoral-scholar-research-associate_req20165823-2026-01-14-1",
@@ -44897,14 +44897,380 @@
       "discordThreadId": "1463542759645253735",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "72407fd53ccb7e18-2026-01-21-1",
+      "jobId": "72407fd53ccb7e18",
+      "company": "CACI",
+      "title": "Data Dictionary Software Engineer 1",
+      "postedToDiscord": "2026-01-21T14:52:27.206Z",
+      "sourceDate": "2025-12-10T18:20:36.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463546793143959726",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:27.206Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463546801260069028",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:52:28.941Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-wd1-myworkdayjobs-com-en-us-external-job-us-md-hanover-data-dictionary-software-engineer-1_320288-2026-01-21-1",
+      "jobId": "caci-wd1-myworkdayjobs-com-en-us-external-job-us-md-hanover-data-dictionary-software-engineer-1_320288",
+      "company": "CACI",
+      "title": "Data Dictionary Software Engineer 1",
+      "postedToDiscord": "2026-01-21T14:52:30.467Z",
+      "sourceDate": "2025-12-10T18:20:36.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288",
+      "discordThreadId": "1463546793143959726",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0f21e5b788f2030e-2026-01-21-1",
+      "jobId": "0f21e5b788f2030e",
+      "company": "Baselayer",
+      "title": "Junior Backend Engineer",
+      "postedToDiscord": "2026-01-21T14:52:30.772Z",
+      "sourceDate": "2025-12-10T18:17:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/baselayer/jobs/5023884008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463546808494981374",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:30.772Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-baselayer-jobs-5023884008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-baselayer-jobs-5023884008",
+      "company": "Baselayer",
+      "title": "Junior Backend Engineer",
+      "postedToDiscord": "2026-01-21T14:52:32.299Z",
+      "sourceDate": "2025-12-10T18:17:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/baselayer/jobs/5023884008",
+      "discordThreadId": "1463546808494981374",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4f8727aeba737b1a-2026-01-21-1",
+      "jobId": "4f8727aeba737b1a",
+      "company": "Twitch",
+      "title": "Software Engineer I, Frontend",
+      "postedToDiscord": "2026-01-21T14:52:32.554Z",
+      "sourceDate": "2025-12-10T18:16:59.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8328684002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463546816489586818",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:32.554Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8328684002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8328684002",
+      "company": "Twitch",
+      "title": "Software Engineer I, Frontend",
+      "postedToDiscord": "2026-01-21T14:52:34.080Z",
+      "sourceDate": "2025-12-10T18:16:59.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8328684002",
+      "discordThreadId": "1463546816489586818",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "job-boards-greenhouse-io-twitch-jobs-8329910002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-twitch-jobs-8329910002",
+      "company": "Twitch",
+      "title": "Software Engineer I, Frontend",
+      "postedToDiscord": "2026-01-21T14:52:34.104Z",
+      "sourceDate": "2025-12-10T18:16:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/twitch/jobs/8329910002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1b762754477cccfb-2026-01-21-1",
+      "jobId": "1b762754477cccfb",
+      "company": "Synthomer",
+      "title": "Scientist – Akron Technical Center",
+      "postedToDiscord": "2026-01-21T14:52:34.354Z",
+      "sourceDate": "2025-12-10T16:38:54.000Z",
+      "sourceUrl": "https://synthomer.wd3.myworkdayjobs.com/synthomercareers/job/US-OH-Akron-ATC/Scientist---Akron-Technical-Center---Onsite_R6616",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463546823950991474",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:34.354Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463546831261794334",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:52:36.035Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "synthomer-wd3-myworkdayjobs-com-synthomercareers-job-us-oh-akron-atc-scientist-akron-technical-center-onsite_r6616-2026-01-21-1",
+      "jobId": "synthomer-wd3-myworkdayjobs-com-synthomercareers-job-us-oh-akron-atc-scientist-akron-technical-center-onsite_r6616",
+      "company": "Synthomer",
+      "title": "Scientist – Akron Technical Center",
+      "postedToDiscord": "2026-01-21T14:52:37.564Z",
+      "sourceDate": "2025-12-10T16:38:54.000Z",
+      "sourceUrl": "https://synthomer.wd3.myworkdayjobs.com/synthomercareers/job/US-OH-Akron-ATC/Scientist---Akron-Technical-Center---Onsite_R6616",
+      "discordThreadId": "1463546823950991474",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1884f8e5c0103870-2026-01-21-1",
+      "jobId": "1884f8e5c0103870",
+      "company": "Wash U",
+      "title": "Postdoctoral Research Associate - Physics",
+      "postedToDiscord": "2026-01-21T14:52:40.809Z",
+      "sourceDate": "2025-12-10T16:58:21.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR91660",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463546851130343434",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:40.809Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463546858399076382",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:52:42.519Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-danforth-campus-postdoctoral-research-associate-physics_jr91660-2026-01-21-1",
+      "jobId": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-danforth-campus-postdoctoral-research-associate-physics_jr91660",
+      "company": "Wash U",
+      "title": "Postdoctoral Research Associate - Physics",
+      "postedToDiscord": "2026-01-21T14:52:44.042Z",
+      "sourceDate": "2025-12-10T16:58:21.000Z",
+      "sourceUrl": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR91660",
+      "discordThreadId": "1463546851130343434",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "c604f9681424f37f-2026-01-21-1",
+      "jobId": "c604f9681424f37f",
+      "company": "spotify",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T14:52:44.221Z",
+      "sourceDate": "2025-12-10T16:38:48.335Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463546865361621003",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:44.221Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463546872584077373",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:52:45.871Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-7032c810-478c-42fc-9807-25553e978343-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-7032c810-478c-42fc-9807-25553e978343",
+      "company": "spotify",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T14:52:47.395Z",
+      "sourceDate": "2025-12-10T16:38:48.335Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343",
+      "discordThreadId": "1463546865361621003",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9fa7d080b2bd0794-2026-01-21-1",
+      "jobId": "9fa7d080b2bd0794",
+      "company": "Axos Bank",
+      "title": "Junior Business & Technology Analyst",
+      "postedToDiscord": "2026-01-21T14:52:50.624Z",
+      "sourceDate": "2025-12-10T16:49:38.000Z",
+      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Jr-Business---Technology-Analyst---Data-Scientist---Machine-Learning-Engineer_JR3704",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463546892351836334",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:50.624Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463546899456987390",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:52:52.341Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "axos-wd5-myworkdayjobs-com-axos-job-hq-san-diego-ca-jr-business-technology-analyst-data-scientist-machine-learning-engineer_jr3704-2026-01-21-1",
+      "jobId": "axos-wd5-myworkdayjobs-com-axos-job-hq-san-diego-ca-jr-business-technology-analyst-data-scientist-machine-learning-engineer_jr3704",
+      "company": "Axos Bank",
+      "title": "Junior Business & Technology Analyst",
+      "postedToDiscord": "2026-01-21T14:52:53.865Z",
+      "sourceDate": "2025-12-10T16:49:38.000Z",
+      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Jr-Business---Technology-Analyst---Data-Scientist---Machine-Learning-Engineer_JR3704",
+      "discordThreadId": "1463546892351836334",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3ef9a1662d1738e2-2026-01-21-1",
+      "jobId": "3ef9a1662d1738e2",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 3",
+      "postedToDiscord": "2026-01-21T14:52:57.147Z",
+      "sourceDate": "2025-12-10T16:44:42.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463546919602094202",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:52:57.147Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463546926858244288",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:52:58.817Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iii_r0014033-2026-01-21-1",
+      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-remote-co-fiber-network-mapping-specialist-iii_r0014033",
+      "company": "Astreya",
+      "title": "Fiber Network Mapping Specialist 3",
+      "postedToDiscord": "2026-01-21T14:53:00.341Z",
+      "sourceDate": "2025-12-10T16:44:42.000Z",
+      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033",
+      "discordThreadId": "1463546919602094202",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f341ebe50580287d-2026-01-21-1",
+      "jobId": "f341ebe50580287d",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-21T14:53:00.544Z",
+      "sourceDate": "2026-01-20T17:05:59-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177687002?gh_jid=8177687002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463546933938487316",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:53:00.544Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463546941043507382",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:53:02.213Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8177687002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8177687002",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-21T14:53:03.737Z",
+      "sourceDate": "2026-01-20T17:05:59-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177687002?gh_jid=8177687002",
+      "discordThreadId": "1463546933938487316",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8177660002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8177660002",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-21T14:53:03.761Z",
+      "sourceDate": "2026-01-20T17:05:36-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177660002?gh_jid=8177660002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "36cd2ae57056ab07-2026-01-21-1",
+      "jobId": "36cd2ae57056ab07",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-21T14:53:04.064Z",
+      "sourceDate": "2026-01-15T16:19:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704446002?gh_jid=7704446002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463546948622614538",
+          "channelType": "category",
+          "postedAt": "2026-01-21T14:53:04.064Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463546955811786794",
+          "channelType": "location",
+          "postedAt": "2026-01-21T14:53:05.724Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-7704446002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-7704446002",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-21T14:53:07.248Z",
+      "sourceDate": "2026-01-15T16:19:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704446002?gh_jid=7704446002",
+      "discordThreadId": "1463546948622614538",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-7704415002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-7704415002",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-21T14:53:07.273Z",
+      "sourceDate": "2026-01-15T16:19:53-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704415002?gh_jid=7704415002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3518,
+    "totalJobs": 3541,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T14:36:26.946Z",
+      "date": "2026-01-21T14:53:07.273Z",
       "archived": 0
     }
   }
