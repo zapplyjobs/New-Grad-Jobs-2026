@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T16:16:37.438Z",
+  "lastUpdated": "2026-01-21T16:33:47.538Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-trueanomalyinc-jobs-4971623007-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-trueanomalyinc-jobs-4971623007",
-      "company": "True Anomaly",
-      "title": "Software Engineer 1 - Elixir",
-      "postedToDiscord": "2026-01-14T16:27:31.160Z",
-      "sourceDate": "2025-11-28T01:04:43.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4971623007",
-      "discordThreadId": "1461033989770055782",
-      "instanceNumber": 1
-    },
     {
       "id": "astemo-wd102-myworkdayjobs-com-global_career_site-job-farmington-hills-michigan-united-states-new-graduate-engineering-development-program-edp-_r0068868-2026-01-14-1",
       "jobId": "astemo-wd102-myworkdayjobs-com-global_career_site-job-farmington-hills-michigan-united-states-new-graduate-engineering-development-program-edp-_r0068868",
@@ -46827,14 +46816,343 @@
       "discordThreadId": "1463567969354256528",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "0ff803622f80c0a7-2026-01-21-1",
+      "jobId": "0ff803622f80c0a7",
+      "company": "brex",
+      "title": "Startups Account Executive",
+      "postedToDiscord": "2026-01-21T16:33:15.415Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8237738002?gh_jid=8237738002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463572161854836931",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:15.415Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463572169559904350",
+          "channelType": "location",
+          "postedAt": "2026-01-21T16:33:17.174Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8237738002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8237738002",
+      "company": "brex",
+      "title": "Startups Account Executive",
+      "postedToDiscord": "2026-01-21T16:33:18.698Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8237738002?gh_jid=8237738002",
+      "discordThreadId": "1463572161854836931",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8237737002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8237737002",
+      "company": "brex",
+      "title": "Startups Account Executive",
+      "postedToDiscord": "2026-01-21T16:33:18.725Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8237737002?gh_jid=8237737002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "212052ee4b58de19-2026-01-21-1",
+      "jobId": "212052ee4b58de19",
+      "company": "brex",
+      "title": "Startups Ambassador",
+      "postedToDiscord": "2026-01-21T16:33:18.931Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8308368002?gh_jid=8308368002",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463572176954331329",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:18.931Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8308368002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8308368002",
+      "company": "brex",
+      "title": "Startups Ambassador",
+      "postedToDiscord": "2026-01-21T16:33:20.456Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8308368002?gh_jid=8308368002",
+      "discordThreadId": "1463572176954331329",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8308452002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8308452002",
+      "company": "brex",
+      "title": "Startups Ambassador",
+      "postedToDiscord": "2026-01-21T16:33:20.479Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8308452002?gh_jid=8308452002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e2bca6068c4bf8b5-2026-01-21-1",
+      "jobId": "e2bca6068c4bf8b5",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Partnerships & Alliances",
+      "postedToDiscord": "2026-01-21T16:33:20.705Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983107008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463572184239702109",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:20.705Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983107008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983107008",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Partnerships & Alliances",
+      "postedToDiscord": "2026-01-21T16:33:22.229Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983107008",
+      "discordThreadId": "1463572184239702109",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3d7e683a5e0c6b3e-2026-01-21-1",
+      "jobId": "3d7e683a5e0c6b3e",
+      "company": "anthropic",
+      "title": "Senior Manager, Tax Operations, Provision & Compliance",
+      "postedToDiscord": "2026-01-21T16:33:22.441Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4974231008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463572191361761458",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:22.441Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4974231008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4974231008",
+      "company": "anthropic",
+      "title": "Senior Manager, Tax Operations, Provision & Compliance",
+      "postedToDiscord": "2026-01-21T16:33:23.965Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4974231008",
+      "discordThreadId": "1463572191361761458",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7dee505e21b4c552-2026-01-21-1",
+      "jobId": "7dee505e21b4c552",
+      "company": "brex",
+      "title": "Support Specialist I (Remote)",
+      "postedToDiscord": "2026-01-21T16:33:27.322Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8322493002?gh_jid=8322493002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463572211846873170",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:27.322Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463572219379843134",
+          "channelType": "location",
+          "postedAt": "2026-01-21T16:33:29.080Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8322493002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8322493002",
+      "company": "brex",
+      "title": "Support Specialist I (Remote)",
+      "postedToDiscord": "2026-01-21T16:33:30.610Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8322493002?gh_jid=8322493002",
+      "discordThreadId": "1463572211846873170",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a8bef5810b548045-2026-01-21-1",
+      "jobId": "a8bef5810b548045",
+      "company": "anthropic",
+      "title": "Policy Communications Manager",
+      "postedToDiscord": "2026-01-21T16:33:30.988Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463572226719617229",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:30.988Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4979661008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4979661008",
+      "company": "anthropic",
+      "title": "Policy Communications Manager",
+      "postedToDiscord": "2026-01-21T16:33:32.516Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
+      "discordThreadId": "1463572226719617229",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "125235fa0abea4a8-2026-01-21-1",
+      "jobId": "125235fa0abea4a8",
+      "company": "anthropic",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-21T16:33:32.806Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463572234827337791",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:32.806Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4899511008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4899511008",
+      "company": "anthropic",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-21T16:33:34.335Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+      "discordThreadId": "1463572234827337791",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "be711265d741ad25-2026-01-21-1",
+      "jobId": "be711265d741ad25",
+      "company": "anthropic",
+      "title": "Software Engineer, iOS",
+      "postedToDiscord": "2026-01-21T16:33:34.602Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463572242511167529",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:34.602Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4572744008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4572744008",
+      "company": "anthropic",
+      "title": "Software Engineer, iOS",
+      "postedToDiscord": "2026-01-21T16:33:36.127Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008",
+      "discordThreadId": "1463572242511167529",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b4bf7bb0350386ab-2026-01-21-1",
+      "jobId": "b4bf7bb0350386ab",
+      "company": "Uhaul",
+      "title": "Business Intelligence Analyst",
+      "postedToDiscord": "2026-01-21T16:33:39.345Z",
+      "sourceDate": "2025-12-10T14:50:14.000Z",
+      "sourceUrl": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Intelligence-Analyst_R233902",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463572262593761370",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:39.345Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463572269715554385",
+          "channelType": "location",
+          "postedAt": "2026-01-21T16:33:41.132Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "uhaul-wd1-myworkdayjobs-com-uhauljobs-job-phoenix-arizona-business-intelligence-analyst_r233902-2026-01-21-1",
+      "jobId": "uhaul-wd1-myworkdayjobs-com-uhauljobs-job-phoenix-arizona-business-intelligence-analyst_r233902",
+      "company": "Uhaul",
+      "title": "Business Intelligence Analyst",
+      "postedToDiscord": "2026-01-21T16:33:42.658Z",
+      "sourceDate": "2025-12-10T14:50:14.000Z",
+      "sourceUrl": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Intelligence-Analyst_R233902",
+      "discordThreadId": "1463572262593761370",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9c30bc6e9763974a-2026-01-21-1",
+      "jobId": "9c30bc6e9763974a",
+      "company": "anthropic",
+      "title": "Research Engineer – Cybersecurity RL",
+      "postedToDiscord": "2026-01-21T16:33:46.011Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463572290187821148",
+          "channelType": "category",
+          "postedAt": "2026-01-21T16:33:46.011Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025624008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025624008",
+      "company": "anthropic",
+      "title": "Research Engineer – Cybersecurity RL",
+      "postedToDiscord": "2026-01-21T16:33:47.538Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+      "discordThreadId": "1463572290187821148",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3651,
+    "totalJobs": 3672,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T16:16:37.438Z",
+      "date": "2026-01-21T16:33:47.538Z",
       "archived": 0
     }
   }
