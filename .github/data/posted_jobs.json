@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T06:18:23.966Z",
+  "lastUpdated": "2026-01-21T06:34:56.130Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-spacex-jobs-8320099002-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-spacex-jobs-8320099002",
-      "company": "SpaceX",
-      "title": "Mission Integration Engineer - Applied Computing - Starshield",
-      "postedToDiscord": "2026-01-14T06:27:42.513Z",
-      "sourceDate": "2025-12-06T01:19:11.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8320099002",
-      "discordThreadId": "1460883042045268084",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5017818008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017818008",
-      "company": "anthropic",
-      "title": "Corporate Communications Manager ",
-      "postedToDiscord": "2026-01-14T06:27:46.091Z",
-      "sourceDate": "2025-12-05T18:04:53-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
-      "discordThreadId": "1460883056834510850",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4929693008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929693008",
-      "company": "anthropic",
-      "title": "Security Engineer, Operating Systems",
-      "postedToDiscord": "2026-01-14T06:27:52.544Z",
-      "sourceDate": "2025-12-05T19:22:09-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
-      "discordThreadId": "1460883084458066103",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4929689008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929689008",
-      "company": "anthropic",
-      "title": "Systems Integrity Security Architect",
-      "postedToDiscord": "2026-01-14T06:27:55.965Z",
-      "sourceDate": "2025-12-05T19:18:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
-      "discordThreadId": "1460883098689601814",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-jobvite-com-nutanix-job-o7nwyfw8-2026-01-14-1",
-      "jobId": "jobs-jobvite-com-nutanix-job-o7nwyfw8",
-      "company": "Nutanix",
-      "title": "Software Engineer - Performance and Observability",
-      "postedToDiscord": "2026-01-14T06:27:59.418Z",
-      "sourceDate": "2025-12-05T23:24:47.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/o7NWyfw8?nl=1&nl=1&fr=false",
-      "discordThreadId": "1460883113130594305",
-      "instanceNumber": 1
-    },
-    {
-      "id": "onyx-insight-breezy-hr-p-c5b7ac562f7301-apply-2026-01-14-1",
-      "jobId": "onyx-insight-breezy-hr-p-c5b7ac562f7301-apply",
-      "company": "ONYX Insight",
-      "title": "Condition Monitoring Engineer",
-      "postedToDiscord": "2026-01-14T06:28:03.058Z",
-      "sourceDate": "2025-12-05T17:26:08.000Z",
-      "sourceUrl": "https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply",
-      "discordThreadId": "1460883127911055431",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-seal-beach-ca-linux-system-administrator_jr2025487641-2026-01-14-1",
-      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-seal-beach-ca-linux-system-administrator_jr2025487641",
-      "company": "The Boeing Company",
-      "title": "Linux System Administrator",
-      "postedToDiscord": "2026-01-14T06:28:09.491Z",
-      "sourceDate": "2025-12-05T23:43:00.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
-      "discordThreadId": "1460883155660570824",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-business-intelligence-analytics-sr-analyst_jr32249-2026-01-14-1",
-      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-business-intelligence-analytics-sr-analyst_jr32249",
-      "company": "University of Chicago",
-      "title": "Business Intelligence & Analytics Senior Analyst",
-      "postedToDiscord": "2026-01-14T06:28:14.811Z",
-      "sourceDate": "2025-12-05T23:38:57.000Z",
-      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249",
-      "discordThreadId": "1460883176108064853",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5699965004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5699965004",
-      "company": "figma",
-      "title": "Technical Recruiter",
-      "postedToDiscord": "2026-01-14T06:28:21.557Z",
-      "sourceDate": "2025-12-05T17:12:45-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004",
-      "discordThreadId": "1460883204910219287",
-      "instanceNumber": 1
-    },
-    {
-      "id": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200-2026-01-14-1",
-      "jobId": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200",
-      "company": "Corning",
-      "title": "Research Technician",
-      "postedToDiscord": "2026-01-14T06:28:28.015Z",
-      "sourceDate": "2025-12-05T18:28:08.000Z",
-      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Research-Technician-NY-14831/1347688200/?ats=successfactors",
-      "discordThreadId": "1460883233133822066",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5015340008-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015340008",
@@ -38758,14 +38648,319 @@
       "discordThreadId": "1463417421997281354",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "f9df3062662baf43-2026-01-21-1",
+      "jobId": "f9df3062662baf43",
+      "company": "airtable",
+      "title": "Senior Paralegal",
+      "postedToDiscord": "2026-01-21T06:34:29.918Z",
+      "sourceDate": "2026-01-16T17:46:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8303885002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421478929305646",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:29.918Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8303885002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8303885002",
+      "company": "airtable",
+      "title": "Senior Paralegal",
+      "postedToDiscord": "2026-01-21T06:34:31.465Z",
+      "sourceDate": "2026-01-16T17:46:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8303885002",
+      "discordThreadId": "1463421478929305646",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "93d7d49a915d0f68-2026-01-21-1",
+      "jobId": "93d7d49a915d0f68",
+      "company": "discord",
+      "title": "Staff Software Engineer - UI and Interactions (Full-Stack)",
+      "postedToDiscord": "2026-01-21T06:34:31.613Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8058456002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421486944485479",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:31.613Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463421493798240289",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:34:33.326Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-8058456002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-8058456002",
+      "company": "discord",
+      "title": "Staff Software Engineer - UI and Interactions (Full-Stack)",
+      "postedToDiscord": "2026-01-21T06:34:34.848Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8058456002",
+      "discordThreadId": "1463421486944485479",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9a2a130ee7c6d9c2-2026-01-21-1",
+      "jobId": "9a2a130ee7c6d9c2",
+      "company": "discord",
+      "title": "Staff Software Engineer – UI/UX Specialist",
+      "postedToDiscord": "2026-01-21T06:34:35.140Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7854326002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421501259907199",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:35.140Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463421508817784886",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:34:37.111Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-discord-jobs-7854326002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-discord-jobs-7854326002",
+      "company": "discord",
+      "title": "Staff Software Engineer – UI/UX Specialist",
+      "postedToDiscord": "2026-01-21T06:34:38.632Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7854326002",
+      "discordThreadId": "1463421501259907199",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "14dc091d5a0bc2ad-2026-01-21-1",
+      "jobId": "14dc091d5a0bc2ad",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (2-8 YOE)",
+      "postedToDiscord": "2026-01-21T06:34:38.992Z",
+      "sourceDate": "2026-01-13T11:42:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845293002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421517298798719",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:38.992Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7845293002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7845293002",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (2-8 YOE)",
+      "postedToDiscord": "2026-01-21T06:34:40.515Z",
+      "sourceDate": "2026-01-13T11:42:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845293002",
+      "discordThreadId": "1463421517298798719",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4b0d9d7185ab4ab0-2026-01-21-1",
+      "jobId": "4b0d9d7185ab4ab0",
+      "company": "figma",
+      "title": "Executive Assistant, Product Support ",
+      "postedToDiscord": "2026-01-21T06:34:40.826Z",
+      "sourceDate": "2025-12-18T18:49:15-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5575026004?gh_jid=5575026004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421524999405613",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:40.826Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5575026004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5575026004",
+      "company": "figma",
+      "title": "Executive Assistant, Product Support ",
+      "postedToDiscord": "2026-01-21T06:34:42.348Z",
+      "sourceDate": "2025-12-18T18:49:15-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5575026004?gh_jid=5575026004",
+      "discordThreadId": "1463421524999405613",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0c3e20032c216ece-2026-01-21-1",
+      "jobId": "0c3e20032c216ece",
+      "company": "airtable",
+      "title": "Account Executive, Commercial Accounts",
+      "postedToDiscord": "2026-01-21T06:34:42.544Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883535002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421532662534217",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:42.544Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7883535002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7883535002",
+      "company": "airtable",
+      "title": "Account Executive, Commercial Accounts",
+      "postedToDiscord": "2026-01-21T06:34:44.067Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883535002",
+      "discordThreadId": "1463421532662534217",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f200dd1933a43b8a-2026-01-21-1",
+      "jobId": "f200dd1933a43b8a",
+      "company": "airtable",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-21T06:34:44.590Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7891770002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421540384374836",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:44.590Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7891770002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7891770002",
+      "company": "airtable",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-21T06:34:46.113Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7891770002",
+      "discordThreadId": "1463421540384374836",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "940bab817206c0d5-2026-01-21-1",
+      "jobId": "940bab817206c0d5",
+      "company": "airtable",
+      "title": "Field Marketing Manager, East",
+      "postedToDiscord": "2026-01-21T06:34:46.282Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170126002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463421548202299597",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:46.282Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463421555399987336",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:34:47.985Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8170126002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8170126002",
+      "company": "airtable",
+      "title": "Field Marketing Manager, East",
+      "postedToDiscord": "2026-01-21T06:34:49.508Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170126002",
+      "discordThreadId": "1463421548202299597",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f8c06a071ffafdde-2026-01-21-1",
+      "jobId": "f8c06a071ffafdde",
+      "company": "airtable",
+      "title": "Product Security Engineer",
+      "postedToDiscord": "2026-01-21T06:34:52.829Z",
+      "sourceDate": "2026-01-14T16:09:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194662002",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463421575566069804",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:52.829Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8194662002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8194662002",
+      "company": "airtable",
+      "title": "Product Security Engineer",
+      "postedToDiscord": "2026-01-21T06:34:54.350Z",
+      "sourceDate": "2026-01-14T16:09:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194662002",
+      "discordThreadId": "1463421575566069804",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "03666ca76b2c9d71-2026-01-21-1",
+      "jobId": "03666ca76b2c9d71",
+      "company": "airtable",
+      "title": "Engineering Manager, AI Platform ",
+      "postedToDiscord": "2026-01-21T06:34:54.610Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8293251002",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463421583073874134",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:34:54.610Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8293251002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8293251002",
+      "company": "airtable",
+      "title": "Engineering Manager, AI Platform ",
+      "postedToDiscord": "2026-01-21T06:34:56.130Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8293251002",
+      "discordThreadId": "1463421583073874134",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3137,
+    "totalJobs": 3147,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T06:18:23.966Z",
+      "date": "2026-01-21T06:34:56.130Z",
       "archived": 0
     }
   }
