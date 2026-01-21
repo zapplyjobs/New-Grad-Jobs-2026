@@ -19,71 +19,81 @@
 
 const fs = require('fs');
 const path = require('path');
-const { decryptLog } = require('./encryption-utils');
 
 // Configuration
 const DATA_DIR = path.join(__dirname, '../../.github/data');
-const ENCRYPTED_JOBS_FILE = path.join(DATA_DIR, 'jobs-data-encrypted.json');
+const POSTED_JOBS_FILE = path.join(DATA_DIR, 'posted_jobs.json');
 const OUTPUT_DIR = DATA_DIR;
 const REPORT_FILE = path.join(OUTPUT_DIR, 'health-report.json');
-const PASSWORD = process.env.LOG_ENCRYPT_PASSWORD;
 
 /**
- * Load and decrypt jobs data from jobs-data-encrypted.json
+ * Load jobs data from posted_jobs.json
+ * This file contains the actual Discord posting status for each job
  */
 function loadJobs() {
-  if (!PASSWORD) {
-    console.error('❌ Error: LOG_ENCRYPT_PASSWORD environment variable not set');
-    console.error('   Set it with: export LOG_ENCRYPT_PASSWORD=your-password');
-    process.exit(1);
-  }
-
-  if (!fs.existsSync(ENCRYPTED_JOBS_FILE)) {
-    console.error(`❌ Encrypted jobs file not found: ${ENCRYPTED_JOBS_FILE}`);
+  if (!fs.existsSync(POSTED_JOBS_FILE)) {
+    console.error(`❌ Posted jobs file not found: ${POSTED_JOBS_FILE}`);
     process.exit(1);
   }
 
   try {
-    console.log('🔓 Decrypting jobs database...');
-    const encryptedData = JSON.parse(fs.readFileSync(ENCRYPTED_JOBS_FILE, 'utf8'));
-    const decryptedData = decryptLog(encryptedData, PASSWORD);
+    console.log('📂 Loading posted jobs database...');
+    const data = JSON.parse(fs.readFileSync(POSTED_JOBS_FILE, 'utf8'));
 
-    if (!decryptedData.jobs || !Array.isArray(decryptedData.jobs)) {
-      console.error('❌ Unexpected format: decrypted data does not contain jobs array');
+    // Handle both object with .jobs property and direct array
+    const jobs = data.jobs || data;
+
+    if (!Array.isArray(jobs)) {
+      console.error('❌ Unexpected format: posted_jobs.json does not contain jobs array');
       process.exit(1);
     }
 
-    console.log(`✅ Decrypted ${decryptedData.jobs.length} jobs\n`);
-    return decryptedData.jobs;
+    console.log(`✅ Loaded ${jobs.length} jobs\n`);
+    return jobs;
   } catch (error) {
-    console.error(`❌ Failed to decrypt jobs database: ${error.message}`);
+    console.error(`❌ Failed to load posted jobs: ${error.message}`);
     process.exit(1);
   }
 }
 
 /**
  * Analyze posting health
+ * @param {Array} jobs - All jobs from posted_jobs.json
+ * @param {boolean} last24hOnly - If true, only analyze jobs from last 24 hours
  */
-function analyzePostingHealth(jobs) {
-  const totalJobs = jobs.length;
+function analyzePostingHealth(jobs, last24hOnly = false) {
+  // Filter to last 24 hours if requested
+  let analyzedJobs = jobs;
+  if (last24hOnly) {
+    const now = Date.now();
+    const TWENTY_FOUR_HOURS = 24 * 60 * 60 * 1000;
+    analyzedJobs = jobs.filter(j => {
+      const postedDate = j.postedToDiscord || j.datePosted || j.date_posted;
+      if (!postedDate) return false;
+      return (now - new Date(postedDate)) < TWENTY_FOUR_HOURS;
+    });
+    console.log(`📅 Filtering to last 24 hours: ${analyzedJobs.length} of ${jobs.length} jobs\n`);
+  }
+
+  const totalJobs = analyzedJobs.length;
 
   // Jobs with V2 schema (discordPosts object)
-  const jobsWithDiscordPosts = jobs.filter(job =>
+  const jobsWithDiscordPosts = analyzedJobs.filter(job =>
     job.discordPosts && Object.keys(job.discordPosts).length > 0
   );
 
   // Jobs with empty discordPosts (posted to 0 channels - THE CRITICAL BUG)
-  const jobsWithZeroChannels = jobs.filter(job =>
+  const jobsWithZeroChannels = analyzedJobs.filter(job =>
     job.discordPosts && Object.keys(job.discordPosts).length === 0
   );
 
   // Jobs with legacy schema (discordThreadId)
-  const jobsWithLegacyPost = jobs.filter(job =>
+  const jobsWithLegacyPost = analyzedJobs.filter(job =>
     job.discordThreadId && !job.discordPosts
   );
 
   // Jobs with no schema at all (never processed)
-  const jobsNeverProcessed = jobs.filter(job =>
+  const jobsNeverProcessed = analyzedJobs.filter(job =>
     !job.discordPosts && !job.discordThreadId
   );
 
@@ -302,11 +312,15 @@ function writeGitHubSummary(summary) {
  * Main execution
  */
 function main() {
+  // Check for command-line flags
+  const args = process.argv.slice(2);
+  const last24hOnly = args.includes('--last-24h') || args.includes('--24h');
+
   console.log('🔍 Loading jobs data...');
   const jobs = loadJobs();
 
   console.log('📊 Analyzing posting health...');
-  const analysis = analyzePostingHealth(jobs);
+  const analysis = analyzePostingHealth(jobs, last24hOnly);
 
   // Generate reports
   generateConsoleReport(analysis);
