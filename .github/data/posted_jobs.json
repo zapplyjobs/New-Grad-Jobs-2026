@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T11:44:44.835Z",
+  "lastUpdated": "2026-01-21T11:57:19.609Z",
   "jobs": [
     {
       "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825-2026-01-14-1",
@@ -42765,14 +42765,329 @@
       "discordThreadId": "1463499549367734305",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "9a05985666b3ce07-2026-01-21-1",
+      "jobId": "9a05985666b3ce07",
+      "company": "gusto",
+      "title": "Jr. Onboarding Associate",
+      "postedToDiscord": "2026-01-21T11:56:44.167Z",
+      "sourceDate": "2026-01-20T17:45:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7140351",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463502572936499304",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:56:44.167Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gusto-jobs-7140351-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-gusto-jobs-7140351",
+      "company": "gusto",
+      "title": "Jr. Onboarding Associate",
+      "postedToDiscord": "2026-01-21T11:56:45.700Z",
+      "sourceDate": "2026-01-20T17:45:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7140351",
+      "discordThreadId": "1463502572936499304",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6d5efa7d256e65a0-2026-01-21-1",
+      "jobId": "6d5efa7d256e65a0",
+      "company": "anthropic",
+      "title": "Segment Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-21T11:56:45.930Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986738008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463502580683509844",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:56:45.930Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4986738008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4986738008",
+      "company": "anthropic",
+      "title": "Segment Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-21T11:56:47.456Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986738008",
+      "discordThreadId": "1463502580683509844",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9d02141f2d870e54-2026-01-21-1",
+      "jobId": "9d02141f2d870e54",
+      "company": "State Street",
+      "title": "Software Engineer 1 - Web Frameworks - Officer",
+      "postedToDiscord": "2026-01-21T11:56:47.612Z",
+      "sourceDate": "2025-12-12T17:11:16.000Z",
+      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463502588061290569",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:56:47.612Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1-2026-01-21-1",
+      "jobId": "statestreet-wd1-myworkdayjobs-com-global-job-burlington-massachusetts-software-engineer-i-web-frameworks-officer_r-779734-1",
+      "company": "State Street",
+      "title": "Software Engineer 1 - Web Frameworks - Officer",
+      "postedToDiscord": "2026-01-21T11:56:49.138Z",
+      "sourceDate": "2025-12-12T17:11:16.000Z",
+      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1",
+      "discordThreadId": "1463502588061290569",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "6e96ccc47574d0b0-2026-01-21-1",
+      "jobId": "6e96ccc47574d0b0",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Ent",
+      "postedToDiscord": "2026-01-21T11:56:49.305Z",
+      "sourceDate": "2025-12-11T23:44:58.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463502595082551519",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:56:49.305Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463502602607001642",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:56:51.450Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983-2026-01-21-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-colorado-colorado-springs-software-engineer-ent-25-585-_r10216983",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Ent",
+      "postedToDiscord": "2026-01-21T11:56:52.973Z",
+      "sourceDate": "2025-12-11T23:44:58.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983",
+      "discordThreadId": "1463502595082551519",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d6e18a6c39ec7b64-2026-01-21-1",
+      "jobId": "d6e18a6c39ec7b64",
+      "company": "figma",
+      "title": "Manager, Inside Sales",
+      "postedToDiscord": "2026-01-21T11:56:56.287Z",
+      "sourceDate": "2025-12-12T13:22:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735077004?gh_jid=5735077004",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463502623717068969",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:56:56.287Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463502630901776541",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:56:57.945Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5735077004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5735077004",
+      "company": "figma",
+      "title": "Manager, Inside Sales",
+      "postedToDiscord": "2026-01-21T11:56:59.469Z",
+      "sourceDate": "2025-12-12T13:22:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735077004?gh_jid=5735077004",
+      "discordThreadId": "1463502623717068969",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bc566aaa8dbccd89-2026-01-21-1",
+      "jobId": "bc566aaa8dbccd89",
+      "company": "Sensor Tower",
+      "title": "Product Analyst - Digital Advertising",
+      "postedToDiscord": "2026-01-21T11:57:02.709Z",
+      "sourceDate": "2025-12-12T16:16:40.000Z",
+      "sourceUrl": "https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463502651185434655",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:57:02.709Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-sensortower-99b82663-dc18-45b0-bb85-e59d3addbd5d-apply",
+      "company": "Sensor Tower",
+      "title": "Product Analyst - Digital Advertising",
+      "postedToDiscord": "2026-01-21T11:57:04.232Z",
+      "sourceDate": "2025-12-12T16:16:40.000Z",
+      "sourceUrl": "https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply",
+      "discordThreadId": "1463502651185434655",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a81868e7e75ddb8a-2026-01-21-1",
+      "jobId": "a81868e7e75ddb8a",
+      "company": "spotify",
+      "title": "Associate Director, Programmatic Platform Operations",
+      "postedToDiscord": "2026-01-21T11:57:04.423Z",
+      "sourceDate": "2025-12-12T15:00:00.855Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1c59f08a-6f03-451e-a4d5-966684acef74",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463502658248638486",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:57:04.423Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463502665731276842",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:57:06.240Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74",
+      "company": "spotify",
+      "title": "Associate Director, Programmatic Platform Operations",
+      "postedToDiscord": "2026-01-21T11:57:07.763Z",
+      "sourceDate": "2025-12-12T15:00:00.855Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1c59f08a-6f03-451e-a4d5-966684acef74",
+      "discordThreadId": "1463502658248638486",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1e0267531ad13393-2026-01-21-1",
+      "jobId": "1e0267531ad13393",
+      "company": "NVIDIA",
+      "title": "GPU and SoC Modelling Architect – New College Grad",
+      "postedToDiscord": "2026-01-21T11:57:08.015Z",
+      "sourceDate": "2025-12-12T02:18:54.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463502673272770622",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:57:08.015Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-and-soc-modelling-architect-new-college-grad-2026_jr2009934-2026-01-21-1",
+      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-gpu-and-soc-modelling-architect-new-college-grad-2026_jr2009934",
+      "company": "NVIDIA",
+      "title": "GPU and SoC Modelling Architect – New College Grad",
+      "postedToDiscord": "2026-01-21T11:57:09.538Z",
+      "sourceDate": "2025-12-12T02:18:54.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934",
+      "discordThreadId": "1463502673272770622",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "eee2a93526af42c5-2026-01-21-1",
+      "jobId": "eee2a93526af42c5",
+      "company": "RELX",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-21T11:57:12.758Z",
+      "sourceDate": "2025-12-12T07:14:29.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463502693208424490",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:57:12.758Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463502700149870643",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:57:14.427Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711-2026-01-21-1",
+      "jobId": "relx-wd3-myworkdayjobs-com-en-us-relx-job-phl-re-shared-services-manila-data-analyst_r105711",
+      "company": "RELX",
+      "title": "Data Analyst",
+      "postedToDiscord": "2026-01-21T11:57:15.951Z",
+      "sourceDate": "2025-12-12T07:14:29.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711",
+      "discordThreadId": "1463502693208424490",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4133f650c471b25e-2026-01-21-1",
+      "jobId": "4133f650c471b25e",
+      "company": "Ryan Specialty",
+      "title": "Business Intelligence Analyst",
+      "postedToDiscord": "2026-01-21T11:57:16.266Z",
+      "sourceDate": "2025-12-11T23:48:01.000Z",
+      "sourceUrl": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463502707741688013",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:57:16.266Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463502715299692677",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:57:18.083Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719-2026-01-21-1",
+      "jobId": "ryansg-wd5-myworkdayjobs-com-en-us-ryan_specialty_career_site-job-nashville-tennessee-burton-business-intelligence-analyst_jr25-3719",
+      "company": "Ryan Specialty",
+      "title": "Business Intelligence Analyst",
+      "postedToDiscord": "2026-01-21T11:57:19.608Z",
+      "sourceDate": "2025-12-11T23:48:01.000Z",
+      "sourceUrl": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719",
+      "discordThreadId": "1463502707741688013",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3379,
+    "totalJobs": 3399,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T11:44:44.835Z",
+      "date": "2026-01-21T11:57:19.609Z",
       "archived": 0
     }
   }
