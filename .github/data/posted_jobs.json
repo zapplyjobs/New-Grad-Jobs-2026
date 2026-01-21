@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T19:18:20.244Z",
+  "lastUpdated": "2026-01-21T19:33:13.581Z",
   "jobs": [
-    {
-      "id": "careers-bcg-com-global-en-job-55995-2026-01-14-1",
-      "jobId": "careers-bcg-com-global-en-job-55995",
-      "company": "Boston Consulting Group",
-      "title": "AI Engineer",
-      "postedToDiscord": "2026-01-14T19:25:57.429Z",
-      "sourceDate": "2025-11-25T01:02:15.000Z",
-      "sourceUrl": "https://careers.bcg.com/global/en/job/55995",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-altoslabs-jobs-5709084004-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-altoslabs-jobs-5709084004",
-      "company": "Altos Labs",
-      "title": "Machine Learning Engineer/Scientist - Multi Modality",
-      "postedToDiscord": "2026-01-14T19:26:00.817Z",
-      "sourceDate": "2025-11-24T23:40:51.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
-      "discordThreadId": "1461078909381644453",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4997951008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4997951008",
-      "company": "anthropic",
-      "title": "Customer Success Manager, Beneficial Deployments",
-      "postedToDiscord": "2026-01-14T19:26:07.575Z",
-      "sourceDate": "2025-11-24T21:50:04-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4997951008",
-      "discordThreadId": "1461078937068114256",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4996335008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4996335008",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Digital Native Business",
-      "postedToDiscord": "2026-01-14T19:26:11.122Z",
-      "sourceDate": "2025-11-24T09:04:36-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996335008",
-      "discordThreadId": "1461078952213745856",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-jobvite-com-nutanix-job-otkvyfwq-2026-01-14-1",
-      "jobId": "jobs-jobvite-com-nutanix-job-otkvyfwq",
-      "company": "Nutanix",
-      "title": "Software Engineer 1 - Python - Linux",
-      "postedToDiscord": "2026-01-14T19:26:17.632Z",
-      "sourceDate": "2025-11-25T00:58:31.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false",
-      "discordThreadId": "1461078979766390947",
-      "instanceNumber": 1
-    },
-    {
-      "id": "egay-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_4001-job-38504-2026-01-14-1",
-      "jobId": "egay-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_4001-job-38504",
-      "company": "NOV",
-      "title": "Sustaining Product Engineer",
-      "postedToDiscord": "2026-01-14T19:26:21.383Z",
-      "sourceDate": "2025-11-25T00:47:36.000Z",
-      "sourceUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504",
-      "discordThreadId": "1461078993989009502",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-supabase-4a7b66f8-9c95-4a60-8166-37dbb11d1446-2026-01-14-1",
-      "jobId": "jobs-ashbyhq-com-supabase-4a7b66f8-9c95-4a60-8166-37dbb11d1446",
-      "company": "supabase",
-      "title": "Developer Productivity Engineer",
-      "postedToDiscord": "2026-01-14T19:26:23.222Z",
-      "sourceDate": "2025-11-24T20:04:43.442+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/4a7b66f8-9c95-4a60-8166-37dbb11d1446",
-      "discordThreadId": "1461079010112045148",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2114720-2026-01-14-1",
-      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2114720",
-      "company": "KBR",
-      "title": "Operations Research Analyst-Foundational",
-      "postedToDiscord": "2026-01-14T19:26:30.046Z",
-      "sourceDate": "2025-11-23T16:49:53.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2114720",
-      "discordThreadId": "1461079030198439998",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cgg-wd103-myworkdayjobs-com-viridiencareers-job-houston-united-states-of-america-seismic-imaging-analyst_jr101070-2-2026-01-14-1",
-      "jobId": "cgg-wd103-myworkdayjobs-com-viridiencareers-job-houston-united-states-of-america-seismic-imaging-analyst_jr101070-2",
-      "company": "Viridien",
-      "title": "Seismic Imaging Analyst",
-      "postedToDiscord": "2026-01-14T19:26:33.601Z",
-      "sourceDate": "2025-11-23T15:00:16.000Z",
-      "sourceUrl": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2",
-      "discordThreadId": "1461079045918822614",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-bytedance-com-en-position-7561701015045769533-detail-2026-01-14-1",
       "jobId": "jobs-bytedance-com-en-position-7561701015045769533-detail",
@@ -48284,14 +48185,324 @@
       "discordThreadId": "1463613699020427386",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a5439bc6d2386f1c-2026-01-21-1",
+      "jobId": "a5439bc6d2386f1c",
+      "company": "spotify",
+      "title": "Data Scientist  - Business Analytics",
+      "postedToDiscord": "2026-01-21T19:32:42.931Z",
+      "sourceDate": "2025-12-18T16:59:11.283Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/27596acc-85c1-4c45-b4b9-669d1b37e068",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463617324438388889",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:32:42.931Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463617331837141012",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:32:44.680Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-27596acc-85c1-4c45-b4b9-669d1b37e068-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-27596acc-85c1-4c45-b4b9-669d1b37e068",
+      "company": "spotify",
+      "title": "Data Scientist  - Business Analytics",
+      "postedToDiscord": "2026-01-21T19:32:46.208Z",
+      "sourceDate": "2025-12-18T16:59:11.283Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/27596acc-85c1-4c45-b4b9-669d1b37e068",
+      "discordThreadId": "1463617324438388889",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a22df244c51b7826-2026-01-21-1",
+      "jobId": "a22df244c51b7826",
+      "company": "SpaceX",
+      "title": "Mission Integration Engineer - Applied Computing - Starshield",
+      "postedToDiscord": "2026-01-21T19:32:46.536Z",
+      "sourceDate": "2025-12-06T01:19:11.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8320099002",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463617339290288271",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:32:46.536Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8320099002-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8320099002",
+      "company": "SpaceX",
+      "title": "Mission Integration Engineer - Applied Computing - Starshield",
+      "postedToDiscord": "2026-01-21T19:32:48.067Z",
+      "sourceDate": "2025-12-06T01:19:11.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8320099002",
+      "discordThreadId": "1463617339290288271",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1b389f5f142fbf5a-2026-01-21-1",
+      "jobId": "1b389f5f142fbf5a",
+      "company": "anthropic",
+      "title": "Developer Relations, MCP",
+      "postedToDiscord": "2026-01-21T19:32:48.224Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463617346748026961",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:32:48.224Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015340008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015340008",
+      "company": "anthropic",
+      "title": "Developer Relations, MCP",
+      "postedToDiscord": "2026-01-21T19:32:49.752Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
+      "discordThreadId": "1463617346748026961",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "acfc006c2104f94b-2026-01-21-1",
+      "jobId": "acfc006c2104f94b",
+      "company": "The Boeing Company",
+      "title": "Linux System Administrator",
+      "postedToDiscord": "2026-01-21T19:32:53.154Z",
+      "sourceDate": "2025-12-05T23:43:00.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463617366809120942",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:32:53.154Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-seal-beach-ca-linux-system-administrator_jr2025487641-2026-01-21-1",
+      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-seal-beach-ca-linux-system-administrator_jr2025487641",
+      "company": "The Boeing Company",
+      "title": "Linux System Administrator",
+      "postedToDiscord": "2026-01-21T19:32:54.683Z",
+      "sourceDate": "2025-12-05T23:43:00.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
+      "discordThreadId": "1463617366809120942",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ad6854e14a04920f-2026-01-21-1",
+      "jobId": "ad6854e14a04920f",
+      "company": "University of Chicago",
+      "title": "Business Intelligence & Analytics Senior Analyst",
+      "postedToDiscord": "2026-01-21T19:32:54.864Z",
+      "sourceDate": "2025-12-05T23:38:57.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463617374451269733",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:32:54.864Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-business-intelligence-analytics-sr-analyst_jr32249-2026-01-21-1",
+      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-business-intelligence-analytics-sr-analyst_jr32249",
+      "company": "University of Chicago",
+      "title": "Business Intelligence & Analytics Senior Analyst",
+      "postedToDiscord": "2026-01-21T19:32:56.391Z",
+      "sourceDate": "2025-12-05T23:38:57.000Z",
+      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249",
+      "discordThreadId": "1463617374451269733",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "baaef47f3bdcb26f-2026-01-21-1",
+      "jobId": "baaef47f3bdcb26f",
+      "company": "Parsons",
+      "title": "Analytics/Dashboarding Analyst - Ada",
+      "postedToDiscord": "2026-01-21T19:32:56.591Z",
+      "sourceDate": "2025-12-05T07:16:18.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Mclean/Analytics-Dashboarding-Analyst--ADA-_R175222-1",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463617381690511534",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:32:56.591Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463617388770627719",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:32:58.242Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-va-mclean-analytics-dashboarding-analyst-ada-_r175222-1-2026-01-21-1",
+      "jobId": "parsons-wd5-myworkdayjobs-com-en-us-search-job-us-va-mclean-analytics-dashboarding-analyst-ada-_r175222-1",
+      "company": "Parsons",
+      "title": "Analytics/Dashboarding Analyst - Ada",
+      "postedToDiscord": "2026-01-21T19:32:59.767Z",
+      "sourceDate": "2025-12-05T07:16:18.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Mclean/Analytics-Dashboarding-Analyst--ADA-_R175222-1",
+      "discordThreadId": "1463617381690511534",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "965069123a36b112-2026-01-21-1",
+      "jobId": "965069123a36b112",
+      "company": "figma",
+      "title": "Technical Recruiter",
+      "postedToDiscord": "2026-01-21T19:33:03.035Z",
+      "sourceDate": "2025-12-05T17:12:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463617408383189247",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:33:03.035Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5699965004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5699965004",
+      "company": "figma",
+      "title": "Technical Recruiter",
+      "postedToDiscord": "2026-01-21T19:33:04.565Z",
+      "sourceDate": "2025-12-05T17:12:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004",
+      "discordThreadId": "1463617408383189247",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a111f649dd6fa394-2026-01-21-1",
+      "jobId": "a111f649dd6fa394",
+      "company": "Corning",
+      "title": "Research Technician",
+      "postedToDiscord": "2026-01-21T19:33:04.778Z",
+      "sourceDate": "2025-12-05T18:28:08.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Research-Technician-NY-14831/1347688200/?ats=successfactors",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463617415966359836",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:33:04.778Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463617423507718307",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:33:06.695Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200-2026-01-21-1",
+      "jobId": "corningjobs-corning-com-job-corning-research-technician-ny-14831-1347688200",
+      "company": "Corning",
+      "title": "Research Technician",
+      "postedToDiscord": "2026-01-21T19:33:08.226Z",
+      "sourceDate": "2025-12-05T18:28:08.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Research-Technician-NY-14831/1347688200/?ats=successfactors",
+      "discordThreadId": "1463617415966359836",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e0b7f27b3574a57f-2026-01-21-1",
+      "jobId": "e0b7f27b3574a57f",
+      "company": "ONYX Insight",
+      "title": "Condition Monitoring Engineer",
+      "postedToDiscord": "2026-01-21T19:33:08.421Z",
+      "sourceDate": "2025-12-05T17:26:08.000Z",
+      "sourceUrl": "https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463617431032434771",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:33:08.421Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463617438699491472",
+          "channelType": "location",
+          "postedAt": "2026-01-21T19:33:10.165Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "onyx-insight-breezy-hr-p-c5b7ac562f7301-apply-2026-01-21-1",
+      "jobId": "onyx-insight-breezy-hr-p-c5b7ac562f7301-apply",
+      "company": "ONYX Insight",
+      "title": "Condition Monitoring Engineer",
+      "postedToDiscord": "2026-01-21T19:33:11.692Z",
+      "sourceDate": "2025-12-05T17:26:08.000Z",
+      "sourceUrl": "https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply",
+      "discordThreadId": "1463617431032434771",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f01323fad324dc6e-2026-01-21-1",
+      "jobId": "f01323fad324dc6e",
+      "company": "SpaceX",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T19:33:12.051Z",
+      "sourceDate": "2025-12-05T07:20:15.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8324788002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463617446140313723",
+          "channelType": "category",
+          "postedAt": "2026-01-21T19:33:12.051Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-spacex-jobs-8324788002-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-spacex-jobs-8324788002",
+      "company": "SpaceX",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T19:33:13.580Z",
+      "sourceDate": "2025-12-05T07:20:15.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8324788002",
+      "discordThreadId": "1463617446140313723",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3736,
+    "totalJobs": 3747,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T19:18:20.244Z",
+      "date": "2026-01-21T19:33:13.581Z",
       "archived": 0
     }
   }
