@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T08:03:56.284Z",
+  "lastUpdated": "2026-01-21T08:15:30.054Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-amplitude-jobs-8224986002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-amplitude-jobs-8224986002",
-      "company": "Amplitude",
-      "title": "Software Engineer 1 - Data Warehouse",
-      "postedToDiscord": "2026-01-14T08:07:16.666Z",
-      "sourceDate": "2025-12-02T02:39:24.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/amplitude/jobs/8224986002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "zetaglobal-com-jobs-jobs-at-zeta-global-2026-01-14-1",
-      "jobId": "zetaglobal-com-jobs-jobs-at-zeta-global",
-      "company": "Zeta Global",
-      "title": "Associate – Data Cloud Solutions",
-      "postedToDiscord": "2026-01-14T08:07:20.167Z",
-      "sourceDate": "2025-12-02T01:39:41.000Z",
-      "sourceUrl": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
-      "discordThreadId": "1460908114349129749",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nexthopai-bamboohr-com-careers-24-2026-01-14-1",
-      "jobId": "nexthopai-bamboohr-com-careers-24",
-      "company": "Nexthop.ai",
-      "title": "Software Engineer – New Grad",
-      "postedToDiscord": "2026-01-14T08:07:23.596Z",
-      "sourceDate": "2025-12-01T23:10:05.000Z",
-      "sourceUrl": "https://nexthopai.bamboohr.com/careers/24/",
-      "discordThreadId": "1460908128789987451",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-cisco-com-global-en-job-2000087-2026-01-14-1",
-      "jobId": "careers-cisco-com-global-en-job-2000087",
-      "company": "Cisco",
-      "title": "Software Engineer Full Stack & Application Development 1",
-      "postedToDiscord": "2026-01-14T08:07:27.133Z",
-      "sourceDate": "2025-12-01T23:09:34.000Z",
-      "sourceUrl": "https://careers.cisco.com/global/en/job/2000087",
-      "discordThreadId": "1460908143708995584",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5722244004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5722244004",
-      "company": "figma",
-      "title": "Manager, Software Engineering - Billing",
-      "postedToDiscord": "2026-01-14T08:07:30.677Z",
-      "sourceDate": "2025-12-01T13:41:32-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004",
-      "discordThreadId": "1460908158146052167",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8305665002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8305665002",
-      "company": "discord",
-      "title": "Director, Global Payments Strategy and Operations",
-      "postedToDiscord": "2026-01-14T08:07:43.544Z",
-      "sourceDate": "2025-12-01T20:35:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
-      "discordThreadId": "1460908212420349994",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-ion-2b8f5185-70e2-4c73-8c85-3a961af411fd-apply-2026-01-14-1",
-      "jobId": "jobs-lever-co-ion-2b8f5185-70e2-4c73-8c85-3a961af411fd-apply",
-      "company": "ION Group",
-      "title": "Software Developer - Leadership Development Program - Uniondale",
-      "postedToDiscord": "2026-01-14T08:07:50.193Z",
-      "sourceDate": "2025-12-01T23:11:51.000Z",
-      "sourceUrl": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
-      "discordThreadId": "1460908239767212165",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5637558004-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5637558004",
-      "company": "vercel",
-      "title": "Lifecycle Marketing Manager",
-      "postedToDiscord": "2026-01-14T08:07:56.779Z",
-      "sourceDate": "2025-12-01T12:22:17-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
-      "discordThreadId": "1460908267755671698",
-      "instanceNumber": 1
-    },
     {
       "id": "onelineage-wd1-myworkdayjobs-com-external-job-novi-mi-humboldt-drive-associate-report-developer_r0097857-2026-01-14-1",
       "jobId": "onelineage-wd1-myworkdayjobs-com-external-job-novi-mi-humboldt-drive-associate-report-developer_r0097857",
@@ -39562,14 +39474,336 @@
       "discordThreadId": null,
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "a4e40a9ceb26e506-2026-01-21-1",
+      "jobId": "a4e40a9ceb26e506",
+      "company": "datadog",
+      "title": "Senior Product Manager - Cost and Usage Experience",
+      "postedToDiscord": "2026-01-21T08:14:56.804Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7411148/?gh_jid=7411148",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446758330863616",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:14:56.804Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463446765469437965",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:14:58.656Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7411148-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-7411148",
+      "company": "datadog",
+      "title": "Senior Product Manager - Cost and Usage Experience",
+      "postedToDiscord": "2026-01-21T08:15:00.178Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7411148/?gh_jid=7411148",
+      "discordThreadId": "1463446758330863616",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "careers-datadoghq-com-detail-7065807-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-7065807",
+      "company": "datadog",
+      "title": "Senior Product Manager - Database AI Optimization",
+      "postedToDiscord": "2026-01-21T08:15:00.202Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7065807/?gh_jid=7065807",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "f88f9de3f2e174b0-2026-01-21-1",
+      "jobId": "f88f9de3f2e174b0",
+      "company": "airtable",
+      "title": "Senior Enterprise Marketing Manager",
+      "postedToDiscord": "2026-01-21T08:15:00.705Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8230656002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446773929607213",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:00.705Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8230656002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8230656002",
+      "company": "airtable",
+      "title": "Senior Enterprise Marketing Manager",
+      "postedToDiscord": "2026-01-21T08:15:02.234Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8230656002",
+      "discordThreadId": "1463446773929607213",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1a7188a15e65a928-2026-01-21-1",
+      "jobId": "1a7188a15e65a928",
+      "company": "airtable",
+      "title": "Senior Growth Marketing Manager, Builders",
+      "postedToDiscord": "2026-01-21T08:15:02.640Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8077213002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446782401974423",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:02.640Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-8077213002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-8077213002",
+      "company": "airtable",
+      "title": "Senior Growth Marketing Manager, Builders",
+      "postedToDiscord": "2026-01-21T08:15:04.164Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8077213002",
+      "discordThreadId": "1463446782401974423",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ea32ca942f876689-2026-01-21-1",
+      "jobId": "ea32ca942f876689",
+      "company": "airtable",
+      "title": "Technical Sourcer (Contract)",
+      "postedToDiscord": "2026-01-21T08:15:04.400Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7695026002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446790178209832",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:04.400Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-airtable-jobs-7695026002-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-airtable-jobs-7695026002",
+      "company": "airtable",
+      "title": "Technical Sourcer (Contract)",
+      "postedToDiscord": "2026-01-21T08:15:05.923Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7695026002",
+      "discordThreadId": "1463446790178209832",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bd60e89398ebadbb-2026-01-21-1",
+      "jobId": "bd60e89398ebadbb",
+      "company": "NV5 Global",
+      "title": "GIS Technician",
+      "postedToDiscord": "2026-01-21T08:15:06.196Z",
+      "sourceDate": "2025-12-18T23:33:34.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446797492944907",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:06.196Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463446804652752949",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:15:07.916Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-nv5-icims-com-jobs-11006-job-2026-01-21-1",
+      "jobId": "careers-nv5-icims-com-jobs-11006-job",
+      "company": "NV5 Global",
+      "title": "GIS Technician",
+      "postedToDiscord": "2026-01-21T08:15:09.441Z",
+      "sourceDate": "2025-12-18T23:33:34.000Z",
+      "sourceUrl": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1463446797492944907",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e2a7148a7532ec74-2026-01-21-1",
+      "jobId": "e2a7148a7532ec74",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2026-01-21T08:15:09.924Z",
+      "sourceDate": "2025-12-18T23:16:48.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446813016195212",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:09.924Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-figureai-jobs-4627111006-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-figureai-jobs-4627111006",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "postedToDiscord": "2026-01-21T08:15:11.448Z",
+      "sourceDate": "2025-12-18T23:16:48.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
+      "discordThreadId": "1463446813016195212",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0784e77cda238dc8-2026-01-21-1",
+      "jobId": "0784e77cda238dc8",
+      "company": "Altamira Technologies",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-21T08:15:11.776Z",
+      "sourceDate": "2025-12-18T23:07:45.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446820230533132",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:11.776Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463446828329734252",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:15:13.791Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-jobvite-com-altamiracorps-job-oms6yfwc-2026-01-21-1",
+      "jobId": "jobs-jobvite-com-altamiracorps-job-oms6yfwc",
+      "company": "Altamira Technologies",
+      "title": "Junior Software Engineer",
+      "postedToDiscord": "2026-01-21T08:15:15.316Z",
+      "sourceDate": "2025-12-18T23:07:45.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
+      "discordThreadId": "1463446820230533132",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fc82e302a8985267-2026-01-21-1",
+      "jobId": "fc82e302a8985267",
+      "company": "University of Texas - Austin",
+      "title": "Algorithm and Analysis Software Engineer Scientist Associate",
+      "postedToDiscord": "2026-01-21T08:15:15.567Z",
+      "sourceDate": "2025-12-18T23:01:52.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463446836844036096",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:15.567Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737-2026-01-21-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-algorithm-and-analysis-software-engineering-scientist-associate_r_00043737",
+      "company": "University of Texas - Austin",
+      "title": "Algorithm and Analysis Software Engineer Scientist Associate",
+      "postedToDiscord": "2026-01-21T08:15:17.092Z",
+      "sourceDate": "2025-12-18T23:01:52.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
+      "discordThreadId": "1463446836844036096",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "56dd86af7a118067-2026-01-21-1",
+      "jobId": "56dd86af7a118067",
+      "company": "spotify",
+      "title": "Data Engineer - Personalization",
+      "postedToDiscord": "2026-01-21T08:15:21.685Z",
+      "sourceDate": "2025-05-30T14:32:00.197Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/0a18487e-fa19-4cbc-932a-f05176db3a97",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463446856918106228",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:21.685Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463446870008533034",
+          "channelType": "location",
+          "postedAt": "2026-01-21T08:15:23.649Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-0a18487e-fa19-4cbc-932a-f05176db3a97-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-0a18487e-fa19-4cbc-932a-f05176db3a97",
+      "company": "spotify",
+      "title": "Data Engineer - Personalization",
+      "postedToDiscord": "2026-01-21T08:15:25.173Z",
+      "sourceDate": "2025-05-30T14:32:00.197Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/0a18487e-fa19-4cbc-932a-f05176db3a97",
+      "discordThreadId": "1463446856918106228",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ee531bc6f89e4261-2026-01-21-1",
+      "jobId": "ee531bc6f89e4261",
+      "company": "anthropic",
+      "title": "Finance Variable Compensation Lead",
+      "postedToDiscord": "2026-01-21T08:15:28.527Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463446890883321887",
+          "channelType": "category",
+          "postedAt": "2026-01-21T08:15:28.527Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4831485008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4831485008",
+      "company": "anthropic",
+      "title": "Finance Variable Compensation Lead",
+      "postedToDiscord": "2026-01-21T08:15:30.053Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
+      "discordThreadId": "1463446890883321887",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3174,
+    "totalJobs": 3187,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T08:03:56.284Z",
+      "date": "2026-01-21T08:15:30.054Z",
       "archived": 0
     }
   }
