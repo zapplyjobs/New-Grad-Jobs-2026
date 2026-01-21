@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T11:31:20.305Z",
+  "lastUpdated": "2026-01-21T11:44:44.835Z",
   "jobs": [
-    {
-      "id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581-2026-01-14-1",
-      "jobId": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581",
-      "company": "Citi",
-      "title": "Technology - Application Development",
-      "postedToDiscord": "2026-01-14T11:39:39.741Z",
-      "sourceDate": "2025-12-01T05:14:10.000Z",
-      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-developer-technology-engineer-public-sector-new-college-grad-2026_jr2008990-2026-01-14-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-developer-technology-engineer-public-sector-new-college-grad-2026_jr2008990",
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineer – New College Grad - Public Sector",
-      "postedToDiscord": "2026-01-14T11:39:43.704Z",
-      "sourceDate": "2025-12-01T05:10:31.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
-      "discordThreadId": "1460961562830307369",
-      "instanceNumber": 1
-    },
-    {
-      "id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-technology-application-development-full-time-analyst-tampa-usa-2026_25920348-2026-01-14-1",
-      "jobId": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-technology-application-development-full-time-analyst-tampa-usa-2026_25920348",
-      "company": "Citi",
-      "title": "Technology - Application Development - Full Time Analyst",
-      "postedToDiscord": "2026-01-14T11:39:47.568Z",
-      "sourceDate": "2025-11-30T20:44:45.000Z",
-      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
-      "discordThreadId": "1460961578802479221",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5722839004-2026-01-14-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5722839004",
-      "company": "figma",
-      "title": "Manager, GTM Finance",
-      "postedToDiscord": "2026-01-14T11:39:54.018Z",
-      "sourceDate": "2025-12-01T00:10:22-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
-      "discordThreadId": "1460961608040845375",
-      "instanceNumber": 1
-    },
     {
       "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825-2026-01-14-1",
       "jobId": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-java-developer-associate_pt-jr024825",
@@ -42473,14 +42429,350 @@
       "discordThreadId": "1463496174815285343",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "70bd8d4d81293ca1-2026-01-21-1",
+      "jobId": "70bd8d4d81293ca1",
+      "company": "anthropic",
+      "title": "Software Engineer, Sandboxing (Systems)",
+      "postedToDiscord": "2026-01-21T11:44:17.321Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463499440383070396",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:17.321Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5025591008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5025591008",
+      "company": "anthropic",
+      "title": "Software Engineer, Sandboxing (Systems)",
+      "postedToDiscord": "2026-01-21T11:44:18.855Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008",
+      "discordThreadId": "1463499440383070396",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e048c26900d0f733-2026-01-21-1",
+      "jobId": "e048c26900d0f733",
+      "company": "Arkansas Children's",
+      "title": "Digital Services Coordinator 1",
+      "postedToDiscord": "2026-01-21T11:44:19.175Z",
+      "sourceDate": "2025-12-12T23:35:09.000Z",
+      "sourceUrl": "https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Digital-Services-Coordinator-I_R0022409",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463499448419221692",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:19.175Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463499455784288391",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:44:20.862Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409-2026-01-21-1",
+      "jobId": "archildrens-wd1-myworkdayjobs-com-external_career_site-job-little-rock-digital-services-coordinator-i_r0022409",
+      "company": "Arkansas Children's",
+      "title": "Digital Services Coordinator 1",
+      "postedToDiscord": "2026-01-21T11:44:22.387Z",
+      "sourceDate": "2025-12-12T23:35:09.000Z",
+      "sourceUrl": "https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Digital-Services-Coordinator-I_R0022409",
+      "discordThreadId": "1463499448419221692",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8f1d4a5b6f2b69de-2026-01-21-1",
+      "jobId": "8f1d4a5b6f2b69de",
+      "company": "Perle",
+      "title": "Cantonese Language Specialist",
+      "postedToDiscord": "2026-01-21T11:44:22.860Z",
+      "sourceDate": "2025-12-12T23:17:09.000Z",
+      "sourceUrl": "https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463499463313326220",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:22.860Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463499471294959670",
+          "channelType": "location",
+          "postedAt": "2026-01-21T11:44:24.633Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889-2026-01-21-1",
+      "jobId": "ats-rippling-com-perle-jobs-7cc32593-f7cc-468d-95f1-dc41dc088889",
+      "company": "Perle",
+      "title": "Cantonese Language Specialist",
+      "postedToDiscord": "2026-01-21T11:44:26.157Z",
+      "sourceDate": "2025-12-12T23:17:09.000Z",
+      "sourceUrl": "https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889",
+      "discordThreadId": "1463499463313326220",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "fcfcfb34f039dfbc-2026-01-21-1",
+      "jobId": "fcfcfb34f039dfbc",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-21T11:44:26.402Z",
+      "sourceDate": "2025-12-12T18:00:39-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339283002?gh_jid=8339283002",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463499478924529765",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:26.402Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-brex-com-careers-8339283002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8339283002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-21T11:44:27.926Z",
+      "sourceDate": "2025-12-12T18:00:39-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339283002?gh_jid=8339283002",
+      "discordThreadId": "1463499478924529765",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8339277002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8339277002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-21T11:44:27.952Z",
+      "sourceDate": "2025-12-12T18:00:05-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339277002?gh_jid=8339277002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "www-brex-com-careers-8339252002-2026-01-21-1",
+      "jobId": "www-brex-com-careers-8339252002",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-21T11:44:27.975Z",
+      "sourceDate": "2025-12-12T18:00:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339252002?gh_jid=8339252002",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d772cea62ff6f4b0-2026-01-21-1",
+      "jobId": "d772cea62ff6f4b0",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2026-01-21T11:44:31.201Z",
+      "sourceDate": "2025-12-19T00:13:12.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463499499266904064",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:31.201Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-ctccampusboard-jobs-4616636005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "postedToDiscord": "2026-01-21T11:44:32.725Z",
+      "sourceDate": "2025-12-19T00:13:12.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005",
+      "discordThreadId": "1463499499266904064",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "aa84153039845666-2026-01-21-1",
+      "jobId": "aa84153039845666",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow - AI Driven Precision Oncology",
+      "postedToDiscord": "2026-01-21T11:44:32.957Z",
+      "sourceDate": "2025-12-13T11:03:34.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow--AI-Driven-Precision-Oncology_R_00039870-1",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463499506447421484",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:32.957Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1-2026-01-21-1",
+      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow - AI Driven Precision Oncology",
+      "postedToDiscord": "2026-01-21T11:44:34.480Z",
+      "sourceDate": "2025-12-13T11:03:34.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow--AI-Driven-Precision-Oncology_R_00039870-1",
+      "discordThreadId": "1463499506447421484",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "968d3535c82d1ee3-2026-01-21-1",
+      "jobId": "968d3535c82d1ee3",
+      "company": "Motorola",
+      "title": "Applications Programmer",
+      "postedToDiscord": "2026-01-21T11:44:34.732Z",
+      "sourceDate": "2025-12-13T00:16:20.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463499513326207001",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:34.732Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-applications-programmer_r59946-2026-01-21-1",
+      "jobId": "motorolasolutions-wd5-myworkdayjobs-com-careers-job-schaumburg-il-applications-programmer_r59946",
+      "company": "Motorola",
+      "title": "Applications Programmer",
+      "postedToDiscord": "2026-01-21T11:44:36.254Z",
+      "sourceDate": "2025-12-13T00:16:20.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946",
+      "discordThreadId": "1463499513326207001",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ceec1f5cb8fb64e8-2026-01-21-1",
+      "jobId": "ceec1f5cb8fb64e8",
+      "company": "Tinder",
+      "title": "Data Scientist 2 - Growth",
+      "postedToDiscord": "2026-01-21T11:44:36.640Z",
+      "sourceDate": "2025-12-12T23:15:48.000Z",
+      "sourceUrl": "https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463499521077022826",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:36.640Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-matchgroup-aff4cec0-abaf-44bc-adfc-e99e740f5c3a-apply",
+      "company": "Tinder",
+      "title": "Data Scientist 2 - Growth",
+      "postedToDiscord": "2026-01-21T11:44:38.164Z",
+      "sourceDate": "2025-12-12T23:15:48.000Z",
+      "sourceUrl": "https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply",
+      "discordThreadId": "1463499521077022826",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8d8da129e36a9c16-2026-01-21-1",
+      "jobId": "8d8da129e36a9c16",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Hosted Events",
+      "postedToDiscord": "2026-01-21T11:44:38.401Z",
+      "sourceDate": "2025-12-12T20:32:27.093Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463499529247653962",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:38.401Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-107bb272-9e09-42de-8dee-a0c9a41209d6-2026-01-21-1",
+      "jobId": "jobs-lever-co-gohighlevel-107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Hosted Events",
+      "postedToDiscord": "2026-01-21T11:44:39.926Z",
+      "sourceDate": "2025-12-12T20:32:27.093Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "discordThreadId": "1463499529247653962",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "jobs-lever-co-gohighlevel-f23300a5-68af-47ed-b6cc-e95b06c6b54f-2026-01-21-1",
+      "jobId": "jobs-lever-co-gohighlevel-f23300a5-68af-47ed-b6cc-e95b06c6b54f",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Sponsored Events",
+      "postedToDiscord": "2026-01-21T11:44:39.951Z",
+      "sourceDate": "2025-12-12T20:06:39.412Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/f23300a5-68af-47ed-b6cc-e95b06c6b54f",
+      "discordThreadId": null,
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9c87f94d14edcbc7-2026-01-21-1",
+      "jobId": "9c87f94d14edcbc7",
+      "company": "Protiviti",
+      "title": "Americas Delivery Center Technology Experienced Analyst",
+      "postedToDiscord": "2026-01-21T11:44:43.311Z",
+      "sourceDate": "2025-12-12T23:23:23.000Z",
+      "sourceUrl": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463499549367734305",
+          "channelType": "category",
+          "postedAt": "2026-01-21T11:44:43.311Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1-2026-01-21-1",
+      "jobId": "roberthalf-wd1-myworkdayjobs-com-protivitiexperiencedcareers-job-cincinnati-americas-delivery-center-technology-experienced-analyst_jr-259121-1",
+      "company": "Protiviti",
+      "title": "Americas Delivery Center Technology Experienced Analyst",
+      "postedToDiscord": "2026-01-21T11:44:44.834Z",
+      "sourceDate": "2025-12-12T23:23:23.000Z",
+      "sourceUrl": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1",
+      "discordThreadId": "1463499549367734305",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3360,
+    "totalJobs": 3379,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T11:31:20.305Z",
+      "date": "2026-01-21T11:44:44.835Z",
       "archived": 0
     }
   }
