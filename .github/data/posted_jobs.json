@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T21:32:56.247Z",
+  "lastUpdated": "2026-01-21T21:47:47.473Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4942024008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4942024008",
-      "company": "anthropic",
-      "title": "Software Engineer, Beneficial Deployments ",
-      "postedToDiscord": "2026-01-14T21:41:59.229Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
-      "discordThreadId": "1461113128204107797",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4816199008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4816199008",
-      "company": "anthropic",
-      "title": "Software Engineer, Claude Code",
-      "postedToDiscord": "2026-01-14T21:42:02.755Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4816199008",
-      "discordThreadId": "1461113142401695940",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4980420008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980420008",
-      "company": "anthropic",
-      "title": "Software Engineer, Desktop",
-      "postedToDiscord": "2026-01-14T21:42:10.610Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980420008",
-      "discordThreadId": "1461113169949753561",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4902636008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4902636008",
-      "company": "anthropic",
-      "title": "Software Engineer, Public Sector",
-      "postedToDiscord": "2026-01-14T21:42:14.118Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4902636008",
-      "discordThreadId": "1461113190686392372",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4561282008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4561282008",
-      "company": "anthropic",
-      "title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
-      "postedToDiscord": "2026-01-14T21:42:17.601Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4561282008",
-      "discordThreadId": "1461113205018460412",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4989788008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4989788008",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Security",
-      "postedToDiscord": "2026-01-14T21:42:21.081Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
-      "discordThreadId": "1461113219442544866",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4983644008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983644008",
-      "company": "anthropic",
-      "title": "Support Operations Specialist",
-      "postedToDiscord": "2026-01-14T21:42:27.500Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983644008",
-      "discordThreadId": "1461113246655320188",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4913784008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4913784008",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Inference",
-      "postedToDiscord": "2026-01-14T21:42:33.982Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
-      "discordThreadId": "1461113273440272472",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31451-2026-01-14-1",
-      "jobId": "uchicago-wd5-myworkdayjobs-com-external-job-chicago-il-research-professional_jr31451",
-      "company": "University of Chicago",
-      "title": "Research Professional",
-      "postedToDiscord": "2026-01-14T21:42:40.555Z",
-      "sourceDate": "2025-11-22T10:59:50.000Z",
-      "sourceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31451",
-      "discordThreadId": "1461113300740735163",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2111121-2026-01-14-1",
-      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-arlington-virginia-operations-research-analyst-foundational_r2111121",
-      "company": "KBR",
-      "title": "Operations Research Analyst-Foundational",
-      "postedToDiscord": "2026-01-14T21:42:47.089Z",
-      "sourceDate": "2025-11-22T10:41:51.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2111121",
-      "discordThreadId": "1461113328159166486",
-      "instanceNumber": 1
-    },
     {
       "id": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-engineer-1_r0149307-2026-01-14-1",
       "jobId": "pae-wd1-myworkdayjobs-com-en-us-amentum_careers-job-us-va-fredericksburg-entry-level-software-engineer-1_r0149307",
@@ -49716,9 +49606,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463647445006417973",
+          "messageId": "1463651187503923473",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:24.326Z"
+          "postedAt": "2026-01-21T21:47:16.568Z"
         }
       },
       "instanceNumber": 1
@@ -49733,14 +49623,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463647452203712641",
+          "messageId": "1463651194789560529",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:26.057Z"
+          "postedAt": "2026-01-21T21:47:18.265Z"
         },
         "1462989305181114450": {
-          "messageId": "1463647459694612586",
+          "messageId": "1463651202305626154",
           "channelType": "location",
-          "postedAt": "2026-01-21T21:32:27.813Z"
+          "postedAt": "2026-01-21T21:47:20.030Z"
         }
       },
       "instanceNumber": 1
@@ -49755,14 +49645,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463647467202543711",
+          "messageId": "1463651209469493319",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:29.552Z"
+          "postedAt": "2026-01-21T21:47:21.868Z"
         },
         "1462988831530680422": {
-          "messageId": "1463647474790174801",
+          "messageId": "1463651216763654373",
           "channelType": "location",
-          "postedAt": "2026-01-21T21:32:31.448Z"
+          "postedAt": "2026-01-21T21:47:23.544Z"
         }
       },
       "instanceNumber": 1
@@ -49777,9 +49667,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463647482574672068",
+          "messageId": "1463651224061743374",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:33.336Z"
+          "postedAt": "2026-01-21T21:47:25.283Z"
         }
       },
       "instanceNumber": 1
@@ -49794,14 +49684,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463647490392981748",
+          "messageId": "1463651231409901612",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:35.054Z"
+          "postedAt": "2026-01-21T21:47:27.133Z"
         },
         "1462988831530680422": {
-          "messageId": "1463647497183297744",
+          "messageId": "1463651239173689568",
           "channelType": "location",
-          "postedAt": "2026-01-21T21:32:36.915Z"
+          "postedAt": "2026-01-21T21:47:28.870Z"
         }
       },
       "instanceNumber": 1
@@ -49816,9 +49706,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463647517995696171",
+          "messageId": "1463651258924667065",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:41.664Z"
+          "postedAt": "2026-01-21T21:47:33.671Z"
         }
       },
       "instanceNumber": 1
@@ -49833,14 +49723,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463647525264167035",
+          "messageId": "1463651266872868877",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:43.365Z"
+          "postedAt": "2026-01-21T21:47:35.568Z"
         },
         "1462989305181114450": {
-          "messageId": "1463647532432232635",
+          "messageId": "1463651274686992625",
           "channelType": "location",
-          "postedAt": "2026-01-21T21:32:45.116Z"
+          "postedAt": "2026-01-21T21:47:37.358Z"
         }
       },
       "instanceNumber": 1
@@ -49855,9 +49745,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463647539801624596",
+          "messageId": "1463651282056380562",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:46.892Z"
+          "postedAt": "2026-01-21T21:47:39.157Z"
         }
       },
       "instanceNumber": 1
@@ -49872,14 +49762,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463647547380863037",
+          "messageId": "1463651289534824596",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:48.750Z"
+          "postedAt": "2026-01-21T21:47:40.863Z"
         },
         "1462989305181114450": {
-          "messageId": "1463647558164545667",
+          "messageId": "1463651297055080541",
           "channelType": "location",
-          "postedAt": "2026-01-21T21:32:51.289Z"
+          "postedAt": "2026-01-21T21:47:42.702Z"
         }
       },
       "instanceNumber": 1
@@ -49894,20 +49784,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463647578921893888",
+          "messageId": "1463651317091270688",
           "channelType": "category",
-          "postedAt": "2026-01-21T21:32:56.246Z"
+          "postedAt": "2026-01-21T21:47:47.472Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3817,
+    "totalJobs": 3807,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T21:32:56.247Z",
+      "date": "2026-01-21T21:47:47.473Z",
       "archived": 0
     }
   }
