@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T19:50:28.130Z",
+  "lastUpdated": "2026-01-21T20:03:08.924Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4980504008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4980504008",
-      "company": "anthropic",
-      "title": "Commercial Legal Specialist, Technical AI Implementation",
-      "postedToDiscord": "2026-01-14T19:51:33.911Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980504008",
-      "discordThreadId": "1461085339559923813",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4741102008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4741102008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Inference",
-      "postedToDiscord": "2026-01-14T19:51:37.746Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
-      "discordThreadId": "1461085354307358852",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4987662008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4987662008",
-      "company": "anthropic",
-      "title": "Contracts Manager",
-      "postedToDiscord": "2026-01-14T19:51:44.530Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4987662008",
-      "discordThreadId": "1461085382689947914",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4955791008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4955791008",
-      "company": "anthropic",
-      "title": "Contracts Manager, Procurement",
-      "postedToDiscord": "2026-01-14T19:51:48.020Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4955791008",
-      "discordThreadId": "1461085398490022028",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4900975008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4900975008",
-      "company": "anthropic",
-      "title": "Director, Compute Infrastructure Procurement ",
-      "postedToDiscord": "2026-01-14T19:51:52.647Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
-      "discordThreadId": "1461085413816139808",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4959525008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4959525008",
-      "company": "anthropic",
-      "title": "Director, Order Management & Billing",
-      "postedToDiscord": "2026-01-14T19:51:56.167Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959525008",
-      "discordThreadId": "1461085432216424586",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4971073008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971073008",
-      "company": "anthropic",
-      "title": "Customer Marketing Manager",
-      "postedToDiscord": "2026-01-14T19:52:02.785Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971073008",
-      "discordThreadId": "1461085459584123067",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4946317008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4946317008",
-      "company": "anthropic",
-      "title": "Data Operations Manager",
-      "postedToDiscord": "2026-01-14T19:52:09.282Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946317008",
-      "discordThreadId": "1461085487690416283",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4971827008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971827008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Desktop",
-      "postedToDiscord": "2026-01-14T19:52:12.765Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971827008",
-      "discordThreadId": "1461085502353702923",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4903385008-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4903385008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Public Sector",
-      "postedToDiscord": "2026-01-14T19:52:16.419Z",
-      "sourceDate": "2025-11-22T09:28:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4903385008",
-      "discordThreadId": "1461085516874256531",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4493001008-2026-01-14-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4493001008",
@@ -48695,14 +48585,319 @@
       "discordThreadId": "1463621785671962720",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "17c9dc3acb5eaa57-2026-01-21-1",
+      "jobId": "17c9dc3acb5eaa57",
+      "company": "GumGum",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-21T20:02:39.633Z",
+      "sourceDate": "2025-12-04T09:38:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gumgum/jobs/7546755003",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463624859379564667",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:39.633Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-gumgum-jobs-7546755003-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-gumgum-jobs-7546755003",
+      "company": "GumGum",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-21T20:02:41.173Z",
+      "sourceDate": "2025-12-04T09:38:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gumgum/jobs/7546755003",
+      "discordThreadId": "1463624859379564667",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ce87dced85d0134f-2026-01-21-1",
+      "jobId": "ce87dced85d0134f",
+      "company": "Adobe",
+      "title": "Research Scientist",
+      "postedToDiscord": "2026-01-21T20:02:41.373Z",
+      "sourceDate": "2025-12-04T01:56:43.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R163076",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463624867428569251",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:41.373Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076-2026-01-21-1",
+      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-research-scientist_r163076",
+      "company": "Adobe",
+      "title": "Research Scientist",
+      "postedToDiscord": "2026-01-21T20:02:42.903Z",
+      "sourceDate": "2025-12-04T01:56:43.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R163076",
+      "discordThreadId": "1463624867428569251",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1a9e94a2fe6c6589-2026-01-21-1",
+      "jobId": "1a9e94a2fe6c6589",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Spanish Speaking",
+      "postedToDiscord": "2026-01-21T20:02:43.136Z",
+      "sourceDate": "2025-12-03T12:12:11-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726655004?gh_jid=5726655004",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463624875028643880",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:43.136Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5726655004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5726655004",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Spanish Speaking",
+      "postedToDiscord": "2026-01-21T20:02:44.662Z",
+      "sourceDate": "2025-12-03T12:12:11-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726655004?gh_jid=5726655004",
+      "discordThreadId": "1463624875028643880",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d72ef0617f7e201b-2026-01-21-1",
+      "jobId": "d72ef0617f7e201b",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-21T20:02:48.071Z",
+      "sourceDate": "2025-12-04T09:36:51.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463624895278878864",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:48.071Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463624902887211121",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:02:49.796Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "nrel-wd5-myworkdayjobs-com-nrel-job-co-golden-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-plastics-upcycling-biorefining_r14058-2026-01-21-1",
+      "jobId": "nrel-wd5-myworkdayjobs-com-nrel-job-co-golden-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-plastics-upcycling-biorefining_r14058",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Postdoctoral Researcher",
+      "postedToDiscord": "2026-01-21T20:02:51.332Z",
+      "sourceDate": "2025-12-04T09:36:51.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058",
+      "discordThreadId": "1463624895278878864",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "4fb51227a6e38440-2026-01-21-1",
+      "jobId": "4fb51227a6e38440",
+      "company": "Astranis",
+      "title": "Software Engineer - Backend - Platform",
+      "postedToDiscord": "2026-01-21T20:02:51.665Z",
+      "sourceDate": "2025-12-04T06:49:46.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463624909803622599",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:51.665Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-astranis-jobs-4622097006-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-astranis-jobs-4622097006",
+      "company": "Astranis",
+      "title": "Software Engineer - Backend - Platform",
+      "postedToDiscord": "2026-01-21T20:02:53.197Z",
+      "sourceDate": "2025-12-04T06:49:46.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
+      "discordThreadId": "1463624909803622599",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0e8738faa1dcb498-2026-01-21-1",
+      "jobId": "0e8738faa1dcb498",
+      "company": "Accenture",
+      "title": "ATC Salesforce Analyst - Nashville",
+      "postedToDiscord": "2026-01-21T20:02:53.476Z",
+      "sourceDate": "2025-12-04T04:36:22.000Z",
+      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463624918204944445",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:53.476Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463624925620338883",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:02:55.278Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075-2026-01-21-1",
+      "jobId": "accenture-wd103-myworkdayjobs-com-accenturecareers-job-nashville-4101-charlotte-ave-corp-atc-salesforce-analyst-nashville-naelfy26_r00300075",
+      "company": "Accenture",
+      "title": "ATC Salesforce Analyst - Nashville",
+      "postedToDiscord": "2026-01-21T20:02:56.805Z",
+      "sourceDate": "2025-12-04T04:36:22.000Z",
+      "sourceUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075",
+      "discordThreadId": "1463624918204944445",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0f55486b316afe4a-2026-01-21-1",
+      "jobId": "0f55486b316afe4a",
+      "company": "pony.ai",
+      "title": "Software Engineer - Perception Infrastructure",
+      "postedToDiscord": "2026-01-21T20:02:57.110Z",
+      "sourceDate": "2025-12-04T02:14:06.000Z",
+      "sourceUrl": "https://apply.workable.com/pony-dot-ai/j/A776E97605/apply",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463624933157503276",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:57.110Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "apply-workable-com-pony-dot-ai-j-a776e97605-apply-2026-01-21-1",
+      "jobId": "apply-workable-com-pony-dot-ai-j-a776e97605-apply",
+      "company": "pony.ai",
+      "title": "Software Engineer - Perception Infrastructure",
+      "postedToDiscord": "2026-01-21T20:02:58.636Z",
+      "sourceDate": "2025-12-04T02:14:06.000Z",
+      "sourceUrl": "https://apply.workable.com/pony-dot-ai/j/A776E97605/apply",
+      "discordThreadId": "1463624933157503276",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d76f9114b012c232-2026-01-21-1",
+      "jobId": "d76f9114b012c232",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer / Principal Software Engineer - Aht",
+      "postedToDiscord": "2026-01-21T20:02:58.944Z",
+      "sourceDate": "2025-12-04T01:05:15.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer---Principal-Software-Engineer--AHT-_R10216147",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463624940967428258",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:02:58.944Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-nebraska-bellevue-software-engineer-principal-software-engineer-aht-_r10216147-2026-01-21-1",
+      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-nebraska-bellevue-software-engineer-principal-software-engineer-aht-_r10216147",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer / Principal Software Engineer - Aht",
+      "postedToDiscord": "2026-01-21T20:03:00.472Z",
+      "sourceDate": "2025-12-04T01:05:15.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer---Principal-Software-Engineer--AHT-_R10216147",
+      "discordThreadId": "1463624940967428258",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "5921db34d8d80c8e-2026-01-21-1",
+      "jobId": "5921db34d8d80c8e",
+      "company": "Transamerica",
+      "title": "Appian Application Developer",
+      "postedToDiscord": "2026-01-21T20:03:00.837Z",
+      "sourceDate": "2025-12-03T23:33:38.000Z",
+      "sourceUrl": "https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463624948193951857",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:03:00.837Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463624956477702205",
+          "channelType": "location",
+          "postedAt": "2026-01-21T20:03:02.569Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "transamerica-wd5-myworkdayjobs-com-us-job-philadelphia-pennsylvania-appian-application-developer_r20060158-2026-01-21-1",
+      "jobId": "transamerica-wd5-myworkdayjobs-com-us-job-philadelphia-pennsylvania-appian-application-developer_r20060158",
+      "company": "Transamerica",
+      "title": "Appian Application Developer",
+      "postedToDiscord": "2026-01-21T20:03:04.096Z",
+      "sourceDate": "2025-12-03T23:33:38.000Z",
+      "sourceUrl": "https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158",
+      "discordThreadId": "1463624948193951857",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e8285f575b73c7e4-2026-01-21-1",
+      "jobId": "e8285f575b73c7e4",
+      "company": "figma",
+      "title": "Marketing Strategy Manager",
+      "postedToDiscord": "2026-01-21T20:03:07.395Z",
+      "sourceDate": "2025-12-03T19:50:28-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725496004?gh_jid=5725496004",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463624976790982818",
+          "channelType": "category",
+          "postedAt": "2026-01-21T20:03:07.395Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5725496004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5725496004",
+      "company": "figma",
+      "title": "Marketing Strategy Manager",
+      "postedToDiscord": "2026-01-21T20:03:08.923Z",
+      "sourceDate": "2025-12-03T19:50:28-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725496004?gh_jid=5725496004",
+      "discordThreadId": "1463624976790982818",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3757,
+    "totalJobs": 3767,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T19:50:28.130Z",
+      "date": "2026-01-21T20:03:08.924Z",
       "archived": 0
     }
   }
