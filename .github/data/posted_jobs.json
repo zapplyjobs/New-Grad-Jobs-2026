@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T05:50:17.439Z",
+  "lastUpdated": "2026-01-21T06:02:12.890Z",
   "jobs": [
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305-2026-01-14-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305",
-      "company": "Northrop Grumman",
-      "title": "Principal Mission Assurance Engineer",
-      "postedToDiscord": "2026-01-14T05:55:04.810Z",
-      "sourceDate": "2025-12-08T22:47:47.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Engineer-Principal-Engineer-Mission-Assurance---16584_R10216305",
-      "discordThreadId": "1460874831338672198",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-etum-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-41204-2026-01-14-1",
-      "jobId": "fa-etum-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-41204",
-      "company": "GuideWell Mutual",
-      "title": "Associate Software Developer",
-      "postedToDiscord": "2026-01-14T05:55:08.112Z",
-      "sourceDate": "2025-12-08T22:33:20.000Z",
-      "sourceUrl": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41204",
-      "discordThreadId": "1460874845016555675",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8316122002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8316122002",
-      "company": "discord",
-      "title": "Senior Financial Reporting and Technical Accountant",
-      "postedToDiscord": "2026-01-14T05:55:14.722Z",
-      "sourceDate": "2025-12-08T17:12:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8316122002",
-      "discordThreadId": "1460874872015032505",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-1ef1c258-c89b-40d5-b269-5808eb35ddb5-2026-01-14-1",
-      "jobId": "jobs-lever-co-spotify-1ef1c258-c89b-40d5-b269-5808eb35ddb5",
-      "company": "spotify",
-      "title": "Director of Sales, Emerging & Scaled (New Business)",
-      "postedToDiscord": "2026-01-14T05:55:21.253Z",
-      "sourceDate": "2025-12-08T21:40:09.496Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/1ef1c258-c89b-40d5-b269-5808eb35ddb5",
-      "discordThreadId": "1460874899777392821",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-retool-jobs-4633560005-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-retool-jobs-4633560005",
-      "company": "retool",
-      "title": "Enterprise Support Engineer, AMER",
-      "postedToDiscord": "2026-01-14T05:55:24.763Z",
-      "sourceDate": "2025-12-08T12:29:52-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4633560005",
-      "discordThreadId": "1460874914528755793",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-retool-jobs-4628161005-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-retool-jobs-4628161005",
-      "company": "retool",
-      "title": "UX Researcher",
-      "postedToDiscord": "2026-01-14T05:55:28.252Z",
-      "sourceDate": "2025-12-08T12:29:52-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4628161005",
-      "discordThreadId": "1460874929158230016",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8321982002-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8321982002",
-      "company": "discord",
-      "title": "Manager, Global Accounts Receivable",
-      "postedToDiscord": "2026-01-14T05:55:34.688Z",
-      "sourceDate": "2025-12-08T14:54:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8321982002",
-      "discordThreadId": "1460874956798820382",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5039945004-2026-01-14-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5039945004",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Majors",
-      "postedToDiscord": "2026-01-14T05:55:38.286Z",
-      "sourceDate": "2025-12-08T12:40:31-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
-      "discordThreadId": "1460874970988023819",
-      "instanceNumber": 1
-    },
-    {
-      "id": "alliantenergy-wd1-myworkdayjobs-com-alliant-job-madison-wi-meter-data-analyst-i_jr-9238-2026-01-14-1",
-      "jobId": "alliantenergy-wd1-myworkdayjobs-com-alliant-job-madison-wi-meter-data-analyst-i_jr-9238",
-      "company": "Alliant Energy",
-      "title": "Meter Data Analyst 1",
-      "postedToDiscord": "2026-01-14T05:55:44.731Z",
-      "sourceDate": "2025-12-08T19:47:05.000Z",
-      "sourceUrl": "https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238",
-      "discordThreadId": "1460874998637138063",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-enfra-icims-com-jobs-8425-job-2026-01-14-1",
-      "jobId": "careers-enfra-icims-com-jobs-8425-job",
-      "company": "ENFRA",
-      "title": "Metering Specialist 1",
-      "postedToDiscord": "2026-01-14T05:55:51.190Z",
-      "sourceDate": "2025-12-08T19:24:20.000Z",
-      "sourceUrl": "https://careers-enfra.icims.com/jobs/8425/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460875025249861726",
-      "instanceNumber": 1
-    },
     {
       "id": "truist-wd1-myworkdayjobs-com-en-us-careers-job-charlotte-nc-business-data-steward-consumer-and-small-business-banking_r0107465-2026-01-14-1",
       "jobId": "truist-wd1-myworkdayjobs-com-en-us-careers-job-charlotte-nc-business-data-steward-consumer-and-small-business-banking_r0107465",
@@ -38358,14 +38248,329 @@
       "discordThreadId": "1463410340351185003",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "d5b1b92d7ae9f146-2026-01-21-1",
+      "jobId": "d5b1b92d7ae9f146",
+      "company": "Major League Baseball",
+      "title": "Associate Software Engineer - Baseball Enterprise",
+      "postedToDiscord": "2026-01-21T06:01:40.566Z",
+      "sourceDate": "2025-12-19T00:07:46.000Z",
+      "sourceUrl": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463413219316994203",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:01:40.566Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463413226829250612",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:01:42.271Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-mlb-com-careers-opportunities-2026-01-21-1",
+      "jobId": "www-mlb-com-careers-opportunities",
+      "company": "Major League Baseball",
+      "title": "Associate Software Engineer - Baseball Enterprise",
+      "postedToDiscord": "2026-01-21T06:01:43.792Z",
+      "sourceDate": "2025-12-19T00:07:46.000Z",
+      "sourceUrl": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
+      "discordThreadId": "1463413219316994203",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "472e8fff31fc171b-2026-01-21-1",
+      "jobId": "472e8fff31fc171b",
+      "company": "Invisible Technologies AI",
+      "title": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
+      "postedToDiscord": "2026-01-21T06:01:44.027Z",
+      "sourceDate": "2026-01-20T02:26:57.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463413234077011978",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:01:44.027Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463413241685344412",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:01:45.876Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-eu-greenhouse-io-agency-jobs-4754242101-2026-01-21-1",
+      "jobId": "job-boards-eu-greenhouse-io-agency-jobs-4754242101",
+      "company": "Invisible Technologies AI",
+      "title": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
+      "postedToDiscord": "2026-01-21T06:01:47.398Z",
+      "sourceDate": "2026-01-20T02:26:57.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
+      "discordThreadId": "1463413234077011978",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "7eddc2c9a30f7f6c-2026-01-21-1",
+      "jobId": "7eddc2c9a30f7f6c",
+      "company": "Nokia",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-21T06:01:47.599Z",
+      "sourceDate": "2026-01-16T02:11:42.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30513",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463413248924844066",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:01:47.599Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "fa-evmr-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-30513-2026-01-21-1",
+      "jobId": "fa-evmr-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-30513",
+      "company": "Nokia",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-21T06:01:49.122Z",
+      "sourceDate": "2026-01-16T02:11:42.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30513",
+      "discordThreadId": "1463413248924844066",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ed56e12b094d3d93-2026-01-21-1",
+      "jobId": "ed56e12b094d3d93",
+      "company": "RS&H",
+      "title": "Transportation Technician 1",
+      "postedToDiscord": "2026-01-21T06:01:49.307Z",
+      "sourceDate": "2025-10-31T13:47:55.000Z",
+      "sourceUrl": "https://careers-rsandh.icims.com/jobs/7490/job?mobile=true&needsRedirect=false",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463413255996313632",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:01:49.307Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463413263445528640",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:01:51.039Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-rsandh-icims-com-jobs-7490-job-2026-01-21-1",
+      "jobId": "careers-rsandh-icims-com-jobs-7490-job",
+      "company": "RS&H",
+      "title": "Transportation Technician 1",
+      "postedToDiscord": "2026-01-21T06:01:52.562Z",
+      "sourceDate": "2025-10-31T13:47:55.000Z",
+      "sourceUrl": "https://careers-rsandh.icims.com/jobs/7490/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1463413255996313632",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "75b7239d5c489a4d-2026-01-21-1",
+      "jobId": "75b7239d5c489a4d",
+      "company": "datadog",
+      "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "postedToDiscord": "2026-01-21T06:01:55.795Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463413283582115871",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:01:55.795Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463413291119415339",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:01:57.726Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-datadoghq-com-detail-6958985-2026-01-21-1",
+      "jobId": "careers-datadoghq-com-detail-6958985",
+      "company": "datadog",
+      "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "postedToDiscord": "2026-01-21T06:01:59.248Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985",
+      "discordThreadId": "1463413283582115871",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "3a45912094269887-2026-01-21-1",
+      "jobId": "3a45912094269887",
+      "company": "RWS",
+      "title": "AI Data Specialist - Georgia - US",
+      "postedToDiscord": "2026-01-21T06:01:59.511Z",
+      "sourceDate": "2025-11-21T23:15:45.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463413299059097701",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:01:59.511Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-rws-d5edfc8c-508f-496b-964e-66077dfcb995-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-rws-d5edfc8c-508f-496b-964e-66077dfcb995-apply",
+      "company": "RWS",
+      "title": "AI Data Specialist - Georgia - US",
+      "postedToDiscord": "2026-01-21T06:02:01.032Z",
+      "sourceDate": "2025-11-21T23:15:45.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
+      "discordThreadId": "1463413299059097701",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0959bb144b9514bd-2026-01-21-1",
+      "jobId": "0959bb144b9514bd",
+      "company": "RWS",
+      "title": "AI Data Specialist - AI Data Specialist Team",
+      "postedToDiscord": "2026-01-21T06:02:01.255Z",
+      "sourceDate": "2025-11-21T23:15:43.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/9fe421ef-db2e-43f1-bcfd-43eb37db08d3/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463413306373963789",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:02:01.255Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-rws-9fe421ef-db2e-43f1-bcfd-43eb37db08d3-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-rws-9fe421ef-db2e-43f1-bcfd-43eb37db08d3-apply",
+      "company": "RWS",
+      "title": "AI Data Specialist - AI Data Specialist Team",
+      "postedToDiscord": "2026-01-21T06:02:02.776Z",
+      "sourceDate": "2025-11-21T23:15:43.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/9fe421ef-db2e-43f1-bcfd-43eb37db08d3/apply",
+      "discordThreadId": "1463413306373963789",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "515c063b4f4a6280-2026-01-21-1",
+      "jobId": "515c063b4f4a6280",
+      "company": "RWS",
+      "title": "AI Data Specialist - Pennsylvania - US",
+      "postedToDiscord": "2026-01-21T06:02:03.099Z",
+      "sourceDate": "2025-11-21T23:15:49.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/8c3faf84-1979-495f-839d-888abfc007ce/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463413313823309884",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:02:03.099Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-rws-8c3faf84-1979-495f-839d-888abfc007ce-apply-2026-01-21-1",
+      "jobId": "jobs-lever-co-rws-8c3faf84-1979-495f-839d-888abfc007ce-apply",
+      "company": "RWS",
+      "title": "AI Data Specialist - Pennsylvania - US",
+      "postedToDiscord": "2026-01-21T06:02:04.623Z",
+      "sourceDate": "2025-11-21T23:15:49.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/8c3faf84-1979-495f-839d-888abfc007ce/apply",
+      "discordThreadId": "1463413313823309884",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "189ba30012ae67a6-2026-01-21-1",
+      "jobId": "189ba30012ae67a6",
+      "company": "Affiliated Engineers",
+      "title": "Engineering Data Analyst",
+      "postedToDiscord": "2026-01-21T06:02:07.910Z",
+      "sourceDate": "2025-12-03T16:19:03.000Z",
+      "sourceUrl": "https://careers-aeieng.icims.com/jobs/5499/job?mobile=true&needsRedirect=false",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463413333800521836",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:02:07.910Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-aeieng-icims-com-jobs-5499-job-2026-01-21-1",
+      "jobId": "careers-aeieng-icims-com-jobs-5499-job",
+      "company": "Affiliated Engineers",
+      "title": "Engineering Data Analyst",
+      "postedToDiscord": "2026-01-21T06:02:09.434Z",
+      "sourceDate": "2025-12-03T16:19:03.000Z",
+      "sourceUrl": "https://careers-aeieng.icims.com/jobs/5499/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1463413333800521836",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "eb70db15b78449ff-2026-01-21-1",
+      "jobId": "eb70db15b78449ff",
+      "company": "BlueLabs Analytics",
+      "title": "Analytics Associate 1",
+      "postedToDiscord": "2026-01-21T06:02:09.613Z",
+      "sourceDate": "2025-12-18T23:59:39.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463413341526560960",
+          "channelType": "category",
+          "postedAt": "2026-01-21T06:02:09.613Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463413348740763822",
+          "channelType": "location",
+          "postedAt": "2026-01-21T06:02:11.369Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-bluelabsanalyticsinc-jobs-5008106007",
+      "company": "BlueLabs Analytics",
+      "title": "Analytics Associate 1",
+      "postedToDiscord": "2026-01-21T06:02:12.889Z",
+      "sourceDate": "2025-12-18T23:59:39.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007",
+      "discordThreadId": "1463413341526560960",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3117,
+    "totalJobs": 3127,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T05:50:17.439Z",
+      "date": "2026-01-21T06:02:12.890Z",
       "archived": 0
     }
   }
