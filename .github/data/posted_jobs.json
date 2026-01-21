@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T13:26:44.491Z",
+  "lastUpdated": "2026-01-21T13:53:46.201Z",
   "jobs": [
     {
       "id": "usc-wd5-myworkdayjobs-com-externalusccareers-job-los-angeles-ca-downtown-postdoctoral-scholar-research-associate_req20165823-2026-01-14-1",
@@ -43987,14 +43987,309 @@
       "discordThreadId": "1463525217661096058",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "90fffcd63ee45297-2026-01-21-1",
+      "jobId": "90fffcd63ee45297",
+      "company": "anthropic",
+      "title": "Engagement Manager, Applied AI",
+      "postedToDiscord": "2026-01-21T13:53:20.742Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463531919231942764",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:20.742Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5017903008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017903008",
+      "company": "anthropic",
+      "title": "Engagement Manager, Applied AI",
+      "postedToDiscord": "2026-01-21T13:53:22.273Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+      "discordThreadId": "1463531919231942764",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "0b3fc77ef64b63f6-2026-01-21-1",
+      "jobId": "0b3fc77ef64b63f6",
+      "company": "coinbase",
+      "title": "Associate Manager, EDD Compliance",
+      "postedToDiscord": "2026-01-21T13:53:22.562Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984450?gh_jid=6984450",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463531926630699071",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:22.562Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-6984450-2026-01-21-1",
+      "jobId": "www-coinbase-com-careers-positions-6984450",
+      "company": "coinbase",
+      "title": "Associate Manager, EDD Compliance",
+      "postedToDiscord": "2026-01-21T13:53:24.090Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984450?gh_jid=6984450",
+      "discordThreadId": "1463531926630699071",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "8864207a65c73e5b-2026-01-21-1",
+      "jobId": "8864207a65c73e5b",
+      "company": "coinbase",
+      "title": "Associate Manager, Quality Compliance",
+      "postedToDiscord": "2026-01-21T13:53:24.295Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7394927?gh_jid=7394927",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463531933907812438",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:24.295Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "www-coinbase-com-careers-positions-7394927-2026-01-21-1",
+      "jobId": "www-coinbase-com-careers-positions-7394927",
+      "company": "coinbase",
+      "title": "Associate Manager, Quality Compliance",
+      "postedToDiscord": "2026-01-21T13:53:25.819Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7394927?gh_jid=7394927",
+      "discordThreadId": "1463531933907812438",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a29b5f9243cd35ee-2026-01-21-1",
+      "jobId": "a29b5f9243cd35ee",
+      "company": "anthropic",
+      "title": "Staff Red Team Engineer, Safeguards",
+      "postedToDiscord": "2026-01-21T13:53:26.013Z",
+      "sourceDate": "2026-01-20T19:15:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5070908008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463531941318889609",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:26.013Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5070908008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5070908008",
+      "company": "anthropic",
+      "title": "Staff Red Team Engineer, Safeguards",
+      "postedToDiscord": "2026-01-21T13:53:27.537Z",
+      "sourceDate": "2026-01-20T19:15:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5070908008",
+      "discordThreadId": "1463531941318889609",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "809d2754cc3956aa-2026-01-21-1",
+      "jobId": "809d2754cc3956aa",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-21T13:53:30.719Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463531961145495841",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:30.719Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463531968179343411",
+          "channelType": "location",
+          "postedAt": "2026-01-21T13:53:32.462Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4983646008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4983646008",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-21T13:53:33.988Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
+      "discordThreadId": "1463531961145495841",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "29aff6fb5390b3d1-2026-01-21-1",
+      "jobId": "29aff6fb5390b3d1",
+      "company": "anthropic",
+      "title": "Manager, Strategic Account Executive - Digital Native Sales",
+      "postedToDiscord": "2026-01-21T13:53:34.207Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463531975494205632",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:34.207Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4958721008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4958721008",
+      "company": "anthropic",
+      "title": "Manager, Strategic Account Executive - Digital Native Sales",
+      "postedToDiscord": "2026-01-21T13:53:35.731Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
+      "discordThreadId": "1463531975494205632",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b8032906f1679747-2026-01-21-1",
+      "jobId": "b8032906f1679747",
+      "company": "anthropic",
+      "title": "Security Engineer, Detection & Response",
+      "postedToDiscord": "2026-01-21T13:53:35.907Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463531982762803201",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:35.907Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4982193008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4982193008",
+      "company": "anthropic",
+      "title": "Security Engineer, Detection & Response",
+      "postedToDiscord": "2026-01-21T13:53:37.432Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+      "discordThreadId": "1463531982762803201",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e9416bc37e28227b-2026-01-21-1",
+      "jobId": "e9416bc37e28227b",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Accenture",
+      "postedToDiscord": "2026-01-21T13:53:40.784Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015692008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463532003029811302",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:40.784Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5015692008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015692008",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Accenture",
+      "postedToDiscord": "2026-01-21T13:53:42.308Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015692008",
+      "discordThreadId": "1463532003029811302",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d47b9dabb9b53c5e-2026-01-21-1",
+      "jobId": "d47b9dabb9b53c5e",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Deloitte",
+      "postedToDiscord": "2026-01-21T13:53:42.535Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463532010390687869",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:42.535Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4747937008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4747937008",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Deloitte",
+      "postedToDiscord": "2026-01-21T13:53:44.059Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
+      "discordThreadId": "1463532010390687869",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "9bae6e891a39d820-2026-01-21-1",
+      "jobId": "9bae6e891a39d820",
+      "company": "anthropic",
+      "title": "Global Partner Sales Manager, Systems Integrators",
+      "postedToDiscord": "2026-01-21T13:53:44.677Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463532018959908886",
+          "channelType": "category",
+          "postedAt": "2026-01-21T13:53:44.677Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018233008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018233008",
+      "company": "anthropic",
+      "title": "Global Partner Sales Manager, Systems Integrators",
+      "postedToDiscord": "2026-01-21T13:53:46.200Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
+      "discordThreadId": "1463532018959908886",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3458,
+    "totalJobs": 3478,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T13:26:44.491Z",
+      "date": "2026-01-21T13:53:46.201Z",
       "archived": 0
     }
   }
