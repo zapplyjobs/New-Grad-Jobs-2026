@@ -1,172 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T04:34:46.697Z",
+  "lastUpdated": "2026-01-21T04:54:41.535Z",
   "jobs": [
-    {
-      "id": "www-brex-com-careers-8213577002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8213577002",
-      "company": "brex",
-      "title": "Senior Software Engineer, Full-Stack",
-      "postedToDiscord": "2026-01-14T04:39:36.066Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8213577002?gh_jid=8213577002",
-      "discordThreadId": "1460855836619571548",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7521386002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7521386002",
-      "company": "brex",
-      "title": "Senior Software Engineer, Product ",
-      "postedToDiscord": "2026-01-14T04:39:42.735Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7521386002?gh_jid=7521386002",
-      "discordThreadId": "1460855863911911626",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8318332002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8318332002",
-      "company": "brex",
-      "title": "Software Engineer II, Product ",
-      "postedToDiscord": "2026-01-14T04:39:46.026Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8318332002?gh_jid=8318332002",
-      "discordThreadId": "1460855878478598225",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8318333002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8318333002",
-      "company": "brex",
-      "title": "Software Engineer II, Product ",
-      "postedToDiscord": "2026-01-14T04:39:46.037Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8318333002?gh_jid=8318333002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8318331002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8318331002",
-      "company": "brex",
-      "title": "Software Engineer II, Product ",
-      "postedToDiscord": "2026-01-14T04:39:46.046Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8318331002?gh_jid=8318331002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7595422002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7595422002",
-      "company": "brex",
-      "title": "Staff Brand Designer",
-      "postedToDiscord": "2026-01-14T04:39:52.467Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7595422002?gh_jid=7595422002",
-      "discordThreadId": "1460855905146110098",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8198574002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8198574002",
-      "company": "brex",
-      "title": "Staff Brand Designer, Interactive",
-      "postedToDiscord": "2026-01-14T04:39:55.933Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8198574002?gh_jid=8198574002",
-      "discordThreadId": "1460855919293239327",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8124973002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8124973002",
-      "company": "brex",
-      "title": "Staff Product Designer",
-      "postedToDiscord": "2026-01-14T04:39:59.345Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8124973002?gh_jid=8124973002",
-      "discordThreadId": "1460855933893611587",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-7669111002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-7669111002",
-      "company": "brex",
-      "title": "Staff Product Designer",
-      "postedToDiscord": "2026-01-14T04:39:59.356Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/7669111002?gh_jid=7669111002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8237737002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8237737002",
-      "company": "brex",
-      "title": "Startups Account Executive",
-      "postedToDiscord": "2026-01-14T04:40:05.843Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8237737002?gh_jid=8237737002",
-      "discordThreadId": "1460855961156845690",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8237738002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8237738002",
-      "company": "brex",
-      "title": "Startups Account Executive",
-      "postedToDiscord": "2026-01-14T04:40:05.854Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8237738002?gh_jid=8237738002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8308452002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8308452002",
-      "company": "brex",
-      "title": "Startups Ambassador",
-      "postedToDiscord": "2026-01-14T04:40:09.353Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8308452002?gh_jid=8308452002",
-      "discordThreadId": "1460855975471742996",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8308368002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8308368002",
-      "company": "brex",
-      "title": "Startups Ambassador",
-      "postedToDiscord": "2026-01-14T04:40:09.366Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8308368002?gh_jid=8308368002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8322493002-2026-01-14-1",
-      "jobId": "www-brex-com-careers-8322493002",
-      "company": "brex",
-      "title": "Support Specialist I (Remote)",
-      "postedToDiscord": "2026-01-14T04:40:12.741Z",
-      "sourceDate": "2025-12-10T11:03:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8322493002?gh_jid=8322493002",
-      "discordThreadId": "1460855989988491401",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uhaul-wd1-myworkdayjobs-com-uhauljobs-job-phoenix-arizona-business-intelligence-analyst_r233902-2026-01-14-1",
-      "jobId": "uhaul-wd1-myworkdayjobs-com-uhauljobs-job-phoenix-arizona-business-intelligence-analyst_r233902",
-      "company": "Uhaul",
-      "title": "Business Intelligence Analyst",
-      "postedToDiscord": "2026-01-14T04:40:19.159Z",
-      "sourceDate": "2025-12-10T14:50:14.000Z",
-      "sourceUrl": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Intelligence-Analyst_R233902",
-      "discordThreadId": "1460856017066655940",
-      "instanceNumber": 1
-    },
     {
       "id": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105-2026-01-14-1",
       "jobId": "cadence-wd1-myworkdayjobs-com-external_careers-job-san-jose-application-engineer_r52105",
@@ -37724,14 +37559,319 @@
       "discordThreadId": "1463391344692301856",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "4258fe7fbf25ee35-2026-01-21-1",
+      "jobId": "4258fe7fbf25ee35",
+      "company": "anthropic",
+      "title": "Global Technology Partner Lead",
+      "postedToDiscord": "2026-01-21T04:54:08.804Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043437008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463396225448677398",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:08.804Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043437008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043437008",
+      "company": "anthropic",
+      "title": "Global Technology Partner Lead",
+      "postedToDiscord": "2026-01-21T04:54:10.337Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043437008",
+      "discordThreadId": "1463396225448677398",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "16e3939e12c08e95-2026-01-21-1",
+      "jobId": "16e3939e12c08e95",
+      "company": "anthropic",
+      "title": "Partner Operations Specialist",
+      "postedToDiscord": "2026-01-21T04:54:11.888Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463396232709017722",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:11.888Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5043435008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5043435008",
+      "company": "anthropic",
+      "title": "Partner Operations Specialist",
+      "postedToDiscord": "2026-01-21T04:54:13.413Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
+      "discordThreadId": "1463396232709017722",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "d59b0766f489e92f-2026-01-21-1",
+      "jobId": "d59b0766f489e92f",
+      "company": "anthropic",
+      "title": "Incentive Compensation System Engineer",
+      "postedToDiscord": "2026-01-21T04:54:16.684Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463396258105262143",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:16.684Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5042002008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5042002008",
+      "company": "anthropic",
+      "title": "Incentive Compensation System Engineer",
+      "postedToDiscord": "2026-01-21T04:54:18.208Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008",
+      "discordThreadId": "1463396258105262143",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "e961ad53a0e34090-2026-01-21-1",
+      "jobId": "e961ad53a0e34090",
+      "company": "vercel",
+      "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+      "postedToDiscord": "2026-01-21T04:54:18.452Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5631091004",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463396265231646752",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:18.452Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-vercel-jobs-5631091004-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-vercel-jobs-5631091004",
+      "company": "vercel",
+      "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+      "postedToDiscord": "2026-01-21T04:54:19.976Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5631091004",
+      "discordThreadId": "1463396265231646752",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "bde8c6c8b3ce43e7-2026-01-21-1",
+      "jobId": "bde8c6c8b3ce43e7",
+      "company": "Warner Bros.",
+      "title": "Associate Software Engineer (Temporary)",
+      "postedToDiscord": "2026-01-21T04:54:20.212Z",
+      "sourceDate": "2025-12-22T11:35:16.000Z",
+      "sourceUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463396272995303548",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:20.212Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "warnerbros-wd5-myworkdayjobs-com-en-us-global-job-il-chicago-2650a-w-bradley-place-associate-software-engineer-temporary-_r000101071-2026-01-21-1",
+      "jobId": "warnerbros-wd5-myworkdayjobs-com-en-us-global-job-il-chicago-2650a-w-bradley-place-associate-software-engineer-temporary-_r000101071",
+      "company": "Warner Bros.",
+      "title": "Associate Software Engineer (Temporary)",
+      "postedToDiscord": "2026-01-21T04:54:21.735Z",
+      "sourceDate": "2025-12-22T11:35:16.000Z",
+      "sourceUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071",
+      "discordThreadId": "1463396272995303548",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "31e7ae2d27d4489d-2026-01-21-1",
+      "jobId": "31e7ae2d27d4489d",
+      "company": "Astranis",
+      "title": "Software Developer, Network Software Associate",
+      "postedToDiscord": "2026-01-21T04:54:21.919Z",
+      "sourceDate": "2025-12-22T11:27:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463396280113037380",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:21.919Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-astranis-jobs-4621916006-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-astranis-jobs-4621916006",
+      "company": "Astranis",
+      "title": "Software Developer, Network Software Associate",
+      "postedToDiscord": "2026-01-21T04:54:23.440Z",
+      "sourceDate": "2025-12-22T11:27:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
+      "discordThreadId": "1463396280113037380",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1eeae0783732b3ff-2026-01-21-1",
+      "jobId": "1eeae0783732b3ff",
+      "company": "Peraton",
+      "title": "Junior Product Software Engineer",
+      "postedToDiscord": "2026-01-21T04:54:23.621Z",
+      "sourceDate": "2025-12-22T11:26:00.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463396287499210752",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:23.621Z"
+        },
+        "1462989305181114450": {
+          "messageId": "1463396294759420084",
+          "channelType": "location",
+          "postedAt": "2026-01-21T04:54:25.391Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "careers-peraton-icims-com-jobs-162138-junior-product-software-engineer-job-2026-01-21-1",
+      "jobId": "careers-peraton-icims-com-jobs-162138-junior-product-software-engineer-job",
+      "company": "Peraton",
+      "title": "Junior Product Software Engineer",
+      "postedToDiscord": "2026-01-21T04:54:26.914Z",
+      "sourceDate": "2025-12-22T11:26:00.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job",
+      "discordThreadId": "1463396287499210752",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ef8e7a78787892c1-2026-01-21-1",
+      "jobId": "ef8e7a78787892c1",
+      "company": "spotify",
+      "title": "FP&A Analyst, Strategic Planning",
+      "postedToDiscord": "2026-01-21T04:54:30.102Z",
+      "sourceDate": "2025-12-22T18:03:13.128Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463396314749341861",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:30.102Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463396321691177042",
+          "channelType": "location",
+          "postedAt": "2026-01-21T04:54:31.793Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08-2026-01-21-1",
+      "jobId": "jobs-lever-co-spotify-fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
+      "company": "spotify",
+      "title": "FP&A Analyst, Strategic Planning",
+      "postedToDiscord": "2026-01-21T04:54:33.318Z",
+      "sourceDate": "2025-12-22T18:03:13.128Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/fd3a40c6-8b33-4153-ae58-ee5882ad6b08",
+      "discordThreadId": "1463396314749341861",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "78388b153e4387fd-2026-01-21-1",
+      "jobId": "78388b153e4387fd",
+      "company": "First Financial Bank",
+      "title": "AI Developer I- Call Center",
+      "postedToDiscord": "2026-01-21T04:54:33.531Z",
+      "sourceDate": "2025-12-22T13:15:12.000Z",
+      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463396329027014831",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:33.531Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "ffin-wd1-myworkdayjobs-com-en-us-first_financial_bank-job-operations-center-ai-developer-i-call-center_jr102406-2026-01-21-1",
+      "jobId": "ffin-wd1-myworkdayjobs-com-en-us-first_financial_bank-job-operations-center-ai-developer-i-call-center_jr102406",
+      "company": "First Financial Bank",
+      "title": "AI Developer I- Call Center",
+      "postedToDiscord": "2026-01-21T04:54:35.058Z",
+      "sourceDate": "2025-12-22T13:15:12.000Z",
+      "sourceUrl": "https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406",
+      "discordThreadId": "1463396329027014831",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "694389e60c237705-2026-01-21-1",
+      "jobId": "694389e60c237705",
+      "company": "Radian",
+      "title": "Data Scientist I - Hybrid",
+      "postedToDiscord": "2026-01-21T04:54:38.348Z",
+      "sourceDate": "2025-12-22T13:19:34.000Z",
+      "sourceUrl": "https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1463396349197156565",
+          "channelType": "category",
+          "postedAt": "2026-01-21T04:54:38.348Z"
+        },
+        "1462988831530680422": {
+          "messageId": "1463396356071624903",
+          "channelType": "location",
+          "postedAt": "2026-01-21T04:54:40.012Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "compass-wd501-myworkdayjobs-com-en-us-radian_external_career_site-job-new-york-ny-data-scientist-i-hybrid_r20250160-2026-01-21-1",
+      "jobId": "compass-wd501-myworkdayjobs-com-en-us-radian_external_career_site-job-new-york-ny-data-scientist-i-hybrid_r20250160",
+      "company": "Radian",
+      "title": "Data Scientist I - Hybrid",
+      "postedToDiscord": "2026-01-21T04:54:41.535Z",
+      "sourceDate": "2025-12-22T13:19:34.000Z",
+      "sourceUrl": "https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160",
+      "discordThreadId": "1463396349197156565",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3090,
+    "totalJobs": 3095,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T04:34:46.697Z",
+      "date": "2026-01-21T04:54:41.535Z",
       "archived": 0
     }
   }
