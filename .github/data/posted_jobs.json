@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T09:16:05.074Z",
+  "lastUpdated": "2026-01-21T09:32:13.395Z",
   "jobs": [
     {
       "id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581-2026-01-14-1",
@@ -40310,14 +40310,304 @@
       "discordThreadId": "1463462130060886181",
       "instanceNumber": 1,
       "discordPosts": {}
+    },
+    {
+      "id": "96a926e1fe686c06-2026-01-21-1",
+      "jobId": "96a926e1fe686c06",
+      "company": "anthropic",
+      "title": "Compensation Systems and Infrastructure",
+      "postedToDiscord": "2026-01-21T09:31:49.551Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973549008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463466105254183044",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:31:49.551Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-4973549008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4973549008",
+      "company": "anthropic",
+      "title": "Compensation Systems and Infrastructure",
+      "postedToDiscord": "2026-01-21T09:31:51.081Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973549008",
+      "discordThreadId": "1463466105254183044",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "eb3c886ddf18ea30-2026-01-21-1",
+      "jobId": "eb3c886ddf18ea30",
+      "company": "anthropic",
+      "title": "Finance Systems, Senior Business Systems Analyst - Finance & Strategy",
+      "postedToDiscord": "2026-01-21T09:31:51.271Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1463466112829358261",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:31:51.271Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5018838008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018838008",
+      "company": "anthropic",
+      "title": "Finance Systems, Senior Business Systems Analyst - Finance & Strategy",
+      "postedToDiscord": "2026-01-21T09:31:52.794Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
+      "discordThreadId": "1463466112829358261",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a73b0df9da8f06ac-2026-01-21-1",
+      "jobId": "a73b0df9da8f06ac",
+      "company": "anthropic",
+      "title": "Data Center Hardware Operations Lead",
+      "postedToDiscord": "2026-01-21T09:31:56.078Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023719008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463466132655702074",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:31:56.078Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5023719008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5023719008",
+      "company": "anthropic",
+      "title": "Data Center Hardware Operations Lead",
+      "postedToDiscord": "2026-01-21T09:31:57.601Z",
+      "sourceDate": "2026-01-20T12:39:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023719008",
+      "discordThreadId": "1463466132655702074",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "a39a71944b3bb029-2026-01-21-1",
+      "jobId": "a39a71944b3bb029",
+      "company": "Oracle",
+      "title": "Advanced Degree Software Engineer - Database Technologies",
+      "postedToDiscord": "2026-01-21T09:31:57.867Z",
+      "sourceDate": "2025-12-17T23:15:24.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320582",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463466140314374168",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:31:57.867Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582-2026-01-21-1",
+      "jobId": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320582",
+      "company": "Oracle",
+      "title": "Advanced Degree Software Engineer - Database Technologies",
+      "postedToDiscord": "2026-01-21T09:31:59.393Z",
+      "sourceDate": "2025-12-17T23:15:24.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320582",
+      "discordThreadId": "1463466140314374168",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "52ccbee3dc8c4c4a-2026-01-21-1",
+      "jobId": "52ccbee3dc8c4c4a",
+      "company": "supabase",
+      "title": "Database Support Engineer (APAC)",
+      "postedToDiscord": "2026-01-21T09:31:59.590Z",
+      "sourceDate": "2025-12-17T21:46:32.608+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463466147725705287",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:31:59.590Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-62945518-2468-4cf5-9f36-904b60f75183-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-supabase-62945518-2468-4cf5-9f36-904b60f75183",
+      "company": "supabase",
+      "title": "Database Support Engineer (APAC)",
+      "postedToDiscord": "2026-01-21T09:32:01.116Z",
+      "sourceDate": "2025-12-17T21:46:32.608+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183",
+      "discordThreadId": "1463466147725705287",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "b05100d190cfe141-2026-01-21-1",
+      "jobId": "b05100d190cfe141",
+      "company": "supabase",
+      "title": "Database Support Engineer (EMEA)",
+      "postedToDiscord": "2026-01-21T09:32:01.545Z",
+      "sourceDate": "2025-12-17T21:45:16.304+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463466154826797057",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:32:01.545Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-3889002e-536e-4046-a330-70e942b0cc96-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-supabase-3889002e-536e-4046-a330-70e942b0cc96",
+      "company": "supabase",
+      "title": "Database Support Engineer (EMEA)",
+      "postedToDiscord": "2026-01-21T09:32:03.070Z",
+      "sourceDate": "2025-12-17T21:45:16.304+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96",
+      "discordThreadId": "1463466154826797057",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "1801deec1db0bf4d-2026-01-21-1",
+      "jobId": "1801deec1db0bf4d",
+      "company": "supabase",
+      "title": "Database Support Engineer (AMER)",
+      "postedToDiscord": "2026-01-21T09:32:03.312Z",
+      "sourceDate": "2025-12-17T21:42:14.767+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463466163102027882",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:32:03.312Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "jobs-ashbyhq-com-supabase-f18b1173-51c3-4ff6-bcda-89f8111931f4-2026-01-21-1",
+      "jobId": "jobs-ashbyhq-com-supabase-f18b1173-51c3-4ff6-bcda-89f8111931f4",
+      "company": "supabase",
+      "title": "Database Support Engineer (AMER)",
+      "postedToDiscord": "2026-01-21T09:32:04.836Z",
+      "sourceDate": "2025-12-17T21:42:14.767+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4",
+      "discordThreadId": "1463466163102027882",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "791900bfafea9baa-2026-01-21-1",
+      "jobId": "791900bfafea9baa",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Enterprise Readiness",
+      "postedToDiscord": "2026-01-21T09:32:05.201Z",
+      "sourceDate": "2026-01-20T15:39:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5078403008",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1463466170706432043",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:32:05.201Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-anthropic-jobs-5078403008-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5078403008",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Enterprise Readiness",
+      "postedToDiscord": "2026-01-21T09:32:06.725Z",
+      "sourceDate": "2026-01-20T15:39:56-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5078403008",
+      "discordThreadId": "1463466170706432043",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "ff81597e6fc89fd9-2026-01-21-1",
+      "jobId": "ff81597e6fc89fd9",
+      "company": "Enova",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T09:32:09.988Z",
+      "sourceDate": "2025-12-17T23:17:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/3972487",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463466191304654869",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:32:09.988Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "job-boards-greenhouse-io-enova-jobs-3972487-2026-01-21-1",
+      "jobId": "job-boards-greenhouse-io-enova-jobs-3972487",
+      "company": "Enova",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-21T09:32:11.511Z",
+      "sourceDate": "2025-12-17T23:17:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/3972487",
+      "discordThreadId": "1463466191304654869",
+      "instanceNumber": 1,
+      "discordPosts": {}
+    },
+    {
+      "id": "2d65aa043e90ce8c-2026-01-21-1",
+      "jobId": "2d65aa043e90ce8c",
+      "company": "figma",
+      "title": "AI Applied Scientist",
+      "postedToDiscord": "2026-01-21T09:32:11.870Z",
+      "sourceDate": "2025-12-17T13:52:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1463466198443360308",
+          "channelType": "category",
+          "postedAt": "2026-01-21T09:32:11.870Z"
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "boards-greenhouse-io-figma-jobs-5707966004-2026-01-21-1",
+      "jobId": "boards-greenhouse-io-figma-jobs-5707966004",
+      "company": "figma",
+      "title": "AI Applied Scientist",
+      "postedToDiscord": "2026-01-21T09:32:13.394Z",
+      "sourceDate": "2025-12-17T13:52:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+      "discordThreadId": "1463466198443360308",
+      "instanceNumber": 1,
+      "discordPosts": {}
     }
   ],
   "metadata": {
-    "totalJobs": 3216,
+    "totalJobs": 3236,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-21T09:16:05.074Z",
+      "date": "2026-01-21T09:32:13.395Z",
       "archived": 0
     }
   }
