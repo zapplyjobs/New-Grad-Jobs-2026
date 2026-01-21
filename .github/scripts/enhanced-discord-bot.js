@@ -841,20 +841,10 @@ client.once('ready', async () => {
           }
         }
 
-        // Mark as posted if at least one post succeeded
+        // Count as posted if at least one post succeeded
+        // NOTE: Job tracking is already handled by markAsPostedToChannel() calls above (lines 721, 796)
+        // Removing duplicate markAsPosted() call that was creating empty discordPosts records
         if (jobPostedSuccessfully) {
-          postedJobsManager.markAsPosted(jobId, job, primaryThreadId);
-
-          // Also mark all location variants as posted (for multi-location grouping)
-          if (job._allJobVariants && job._allJobVariants.length > 1) {
-            job._allJobVariants.forEach(variant => {
-              const variantId = generateJobId(variant);
-              if (variantId !== jobId) {
-                postedJobsManager.markAsPosted(variantId, variant, null);
-              }
-            });
-          }
-
           totalPosted++;
         } else {
           totalFailed++;
