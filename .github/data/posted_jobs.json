@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T22:34:40.752Z",
+  "lastUpdated": "2026-01-22T22:46:06.199Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a-2026-01-15-1",
-      "jobId": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
-      "company": "spotify",
-      "title": "Staff Research Engineer - Music",
-      "postedToDiscord": "2026-01-15T22:44:22.734Z",
-      "sourceDate": "2025-10-23T19:21:19.524Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13-2026-01-15-1",
-      "jobId": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
-      "company": "spotify",
-      "title": "Senior Research Engineer - Music",
-      "postedToDiscord": "2026-01-15T22:44:27.031Z",
-      "sourceDate": "2025-10-23T19:19:20.027Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
-      "discordThreadId": "1461491232806014979",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e-2026-01-15-1",
-      "jobId": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e",
-      "company": "spotify",
-      "title": "Principal Research Scientist - Music",
-      "postedToDiscord": "2026-01-15T22:44:30.430Z",
-      "sourceDate": "2025-10-23T19:04:13.533Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/e7ead7e0-5033-4058-9bbf-006811a5147e",
-      "discordThreadId": "1461491249805791339",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969-2026-01-15-1",
-      "jobId": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969",
-      "company": "spotify",
-      "title": "Staff Research Scientist - Music",
-      "postedToDiscord": "2026-01-15T22:44:33.843Z",
-      "sourceDate": "2025-10-23T19:01:45.505Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/33114d31-b3d0-4bbb-bf7c-ab32596e8969",
-      "discordThreadId": "1461491264158564413",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d-2026-01-15-1",
-      "jobId": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
-      "company": "spotify",
-      "title": "Senior Research Scientist - Music",
-      "postedToDiscord": "2026-01-15T22:44:37.136Z",
-      "sourceDate": "2025-10-23T18:56:23.111Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
-      "discordThreadId": "1461491278272528548",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a-2026-01-15-1",
-      "jobId": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a",
-      "company": "spotify",
-      "title": "Senior Content Accountant",
-      "postedToDiscord": "2026-01-15T22:44:40.662Z",
-      "sourceDate": "2025-10-23T16:48:05.911Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/32297d46-a347-4680-849c-1c56d0a2666a",
-      "discordThreadId": "1461491292432498864",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-adobe-com-us-en-job-adobusr158465externalenus-software-development-engineer-2026-01-15-1",
-      "jobId": "careers-adobe-com-us-en-job-adobusr158465externalenus-software-development-engineer",
-      "company": "Adobe",
-      "title": "Software Development Engineer",
-      "postedToDiscord": "2026-01-15T22:44:47.167Z",
-      "sourceDate": "2025-10-23T14:09:16.000Z",
-      "sourceUrl": "https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer",
-      "discordThreadId": "1461491319825236202",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-elevenlabs-bed47ac1-9c5c-44ae-8965-3a4312706328-2026-01-15-1",
-      "jobId": "jobs-ashbyhq-com-elevenlabs-bed47ac1-9c5c-44ae-8965-3a4312706328",
-      "company": "ElevenLabs",
-      "title": "Growth Engineering - Mobile",
-      "postedToDiscord": "2026-01-15T22:44:51.102Z",
-      "sourceDate": "2025-10-23T11:29:51.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328",
-      "discordThreadId": "1461491334966677530",
-      "instanceNumber": 1
-    },
-    {
-      "id": "draftkings-wd1-myworkdayjobs-com-draftkings-job-remote-us-software-engineer_jr13105-3-2026-01-15-1",
-      "jobId": "draftkings-wd1-myworkdayjobs-com-draftkings-job-remote-us-software-engineer_jr13105-3",
-      "company": "DraftKings",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-15T22:44:54.400Z",
-      "sourceDate": "2025-10-23T11:17:47.000Z",
-      "sourceUrl": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3",
-      "discordThreadId": "1461491350662025497",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-careers-microsoft-com-global-en-job-1900192-software-engineering-2026-01-15-1",
-      "jobId": "jobs-careers-microsoft-com-global-en-job-1900192-software-engineering",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-15T22:44:56.066Z",
-      "sourceDate": "2025-10-23T11:04:54.000Z",
-      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering",
-      "discordThreadId": "1461491364478058578",
-      "instanceNumber": 1
-    },
     {
       "id": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-us-massachusetts-associate-software-test-engineer-acton-mass-hybrid-_req-2025-13419-2026-01-15-1",
       "jobId": "insulet-wd5-myworkdayjobs-com-en-us-insuletcareers-job-us-massachusetts-associate-software-test-engineer-acton-mass-hybrid-_req-2025-13419",
@@ -44194,9 +44084,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464025399834050805",
+          "messageId": "1464028269501350018",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:15.762Z"
+          "postedAt": "2026-01-22T22:45:39.968Z"
         }
       },
       "instanceNumber": 1
@@ -44211,9 +44101,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464025406964498454",
+          "messageId": "1464028277340635209",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:17.499Z"
+          "postedAt": "2026-01-22T22:45:41.792Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -44233,14 +44123,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464025414195482716",
+          "messageId": "1464028286878482577",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:19.216Z"
+          "postedAt": "2026-01-22T22:45:44.191Z"
         },
         "1462988831530680422": {
-          "messageId": "1464025421665276037",
+          "messageId": "1464028294339891407",
           "channelType": "location",
-          "postedAt": "2026-01-22T22:34:20.924Z"
+          "postedAt": "2026-01-22T22:45:45.875Z"
         }
       },
       "instanceNumber": 1
@@ -44255,9 +44145,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464025428896518285",
+          "messageId": "1464028301780717709",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:22.613Z"
+          "postedAt": "2026-01-22T22:45:47.550Z"
         }
       },
       "instanceNumber": 1
@@ -44272,14 +44162,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464025435963920515",
+          "messageId": "1464028308596330541",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:24.294Z"
+          "postedAt": "2026-01-22T22:45:49.339Z"
         },
         "1462988831530680422": {
-          "messageId": "1464025443144568874",
+          "messageId": "1464028316225900548",
           "channelType": "location",
-          "postedAt": "2026-01-22T22:34:26.048Z"
+          "postedAt": "2026-01-22T22:45:51.131Z"
         }
       },
       "instanceNumber": 1
@@ -44294,9 +44184,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464025463201726677",
+          "messageId": "1464028336497098787",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:30.779Z"
+          "postedAt": "2026-01-22T22:45:55.876Z"
         }
       },
       "instanceNumber": 1
@@ -44311,9 +44201,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464025470243962921",
+          "messageId": "1464028343543271539",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:32.493Z"
+          "postedAt": "2026-01-22T22:45:57.633Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -44333,9 +44223,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464025477399314614",
+          "messageId": "1464028351520837835",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:34.218Z"
+          "postedAt": "2026-01-22T22:45:59.548Z"
         }
       },
       "instanceNumber": 1
@@ -44350,9 +44240,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464025484567515210",
+          "messageId": "1464028359247003804",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:35.996Z"
+          "postedAt": "2026-01-22T22:46:01.309Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -44372,20 +44262,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464025504670683189",
+          "messageId": "1464028379438121010",
           "channelType": "category",
-          "postedAt": "2026-01-22T22:34:40.751Z"
+          "postedAt": "2026-01-22T22:46:06.198Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3315,
+    "totalJobs": 3305,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-22T22:34:40.752Z",
+      "date": "2026-01-22T22:46:06.199Z",
       "archived": 0
     }
   }
