@@ -16,6 +16,7 @@
 const fs = require('fs');
 const path = require('path');
 const { generateJobFingerprint } = require('./job-fetcher/utils');
+const { generateSchemaAwareHealthReport } = require('./schema-aware-health');
 
 // Thresholds for health checks
 const THRESHOLDS = {
@@ -406,40 +407,63 @@ function savePendingQueue(queue) {
 }
 
 /**
- * Check 4: Posted Jobs Rate
+ * Check 4: Posted Jobs Rate (Schema-Aware)
  * Ensure jobs are actually being posted to Discord
+ * Uses schema-aware logic to prevent false positives from V1 legacy posts
  */
 function checkPostedJobsRate() {
     const postedPath = path.join(process.cwd(), '.github', 'data', 'posted_jobs.json');
-    const postedJobs = loadJSON(postedPath);
 
-    if (!postedJobs || !Array.isArray(postedJobs)) {
+    // Generate schema-aware health report
+    const schemaReport = generateSchemaAwareHealthReport(postedPath);
+
+    if (schemaReport.error) {
         healthReport.warnings.push({
             severity: 'warning',
             component: 'discord-bot',
-            message: 'posted_jobs.json not found or invalid',
+            message: schemaReport.error,
         });
         return;
     }
 
-    // Count posts in last hour
-    const oneHourAgo = Date.now() - (60 * 60 * 1000);
-    const recentPosts = postedJobs.filter(job => {
-        const postedAt = new Date(job.posted_at || 0).getTime();
-        return postedAt > oneHourAgo;
-    });
+    // Add schema-aware metrics
+    healthReport.metrics.posted_total = schemaReport.total_jobs;
+    healthReport.metrics.posted_success_rate = schemaReport.success_rate;
+    healthReport.metrics.posted_v2_success = schemaReport.breakdown.v2_success;
+    healthReport.metrics.posted_v1_legacy = schemaReport.breakdown.v1_legacy_success;
+    healthReport.metrics.posted_true_failures = schemaReport.breakdown.true_failures;
 
-    healthReport.metrics.posted_last_hour = recentPosts.length;
-    healthReport.metrics.posted_total = postedJobs.length;
-
-    if (recentPosts.length < THRESHOLDS.MIN_POSTED_PER_HOUR) {
+    // Check success rate (using schema-aware logic)
+    if (schemaReport.health_status === 'UNHEALTHY') {
+        healthReport.status = 'unhealthy';
+        healthReport.issues.push({
+            severity: 'critical',
+            component: 'discord-bot',
+            message: `Low posting success rate: ${schemaReport.success_rate}% (${schemaReport.success_count}/${schemaReport.total_jobs})`,
+            recommendation: 'Check Discord bot logs for errors or rate limits',
+            failures: schemaReport.failures.slice(0, 5), // Top 5 failures
+        });
+    } else if (schemaReport.health_status === 'DEGRADED') {
         healthReport.status = 'degraded';
         healthReport.warnings.push({
             severity: 'warning',
             component: 'discord-bot',
-            message: `Low posting rate: only ${recentPosts.length} jobs posted in last hour`,
-            recommendation: 'Check Discord bot logs for errors or rate limits',
-            threshold: `${THRESHOLDS.MIN_POSTED_PER_HOUR} per hour`,
+            message: `Degraded posting success rate: ${schemaReport.success_rate}%`,
+            recommendation: 'Monitor Discord bot for intermittent failures',
+        });
+    }
+
+    // Warn if significant V1 legacy posts exist (migration needed)
+    const v1Percentage = schemaReport.total_jobs > 0
+        ? (schemaReport.breakdown.v1_legacy_success / schemaReport.total_jobs * 100)
+        : 0;
+
+    if (v1Percentage > 50) {
+        healthReport.warnings.push({
+            severity: 'info',
+            component: 'schema-migration',
+            message: `${v1Percentage.toFixed(1)}% of posts are V1 legacy schema (${schemaReport.breakdown.v1_legacy_success} jobs)`,
+            recommendation: 'Consider running V1→V2 conversion script to migrate legacy posts',
         });
     }
 }
