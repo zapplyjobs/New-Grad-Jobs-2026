@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T07:16:27.306Z",
+  "lastUpdated": "2026-01-22T07:31:25.810Z",
   "jobs": [
-    {
-      "id": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715-2026-01-15-1",
-      "jobId": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715",
-      "company": "University of Maryland - College Park",
-      "title": "Postdoctoral Associate",
-      "postedToDiscord": "2026-01-15T07:27:36.670Z",
-      "sourceDate": "2025-11-01T10:18:04.000Z",
-      "sourceUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-associate_JR100715",
-      "discordThreadId": "1461260505321574462",
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-part-time-research-assistant-programmer-yanxi-liu_req_0000069003-1-2026-01-15-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-part-time-research-assistant-programmer-yanxi-liu_req_0000069003-1",
-      "company": "PennState University",
-      "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
-      "postedToDiscord": "2026-01-15T07:27:40.060Z",
-      "sourceDate": "2025-11-01T10:17:26.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000069003-1",
-      "discordThreadId": "1461260519653769361",
-      "instanceNumber": 1
-    },
-    {
-      "id": "onto-wd1-myworkdayjobs-com-onto_careers-job-wilmington-ma-upton-senior-software-engineer_r-4963-2026-01-15-1",
-      "jobId": "onto-wd1-myworkdayjobs-com-onto_careers-job-wilmington-ma-upton-senior-software-engineer_r-4963",
-      "company": "Onto Innovation",
-      "title": "Senior Software Engineer",
-      "postedToDiscord": "2026-01-15T07:27:43.462Z",
-      "sourceDate": "2025-11-01T10:17:00.000Z",
-      "sourceUrl": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-4963",
-      "discordThreadId": "1461260533641641987",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pg-wd5-myworkdayjobs-com-1000-job-cincinnati-general-offices-data-scientist-b1-_r000135859-1-2026-01-15-1",
-      "jobId": "pg-wd5-myworkdayjobs-com-1000-job-cincinnati-general-offices-data-scientist-b1-_r000135859-1",
-      "company": "Procter & Gamble (P&G)",
-      "title": "Data Scientist",
-      "postedToDiscord": "2026-01-15T07:27:47.060Z",
-      "sourceDate": "2025-11-01T10:15:50.000Z",
-      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--B1-_R000135859-1",
-      "discordThreadId": "1461260548606918739",
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1-2026-01-15-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_staff-job-penn-state-university-park-it-applications-specialist-part-time_req_0000067530-1",
-      "company": "PennState University",
-      "title": "IT Applications Specialist",
-      "postedToDiscord": "2026-01-15T07:27:53.637Z",
-      "sourceDate": "2025-11-01T10:17:47.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1",
-      "discordThreadId": "1461260576192725198",
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-experimental-ultrahigh-energy-neutrino-pueo-experiment_req_0000043392-2-2026-01-15-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-experimental-ultrahigh-energy-neutrino-pueo-experiment_req_0000043392-2",
-      "company": "PennState University",
-      "title": "Postdoctoral Scholar - Experimental Ultrahigh Energy Neutrino - PUEO Experiment",
-      "postedToDiscord": "2026-01-15T07:27:57.076Z",
-      "sourceDate": "2025-11-01T10:07:32.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Experimental-Ultrahigh-Energy-Neutrino---PUEO-Experiment_REQ_0000043392-2",
-      "discordThreadId": "1461260590788903079",
-      "instanceNumber": 1
-    },
-    {
-      "id": "woundedwarriorproject-wd5-myworkdayjobs-com-wwp-job-jacksonville-fl-senior-salesforce-marketing-cloud-developer_r14110-2026-01-15-1",
-      "jobId": "woundedwarriorproject-wd5-myworkdayjobs-com-wwp-job-jacksonville-fl-senior-salesforce-marketing-cloud-developer_r14110",
-      "company": "Wounded Warrior Project",
-      "title": "Senior Salesforce Marketing Cloud Developer",
-      "postedToDiscord": "2026-01-15T07:28:03.767Z",
-      "sourceDate": "2025-11-01T10:14:00.000Z",
-      "sourceUrl": "https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp/job/Jacksonville-FL/Senior-Salesforce-Marketing-Cloud-Developer_R14110",
-      "discordThreadId": "1461260618609721385",
-      "instanceNumber": 1
-    },
-    {
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-in-future-runoff-and-reservoir-evaporation-projections-for-texas-river-basins_r_00034762-1-2026-01-15-1",
-      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-in-future-runoff-and-reservoir-evaporation-projections-for-texas-river-basins_r_00034762-1",
-      "company": "University of Texas - Austin",
-      "title": "Postdoctoral Fellow in Future Runoff and Reservoir Evaporation Projections for Texas River Basins",
-      "postedToDiscord": "2026-01-15T07:28:07.556Z",
-      "sourceDate": "2025-11-01T10:08:59.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-in-Future-Runoff-and-Reservoir-Evaporation-Projections-for-Texas-River-Basins_R_00034762-1",
-      "discordThreadId": "1461260633617203353",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-relativity-jobs-8236930002-2026-01-15-1",
-      "jobId": "boards-greenhouse-io-relativity-jobs-8236930002",
-      "company": "Relativity Space",
-      "title": "GNC Simulation Engineer 1",
-      "postedToDiscord": "2026-01-15T07:28:12.112Z",
-      "sourceDate": "2025-11-01T01:24:46.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/relativity/jobs/8236930002",
-      "discordThreadId": "1461260654009782430",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00109651-2026-01-15-1",
-      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00109651",
-      "company": "Louisiana State University (LSU)",
-      "title": "Postdoctoral Researcher",
-      "postedToDiscord": "2026-01-15T07:28:18.690Z",
-      "sourceDate": "2025-11-01T10:12:36.000Z",
-      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3255-Patrick-F-Taylor-Hall/Postdoctoral-Researcher_R00109651",
-      "discordThreadId": "1461260681159512104",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-pmg-jobs-8227319002-2026-01-15-1",
       "jobId": "job-boards-greenhouse-io-pmg-jobs-8227319002",
@@ -46581,9 +46471,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463794296716263549",
+          "messageId": "1463798062932562053",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:15:56.596Z"
+          "postedAt": "2026-01-22T07:30:54.468Z"
         }
       },
       "instanceNumber": 1
@@ -46598,14 +46488,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463794304634978428",
+          "messageId": "1463798070860054635",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:15:58.421Z"
+          "postedAt": "2026-01-22T07:30:56.521Z"
         },
         "1462989305181114450": {
-          "messageId": "1463794312239255644",
+          "messageId": "1463798079278022693",
           "channelType": "location",
-          "postedAt": "2026-01-22T07:16:00.281Z"
+          "postedAt": "2026-01-22T07:30:58.301Z"
         }
       },
       "instanceNumber": 1
@@ -46620,14 +46510,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463794319969353739",
+          "messageId": "1463798086844416149",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:02.025Z"
+          "postedAt": "2026-01-22T07:31:00.099Z"
         },
         "1462988831530680422": {
-          "messageId": "1463794327410053166",
+          "messageId": "1463798094381449277",
           "channelType": "location",
-          "postedAt": "2026-01-22T07:16:03.736Z"
+          "postedAt": "2026-01-22T07:31:01.885Z"
         }
       },
       "instanceNumber": 1
@@ -46642,9 +46532,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463794334594891910",
+          "messageId": "1463798101738389535",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:05.459Z"
+          "postedAt": "2026-01-22T07:31:03.653Z"
         }
       },
       "instanceNumber": 1
@@ -46659,14 +46549,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463794341595316302",
+          "messageId": "1463798108998733917",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:07.240Z"
+          "postedAt": "2026-01-22T07:31:05.372Z"
         },
         "1462988831530680422": {
-          "messageId": "1463794349232885873",
+          "messageId": "1463798116372447293",
           "channelType": "location",
-          "postedAt": "2026-01-22T07:16:09.016Z"
+          "postedAt": "2026-01-22T07:31:07.237Z"
         }
       },
       "instanceNumber": 1
@@ -46681,9 +46571,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463794369390968899",
+          "messageId": "1463798136895045642",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:13.784Z"
+          "postedAt": "2026-01-22T07:31:12.006Z"
         }
       },
       "instanceNumber": 1
@@ -46698,14 +46588,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463794376739389460",
+          "messageId": "1463798144448987231",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:15.538Z"
+          "postedAt": "2026-01-22T07:31:13.822Z"
         },
         "1462989305181114450": {
-          "messageId": "1463794383869579367",
+          "messageId": "1463798151881429166",
           "channelType": "location",
-          "postedAt": "2026-01-22T07:16:17.340Z"
+          "postedAt": "2026-01-22T07:31:15.608Z"
         }
       },
       "instanceNumber": 1
@@ -46720,9 +46610,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463794391490629744",
+          "messageId": "1463798159364067456",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:19.061Z"
+          "postedAt": "2026-01-22T07:31:17.346Z"
         }
       },
       "instanceNumber": 1
@@ -46737,14 +46627,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463794398855692552",
+          "messageId": "1463798166943174697",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:20.757Z"
+          "postedAt": "2026-01-22T07:31:19.235Z"
         },
         "1462989305181114450": {
-          "messageId": "1463794405998727267",
+          "messageId": "1463798174710894717",
           "channelType": "location",
-          "postedAt": "2026-01-22T07:16:22.462Z"
+          "postedAt": "2026-01-22T07:31:21.018Z"
         }
       },
       "instanceNumber": 1
@@ -46759,20 +46649,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463794425858752543",
+          "messageId": "1463798194856136704",
           "channelType": "category",
-          "postedAt": "2026-01-22T07:16:27.305Z"
+          "postedAt": "2026-01-22T07:31:25.809Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3532,
+    "totalJobs": 3522,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-22T07:16:27.306Z",
+      "date": "2026-01-22T07:31:25.810Z",
       "archived": 0
     }
   }
