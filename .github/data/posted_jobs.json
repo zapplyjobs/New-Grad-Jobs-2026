@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T00:55:55.483Z",
+  "lastUpdated": "2026-01-22T01:40:23.626Z",
   "jobs": [
-    {
-      "id": "jobs-apple-com-en-us-details-200630271-2026-01-15-1",
-      "jobId": "jobs-apple-com-en-us-details-200630271",
-      "company": "Apple",
-      "title": "Software Triage Engineer - Siri Attention and Invocation",
-      "postedToDiscord": "2026-01-15T01:12:50.255Z",
-      "sourceDate": "2025-11-19T00:57:30.000Z",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200630271",
-      "discordThreadId": "1461166190096285861",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-apple-com-en-us-details-200629915-2026-01-15-1",
-      "jobId": "jobs-apple-com-en-us-details-200629915",
-      "company": "Apple",
-      "title": "Integration Engineer",
-      "postedToDiscord": "2026-01-15T01:12:53.752Z",
-      "sourceDate": "2025-11-19T00:57:21.000Z",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200629915",
-      "discordThreadId": "1461166204738605086",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-apple-com-en-us-details-200630605-2026-01-15-1",
-      "jobId": "jobs-apple-com-en-us-details-200630605",
-      "company": "Apple",
-      "title": "IOS Engineer - Photography Editing & Creativity Tools",
-      "postedToDiscord": "2026-01-15T01:12:57.227Z",
-      "sourceDate": "2025-11-19T00:56:37.000Z",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200630605",
-      "discordThreadId": "1461166219343433729",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-karat-jobs-8296251002-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-karat-jobs-8296251002",
-      "company": "Karat",
-      "title": "Software Engineer - Swe1 or Swe2 - United States",
-      "postedToDiscord": "2026-01-15T01:12:59.039Z",
-      "sourceDate": "2025-11-19T00:11:26.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/karat/jobs/8296251002",
-      "discordThreadId": "1461166234132418625",
-      "instanceNumber": 1
-    },
-    {
-      "id": "seatgeek-com-jobs-7406634-2026-01-15-1",
-      "jobId": "seatgeek-com-jobs-7406634",
-      "company": "SeatGeek",
-      "title": "Software Engineer – New Grad",
-      "postedToDiscord": "2026-01-15T01:13:02.475Z",
-      "sourceDate": "2025-11-18T23:37:33.000Z",
-      "sourceUrl": "https://seatgeek.com/jobs/7406634?gh_jid=7406634",
-      "discordThreadId": "1461166241581371547",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zoom-wd5-myworkdayjobs-com-zoom-job-remote-wa-software-development_r17786-1-2026-01-15-1",
-      "jobId": "zoom-wd5-myworkdayjobs-com-zoom-job-remote-wa-software-development_r17786-1",
-      "company": "Zoom",
-      "title": "Software Development",
-      "postedToDiscord": "2026-01-15T01:13:05.987Z",
-      "sourceDate": "2025-11-18T16:17:29.000Z",
-      "sourceUrl": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1",
-      "discordThreadId": "1461166255548399689",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-apple-com-en-us-details-200631366-2026-01-15-1",
-      "jobId": "jobs-apple-com-en-us-details-200631366",
-      "company": "Apple",
-      "title": "AIML Triage Engineer - Machine Learning Platform and Technologies",
-      "postedToDiscord": "2026-01-15T01:13:12.706Z",
-      "sourceDate": "2025-11-19T00:55:29.000Z",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200631366",
-      "discordThreadId": "1461166283700703326",
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-cosmological-physics-advanced-computing-cpac-_421370-2026-01-15-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-cosmological-physics-advanced-computing-cpac-_421370",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC",
-      "postedToDiscord": "2026-01-15T01:13:16.454Z",
-      "sourceDate": "2025-11-19T00:38:42.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmological-Physics---Advanced-Computing--CPAC-_421370",
-      "discordThreadId": "1461166299169423496",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-c74b6db1-3f5a-4501-9507-714d4d900113-2026-01-15-1",
-      "jobId": "jobs-lever-co-spotify-c74b6db1-3f5a-4501-9507-714d4d900113",
-      "company": "spotify",
-      "title": "Machine Learning Engineering Manager, Personalization",
-      "postedToDiscord": "2026-01-15T01:13:20.042Z",
-      "sourceDate": "2025-11-18T14:24:47.953Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/c74b6db1-3f5a-4501-9507-714d4d900113",
-      "discordThreadId": "1461166314809983040",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7500706003-2026-01-15-1",
       "jobId": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7500706003",
@@ -48363,9 +48264,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463698530576236545",
+          "messageId": "1463709720845226006",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:24.187Z"
+          "postedAt": "2026-01-22T01:39:52.010Z"
         }
       },
       "instanceNumber": 1
@@ -48380,14 +48281,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463698538360733747",
+          "messageId": "1463709728264818864",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:26.041Z"
+          "postedAt": "2026-01-22T01:39:53.775Z"
         },
         "1462989305181114450": {
-          "messageId": "1463698546456002634",
+          "messageId": "1463709735848120340",
           "channelType": "location",
-          "postedAt": "2026-01-22T00:55:27.865Z"
+          "postedAt": "2026-01-22T01:39:55.584Z"
         }
       },
       "instanceNumber": 1
@@ -48402,14 +48303,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463698554035114035",
+          "messageId": "1463709743359987875",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:29.572Z"
+          "postedAt": "2026-01-22T01:39:57.466Z"
         },
         "1462988831530680422": {
-          "messageId": "1463698561169362946",
+          "messageId": "1463709751090086090",
           "channelType": "location",
-          "postedAt": "2026-01-22T00:55:31.639Z"
+          "postedAt": "2026-01-22T01:39:59.136Z"
         }
       },
       "instanceNumber": 1
@@ -48424,9 +48325,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463698569881190445",
+          "messageId": "1463709758228791318",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:33.479Z"
+          "postedAt": "2026-01-22T01:40:00.897Z"
         }
       },
       "instanceNumber": 1
@@ -48441,14 +48342,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463698577602773096",
+          "messageId": "1463709766294569033",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:35.281Z"
+          "postedAt": "2026-01-22T01:40:03.289Z"
         },
         "1462988831530680422": {
-          "messageId": "1463698585123033171",
+          "messageId": "1463709775463321726",
           "channelType": "location",
-          "postedAt": "2026-01-22T00:55:37.019Z"
+          "postedAt": "2026-01-22T01:40:05.195Z"
         }
       },
       "instanceNumber": 1
@@ -48463,9 +48364,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463698605096435860",
+          "messageId": "1463709796220928061",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:41.932Z"
+          "postedAt": "2026-01-22T01:40:09.997Z"
         }
       },
       "instanceNumber": 1
@@ -48480,14 +48381,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463698612579074193",
+          "messageId": "1463709803284267051",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:43.704Z"
+          "postedAt": "2026-01-22T01:40:11.737Z"
         },
         "1462989305181114450": {
-          "messageId": "1463698620829138944",
+          "messageId": "1463709811387400262",
           "channelType": "location",
-          "postedAt": "2026-01-22T00:55:45.542Z"
+          "postedAt": "2026-01-22T01:40:13.597Z"
         }
       },
       "instanceNumber": 1
@@ -48502,9 +48403,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463698627795882078",
+          "messageId": "1463709818786283622",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:47.229Z"
+          "postedAt": "2026-01-22T01:40:15.327Z"
         }
       },
       "instanceNumber": 1
@@ -48519,14 +48420,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463698635446288404",
+          "messageId": "1463709825815941154",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:49.038Z"
+          "postedAt": "2026-01-22T01:40:17.116Z"
         },
         "1462989305181114450": {
-          "messageId": "1463698642790645891",
+          "messageId": "1463709833273409630",
           "channelType": "location",
-          "postedAt": "2026-01-22T00:55:50.743Z"
+          "postedAt": "2026-01-22T01:40:18.902Z"
         }
       },
       "instanceNumber": 1
@@ -48541,20 +48442,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463698662780567648",
+          "messageId": "1463709853728903374",
           "channelType": "category",
-          "postedAt": "2026-01-22T00:55:55.482Z"
+          "postedAt": "2026-01-22T01:40:23.625Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3694,
+    "totalJobs": 3685,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-22T00:55:55.483Z",
+      "date": "2026-01-22T01:40:23.626Z",
       "archived": 0
     }
   }
