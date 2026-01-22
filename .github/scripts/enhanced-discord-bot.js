@@ -305,37 +305,18 @@ client.once('ready', async () => {
 
   console.log(`📬 Found ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
 
-  // Hardcoded job filters: Skip specific problematic jobs
-  const jobBlacklist = [
-    { title: 'agentic ai teacher', company: 'amazon' } // All variations including "- Agi Ds"
-  ];
-
-  // Track blacklisted job IDs so we can remove them from pending queue
-  const blacklistedJobIds = [];
-
-  const filteredJobs = unpostedJobs.filter(job => {
+  // Apply blacklist filter using extracted module
+  const blacklistResult = filterBlacklisted(unpostedJobs, (job) => {
     const jobId = generateJobId(job);
-    const titleLower = (job.job_title || '').toLowerCase();
-    const companyLower = (job.employer_name || '').toLowerCase();
-
-    // Check if job matches any blacklist entry
-    const isBlacklisted = jobBlacklist.some(blacklisted => {
-      return titleLower.includes(blacklisted.title) && companyLower.includes(blacklisted.company);
-    });
-
-    if (isBlacklisted) {
-      console.log(`🚫 Skipping blacklisted job: ${job.job_title} at ${job.employer_name}`);
-      postLogger.logSkip(job, jobId, 'blacklisted');
-      blacklistedJobIds.push(jobId); // Track for queue cleanup
-      return false;
-    }
-
-    return true;
+    console.log(`🚫 Skipping blacklisted job: ${job.job_title} at ${job.employer_name}`);
+    postLogger.logSkip(job, jobId, 'blacklisted');
   });
+  const filteredJobs = blacklistResult.filtered;
 
   // Remove blacklisted jobs from pending queue immediately (FIX: prevent queue blocking)
-  if (blacklistedJobIds.length > 0) {
+  if (blacklistResult.blacklisted.length > 0) {
     try {
+      const blacklistedJobIds = blacklistResult.blacklisted.map(job => generateJobId(job));
       let queue = loadPendingQueue();
       const beforeCount = queue.length;
       queue = queue.filter(item => {
@@ -352,29 +333,23 @@ client.once('ready', async () => {
     }
   }
 
-  console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${unpostedJobs.length - filteredJobs.length} blacklisted)`);
+  console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${blacklistResult.blacklisted.length} blacklisted)`);
 
-  // Data quality filter: Skip jobs with missing or empty required fields
-  const invalidJobIds = [];
+  // Apply data quality filter using extracted module
+  const qualityResult = filterByDataQuality(filteredJobs, ['job_title', 'employer_name']);
+  const validJobs = qualityResult.valid;
 
-  const validJobs = filteredJobs.filter(job => {
+  // Log skipped invalid jobs
+  qualityResult.invalid.forEach(({ job, missingFields }) => {
     const jobId = generateJobId(job);
-    const title = (job.job_title || '').trim();
-    const company = (job.employer_name || '').trim();
-
-    if (!title || !company) {
-      console.log(`⚠️ Skipping malformed job: title="${title}" company="${company}"`);
-      postLogger.logSkip(job, jobId, 'invalid_data');
-      invalidJobIds.push(jobId); // Track for queue cleanup
-      return false;
-    }
-
-    return true;
+    console.log(`⚠️ Skipping malformed job: missing ${missingFields.join(', ')}`);
+    postLogger.logSkip(job, jobId, 'invalid_data');
   });
 
   // Remove invalid jobs from pending queue (FIX: prevent queue blocking)
-  if (invalidJobIds.length > 0) {
+  if (qualityResult.invalid.length > 0) {
     try {
+      const invalidJobIds = qualityResult.invalid.map(({ job }) => generateJobId(job));
       let queue = loadPendingQueue();
       const beforeCount = queue.length;
       queue = queue.filter(item => {
@@ -391,7 +366,7 @@ client.once('ready', async () => {
     }
   }
 
-  console.log(`📋 After data quality filter: ${validJobs.length} jobs (${filteredJobs.length - validJobs.length} invalid)`);
+  console.log(`📋 After data quality filter: ${validJobs.length} jobs (${qualityResult.invalid.length} invalid)`);
 
   // Multi-location grouping: Group jobs by title+company, collect all unique locations
   // Instead of posting the same job 3 times for 3 cities, post once with all locations listed
