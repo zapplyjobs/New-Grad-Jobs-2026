@@ -19,12 +19,15 @@ const {
 // Import extracted modules
 const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG, LEGACY_CHANNEL_ID, MULTI_CHANNEL_MODE, LOCATION_MODE_ENABLED } = require('./src/discord/config');
 const { getJobChannelDetails, isAIRole, isDataScienceRole, isTechRole, isNonTechRole } = require('./src/routing/router');
+const { getJobLocationChannel } = require('./src/routing/location');
 const { normalizeJob } = require('./src/utils/job-normalizer');
 const { formatPostedDate, cleanJobDescription } = require('./src/utils/job-formatters');
 const PostedJobsManager = require('./src/data/posted-jobs-manager-v2');
 const SubscriptionManager = require('./src/data/subscription-manager');
-// NEW: Import text message posting function
+// NEW: Import posting and filtering utilities
 const { postJobToChannel, generateTags, buildJobEmbed, buildActionRow } = require('./src/discord/poster');
+const { postJobToForum } = require('./src/discord/forum-poster');
+const { filterBlacklisted, filterByDataQuality, filterEnriched, filterUnposted } = require('./src/filters/job-filters');
 
 // Environment variables
 const TOKEN = process.env.DISCORD_TOKEN;
@@ -99,168 +102,8 @@ const subscriptionManager = new SubscriptionManager();
 
 const postedJobsManager = new PostedJobsManager();
 
-// Determine which location channel a job should go to
-function getJobLocationChannel(job) {
-  const city = (job.job_city || '').toLowerCase().trim();
-  const state = (job.job_state || '').toLowerCase().trim();
-  const title = (job.job_title || '').toLowerCase();
-  const description = (job.job_description || '').toLowerCase();
-  const combined = `${title} ${description} ${city} ${state}`;
-
-  // Metro area city matching (comprehensive)
-  const cityMatches = {
-    // San Francisco Bay Area
-    'san francisco': 'san-francisco',
-    'oakland': 'san-francisco',
-    'berkeley': 'san-francisco',
-    'san jose': 'san-francisco',
-    'palo alto': 'san-francisco',
-    'fremont': 'san-francisco',
-    'hayward': 'san-francisco',
-    'richmond': 'san-francisco',
-    'daly city': 'san-francisco',
-    'alameda': 'san-francisco',
-    'cupertino': 'san-francisco',
-    'santa clara': 'san-francisco',
-    'mountain view': 'mountain-view',
-    'sunnyvale': 'sunnyvale',
-    'san bruno': 'san-bruno',
-
-    // NYC Metro Area
-    'new york': 'new-york',
-    'manhattan': 'new-york',
-    'brooklyn': 'new-york',
-    'queens': 'new-york',
-    'bronx': 'new-york',
-    'staten island': 'new-york',
-    'jersey city': 'new-york',
-    'newark': 'new-york',
-    'hoboken': 'new-york',
-    'white plains': 'new-york',
-    'yonkers': 'new-york',
-
-    // Seattle Metro Area
-    'seattle': 'seattle',
-    'bellevue': 'seattle',
-    'tacoma': 'seattle',
-    'everett': 'seattle',
-    'renton': 'seattle',
-    'kent': 'seattle',
-    'redmond': 'redmond',
-
-    // Austin Metro Area
-    'austin': 'austin',
-    'round rock': 'austin',
-    'cedar park': 'austin',
-    'georgetown': 'austin',
-    'pflugerville': 'austin',
-
-    // Chicago Metro Area
-    'chicago': 'chicago',
-    'naperville': 'chicago',
-    'aurora': 'chicago',
-    'joliet': 'chicago',
-    'evanston': 'chicago',
-    'schaumburg': 'chicago',
-
-    // Boston Metro Area
-    'boston': 'boston',
-    'cambridge': 'boston',
-    'somerville': 'boston',
-    'brookline': 'boston',
-    'quincy': 'boston',
-    'newton': 'boston',
-    'waltham': 'boston',
-    'revere': 'boston',
-    'medford': 'boston',
-
-    // Los Angeles Metro Area
-    'los angeles': 'los-angeles',
-    'santa monica': 'los-angeles',
-    'pasadena': 'los-angeles',
-    'long beach': 'los-angeles',
-    'glendale': 'los-angeles',
-    'irvine': 'los-angeles',
-    'anaheim': 'los-angeles',
-    'burbank': 'los-angeles',
-    'torrance': 'los-angeles'
-  };
-
-  // City abbreviations
-  const cityAbbreviations = {
-    'sf': 'san-francisco',
-    'nyc': 'new-york'
-  };
-
-  // 1. Check exact city matches first (most reliable)
-  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
-    if (city.includes(searchCity)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 2. Check abbreviations
-  for (const [abbr, channelKey] of Object.entries(cityAbbreviations)) {
-    if (city === abbr || city.split(/\s+/).includes(abbr)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 3. Check title + description for city names
-  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
-    if (combined.includes(searchCity)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 4. State-based fallback (for ALL jobs, not just remote)
-  // If we have a state but no specific city match, map to the main city in that state
-  if (state) {
-    if (state === 'ca' || state === 'california') {
-      // CA jobs without specific city go to LA (most CA jobs not in Bay Area)
-      // Bay Area cities already caught by city matching above
-      return LOCATION_CHANNEL_CONFIG['los-angeles'];
-    }
-    if (state === 'ma' || state === 'massachusetts') {
-      return LOCATION_CHANNEL_CONFIG['boston'];
-    }
-    if (state === 'ny' || state === 'new york') {
-      return LOCATION_CHANNEL_CONFIG['new-york'];
-    }
-    if (state === 'tx' || state === 'texas') {
-      return LOCATION_CHANNEL_CONFIG['austin'];
-    }
-    if (state === 'wa' || state === 'washington') {
-      // Check if Redmond is specifically mentioned
-      if (combined.includes('redmond')) {
-        return LOCATION_CHANNEL_CONFIG['redmond'];
-      }
-      return LOCATION_CHANNEL_CONFIG['seattle'];
-    }
-    if (state === 'il' || state === 'illinois') {
-      return LOCATION_CHANNEL_CONFIG['chicago'];
-    }
-  }
-
-  // 5. Remote USA fallback (only if no state/city match)
-  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
-      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
-  }
-
-  // 6. Default fallback: US jobs without specific location channels → remote-usa
-  // This ensures jobs from Phoenix, Denver, Miami, etc. still get posted somewhere
-  // Only apply to confirmed US states to avoid posting Canadian/international jobs
-  const usStates = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt', 'va', 'wa', 'wv', 'wi', 'wy', 'dc',
-    'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota', 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico', 'new york', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania', 'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming', 'district of columbia'];
-
-  if (state && usStates.includes(state)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
-  }
-
-  // No location data at all - skip location channels
-  return null;
-}
+// NOTE: getJobLocationChannel() is now imported from src/routing/location.js
+// Location routing logic extracted to src/routing/location.js (152 lines removed)
 
 // Slash command definitions
 const commands = [
@@ -1148,84 +991,8 @@ client.on('interactionCreate', async interaction => {
 });
 
 // Function to post job to forum channel
-async function postJobToForum(job, channel) {
-  try {
-    const jobId = generateJobId(job);
-    const embed = buildJobEmbed(job);
-    const actionRow = buildActionRow(job);
-    const tags = generateTags(job);
-
-    // Find company emoji if available
-    const company = companies.faang_plus.find(c => c.name === job.employer_name) ||
-                    companies.unicorn_startups.find(c => c.name === job.employer_name) ||
-                    companies.fintech.find(c => c.name === job.employer_name) ||
-                    companies.gaming.find(c => c.name === job.employer_name) ||
-                    companies.top_tech.find(c => c.name === job.employer_name) ||
-                    companies.enterprise_saas.find(c => c.name === job.employer_name);
-
-    // Create forum post title with company emoji if available
-    // Format: [emoji] Job Title @ Company Name
-    const companyEmoji = company ? company.emoji : '🏢';
-    const threadName = `${companyEmoji} ${job.job_title} @ ${job.employer_name}`.substring(0, 100);
-
-    // Build message data
-    const messageData = {
-      embeds: [embed]
-    };
-
-    // Only add components if actionRow has buttons
-    if (actionRow.components.length > 0) {
-      messageData.components = [actionRow];
-    }
-
-    // Check if this is a forum channel
-    if (channel.type === ChannelType.GuildForum) {
-      // Determine tags for the forum post based on job characteristics
-      const appliedTags = [];
-
-      // Try to find matching forum tags (these need to be pre-configured in Discord)
-      // Forum channels can have predefined tags that can be applied to posts
-      if (channel.availableTags && channel.availableTags.length > 0) {
-        // Match job tags with forum tags
-        for (const tag of tags) {
-          const forumTag = channel.availableTags.find(t =>
-            t.name.toLowerCase() === tag.toLowerCase() ||
-            t.name.toLowerCase().includes(tag.toLowerCase())
-          );
-          if (forumTag && appliedTags.length < 5) { // Discord allows max 5 tags
-            appliedTags.push(forumTag.id);
-          }
-        }
-      }
-
-      // Create a new forum post
-      const threadOptions = {
-        name: threadName,
-        message: messageData,
-        autoArchiveDuration: 1440, // Archive after 1 day of inactivity (was 4320/3 days - hitting Discord's 1000 active thread limit)
-        reason: `New job posting: ${job.job_title} at ${job.employer_name}`
-      };
-
-      // Add tags if any were found
-      if (appliedTags.length > 0) {
-        threadOptions.appliedTags = appliedTags;
-      }
-
-      const thread = await channel.threads.create(threadOptions);
-
-      console.log(`✅ Created forum post: ${threadName} in #${channel.name}`);
-      return { success: true, thread };
-    } else {
-      // Fallback for regular text channels (legacy support)
-      const message = await channel.send(messageData);
-      console.log(`✅ Posted message: ${job.job_title} at ${job.employer_name} in #${channel.name}`);
-      return { success: true, message };
-    }
-  } catch (error) {
-    console.error(`❌ Error posting job ${job.job_title}:`, error);
-    return { success: false, error };
-  }
-}
+// NOTE: postJobToForum() is now imported from src/discord/forum-poster.js
+// Forum posting logic extracted (78 lines removed)
 
 // Error handling
 client.on('error', error => {
