@@ -17,6 +17,7 @@ const fs = require('fs');
 const path = require('path');
 const { generateJobFingerprint } = require('./job-fetcher/utils');
 const { generateSchemaAwareHealthReport } = require('./schema-aware-health');
+const { routeAlerts, healthReportToAlerts } = require('./src/monitoring/alert-router');
 
 // Thresholds for health checks
 const THRESHOLDS = {
@@ -560,6 +561,20 @@ function generateReport() {
     const reportPath = path.join(reportsDir, 'health-report.json');
     fs.writeFileSync(reportPath, JSON.stringify(healthReport, null, 2));
     console.log(`📁 Full report saved to: ${reportPath}\n`);
+
+    // Route alerts to external channels (Discord, GitHub summary)
+    const alerts = healthReportToAlerts(healthReport);
+    if (alerts.length > 0) {
+        console.log(`📨 Routing ${alerts.length} alerts to external channels...\n`);
+        routeAlerts(alerts).then((results) => {
+            const discordSuccess = results.filter(r => r.result.discord).length;
+            if (discordSuccess > 0) {
+                console.log(`✅ Sent ${discordSuccess} alerts to Discord\n`);
+            }
+        }).catch((error) => {
+            console.error('⚠️ Alert routing failed:', error.message);
+        });
+    }
 
     // Exit with appropriate code
     if (healthReport.status === 'unhealthy') {
