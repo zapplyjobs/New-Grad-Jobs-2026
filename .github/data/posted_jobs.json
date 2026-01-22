@@ -1,260 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T08:32:05.358Z",
+  "lastUpdated": "2026-01-22T09:18:08.548Z",
   "jobs": [
-    {
-      "id": "lifeattiktok-com-search-6863478486973040910-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-6863478486973040910",
-      "company": "TikTok",
-      "title": "Data Scientist - TikTok Ads",
-      "postedToDiscord": "2026-01-15T08:47:25.560Z",
-      "sourceDate": "2025-10-31T11:01:42.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/6863478486973040910",
-      "discordThreadId": "1461280590543196258",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7560969352582334781-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7560969352582334781-detail",
-      "company": "ByteDance",
-      "title": "3D Vision Algorithm Engineer Graduate - Hand Tracking - Phd",
-      "postedToDiscord": "2026-01-15T08:47:32.089Z",
-      "sourceDate": "2025-10-31T11:01:38.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7560969352582334781/detail",
-      "discordThreadId": "1461280618376724576",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7532009150009755911-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7532009150009755911",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate - Capital Platform - 2026 Start','BS/MS",
-      "postedToDiscord": "2026-01-15T08:47:35.729Z",
-      "sourceDate": "2025-10-31T10:53:00.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7532009150009755911",
-      "discordThreadId": "1461280632926638083",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lenovo-com-en_us-careers-jobdetail-model-development-engineer-global-future-leaders-program-2026-69922-2026-01-15-1",
-      "jobId": "jobs-lenovo-com-en_us-careers-jobdetail-model-development-engineer-global-future-leaders-program-2026-69922",
-      "company": "Lenovo",
-      "title": "Model Development Engineer - Global Future Leaders Program 2026",
-      "postedToDiscord": "2026-01-15T08:47:39.190Z",
-      "sourceDate": "2025-10-31T10:52:55.000Z",
-      "sourceUrl": "https://jobs.lenovo.com/en_US/careers/JobDetail/Model-Development-Engineer-Global-Future-Leaders-Program-2026/69922",
-      "discordThreadId": "1461280648458141727",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7530770310150392072-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7530770310150392072",
-      "company": "TikTok",
-      "title": "Graduate Engineer - Algorithm Engineering",
-      "postedToDiscord": "2026-01-15T08:47:42.660Z",
-      "sourceDate": "2025-10-31T10:47:26.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7530770310150392072",
-      "discordThreadId": "1461280662802665555",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7551586669491095826-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7551586669491095826-detail",
-      "company": "ByteDance",
-      "title": "Research Scientist Graduate - 3D Avatar",
-      "postedToDiscord": "2026-01-15T08:47:46.390Z",
-      "sourceDate": "2025-10-31T10:44:31.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7551586669491095826/detail",
-      "discordThreadId": "1461280677142986786",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7536339085679954183-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7536339085679954183-detail",
-      "company": "ByteDance",
-      "title": "Graduate Machine Learning Engineer - Conversational AI",
-      "postedToDiscord": "2026-01-15T08:47:52.982Z",
-      "sourceDate": "2025-10-31T11:01:13.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7536339085679954183/detail",
-      "discordThreadId": "1461280705748406292",
-      "instanceNumber": 1
-    },
-    {
-      "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160690-2026-01-15-1",
-      "jobId": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-university-graduate-research-scientist-engineer_r160690",
-      "company": "Adobe",
-      "title": "University Graduate - Research Scientist/Engineer",
-      "postedToDiscord": "2026-01-15T08:47:56.338Z",
-      "sourceDate": "2025-10-31T10:52:08.000Z",
-      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690",
-      "discordThreadId": "1461280720675934252",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7515484126905174280-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7515484126905174280-detail",
-      "company": "ByteDance",
-      "title": "Research Scientist in Generative AI for Science - Bytedance Seed - 2026 Start",
-      "postedToDiscord": "2026-01-15T08:48:00.298Z",
-      "sourceDate": "2025-10-31T10:47:08.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7515484126905174280/detail",
-      "discordThreadId": "1461280734986637336",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7265752342699837757-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7265752342699837757-detail",
-      "company": "ByteDance",
-      "title": "Software Engineer in ML Systems Graduate - Aml - Machine Learning Systems",
-      "postedToDiscord": "2026-01-15T08:48:03.833Z",
-      "sourceDate": "2025-10-31T10:44:25.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7265752342699837757/detail",
-      "discordThreadId": "1461280751369715879",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7515574615440361736-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7515574615440361736-detail",
-      "company": "ByteDance",
-      "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - Phd",
-      "postedToDiscord": "2026-01-15T08:59:24.430Z",
-      "sourceDate": "2025-10-31T10:44:23.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7515574615440361736/detail",
-      "discordThreadId": "1461283606231121992",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7516000253213133074-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7516000253213133074",
-      "company": "TikTok",
-      "title": "General Hire: Machine Learning Engineer Graduate - Data and Eng - Usds",
-      "postedToDiscord": "2026-01-15T08:59:28.039Z",
-      "sourceDate": "2025-10-31T10:41:43.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7516000253213133074",
-      "discordThreadId": "1461283620877504605",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7517108164819454216-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7517108164819454216",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
-      "postedToDiscord": "2026-01-15T08:59:31.427Z",
-      "sourceDate": "2025-10-31T10:41:38.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7517108164819454216",
-      "discordThreadId": "1461283635973062769",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7534982208201984274-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7534982208201984274",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate - 2026 Start and BS/MS",
-      "postedToDiscord": "2026-01-15T08:59:34.931Z",
-      "sourceDate": "2025-10-31T10:41:29.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7534982208201984274",
-      "discordThreadId": "1461283650346942677",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7516656742554454280-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7516656742554454280-detail",
-      "company": "ByteDance",
-      "title": "Graduate Software Engineer - Multiple Teams",
-      "postedToDiscord": "2026-01-15T08:59:38.497Z",
-      "sourceDate": "2025-10-31T10:31:50.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7516656742554454280/detail",
-      "discordThreadId": "1461283664523558933",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7538934102570748178-detail-2026-01-15-1",
-      "jobId": "jobs-bytedance-com-en-position-7538934102570748178-detail",
-      "company": "ByteDance",
-      "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
-      "postedToDiscord": "2026-01-15T08:59:41.992Z",
-      "sourceDate": "2025-10-31T10:25:06.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7538934102570748178/detail",
-      "discordThreadId": "1461283679828578405",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7516653837511346450-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7516653837511346450",
-      "company": "TikTok",
-      "title": "Graduate Software Engineer - Data Arch - E-commerce",
-      "postedToDiscord": "2026-01-15T08:59:48.660Z",
-      "sourceDate": "2025-10-31T10:41:38.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7516653837511346450",
-      "discordThreadId": "1461283707246608491",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7535599554659010834-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7535599554659010834",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate - Monetization Technology - Brand Ads",
-      "postedToDiscord": "2026-01-15T08:59:52.231Z",
-      "sourceDate": "2025-10-31T10:28:08.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7535599554659010834",
-      "discordThreadId": "1461283722618998957",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7535601047362029831-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7535601047362029831",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate - Monetization Technology - Tiktok Ads Creator Monetization",
-      "postedToDiscord": "2026-01-15T08:59:52.249Z",
-      "sourceDate": "2025-10-31T09:17:58.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7535601047362029831",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7541512820980418824-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7541512820980418824",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate - Ads Infrastructure",
-      "postedToDiscord": "2026-01-15T08:59:55.792Z",
-      "sourceDate": "2025-10-31T10:22:02.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7541512820980418824",
-      "discordThreadId": "1461283738053771346",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7531175534148045063-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7531175534148045063",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate - 2026 Start",
-      "postedToDiscord": "2026-01-15T08:59:55.806Z",
-      "sourceDate": "2025-10-31T09:18:23.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7531175534148045063",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7532751373918652679-2026-01-15-1",
-      "jobId": "lifeattiktok-com-search-7532751373918652679",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate - Quality and Efficiency Technology",
-      "postedToDiscord": "2026-01-15T08:59:55.818Z",
-      "sourceDate": "2025-10-31T09:18:08.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7532751373918652679",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20258964-2026-01-15-1",
-      "jobId": "egup-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-20258964",
-      "company": "Vertiv",
-      "title": "Data Scientist",
-      "postedToDiscord": "2026-01-15T09:00:02.415Z",
-      "sourceDate": "2025-10-31T10:15:29.000Z",
-      "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258964",
-      "discordThreadId": "1461283764834406421",
-      "instanceNumber": 1
-    },
     {
       "id": "lifeattiktok-com-search-7543781253578836242-2026-01-15-1",
       "jobId": "lifeattiktok-com-search-7543781253578836242",
@@ -45987,9 +45734,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463813330111168554",
+          "messageId": "1463824918193111196",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:34.735Z"
+          "postedAt": "2026-01-22T09:17:37.289Z"
         }
       },
       "instanceNumber": 1
@@ -46004,14 +45751,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463813339065876603",
+          "messageId": "1463824926107635763",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:36.487Z"
+          "postedAt": "2026-01-22T09:17:39.118Z"
         },
         "1462989305181114450": {
-          "messageId": "1463813346007453829",
+          "messageId": "1463824933384622091",
           "channelType": "location",
-          "postedAt": "2026-01-22T08:31:38.276Z"
+          "postedAt": "2026-01-22T09:17:40.923Z"
         }
       },
       "instanceNumber": 1
@@ -46026,14 +45773,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463813353871769716",
+          "messageId": "1463824941349601321",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:39.964Z"
+          "postedAt": "2026-01-22T09:17:42.799Z"
         },
         "1462988831530680422": {
-          "messageId": "1463813360939433996",
+          "messageId": "1463824949381693608",
           "channelType": "location",
-          "postedAt": "2026-01-22T08:31:41.759Z"
+          "postedAt": "2026-01-22T09:17:44.638Z"
         }
       },
       "instanceNumber": 1
@@ -46048,9 +45795,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463813368291790954",
+          "messageId": "1463824957053341789",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:43.728Z"
+          "postedAt": "2026-01-22T09:17:46.441Z"
         }
       },
       "instanceNumber": 1
@@ -46065,14 +45812,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463813376802291845",
+          "messageId": "1463824964510683290",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:45.436Z"
+          "postedAt": "2026-01-22T09:17:48.294Z"
         },
         "1462988831530680422": {
-          "messageId": "1463813383383154866",
+          "messageId": "1463824971980738748",
           "channelType": "location",
-          "postedAt": "2026-01-22T08:31:47.107Z"
+          "postedAt": "2026-01-22T09:17:50.042Z"
         }
       },
       "instanceNumber": 1
@@ -46087,9 +45834,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463813403608092725",
+          "messageId": "1463824992306204794",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:51.834Z"
+          "postedAt": "2026-01-22T09:17:54.929Z"
         }
       },
       "instanceNumber": 1
@@ -46104,14 +45851,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463813410759381126",
+          "messageId": "1463824999923187849",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:53.568Z"
+          "postedAt": "2026-01-22T09:17:56.718Z"
         },
         "1462989305181114450": {
-          "messageId": "1463813418145546302",
+          "messageId": "1463825007443710169",
           "channelType": "location",
-          "postedAt": "2026-01-22T08:31:55.508Z"
+          "postedAt": "2026-01-22T09:17:58.418Z"
         }
       },
       "instanceNumber": 1
@@ -46126,9 +45873,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463813426081038447",
+          "messageId": "1463825014703915096",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:57.223Z"
+          "postedAt": "2026-01-22T09:18:00.266Z"
         }
       },
       "instanceNumber": 1
@@ -46143,14 +45890,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463813433454759966",
+          "messageId": "1463825022396403722",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:31:59.014Z"
+          "postedAt": "2026-01-22T09:18:02.042Z"
         },
         "1462989305181114450": {
-          "messageId": "1463813440748650600",
+          "messageId": "1463825029803282526",
           "channelType": "location",
-          "postedAt": "2026-01-22T08:32:00.678Z"
+          "postedAt": "2026-01-22T09:18:03.775Z"
         }
       },
       "instanceNumber": 1
@@ -46165,20 +45912,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463813460386254848",
+          "messageId": "1463825049365643480",
           "channelType": "category",
-          "postedAt": "2026-01-22T08:32:05.357Z"
+          "postedAt": "2026-01-22T09:18:08.547Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3478,
+    "totalJobs": 3455,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-22T08:32:05.358Z",
+      "date": "2026-01-22T09:18:08.548Z",
       "archived": 0
     }
   }
