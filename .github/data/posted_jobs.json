@@ -1,249 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T06:53:38.418Z",
+  "lastUpdated": "2026-01-22T07:16:27.306Z",
   "jobs": [
-    {
-      "id": "osv-rubicon-wd5-myworkdayjobs-com-en-us-magnitecareers-job-new-york-new-york-engineer-i-automation-and-custom-applications_r-01139-2026-01-15-1",
-      "jobId": "osv-rubicon-wd5-myworkdayjobs-com-en-us-magnitecareers-job-new-york-new-york-engineer-i-automation-and-custom-applications_r-01139",
-      "company": "Magnite",
-      "title": "Engineer 1 - Automation and Custom Applications",
-      "postedToDiscord": "2026-01-15T07:03:27.650Z",
-      "sourceDate": "2025-11-03T23:24:49.000Z",
-      "sourceUrl": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I--Automation-and-Custom-Applications_R-01139",
-      "discordThreadId": "1461254427435597867",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-webfx-08c0fcbe-8b01-4e30-ac0f-ac55a7cc1ba6-apply-2026-01-15-1",
-      "jobId": "jobs-lever-co-webfx-08c0fcbe-8b01-4e30-ac0f-ac55a7cc1ba6-apply",
-      "company": "WebFX",
-      "title": "Junior Web Developer",
-      "postedToDiscord": "2026-01-15T07:03:31.041Z",
-      "sourceDate": "2025-11-03T23:22:18.000Z",
-      "sourceUrl": "https://jobs.lever.co/webfx/08c0fcbe-8b01-4e30-ac0f-ac55a7cc1ba6/apply",
-      "discordThreadId": "1461254441905950899",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-webfx-a0edf0cb-108b-4e9a-b8e6-76052540bbc2-apply-2026-01-15-1",
-      "jobId": "jobs-lever-co-webfx-a0edf0cb-108b-4e9a-b8e6-76052540bbc2-apply",
-      "company": "WebFX",
-      "title": "React Developer",
-      "postedToDiscord": "2026-01-15T07:03:34.751Z",
-      "sourceDate": "2025-11-03T23:22:16.000Z",
-      "sourceUrl": "https://jobs.lever.co/webfx/a0edf0cb-108b-4e9a-b8e6-76052540bbc2/apply",
-      "discordThreadId": "1461254456564777147",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-webfx-c38d5c28-59d4-477c-abf4-b932debd6be2-apply-2026-01-15-1",
-      "jobId": "jobs-lever-co-webfx-c38d5c28-59d4-477c-abf4-b932debd6be2-apply",
-      "company": "WebFX",
-      "title": "Junior React Developer",
-      "postedToDiscord": "2026-01-15T07:03:38.088Z",
-      "sourceDate": "2025-11-03T23:22:13.000Z",
-      "sourceUrl": "https://jobs.lever.co/webfx/c38d5c28-59d4-477c-abf4-b932debd6be2/apply",
-      "discordThreadId": "1461254471681183827",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-financialtechnologypartners-jobs-8228048002-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-financialtechnologypartners-jobs-8228048002",
-      "company": "Financial Technology Partners",
-      "title": "Special Executions Group Analyst / Data Analytics Analyst",
-      "postedToDiscord": "2026-01-15T07:03:44.403Z",
-      "sourceDate": "2025-11-03T23:19:07.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8228048002",
-      "discordThreadId": "1461254498356822169",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-supabase-c16bd707-29f2-46fb-8409-7270ff00978b-2026-01-15-1",
-      "jobId": "jobs-ashbyhq-com-supabase-c16bd707-29f2-46fb-8409-7270ff00978b",
-      "company": "supabase",
-      "title": "Postgres Engineer",
-      "postedToDiscord": "2026-01-15T07:03:49.119Z",
-      "sourceDate": "2025-11-03T21:46:40.328+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c16bd707-29f2-46fb-8409-7270ff00978b",
-      "discordThreadId": "1461254524940324895",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-post-doctoral-fellow_r0003237-2026-01-15-1",
-      "jobId": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-post-doctoral-fellow_r0003237",
-      "company": "Worcester Polytechnic Institute",
-      "title": "Post-Doctoral Fellow",
-      "postedToDiscord": "2026-01-15T07:03:52.393Z",
-      "sourceDate": "2025-11-03T07:07:21.000Z",
-      "sourceUrl": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Post-Doctoral-Fellow_R0003237",
-      "discordThreadId": "1461254531911520277",
-      "instanceNumber": 1
-    },
-    {
-      "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-mclean-software-developer-ts-sci-w-polygraph_rq207428-2026-01-15-1",
-      "jobId": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-mclean-software-developer-ts-sci-w-polygraph_rq207428",
-      "company": "General Dynamics Information Technology",
-      "title": "Software Developer - TS/SCI Polygraph",
-      "postedToDiscord": "2026-01-15T07:03:55.827Z",
-      "sourceDate": "2025-11-01T10:47:54.000Z",
-      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428",
-      "discordThreadId": "1461254545681158277",
-      "instanceNumber": 1
-    },
-    {
-      "id": "freudenberg-wd3-myworkdayjobs-com-freudenberg-group-job-midland-mi-on-site-application-engineer-i-park_r_00091560-2026-01-15-1",
-      "jobId": "freudenberg-wd3-myworkdayjobs-com-freudenberg-group-job-midland-mi-on-site-application-engineer-i-park_r_00091560",
-      "company": "Freudenberg Group",
-      "title": "On-Site Application Engineer - I-Park",
-      "postedToDiscord": "2026-01-15T07:03:59.165Z",
-      "sourceDate": "2025-11-01T10:42:54.000Z",
-      "sourceUrl": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Midland-MI/On-Site-Application-Engineer---I-Park_R_00091560",
-      "discordThreadId": "1461254560059494565",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-chantilly-virginia-junior-image-scientist_r2098927-2026-01-15-1",
-      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-chantilly-virginia-junior-image-scientist_r2098927",
-      "company": "KBR",
-      "title": "Junior Image Scientist",
-      "postedToDiscord": "2026-01-15T07:04:05.557Z",
-      "sourceDate": "2025-11-01T10:50:28.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Junior-Image-Scientist_R2098927",
-      "discordThreadId": "1461254586844053515",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ghr-wd1-myworkdayjobs-com-en-us-lateral-us-job-charlotte-quantitative-engineer-analyst_25043236-2026-01-15-1",
-      "jobId": "ghr-wd1-myworkdayjobs-com-en-us-lateral-us-job-charlotte-quantitative-engineer-analyst_25043236",
-      "company": "Bank of America",
-      "title": "Quantitative Engineer Analyst",
-      "postedToDiscord": "2026-01-15T07:14:53.648Z",
-      "sourceDate": "2025-11-01T10:42:03.000Z",
-      "sourceUrl": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Quantitative-Engineer-Analyst_25043236",
-      "discordThreadId": "1461257303599878197",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-software-developer_r_1017-2026-01-15-1",
-      "jobId": "aoins-wd5-myworkdayjobs-com-autoowners-job-lansing-mi-software-developer_r_1017",
-      "company": "Auto-Owners Insurance",
-      "title": "Software Developer",
-      "postedToDiscord": "2026-01-15T07:14:57.309Z",
-      "sourceDate": "2025-11-01T10:41:30.000Z",
-      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer_R_1017",
-      "discordThreadId": "1461257319043170392",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293-2026-01-15-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer/Principal Software Engineer - Aht",
-      "postedToDiscord": "2026-01-15T07:15:00.816Z",
-      "sourceDate": "2025-11-01T10:41:11.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer-Principal-Software-Engineer--AHT-_R10211293",
-      "discordThreadId": "1461257334218031246",
-      "instanceNumber": 1
-    },
-    {
-      "id": "regalrexnord-wd1-myworkdayjobs-com-careers-job-radford-virginia-united-states-application-engineer-i_r25_03408-2026-01-15-1",
-      "jobId": "regalrexnord-wd1-myworkdayjobs-com-careers-job-radford-virginia-united-states-application-engineer-i_r25_03408",
-      "company": "Regal Rexnord",
-      "title": "Application Engineer 1",
-      "postedToDiscord": "2026-01-15T07:15:04.611Z",
-      "sourceDate": "2025-11-01T10:40:34.000Z",
-      "sourceUrl": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Application-Engineer-I_R25_03408",
-      "discordThreadId": "1461257349183438854",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-software-engineering-graduate_1192959-1-2026-01-15-1",
-      "jobId": "hpe-wd5-myworkdayjobs-com-jobsathpe-job-spring-texas-united-states-of-america-software-engineering-graduate_1192959-1",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Software Engineering Graduate",
-      "postedToDiscord": "2026-01-15T07:15:08.030Z",
-      "sourceDate": "2025-11-01T10:26:17.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Graduate_1192959-1",
-      "discordThreadId": "1461257364975128681",
-      "instanceNumber": 1
-    },
-    {
-      "id": "caci-wd1-myworkdayjobs-com-external-job-us-il-lisle-software-engineer_315814-2-2026-01-15-1",
-      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-il-lisle-software-engineer_315814-2",
-      "company": "CACI",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-15T07:15:11.426Z",
-      "sourceDate": "2025-11-01T10:21:14.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_315814-2",
-      "discordThreadId": "1461257379583889479",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3151000-2-2026-01-15-1",
-      "jobId": "hp-wd5-myworkdayjobs-com-externalcareersite-job-sant-cugat-del-valles-barcelona-spain-ai-lab-junior-machine-learning-engineer_3151000-2",
-      "company": "Hewlett Packard (HP)",
-      "title": "AI Lab – Junior Machine Learning Engineer - AI Lab - GenAI Modelling",
-      "postedToDiscord": "2026-01-15T07:15:18.189Z",
-      "sourceDate": "2025-11-01T10:33:18.000Z",
-      "sourceUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3151000-2",
-      "discordThreadId": "1461257407199187016",
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-scientific-machine-learning-for-surrogate-modeling-and-power-grid-dynamics_421104-2026-01-15-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-scientific-machine-learning-for-surrogate-modeling-and-power-grid-dynamics_421104",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee",
-      "postedToDiscord": "2026-01-15T07:15:21.655Z",
-      "sourceDate": "2025-11-01T10:18:23.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Scientific-Machine-Learning-for-Surrogate-Modeling-and-Power-Grid-Dynamics_421104",
-      "discordThreadId": "1461257422290161675",
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-electron-microscopy-for-microelectronics_421202-2026-01-15-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-electron-microscopy-for-microelectronics_421202",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee - Electron Microscopy for Microelectronics",
-      "postedToDiscord": "2026-01-15T07:15:21.671Z",
-      "sourceDate": "2025-11-01T10:18:17.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Electron-Microscopy-for-Microelectronics_421202",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-medium-energy-physics_421234-2026-01-15-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-medium-energy-physics_421234",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee - Medium Energy Physics",
-      "postedToDiscord": "2026-01-15T07:15:21.683Z",
-      "sourceDate": "2025-11-01T10:18:17.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Medium-Energy-Physics_421234",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-physics-informed-ai-for-microelectronics-materials_421205-2026-01-15-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-physics-informed-ai-for-microelectronics-materials_421205",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
-      "postedToDiscord": "2026-01-15T07:15:25.184Z",
-      "sourceDate": "2025-11-01T10:18:14.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee--Physics-Informed-AI-for-Microelectronics-Materials_421205",
-      "discordThreadId": "1461257436676493431",
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ai-for-coherent-x-ray-imaging_421292-1-2026-01-15-1",
-      "jobId": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ai-for-coherent-x-ray-imaging_421292-1",
-      "company": "Argonne National Laboratory",
-      "title": "Postdoctoral Appointee - AI for Coherent X-ray Imaging",
-      "postedToDiscord": "2026-01-15T07:15:28.738Z",
-      "sourceDate": "2025-11-01T10:18:13.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-for-Coherent-X-ray-Imaging_421292-1",
-      "discordThreadId": "1461257451839029432",
-      "instanceNumber": 1
-    },
     {
       "id": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715-2026-01-15-1",
       "jobId": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715",
@@ -46823,9 +46581,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463788554294657135",
+          "messageId": "1463794296716263549",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:07.523Z"
+          "postedAt": "2026-01-22T07:15:56.596Z"
         }
       },
       "instanceNumber": 1
@@ -46840,14 +46598,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463788562385338514",
+          "messageId": "1463794304634978428",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:09.265Z"
+          "postedAt": "2026-01-22T07:15:58.421Z"
         },
         "1462989305181114450": {
-          "messageId": "1463788569616318596",
+          "messageId": "1463794312239255644",
           "channelType": "location",
-          "postedAt": "2026-01-22T06:53:11.010Z"
+          "postedAt": "2026-01-22T07:16:00.281Z"
         }
       },
       "instanceNumber": 1
@@ -46862,14 +46620,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463788577136574640",
+          "messageId": "1463794319969353739",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:12.828Z"
+          "postedAt": "2026-01-22T07:16:02.025Z"
         },
         "1462988831530680422": {
-          "messageId": "1463788584715943969",
+          "messageId": "1463794327410053166",
           "channelType": "location",
-          "postedAt": "2026-01-22T06:53:14.658Z"
+          "postedAt": "2026-01-22T07:16:03.736Z"
         }
       },
       "instanceNumber": 1
@@ -46884,9 +46642,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463788592429137992",
+          "messageId": "1463794334594891910",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:16.580Z"
+          "postedAt": "2026-01-22T07:16:05.459Z"
         }
       },
       "instanceNumber": 1
@@ -46901,14 +46659,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463788600012443690",
+          "messageId": "1463794341595316302",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:18.300Z"
+          "postedAt": "2026-01-22T07:16:07.240Z"
         },
         "1462988831530680422": {
-          "messageId": "1463788607729963161",
+          "messageId": "1463794349232885873",
           "channelType": "location",
-          "postedAt": "2026-01-22T06:53:20.081Z"
+          "postedAt": "2026-01-22T07:16:09.016Z"
         }
       },
       "instanceNumber": 1
@@ -46923,9 +46681,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463788627472683122",
+          "messageId": "1463794369390968899",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:24.889Z"
+          "postedAt": "2026-01-22T07:16:13.784Z"
         }
       },
       "instanceNumber": 1
@@ -46940,14 +46698,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463788634896601139",
+          "messageId": "1463794376739389460",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:26.585Z"
+          "postedAt": "2026-01-22T07:16:15.538Z"
         },
         "1462989305181114450": {
-          "messageId": "1463788642542817436",
+          "messageId": "1463794383869579367",
           "channelType": "location",
-          "postedAt": "2026-01-22T06:53:28.403Z"
+          "postedAt": "2026-01-22T07:16:17.340Z"
         }
       },
       "instanceNumber": 1
@@ -46962,9 +46720,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463788649933049989",
+          "messageId": "1463794391490629744",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:30.182Z"
+          "postedAt": "2026-01-22T07:16:19.061Z"
         }
       },
       "instanceNumber": 1
@@ -46979,14 +46737,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463788657361162263",
+          "messageId": "1463794398855692552",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:31.900Z"
+          "postedAt": "2026-01-22T07:16:20.757Z"
         },
         "1462989305181114450": {
-          "messageId": "1463788664613245123",
+          "messageId": "1463794405998727267",
           "channelType": "location",
-          "postedAt": "2026-01-22T06:53:33.641Z"
+          "postedAt": "2026-01-22T07:16:22.462Z"
         }
       },
       "instanceNumber": 1
@@ -47001,20 +46759,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463788684338790451",
+          "messageId": "1463794425858752543",
           "channelType": "category",
-          "postedAt": "2026-01-22T06:53:38.418Z"
+          "postedAt": "2026-01-22T07:16:27.305Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3554,
+    "totalJobs": 3532,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-22T06:53:38.418Z",
+      "date": "2026-01-22T07:16:27.306Z",
       "archived": 0
     }
   }
