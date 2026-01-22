@@ -19,6 +19,7 @@ const { generateJobFingerprint } = require('./job-fetcher/utils');
 const { generateSchemaAwareHealthReport } = require('./schema-aware-health');
 const { routeAlerts, healthReportToAlerts } = require('./src/monitoring/alert-router');
 const { collectQueueMetrics } = require('./src/monitoring/metrics-collector');
+const { runAllRunbooks } = require('./src/monitoring/auto-remediation');
 
 // Thresholds for health checks
 const THRESHOLDS = {
@@ -593,7 +594,7 @@ function generateReport() {
 /**
  * Run all health checks
  */
-function runHealthChecks() {
+async function runHealthChecks() {
     console.log('🏥 Running health checks...\n');
 
     checkDeduplicationRate();
@@ -613,6 +614,21 @@ function runHealthChecks() {
         stale_pending_count: healthReport.metrics.queue_stale_pending || 0,
         duplicate_ratio: parseFloat(healthReport.metrics.queue_duplicate_ratio || 0)
     });
+
+    // Run auto-remediation runbooks
+    console.log('\n🔧 Running auto-remediation...\n');
+    const remediationResults = await runAllRunbooks();
+
+    // Add remediation results to health report
+    healthReport.remediation = {
+        timestamp: remediationResults.timestamp,
+        summary: {
+            remediated: remediationResults.runbooks.filter(r => r.status === 'remediated').length,
+            detected: remediationResults.runbooks.filter(r => r.status === 'detected').length,
+            errors: remediationResults.runbooks.filter(r => r.status === 'error').length
+        },
+        runbooks: remediationResults.runbooks
+    };
 
     generateReport();
 }
