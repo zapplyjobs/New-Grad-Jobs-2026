@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T03:30:06.983Z",
+  "lastUpdated": "2026-01-22T04:06:13.612Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5579431004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5579431004",
-      "company": "vercel",
-      "title": "Fraud Specialist",
-      "postedToDiscord": "2026-01-15T04:01:43.600Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5579431004",
-      "discordThreadId": "1461208692262174834",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5623421004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5623421004",
-      "company": "vercel",
-      "title": " IT Infrastructure Engineer ",
-      "postedToDiscord": "2026-01-15T04:01:47.139Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5623421004",
-      "discordThreadId": "1461208707151958241",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5466858004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5466858004",
-      "company": "vercel",
-      "title": "Product Engineer – v0",
-      "postedToDiscord": "2026-01-15T04:01:50.587Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5466858004",
-      "discordThreadId": "1461208721920102552",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5199830004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5199830004",
-      "company": "vercel",
-      "title": "Head of Product Marketing ",
-      "postedToDiscord": "2026-01-15T04:01:58.452Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5199830004",
-      "discordThreadId": "1461208749292392479",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5648960004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5648960004",
-      "company": "vercel",
-      "title": "Manager, Sales Development, v0",
-      "postedToDiscord": "2026-01-15T04:02:01.901Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5648960004",
-      "discordThreadId": "1461208769286373397",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5654653004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5654653004",
-      "company": "vercel",
-      "title": "Platform Abuse Operations Lead, Trust & Safety",
-      "postedToDiscord": "2026-01-15T04:02:08.649Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5654653004",
-      "discordThreadId": "1461208796755136522",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5589398004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5589398004",
-      "company": "vercel",
-      "title": "Product Manager - Accounts",
-      "postedToDiscord": "2026-01-15T04:02:15.189Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5589398004",
-      "discordThreadId": "1461208824982802576",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5693072004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5693072004",
-      "company": "vercel",
-      "title": "Senior Manager, People Systems",
-      "postedToDiscord": "2026-01-15T04:02:21.803Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5693072004",
-      "discordThreadId": "1461208852706885703",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5611652004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5611652004",
-      "company": "vercel",
-      "title": "Senior Partner Marketing Manager",
-      "postedToDiscord": "2026-01-15T04:02:28.689Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5611652004",
-      "discordThreadId": "1461208880339226804",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5474915004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5474915004",
-      "company": "vercel",
-      "title": "Software Engineer, AI SDK",
-      "postedToDiscord": "2026-01-15T04:02:35.179Z",
-      "sourceDate": "2025-11-13T18:55:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5474915004",
-      "discordThreadId": "1461208909048975493",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-vercel-jobs-5532030004-2026-01-15-1",
       "jobId": "job-boards-greenhouse-io-vercel-jobs-5532030004",
@@ -47934,9 +47824,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463737337245597758",
+          "messageId": "1463746423743844354",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:36.314Z"
+          "postedAt": "2026-01-22T04:05:42.698Z"
         }
       },
       "instanceNumber": 1
@@ -47951,14 +47841,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463737345034420439",
+          "messageId": "1463746431557959912",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:38.090Z"
+          "postedAt": "2026-01-22T04:05:44.468Z"
         },
         "1462989305181114450": {
-          "messageId": "1463737352320188416",
+          "messageId": "1463746438797463552",
           "channelType": "location",
-          "postedAt": "2026-01-22T03:29:39.839Z"
+          "postedAt": "2026-01-22T04:05:46.309Z"
         }
       },
       "instanceNumber": 1
@@ -47973,14 +47863,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463737359639249053",
+          "messageId": "1463746446430834731",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:41.582Z"
+          "postedAt": "2026-01-22T04:05:48.018Z"
         },
         "1462988831530680422": {
-          "messageId": "1463737366492479632",
+          "messageId": "1463746453313949720",
           "channelType": "location",
-          "postedAt": "2026-01-22T03:29:43.282Z"
+          "postedAt": "2026-01-22T04:05:49.793Z"
         }
       },
       "instanceNumber": 1
@@ -47995,9 +47885,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463737373874589762",
+          "messageId": "1463746461035532298",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:44.983Z"
+          "postedAt": "2026-01-22T04:05:51.491Z"
         }
       },
       "instanceNumber": 1
@@ -48012,14 +47902,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463737381118279874",
+          "messageId": "1463746468182626385",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:46.654Z"
+          "postedAt": "2026-01-22T04:05:53.199Z"
         },
         "1462988831530680422": {
-          "messageId": "1463737388114116609",
+          "messageId": "1463746475388309658",
           "channelType": "location",
-          "postedAt": "2026-01-22T03:29:48.450Z"
+          "postedAt": "2026-01-22T04:05:54.925Z"
         }
       },
       "instanceNumber": 1
@@ -48034,9 +47924,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463737408108499086",
+          "messageId": "1463746495105863796",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:53.232Z"
+          "postedAt": "2026-01-22T04:05:59.665Z"
         }
       },
       "instanceNumber": 1
@@ -48051,14 +47941,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463737415830343835",
+          "messageId": "1463746502533845068",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:55.004Z"
+          "postedAt": "2026-01-22T04:06:01.385Z"
         },
         "1462989305181114450": {
-          "messageId": "1463737423614972038",
+          "messageId": "1463746509915820046",
           "channelType": "location",
-          "postedAt": "2026-01-22T03:29:56.814Z"
+          "postedAt": "2026-01-22T04:06:03.191Z"
         }
       },
       "instanceNumber": 1
@@ -48073,9 +47963,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463737430812397713",
+          "messageId": "1463746517079949314",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:29:58.535Z"
+          "postedAt": "2026-01-22T04:06:04.931Z"
         }
       },
       "instanceNumber": 1
@@ -48090,14 +47980,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463737438039048192",
+          "messageId": "1463746524621176997",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:30:00.271Z"
+          "postedAt": "2026-01-22T04:06:06.668Z"
         },
         "1462989305181114450": {
-          "messageId": "1463737445672681598",
+          "messageId": "1463746533496328194",
           "channelType": "location",
-          "postedAt": "2026-01-22T03:30:02.185Z"
+          "postedAt": "2026-01-22T04:06:08.801Z"
         }
       },
       "instanceNumber": 1
@@ -48112,20 +48002,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463737465755009311",
+          "messageId": "1463746553540903078",
           "channelType": "category",
-          "postedAt": "2026-01-22T03:30:06.982Z"
+          "postedAt": "2026-01-22T04:06:13.612Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3655,
+    "totalJobs": 3645,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-22T03:30:06.983Z",
+      "date": "2026-01-22T04:06:13.612Z",
       "archived": 0
     }
   }
