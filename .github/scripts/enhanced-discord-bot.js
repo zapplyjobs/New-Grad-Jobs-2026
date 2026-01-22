@@ -51,6 +51,9 @@ const DiscordPostLogger = require('./discord-post-logger');
 const JobsDataExporter = require('./jobs-data-exporter');
 const ChannelStatsManager = require('./channel-stats');
 
+// Import metrics collector
+const { collectDiscordMetrics, collectChannelMetrics } = require('./src/monitoring/metrics-collector');
+
 // Initialize routing logger, posting logger, and jobs exporter
 const routingLogger = new RoutingLogger();
 
@@ -674,6 +677,28 @@ client.once('ready', async () => {
     }
 
     console.log(`\n🎉 Posting complete! Successfully posted: ${totalPosted}, Failed: ${totalFailed}`);
+
+    // Collect Discord bot metrics
+    collectDiscordMetrics({
+      total_posted: totalPosted,
+      total_failed: totalFailed,
+      avg_latency_ms: 0, // TODO: Track latency in posting functions
+      rate_limit_hits: 0 // TODO: Track rate limit hits
+    });
+
+    // Collect per-channel metrics
+    for (const [channelId, channelData] of Object.entries(jobsByChannel)) {
+      const channel = client.channels.cache.get(channelId);
+      if (channel) {
+        collectChannelMetrics({
+          channel_id: channelId,
+          channel_name: channel.name,
+          posts_count: channelData.jobs.length,
+          thread_count: 0, // TODO: Track active threads
+          utilization: 0 // TODO: Calculate utilization
+        });
+      }
+    }
   } else {
     // Legacy single-channel mode
     console.log('📝 Single-channel mode - posting to configured channel');

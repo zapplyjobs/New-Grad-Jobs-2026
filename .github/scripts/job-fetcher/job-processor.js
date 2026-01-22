@@ -997,6 +997,14 @@ async function processJobs() {
 
             fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2), 'utf8');
             console.log(`📊 Job fetch summary saved: ${summaryPath}`);
+
+            // Collect pipeline metrics
+            const { collectPipelineMetrics } = require('../src/monitoring/metrics-collector');
+            collectPipelineMetrics({
+                current_jobs: summary.current_jobs,
+                fresh_jobs: summary.fresh_jobs,
+                duplicate_jobs: summary.duplicates_filtered
+            });
         } catch (error) {
             console.error('⚠️ Error saving job fetch summary:', error.message);
         }
