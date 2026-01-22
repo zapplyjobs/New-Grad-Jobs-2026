@@ -18,6 +18,7 @@ const path = require('path');
 const { generateJobFingerprint } = require('./job-fetcher/utils');
 const { generateSchemaAwareHealthReport } = require('./schema-aware-health');
 const { routeAlerts, healthReportToAlerts } = require('./src/monitoring/alert-router');
+const { collectQueueMetrics } = require('./src/monitoring/metrics-collector');
 
 // Thresholds for health checks
 const THRESHOLDS = {
@@ -601,6 +602,17 @@ function runHealthChecks() {
     checkContentDuplicates(); // NEW: Content-based duplicate detection + auto-recovery
     checkPostedJobsRate();
     checkFileSizes();
+
+    // Collect time-series metrics
+    collectQueueMetrics({
+        queue_size: healthReport.metrics.queue_size || 0,
+        pending_count: healthReport.metrics.queue_pending || 0,
+        enriched_count: healthReport.metrics.queue_enriched || 0,
+        posted_count: healthReport.metrics.queue_posted || 0,
+        duplicate_count: healthReport.metrics.queue_content_duplicates || 0,
+        stale_pending_count: healthReport.metrics.queue_stale_pending || 0,
+        duplicate_ratio: parseFloat(healthReport.metrics.queue_duplicate_ratio || 0)
+    });
 
     generateReport();
 }
