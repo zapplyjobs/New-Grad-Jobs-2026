@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T01:40:23.626Z",
+  "lastUpdated": "2026-01-22T02:39:14.672Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7500706003-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7500706003",
-      "company": "Major League Baseball",
-      "title": "Associate Software Engineer - Data Engineering",
-      "postedToDiscord": "2026-01-15T01:56:27.068Z",
-      "sourceDate": "2025-11-18T08:40:09.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500706003",
-      "discordThreadId": "1461177165247811658",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7500695003-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-philliesbaseballoperations-jobs-7500695003",
-      "company": "Major League Baseball",
-      "title": "Associate Software Engineer - Full-Stack Development",
-      "postedToDiscord": "2026-01-15T01:56:30.568Z",
-      "sourceDate": "2025-11-18T08:40:07.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003",
-      "discordThreadId": "1461177180485849088",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-figureai-jobs-4590702006-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-figureai-jobs-4590702006",
-      "company": "Figure",
-      "title": "Data Labeler",
-      "postedToDiscord": "2026-01-15T01:56:33.986Z",
-      "sourceDate": "2025-11-18T05:05:45.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/figureai/jobs/4590702006",
-      "discordThreadId": "1461177195014787158",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210683258-2026-01-15-1",
-      "jobId": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210683258",
-      "company": "JP Morgan Chase",
-      "title": "Emerging Talent Software Engineers",
-      "postedToDiscord": "2026-01-15T01:56:37.398Z",
-      "sourceDate": "2025-11-18T00:54:26.000Z",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258",
-      "discordThreadId": "1461177209065701489",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-maybern-90f7a0d4-4e6c-43e0-a444-06301faa4058-application-2026-01-15-1",
-      "jobId": "jobs-ashbyhq-com-maybern-90f7a0d4-4e6c-43e0-a444-06301faa4058-application",
-      "company": "Maybern",
-      "title": "Graduate Software Engineer",
-      "postedToDiscord": "2026-01-15T01:56:40.871Z",
-      "sourceDate": "2025-11-17T16:34:08.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058/application",
-      "discordThreadId": "1461177223682854944",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5701765004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5701765004",
-      "company": "vercel",
-      "title": "Engineering Manager, CDN",
-      "postedToDiscord": "2026-01-15T01:56:44.283Z",
-      "sourceDate": "2025-11-17T11:27:41-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5701765004",
-      "discordThreadId": "1461177238018855127",
-      "instanceNumber": 1
-    },
-    {
-      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-boulder-co-data-center-network-modeling-technician-iv_r0013743-2026-01-15-1",
-      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-boulder-co-data-center-network-modeling-technician-iv_r0013743",
-      "company": "Astreya",
-      "title": "Data Center Network Modeling Technician 4",
-      "postedToDiscord": "2026-01-15T01:56:47.599Z",
-      "sourceDate": "2025-11-17T07:31:02.000Z",
-      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743",
-      "discordThreadId": "1461177252233478418",
-      "instanceNumber": 1
-    },
-    {
-      "id": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-boulder-co-data-center-network-modeling-technician-iv_r0013744-2026-01-15-1",
-      "jobId": "astreya-wd5-myworkdayjobs-com-life-at-astreya-opportunities-job-boulder-co-data-center-network-modeling-technician-iv_r0013744",
-      "company": "Astreya",
-      "title": "Data Center Network Modeling Technician 4",
-      "postedToDiscord": "2026-01-15T01:56:47.611Z",
-      "sourceDate": "2025-11-17T07:31:01.000Z",
-      "sourceUrl": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5065840004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5065840004",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Commercial",
-      "postedToDiscord": "2026-01-15T01:56:54.127Z",
-      "sourceDate": "2025-11-17T19:30:28-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5065840004",
-      "discordThreadId": "1461177279559237726",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5634748004-2026-01-15-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5634748004",
-      "company": "vercel",
-      "title": "Account Executive, v0 Majors",
-      "postedToDiscord": "2026-01-15T01:56:57.771Z",
-      "sourceDate": "2025-11-17T13:17:01-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5634748004",
-      "discordThreadId": "1461177293882917006",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4619140006-2026-01-15-1",
       "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4619140006",
@@ -48264,9 +48154,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463709720845226006",
+          "messageId": "1463724532228690132",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:39:52.010Z"
+          "postedAt": "2026-01-22T02:38:43.448Z"
         }
       },
       "instanceNumber": 1
@@ -48281,14 +48171,14 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463709728264818864",
+          "messageId": "1463724540294332510",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:39:53.775Z"
+          "postedAt": "2026-01-22T02:38:45.168Z"
         },
         "1462989305181114450": {
-          "messageId": "1463709735848120340",
+          "messageId": "1463724547277852746",
           "channelType": "location",
-          "postedAt": "2026-01-22T01:39:55.584Z"
+          "postedAt": "2026-01-22T02:38:46.896Z"
         }
       },
       "instanceNumber": 1
@@ -48303,14 +48193,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463709743359987875",
+          "messageId": "1463724554693246987",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:39:57.466Z"
+          "postedAt": "2026-01-22T02:38:48.646Z"
         },
         "1462988831530680422": {
-          "messageId": "1463709751090086090",
+          "messageId": "1463724561924096143",
           "channelType": "location",
-          "postedAt": "2026-01-22T01:39:59.136Z"
+          "postedAt": "2026-01-22T02:38:50.363Z"
         }
       },
       "instanceNumber": 1
@@ -48325,9 +48215,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463709758228791318",
+          "messageId": "1463724569394151520",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:40:00.897Z"
+          "postedAt": "2026-01-22T02:38:52.336Z"
         }
       },
       "instanceNumber": 1
@@ -48342,14 +48232,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1463709766294569033",
+          "messageId": "1463724577459929153",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:40:03.289Z"
+          "postedAt": "2026-01-22T02:38:54.048Z"
         },
         "1462988831530680422": {
-          "messageId": "1463709775463321726",
+          "messageId": "1463724584674136232",
           "channelType": "location",
-          "postedAt": "2026-01-22T01:40:05.195Z"
+          "postedAt": "2026-01-22T02:38:55.818Z"
         }
       },
       "instanceNumber": 1
@@ -48364,9 +48254,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463709796220928061",
+          "messageId": "1463724604815183967",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:40:09.997Z"
+          "postedAt": "2026-01-22T02:39:00.730Z"
         }
       },
       "instanceNumber": 1
@@ -48381,14 +48271,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463709803284267051",
+          "messageId": "1463724612624978044",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:40:11.737Z"
+          "postedAt": "2026-01-22T02:39:02.477Z"
         },
         "1462989305181114450": {
-          "messageId": "1463709811387400262",
+          "messageId": "1463724619654627383",
           "channelType": "location",
-          "postedAt": "2026-01-22T01:40:13.597Z"
+          "postedAt": "2026-01-22T02:39:04.205Z"
         }
       },
       "instanceNumber": 1
@@ -48403,9 +48293,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463709818786283622",
+          "messageId": "1463724627040931881",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:40:15.327Z"
+          "postedAt": "2026-01-22T02:39:06.005Z"
         }
       },
       "instanceNumber": 1
@@ -48420,14 +48310,14 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1463709825815941154",
+          "messageId": "1463724634800390225",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:40:17.116Z"
+          "postedAt": "2026-01-22T02:39:07.740Z"
         },
         "1462989305181114450": {
-          "messageId": "1463709833273409630",
+          "messageId": "1463724642547007734",
           "channelType": "location",
-          "postedAt": "2026-01-22T01:40:18.902Z"
+          "postedAt": "2026-01-22T02:39:09.771Z"
         }
       },
       "instanceNumber": 1
@@ -48442,20 +48332,20 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1463709853728903374",
+          "messageId": "1463724663669653598",
           "channelType": "category",
-          "postedAt": "2026-01-22T01:40:23.625Z"
+          "postedAt": "2026-01-22T02:39:14.672Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3685,
+    "totalJobs": 3675,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-22T01:40:23.626Z",
+      "date": "2026-01-22T02:39:14.672Z",
       "archived": 0
     }
   }
