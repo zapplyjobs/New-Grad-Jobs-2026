@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T18:58:56.756Z",
+  "lastUpdated": "2026-01-23T19:15:12.328Z",
   "jobs": [
-    {
-      "id": "hbbq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-3499-2026-01-16-1",
-      "jobId": "hbbq-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-3499",
-      "company": "American Bureau of Shipping",
-      "title": "Digital Engineering Rotational Aspire",
-      "postedToDiscord": "2026-01-16T19:11:10.322Z",
-      "sourceDate": "2025-09-05T01:20:27.000Z",
-      "sourceUrl": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3499",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-gdms-icims-com-jobs-67867-entry-level-software-engineer-job-2026-01-16-1",
-      "jobId": "careers-gdms-icims-com-jobs-67867-entry-level-software-engineer-job",
-      "company": "General Dynamics",
-      "title": "Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-16T19:11:14.350Z",
-      "sourceDate": "2025-08-29T18:32:58.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job",
-      "discordThreadId": "1461799965188690047",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-oracle-com-en-sites-jobsearch-job-305990-2026-01-16-1",
-      "jobId": "careers-oracle-com-en-sites-jobsearch-job-305990",
-      "company": "Oracle",
-      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
-      "postedToDiscord": "2026-01-16T19:11:17.907Z",
-      "sourceDate": "2025-08-29T18:31:09.000Z",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/305990",
-      "discordThreadId": "1461799981366247485",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-oracle-com-en-sites-jobsearch-job-305993-2026-01-16-1",
-      "jobId": "careers-oracle-com-en-sites-jobsearch-job-305993",
-      "company": "Oracle",
-      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
-      "postedToDiscord": "2026-01-16T19:11:17.926Z",
-      "sourceDate": "2025-08-29T16:42:06.000Z",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/305993",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-applications-development-engineer-bbp_2531350-2026-01-16-1",
-      "jobId": "kla-wd1-myworkdayjobs-com-search-job-milpitas-ca-applications-development-engineer-bbp_2531350",
-      "company": "KLA Corporation",
-      "title": "Applications Development Engineer - Bbp",
-      "postedToDiscord": "2026-01-16T19:11:22.267Z",
-      "sourceDate": "2025-08-28T23:12:04.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2531350",
-      "discordThreadId": "1461799996524331191",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-amazon-jobs-en-jobs-3066890-system-dev-engineer-i-analytics-adc-2026-01-16-1",
-      "jobId": "www-amazon-jobs-en-jobs-3066890-system-dev-engineer-i-analytics-adc",
-      "company": "Amazon",
-      "title": "System Dev Engineer I, Analytics ADC",
-      "postedToDiscord": "2026-01-16T19:11:25.943Z",
-      "sourceDate": "2025-08-28T20:46:40.000Z",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
-      "discordThreadId": "1461800014832734457",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cat-wd5-myworkdayjobs-com-en-us-solarturbines-job-san-diego-california-xmlname-2026-solutionsplatformsengineered-spe-entry-level-rotation-program_r0000316308-2026-01-16-1",
-      "jobId": "cat-wd5-myworkdayjobs-com-en-us-solarturbines-job-san-diego-california-xmlname-2026-solutionsplatformsengineered-spe-entry-level-rotation-program_r0000316308",
-      "company": "Solar Turbines",
-      "title": "Solutions.Platforms.Engineered – Entry Level Rotation Program - Spe",
-      "postedToDiscord": "2026-01-16T19:11:32.453Z",
-      "sourceDate": "2025-09-01T14:34:05.000Z",
-      "sourceUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-SolutionsPlatformsEngineered--SPE--Entry-Level-Rotation-Program_R0000316308",
-      "discordThreadId": "1461800042787504212",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-spotify-521272b5-9e4e-4ba0-a0b9-e6e5b067c7ac-2026-01-16-1",
       "jobId": "jobs-lever-co-spotify-521272b5-9e4e-4ba0-a0b9-e6e5b067c7ac",
@@ -41356,9 +41279,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464333491926859877",
+          "messageId": "1464337586376933430",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:30.753Z"
+          "postedAt": "2026-01-23T19:14:46.902Z"
         }
       },
       "instanceNumber": 1
@@ -41373,9 +41296,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464333499723939974",
+          "messageId": "1464337593855643755",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:32.589Z"
+          "postedAt": "2026-01-23T19:14:48.669Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -41395,14 +41318,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464333507730997405",
+          "messageId": "1464337601065648233",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:34.410Z"
+          "postedAt": "2026-01-23T19:14:50.369Z"
         },
         "1462988831530680422": {
-          "messageId": "1464333515163304171",
+          "messageId": "1464337608858669066",
           "channelType": "location",
-          "postedAt": "2026-01-23T18:58:36.095Z"
+          "postedAt": "2026-01-23T19:14:52.287Z"
         }
       },
       "instanceNumber": 1
@@ -41417,9 +41340,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464333522297684021",
+          "messageId": "1464337616551022774",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:37.914Z"
+          "postedAt": "2026-01-23T19:14:53.986Z"
         }
       },
       "instanceNumber": 1
@@ -41434,14 +41357,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464333529943904256",
+          "messageId": "1464337623685402873",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:39.629Z"
+          "postedAt": "2026-01-23T19:14:55.864Z"
         },
         "1462988831530680422": {
-          "messageId": "1464333537015627882",
+          "messageId": "1464337631663099988",
           "channelType": "location",
-          "postedAt": "2026-01-23T18:58:41.466Z"
+          "postedAt": "2026-01-23T19:14:57.541Z"
         }
       },
       "instanceNumber": 1
@@ -41456,9 +41379,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464333557429305420",
+          "messageId": "1464337651544097004",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:46.299Z"
+          "postedAt": "2026-01-23T19:15:02.349Z"
         }
       },
       "instanceNumber": 1
@@ -41473,9 +41396,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464333564911943905",
+          "messageId": "1464337658833666242",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:48.064Z"
+          "postedAt": "2026-01-23T19:15:04.030Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -41495,9 +41418,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464333573271064600",
+          "messageId": "1464337665943142644",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:50.153Z"
+          "postedAt": "2026-01-23T19:15:05.735Z"
         }
       },
       "instanceNumber": 1
@@ -41512,9 +41435,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464333581466996817",
+          "messageId": "1464337673115275284",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:51.940Z"
+          "postedAt": "2026-01-23T19:15:07.439Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -41551,20 +41474,20 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464333601532547178",
+          "messageId": "1464337693042540594",
           "channelType": "category",
-          "postedAt": "2026-01-23T18:58:56.756Z"
+          "postedAt": "2026-01-23T19:15:12.328Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3058,
+    "totalJobs": 3051,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T18:58:56.756Z",
+      "date": "2026-01-23T19:15:12.328Z",
       "archived": 0
     }
   }
