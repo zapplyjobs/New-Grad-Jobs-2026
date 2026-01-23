@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T05:59:59.918Z",
+  "lastUpdated": "2026-01-23T06:31:59.993Z",
   "jobs": [
-    {
-      "id": "westernalliancebank-wd5-myworkdayjobs-com-en-us-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11486-2026-01-16-1",
-      "jobId": "westernalliancebank-wd5-myworkdayjobs-com-en-us-wab-job-phoenix-az-engineer-i-ai-business-engineer_r11486",
-      "company": "Western Alliance Bancorporation",
-      "title": "Engineer I - AI Business Engineer",
-      "postedToDiscord": "2026-01-16T06:28:37.328Z",
-      "sourceDate": "2025-09-25T13:36:13.000Z",
-      "sourceUrl": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11486",
-      "discordThreadId": "1461608047591030867",
-      "instanceNumber": 1
-    },
-    {
-      "id": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688-2026-01-16-1",
-      "jobId": "edqv-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-21002688",
-      "company": "GCI",
-      "title": "Estimating & Planning Engineer 1 - Future Opening",
-      "postedToDiscord": "2026-01-16T06:28:39.026Z",
-      "sourceDate": "2025-09-25T01:13:40.000Z",
-      "sourceUrl": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21002688",
-      "discordThreadId": "1461608062430347335",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4604065006-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4604065006",
-      "company": "mthree",
-      "title": "Junior Software Developer - Go Lang",
-      "postedToDiscord": "2026-01-16T06:28:40.917Z",
-      "sourceDate": "2025-09-24T23:03:55.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
-      "discordThreadId": "1461608069606674525",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4600596006-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-mthreerecruitingportal-jobs-4600596006",
-      "company": "mthree",
-      "title": "Junior Software Developer - Java/Scala",
-      "postedToDiscord": "2026-01-16T06:28:40.931Z",
-      "sourceDate": "2025-09-24T23:03:47.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-notion-f7399542-9122-481a-bf64-43bf8093748b-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-notion-f7399542-9122-481a-bf64-43bf8093748b",
-      "company": "Notion",
-      "title": "Software Engineer, Fullstack",
-      "postedToDiscord": "2026-01-16T06:28:47.454Z",
-      "sourceDate": "2025-09-25T11:01:04.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
-      "discordThreadId": "1461608090335051806",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-figma-jobs-5616603004-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-figma-jobs-5616603004",
-      "company": "Figma",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-16T06:28:50.925Z",
-      "sourceDate": "2025-09-24T05:32:06.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/figma/jobs/5616603004",
-      "discordThreadId": "1461608104973172776",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-appian-jobs-7272540-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-appian-jobs-7272540",
-      "company": "Appian",
-      "title": "Associate Business Applications Engineer",
-      "postedToDiscord": "2026-01-16T06:28:54.362Z",
-      "sourceDate": "2025-09-24T04:46:41.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7272540",
-      "discordThreadId": "1461608119451910210",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-appian-jobs-7254384-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-appian-jobs-7254384",
-      "company": "Appian",
-      "title": "Internal Technical Consultant",
-      "postedToDiscord": "2026-01-16T06:28:57.803Z",
-      "sourceDate": "2025-09-24T02:30:17.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7254384",
-      "discordThreadId": "1461608133729456341",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-appian-jobs-7272542-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-appian-jobs-7272542",
-      "company": "Appian",
-      "title": "Associate Application Developer - Appian Platform",
-      "postedToDiscord": "2026-01-16T06:29:01.252Z",
-      "sourceDate": "2025-09-24T02:11:36.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7272542",
-      "discordThreadId": "1461608148388544645",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-meshy-jobs-4932258008-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-meshy-jobs-4932258008",
-      "company": "Meshy",
-      "title": "Software Engineer – New Grad",
-      "postedToDiscord": "2026-01-16T06:29:07.912Z",
-      "sourceDate": "2025-09-25T05:42:37.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
-      "discordThreadId": "1461608175651262528",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-openai-d0e21c22-c089-44f7-9acb-1e67c8925635-application-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-openai-d0e21c22-c089-44f7-9acb-1e67c8925635-application",
-      "company": "OpenAI",
-      "title": "Software Engineer - Backend",
-      "postedToDiscord": "2026-01-16T06:29:11.344Z",
-      "sourceDate": "2025-09-25T04:47:08.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/openai/d0e21c22-c089-44f7-9acb-1e67c8925635/application",
-      "discordThreadId": "1461608190709071923",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-openai-b83a4808-66ef-4014-b4eb-a7833c39f4c6-application-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-openai-b83a4808-66ef-4014-b4eb-a7833c39f4c6-application",
-      "company": "OpenAI",
-      "title": "Software Engineer - Android",
-      "postedToDiscord": "2026-01-16T06:29:11.358Z",
-      "sourceDate": "2025-09-24T23:57:47.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/openai/b83a4808-66ef-4014-b4eb-a7833c39f4c6/application",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-siftstack-da9e9490-4156-4390-b9ed-54e215c894b6-application-2026-01-16-1",
       "jobId": "jobs-ashbyhq-com-siftstack-da9e9490-4156-4390-b9ed-54e215c894b6-application",
@@ -42764,9 +42632,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464137468050669609",
+          "messageId": "1464145518249639946",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:34.814Z"
+          "postedAt": "2026-01-23T06:31:34.274Z"
         }
       },
       "instanceNumber": 1
@@ -42781,9 +42649,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464137475009155240",
+          "messageId": "1464145525669625871",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:36.461Z"
+          "postedAt": "2026-01-23T06:31:36.036Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -42803,14 +42671,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464137482214965424",
+          "messageId": "1464145533512978611",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:38.229Z"
+          "postedAt": "2026-01-23T06:31:37.832Z"
         },
         "1462988831530680422": {
-          "messageId": "1464137488976183481",
+          "messageId": "1464145540651552927",
           "channelType": "location",
-          "postedAt": "2026-01-23T05:59:39.894Z"
+          "postedAt": "2026-01-23T06:31:39.560Z"
         }
       },
       "instanceNumber": 1
@@ -42825,9 +42693,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464137496404430922",
+          "messageId": "1464145548037722298",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:41.654Z"
+          "postedAt": "2026-01-23T06:31:41.237Z"
         }
       },
       "instanceNumber": 1
@@ -42842,14 +42710,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464137503752851499",
+          "messageId": "1464145554807328792",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:43.343Z"
+          "postedAt": "2026-01-23T06:31:43.012Z"
         },
         "1462988831530680422": {
-          "messageId": "1464137510438441025",
+          "messageId": "1464145562516586521",
           "channelType": "location",
-          "postedAt": "2026-01-23T05:59:45.068Z"
+          "postedAt": "2026-01-23T06:31:44.803Z"
         }
       },
       "instanceNumber": 1
@@ -42864,9 +42732,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464137530881474710",
+          "messageId": "1464145583265546504",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:49.918Z"
+          "postedAt": "2026-01-23T06:31:49.711Z"
         }
       },
       "instanceNumber": 1
@@ -42881,9 +42749,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464137538615771302",
+          "messageId": "1464145590559440962",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:51.765Z"
+          "postedAt": "2026-01-23T06:31:51.473Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -42903,9 +42771,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464137546207596741",
+          "messageId": "1464145598444732497",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:53.512Z"
+          "postedAt": "2026-01-23T06:31:53.284Z"
         }
       },
       "instanceNumber": 1
@@ -42920,9 +42788,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464137553471996100",
+          "messageId": "1464145605755539496",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:55.255Z"
+          "postedAt": "2026-01-23T06:31:55.085Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -42959,20 +42827,20 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464137573424300032",
+          "messageId": "1464145626223870035",
           "channelType": "category",
-          "postedAt": "2026-01-23T05:59:59.918Z"
+          "postedAt": "2026-01-23T06:31:59.993Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3186,
+    "totalJobs": 3174,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T05:59:59.918Z",
+      "date": "2026-01-23T06:31:59.993Z",
       "archived": 0
     }
   }
