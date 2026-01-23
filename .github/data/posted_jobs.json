@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T07:45:02.486Z",
+  "lastUpdated": "2026-01-23T07:56:14.950Z",
   "jobs": [
-    {
-      "id": "lifeattiktok-com-search-7550790814831511815-2026-01-16-1",
-      "jobId": "lifeattiktok-com-search-7550790814831511815",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-      "postedToDiscord": "2026-01-16T07:54:04.547Z",
-      "sourceDate": "2025-09-17T03:31:39.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7550790814831511815",
-      "discordThreadId": "1461629553167569042",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7550436166929025298-2026-01-16-1",
-      "jobId": "lifeattiktok-com-search-7550436166929025298",
-      "company": "TikTok",
-      "title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search",
-      "postedToDiscord": "2026-01-16T07:54:07.873Z",
-      "sourceDate": "2025-09-17T03:31:37.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7550436166929025298",
-      "discordThreadId": "1461629567478534165",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-70342-2026-01-16-1",
-      "jobId": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-70342",
-      "company": "BNY",
-      "title": "BNY Analyst Program-Engineering - Developer",
-      "postedToDiscord": "2026-01-16T07:54:14.397Z",
-      "sourceDate": "2025-09-16T19:19:54.000Z",
-      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70342",
-      "discordThreadId": "1461629593982079091",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-70345-2026-01-16-1",
-      "jobId": "eofe-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-70345",
-      "company": "BNY",
-      "title": "BNY Analyst Program-Engineering - Data Science",
-      "postedToDiscord": "2026-01-16T07:54:14.413Z",
-      "sourceDate": "2025-09-16T19:19:51.000Z",
-      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70345",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "lsu-wd1-myworkdayjobs-com-lsu-job-8585-archives-blvd-suite-201-moodle-developer_r00109175-2026-01-16-1",
-      "jobId": "lsu-wd1-myworkdayjobs-com-lsu-job-8585-archives-blvd-suite-201-moodle-developer_r00109175",
-      "company": "Louisiana State University (LSU)",
-      "title": "Moodle Developer",
-      "postedToDiscord": "2026-01-16T07:54:17.808Z",
-      "sourceDate": "2025-09-16T19:04:31.000Z",
-      "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/LSU/job/8585-Archives-Blvd-Suite-201/Moodle-Developer_R00109175",
-      "discordThreadId": "1461629608997949500",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-baesystems-com-global-en-job-bae1us115922brexternal-engineering-assistant-i-software-part-time-2026-01-16-1",
-      "jobId": "jobs-baesystems-com-global-en-job-bae1us115922brexternal-engineering-assistant-i-software-part-time",
-      "company": "BAE Systems",
-      "title": "Engineering Assistant I – Software",
-      "postedToDiscord": "2026-01-16T07:54:21.249Z",
-      "sourceDate": "2025-09-16T09:19:57.000Z",
-      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US115922BREXTERNAL/Engineering-Assistant-I-Software-Part-Time",
-      "discordThreadId": "1461629623162110003",
-      "instanceNumber": 1
-    },
-    {
-      "id": "costar-wd1-myworkdayjobs-com-en-us-costar_campus-job-us-ca-san-diego-associate-software-engineer-san-diego-ca_r37014-2026-01-16-1",
-      "jobId": "costar-wd1-myworkdayjobs-com-en-us-costar_campus-job-us-ca-san-diego-associate-software-engineer-san-diego-ca_r37014",
-      "company": "CoStar",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-16T07:54:27.080Z",
-      "sourceDate": "2025-09-16T09:17:40.000Z",
-      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
-      "discordThreadId": "1461629646834634774",
-      "instanceNumber": 1
-    },
-    {
-      "id": "costar-wd1-myworkdayjobs-com-costar_campus-job-us-ca-san-diego-associate-software-engineer-san-diego-ca_r37014-2026-01-16-1",
-      "jobId": "costar-wd1-myworkdayjobs-com-costar_campus-job-us-ca-san-diego-associate-software-engineer-san-diego-ca_r37014",
-      "company": "CoStar",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-16T07:54:27.098Z",
-      "sourceDate": "2025-09-16T08:37:22.000Z",
-      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/costar_campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-october-2025-start-date_jr100105-2026-01-16-1",
-      "jobId": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-october-2025-start-date_jr100105",
-      "company": "Ovative Group",
-      "title": "Analyst, Data & Software Engineering",
-      "postedToDiscord": "2026-01-16T07:54:30.642Z",
-      "sourceDate": "2025-09-16T09:05:45.000Z",
-      "sourceUrl": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---October-2025-Start-Date_JR100105",
-      "discordThreadId": "1461629662231924779",
-      "instanceNumber": 1
-    },
-    {
-      "id": "navexglobal-wd5-myworkdayjobs-com-navex-job-hybrid-lake-oswego-or-associate-software-engineer_r6157-2026-01-16-1",
-      "jobId": "navexglobal-wd5-myworkdayjobs-com-navex-job-hybrid-lake-oswego-or-associate-software-engineer_r6157",
-      "company": "NAVEX",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-16T07:54:34.188Z",
-      "sourceDate": "2025-09-16T08:40:42.000Z",
-      "sourceUrl": "https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157",
-      "discordThreadId": "1461629676568051766",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lnw-wd5-myworkdayjobs-com-lightwonderexternalcareers-job-reno-nv-associate-software-engineer_r320511-2026-01-16-1",
-      "jobId": "lnw-wd5-myworkdayjobs-com-lightwonderexternalcareers-job-reno-nv-associate-software-engineer_r320511",
-      "company": "Light & Wonder",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-16T07:54:37.809Z",
-      "sourceDate": "2025-09-16T08:38:48.000Z",
-      "sourceUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
-      "discordThreadId": "1461629691919335488",
-      "instanceNumber": 1
-    },
     {
       "id": "gartner-wd5-myworkdayjobs-com-en-us-ext-job-irving-tx-data-analyst-2026-graduates_103573-2026-01-16-1",
       "jobId": "gartner-wd5-myworkdayjobs-com-en-us-ext-job-irving-tx-data-analyst-2026-graduates_103573",
@@ -42258,9 +42137,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464163900458139722",
+          "messageId": "1464166720569737269",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:36.950Z"
+          "postedAt": "2026-01-23T07:55:49.291Z"
         }
       },
       "instanceNumber": 1
@@ -42275,9 +42154,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464163908477780012",
+          "messageId": "1464166728157368510",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:38.811Z"
+          "postedAt": "2026-01-23T07:55:51.057Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -42297,14 +42176,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464163915998040137",
+          "messageId": "1464166735606448242",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:40.586Z"
+          "postedAt": "2026-01-23T07:55:52.895Z"
         },
         "1462988831530680422": {
-          "messageId": "1464163923191402669",
+          "messageId": "1464166743248339169",
           "channelType": "location",
-          "postedAt": "2026-01-23T07:44:42.273Z"
+          "postedAt": "2026-01-23T07:55:54.582Z"
         }
       },
       "instanceNumber": 1
@@ -42319,9 +42198,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464163930183307369",
+          "messageId": "1464166750042980353",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:44.035Z"
+          "postedAt": "2026-01-23T07:55:56.323Z"
         }
       },
       "instanceNumber": 1
@@ -42336,14 +42215,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464163937934377093",
+          "messageId": "1464166757957632000",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:45.762Z"
+          "postedAt": "2026-01-23T07:55:58.140Z"
         },
         "1462988831530680422": {
-          "messageId": "1464163945400111188",
+          "messageId": "1464166765331218452",
           "channelType": "location",
-          "postedAt": "2026-01-23T07:44:47.717Z"
+          "postedAt": "2026-01-23T07:55:59.867Z"
         }
       },
       "instanceNumber": 1
@@ -42358,9 +42237,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464163966111453318",
+          "messageId": "1464166785140916265",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:52.480Z"
+          "postedAt": "2026-01-23T07:56:04.618Z"
         }
       },
       "instanceNumber": 1
@@ -42375,9 +42254,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464163973296554123",
+          "messageId": "1464166792804044822",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:54.380Z"
+          "postedAt": "2026-01-23T07:56:06.524Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -42397,9 +42276,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464163981114605752",
+          "messageId": "1464166800492068917",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:56.052Z"
+          "postedAt": "2026-01-23T07:56:08.256Z"
         }
       },
       "instanceNumber": 1
@@ -42414,9 +42293,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464163988257374208",
+          "messageId": "1464166808163582056",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:44:57.730Z"
+          "postedAt": "2026-01-23T07:56:10.159Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -42453,20 +42332,20 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464164008071532564",
+          "messageId": "1464166828522864662",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:45:02.485Z"
+          "postedAt": "2026-01-23T07:56:14.950Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3140,
+    "totalJobs": 3129,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T07:45:02.486Z",
+      "date": "2026-01-23T07:56:14.950Z",
       "archived": 0
     }
   }
