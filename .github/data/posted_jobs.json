@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T22:30:02.605Z",
+  "lastUpdated": "2026-01-23T22:44:18.085Z",
   "jobs": [
-    {
-      "id": "boeing-wd1-myworkdayjobs-com-en-us-external_careers-job-usa-berkeley-mo-entry-level-flight-simulation-software-engineer_jr2025454088-2026-01-16-1",
-      "jobId": "boeing-wd1-myworkdayjobs-com-en-us-external_careers-job-usa-berkeley-mo-entry-level-flight-simulation-software-engineer_jr2025454088",
-      "company": "Boeing",
-      "title": "Entry Level Flight Simulation Software Engineer",
-      "postedToDiscord": "2026-01-16T22:35:19.332Z",
-      "sourceDate": "2025-08-15T07:42:05.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
-      "discordThreadId": "1461851325904977963",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-a08b2b5b-5bed-4b71-b925-800670b21fd5-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-a08b2b5b-5bed-4b71-b925-800670b21fd5",
-      "company": "Jerry",
-      "title": "Software Engineer I",
-      "postedToDiscord": "2026-01-16T22:35:22.932Z",
-      "sourceDate": "2025-08-15T07:40:38.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5",
-      "discordThreadId": "1461851340597887018",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kbr-wd5-myworkdayjobs-com-en-us-kbr_careers-job-colorado-springs-colorado-software-engineer-i_r2110482-2026-01-16-1",
-      "jobId": "kbr-wd5-myworkdayjobs-com-en-us-kbr_careers-job-colorado-springs-colorado-software-engineer-i_r2110482",
-      "company": "KBR",
-      "title": "Software Engineer I",
-      "postedToDiscord": "2026-01-16T22:35:26.463Z",
-      "sourceDate": "2025-08-15T07:38:02.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
-      "discordThreadId": "1461851355215040685",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-chelmsford-ma-software-engineer-i-embedded-devices_r16418-2026-01-16-1",
-      "jobId": "zoll-wd5-myworkdayjobs-com-en-us-zollmedicalcorp-job-chelmsford-ma-software-engineer-i-embedded-devices_r16418",
-      "company": "Zoll",
-      "title": "Software Engineer I - Embedded Devices",
-      "postedToDiscord": "2026-01-16T22:35:29.973Z",
-      "sourceDate": "2025-08-15T07:33:27.000Z",
-      "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
-      "discordThreadId": "1461851370318467238",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-careers-microsoft-com-global-en-job-1860403-software-engineer-3a-microsoft-ai-development-acceleration-program-2c-redmond-2026-01-16-1",
-      "jobId": "jobs-careers-microsoft-com-global-en-job-1860403-software-engineer-3a-microsoft-ai-development-acceleration-program-2c-redmond",
-      "company": "Microsoft",
-      "title": "Software Engineer: Microsoft AI Development Acceleration Program",
-      "postedToDiscord": "2026-01-16T22:35:33.636Z",
-      "sourceDate": "2025-08-15T07:27:20.000Z",
-      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
-      "discordThreadId": "1461851385174823083",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-hudsonrivertrading-com-hrt-job-algorithm-developer-quant-researcher-2026-grads-2026-01-16-1",
-      "jobId": "www-hudsonrivertrading-com-hrt-job-algorithm-developer-quant-researcher-2026-grads",
-      "company": "Hudson River Trading",
-      "title": "Algorithm Developer (Quant Researcher) – 2026 Grads",
-      "postedToDiscord": "2026-01-16T22:35:37.146Z",
-      "sourceDate": "2025-08-15T07:25:27.000Z",
-      "sourceUrl": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/",
-      "discordThreadId": "1461851400282701855",
-      "instanceNumber": 1
-    },
-    {
-      "id": "joinbytedance-com-search-7537121677185534216-2026-01-16-1",
-      "jobId": "joinbytedance-com-search-7537121677185534216",
-      "company": "ByteDance",
-      "title": "Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS)",
-      "postedToDiscord": "2026-01-16T22:35:40.700Z",
-      "sourceDate": "2025-08-15T07:21:52.000Z",
-      "sourceUrl": "https://joinbytedance.com/search/7537121677185534216",
-      "discordThreadId": "1461851415403041090",
-      "instanceNumber": 1
-    },
-    {
-      "id": "joinbytedance-com-search-7536272435440716040-2026-01-16-1",
-      "jobId": "joinbytedance-com-search-7536272435440716040",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)",
-      "postedToDiscord": "2026-01-16T22:35:44.316Z",
-      "sourceDate": "2025-08-15T07:20:03.000Z",
-      "sourceUrl": "https://joinbytedance.com/search/7536272435440716040",
-      "discordThreadId": "1461851430494146654",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7535606471191824647-2026-01-16-1",
-      "jobId": "lifeattiktok-com-search-7535606471191824647",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate (Monetization Technology - TikTok Ads Creative & Ecosystem) - 2026 Start (BS/MS)",
-      "postedToDiscord": "2026-01-16T22:35:51.032Z",
-      "sourceDate": "2025-08-15T07:29:01.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7535606471191824647",
-      "discordThreadId": "1461851458151518402",
-      "instanceNumber": 1
-    },
-    {
-      "id": "joinbytedance-com-search-7532538236133902599-2026-01-16-1",
-      "jobId": "joinbytedance-com-search-7532538236133902599",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS)",
-      "postedToDiscord": "2026-01-16T22:35:54.635Z",
-      "sourceDate": "2025-08-15T07:19:07.000Z",
-      "sourceUrl": "https://joinbytedance.com/search/7532538236133902599",
-      "discordThreadId": "1461851473305538748",
-      "instanceNumber": 1
-    },
-    {
-      "id": "joinbytedance-com-search-7535233571066349842-2026-01-16-1",
-      "jobId": "joinbytedance-com-search-7535233571066349842",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS)",
-      "postedToDiscord": "2026-01-16T22:41:27.688Z",
-      "sourceDate": "2025-08-15T07:17:18.000Z",
-      "sourceUrl": "https://joinbytedance.com/search/7535233571066349842",
-      "discordThreadId": "1461852864879005804",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-smartrecruiters-com-agtechnologies1-87648199-2026-01-16-1",
       "jobId": "jobs-smartrecruiters-com-agtechnologies1-87648199",
@@ -39970,9 +39849,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464386614888497456",
+          "messageId": "1464390206374543513",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:36.215Z"
+          "postedAt": "2026-01-23T22:43:52.434Z"
         }
       },
       "instanceNumber": 1
@@ -39987,9 +39866,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464386622727393496",
+          "messageId": "1464390214347657388",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:38.030Z"
+          "postedAt": "2026-01-23T22:43:54.428Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -40009,14 +39888,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464386630407295180",
+          "messageId": "1464390222098726922",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:39.876Z"
+          "postedAt": "2026-01-23T22:43:56.069Z"
         },
         "1462988831530680422": {
-          "messageId": "1464386638275940490",
+          "messageId": "1464390229371654319",
           "channelType": "location",
-          "postedAt": "2026-01-23T22:29:41.681Z"
+          "postedAt": "2026-01-23T22:43:57.915Z"
         }
       },
       "instanceNumber": 1
@@ -40031,9 +39910,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464386645636939819",
+          "messageId": "1464390236774727783",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:43.422Z"
+          "postedAt": "2026-01-23T22:43:59.663Z"
         }
       },
       "instanceNumber": 1
@@ -40048,14 +39927,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464386653240954963",
+          "messageId": "1464390244353835009",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:45.316Z"
+          "postedAt": "2026-01-23T22:44:01.543Z"
         },
         "1462988831530680422": {
-          "messageId": "1464386660945887437",
+          "messageId": "1464390252327075891",
           "channelType": "location",
-          "postedAt": "2026-01-23T22:29:47.175Z"
+          "postedAt": "2026-01-23T22:44:03.476Z"
         }
       },
       "instanceNumber": 1
@@ -40070,9 +39949,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464386681372410078",
+          "messageId": "1464390272778768547",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:52.090Z"
+          "postedAt": "2026-01-23T22:44:08.158Z"
         }
       },
       "instanceNumber": 1
@@ -40087,9 +39966,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464386689450377340",
+          "messageId": "1464390279594508404",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:53.929Z"
+          "postedAt": "2026-01-23T22:44:09.818Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -40109,9 +39988,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464386696916500616",
+          "messageId": "1464390286695203080",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:55.650Z"
+          "postedAt": "2026-01-23T22:44:11.516Z"
         }
       },
       "instanceNumber": 1
@@ -40126,9 +40005,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464386703975514359",
+          "messageId": "1464390293674786944",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:29:57.752Z"
+          "postedAt": "2026-01-23T22:44:13.297Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -40165,20 +40044,20 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464386725890625578",
+          "messageId": "1464390314142732634",
           "channelType": "category",
-          "postedAt": "2026-01-23T22:30:02.604Z"
+          "postedAt": "2026-01-23T22:44:18.085Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2932,
+    "totalJobs": 2921,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T22:30:02.605Z",
+      "date": "2026-01-23T22:44:18.085Z",
       "archived": 0
     }
   }
