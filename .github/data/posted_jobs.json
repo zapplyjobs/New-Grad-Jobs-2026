@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T07:30:57.802Z",
+  "lastUpdated": "2026-01-23T07:45:02.486Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-nominal-e5216daa-7d92-413b-a5c1-76f6e98b80bd-2026-01-16-1",
-      "jobId": "jobs-lever-co-nominal-e5216daa-7d92-413b-a5c1-76f6e98b80bd",
-      "company": "nominal",
-      "title": "Product Support Engineer",
-      "postedToDiscord": "2026-01-16T07:30:59.000Z",
-      "sourceDate": "2025-09-17T17:27:40.066Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/e5216daa-7d92-413b-a5c1-76f6e98b80bd",
-      "discordThreadId": "1461623741439283211",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-gohighlevel-622eb0de-6216-4d98-b8b6-1b199efef94e-2026-01-16-1",
-      "jobId": "jobs-lever-co-gohighlevel-622eb0de-6216-4d98-b8b6-1b199efef94e",
-      "company": "gohighlevel",
-      "title": "Manager, Digital Marketing",
-      "postedToDiscord": "2026-01-16T07:31:00.804Z",
-      "sourceDate": "2025-09-17T15:09:29.598Z",
-      "sourceUrl": "https://jobs.lever.co/gohighlevel/622eb0de-6216-4d98-b8b6-1b199efef94e",
-      "discordThreadId": "1461623755892719750",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-clerk-f73b1115-e4e6-4108-8c4e-707a6eb3d7c5-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-clerk-f73b1115-e4e6-4108-8c4e-707a6eb3d7c5",
-      "company": "clerk",
-      "title": "Technical Account Executive",
-      "postedToDiscord": "2026-01-16T07:31:07.276Z",
-      "sourceDate": "2025-09-18T15:12:54.031+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/clerk/f73b1115-e4e6-4108-8c4e-707a6eb3d7c5",
-      "discordThreadId": "1461623776373375122",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ebwh-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-80534-2026-01-16-1",
-      "jobId": "ebwh-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-jobs-job-80534",
-      "company": "Macy's",
-      "title": "Macy's Tech Early Careers - Software Engineer",
-      "postedToDiscord": "2026-01-16T07:31:13.864Z",
-      "sourceDate": "2025-09-18T01:15:06.000Z",
-      "sourceUrl": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
-      "discordThreadId": "1461623803959316591",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-spacex-jobs-8170023002-2026-01-16-1",
-      "jobId": "boards-greenhouse-io-spacex-jobs-8170023002",
-      "company": "SpaceX",
-      "title": "Software Engineer - Direct To Cell",
-      "postedToDiscord": "2026-01-16T07:31:17.360Z",
-      "sourceDate": "2025-09-17T18:49:26.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8170023002",
-      "discordThreadId": "1461623818652225589",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-7fce20dc-30a9-4dff-890d-eb041efe2a91-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-7fce20dc-30a9-4dff-890d-eb041efe2a91",
-      "company": "Jerry",
-      "title": "Software Engineer I",
-      "postedToDiscord": "2026-01-16T07:31:21.036Z",
-      "sourceDate": "2025-09-17T10:12:35.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91",
-      "discordThreadId": "1461623833046814878",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-en-us-northrop_grumman_external_site-job-united-states-utah-roy-sentinel-gatekeeper-associate-software-engineer-software-engineer-15039-_r10207436-2026-01-16-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-en-us-northrop_grumman_external_site-job-united-states-utah-roy-sentinel-gatekeeper-associate-software-engineer-software-engineer-15039-_r10207436",
-      "company": "Northrop Grumman",
-      "title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
-      "postedToDiscord": "2026-01-16T07:31:24.483Z",
-      "sourceDate": "2025-09-17T10:10:56.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436",
-      "discordThreadId": "1461623848301629462",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4872797007-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4872797007",
-      "company": "Verkada",
-      "title": "Security Software Engineer",
-      "postedToDiscord": "2026-01-16T07:44:46.155Z",
-      "sourceDate": "2025-09-17T10:09:08.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
-      "discordThreadId": "1461627210057257117",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8169815002-2026-01-16-1",
-      "jobId": "careers-duolingo-com-jobs-8169815002",
-      "company": "Duolingo",
-      "title": "AI Research Engineer",
-      "postedToDiscord": "2026-01-16T07:44:49.567Z",
-      "sourceDate": "2025-09-17T10:08:03.000Z",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8169815002",
-      "discordThreadId": "1461627225471193290",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8151163002-2026-01-16-1",
-      "jobId": "careers-duolingo-com-jobs-8151163002",
-      "company": "Duolingo",
-      "title": "AI Research Engineer",
-      "postedToDiscord": "2026-01-16T07:44:49.581Z",
-      "sourceDate": "2025-09-17T10:07:29.000Z",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8151163002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "lifeattiktok-com-search-7550790814831511815-2026-01-16-1",
       "jobId": "lifeattiktok-com-search-7550790814831511815",
@@ -42368,9 +42258,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464160360348258328",
+          "messageId": "1464163900458139722",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:32.767Z"
+          "postedAt": "2026-01-23T07:44:36.950Z"
         }
       },
       "instanceNumber": 1
@@ -42385,9 +42275,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464160367151284318",
+          "messageId": "1464163908477780012",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:34.433Z"
+          "postedAt": "2026-01-23T07:44:38.811Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -42407,14 +42297,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464160374285930629",
+          "messageId": "1464163915998040137",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:36.067Z"
+          "postedAt": "2026-01-23T07:44:40.586Z"
         },
         "1462988831530680422": {
-          "messageId": "1464160381122379918",
+          "messageId": "1464163923191402669",
           "channelType": "location",
-          "postedAt": "2026-01-23T07:30:37.821Z"
+          "postedAt": "2026-01-23T07:44:42.273Z"
         }
       },
       "instanceNumber": 1
@@ -42429,9 +42319,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464160388210888725",
+          "messageId": "1464163930183307369",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:39.493Z"
+          "postedAt": "2026-01-23T07:44:44.035Z"
         }
       },
       "instanceNumber": 1
@@ -42446,14 +42336,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464160395630739582",
+          "messageId": "1464163937934377093",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:41.221Z"
+          "postedAt": "2026-01-23T07:44:45.762Z"
         },
         "1462988831530680422": {
-          "messageId": "1464160403113119850",
+          "messageId": "1464163945400111188",
           "channelType": "location",
-          "postedAt": "2026-01-23T07:30:43.025Z"
+          "postedAt": "2026-01-23T07:44:47.717Z"
         }
       },
       "instanceNumber": 1
@@ -42468,9 +42358,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464160423371739257",
+          "messageId": "1464163966111453318",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:47.940Z"
+          "postedAt": "2026-01-23T07:44:52.480Z"
         }
       },
       "instanceNumber": 1
@@ -42485,9 +42375,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464160430699053203",
+          "messageId": "1464163973296554123",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:49.692Z"
+          "postedAt": "2026-01-23T07:44:54.380Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -42507,9 +42397,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464160438424961114",
+          "messageId": "1464163981114605752",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:51.426Z"
+          "postedAt": "2026-01-23T07:44:56.052Z"
         }
       },
       "instanceNumber": 1
@@ -42524,9 +42414,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464160445656203428",
+          "messageId": "1464163988257374208",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:53.095Z"
+          "postedAt": "2026-01-23T07:44:57.730Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -42563,22 +42453,21 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464160465235083399",
+          "messageId": "1464164008071532564",
           "channelType": "category",
-          "postedAt": "2026-01-23T07:30:57.802Z"
+          "postedAt": "2026-01-23T07:45:02.485Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3150,
+    "totalJobs": 3140,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T07:30:57.802Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-23T07:45:02.486Z",
+      "archived": 0
     }
   }
 }
