@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T21:13:04.944Z",
+  "lastUpdated": "2026-01-23T21:30:32.322Z",
   "jobs": [
-    {
-      "id": "joinbytedance-com-search-7265752342699837757-2026-01-16-1",
-      "jobId": "joinbytedance-com-search-7265752342699837757",
-      "company": "ByteDance",
-      "title": "Software Engineer in ML Systems Graduate",
-      "postedToDiscord": "2026-01-16T21:27:14.285Z",
-      "sourceDate": "2025-08-20T08:23:24.000Z",
-      "sourceUrl": "https://joinbytedance.com/search/7265752342699837757",
-      "discordThreadId": "1461834190407471308",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-89c966c0-1975-42a1-850d-10fe20e02b05-2026-01-16-1",
-      "jobId": "jobs-lever-co-spotify-89c966c0-1975-42a1-850d-10fe20e02b05",
-      "company": "spotify",
-      "title": "Senior Staff Machine Learning Engineer",
-      "postedToDiscord": "2026-01-16T21:27:17.660Z",
-      "sourceDate": "2025-08-19T15:39:30.968Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/89c966c0-1975-42a1-850d-10fe20e02b05",
-      "discordThreadId": "1461834206526312643",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7538319953965287698-2026-01-16-1",
-      "jobId": "lifeattiktok-com-search-7538319953965287698",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate (Video-on-Demand Algorithm)",
-      "postedToDiscord": "2026-01-16T21:27:24.158Z",
-      "sourceDate": "2025-08-20T08:49:01.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7538319953965287698",
-      "discordThreadId": "1461834233407602925",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7535871317771634952-2026-01-16-1",
-      "jobId": "lifeattiktok-com-search-7535871317771634952",
-      "company": "TikTok",
-      "title": "Software Engineer Graduate (Data Arch - E-commerce)",
-      "postedToDiscord": "2026-01-16T21:27:27.726Z",
-      "sourceDate": "2025-08-20T08:46:44.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7535871317771634952",
-      "discordThreadId": "1461834248200781857",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7540437283565848850-detail-2026-01-16-1",
-      "jobId": "jobs-bytedance-com-en-position-7540437283565848850-detail",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate - Cloud Native Infrastructure - 2026 Start','BS/MS",
-      "postedToDiscord": "2026-01-16T21:27:31.169Z",
-      "sourceDate": "2025-08-20T02:53:53.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7540437283565848850/detail",
-      "discordThreadId": "1461834262792896777",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7540437542564301063-detail-2026-01-16-1",
-      "jobId": "jobs-bytedance-com-en-position-7540437542564301063-detail",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate - Cloud Native Infrastructure - 2026 Start','BS/MS",
-      "postedToDiscord": "2026-01-16T21:27:31.185Z",
-      "sourceDate": "2025-08-20T02:53:53.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7540437542564301063/detail",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7540430373219977479-detail-2026-01-16-1",
-      "jobId": "jobs-bytedance-com-en-position-7540430373219977479-detail",
-      "company": "ByteDance",
-      "title": "Graduate Software Engineer - Cloud Native Infrastructure",
-      "postedToDiscord": "2026-01-16T21:27:34.703Z",
-      "sourceDate": "2025-08-20T02:53:36.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7540430373219977479/detail",
-      "discordThreadId": "1461834277699452928",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7538951609075271943-detail-2026-01-16-1",
-      "jobId": "jobs-bytedance-com-en-position-7538951609075271943-detail",
-      "company": "ByteDance",
-      "title": "Graduate Software Engineer - Cloud Native Infrastructure",
-      "postedToDiscord": "2026-01-16T21:27:34.719Z",
-      "sourceDate": "2025-08-19T23:59:09.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7538951609075271943/detail",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-palantir-7d75bed5-45d8-4876-840a-2d92ea79c98d-apply-2026-01-16-1",
-      "jobId": "jobs-lever-co-palantir-7d75bed5-45d8-4876-840a-2d92ea79c98d-apply",
-      "company": "Palantir",
-      "title": "Software Engineer, New Grad - Infrastructure",
-      "postedToDiscord": "2026-01-16T21:27:38.202Z",
-      "sourceDate": "2025-08-20T01:04:37.000Z",
-      "sourceUrl": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply?lever-source=LinkedIn",
-      "discordThreadId": "1461834292366934120",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-bytedance-com-en-position-7540345448911309074-detail-2026-01-16-1",
-      "jobId": "jobs-bytedance-com-en-position-7540345448911309074-detail",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate - AI Platform - 2026 Start",
-      "postedToDiscord": "2026-01-16T21:27:41.572Z",
-      "sourceDate": "2025-08-19T23:59:02.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7540345448911309074/detail",
-      "discordThreadId": "1461834306585362699",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-palantir-15844944-fb69-4b57-9531-e988650b20c6-apply-2026-01-16-1",
-      "jobId": "jobs-lever-co-palantir-15844944-fb69-4b57-9531-e988650b20c6-apply",
-      "company": "Palantir",
-      "title": "Software Engineer – New Grad - Production Infrastructure",
-      "postedToDiscord": "2026-01-16T21:27:45.040Z",
-      "sourceDate": "2025-08-19T16:18:18.000Z",
-      "sourceUrl": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
-      "discordThreadId": "1461834320850321581",
-      "instanceNumber": 1
-    },
     {
       "id": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-graduate-us-2026-01-16-1",
       "jobId": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-graduate-us",
@@ -40498,9 +40377,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464367252693323942",
+          "messageId": "1464371629113999635",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:39.821Z"
+          "postedAt": "2026-01-23T21:30:03.837Z"
         }
       },
       "instanceNumber": 1
@@ -40515,9 +40394,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464367260067168256",
+          "messageId": "1464371639083995218",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:41.549Z"
+          "postedAt": "2026-01-23T21:30:05.615Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -40537,14 +40416,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464367267214000139",
+          "messageId": "1464371646575018005",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:43.264Z"
+          "postedAt": "2026-01-23T21:30:07.416Z"
         },
         "1462988831530680422": {
-          "messageId": "1464367274025812186",
+          "messageId": "1464371654066049054",
           "channelType": "location",
-          "postedAt": "2026-01-23T21:12:44.919Z"
+          "postedAt": "2026-01-23T21:30:09.168Z"
         }
       },
       "instanceNumber": 1
@@ -40559,9 +40438,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464367281407787052",
+          "messageId": "1464371661276184628",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:46.735Z"
+          "postedAt": "2026-01-23T21:30:10.823Z"
         }
       },
       "instanceNumber": 1
@@ -40576,14 +40455,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464367289011933217",
+          "messageId": "1464371668116967593",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:48.580Z"
+          "postedAt": "2026-01-23T21:30:12.587Z"
         },
         "1462988831530680422": {
-          "messageId": "1464367296515407903",
+          "messageId": "1464371678636150817",
           "channelType": "location",
-          "postedAt": "2026-01-23T21:12:50.325Z"
+          "postedAt": "2026-01-23T21:30:16.358Z"
         }
       },
       "instanceNumber": 1
@@ -40598,9 +40477,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464367316862238894",
+          "messageId": "1464371704108421160",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:55.033Z"
+          "postedAt": "2026-01-23T21:30:21.042Z"
         }
       },
       "instanceNumber": 1
@@ -40615,9 +40494,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464367323786907708",
+          "messageId": "1464371710655594670",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:56.750Z"
+          "postedAt": "2026-01-23T21:30:22.703Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -40637,9 +40516,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464367331017752639",
+          "messageId": "1464371724463116524",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:12:58.411Z"
+          "postedAt": "2026-01-23T21:30:25.919Z"
         }
       },
       "instanceNumber": 1
@@ -40654,9 +40533,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464367338026565684",
+          "messageId": "1464371731576782958",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:13:00.138Z"
+          "postedAt": "2026-01-23T21:30:27.603Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -40693,20 +40572,20 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464367357865754759",
+          "messageId": "1464371750925238406",
           "channelType": "category",
-          "postedAt": "2026-01-23T21:13:04.944Z"
+          "postedAt": "2026-01-23T21:30:32.322Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2980,
+    "totalJobs": 2969,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T21:13:04.944Z",
+      "date": "2026-01-23T21:30:32.322Z",
       "archived": 0
     }
   }
