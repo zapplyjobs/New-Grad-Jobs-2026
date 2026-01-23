@@ -1,216 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T20:31:20.526Z",
+  "lastUpdated": "2026-01-23T20:46:51.798Z",
   "jobs": [
-    {
-      "id": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-coral-gables-fl-post-doctoral-associate_r100089997-2026-01-16-1",
-      "jobId": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-coral-gables-fl-post-doctoral-associate_r100089997",
-      "company": "University of Miami",
-      "title": "Postdoctoral Associate",
-      "postedToDiscord": "2026-01-16T20:31:23.269Z",
-      "sourceDate": "2025-08-23T14:53:25.000Z",
-      "sourceUrl": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100089997",
-      "discordThreadId": "1461820135126864035",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-e-_2320007-2026-01-16-1",
-      "jobId": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-e-_2320007",
-      "company": "KLA Corporation",
-      "title": "Software Engineer - E",
-      "postedToDiscord": "2026-01-16T20:31:26.936Z",
-      "sourceDate": "2025-08-23T14:47:49.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer--E-_2320007",
-      "discordThreadId": "1461820151476260885",
-      "instanceNumber": 1
-    },
-    {
-      "id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate_r132402-2026-01-16-1",
-      "jobId": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate_r132402",
-      "company": "Northeastern",
-      "title": "Postdoctoral Research Associate",
-      "postedToDiscord": "2026-01-16T20:31:30.696Z",
-      "sourceDate": "2025-08-23T14:37:47.000Z",
-      "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132402",
-      "discordThreadId": "1461820166789665084",
-      "instanceNumber": 1
-    },
-    {
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow_r_00019055-2-2026-01-16-1",
-      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow_r_00019055-2",
-      "company": "University of Texas - Austin",
-      "title": "Postdoctoral Fellow",
-      "postedToDiscord": "2026-01-16T20:31:36.123Z",
-      "sourceDate": "2025-08-23T13:34:17.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00019055-2",
-      "discordThreadId": "1461820183210627162",
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-department-of-physics-postdoctoral-scholar-ligo_req_0000062439-1-2026-01-16-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-department-of-physics-postdoctoral-scholar-ligo_req_0000062439-1",
-      "company": "PennState University",
-      "title": "Physics Department - Postdoctoral Scholar - Ligo",
-      "postedToDiscord": "2026-01-16T20:31:39.714Z",
-      "sourceDate": "2025-08-23T13:32:09.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1",
-      "discordThreadId": "1461820205008162868",
-      "instanceNumber": 1
-    },
-    {
-      "id": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-application-engineer_r2700-2026-01-16-1",
-      "jobId": "waystar-wd1-myworkdayjobs-com-waystar-job-atlanta-ga-application-engineer_r2700",
-      "company": "Waystar",
-      "title": "Application Engineer",
-      "postedToDiscord": "2026-01-16T20:31:43.461Z",
-      "sourceDate": "2025-08-23T13:31:00.000Z",
-      "sourceUrl": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer_R2700",
-      "discordThreadId": "1461820220221165837",
-      "instanceNumber": 1
-    },
-    {
-      "id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-fellow_r115210-1-2026-01-16-1",
-      "jobId": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-fellow_r115210-1",
-      "company": "Northeastern",
-      "title": "Postdoctoral Research Fellow",
-      "postedToDiscord": "2026-01-16T20:31:47.023Z",
-      "sourceDate": "2025-08-23T12:46:21.000Z",
-      "sourceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Fellow_R115210-1",
-      "discordThreadId": "1461820236054663442",
-      "instanceNumber": 1
-    },
-    {
-      "id": "onto-wd1-myworkdayjobs-com-onto_careers-job-milpitas-ca-sales-data-analyst-1_r-4671-2026-01-16-1",
-      "jobId": "onto-wd1-myworkdayjobs-com-onto_careers-job-milpitas-ca-sales-data-analyst-1_r-4671",
-      "company": "Onto Innovation",
-      "title": "Sales Data Analyst 1",
-      "postedToDiscord": "2026-01-16T20:31:53.748Z",
-      "sourceDate": "2025-08-23T14:40:15.000Z",
-      "sourceUrl": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Sales-Data-Analyst-1_R-4671",
-      "discordThreadId": "1461820263992786985",
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-department-of-physics-wissel-research-group_req_0000045022-1-2026-01-16-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-department-of-physics-wissel-research-group_req_0000045022-1",
-      "company": "PennState University",
-      "title": "Postdoctoral Scholar - Department of Physics - Wissel Research Group",
-      "postedToDiscord": "2026-01-16T20:32:00.612Z",
-      "sourceDate": "2025-08-23T13:32:23.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Department-of-Physics---Wissel-Research-Group_REQ_0000045022-1",
-      "discordThreadId": "1461820292912513269",
-      "instanceNumber": 1
-    },
-    {
-      "id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000053661-2026-01-16-1",
-      "jobId": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000053661",
-      "company": "PennState University",
-      "title": "Postdoctoral Scholar",
-      "postedToDiscord": "2026-01-16T20:32:07.194Z",
-      "sourceDate": "2025-08-23T13:32:20.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000053661",
-      "discordThreadId": "1461820321249104179",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nodalexchange-pinpointhq-com-postings-7dfa5f35-8585-4681-bad7-5f26b87bdc47-2026-01-16-1",
-      "jobId": "nodalexchange-pinpointhq-com-postings-7dfa5f35-8585-4681-bad7-5f26b87bdc47",
-      "company": "Nodal",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-16T20:42:16.999Z",
-      "sourceDate": "2025-08-22T19:16:18.000Z",
-      "sourceUrl": "https://nodalexchange.pinpointhq.com/postings/7dfa5f35-8585-4681-bad7-5f26b87bdc47",
-      "discordThreadId": "1461822878545744071",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hpe-wd5-myworkdayjobs-com-en-us-jobsathpe-job-spring-texas-united-states-of-america-cloud-engineer-graduate_1192968-1-2026-01-16-1",
-      "jobId": "hpe-wd5-myworkdayjobs-com-en-us-jobsathpe-job-spring-texas-united-states-of-america-cloud-engineer-graduate_1192968-1",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Cloud Engineer Graduate",
-      "postedToDiscord": "2026-01-16T20:42:20.500Z",
-      "sourceDate": "2025-08-22T13:07:24.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1",
-      "discordThreadId": "1461822893380993156",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-ixl-com-company-careers-2026-01-16-1",
-      "jobId": "www-ixl-com-company-careers",
-      "company": "IXL Learning",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-16T20:42:24.235Z",
-      "sourceDate": "2025-08-22T13:06:16.000Z",
-      "sourceUrl": "https://www.ixl.com/company/careers?gh_jid=8128533002",
-      "discordThreadId": "1461822907994083559",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-interfaceai-jobs-4571115006-2026-01-16-1",
-      "jobId": "job-boards-greenhouse-io-interfaceai-jobs-4571115006",
-      "company": "interface.ai",
-      "title": "Software Engineer I",
-      "postedToDiscord": "2026-01-16T20:42:27.705Z",
-      "sourceDate": "2025-08-22T13:04:44.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/interfaceai/jobs/4571115006",
-      "discordThreadId": "1461822923655610470",
-      "instanceNumber": 1
-    },
-    {
-      "id": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228-2026-01-16-1",
-      "jobId": "texascapitalbank-wd12-myworkdayjobs-com-careers-job-richardson-tx-technology-platform-associate_jr104228",
-      "company": "Texas Capital Bank",
-      "title": "Technology Platform Associate",
-      "postedToDiscord": "2026-01-16T20:42:31.256Z",
-      "sourceDate": "2025-08-21T23:54:41.000Z",
-      "sourceUrl": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Technology-Platform-Associate_JR104228",
-      "discordThreadId": "1461822938230689843",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7537387126649391368-2026-01-16-1",
-      "jobId": "lifeattiktok-com-search-7537387126649391368",
-      "company": "TikTok",
-      "title": "Backend Software Engineer Graduate - Search - Usds",
-      "postedToDiscord": "2026-01-16T20:42:34.837Z",
-      "sourceDate": "2025-08-21T23:40:35.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7537387126649391368",
-      "discordThreadId": "1461822952751239201",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-tesla-com-careers-search-job-247062-2026-01-16-1",
-      "jobId": "www-tesla-com-careers-search-job-247062",
-      "company": "Tesla",
-      "title": "Software Engineer, Communications Platform",
-      "postedToDiscord": "2026-01-16T20:42:38.303Z",
-      "sourceDate": "2025-08-21T23:09:52.000Z",
-      "sourceUrl": "https://www.tesla.com/careers/search/job/247062",
-      "discordThreadId": "1461822968219963465",
-      "instanceNumber": 1
-    },
-    {
-      "id": "geico-wd1-myworkdayjobs-com-en-us-external-job-chevy-chase-md-data-scientist-i_r0059612-2026-01-16-1",
-      "jobId": "geico-wd1-myworkdayjobs-com-en-us-external-job-chevy-chase-md-data-scientist-i_r0059612",
-      "company": "GEICO",
-      "title": "Data Scientist I",
-      "postedToDiscord": "2026-01-16T20:42:44.860Z",
-      "sourceDate": "2025-08-22T13:01:23.000Z",
-      "sourceUrl": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Data-Scientist-I_R0059612",
-      "discordThreadId": "1461822995520815287",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hpe-wd5-myworkdayjobs-com-en-us-acjobsite-job-spring-texas-united-states-of-america-data-science-graduate_1192963-2026-01-16-1",
-      "jobId": "hpe-wd5-myworkdayjobs-com-en-us-acjobsite-job-spring-texas-united-states-of-america-data-science-graduate_1192963",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Data Science Graduate",
-      "postedToDiscord": "2026-01-16T20:42:48.504Z",
-      "sourceDate": "2025-08-22T13:00:04.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963",
-      "discordThreadId": "1461823010058276865",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-bytedance-com-en-position-7536331300845701383-detail-2026-01-16-1",
       "jobId": "jobs-bytedance-com-en-position-7536331300845701383-detail",
@@ -40828,9 +40619,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464356746012397620",
+          "messageId": "1464360650628399187",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:30:55.104Z"
+          "postedAt": "2026-01-23T20:46:25.873Z"
         }
       },
       "instanceNumber": 1
@@ -40845,9 +40636,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464356754220388529",
+          "messageId": "1464360658631000170",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:30:56.876Z"
+          "postedAt": "2026-01-23T20:46:27.705Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -40867,14 +40658,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464356761497768281",
+          "messageId": "1464360666168168549",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:30:58.618Z"
+          "postedAt": "2026-01-23T20:46:29.437Z"
         },
         "1462988831530680422": {
-          "messageId": "1464356769290518641",
+          "messageId": "1464360673902330076",
           "channelType": "location",
-          "postedAt": "2026-01-23T20:31:00.315Z"
+          "postedAt": "2026-01-23T20:46:31.325Z"
         }
       },
       "instanceNumber": 1
@@ -40889,9 +40680,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464356776182022265",
+          "messageId": "1464360681586561250",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:31:02.152Z"
+          "postedAt": "2026-01-23T20:46:33.123Z"
         }
       },
       "instanceNumber": 1
@@ -40906,14 +40697,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464356784079634677",
+          "messageId": "1464360689027125398",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:31:03.861Z"
+          "postedAt": "2026-01-23T20:46:34.979Z"
         },
         "1462988831530680422": {
-          "messageId": "1464356791105097874",
+          "messageId": "1464360696707022930",
           "channelType": "location",
-          "postedAt": "2026-01-23T20:31:05.563Z"
+          "postedAt": "2026-01-23T20:46:36.737Z"
         }
       },
       "instanceNumber": 1
@@ -40928,9 +40719,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464356811065917644",
+          "messageId": "1464360716977963197",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:31:10.272Z"
+          "postedAt": "2026-01-23T20:46:41.581Z"
         }
       },
       "instanceNumber": 1
@@ -40945,9 +40736,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464356818514874475",
+          "messageId": "1464360724313800867",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:31:12.150Z"
+          "postedAt": "2026-01-23T20:46:43.292Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -40967,9 +40758,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464356825985056801",
+          "messageId": "1464360731855290536",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:31:13.820Z"
+          "postedAt": "2026-01-23T20:46:45.129Z"
         }
       },
       "instanceNumber": 1
@@ -40984,9 +40775,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464356833153122344",
+          "messageId": "1464360739325083852",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:31:15.669Z"
+          "postedAt": "2026-01-23T20:46:46.973Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -41023,20 +40814,20 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464356853504016617",
+          "messageId": "1464360759772315772",
           "channelType": "category",
-          "postedAt": "2026-01-23T20:31:20.526Z"
+          "postedAt": "2026-01-23T20:46:51.797Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3010,
+    "totalJobs": 2991,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T20:31:20.526Z",
+      "date": "2026-01-23T20:46:51.798Z",
       "archived": 0
     }
   }
