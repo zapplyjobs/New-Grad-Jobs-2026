@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T17:19:52.421Z",
+  "lastUpdated": "2026-01-23T17:34:47.876Z",
   "jobs": [
-    {
-      "id": "jobs-ashbyhq-com-brellium-8209ac68-d966-4d5f-a925-3b277f8583c3-application-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-brellium-8209ac68-d966-4d5f-a925-3b277f8583c3-application",
-      "company": "Brellium",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-16T17:27:00.673Z",
-      "sourceDate": "2025-09-04T16:41:07.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/brellium/8209ac68-d966-4d5f-a925-3b277f8583c3/application",
-      "discordThreadId": "1461773736909996102",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-infrastructure-cloud-engineering-track-start-date-july-13-2026_25011438-1-2026-01-16-1",
-      "jobId": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-infrastructure-cloud-engineering-track-start-date-july-13-2026_25011438-1",
-      "company": "The Cigna Group",
-      "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
-      "postedToDiscord": "2026-01-16T17:27:04.406Z",
-      "sourceDate": "2025-09-04T10:14:15.000Z",
-      "sourceUrl": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
-      "discordThreadId": "1461773751824679056",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-artificial-intelligence-track-start-date-july-13-2026_25011433-2026-01-16-1",
-      "jobId": "cigna-wd5-myworkdayjobs-com-en-us-cignacareers-job-st-louis-mo-technology-development-program-tecdp-artificial-intelligence-track-start-date-july-13-2026_25011433",
-      "company": "The Cigna Group",
-      "title": "Technology Development Program (TECDP) - Artificial Intelligence",
-      "postedToDiscord": "2026-01-16T17:27:04.424Z",
-      "sourceDate": "2025-09-04T08:49:30.000Z",
-      "sourceUrl": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-com-jobs-listing-software-engineer-new-grad-7210112-2026-01-16-1",
-      "jobId": "stripe-com-jobs-listing-software-engineer-new-grad-7210112",
-      "company": "Stripe",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-16T17:27:08.318Z",
-      "sourceDate": "2025-09-04T08:40:26.000Z",
-      "sourceUrl": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
-      "discordThreadId": "1461773767704313877",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-88345c93-ae5e-416b-af29-69d8ea6fde78-2026-01-16-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-88345c93-ae5e-416b-af29-69d8ea6fde78",
-      "company": "Jerry",
-      "title": "Software Engineer I",
-      "postedToDiscord": "2026-01-16T17:27:11.713Z",
-      "sourceDate": "2025-09-03T13:26:42.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78",
-      "discordThreadId": "1461773783114449126",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-e8e0a7a9-10d1-44e1-97f0-5868c48eb914-2026-01-16-1",
-      "jobId": "jobs-lever-co-nominal-e8e0a7a9-10d1-44e1-97f0-5868c48eb914",
-      "company": "nominal",
-      "title": "Government Contracts Strategist",
-      "postedToDiscord": "2026-01-16T17:27:16.557Z",
-      "sourceDate": "2025-09-04T22:17:55.500Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/e8e0a7a9-10d1-44e1-97f0-5868c48eb914",
-      "discordThreadId": "1461773810671026196",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req329843-1-2026-01-16-1",
-      "jobId": "tmobile-wd1-myworkdayjobs-com-en-us-external-job-bellevue-washington-associate-ai-engineer_req329843-1",
-      "company": "T-Mobile",
-      "title": "Associate AI Engineer",
-      "postedToDiscord": "2026-01-16T17:27:20.006Z",
-      "sourceDate": "2025-09-04T08:52:39.000Z",
-      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ329843-1",
-      "discordThreadId": "1461773818174373910",
-      "instanceNumber": 1
-    },
     {
       "id": "ibmglobal-avature-net-en_us-careers-jobdetail-2026-01-16-1",
       "jobId": "ibmglobal-avature-net-en_us-careers-jobdetail",
@@ -41587,9 +41510,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464308562422398986",
+          "messageId": "1464312318924947612",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:26.917Z"
+          "postedAt": "2026-01-23T17:34:22.700Z"
         }
       },
       "instanceNumber": 1
@@ -41604,9 +41527,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464308569930338304",
+          "messageId": "1464312326889930966",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:28.739Z"
+          "postedAt": "2026-01-23T17:34:24.409Z"
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -41626,14 +41549,14 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464308577060651298",
+          "messageId": "1464312333923909723",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:30.523Z"
+          "postedAt": "2026-01-23T17:34:26.125Z"
         },
         "1462988831530680422": {
-          "messageId": "1464308584702546174",
+          "messageId": "1464312341054099570",
           "channelType": "location",
-          "postedAt": "2026-01-23T17:19:32.213Z"
+          "postedAt": "2026-01-23T17:34:27.777Z"
         }
       },
       "instanceNumber": 1
@@ -41648,9 +41571,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464308591870869719",
+          "messageId": "1464312347748208865",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:34.048Z"
+          "postedAt": "2026-01-23T17:34:29.441Z"
         }
       },
       "instanceNumber": 1
@@ -41665,14 +41588,14 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464308599244194040",
+          "messageId": "1464312355125989520",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:35.799Z"
+          "postedAt": "2026-01-23T17:34:31.143Z"
         },
         "1462988831530680422": {
-          "messageId": "1464308606651465992",
+          "messageId": "1464312362122215485",
           "channelType": "location",
-          "postedAt": "2026-01-23T17:19:37.626Z"
+          "postedAt": "2026-01-23T17:34:32.863Z"
         }
       },
       "instanceNumber": 1
@@ -41687,9 +41610,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464308626905632891",
+          "messageId": "1464312381969797154",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:42.333Z"
+          "postedAt": "2026-01-23T17:34:37.626Z"
         }
       },
       "instanceNumber": 1
@@ -41704,9 +41627,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464308634187202702",
+          "messageId": "1464312390261669971",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:44.013Z"
+          "postedAt": "2026-01-23T17:34:39.608Z"
         },
         "1462989305181114450": {
           "messageId": "1464013144832872510",
@@ -41726,9 +41649,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464308641581633537",
+          "messageId": "1464312397706694724",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:45.974Z"
+          "postedAt": "2026-01-23T17:34:41.338Z"
         }
       },
       "instanceNumber": 1
@@ -41743,9 +41666,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464308649513058335",
+          "messageId": "1464312405017235567",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:47.729Z"
+          "postedAt": "2026-01-23T17:34:43.058Z"
         },
         "1462989305181114450": {
           "messageId": "1464013167741899056",
@@ -41782,20 +41705,20 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464308669167566893",
+          "messageId": "1464312425015672832",
           "channelType": "category",
-          "postedAt": "2026-01-23T17:19:52.420Z"
+          "postedAt": "2026-01-23T17:34:47.876Z"
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 3079,
+    "totalJobs": 3072,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-23T17:19:52.421Z",
+      "date": "2026-01-23T17:34:47.876Z",
       "archived": 0
     }
   }
