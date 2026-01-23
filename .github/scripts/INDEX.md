@@ -11,6 +11,8 @@
 | Need to... | Go to |
 |------------|-------|
 | Understand monitoring system | `src/monitoring/README.md` |
+| **Migrate to another repo** | `BOARD_TYPES_MIGRATION_GUIDE.md` |
+| **Configure board type** | `src/board-types.js` |
 | Check bot health | `health-monitor.js` |
 | Run auto-remediation | `src/monitoring/auto-remediation.js run` |
 | Query metrics | `src/monitoring/metrics-collector.js summary` |
@@ -119,6 +121,43 @@ node schema-aware-health.js check-v1
 - Before: 26.5% success (only counted V2 posts)
 - After: 88.89% success (counts V2 + V1 legacy posts)
 - Prevents 55% false positive incident
+
+---
+
+## Configuration System
+
+### Board Types (src/board-types.js)
+
+**Purpose:** Portable configuration templates for different job board types
+
+**What it does:**
+- Defines board type templates (NEW_GRAD, INTERNSHIPS, REMOTE)
+- Generates channel configurations from templates
+- Documents required environment variables
+- Makes system portable across repositories
+
+**Board Types:**
+
+| Board Type | Repos | Industry Channels | Location Channels | Mode |
+|-----------|-------|-------------------|-------------------|------|
+| **NEW_GRAD** | New-Grad-Jobs-2026 | 4 (consolidated) | 5 (consolidated) | env |
+| **INTERNSHIPS** | Internships-2026 | 11 (full spread) | 15 (full spread) | env |
+| **REMOTE** | Remote-Jobs-2026 | 11 (auto-discover) | 12 (auto-discover) | discovery |
+
+**How to use:**
+```javascript
+const { BOARD_TYPES, generateLegacyConfig } = require('./src/board-types');
+
+// Get config for your board type
+const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG } = generateLegacyConfig(BOARD_TYPES.NEW_GRAD);
+
+// Get required environment variables
+const { getRequiredEnvVars } = require('./src/board-types');
+const envVars = getRequiredEnvVars(BOARD_TYPES.NEW_GRAD);
+console.log('Required:', envVars);
+```
+
+**Migration Guide:** See `BOARD_TYPES_MIGRATION_GUIDE.md`
 
 ---
 
