@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T13:36:47.571Z",
+  "lastUpdated": "2026-01-24T13:57:10.806Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-nominal-e0f3ee8b-0030-4506-a6e2-da0710d90a05-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-e0f3ee8b-0030-4506-a6e2-da0710d90a05",
-      "company": "nominal",
-      "title": "Software Engineer - Mission Dev",
-      "postedToDiscord": "2026-01-17T13:43:21.064Z",
-      "sourceDate": "2025-05-01T18:37:11.417Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/e0f3ee8b-0030-4506-a6e2-da0710d90a05",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-0a938c16-c497-4104-8196-137c38306d81-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-0a938c16-c497-4104-8196-137c38306d81",
-      "company": "nominal",
-      "title": "Software Engineer - Backend",
-      "postedToDiscord": "2026-01-17T13:43:21.089Z",
-      "sourceDate": "2024-10-29T21:42:05.811Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/0a938c16-c497-4104-8196-137c38306d81",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-39371884-5911-4c38-9c93-c7d2bece220a-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-39371884-5911-4c38-9c93-c7d2bece220a",
-      "company": "nominal",
-      "title": "Software Engineer - Frontend",
-      "postedToDiscord": "2026-01-17T13:43:21.117Z",
-      "sourceDate": "2024-04-11T22:41:47.943Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/39371884-5911-4c38-9c93-c7d2bece220a",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-supabase-142135ae-a15f-4ec7-90bb-cb4e7968bc09-2026-01-17-1",
-      "jobId": "jobs-ashbyhq-com-supabase-142135ae-a15f-4ec7-90bb-cb4e7968bc09",
-      "company": "supabase",
-      "title": "Support Engineer (APAC)",
-      "postedToDiscord": "2026-01-17T13:43:22.929Z",
-      "sourceDate": "2025-03-20T18:51:09.252+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09",
-      "discordThreadId": "1462079853569249376",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-supabase-e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd-2026-01-17-1",
-      "jobId": "jobs-ashbyhq-com-supabase-e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
-      "company": "supabase",
-      "title": "Support Engineer (AMER)",
-      "postedToDiscord": "2026-01-17T13:43:24.914Z",
-      "sourceDate": "2025-01-15T16:41:31.938+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
-      "discordThreadId": "1462079861173780523",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-railway-7d42f0e8-15a5-453d-8992-9e8638846077-2026-01-17-1",
-      "jobId": "jobs-ashbyhq-com-railway-7d42f0e8-15a5-453d-8992-9e8638846077",
-      "company": "railway",
-      "title": "Developer Relations",
-      "postedToDiscord": "2026-01-17T13:43:29.759Z",
-      "sourceDate": "2024-12-02T21:09:38.607+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/railway/7d42f0e8-15a5-453d-8992-9e8638846077",
-      "discordThreadId": "1462079870187339828",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-railway-b8072f95-043f-404d-a313-f0bdf8dd3c81-2026-01-17-1",
-      "jobId": "jobs-ashbyhq-com-railway-b8072f95-043f-404d-a313-f0bdf8dd3c81",
-      "company": "railway",
-      "title": "Infrastructure Engineer",
-      "postedToDiscord": "2026-01-17T13:43:33.238Z",
-      "sourceDate": "2024-06-03T19:11:47.266+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/railway/b8072f95-043f-404d-a313-f0bdf8dd3c81",
-      "discordThreadId": "1462079890172940288",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-nominal-cba503aa-f40f-4608-b647-3f4eeb1e5db9-2026-01-17-1",
       "jobId": "jobs-lever-co-nominal-cba503aa-f40f-4608-b647-3f4eeb1e5db9",
@@ -36978,9 +36901,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464614808946085898",
+          "messageId": "1464619930896044034",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:22.184Z",
+          "postedAt": "2026-01-24T13:56:43.071Z",
           "channelJobNumber": 465
         }
       },
@@ -36996,9 +36919,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464614818022428818",
+          "messageId": "1464619938651177133",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:23.946Z",
+          "postedAt": "2026-01-24T13:56:44.824Z",
           "channelJobNumber": 465
         },
         "1462989305181114450": {
@@ -37019,15 +36942,15 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464614825425506549",
+          "messageId": "1464619946070905204",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:25.826Z",
+          "postedAt": "2026-01-24T13:56:46.591Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464614833159934078",
+          "messageId": "1464619953180119216",
           "channelType": "location",
-          "postedAt": "2026-01-24T13:36:27.618Z",
+          "postedAt": "2026-01-24T13:56:48.375Z",
           "channelJobNumber": 184
         }
       },
@@ -37043,9 +36966,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464614840583585914",
+          "messageId": "1464619960943771774",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:29.404Z",
+          "postedAt": "2026-01-24T13:56:50.157Z",
           "channelJobNumber": 465
         }
       },
@@ -37061,15 +36984,15 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464614847823085756",
+          "messageId": "1464619967994400883",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:31.147Z",
+          "postedAt": "2026-01-24T13:56:51.867Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464614855339413605",
+          "messageId": "1464619975443480828",
           "channelType": "location",
-          "postedAt": "2026-01-24T13:36:32.847Z",
+          "postedAt": "2026-01-24T13:56:53.552Z",
           "channelJobNumber": 184
         }
       },
@@ -37085,9 +37008,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464614875216216208",
+          "messageId": "1464619995039273043",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:37.645Z",
+          "postedAt": "2026-01-24T13:56:58.384Z",
           "channelJobNumber": 227
         }
       },
@@ -37103,9 +37026,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464614882480754897",
+          "messageId": "1464620002324779024",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:39.379Z",
+          "postedAt": "2026-01-24T13:57:00.082Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -37126,9 +37049,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464614889925382236",
+          "messageId": "1464620010109534228",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:41.087Z",
+          "postedAt": "2026-01-24T13:57:01.891Z",
           "channelJobNumber": 227
         }
       },
@@ -37144,9 +37067,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464614897005494458",
+          "messageId": "1464620018070323446",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:42.804Z",
+          "postedAt": "2026-01-24T13:57:06.009Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -37184,9 +37107,9 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464614917096345722",
+          "messageId": "1464620047468204195",
           "channelType": "category",
-          "postedAt": "2026-01-24T13:36:47.571Z",
+          "postedAt": "2026-01-24T13:57:10.806Z",
           "channelJobNumber": 66
         }
       },
@@ -37194,11 +37117,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 2660,
+    "totalJobs": 2653,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-24T13:36:47.571Z",
+      "date": "2026-01-24T13:57:10.806Z",
       "archived": 0
     }
   }
