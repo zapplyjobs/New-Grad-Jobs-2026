@@ -16,17 +16,8 @@ function formatPostedDate(dateString) {
     const date = new Date(dateString);
     if (isNaN(date.getTime())) return 'Recently';
 
-    // Calculate relative time
+    // Always show exact date (removed relative time like "Today", "Yesterday")
     const now = new Date();
-    const diffMs = now - date;
-    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-
-    if (diffDays === 0) return 'Today';
-    if (diffDays === 1) return 'Yesterday';
-    if (diffDays < 7) return `${diffDays} days ago`;
-    if (diffDays < 30) return `${Math.floor(diffDays / 7)} week${diffDays >= 14 ? 's' : ''} ago`;
-
-    // For older posts, show the actual date
     return date.toLocaleDateString('en-US', {
       month: 'short',
       day: 'numeric',
