@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T08:59:05.643Z",
+  "lastUpdated": "2026-01-24T09:11:57.944Z",
   "jobs": [
-    {
-      "id": "jobs-ashbyhq-com-supabase-51c3a3a9-7539-47f3-82e7-b95958342e2c-2026-01-17-1",
-      "jobId": "jobs-ashbyhq-com-supabase-51c3a3a9-7539-47f3-82e7-b95958342e2c",
-      "company": "supabase",
-      "title": "Customer Solution Architect (APAC)",
-      "postedToDiscord": "2026-01-17T09:07:39.483Z",
-      "sourceDate": "2025-05-30T20:51:51.568+00:00",
-      "sourceUrl": "https://jobs.ashbyhq.com/supabase/51c3a3a9-7539-47f3-82e7-b95958342e2c",
-      "discordThreadId": "1462010465843417122",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-2f2454a8-e06b-4fb0-964d-51890caf183d-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-2f2454a8-e06b-4fb0-964d-51890caf183d",
-      "company": "nominal",
-      "title": "Mid-Market Account Executive",
-      "postedToDiscord": "2026-01-17T09:07:46.383Z",
-      "sourceDate": "2025-05-15T19:58:22.101Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/2f2454a8-e06b-4fb0-964d-51890caf183d",
-      "discordThreadId": "1462010485997306011",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-ceb289fc-ac05-418c-a5bd-26e6d4e64dd4-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-ceb289fc-ac05-418c-a5bd-26e6d4e64dd4",
-      "company": "nominal",
-      "title": "Roboticist In Residence",
-      "postedToDiscord": "2026-01-17T09:07:50.121Z",
-      "sourceDate": "2025-05-13T20:01:51.070Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/ceb289fc-ac05-418c-a5bd-26e6d4e64dd4",
-      "discordThreadId": "1462010502073815194",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-825c72ae-9ba9-4f08-8c18-94eb38da1ea2-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-825c72ae-9ba9-4f08-8c18-94eb38da1ea2",
-      "company": "nominal",
-      "title": "Mission Operations Engineer - USG/DoD",
-      "postedToDiscord": "2026-01-17T09:07:53.907Z",
-      "sourceDate": "2025-04-30T19:25:22.053Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/825c72ae-9ba9-4f08-8c18-94eb38da1ea2",
-      "discordThreadId": "1462010517630484677",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-37c9854b-f1ea-4da6-a3f5-51e64923ae08-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-37c9854b-f1ea-4da6-a3f5-51e64923ae08",
-      "company": "nominal",
-      "title": "Mission Operations Engineer",
-      "postedToDiscord": "2026-01-17T09:07:53.926Z",
-      "sourceDate": "2024-03-06T17:24:22.039Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/37c9854b-f1ea-4da6-a3f5-51e64923ae08",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nominal-9f3ce3cf-24ac-4aa2-801e-a53768d44def-2026-01-17-1",
-      "jobId": "jobs-lever-co-nominal-9f3ce3cf-24ac-4aa2-801e-a53768d44def",
-      "company": "nominal",
-      "title": "Instrumentation Engineer",
-      "postedToDiscord": "2026-01-17T09:07:57.316Z",
-      "sourceDate": "2025-04-24T00:26:51.038Z",
-      "sourceUrl": "https://jobs.lever.co/nominal/9f3ce3cf-24ac-4aa2-801e-a53768d44def",
-      "discordThreadId": "1462010533254266948",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-ashbyhq-com-clerk-0aaf7916-ce76-4c72-b461-1604bf1b5bc2-2026-01-17-1",
       "jobId": "jobs-ashbyhq-com-clerk-0aaf7916-ce76-4c72-b461-1604bf1b5bc2",
@@ -37066,9 +37000,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464544926468669547",
+          "messageId": "1464548157710008518",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:40.546Z",
+          "postedAt": "2026-01-24T09:11:31.014Z",
           "channelJobNumber": 465
         }
       },
@@ -37084,9 +37018,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464544933724684300",
+          "messageId": "1464548165859545384",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:42.225Z",
+          "postedAt": "2026-01-24T09:11:32.993Z",
           "channelJobNumber": 465
         },
         "1462989305181114450": {
@@ -37107,15 +37041,15 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464544941006000291",
+          "messageId": "1464548173685985375",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:43.948Z",
+          "postedAt": "2026-01-24T09:11:34.689Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464544948077723660",
+          "messageId": "1464548180866764800",
           "channelType": "location",
-          "postedAt": "2026-01-24T08:58:45.687Z",
+          "postedAt": "2026-01-24T09:11:36.433Z",
           "channelJobNumber": 184
         }
       },
@@ -37131,9 +37065,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464544955350646817",
+          "messageId": "1464548187682373693",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:47.415Z",
+          "postedAt": "2026-01-24T09:11:38.106Z",
           "channelJobNumber": 465
         }
       },
@@ -37149,15 +37083,15 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464544962593951979",
+          "messageId": "1464548195223867464",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:49.073Z",
+          "postedAt": "2026-01-24T09:11:39.853Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464544969594503270",
+          "messageId": "1464548202005925991",
           "channelType": "location",
-          "postedAt": "2026-01-24T08:58:50.775Z",
+          "postedAt": "2026-01-24T09:11:41.544Z",
           "channelJobNumber": 184
         }
       },
@@ -37173,9 +37107,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464544989664120978",
+          "messageId": "1464548222038184115",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:55.540Z",
+          "postedAt": "2026-01-24T09:11:46.325Z",
           "channelJobNumber": 227
         }
       },
@@ -37191,9 +37125,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464544996681322650",
+          "messageId": "1464548229528948848",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:57.216Z",
+          "postedAt": "2026-01-24T09:11:48.077Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -37214,9 +37148,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464545003933274258",
+          "messageId": "1464548236579836028",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:58:59.010Z",
+          "postedAt": "2026-01-24T09:11:49.736Z",
           "channelJobNumber": 227
         }
       },
@@ -37232,9 +37166,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464545011122307113",
+          "messageId": "1464548244171526289",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:59:00.673Z",
+          "postedAt": "2026-01-24T09:11:51.570Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -37272,9 +37206,9 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464545031430865047",
+          "messageId": "1464548270843101479",
           "channelType": "category",
-          "postedAt": "2026-01-24T08:59:05.642Z",
+          "postedAt": "2026-01-24T09:11:57.943Z",
           "channelJobNumber": 66
         }
       },
@@ -37282,11 +37216,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 2668,
+    "totalJobs": 2662,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-24T08:59:05.643Z",
+      "date": "2026-01-24T09:11:57.944Z",
       "archived": 0
     }
   }
