@@ -1,172 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T02:33:21.488Z",
+  "lastUpdated": "2026-01-24T03:13:52.068Z",
   "jobs": [
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-104232823-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-104232823",
-      "company": "AG Technologies",
-      "title": "Salesforce OBIEE ETL Training and Placement",
-      "postedToDiscord": "2026-01-17T02:37:13.676Z",
-      "sourceDate": "2025-08-12T10:40:50.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/104232823",
-      "discordThreadId": "1461912203769675776",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-andurilindustries-jobs-4776690007-2026-01-17-1",
-      "jobId": "job-boards-greenhouse-io-andurilindustries-jobs-4776690007",
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Connected Warfare",
-      "postedToDiscord": "2026-01-17T02:37:20.194Z",
-      "sourceDate": "2025-08-12T09:27:51.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
-      "discordThreadId": "1461912230927794362",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-andurilindustries-jobs-4164476007-2026-01-17-1",
-      "jobId": "job-boards-greenhouse-io-andurilindustries-jobs-4164476007",
-      "company": "Anduril Industries",
-      "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
-      "postedToDiscord": "2026-01-17T02:37:23.670Z",
-      "sourceDate": "2025-08-12T09:25:16.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
-      "discordThreadId": "1461912245461061793",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-743999652483007-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999652483007",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:30.368Z",
-      "sourceDate": "2025-08-12T08:40:34.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007",
-      "discordThreadId": "1461912272812118126",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-743999651146019-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999651146019",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:30.385Z",
-      "sourceDate": "2025-08-12T08:36:26.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-743999659380716-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999659380716",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:30.400Z",
-      "sourceDate": "2025-08-12T08:35:40.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-116232946-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-116232946",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:30.414Z",
-      "sourceDate": "2025-08-12T08:34:39.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/116232946",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-743999659489800-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999659489800",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:30.434Z",
-      "sourceDate": "2025-08-12T08:30:40.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659489800",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-108734797-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-108734797",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:30.449Z",
-      "sourceDate": "2025-08-12T04:14:00.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-743999655720227-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-743999655720227",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:30.462Z",
-      "sourceDate": "2025-08-12T04:11:49.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-92300060-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-92300060",
-      "company": "AG Technologies",
-      "title": "Training & Placement on Informatica/ Microstrategy",
-      "postedToDiscord": "2026-01-17T02:37:33.933Z",
-      "sourceDate": "2025-08-12T08:37:26.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/92300060",
-      "discordThreadId": "1461912288520044817",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-agtechnologies1-103631768-2026-01-17-1",
-      "jobId": "jobs-smartrecruiters-com-agtechnologies1-103631768",
-      "company": "AG Technologies",
-      "title": "Software Engineer Position",
-      "postedToDiscord": "2026-01-17T02:37:37.795Z",
-      "sourceDate": "2025-08-12T07:03:43.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103631768",
-      "discordThreadId": "1461912303191724225",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-peraton-icims-com-jobs-158789-software-engineering-2c-associate-job-2026-01-17-1",
-      "jobId": "careers-peraton-icims-com-jobs-158789-software-engineering-2c-associate-job",
-      "company": "Peraton",
-      "title": "Software Engineering, Associate",
-      "postedToDiscord": "2026-01-17T02:37:41.879Z",
-      "sourceDate": "2025-08-09T14:04:31.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
-      "discordThreadId": "1461912319691985100",
-      "instanceNumber": 1
-    },
-    {
-      "id": "moog-wd5-myworkdayjobs-com-en-us-moog_external_career_site-job-torrance-ca-eng-assc_r-25-13250-2026-01-17-1",
-      "jobId": "moog-wd5-myworkdayjobs-com-en-us-moog_external_career_site-job-torrance-ca-eng-assc_r-25-13250",
-      "company": "Moog",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:45.316Z",
-      "sourceDate": "2025-08-09T13:59:00.000Z",
-      "sourceUrl": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
-      "discordThreadId": "1461912336238514217",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bmo-wd3-myworkdayjobs-com-en-us-external-job-chicago-il-usa-software-engineer-new-or-recent-graduate-_r250019232-2026-01-17-1",
-      "jobId": "bmo-wd3-myworkdayjobs-com-en-us-external-job-chicago-il-usa-software-engineer-new-or-recent-graduate-_r250019232",
-      "company": "BMO",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-17T02:37:49.272Z",
-      "sourceDate": "2025-08-09T13:53:18.000Z",
-      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
-      "discordThreadId": "1461912351115706536",
-      "instanceNumber": 1
-    },
     {
       "id": "lifeattiktok-com-search-7532626482364909842-2026-01-17-1",
       "jobId": "lifeattiktok-com-search-7532626482364909842",
@@ -39090,9 +38925,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464447852875874522",
+          "messageId": "1464458044904833351",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:32:56.495Z",
+          "postedAt": "2026-01-24T03:13:26.408Z",
           "channelJobNumber": 465
         }
       },
@@ -39108,9 +38943,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464447860647919819",
+          "messageId": "1464458052383277221",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:32:58.173Z",
+          "postedAt": "2026-01-24T03:13:28.179Z",
           "channelJobNumber": 465
         },
         "1462989305181114450": {
@@ -39131,15 +38966,15 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464447867774046271",
+          "messageId": "1464458059643490501",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:32:59.944Z",
+          "postedAt": "2026-01-24T03:13:29.880Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464447875000827924",
+          "messageId": "1464458067331518475",
           "channelType": "location",
-          "postedAt": "2026-01-24T02:33:01.591Z",
+          "postedAt": "2026-01-24T03:13:31.826Z",
           "channelJobNumber": 184
         }
       },
@@ -39155,9 +38990,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464447882055778489",
+          "messageId": "1464458074852163617",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:33:03.349Z",
+          "postedAt": "2026-01-24T03:13:33.580Z",
           "channelJobNumber": 465
         }
       },
@@ -39173,15 +39008,15 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464447889324376270",
+          "messageId": "1464458082531938548",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:33:05.133Z",
+          "postedAt": "2026-01-24T03:13:35.339Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464447897100877826",
+          "messageId": "1464458089687154886",
           "channelType": "location",
-          "postedAt": "2026-01-24T02:33:07.042Z",
+          "postedAt": "2026-01-24T03:13:37.121Z",
           "channelJobNumber": 184
         }
       },
@@ -39197,9 +39032,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464447917724139723",
+          "messageId": "1464458110260351158",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:33:11.784Z",
+          "postedAt": "2026-01-24T03:13:41.926Z",
           "channelJobNumber": 227
         }
       },
@@ -39215,9 +39050,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464447924686553159",
+          "messageId": "1464458117671813183",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:33:13.474Z",
+          "postedAt": "2026-01-24T03:13:43.798Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -39238,9 +39073,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464447931477131277",
+          "messageId": "1464458125439402004",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:33:15.163Z",
+          "postedAt": "2026-01-24T03:13:45.542Z",
           "channelJobNumber": 227
         }
       },
@@ -39256,9 +39091,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464447938838134845",
+          "messageId": "1464458132737757319",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:33:16.808Z",
+          "postedAt": "2026-01-24T03:13:47.255Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -39296,9 +39131,9 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464447958060896463",
+          "messageId": "1464458152597782592",
           "channelType": "category",
-          "postedAt": "2026-01-24T02:33:21.488Z",
+          "postedAt": "2026-01-24T03:13:52.068Z",
           "channelJobNumber": 66
         }
       },
@@ -39306,11 +39141,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 2852,
+    "totalJobs": 2837,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-24T02:33:21.488Z",
+      "date": "2026-01-24T03:13:52.068Z",
       "archived": 0
     }
   }
