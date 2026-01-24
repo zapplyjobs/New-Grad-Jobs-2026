@@ -1,0 +1,3 @@
+{"timestamp":"2026-01-22T23:09:13.631Z","type":"queue","queue_size":50,"pending_count":45,"enriched_count":5,"posted_count":0,"duplicate_count":2,"stale_pending_count":0,"duplicate_ratio":0.04}
+{"timestamp":"2026-01-22T23:09:50.275Z","type":"queue","queue_size":2775,"pending_count":2755,"enriched_count":20,"posted_count":0,"duplicate_count":141,"stale_pending_count":547,"duplicate_ratio":0.051}
+{"timestamp":"2026-01-22T23:24:07.456Z","type":"queue","queue_size":2768,"pending_count":2752,"enriched_count":16,"posted_count":0,"duplicate_count":145,"stale_pending_count":544,"duplicate_ratio":0.052}
