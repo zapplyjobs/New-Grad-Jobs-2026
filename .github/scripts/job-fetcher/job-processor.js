@@ -901,7 +901,7 @@ async function processJobs() {
         }
 
         // STEP 5: Select batch from queue (FIFO - oldest first)
-        const BATCH_SIZE = 20; // Process max 20 jobs per run (increased from 10 - queue bloat fixed)
+        const BATCH_SIZE = 50; // Process max 50 jobs per run (increased from 20 to handle higher throughput)
         const pendingItems = queue.filter(item => item.status === 'pending' || item.status === 'enriched');
         const batch = pendingItems.slice(0, BATCH_SIZE);
 
