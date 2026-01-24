@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T05:16:34.164Z",
+  "lastUpdated": "2026-01-24T05:31:11.448Z",
   "jobs": [
-    {
-      "id": "lifeattiktok-com-search-7532666812300855570-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7532666812300855570",
-      "company": "TikTok",
-      "title": "Graduate Machine Learning Engineer - Multiple Teams",
-      "postedToDiscord": "2026-01-17T05:26:49.782Z",
-      "sourceDate": "2025-08-08T02:53:06.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7532666812300855570",
-      "discordThreadId": "1461954884961173505",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7532011065635588370-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7532011065635588370",
-      "company": "TikTok",
-      "title": "Graduate Machine Learning Engineer - Search Ads Technology",
-      "postedToDiscord": "2026-01-17T05:26:49.803Z",
-      "sourceDate": "2025-08-07T08:17:30.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7532011065635588370",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7532662241029802248-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7532662241029802248",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate - Ads Targeting",
-      "postedToDiscord": "2026-01-17T05:26:53.236Z",
-      "sourceDate": "2025-08-07T16:05:58.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7532662241029802248",
-      "discordThreadId": "1461954899968266373",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7532182374135040263-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7532182374135040263",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate Local Services - PhD",
-      "postedToDiscord": "2026-01-17T05:26:56.611Z",
-      "sourceDate": "2025-08-07T08:20:03.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7532182374135040263",
-      "discordThreadId": "1461954914254196766",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bostonscientific-eightfold-ai-careers-job-563602803067367-2026-01-17-1",
-      "jobId": "bostonscientific-eightfold-ai-careers-job-563602803067367",
-      "company": "Boston Scientific",
-      "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
-      "postedToDiscord": "2026-01-17T05:27:03.056Z",
-      "sourceDate": "2025-08-08T01:47:23.000Z",
-      "sourceUrl": "https://bostonscientific.eightfold.ai/careers/job/563602803067367",
-      "discordThreadId": "1461954940456145065",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7530765471130683666-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7530765471130683666",
-      "company": "TikTok",
-      "title": "Graduate Engineer - AI Safety",
-      "postedToDiscord": "2026-01-17T05:27:06.435Z",
-      "sourceDate": "2025-08-07T17:55:15.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7530765471130683666",
-      "discordThreadId": "1461954955110912063",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7530765470187866386-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7530765470187866386",
-      "company": "TikTok",
-      "title": "Graduate Engineer",
-      "postedToDiscord": "2026-01-17T05:27:06.451Z",
-      "sourceDate": "2025-08-07T08:17:26.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7530765470187866386",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7521990854808127762-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7521990854808127762",
-      "company": "TikTok",
-      "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
-      "postedToDiscord": "2026-01-17T05:27:10.016Z",
-      "sourceDate": "2025-08-07T08:20:06.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7521990854808127762",
-      "discordThreadId": "1461954969749164144",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7533284791178414343-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7533284791178414343",
-      "company": "TikTok",
-      "title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
-      "postedToDiscord": "2026-01-17T05:27:13.426Z",
-      "sourceDate": "2025-08-07T08:19:50.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7533284791178414343",
-      "discordThreadId": "1461954984093421675",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7533292448483920136-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7533292448483920136",
-      "company": "TikTok",
-      "title": "Data Engineer Graduate - E-commerce",
-      "postedToDiscord": "2026-01-17T05:27:19.837Z",
-      "sourceDate": "2025-08-07T17:55:11.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7533292448483920136",
-      "discordThreadId": "1461955011524169821",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7533029768360724744-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7533029768360724744",
-      "company": "TikTok",
-      "title": "Data Scientist Graduate - Tiktok-Product-Data Science - 2026 Start','PhD",
-      "postedToDiscord": "2026-01-17T05:27:23.568Z",
-      "sourceDate": "2025-08-07T17:43:47.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7533029768360724744",
-      "discordThreadId": "1461955026355228725",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7364146718924163337-2026-01-17-1",
-      "jobId": "lifeattiktok-com-search-7364146718924163337",
-      "company": "TikTok",
-      "title": "Data Scientist Graduate - Product Analytics - BS/MS -> Master of Science",
-      "postedToDiscord": "2026-01-17T05:27:27.102Z",
-      "sourceDate": "2025-08-07T08:19:52.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7364146718924163337",
-      "discordThreadId": "1461955041287077951",
-      "instanceNumber": 1
-    },
     {
       "id": "lifeattiktok-com-search-7515280811014523144-2026-01-17-1",
       "jobId": "lifeattiktok-com-search-7515280811014523144",
@@ -38507,9 +38375,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464488925958639869",
+          "messageId": "1464492604753186962",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:09.003Z",
+          "postedAt": "2026-01-24T05:30:46.069Z",
           "channelJobNumber": 465
         }
       },
@@ -38525,9 +38393,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464488933026172941",
+          "messageId": "1464492612055466046",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:10.673Z",
+          "postedAt": "2026-01-24T05:30:47.803Z",
           "channelJobNumber": 465
         },
         "1462989305181114450": {
@@ -38548,15 +38416,15 @@
       "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464488940101701727",
+          "messageId": "1464492619211079784",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:12.395Z",
+          "postedAt": "2026-01-24T05:30:49.586Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464488947794313216",
+          "messageId": "1464492626484133944",
           "channelType": "location",
-          "postedAt": "2026-01-24T05:16:14.189Z",
+          "postedAt": "2026-01-24T05:30:51.253Z",
           "channelJobNumber": 184
         }
       },
@@ -38572,9 +38440,9 @@
       "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464488955100664003",
+          "messageId": "1464492634104926363",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:15.897Z",
+          "postedAt": "2026-01-24T05:30:53.050Z",
           "channelJobNumber": 465
         }
       },
@@ -38590,15 +38458,15 @@
       "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464488962776105227",
+          "messageId": "1464492641310736406",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:17.757Z",
+          "postedAt": "2026-01-24T05:30:54.733Z",
           "channelJobNumber": 465
         },
         "1462988831530680422": {
-          "messageId": "1464488971051602080",
+          "messageId": "1464492648495579137",
           "channelType": "location",
-          "postedAt": "2026-01-24T05:16:19.678Z",
+          "postedAt": "2026-01-24T05:30:56.619Z",
           "channelJobNumber": 184
         }
       },
@@ -38614,9 +38482,9 @@
       "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464488990756307005",
+          "messageId": "1464492669177823265",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:24.338Z",
+          "postedAt": "2026-01-24T05:31:01.446Z",
           "channelJobNumber": 227
         }
       },
@@ -38632,9 +38500,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464488997614260385",
+          "messageId": "1464492676576448709",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:26.000Z",
+          "postedAt": "2026-01-24T05:31:03.193Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -38655,9 +38523,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464489004639719507",
+          "messageId": "1464492683840983061",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:27.703Z",
+          "postedAt": "2026-01-24T05:31:04.963Z",
           "channelJobNumber": 227
         }
       },
@@ -38673,9 +38541,9 @@
       "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464489011434229812",
+          "messageId": "1464492690942202044",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:29.397Z",
+          "postedAt": "2026-01-24T05:31:06.677Z",
           "channelJobNumber": 227
         },
         "1462989305181114450": {
@@ -38713,9 +38581,9 @@
       "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
       "discordPosts": {
         "1462988721828794531": {
-          "messageId": "1464489031290327166",
+          "messageId": "1464492711301091372",
           "channelType": "category",
-          "postedAt": "2026-01-24T05:16:34.164Z",
+          "postedAt": "2026-01-24T05:31:11.447Z",
           "channelJobNumber": 66
         }
       },
@@ -38723,11 +38591,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 2799,
+    "totalJobs": 2787,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-24T05:16:34.164Z",
+      "date": "2026-01-24T05:31:11.448Z",
       "archived": 0
     }
   }
