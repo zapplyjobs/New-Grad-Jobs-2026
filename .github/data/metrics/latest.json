@@ -1,15 +1,15 @@
 {
-  "generated": "2026-01-24T22:51:20.505Z",
+  "generated": "2026-01-24T22:58:33.212Z",
   "period": "last_7_days",
-  "period_start": "2026-01-17T22:51:20.505Z",
-  "period_end": "2026-01-24T22:51:20.505Z",
+  "period_start": "2026-01-17T22:58:33.212Z",
+  "period_end": "2026-01-24T22:58:33.212Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 6,
+    "filtered_jobs": 3,
     "channels_active": 3
   },
   "by_channel": {
@@ -27,25 +27,25 @@
           "id": "job-boards-greenhouse-io-sonyinteractiveentertainmentglobal-jobs-5727775004",
           "title": "Software Engineer 1",
           "company": "Sony Interactive Entertainment",
-          "posted_at": "2026-01-24T22:50:50.472Z"
+          "posted_at": "2026-01-24T22:58:02.953Z"
         },
         {
           "id": "jobs-intuit-com-job-san-diego-software-engineer-i-data-engineering-27595-90969775248",
           "title": "Software Engineer 1 - Data Engineering",
           "company": "Intuit",
-          "posted_at": "2026-01-24T22:50:52.238Z"
+          "posted_at": "2026-01-24T22:58:04.812Z"
         },
         {
           "id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
           "title": "Head of Azure Partnership",
           "company": "anthropic",
-          "posted_at": "2026-01-24T22:50:54.055Z"
+          "posted_at": "2026-01-24T22:58:06.835Z"
         },
         {
           "id": "sofi-com-careers-job-7595616003",
           "title": "Software Engineer - Loans Platform",
           "company": "SoFi",
-          "posted_at": "2026-01-24T22:50:55.836Z"
+          "posted_at": "2026-01-24T22:58:08.525Z"
         }
       ]
     },
@@ -64,31 +64,31 @@
           "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
           "title": "AI ML Engineer - RTL Power Optimization",
           "company": "NVIDIA",
-          "posted_at": "2026-01-24T22:51:00.545Z"
+          "posted_at": "2026-01-24T22:58:13.319Z"
         },
         {
           "id": "job-boards-greenhouse-io-loop-jobs-5780584004",
           "title": "Graduate Software Engineer - AI",
           "company": "Loop",
-          "posted_at": "2026-01-24T22:51:02.286Z"
+          "posted_at": "2026-01-24T22:58:15.007Z"
         },
         {
           "id": "job-boards-greenhouse-io-loop-jobs-5780582004",
           "title": "2026 New Grad - Software Engineer - Full-Stack",
           "company": "Loop",
-          "posted_at": "2026-01-24T22:51:03.971Z"
+          "posted_at": "2026-01-24T22:58:16.923Z"
         },
         {
           "id": "job-boards-greenhouse-io-gusto-jobs-7522735",
           "title": "AI / Automation & Governance Owner",
           "company": "gusto",
-          "posted_at": "2026-01-24T22:51:05.771Z"
+          "posted_at": "2026-01-24T22:58:18.669Z"
         },
         {
           "id": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
           "title": "Developer Campaign Marketer, Claude Code",
           "company": "anthropic",
-          "posted_at": "2026-01-24T22:51:07.511Z"
+          "posted_at": "2026-01-24T22:58:20.453Z"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "id": "job-boards-greenhouse-io-anthropic-jobs-5059392008",
           "title": "GTM Strategy & Operations, Commercial",
           "company": "anthropic",
-          "posted_at": "2026-01-24T22:51:12.350Z"
+          "posted_at": "2026-01-24T22:58:25.191Z"
         }
       ]
     }
@@ -113,46 +113,25 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-brex-com-careers-8390055002",
-        "title": "Partner Enablement Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-24T22:50:49.775Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8390040002",
-        "title": "Partner Enablement Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-24T22:50:49.775Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8389635002",
-        "title": "Partner Enablement Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-24T22:50:49.775Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5067098008",
-        "title": "Research Engineer, Frontier Red Team (Hardware Lead)",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-24T22:50:49.775Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-7982552002",
-        "title": "Senior Solutions Consultant",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8293251002",
+        "title": "Engineering Manager, AI Platform ",
         "company": "airtable",
         "reason": "blacklisted",
-        "timestamp": "2026-01-24T22:50:49.775Z"
+        "timestamp": "2026-01-24T22:58:02.375Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8009894002",
-        "title": "Lead Solutions Consultant",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8385135002",
+        "title": "Engineering Manager, AI Product",
         "company": "airtable",
         "reason": "blacklisted",
-        "timestamp": "2026-01-24T22:50:49.775Z"
+        "timestamp": "2026-01-24T22:58:02.375Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7272738",
+        "title": "Benefits Customer Onboarding Manager",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-24T22:58:02.375Z"
       }
     ],
     "already_posted": [],
