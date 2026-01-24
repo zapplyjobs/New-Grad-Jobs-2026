@@ -20,6 +20,14 @@ const JOB_BLACKLIST = [
   { title: 'lead', company: '' },
   { title: 'manager', company: '' },
   { title: 'director', company: '' },
+  { title: 'staff', company: '' }, // Staff engineer = mid/senior level
+
+  // Academic/research roles (not new grad)
+  { title: 'postdoc', company: '' },
+  { title: 'postdoctoral', company: '' },
+  { title: 'post-doctoral', company: '' },
+  { title: 'phd required', company: '' },
+  { title: 'doctoral degree required', company: '' },
 
   // Specific problematic postings
   { title: 'agentic ai teacher', company: 'amazon' } // All variations including "- Agi Ds"
