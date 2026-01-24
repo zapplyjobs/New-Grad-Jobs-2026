@@ -266,10 +266,14 @@ class PostedJobsManagerV2 {
       jobRecord.discordPosts = {};
     }
 
+    // Calculate channel job number
+    const channelJobNumber = this.getChannelJobNumber(channelId);
+
     jobRecord.discordPosts[channelId] = {
       messageId: messageId,
       channelType: channelType,
-      postedAt: now
+      postedAt: now,
+      channelJobNumber: channelJobNumber
     };
 
     this.data.lastUpdated = now;
@@ -303,6 +307,50 @@ class PostedJobsManagerV2 {
 
     // Check if posted to this specific channel
     return !!(jobRecord.discordPosts && jobRecord.discordPosts[channelId]);
+  }
+
+  /**
+   * Get the next job number for a specific channel (NEW for job numbering)
+   * Counts all jobs posted to this channel across all job records
+   *
+   * @param {string} channelId - Discord channel ID
+   * @returns {number} - Next job number for this channel
+   */
+  getChannelJobNumber(channelId) {
+    // Count all existing posts to this channel (including archived)
+    let count = 0;
+
+    // Count from active jobs
+    for (const job of this.data.jobs) {
+      if (job.discordPosts && job.discordPosts[channelId]) {
+        count++;
+      }
+    }
+
+    // Also check archives to get accurate historical count
+    if (fs.existsSync(this.archiveDir)) {
+      const archiveFiles = fs.readdirSync(this.archiveDir);
+      for (const file of archiveFiles) {
+        if (file.endsWith('.json')) {
+          try {
+            const archivePath = path.join(this.archiveDir, file);
+            const archiveJobs = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
+            if (Array.isArray(archiveJobs)) {
+              for (const job of archiveJobs) {
+                if (job.discordPosts && job.discordPosts[channelId]) {
+                  count++;
+                }
+              }
+            }
+          } catch (error) {
+            console.error(`⚠️  Error reading archive ${file}:`, error.message);
+          }
+        }
+      }
+    }
+
+    // Return next number (count + 1)
+    return count + 1;
   }
 
   /**

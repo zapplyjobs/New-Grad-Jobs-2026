@@ -111,9 +111,10 @@ function generateTags(job) {
 /**
  * Build Discord embed for a job posting
  * @param {Object} job - Job object
+ * @param {Object} options - Optional metadata { channelName, channelJobNumber }
  * @returns {EmbedBuilder} Discord embed
  */
-function buildJobEmbed(job) {
+function buildJobEmbed(job, options = {}) {
   const tags = generateTags(job);
   const company = companies.faang_plus.find(c => c.name === job.employer_name) ||
                   companies.unicorn_startups.find(c => c.name === job.employer_name) ||
@@ -125,6 +126,30 @@ function buildJobEmbed(job) {
   // Build title - only use company emoji if company is found
   // Note: Don't include emoji in title for forum posts as Discord handles it differently
   const title = job.job_title;
+
+  // Determine posted date display (show both Discord and Company dates if different)
+  const now = new Date();
+  const companyDate = job.job_posted_at_datetime_utc ? new Date(job.job_posted_at_datetime_utc) : null;
+  const daysDifference = companyDate ? Math.floor((now - companyDate) / (1000 * 60 * 60 * 24)) : 0;
+
+  let postedValue;
+  if (daysDifference > 7 && companyDate) {
+    // Show both dates when >7 days apart
+    const discordDateStr = now.toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric'
+    });
+    const companyDateStr = companyDate.toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric'
+    });
+    postedValue = `Discord: ${discordDateStr}\nCompany: ${companyDateStr}`;
+  } else {
+    // Show single date if recent or no company date
+    postedValue = formatPostedDate(job.job_posted_at_datetime_utc);
+  }
 
   const embed = new EmbedBuilder()
     .setTitle(title)
@@ -141,7 +166,7 @@ function buildJobEmbed(job) {
             : `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`,
         inline: true
       },
-      { name: '💰 Posted', value: formatPostedDate(job.job_posted_at_datetime_utc), inline: true }
+      { name: '💰 Posted', value: postedValue, inline: true }
     );
 
   // Add tags field with hashtag formatting
@@ -150,6 +175,18 @@ function buildJobEmbed(job) {
       name: '🏷️ Tags',
       value: tags.map(tag => `#${tag}`).join(' '),
       inline: false
+    });
+  }
+
+  // Add footer with job number if channel info provided
+  if (options.channelName && options.channelJobNumber) {
+    const postedDate = new Date().toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
+    });
+    embed.setFooter({
+      text: `Job #${options.channelJobNumber} in #${options.channelName} | Posted: ${postedDate}`
     });
   }
 
@@ -273,13 +310,20 @@ function buildJobMessage(job) {
  * Post a job to a Discord text channel (NEW for text messages)
  * @param {Object} job - Job object from API
  * @param {Object} channel - Discord channel object
+ * @param {Object} options - Optional metadata { channelJobNumber }
  * @returns {Promise<Object>} Result object with success status and message ID
  */
-async function postJobToChannel(job, channel) {
+async function postJobToChannel(job, channel, options = {}) {
   return discordApiCall(
     async () => {
       const jobId = generateJobId(job);
-      const embed = buildJobEmbed(job);
+
+      // Build embed with channel info if provided
+      const embedOptions = {
+        channelName: channel.name,
+        channelJobNumber: options.channelJobNumber
+      };
+      const embed = buildJobEmbed(job, embedOptions);
       const actionRow = buildActionRow(job);
 
       // Build message data (embed only, no text content)

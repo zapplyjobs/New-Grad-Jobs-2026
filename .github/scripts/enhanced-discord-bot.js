@@ -528,7 +528,11 @@ client.once('ready', async () => {
 
         // INDUSTRY POST: Post to industry channel (NEW: text messages with multi-channel tracking)
         const industryStartTime = Date.now();
-        const industryResult = await postJobToChannel(job, channel);
+
+        // Get channel job number before posting
+        const channelJobNumber = postedJobsManager.getChannelJobNumber(channelId);
+
+        const industryResult = await postJobToChannel(job, channel, { channelJobNumber });
         const industryDuration = Date.now() - industryStartTime;
 
         if (industryResult.success) {
@@ -605,7 +609,11 @@ client.once('ready', async () => {
             if (locationChannel) {
               try {
                 const locationStartTime = Date.now();
-                const locationResult = await postJobToChannel(job, locationChannel);
+
+                // Get channel job number for location channel
+                const locationChannelJobNumber = postedJobsManager.getChannelJobNumber(locationChannelId);
+
+                const locationResult = await postJobToChannel(job, locationChannel, { channelJobNumber: locationChannelJobNumber });
                 const locationDuration = Date.now() - locationStartTime;
 
                 if (locationResult.success) {
