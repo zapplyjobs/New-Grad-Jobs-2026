@@ -227,6 +227,25 @@ client.once('ready', async () => {
       console.log(`✅ Guild found: ${guild.name}`);
       await guild.channels.fetch();
       console.log(`✅ Loaded ${guild.channels.cache.size} channels from guild`);
+
+      // Validate all required channels exist
+      console.log('\n🔍 Validating Discord channels...');
+      const channelValidation = await validateChannels(guild);
+      if (!channelValidation.valid) {
+        console.error('[BOT ERROR] ❌ Channel validation failed:');
+        console.error(`   Missing channels: ${channelValidation.missing.length}`);
+        channelValidation.missing.forEach(ch => console.error(`   - ${ch}`));
+
+        if (channelValidation.accessible.length > 0) {
+          console.log(`\n✅ Accessible channels (${channelValidation.accessible.length}):`);
+          channelValidation.accessible.forEach(ch => console.log(`   - ${ch}`));
+        }
+
+        console.error('\n⚠️ Bot will attempt to post to accessible channels only');
+        console.error('   Jobs requiring missing channels will be skipped');
+      } else {
+        console.log(`✅ All required channels accessible (${channelValidation.accessible.length})`);
+      }
     } catch (error) {
       console.error(`❌ Failed to fetch guild channels: ${error.message}`);
       console.error(`   Error code: ${error.code}`);
@@ -234,6 +253,56 @@ client.once('ready', async () => {
     }
   } else {
     console.warn(`⚠️ DISCORD_GUILD_ID not set`);
+  }
+
+  /**
+   * Validate that all required Discord channels are accessible
+   * @param {Guild} guild - Discord guild object
+   * @returns {Object} Validation result with lists of accessible/missing channels
+   */
+  async function validateChannels(guild) {
+    const requiredChannels = new Set();
+
+    // Collect all channel names from config
+    if (MULTI_CHANNEL_MODE) {
+      Object.values(CHANNEL_CONFIG).forEach(ch => {
+        if (ch.channelName) requiredChannels.add(ch.channelName);
+      });
+    }
+
+    if (LOCATION_MODE_ENABLED) {
+      Object.values(LOCATION_CHANNEL_CONFIG).forEach(ch => {
+        if (ch.channelName) requiredChannels.add(ch.channelName);
+      });
+    }
+
+    // Also check legacy single channel if set
+    if (LEGACY_CHANNEL_ID) {
+      const legacyChannel = await client.channels.fetch(LEGACY_CHANNEL_ID).catch(() => null);
+      if (!legacyChannel) {
+        requiredChannels.add('legacy-channel-id');
+      }
+    }
+
+    const accessible = [];
+    const missing = [];
+
+    // Validate each channel
+    for (const channelName of requiredChannels) {
+      const channel = guild.channels.cache.find(ch => ch.name === channelName);
+      if (channel) {
+        accessible.push(channelName);
+      } else {
+        missing.push(channelName);
+      }
+    }
+
+    return {
+      valid: missing.length === 0,
+      accessible,
+      missing,
+      total: requiredChannels.size
+    };
   }
 
   // Only register commands if running interactively (not in GitHub Actions)
