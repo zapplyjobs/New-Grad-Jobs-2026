@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T15:45:02.555Z",
+  "lastUpdated": "2026-01-24T15:55:16.223Z",
   "jobs": [
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4980530008-2026-01-17-1",
@@ -15530,10 +15530,10 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464646556597879004",
+          "messageId": "1464649664883327040",
           "channelType": "category",
-          "postedAt": "2026-01-24T15:42:31.076Z",
-          "channelJobNumber": 465
+          "postedAt": "2026-01-24T15:54:52.238Z",
+          "channelJobNumber": 174
         },
         "1462989305181114450": {
           "messageId": "1464013072334061688",
@@ -15542,14 +15542,188 @@
         }
       },
       "instanceNumber": 1
+    },
+    {
+      "id": "2d7774b91bcf8821-2026-01-24-1",
+      "jobId": "2d7774b91bcf8821",
+      "company": "Strata Decision Technology",
+      "title": "Analyst – Data Integration",
+      "postedToDiscord": "2026-01-24T15:54:50.363Z",
+      "sourceDate": "2025-12-01T06:03:18.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1464649657216008336",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:54:50.363Z",
+          "channelJobNumber": 173
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "f4f442f9cac04952-2026-01-24-1",
+      "jobId": "f4f442f9cac04952",
+      "company": "Morgan Stanley",
+      "title": "Java Developer - Associate",
+      "postedToDiscord": "2026-01-24T15:54:53.944Z",
+      "sourceDate": "2025-11-30T23:43:45.000Z",
+      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1464649672617496748",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:54:53.944Z",
+          "channelJobNumber": 174
+        },
+        "1462988831530680422": {
+          "messageId": "1464649679919911172",
+          "channelType": "location",
+          "postedAt": "2026-01-24T15:54:55.792Z",
+          "channelJobNumber": 43
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "bc0a20b10663c94f-2026-01-24-1",
+      "jobId": "bc0a20b10663c94f",
+      "company": "Magna",
+      "title": "Software Engineer 1 - Thermal Camera",
+      "postedToDiscord": "2026-01-24T15:54:57.497Z",
+      "sourceDate": "2025-11-30T20:42:53.000Z",
+      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1464649687515529317",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:54:57.497Z",
+          "channelJobNumber": 175
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "c8357eb905fbf4c2-2026-01-24-1",
+      "jobId": "c8357eb905fbf4c2",
+      "company": "Affirm",
+      "title": "Software Engineer – Early Career",
+      "postedToDiscord": "2026-01-24T15:54:59.688Z",
+      "sourceDate": "2025-11-30T20:12:03.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1464649695954600172",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:54:59.688Z",
+          "channelJobNumber": 176
+        },
+        "1462988831530680422": {
+          "messageId": "1464649703823245353",
+          "channelType": "location",
+          "postedAt": "2026-01-24T15:55:01.336Z",
+          "channelJobNumber": 44
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "fb3aa13843322bcc-2026-01-24-1",
+      "jobId": "fb3aa13843322bcc",
+      "company": "Texas A&M University - Corpus Christi",
+      "title": "Postdoctoral Research Associate",
+      "postedToDiscord": "2026-01-24T15:55:06.059Z",
+      "sourceDate": "2025-11-30T17:06:45.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1464649723515244566",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:55:06.059Z",
+          "channelJobNumber": 83
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "d9dcadbd1806b987-2026-01-24-1",
+      "jobId": "d9dcadbd1806b987",
+      "company": "Citi",
+      "title": "Technology - Application Development",
+      "postedToDiscord": "2026-01-24T15:55:07.801Z",
+      "sourceDate": "2025-12-01T05:14:10.000Z",
+      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1464649730641629216",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:55:07.801Z",
+          "channelJobNumber": 84
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "39b0f6bb80eda677-2026-01-24-1",
+      "jobId": "39b0f6bb80eda677",
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineer – New College Grad - Public Sector",
+      "postedToDiscord": "2026-01-24T15:55:09.482Z",
+      "sourceDate": "2025-12-01T05:10:31.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1464649737834856519",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:55:09.482Z",
+          "channelJobNumber": 85
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "baaa80f457de33f1-2026-01-24-1",
+      "jobId": "baaa80f457de33f1",
+      "company": "Citi",
+      "title": "Technology - Application Development - Full Time Analyst",
+      "postedToDiscord": "2026-01-24T15:55:11.299Z",
+      "sourceDate": "2025-11-30T20:44:45.000Z",
+      "sourceUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1464649744671310121",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:55:11.299Z",
+          "channelJobNumber": 86
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "1515e2d31bd8a292-2026-01-24-1",
+      "jobId": "1515e2d31bd8a292",
+      "company": "University of Southern California",
+      "title": "Postdoctoral Scholar Research Associate",
+      "postedToDiscord": "2026-01-24T15:55:16.222Z",
+      "sourceDate": "2025-11-30T07:08:19.000Z",
+      "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1464649765659742454",
+          "channelType": "category",
+          "postedAt": "2026-01-24T15:55:16.222Z",
+          "channelJobNumber": 21
+        }
+      },
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2652,
+    "totalJobs": 1166,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-24T15:42:55.044Z",
+      "date": "2026-01-24T15:55:16.223Z",
       "archived": 0
     }
   }
