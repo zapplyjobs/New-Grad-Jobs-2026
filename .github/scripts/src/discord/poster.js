@@ -310,18 +310,26 @@ function buildJobMessage(job) {
  * Check if job already posted to Discord channel (anti-duplicate defense)
  * @param {Object} job - Job object
  * @param {Object} channel - Discord channel
- * @returns {Promise<boolean>} True if already posted
+ * @returns {Promise<boolean>} True if already posted recently
  */
 async function isJobAlreadyPostedToChannel(job, channel) {
   try {
-    // Fetch recent messages (last 100, covers ~7-10 workflow runs at 15 jobs/run)
-    const messages = await channel.messages.fetch({ limit: 100 });
+    // Fetch recent messages (last 50, covers ~3-5 workflow runs)
+    const messages = await channel.messages.fetch({ limit: 50 });
 
     // Search for matching job title + company in embeds
     const jobTitle = job.job_title;
     const company = job.employer_name;
 
+    // Time window: only skip if posted within last 2 hours
+    const twoHoursAgo = Date.now() - (2 * 60 * 60 * 1000);
+
     for (const message of messages.values()) {
+      // Skip messages older than 2 hours
+      if (message.createdTimestamp < twoHoursAgo) {
+        continue;
+      }
+
       if (message.embeds && message.embeds.length > 0) {
         const embed = message.embeds[0];
         // Check if embed title matches (format: "Job Title")
@@ -329,7 +337,9 @@ async function isJobAlreadyPostedToChannel(job, channel) {
           // Verify company field matches
           const companyField = embed.fields.find(f => f.name === '🏢 Company');
           if (companyField && companyField.value === company) {
-            return true; // Exact match found
+            const ageMinutes = Math.floor((Date.now() - message.createdTimestamp) / (1000 * 60));
+            console.log(`   ⏱️  Found duplicate posted ${ageMinutes}m ago`);
+            return true; // Exact match found within time window
           }
         }
       }

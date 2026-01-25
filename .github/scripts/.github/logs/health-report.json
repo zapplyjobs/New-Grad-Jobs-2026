@@ -1,0 +1,66 @@
+{
+  "timestamp": "2026-01-23T00:39:39.321Z",
+  "status": "healthy",
+  "issues": [],
+  "warnings": [
+    {
+      "severity": "warning",
+      "component": "deduplication",
+      "message": "No fetch summary found - cannot check deduplication rate"
+    },
+    {
+      "severity": "warning",
+      "component": "seen-jobs",
+      "message": "seen_jobs.json not found or corrupt"
+    },
+    {
+      "severity": "warning",
+      "component": "queue",
+      "message": "pending_posts.json not found or invalid format"
+    },
+    {
+      "severity": "warning",
+      "component": "discord-bot",
+      "message": "posted_jobs.json not found"
+    }
+  ],
+  "metrics": {
+    "file_sizes": {}
+  },
+  "remediation": {
+    "timestamp": "2026-01-23T00:39:39.325Z",
+    "summary": {
+      "remediated": 0,
+      "detected": 0,
+      "errors": 0
+    },
+    "runbooks": [
+      {
+        "runbook": "queue-duplicates",
+        "status": "skipped",
+        "reason": "No queue file found"
+      },
+      {
+        "runbook": "database-capacity",
+        "status": "skipped",
+        "reason": "No seen_jobs.json found"
+      },
+      {
+        "runbook": "v1-v2-migration",
+        "status": "skipped",
+        "reason": "No posted_jobs.json found"
+      },
+      {
+        "runbook": "rate-limit-recovery",
+        "status": "healthy",
+        "message": "No rate limit issues detected",
+        "note": "Full implementation pending - needs Discord API rate limit tracking"
+      },
+      {
+        "runbook": "stale-jobs-cleanup",
+        "status": "skipped",
+        "reason": "No queue file found"
+      }
+    ]
+  }
+}
