@@ -229,9 +229,10 @@ class PostedJobsManagerV2 {
    * @param {string} messageId - Discord message ID
    * @param {string} channelId - Discord channel ID
    * @param {string} channelType - Channel type ('category' or 'location')
+   * @param {number} channelJobNumber - Optional: Pre-calculated job number for this channel
    * @returns {boolean} - Success status
    */
-  markAsPostedToChannel(jobData, messageId, channelId, channelType) {
+  markAsPostedToChannel(jobData, messageId, channelId, channelType, channelJobNumber = null) {
     const now = new Date().toISOString();
     const jobId = this.generateJobId(jobData);
 
@@ -268,14 +269,16 @@ class PostedJobsManagerV2 {
       jobRecord.discordPosts = {};
     }
 
-    // Calculate channel job number
-    const channelJobNumber = this.getChannelJobNumber(channelId);
+    // Use provided counter or calculate new one (prevents duplicate counters in same batch)
+    const finalChannelJobNumber = channelJobNumber !== null
+      ? channelJobNumber
+      : this.getChannelJobNumber(channelId);
 
     jobRecord.discordPosts[channelId] = {
       messageId: messageId,
       channelType: channelType,
       postedAt: now,
-      channelJobNumber: channelJobNumber
+      channelJobNumber: finalChannelJobNumber
     };
 
     this.data.lastUpdated = now;

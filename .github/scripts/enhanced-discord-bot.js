@@ -616,7 +616,8 @@ client.once('ready', async () => {
             job,
             industryResult.messageId,
             industryResult.channelId,
-            'category'
+            'category',
+            channelJobNumber  // Pass the counter we already calculated
           );
 
           // Log successful post
@@ -695,7 +696,8 @@ client.once('ready', async () => {
                     job,
                     locationResult.messageId,
                     locationResult.channelId,
-                    'location'
+                    'location',
+                    locationChannelJobNumber  // Pass the counter we already calculated
                   );
 
                   // Log successful location post

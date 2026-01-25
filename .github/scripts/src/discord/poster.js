@@ -30,16 +30,8 @@ function generateTags(job) {
   const description = (job.job_description || '').toLowerCase();
   const company = job.employer_name;
 
-  // Experience level tags (INTERNSHIPS REPO - default to Intern, not MidLevel)
-  if (title.includes('intern') || title.includes('internship') || title.includes('co-op') || title.includes('coop')) {
-    tags.push('Intern');
-  } else if (title.includes('senior') || title.includes('sr.') || title.includes('staff') || title.includes('principal')) {
-    tags.push('Senior');
-  } else if (title.includes('junior') || title.includes('jr.') || title.includes('entry') ||
-             title.includes('new grad') || title.includes('graduate')) {
-    tags.push('EntryLevel');
-  }
-  // Don't add any level tag if none match (better than wrong MidLevel tag)
+  // Skip experience level tags entirely - they're redundant in role-specific channels
+  // (Internships channel = all internships, New-Grad channel = all new-grad, etc.)
 
   // Location tags
   if (description.includes('remote') || title.includes('remote') ||
@@ -131,8 +123,29 @@ function buildJobEmbed(job, options = {}) {
   // Note: Don't include emoji in title for forum posts as Discord handles it differently
   const title = job.job_title;
 
-  // Use company posted date only (simpler, less confusing)
-  const postedValue = formatPostedDate(job.job_posted_at_datetime_utc);
+  // Determine posted date display (show both Discord and Company dates if significantly different)
+  const now = new Date();
+  const companyDate = job.job_posted_at_datetime_utc ? new Date(job.job_posted_at_datetime_utc) : null;
+  const daysDifference = companyDate ? Math.floor((now - companyDate) / (1000 * 60 * 60 * 24)) : 0;
+
+  let postedValue;
+  if (daysDifference > 7 && companyDate) {
+    // Show both dates when >7 days apart (helps users understand job freshness)
+    const discordDateStr = now.toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric'
+    });
+    const companyDateStr = companyDate.toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric'
+    });
+    postedValue = `Discord: ${discordDateStr}\nCompany: ${companyDateStr}`;
+  } else {
+    // Show single date if recent or no company date
+    postedValue = formatPostedDate(job.job_posted_at_datetime_utc);
+  }
 
   const embed = new EmbedBuilder()
     .setTitle(title)
