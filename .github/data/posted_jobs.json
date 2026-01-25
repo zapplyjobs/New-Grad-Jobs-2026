@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T07:13:25.206Z",
+  "lastUpdated": "2026-01-25T07:30:55.135Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5066995008-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5066995008",
-      "company": "anthropic",
-      "title": "Technical Cyber Threat Investigator ",
-      "postedToDiscord": "2026-01-18T07:27:15.186Z",
-      "sourceDate": "2026-01-13T23:58:23-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066995008",
-      "discordThreadId": "1462347576589287498",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-rocketlab-jobs-7587006003-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-rocketlab-jobs-7587006003",
-      "company": "Rocket Lab USA",
-      "title": "Ground Software Engineer 1/2",
-      "postedToDiscord": "2026-01-18T07:27:28.430Z",
-      "sourceDate": "2026-01-13T23:38:10.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7587006003",
-      "discordThreadId": "1462347634277748868",
-      "instanceNumber": 1
-    },
-    {
-      "id": "championx-wd1-myworkdayjobs-com-championx_external-job-usa-tx-midland-regional-application-engineer-i_r00134579-2026-01-18-1",
-      "jobId": "championx-wd1-myworkdayjobs-com-championx_external-job-usa-tx-midland-regional-application-engineer-i_r00134579",
-      "company": "ChampionX",
-      "title": "Application Engineer 1",
-      "postedToDiscord": "2026-01-18T07:27:35.253Z",
-      "sourceDate": "2026-01-14T02:35:13.000Z",
-      "sourceUrl": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA--TX---Midland-Regional/Application-Engineer-I_R00134579",
-      "discordThreadId": "1462347663050670238",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-spacex-jobs-8373117002-2026-01-18-1",
-      "jobId": "boards-greenhouse-io-spacex-jobs-8373117002",
-      "company": "SpaceX",
-      "title": "Software Engineer - Beam Planning - Starlink",
-      "postedToDiscord": "2026-01-18T07:27:38.901Z",
-      "sourceDate": "2026-01-14T02:33:14.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8373117002",
-      "discordThreadId": "1462347677277753405",
-      "instanceNumber": 1
-    },
-    {
-      "id": "thehartford-wd5-myworkdayjobs-com-careers_external-job-chicago-il-consultant-digital-transformation-and-reporting_r2623644-2026-01-18-1",
-      "jobId": "thehartford-wd5-myworkdayjobs-com-careers_external-job-chicago-il-consultant-digital-transformation-and-reporting_r2623644",
-      "company": "The Hartford ",
-      "title": "Consultant - Digital Transformation and Reporting",
-      "postedToDiscord": "2026-01-18T07:27:45.291Z",
-      "sourceDate": "2026-01-13T23:20:45.000Z",
-      "sourceUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Consultant--Digital-Transformation-and-Reporting_R2623644",
-      "discordThreadId": "1462347705111281860",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5061738008-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061738008",
-      "company": "anthropic",
-      "title": "Finance and Strategy, People & Headcount Planning",
-      "postedToDiscord": "2026-01-18T07:27:51.805Z",
-      "sourceDate": "2026-01-13T21:11:03-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061738008",
-      "discordThreadId": "1462347732281987243",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5067003008-2026-01-18-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5067003008",
@@ -14737,9 +14671,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464880733649895552",
+          "messageId": "1464885138977456149",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:03.358Z",
+          "postedAt": "2026-01-25T07:30:33.601Z",
           "channelJobNumber": 181
         }
       },
@@ -14755,9 +14689,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464880741585522810",
+          "messageId": "1464885146514882720",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:05.072Z",
+          "postedAt": "2026-01-25T07:30:35.240Z",
           "channelJobNumber": 181
         }
       },
@@ -14773,9 +14707,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464880748422103142",
+          "messageId": "1464885153405861940",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:06.770Z",
+          "postedAt": "2026-01-25T07:30:36.902Z",
           "channelJobNumber": 181
         }
       },
@@ -14791,9 +14725,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464880755833569386",
+          "messageId": "1464885160511012947",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:08.524Z",
+          "postedAt": "2026-01-25T07:30:38.877Z",
           "channelJobNumber": 181
         }
       },
@@ -14809,9 +14743,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464880776150519991",
+          "messageId": "1464885181088399603",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:13.293Z",
+          "postedAt": "2026-01-25T07:30:43.684Z",
           "channelJobNumber": 92
         }
       },
@@ -14827,9 +14761,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464880783205470304",
+          "messageId": "1464885188915101777",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:15.229Z",
+          "postedAt": "2026-01-25T07:30:45.378Z",
           "channelJobNumber": 92
         }
       },
@@ -14845,9 +14779,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464880791317254312",
+          "messageId": "1464885195965599881",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:16.926Z",
+          "postedAt": "2026-01-25T07:30:47.117Z",
           "channelJobNumber": 92
         }
       },
@@ -14863,9 +14797,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464880798447571101",
+          "messageId": "1464885203162890313",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:18.625Z",
+          "postedAt": "2026-01-25T07:30:48.807Z",
           "channelJobNumber": 92
         }
       },
@@ -14881,9 +14815,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464880805649190993",
+          "messageId": "1464885210100400293",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:20.386Z",
+          "postedAt": "2026-01-25T07:30:50.479Z",
           "channelJobNumber": 92
         }
       },
@@ -14899,9 +14833,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464880825588777015",
+          "messageId": "1464885229931204628",
           "channelType": "category",
-          "postedAt": "2026-01-25T07:13:25.205Z",
+          "postedAt": "2026-01-25T07:30:55.134Z",
           "channelJobNumber": 71
         }
       },
@@ -14909,11 +14843,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1086,
+    "totalJobs": 1080,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T07:13:25.206Z",
+      "date": "2026-01-25T07:30:55.135Z",
       "archived": 0
     }
   }
