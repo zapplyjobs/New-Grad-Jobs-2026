@@ -488,8 +488,18 @@ class PostedJobsManagerV2 {
       // Add/update with memory jobs (newer or more complete data wins)
       let mergeStats = {newJobs: 0, newerJobs: 0, deepMerged: 0, skipped: 0};
 
-      console.log(`💾 DEBUG: About to iterate memory jobs - this.data.jobs.length = ${this.data.jobs.length}`);
-      this.data.jobs.forEach(job => {
+      // CRITICAL FIX: Use for...of instead of forEach to avoid iteration issues
+      // forEach was not executing despite array having elements (suspected prototype/mutation issue)
+      console.log(`💾 DEBUG: About to iterate memory jobs - Array.isArray=${Array.isArray(this.data.jobs)}, length=${this.data.jobs.length}`);
+
+      const memoryJobs = this.data.jobs; // Cache reference
+      for (let i = 0; i < memoryJobs.length; i++) {
+        const job = memoryJobs[i];
+        if (!job || !job.id) {
+          console.warn(`  ⚠️  Skipping invalid job at index ${i}`);
+          continue;
+        }
+
         const existing = mergedJobs.get(job.id);
         if (!existing) {
           // New job only in memory
@@ -518,7 +528,7 @@ class PostedJobsManagerV2 {
           mergeStats.skipped++;
         }
         // else: disk version is newer, keep it (already in map)
-      });
+      }
 
       console.log(`💾 MERGE STATS: ${mergeStats.newJobs} new, ${mergeStats.newerJobs} updated, ${mergeStats.deepMerged} deep-merged, ${mergeStats.skipped} skipped`);
 
