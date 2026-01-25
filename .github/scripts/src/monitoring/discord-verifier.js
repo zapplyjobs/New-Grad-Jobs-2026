@@ -96,35 +96,70 @@ async function verifyDiscordPosts(config) {
     results.summary.totalJobsInDiscord += recentMessages.length;
   }
 
-  // Check for jobs in DB that aren't in Discord
-  const discordJobs = new Set();
-  Object.values(results.channels).forEach(channel => {
-    channel.jobs.forEach(job => {
-      discordJobs.add(`${job.title}||${job.company}`);
-    });
+  // Build map of Discord jobs by channel (for multi-channel verification)
+  const discordJobsByChannel = {};
+  Object.entries(results.channels).forEach(([channelName, channelData]) => {
+    discordJobsByChannel[channelData.channelId] = new Set(
+      channelData.jobs.map(job => `${job.title}||${job.company}`)
+    );
   });
 
+  // Check for jobs in DB that aren't in Discord (per-channel verification)
   const missingJobs = [];
+  const multiChannelIssues = [];
+
   recentJobs.forEach(job => {
     const key = `${job.title}||${job.company}`;
     const hasDiscordPosts = job.discordPosts && Object.keys(job.discordPosts).length > 0;
 
     if (hasDiscordPosts) {
       results.summary.jobsWithDiscordPosts++;
-    }
 
-    if (!discordJobs.has(key)) {
-      missingJobs.push({
-        title: job.title,
-        company: job.company,
-        postedAt: job.postedToDiscord,
-        hasDiscordPostsField: hasDiscordPosts
+      // Verify each channel the job claims to be posted to
+      const expectedChannels = Object.keys(job.discordPosts);
+      const foundChannels = [];
+      const missingChannels = [];
+
+      expectedChannels.forEach(channelId => {
+        if (discordJobsByChannel[channelId]?.has(key)) {
+          foundChannels.push(channelId);
+        } else {
+          missingChannels.push(channelId);
+        }
       });
+
+      // Multi-channel routing verification
+      if (missingChannels.length > 0) {
+        multiChannelIssues.push({
+          title: job.title,
+          company: job.company,
+          postedAt: job.postedToDiscord,
+          expectedChannels: expectedChannels.length,
+          foundChannels: foundChannels.length,
+          missingFromChannels: missingChannels
+        });
+      }
+    } else {
+      // Job has no discordPosts field - check if it exists in ANY channel
+      const foundInAnyChannel = Object.values(discordJobsByChannel).some(
+        channelSet => channelSet.has(key)
+      );
+
+      if (!foundInAnyChannel) {
+        missingJobs.push({
+          title: job.title,
+          company: job.company,
+          postedAt: job.postedToDiscord,
+          hasDiscordPostsField: false
+        });
+      }
     }
   });
 
   results.summary.jobsMissingFromDiscord = missingJobs.length;
+  results.summary.multiChannelIssues = multiChannelIssues.length;
   results.missingJobs = missingJobs;
+  results.multiChannelIssues = multiChannelIssues;
 
   // Check for duplicates in Discord
   const titleCompanyCounts = {};

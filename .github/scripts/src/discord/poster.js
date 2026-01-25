@@ -314,8 +314,9 @@ function buildJobMessage(job) {
  */
 async function isJobAlreadyPostedToChannel(job, channel) {
   try {
-    // Fetch recent messages (last 50, covers ~3-5 workflow runs)
-    const messages = await channel.messages.fetch({ limit: 50 });
+    // Fetch recent messages (last 100, covers ~2 hours of posts at 15 min intervals)
+    // Note: 100 is Discord's max single fetch, covers sufficient window for 2-hour check
+    const messages = await channel.messages.fetch({ limit: 100 });
 
     // Search for matching job title + company in embeds
     const jobTitle = job.job_title;
