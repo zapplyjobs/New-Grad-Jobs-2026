@@ -486,24 +486,40 @@ class PostedJobsManagerV2 {
       });
 
       // Add/update with memory jobs (newer or more complete data wins)
+      let mergeStats = {newJobs: 0, newerJobs: 0, deepMerged: 0, skipped: 0};
+
       this.data.jobs.forEach(job => {
         const existing = mergedJobs.get(job.id);
         if (!existing) {
           // New job only in memory
           mergedJobs.set(job.id, job);
+          mergeStats.newJobs++;
         } else if (new Date(job.postedToDiscord) > new Date(existing.postedToDiscord)) {
           // Memory version is newer - use it
           mergedJobs.set(job.id, job);
+          mergeStats.newerJobs++;
         } else if (new Date(job.postedToDiscord).getTime() === new Date(existing.postedToDiscord).getTime()) {
           // Same timestamp - merge discordPosts (memory has latest channel updates)
           const merged = {...existing};
-          if (job.discordPosts && Object.keys(job.discordPosts).length > 0) {
+          const memoryChannels = job.discordPosts ? Object.keys(job.discordPosts).length : 0;
+          const diskChannels = existing.discordPosts ? Object.keys(existing.discordPosts).length : 0;
+
+          if (job.discordPosts && memoryChannels > 0) {
             merged.discordPosts = {...(existing.discordPosts || {}), ...job.discordPosts};
+            const mergedChannels = Object.keys(merged.discordPosts).length;
+            if (mergedChannels !== diskChannels) {
+              mergeStats.deepMerged++;
+              console.log(`  🔀 Deep merged: ${job.title} @ ${job.company} (disk: ${diskChannels} channels → merged: ${mergedChannels} channels)`);
+            }
           }
           mergedJobs.set(job.id, merged);
+        } else {
+          mergeStats.skipped++;
         }
         // else: disk version is newer, keep it (already in map)
       });
+
+      console.log(`💾 MERGE STATS: ${mergeStats.newJobs} new, ${mergeStats.newerJobs} updated, ${mergeStats.deepMerged} deep-merged, ${mergeStats.skipped} skipped`);
 
       // Update in-memory state with merged data
       this.data.jobs = Array.from(mergedJobs.values());
