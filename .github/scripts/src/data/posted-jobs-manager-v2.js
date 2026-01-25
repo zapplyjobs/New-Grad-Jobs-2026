@@ -488,6 +488,7 @@ class PostedJobsManagerV2 {
       // Add/update with memory jobs (newer or more complete data wins)
       let mergeStats = {newJobs: 0, newerJobs: 0, deepMerged: 0, skipped: 0};
 
+      console.log(`💾 DEBUG: About to iterate memory jobs - this.data.jobs.length = ${this.data.jobs.length}`);
       this.data.jobs.forEach(job => {
         const existing = mergedJobs.get(job.id);
         if (!existing) {
