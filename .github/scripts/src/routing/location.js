@@ -138,24 +138,23 @@ function getJobLocationChannel(job) {
       return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
 
-    // 5. Extended state fallback: ALL other US states → other-usa
-    // This catches PA, OH, FL, CO, etc. BEFORE remote check
-    const usStates = ['al', 'ak', 'az', 'ar', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'ut', 'vt', 'va', 'wv', 'wi', 'wy', 'dc',
-      'alabama', 'alaska', 'arizona', 'arkansas', 'colorado', 'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'michigan', 'minnesota', 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania', 'rhode island', 'south carolina', 'south dakota', 'tennessee', 'utah', 'vermont', 'virginia', 'west virginia', 'wisconsin', 'wyoming', 'district of columbia'];
-
-    if (usStates.includes(state)) {
-      return LOCATION_CHANNEL_CONFIG['other-usa'];
-    }
   }
 
-  // 6. Remote USA fallback (ONLY if no state specified)
-  // This is now the last resort for jobs with no specific location
-  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
-      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
+  // 5. Remote USA - Only if explicitly remote AND US-based
+  // Check for remote indicators in LOCATION fields (job_city, job_state) OR strong remote keywords
+  const isRemoteLocation = city.includes('remote') || state.includes('remote');
+  const hasStrongRemoteKeyword = /\b(remote|work from home|wfh|distributed|anywhere|location independent)\b/.test(combined);
+  const isUSBased = /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined);
+
+  if ((isRemoteLocation || hasStrongRemoteKeyword) && isUSBased) {
     return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
-  // No location data at all - skip location channels
+  // 6. No fallback to other-usa for non-remote US jobs without specific city channels
+  // Jobs from Phoenix, Denver, Miami, etc. will ONLY post to their category channel (tech, finance, etc.)
+  // This prevents unmatched city jobs from cluttering other-usa channel
+  // If a job has no specific location channel match, it returns null and posts only to category channel
+
   return null;
 }
 

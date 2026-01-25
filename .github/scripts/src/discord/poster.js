@@ -33,9 +33,9 @@ function generateTags(job) {
   // Skip experience level tags entirely - they're redundant in role-specific channels
   // (Internships channel = all internships, New-Grad channel = all new-grad, etc.)
 
-  // Location tags
-  if (description.includes('remote') || title.includes('remote') ||
-      (job.job_city && job.job_city.toLowerCase().includes('remote'))) {
+  // Location tags - ONLY tag as Remote if location field explicitly says remote
+  // Don't check description/title as they may mention "remote" in other contexts
+  if (job.job_city && job.job_city.toLowerCase().includes('remote')) {
     tags.push('Remote');
   }
 
