@@ -366,16 +366,19 @@ async function postJobToChannel(job, channel, options = {}) {
       const jobId = generateJobId(job);
 
       // PRE-POST DUPLICATE CHECK (defense against concurrent workflow runs)
-      const alreadyPosted = await isJobAlreadyPostedToChannel(job, channel);
-      if (alreadyPosted) {
-        console.log(`⏭️  [DISCORD SKIP] ${job.job_title} @ ${job.employer_name} already in #${channel.name} (duplicate defense)`);
-        return {
-          success: false,
-          skipped: true,
-          reason: 'already_posted_to_discord',
-          channelId: channel.id
-        };
-      }
+      // TEMPORARILY DISABLED to clear queue after database race condition fix
+      // TODO: Re-enable after queue is cleared (when pending_posts.json < 100 jobs)
+      // const alreadyPosted = await isJobAlreadyPostedToChannel(job, channel);
+      // if (alreadyPosted) {
+      //   console.log(`⏭️  [DISCORD SKIP] ${job.job_title} @ ${job.employer_name} already in #${channel.name} (duplicate defense)`);
+      //   return {
+      //     success: false,
+      //     skipped: true,
+      //     reason: 'already_posted_to_discord',
+      //     channelId: channel.id
+      //   };
+      // }
+      console.log(`⚠️  DUPLICATE CHECK DISABLED - Clearing queue after race condition fix`);
 
       // Build embed with channel info if provided
       const embedOptions = {
