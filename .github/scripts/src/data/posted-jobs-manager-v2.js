@@ -460,6 +460,7 @@ class PostedJobsManagerV2 {
 
   /**
    * Save posted_jobs.json with automatic archiving
+   * CRITICAL: Reloads database before saving to prevent race conditions from concurrent workflow runs
    */
   savePostedJobs() {
     try {
@@ -469,7 +470,32 @@ class PostedJobsManagerV2 {
 
       const now = new Date().toISOString();
 
-      console.log(`💾 BEFORE ARCHIVING: ${this.data.jobs.length} jobs in database`);
+      console.log(`💾 BEFORE MERGE: ${this.data.jobs.length} jobs in memory`);
+
+      // CRITICAL FIX: Reload database to merge concurrent changes
+      // Without this, concurrent workflow runs overwrite each other's updates
+      const diskData = this.loadPostedJobs();
+      console.log(`💾 DISK STATE: ${diskData.jobs.length} jobs on disk`);
+
+      // Merge strategy: Combine jobs from both disk and memory, preferring newer data
+      const mergedJobs = new Map();
+
+      // Add all disk jobs first
+      diskData.jobs.forEach(job => {
+        mergedJobs.set(job.id, job);
+      });
+
+      // Add/update with memory jobs (newer data wins)
+      this.data.jobs.forEach(job => {
+        const existing = mergedJobs.get(job.id);
+        if (!existing || new Date(job.postedToDiscord) >= new Date(existing.postedToDiscord)) {
+          mergedJobs.set(job.id, job);
+        }
+      });
+
+      // Update in-memory state with merged data
+      this.data.jobs = Array.from(mergedJobs.values());
+      console.log(`💾 AFTER MERGE: ${this.data.jobs.length} jobs (merged disk + memory)`);
 
       // Archive old jobs before saving
       const archiveStats = this.archiveOldJobs();
