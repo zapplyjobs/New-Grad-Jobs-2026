@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T06:14:50.387Z",
+  "lastUpdated": "2026-01-25T06:31:49.666Z",
   "jobs": [
-    {
-      "id": "careers-cisco-com-global-en-job-2002877-2026-01-18-1",
-      "jobId": "careers-cisco-com-global-en-job-2002877",
-      "company": "Cisco",
-      "title": "Data Science Analyst 2 - Full Time - United States",
-      "postedToDiscord": "2026-01-18T06:29:00.170Z",
-      "sourceDate": "2026-01-13T23:13:27.000Z",
-      "sourceUrl": "https://careers.cisco.com/global/en/job/2002877",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-esri-com-careers-5018509007-2026-01-18-1",
-      "jobId": "www-esri-com-careers-5018509007",
-      "company": "Esri",
-      "title": "Software Developer 1 - Python API",
-      "postedToDiscord": "2026-01-18T06:29:23.081Z",
-      "sourceDate": "2026-01-13T23:34:52.000Z",
-      "sourceUrl": "https://www.esri.com/careers/5018509007?gh_jid=5018509007",
-      "discordThreadId": "1462333023000199169",
-      "instanceNumber": 1
-    },
     {
       "id": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026741-2026-01-18-1",
       "jobId": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026741",
@@ -14902,9 +14880,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464865993800290470",
+          "messageId": "1464870267472842754",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:28.939Z",
+          "postedAt": "2026-01-25T06:31:28.021Z",
           "channelJobNumber": 181
         }
       },
@@ -14920,9 +14898,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464866001312022579",
+          "messageId": "1464870275677163683",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:30.800Z",
+          "postedAt": "2026-01-25T06:31:29.851Z",
           "channelJobNumber": 181
         }
       },
@@ -14938,9 +14916,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464866008782340318",
+          "messageId": "1464870283121922170",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:32.516Z",
+          "postedAt": "2026-01-25T06:31:31.627Z",
           "channelJobNumber": 181
         }
       },
@@ -14956,9 +14934,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464866016025645157",
+          "messageId": "1464870290655023114",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:34.193Z",
+          "postedAt": "2026-01-25T06:31:33.349Z",
           "channelJobNumber": 181
         }
       },
@@ -14974,9 +14952,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464866035336347712",
+          "messageId": "1464870310196023363",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:38.882Z",
+          "postedAt": "2026-01-25T06:31:38.136Z",
           "channelJobNumber": 92
         }
       },
@@ -14992,9 +14970,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464866042382909547",
+          "messageId": "1464870317800296681",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:40.634Z",
+          "postedAt": "2026-01-25T06:31:39.900Z",
           "channelJobNumber": 92
         }
       },
@@ -15010,9 +14988,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464866050083524807",
+          "messageId": "1464870325123813481",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:42.350Z",
+          "postedAt": "2026-01-25T06:31:41.562Z",
           "channelJobNumber": 92
         }
       },
@@ -15028,9 +15006,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464866057264173058",
+          "messageId": "1464870332165914655",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:44.042Z",
+          "postedAt": "2026-01-25T06:31:43.268Z",
           "channelJobNumber": 92
         }
       },
@@ -15046,9 +15024,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464866064226586677",
+          "messageId": "1464870339229257739",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:45.675Z",
+          "postedAt": "2026-01-25T06:31:44.935Z",
           "channelJobNumber": 92
         }
       },
@@ -15064,9 +15042,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464866083390488763",
+          "messageId": "1464870358996881408",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:14:50.387Z",
+          "postedAt": "2026-01-25T06:31:49.665Z",
           "channelJobNumber": 71
         }
       },
@@ -15074,11 +15052,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1101,
+    "totalJobs": 1099,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T06:14:50.387Z",
+      "date": "2026-01-25T06:31:49.666Z",
       "archived": 0
     }
   }
