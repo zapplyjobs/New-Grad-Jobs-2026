@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T06:31:49.666Z",
+  "lastUpdated": "2026-01-25T06:51:42.766Z",
   "jobs": [
-    {
-      "id": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026741-2026-01-18-1",
-      "jobId": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-software-dev-engineer-i_jr0026741",
-      "company": "Yahoo",
-      "title": "Software Developer 1",
-      "postedToDiscord": "2026-01-18T06:48:02.120Z",
-      "sourceDate": "2026-01-13T23:38:02.000Z",
-      "sourceUrl": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026741",
-      "discordThreadId": "1462337709321486441",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-central-data-platform-engineer-software-dev-engineer-i_jr0026738-1-2026-01-18-1",
-      "jobId": "ouryahoo-wd5-myworkdayjobs-com-en-us-careers-job-united-states-of-america-central-data-platform-engineer-software-dev-engineer-i_jr0026738-1",
-      "company": "Yahoo",
-      "title": "Central Data Platform Engineer - Software Dev Engineer I",
-      "postedToDiscord": "2026-01-18T06:48:03.984Z",
-      "sourceDate": "2026-01-13T23:37:58.000Z",
-      "sourceUrl": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Central-Data-Platform-Engineer---Software-Dev-Engineer-I_JR0026738-1",
-      "discordThreadId": "1462337723905085595",
-      "instanceNumber": 1
-    },
-    {
-      "id": "isnetworld-com-en-about-careers-jobs-2026-01-18-1",
-      "jobId": "isnetworld-com-en-about-careers-jobs",
-      "company": "ISN Software",
-      "title": "Associate Software Developer - Dev Support",
-      "postedToDiscord": "2026-01-18T06:48:07.759Z",
-      "sourceDate": "2026-01-13T23:36:43.000Z",
-      "sourceUrl": "https://isnetworld.com/en/about/careers/jobs?gh_jid=5763677004",
-      "discordThreadId": "1462337732368928873",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-az-chandler-engineer-i-cad-software-development-_r2665-25-2026-01-18-1",
-      "jobId": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-az-chandler-engineer-i-cad-software-development-_r2665-25",
-      "company": "Microchip Technology",
-      "title": "Engineer 1-CAD - Software Development",
-      "postedToDiscord": "2026-01-18T06:48:11.349Z",
-      "sourceDate": "2026-01-13T23:35:49.000Z",
-      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--CAD--Software-Development-_R2665-25",
-      "discordThreadId": "1462337747372085318",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-arizona-unknown-city-solumina-iseries-software-developer-2-3_r10218870-2026-01-18-1",
-      "jobId": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-arizona-unknown-city-solumina-iseries-software-developer-2-3_r10218870",
-      "company": "Northrop Grumman",
-      "title": "Solumina iSeries Software Developer",
-      "postedToDiscord": "2026-01-18T06:48:13.061Z",
-      "sourceDate": "2026-01-13T23:33:23.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Unknown-City/Solumina-iSeries-Software-Developer-2-3_R10218870",
-      "discordThreadId": "1462337761976778784",
-      "instanceNumber": 1
-    },
-    {
-      "id": "td-wd3-myworkdayjobs-com-td_bank_careers-job-new-york-new-york-applied-machine-learning-scientist-i-traditional-ai-_r_1465899-1-2026-01-18-1",
-      "jobId": "td-wd3-myworkdayjobs-com-td_bank_careers-job-new-york-new-york-applied-machine-learning-scientist-i-traditional-ai-_r_1465899-1",
-      "company": "TD Bank",
-      "title": "Applied Machine Learning Scientist 1 - Traditional AI",
-      "postedToDiscord": "2026-01-18T06:48:19.545Z",
-      "sourceDate": "2026-01-13T23:40:26.000Z",
-      "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Applied-Machine-Learning-Scientist-I--Traditional-AI-_R_1465899-1",
-      "discordThreadId": "1462337782419558613",
-      "instanceNumber": 1
-    },
-    {
-      "id": "snyk-wd103-myworkdayjobs-com-external-job-united-states-boston-office-associate-product-engineer_jr100284-2026-01-18-1",
-      "jobId": "snyk-wd103-myworkdayjobs-com-external-job-united-states-boston-office-associate-product-engineer_jr100284",
-      "company": "Snyk",
-      "title": "Associate Product Engineer",
-      "postedToDiscord": "2026-01-18T06:48:23.023Z",
-      "sourceDate": "2026-01-13T23:38:18.000Z",
-      "sourceUrl": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Associate-Product-Engineer_JR100284",
-      "discordThreadId": "1462337796806021180",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-huntingtoningalls-com-job-newport-news-software-development-engineer-virg-1355684900-2026-01-18-1",
       "jobId": "careers-huntingtoningalls-com-job-newport-news-software-development-engineer-virg-1355684900",
@@ -14880,9 +14803,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464870267472842754",
+          "messageId": "1464875274192814160",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:28.021Z",
+          "postedAt": "2026-01-25T06:51:21.513Z",
           "channelJobNumber": 181
         }
       },
@@ -14898,9 +14821,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464870275677163683",
+          "messageId": "1464875281209884797",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:29.851Z",
+          "postedAt": "2026-01-25T06:51:23.192Z",
           "channelJobNumber": 181
         }
       },
@@ -14916,9 +14839,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464870283121922170",
+          "messageId": "1464875288109383785",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:31.627Z",
+          "postedAt": "2026-01-25T06:51:24.932Z",
           "channelJobNumber": 181
         }
       },
@@ -14934,9 +14857,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464870290655023114",
+          "messageId": "1464875295474712740",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:33.349Z",
+          "postedAt": "2026-01-25T06:51:26.586Z",
           "channelJobNumber": 181
         }
       },
@@ -14952,9 +14875,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464870310196023363",
+          "messageId": "1464875315020173457",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:38.136Z",
+          "postedAt": "2026-01-25T06:51:31.333Z",
           "channelJobNumber": 92
         }
       },
@@ -14970,9 +14893,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464870317800296681",
+          "messageId": "1464875322066604218",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:39.900Z",
+          "postedAt": "2026-01-25T06:51:33.016Z",
           "channelJobNumber": 92
         }
       },
@@ -14988,9 +14911,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464870325123813481",
+          "messageId": "1464875329398247476",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:41.562Z",
+          "postedAt": "2026-01-25T06:51:34.743Z",
           "channelJobNumber": 92
         }
       },
@@ -15006,9 +14929,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464870332165914655",
+          "messageId": "1464875336633417812",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:43.268Z",
+          "postedAt": "2026-01-25T06:51:36.393Z",
           "channelJobNumber": 92
         }
       },
@@ -15024,9 +14947,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464870339229257739",
+          "messageId": "1464875343348240611",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:44.935Z",
+          "postedAt": "2026-01-25T06:51:38.057Z",
           "channelJobNumber": 92
         }
       },
@@ -15042,9 +14965,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464870358996881408",
+          "messageId": "1464875363195687027",
           "channelType": "category",
-          "postedAt": "2026-01-25T06:31:49.665Z",
+          "postedAt": "2026-01-25T06:51:42.766Z",
           "channelJobNumber": 71
         }
       },
@@ -15052,11 +14975,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1099,
+    "totalJobs": 1092,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T06:31:49.666Z",
+      "date": "2026-01-25T06:51:42.766Z",
       "archived": 0
     }
   }
