@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T23:12:21.930Z",
+  "lastUpdated": "2026-01-25T23:30:50.362Z",
   "jobs": [
-    {
-      "id": "www-zoro-com-careers-jobs-2026-01-18-1",
-      "jobId": "www-zoro-com-careers-jobs",
-      "company": "Zoro",
-      "title": "Data Scientist 1",
-      "postedToDiscord": "2026-01-18T23:26:53.780Z",
-      "sourceDate": "2026-01-15T16:36:53.000Z",
-      "sourceUrl": "https://www.zoro.com/careers/jobs?gh_jid=4645173006",
-      "discordThreadId": "1462589080385880116",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-dominionenergy-com-job-richmond-associate-dev-business-intelligence-analyst-va-23219-1356523700-2026-01-18-1",
-      "jobId": "careers-dominionenergy-com-job-richmond-associate-dev-business-intelligence-analyst-va-23219-1356523700",
-      "company": "Dominion Energy",
-      "title": "Associate Developer Business Intelligence Analyst",
-      "postedToDiscord": "2026-01-18T23:26:58.706Z",
-      "sourceDate": "2026-01-15T16:21:26.000Z",
-      "sourceUrl": "https://careers.dominionenergy.com/job/RICHMOND-Associate-DEV-Business-Intelligence-Analyst-VA-23219/1356523700/?ats=successfactors",
-      "discordThreadId": "1462589095103430800",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jmfamily-wd1-myworkdayjobs-com-jmfamily_external-job-florida-jacksonville-it-services-academy-program-software-analyst_jr104504-2026-01-18-1",
-      "jobId": "jmfamily-wd1-myworkdayjobs-com-jmfamily_external-job-florida-jacksonville-it-services-academy-program-software-analyst_jr104504",
-      "company": "JM Family",
-      "title": "IT Services Academy Program-Software Analyst",
-      "postedToDiscord": "2026-01-18T23:27:05.595Z",
-      "sourceDate": "2026-01-15T16:33:30.000Z",
-      "sourceUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/IT-Services-Academy-Program--Software-Analyst_JR104504",
-      "discordThreadId": "1462589128968245405",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-testnisc-jobs-7541251-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-testnisc-jobs-7541251",
-      "company": "National Information Solutions Cooperative (NISC)",
-      "title": "Software Developer - Provisioning",
-      "postedToDiscord": "2026-01-18T23:27:09.119Z",
-      "sourceDate": "2026-01-15T16:20:43.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/testnisc/jobs/7541251",
-      "discordThreadId": "1462589144764256462",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-duolingo-com-jobs-8376619002-2026-01-18-1",
-      "jobId": "careers-duolingo-com-jobs-8376619002",
-      "company": "duolingo",
-      "title": "QA Engineer II",
-      "postedToDiscord": "2026-01-18T23:27:19.622Z",
-      "sourceDate": "2026-01-15T13:17:31-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8376619002?gh_jid=8376619002",
-      "discordThreadId": "1462589189446041651",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8366663002-2026-01-18-1",
-      "jobId": "www-brex-com-careers-8366663002",
-      "company": "brex",
-      "title": "BizOps Lead, BD",
-      "postedToDiscord": "2026-01-18T23:27:26.165Z",
-      "sourceDate": "2026-01-12T22:14:22-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8366663002?gh_jid=8366663002",
-      "discordThreadId": "1462589216537055303",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8366662002-2026-01-18-1",
-      "jobId": "www-brex-com-careers-8366662002",
-      "company": "brex",
-      "title": "BizOps Lead, BD",
-      "postedToDiscord": "2026-01-18T23:27:26.183Z",
-      "sourceDate": "2026-01-12T22:14:06-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8366662002?gh_jid=8366662002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8362761002-2026-01-18-1",
-      "jobId": "www-brex-com-careers-8362761002",
-      "company": "brex",
-      "title": " BizOps Lead, BD",
-      "postedToDiscord": "2026-01-18T23:27:26.202Z",
-      "sourceDate": "2026-01-12T22:13:52-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8362761002?gh_jid=8362761002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-reddit-jobs-7540782-2026-01-18-1",
       "jobId": "job-boards-greenhouse-io-reddit-jobs-7540782",
@@ -13780,9 +13692,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465122058383134941",
+          "messageId": "1465126709694042112",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:11:59.722Z",
+          "postedAt": "2026-01-25T23:30:28.423Z",
           "channelJobNumber": 181
         }
       },
@@ -13798,9 +13710,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465122066666881044",
+          "messageId": "1465126716811907093",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:01.487Z",
+          "postedAt": "2026-01-25T23:30:30.194Z",
           "channelJobNumber": 182
         }
       },
@@ -13816,9 +13728,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465122074099187977",
+          "messageId": "1465126724193751050",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:03.286Z",
+          "postedAt": "2026-01-25T23:30:31.882Z",
           "channelJobNumber": 183
         }
       },
@@ -13834,9 +13746,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465122081019531285",
+          "messageId": "1465126731353428074",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:04.935Z",
+          "postedAt": "2026-01-25T23:30:33.614Z",
           "channelJobNumber": 184
         }
       },
@@ -13852,9 +13764,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465122101362163905",
+          "messageId": "1465126751557652651",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:09.874Z",
+          "postedAt": "2026-01-25T23:30:38.507Z",
           "channelJobNumber": 92
         }
       },
@@ -13870,9 +13782,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465122109142466560",
+          "messageId": "1465126758717198481",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:11.576Z",
+          "postedAt": "2026-01-25T23:30:40.249Z",
           "channelJobNumber": 93
         }
       },
@@ -13888,9 +13800,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465122116662726880",
+          "messageId": "1465126766166151378",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:13.442Z",
+          "postedAt": "2026-01-25T23:30:42.022Z",
           "channelJobNumber": 94
         }
       },
@@ -13906,9 +13818,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465122123965141278",
+          "messageId": "1465126774001373316",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:15.383Z",
+          "postedAt": "2026-01-25T23:30:43.959Z",
           "channelJobNumber": 95
         }
       },
@@ -13924,9 +13836,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465122132374851708",
+          "messageId": "1465126781898981416",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:17.167Z",
+          "postedAt": "2026-01-25T23:30:45.621Z",
           "channelJobNumber": 96
         }
       },
@@ -13942,9 +13854,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465122152478015644",
+          "messageId": "1465126801713135863",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:12:21.930Z",
+          "postedAt": "2026-01-25T23:30:50.361Z",
           "channelJobNumber": 71
         }
       },
@@ -13952,11 +13864,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 999,
+    "totalJobs": 991,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T23:12:21.930Z",
+      "date": "2026-01-25T23:30:50.362Z",
       "archived": 0
     }
   }
