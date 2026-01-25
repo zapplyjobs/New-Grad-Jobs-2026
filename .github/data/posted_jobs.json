@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T02:44:11.028Z",
+  "lastUpdated": "2026-01-25T03:33:09.007Z",
   "jobs": [
-    {
-      "id": "sjobs-brassring-com-tgnewui-search-home-homewithpreload-2026-01-18-1",
-      "jobId": "sjobs-brassring-com-tgnewui-search-home-homewithpreload",
-      "company": "General Atomics",
-      "title": "Associate Software Developer",
-      "postedToDiscord": "2026-01-18T03:27:15.428Z",
-      "sourceDate": "2026-01-13T13:38:46.000Z",
-      "sourceUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5208753",
-      "discordThreadId": "1462287182151553127",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7466155-2026-01-18-1",
-      "jobId": "careers-datadoghq-com-detail-7466155",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-18T03:27:31.807Z",
-      "sourceDate": "2026-01-13T09:56:08-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
-      "discordThreadId": "1462287250787274895",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-cribl-jobs-5739562004-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-cribl-jobs-5739562004",
-      "company": "Cribl",
-      "title": "Data Engineer",
-      "postedToDiscord": "2026-01-18T03:27:38.265Z",
-      "sourceDate": "2026-01-13T13:39:56.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/cribl/jobs/5739562004",
-      "discordThreadId": "1462287277693735053",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-4ca11c51-6c3f-4272-b5b5-6f4564165f0c-2026-01-18-1",
-      "jobId": "jobs-lever-co-spotify-4ca11c51-6c3f-4272-b5b5-6f4564165f0c",
-      "company": "spotify",
-      "title": "Manager, Global Yield Programs & Incentives",
-      "postedToDiscord": "2026-01-18T03:27:41.803Z",
-      "sourceDate": "2026-01-13T00:37:18.512Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/4ca11c51-6c3f-4272-b5b5-6f4564165f0c",
-      "discordThreadId": "1462287291820277893",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lvvwd-wd1-myworkdayjobs-com-lvvwdwaterjobs-job-molasky-corporate-center-hydrologist-i_r0003445-2026-01-18-1",
-      "jobId": "lvvwd-wd1-myworkdayjobs-com-lvvwdwaterjobs-job-molasky-corporate-center-hydrologist-i_r0003445",
-      "company": "Las Vegas Valley Water District",
-      "title": "Hydrologist 1",
-      "postedToDiscord": "2026-01-18T03:27:49.194Z",
-      "sourceDate": "2026-01-13T12:03:02.000Z",
-      "sourceUrl": "https://lvvwd.wd1.myworkdayjobs.com/lvvwdwaterjobs/job/Molasky-Corporate-Center/Hydrologist-I_R0003445",
-      "discordThreadId": "1462287319464673465",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7593570990719306037-2026-01-18-1",
-      "jobId": "lifeattiktok-com-search-7593570990719306037",
-      "company": "TikTok",
-      "title": "Benefits Operations Data Analyst - HR Operations - San Jose','Third-Party Associate",
-      "postedToDiscord": "2026-01-18T03:27:55.806Z",
-      "sourceDate": "2026-01-13T10:38:15.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7593570990719306037",
-      "discordThreadId": "1462287350573826294",
-      "instanceNumber": 1
-    },
-    {
-      "id": "arrowstreetcapital-wd5-myworkdayjobs-com-campus_careers-job-boston-technology-rotational-development-program_r1400-2026-01-18-1",
-      "jobId": "arrowstreetcapital-wd5-myworkdayjobs-com-campus_careers-job-boston-technology-rotational-development-program_r1400",
-      "company": "Arrowstreet Capital",
-      "title": "Technology Rotational Development Program",
-      "postedToDiscord": "2026-01-18T03:27:59.165Z",
-      "sourceDate": "2026-01-12T16:29:00.000Z",
-      "sourceUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
-      "discordThreadId": "1462287365518266578",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-lever-co-nextech-f5c5c7cb-2295-47ba-b1e9-845b26dcaff0-apply-2026-01-18-1",
       "jobId": "jobs-lever-co-nextech-f5c5c7cb-2295-47ba-b1e9-845b26dcaff0-apply",
@@ -15320,9 +15243,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464812978204315679",
+          "messageId": "1464825300964868197",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:43:49.110Z",
+          "postedAt": "2026-01-25T03:32:47.257Z",
           "channelJobNumber": 181
         }
       },
@@ -15338,9 +15261,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464812985854853284",
+          "messageId": "1464825308938108940",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:43:50.829Z",
+          "postedAt": "2026-01-25T03:32:48.933Z",
           "channelJobNumber": 181
         }
       },
@@ -15356,9 +15279,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464812992616071332",
+          "messageId": "1464825315921760484",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:43:52.556Z",
+          "postedAt": "2026-01-25T03:32:50.625Z",
           "channelJobNumber": 181
         }
       },
@@ -15374,9 +15297,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464813000337653905",
+          "messageId": "1464825323584491754",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:43:54.319Z",
+          "postedAt": "2026-01-25T03:32:52.428Z",
           "channelJobNumber": 181
         }
       },
@@ -15392,9 +15315,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464813020021784660",
+          "messageId": "1464825343516082228",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:43:59.098Z",
+          "postedAt": "2026-01-25T03:32:57.252Z",
           "channelJobNumber": 92
         }
       },
@@ -15410,9 +15333,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464813027646898395",
+          "messageId": "1464825351070027920",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:44:00.814Z",
+          "postedAt": "2026-01-25T03:32:59.013Z",
           "channelJobNumber": 92
         }
       },
@@ -15428,9 +15351,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464813034584150223",
+          "messageId": "1464825358602862633",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:44:02.546Z",
+          "postedAt": "2026-01-25T03:33:00.766Z",
           "channelJobNumber": 92
         }
       },
@@ -15446,9 +15369,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464813042863706308",
+          "messageId": "1464825365968191673",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:44:04.604Z",
+          "postedAt": "2026-01-25T03:33:02.504Z",
           "channelJobNumber": 92
         }
       },
@@ -15464,9 +15387,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464813050665111686",
+          "messageId": "1464825372863365355",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:44:06.268Z",
+          "postedAt": "2026-01-25T03:33:04.236Z",
           "channelJobNumber": 92
         }
       },
@@ -15482,9 +15405,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464813070269284470",
+          "messageId": "1464825392853422173",
           "channelType": "category",
-          "postedAt": "2026-01-25T02:44:11.027Z",
+          "postedAt": "2026-01-25T03:33:09.006Z",
           "channelJobNumber": 71
         }
       },
@@ -15492,11 +15415,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1139,
+    "totalJobs": 1132,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T02:44:11.028Z",
+      "date": "2026-01-25T03:33:09.007Z",
       "archived": 0
     }
   }
