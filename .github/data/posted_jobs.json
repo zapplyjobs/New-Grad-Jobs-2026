@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T04:12:15.451Z",
+  "lastUpdated": "2026-01-25T04:29:38.116Z",
   "jobs": [
-    {
-      "id": "careers-datadoghq-com-detail-7509363-2026-01-18-1",
-      "jobId": "careers-datadoghq-com-detail-7509363",
-      "company": "datadog",
-      "title": "Senior Associate, Sales Enablement Operations",
-      "postedToDiscord": "2026-01-18T04:26:57.141Z",
-      "sourceDate": "2026-01-13T12:58:27-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7509363/?gh_jid=7509363",
-      "discordThreadId": "1462302198154137600",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8372636002-2026-01-18-1",
-      "jobId": "www-brex-com-careers-8372636002",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, Product-Led Growth",
-      "postedToDiscord": "2026-01-18T04:27:00.560Z",
-      "sourceDate": "2026-01-13T12:57:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8372636002?gh_jid=8372636002",
-      "discordThreadId": "1462302219004284948",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8372631002-2026-01-18-1",
-      "jobId": "www-brex-com-careers-8372631002",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, Product-Led Growth",
-      "postedToDiscord": "2026-01-18T04:27:00.579Z",
-      "sourceDate": "2026-01-13T12:57:09-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8372631002?gh_jid=8372631002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8372597002-2026-01-18-1",
-      "jobId": "www-brex-com-careers-8372597002",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, B2B Sales",
-      "postedToDiscord": "2026-01-18T04:27:04.006Z",
-      "sourceDate": "2026-01-13T12:56:47-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8372597002?gh_jid=8372597002",
-      "discordThreadId": "1462302233461915796",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8372627002-2026-01-18-1",
-      "jobId": "www-brex-com-careers-8372627002",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, B2B Sales",
-      "postedToDiscord": "2026-01-18T04:27:04.024Z",
-      "sourceDate": "2026-01-13T12:56:26-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8372627002?gh_jid=8372627002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-visa-744000103266367-2026-01-18-1",
-      "jobId": "jobs-smartrecruiters-com-visa-744000103266367",
-      "company": "Visa",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-18T04:27:13.946Z",
-      "sourceDate": "2026-01-13T16:18:02.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103266367",
-      "discordThreadId": "1462302274763227267",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-visa-744000103266546-2026-01-18-1",
-      "jobId": "jobs-smartrecruiters-com-visa-744000103266546",
-      "company": "Visa",
-      "title": "Software Engineer  New College Grad - New College Grad",
-      "postedToDiscord": "2026-01-18T04:27:17.458Z",
-      "sourceDate": "2026-01-13T16:17:58.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103266546",
-      "discordThreadId": "1462302289707667506",
-      "instanceNumber": 1
-    },
     {
       "id": "boards-greenhouse-io-figma-jobs-5759501004-2026-01-18-1",
       "jobId": "boards-greenhouse-io-figma-jobs-5759501004",
@@ -15155,9 +15078,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464835142018400381",
+          "messageId": "1464839517352497387",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:11:53.433Z",
+          "postedAt": "2026-01-25T04:29:16.548Z",
           "channelJobNumber": 181
         }
       },
@@ -15173,9 +15096,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464835150415134935",
+          "messageId": "1464839524612837651",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:11:55.419Z",
+          "postedAt": "2026-01-25T04:29:18.223Z",
           "channelJobNumber": 181
         }
       },
@@ -15191,9 +15114,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464835158099099710",
+          "messageId": "1464839531676172401",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:11:57.106Z",
+          "postedAt": "2026-01-25T04:29:19.885Z",
           "channelJobNumber": 181
         }
       },
@@ -15209,9 +15132,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464835165338599682",
+          "messageId": "1464839539523588280",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:11:58.919Z",
+          "postedAt": "2026-01-25T04:29:21.913Z",
           "channelJobNumber": 181
         }
       },
@@ -15227,9 +15150,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464835185165209856",
+          "messageId": "1464839560419741829",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:12:03.665Z",
+          "postedAt": "2026-01-25T04:29:26.684Z",
           "channelJobNumber": 92
         }
       },
@@ -15245,9 +15168,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464835192761090068",
+          "messageId": "1464839567344402432",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:12:05.383Z",
+          "postedAt": "2026-01-25T04:29:28.314Z",
           "channelJobNumber": 92
         }
       },
@@ -15263,9 +15186,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464835199706595351",
+          "messageId": "1464839574185312336",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:12:07.107Z",
+          "postedAt": "2026-01-25T04:29:29.976Z",
           "channelJobNumber": 92
         }
       },
@@ -15281,9 +15204,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464835206853951684",
+          "messageId": "1464839581139599412",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:12:08.778Z",
+          "postedAt": "2026-01-25T04:29:31.640Z",
           "channelJobNumber": 92
         }
       },
@@ -15299,9 +15222,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464835214500167833",
+          "messageId": "1464839588257468508",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:12:10.644Z",
+          "postedAt": "2026-01-25T04:29:33.364Z",
           "channelJobNumber": 92
         }
       },
@@ -15317,9 +15240,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464835234863513641",
+          "messageId": "1464839607790080172",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:12:15.451Z",
+          "postedAt": "2026-01-25T04:29:38.115Z",
           "channelJobNumber": 71
         }
       },
@@ -15327,11 +15250,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1124,
+    "totalJobs": 1117,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T04:12:15.451Z",
+      "date": "2026-01-25T04:29:38.116Z",
       "archived": 0
     }
   }
