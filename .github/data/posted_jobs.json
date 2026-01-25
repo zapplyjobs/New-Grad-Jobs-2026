@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T09:12:34.939Z",
+  "lastUpdated": "2026-01-25T09:30:50.240Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5057258008-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5057258008",
-      "company": "anthropic",
-      "title": "Startups Solutions Architect, Applied AI",
-      "postedToDiscord": "2026-01-18T09:27:13.253Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-77cebaa5-acc4-4bf6-8ab2-14e4ef61ed39-2026-01-18-1",
-      "jobId": "jobs-lever-co-spotify-77cebaa5-acc4-4bf6-8ab2-14e4ef61ed39",
-      "company": "spotify",
-      "title": "Product Designer - Music Mission",
-      "postedToDiscord": "2026-01-18T09:27:16.621Z",
-      "sourceDate": "2026-01-13T17:14:54.538Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/77cebaa5-acc4-4bf6-8ab2-14e4ef61ed39",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5067283008-2026-01-18-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5067283008",
@@ -14385,9 +14363,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464910718074749113",
+          "messageId": "1464915314058723424",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:12.141Z",
+          "postedAt": "2026-01-25T09:30:27.809Z",
           "channelJobNumber": 181
         }
       },
@@ -14403,9 +14381,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464910726056509461",
+          "messageId": "1464915321533235200",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:13.903Z",
+          "postedAt": "2026-01-25T09:30:29.647Z",
           "channelJobNumber": 181
         }
       },
@@ -14421,9 +14399,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464910733576769776",
+          "messageId": "1464915329368199179",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:15.766Z",
+          "postedAt": "2026-01-25T09:30:31.592Z",
           "channelJobNumber": 181
         }
       },
@@ -14439,9 +14417,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464910740811943936",
+          "messageId": "1464915337290973231",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:17.446Z",
+          "postedAt": "2026-01-25T09:30:33.333Z",
           "channelJobNumber": 181
         }
       },
@@ -14457,9 +14435,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464910760668037231",
+          "messageId": "1464915357302128691",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:23.503Z",
+          "postedAt": "2026-01-25T09:30:38.100Z",
           "channelJobNumber": 92
         }
       },
@@ -14475,9 +14453,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464910773309407303",
+          "messageId": "1464915364445028373",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:25.145Z",
+          "postedAt": "2026-01-25T09:30:39.819Z",
           "channelJobNumber": 92
         }
       },
@@ -14493,9 +14471,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464910780297121999",
+          "messageId": "1464915371684266190",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:26.871Z",
+          "postedAt": "2026-01-25T09:30:41.661Z",
           "channelJobNumber": 92
         }
       },
@@ -14511,9 +14489,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464910787431895106",
+          "messageId": "1464915379368493209",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:28.527Z",
+          "postedAt": "2026-01-25T09:30:43.395Z",
           "channelJobNumber": 92
         }
       },
@@ -14529,9 +14507,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464910794448830604",
+          "messageId": "1464915386406273103",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:30.262Z",
+          "postedAt": "2026-01-25T09:30:45.132Z",
           "channelJobNumber": 92
         }
       },
@@ -14547,9 +14525,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464910814422237325",
+          "messageId": "1464915407809941608",
           "channelType": "category",
-          "postedAt": "2026-01-25T09:12:34.939Z",
+          "postedAt": "2026-01-25T09:30:50.239Z",
           "channelJobNumber": 71
         }
       },
@@ -14557,11 +14535,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1054,
+    "totalJobs": 1052,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T09:12:34.939Z",
+      "date": "2026-01-25T09:30:50.240Z",
       "archived": 0
     }
   }
