@@ -307,6 +307,42 @@ function buildJobMessage(job) {
 }
 
 /**
+ * Check if job already posted to Discord channel (anti-duplicate defense)
+ * @param {Object} job - Job object
+ * @param {Object} channel - Discord channel
+ * @returns {Promise<boolean>} True if already posted
+ */
+async function isJobAlreadyPostedToChannel(job, channel) {
+  try {
+    // Fetch recent messages (last 100, covers ~7-10 workflow runs at 15 jobs/run)
+    const messages = await channel.messages.fetch({ limit: 100 });
+
+    // Search for matching job title + company in embeds
+    const jobTitle = job.job_title;
+    const company = job.employer_name;
+
+    for (const message of messages.values()) {
+      if (message.embeds && message.embeds.length > 0) {
+        const embed = message.embeds[0];
+        // Check if embed title matches (format: "Job Title")
+        if (embed.title === jobTitle && embed.fields) {
+          // Verify company field matches
+          const companyField = embed.fields.find(f => f.name === '🏢 Company');
+          if (companyField && companyField.value === company) {
+            return true; // Exact match found
+          }
+        }
+      }
+    }
+
+    return false;
+  } catch (error) {
+    console.warn(`⚠️  Could not check for duplicates in #${channel.name}:`, error.message);
+    return false; // On error, allow posting (fail-open for availability)
+  }
+}
+
+/**
  * Post a job to a Discord text channel (NEW for text messages)
  * @param {Object} job - Job object from API
  * @param {Object} channel - Discord channel object
@@ -317,6 +353,18 @@ async function postJobToChannel(job, channel, options = {}) {
   return discordApiCall(
     async () => {
       const jobId = generateJobId(job);
+
+      // PRE-POST DUPLICATE CHECK (defense against concurrent workflow runs)
+      const alreadyPosted = await isJobAlreadyPostedToChannel(job, channel);
+      if (alreadyPosted) {
+        console.log(`⏭️  [DISCORD SKIP] ${job.job_title} @ ${job.employer_name} already in #${channel.name} (duplicate defense)`);
+        return {
+          success: false,
+          skipped: true,
+          reason: 'already_posted_to_discord',
+          channelId: channel.id
+        };
+      }
 
       // Build embed with channel info if provided
       const embedOptions = {
