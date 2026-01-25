@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T04:44:54.320Z",
+  "lastUpdated": "2026-01-25T04:53:26.145Z",
   "jobs": [
-    {
-      "id": "boards-greenhouse-io-figma-jobs-5759501004-2026-01-18-1",
-      "jobId": "boards-greenhouse-io-figma-jobs-5759501004",
-      "company": "figma",
-      "title": "Software Engineer, Web Platform",
-      "postedToDiscord": "2026-01-18T04:49:03.954Z",
-      "sourceDate": "2026-01-13T12:28:14-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759501004?gh_jid=5759501004",
-      "discordThreadId": "1462307769859440640",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4814348008-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4814348008",
-      "company": "anthropic",
-      "title": "Recruiter, Technical",
-      "postedToDiscord": "2026-01-18T04:49:14.033Z",
-      "sourceDate": "2026-01-13T12:13:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4814348008",
-      "discordThreadId": "1462307811819262003",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pg-wd5-myworkdayjobs-com-1000-job-auburn-plant-site-manufacturing-data-engineer_r000142913-1-2026-01-18-1",
-      "jobId": "pg-wd5-myworkdayjobs-com-1000-job-auburn-plant-site-manufacturing-data-engineer_r000142913-1",
-      "company": "Procter & Gamble (P&G)",
-      "title": "Site Manufacturing Data Engineer",
-      "postedToDiscord": "2026-01-18T04:49:23.849Z",
-      "sourceDate": "2026-01-13T16:25:59.000Z",
-      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/AUBURN-PLANT/Site-Manufacturing-Data-Engineer_R000142913-1",
-      "discordThreadId": "1462307853447467080",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8734-2026-01-18-1",
-      "jobId": "fa-ewjt-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2-job-8734",
-      "company": "EXL",
-      "title": "Healthcare Analyst",
-      "postedToDiscord": "2026-01-18T04:49:32.041Z",
-      "sourceDate": "2026-01-13T16:20:35.000Z",
-      "sourceUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8734",
-      "discordThreadId": "1462307894782591089",
-      "instanceNumber": 1
-    },
     {
       "id": "careers-datadoghq-com-detail-7461785-2026-01-18-1",
       "jobId": "careers-datadoghq-com-detail-7461785",
@@ -15078,9 +15034,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464843359775494164",
+          "messageId": "1464845507427045467",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:32.636Z",
+          "postedAt": "2026-01-25T04:53:04.643Z",
           "channelJobNumber": 181
         }
       },
@@ -15096,9 +15052,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464843367216316419",
+          "messageId": "1464845514834182206",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:34.454Z",
+          "postedAt": "2026-01-25T04:53:06.371Z",
           "channelJobNumber": 181
         }
       },
@@ -15114,9 +15070,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464843375071989760",
+          "messageId": "1464845522111168614",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:36.226Z",
+          "postedAt": "2026-01-25T04:53:08.113Z",
           "channelJobNumber": 181
         }
       },
@@ -15132,9 +15088,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1464843382395371652",
+          "messageId": "1464845528989700118",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:37.946Z",
+          "postedAt": "2026-01-25T04:53:09.777Z",
           "channelJobNumber": 181
         }
       },
@@ -15150,9 +15106,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464843402075050166",
+          "messageId": "1464845549353046159",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:42.742Z",
+          "postedAt": "2026-01-25T04:53:14.618Z",
           "channelJobNumber": 92
         }
       },
@@ -15168,9 +15124,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464843409742102642",
+          "messageId": "1464845556596871232",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:44.451Z",
+          "postedAt": "2026-01-25T04:53:16.288Z",
           "channelJobNumber": 92
         }
       },
@@ -15186,9 +15142,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464843416620761099",
+          "messageId": "1464845563421003964",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:46.192Z",
+          "postedAt": "2026-01-25T04:53:18.029Z",
           "channelJobNumber": 92
         }
       },
@@ -15204,9 +15160,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464843423851741287",
+          "messageId": "1464845570899185725",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:47.884Z",
+          "postedAt": "2026-01-25T04:53:19.693Z",
           "channelJobNumber": 92
         }
       },
@@ -15222,9 +15178,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1464843431254954105",
+          "messageId": "1464845577979302049",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:49.594Z",
+          "postedAt": "2026-01-25T04:53:21.388Z",
           "channelJobNumber": 92
         }
       },
@@ -15240,9 +15196,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1464843451165179914",
+          "messageId": "1464845597897916426",
           "channelType": "category",
-          "postedAt": "2026-01-25T04:44:54.320Z",
+          "postedAt": "2026-01-25T04:53:26.145Z",
           "channelJobNumber": 71
         }
       },
@@ -15250,11 +15206,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1117,
+    "totalJobs": 1113,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T04:44:54.320Z",
+      "date": "2026-01-25T04:53:26.145Z",
       "archived": 0
     }
   }
