@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T21:30:54.288Z",
+  "lastUpdated": "2026-01-25T21:42:46.726Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4971331008-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971331008",
-      "company": "anthropic",
-      "title": "Customer Trust Lead",
-      "postedToDiscord": "2026-01-18T21:40:43.988Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971331008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "nshe-wd1-myworkdayjobs-com-unr-external-job-university-of-nevada-reno-main-campus-postdoctoral-scholar-high-energy-density-hed-physics_r0150275-2026-01-18-1",
-      "jobId": "nshe-wd1-myworkdayjobs-com-unr-external-job-university-of-nevada-reno-main-campus-postdoctoral-scholar-high-energy-density-hed-physics_r0150275",
-      "company": "University of Nevada Reno",
-      "title": "Postdoctoral Scholar - Multiple Teams",
-      "postedToDiscord": "2026-01-18T21:40:47.425Z",
-      "sourceDate": "2026-01-15T00:29:25.000Z",
-      "sourceUrl": "https://nshe.wd1.myworkdayjobs.com/unr-external/job/University-of-Nevada-Reno---Main-Campus/Postdoctoral-Scholar--High-Energy-Density--HED--Physics_R0150275",
-      "discordThreadId": "1462562378414821541",
-      "instanceNumber": 1
-    },
-    {
-      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-aws-javascript-react-_r-48736-2026-01-18-1",
-      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-aws-javascript-react-_r-48736",
-      "company": "The Travelers Companies",
-      "title": "Software Engineer 1 - Multiple Teams",
-      "postedToDiscord": "2026-01-18T21:40:53.921Z",
-      "sourceDate": "2026-01-15T00:17:59.000Z",
-      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48736",
-      "discordThreadId": "1462562405497438451",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-application-modernization_r-515424-2026-01-18-1",
-      "jobId": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-application-modernization_r-515424",
-      "company": "Wells Fargo",
-      "title": "Engineering Associate - Application Modernization",
-      "postedToDiscord": "2026-01-18T21:40:57.719Z",
-      "sourceDate": "2026-01-15T00:12:44.000Z",
-      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Engineering-Associate---Application-Modernization_R-515424",
-      "discordThreadId": "1462562420064125062",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-affirm-jobs-7566696003-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-affirm-jobs-7566696003",
-      "company": "Affirm",
-      "title": "Software Engineer – Early Career",
-      "postedToDiscord": "2026-01-18T21:41:01.576Z",
-      "sourceDate": "2026-01-15T02:42:21.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7566696003",
-      "discordThreadId": "1462562436652597268",
-      "instanceNumber": 1
-    },
     {
       "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmd31-annapolis-md-2551-riva-road-annapolis-md-21401-7435-usa-software-engineer-i-connected-aviation-onsite-_01816959-2026-01-18-1",
       "jobId": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-hmd31-annapolis-md-2551-riva-road-annapolis-md-21401-7435-usa-software-engineer-i-connected-aviation-onsite-_01816959",
@@ -13989,9 +13934,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465096526840987853",
+          "messageId": "1465099509842579597",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:32.241Z",
+          "postedAt": "2026-01-25T21:42:23.445Z",
           "channelJobNumber": 181
         }
       },
@@ -14007,9 +13952,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465096533748879574",
+          "messageId": "1465099516662255880",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:33.895Z",
+          "postedAt": "2026-01-25T21:42:25.253Z",
           "channelJobNumber": 182
         }
       },
@@ -14025,9 +13970,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465096540585726108",
+          "messageId": "1465099524216455263",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:35.540Z",
+          "postedAt": "2026-01-25T21:42:26.941Z",
           "channelJobNumber": 183
         }
       },
@@ -14043,9 +13988,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465096547883679744",
+          "messageId": "1465099531484922160",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:37.367Z",
+          "postedAt": "2026-01-25T21:42:28.788Z",
           "channelJobNumber": 184
         }
       },
@@ -14061,9 +14006,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465096568557539338",
+          "messageId": "1465099551936614575",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:42.255Z",
+          "postedAt": "2026-01-25T21:42:33.486Z",
           "channelJobNumber": 92
         }
       },
@@ -14079,9 +14024,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465096575780130826",
+          "messageId": "1465099558668337357",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:43.935Z",
+          "postedAt": "2026-01-25T21:42:36.768Z",
           "channelJobNumber": 93
         }
       },
@@ -14097,9 +14042,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465096582465851393",
+          "messageId": "1465099572639432880",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:45.641Z",
+          "postedAt": "2026-01-25T21:42:38.529Z",
           "channelJobNumber": 94
         }
       },
@@ -14115,9 +14060,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465096590846066976",
+          "messageId": "1465099579987857510",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:47.862Z",
+          "postedAt": "2026-01-25T21:42:40.217Z",
           "channelJobNumber": 95
         }
       },
@@ -14133,9 +14078,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465096599255388313",
+          "messageId": "1465099586900197509",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:49.509Z",
+          "postedAt": "2026-01-25T21:42:42.023Z",
           "channelJobNumber": 96
         }
       },
@@ -14151,9 +14096,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465096618977005774",
+          "messageId": "1465099607372468315",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:30:54.287Z",
+          "postedAt": "2026-01-25T21:42:46.726Z",
           "channelJobNumber": 71
         }
       },
@@ -14161,11 +14106,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1018,
+    "totalJobs": 1013,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T21:30:54.288Z",
+      "date": "2026-01-25T21:42:46.726Z",
       "archived": 0
     }
   }
