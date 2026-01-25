@@ -19,7 +19,7 @@
 const fs = require('fs');
 const path = require('path');
 const { verifyDiscordPosts } = require('./src/monitoring/discord-verifier');
-const { CHANNEL_CONFIG } = require('./src/discord/config');
+const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG } = require('./src/discord/config');
 
 // Parse arguments
 const args = process.argv.slice(2);
@@ -33,10 +33,17 @@ async function main() {
   const postedJobsData = JSON.parse(fs.readFileSync(postedJobsPath, 'utf8'));
 
   // Build channel map (name -> ID)
+  // CHANNEL_CONFIG format: { 'tech': '1234567890', 'ai': '1234567891', ... }
   const channels = {};
-  Object.entries(CHANNEL_CONFIG).forEach(([name, config]) => {
-    if (config.id) {
-      channels[name] = config.id;
+  Object.entries(CHANNEL_CONFIG).forEach(([name, channelId]) => {
+    if (channelId) {
+      channels[name] = channelId;
+    }
+  });
+  // Also add location channels
+  Object.entries(LOCATION_CHANNEL_CONFIG).forEach(([name, channelId]) => {
+    if (channelId) {
+      channels[name] = channelId;
     }
   });
 
