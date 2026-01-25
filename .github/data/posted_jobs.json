@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T21:11:54.398Z",
+  "lastUpdated": "2026-01-25T21:30:54.288Z",
   "jobs": [
-    {
-      "id": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-san-diego-ca-united-states-engineer-cloud-development_jr_047681-1-2026-01-18-1",
-      "jobId": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-san-diego-ca-united-states-engineer-cloud-development_jr_047681-1",
-      "company": "Resmed",
-      "title": "Engineer – Cloud Development",
-      "postedToDiscord": "2026-01-18T21:27:40.241Z",
-      "sourceDate": "2026-01-15T00:35:44.000Z",
-      "sourceUrl": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Engineer-Cloud-Development_JR_047681-1",
-      "discordThreadId": "1462559075765190732",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8352070002-2026-01-18-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8352070002",
-      "company": "discord",
-      "title": "Senior Software Engineer - Notifications",
-      "postedToDiscord": "2026-01-18T21:27:46.965Z",
-      "sourceDate": "2026-01-14T16:30:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8352070002",
-      "discordThreadId": "1462559103644729380",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asml-wd3-myworkdayjobs-com-asmlext1-job-san-diego-ca-usa-software-engineer_j-00331106-2026-01-18-1",
-      "jobId": "asml-wd3-myworkdayjobs-com-asmlext1-job-san-diego-ca-usa-software-engineer_j-00331106",
-      "company": "ASML",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-18T21:27:50.524Z",
-      "sourceDate": "2026-01-15T02:24:09.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Software-Engineer_J-00331106",
-      "discordThreadId": "1462559119402864883",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-new-york-software-engineer-1-crm-27595-90599273872-2026-01-18-1",
-      "jobId": "jobs-intuit-com-job-new-york-software-engineer-1-crm-27595-90599273872",
-      "company": "Intuit",
-      "title": "Software Engineer 1 - CRM",
-      "postedToDiscord": "2026-01-18T21:27:53.941Z",
-      "sourceDate": "2026-01-15T02:16:12.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/new-york/software-engineer-1-crm/27595/90599273872",
-      "discordThreadId": "1462559134363681090",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90599273824-2026-01-18-1",
-      "jobId": "jobs-intuit-com-job-mountain-view-software-engineer-1-27595-90599273824",
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-18T21:27:53.960Z",
-      "sourceDate": "2026-01-15T02:16:06.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90599273824",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-smartrecruiters-com-visa-744000103598105-2026-01-18-1",
-      "jobId": "jobs-smartrecruiters-com-visa-744000103598105",
-      "company": "Visa",
-      "title": "Software Engineer – New College Grad",
-      "postedToDiscord": "2026-01-18T21:27:57.985Z",
-      "sourceDate": "2026-01-15T02:13:45.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103598105",
-      "discordThreadId": "1462559149408911370",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-2026_jr2011392-2026-01-18-1",
-      "jobId": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-2026_jr2011392",
-      "company": "NVIDIA",
-      "title": "AI Software Engineer - LLM Inference Performance Analysis",
-      "postedToDiscord": "2026-01-18T21:28:01.528Z",
-      "sourceDate": "2026-01-15T00:31:52.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--LLM-Inference-Performance-Analysis---New-College-Grad-2026_JR2011392",
-      "discordThreadId": "1462559165535883416",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-phantom-works-software-systems-engineer_jr2025489040-1-2026-01-18-1",
-      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-phantom-works-software-systems-engineer_jr2025489040-1",
-      "company": "The Boeing Company",
-      "title": "Software Systems Engineer",
-      "postedToDiscord": "2026-01-18T21:28:08.016Z",
-      "sourceDate": "2026-01-15T00:31:11.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Software-Systems-Engineer_JR2025489040-1",
-      "discordThreadId": "1462559192698061085",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4971331008-2026-01-18-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4971331008",
@@ -14077,9 +13989,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465091744558223492",
+          "messageId": "1465096526840987853",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:32.195Z",
+          "postedAt": "2026-01-25T21:30:32.241Z",
           "channelJobNumber": 181
         }
       },
@@ -14095,9 +14007,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465091752229863474",
+          "messageId": "1465096533748879574",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:33.948Z",
+          "postedAt": "2026-01-25T21:30:33.895Z",
           "channelJobNumber": 182
         }
       },
@@ -14113,9 +14025,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465091759657717810",
+          "messageId": "1465096540585726108",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:35.796Z",
+          "postedAt": "2026-01-25T21:30:35.540Z",
           "channelJobNumber": 183
         }
       },
@@ -14131,9 +14043,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465091767572496553",
+          "messageId": "1465096547883679744",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:37.596Z",
+          "postedAt": "2026-01-25T21:30:37.367Z",
           "channelJobNumber": 184
         }
       },
@@ -14149,9 +14061,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465091787885642015",
+          "messageId": "1465096568557539338",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:42.519Z",
+          "postedAt": "2026-01-25T21:30:42.255Z",
           "channelJobNumber": 92
         }
       },
@@ -14167,9 +14079,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465091795708018768",
+          "messageId": "1465096575780130826",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:44.310Z",
+          "postedAt": "2026-01-25T21:30:43.935Z",
           "channelJobNumber": 93
         }
       },
@@ -14185,9 +14097,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465091803123552309",
+          "messageId": "1465096582465851393",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:46.157Z",
+          "postedAt": "2026-01-25T21:30:45.641Z",
           "channelJobNumber": 94
         }
       },
@@ -14203,9 +14115,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465091810790477956",
+          "messageId": "1465096590846066976",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:47.968Z",
+          "postedAt": "2026-01-25T21:30:47.862Z",
           "channelJobNumber": 95
         }
       },
@@ -14221,9 +14133,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465091817954349316",
+          "messageId": "1465096599255388313",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:49.658Z",
+          "postedAt": "2026-01-25T21:30:49.509Z",
           "channelJobNumber": 96
         }
       },
@@ -14239,9 +14151,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465091837957243056",
+          "messageId": "1465096618977005774",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:11:54.398Z",
+          "postedAt": "2026-01-25T21:30:54.287Z",
           "channelJobNumber": 71
         }
       },
@@ -14249,11 +14161,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 1026,
+    "totalJobs": 1018,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-25T21:11:54.398Z",
+      "date": "2026-01-25T21:30:54.288Z",
       "archived": 0
     }
   }
