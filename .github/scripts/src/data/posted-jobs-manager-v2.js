@@ -485,12 +485,24 @@ class PostedJobsManagerV2 {
         mergedJobs.set(job.id, job);
       });
 
-      // Add/update with memory jobs (newer data wins)
+      // Add/update with memory jobs (newer or more complete data wins)
       this.data.jobs.forEach(job => {
         const existing = mergedJobs.get(job.id);
-        if (!existing || new Date(job.postedToDiscord) >= new Date(existing.postedToDiscord)) {
+        if (!existing) {
+          // New job only in memory
           mergedJobs.set(job.id, job);
+        } else if (new Date(job.postedToDiscord) > new Date(existing.postedToDiscord)) {
+          // Memory version is newer - use it
+          mergedJobs.set(job.id, job);
+        } else if (new Date(job.postedToDiscord).getTime() === new Date(existing.postedToDiscord).getTime()) {
+          // Same timestamp - merge discordPosts (memory has latest channel updates)
+          const merged = {...existing};
+          if (job.discordPosts && Object.keys(job.discordPosts).length > 0) {
+            merged.discordPosts = {...(existing.discordPosts || {}), ...job.discordPosts};
+          }
+          mergedJobs.set(job.id, merged);
         }
+        // else: disk version is newer, keep it (already in map)
       });
 
       // Update in-memory state with merged data
