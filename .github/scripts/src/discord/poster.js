@@ -30,15 +30,16 @@ function generateTags(job) {
   const description = (job.job_description || '').toLowerCase();
   const company = job.employer_name;
 
-  // Experience level tags
-  if (title.includes('senior') || title.includes('sr.') || title.includes('staff') || title.includes('principal')) {
+  // Experience level tags (INTERNSHIPS REPO - default to Intern, not MidLevel)
+  if (title.includes('intern') || title.includes('internship') || title.includes('co-op') || title.includes('coop')) {
+    tags.push('Intern');
+  } else if (title.includes('senior') || title.includes('sr.') || title.includes('staff') || title.includes('principal')) {
     tags.push('Senior');
   } else if (title.includes('junior') || title.includes('jr.') || title.includes('entry') ||
              title.includes('new grad') || title.includes('graduate')) {
     tags.push('EntryLevel');
-  } else {
-    tags.push('MidLevel');
   }
+  // Don't add any level tag if none match (better than wrong MidLevel tag)
 
   // Location tags
   if (description.includes('remote') || title.includes('remote') ||
@@ -71,24 +72,27 @@ function generateTags(job) {
     tags.push('Gaming');
   }
 
-  // Technology/skill tags
+  // Technology/skill tags (limit to most relevant - check title first, then description)
   const techStack = {
-    'react': 'React', 'vue': 'Vue', 'angular': 'Angular',
-    'node': 'NodeJS', 'python': 'Python', 'java': 'Java',
-    'javascript': 'JavaScript', 'typescript': 'TypeScript',
-    'aws': 'AWS', 'azure': 'Azure', 'gcp': 'GCP', 'cloud': 'Cloud',
-    'kubernetes': 'K8s', 'docker': 'Docker', 'terraform': 'Terraform',
+    // High-priority keywords (title match preferred)
     'machine learning': 'ML', 'ai': 'AI', 'data science': 'DataScience',
     'ios': 'iOS', 'android': 'Android', 'mobile': 'Mobile',
     'frontend': 'Frontend', 'backend': 'Backend', 'fullstack': 'FullStack',
-    'devops': 'DevOps', 'security': 'Security', 'blockchain': 'Blockchain'
+    'devops': 'DevOps', 'security': 'Security', 'blockchain': 'Blockchain',
+    // Cloud platforms (only if in title or primary description)
+    'aws': 'AWS', 'azure': 'Azure', 'gcp': 'GCP'
   };
 
-  const searchText = `${title} ${description}`;
+  // Only match tags from title (more accurate than description)
   for (const [keyword, tag] of Object.entries(techStack)) {
-    if (searchText.includes(keyword)) {
+    if (title.includes(keyword)) {
       tags.push(tag);
     }
+  }
+
+  // Limit to max 5 tags total to avoid clutter
+  if (tags.length > 5) {
+    tags.length = 5;
   }
 
   // Role category tags (only if not already added via tech stack)
@@ -127,29 +131,8 @@ function buildJobEmbed(job, options = {}) {
   // Note: Don't include emoji in title for forum posts as Discord handles it differently
   const title = job.job_title;
 
-  // Determine posted date display (show both Discord and Company dates if different)
-  const now = new Date();
-  const companyDate = job.job_posted_at_datetime_utc ? new Date(job.job_posted_at_datetime_utc) : null;
-  const daysDifference = companyDate ? Math.floor((now - companyDate) / (1000 * 60 * 60 * 24)) : 0;
-
-  let postedValue;
-  if (daysDifference > 7 && companyDate) {
-    // Show both dates when >7 days apart
-    const discordDateStr = now.toLocaleDateString('en-US', {
-      month: 'short',
-      day: 'numeric',
-      year: 'numeric'
-    });
-    const companyDateStr = companyDate.toLocaleDateString('en-US', {
-      month: 'short',
-      day: 'numeric',
-      year: 'numeric'
-    });
-    postedValue = `Discord: ${discordDateStr}\nCompany: ${companyDateStr}`;
-  } else {
-    // Show single date if recent or no company date
-    postedValue = formatPostedDate(job.job_posted_at_datetime_utc);
-  }
+  // Use company posted date only (simpler, less confusing)
+  const postedValue = formatPostedDate(job.job_posted_at_datetime_utc);
 
   const embed = new EmbedBuilder()
     .setTitle(title)
@@ -178,15 +161,10 @@ function buildJobEmbed(job, options = {}) {
     });
   }
 
-  // Add footer with job number if channel info provided
+  // Add footer with job number only (no redundant date - already in Posted field)
   if (options.channelName && options.channelJobNumber) {
-    const postedDate = new Date().toLocaleDateString('en-US', {
-      year: 'numeric',
-      month: 'short',
-      day: 'numeric'
-    });
     embed.setFooter({
-      text: `Job #${options.channelJobNumber} in #${options.channelName} | Posted: ${postedDate}`
+      text: `Job #${options.channelJobNumber} in #${options.channelName}`
     });
   }
 
@@ -307,53 +285,6 @@ function buildJobMessage(job) {
 }
 
 /**
- * Check if job already posted to Discord channel (anti-duplicate defense)
- * @param {Object} job - Job object
- * @param {Object} channel - Discord channel
- * @returns {Promise<boolean>} True if already posted recently
- */
-async function isJobAlreadyPostedToChannel(job, channel) {
-  try {
-    // Fetch recent messages (last 100, covers ~2 hours of posts at 15 min intervals)
-    // Note: 100 is Discord's max single fetch, covers sufficient window for 2-hour check
-    const messages = await channel.messages.fetch({ limit: 100 });
-
-    // Search for matching job title + company in embeds
-    const jobTitle = job.job_title;
-    const company = job.employer_name;
-
-    // Time window: only skip if posted within last 2 hours
-    const twoHoursAgo = Date.now() - (2 * 60 * 60 * 1000);
-
-    for (const message of messages.values()) {
-      // Skip messages older than 2 hours
-      if (message.createdTimestamp < twoHoursAgo) {
-        continue;
-      }
-
-      if (message.embeds && message.embeds.length > 0) {
-        const embed = message.embeds[0];
-        // Check if embed title matches (format: "Job Title")
-        if (embed.title === jobTitle && embed.fields) {
-          // Verify company field matches
-          const companyField = embed.fields.find(f => f.name === '🏢 Company');
-          if (companyField && companyField.value === company) {
-            const ageMinutes = Math.floor((Date.now() - message.createdTimestamp) / (1000 * 60));
-            console.log(`   ⏱️  Found duplicate posted ${ageMinutes}m ago`);
-            return true; // Exact match found within time window
-          }
-        }
-      }
-    }
-
-    return false;
-  } catch (error) {
-    console.warn(`⚠️  Could not check for duplicates in #${channel.name}:`, error.message);
-    return false; // On error, allow posting (fail-open for availability)
-  }
-}
-
-/**
  * Post a job to a Discord text channel (NEW for text messages)
  * @param {Object} job - Job object from API
  * @param {Object} channel - Discord channel object
@@ -364,21 +295,6 @@ async function postJobToChannel(job, channel, options = {}) {
   return discordApiCall(
     async () => {
       const jobId = generateJobId(job);
-
-      // PRE-POST DUPLICATE CHECK (defense against concurrent workflow runs)
-      // TEMPORARILY DISABLED to clear queue after database race condition fix
-      // TODO: Re-enable after queue is cleared (when pending_posts.json < 100 jobs)
-      // const alreadyPosted = await isJobAlreadyPostedToChannel(job, channel);
-      // if (alreadyPosted) {
-      //   console.log(`⏭️  [DISCORD SKIP] ${job.job_title} @ ${job.employer_name} already in #${channel.name} (duplicate defense)`);
-      //   return {
-      //     success: false,
-      //     skipped: true,
-      //     reason: 'already_posted_to_discord',
-      //     channelId: channel.id
-      //   };
-      // }
-      console.log(`⚠️  DUPLICATE CHECK DISABLED - Clearing queue after race condition fix`);
 
       // Build embed with channel info if provided
       const embedOptions = {
