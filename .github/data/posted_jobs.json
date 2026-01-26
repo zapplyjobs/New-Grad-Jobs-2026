@@ -1,150 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T07:48:49.949Z",
+  "lastUpdated": "2026-01-26T07:59:23.107Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5026067007-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5026067007",
-      "company": "Verkada",
-      "title": "Frontend Software Engineer – University Graduate 2026",
-      "postedToDiscord": "2026-01-19T07:55:55.314Z",
-      "sourceDate": "2026-01-16T02:30:39.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5026067007",
-      "discordThreadId": "1462717180842868907",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5061517008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061517008",
-      "company": "anthropic",
-      "title": "Research Engineer, Universes",
-      "postedToDiscord": "2026-01-19T07:55:58.840Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
-      "discordThreadId": "1462717195930042388",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-rws-b94322e4-11a0-4515-9c2c-461ee66d0d47-apply-2026-01-19-1",
-      "jobId": "jobs-lever-co-rws-b94322e4-11a0-4515-9c2c-461ee66d0d47-apply",
-      "company": "RWS",
-      "title": "AI Data Specialist - Virginia - US",
-      "postedToDiscord": "2026-01-19T07:56:00.670Z",
-      "sourceDate": "2026-01-16T15:18:57.000Z",
-      "sourceUrl": "https://jobs.lever.co/rws/b94322e4-11a0-4515-9c2c-461ee66d0d47/apply",
-      "discordThreadId": "1462717210358317140",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eyglobal-yello-co-jobs-mtneo4nt4nnx0mujbis29g-2026-01-19-1",
-      "jobId": "eyglobal-yello-co-jobs-mtneo4nt4nnx0mujbis29g",
-      "company": "Ernst & Young",
-      "title": "USA – Tax - Business Tax Services - Federal Tax Advisory','Fta','Jd/LLM','Staff 2",
-      "postedToDiscord": "2026-01-19T07:56:04.094Z",
-      "sourceDate": "2026-01-16T15:14:45.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/MtNeO4nT4NNX0MujBIs29g?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": "1462717218067316750",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-i_r2117676-2026-01-19-1",
-      "jobId": "kbr-wd5-myworkdayjobs-com-kbr_careers-job-sioux-falls-south-dakota-software-engineer-i_r2117676",
-      "company": "KBR",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-19T07:56:07.434Z",
-      "sourceDate": "2026-01-16T15:28:59.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-I_R2117676",
-      "discordThreadId": "1462717232487469182",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eyglobal-yello-co-jobs-tosfhhraxlwl6g2vyogdkw-2026-01-19-1",
-      "jobId": "eyglobal-yello-co-jobs-tosfhhraxlwl6g2vyogdkw",
-      "company": "Ernst & Young",
-      "title": "USA – Tax - Indirect Tax - California Controversy Group','Sacramento','Jd/LLM','Staff 2",
-      "postedToDiscord": "2026-01-19T07:56:10.939Z",
-      "sourceDate": "2026-01-16T15:14:22.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/tOsfhHRaXLWL6g2VYOGDKw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": "1462717246592782337",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eyglobal-yello-co-jobs-y_ehdevk9fkm4afzsocccw-2026-01-19-1",
-      "jobId": "eyglobal-yello-co-jobs-y_ehdevk9fkm4afzsocccw",
-      "company": "Ernst & Young",
-      "title": "USA – Tax - Indirect Tax - Technology Staff",
-      "postedToDiscord": "2026-01-19T07:56:10.961Z",
-      "sourceDate": "2026-01-16T15:10:11.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/y_eHDevK9fKm4aFZsOCCcw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "eyglobal-yello-co-jobs-_bezzafrici-w2s09jqtxa-2026-01-19-1",
-      "jobId": "eyglobal-yello-co-jobs-_bezzafrici-w2s09jqtxa",
-      "company": "Ernst & Young",
-      "title": "USA – Tax - Indirect Tax - State Income Tax",
-      "postedToDiscord": "2026-01-19T07:56:10.981Z",
-      "sourceDate": "2026-01-16T15:09:41.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/_BEZzaFRicI-W2S09JqTXA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "eyglobal-yello-co-jobs-3j-vmigwh9kv8wgrxv2f6w-2026-01-19-1",
-      "jobId": "eyglobal-yello-co-jobs-3j-vmigwh9kv8wgrxv2f6w",
-      "company": "Ernst & Young",
-      "title": "USA – Service Delivery Center - Business Technology - Associate Analyst",
-      "postedToDiscord": "2026-01-19T07:56:14.387Z",
-      "sourceDate": "2026-01-16T15:13:44.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/3j-VMIgwH9kv8WgrXv2f6w?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": "1462717261428162646",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7536400-2026-01-19-1",
-      "jobId": "careers-datadoghq-com-detail-7536400",
-      "company": "datadog",
-      "title": "Senior Demand Generation Marketing Manager (Public Sector)",
-      "postedToDiscord": "2026-01-19T07:56:20.899Z",
-      "sourceDate": "2026-01-16T12:07:15-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7536400/?gh_jid=7536400",
-      "discordThreadId": "1462717288598867979",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7528341-2026-01-19-1",
-      "jobId": "careers-datadoghq-com-detail-7528341",
-      "company": "datadog",
-      "title": "Senior Demand Generation Marketing Manager (Public Sector)",
-      "postedToDiscord": "2026-01-19T07:56:20.918Z",
-      "sourceDate": "2026-01-16T12:01:21-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7528341/?gh_jid=7528341",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4985093008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985093008",
-      "company": "anthropic",
-      "title": " Strategy and Messaging Communications Lead, Narrative",
-      "postedToDiscord": "2026-01-19T07:56:27.378Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985093008",
-      "discordThreadId": "1462717315580956703",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5753933004-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5753933004",
-      "company": "vercel",
-      "title": "FP&A Manager,  GTM",
-      "postedToDiscord": "2026-01-19T07:56:30.710Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753933004",
-      "discordThreadId": "1462717329845653627",
-      "instanceNumber": 1
-    },
     {
       "id": "eyglobal-yello-co-jobs-fye_cgvkuve9hq-vxzmsng-2026-01-19-1",
       "jobId": "eyglobal-yello-co-jobs-fye_cgvkuve9hq-vxzmsng",
@@ -12845,9 +12702,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465252033480229011",
+          "messageId": "1465254689569374293",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:28.020Z",
+          "postedAt": "2026-01-26T07:59:01.208Z",
           "channelJobNumber": 181
         }
       },
@@ -12863,9 +12720,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465252040530985031",
+          "messageId": "1465254696641106033",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:29.701Z",
+          "postedAt": "2026-01-26T07:59:02.923Z",
           "channelJobNumber": 182
         }
       },
@@ -12881,9 +12738,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465252048072212686",
+          "messageId": "1465254703888601241",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:31.460Z",
+          "postedAt": "2026-01-26T07:59:04.800Z",
           "channelJobNumber": 183
         }
       },
@@ -12899,9 +12756,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465252055345004727",
+          "messageId": "1465254711744790561",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:33.183Z",
+          "postedAt": "2026-01-26T07:59:06.533Z",
           "channelJobNumber": 184
         }
       },
@@ -12917,9 +12774,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465252075452764213",
+          "messageId": "1465254731772461164",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:38.167Z",
+          "postedAt": "2026-01-26T07:59:11.337Z",
           "channelJobNumber": 92
         }
       },
@@ -12935,9 +12792,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465252083325468695",
+          "messageId": "1465254738952978544",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:39.890Z",
+          "postedAt": "2026-01-26T07:59:13.104Z",
           "channelJobNumber": 93
         }
       },
@@ -12953,9 +12810,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465252090753585326",
+          "messageId": "1465254746666438915",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:41.697Z",
+          "postedAt": "2026-01-26T07:59:14.918Z",
           "channelJobNumber": 94
         }
       },
@@ -12971,9 +12828,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465252098382757930",
+          "messageId": "1465254754211991685",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:43.532Z",
+          "postedAt": "2026-01-26T07:59:16.619Z",
           "channelJobNumber": 95
         }
       },
@@ -12989,9 +12846,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465252105895022604",
+          "messageId": "1465254761082257672",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:45.199Z",
+          "postedAt": "2026-01-26T07:59:18.358Z",
           "channelJobNumber": 96
         }
       },
@@ -13007,9 +12864,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465252125775888490",
+          "messageId": "1465254781030236288",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:48:49.948Z",
+          "postedAt": "2026-01-26T07:59:23.107Z",
           "channelJobNumber": 71
         }
       },
@@ -13017,11 +12874,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 914,
+    "totalJobs": 901,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T07:48:49.949Z",
+      "date": "2026-01-26T07:59:23.107Z",
       "archived": 0
     }
   }
