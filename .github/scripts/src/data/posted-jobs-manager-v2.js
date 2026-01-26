@@ -521,20 +521,20 @@ class PostedJobsManagerV2 {
           mergedJobs.set(job.id, job);
           mergeStats.newerJobs++;
         } else if (new Date(job.postedToDiscord).getTime() === new Date(existing.postedToDiscord).getTime()) {
-          // Same timestamp - merge discordPosts (memory has latest channel updates)
-          const merged = {...existing};
+          // Same timestamp - merge discordPosts directly into existing object
           const memoryChannels = job.discordPosts ? Object.keys(job.discordPosts).length : 0;
           const diskChannels = existing.discordPosts ? Object.keys(existing.discordPosts).length : 0;
 
           if (job.discordPosts && memoryChannels > 0) {
-            merged.discordPosts = {...(existing.discordPosts || {}), ...job.discordPosts};
-            const mergedChannels = Object.keys(merged.discordPosts).length;
+            // Modify existing object in place (already in mergedJobs)
+            existing.discordPosts = {...(existing.discordPosts || {}), ...job.discordPosts};
+            const mergedChannels = Object.keys(existing.discordPosts).length;
             if (mergedChannels !== diskChannels) {
               mergeStats.deepMerged++;
               console.log(`  🔀 Deep merged: ${job.title} @ ${job.company} (disk: ${diskChannels} channels → merged: ${mergedChannels} channels)`);
             }
           }
-          mergedJobs.set(job.id, merged);
+          // No need to set - existing is already in mergedJobs
         } else {
           mergeStats.skipped++;
         }
