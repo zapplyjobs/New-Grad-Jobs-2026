@@ -1,183 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T08:32:44.603Z",
+  "lastUpdated": "2026-01-26T09:08:16.893Z",
   "jobs": [
-    {
-      "id": "jobs-lever-co-spotify-6698ffb1-ad8f-4173-bf81-884357eaba0d-2026-01-19-1",
-      "jobId": "jobs-lever-co-spotify-6698ffb1-ad8f-4173-bf81-884357eaba0d",
-      "company": "spotify",
-      "title": "Data Engineer II, Ads Product & Tech",
-      "postedToDiscord": "2026-01-19T08:48:44.392Z",
-      "sourceDate": "2026-01-12T20:02:57.087Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/6698ffb1-ad8f-4173-bf81-884357eaba0d",
-      "discordThreadId": "1462730473028456481",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7545290-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7545290",
-      "company": "reddit",
-      "title": "Vendor Performance Manager, North America",
-      "postedToDiscord": "2026-01-19T08:48:46.197Z",
-      "sourceDate": "2026-01-16T14:48:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7545290",
-      "discordThreadId": "1462730487876554772",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5062393008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062393008",
-      "company": "anthropic",
-      "title": "Customer Success Manager, Digital Native Businesses ",
-      "postedToDiscord": "2026-01-19T08:48:49.956Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
-      "discordThreadId": "1462730495388291136",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5054997008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054997008",
-      "company": "anthropic",
-      "title": "Startup Partnerships ",
-      "postedToDiscord": "2026-01-19T08:48:53.447Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054997008",
-      "discordThreadId": "1462730511217725522",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5068226008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5068226008",
-      "company": "anthropic",
-      "title": "Applied AI Engineer, Beneficial Deployments",
-      "postedToDiscord": "2026-01-19T08:48:57.074Z",
-      "sourceDate": "2026-01-16T15:57:08-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068226008",
-      "discordThreadId": "1462730525880877088",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-e34e365c-b69a-42c2-9370-aa25cd10ce0d-2026-01-19-1",
-      "jobId": "jobs-lever-co-spotify-e34e365c-b69a-42c2-9370-aa25cd10ce0d",
-      "company": "spotify",
-      "title": "Senior Data Engineer, Ads Product & Tech",
-      "postedToDiscord": "2026-01-19T08:49:03.673Z",
-      "sourceDate": "2026-01-12T19:50:11.898Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/e34e365c-b69a-42c2-9370-aa25cd10ce0d",
-      "discordThreadId": "1462730553676795984",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8370535002-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8370535002",
-      "company": "discord",
-      "title": "Staff Software Engineer, Design Systems",
-      "postedToDiscord": "2026-01-19T08:49:10.131Z",
-      "sourceDate": "2026-01-16T14:40:41-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8370535002",
-      "discordThreadId": "1462730581371785331",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8378840002-2026-01-19-1",
-      "jobId": "www-brex-com-careers-8378840002",
-      "company": "brex",
-      "title": "Senior GRC Lead",
-      "postedToDiscord": "2026-01-19T08:49:23.889Z",
-      "sourceDate": "2026-01-16T15:02:45-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8378840002?gh_jid=8378840002",
-      "discordThreadId": "1462730637990432874",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8378792002-2026-01-19-1",
-      "jobId": "www-brex-com-careers-8378792002",
-      "company": "brex",
-      "title": "Senior GRC Lead",
-      "postedToDiscord": "2026-01-19T08:49:23.908Z",
-      "sourceDate": "2026-01-16T15:02:44-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8378792002?gh_jid=8378792002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-6dfd1d6f-5efc-473a-aa48-8026eea476fc-2026-01-19-1",
-      "jobId": "jobs-lever-co-spotify-6dfd1d6f-5efc-473a-aa48-8026eea476fc",
-      "company": "spotify",
-      "title": "Data Scientist - Finance Data & Insights, Ads and Podcasts",
-      "postedToDiscord": "2026-01-19T09:02:45.426Z",
-      "sourceDate": "2026-01-16T18:57:13.601Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/6dfd1d6f-5efc-473a-aa48-8026eea476fc",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5074815008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074815008",
-      "company": "anthropic",
-      "title": "Research Engineer, Audio",
-      "postedToDiscord": "2026-01-19T09:02:56.147Z",
-      "sourceDate": "2026-01-16T17:13:13-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074815008",
-      "discordThreadId": "1462734045652979723",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5074217008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074217008",
-      "company": "anthropic",
-      "title": "Research Engineer / Research Scientist, Vision",
-      "postedToDiscord": "2026-01-19T09:02:59.677Z",
-      "sourceDate": "2026-01-16T17:41:39-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
-      "discordThreadId": "1462734060202885256",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5020484007-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5020484007",
-      "company": "verkada",
-      "title": "Channel Development Representative, West (Phoenix) ",
-      "postedToDiscord": "2026-01-19T09:03:04.427Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5020484007",
-      "discordThreadId": "1462734087713325128",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5062861008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062861008",
-      "company": "anthropic",
-      "title": "Director, FX & Investments",
-      "postedToDiscord": "2026-01-19T09:03:11.694Z",
-      "sourceDate": "2026-01-16T18:05:54-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062861008",
-      "discordThreadId": "1462734111058825349",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5063007008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5063007008",
-      "company": "anthropic",
-      "title": "Software Engineer, Cybersecurity Products",
-      "postedToDiscord": "2026-01-19T09:03:18.143Z",
-      "sourceDate": "2026-01-14T14:42:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
-      "discordThreadId": "1462734138166612051",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5073388008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5073388008",
-      "company": "anthropic",
-      "title": "Program Manager, Responsible Scaling Policy",
-      "postedToDiscord": "2026-01-19T09:03:24.752Z",
-      "sourceDate": "2026-01-16T18:23:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073388008",
-      "discordThreadId": "1462734165047775265",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-4939288008-2026-01-19-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939288008",
@@ -12614,9 +12438,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465263087086080000",
+          "messageId": "1465272026938736724",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:23.350Z",
+          "postedAt": "2026-01-26T09:07:54.848Z",
           "channelJobNumber": 181
         }
       },
@@ -12632,9 +12456,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465263094425976904",
+          "messageId": "1465272034492682382",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:25.124Z",
+          "postedAt": "2026-01-26T09:07:56.646Z",
           "channelJobNumber": 182
         }
       },
@@ -12650,9 +12474,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465263101787242598",
+          "messageId": "1465272041866268898",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:26.854Z",
+          "postedAt": "2026-01-26T09:07:58.395Z",
           "channelJobNumber": 183
         }
       },
@@ -12668,9 +12492,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465263108858707978",
+          "messageId": "1465272049130799107",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:28.493Z",
+          "postedAt": "2026-01-26T09:08:00.156Z",
           "channelJobNumber": 184
         }
       },
@@ -12686,9 +12510,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465263128475336714",
+          "messageId": "1465272069708316743",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:33.200Z",
+          "postedAt": "2026-01-26T09:08:04.967Z",
           "channelJobNumber": 92
         }
       },
@@ -12704,9 +12528,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465263135513510010",
+          "messageId": "1465272076624593085",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:34.913Z",
+          "postedAt": "2026-01-26T09:08:06.727Z",
           "channelJobNumber": 93
         }
       },
@@ -12722,9 +12546,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465263142681579561",
+          "messageId": "1465272084342243462",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:36.593Z",
+          "postedAt": "2026-01-26T09:08:08.554Z",
           "channelJobNumber": 94
         }
       },
@@ -12740,9 +12564,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465263149644255368",
+          "messageId": "1465272091929739296",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:38.253Z",
+          "postedAt": "2026-01-26T09:08:10.240Z",
           "channelJobNumber": 95
         }
       },
@@ -12758,9 +12582,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465263156661194833",
+          "messageId": "1465272098795819031",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:39.889Z",
+          "postedAt": "2026-01-26T09:08:12.011Z",
           "channelJobNumber": 96
         }
       },
@@ -12776,9 +12600,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465263176391065641",
+          "messageId": "1465272119448571905",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:32:44.603Z",
+          "postedAt": "2026-01-26T09:08:16.893Z",
           "channelJobNumber": 71
         }
       },
@@ -12786,11 +12610,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 893,
+    "totalJobs": 877,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T08:32:44.603Z",
+      "date": "2026-01-26T09:08:16.893Z",
       "archived": 0
     }
   }
