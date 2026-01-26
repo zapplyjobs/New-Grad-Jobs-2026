@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T06:52:56.979Z",
+  "lastUpdated": "2026-01-26T07:18:22.843Z",
   "jobs": [
-    {
-      "id": "aexp-eightfold-ai-careers-job-39568135-2026-01-19-1",
-      "jobId": "aexp-eightfold-ai-careers-job-39568135",
-      "company": "American Express",
-      "title": "Software Engineer - Full Stack",
-      "postedToDiscord": "2026-01-19T07:05:44.411Z",
-      "sourceDate": "2026-01-12T23:09:10.000Z",
-      "sourceUrl": "https://aexp.eightfold.ai/careers/job/39568135",
-      "discordThreadId": "1462704552821264497",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-uipath-32206bf8-e395-4ba9-bf2f-6bfc32272697-application-2026-01-19-1",
-      "jobId": "jobs-ashbyhq-com-uipath-32206bf8-e395-4ba9-bf2f-6bfc32272697-application",
-      "company": "UiPath",
-      "title": "Software Engineer 1 - Backend",
-      "postedToDiscord": "2026-01-19T07:05:47.793Z",
-      "sourceDate": "2026-01-16T07:07:58.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/uipath/32206bf8-e395-4ba9-bf2f-6bfc32272697/application",
-      "discordThreadId": "1462704567157264517",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cardinalhealth-wd1-myworkdayjobs-com-ext-job-tx-el-paso-butterfield-product-engineer_20173691-1-2026-01-19-1",
-      "jobId": "cardinalhealth-wd1-myworkdayjobs-com-ext-job-tx-el-paso-butterfield-product-engineer_20173691-1",
-      "company": "Cardinal Health",
-      "title": "Product Engineer",
-      "postedToDiscord": "2026-01-19T07:05:51.172Z",
-      "sourceDate": "2026-01-16T07:35:52.000Z",
-      "sourceUrl": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-El-Paso-Butterfield/Product-Engineer_20173691-1",
-      "discordThreadId": "1462704581237801101",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-67c51404-9542-46a6-8752-dcfa9fa8daf7-2026-01-19-1",
-      "jobId": "jobs-lever-co-spotify-67c51404-9542-46a6-8752-dcfa9fa8daf7",
-      "company": "spotify",
-      "title": "Customer Success Manager, Ad Sales",
-      "postedToDiscord": "2026-01-19T07:06:01.426Z",
-      "sourceDate": "2026-01-15T14:24:50.254Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/67c51404-9542-46a6-8752-dcfa9fa8daf7",
-      "discordThreadId": "1462704623390556258",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-huntingtoningalls-com-job-newport-news-engineering-technician-1-virg-1356738500-2026-01-19-1",
-      "jobId": "careers-huntingtoningalls-com-job-newport-news-engineering-technician-1-virg-1356738500",
-      "company": "Huntington Ingalls Industries",
-      "title": "Engineering Technician 1",
-      "postedToDiscord": "2026-01-19T07:06:05.598Z",
-      "sourceDate": "2026-01-16T07:07:16.000Z",
-      "sourceUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-1-Virg/1356738500/?ats=successfactors",
-      "discordThreadId": "1462704639240704154",
-      "instanceNumber": 1
-    },
-    {
-      "id": "capitalone-wd12-myworkdayjobs-com-capital_one-job-new-york-ny-applied-researcher-i-ai-foundations-_r229418-1-2026-01-19-1",
-      "jobId": "capitalone-wd12-myworkdayjobs-com-capital_one-job-new-york-ny-applied-researcher-i-ai-foundations-_r229418-1",
-      "company": "Capital One",
-      "title": "Applied Researcher 1 - AI Foundations",
-      "postedToDiscord": "2026-01-19T07:06:09.124Z",
-      "sourceDate": "2026-01-16T07:32:54.000Z",
-      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R229418-1",
-      "discordThreadId": "1462704656114389044",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5061729008-2026-01-19-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5061729008",
@@ -12999,9 +12933,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465237971669356727",
+          "messageId": "1465244370167922835",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:35.570Z",
+          "postedAt": "2026-01-26T07:18:00.907Z",
           "channelJobNumber": 181
         }
       },
@@ -13017,9 +12951,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465237979848249384",
+          "messageId": "1465244377499701298",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:37.329Z",
+          "postedAt": "2026-01-26T07:18:02.611Z",
           "channelJobNumber": 182
         }
       },
@@ -13035,9 +12969,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465237986823246026",
+          "messageId": "1465244384584007684",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:39.016Z",
+          "postedAt": "2026-01-26T07:18:04.363Z",
           "channelJobNumber": 183
         }
       },
@@ -13053,9 +12987,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465237994201153608",
+          "messageId": "1465244391894421659",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:40.705Z",
+          "postedAt": "2026-01-26T07:18:06.051Z",
           "channelJobNumber": 184
         }
       },
@@ -13071,9 +13005,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465238013968777226",
+          "messageId": "1465244411918291110",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:45.440Z",
+          "postedAt": "2026-01-26T07:18:10.956Z",
           "channelJobNumber": 92
         }
       },
@@ -13089,9 +13023,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465238021023469702",
+          "messageId": "1465244419631353958",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:47.091Z",
+          "postedAt": "2026-01-26T07:18:12.665Z",
           "channelJobNumber": 93
         }
       },
@@ -13107,9 +13041,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465238027885346868",
+          "messageId": "1465244426770059356",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:48.788Z",
+          "postedAt": "2026-01-26T07:18:14.615Z",
           "channelJobNumber": 94
         }
       },
@@ -13125,9 +13059,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465238035041091666",
+          "messageId": "1465244434739363954",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:50.442Z",
+          "postedAt": "2026-01-26T07:18:16.314Z",
           "channelJobNumber": 95
         }
       },
@@ -13143,9 +13077,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465238041961566322",
+          "messageId": "1465244442049908923",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:52.163Z",
+          "postedAt": "2026-01-26T07:18:18.044Z",
           "channelJobNumber": 96
         }
       },
@@ -13161,9 +13095,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465238062144421918",
+          "messageId": "1465244462232895523",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:52:56.979Z",
+          "postedAt": "2026-01-26T07:18:22.842Z",
           "channelJobNumber": 71
         }
       },
@@ -13171,11 +13105,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 928,
+    "totalJobs": 922,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T06:52:56.979Z",
+      "date": "2026-01-26T07:18:22.843Z",
       "archived": 0
     }
   }
