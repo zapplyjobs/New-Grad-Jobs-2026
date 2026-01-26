@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T05:09:43.574Z",
+  "lastUpdated": "2026-01-26T05:33:12.869Z",
   "jobs": [
-    {
-      "id": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_jr019008-2026-01-19-1",
-      "jobId": "ms-wd5-myworkdayjobs-com-external-job-new-york-new-york-united-states-of-america-associate-software-engineer_jr019008",
-      "company": "Morgan Stanley",
-      "title": "Associate – Software Engineer",
-      "postedToDiscord": "2026-01-19T05:30:25.261Z",
-      "sourceDate": "2026-01-15T23:36:54.000Z",
-      "sourceUrl": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR019008",
-      "discordThreadId": "1462680564728598571",
-      "instanceNumber": 1
-    },
-    {
-      "id": "abb-wd3-myworkdayjobs-com-external_career_page-job-dallas-texas-united-states-of-america-associate-field-application-engineer_jr00021516-2026-01-19-1",
-      "jobId": "abb-wd3-myworkdayjobs-com-external_career_page-job-dallas-texas-united-states-of-america-associate-field-application-engineer_jr00021516",
-      "company": "ABB",
-      "title": "Associate Field Application Engineer",
-      "postedToDiscord": "2026-01-19T05:30:28.736Z",
-      "sourceDate": "2026-01-15T23:27:40.000Z",
-      "sourceUrl": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dallas-Texas-United-States-of-America/Associate-Field-Application-Engineer_JR00021516",
-      "discordThreadId": "1462680579194486897",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-tools-20for-20humanity-5e076db5-ef04-46d2-a586-dc7675485808-application-2026-01-19-1",
-      "jobId": "jobs-ashbyhq-com-tools-20for-20humanity-5e076db5-ef04-46d2-a586-dc7675485808-application",
-      "company": "Tools for Humanity",
-      "title": "Fellow",
-      "postedToDiscord": "2026-01-19T05:30:32.322Z",
-      "sourceDate": "2026-01-15T23:13:53.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/5e076db5-ef04-46d2-a586-dc7675485808/application",
-      "discordThreadId": "1462680593933406258",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sofi-com-careers-job-7593749003-2026-01-19-1",
-      "jobId": "sofi-com-careers-job-7593749003",
-      "company": "SoFi",
-      "title": "Senior Data Engineer",
-      "postedToDiscord": "2026-01-19T05:30:40.672Z",
-      "sourceDate": "2026-01-15T23:36:18.000Z",
-      "sourceUrl": "https://sofi.com/careers/job/7593749003?gh_jid=7593749003",
-      "discordThreadId": "1462680636245676209",
-      "instanceNumber": 1
-    },
-    {
-      "id": "caci-wd1-myworkdayjobs-com-external-job-us-ca-norco-data-analyst-systems-analysis-electrical-engineer-scientist-support-_321185-2026-01-19-1",
-      "jobId": "caci-wd1-myworkdayjobs-com-external-job-us-ca-norco-data-analyst-systems-analysis-electrical-engineer-scientist-support-_321185",
-      "company": "CACI",
-      "title": "Data Analyst - Systems Analysis - Electrical Engineer/Scientist Support",
-      "postedToDiscord": "2026-01-19T05:30:44.201Z",
-      "sourceDate": "2026-01-15T23:14:42.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Analyst--Systems-Analysis--Electrical-Engineer-Scientist-Support-_321185",
-      "discordThreadId": "1462680644013522946",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-integrated-food-energy-water-systems-_r-089880-1-2026-01-19-1",
-      "jobId": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-integrated-food-energy-water-systems-_r-089880-1",
-      "company": "Prairie View A&M University",
-      "title": "Postdoctoral Researcher - Pier - Integrated Food-Energy-Water Systems",
-      "postedToDiscord": "2026-01-19T05:30:50.625Z",
-      "sourceDate": "2026-01-15T23:12:36.000Z",
-      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Integrated-Food-Energy-Water-Systems-_R-089880-1",
-      "discordThreadId": "1462680671095881813",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5054819008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5054819008",
-      "company": "anthropic",
-      "title": "Manager, Account Executive - Enterprise Sales (Industries)",
-      "postedToDiscord": "2026-01-19T05:31:00.612Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054819008",
-      "discordThreadId": "1462680713026469909",
-      "instanceNumber": 1
-    },
     {
       "id": "job-boards-greenhouse-io-anthropic-jobs-5071506008-2026-01-19-1",
       "jobId": "job-boards-greenhouse-io-anthropic-jobs-5071506008",
@@ -13230,9 +13153,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465211989952299121",
+          "messageId": "1465217904587833356",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:20.840Z",
+          "postedAt": "2026-01-26T05:32:51.059Z",
           "channelJobNumber": 181
         }
       },
@@ -13248,9 +13171,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465211997254586544",
+          "messageId": "1465217912003498079",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:22.610Z",
+          "postedAt": "2026-01-26T05:32:52.746Z",
           "channelJobNumber": 182
         }
       },
@@ -13266,9 +13189,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465212004179382447",
+          "messageId": "1465217919498588224",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:24.295Z",
+          "postedAt": "2026-01-26T05:32:54.646Z",
           "channelJobNumber": 183
         }
       },
@@ -13284,9 +13207,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465212011477733443",
+          "messageId": "1465217926901665887",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:26.136Z",
+          "postedAt": "2026-01-26T05:32:56.358Z",
           "channelJobNumber": 184
         }
       },
@@ -13302,9 +13225,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465212032176619681",
+          "messageId": "1465217946795118758",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:30.869Z",
+          "postedAt": "2026-01-26T05:33:01.035Z",
           "channelJobNumber": 92
         }
       },
@@ -13320,9 +13243,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465212039030116479",
+          "messageId": "1465217953535365152",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:32.554Z",
+          "postedAt": "2026-01-26T05:33:02.716Z",
           "channelJobNumber": 93
         }
       },
@@ -13338,9 +13261,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465212046001049764",
+          "messageId": "1465217960867008646",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:34.240Z",
+          "postedAt": "2026-01-26T05:33:04.445Z",
           "channelJobNumber": 94
         }
       },
@@ -13356,9 +13279,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465212056281022568",
+          "messageId": "1465217968123416864",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:36.720Z",
+          "postedAt": "2026-01-26T05:33:06.265Z",
           "channelJobNumber": 95
         }
       },
@@ -13374,9 +13297,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465212064086753310",
+          "messageId": "1465217975958372373",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:38.523Z",
+          "postedAt": "2026-01-26T05:33:08.075Z",
           "channelJobNumber": 96
         }
       },
@@ -13392,9 +13315,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465212084613550193",
+          "messageId": "1465217996321722492",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:09:43.574Z",
+          "postedAt": "2026-01-26T05:33:12.868Z",
           "channelJobNumber": 71
         }
       },
@@ -13402,11 +13325,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 949,
+    "totalJobs": 942,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T05:09:43.574Z",
+      "date": "2026-01-26T05:33:12.869Z",
       "archived": 0
     }
   }
