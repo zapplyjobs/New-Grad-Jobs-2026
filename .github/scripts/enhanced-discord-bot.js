@@ -905,10 +905,16 @@ client.once('ready', async () => {
 
   // Save Discord posting logs (always save - critical for debugging)
   postLogger.save();
-  
+
   // Save and display channel stats
   channelStats.logSummary();
   channelStats.save();
+
+  // CRITICAL: Save posted jobs database (Bug fix 2026-01-26)
+  // Without this, all markAsPostedToChannel() changes are lost on exit
+  console.log('\n💾 Saving posted jobs database...');
+  await postedJobsManager.savePostedJobs();
+  console.log('✅ Database saved successfully');
 
   await new Promise(resolve => setTimeout(resolve, 2000)); // Grace period for final operations
   client.destroy();
