@@ -210,7 +210,11 @@ class PostedJobsManagerV2 {
       discordThreadId: discordThreadId,
       instanceNumber: instanceNumber,
       // NEW: Multi-channel tracking
-      discordPosts: {} // Will be populated by markAsPostedToChannel()
+      discordPosts: {}, // Will be populated by markAsPostedToChannel()
+      // Location fields for routing (Bug #3 fix - 2026-01-26)
+      job_city: jobData.job_city || null,
+      job_state: jobData.job_state || null,
+      job_description: jobData.job_description || null
     };
 
     this.data.jobs.push(newJob);
@@ -257,7 +261,11 @@ class PostedJobsManagerV2 {
         sourceDate: jobData.job_posted_at_datetime_utc || null,
         sourceUrl: jobData.job_apply_link || null,
         discordPosts: {},
-        instanceNumber: instanceNumber
+        instanceNumber: instanceNumber,
+        // Location fields for routing (Bug #3 fix - 2026-01-26)
+        job_city: jobData.job_city || null,
+        job_state: jobData.job_state || null,
+        job_description: jobData.job_description || null
       };
 
       this.data.jobs.push(jobRecord);
