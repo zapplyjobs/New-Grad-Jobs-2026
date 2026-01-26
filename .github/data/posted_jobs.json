@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T05:33:12.869Z",
+  "lastUpdated": "2026-01-26T05:53:32.648Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5071506008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5071506008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Detection and Response",
-      "postedToDiscord": "2026-01-19T05:47:48.082Z",
-      "sourceDate": "2026-01-15T20:08:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5071506008",
-      "discordThreadId": "1462684938875703317",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pru-wd5-myworkdayjobs-com-careers-job-newark-nj-usa-associate-software-engineer_r-122920-1-2026-01-19-1",
-      "jobId": "pru-wd5-myworkdayjobs-com-careers-job-newark-nj-usa-associate-software-engineer_r-122920-1",
-      "company": "Prudential Financial",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-19T05:47:51.432Z",
-      "sourceDate": "2026-01-15T23:39:25.000Z",
-      "sourceUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Associate-Software-Engineer_R-122920-1",
-      "discordThreadId": "1462684953044189237",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-february-2026-start-date_jr100158-1-2026-01-19-1",
-      "jobId": "ovative-wd12-myworkdayjobs-com-en-us-ovative-job-minneapolis-analyst-data-software-engineering-february-2026-start-date_jr100158-1",
-      "company": "Ovative",
-      "title": "Analyst – Data & Software Engineering - February 2026 Start Date",
-      "postedToDiscord": "2026-01-19T05:47:54.842Z",
-      "sourceDate": "2026-01-15T23:35:22.000Z",
-      "sourceUrl": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---February-2026-Start-Date_JR100158-1",
-      "discordThreadId": "1462684967120273473",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amgen-wd1-myworkdayjobs-com-careers-job-united-states-remote-associate-machine-learning-engineer_r-234146-2026-01-19-1",
-      "jobId": "amgen-wd1-myworkdayjobs-com-careers-job-united-states-remote-associate-machine-learning-engineer_r-234146",
-      "company": "Amgen",
-      "title": "Associate Machine Learning Engineer",
-      "postedToDiscord": "2026-01-19T05:48:04.892Z",
-      "sourceDate": "2026-01-15T23:38:09.000Z",
-      "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Associate-Machine-Learning-Engineer_R-234146",
-      "discordThreadId": "1462685008828567575",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-merrimack-nh-it-software-engineering-data-engineer_2123335-1-2026-01-19-1",
-      "jobId": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-merrimack-nh-it-software-engineering-data-engineer_2123335-1",
-      "company": "Fidelity Investments",
-      "title": "IT Software Engineering - Data Engineer",
-      "postedToDiscord": "2026-01-19T05:48:08.235Z",
-      "sourceDate": "2026-01-15T23:38:21.000Z",
-      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/IT---Software-Engineering---Data-Engineer_2123335-1",
-      "discordThreadId": "1462685023692914872",
-      "instanceNumber": 1
-    },
     {
       "id": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-ai-full-stack-development_2531265-3-2026-01-19-1",
       "jobId": "kla-wd1-myworkdayjobs-com-search-job-ann-arbor-mi-software-engineer-ai-full-stack-development_2531265-3",
@@ -13153,9 +13098,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465217904587833356",
+          "messageId": "1465223021026349282",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:32:51.059Z",
+          "postedAt": "2026-01-26T05:53:10.976Z",
           "channelJobNumber": 181
         }
       },
@@ -13171,9 +13116,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465217912003498079",
+          "messageId": "1465223028752519259",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:32:52.746Z",
+          "postedAt": "2026-01-26T05:53:12.665Z",
           "channelJobNumber": 182
         }
       },
@@ -13189,9 +13134,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465217919498588224",
+          "messageId": "1465223035505344607",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:32:54.646Z",
+          "postedAt": "2026-01-26T05:53:14.373Z",
           "channelJobNumber": 183
         }
       },
@@ -13207,9 +13152,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465217926901665887",
+          "messageId": "1465223042631208974",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:32:56.358Z",
+          "postedAt": "2026-01-26T05:53:16.112Z",
           "channelJobNumber": 184
         }
       },
@@ -13225,9 +13170,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465217946795118758",
+          "messageId": "1465223063103606952",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:33:01.035Z",
+          "postedAt": "2026-01-26T05:53:21.042Z",
           "channelJobNumber": 92
         }
       },
@@ -13243,9 +13188,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465217953535365152",
+          "messageId": "1465223070976315407",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:33:02.716Z",
+          "postedAt": "2026-01-26T05:53:22.750Z",
           "channelJobNumber": 93
         }
       },
@@ -13261,9 +13206,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465217960867008646",
+          "messageId": "1465223078211485827",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:33:04.445Z",
+          "postedAt": "2026-01-26T05:53:24.501Z",
           "channelJobNumber": 94
         }
       },
@@ -13279,9 +13224,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465217968123416864",
+          "messageId": "1465223085388071164",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:33:06.265Z",
+          "postedAt": "2026-01-26T05:53:26.159Z",
           "channelJobNumber": 95
         }
       },
@@ -13297,9 +13242,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465217975958372373",
+          "messageId": "1465223091993968735",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:33:08.075Z",
+          "postedAt": "2026-01-26T05:53:27.902Z",
           "channelJobNumber": 96
         }
       },
@@ -13315,9 +13260,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465217996321722492",
+          "messageId": "1465223112575549622",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:33:12.868Z",
+          "postedAt": "2026-01-26T05:53:32.647Z",
           "channelJobNumber": 71
         }
       },
@@ -13325,11 +13270,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 942,
+    "totalJobs": 937,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T05:33:12.869Z",
+      "date": "2026-01-26T05:53:32.648Z",
       "archived": 0
     }
   }
