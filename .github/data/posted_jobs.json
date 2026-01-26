@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T09:18:50.252Z",
+  "lastUpdated": "2026-01-26T09:35:21.789Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4939288008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939288008",
-      "company": "anthropic",
-      "title": "Real Estate Project Manager",
-      "postedToDiscord": "2026-01-19T09:20:25.498Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
-      "discordThreadId": "1462738446815723522",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5074052008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074052008",
-      "company": "anthropic",
-      "title": "Commercial Counsel, GTM",
-      "postedToDiscord": "2026-01-19T09:20:32.309Z",
-      "sourceDate": "2026-01-16T18:32:49-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
-      "discordThreadId": "1462738474766434446",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8379352002-2026-01-19-1",
-      "jobId": "www-brex-com-careers-8379352002",
-      "company": "brex",
-      "title": "Account Executive, E-Commerce ",
-      "postedToDiscord": "2026-01-19T09:20:35.755Z",
-      "sourceDate": "2026-01-16T19:14:22-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8379352002?gh_jid=8379352002",
-      "discordThreadId": "1462738490251939863",
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8379350002-2026-01-19-1",
-      "jobId": "www-brex-com-careers-8379350002",
-      "company": "brex",
-      "title": "Account Executive, E-Commerce ",
-      "postedToDiscord": "2026-01-19T09:20:35.777Z",
-      "sourceDate": "2026-01-16T19:14:21-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8379350002?gh_jid=8379350002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8379349002-2026-01-19-1",
-      "jobId": "www-brex-com-careers-8379349002",
-      "company": "brex",
-      "title": "Account Executive, E-Commerce ",
-      "postedToDiscord": "2026-01-19T09:20:35.802Z",
-      "sourceDate": "2026-01-16T19:14:20-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8379349002?gh_jid=8379349002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8377510002-2026-01-19-1",
-      "jobId": "www-brex-com-careers-8377510002",
-      "company": "brex",
-      "title": "Account Executive, E-Commerce ",
-      "postedToDiscord": "2026-01-19T09:20:35.823Z",
-      "sourceDate": "2026-01-16T19:13:59-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8377510002?gh_jid=8377510002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5074045008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074045008",
-      "company": "anthropic",
-      "title": "Product Counsel, Safety",
-      "postedToDiscord": "2026-01-19T09:20:42.446Z",
-      "sourceDate": "2026-01-16T18:27:54-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074045008",
-      "discordThreadId": "1462738517909311608",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eyglobal-yello-co-jobs-cmbujccdjj3xxyhgn1ggyg-2026-01-19-1",
-      "jobId": "eyglobal-yello-co-jobs-cmbujccdjj3xxyhgn1ggyg",
-      "company": "Ernst & Young",
-      "title": "USA – Tax - Indirect Tax",
-      "postedToDiscord": "2026-01-19T09:20:44.332Z",
-      "sourceDate": "2026-01-16T23:09:22.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/CmBUJcCDjJ3XXYHGn1GgYg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": "1462738533096882305",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-jobvite-com-blackboard-job-o617yfww-2026-01-19-1",
-      "jobId": "jobs-jobvite-com-blackboard-job-o617yfww",
-      "company": "Blackboard",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-19T09:20:51.165Z",
-      "sourceDate": "2026-01-16T23:16:28.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/blackboard/job/o617yfww?nl=1&nl=1&fr=false",
-      "discordThreadId": "1462738553661296846",
-      "instanceNumber": 1
-    },
     {
       "id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-golang-_jr104106-2026-01-19-1",
       "jobId": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-golang-_jr104106",
@@ -12438,9 +12339,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465274685259386911",
+          "messageId": "1465278842624020605",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:28.725Z",
+          "postedAt": "2026-01-26T09:34:59.885Z",
           "channelJobNumber": 181
         }
       },
@@ -12456,9 +12357,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465274692800614558",
+          "messageId": "1465278849985286145",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:30.412Z",
+          "postedAt": "2026-01-26T09:35:01.585Z",
           "channelJobNumber": 182
         }
       },
@@ -12474,9 +12375,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465274700287447226",
+          "messageId": "1465278857711059067",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:32.176Z",
+          "postedAt": "2026-01-26T09:35:03.456Z",
           "channelJobNumber": 183
         }
       },
@@ -12492,9 +12393,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465274707652902913",
+          "messageId": "1465278865294364755",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:33.927Z",
+          "postedAt": "2026-01-26T09:35:05.138Z",
           "channelJobNumber": 184
         }
       },
@@ -12510,9 +12411,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465274727772983493",
+          "messageId": "1465278885523492905",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:38.763Z",
+          "postedAt": "2026-01-26T09:35:10.093Z",
           "channelJobNumber": 92
         }
       },
@@ -12528,9 +12429,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465274734999638235",
+          "messageId": "1465278893132087418",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:40.518Z",
+          "postedAt": "2026-01-26T09:35:11.802Z",
           "channelJobNumber": 93
         }
       },
@@ -12546,9 +12447,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465274742465630303",
+          "messageId": "1465278900371198024",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:42.218Z",
+          "postedAt": "2026-01-26T09:35:13.598Z",
           "channelJobNumber": 94
         }
       },
@@ -12564,9 +12465,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465274749646274610",
+          "messageId": "1465278907782660180",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:43.908Z",
+          "postedAt": "2026-01-26T09:35:15.268Z",
           "channelJobNumber": 95
         }
       },
@@ -12582,9 +12483,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465274756444983403",
+          "messageId": "1465278915038941278",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:45.566Z",
+          "postedAt": "2026-01-26T09:35:17.065Z",
           "channelJobNumber": 96
         }
       },
@@ -12600,9 +12501,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465274776338829416",
+          "messageId": "1465278935066476544",
           "channelType": "category",
-          "postedAt": "2026-01-26T09:18:50.251Z",
+          "postedAt": "2026-01-26T09:35:21.788Z",
           "channelJobNumber": 71
         }
       },
@@ -12610,11 +12511,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 877,
+    "totalJobs": 868,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T09:18:50.252Z",
+      "date": "2026-01-26T09:35:21.789Z",
       "archived": 0
     }
   }
