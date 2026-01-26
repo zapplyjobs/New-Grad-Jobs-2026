@@ -1,436 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T18:20:08.436Z",
+  "lastUpdated": "2026-01-26T21:16:56.142Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-axle-jobs-5026603007-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-axle-jobs-5026603007",
-      "company": "Axle",
-      "title": "Developer",
-      "postedToDiscord": "2026-01-19T18:50:22.257Z",
-      "sourceDate": "2026-01-16T23:44:02.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/axle/jobs/5026603007",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-mobilityware-jobs-7545222-2026-01-19-1",
-      "jobId": "boards-greenhouse-io-mobilityware-jobs-7545222",
-      "company": "Mobilityware",
-      "title": "Data Analyst 1",
-      "postedToDiscord": "2026-01-19T18:50:25.795Z",
-      "sourceDate": "2026-01-16T23:32:28.000Z",
-      "sourceUrl": "http://boards.greenhouse.io/mobilityware/jobs/7545222",
-      "discordThreadId": "1462881893275144420",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-smithfield-ri-associate-marketing-technologist_2122316-1-2026-01-19-1",
-      "jobId": "fmr-wd1-myworkdayjobs-com-fidelitycareers-job-smithfield-ri-associate-marketing-technologist_2122316-1",
-      "company": "Fidelity Investments",
-      "title": "Associate – Marketing Technologist",
-      "postedToDiscord": "2026-01-19T18:50:32.235Z",
-      "sourceDate": "2026-01-16T23:41:40.000Z",
-      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Associate--Marketing-Technologist_2122316-1",
-      "discordThreadId": "1462881920609288324",
-      "instanceNumber": 1
-    },
-    {
-      "id": "univision-wd1-myworkdayjobs-com-en-us-external-job-new-york-ny-digital-analyst_r019735-1-2026-01-19-1",
-      "jobId": "univision-wd1-myworkdayjobs-com-en-us-external-job-new-york-ny-digital-analyst_r019735-1",
-      "company": "TelevisaUnivision",
-      "title": "Digital Analyst",
-      "postedToDiscord": "2026-01-19T18:50:36.047Z",
-      "sourceDate": "2026-01-16T23:39:44.000Z",
-      "sourceUrl": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019735-1",
-      "discordThreadId": "1462881935415054584",
-      "instanceNumber": 1
-    },
-    {
-      "id": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-software-application-engineer-entry-level_r43851-2026-01-19-1",
-      "jobId": "oshkoshcorporation-wd5-myworkdayjobs-com-oshkosh-job-huntersville-north-carolina-united-states-software-application-engineer-entry-level_r43851",
-      "company": "Oshkosh",
-      "title": "Software Application Engineer – Entry Level",
-      "postedToDiscord": "2026-01-19T18:50:42.685Z",
-      "sourceDate": "2026-01-16T23:41:29.000Z",
-      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Application-Engineer---Entry-Level_R43851",
-      "discordThreadId": "1462881963969876122",
-      "instanceNumber": 1
-    },
-    {
-      "id": "globusmedical-wd5-myworkdayjobs-com-gmed_careers-job-audubon-pa-associate-software-engineer_jr105520-2026-01-19-1",
-      "jobId": "globusmedical-wd5-myworkdayjobs-com-gmed_careers-job-audubon-pa-associate-software-engineer_jr105520",
-      "company": "Globus Medical",
-      "title": "Associate Software Engineer",
-      "postedToDiscord": "2026-01-19T18:50:46.186Z",
-      "sourceDate": "2026-01-16T23:36:12.000Z",
-      "sourceUrl": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR105520",
-      "discordThreadId": "1462881978956251257",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-entry-level-software-engineer-simulation_jr2026491418-1-2026-01-19-1",
-      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-berkeley-mo-entry-level-software-engineer-simulation_jr2026491418-1",
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer-Simulation",
-      "postedToDiscord": "2026-01-19T18:50:49.701Z",
-      "sourceDate": "2026-01-16T23:33:59.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation_JR2026491418-1",
-      "discordThreadId": "1462881993237991618",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-st-petersburgtampa-fl-programmer-analyst-i_j2437182-2026-01-19-1",
-      "jobId": "jabil-wd5-myworkdayjobs-com-jabil_careers-job-st-petersburgtampa-fl-programmer-analyst-i_j2437182",
-      "company": "Jabil",
-      "title": "Programmer Analyst 1",
-      "postedToDiscord": "2026-01-19T18:50:53.366Z",
-      "sourceDate": "2026-01-16T23:30:22.000Z",
-      "sourceUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Programmer-Analyst-I_J2437182",
-      "discordThreadId": "1462882008643670349",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boards-greenhouse-io-robinhood-jobs-7263578-2026-01-19-1",
-      "jobId": "boards-greenhouse-io-robinhood-jobs-7263578",
-      "company": "Robinhood",
-      "title": "Software Engineer - Backend",
-      "postedToDiscord": "2026-01-19T18:50:56.887Z",
-      "sourceDate": "2026-01-16T07:29:15.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/robinhood/jobs/7263578",
-      "discordThreadId": "1462882023680245855",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-eu-greenhouse-io-agency-jobs-4758627101-2026-01-19-1",
-      "jobId": "job-boards-eu-greenhouse-io-agency-jobs-4758627101",
-      "company": "Invisible Technologies AI",
-      "title": "Entry-Level AI Generalist",
-      "postedToDiscord": "2026-01-19T19:11:38.957Z",
-      "sourceDate": "2026-01-16T23:29:12.000Z",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4758627101",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5062733008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062733008",
-      "company": "anthropic",
-      "title": "Customer Success Manager, Digital Native Business",
-      "postedToDiscord": "2026-01-19T19:11:42.481Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062733008",
-      "discordThreadId": "1462887248159703233",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5062968008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062968008",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Claude Experiences",
-      "postedToDiscord": "2026-01-19T19:29:21.690Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5062960008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5062960008",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Launches",
-      "postedToDiscord": "2026-01-19T19:29:25.150Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062960008",
-      "discordThreadId": "1462891705610146094",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-lynk-687b2d43-17e1-4b4b-9ef2-8d61923dfff7-application-2026-01-19-1",
-      "jobId": "jobs-ashbyhq-com-lynk-687b2d43-17e1-4b4b-9ef2-8d61923dfff7-application",
-      "company": "Lynk",
-      "title": "Mission Systems Software Engineer - Full Stack - Mission Operations",
-      "postedToDiscord": "2026-01-19T19:29:39.872Z",
-      "sourceDate": "2026-01-17T02:14:20.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/Lynk/687b2d43-17e1-4b4b-9ef2-8d61923dfff7/application",
-      "discordThreadId": "1462891774602248334",
-      "instanceNumber": 1
-    },
-    {
-      "id": "niagarawater-wd5-myworkdayjobs-com-niagara-job-corp-offsite-diamond-bar-ca-mfg-system-implementations-engineer-i_r52230-2026-01-19-1",
-      "jobId": "niagarawater-wd5-myworkdayjobs-com-niagara-job-corp-offsite-diamond-bar-ca-mfg-system-implementations-engineer-i_r52230",
-      "company": "Niagara Bottling",
-      "title": "MFG System Implementations Engineer 1",
-      "postedToDiscord": "2026-01-19T19:29:43.242Z",
-      "sourceDate": "2026-01-17T02:31:28.000Z",
-      "sourceUrl": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Offsite---Diamond-Bar-CA/MFG-System-Implementations-Engineer-I_R52230",
-      "discordThreadId": "1462891781854200060",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8378561002-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8378561002",
-      "company": "discord",
-      "title": "Content Technologist",
-      "postedToDiscord": "2026-01-19T19:40:33.794Z",
-      "sourceDate": "2026-01-16T20:23:22-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8378561002",
-      "discordThreadId": "1462894508059656386",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5073277008-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5073277008",
-      "company": "anthropic",
-      "title": "Applied AI Engineer, Startups",
-      "postedToDiscord": "2026-01-19T19:40:43.887Z",
-      "sourceDate": "2026-01-16T20:13:20-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073277008",
-      "discordThreadId": "1462894552133144607",
-      "instanceNumber": 1
-    },
-    {
-      "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-walnut-creek-california-gis-technician_r00028912-1-2026-01-19-1",
-      "jobId": "erm-wd3-myworkdayjobs-com-erm_careers-job-walnut-creek-california-gis-technician_r00028912-1",
-      "company": "ERM",
-      "title": "GIS Technician",
-      "postedToDiscord": "2026-01-19T19:54:45.650Z",
-      "sourceDate": "2026-01-17T02:25:34.000Z",
-      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Walnut-Creek-California/GIS-Technician_R00028912-1",
-      "discordThreadId": "1462898075336179887",
-      "instanceNumber": 1
-    },
-    {
-      "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-united-states-remote-devsecops-software-engineer-associate-or-experienced-virtual_jr2026490992-2026-01-19-1",
-      "jobId": "boeing-wd1-myworkdayjobs-com-external_careers-job-united-states-remote-devsecops-software-engineer-associate-or-experienced-virtual_jr2026490992",
-      "company": "The Boeing Company",
-      "title": "DevSecOps Software Engineer",
-      "postedToDiscord": "2026-01-19T19:54:52.218Z",
-      "sourceDate": "2026-01-17T02:29:10.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/DevSecOps-Software-Engineer--Associate-or-Experienced--Virtual_JR2026490992",
-      "discordThreadId": "1462898110459023501",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7443426-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7443426",
-      "company": "gusto",
-      "title": "Head of Product, Core Experiences Platform",
-      "postedToDiscord": "2026-01-19T19:54:55.863Z",
-      "sourceDate": "2026-01-16T19:33:16-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7443426",
-      "discordThreadId": "1462898124929499421",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7365755-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7365755",
-      "company": "gusto",
-      "title": "Senior Principal Revenue Analyst",
-      "postedToDiscord": "2026-01-19T19:54:59.252Z",
-      "sourceDate": "2026-01-16T18:24:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7365755",
-      "discordThreadId": "1462898140041711829",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-nextech-7df18d47-b2fd-401c-a0c6-68ecbf8f225b-apply-2026-01-19-1",
-      "jobId": "jobs-lever-co-nextech-7df18d47-b2fd-401c-a0c6-68ecbf8f225b-apply",
-      "company": "Nextech Systems",
-      "title": "Software Engineer 1 - Python - Remote United States",
-      "postedToDiscord": "2026-01-19T20:10:58.241Z",
-      "sourceDate": "2026-01-17T02:19:45.000Z",
-      "sourceUrl": "https://jobs.lever.co/nextech/7df18d47-b2fd-401c-a0c6-68ecbf8f225b/apply",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7289988-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7289988",
-      "company": "gusto",
-      "title": "Senior Staff Mobile Platform Engineer, iOS",
-      "postedToDiscord": "2026-01-19T20:11:12.655Z",
-      "sourceDate": "2026-01-16T19:33:25-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7289988",
-      "discordThreadId": "1462902222349275158",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7522730-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7522730",
-      "company": "gusto",
-      "title": "Workforce Management Program Manager",
-      "postedToDiscord": "2026-01-19T20:29:38.462Z",
-      "sourceDate": "2026-01-16T14:41:33-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522730",
-      "discordThreadId": "1462906858980249653",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7517166-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7517166",
-      "company": "gusto",
-      "title": "Workforce Management Scheduling Team Lead",
-      "postedToDiscord": "2026-01-19T20:29:44.907Z",
-      "sourceDate": "2026-01-16T12:28:09-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7517166",
-      "discordThreadId": "1462906888252424356",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7528860-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7528860",
-      "company": "gusto",
-      "title": "Sr Staff Software Engineer, Gusto Pro",
-      "postedToDiscord": "2026-01-19T20:29:51.874Z",
-      "sourceDate": "2026-01-16T12:14:34-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7528860",
-      "discordThreadId": "1462906915083518032",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7357589-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7357589",
-      "company": "gusto",
-      "title": "Principal Engineer",
-      "postedToDiscord": "2026-01-19T20:29:55.749Z",
-      "sourceDate": "2026-01-15T01:34:32-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7357589",
-      "discordThreadId": "1462906931394904189",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-6670374-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-6670374",
-      "company": "gusto",
-      "title": "Sales Associate",
-      "postedToDiscord": "2026-01-19T20:30:02.595Z",
-      "sourceDate": "2026-01-16T12:00:08-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6670374",
-      "discordThreadId": "1462906960385933363",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-6821046-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-6821046",
-      "company": "gusto",
-      "title": "Senior Manager, Revenue Accounting",
-      "postedToDiscord": "2026-01-19T20:30:06.354Z",
-      "sourceDate": "2026-01-15T23:54:30-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6821046",
-      "discordThreadId": "1462906976928272434",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-6963956-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-6963956",
-      "company": "gusto",
-      "title": "Senior Motion Designer, Brand Studio",
-      "postedToDiscord": "2026-01-19T20:30:12.973Z",
-      "sourceDate": "2026-01-15T18:53:54-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6963956",
-      "discordThreadId": "1462907005088960533",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7408219-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7408219",
-      "company": "gusto",
-      "title": "Product Partnerships Deal Lead",
-      "postedToDiscord": "2026-01-19T20:30:16.833Z",
-      "sourceDate": "2026-01-15T14:08:41-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7408219",
-      "discordThreadId": "1462907020117283080",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7440789-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7440789",
-      "company": "gusto",
-      "title": "Tax Resolution Advocate",
-      "postedToDiscord": "2026-01-19T20:30:23.273Z",
-      "sourceDate": "2026-01-14T17:37:14-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7440789",
-      "discordThreadId": "1462907048793477153",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7522739-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7522739",
-      "company": "gusto",
-      "title": "Tools Administration Lead",
-      "postedToDiscord": "2026-01-19T20:30:29.950Z",
-      "sourceDate": "2026-01-14T13:51:03-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522739",
-      "discordThreadId": "1462907076060774451",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7467275-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7467275",
-      "company": "gusto",
-      "title": "Senior Accountant (Platform Accounting)",
-      "postedToDiscord": "2026-01-19T20:44:16.218Z",
-      "sourceDate": "2026-01-14T13:24:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7467275",
-      "discordThreadId": "1462910542539653230",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7339537-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7339537",
-      "company": "gusto",
-      "title": "Senior Offline Media Manager",
-      "postedToDiscord": "2026-01-19T20:44:23.058Z",
-      "sourceDate": "2026-01-13T16:18:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7339537",
-      "discordThreadId": "1462910569341522101",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7441084-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7441084",
-      "company": "gusto",
-      "title": "Staff Software Engineer - Payroll Platform",
-      "postedToDiscord": "2026-01-19T20:55:15.550Z",
-      "sourceDate": "2026-01-13T12:45:28-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7441084",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7452431-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7452431",
-      "company": "gusto",
-      "title": "Product Counsel - PEO/Employment Law",
-      "postedToDiscord": "2026-01-19T20:55:25.740Z",
-      "sourceDate": "2026-01-13T09:58:39-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7452431",
-      "discordThreadId": "1462913350148030628",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7215808-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7215808",
-      "company": "gusto",
-      "title": "Head of Onboarding and Implementation (GTM Operations)",
-      "postedToDiscord": "2026-01-19T20:55:32.512Z",
-      "sourceDate": "2026-01-12T17:59:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7215808",
-      "discordThreadId": "1462913377956532434",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-gusto-jobs-7378983-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-gusto-jobs-7378983",
-      "company": "gusto",
-      "title": "Future Opportunities: Early Career Sales Talent",
-      "postedToDiscord": "2026-01-19T20:55:36.090Z",
-      "sourceDate": "2026-01-12T17:55:43-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7378983",
-      "discordThreadId": "1462913393378984089",
-      "instanceNumber": 1
-    },
     {
       "id": "apply-careers-microsoft-com-careers-job-1970393556659076-2026-01-19-1",
       "jobId": "apply-careers-microsoft-com-careers-job-1970393556659076",
@@ -12196,9 +11767,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465410887228588267",
+          "messageId": "1465455378668978208",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:41.813Z",
+          "postedAt": "2026-01-26T21:16:29.368Z",
           "channelJobNumber": 181
         }
       },
@@ -12214,9 +11785,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465410895252553822",
+          "messageId": "1465455386248085576",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:43.604Z",
+          "postedAt": "2026-01-26T21:16:31.060Z",
           "channelJobNumber": 182
         }
       },
@@ -12232,9 +11803,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465410902495854765",
+          "messageId": "1465455393412092048",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:45.292Z",
+          "postedAt": "2026-01-26T21:16:32.873Z",
           "channelJobNumber": 183
         }
       },
@@ -12250,9 +11821,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465410909764845678",
+          "messageId": "1465455401389658316",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:47.256Z",
+          "postedAt": "2026-01-26T21:16:34.799Z",
           "channelJobNumber": 184
         }
       },
@@ -12268,9 +11839,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465410930908332203",
+          "messageId": "1465455421425979506",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:52.119Z",
+          "postedAt": "2026-01-26T21:16:39.518Z",
           "channelJobNumber": 92
         }
       },
@@ -12286,9 +11857,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465410938336444537",
+          "messageId": "1465455428979920970",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:53.805Z",
+          "postedAt": "2026-01-26T21:16:41.228Z",
           "channelJobNumber": 93
         }
       },
@@ -12304,9 +11875,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465410945387073620",
+          "messageId": "1465455436034740469",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:55.475Z",
+          "postedAt": "2026-01-26T21:16:42.940Z",
           "channelJobNumber": 94
         }
       },
@@ -12322,9 +11893,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465410952534032491",
+          "messageId": "1465455443496141048",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:57.224Z",
+          "postedAt": "2026-01-26T21:16:44.727Z",
           "channelJobNumber": 95
         }
       },
@@ -12340,9 +11911,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465410959374942210",
+          "messageId": "1465455450706284708",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:19:58.947Z",
+          "postedAt": "2026-01-26T21:16:46.650Z",
           "channelJobNumber": 96
         }
       },
@@ -12358,9 +11929,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465410979654271141",
+          "messageId": "1465455471669284948",
           "channelType": "category",
-          "postedAt": "2026-01-26T18:20:03.694Z",
+          "postedAt": "2026-01-26T21:16:51.388Z",
           "channelJobNumber": 71
         }
       },
@@ -12368,11 +11939,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 855,
+    "totalJobs": 816,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T18:20:08.436Z",
+      "date": "2026-01-26T21:16:56.142Z",
       "archived": 0
     }
   }
