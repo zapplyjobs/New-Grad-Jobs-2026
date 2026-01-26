@@ -490,9 +490,12 @@ class PostedJobsManagerV2 {
 
       const now = new Date().toISOString();
 
-      console.log(`💾 BEFORE MERGE: ${this.data.jobs.length} jobs in memory`);
+      // CRITICAL: Cache memory state BEFORE reload (Bug fix 2026-01-26)
+      // Line 497 overwrites this.data, destroying in-memory changes!
+      const memoryJobsSnapshot = this.data.jobs.slice(); // Shallow copy is OK (objects are references)
+      console.log(`💾 BEFORE MERGE: ${memoryJobsSnapshot.length} jobs in memory (cached)`);
 
-      // CRITICAL FIX: Reload database to merge concurrent changes
+      // Reload database to merge concurrent changes
       // Without this, concurrent workflow runs overwrite each other's updates
       const diskData = this.loadPostedJobs();
       console.log(`💾 DISK STATE: ${diskData.jobs.length} jobs on disk`);
@@ -508,10 +511,10 @@ class PostedJobsManagerV2 {
       // Add/update with memory jobs (newer or more complete data wins)
       let mergeStats = {newJobs: 0, newerJobs: 0, deepMerged: 0, skipped: 0};
 
-      // CRITICAL FIX: Use for loop instead of forEach to avoid iteration issues
-      console.log(`💾 DEBUG: About to iterate memory jobs - Array.isArray=${Array.isArray(this.data.jobs)}, length=${this.data.jobs.length}`);
+      // Use CACHED memory jobs, not this.data.jobs (which was overwritten by reload)
+      console.log(`💾 DEBUG: Iterating cached memory jobs - length=${memoryJobsSnapshot.length}`);
 
-      const memoryJobs = this.data.jobs; // Cache reference
+      const memoryJobs = memoryJobsSnapshot; // Use cached snapshot
       for (let i = 0; i < memoryJobs.length; i++) {
         const job = memoryJobs[i];
         if (!job || !job.id) {
