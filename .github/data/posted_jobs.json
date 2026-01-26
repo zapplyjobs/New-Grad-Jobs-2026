@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T02:51:36.194Z",
+  "lastUpdated": "2026-01-26T03:33:22.413Z",
   "jobs": [
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8364479002-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8364479002",
-      "company": "discord",
-      "title": "Data Engineering Manager",
-      "postedToDiscord": "2026-01-19T03:05:21.837Z",
-      "sourceDate": "2026-01-15T13:34:27-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8364479002",
-      "discordThreadId": "1462644067245625475",
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-nisc-jobs-7524118-2026-01-19-1",
-      "jobId": "job-boards-greenhouse-io-nisc-jobs-7524118",
-      "company": "National Information Solutions Cooperative (NISC)",
-      "title": "Database Conversion - ETL - Programmer",
-      "postedToDiscord": "2026-01-19T03:05:25.353Z",
-      "sourceDate": "2026-01-15T23:18:33.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/nisc/jobs/7524118",
-      "discordThreadId": "1462644074530996264",
-      "instanceNumber": 1
-    },
     {
       "id": "jobs-smartrecruiters-com-visa-744000103810770-2026-01-19-1",
       "jobId": "jobs-smartrecruiters-com-visa-744000103810770",
@@ -13340,9 +13318,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465177233734893732",
+          "messageId": "1465187745470218434",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:14.397Z",
+          "postedAt": "2026-01-26T03:33:00.602Z",
           "channelJobNumber": 181
         }
       },
@@ -13358,9 +13336,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465177241322524673",
+          "messageId": "1465187753032683522",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:16.103Z",
+          "postedAt": "2026-01-26T03:33:02.369Z",
           "channelJobNumber": 182
         }
       },
@@ -13376,9 +13354,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465177248465424511",
+          "messageId": "1465187760649408587",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:17.927Z",
+          "postedAt": "2026-01-26T03:33:04.207Z",
           "channelJobNumber": 183
         }
       },
@@ -13394,9 +13372,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465177256107446335",
+          "messageId": "1465187767943434335",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:19.659Z",
+          "postedAt": "2026-01-26T03:33:05.868Z",
           "channelJobNumber": 184
         }
       },
@@ -13412,9 +13390,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465177276248232090",
+          "messageId": "1465187787837014108",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:24.513Z",
+          "postedAt": "2026-01-26T03:33:10.594Z",
           "channelJobNumber": 92
         }
       },
@@ -13430,9 +13408,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465177283773075620",
+          "messageId": "1465187795122389013",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:26.242Z",
+          "postedAt": "2026-01-26T03:33:12.434Z",
           "channelJobNumber": 93
         }
       },
@@ -13448,9 +13426,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465177291037343905",
+          "messageId": "1465187802646970480",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:27.994Z",
+          "postedAt": "2026-01-26T03:33:14.135Z",
           "channelJobNumber": 94
         }
       },
@@ -13466,9 +13444,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465177298310271017",
+          "messageId": "1465187809798131927",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:29.695Z",
+          "postedAt": "2026-01-26T03:33:15.829Z",
           "channelJobNumber": 95
         }
       },
@@ -13484,9 +13462,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465177305570611411",
+          "messageId": "1465187817020723263",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:31.485Z",
+          "postedAt": "2026-01-26T03:33:17.543Z",
           "channelJobNumber": 96
         }
       },
@@ -13502,9 +13480,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465177325216727084",
+          "messageId": "1465187836922695766",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:51:36.193Z",
+          "postedAt": "2026-01-26T03:33:22.413Z",
           "channelJobNumber": 71
         }
       },
@@ -13512,11 +13490,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 959,
+    "totalJobs": 957,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T02:51:36.194Z",
+      "date": "2026-01-26T03:33:22.413Z",
       "archived": 0
     }
   }
