@@ -1,261 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-27T06:19:56.511Z",
+  "lastUpdated": "2026-01-27T09:20:57.823Z",
   "jobs": [
-    {
-      "id": "16b9f4c45672c103-2026-01-20-1",
-      "jobId": "16b9f4c45672c103",
-      "company": "datadog",
-      "title": " Enterprise Sales Executive (SLED)",
-      "postedToDiscord": "2026-01-20T06:20:08.535Z",
-      "sourceDate": "2026-01-14T10:42:21-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463055478866182178",
-          "channelType": "category",
-          "postedAt": "2026-01-20T06:20:08.535Z"
-        },
-        "1462989305181114450": {
-          "messageId": "1463055486076326014",
-          "channelType": "location",
-          "postedAt": "2026-01-20T06:20:10.230Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7453039-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-7453039",
-      "company": "datadog",
-      "title": " Enterprise Sales Executive (SLED)",
-      "postedToDiscord": "2026-01-20T06:20:11.753Z",
-      "sourceDate": "2026-01-14T10:42:21-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
-      "discordThreadId": "1463055478866182178",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "92ac541e4dc034e9-2026-01-20-1",
-      "jobId": "92ac541e4dc034e9",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-20T06:20:12.009Z",
-      "sourceDate": "2026-01-14T10:41:51-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463055493298782280",
-          "channelType": "category",
-          "postedAt": "2026-01-20T06:20:12.009Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7426707-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-7426707",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-20T06:20:13.543Z",
-      "sourceDate": "2026-01-14T10:41:51-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
-      "discordThreadId": "1463055493298782280",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7421331-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-7421331",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-20T06:20:13.565Z",
-      "sourceDate": "2026-01-14T10:41:51-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7465857-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-7465857",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive",
-      "postedToDiscord": "2026-01-20T06:20:13.588Z",
-      "sourceDate": "2026-01-14T10:39:17-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "9809cfd6780d1b76-2026-01-20-1",
-      "jobId": "9809cfd6780d1b76",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive (FED)",
-      "postedToDiscord": "2026-01-20T06:20:13.924Z",
-      "sourceDate": "2026-01-14T10:39:58-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463055501272023135",
-          "channelType": "category",
-          "postedAt": "2026-01-20T06:20:13.924Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7426680-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-7426680",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive (FED)",
-      "postedToDiscord": "2026-01-20T06:20:15.449Z",
-      "sourceDate": "2026-01-14T10:39:58-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
-      "discordThreadId": "1463055501272023135",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7421284-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-7421284",
-      "company": "datadog",
-      "title": "Enterprise Sales Executive (FED)",
-      "postedToDiscord": "2026-01-20T06:20:15.467Z",
-      "sourceDate": "2026-01-14T10:39:58-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "425cea262a587b99-2026-01-20-1",
-      "jobId": "425cea262a587b99",
-      "company": "datadog",
-      "title": "Lead UX Designer - New York",
-      "postedToDiscord": "2026-01-20T06:37:08.620Z",
-      "sourceDate": "2026-01-14T16:14:34-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463059757433753714",
-          "channelType": "category",
-          "postedAt": "2026-01-20T06:37:08.620Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463059765608317042",
-          "channelType": "location",
-          "postedAt": "2026-01-20T06:37:10.674Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7481495-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-7481495",
-      "company": "datadog",
-      "title": "Lead UX Designer - New York",
-      "postedToDiscord": "2026-01-20T06:37:12.196Z",
-      "sourceDate": "2026-01-14T16:14:34-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
-      "discordThreadId": "1463059757433753714",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "f16e613604baff63-2026-01-20-1",
-      "jobId": "f16e613604baff63",
-      "company": "datadog",
-      "title": "Principal Partner Manager - Cloud Alliances (AWS)",
-      "postedToDiscord": "2026-01-20T07:16:33.458Z",
-      "sourceDate": "2026-01-15T12:10:29-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463069676358729801",
-          "channelType": "category",
-          "postedAt": "2026-01-20T07:16:33.458Z"
-        },
-        "1462989305181114450": {
-          "messageId": "1463069683426267166",
-          "channelType": "location",
-          "postedAt": "2026-01-20T07:16:35.225Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-6746794-2026-01-20-1",
-      "jobId": "careers-datadoghq-com-detail-6746794",
-      "company": "datadog",
-      "title": "Principal Partner Manager - Cloud Alliances (AWS)",
-      "postedToDiscord": "2026-01-20T07:16:36.744Z",
-      "sourceDate": "2026-01-15T12:10:29-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
-      "discordThreadId": "1463069676358729801",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "ca3128c38ebb719c-2026-01-20-1",
-      "jobId": "ca3128c38ebb719c",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, Product-Led Growth",
-      "postedToDiscord": "2026-01-20T09:17:09.237Z",
-      "sourceDate": "2026-01-19T17:17:12-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8380681002?gh_jid=8380681002",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463100024891113622",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:17:09.237Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8380681002-2026-01-20-1",
-      "jobId": "www-brex-com-careers-8380681002",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, Product-Led Growth",
-      "postedToDiscord": "2026-01-20T09:17:10.760Z",
-      "sourceDate": "2026-01-19T17:17:12-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8380681002?gh_jid=8380681002",
-      "discordThreadId": "1463100024891113622",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "3690897589de63c7-2026-01-20-1",
-      "jobId": "3690897589de63c7",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, B2B Sales",
-      "postedToDiscord": "2026-01-20T09:17:11.109Z",
-      "sourceDate": "2026-01-19T17:16:19-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8380680002?gh_jid=8380680002",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463100032676008083",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:17:11.109Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8380680002-2026-01-20-1",
-      "jobId": "www-brex-com-careers-8380680002",
-      "company": "brex",
-      "title": "Senior Marketing Operations Manager, B2B Sales",
-      "postedToDiscord": "2026-01-20T09:17:12.631Z",
-      "sourceDate": "2026-01-19T17:16:19-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8380680002?gh_jid=8380680002",
-      "discordThreadId": "1463100032676008083",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
     {
       "id": "f97099587a82f377-2026-01-20-1",
       "jobId": "f97099587a82f377",
@@ -9895,10 +9641,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465592034613133312",
+          "messageId": "1465637585560014886",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:30.591Z",
-          "channelJobNumber": 176
+          "postedAt": "2026-01-27T09:20:31.050Z",
+          "channelJobNumber": 163
         }
       },
       "instanceNumber": 1
@@ -9913,10 +9659,10 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465592041860763759",
+          "messageId": "1465637594359529513",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:32.217Z",
-          "channelJobNumber": 177
+          "postedAt": "2026-01-27T09:20:32.870Z",
+          "channelJobNumber": 164
         }
       },
       "instanceNumber": 1
@@ -9931,10 +9677,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465592048966172869",
+          "messageId": "1465637601670332417",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:33.950Z",
-          "channelJobNumber": 178
+          "postedAt": "2026-01-27T09:20:34.604Z",
+          "channelJobNumber": 165
         }
       },
       "instanceNumber": 1
@@ -9949,10 +9695,10 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465592055895162942",
+          "messageId": "1465637608704184322",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:35.566Z",
-          "channelJobNumber": 179
+          "postedAt": "2026-01-27T09:20:36.309Z",
+          "channelJobNumber": 166
         }
       },
       "instanceNumber": 1
@@ -9967,10 +9713,10 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465592075792941137",
+          "messageId": "1465637628899623055",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:40.366Z",
-          "channelJobNumber": 89
+          "postedAt": "2026-01-27T09:20:41.110Z",
+          "channelJobNumber": 67
         }
       },
       "instanceNumber": 1
@@ -9985,10 +9731,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465592082642112607",
+          "messageId": "1465637635929149538",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:42.023Z",
-          "channelJobNumber": 90
+          "postedAt": "2026-01-27T09:20:42.839Z",
+          "channelJobNumber": 68
         }
       },
       "instanceNumber": 1
@@ -10003,10 +9749,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465592089885675633",
+          "messageId": "1465637643789406239",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:43.683Z",
-          "channelJobNumber": 91
+          "postedAt": "2026-01-27T09:20:44.703Z",
+          "channelJobNumber": 69
         }
       },
       "instanceNumber": 1
@@ -10021,10 +9767,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465592096965525749",
+          "messageId": "1465637651347673315",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:45.408Z",
-          "channelJobNumber": 92
+          "postedAt": "2026-01-27T09:20:46.460Z",
+          "channelJobNumber": 70
         }
       },
       "instanceNumber": 1
@@ -10039,10 +9785,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465592103957434441",
+          "messageId": "1465637658771460211",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:47.039Z",
-          "channelJobNumber": 93
+          "postedAt": "2026-01-27T09:20:48.313Z",
+          "channelJobNumber": 71
         }
       },
       "instanceNumber": 1
@@ -10057,21 +9803,21 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465592123460948010",
+          "messageId": "1465637678946058332",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:19:51.771Z",
-          "channelJobNumber": 71
+          "postedAt": "2026-01-27T09:20:53.085Z",
+          "channelJobNumber": 65
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 683,
+    "totalJobs": 666,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-27T06:19:56.511Z",
+      "date": "2026-01-27T09:20:57.823Z",
       "archived": 0
     }
   }
