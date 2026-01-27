@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T21:16:56.142Z",
+  "lastUpdated": "2026-01-27T00:42:57.652Z",
   "jobs": [
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556659076-2026-01-19-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556659076",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-19T22:56:40.857Z",
-      "sourceDate": "2026-01-16T23:22:34.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556659076",
-      "discordThreadId": "1462943864691097716",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apply-careers-microsoft-com-careers-job-1970393556654596-2026-01-19-1",
-      "jobId": "apply-careers-microsoft-com-careers-job-1970393556654596",
-      "company": "Microsoft",
-      "title": "Software Engineer 1",
-      "postedToDiscord": "2026-01-19T22:56:44.220Z",
-      "sourceDate": "2026-01-13T23:10:04.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556654596",
-      "discordThreadId": "1462943879086215440",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-lever-co-spotify-08c35d47-692c-4c16-9297-b1b88ec4c69c-2026-01-19-1",
-      "jobId": "jobs-lever-co-spotify-08c35d47-692c-4c16-9297-b1b88ec4c69c",
-      "company": "spotify",
-      "title": "Product Marketing Manager - Spotify for Artists, Campaign Kit",
-      "postedToDiscord": "2026-01-19T23:29:04.810Z",
-      "sourceDate": "2026-01-17T14:23:00.863Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/08c35d47-692c-4c16-9297-b1b88ec4c69c",
-      "discordThreadId": "1462952017239478462",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-riversidehealth-icims-com-jobs-9417-job-2026-01-19-1",
-      "jobId": "careers-riversidehealth-icims-com-jobs-9417-job",
-      "company": "St. Johns Riverside Hospital",
-      "title": "Environmental Services Aide",
-      "postedToDiscord": "2026-01-19T23:29:14.961Z",
-      "sourceDate": "2026-01-16T23:19:21.000Z",
-      "sourceUrl": "https://careers-riversidehealth.icims.com/jobs/9417/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1462952060743057510",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lifeattiktok-com-search-7288361490993498429-2026-01-19-1",
-      "jobId": "lifeattiktok-com-search-7288361490993498429",
-      "company": "TikTok",
-      "title": "Data Scientist - Product Analytics - Usds",
-      "postedToDiscord": "2026-01-19T23:29:28.090Z",
-      "sourceDate": "2026-01-15T02:16:28.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7288361490993498429",
-      "discordThreadId": "1462952115851755550",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-dominionenergy-com-job-glen-allen-engineering-technical-specialist-i-pra-innsbrook-va-23060-1357235100-2026-01-19-1",
-      "jobId": "careers-dominionenergy-com-job-glen-allen-engineering-technical-specialist-i-pra-innsbrook-va-23060-1357235100",
-      "company": "Dominion Energy",
-      "title": "Engineering Technical Specialist 1",
-      "postedToDiscord": "2026-01-19T23:29:34.922Z",
-      "sourceDate": "2026-01-17T15:17:02.000Z",
-      "sourceUrl": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Engineering-Technical-Specialist-I-PRA-(Innsbrook)-VA-23060/1357235100/?ats=successfactors",
-      "discordThreadId": "1462952143299285013",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-jerry-ai-6e72cfc2-3b09-486a-ba14-aa54458a7ef3-application-2026-01-19-1",
-      "jobId": "jobs-ashbyhq-com-jerry-ai-6e72cfc2-3b09-486a-ba14-aa54458a7ef3-application",
-      "company": "Jerry",
-      "title": "Software Engineer - Entry",
-      "postedToDiscord": "2026-01-19T23:29:38.439Z",
-      "sourceDate": "2026-01-16T23:13:52.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/jerry.ai/6e72cfc2-3b09-486a-ba14-aa54458a7ef3/application",
-      "discordThreadId": "1462952159086645330",
-      "instanceNumber": 1
-    },
-    {
-      "id": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-aws_r-48613-2026-01-19-1",
-      "jobId": "travelers-wd5-myworkdayjobs-com-external-job-ct-hartford-software-engineer-i-aws_r-48613",
-      "company": "The Travelers Companies",
-      "title": "Software Engineer 1 - Aws",
-      "postedToDiscord": "2026-01-19T23:29:42.192Z",
-      "sourceDate": "2026-01-15T16:30:49.000Z",
-      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-48613",
-      "discordThreadId": "1462952174035144828",
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-westinghousenuclear-com-job-cranberry-township-leadership-program-new-grad-engineer-parts-nc-1357243200-2026-01-20-1",
-      "jobId": "careers-westinghousenuclear-com-job-cranberry-township-leadership-program-new-grad-engineer-parts-nc-1357243200",
-      "company": "Westinghouse Electric Company",
-      "title": "Leadership program new grad Engineer - Parts",
-      "postedToDiscord": "2026-01-20T00:27:21.444Z",
-      "sourceDate": "2026-01-17T23:14:25.000Z",
-      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Leadership-program-new-grad-Engineer-(parts)-NC/1357243200/?ats=successfactors",
-      "discordThreadId": "1462966683940425933",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application-2026-01-20-1",
-      "jobId": "jobs-ashbyhq-com-opusclip-26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef-application",
-      "company": "OpusClip",
-      "title": "Software Engineer - AI Video Agent",
-      "postedToDiscord": "2026-01-20T00:27:28.575Z",
-      "sourceDate": "2026-01-11T07:26:03.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
-      "discordThreadId": "1462966713464258704",
-      "instanceNumber": 1
-    },
-    {
-      "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-java-api_r-515563-2026-01-20-1",
-      "jobId": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-chandler-az-engineering-associate-java-api_r-515563",
-      "company": "Wells Fargo",
-      "title": "Engineering Associate - Java API",
-      "postedToDiscord": "2026-01-20T00:27:43.199Z",
-      "sourceDate": "2026-01-16T15:20:26.000Z",
-      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Engineering-Associate---Java-API_R-515563",
-      "discordThreadId": "1462966775200219198",
-      "instanceNumber": 1
-    },
     {
       "id": "university-uber-icims-com-jobs-153663-job-2026-01-20-1",
       "jobId": "university-uber-icims-com-jobs-153663-job",
@@ -11767,9 +11646,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465455378668978208",
+          "messageId": "1465507224922226792",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:29.368Z",
+          "postedAt": "2026-01-27T00:42:30.554Z",
           "channelJobNumber": 181
         }
       },
@@ -11785,9 +11664,9 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465455386248085576",
+          "messageId": "1465507233336135786",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:31.060Z",
+          "postedAt": "2026-01-27T00:42:32.494Z",
           "channelJobNumber": 182
         }
       },
@@ -11803,9 +11682,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465455393412092048",
+          "messageId": "1465507240835416363",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:32.873Z",
+          "postedAt": "2026-01-27T00:42:34.248Z",
           "channelJobNumber": 183
         }
       },
@@ -11821,9 +11700,9 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465455401389658316",
+          "messageId": "1465507248674570446",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:34.799Z",
+          "postedAt": "2026-01-27T00:42:36.082Z",
           "channelJobNumber": 184
         }
       },
@@ -11839,9 +11718,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465455421425979506",
+          "messageId": "1465507269180526613",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:39.518Z",
+          "postedAt": "2026-01-27T00:42:41.030Z",
           "channelJobNumber": 92
         }
       },
@@ -11857,9 +11736,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465455428979920970",
+          "messageId": "1465507276847710230",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:41.228Z",
+          "postedAt": "2026-01-27T00:42:42.849Z",
           "channelJobNumber": 93
         }
       },
@@ -11875,9 +11754,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465455436034740469",
+          "messageId": "1465507284623818916",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:42.940Z",
+          "postedAt": "2026-01-27T00:42:44.606Z",
           "channelJobNumber": 94
         }
       },
@@ -11893,9 +11772,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465455443496141048",
+          "messageId": "1465507291913650280",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:44.727Z",
+          "postedAt": "2026-01-27T00:42:46.304Z",
           "channelJobNumber": 95
         }
       },
@@ -11911,9 +11790,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465455450706284708",
+          "messageId": "1465507299073462282",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:46.650Z",
+          "postedAt": "2026-01-27T00:42:48.027Z",
           "channelJobNumber": 96
         }
       },
@@ -11929,9 +11808,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465455471669284948",
+          "messageId": "1465507319168237629",
           "channelType": "category",
-          "postedAt": "2026-01-26T21:16:51.388Z",
+          "postedAt": "2026-01-27T00:42:52.913Z",
           "channelJobNumber": 71
         }
       },
@@ -11939,11 +11818,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 816,
+    "totalJobs": 805,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-26T21:16:56.142Z",
+      "date": "2026-01-27T00:42:57.652Z",
       "archived": 0
     }
   }
