@@ -1,442 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-27T09:20:57.823Z",
+  "lastUpdated": "2026-01-27T12:21:58.420Z",
   "jobs": [
-    {
-      "id": "f97099587a82f377-2026-01-20-1",
-      "jobId": "f97099587a82f377",
-      "company": "anthropic",
-      "title": "Forward Deployed Engineer",
-      "postedToDiscord": "2026-01-20T09:33:39.124Z",
-      "sourceDate": "2026-01-16T15:25:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463104176429990055",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:33:39.124Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4985877008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4985877008",
-      "company": "anthropic",
-      "title": "Forward Deployed Engineer",
-      "postedToDiscord": "2026-01-20T09:33:40.650Z",
-      "sourceDate": "2026-01-16T15:25:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
-      "discordThreadId": "1463104176429990055",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "dab4113221c3af94-2026-01-20-1",
-      "jobId": "dab4113221c3af94",
-      "company": "reddit",
-      "title": "Client Account Manager, Mid-Market (B2B Services)",
-      "postedToDiscord": "2026-01-20T09:33:40.900Z",
-      "sourceDate": "2026-01-15T20:41:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7489210",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463104184575332487",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:33:40.900Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-reddit-jobs-7489210-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-reddit-jobs-7489210",
-      "company": "reddit",
-      "title": "Client Account Manager, Mid-Market (B2B Services)",
-      "postedToDiscord": "2026-01-20T09:33:42.421Z",
-      "sourceDate": "2026-01-15T20:41:37-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7489210",
-      "discordThreadId": "1463104184575332487",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "8af4333f131e54e3-2026-01-20-1",
-      "jobId": "8af4333f131e54e3",
-      "company": "anthropic",
-      "title": "Analytics Data Engineer",
-      "postedToDiscord": "2026-01-20T09:33:45.879Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463104205261770798",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:33:45.879Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4956672008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4956672008",
-      "company": "anthropic",
-      "title": "Analytics Data Engineer",
-      "postedToDiscord": "2026-01-20T09:33:47.401Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
-      "discordThreadId": "1463104205261770798",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "a9007131065666cd-2026-01-20-1",
-      "jobId": "a9007131065666cd",
-      "company": "anthropic",
-      "title": "Cross-functional Prompt Engineer",
-      "postedToDiscord": "2026-01-20T09:33:47.669Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463104212882952235",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:33:47.669Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4988308008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4988308008",
-      "company": "anthropic",
-      "title": "Cross-functional Prompt Engineer",
-      "postedToDiscord": "2026-01-20T09:33:49.193Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
-      "discordThreadId": "1463104212882952235",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "de697f049ed6564d-2026-01-20-1",
-      "jobId": "de697f049ed6564d",
-      "company": "anthropic",
-      "title": "Engineering Manager, Product Platform & Accounts Platform",
-      "postedToDiscord": "2026-01-20T09:51:15.097Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463108605988573282",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:51:15.097Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4889396008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4889396008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Product Platform & Accounts Platform",
-      "postedToDiscord": "2026-01-20T09:51:16.623Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
-      "discordThreadId": "1463108605988573282",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "fd6a4b52444c892e-2026-01-20-1",
-      "jobId": "fd6a4b52444c892e",
-      "company": "anthropic",
-      "title": "Partner Solutions Architect, Applied AI",
-      "postedToDiscord": "2026-01-20T09:51:16.889Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463108613718671515",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:51:16.889Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4950664008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4950664008",
-      "company": "anthropic",
-      "title": "Partner Solutions Architect, Applied AI",
-      "postedToDiscord": "2026-01-20T09:51:18.411Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
-      "discordThreadId": "1463108613718671515",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "d428c95dda6d59d7-2026-01-20-1",
-      "jobId": "d428c95dda6d59d7",
-      "company": "anthropic",
-      "title": "Global Real Estate Design & Construction Manager",
-      "postedToDiscord": "2026-01-20T09:51:21.655Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463108633792483442",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:51:21.655Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4930182008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4930182008",
-      "company": "anthropic",
-      "title": "Global Real Estate Design & Construction Manager",
-      "postedToDiscord": "2026-01-20T09:51:23.175Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
-      "discordThreadId": "1463108633792483442",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "b0d95d19dd9a49ae-2026-01-20-1",
-      "jobId": "b0d95d19dd9a49ae",
-      "company": "anthropic",
-      "title": "Partner Marketing Manager, Cloud Partners",
-      "postedToDiscord": "2026-01-20T09:51:26.442Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463108653887524959",
-          "channelType": "category",
-          "postedAt": "2026-01-20T09:51:26.442Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4966206008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4966206008",
-      "company": "anthropic",
-      "title": "Partner Marketing Manager, Cloud Partners",
-      "postedToDiscord": "2026-01-20T09:51:27.965Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
-      "discordThreadId": "1463108653887524959",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "ec9a963d8cf101a9-2026-01-20-1",
-      "jobId": "ec9a963d8cf101a9",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Majors, v0",
-      "postedToDiscord": "2026-01-20T10:13:36.684Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463114232450252954",
-          "channelType": "category",
-          "postedAt": "2026-01-20T10:13:36.684Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5729399004-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5729399004",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Majors, v0",
-      "postedToDiscord": "2026-01-20T10:13:38.210Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
-      "discordThreadId": "1463114232450252954",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "6ec219befa28977b-2026-01-20-1",
-      "jobId": "6ec219befa28977b",
-      "company": "coinbase",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2026-01-20T11:02:29.302Z",
-      "sourceDate": "2026-01-16T17:47:19-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463126533693767743",
-          "channelType": "category",
-          "postedAt": "2026-01-20T11:02:29.302Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-7268895-2026-01-20-1",
-      "jobId": "www-coinbase-com-careers-positions-7268895",
-      "company": "coinbase",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2026-01-20T11:02:30.823Z",
-      "sourceDate": "2026-01-16T17:47:19-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
-      "discordThreadId": "1463126533693767743",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "e34b22b7942823f8-2026-01-20-1",
-      "jobId": "e34b22b7942823f8",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Phoenix - Corporate)",
-      "postedToDiscord": "2026-01-20T11:17:18.371Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4866589007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463130262207467543",
-          "channelType": "category",
-          "postedAt": "2026-01-20T11:17:18.371Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4866589007-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4866589007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Phoenix - Corporate)",
-      "postedToDiscord": "2026-01-20T11:17:19.899Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4866589007",
-      "discordThreadId": "1463130262207467543",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "06af23f9bc1b6900-2026-01-20-1",
-      "jobId": "06af23f9bc1b6900",
-      "company": "anthropic",
-      "title": "Head of Infrastructure Accounting ",
-      "postedToDiscord": "2026-01-20T11:17:20.142Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463130270051074185",
-          "channelType": "category",
-          "postedAt": "2026-01-20T11:17:20.142Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4756214008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4756214008",
-      "company": "anthropic",
-      "title": "Head of Infrastructure Accounting ",
-      "postedToDiscord": "2026-01-20T11:17:21.665Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
-      "discordThreadId": "1463130270051074185",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "49be4e5e8f57c374-2026-01-20-1",
-      "jobId": "49be4e5e8f57c374",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
-      "postedToDiscord": "2026-01-20T11:17:24.938Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463130289701388289",
-          "channelType": "category",
-          "postedAt": "2026-01-20T11:17:24.938Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4964610008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4964610008",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
-      "postedToDiscord": "2026-01-20T11:17:26.461Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
-      "discordThreadId": "1463130289701388289",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "c4c5d9fbd43d6480-2026-01-20-1",
-      "jobId": "c4c5d9fbd43d6480",
-      "company": "discord",
-      "title": "Group Product Marketing Manager, Developer Commerce Solutions",
-      "postedToDiscord": "2026-01-20T11:44:53.881Z",
-      "sourceDate": "2026-01-14T16:30:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8338009002",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463137206456553618",
-          "channelType": "category",
-          "postedAt": "2026-01-20T11:44:53.881Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8338009002-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8338009002",
-      "company": "discord",
-      "title": "Group Product Marketing Manager, Developer Commerce Solutions",
-      "postedToDiscord": "2026-01-20T11:44:55.408Z",
-      "sourceDate": "2026-01-14T16:30:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8338009002",
-      "discordThreadId": "1463137206456553618",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "87d3dfa0f3e9592a-2026-01-20-1",
-      "jobId": "87d3dfa0f3e9592a",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
-      "postedToDiscord": "2026-01-20T11:55:41.319Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463139921685647362",
-          "channelType": "category",
-          "postedAt": "2026-01-20T11:55:41.319Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4819732008-2026-01-20-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4819732008",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
-      "postedToDiscord": "2026-01-20T11:55:42.845Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
-      "discordThreadId": "1463139921685647362",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
     {
       "id": "17c646832b4e04d9-2026-01-20-1",
       "jobId": "17c646832b4e04d9",
@@ -9641,10 +9206,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465637585560014886",
+          "messageId": "1465683138465239216",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:31.050Z",
-          "channelJobNumber": 163
+          "postedAt": "2026-01-27T12:21:31.398Z",
+          "channelJobNumber": 156
         }
       },
       "instanceNumber": 1
@@ -9659,10 +9224,10 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465637594359529513",
+          "messageId": "1465683145788489941",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:32.870Z",
-          "channelJobNumber": 164
+          "postedAt": "2026-01-27T12:21:33.246Z",
+          "channelJobNumber": 157
         }
       },
       "instanceNumber": 1
@@ -9677,10 +9242,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465637601670332417",
+          "messageId": "1465683153405476897",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:34.604Z",
-          "channelJobNumber": 165
+          "postedAt": "2026-01-27T12:21:34.953Z",
+          "channelJobNumber": 158
         }
       },
       "instanceNumber": 1
@@ -9695,10 +9260,10 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465637608704184322",
+          "messageId": "1465683160292528250",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:36.309Z",
-          "channelJobNumber": 166
+          "postedAt": "2026-01-27T12:21:36.661Z",
+          "channelJobNumber": 159
         }
       },
       "instanceNumber": 1
@@ -9713,9 +9278,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465637628899623055",
+          "messageId": "1465683180551147705",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:41.110Z",
+          "postedAt": "2026-01-27T12:21:41.601Z",
           "channelJobNumber": 67
         }
       },
@@ -9731,9 +9296,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465637635929149538",
+          "messageId": "1465683188222398668",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:42.839Z",
+          "postedAt": "2026-01-27T12:21:43.426Z",
           "channelJobNumber": 68
         }
       },
@@ -9749,9 +9314,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465637643789406239",
+          "messageId": "1465683196107686022",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:44.703Z",
+          "postedAt": "2026-01-27T12:21:45.206Z",
           "channelJobNumber": 69
         }
       },
@@ -9767,9 +9332,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465637651347673315",
+          "messageId": "1465683203649048731",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:46.460Z",
+          "postedAt": "2026-01-27T12:21:46.946Z",
           "channelJobNumber": 70
         }
       },
@@ -9785,9 +9350,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465637658771460211",
+          "messageId": "1465683210762715244",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:48.313Z",
+          "postedAt": "2026-01-27T12:21:48.905Z",
           "channelJobNumber": 71
         }
       },
@@ -9803,9 +9368,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465637678946058332",
+          "messageId": "1465683231625056462",
           "channelType": "category",
-          "postedAt": "2026-01-27T09:20:53.085Z",
+          "postedAt": "2026-01-27T12:21:53.674Z",
           "channelJobNumber": 65
         }
       },
@@ -9813,11 +9378,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 666,
+    "totalJobs": 636,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-27T09:20:57.823Z",
+      "date": "2026-01-27T12:21:58.420Z",
       "archived": 0
     }
   }
