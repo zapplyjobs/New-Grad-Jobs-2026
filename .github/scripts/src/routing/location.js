@@ -1,6 +1,11 @@
 /**
  * Location-based Job Routing Module
  * Determines which location-specific Discord channel a job should be posted to
+ *
+ * UPDATED 2026-01-28: Fixed routing to use actual channel keys from board configs
+ * Common channels across Internships & New-Grad:
+ * - bay-area, new-york, pacific-northwest, remote-usa, other-usa
+ * - southern-california (Internships only)
  */
 
 const { LOCATION_CHANNEL_CONFIG } = require('../discord/config');
@@ -17,15 +22,14 @@ function getJobLocationChannel(job) {
   const description = (job.job_description || '').toLowerCase();
   const combined = `${title} ${description} ${city} ${state}`;
 
-  // Metro area city matching (regional consolidation)
+  // Metro area city matching - using ACTUAL channel keys from board configs
   const cityMatches = {
-    // Bay Area (consolidated: SF, Mountain View, Sunnyvale, San Bruno, San Jose, Palo Alto, Menlo Park)
+    // Bay Area -> bay-area
     'san francisco': 'bay-area',
     'oakland': 'bay-area',
     'berkeley': 'bay-area',
     'san jose': 'bay-area',
     'palo alto': 'bay-area',
-    'menlo park': 'bay-area',
     'fremont': 'bay-area',
     'hayward': 'bay-area',
     'richmond': 'bay-area',
@@ -36,8 +40,10 @@ function getJobLocationChannel(job) {
     'mountain view': 'bay-area',
     'sunnyvale': 'bay-area',
     'san bruno': 'bay-area',
+    'menlo park': 'bay-area',
+    'redwood city': 'bay-area',
 
-    // NYC Metro Area
+    // NYC Metro Area -> new-york
     'new york': 'new-york',
     'manhattan': 'new-york',
     'brooklyn': 'new-york',
@@ -50,41 +56,32 @@ function getJobLocationChannel(job) {
     'white plains': 'new-york',
     'yonkers': 'new-york',
 
-    // Pacific Northwest (consolidated: Seattle, Redmond, Bellevue)
+    // Seattle/PNW Metro Area -> pacific-northwest
     'seattle': 'pacific-northwest',
     'bellevue': 'pacific-northwest',
-    'redmond': 'pacific-northwest',
     'tacoma': 'pacific-northwest',
     'everett': 'pacific-northwest',
     'renton': 'pacific-northwest',
     'kent': 'pacific-northwest',
+    'redmond': 'pacific-northwest',
 
-    // Other USA cities (consolidated: Austin, Chicago, Boston, LA, etc.)
-    'austin': 'other-usa',
-    'round rock': 'other-usa',
-    'cedar park': 'other-usa',
-    'georgetown': 'other-usa',
-    'pflugerville': 'other-usa',
-    'chicago': 'other-usa',
-    'naperville': 'other-usa',
-    'aurora': 'other-usa',
-    'joliet': 'other-usa',
-    'evanston': 'other-usa',
-    'schaumburg': 'other-usa',
-    'boston': 'other-usa',
-    'cambridge': 'other-usa',
-    'somerville': 'other-usa',
-    'brookline': 'other-usa',
-    'los angeles': 'other-usa',
-    'santa monica': 'other-usa',
-    'pasadena': 'other-usa',
-    'irvine': 'other-usa',
-    'denver': 'other-usa',
-    'phoenix': 'other-usa',
-    'atlanta': 'other-usa',
-    'miami': 'other-usa',
-    'philadelphia': 'other-usa',
-    'portland': 'other-usa'
+    // SoCal -> southern-california (Internships only, other-usa for New-Grad)
+    'los angeles': 'southern-california',
+    'santa monica': 'southern-california',
+    'pasadena': 'southern-california',
+    'long beach': 'southern-california',
+    'glendale': 'southern-california',
+    'irvine': 'southern-california',
+    'anaheim': 'southern-california',
+    'burbank': 'southern-california',
+    'torrance': 'southern-california',
+    'san diego': 'southern-california',
+    'chula vista': 'southern-california',
+    'oceanside': 'southern-california',
+    'escondido': 'southern-california',
+    'carlsbad': 'southern-california',
+    'el cajon': 'southern-california',
+    'la jolla': 'southern-california',
   };
 
   // City abbreviations
@@ -114,30 +111,43 @@ function getJobLocationChannel(job) {
     }
   }
 
-  // 4. State-based fallback (BEFORE remote check - specific location takes priority)
-  // If we have a state but no specific city match, map to the appropriate regional channel
+  // 4. State-based fallback (for ALL jobs, not just remote)
+  // If we have a state but no specific city match, map to the main region in that state
   if (state) {
     if (state === 'ca' || state === 'california') {
-      // CA jobs without specific city → other-usa
+      // CA jobs without specific city -> southern-california (Internships) or other-usa (New-Grad)
       // Bay Area cities already caught by city matching above
-      return LOCATION_CHANNEL_CONFIG['other-usa'];
-    }
-    if (state === 'ma' || state === 'massachusetts') {
-      return LOCATION_CHANNEL_CONFIG['other-usa'];
+      return LOCATION_CHANNEL_CONFIG['southern-california'] || LOCATION_CHANNEL_CONFIG['other-usa'];
     }
     if (state === 'ny' || state === 'new york') {
       return LOCATION_CHANNEL_CONFIG['new-york'];
     }
-    if (state === 'tx' || state === 'texas') {
-      return LOCATION_CHANNEL_CONFIG['other-usa'];
-    }
     if (state === 'wa' || state === 'washington') {
       return LOCATION_CHANNEL_CONFIG['pacific-northwest'];
     }
-    if (state === 'il' || state === 'illinois') {
+    if (state === 'tx' || state === 'texas' ||
+        state === 'ma' || state === 'massachusetts' ||
+        state === 'il' || state === 'illinois' ||
+        state === 'dc' || state === 'district of columbia' ||
+        state === 'va' || state === 'virginia' ||
+        state === 'md' || state === 'maryland' ||
+        state === 'co' || state === 'colorado' ||
+        state === 'fl' || state === 'florida' ||
+        state === 'ga' || state === 'georgia' ||
+        state === 'nc' || state === 'north carolina' ||
+        state === 'tn' || state === 'tennessee' ||
+        state === 'az' || state === 'arizona' ||
+        state === 'ut' || state === 'utah' ||
+        state === 'nv' || state === 'nevada' ||
+        state === 'or' || state === 'oregon' ||
+        state === 'mi' || state === 'michigan' ||
+        state === 'oh' || state === 'ohio' ||
+        state === 'pa' || state === 'pennsylvania' ||
+        state === 'mn' || state === 'minnesota' ||
+        state === 'wi' || state === 'wisconsin') {
+      // All other US states -> other-usa
       return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
-
   }
 
   // 5. Remote USA - Only if explicitly remote AND US-based
@@ -150,11 +160,7 @@ function getJobLocationChannel(job) {
     return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
-  // 6. No fallback to other-usa for non-remote US jobs without specific city channels
-  // Jobs from Phoenix, Denver, Miami, etc. will ONLY post to their category channel (tech, finance, etc.)
-  // This prevents unmatched city jobs from cluttering other-usa channel
-  // If a job has no specific location channel match, it returns null and posts only to category channel
-
+  // 6. No location match -> return null (will only post to category channel)
   return null;
 }
 
