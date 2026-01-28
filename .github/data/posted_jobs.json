@@ -1,283 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-28T05:49:55.869Z",
+  "lastUpdated": "2026-01-28T06:21:03.448Z",
   "jobs": [
-    {
-      "id": "472e8fff31fc171b-2026-01-21-1",
-      "jobId": "472e8fff31fc171b",
-      "company": "Invisible Technologies AI",
-      "title": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
-      "postedToDiscord": "2026-01-21T06:01:44.027Z",
-      "sourceDate": "2026-01-20T02:26:57.000Z",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463413234077011978",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:01:44.027Z"
-        },
-        "1462989305181114450": {
-          "messageId": "1463413241685344412",
-          "channelType": "location",
-          "postedAt": "2026-01-21T06:01:45.876Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-eu-greenhouse-io-agency-jobs-4754242101-2026-01-21-1",
-      "jobId": "job-boards-eu-greenhouse-io-agency-jobs-4754242101",
-      "company": "Invisible Technologies AI",
-      "title": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
-      "postedToDiscord": "2026-01-21T06:01:47.398Z",
-      "sourceDate": "2026-01-20T02:26:57.000Z",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
-      "discordThreadId": "1463413234077011978",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "7eddc2c9a30f7f6c-2026-01-21-1",
-      "jobId": "7eddc2c9a30f7f6c",
-      "company": "Nokia",
-      "title": "Software Developer",
-      "postedToDiscord": "2026-01-21T06:01:47.599Z",
-      "sourceDate": "2026-01-16T02:11:42.000Z",
-      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30513",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463413248924844066",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:01:47.599Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "fa-evmr-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-30513-2026-01-21-1",
-      "jobId": "fa-evmr-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-30513",
-      "company": "Nokia",
-      "title": "Software Developer",
-      "postedToDiscord": "2026-01-21T06:01:49.122Z",
-      "sourceDate": "2026-01-16T02:11:42.000Z",
-      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30513",
-      "discordThreadId": "1463413248924844066",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "d1d2810da2a2e17c-2026-01-21-1",
-      "jobId": "d1d2810da2a2e17c",
-      "company": "anthropic",
-      "title": "Engineering Manager, Networking",
-      "postedToDiscord": "2026-01-21T06:17:56.013Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949199008",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463417309841330311",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:17:56.013Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4949199008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4949199008",
-      "company": "anthropic",
-      "title": "Engineering Manager, Networking",
-      "postedToDiscord": "2026-01-21T06:17:57.538Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949199008",
-      "discordThreadId": "1463417309841330311",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "69d6ddaef94bc1ce-2026-01-21-1",
-      "jobId": "69d6ddaef94bc1ce",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, Life Sciences",
-      "postedToDiscord": "2026-01-21T06:17:57.739Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074995008",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463417318192447551",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:17:57.739Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5074995008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5074995008",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive, Life Sciences",
-      "postedToDiscord": "2026-01-21T06:17:59.263Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074995008",
-      "discordThreadId": "1463417318192447551",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "eecba62fdee82b1e-2026-01-21-1",
-      "jobId": "eecba62fdee82b1e",
-      "company": "DXC Technology",
-      "title": "Associate Professional Application Programmer",
-      "postedToDiscord": "2026-01-21T06:17:59.460Z",
-      "sourceDate": "2026-01-20T15:38:02.000Z",
-      "sourceUrl": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463417325368901741",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:17:59.460Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463417332444692665",
-          "channelType": "location",
-          "postedAt": "2026-01-21T06:18:01.254Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "dxctechnology-wd1-myworkdayjobs-com-dxcjobs-job-usa-ct-any-city-associate-professional-application-programmer_51569293-2026-01-21-1",
-      "jobId": "dxctechnology-wd1-myworkdayjobs-com-dxcjobs-job-usa-ct-any-city-associate-professional-application-programmer_51569293",
-      "company": "DXC Technology",
-      "title": "Associate Professional Application Programmer",
-      "postedToDiscord": "2026-01-21T06:18:02.778Z",
-      "sourceDate": "2026-01-20T15:38:02.000Z",
-      "sourceUrl": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293",
-      "discordThreadId": "1463417325368901741",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "590f1d0c2befb7fd-2026-01-21-1",
-      "jobId": "590f1d0c2befb7fd",
-      "company": "anthropic",
-      "title": "Compute Analyst",
-      "postedToDiscord": "2026-01-21T06:18:07.628Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075086008",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463417359837691946",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:18:07.628Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5075086008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5075086008",
-      "company": "anthropic",
-      "title": "Compute Analyst",
-      "postedToDiscord": "2026-01-21T06:18:09.152Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075086008",
-      "discordThreadId": "1463417359837691946",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "cd6578737e46de2e-2026-01-21-1",
-      "jobId": "cd6578737e46de2e",
-      "company": "University of Texas - Austin",
-      "title": "Power BI Analyst",
-      "postedToDiscord": "2026-01-21T06:18:09.413Z",
-      "sourceDate": "2026-01-20T15:03:25.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Power-BI-Analyst_R_00044081-1",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463417366669951112",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:18:09.413Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-power-bi-analyst_r_00044081-1-2026-01-21-1",
-      "jobId": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-power-bi-analyst_r_00044081-1",
-      "company": "University of Texas - Austin",
-      "title": "Power BI Analyst",
-      "postedToDiscord": "2026-01-21T06:18:10.936Z",
-      "sourceDate": "2026-01-20T15:03:25.000Z",
-      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Power-BI-Analyst_R_00044081-1",
-      "discordThreadId": "1463417366669951112",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "d57abb7146a178a4-2026-01-21-1",
-      "jobId": "d57abb7146a178a4",
-      "company": "datadog",
-      "title": "Enablement Operations Senior Associate",
-      "postedToDiscord": "2026-01-21T06:18:19.123Z",
-      "sourceDate": "2026-01-20T12:43:37-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463417401340067850",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:18:19.123Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463417414661177378",
-          "channelType": "location",
-          "postedAt": "2026-01-21T06:18:20.784Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "careers-datadoghq-com-detail-7538717-2026-01-21-1",
-      "jobId": "careers-datadoghq-com-detail-7538717",
-      "company": "datadog",
-      "title": "Enablement Operations Senior Associate",
-      "postedToDiscord": "2026-01-21T06:18:22.307Z",
-      "sourceDate": "2026-01-20T12:43:37-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717",
-      "discordThreadId": "1463417401340067850",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "e54808328d8d7cea-2026-01-21-1",
-      "jobId": "e54808328d8d7cea",
-      "company": "brex",
-      "title": "Senior Software Engineer, Full-Stack",
-      "postedToDiscord": "2026-01-21T06:18:22.440Z",
-      "sourceDate": "2026-01-20T11:50:43-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8381523002?gh_jid=8381523002",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463417421997281354",
-          "channelType": "category",
-          "postedAt": "2026-01-21T06:18:22.440Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-brex-com-careers-8381523002-2026-01-21-1",
-      "jobId": "www-brex-com-careers-8381523002",
-      "company": "brex",
-      "title": "Senior Software Engineer, Full-Stack",
-      "postedToDiscord": "2026-01-21T06:18:23.965Z",
-      "sourceDate": "2026-01-20T11:50:43-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8381523002?gh_jid=8381523002",
-      "discordThreadId": "1463417421997281354",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
     {
       "id": "f9df3062662baf43-2026-01-21-1",
       "jobId": "f9df3062662baf43",
@@ -3807,10 +3531,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465946867371085876",
+          "messageId": "1465954699751461000",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:29.304Z",
-          "channelJobNumber": 87
+          "postedAt": "2026-01-28T06:20:36.765Z",
+          "channelJobNumber": 73
         }
       },
       "instanceNumber": 1
@@ -3825,10 +3549,10 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465946874401001748",
+          "messageId": "1465954707444072555",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:30.999Z",
-          "channelJobNumber": 88
+          "postedAt": "2026-01-28T06:20:38.642Z",
+          "channelJobNumber": 74
         }
       },
       "instanceNumber": 1
@@ -3843,10 +3567,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465946881740902614",
+          "messageId": "1465954715215855739",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:32.733Z",
-          "channelJobNumber": 89
+          "postedAt": "2026-01-28T06:20:40.320Z",
+          "channelJobNumber": 75
         }
       },
       "instanceNumber": 1
@@ -3861,10 +3585,10 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465946888803979298",
+          "messageId": "1465954722258092160",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:34.613Z",
-          "channelJobNumber": 90
+          "postedAt": "2026-01-28T06:20:42.143Z",
+          "channelJobNumber": 76
         }
       },
       "instanceNumber": 1
@@ -3879,10 +3603,10 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465946909473505444",
+          "messageId": "1465954742541881416",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:39.440Z",
-          "channelJobNumber": 37
+          "postedAt": "2026-01-28T06:20:46.836Z",
+          "channelJobNumber": 36
         }
       },
       "instanceNumber": 1
@@ -3897,10 +3621,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465946917224583487",
+          "messageId": "1465954749688975474",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:41.212Z",
-          "channelJobNumber": 38
+          "postedAt": "2026-01-28T06:20:48.621Z",
+          "channelJobNumber": 37
         }
       },
       "instanceNumber": 1
@@ -3915,10 +3639,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465946924556226672",
+          "messageId": "1465954757020614721",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:42.911Z",
-          "channelJobNumber": 39
+          "postedAt": "2026-01-28T06:20:50.411Z",
+          "channelJobNumber": 38
         }
       },
       "instanceNumber": 1
@@ -3933,10 +3657,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465946931694927882",
+          "messageId": "1465954764729749690",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:44.576Z",
-          "channelJobNumber": 40
+          "postedAt": "2026-01-28T06:20:52.183Z",
+          "channelJobNumber": 39
         }
       },
       "instanceNumber": 1
@@ -3951,10 +3675,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465946938699415607",
+          "messageId": "1465954772006866978",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:46.405Z",
-          "channelJobNumber": 41
+          "postedAt": "2026-01-28T06:20:53.928Z",
+          "channelJobNumber": 40
         }
       },
       "instanceNumber": 1
@@ -3969,23 +3693,22 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465946959159361588",
+          "messageId": "1465954792063893504",
           "channelType": "category",
-          "postedAt": "2026-01-28T05:49:51.134Z",
-          "channelJobNumber": 30
+          "postedAt": "2026-01-28T06:20:58.717Z",
+          "channelJobNumber": 22
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 264,
+    "totalJobs": 246,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-28T05:49:55.869Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-28T06:21:03.448Z",
+      "archived": 0
     }
   }
 }
