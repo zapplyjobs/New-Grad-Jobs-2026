@@ -1,220 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-28T02:57:36.558Z",
+  "lastUpdated": "2026-01-28T03:44:42.144Z",
   "jobs": [
-    {
-      "id": "a2816e9729cc32d7-2026-01-21-1",
-      "jobId": "a2816e9729cc32d7",
-      "company": "verkada",
-      "title": "Sr. Tradeshow and Event Marketing Manager",
-      "postedToDiscord": "2026-01-21T03:32:44.340Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463375737951223858",
-          "channelType": "category",
-          "postedAt": "2026-01-21T03:32:44.340Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463375745354043459",
-          "channelType": "location",
-          "postedAt": "2026-01-21T03:32:46.085Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4990280007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990280007",
-      "company": "verkada",
-      "title": "Sr. Tradeshow and Event Marketing Manager",
-      "postedToDiscord": "2026-01-21T03:32:47.605Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
-      "discordThreadId": "1463375737951223858",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "7ec4629cd7373577-2026-01-21-1",
-      "jobId": "7ec4629cd7373577",
-      "company": "verkada",
-      "title": "Strategic Account Executive (Corp)",
-      "postedToDiscord": "2026-01-21T03:32:47.896Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4701504007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463375753084145696",
-          "channelType": "category",
-          "postedAt": "2026-01-21T03:32:47.896Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4701504007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4701504007",
-      "company": "verkada",
-      "title": "Strategic Account Executive (Corp)",
-      "postedToDiscord": "2026-01-21T03:32:49.421Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4701504007",
-      "discordThreadId": "1463375753084145696",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "9aa61c7ccf9e3db1-2026-01-21-1",
-      "jobId": "9aa61c7ccf9e3db1",
-      "company": "verkada",
-      "title": "Tradeshow Associate",
-      "postedToDiscord": "2026-01-21T03:32:49.620Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990284007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463375760567042185",
-          "channelType": "category",
-          "postedAt": "2026-01-21T03:32:49.620Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463375767730786482",
-          "channelType": "location",
-          "postedAt": "2026-01-21T03:32:51.348Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4990284007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4990284007",
-      "company": "verkada",
-      "title": "Tradeshow Associate",
-      "postedToDiscord": "2026-01-21T03:32:52.869Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990284007",
-      "discordThreadId": "1463375760567042185",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "e3ed27832ec28413-2026-01-21-1",
-      "jobId": "e3ed27832ec28413",
-      "company": "vercel",
-      "title": "Strategic Finance Manager, GTM",
-      "postedToDiscord": "2026-01-21T03:32:53.086Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5743232004",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463375774873686138",
-          "channelType": "category",
-          "postedAt": "2026-01-21T03:32:53.086Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5743232004-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5743232004",
-      "company": "vercel",
-      "title": "Strategic Finance Manager, GTM",
-      "postedToDiscord": "2026-01-21T03:32:54.610Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5743232004",
-      "discordThreadId": "1463375774873686138",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "0dcc71f6f7ccb2b4-2026-01-21-1",
-      "jobId": "0dcc71f6f7ccb2b4",
-      "company": "discord",
-      "title": "Senior Product Design Manager, Growth & Safety",
-      "postedToDiscord": "2026-01-21T03:32:57.846Z",
-      "sourceDate": "2026-01-19T17:03:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196805002",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463375794872258686",
-          "channelType": "category",
-          "postedAt": "2026-01-21T03:32:57.846Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8196805002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8196805002",
-      "company": "discord",
-      "title": "Senior Product Design Manager, Growth & Safety",
-      "postedToDiscord": "2026-01-21T03:32:59.371Z",
-      "sourceDate": "2026-01-19T17:03:11-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196805002",
-      "discordThreadId": "1463375794872258686",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "50473507569ff984-2026-01-21-1",
-      "jobId": "50473507569ff984",
-      "company": "discord",
-      "title": "Senior Privacy Counsel",
-      "postedToDiscord": "2026-01-21T03:33:04.802Z",
-      "sourceDate": "2026-01-14T16:30:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8346194002",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463375823213170762",
-          "channelType": "category",
-          "postedAt": "2026-01-21T03:33:04.802Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8346194002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8346194002",
-      "company": "discord",
-      "title": "Senior Privacy Counsel",
-      "postedToDiscord": "2026-01-21T03:33:06.325Z",
-      "sourceDate": "2026-01-14T16:30:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8346194002",
-      "discordThreadId": "1463375823213170762",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "55c2a82b5acda370-2026-01-21-1",
-      "jobId": "55c2a82b5acda370",
-      "company": "coinbase",
-      "title": "On‑Site IT Support Engineer (Residential Operations)",
-      "postedToDiscord": "2026-01-21T03:33:11.459Z",
-      "sourceDate": "2026-01-14T13:30:44-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7409941?gh_jid=7409941",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463375851851874421",
-          "channelType": "category",
-          "postedAt": "2026-01-21T03:33:11.459Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "www-coinbase-com-careers-positions-7409941-2026-01-21-1",
-      "jobId": "www-coinbase-com-careers-positions-7409941",
-      "company": "coinbase",
-      "title": "On‑Site IT Support Engineer (Residential Operations)",
-      "postedToDiscord": "2026-01-21T03:33:12.984Z",
-      "sourceDate": "2026-01-14T13:30:44-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7409941?gh_jid=7409941",
-      "discordThreadId": "1463375851851874421",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
     {
       "id": "3576562ecf749672-2026-01-21-1",
       "jobId": "3576562ecf749672",
@@ -4721,10 +4508,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465903501296271472",
+          "messageId": "1465915352071540878",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:09.977Z",
-          "channelJobNumber": 99
+          "postedAt": "2026-01-28T03:44:15.541Z",
+          "channelJobNumber": 88
         }
       },
       "instanceNumber": 1
@@ -4739,10 +4526,10 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465903508145569975",
+          "messageId": "1465915359776346125",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:11.703Z",
-          "channelJobNumber": 100
+          "postedAt": "2026-01-28T03:44:17.336Z",
+          "channelJobNumber": 89
         }
       },
       "instanceNumber": 1
@@ -4757,10 +4544,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465903515627946135",
+          "messageId": "1465915367057526815",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:13.526Z",
-          "channelJobNumber": 101
+          "postedAt": "2026-01-28T03:44:19.066Z",
+          "channelJobNumber": 90
         }
       },
       "instanceNumber": 1
@@ -4775,10 +4562,10 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465903523156721880",
+          "messageId": "1465915374179586352",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:15.214Z",
-          "channelJobNumber": 102
+          "postedAt": "2026-01-28T03:44:20.770Z",
+          "channelJobNumber": 91
         }
       },
       "instanceNumber": 1
@@ -4793,9 +4580,9 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465903543218077767",
+          "messageId": "1465915394425356433",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:19.989Z",
+          "postedAt": "2026-01-28T03:44:25.544Z",
           "channelJobNumber": 38
         }
       },
@@ -4811,9 +4598,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465903550495199324",
+          "messageId": "1465915401530769686",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:21.803Z",
+          "postedAt": "2026-01-28T03:44:27.287Z",
           "channelJobNumber": 39
         }
       },
@@ -4829,9 +4616,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465903557969711331",
+          "messageId": "1465915408732131475",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:23.515Z",
+          "postedAt": "2026-01-28T03:44:29.021Z",
           "channelJobNumber": 40
         }
       },
@@ -4847,9 +4634,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465903565561266203",
+          "messageId": "1465915416273485896",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:25.315Z",
+          "postedAt": "2026-01-28T03:44:30.823Z",
           "channelJobNumber": 41
         }
       },
@@ -4865,9 +4652,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465903572511096955",
+          "messageId": "1465915423760318608",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:27.033Z",
+          "postedAt": "2026-01-28T03:44:32.524Z",
           "channelJobNumber": 42
         }
       },
@@ -4883,21 +4670,21 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465903592824373435",
+          "messageId": "1465915443805159576",
           "channelType": "category",
-          "postedAt": "2026-01-28T02:57:31.815Z",
-          "channelJobNumber": 50
+          "postedAt": "2026-01-28T03:44:37.408Z",
+          "channelJobNumber": 34
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 326,
+    "totalJobs": 312,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-28T02:57:36.558Z",
+      "date": "2026-01-28T03:44:42.144Z",
       "archived": 0
     }
   }
