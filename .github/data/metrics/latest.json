@@ -1,15 +1,15 @@
 {
-  "generated": "2026-01-28T15:22:02.459Z",
+  "generated": "2026-01-28T18:24:21.783Z",
   "period": "last_7_days",
-  "period_start": "2026-01-21T15:22:02.459Z",
-  "period_end": "2026-01-28T15:22:02.459Z",
+  "period_start": "2026-01-21T18:24:21.783Z",
+  "period_end": "2026-01-28T18:24:21.783Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 0,
+    "filtered_jobs": 20,
     "channels_active": 3
   },
   "by_channel": {
@@ -27,25 +27,25 @@
           "id": "job-boards-greenhouse-io-sonyinteractiveentertainmentglobal-jobs-5727775004",
           "title": "Software Engineer 1",
           "company": "Sony Interactive Entertainment",
-          "posted_at": "2026-01-28T15:21:32.497Z"
+          "posted_at": "2026-01-28T18:23:50.261Z"
         },
         {
           "id": "jobs-intuit-com-job-san-diego-software-engineer-i-data-engineering-27595-90969775248",
           "title": "Software Engineer 1 - Data Engineering",
           "company": "Intuit",
-          "posted_at": "2026-01-28T15:21:34.217Z"
+          "posted_at": "2026-01-28T18:23:52.106Z"
         },
         {
           "id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
           "title": "Head of Azure Partnership",
           "company": "anthropic",
-          "posted_at": "2026-01-28T15:21:35.978Z"
+          "posted_at": "2026-01-28T18:23:54.174Z"
         },
         {
           "id": "sofi-com-careers-job-7595616003",
           "title": "Software Engineer - Loans Platform",
           "company": "SoFi",
-          "posted_at": "2026-01-28T15:21:37.680Z"
+          "posted_at": "2026-01-28T18:23:55.848Z"
         }
       ]
     },
@@ -64,31 +64,31 @@
           "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
           "title": "AI ML Engineer - RTL Power Optimization",
           "company": "NVIDIA",
-          "posted_at": "2026-01-28T15:21:42.404Z"
+          "posted_at": "2026-01-28T18:24:00.699Z"
         },
         {
           "id": "job-boards-greenhouse-io-loop-jobs-5780584004",
           "title": "Graduate Software Engineer - AI",
           "company": "Loop",
-          "posted_at": "2026-01-28T15:21:44.157Z"
+          "posted_at": "2026-01-28T18:24:02.706Z"
         },
         {
           "id": "job-boards-greenhouse-io-loop-jobs-5780582004",
           "title": "2026 New Grad - Software Engineer - Full-Stack",
           "company": "Loop",
-          "posted_at": "2026-01-28T15:21:45.873Z"
+          "posted_at": "2026-01-28T18:24:04.417Z"
         },
         {
           "id": "job-boards-greenhouse-io-gusto-jobs-7522735",
           "title": "AI / Automation & Governance Owner",
           "company": "gusto",
-          "posted_at": "2026-01-28T15:21:47.561Z"
+          "posted_at": "2026-01-28T18:24:07.551Z"
         },
         {
           "id": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
           "title": "Developer Campaign Marketer, Claude Code",
           "company": "anthropic",
-          "posted_at": "2026-01-28T15:21:49.256Z"
+          "posted_at": "2026-01-28T18:24:09.336Z"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "id": "job-boards-greenhouse-io-anthropic-jobs-5059392008",
           "title": "GTM Strategy & Operations, Commercial",
           "company": "anthropic",
-          "posted_at": "2026-01-28T15:21:54.095Z"
+          "posted_at": "2026-01-28T18:24:14.177Z"
         }
       ]
     }
@@ -111,7 +111,148 @@
   "multi_channel_routing": [],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "careers-datadoghq-com-detail-7560494",
+        "title": "Manager I, Engineering - Applied AI - Natural Language & Conversational Interfaces",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.555Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7514972",
+        "title": "Workforce Management Capacity & Analytics Team Lead",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8389421002",
+        "title": "Director, Enterprise Sales",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8074909002",
+        "title": "Director, Enterprise Sales",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8074910002",
+        "title": "Director, Enterprise Sales",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8074913002",
+        "title": "Director, Enterprise Sales",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "www-coinbase-com-careers-positions-7549879",
+        "title": "Manager, Corporate Development & Ventures",
+        "company": "coinbase",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5081491008",
+        "title": "Internal Mobility Program Manager",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4965218008",
+        "title": "Director, Accounting Operations",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7558056",
+        "title": "Staff Software Engineer – Fabric",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8385180002",
+        "title": "Senior Community Manager",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8345186002",
+        "title": "Senior Community Manager",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4914907008",
+        "title": "Manager, Customer Success",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4973175008",
+        "title": "Manager of Solutions Architecture, Applied AI (Public Sector)",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4947472008",
+        "title": "Manager of Associate Solutions Architecture, Applied AI ",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5078114008",
+        "title": "Principal Threat Intelligence Lead",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8174001002",
+        "title": "Data Science Manager, Safety",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.556Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-5864071",
+        "title": "Senior Staff Software Engineer, Payments and Risk",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.557Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4964446007",
+        "title": "Sales Strategy and Operations Division Lead",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.557Z"
+      },
+      {
+        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-environmental-data-science-and-artificial-intelligence-_r-089857-1",
+        "title": "Postdoctoral Researcher",
+        "company": "Prairie View A&M University",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-28T18:23:49.557Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
     "other": []
