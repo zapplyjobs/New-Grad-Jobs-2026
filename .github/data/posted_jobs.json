@@ -1,621 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-28T18:24:18.913Z",
+  "lastUpdated": "2026-01-28T21:22:55.610Z",
   "jobs": [
-    {
-      "id": "3e77ec9b1ad4d547-2026-01-21-1",
-      "jobId": "3e77ec9b1ad4d547",
-      "company": "discord",
-      "title": "Data Scientist, Analytics - Ads Reporting",
-      "postedToDiscord": "2026-01-21T18:26:11.314Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463600581515018451",
-          "channelType": "category",
-          "postedAt": "2026-01-21T18:26:11.314Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8343789002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8343789002",
-      "company": "discord",
-      "title": "Data Scientist, Analytics - Ads Reporting",
-      "postedToDiscord": "2026-01-21T18:26:12.846Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
-      "discordThreadId": "1463600581515018451",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "406354c94e1df3f9-2026-01-21-1",
-      "jobId": "406354c94e1df3f9",
-      "company": "discord",
-      "title": "Senior Data Scientist, Analytics - GTM Ads",
-      "postedToDiscord": "2026-01-21T18:26:13.144Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343795002",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463600589869944942",
-          "channelType": "category",
-          "postedAt": "2026-01-21T18:26:13.144Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8343795002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8343795002",
-      "company": "discord",
-      "title": "Senior Data Scientist, Analytics - GTM Ads",
-      "postedToDiscord": "2026-01-21T18:26:14.671Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343795002",
-      "discordThreadId": "1463600589869944942",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "031fc3b60a4bfa71-2026-01-21-1",
-      "jobId": "031fc3b60a4bfa71",
-      "company": "discord",
-      "title": "Staff Software Engineer, Quest Experiences",
-      "postedToDiscord": "2026-01-21T18:26:18.030Z",
-      "sourceDate": "2026-01-20T14:23:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8101803002",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463600609801277483",
-          "channelType": "category",
-          "postedAt": "2026-01-21T18:26:18.030Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8101803002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8101803002",
-      "company": "discord",
-      "title": "Staff Software Engineer, Quest Experiences",
-      "postedToDiscord": "2026-01-21T18:26:19.555Z",
-      "sourceDate": "2026-01-20T14:23:56-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8101803002",
-      "discordThreadId": "1463600609801277483",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "3e78b0c9db5b8a43-2026-01-21-1",
-      "jobId": "3e78b0c9db5b8a43",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Majors",
-      "postedToDiscord": "2026-01-21T18:52:58.281Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463607322164199587",
-          "channelType": "category",
-          "postedAt": "2026-01-21T18:52:58.281Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5039945004-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5039945004",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Majors",
-      "postedToDiscord": "2026-01-21T18:52:59.810Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
-      "discordThreadId": "1463607322164199587",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "d067d54e8222be9d-2026-01-21-1",
-      "jobId": "d067d54e8222be9d",
-      "company": "discord",
-      "title": "Manager, Global Accounts Receivable",
-      "postedToDiscord": "2026-01-21T18:53:12.406Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8321982002",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463607381043974340",
-          "channelType": "category",
-          "postedAt": "2026-01-21T18:53:12.406Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8321982002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8321982002",
-      "company": "discord",
-      "title": "Manager, Global Accounts Receivable",
-      "postedToDiscord": "2026-01-21T18:53:13.935Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8321982002",
-      "discordThreadId": "1463607381043974340",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "f50ce245cf29e0c5-2026-01-21-1",
-      "jobId": "f50ce245cf29e0c5",
-      "company": "discord",
-      "title": "Senior Financial Reporting and Technical Accountant",
-      "postedToDiscord": "2026-01-21T18:53:14.253Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8316122002",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463607389138714808",
-          "channelType": "category",
-          "postedAt": "2026-01-21T18:53:14.253Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8316122002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8316122002",
-      "company": "discord",
-      "title": "Senior Financial Reporting and Technical Accountant",
-      "postedToDiscord": "2026-01-21T18:53:15.783Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8316122002",
-      "discordThreadId": "1463607389138714808",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "b08ac1b22923d22d-2026-01-21-1",
-      "jobId": "b08ac1b22923d22d",
-      "company": "anthropic",
-      "title": "Security Engineer, Operating Systems",
-      "postedToDiscord": "2026-01-21T19:18:06.400Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463613647711502534",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:18:06.400Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4929693008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929693008",
-      "company": "anthropic",
-      "title": "Security Engineer, Operating Systems",
-      "postedToDiscord": "2026-01-21T19:18:07.931Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
-      "discordThreadId": "1463613647711502534",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "9a9a9cd09f82e448-2026-01-21-1",
-      "jobId": "9a9a9cd09f82e448",
-      "company": "anthropic",
-      "title": "Systems Integrity Security Architect",
-      "postedToDiscord": "2026-01-21T19:18:08.159Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463613655353524330",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:18:08.159Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4929689008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4929689008",
-      "company": "anthropic",
-      "title": "Systems Integrity Security Architect",
-      "postedToDiscord": "2026-01-21T19:18:09.688Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
-      "discordThreadId": "1463613655353524330",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "ab56c50d7c5026d6-2026-01-21-1",
-      "jobId": "ab56c50d7c5026d6",
-      "company": "anthropic",
-      "title": "Corporate Communications Manager ",
-      "postedToDiscord": "2026-01-21T19:18:18.715Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463613699020427386",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:18:18.715Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5017818008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5017818008",
-      "company": "anthropic",
-      "title": "Corporate Communications Manager ",
-      "postedToDiscord": "2026-01-21T19:18:20.243Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
-      "discordThreadId": "1463613699020427386",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "1b389f5f142fbf5a-2026-01-21-1",
-      "jobId": "1b389f5f142fbf5a",
-      "company": "anthropic",
-      "title": "Developer Relations, MCP",
-      "postedToDiscord": "2026-01-21T19:32:48.224Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463617346748026961",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:32:48.224Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5015340008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015340008",
-      "company": "anthropic",
-      "title": "Developer Relations, MCP",
-      "postedToDiscord": "2026-01-21T19:32:49.752Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
-      "discordThreadId": "1463617346748026961",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "7bd47e13021575f9-2026-01-21-1",
-      "jobId": "7bd47e13021575f9",
-      "company": "discord",
-      "title": "Senior Product Marketing Manager, Nitro",
-      "postedToDiscord": "2026-01-21T19:49:57.209Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8323992002",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463621662397431851",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:49:57.209Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8323992002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8323992002",
-      "company": "discord",
-      "title": "Senior Product Marketing Manager, Nitro",
-      "postedToDiscord": "2026-01-21T19:49:58.740Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8323992002",
-      "discordThreadId": "1463621662397431851",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "8a2ad56d66c70a51-2026-01-21-1",
-      "jobId": "8a2ad56d66c70a51",
-      "company": "anthropic",
-      "title": "Microsoft GTM Partnership, Enterprise",
-      "postedToDiscord": "2026-01-21T19:49:59.145Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463621669674287323",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:49:59.145Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5018195008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5018195008",
-      "company": "anthropic",
-      "title": "Microsoft GTM Partnership, Enterprise",
-      "postedToDiscord": "2026-01-21T19:50:00.673Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
-      "discordThreadId": "1463621669674287323",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "63e7cf45e0ecc698-2026-01-21-1",
-      "jobId": "63e7cf45e0ecc698",
-      "company": "anthropic",
-      "title": "Finance Systems Integration Engineer",
-      "postedToDiscord": "2026-01-21T19:50:16.895Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463621744714846210",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:50:16.895Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5000393008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5000393008",
-      "company": "anthropic",
-      "title": "Finance Systems Integration Engineer",
-      "postedToDiscord": "2026-01-21T19:50:18.426Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
-      "discordThreadId": "1463621744714846210",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "b531cb4864f30a5c-2026-01-21-1",
-      "jobId": "b531cb4864f30a5c",
-      "company": "discord",
-      "title": "Product Manager, Core Product",
-      "postedToDiscord": "2026-01-21T19:50:21.736Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8288128002",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463621764860088411",
-          "channelType": "category",
-          "postedAt": "2026-01-21T19:50:21.736Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8288128002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8288128002",
-      "company": "discord",
-      "title": "Product Manager, Core Product",
-      "postedToDiscord": "2026-01-21T19:50:23.265Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8288128002",
-      "discordThreadId": "1463621764860088411",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "463308b73e696af1-2026-01-21-1",
-      "jobId": "463308b73e696af1",
-      "company": "anthropic",
-      "title": "Founding Developer Relations Lead",
-      "postedToDiscord": "2026-01-21T20:18:38.169Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
-      "discordPosts": {
-        "1462988662168879217": {
-          "messageId": "1463628880358281290",
-          "channelType": "category",
-          "postedAt": "2026-01-21T20:18:38.169Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4781798008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4781798008",
-      "company": "anthropic",
-      "title": "Founding Developer Relations Lead",
-      "postedToDiscord": "2026-01-21T20:18:39.717Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
-      "discordThreadId": "1463628880358281290",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "0025ddb5fbf66351-2026-01-21-1",
-      "jobId": "0025ddb5fbf66351",
-      "company": "anthropic",
-      "title": "Business Development Representative",
-      "postedToDiscord": "2026-01-21T20:19:16.926Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463629042560401418",
-          "channelType": "category",
-          "postedAt": "2026-01-21T20:19:16.926Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-4939815008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-4939815008",
-      "company": "anthropic",
-      "title": "Business Development Representative",
-      "postedToDiscord": "2026-01-21T20:19:18.451Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
-      "discordThreadId": "1463629042560401418",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "61f530708ca746ce-2026-01-21-1",
-      "jobId": "61f530708ca746ce",
-      "company": "anthropic",
-      "title": "RevOps Reporting & Insights Analyst",
-      "postedToDiscord": "2026-01-21T20:35:54.490Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463633226814722181",
-          "channelType": "category",
-          "postedAt": "2026-01-21T20:35:54.490Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-anthropic-jobs-5015565008-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-anthropic-jobs-5015565008",
-      "company": "anthropic",
-      "title": "RevOps Reporting & Insights Analyst",
-      "postedToDiscord": "2026-01-21T20:35:56.028Z",
-      "sourceDate": "2026-01-20T12:39:51-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
-      "discordThreadId": "1463633226814722181",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "bb1aa88453bec2d4-2026-01-21-1",
-      "jobId": "bb1aa88453bec2d4",
-      "company": "vercel",
-      "title": "Mobile Engineer",
-      "postedToDiscord": "2026-01-21T20:35:56.321Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463633234700009593",
-          "channelType": "category",
-          "postedAt": "2026-01-21T20:35:56.321Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463633242442698802",
-          "channelType": "location",
-          "postedAt": "2026-01-21T20:35:58.199Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5719796004-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5719796004",
-      "company": "vercel",
-      "title": "Mobile Engineer",
-      "postedToDiscord": "2026-01-21T20:35:59.727Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
-      "discordThreadId": "1463633234700009593",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "5ba45fcdc640ff7d-2026-01-21-1",
-      "jobId": "5ba45fcdc640ff7d",
-      "company": "vercel",
-      "title": "Lifecycle Marketing Manager",
-      "postedToDiscord": "2026-01-21T20:53:40.409Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463637697892585677",
-          "channelType": "category",
-          "postedAt": "2026-01-21T20:53:40.409Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5637558004-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5637558004",
-      "company": "vercel",
-      "title": "Lifecycle Marketing Manager",
-      "postedToDiscord": "2026-01-21T20:53:41.936Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
-      "discordThreadId": "1463637697892585677",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "6de2f991cb0aa3f1-2026-01-21-1",
-      "jobId": "6de2f991cb0aa3f1",
-      "company": "discord",
-      "title": "Director, Global Payments Strategy and Operations",
-      "postedToDiscord": "2026-01-21T20:53:52.196Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463637747347750997",
-          "channelType": "category",
-          "postedAt": "2026-01-21T20:53:52.196Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-discord-jobs-8305665002-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-discord-jobs-8305665002",
-      "company": "discord",
-      "title": "Director, Global Payments Strategy and Operations",
-      "postedToDiscord": "2026-01-21T20:53:53.721Z",
-      "sourceDate": "2026-01-20T14:23:57-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
-      "discordThreadId": "1463637747347750997",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "8068a4ca5f2bd5f0-2026-01-21-1",
-      "jobId": "8068a4ca5f2bd5f0",
-      "company": "vercel",
-      "title": "Director, Technical Accounting & Financial Reporting",
-      "postedToDiscord": "2026-01-21T21:16:11.652Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463643365450190859",
-          "channelType": "category",
-          "postedAt": "2026-01-21T21:16:11.652Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-vercel-jobs-5676402004-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-vercel-jobs-5676402004",
-      "company": "vercel",
-      "title": "Director, Technical Accounting & Financial Reporting",
-      "postedToDiscord": "2026-01-21T21:16:13.179Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
-      "discordThreadId": "1463643365450190859",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
     {
       "id": "5aa2f216d0487fa5-2026-01-21-1",
       "jobId": "5aa2f216d0487fa5",
@@ -992,14 +378,242 @@
         }
       },
       "instanceNumber": 1
+    },
+    {
+      "id": "b24e59b476e85eb5-2026-01-28-1",
+      "jobId": "b24e59b476e85eb5",
+      "company": "FOX",
+      "title": "Analyst – Audience Activation",
+      "postedToDiscord": "2026-01-28T21:22:22.951Z",
+      "sourceDate": "2026-01-22T23:50:14.000Z",
+      "sourceUrl": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Analyst--Audience-Activation_R50030922",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1466181636927394070",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:22.951Z",
+          "channelJobNumber": 19
+        },
+        "1462988831530680422": {
+          "messageId": "1466181645131317303",
+          "channelType": "location",
+          "postedAt": "2026-01-28T21:22:24.740Z",
+          "channelJobNumber": 4
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "NYC",
+      "job_state": "Locations",
+      "job_description": "OVERVIEW OF THE COMPANYFox CorporationUnder the FOX banner, we produce and distribute content through some of the world’s leading and most valued brands, including: FOX News Media, FOX Sports, FOX Entertainment, FOX Television Stations and Tubi Media Group. We empower a diverse range of creators to imagine and develop culturally significant content, while building an organization that thrives on creative ideas, operational expertise and strategic thinking.JOB DESCRIPTIONAs Analyst on the Digital Yield & Audience Activation team, you will play a key role in ensuring campaign delivery processes for digital audience products are defined and executed. Act as tier 1 Sales support for customized audience needs for Client campaigns. You will be first point of contact for Sales consulting, RFP support and data onboarding as it relates to Fox data and audience products. In this role, you will work in Fox’s audience builder to create audiences, manage 1st party data scale and maintain overall health of Fox digital audiences. You will understand audience scale and best strategies that will help support best outcomes for Client campaigns. You will be valuable in measuring and optimizing the overall health of Fox audience products, using this knowledge to drive monetization by working closely with Sales and Account Services. This role reports to the Manager, Digital Audience Activation.A SNAPSHOT OF YOUR RESPONSIBILITIES:Work with Fox’s audience builder and partner Data Management Platforms to create, manage and scale all active audience segments using both 1st and 3rd party dataCollaborate with Data team on marketplace needs and receptivity to digital audience productsAnalyze Fox’s digital inventory for audience products across all propertiesAssist Sales and Client Services in responses for Client RFPs for audience creation, client data onboardCommunicate audience capabilities and audience definitions to Sales for Client requestsSupport Ad Operations and Account Management teams with campaign optimization with audience insightsEducate Sales & Sales Planning to existing digital audience productsWHAT YOU WILL NEED:Experience with digital audience targeting and data management platforms (ie: Liveramp, Transunion)Digital media landscape knowledgeStrong communication, analytical and organizational skills requiredAbility to multi-task and prioritizeProficient in Microsoft Office (Excel, PowerPoint, Outlook)College degree requiredWe are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.Pursuant to state and local pay disclosure requirements, the pay rate/range for this role, with final offer amount dependent on education, skills, experience, and location is $60,000.00-70,000.00 annually. This role is also eligible for various benefits, including medical/dental/vision, insurance, a 401(k) plan, paid time off, and other benefits in accordance with applicable plan documents. Benefits for Union represented employees will be in accordance with the applicable collective bargaining agreement.View more detail about FOX Benefits."
+    },
+    {
+      "id": "d6b0cc580d11b6e0-2026-01-28-1",
+      "jobId": "d6b0cc580d11b6e0",
+      "company": "AccuWeather",
+      "title": "Meteorologist 1",
+      "postedToDiscord": "2026-01-28T21:22:26.531Z",
+      "sourceDate": "2026-01-22T23:44:51.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/accuweather/jobs/7304640",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1466181652811350057",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:26.531Z",
+          "channelJobNumber": 20
+        },
+        "1462988831530680422": {
+          "messageId": "1466181660289798155",
+          "channelType": "location",
+          "postedAt": "2026-01-28T21:22:28.381Z",
+          "channelJobNumber": 5
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "State College",
+      "job_state": "PA",
+      "job_description": "At AccuWeather, our Meteorologists play a vital role in helping people and businesses around the world make the best weather-informed decisions possible. You’ll join a passionate team dedicated to our mission of saving lives, protecting property, and helping people plan their daily activities with confidence. As a Meteorologist I, you’ll prepare and communicate accurate, impact-driven forecasts that power AccuWeather’s digital platforms and business solutions used by millions worldwide. Your forecasts will inform users through our award-winning app and website, and support business partners in a variety of industries. Working in a highly collaborative team environment, you’ll analyze evolving weather data, identify areas of concern for severe or hazardous conditions, and contribute to AccuWeather’s legacy of Superior Accuracy™. Meteorologists at every level — from early-career professionals to seasoned experts — share knowledge and expertise through our consensus forecasting approach, ensuring the highest quality output for our global audience. As you grow in your role, you’ll have opportunities to expand your expertise, take on leadership responsibilities such as Shift Coordinator, and contribute to research and innovation projects. The entry-level Meteorologist will join the AccuWeather Forecasting Team at our Global Headquarters in State College, Pennsylvania, beginning late spring or early summer 2026. KEY RESPONSIBILITIES Prepare specialized, impact-driven weather forecasts and products for diverse audiences including media outlets, business clients, and digital platforms. Collaborate with colleagues to evaluate forecast data, discuss differing analyses, and achieve consensus on predicted weather outcomes. Communicate complex weather scenarios clearly through verbal briefings, written products, and digital forecasts that inform and empower users. Monitor and evaluate new weather data, determine if forecast adjustments are needed, collaborate with colleagues to reach a revised consensus, and update and communicate changes to customers accordingly. Contribute to special projects or operational initiatives such as quality assurance, process improvement, customer support, scheduling, or research and development. Stay current on emerging forecasting tools, models, and techniques to enhance forecast precision and efficiency. Other duties as assigned. QUALIFICATIONS Bachelor’s degree in Meteorology or Atmospheric Sciences, or equivalent education and experience. Eligibility for professional membership in the American Meteorological Society or National Weather Association. Proven forecasting skills across multiple regions or weather types. Skilled at analyzing and translating complex meteorological data into clear, accurate forecasts and insights. Excellent analytical, verbal, and written communication skills. Strong collaboration and leadership abilities in a team-based environment. Availability to work evenings, overnights, weekends, and holidays. All levels of forecasting experience are encouraged to apply. ABOUT ACCUWEATHER AccuWeather, recognized and documented as the most accurate and most used source of weather forecasts and warnings in the world, has saved over 12,000 lives, prevented injury to over 100,000 people, and saved companies tens of billions of dollars through better planning and decision-making. Billions of people around the world rely on AccuWeather’s proven Superior Accuracy™ across our consumer digital platforms. AccuWeather.com is the #1 weather destination and one of the top 100 most-visited websites in the world, and our award-winning AccuWeather app delivers detailed real-time forecasts to millions of smartphones. AccuWeather forecasts also appear on digital signage, in 700 newspapers, are heard on over 400 radio stations, and viewed on 100 television stations. The AccuWeather Network and AccuWeather NOW® reach an audience of over 125 million on cable and streaming platforms including DirecTV, Charter Communications - Spectrum, Verizon, Philo, Frndly TV, Comcast’s Xfinity X1 and Xfinity Stream, Roku, Xumo, Rockbot, LG, and Amazon Freevee. AccuWeather For Business serves more than half of the Fortune 500 companies and thousands of other businesses and government agencies globally. Dr. Joel Myers, Founder and Executive Chairman, established AccuWeather in 1962 and is considered the “father of modern commercial meteorology.” Myers, a leading creative thinker and visionary, has been called “the most accurate man in weather” by The New York Times and has been recognized as one of the top entrepreneurs in American history by Entrepreneur’s Encyclopedia of Entrepreneurs. COMMITMENT TO DIVERSITY & INCLUSION AccuWeather is proud to be an Equal Opportunity/Affirmative Action Employer. We are committed to equal employment opportunity to all applicants and existing employees and we evaluate qualified applicants without regard to race, creed, color, national origin, sex (including pregnancy and gender identity/expression), sexual orientation, age, ancestry, physical or mental disability, marital status, political affiliation, religion, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law. AccuWeather is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to human.resources@accuweather.com and let us know the nature of your request and your contact information."
+    },
+    {
+      "id": "17d35dd5e56d94f5-2026-01-28-1",
+      "jobId": "17d35dd5e56d94f5",
+      "company": "NVIDIA",
+      "title": "AI Performance and Efficiency Engineer",
+      "postedToDiscord": "2026-01-28T21:22:30.131Z",
+      "sourceDate": "2026-01-22T23:40:51.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Performance-and-Efficiency-Engineer---New-College-Grad-2026_JR2011112",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1466181668183212114",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:30.131Z",
+          "channelJobNumber": 21
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join NVIDIA in this exciting opportunity."
+    },
+    {
+      "id": "97c3624d13169416-2026-01-28-1",
+      "jobId": "97c3624d13169416",
+      "company": "DaVita",
+      "title": "Analyst – People Analytics",
+      "postedToDiscord": "2026-01-28T21:22:32.034Z",
+      "sourceDate": "2026-01-22T23:34:02.000Z",
+      "sourceUrl": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analyst--People-Analytics_R0437932",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1466181675217191231",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:32.034Z",
+          "channelJobNumber": 22
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Denver",
+      "job_state": "CO",
+      "job_description": "Posting Date01/22/20262000 16th Street, Denver, Colorado, 80202, United States of AmericaJob DescriptionGENERAL PURPOSE OF THE JOBThe Analyst role within DaVita’s People (Human Resources or HR) Insights & Analytics team is designed to compile complex data sets, produce ongoing regular reporting, generate insight, and help draw conclusions and recommendations about DaVita’s business using DaVita’s people data.  The role would have a general people analytics focus.  This position reports to a leader on the People Insights & Analytics team.ESSENTIAL DUTIES & RESPONSIBILITIESProduce ongoing regular and ad hoc reportingIdentify trends and propose potential analysis for insightsMake recommendations aligned with business goals and strategyParticipate in projects and programs with people data, prioritizing work based on changing demandsCreate effective visualizations tailored to the context of the data and the audienceSeek to improve processes and programsEnsure the integrity of sensitive, confidential dataDevelop proficiency in one software tools like Excel, Workday (or other HRIS), SQL, Tableau, or other tool for reporting and analysisExplain complex, technical issues in a simple, effective wayCollaborate, guide, and provide expertise to internal business partnersDevelop presentations for audiences at varied skill-levels, telling a story with the dataBuild strong partnerships with stakeholders within and outside of the teamMINIMUM QUALIFICATIONSBachelor’s Degree required in business, economics, engineering, finance, mathematics, statistics, psychology or other applicable quantitative or management related field.1+ year in a business environment, gathering and using data to solve business problems. Management consulting or similar experience a plus.1 year of experience in database querying and understanding of relational database design, SQL and/or Workday preferred.Experience using working with multiple data sources to generate insights from analyses, answering questions, creating solutions, and manipulating large data sets to provide measures of projects, programs, and efforts for an organization.Strong written and verbal communication skills; experience collaborating on project teams, managing relationships with clients, and presenting to audiences a plus.Intermediate skills in Excel, Word, Outlook and PowerPoint required.1 or more years of related Human Resources experience preferred.Students currently enrolled in a bachelor’s degree program with an expected 2026/2027 graduation date are encouraged to apply.Why wait? Explore a career with DaVita today.Go to http://careers.davita.com to learn more or apply.What We’ll Provide:More than just pay, our DaVita Rewards package connects teammates to what matters most. Teammates are eligible to begin receiving benefits on the first day of the month following or coinciding with one month of continuous employment. Below are some of our benefit offerings.Comprehensive benefits: Medical, dental, vision, 401(k) match, paid time off, PTO cash outSupport for you and your family: Family resources, EAP counseling sessions, access Headspace®, backup child and elder care, maternity/paternity leave and moreProfessional development programs: DaVita offers a variety of programs to help strong performers grow within their career and also offers on-demand virtual leadership and development courses through DaVita’s online training platform StarLearning.#LI-MS2At DaVita, we strive to be a community first and a company second.  We want all teammates to experience DaVita as \"a place where I belong.\"  Our goal is to embed belonging into everything we do in our Village, so that it becomes part of who we are. We are proud to be an equal opportunity workplace and comply with state and federal affirmative action requirements. Individuals are recruited, hired, assigned and promoted without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, protected veteran status, or any other protected characteristic.This position will be open for a minimum of three days.The Salary Range for the role is $57,784.00 - $85,000.00 per year.   For location-specific minimum wage details, see the following link: DaVita.jobs/WageRatesCompensation for the role will depend on a number of factors, including a candidate’s qualifications, skills, competencies and experience. DaVita offers a competitive total rewards package, which includes a 401k match, healthcare coverage and a broad range of other benefits. Learn more at https://careers.davita.com/benefits     Colorado Residents: Please do not respond to any questions in this initial application that may seek age-identifying information such as age, date of birth, or dates of school attendance or graduation. You may also redact this information from any materials you submit during the application process.  You will not be penalized for redacting or removing this information."
+    },
+    {
+      "id": "369c9eded44f059e-2026-01-28-1",
+      "jobId": "369c9eded44f059e",
+      "company": "NewsBreak",
+      "title": "Software Engineer – New Grad Friendly - IOS",
+      "postedToDiscord": "2026-01-28T21:22:33.802Z",
+      "sourceDate": "2026-01-22T23:28:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4645712006",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1466181683236700397",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:33.802Z",
+          "channelJobNumber": 23
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "About NewsBreak Founded in 2015, NewsBreak is the Content Intelligence platform shaping the future content economy. With over 40 million monthly active users, our flagship platform delivers highly personalized local news and information powered by advanced AI, recommendation systems, and adtech. Recognized by Fast Company as #32 on the Top Workplaces for Innovators, we're proud to be Great Place to Work® certified and home to a dynamic team of technologists, product innovators, and business leaders who are passionate about solving meaningful challenges at scale. Together, we reached unicorn status in 2021, and we remain committed to continuing this high-growth trajectory with the right team to fulfill our mission: building the infrastructure layer for content intelligence. If you’re inspired to dream big, innovate fast, and make a difference, we’d love to hear from you! For more information, visit www.newsbreak.com/aboutAbout Scoopz Scoopz is a fast-growing consumer startup building the next evolution of short-form video. We’re engineers, product thinkers, and builders at heart, obsessed with shipping fast and learning faster. Our product goes beyond endless scrolling, we’re creating interest-based video communities where real people actually connect. If you like solving hard problems at scale, moving with startup speed, and working with a team that values ownership, curiosity, and impact over titles, you’ll feel right at home here. What You’ll Do Build and ship features for the Scoopz iOS app using Swift Collaborate with designers and product managers to turn ideas into polished user experiences Help improve app performance, reliability, and overall code quality Learn how to read, understand, and contribute to an existing production codebase Participate in code reviews and learn best practices from senior engineers Debug issues and help maintain a high-quality app experience What We’re Looking For Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent experience) Experience with Swift and basic iOS development (personal projects, internships, or coursework count!) Familiarity with UIKit and/or SwiftUI Basic understanding of mobile app concepts (networking, state, UI) Willingness to learn, ask questions, and take ownership of your work Passion for consumer products and great user experiences Nice to Have Personal iOS apps, side projects, or open-source contributions Experience with REST APIs or backend integration Exposure to app architectures like MVVM Interest in video, social, or creator-focused products Why You’ll Love Working at NewsBreak Scoopz Team Real impact early, your work ships to production and reaches users Learn directly from experienced startup engineers Fast feedback loops and high ownership A culture that values curiosity, growth, and execution Opportunity to grow quickly as the company scales We offer competitive benefits package Health, dental, and vision care for you and your family Top-tier 401(K) plan with company matching Paid time off and paid holidays Paid parental leave FSA and commuter benefits programs Team activity budget The US base salary range for this full-time position is listed below. Pay may vary based on a number of factors including job-related skills, level, experience, geographic location and relevant education or training. At NewsBreak, we design our overall rewards package to attract top talents. Depending on the position, the role may also be eligible for discretionary bonus and options. Your recruiter can share more details during the hiring process.Annual Base Pay Range$130,000 - $150,000 USDCPRA Privacy Notice for California Candidates"
+    },
+    {
+      "id": "f5f2b2f3979950ef-2026-01-28-1",
+      "jobId": "f5f2b2f3979950ef",
+      "company": "Booz Allen",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-28T21:22:35.552Z",
+      "sourceDate": "2026-01-22T23:16:12.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0232566-1",
+      "discordPosts": {
+        "1462988605306834987": {
+          "messageId": "1466181690694172805",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:35.552Z",
+          "channelJobNumber": 24
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Charleston",
+      "job_state": "SC",
+      "job_description": "Software DeveloperThe Opportunity: Participate in the development, testing, and delivery of software products or components to maintain existing systems. Apply basic principles, theories, and concepts, including limited industry knowledge. Solve routine problems of limited scope and complexity, and refer more complex issues to higher levels. Work under direct supervision.You Have:Experience with programming languages, including Java, C++, Python, or JavaScript, in industry or academic environmentsExperience researching, designing, developing, or modifying enterprise-wide systems, architectures, or applications software in an internship or academic environmentAbility to analyze and solve problemsAbility to work independently and within a teamAbility to obtain and maintain a Public Trust or Suitability/Fitness determination based on client requirements HS diploma or GEDNice If You Have:Experience with Agile software development processes and tools, including the Atlassian Tool SuiteExperience documenting testing and maintenance of system correctionsKnowledge of web protocolsKnowledge of relational databases, including Oracle or Microsoft SQLBachelor's degreeVetting: Applicants selected will be subject to a government investigation and may need to meet eligibility requirements of the U.S. government client.CompensationAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $52,900.00 to $108,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.Identity StatementAs part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.Work ModelOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.Commitment to Non-DiscriminationAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law."
+    },
+    {
+      "id": "06795d5f5f475ea5-2026-01-28-1",
+      "jobId": "06795d5f5f475ea5",
+      "company": "Asurion",
+      "title": "Quality and Insights Analyst",
+      "postedToDiscord": "2026-01-28T21:22:40.268Z",
+      "sourceDate": "2026-01-22T23:30:51.000Z",
+      "sourceUrl": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018284",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1466181710751338689",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:40.268Z",
+          "channelJobNumber": 14
+        },
+        "1462989305181114450": {
+          "messageId": "1466181717608890371",
+          "channelType": "location",
+          "postedAt": "2026-01-28T21:22:42.042Z",
+          "channelJobNumber": 2
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Job DescriptionJob Description Summary: The Quality Analyst is responsible for reviewing Expert calls and assessing both the Process and Customer Experience qualities of each call. The role involves analyzing interactions and data to ensure Generative AI & Machine Learning model output quality. Analysts will review calls and data to provide actionable feedback to various teams for improvement.What you will do:•    Essential Duties and Responsibilities:•    Conduct call/interaction monitoring evaluations on Expert’s calls using current Quality program guidelines.•    Review data and interactions to support the ongoing maintenance of AI-driven tools.•    Conduct thorough and accurate audits of machine and expert performance to identify trends and needed enhancements.•    Create appropriate documents that provide traceability for others to determine readiness, work-around processes, and modifications needed in toolsets.•    Communicate and document any known issues or risks and escalate to leadership as appropriate.•    Present results in a clear, concise, and compelling manner.•    Maintain a customer-focused mindset to ensure our work meets the needs of our Experts, external customers, and the business.•    Conduct an audit of the auditor evaluation, which rates the initial auditor’s adherence to the Quality program standards.•    Evaluate a minimum number of interactions daily, based on set standards for interaction type.•    Research escalated customer complaints and provide readouts to Operations or Client Services.•    Adhere to Expert and customer privacy expectations.•    Attend relevant new hire training classes to inform Experts of the Quality process.•    Contribute to quality scorecard evaluations used in monthly, quarterly, and annual performance reviews.•    Interface closely with Quality Manager and Quality Coach to champion required projects to successful completion.•    Participate in weekly calibration sessions and relevant trainings to stay informed of any client changes.•    Host listening sessions with Quality, Operations, or Client Services.•    Provide readouts on Quality performance per Line of Business (LOB).•    Support additional work efforts for other departments, including phone time, detractor callbacks, and special projects to understand the voice of the customer.•    Perform other duties and special projects as assigned.Qualifications:•    6 months+ hands-on experience in a technical contact center environment.•    High-energy and a desire to work in a results-oriented, fast-growth environment.•    Superior quantitative skills, analytical skills, and a passion for achieving practical business and customer impact.•    Ability to effectively prioritize tasks to meet deadlines.•    Strong understanding of Generative AI technologies and their applications preferred.•    Bachelor’s degree in business or a related field preferred. Equivalent relevant work experience may be considered in lieu of degree.•    Must have prior call center and customer service experience.•    Bilingual (English/Spanish or English/French) is a plus.•    Demonstrated ability to consistently achieve all performance metrics, including overall call performance, issue resolution, quality, and compliance.•    Proven track record of good attendance and ability to consistently maintain attendance percentage at or below expectation.•    Must currently be in good standing, including meeting or exceeding goals with no current disciplinary action and/or performance improvement plans on file.•    Possesses working knowledge of Microsoft Windows, Apple OSX, Android, iOS, Windows Phone, BlackBerry OS, and Microsoft Office.•    Excellent verbal and written communication skills, along with the ability to interact with internal and external parties at various levels within the organization.•    Intermediate to advanced typing skills required.Technical Skills:•    Experienced in various systems as required. May include QFiniti, PowerBI, Microsoft Flow, SQL Studio, Twilio Flex.•    Proficient in Microsoft Office Suite; expert skill level in Excel, PowerPoint, PowerBI."
+    },
+    {
+      "id": "f42a1711be5e2f06-2026-01-28-1",
+      "jobId": "f42a1711be5e2f06",
+      "company": "Q-CTRL",
+      "title": "Software Integration Engineer",
+      "postedToDiscord": "2026-01-28T21:22:43.954Z",
+      "sourceDate": "2026-01-22T23:08:58.000Z",
+      "sourceUrl": "https://jobs.lever.co/q-ctrl/1ff2ff69-c5f5-4790-a007-07a90dfa4031/apply",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1466181725305700606",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:43.954Z",
+          "channelJobNumber": 15
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Huntsville",
+      "job_state": "AL",
+      "job_description": "Software Integration EngineerHuntsvilleEngineering – Sensing Engineering /Full-Time / Permanent /HybridApply for this jobAbout the teamThe Sensing Engineering team at Q-CTRL transforms quantum research into deployable technologies that address real-world problems. We design, build, and field-validate an array of quantum sensors that support our key products, including Ironestone Opal - our solution for GPS-denied navigation. You don’t need a background in quantum to make an impact here. We value strong engineering fundamentals, a product mindset, and a drive to solve the hardest engineering problems in quantum sensing today.About the roleWe are seeking a Software Integration Engineer to own the deployment, configuration, and operational readiness of Q-CTRL’s navigation and quantum sensing software on UAS platforms. This role is hands-on and execution focused, ensuring rapidly evolving software developed at HQ is correctly integrated, configured, tested, and run on real platforms in lab and field environments.You will work closely with systems and hardware engineers, and HQ software teams to bring up full sensor and navigation stacks, verify correct operation prior to flight, and manage data flow for analysis. As Q-CTRL’s quantum sensing technology matures, you will help establish robust deployment, testing, and release practices for hardware-in-the-loop and fielded systems.You will join a growing global engineering team, working as part of a small US-based group supporting defense and aerospace programs, and operating at the intersection of software, hardware, and field operations.What you'll be doing: Own software deployment and configuration on UAS platforms, ensuring alignment with fast-moving HQ software releases.Bring up and verify full sensor, driver, transport, and navigation stacks prior to lab tests and flight operations.Act as the on-site software authority during field trials, diagnosing and resolving software and system-level issues.The role will involve intermittent domestic and international travel.The role will involve regular liaison and communication across time zones, in particular with engineering teams at HQ in Sydney.Retrieve, validate, and organize test and flight data for delivery to HQ software and science teams.Work closely with systems, hardware, and HQ software engineers to close integration gaps.Contribute to improving deployment workflows, testing, and CI/CD processes for hardware-integrated software.Other duties within the Employee’s skills and experience, or with reasonable training.Ideally you’ll have:A Bachelor’s degree in Software Engineering or a related fieldExperience deploying and operating software on Linux based embedded, robotics, or UAS platforms.Experience with numerical software and/or algorithm development, with an emphasis on inertial navigation, state estimation, data fusion, or optimization.Proficiency with systems programming language such as C, C++, Rust and PythonExperience setting up and maintaining continuous integration systemsFamiliarity with DevOps practices applied to hardware systems Experience working with sensor drivers, middleware, and data transport layers.Ability to work effectively across software, hardware, systems and research teams.Experience in defence, aerospace, autonomy, robotics, or navigation systems is highly desirable.About Q-CTRLQ-CTRL is the global leader in AI-powered quantum control infrastructure software. We build the tools that make quantum technology useful, solving the hardest challenges in quantum computing and quantum sensing to deliver real-world impact.Founded in 2017, we operate globally with offices in Sydney, Los Angeles, San Francisco, Berlin, and Oxford. Our teams bring together technical and multi-disciplinary expertise across the product lifecycle, and we’re hiring talent to help scale every part of the business. We work quickly to turn cutting-edge science into deployable technology.In 2024 we raised US$113 million in Series B funding, the largest aggregate investment for a quantum software company. Six months later we delivered the first commercial quantum advantage with Ironstone Opal, our field-validated quantum navigation solution for defense and industry.At Q-CTRL, we prioritize outcomes over hours. We offer flexibility, equity potential, and competitive benefits that reflect our high-performance culture. If you’re ready to help shape the future of quantum, we’d love to hear from you!Please be advised that our communications will only come from the @q-ctrl.com domain. All our active job postings are available on our company website.To recruitment agencies, we do not accept unsolicited branded profiles and are not responsible for any fees related to unsolicited resumes.About Q-CTRLQ-CTRL is the global leader in AI-powered quantum control infrastructure software. We build the tools that make quantum technology useful, solving the hardest challenges in quantum computing and quantum sensing to deliver real-world impact.Founded in 2017, we operate globally with offices in Sydney, Los Angeles, San Francisco, Berlin, and Oxford. Our teams bring together technical and multi-disciplinary expertise across the product lifecycle, and we’re hiring talent to help scale every part of the business. We work quickly to turn cutting-edge science into deployable technology.In 2024 we raised US$113 million in Series B funding, the largest aggregate investment for a quantum software company. Six months later we delivered the first commercial quantum advantage with Ironstone Opal, our field-validated quantum navigation solution for defense and industry.At Q-CTRL, we prioritize outcomes over hours. We offer flexibility, equity potential, and competitive benefits that reflect our high-performance culture. If you’re ready to help shape the future of quantum, we’d love to hear from you!Please be advised that our communications will only come from the @q-ctrl.com domain. All our active job postings are available on our company website.To recruitment agencies, we do not accept unsolicited branded profiles and are not responsible for any fees related to unsolicited resumes.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job"
+    },
+    {
+      "id": "c8be1d6f7ea02d2a-2026-01-28-1",
+      "jobId": "c8be1d6f7ea02d2a",
+      "company": "anthropic",
+      "title": "Solutions Architect, Applied AI (National Security)",
+      "postedToDiscord": "2026-01-28T21:22:46.111Z",
+      "sourceDate": "2026-01-22T17:33:12-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1466181733660491779",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:46.111Z",
+          "channelJobNumber": 16
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Washington, DC",
+      "job_state": null,
+      "job_description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.About the role: As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping national security and defense agencies understand the value of Claude and paint the vision on how they can successfully integrate and deploy Claude into their technology stack. You'll combine your deep technical expertise with customer-facing skills to architect innovative LLM solutions that address complex mission challenges while maintaining our high standards for safety and reliability. Working closely with our Sales, Product, and Engineering teams, you'll guide customers from initial technical discovery through successful deployment. You'll leverage your expertise to help customers understand Claude's capabilities, develop evals, and design scalable architectures that maximize the value of our AI systems. Responsibilities: Partner with account executives to deeply understand customer requirements and translate them into technical solutions, ensuring alignment between business objectives and technical implementation Serve as the primary technical advisor to enterprise customers throughout their Claude adoption journey, from discovery to initial evaluation through deployment. You will need to coordinate internally across multiple teams & stakeholders to drive customer success Support customers building with Claude Code, the Claude API, and Claude for Enterprise Create and deliver compelling technical content tailored to different audiences. You will need to be able to spread the gamut from technical deep dives for engineering & development teams up to business value focused conversations with executives Guide technical architecture decisions and help customers integrate Claude effectively into their existing technology stack Help customers develop evaluation frameworks to measure Claude's performance for their specific use cases Identify common integration patterns and contribute insights back to our Product and Engineering teams Travel frequently to customer sites for workshops, technical deep dives, and relationship building Maintain strong knowledge of the latest developments in LLM capabilities and implementation patterns You may be a good fit if you have: TS/SCI clearance required Must have prior experience working with US national security (defense and/or intelligence) agencies 5+ years of experience in technical customer-facing roles such as Solutions Architect, Sales Engineer, or Technical Account Manager Experience navigating complex buying cycles involving multiple stakeholders Exceptional ability to build relationships with and communicate technical concepts to diverse stakeholders to include C-suite executives, engineering & IT teams, and more Strong technical communication skills with the ability to translate customer requirements between technical and business stakeholders Experience designing scalable cloud architectures and integrating with enterprise systems Familiar with Python Familiarity with common LLM frameworks and tools or a background in machine learning or data science Excitement for engaging in cross-organizational collaboration, working through trade-offs, and balancing competing priorities A love of teaching, mentoring, and helping others succeed Excellent communication and interpersonal skills, able to convey complicated topics in easily understandable terms to a diverse set of external and internal stakeholders. You enjoy engaging in cross-organizational collaboration, working through trade-offs, and balancing competing priorities Passion for thinking creatively about how to use technology in a way that is safe and beneficial, and ultimately furthers the goal of advancing safe AI systems The annual compensation range for this role is listed below. For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.Annual Salary:$240,000 - $270,000 USDLogistics Education requirements: We require at least a Bachelor's degree in a related field or equivalent experience.Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices. Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this. We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings. How we're different We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills. The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences. Come work with us! Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process"
+    },
+    {
+      "id": "cd5532b5c0e88185-2026-01-28-1",
+      "jobId": "cd5532b5c0e88185",
+      "company": "ERM",
+      "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
+      "postedToDiscord": "2026-01-28T21:22:50.876Z",
+      "sourceDate": "2026-01-22T23:29:26.000Z",
+      "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Mexico-City-Mexico/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00027643-1",
+      "discordPosts": {
+        "1462988755156734023": {
+          "messageId": "1466181754732810576",
+          "channelType": "category",
+          "postedAt": "2026-01-28T21:22:50.876Z",
+          "channelJobNumber": 7
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Houston",
+      "job_state": "TX",
+      "job_description": "ERM is seeking a Consulting Associate, EHS Management Information Systems (EMIS) to join our global Digital Services business. At ERM, we offer a robust combination of deep EHS&S experience together with broad Environmental Management Information Systems solution expertise. Our EMIS services span the entire information management life cycle, from assisting clients with information solutions portfolio assessment, strategy, technology evaluation and planning, to designing, testing and implementing enterprise-wide systems and innovative technologies.ERM has enduring values, which are fundamental to our business conduct. We are passionate about our people, their safety, well-being and development. ERMers take accountability, are client focused, and collaborate with colleagues across geographies.  If you share our values, believe in sustainability and are motivated by opportunities to shape, build, and contribute to a team that makes a real impact to our client’s businesses, ERM is the right place for you. We offer a flexible working environment and competitive salary.As a Consultant on our team, you will be a valuable asset amongst a diverse team of professionals striving to address business growth, daily business operations and environmental issues. You will work within an environment that promotes proactive cooperation and motivates individuals to maintain a positive attitude in order to consistently deliver quality services and technical solutions.POSITION SUMMARY:In this client - facing role, you will support business leaders in the successful selection, configuration, implementation and sustainment of EHS and sustainability management information systems. You will also provide objective, independent advice on off-the-shelf or custom-built, third-party technologies and knowledge of the market presence of these technologies within our clients. (Training will be provided.) The successful candidate will have effective client communication skills and a passion for sustainability and technology, with an educational background in Engineering, Environmental Science, Sustainability, Information Technology, Computer Science, Management Information Systems, or Theoretical Business or professional experience with software implementation. Ideally, you will have successfully completed university courses that provided exposure to and experience with Environmental software or environmental studies in order to further develop a deep understanding of global EHS and sustainability business capabilities, regulatory requirements and best practices.RESPONSIBILITIES:Evaluate EHS&S Management Information Systems (EMIS) available on the market, including assisting clients with system requirements and software selection.Engage in all life cycle stages of project execution; Implement EMIS software for clients worldwide, assisting with system configuration, integration, training, rollout, support, maintenance, enhancement and improvements as required to meet overall business objectives of clients.Support consultant teams that configure/deploy environmental health, safety and sustainability solutions; specific activities include drafting and publishing system design documents, configuring technical specifications and components within the solution, analyzing/migrating data, and developing custom reports/dashboards and automated interfaces.  Participate in system support and training documentation teams, and prepare and present training to internal consultants and client system users.Apply functional and technical skill to configure EMIS software; serve as subject matter expert to provide escalation point for production issues.Map and analyze end-to-end business processes within third party and proprietary systems as well as integration with EHS&S Management Information Systems software, following formal IT guidelines.Facilitate management of change issues with the adoption of new information systems. Serve as a power user of collaborative technology, and champion new and innovative business solutions within established and emerging technical architectures (i.e. Sphera, Enablon, Intelex, SAI Global EHS 360, Cority, and other EHS&S software systems.)REQUIREMENTS:Bachelors degree in an environmental or technical field such as Environmental Sciences, Information Technology, Computer Science, Engineering, Management Information Systems, Theoretical Business or related field.0+ years experience with Enablon, Intelex, SAI Global EHS 360, Cority, Sphera, or other EHS&S software systems knowledge.Diversified information technology background and knowledge of EHS software, methodologies, domains and technology an advantage, but not required. (Environmental Compliance, Industrial Hygiene and Safety, Occupational Health, Occupational Hygiene, Audit Management, Incident Management & Risk Assessment).Who We Are:As the largest global pure play sustainability consultancy, we partner with the world’s leading organizations, creating innovative solutions to sustainability challenges and unlocking commercial opportunities that meet the needs of today while preserving opportunity for future generations.At ERM we know that creating a diverse, equitable and inclusive work environment is an essential part of making our company a great place to build a career. We also see our diversity as a strength that helps us create better solutions for our clients. Our diverse team of world-class experts supports clients across the breadth of their organizations to operationalize sustainability, underpinned by our deep technical expertise in addressing their environmental, health, safety, risk and social issues. We call this capability our “boots to boardroom” approach for its comprehensive service model that allows ERM to develop strategic and technical solutions that advance objectives on the ground or at the executive level.Please submit your resume and brief cover letter. Based on review of these responses, shortlisted candidates will be invited for interviews.ERM does not accept recruiting agency resumes. Please do not forward resumes to our jobs alias, ERM employees or any other company location. ERM is not responsible for any fees related to unsolicited resumes.ERM is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Thank you for your interest in ERM!#LI-TM1#HybridCandidates may be invited to complete an online assessment as part of our recruitment process. All personal information will be handled confidentially and in compliance with data protection laws."
     }
   ],
   "metadata": {
-    "totalJobs": 62,
+    "totalJobs": 30,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-28T18:24:18.913Z",
+      "date": "2026-01-28T21:22:55.610Z",
       "archived": 0
     }
   }
