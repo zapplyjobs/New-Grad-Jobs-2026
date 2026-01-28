@@ -1,919 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-28T00:40:50.515Z",
+  "lastUpdated": "2026-01-28T02:57:36.558Z",
   "jobs": [
-    {
-      "id": "415414105c3748d6-2026-01-21-1",
-      "jobId": "415414105c3748d6",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Southern California - Local, Higher Education)",
-      "postedToDiscord": "2026-01-21T00:56:00.170Z",
-      "sourceDate": "2026-01-16T19:01:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977081007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336294502498346",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:00.170Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4977081007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4977081007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Southern California - Local, Higher Education)",
-      "postedToDiscord": "2026-01-21T00:56:01.693Z",
-      "sourceDate": "2026-01-16T19:01:07-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977081007",
-      "discordThreadId": "1463336294502498346",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "05c823283ecda301-2026-01-21-1",
-      "jobId": "05c823283ecda301",
-      "company": "verkada",
-      "title": "Channel Marketing Associate (Remote)",
-      "postedToDiscord": "2026-01-21T00:56:02.088Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4984340007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336302077542597",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:02.088Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463336309639741483",
-          "channelType": "location",
-          "postedAt": "2026-01-21T00:56:03.959Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4984340007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4984340007",
-      "company": "verkada",
-      "title": "Channel Marketing Associate (Remote)",
-      "postedToDiscord": "2026-01-21T00:56:05.483Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4984340007",
-      "discordThreadId": "1463336302077542597",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "43497cb928670606-2026-01-21-1",
-      "jobId": "43497cb928670606",
-      "company": "verkada",
-      "title": "Communications Manager",
-      "postedToDiscord": "2026-01-21T00:56:05.755Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4872410007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336317709713710",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:05.755Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463336324890099930",
-          "channelType": "location",
-          "postedAt": "2026-01-21T00:56:07.561Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4872410007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4872410007",
-      "company": "verkada",
-      "title": "Communications Manager",
-      "postedToDiscord": "2026-01-21T00:56:09.083Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4872410007",
-      "discordThreadId": "1463336317709713710",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "c17d919beddde79b-2026-01-21-1",
-      "jobId": "c17d919beddde79b",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Chicago - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:09.477Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4998116007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336332913803306",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:09.477Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4998116007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4998116007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Chicago - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:10.999Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4998116007",
-      "discordThreadId": "1463336332913803306",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "4a95e5d061ef216e-2026-01-21-1",
-      "jobId": "4a95e5d061ef216e",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Colorado - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:11.171Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977098007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336340723863622",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:11.171Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4977098007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4977098007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Colorado - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:12.696Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977098007",
-      "discordThreadId": "1463336340723863622",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "ae573632544b4c94-2026-01-21-1",
-      "jobId": "ae573632544b4c94",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Corporate/Manufacturing - East)",
-      "postedToDiscord": "2026-01-21T00:56:12.925Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4680763007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336347984068710",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:12.925Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4680763007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4680763007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Corporate/Manufacturing - East)",
-      "postedToDiscord": "2026-01-21T00:56:14.448Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4680763007",
-      "discordThreadId": "1463336347984068710",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "3976fd50523e5290-2026-01-21-1",
-      "jobId": "3976fd50523e5290",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Houston - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:14.718Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4410381007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336355181498439",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:14.718Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4410381007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4410381007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Houston - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:16.241Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4410381007",
-      "discordThreadId": "1463336355181498439",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "2118766a0e356edb-2026-01-21-1",
-      "jobId": "2118766a0e356edb",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Kansas - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:16.557Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4978267007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463336362722721985",
-          "channelType": "category",
-          "postedAt": "2026-01-21T00:56:16.557Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4978267007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4978267007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (Kansas - SLED)",
-      "postedToDiscord": "2026-01-21T00:56:18.079Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4978267007",
-      "discordThreadId": "1463336362722721985",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "6a9d4a08ddd628c8-2026-01-21-1",
-      "jobId": "6a9d4a08ddd628c8",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (New York State  - SLED)",
-      "postedToDiscord": "2026-01-21T01:40:14.658Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4926883007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463347427770630419",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:14.658Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463347435375169680",
-          "channelType": "location",
-          "postedAt": "2026-01-21T01:40:16.371Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4926883007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4926883007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (New York State  - SLED)",
-      "postedToDiscord": "2026-01-21T01:40:17.891Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4926883007",
-      "discordThreadId": "1463347427770630419",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "b18dfcd28b33fa0b-2026-01-21-1",
-      "jobId": "b18dfcd28b33fa0b",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (SoCal - Corporate)",
-      "postedToDiscord": "2026-01-21T01:40:18.132Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4904906007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463347442819797003",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:18.132Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4904906007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4904906007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (SoCal - Corporate)",
-      "postedToDiscord": "2026-01-21T01:40:19.655Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4904906007",
-      "discordThreadId": "1463347442819797003",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "a2378f7efeee689d-2026-01-21-1",
-      "jobId": "a2378f7efeee689d",
-      "company": "verkada",
-      "title": "Enterprise Development Representative",
-      "postedToDiscord": "2026-01-21T01:40:19.919Z",
-      "sourceDate": "2026-01-16T17:15:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4140679007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463347450088657181",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:19.919Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4140679007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4140679007",
-      "company": "verkada",
-      "title": "Enterprise Development Representative",
-      "postedToDiscord": "2026-01-21T01:40:21.441Z",
-      "sourceDate": "2026-01-16T17:15:05-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4140679007",
-      "discordThreadId": "1463347450088657181",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "5e7260f8d2dda442-2026-01-21-1",
-      "jobId": "5e7260f8d2dda442",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (US West - Federal Veterans Affairs)",
-      "postedToDiscord": "2026-01-21T01:40:21.807Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4952537007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463347457558708235",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:21.807Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4952537007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4952537007",
-      "company": "verkada",
-      "title": "Enterprise Account Executive (US West - Federal Veterans Affairs)",
-      "postedToDiscord": "2026-01-21T01:40:23.327Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4952537007",
-      "discordThreadId": "1463347457558708235",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "bd141b3ec8efd190-2026-01-21-1",
-      "jobId": "bd141b3ec8efd190",
-      "company": "verkada",
-      "title": "Enterprise Development Manager",
-      "postedToDiscord": "2026-01-21T01:40:23.757Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4629544007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463347465720823950",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:23.757Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4629544007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4629544007",
-      "company": "verkada",
-      "title": "Enterprise Development Manager",
-      "postedToDiscord": "2026-01-21T01:40:25.281Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4629544007",
-      "discordThreadId": "1463347465720823950",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "fe832889b15c99d1-2026-01-21-1",
-      "jobId": "fe832889b15c99d1",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Carolinas ",
-      "postedToDiscord": "2026-01-21T01:40:28.726Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4940356007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463347486625370173",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:28.726Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4940356007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4940356007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Carolinas ",
-      "postedToDiscord": "2026-01-21T01:40:30.249Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4940356007",
-      "discordThreadId": "1463347486625370173",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "e47a17bcc93d96f7-2026-01-21-1",
-      "jobId": "e47a17bcc93d96f7",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Greater Atlanta Area",
-      "postedToDiscord": "2026-01-21T01:40:30.586Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4086572007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463347494661390525",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:30.586Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4086572007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4086572007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Greater Atlanta Area",
-      "postedToDiscord": "2026-01-21T01:40:32.109Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4086572007",
-      "discordThreadId": "1463347494661390525",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "d4bf2e30754fe60c-2026-01-21-1",
-      "jobId": "d4bf2e30754fe60c",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Mid-West, SLED",
-      "postedToDiscord": "2026-01-21T01:40:32.378Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4351374007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463347502324650132",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:32.378Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4351374007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4351374007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Mid-West, SLED",
-      "postedToDiscord": "2026-01-21T01:40:33.899Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4351374007",
-      "discordThreadId": "1463347502324650132",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "1ced13a4df587678-2026-01-21-1",
-      "jobId": "1ced13a4df587678",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Northeast",
-      "postedToDiscord": "2026-01-21T01:40:34.202Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4567322007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463347509811347628",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:34.202Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463347517180874858",
-          "channelType": "location",
-          "postedAt": "2026-01-21T01:40:35.996Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4567322007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4567322007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Northeast",
-      "postedToDiscord": "2026-01-21T01:40:37.518Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4567322007",
-      "discordThreadId": "1463347509811347628",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "77f7ec862a27eece-2026-01-21-1",
-      "jobId": "77f7ec862a27eece",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Rocky Mountains",
-      "postedToDiscord": "2026-01-21T01:40:37.688Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5001585007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463347524873228288",
-          "channelType": "category",
-          "postedAt": "2026-01-21T01:40:37.688Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-5001585007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-5001585007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Rocky Mountains",
-      "postedToDiscord": "2026-01-21T01:40:39.210Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5001585007",
-      "discordThreadId": "1463347524873228288",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "8347de206bea233c-2026-01-21-1",
-      "jobId": "8347de206bea233c",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Southeast",
-      "postedToDiscord": "2026-01-21T02:37:24.120Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4847421007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463361812203311184",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:24.120Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4847421007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4847421007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Southeast",
-      "postedToDiscord": "2026-01-21T02:37:25.658Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4847421007",
-      "discordThreadId": "1463361812203311184",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "b2d1955105ea9f1d-2026-01-21-1",
-      "jobId": "b2d1955105ea9f1d",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Southern California",
-      "postedToDiscord": "2026-01-21T02:37:25.943Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185319007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463361819635744882",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:25.943Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4185319007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4185319007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, Southern California",
-      "postedToDiscord": "2026-01-21T02:37:27.467Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185319007",
-      "discordThreadId": "1463361819635744882",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "310c63c636f32536-2026-01-21-1",
-      "jobId": "310c63c636f32536",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, West Coast",
-      "postedToDiscord": "2026-01-21T02:37:27.689Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4834059007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463361827307262065",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:27.689Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4834059007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4834059007",
-      "company": "verkada",
-      "title": "Enterprise Solutions Engineer, West Coast",
-      "postedToDiscord": "2026-01-21T02:37:29.214Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4834059007",
-      "discordThreadId": "1463361827307262065",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "afdb2e4a3239dc57-2026-01-21-1",
-      "jobId": "afdb2e4a3239dc57",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-21T02:37:29.455Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945152007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463361834332721276",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:29.455Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463361841882333387",
-          "channelType": "location",
-          "postedAt": "2026-01-21T02:37:31.137Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4945152007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4945152007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-21T02:37:32.658Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945152007",
-      "discordThreadId": "1463361834332721276",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949035007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949035007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-21T02:37:32.683Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949035007",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4985491007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4985491007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-21T02:37:32.705Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4985491007",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949024007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949024007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-21T02:37:32.727Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949024007",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949027007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949027007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-21T02:37:32.746Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949027007",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4949028007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4949028007",
-      "company": "verkada",
-      "title": "Senior Project Engineer, Global Services",
-      "postedToDiscord": "2026-01-21T02:37:32.766Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949028007",
-      "discordThreadId": null,
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "911d9bdffc96172b-2026-01-21-1",
-      "jobId": "911d9bdffc96172b",
-      "company": "verkada",
-      "title": "Solutions Engineer",
-      "postedToDiscord": "2026-01-21T02:37:32.921Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087164007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463361849260118049",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:32.921Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4087164007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4087164007",
-      "company": "verkada",
-      "title": "Solutions Engineer",
-      "postedToDiscord": "2026-01-21T02:37:34.442Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087164007",
-      "discordThreadId": "1463361849260118049",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "c890e919af7d2999-2026-01-21-1",
-      "jobId": "c890e919af7d2999",
-      "company": "verkada",
-      "title": "Solutions Engineering Manager, Select & Territory",
-      "postedToDiscord": "2026-01-21T02:37:34.619Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
-      "discordPosts": {
-        "1462988605306834987": {
-          "messageId": "1463361856096960548",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:34.619Z"
-        },
-        "1462989305181114450": {
-          "messageId": "1463361863667548346",
-          "channelType": "location",
-          "postedAt": "2026-01-21T02:37:36.393Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4185105007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4185105007",
-      "company": "verkada",
-      "title": "Solutions Engineering Manager, Select & Territory",
-      "postedToDiscord": "2026-01-21T02:37:37.915Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
-      "discordThreadId": "1463361856096960548",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "79cd72bc928fd7cb-2026-01-21-1",
-      "jobId": "79cd72bc928fd7cb",
-      "company": "verkada",
-      "title": "National Channel Sales Manager, Midwest",
-      "postedToDiscord": "2026-01-21T02:37:41.314Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
-      "discordPosts": {
-        "1462988721828794531": {
-          "messageId": "1463361884333015211",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:41.314Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4824487007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4824487007",
-      "company": "verkada",
-      "title": "National Channel Sales Manager, Midwest",
-      "postedToDiscord": "2026-01-21T02:37:42.836Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
-      "discordThreadId": "1463361884333015211",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "acbb8b55c28bed90-2026-01-21-1",
-      "jobId": "acbb8b55c28bed90",
-      "company": "verkada",
-      "title": "Regional Sales Manager, Mid-Market",
-      "postedToDiscord": "2026-01-21T02:37:46.126Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4387668007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463361904536719474",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:46.126Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4387668007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4387668007",
-      "company": "verkada",
-      "title": "Regional Sales Manager, Mid-Market",
-      "postedToDiscord": "2026-01-21T02:37:47.649Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4387668007",
-      "discordThreadId": "1463361904536719474",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "c0e6517a4dcc8305-2026-01-21-1",
-      "jobId": "c0e6517a4dcc8305",
-      "company": "verkada",
-      "title": "Sales Development Representative (AAE), New York City ",
-      "postedToDiscord": "2026-01-21T02:37:47.885Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463361911944122378",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:47.885Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463361919196074005",
-          "channelType": "location",
-          "postedAt": "2026-01-21T02:37:49.598Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4520965007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4520965007",
-      "company": "verkada",
-      "title": "Sales Development Representative (AAE), New York City ",
-      "postedToDiscord": "2026-01-21T02:37:51.120Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
-      "discordThreadId": "1463361911944122378",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
-    {
-      "id": "9dd5a647c910eca1-2026-01-21-1",
-      "jobId": "9dd5a647c910eca1",
-      "company": "verkada",
-      "title": "Senior Channel Marketing Manager, Northeast (Remote)",
-      "postedToDiscord": "2026-01-21T02:37:51.413Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4648144007",
-      "discordPosts": {
-        "1462988755156734023": {
-          "messageId": "1463361926456148194",
-          "channelType": "category",
-          "postedAt": "2026-01-21T02:37:51.413Z"
-        },
-        "1462988831530680422": {
-          "messageId": "1463361933901172799",
-          "channelType": "location",
-          "postedAt": "2026-01-21T02:37:53.129Z"
-        }
-      },
-      "instanceNumber": 1
-    },
-    {
-      "id": "job-boards-greenhouse-io-verkada-jobs-4648144007-2026-01-21-1",
-      "jobId": "job-boards-greenhouse-io-verkada-jobs-4648144007",
-      "company": "verkada",
-      "title": "Senior Channel Marketing Manager, Northeast (Remote)",
-      "postedToDiscord": "2026-01-21T02:37:54.651Z",
-      "sourceDate": "2026-01-16T13:43:26-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4648144007",
-      "discordThreadId": "1463361926456148194",
-      "instanceNumber": 1,
-      "discordPosts": {}
-    },
     {
       "id": "a2816e9729cc32d7-2026-01-21-1",
       "jobId": "a2816e9729cc32d7",
@@ -5633,10 +4721,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465869083529580706",
+          "messageId": "1465903501296271472",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:24.171Z",
-          "channelJobNumber": 126
+          "postedAt": "2026-01-28T02:57:09.977Z",
+          "channelJobNumber": 99
         }
       },
       "instanceNumber": 1
@@ -5651,10 +4739,10 @@
       "sourceUrl": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465869090693582929",
+          "messageId": "1465903508145569975",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:25.838Z",
-          "channelJobNumber": 127
+          "postedAt": "2026-01-28T02:57:11.703Z",
+          "channelJobNumber": 100
         }
       },
       "instanceNumber": 1
@@ -5669,10 +4757,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5082397008",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465869097609990386",
+          "messageId": "1465903515627946135",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:27.459Z",
-          "channelJobNumber": 128
+          "postedAt": "2026-01-28T02:57:13.526Z",
+          "channelJobNumber": 101
         }
       },
       "instanceNumber": 1
@@ -5687,10 +4775,10 @@
       "sourceUrl": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1465869104660348959",
+          "messageId": "1465903523156721880",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:29.240Z",
-          "channelJobNumber": 129
+          "postedAt": "2026-01-28T02:57:15.214Z",
+          "channelJobNumber": 102
         }
       },
       "instanceNumber": 1
@@ -5705,10 +4793,10 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465869124549742777",
+          "messageId": "1465903543218077767",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:33.932Z",
-          "channelJobNumber": 51
+          "postedAt": "2026-01-28T02:57:19.989Z",
+          "channelJobNumber": 38
         }
       },
       "instanceNumber": 1
@@ -5723,10 +4811,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465869132376314037",
+          "messageId": "1465903550495199324",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:35.877Z",
-          "channelJobNumber": 52
+          "postedAt": "2026-01-28T02:57:21.803Z",
+          "channelJobNumber": 39
         }
       },
       "instanceNumber": 1
@@ -5741,10 +4829,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465869139565346959",
+          "messageId": "1465903557969711331",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:37.517Z",
-          "channelJobNumber": 53
+          "postedAt": "2026-01-28T02:57:23.515Z",
+          "channelJobNumber": 40
         }
       },
       "instanceNumber": 1
@@ -5759,10 +4847,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522735",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465869146456850454",
+          "messageId": "1465903565561266203",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:39.293Z",
-          "channelJobNumber": 54
+          "postedAt": "2026-01-28T02:57:25.315Z",
+          "channelJobNumber": 41
         }
       },
       "instanceNumber": 1
@@ -5777,10 +4865,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1465869154153402411",
+          "messageId": "1465903572511096955",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:41.048Z",
-          "channelJobNumber": 55
+          "postedAt": "2026-01-28T02:57:27.033Z",
+          "channelJobNumber": 42
         }
       },
       "instanceNumber": 1
@@ -5795,21 +4883,21 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059392008",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1465869174260891891",
+          "messageId": "1465903592824373435",
           "channelType": "category",
-          "postedAt": "2026-01-28T00:40:45.779Z",
-          "channelJobNumber": 59
+          "postedAt": "2026-01-28T02:57:31.815Z",
+          "channelJobNumber": 50
         }
       },
       "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 387,
+    "totalJobs": 326,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-28T00:40:50.515Z",
+      "date": "2026-01-28T02:57:36.558Z",
       "archived": 0
     }
   }
