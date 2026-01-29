@@ -1,66 +1,109 @@
 {
-  "generated": "2026-01-29T22:15:31.080Z",
+  "generated": "2026-01-29T22:32:45.663Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T22:15:31.080Z",
-  "period_end": "2026-01-29T22:15:31.080Z",
+  "period_start": "2026-01-22T22:32:45.663Z",
+  "period_end": "2026-01-29T22:32:45.663Z",
   "summary": {
-    "total_jobs_posted": 11,
+    "total_jobs_posted": 12,
     "unique_jobs": 10,
-    "multi_channel_postings": 2,
-    "unique_multi_channel_jobs": 1,
+    "multi_channel_postings": 4,
+    "unique_multi_channel_jobs": 2,
     "failed_postings": 0,
-    "filtered_jobs": 5,
+    "filtered_jobs": 1,
     "channels_active": 5
   },
   "by_channel": {
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 4,
+    "💰・finance-jobs": {
+      "channel_id": "1462988755156734023",
+      "count": 3,
       "jobs": [
-        "careers-westinghousenuclear-com-job-warrendale-software-engineer-or-1359789200",
-        "jobs-challp-icims-com-jobs-7492-job",
-        "careers-herbalife-icims-com-jobs-18711-job",
-        "job-boards-greenhouse-io-anthropic-jobs-5097351008"
+        "www-brex-com-careers-8220031002",
+        "jobs-ashbyhq-com-supabase-584115a8-998d-4a7c-bc1f-81b1eb574b29",
+        "job-boards-greenhouse-io-gusto-jobs-7460308"
       ],
       "recent_jobs": [
         {
-          "id": "careers-westinghousenuclear-com-job-warrendale-software-engineer-or-1359789200",
-          "title": "Software Engineer",
-          "company": "Westinghouse Electric Company",
-          "posted_at": "2026-01-29T22:14:55.754Z"
+          "id": "www-brex-com-careers-8220031002",
+          "title": "Expansion Account Executive, Enterprise",
+          "company": "brex",
+          "posted_at": "2026-01-29T22:32:08.806Z"
         },
         {
-          "id": "jobs-challp-icims-com-jobs-7492-job",
-          "title": "Electric Distribution Planner 1",
-          "company": "CHA Consulting",
-          "posted_at": "2026-01-29T22:14:57.500Z"
+          "id": "jobs-ashbyhq-com-supabase-584115a8-998d-4a7c-bc1f-81b1eb574b29",
+          "title": "Corporate Counsel ",
+          "company": "supabase",
+          "posted_at": "2026-01-29T22:32:12.747Z"
         },
         {
-          "id": "careers-herbalife-icims-com-jobs-18711-job",
-          "title": "Application Developer 1",
-          "company": "Herbalife",
-          "posted_at": "2026-01-29T22:14:59.153Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5097351008",
-          "title": "Training Content and Systems Architect",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T22:15:00.871Z"
+          "id": "job-boards-greenhouse-io-gusto-jobs-7460308",
+          "title": "Tax Operations Advocate",
+          "company": "gusto",
+          "posted_at": "2026-01-29T22:32:14.742Z"
         }
       ]
     },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
+    "🏠・remote-usa-jobs": {
+      "channel_id": "1462989305181114450",
       "count": 1,
       "jobs": [
-        "apply-workable-com-qodeworld-j-0c2e797e48-apply"
+        "www-brex-com-careers-8220031002"
       ],
       "recent_jobs": [
         {
-          "id": "apply-workable-com-qodeworld-j-0c2e797e48-apply",
-          "title": "Associate Data Engineer",
-          "company": "qode.world",
-          "posted_at": "2026-01-29T22:15:05.703Z"
+          "id": "www-brex-com-careers-8220031002",
+          "title": "Expansion Account Executive, Enterprise",
+          "company": "brex",
+          "posted_at": "2026-01-29T22:32:10.738Z"
+        }
+      ]
+    },
+    "💻・tech-jobs": {
+      "channel_id": "1462988605306834987",
+      "count": 6,
+      "jobs": [
+        "job-boards-greenhouse-io-anthropic-jobs-5097186008",
+        "job-boards-greenhouse-io-anthropic-jobs-5097348008",
+        "job-boards-greenhouse-io-anthropic-jobs-4941996008",
+        "job-boards-greenhouse-io-vercel-jobs-5719796004",
+        "ccf-wd1-myworkdayjobs-com-clevelandcliniccareers-job-remote-location-ebi-database-developer-i_320481",
+        "hcgn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-44410"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5097186008",
+          "title": "Founding Design Engineer, AI Capability Development, Education Labs",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T22:32:19.474Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5097348008",
+          "title": "Certification Content and Systems Architect",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T22:32:21.201Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4941996008",
+          "title": "Software Engineer, Healthcare & Financial Services",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T22:32:25.434Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-vercel-jobs-5719796004",
+          "title": "Mobile Engineer",
+          "company": "vercel",
+          "posted_at": "2026-01-29T22:32:27.200Z"
+        },
+        {
+          "id": "ccf-wd1-myworkdayjobs-com-clevelandcliniccareers-job-remote-location-ebi-database-developer-i_320481",
+          "title": "EBI Database Developer 1",
+          "company": "Cleveland Clinic",
+          "posted_at": "2026-01-29T22:32:30.695Z"
+        },
+        {
+          "id": "hcgn-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-44410",
+          "title": "Software Engineer",
+          "company": "Citizens Financial Group",
+          "posted_at": "2026-01-29T22:32:32.547Z"
         }
       ]
     },
@@ -68,118 +111,64 @@
       "channel_id": "1462988831530680422",
       "count": 1,
       "jobs": [
-        "apply-workable-com-qodeworld-j-0c2e797e48-apply"
+        "job-boards-greenhouse-io-vercel-jobs-5719796004"
       ],
       "recent_jobs": [
         {
-          "id": "apply-workable-com-qodeworld-j-0c2e797e48-apply",
-          "title": "Associate Data Engineer",
-          "company": "qode.world",
-          "posted_at": "2026-01-29T22:15:07.426Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5719796004",
+          "title": "Mobile Engineer",
+          "company": "vercel",
+          "posted_at": "2026-01-29T22:32:29.008Z"
         }
       ]
     },
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 3,
+    "📊・data-science-jobs": {
+      "channel_id": "1462988721828794531",
+      "count": 1,
       "jobs": [
-        "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1359734000",
-        "job-boards-greenhouse-io-anthropic-jobs-5076606008",
-        "job-boards-greenhouse-io-anthropic-jobs-5018472008"
+        "fa-exty-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-115897"
       ],
       "recent_jobs": [
         {
-          "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1359734000",
-          "title": "Software Engineer 1",
-          "company": "Huntington Ingalls Industries",
-          "posted_at": "2026-01-29T22:15:12.446Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5076606008",
-          "title": "Research Engineer / Scientist, Societal Impacts",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T22:15:14.506Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5018472008",
-          "title": "Research Economist, Economic Research",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T22:15:16.443Z"
-        }
-      ]
-    },
-    "💰・finance-jobs": {
-      "channel_id": "1462988755156734023",
-      "count": 2,
-      "jobs": [
-        "job-boards-greenhouse-io-verkada-jobs-5034197007",
-        "www-brex-com-careers-8393363002"
-      ],
-      "recent_jobs": [
-        {
-          "id": "job-boards-greenhouse-io-verkada-jobs-5034197007",
-          "title": "Enterprise Account Executive (Houston - SLED)",
-          "company": "verkada",
-          "posted_at": "2026-01-29T22:15:21.158Z"
-        },
-        {
-          "id": "www-brex-com-careers-8393363002",
-          "title": "Expansion Account Executive, Enterprise",
-          "company": "brex",
-          "posted_at": "2026-01-29T22:15:22.881Z"
+          "id": "fa-exty-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-115897",
+          "title": "Data Analyst",
+          "company": "Howmet Aerospace",
+          "posted_at": "2026-01-29T22:32:37.476Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "apply-workable-com-qodeworld-j-0c2e797e48-apply",
-      "company": "qode.world",
-      "title": "Associate Data Engineer",
+      "job_id": "www-brex-com-careers-8220031002",
+      "company": "brex",
+      "title": "Expansion Account Executive, Enterprise",
       "channels": [
-        "📊・data-science-jobs",
+        "💰・finance-jobs",
+        "🏠・remote-usa-jobs"
+      ],
+      "posted_at": "2026-01-29T22:32:08.806Z"
+    },
+    {
+      "job_id": "job-boards-greenhouse-io-vercel-jobs-5719796004",
+      "company": "vercel",
+      "title": "Mobile Engineer",
+      "channels": [
+        "💻・tech-jobs",
         "🗽・new-york-jobs"
       ],
-      "posted_at": "2026-01-29T22:15:05.703Z"
+      "posted_at": "2026-01-29T22:32:27.200Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-brex-com-careers-8390040002",
-        "title": "Partner Enablement Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:14:55.224Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8389635002",
-        "title": "Partner Enablement Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:14:55.224Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023719008",
-        "title": "Data Center Hardware Operations Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096757008",
+        "title": "Strategy & Operations Lead, Core Tech",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:14:55.224Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5097067008",
-        "title": "Research Product Manager, Model Behaviors",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:14:55.224Z"
-      },
-      {
-        "job_id": "www-coinbase-com-careers-positions-7549879",
-        "title": "Manager, Corporate Development",
-        "company": "coinbase",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:14:55.224Z"
+        "timestamp": "2026-01-29T22:32:07.875Z"
       }
     ],
     "already_posted": [],
