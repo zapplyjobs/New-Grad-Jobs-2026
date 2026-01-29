@@ -572,6 +572,14 @@ client.once('ready', async () => {
       for (const { job, routingInfo } of channelData.jobs) {
         const jobId = generateJobId(job);
 
+        // CRITICAL FIX: Check if job was already posted to THIS SPECIFIC CHANNEL
+        // This prevents duplicates even for "reopenings" - a job should only be posted once per channel
+        if (postedJobsManager.hasBeenPostedToChannel(job, channelId)) {
+          console.log(`⏭️ Skipping - already posted to #${channel.name}: ${job.job_title} @ ${job.employer_name}`);
+          postLogger.logSkip(job, jobId, 'already_posted_to_channel');
+          continue;
+        }
+
         // Check ALL pattern matches for comprehensive logging
         const title = (job.job_title || '').toLowerCase();
         const description = (job.job_description || '').toLowerCase();
@@ -677,13 +685,18 @@ client.once('ready', async () => {
             const locationChannel = client.channels.cache.get(locationChannelId);
 
             if (locationChannel) {
-              try {
-                const locationStartTime = Date.now();
+              // CRITICAL FIX: Check if job was already posted to THIS SPECIFIC LOCATION CHANNEL
+              if (postedJobsManager.hasBeenPostedToChannel(job, locationChannelId)) {
+                console.log(`⏭️ Skipping - already posted to location #${locationChannel.name}: ${job.job_title} @ ${job.employer_name}`);
+                postLogger.logSkip(job, jobId, 'already_posted_to_location_channel');
+              } else {
+                try {
+                  const locationStartTime = Date.now();
 
-                // Get channel job number for location channel
-                const locationChannelJobNumber = postedJobsManager.getChannelJobNumber(locationChannelId);
+                  // Get channel job number for location channel
+                  const locationChannelJobNumber = postedJobsManager.getChannelJobNumber(locationChannelId);
 
-                const locationResult = await postJobToChannel(job, locationChannel, { channelJobNumber: locationChannelJobNumber });
+                  const locationResult = await postJobToChannel(job, locationChannel, { channelJobNumber: locationChannelJobNumber });
                 const locationDuration = Date.now() - locationStartTime;
 
                 if (locationResult.success) {
@@ -734,6 +747,7 @@ client.once('ready', async () => {
                   error
                 );
               }
+              }  // End of else block for location posting
             }
 
             // Rate limiting after location post
