@@ -1,187 +1,95 @@
 {
-  "generated": "2026-01-29T15:38:23.553Z",
+  "generated": "2026-01-29T15:46:01.916Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T15:38:23.553Z",
-  "period_end": "2026-01-29T15:38:23.553Z",
+  "period_start": "2026-01-22T15:46:01.916Z",
+  "period_end": "2026-01-29T15:46:01.916Z",
   "summary": {
-    "total_jobs_posted": 13,
-    "unique_jobs": 10,
-    "multi_channel_postings": 6,
-    "unique_multi_channel_jobs": 3,
+    "total_jobs_posted": 0,
+    "unique_jobs": 0,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 0,
-    "channels_active": 5
+    "filtered_jobs": 10,
+    "channels_active": 0
   },
-  "by_channel": {
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 6,
-      "jobs": [
-        "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
-        "job-boards-greenhouse-io-accuweather-jobs-7304640",
-        "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-performance-and-efficiency-engineer-new-college-grad-2026_jr2011112",
-        "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
-        "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
-        "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1"
-      ],
-      "recent_jobs": [
-        {
-          "id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
-          "title": "Analyst – Audience Activation",
-          "company": "FOX",
-          "posted_at": "2026-01-29T15:37:48.370Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
-          "title": "Meteorologist 1",
-          "company": "AccuWeather",
-          "posted_at": "2026-01-29T15:37:52.037Z"
-        },
-        {
-          "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-performance-and-efficiency-engineer-new-college-grad-2026_jr2011112",
-          "title": "AI Performance and Efficiency Engineer",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-29T15:37:55.450Z"
-        },
-        {
-          "id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
-          "title": "Analyst – People Analytics",
-          "company": "DaVita",
-          "posted_at": "2026-01-29T15:37:57.146Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
-          "title": "Software Engineer – New Grad Friendly - IOS",
-          "company": "NewsBreak",
-          "posted_at": "2026-01-29T15:37:58.926Z"
-        },
-        {
-          "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
-          "title": "Software Developer",
-          "company": "Booz Allen",
-          "posted_at": "2026-01-29T15:38:00.584Z"
-        }
-      ]
-    },
-    "🗽・new-york-jobs": {
-      "channel_id": "1462988831530680422",
-      "count": 2,
-      "jobs": [
-        "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
-        "job-boards-greenhouse-io-accuweather-jobs-7304640"
-      ],
-      "recent_jobs": [
-        {
-          "id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
-          "title": "Analyst – Audience Activation",
-          "company": "FOX",
-          "posted_at": "2026-01-29T15:37:50.209Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
-          "title": "Meteorologist 1",
-          "company": "AccuWeather",
-          "posted_at": "2026-01-29T15:37:53.752Z"
-        }
-      ]
-    },
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 3,
-      "jobs": [
-        "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
-        "jobs-lever-co-q-ctrl-1ff2ff69-c5f5-4790-a007-07a90dfa4031-apply",
-        "job-boards-greenhouse-io-anthropic-jobs-5079511008"
-      ],
-      "recent_jobs": [
-        {
-          "id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
-          "title": "Quality and Insights Analyst",
-          "company": "Asurion",
-          "posted_at": "2026-01-29T15:38:05.411Z"
-        },
-        {
-          "id": "jobs-lever-co-q-ctrl-1ff2ff69-c5f5-4790-a007-07a90dfa4031-apply",
-          "title": "Software Integration Engineer",
-          "company": "Q-CTRL",
-          "posted_at": "2026-01-29T15:38:09.079Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
-          "title": "Solutions Architect, Applied AI (National Security)",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T15:38:10.746Z"
-        }
-      ]
-    },
-    "🏠・remote-usa-jobs": {
-      "channel_id": "1462989305181114450",
-      "count": 1,
-      "jobs": [
-        "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284"
-      ],
-      "recent_jobs": [
-        {
-          "id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
-          "title": "Quality and Insights Analyst",
-          "company": "Asurion",
-          "posted_at": "2026-01-29T15:38:07.096Z"
-        }
-      ]
-    },
-    "💰・finance-jobs": {
-      "channel_id": "1462988755156734023",
-      "count": 1,
-      "jobs": [
-        "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1"
-      ],
-      "recent_jobs": [
-        {
-          "id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
-          "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
-          "company": "ERM",
-          "posted_at": "2026-01-29T15:38:15.531Z"
-        }
-      ]
-    }
-  },
-  "multi_channel_routing": [
-    {
-      "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
-      "company": "FOX",
-      "title": "Analyst – Audience Activation",
-      "channels": [
-        "💻・tech-jobs",
-        "🗽・new-york-jobs"
-      ],
-      "posted_at": "2026-01-29T15:37:48.370Z"
-    },
-    {
-      "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
-      "company": "AccuWeather",
-      "title": "Meteorologist 1",
-      "channels": [
-        "💻・tech-jobs",
-        "🗽・new-york-jobs"
-      ],
-      "posted_at": "2026-01-29T15:37:52.037Z"
-    },
-    {
-      "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
-      "company": "Asurion",
-      "title": "Quality and Insights Analyst",
-      "channels": [
-        "🤖・ai-jobs",
-        "🏠・remote-usa-jobs"
-      ],
-      "posted_at": "2026-01-29T15:38:05.411Z"
-    }
-  ],
+  "by_channel": {},
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": []
+    "other": [
+      {
+        "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
+        "title": "Analyst – Audience Activation",
+        "company": "FOX",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:49.460Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
+        "title": "Meteorologist 1",
+        "company": "AccuWeather",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:49.460Z"
+      },
+      {
+        "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-performance-and-efficiency-engineer-new-college-grad-2026_jr2011112",
+        "title": "AI Performance and Efficiency Engineer",
+        "company": "NVIDIA",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:49.460Z"
+      },
+      {
+        "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
+        "title": "Analyst – People Analytics",
+        "company": "DaVita",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:49.460Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
+        "title": "Software Engineer – New Grad Friendly - IOS",
+        "company": "NewsBreak",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:49.460Z"
+      },
+      {
+        "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
+        "title": "Software Developer",
+        "company": "Booz Allen",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:49.460Z"
+      },
+      {
+        "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
+        "title": "Quality and Insights Analyst",
+        "company": "Asurion",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:52.464Z"
+      },
+      {
+        "job_id": "jobs-lever-co-q-ctrl-1ff2ff69-c5f5-4790-a007-07a90dfa4031-apply",
+        "title": "Software Integration Engineer",
+        "company": "Q-CTRL",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:52.464Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
+        "title": "Solutions Architect, Applied AI (National Security)",
+        "company": "anthropic",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:52.464Z"
+      },
+      {
+        "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
+        "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
+        "company": "ERM",
+        "reason": "already_posted_to_channel",
+        "timestamp": "2026-01-29T15:45:55.468Z"
+      }
+    ]
   }
 }
