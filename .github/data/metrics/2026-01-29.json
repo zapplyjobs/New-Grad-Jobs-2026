@@ -1,117 +1,101 @@
 {
-  "generated": "2026-01-29T20:32:39.152Z",
+  "generated": "2026-01-29T20:51:03.867Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T20:32:39.152Z",
-  "period_end": "2026-01-29T20:32:39.152Z",
+  "period_start": "2026-01-22T20:51:03.867Z",
+  "period_end": "2026-01-29T20:51:03.867Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 10,
-    "channels_active": 4
+    "filtered_jobs": 13,
+    "channels_active": 2
   },
   "by_channel": {
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 5,
-      "jobs": [
-        "careers-talkdesk-com-jobs",
-        "job-boards-greenhouse-io-gusto-jobs-7561971",
-        "boards-greenhouse-io-figma-jobs-5478247004",
-        "job-boards-greenhouse-io-anthropic-jobs-5083039008",
-        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-ma-marlborough-ma2-1001-boston-post-rd-bldg-2-xmlname-2026-full-time-software-integration-engineer-i-onsite-ma-_01819844"
-      ],
-      "recent_jobs": [
-        {
-          "id": "careers-talkdesk-com-jobs",
-          "title": "Software Engineer 1",
-          "company": "Talkdesk",
-          "posted_at": "2026-01-29T20:32:06.268Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-gusto-jobs-7561971",
-          "title": "Head of GTM Process & Tooling",
-          "company": "gusto",
-          "posted_at": "2026-01-29T20:32:07.966Z"
-        },
-        {
-          "id": "boards-greenhouse-io-figma-jobs-5478247004",
-          "title": "Solutions Consultant",
-          "company": "figma",
-          "posted_at": "2026-01-29T20:32:09.753Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5083039008",
-          "title": "Software Engineer, Sandboxing",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T20:32:11.481Z"
-        },
-        {
-          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-ma-marlborough-ma2-1001-boston-post-rd-bldg-2-xmlname-2026-full-time-software-integration-engineer-i-onsite-ma-_01819844",
-          "title": "2026 Full-time - Software Integration Engineer I",
-          "company": "RTX",
-          "posted_at": "2026-01-29T20:32:13.386Z"
-        }
-      ]
-    },
-    "💰・finance-jobs": {
-      "channel_id": "1462988755156734023",
-      "count": 2,
-      "jobs": [
-        "weldgov-wd5-myworkdayjobs-com-weldcountycareers-job-greeley-co-gis-mapper-i_jr102093",
-        "job-boards-greenhouse-io-verkada-jobs-4128860007"
-      ],
-      "recent_jobs": [
-        {
-          "id": "weldgov-wd5-myworkdayjobs-com-weldcountycareers-job-greeley-co-gis-mapper-i_jr102093",
-          "title": "GIS Mapper 1",
-          "company": "Weld County",
-          "posted_at": "2026-01-29T20:32:18.116Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-verkada-jobs-4128860007",
-          "title": "Global Enterprise Account Executive",
-          "company": "verkada",
-          "posted_at": "2026-01-29T20:32:19.822Z"
-        }
-      ]
-    },
     "📊・data-science-jobs": {
       "channel_id": "1462988721828794531",
-      "count": 2,
+      "count": 4,
       "jobs": [
-        "www-qualtrics-com-careers-us-en-job-7564169",
-        "job-boards-greenhouse-io-airtable-jobs-7845265002"
+        "job-boards-greenhouse-io-airtable-jobs-7845287002",
+        "job-boards-greenhouse-io-perscholashires-jobs-4646578006",
+        "dallascityhall-wd5-myworkdayjobs-com-codcareers-job-1500-marilla-data-science-analyst-i-data-analytics-and-business-intelligence-non-civil-service-_26-26724",
+        "relx-wd3-myworkdayjobs-com-en-us-relx-job-oklahoma-city-ok-data-analyst_r104140-1"
       ],
       "recent_jobs": [
         {
-          "id": "www-qualtrics-com-careers-us-en-job-7564169",
-          "title": "Data Science 1 - Product Data Science",
-          "company": "Qualtrics",
-          "posted_at": "2026-01-29T20:32:24.531Z"
+          "id": "job-boards-greenhouse-io-airtable-jobs-7845287002",
+          "title": "Software Engineer, Product Backend (8+ YOE)",
+          "company": "airtable",
+          "posted_at": "2026-01-29T20:50:35.207Z"
         },
         {
-          "id": "job-boards-greenhouse-io-airtable-jobs-7845265002",
-          "title": "Software Engineer, Product Frontend (2-8 YOE)",
-          "company": "airtable",
-          "posted_at": "2026-01-29T20:32:26.224Z"
+          "id": "job-boards-greenhouse-io-perscholashires-jobs-4646578006",
+          "title": "Instructional Assistant - Data Engineer",
+          "company": "Per Scholas",
+          "posted_at": "2026-01-29T20:50:37.832Z"
+        },
+        {
+          "id": "dallascityhall-wd5-myworkdayjobs-com-codcareers-job-1500-marilla-data-science-analyst-i-data-analytics-and-business-intelligence-non-civil-service-_26-26724",
+          "title": "Data Science Analyst 1 - Data Analytics and Business Intelligence",
+          "company": "The City of Dallas",
+          "posted_at": "2026-01-29T20:50:39.618Z"
+        },
+        {
+          "id": "relx-wd3-myworkdayjobs-com-en-us-relx-job-oklahoma-city-ok-data-analyst_r104140-1",
+          "title": "Data Analyst",
+          "company": "RELX",
+          "posted_at": "2026-01-29T20:50:41.503Z"
         }
       ]
     },
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 1,
+    "💻・tech-jobs": {
+      "channel_id": "1462988605306834987",
+      "count": 6,
       "jobs": [
-        "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-tx-austin-power-methodology-and-modeling-engineer-new-college-grad-2026_jr2012047"
+        "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-colorado-springs-co-linux-system-administrator-associate-or-mid-level-_jr2025479786-1",
+        "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-oklahoma-city-ok-associate-product-data-management-specialist_jr2026492824-1",
+        "www-captiveaire-com-careers-opening-asp",
+        "www-carvana-com-careers-apply",
+        "job-boards-greenhouse-io-anthropic-jobs-5097202008",
+        "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-charlotte-nc-engineering-associate-middleware-automation_r-517729-1"
       ],
       "recent_jobs": [
         {
-          "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-tx-austin-power-methodology-and-modeling-engineer-new-college-grad-2026_jr2012047",
-          "title": "Power Methodology and Modeling Engineer – New College Grad",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-29T20:32:31.008Z"
+          "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-colorado-springs-co-linux-system-administrator-associate-or-mid-level-_jr2025479786-1",
+          "title": "Linux System Administrator – Associate or Mid-Level",
+          "company": "The Boeing Company",
+          "posted_at": "2026-01-29T20:50:46.318Z"
+        },
+        {
+          "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-oklahoma-city-ok-associate-product-data-management-specialist_jr2026492824-1",
+          "title": "Associate Product Data Management Specialist",
+          "company": "The Boeing Company",
+          "posted_at": "2026-01-29T20:50:48.088Z"
+        },
+        {
+          "id": "www-captiveaire-com-careers-opening-asp",
+          "title": "Mechanical Application Engineer",
+          "company": "CaptiveAire Systems",
+          "posted_at": "2026-01-29T20:50:50.074Z"
+        },
+        {
+          "id": "www-carvana-com-careers-apply",
+          "title": "Engineering Apex",
+          "company": "Carvana",
+          "posted_at": "2026-01-29T20:50:51.852Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5097202008",
+          "title": "Head of Security Risk",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T20:50:53.628Z"
+        },
+        {
+          "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-charlotte-nc-engineering-associate-middleware-automation_r-517729-1",
+          "title": "Engineering Associate - Middleware & Automation",
+          "company": "Wells Fargo",
+          "posted_at": "2026-01-29T20:50:55.354Z"
         }
       ]
     }
@@ -121,74 +105,95 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8299493002",
-        "title": "Staff Data Engineer, Ads",
-        "company": "discord",
+        "job_id": "careers-duolingo-com-jobs-8393330002",
+        "title": "Senior Product Manager, Score",
+        "company": "duolingo",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
+        "timestamp": "2026-01-29T20:50:34.448Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8308138002",
-        "title": "Senior Data Scientist, Analytics",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8343795002",
-        "title": "Senior Data Scientist, Analytics - GTM Ads",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8371252002",
-        "title": "Senior Data Engineer, Analytics",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8174001002",
-        "title": "Data Science Manager, Safety",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8364479002",
-        "title": "Data Engineering Manager",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-6968454",
-        "title": "Major Accounts Manager",
+        "job_id": "careers-datadoghq-com-detail-7514534",
+        "title": "Director, User Research - Product Design",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
+        "timestamp": "2026-01-29T20:50:34.448Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7357589",
-        "title": "Senior Staff Software Engineer",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.709Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-5864071",
-        "title": "Senior Staff Software Engineer, Payments and Risk",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.710Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4887959008",
-        "title": "Senior Software Security Engineer",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096539008",
+        "title": "Regional State and Local Affairs Lead, Western States",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:32:05.710Z"
+        "timestamp": "2026-01-29T20:50:34.448Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8217266002",
+        "title": "Senior Android Engineer",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096966008",
+        "title": "Regional State and Local Affairs Lead, Southern States",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096963008",
+        "title": "Regional State and Local Affairs Lead, Northeast States",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7562839",
+        "title": "Retirement AI Senior Staff Engineer",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5068553008",
+        "title": "Customer Success Manager, Public Sector",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7522739",
+        "title": "Workforce Management Tools Administration Lead",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7522730",
+        "title": "Workforce Management Program Manager",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-5035168007",
+        "title": "Enterprise Sales Enablement Manager",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5041870008",
+        "title": "Engineering Manager, UI Claude Consumer Products",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5693072004",
+        "title": "Senior Manager, People Systems",
+        "company": "vercel",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:50:34.449Z"
       }
     ],
     "already_posted": [],
