@@ -1,65 +1,109 @@
 {
-  "generated": "2026-01-29T18:20:22.753Z",
+  "generated": "2026-01-29T18:36:28.085Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T18:20:22.753Z",
-  "period_end": "2026-01-29T18:20:22.753Z",
+  "period_start": "2026-01-22T18:36:28.085Z",
+  "period_end": "2026-01-29T18:36:28.085Z",
   "summary": {
-    "total_jobs_posted": 13,
+    "total_jobs_posted": 12,
     "unique_jobs": 10,
-    "multi_channel_postings": 6,
-    "unique_multi_channel_jobs": 3,
+    "multi_channel_postings": 4,
+    "unique_multi_channel_jobs": 2,
     "failed_postings": 0,
-    "filtered_jobs": 13,
-    "channels_active": 5
+    "filtered_jobs": 6,
+    "channels_active": 4
   },
   "by_channel": {
     "🤖・ai-jobs": {
       "channel_id": "1462988662168879217",
-      "count": 6,
+      "count": 5,
       "jobs": [
-        "www-coinbase-com-careers-positions-7156049",
-        "job-boards-greenhouse-io-anthropic-jobs-4989518008",
-        "job-boards-greenhouse-io-capco-jobs-7141152",
-        "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-charlotte-nc-engineering-associate-database-operations-automation_r-517910",
-        "jobs-lever-co-spotify-76f87659-4682-4513-859c-0241e1881596",
-        "job-boards-greenhouse-io-anthropic-jobs-5096400008"
+        "job-boards-greenhouse-io-capco-jobs-7141150",
+        "equifax-wd5-myworkdayjobs-com-ur_external-job-usa-atlanta-one-atlantic-center-data-analyst-rdp_j00173044",
+        "www-uber-com-global-en-careers-list-151820",
+        "university-uber-icims-com-jobs-151820-job",
+        "job-boards-greenhouse-io-anthropic-jobs-5057647008"
       ],
       "recent_jobs": [
         {
-          "id": "www-coinbase-com-careers-positions-7156049",
-          "title": "Supervisor, Customer Success Team (Onsite - Relocation Assistance Available)",
-          "company": "coinbase",
-          "posted_at": "2026-01-29T18:19:45.452Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4989518008",
-          "title": "Corporate Development",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T18:19:47.129Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-capco-jobs-7141152",
-          "title": "Capco Associate Talent Program - Houston June 2026",
+          "id": "job-boards-greenhouse-io-capco-jobs-7141150",
+          "title": "Capco Associate Talent Program",
           "company": "Capco",
-          "posted_at": "2026-01-29T18:19:48.865Z"
+          "posted_at": "2026-01-29T18:35:54.095Z"
         },
         {
-          "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-charlotte-nc-engineering-associate-database-operations-automation_r-517910",
-          "title": "Engineering Associate - Database Operations & Automation",
-          "company": "Wells Fargo",
-          "posted_at": "2026-01-29T18:19:50.613Z"
+          "id": "equifax-wd5-myworkdayjobs-com-ur_external-job-usa-atlanta-one-atlantic-center-data-analyst-rdp_j00173044",
+          "title": "Data Analyst - Rdp",
+          "company": "Equifax",
+          "posted_at": "2026-01-29T18:35:55.808Z"
         },
         {
-          "id": "jobs-lever-co-spotify-76f87659-4682-4513-859c-0241e1881596",
-          "title": "Client Partner - Financial Services",
-          "company": "spotify",
-          "posted_at": "2026-01-29T18:19:52.331Z"
+          "id": "www-uber-com-global-en-careers-list-151820",
+          "title": "Graduate PhD Scientist 2 - Operations Research or Machine Learning - Mobility and Delivery Tech",
+          "company": "Uber",
+          "posted_at": "2026-01-29T18:35:57.514Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5096400008",
-          "title": "Geopolitics Analyst, Policy",
+          "id": "university-uber-icims-com-jobs-151820-job",
+          "title": "Graduate PhD Scientist 2 - Operations Research or ML - Mobility and Delivery Tech",
+          "company": "Uber",
+          "posted_at": "2026-01-29T18:35:59.218Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5057647008",
+          "title": "Applied AI Engineer (Digital Natives Business) ",
           "company": "anthropic",
-          "posted_at": "2026-01-29T18:19:55.809Z"
+          "posted_at": "2026-01-29T18:36:00.956Z"
+        }
+      ]
+    },
+    "💻・tech-jobs": {
+      "channel_id": "1462988605306834987",
+      "count": 2,
+      "jobs": [
+        "equifax-wd5-myworkdayjobs-com-ur_external-job-usa-georgia-alpharetta-30005-d-a-rotational-development-program-associate_j00171083",
+        "job-boards-greenhouse-io-anthropic-jobs-5018195008"
+      ],
+      "recent_jobs": [
+        {
+          "id": "equifax-wd5-myworkdayjobs-com-ur_external-job-usa-georgia-alpharetta-30005-d-a-rotational-development-program-associate_j00171083",
+          "title": "D&a Rotational Development Program Associate",
+          "company": "Equifax",
+          "posted_at": "2026-01-29T18:36:05.911Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5018195008",
+          "title": "Microsoft GTM Partnership, Enterprise",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T18:36:07.856Z"
+        }
+      ]
+    },
+    "💰・finance-jobs": {
+      "channel_id": "1462988755156734023",
+      "count": 3,
+      "jobs": [
+        "job-boards-greenhouse-io-anthropic-jobs-5077106008",
+        "www-brex-com-careers-8308452002",
+        "job-boards-greenhouse-io-verkada-jobs-4990284007"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5077106008",
+          "title": "Technical Revenue Accounting",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T18:36:12.664Z"
+        },
+        {
+          "id": "www-brex-com-careers-8308452002",
+          "title": "Startups Ambassador",
+          "company": "brex",
+          "posted_at": "2026-01-29T18:36:14.397Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-verkada-jobs-4990284007",
+          "title": "Tradeshow Associate",
+          "company": "verkada",
+          "posted_at": "2026-01-29T18:36:18.051Z"
         }
       ]
     },
@@ -67,209 +111,91 @@
       "channel_id": "1462988831530680422",
       "count": 2,
       "jobs": [
-        "jobs-lever-co-spotify-76f87659-4682-4513-859c-0241e1881596",
-        "boards-greenhouse-io-figma-jobs-5692764004"
+        "www-brex-com-careers-8308452002",
+        "job-boards-greenhouse-io-verkada-jobs-4990284007"
       ],
       "recent_jobs": [
         {
-          "id": "jobs-lever-co-spotify-76f87659-4682-4513-859c-0241e1881596",
-          "title": "Client Partner - Financial Services",
-          "company": "spotify",
-          "posted_at": "2026-01-29T18:19:54.075Z"
+          "id": "www-brex-com-careers-8308452002",
+          "title": "Startups Ambassador",
+          "company": "brex",
+          "posted_at": "2026-01-29T18:36:16.285Z"
         },
         {
-          "id": "boards-greenhouse-io-figma-jobs-5692764004",
-          "title": "Designer Advocate - Figma Weave (New York, United States)",
-          "company": "figma",
-          "posted_at": "2026-01-29T18:20:02.738Z"
-        }
-      ]
-    },
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 3,
-      "jobs": [
-        "boards-greenhouse-io-figma-jobs-5692764004",
-        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-al-huntsville-401-401-jan-davis-dr-nw-jan-davis-401-xmlname-2026-full-time-software-engineer-i-onsite-al-_01819702",
-        "ercot-wd1-myworkdayjobs-com-ercot_careers-job-austin-tx-gms-application-engineer_r1983-1"
-      ],
-      "recent_jobs": [
-        {
-          "id": "boards-greenhouse-io-figma-jobs-5692764004",
-          "title": "Designer Advocate - Figma Weave (New York, United States)",
-          "company": "figma",
-          "posted_at": "2026-01-29T18:20:00.738Z"
-        },
-        {
-          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-al-huntsville-401-401-jan-davis-dr-nw-jan-davis-401-xmlname-2026-full-time-software-engineer-i-onsite-al-_01819702",
-          "title": "Software Engineer 1",
-          "company": "RTX",
-          "posted_at": "2026-01-29T18:20:05.913Z"
-        },
-        {
-          "id": "ercot-wd1-myworkdayjobs-com-ercot_careers-job-austin-tx-gms-application-engineer_r1983-1",
-          "title": "MMS Applications Engineer",
-          "company": "Ercot",
-          "posted_at": "2026-01-29T18:20:09.561Z"
-        }
-      ]
-    },
-    "🏠・remote-usa-jobs": {
-      "channel_id": "1462989305181114450",
-      "count": 1,
-      "jobs": [
-        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-al-huntsville-401-401-jan-davis-dr-nw-jan-davis-401-xmlname-2026-full-time-software-engineer-i-onsite-al-_01819702"
-      ],
-      "recent_jobs": [
-        {
-          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-al-huntsville-401-401-jan-davis-dr-nw-jan-davis-401-xmlname-2026-full-time-software-engineer-i-onsite-al-_01819702",
-          "title": "Software Engineer 1",
-          "company": "RTX",
-          "posted_at": "2026-01-29T18:20:07.765Z"
-        }
-      ]
-    },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
-      "count": 1,
-      "jobs": [
-        "cambiahealth-wd1-myworkdayjobs-com-external-job-portland-or-software-development-engineer-i_r-6269"
-      ],
-      "recent_jobs": [
-        {
-          "id": "cambiahealth-wd1-myworkdayjobs-com-external-job-portland-or-software-development-engineer-i_r-6269",
-          "title": "Software Development Engineer 1",
-          "company": "Cambia Health Solutions",
-          "posted_at": "2026-01-29T18:20:14.621Z"
+          "id": "job-boards-greenhouse-io-verkada-jobs-4990284007",
+          "title": "Tradeshow Associate",
+          "company": "verkada",
+          "posted_at": "2026-01-29T18:36:19.710Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "jobs-lever-co-spotify-76f87659-4682-4513-859c-0241e1881596",
-      "company": "spotify",
-      "title": "Client Partner - Financial Services",
+      "job_id": "www-brex-com-careers-8308452002",
+      "company": "brex",
+      "title": "Startups Ambassador",
       "channels": [
-        "🤖・ai-jobs",
+        "💰・finance-jobs",
         "🗽・new-york-jobs"
       ],
-      "posted_at": "2026-01-29T18:19:52.331Z"
+      "posted_at": "2026-01-29T18:36:14.397Z"
     },
     {
-      "job_id": "boards-greenhouse-io-figma-jobs-5692764004",
-      "company": "figma",
-      "title": "Designer Advocate - Figma Weave (New York, United States)",
+      "job_id": "job-boards-greenhouse-io-verkada-jobs-4990284007",
+      "company": "verkada",
+      "title": "Tradeshow Associate",
       "channels": [
-        "💻・tech-jobs",
+        "💰・finance-jobs",
         "🗽・new-york-jobs"
       ],
-      "posted_at": "2026-01-29T18:20:00.738Z"
-    },
-    {
-      "job_id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-al-huntsville-401-401-jan-davis-dr-nw-jan-davis-401-xmlname-2026-full-time-software-engineer-i-onsite-al-_01819702",
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "channels": [
-        "💻・tech-jobs",
-        "🏠・remote-usa-jobs"
-      ],
-      "posted_at": "2026-01-29T18:20:05.913Z"
+      "posted_at": "2026-01-29T18:36:18.051Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "careers-datadoghq-com-detail-7128703",
-        "title": "Customer Success Manager - Boston",
-        "company": "datadog",
+        "job_id": "www-brex-com-careers-8394456002",
+        "title": "Sales Account Manager I",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
+        "timestamp": "2026-01-29T18:35:53.493Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7365755",
-        "title": "Senior Principal Revenue Analyst",
+        "job_id": "www-brex-com-careers-8387049002",
+        "title": "Sales Account Manager I",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T18:35:53.493Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5099080008",
+        "title": "Transaction Manager",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T18:35:53.493Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7306716",
+        "title": "Staff Software Engineer,  Infrastructure ",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
+        "timestamp": "2026-01-29T18:35:53.493Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4933792008",
-        "title": "Research Product Manager",
-        "company": "anthropic",
+        "job_id": "www-brex-com-careers-8395068002",
+        "title": "Engineering Manager, AI — Brex Assistant",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
+        "timestamp": "2026-01-29T18:35:53.494Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7490601",
-        "title": "Intranet Platform Manager",
-        "company": "datadog",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8378479002",
+        "title": "Director, Safety Policy",
+        "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
-      },
-      {
-        "job_id": "careers-duolingo-com-jobs-8318257002",
-        "title": "Senior iOS Software Engineer",
-        "company": "duolingo",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7523786",
-        "title": "Contracts Manager - NYC",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5098913008",
-        "title": "Operations Manager, Communications ",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5098975008",
-        "title": "Partnership Manager, AI for Science",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5099163008",
-        "title": "Manager, Sales Development - Startups/Commercial",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5080796008",
-        "title": "Program Manager, AI for Science",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.718Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4990280007",
-        "title": "Sr. Tradeshow and Event Marketing Manager",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.719Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7535280",
-        "title": "Manager, Sales Development - LATAM (Portuguese Speaking)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.719Z"
-      },
-      {
-        "job_id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-researcher_jr102228",
-        "title": "Postdoctoral Researcher",
-        "company": "Brookhaven Lab",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:19:44.719Z"
+        "timestamp": "2026-01-29T18:35:53.494Z"
       }
     ],
     "already_posted": [],
