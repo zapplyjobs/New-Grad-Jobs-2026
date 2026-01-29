@@ -1,30 +1,116 @@
 {
-  "generated": "2026-01-29T18:54:10.348Z",
+  "generated": "2026-01-29T19:25:55.279Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T18:54:10.348Z",
-  "period_end": "2026-01-29T18:54:10.348Z",
+  "period_start": "2026-01-22T19:25:55.279Z",
+  "period_end": "2026-01-29T19:25:55.279Z",
   "summary": {
-    "total_jobs_posted": 11,
+    "total_jobs_posted": 12,
     "unique_jobs": 10,
-    "multi_channel_postings": 2,
-    "unique_multi_channel_jobs": 1,
+    "multi_channel_postings": 4,
+    "unique_multi_channel_jobs": 2,
     "failed_postings": 0,
-    "filtered_jobs": 11,
+    "filtered_jobs": 7,
     "channels_active": 4
   },
   "by_channel": {
-    "💰・finance-jobs": {
-      "channel_id": "1462988755156734023",
-      "count": 1,
+    "🤖・ai-jobs": {
+      "channel_id": "1462988662168879217",
+      "count": 5,
       "jobs": [
-        "www-brex-com-careers-8308368002"
+        "job-boards-greenhouse-io-anthropic-jobs-5025624008",
+        "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
+        "bah-wd1-myworkdayjobs-com-bah_jobs-job-mclean-va-university-data-scientist_r0233012",
+        "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-i-software-fpga-timing-and-power-_r1912-25",
+        "nxp-wd3-myworkdayjobs-com-en-us-careers-job-chandler-office-industrial-systems-engineer_r-10059890"
       ],
       "recent_jobs": [
         {
-          "id": "www-brex-com-careers-8308368002",
-          "title": "Startups Ambassador",
-          "company": "brex",
-          "posted_at": "2026-01-29T18:53:37.224Z"
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5025624008",
+          "title": "Research Engineer – Cybersecurity RL",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T19:25:21.429Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
+          "title": "Associate C++ Engineer",
+          "company": "Chicago Trading Company",
+          "posted_at": "2026-01-29T19:25:23.158Z"
+        },
+        {
+          "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-mclean-va-university-data-scientist_r0233012",
+          "title": "Data Scientist",
+          "company": "Booz Allen",
+          "posted_at": "2026-01-29T19:25:26.584Z"
+        },
+        {
+          "id": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-i-software-fpga-timing-and-power-_r1912-25",
+          "title": "Engineer 1 - Software - FPGA Timing and Power",
+          "company": "Microchip Technology",
+          "posted_at": "2026-01-29T19:25:28.482Z"
+        },
+        {
+          "id": "nxp-wd3-myworkdayjobs-com-en-us-careers-job-chandler-office-industrial-systems-engineer_r-10059890",
+          "title": "Industrial Systems Engineer",
+          "company": "NXP Semiconductors",
+          "posted_at": "2026-01-29T19:25:30.176Z"
+        }
+      ]
+    },
+    "🗽・new-york-jobs": {
+      "channel_id": "1462988831530680422",
+      "count": 2,
+      "jobs": [
+        "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
+        "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
+          "title": "Associate C++ Engineer",
+          "company": "Chicago Trading Company",
+          "posted_at": "2026-01-29T19:25:24.841Z"
+        },
+        {
+          "id": "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application",
+          "title": "GTM Data Scientist",
+          "company": "Clay",
+          "posted_at": "2026-01-29T19:25:46.897Z"
+        }
+      ]
+    },
+    "💻・tech-jobs": {
+      "channel_id": "1462988605306834987",
+      "count": 4,
+      "jobs": [
+        "myhrabc-wd5-myworkdayjobs-com-global-job-conshohocken-pa-data-visualization-specialist-i_r261445-1",
+        "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-atlanta-regional-application-engineer-americas_r5031013-1",
+        "job-boards-greenhouse-io-captivation-jobs-5100045008",
+        "pattersoncompanies-wd501-myworkdayjobs-com-pdco-job-tx-denton-rsvp-act-software-engineer_r109950"
+      ],
+      "recent_jobs": [
+        {
+          "id": "myhrabc-wd5-myworkdayjobs-com-global-job-conshohocken-pa-data-visualization-specialist-i_r261445-1",
+          "title": "Data Visualization Specialist 1",
+          "company": "Cencora",
+          "posted_at": "2026-01-29T19:25:34.968Z"
+        },
+        {
+          "id": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-atlanta-regional-application-engineer-americas_r5031013-1",
+          "title": "Regional Application Engineer",
+          "company": "GE Vernova",
+          "posted_at": "2026-01-29T19:25:36.798Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-captivation-jobs-5100045008",
+          "title": "Software Engineer 1 - Linux/Python/Bash/HTML/Cypress/Pytest/Gitlab",
+          "company": "Captivation",
+          "posted_at": "2026-01-29T19:25:38.558Z"
+        },
+        {
+          "id": "pattersoncompanies-wd501-myworkdayjobs-com-pdco-job-tx-denton-rsvp-act-software-engineer_r109950",
+          "title": "Software Engineer",
+          "company": "Patterson",
+          "posted_at": "2026-01-29T19:25:40.332Z"
         }
       ]
     },
@@ -32,188 +118,91 @@
       "channel_id": "1462988721828794531",
       "count": 1,
       "jobs": [
-        "chop-wd5-myworkdayjobs-com-choppreboardonly-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666-3"
+        "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application"
       ],
       "recent_jobs": [
         {
-          "id": "chop-wd5-myworkdayjobs-com-choppreboardonly-job-philadelphia-campus-roberts-center-for-pediatric-research-research-data-analyst-i_1021666-3",
-          "title": "Research Data Analyst 1",
-          "company": "Children's Hospital of Philadelphia",
-          "posted_at": "2026-01-29T18:53:42.025Z"
-        }
-      ]
-    },
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 8,
-      "jobs": [
-        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-ma-marlborough-ma3-1001-boston-post-rd-bldg-3-software-engineering-i-onsite-_01820057",
-        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-md-fulton-8170-8170-maple-lawn-blvd-maple-lawn-ste-190-200-300-software-engineer-i-onsite-_01801021",
-        "amfam-wd1-myworkdayjobs-com-en-us-careers-job-wi-madison-associate-salesforce-development-engineer_r38081-1",
-        "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-sw-obsolescence-engineer-2-3_r10221066",
-        "www-precisely-com-careers-and-culture-us-jobs-job-4654302005",
-        "tmobile-wd1-myworkdayjobs-com-external-job-overland-park-kansas-assoc-engineer-software_req338082",
-        "tmobile-wd1-myworkdayjobs-com-external-job-overland-park-kansas-associate-software-engineer_req338143",
-        "tmobile-wd1-myworkdayjobs-com-external-job-atlanta-georgia-assoc-engineer-software_req335427-1"
-      ],
-      "recent_jobs": [
-        {
-          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-ma-marlborough-ma3-1001-boston-post-rd-bldg-3-software-engineering-i-onsite-_01820057",
-          "title": "Software Engineering 1",
-          "company": "RTX",
-          "posted_at": "2026-01-29T18:53:48.615Z"
-        },
-        {
-          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-md-fulton-8170-8170-maple-lawn-blvd-maple-lawn-ste-190-200-300-software-engineer-i-onsite-_01801021",
-          "title": "Software Engineer 1",
-          "company": "RTX",
-          "posted_at": "2026-01-29T18:53:50.341Z"
-        },
-        {
-          "id": "amfam-wd1-myworkdayjobs-com-en-us-careers-job-wi-madison-associate-salesforce-development-engineer_r38081-1",
-          "title": "Associate Salesforce Development Engineer",
-          "company": "American Family Insurance Group",
-          "posted_at": "2026-01-29T18:53:52.108Z"
-        },
-        {
-          "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-sw-obsolescence-engineer-2-3_r10221066",
-          "title": "SW Obsolescence Engineer",
-          "company": "Northrop Grumman",
-          "posted_at": "2026-01-29T18:53:53.812Z"
-        },
-        {
-          "id": "www-precisely-com-careers-and-culture-us-jobs-job-4654302005",
-          "title": "Associate Software Engineer",
-          "company": "Precisely",
-          "posted_at": "2026-01-29T18:53:55.445Z"
-        },
-        {
-          "id": "tmobile-wd1-myworkdayjobs-com-external-job-overland-park-kansas-assoc-engineer-software_req338082",
-          "title": "Associate Engineer - Software",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T18:53:59.105Z"
-        },
-        {
-          "id": "tmobile-wd1-myworkdayjobs-com-external-job-overland-park-kansas-associate-software-engineer_req338143",
-          "title": "Associate Software Engineer",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T18:54:00.787Z"
-        },
-        {
-          "id": "tmobile-wd1-myworkdayjobs-com-external-job-atlanta-georgia-assoc-engineer-software_req335427-1",
-          "title": "Assoc Engineer - Software",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T18:54:02.494Z"
-        }
-      ]
-    },
-    "🏠・remote-usa-jobs": {
-      "channel_id": "1462989305181114450",
-      "count": 1,
-      "jobs": [
-        "www-precisely-com-careers-and-culture-us-jobs-job-4654302005"
-      ],
-      "recent_jobs": [
-        {
-          "id": "www-precisely-com-careers-and-culture-us-jobs-job-4654302005",
-          "title": "Associate Software Engineer",
-          "company": "Precisely",
-          "posted_at": "2026-01-29T18:53:57.233Z"
+          "id": "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application",
+          "title": "GTM Data Scientist",
+          "company": "Clay",
+          "posted_at": "2026-01-29T19:25:45.182Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "www-precisely-com-careers-and-culture-us-jobs-job-4654302005",
-      "company": "Precisely",
-      "title": "Associate Software Engineer",
+      "job_id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
       "channels": [
-        "💻・tech-jobs",
-        "🏠・remote-usa-jobs"
+        "🤖・ai-jobs",
+        "🗽・new-york-jobs"
       ],
-      "posted_at": "2026-01-29T18:53:55.445Z"
+      "posted_at": "2026-01-29T19:25:23.158Z"
+    },
+    {
+      "job_id": "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application",
+      "company": "Clay",
+      "title": "GTM Data Scientist",
+      "channels": [
+        "📊・data-science-jobs",
+        "🗽・new-york-jobs"
+      ],
+      "posted_at": "2026-01-29T19:25:45.182Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5097694008",
-        "title": "Manager, National Security Policy",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5097831008",
-        "title": "Compliance Oversight Lead",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023727008",
-        "title": "Data Center Facility Operations Lead",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "careers-duolingo-com-jobs-8378704002",
-        "title": "Senior Product Writer",
-        "company": "duolingo",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "careers-duolingo-com-jobs-8385193002",
-        "title": "Senior Product Design Manager",
-        "company": "duolingo",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7572138",
-        "title": "Senior Endpoint Administrator - Enterprise IT Operations",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8387399002",
-        "title": "Senior Security GRC Manager",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5735397004",
-        "title": "Senior HRBP - EPD ",
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5543027004",
+        "title": "Sr. Customer Marketing Manager - Startups ",
         "company": "vercel",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
+        "timestamp": "2026-01-29T19:25:20.812Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8382154002",
-        "title": "Field Marketing Manager, Central",
-        "company": "airtable",
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5735704004",
+        "title": "Staff Data Platform Engineer",
+        "company": "vercel",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
+        "timestamp": "2026-01-29T19:25:20.812Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5781632004",
-        "title": "Director, Sales Enablement ",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7458337",
-        "title": "Staff Software Engineer, Product Engineer",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7421455",
+        "title": "Technical Enterprise Client Success Manager - Symmetry",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T18:53:36.724Z"
+        "timestamp": "2026-01-29T19:25:20.812Z"
+      },
+      {
+        "job_id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-xmlname-usa-staff-data-scientist_r-2350734",
+        "title": "Staff - Data Scientist",
+        "company": "Walmart",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T19:25:20.812Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7554602",
+        "title": "Enterprise Customer Success Manager - Public Sector",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T19:25:20.812Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7472550",
+        "title": "Enterprise Customer Success Manager - Boston/New York",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T19:25:20.812Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7411889",
+        "title": "Technical Account Manager 2 - New York/Boston",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T19:25:20.812Z"
       }
     ],
     "already_posted": [],
