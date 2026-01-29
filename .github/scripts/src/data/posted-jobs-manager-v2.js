@@ -26,7 +26,7 @@ class PostedJobsManagerV2 {
     this.data = this.loadPostedJobs();
     this.archiveDir = path.join(dataDir, 'archive');
     this.activeWindowDays = parseInt(process.env.ACTIVE_WINDOW_DAYS) || 7;
-    this.reopeningWindowDays = parseInt(process.env.REOPENING_WINDOW_DAYS) || 30;
+    this.reopeningWindowDays = parseInt(process.env.REOPENING_WINDOW_DAYS) || 7;
     // Track counters during this session to prevent duplicates in same batch
     this.sessionChannelCounters = {};
   }
