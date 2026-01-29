@@ -241,6 +241,7 @@ class PostedJobsManagerV2 {
   markAsPostedToChannel(jobData, messageId, channelId, channelType, channelJobNumber = null) {
     const now = new Date().toISOString();
     const jobId = this.generateJobId(jobData);
+    const today = now.split('T')[0];
 
     // Find existing job record (from current active window)
     let jobRecord = this.data.jobs.find(job =>
@@ -249,10 +250,21 @@ class PostedJobsManagerV2 {
     );
 
     if (!jobRecord) {
+      // Check if this job was already posted TODAY (prevent same-day duplicates)
+      const alreadyPostedToday = this.data.jobs.some(job =>
+        job.jobId === jobId &&
+        job.postedToDiscord.startsWith(today)
+      );
+
+      if (alreadyPostedToday) {
+        console.log(`⏭️  Skipping duplicate posted today: ${jobData.job_title} @ ${jobData.employer_name}`);
+        return false;
+      }
+
       // First posting of this job - create new record
       const existingInstances = this.data.jobs.filter(job => job.jobId === jobId);
       const instanceNumber = existingInstances.length + 1;
-      const instanceId = `${jobId}-${now.split('T')[0]}-${instanceNumber}`;
+      const instanceId = `${jobId}-${today}-${instanceNumber}`;
 
       jobRecord = {
         id: instanceId,
