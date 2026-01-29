@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-29T01:26:25.552Z",
+  "lastUpdated": "2026-01-29T06:21:59.812Z",
   "jobs": [
     {
       "id": "2d7774b91bcf8821-2026-01-24-1",
@@ -87,6 +87,24 @@
       "instanceNumber": 1
     },
     {
+      "id": "fb3aa13843322bcc-2026-01-24-1",
+      "jobId": "fb3aa13843322bcc",
+      "company": "Texas A&M University - Corpus Christi",
+      "title": "Postdoctoral Research Associate",
+      "postedToDiscord": "2026-01-24T15:55:06.059Z",
+      "sourceDate": "2025-11-30T17:06:45.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
+      "discordPosts": {
+        "1462988662168879217": {
+          "messageId": "1464706373286629623",
+          "channelType": "category",
+          "postedAt": "2026-01-24T19:40:12.558Z",
+          "channelJobNumber": 87
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
       "id": "d9dcadbd1806b987-2026-01-24-1",
       "jobId": "d9dcadbd1806b987",
       "company": "Citi",
@@ -136,6 +154,24 @@
           "channelType": "category",
           "postedAt": "2026-01-24T19:40:18.013Z",
           "channelJobNumber": 87
+        }
+      },
+      "instanceNumber": 1
+    },
+    {
+      "id": "1515e2d31bd8a292-2026-01-24-1",
+      "jobId": "1515e2d31bd8a292",
+      "company": "University of Southern California",
+      "title": "Postdoctoral Scholar Research Associate",
+      "postedToDiscord": "2026-01-24T15:55:16.222Z",
+      "sourceDate": "2025-11-30T07:08:19.000Z",
+      "sourceUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
+      "discordPosts": {
+        "1462988721828794531": {
+          "messageId": "1464706416504864972",
+          "channelType": "category",
+          "postedAt": "2026-01-24T19:40:22.721Z",
+          "channelJobNumber": 22
         }
       },
       "instanceNumber": 1
@@ -330,15 +366,15 @@
       "sourceUrl": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Analyst--Audience-Activation_R50030922",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1466233186286702763",
+          "messageId": "1466317305201037425",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:13.057Z",
-          "channelJobNumber": 16
+          "postedAt": "2026-01-29T06:21:28.494Z",
+          "channelJobNumber": 15
         },
         "1462988831530680422": {
-          "messageId": "1466233193790181518",
+          "messageId": "1466317312226365550",
           "channelType": "location",
-          "postedAt": "2026-01-29T00:47:15.013Z",
+          "postedAt": "2026-01-29T06:21:30.438Z",
           "channelJobNumber": 5
         }
       },
@@ -357,15 +393,15 @@
       "sourceUrl": "https://job-boards.greenhouse.io/accuweather/jobs/7304640",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1466233202007085341",
+          "messageId": "1466317320195412051",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:16.802Z",
-          "channelJobNumber": 17
+          "postedAt": "2026-01-29T06:21:32.081Z",
+          "channelJobNumber": 16
         },
         "1462988831530680422": {
-          "messageId": "1466233209061642416",
+          "messageId": "1466317327099363480",
           "channelType": "location",
-          "postedAt": "2026-01-29T00:47:18.552Z",
+          "postedAt": "2026-01-29T06:21:33.750Z",
           "channelJobNumber": 6
         }
       },
@@ -384,10 +420,10 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Performance-and-Efficiency-Engineer---New-College-Grad-2026_JR2011112",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1466233216276107317",
+          "messageId": "1466317333931884735",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:20.228Z",
-          "channelJobNumber": 18
+          "postedAt": "2026-01-29T06:21:35.416Z",
+          "channelJobNumber": 17
         }
       },
       "instanceNumber": 1,
@@ -405,10 +441,10 @@
       "sourceUrl": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analyst--People-Analytics_R0437932",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1466233223724929136",
+          "messageId": "1466317341179642040",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:21.970Z",
-          "channelJobNumber": 19
+          "postedAt": "2026-01-29T06:21:37.086Z",
+          "channelJobNumber": 18
         }
       },
       "instanceNumber": 1,
@@ -426,10 +462,10 @@
       "sourceUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4645712006",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1466233231165751369",
+          "messageId": "1466317348171546830",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:23.774Z",
-          "channelJobNumber": 20
+          "postedAt": "2026-01-29T06:21:38.762Z",
+          "channelJobNumber": 19
         }
       },
       "instanceNumber": 1,
@@ -447,10 +483,10 @@
       "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0232566-1",
       "discordPosts": {
         "1462988605306834987": {
-          "messageId": "1466233238727954786",
+          "messageId": "1466317354844557378",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:25.595Z",
-          "channelJobNumber": 21
+          "postedAt": "2026-01-29T06:21:40.396Z",
+          "channelJobNumber": 20
         }
       },
       "instanceNumber": 1,
@@ -468,16 +504,16 @@
       "sourceUrl": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018284",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1466233258432921870",
+          "messageId": "1466317374675226750",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:30.295Z",
+          "postedAt": "2026-01-29T06:21:45.099Z",
           "channelJobNumber": 13
         },
         "1462989305181114450": {
-          "messageId": "1466233265605185660",
+          "messageId": "1466317381784703110",
           "channelType": "location",
-          "postedAt": "2026-01-29T00:47:32.018Z",
-          "channelJobNumber": 3
+          "postedAt": "2026-01-29T06:21:46.820Z",
+          "channelJobNumber": 2
         }
       },
       "instanceNumber": 1,
@@ -495,9 +531,9 @@
       "sourceUrl": "https://jobs.lever.co/q-ctrl/1ff2ff69-c5f5-4790-a007-07a90dfa4031/apply",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1466233273331093677",
+          "messageId": "1466317388793511948",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:33.731Z",
+          "postedAt": "2026-01-29T06:21:48.599Z",
           "channelJobNumber": 14
         }
       },
@@ -516,9 +552,9 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008",
       "discordPosts": {
         "1462988662168879217": {
-          "messageId": "1466233280197034125",
+          "messageId": "1466317396456505418",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:35.403Z",
+          "postedAt": "2026-01-29T06:21:50.401Z",
           "channelJobNumber": 15
         }
       },
@@ -537,9 +573,9 @@
       "sourceUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Mexico-City-Mexico/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00027643-1",
       "discordPosts": {
         "1462988755156734023": {
-          "messageId": "1466233299914719454",
+          "messageId": "1466317416668594216",
           "channelType": "category",
-          "postedAt": "2026-01-29T00:47:40.098Z",
+          "postedAt": "2026-01-29T06:21:55.078Z",
           "channelJobNumber": 3
         }
       },
@@ -550,11 +586,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 27,
+    "totalJobs": 29,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:58:38.081Z",
     "lastArchive": {
-      "date": "2026-01-29T00:47:44.841Z",
+      "date": "2026-01-29T06:21:59.812Z",
       "archived": 0
     }
   }
