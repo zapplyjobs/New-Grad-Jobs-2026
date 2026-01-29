@@ -1,80 +1,66 @@
 {
-  "generated": "2026-01-29T22:05:20.067Z",
+  "generated": "2026-01-29T22:15:31.080Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T22:05:20.067Z",
-  "period_end": "2026-01-29T22:05:20.067Z",
+  "period_start": "2026-01-22T22:15:31.080Z",
+  "period_end": "2026-01-29T22:15:31.080Z",
   "summary": {
     "total_jobs_posted": 11,
     "unique_jobs": 10,
     "multi_channel_postings": 2,
     "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
-    "filtered_jobs": 11,
-    "channels_active": 4
+    "filtered_jobs": 5,
+    "channels_active": 5
   },
   "by_channel": {
     "💻・tech-jobs": {
       "channel_id": "1462988605306834987",
       "count": 4,
       "jobs": [
-        "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0005879",
-        "award-co-position",
-        "jobs-smartrecruiters-com-arthurgrandtechnologiesinc-744000105931793",
-        "careers-westinghousenuclear-com-job-warrendale-software-engineer-or-1359820100"
+        "careers-westinghousenuclear-com-job-warrendale-software-engineer-or-1359789200",
+        "jobs-challp-icims-com-jobs-7492-job",
+        "careers-herbalife-icims-com-jobs-18711-job",
+        "job-boards-greenhouse-io-anthropic-jobs-5097351008"
       ],
       "recent_jobs": [
         {
-          "id": "welocalize-wd1-myworkdayjobs-com-welocalize-job-austin-texas-search-quality-rater_r0005879",
-          "title": "Search Quality Rater",
-          "company": "Welocalize",
-          "posted_at": "2026-01-29T22:04:47.570Z"
-        },
-        {
-          "id": "award-co-position",
-          "title": "Front End Software Engineer",
-          "company": "Awardco",
-          "posted_at": "2026-01-29T22:04:49.371Z"
-        },
-        {
-          "id": "jobs-smartrecruiters-com-arthurgrandtechnologiesinc-744000105931793",
-          "title": "ERP Software Engineer",
-          "company": "Arthur Grand Technologies",
-          "posted_at": "2026-01-29T22:04:51.086Z"
-        },
-        {
-          "id": "careers-westinghousenuclear-com-job-warrendale-software-engineer-or-1359820100",
+          "id": "careers-westinghousenuclear-com-job-warrendale-software-engineer-or-1359789200",
           "title": "Software Engineer",
           "company": "Westinghouse Electric Company",
-          "posted_at": "2026-01-29T22:04:52.857Z"
+          "posted_at": "2026-01-29T22:14:55.754Z"
+        },
+        {
+          "id": "jobs-challp-icims-com-jobs-7492-job",
+          "title": "Electric Distribution Planner 1",
+          "company": "CHA Consulting",
+          "posted_at": "2026-01-29T22:14:57.500Z"
+        },
+        {
+          "id": "careers-herbalife-icims-com-jobs-18711-job",
+          "title": "Application Developer 1",
+          "company": "Herbalife",
+          "posted_at": "2026-01-29T22:14:59.153Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5097351008",
+          "title": "Training Content and Systems Architect",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T22:15:00.871Z"
         }
       ]
     },
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 3,
+    "📊・data-science-jobs": {
+      "channel_id": "1462988721828794531",
+      "count": 1,
       "jobs": [
-        "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-data-scientist-junior_r0232545",
-        "careers-cisco-com-global-en-job-2000137",
-        "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-for-graphics-and-gaming-new-college-grad-2026_jr2011267"
+        "apply-workable-com-qodeworld-j-0c2e797e48-apply"
       ],
       "recent_jobs": [
         {
-          "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-data-scientist-junior_r0232545",
-          "title": "Data Scientist - Junior",
-          "company": "Booz Allen",
-          "posted_at": "2026-01-29T22:04:57.708Z"
-        },
-        {
-          "id": "careers-cisco-com-global-en-job-2000137",
-          "title": "Software Engineer Data/AI/Intelligent Systems 2 - Full Time - United States",
-          "company": "Cisco",
-          "posted_at": "2026-01-29T22:04:59.444Z"
-        },
-        {
-          "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-research-scientist-ai-for-graphics-and-gaming-new-college-grad-2026_jr2011267",
-          "title": "Research Scientist - AI for Graphics and Gaming",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-29T22:05:03.101Z"
+          "id": "apply-workable-com-qodeworld-j-0c2e797e48-apply",
+          "title": "Associate Data Engineer",
+          "company": "qode.world",
+          "posted_at": "2026-01-29T22:15:05.703Z"
         }
       ]
     },
@@ -82,138 +68,118 @@
       "channel_id": "1462988831530680422",
       "count": 1,
       "jobs": [
-        "careers-cisco-com-global-en-job-2000137"
+        "apply-workable-com-qodeworld-j-0c2e797e48-apply"
       ],
       "recent_jobs": [
         {
-          "id": "careers-cisco-com-global-en-job-2000137",
-          "title": "Software Engineer Data/AI/Intelligent Systems 2 - Full Time - United States",
-          "company": "Cisco",
-          "posted_at": "2026-01-29T22:05:01.300Z"
+          "id": "apply-workable-com-qodeworld-j-0c2e797e48-apply",
+          "title": "Associate Data Engineer",
+          "company": "qode.world",
+          "posted_at": "2026-01-29T22:15:07.426Z"
         }
       ]
     },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
+    "🤖・ai-jobs": {
+      "channel_id": "1462988662168879217",
       "count": 3,
       "jobs": [
-        "mpc-wd1-myworkdayjobs-com-en-us-mpccareers-job-san-antonio-texas-associate-accounting-data-analyst-accounting-data-analyst_00020199",
-        "cinfin-taleo-net-careersection-ex-jobdetail-ftl",
-        "jobs-lever-co-datalabusa-e9e1af3f-7636-4e75-8c82-5d7b20c6df1f-apply"
+        "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1359734000",
+        "job-boards-greenhouse-io-anthropic-jobs-5076606008",
+        "job-boards-greenhouse-io-anthropic-jobs-5018472008"
       ],
       "recent_jobs": [
         {
-          "id": "mpc-wd1-myworkdayjobs-com-en-us-mpccareers-job-san-antonio-texas-associate-accounting-data-analyst-accounting-data-analyst_00020199",
-          "title": "Associate Accounting Data Analyst/Accounting Data Analyst",
-          "company": "Marathon Petroleum",
-          "posted_at": "2026-01-29T22:05:07.928Z"
+          "id": "careers-huntingtoningalls-com-job-newport-news-engineer-software-1-virg-1359734000",
+          "title": "Software Engineer 1",
+          "company": "Huntington Ingalls Industries",
+          "posted_at": "2026-01-29T22:15:12.446Z"
         },
         {
-          "id": "cinfin-taleo-net-careersection-ex-jobdetail-ftl",
-          "title": "Planning Analytics and Risk Management Associate Data Scientist - Innovation",
-          "company": "Cincinnati Financial",
-          "posted_at": "2026-01-29T22:05:09.743Z"
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5076606008",
+          "title": "Research Engineer / Scientist, Societal Impacts",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T22:15:14.506Z"
         },
         {
-          "id": "jobs-lever-co-datalabusa-e9e1af3f-7636-4e75-8c82-5d7b20c6df1f-apply",
-          "title": "Programmer Analyst - Marketing Analytics",
-          "company": "Datalab USA",
-          "posted_at": "2026-01-29T22:05:11.562Z"
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5018472008",
+          "title": "Research Economist, Economic Research",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T22:15:16.443Z"
+        }
+      ]
+    },
+    "💰・finance-jobs": {
+      "channel_id": "1462988755156734023",
+      "count": 2,
+      "jobs": [
+        "job-boards-greenhouse-io-verkada-jobs-5034197007",
+        "www-brex-com-careers-8393363002"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-verkada-jobs-5034197007",
+          "title": "Enterprise Account Executive (Houston - SLED)",
+          "company": "verkada",
+          "posted_at": "2026-01-29T22:15:21.158Z"
+        },
+        {
+          "id": "www-brex-com-careers-8393363002",
+          "title": "Expansion Account Executive, Enterprise",
+          "company": "brex",
+          "posted_at": "2026-01-29T22:15:22.881Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "careers-cisco-com-global-en-job-2000137",
-      "company": "Cisco",
-      "title": "Software Engineer Data/AI/Intelligent Systems 2 - Full Time - United States",
+      "job_id": "apply-workable-com-qodeworld-j-0c2e797e48-apply",
+      "company": "qode.world",
+      "title": "Associate Data Engineer",
       "channels": [
-        "🤖・ai-jobs",
+        "📊・data-science-jobs",
         "🗽・new-york-jobs"
       ],
-      "posted_at": "2026-01-29T22:04:59.444Z"
+      "posted_at": "2026-01-29T22:15:05.703Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "careers-datadoghq-com-detail-7476431",
-        "title": "Engineering Manager, Application Security Platform",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7554581",
-        "title": "Staff Software Engineer – Cloud Foundations",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-345c2c98-5635-4575-9213-1ebbba0f9396",
-        "title": "Senior Sales Engineer - Backstage",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7514704",
-        "title": "Staff Product Designer - AI Observability",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "www-samsara-com-company-careers-roles-7525300",
-        "title": "Senior Product Design Engineer II",
-        "company": "samsara",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4965200008",
-        "title": "Event Security Program Manager",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-6821046",
-        "title": "Senior Manager, Revenue Accounting",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096636008",
-        "title": "Product Public Policy Manager, Privacy & Data Governance",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096699008",
-        "title": "Public Policy, Events Lead",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.727Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8390058002",
+        "job_id": "www-brex-com-careers-8390040002",
         "title": "Partner Enablement Manager",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.728Z"
+        "timestamp": "2026-01-29T22:14:55.224Z"
       },
       {
-        "job_id": "www-brex-com-careers-8390055002",
+        "job_id": "www-brex-com-careers-8389635002",
         "title": "Partner Enablement Manager",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:04:46.728Z"
+        "timestamp": "2026-01-29T22:14:55.224Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023719008",
+        "title": "Data Center Hardware Operations Lead",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T22:14:55.224Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5097067008",
+        "title": "Research Product Manager, Model Behaviors",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T22:14:55.224Z"
+      },
+      {
+        "job_id": "www-coinbase-com-careers-positions-7549879",
+        "title": "Manager, Corporate Development",
+        "company": "coinbase",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T22:14:55.224Z"
       }
     ],
     "already_posted": [],
