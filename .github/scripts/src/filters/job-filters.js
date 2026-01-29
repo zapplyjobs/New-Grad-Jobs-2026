@@ -14,15 +14,16 @@ const { generateJobId } = require('../../job-fetcher/utils');
  * Format: { title: 'substring', company: 'substring' }
  */
 const JOB_BLACKLIST = [
-  // Non-entry level roles disguised as entry level
-  { title: 'principal', company: '' },
-  { title: 'senior', company: '' },
-  { title: 'lead', company: '' },
-  { title: 'manager', company: '' },
-  { title: 'director', company: '' },
-  { title: 'staff', company: '' }, // Staff engineer = mid/senior level
+  // Only actual senior/executive roles (not new grad appropriate)
+  { title: 'principal engineer', company: '' },
+  { title: 'principal software engineer', company: '' },
+  { title: 'engineering director', company: '' },
+  { title: 'engineering manager', company: '' },
+  { title: 'sr. director', company: '' },
+  { title: 'vice president', company: '' },
+  { title: 'vp', company: '' },
 
-  // Academic/research roles (not new grad)
+  // Academic/research roles (not new grad appropriate)
   { title: 'postdoc', company: '' },
   { title: 'postdoctoral', company: '' },
   { title: 'post-doctoral', company: '' },
