@@ -29,6 +29,8 @@ class PostedJobsManagerV2 {
     this.reopeningWindowDays = parseInt(process.env.REOPENING_WINDOW_DAYS) || 7;
     // Track counters during this session to prevent duplicates in same batch
     this.sessionChannelCounters = {};
+    // Cache archive channel counts to avoid re-reading files (performance fix)
+    this.archiveChannelCounts = this.loadArchiveChannelCounts();
   }
 
   /**
@@ -332,37 +334,17 @@ class PostedJobsManagerV2 {
   getChannelJobNumber(channelId) {
     // Check if we've already calculated the base count for this channel this session
     if (!this.sessionChannelCounters[channelId]) {
-      // Count all existing posts to this channel (including archived)
-      let count = 0;
-
       // Count from active jobs
+      let count = 0;
       for (const job of this.data.jobs) {
         if (job.discordPosts && job.discordPosts[channelId]) {
           count++;
         }
       }
 
-      // Also check archives to get accurate historical count
-      if (fs.existsSync(this.archiveDir)) {
-        const archiveFiles = fs.readdirSync(this.archiveDir);
-        for (const file of archiveFiles) {
-          if (file.endsWith('.json')) {
-            try {
-              const archivePath = path.join(this.archiveDir, file);
-              const archiveJobs = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
-              if (Array.isArray(archiveJobs)) {
-                for (const job of archiveJobs) {
-                  if (job.discordPosts && job.discordPosts[channelId]) {
-                    count++;
-                  }
-                }
-              }
-            } catch (error) {
-              console.error(`⚠️  Error reading archive ${file}:`, error.message);
-            }
-          }
-        }
-      }
+      // Add cached archive count (pre-loaded at startup for performance)
+      const archiveCount = this.archiveChannelCounts[channelId] || 0;
+      count += archiveCount;
 
       // Initialize session counter with base count
       this.sessionChannelCounters[channelId] = count;
@@ -371,6 +353,49 @@ class PostedJobsManagerV2 {
     // Increment and return the next job number for this channel
     this.sessionChannelCounters[channelId]++;
     return this.sessionChannelCounters[channelId];
+  }
+
+  /**
+   * Load archive channel counts once at startup (performance optimization)
+   * Prevents O(n*m) complexity when counting channel posts across archives
+   *
+   * @returns {object} - Map of channelId -> count
+   */
+  loadArchiveChannelCounts() {
+    const counts = {};
+
+    if (!fs.existsSync(this.archiveDir)) {
+      return counts;
+    }
+
+    const archiveFiles = fs.readdirSync(this.archiveDir);
+    for (const file of archiveFiles) {
+      if (!file.endsWith('.json')) continue;
+
+      try {
+        const archivePath = path.join(this.archiveDir, file);
+        const archiveJobs = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
+
+        if (!Array.isArray(archiveJobs)) continue;
+
+        // Count posts per channel in this archive file
+        for (const job of archiveJobs) {
+          if (job.discordPosts) {
+            for (const channelId of Object.keys(job.discordPosts)) {
+              counts[channelId] = (counts[channelId] || 0) + 1;
+            }
+          }
+        }
+      } catch (error) {
+        console.error(`⚠️  Error reading archive ${file}:`, error.message);
+      }
+    }
+
+    const totalChannels = Object.keys(counts).length;
+    const totalCount = Object.values(counts).reduce((a, b) => a + b, 0);
+    console.log(`✅ Loaded archive channel counts: ${totalCount} posts across ${totalChannels} channels`);
+
+    return counts;
   }
 
   /**

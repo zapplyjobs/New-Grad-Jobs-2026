@@ -19,30 +19,38 @@ async function retryWithBackoff(fn, options = {}) {
   } = options;
 
   let lastError;
-  
+
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
     try {
       return await fn();
     } catch (error) {
       lastError = error;
-      
+
       if (attempt === maxRetries) {
         break; // Last attempt failed, throw error
       }
-      
-      // Calculate delay with exponential backoff
-      const delay = Math.min(initialDelay * Math.pow(factor, attempt), maxDelay);
-      
+
+      // Check for Discord rate limit with retry_after
+      let delay;
+      if (error.code === 429 && error.retry_after) {
+        // Discord rate limit - use retry_after (in seconds, convert to ms)
+        delay = Math.ceil(error.retry_after * 1000) + 100; // Add 100ms buffer
+        console.log(`⏳ Discord rate limited, waiting ${delay}ms (retry_after: ${error.retry_after}s)`);
+      } else {
+        // Calculate delay with exponential backoff
+        delay = Math.min(initialDelay * Math.pow(factor, attempt), maxDelay);
+      }
+
       // Call retry callback if provided
       if (onRetry) {
         onRetry(error, attempt + 1, delay);
       }
-      
+
       // Wait before retry
       await new Promise(resolve => setTimeout(resolve, delay));
     }
   }
-  
+
   throw lastError;
 }
 
@@ -56,17 +64,17 @@ function isRetryableError(error) {
   if (error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT' || error.code === 'ENOTFOUND') {
     return true;
   }
-  
-  // Discord rate limits (429)
-  if (error.status === 429 || error.httpStatus === 429) {
+
+  // Discord rate limits (429) - check multiple possible locations
+  if (error.code === 429 || error.status === 429 || error.httpStatus === 429) {
     return true;
   }
-  
+
   // Server errors (500, 502, 503, 504)
   if (error.status >= 500 || error.httpStatus >= 500) {
     return true;
   }
-  
+
   return false;
 }
 
