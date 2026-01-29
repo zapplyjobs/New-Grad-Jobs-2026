@@ -1,232 +1,123 @@
 {
-  "generated": "2026-01-29T19:52:48.445Z",
+  "generated": "2026-01-29T20:04:24.578Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T19:52:48.445Z",
-  "period_end": "2026-01-29T19:52:48.445Z",
+  "period_start": "2026-01-22T20:04:24.578Z",
+  "period_end": "2026-01-29T20:04:24.578Z",
   "summary": {
-    "total_jobs_posted": 15,
+    "total_jobs_posted": 10,
     "unique_jobs": 10,
-    "multi_channel_postings": 10,
-    "unique_multi_channel_jobs": 5,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 2,
-    "channels_active": 5
+    "filtered_jobs": 1,
+    "channels_active": 3
   },
   "by_channel": {
     "💻・tech-jobs": {
       "channel_id": "1462988605306834987",
-      "count": 6,
+      "count": 8,
       "jobs": [
-        "www-brex-com-careers-8073319002",
-        "careers-datadoghq-com-detail-7572940",
-        "careers-datadoghq-com-detail-7572488",
-        "job-boards-greenhouse-io-gusto-jobs-7474010",
-        "job-boards-greenhouse-io-anthropic-jobs-5062810008",
-        "careers-datadoghq-com-detail-7558666"
+        "www-brex-com-careers-8075296002",
+        "job-boards-greenhouse-io-vercel-jobs-5042174004",
+        "job-boards-greenhouse-io-vercel-jobs-5065840004",
+        "job-boards-greenhouse-io-vercel-jobs-5199830004",
+        "job-boards-greenhouse-io-vercel-jobs-5686511004",
+        "job-boards-greenhouse-io-vercel-jobs-5613601004",
+        "job-boards-greenhouse-io-vercel-jobs-5624231004",
+        "job-boards-greenhouse-io-vercel-jobs-5633124004"
       ],
       "recent_jobs": [
         {
-          "id": "www-brex-com-careers-8073319002",
+          "id": "www-brex-com-careers-8075296002",
           "title": "Sales Recruiter (12-month contract)",
           "company": "brex",
-          "posted_at": "2026-01-29T19:52:06.977Z"
+          "posted_at": "2026-01-29T20:03:52.022Z"
         },
         {
-          "id": "careers-datadoghq-com-detail-7572940",
-          "title": "Container Runtime Engineer",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:10.441Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5042174004",
+          "title": "Enterprise Account Executive",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:03:53.905Z"
         },
         {
-          "id": "careers-datadoghq-com-detail-7572488",
-          "title": "Product Designer II, Actions",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:14.172Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5065840004",
+          "title": "Vercel Development Representative, Commercial",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:03:55.629Z"
         },
         {
-          "id": "job-boards-greenhouse-io-gusto-jobs-7474010",
-          "title": "Sales Development Representative",
-          "company": "gusto",
-          "posted_at": "2026-01-29T19:52:18.426Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5199830004",
+          "title": "Head of Product Marketing ",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:03:57.306Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5062810008",
-          "title": "Head of Sales & Partnerships Recruiting ",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T19:52:20.127Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5686511004",
+          "title": "Recruiting Coordinator (Contract)",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:03:59.039Z"
         },
         {
-          "id": "careers-datadoghq-com-detail-7558666",
-          "title": "Sourcer II",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:21.905Z"
-        }
-      ]
-    },
-    "🏠・remote-usa-jobs": {
-      "channel_id": "1462989305181114450",
-      "count": 1,
-      "jobs": [
-        "www-brex-com-careers-8073319002"
-      ],
-      "recent_jobs": [
-        {
-          "id": "www-brex-com-careers-8073319002",
-          "title": "Sales Recruiter (12-month contract)",
-          "company": "brex",
-          "posted_at": "2026-01-29T19:52:08.717Z"
-        }
-      ]
-    },
-    "🗽・new-york-jobs": {
-      "channel_id": "1462988831530680422",
-      "count": 4,
-      "jobs": [
-        "careers-datadoghq-com-detail-7572940",
-        "careers-datadoghq-com-detail-7572488",
-        "careers-datadoghq-com-detail-7558666",
-        "careers-datadoghq-com-detail-7562578"
-      ],
-      "recent_jobs": [
-        {
-          "id": "careers-datadoghq-com-detail-7572940",
-          "title": "Container Runtime Engineer",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:12.429Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5613601004",
+          "title": "Software Engineer, Growth",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:04:02.196Z"
         },
         {
-          "id": "careers-datadoghq-com-detail-7572488",
-          "title": "Product Designer II, Actions",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:16.506Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5624231004",
+          "title": "Startup Account Executive",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:04:03.872Z"
         },
         {
-          "id": "careers-datadoghq-com-detail-7558666",
-          "title": "Sourcer II",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:23.857Z"
-        },
-        {
-          "id": "careers-datadoghq-com-detail-7562578",
-          "title": "IT Internal Auditor II - NYC",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:39.953Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5633124004",
+          "title": "Technical Support Engineer, Vercel Marketplaces ",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:04:06.889Z"
         }
       ]
     },
     "📊・data-science-jobs": {
       "channel_id": "1462988721828794531",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-5075086008",
-        "job-boards-greenhouse-io-anthropic-jobs-5068424008"
+        "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-data-engineer_r0821166"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5075086008",
-          "title": "Compute Analyst",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T19:52:28.781Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5068424008",
-          "title": "Compute Capacity Strategy & Operations",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T19:52:30.708Z"
+          "id": "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-data-engineer_r0821166",
+          "title": "Associate Data Engineer",
+          "company": "CVS Health",
+          "posted_at": "2026-01-29T20:04:11.685Z"
         }
       ]
     },
-    "💰・finance-jobs": {
-      "channel_id": "1462988755156734023",
-      "count": 2,
+    "🤖・ai-jobs": {
+      "channel_id": "1462988662168879217",
+      "count": 1,
       "jobs": [
-        "careers-datadoghq-com-detail-7172466",
-        "careers-datadoghq-com-detail-7562578"
+        "job-boards-greenhouse-io-vercel-jobs-5579431004"
       ],
       "recent_jobs": [
         {
-          "id": "careers-datadoghq-com-detail-7172466",
-          "title": "Customer Success Associate - Boston",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:35.699Z"
-        },
-        {
-          "id": "careers-datadoghq-com-detail-7562578",
-          "title": "IT Internal Auditor II - NYC",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:38.039Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5579431004",
+          "title": "Fraud Specialist",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:04:16.452Z"
         }
       ]
     }
   },
-  "multi_channel_routing": [
-    {
-      "job_id": "www-brex-com-careers-8073319002",
-      "company": "brex",
-      "title": "Sales Recruiter (12-month contract)",
-      "channels": [
-        "💻・tech-jobs",
-        "🏠・remote-usa-jobs"
-      ],
-      "posted_at": "2026-01-29T19:52:06.977Z"
-    },
-    {
-      "job_id": "careers-datadoghq-com-detail-7572940",
-      "company": "datadog",
-      "title": "Container Runtime Engineer",
-      "channels": [
-        "💻・tech-jobs",
-        "🗽・new-york-jobs"
-      ],
-      "posted_at": "2026-01-29T19:52:10.441Z"
-    },
-    {
-      "job_id": "careers-datadoghq-com-detail-7572488",
-      "company": "datadog",
-      "title": "Product Designer II, Actions",
-      "channels": [
-        "💻・tech-jobs",
-        "🗽・new-york-jobs"
-      ],
-      "posted_at": "2026-01-29T19:52:14.172Z"
-    },
-    {
-      "job_id": "careers-datadoghq-com-detail-7558666",
-      "company": "datadog",
-      "title": "Sourcer II",
-      "channels": [
-        "💻・tech-jobs",
-        "🗽・new-york-jobs"
-      ],
-      "posted_at": "2026-01-29T19:52:21.905Z"
-    },
-    {
-      "job_id": "careers-datadoghq-com-detail-7562578",
-      "company": "datadog",
-      "title": "IT Internal Auditor II - NYC",
-      "channels": [
-        "💰・finance-jobs",
-        "🗽・new-york-jobs"
-      ],
-      "posted_at": "2026-01-29T19:52:38.039Z"
-    }
-  ],
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7413644",
-        "title": "Staff Software Engineer, Database Infrastructure",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7441084",
+        "title": "Staff Software Engineer - Payroll Platform",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:52:06.383Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5631091004",
-        "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:52:06.384Z"
+        "timestamp": "2026-01-29T20:03:51.464Z"
       }
     ],
     "already_posted": [],
