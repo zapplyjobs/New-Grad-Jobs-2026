@@ -31,8 +31,8 @@ const DeduplicationLogger = require('../deduplication-logger');
 // Analytics archive for long-term data retention
 const { archiveJobs } = require('../src/data/analytics-archive');
 
-// Configuration
-const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
+// Configuration - JSearch API (uses environment variable for security)
+const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
 
 // Job search queries - much more comprehensive
