@@ -1,208 +1,197 @@
 {
-  "generated": "2026-01-29T19:25:55.279Z",
+  "generated": "2026-01-29T19:37:46.621Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T19:25:55.279Z",
-  "period_end": "2026-01-29T19:25:55.279Z",
+  "period_start": "2026-01-22T19:37:46.621Z",
+  "period_end": "2026-01-29T19:37:46.621Z",
   "summary": {
-    "total_jobs_posted": 12,
+    "total_jobs_posted": 13,
     "unique_jobs": 10,
-    "multi_channel_postings": 4,
-    "unique_multi_channel_jobs": 2,
+    "multi_channel_postings": 6,
+    "unique_multi_channel_jobs": 3,
     "failed_postings": 0,
-    "filtered_jobs": 7,
+    "filtered_jobs": 3,
     "channels_active": 4
   },
   "by_channel": {
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 5,
+    "💻・tech-jobs": {
+      "channel_id": "1462988605306834987",
+      "count": 7,
       "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-5025624008",
-        "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
-        "bah-wd1-myworkdayjobs-com-bah_jobs-job-mclean-va-university-data-scientist_r0233012",
-        "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-i-software-fpga-timing-and-power-_r1912-25",
-        "nxp-wd3-myworkdayjobs-com-en-us-careers-job-chandler-office-industrial-systems-engineer_r-10059890"
+        "careers-qualitestgroup-com-job-santa-clara-data-collection-associate-ca-95054-51922844",
+        "jobs-lever-co-glsllc-4f5a593d-915d-46f6-998a-83ef0714f857-apply",
+        "jobs-newmont-com-us-en-job-41424",
+        "careers-quanta-icims-com-jobs-10403-job",
+        "careers-datadoghq-com-detail-7374245",
+        "job-boards-greenhouse-io-anthropic-jobs-5075093008",
+        "www-brex-com-careers-8093381002"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5025624008",
-          "title": "Research Engineer – Cybersecurity RL",
+          "id": "careers-qualitestgroup-com-job-santa-clara-data-collection-associate-ca-95054-51922844",
+          "title": "Data Collection Associate",
+          "company": "Qualitest",
+          "posted_at": "2026-01-29T19:37:10.890Z"
+        },
+        {
+          "id": "jobs-lever-co-glsllc-4f5a593d-915d-46f6-998a-83ef0714f857-apply",
+          "title": "Software Developer",
+          "company": "Global Lending Services",
+          "posted_at": "2026-01-29T19:37:12.546Z"
+        },
+        {
+          "id": "jobs-newmont-com-us-en-job-41424",
+          "title": "Structural Engineering Analyst",
+          "company": "Newmont",
+          "posted_at": "2026-01-29T19:37:14.487Z"
+        },
+        {
+          "id": "careers-quanta-icims-com-jobs-10403-job",
+          "title": "Associate Software Engineer",
+          "company": "Quanta Services",
+          "posted_at": "2026-01-29T19:37:16.231Z"
+        },
+        {
+          "id": "careers-datadoghq-com-detail-7374245",
+          "title": "Vice President, GTM Enablement & Business Value - NYC",
+          "company": "datadog",
+          "posted_at": "2026-01-29T19:37:17.954Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5075093008",
+          "title": "Strategic Account Executive, Digital Native Business – Cybersecurity",
           "company": "anthropic",
-          "posted_at": "2026-01-29T19:25:21.429Z"
+          "posted_at": "2026-01-29T19:37:21.943Z"
         },
         {
-          "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
-          "title": "Associate C++ Engineer",
-          "company": "Chicago Trading Company",
-          "posted_at": "2026-01-29T19:25:23.158Z"
-        },
-        {
-          "id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-mclean-va-university-data-scientist_r0233012",
-          "title": "Data Scientist",
-          "company": "Booz Allen",
-          "posted_at": "2026-01-29T19:25:26.584Z"
-        },
-        {
-          "id": "wd5-myworkdaysite-com-recruiting-microchiphr-external-job-ca-san-jose-3850-n-first-st-engineer-i-software-fpga-timing-and-power-_r1912-25",
-          "title": "Engineer 1 - Software - FPGA Timing and Power",
-          "company": "Microchip Technology",
-          "posted_at": "2026-01-29T19:25:28.482Z"
-        },
-        {
-          "id": "nxp-wd3-myworkdayjobs-com-en-us-careers-job-chandler-office-industrial-systems-engineer_r-10059890",
-          "title": "Industrial Systems Engineer",
-          "company": "NXP Semiconductors",
-          "posted_at": "2026-01-29T19:25:30.176Z"
+          "id": "www-brex-com-careers-8093381002",
+          "title": "Sales Recruiter (12-month contract)",
+          "company": "brex",
+          "posted_at": "2026-01-29T19:37:23.668Z"
         }
       ]
     },
     "🗽・new-york-jobs": {
       "channel_id": "1462988831530680422",
-      "count": 2,
+      "count": 3,
       "jobs": [
-        "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
-        "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application"
+        "careers-datadoghq-com-detail-7374245",
+        "www-brex-com-careers-8093381002",
+        "emit-fa-ca3-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-79478"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
-          "title": "Associate C++ Engineer",
-          "company": "Chicago Trading Company",
-          "posted_at": "2026-01-29T19:25:24.841Z"
+          "id": "careers-datadoghq-com-detail-7374245",
+          "title": "Vice President, GTM Enablement & Business Value - NYC",
+          "company": "datadog",
+          "posted_at": "2026-01-29T19:37:20.105Z"
         },
         {
-          "id": "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application",
-          "title": "GTM Data Scientist",
-          "company": "Clay",
-          "posted_at": "2026-01-29T19:25:46.897Z"
+          "id": "www-brex-com-careers-8093381002",
+          "title": "Sales Recruiter (12-month contract)",
+          "company": "brex",
+          "posted_at": "2026-01-29T19:37:25.485Z"
+        },
+        {
+          "id": "emit-fa-ca3-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-79478",
+          "title": "Associate Operations & Modeling Rail Planner/Analyst",
+          "company": "WSP",
+          "posted_at": "2026-01-29T19:37:31.924Z"
         }
       ]
     },
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 4,
-      "jobs": [
-        "myhrabc-wd5-myworkdayjobs-com-global-job-conshohocken-pa-data-visualization-specialist-i_r261445-1",
-        "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-atlanta-regional-application-engineer-americas_r5031013-1",
-        "job-boards-greenhouse-io-captivation-jobs-5100045008",
-        "pattersoncompanies-wd501-myworkdayjobs-com-pdco-job-tx-denton-rsvp-act-software-engineer_r109950"
-      ],
-      "recent_jobs": [
-        {
-          "id": "myhrabc-wd5-myworkdayjobs-com-global-job-conshohocken-pa-data-visualization-specialist-i_r261445-1",
-          "title": "Data Visualization Specialist 1",
-          "company": "Cencora",
-          "posted_at": "2026-01-29T19:25:34.968Z"
-        },
-        {
-          "id": "gevernova-wd5-myworkdayjobs-com-only_confidential_executive_recruiting-job-atlanta-regional-application-engineer-americas_r5031013-1",
-          "title": "Regional Application Engineer",
-          "company": "GE Vernova",
-          "posted_at": "2026-01-29T19:25:36.798Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-captivation-jobs-5100045008",
-          "title": "Software Engineer 1 - Linux/Python/Bash/HTML/Cypress/Pytest/Gitlab",
-          "company": "Captivation",
-          "posted_at": "2026-01-29T19:25:38.558Z"
-        },
-        {
-          "id": "pattersoncompanies-wd501-myworkdayjobs-com-pdco-job-tx-denton-rsvp-act-software-engineer_r109950",
-          "title": "Software Engineer",
-          "company": "Patterson",
-          "posted_at": "2026-01-29T19:25:40.332Z"
-        }
-      ]
-    },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
+    "💰・finance-jobs": {
+      "channel_id": "1462988755156734023",
       "count": 1,
       "jobs": [
-        "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application"
+        "emit-fa-ca3-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-79478"
       ],
       "recent_jobs": [
         {
-          "id": "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application",
-          "title": "GTM Data Scientist",
-          "company": "Clay",
-          "posted_at": "2026-01-29T19:25:45.182Z"
+          "id": "emit-fa-ca3-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-79478",
+          "title": "Associate Operations & Modeling Rail Planner/Analyst",
+          "company": "WSP",
+          "posted_at": "2026-01-29T19:37:30.234Z"
+        }
+      ]
+    },
+    "🤖・ai-jobs": {
+      "channel_id": "1462988662168879217",
+      "count": 2,
+      "jobs": [
+        "jobs-lever-co-dnb-764f989f-b9d1-4dc7-a4b4-af9103c3b5b7-apply",
+        "gartner-wd5-myworkdayjobs-com-ext-job-stamford-ct-data-analyst-2026-graduates_103573"
+      ],
+      "recent_jobs": [
+        {
+          "id": "jobs-lever-co-dnb-764f989f-b9d1-4dc7-a4b4-af9103c3b5b7-apply",
+          "title": "Technology Analyst Program",
+          "company": "Dun & Bradstreet",
+          "posted_at": "2026-01-29T19:37:36.735Z"
+        },
+        {
+          "id": "gartner-wd5-myworkdayjobs-com-ext-job-stamford-ct-data-analyst-2026-graduates_103573",
+          "title": "Data Analyst – Graduates",
+          "company": "Gartner",
+          "posted_at": "2026-01-29T19:37:38.457Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "job-boards-greenhouse-io-chicagotradingcampus-jobs-4654682005",
-      "company": "Chicago Trading Company",
-      "title": "Associate C++ Engineer",
+      "job_id": "careers-datadoghq-com-detail-7374245",
+      "company": "datadog",
+      "title": "Vice President, GTM Enablement & Business Value - NYC",
       "channels": [
-        "🤖・ai-jobs",
+        "💻・tech-jobs",
         "🗽・new-york-jobs"
       ],
-      "posted_at": "2026-01-29T19:25:23.158Z"
+      "posted_at": "2026-01-29T19:37:17.954Z"
     },
     {
-      "job_id": "jobs-ashbyhq-com-claylabs-31d3597f-400e-4c12-9692-a5fb6f5e0d03-application",
-      "company": "Clay",
-      "title": "GTM Data Scientist",
+      "job_id": "www-brex-com-careers-8093381002",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
       "channels": [
-        "📊・data-science-jobs",
+        "💻・tech-jobs",
         "🗽・new-york-jobs"
       ],
-      "posted_at": "2026-01-29T19:25:45.182Z"
+      "posted_at": "2026-01-29T19:37:23.668Z"
+    },
+    {
+      "job_id": "emit-fa-ca3-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-79478",
+      "company": "WSP",
+      "title": "Associate Operations & Modeling Rail Planner/Analyst",
+      "channels": [
+        "💰・finance-jobs",
+        "🗽・new-york-jobs"
+      ],
+      "posted_at": "2026-01-29T19:37:30.234Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5543027004",
-        "title": "Sr. Customer Marketing Manager - Startups ",
-        "company": "vercel",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5095484008",
+        "title": "Manager, Sales Development - Enterprise",
+        "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:25:20.812Z"
+        "timestamp": "2026-01-29T19:37:10.374Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5735704004",
-        "title": "Staff Data Platform Engineer",
-        "company": "vercel",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8393377002",
+        "title": "Director of Engineering, Security Operations",
+        "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:25:20.812Z"
+        "timestamp": "2026-01-29T19:37:10.374Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7421455",
-        "title": "Technical Enterprise Client Success Manager - Symmetry",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8393583002",
+        "title": "Engineering Manager, AI — Brex Assistant",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:25:20.812Z"
-      },
-      {
-        "job_id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-xmlname-usa-staff-data-scientist_r-2350734",
-        "title": "Staff - Data Scientist",
-        "company": "Walmart",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:25:20.812Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7554602",
-        "title": "Enterprise Customer Success Manager - Public Sector",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:25:20.812Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7472550",
-        "title": "Enterprise Customer Success Manager - Boston/New York",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:25:20.812Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7411889",
-        "title": "Technical Account Manager 2 - New York/Boston",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T19:25:20.812Z"
+        "timestamp": "2026-01-29T19:37:10.374Z"
       }
     ],
     "already_posted": [],
