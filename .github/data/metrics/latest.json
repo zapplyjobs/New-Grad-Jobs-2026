@@ -1,109 +1,117 @@
 {
-  "generated": "2026-01-29T20:16:52.446Z",
+  "generated": "2026-01-29T20:32:39.152Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T20:16:52.446Z",
-  "period_end": "2026-01-29T20:16:52.446Z",
+  "period_start": "2026-01-22T20:32:39.152Z",
+  "period_end": "2026-01-29T20:32:39.152Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 5,
-    "channels_active": 3
+    "filtered_jobs": 10,
+    "channels_active": 4
   },
   "by_channel": {
     "💻・tech-jobs": {
       "channel_id": "1462988605306834987",
-      "count": 6,
+      "count": 5,
       "jobs": [
-        "job-boards-greenhouse-io-vercel-jobs-5649459004",
-        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-tx-mckinney-513wd-2501-w-university-dr-wing-d-bldg-xmlname-2026-full-time-software-engineer-i-onsite-tx-_01819777",
-        "job-boards-greenhouse-io-anthropic-jobs-5097159008",
-        "job-boards-greenhouse-io-anthropic-jobs-4595463008",
-        "boards-greenhouse-io-figma-jobs-5575026004",
-        "job-boards-greenhouse-io-amplitude-jobs-8225014002"
+        "careers-talkdesk-com-jobs",
+        "job-boards-greenhouse-io-gusto-jobs-7561971",
+        "boards-greenhouse-io-figma-jobs-5478247004",
+        "job-boards-greenhouse-io-anthropic-jobs-5083039008",
+        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-ma-marlborough-ma2-1001-boston-post-rd-bldg-2-xmlname-2026-full-time-software-integration-engineer-i-onsite-ma-_01819844"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5649459004",
-          "title": "Software Engineer - Trust & Safety",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:16:22.846Z"
+          "id": "careers-talkdesk-com-jobs",
+          "title": "Software Engineer 1",
+          "company": "Talkdesk",
+          "posted_at": "2026-01-29T20:32:06.268Z"
         },
         {
-          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-tx-mckinney-513wd-2501-w-university-dr-wing-d-bldg-xmlname-2026-full-time-software-engineer-i-onsite-tx-_01819777",
-          "title": "2026 Full-time - Software Engineer I",
-          "company": "RTX",
-          "posted_at": "2026-01-29T20:16:24.526Z"
+          "id": "job-boards-greenhouse-io-gusto-jobs-7561971",
+          "title": "Head of GTM Process & Tooling",
+          "company": "gusto",
+          "posted_at": "2026-01-29T20:32:07.966Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5097159008",
-          "title": "Business Systems Analyst - Security Workforce",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T20:16:26.242Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4595463008",
-          "title": "Security Software Engineer, D&R Platform",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T20:16:27.920Z"
-        },
-        {
-          "id": "boards-greenhouse-io-figma-jobs-5575026004",
-          "title": "Executive Assistant, Product Support ",
+          "id": "boards-greenhouse-io-figma-jobs-5478247004",
+          "title": "Solutions Consultant",
           "company": "figma",
-          "posted_at": "2026-01-29T20:16:29.611Z"
+          "posted_at": "2026-01-29T20:32:09.753Z"
         },
         {
-          "id": "job-boards-greenhouse-io-amplitude-jobs-8225014002",
-          "title": "Software Engineer 1 - Data Pipeline",
-          "company": "Amplitude",
-          "posted_at": "2026-01-29T20:16:31.328Z"
-        }
-      ]
-    },
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 3,
-      "jobs": [
-        "osu-wd1-myworkdayjobs-com-osucareers-job-wooster-campus-research-associate_r144192-1",
-        "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-aviation-operations-and-machine-learning-ai-in-the-school-of-graduate-studies-daytona-beach-campus_r309969",
-        "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-big-data-analytics-and-aviation-safety-in-the-school-of-graduate-studies_r309967"
-      ],
-      "recent_jobs": [
-        {
-          "id": "osu-wd1-myworkdayjobs-com-osucareers-job-wooster-campus-research-associate_r144192-1",
-          "title": "Research Associate",
-          "company": "Ohio State University",
-          "posted_at": "2026-01-29T20:16:36.061Z"
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5083039008",
+          "title": "Software Engineer, Sandboxing",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T20:32:11.481Z"
         },
         {
-          "id": "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-aviation-operations-and-machine-learning-ai-in-the-school-of-graduate-studies-daytona-beach-campus_r309969",
-          "title": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the. - Daytona Beach Campus",
-          "company": "Embry-Riddle Aeronautical University",
-          "posted_at": "2026-01-29T20:16:37.846Z"
-        },
-        {
-          "id": "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-big-data-analytics-and-aviation-safety-in-the-school-of-graduate-studies_r309967",
-          "title": "Assistant Professor",
-          "company": "Embry-Riddle Aeronautical University",
-          "posted_at": "2026-01-29T20:16:39.608Z"
+          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-ma-marlborough-ma2-1001-boston-post-rd-bldg-2-xmlname-2026-full-time-software-integration-engineer-i-onsite-ma-_01819844",
+          "title": "2026 Full-time - Software Integration Engineer I",
+          "company": "RTX",
+          "posted_at": "2026-01-29T20:32:13.386Z"
         }
       ]
     },
     "💰・finance-jobs": {
       "channel_id": "1462988755156734023",
-      "count": 1,
+      "count": 2,
       "jobs": [
-        "job-boards-greenhouse-io-verkada-jobs-5035425007"
+        "weldgov-wd5-myworkdayjobs-com-weldcountycareers-job-greeley-co-gis-mapper-i_jr102093",
+        "job-boards-greenhouse-io-verkada-jobs-4128860007"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-verkada-jobs-5035425007",
-          "title": "Enterprise Account Executive (NOVA - SLED)",
+          "id": "weldgov-wd5-myworkdayjobs-com-weldcountycareers-job-greeley-co-gis-mapper-i_jr102093",
+          "title": "GIS Mapper 1",
+          "company": "Weld County",
+          "posted_at": "2026-01-29T20:32:18.116Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-verkada-jobs-4128860007",
+          "title": "Global Enterprise Account Executive",
           "company": "verkada",
-          "posted_at": "2026-01-29T20:16:44.345Z"
+          "posted_at": "2026-01-29T20:32:19.822Z"
+        }
+      ]
+    },
+    "📊・data-science-jobs": {
+      "channel_id": "1462988721828794531",
+      "count": 2,
+      "jobs": [
+        "www-qualtrics-com-careers-us-en-job-7564169",
+        "job-boards-greenhouse-io-airtable-jobs-7845265002"
+      ],
+      "recent_jobs": [
+        {
+          "id": "www-qualtrics-com-careers-us-en-job-7564169",
+          "title": "Data Science 1 - Product Data Science",
+          "company": "Qualtrics",
+          "posted_at": "2026-01-29T20:32:24.531Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-airtable-jobs-7845265002",
+          "title": "Software Engineer, Product Frontend (2-8 YOE)",
+          "company": "airtable",
+          "posted_at": "2026-01-29T20:32:26.224Z"
+        }
+      ]
+    },
+    "🤖・ai-jobs": {
+      "channel_id": "1462988662168879217",
+      "count": 1,
+      "jobs": [
+        "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-tx-austin-power-methodology-and-modeling-engineer-new-college-grad-2026_jr2012047"
+      ],
+      "recent_jobs": [
+        {
+          "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-tx-austin-power-methodology-and-modeling-engineer-new-college-grad-2026_jr2012047",
+          "title": "Power Methodology and Modeling Engineer – New College Grad",
+          "company": "NVIDIA",
+          "posted_at": "2026-01-29T20:32:31.008Z"
         }
       ]
     }
@@ -113,39 +121,74 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-brex-com-careers-8393510002",
-        "title": "Senior Brand Designer",
-        "company": "brex",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8299493002",
+        "title": "Staff Data Engineer, Ads",
+        "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:16:22.335Z"
+        "timestamp": "2026-01-29T20:32:05.709Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5676402004",
-        "title": "Director, Technical Accounting & Financial Reporting",
-        "company": "vercel",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8308138002",
+        "title": "Senior Data Scientist, Analytics",
+        "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:16:22.335Z"
+        "timestamp": "2026-01-29T20:32:05.709Z"
       },
       {
-        "job_id": "www-brex-com-careers-7595422002",
-        "title": "Staff Brand Designer, Magic",
-        "company": "brex",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8343795002",
+        "title": "Senior Data Scientist, Analytics - GTM Ads",
+        "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:16:22.336Z"
+        "timestamp": "2026-01-29T20:32:05.709Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096924008",
-        "title": "Regional State and Local Affairs Lead, Midwestern States",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8371252002",
+        "title": "Senior Data Engineer, Analytics",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:32:05.709Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8174001002",
+        "title": "Data Science Manager, Safety",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:32:05.709Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8364479002",
+        "title": "Data Engineering Manager",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:32:05.709Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-6968454",
+        "title": "Major Accounts Manager",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:32:05.709Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7357589",
+        "title": "Senior Staff Software Engineer",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:32:05.709Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-5864071",
+        "title": "Senior Staff Software Engineer, Payments and Risk",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:32:05.710Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4887959008",
+        "title": "Senior Software Security Engineer",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:16:22.336Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5067098008",
-        "title": "Research Engineer, Frontier Red Team (Hardware Lead)",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:16:22.336Z"
+        "timestamp": "2026-01-29T20:32:05.710Z"
       }
     ],
     "already_posted": [],
