@@ -1,80 +1,66 @@
 {
-  "generated": "2026-01-29T22:50:46.576Z",
+  "generated": "2026-01-29T23:34:15.145Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T22:50:46.576Z",
-  "period_end": "2026-01-29T22:50:46.576Z",
+  "period_start": "2026-01-22T23:34:15.145Z",
+  "period_end": "2026-01-29T23:34:15.145Z",
   "summary": {
-    "total_jobs_posted": 10,
+    "total_jobs_posted": 11,
     "unique_jobs": 10,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "multi_channel_postings": 2,
+    "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
-    "filtered_jobs": 6,
-    "channels_active": 3
+    "filtered_jobs": 1,
+    "channels_active": 5
   },
   "by_channel": {
     "💰・finance-jobs": {
       "channel_id": "1462988755156734023",
-      "count": 1,
+      "count": 2,
       "jobs": [
-        "www-brex-com-careers-8220030002"
+        "job-boards-greenhouse-io-verkada-jobs-4087046007",
+        "job-boards-greenhouse-io-verkada-jobs-4952537007"
       ],
       "recent_jobs": [
         {
-          "id": "www-brex-com-careers-8220030002",
-          "title": "Expansion Account Executive, Enterprise",
-          "company": "brex",
-          "posted_at": "2026-01-29T22:50:15.864Z"
+          "id": "job-boards-greenhouse-io-verkada-jobs-4087046007",
+          "title": "Account Executive, Territory (Mid-Market)",
+          "company": "verkada",
+          "posted_at": "2026-01-29T23:33:37.305Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-verkada-jobs-4952537007",
+          "title": "Enterprise Account Executive (US West - Federal Veterans Affairs)",
+          "company": "verkada",
+          "posted_at": "2026-01-29T23:33:39.069Z"
         }
       ]
     },
     "🤖・ai-jobs": {
       "channel_id": "1462988662168879217",
-      "count": 6,
+      "count": 3,
       "jobs": [
-        "jobs-lever-co-rws-8156d182-8db3-461d-8469-cc09beee6eb5-apply",
-        "jobs-lever-co-rws-69ed1782-bbe5-4f7a-8a8c-b26e0ae89d78-apply",
-        "jobs-lever-co-rws-581ffd9f-1006-48c6-9c8e-085fce2aab62-apply",
-        "jobs-lever-co-rws-60cd073a-5a37-4c1f-a72d-285f156a510e-apply",
-        "ameriprise-wd5-myworkdayjobs-com-en-us-ameriprise-job-minneapolis-minnesota-associate-data-scientist_r26_0282-1",
-        "job-boards-greenhouse-io-anthropic-jobs-5067118008"
+        "job-boards-greenhouse-io-airtable-jobs-8169952002",
+        "capitalone-wd12-myworkdayjobs-com-capital_one-job-new-york-ny-applied-researcher-i-multi-agent-systems-knowledge-graphs-graphrag-graph-of-thought-got-mcp-langgraph-agent-protocols-_r234367",
+        "reliaquest-wd5-myworkdayjobs-com-en-us-reliaquest_careers-job-tampa-fl-associate-data-scientist_r14929"
       ],
       "recent_jobs": [
         {
-          "id": "jobs-lever-co-rws-8156d182-8db3-461d-8469-cc09beee6eb5-apply",
-          "title": "AI Data Specialist - Kansas - US",
-          "company": "RWS",
-          "posted_at": "2026-01-29T22:50:20.781Z"
+          "id": "job-boards-greenhouse-io-airtable-jobs-8169952002",
+          "title": "Data Scientist, GTM Analytics",
+          "company": "airtable",
+          "posted_at": "2026-01-29T23:33:43.914Z"
         },
         {
-          "id": "jobs-lever-co-rws-69ed1782-bbe5-4f7a-8a8c-b26e0ae89d78-apply",
-          "title": "AI Data Specialist-Oklahoma - US",
-          "company": "RWS",
-          "posted_at": "2026-01-29T22:50:22.577Z"
+          "id": "capitalone-wd12-myworkdayjobs-com-capital_one-job-new-york-ny-applied-researcher-i-multi-agent-systems-knowledge-graphs-graphrag-graph-of-thought-got-mcp-langgraph-agent-protocols-_r234367",
+          "title": "Applied Researcher 1 - Multi-agent Systems - Knowledge Graphs/Graphrag/Graph-of-Thought / Got",
+          "company": "Capital One",
+          "posted_at": "2026-01-29T23:33:47.083Z"
         },
         {
-          "id": "jobs-lever-co-rws-581ffd9f-1006-48c6-9c8e-085fce2aab62-apply",
-          "title": "AI Data Specialist - Louisana - US",
-          "company": "RWS",
-          "posted_at": "2026-01-29T22:50:24.335Z"
-        },
-        {
-          "id": "jobs-lever-co-rws-60cd073a-5a37-4c1f-a72d-285f156a510e-apply",
-          "title": "AI Data Specialist - Iowa - US",
-          "company": "RWS",
-          "posted_at": "2026-01-29T22:50:26.069Z"
-        },
-        {
-          "id": "ameriprise-wd5-myworkdayjobs-com-en-us-ameriprise-job-minneapolis-minnesota-associate-data-scientist_r26_0282-1",
+          "id": "reliaquest-wd5-myworkdayjobs-com-en-us-reliaquest_careers-job-tampa-fl-associate-data-scientist_r14929",
           "title": "Associate Data Scientist",
-          "company": "Ameriprise Financial",
-          "posted_at": "2026-01-29T22:50:28.010Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5067118008",
-          "title": "Head of International Marketing",
-          "company": "anthropic",
-          "posted_at": "2026-01-29T22:50:29.722Z"
+          "company": "ReliaQuest",
+          "posted_at": "2026-01-29T23:33:48.725Z"
         }
       ]
     },
@@ -82,77 +68,90 @@
       "channel_id": "1462988605306834987",
       "count": 3,
       "jobs": [
-        "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-dhs-or-cbp-public-trust-or-top-secret-preferred_rq213447-1",
-        "brownhealth-wd12-myworkdayjobs-com-external_careers-job-brown-university-health-applications-analyst_jr-80453",
-        "job-boards-greenhouse-io-discord-jobs-8324792002"
+        "job-boards-greenhouse-io-anthropic-jobs-4996335008",
+        "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-java-_jr104035-1",
+        "barr-wd1-myworkdayjobs-com-barrcareers-job-edina-mn-environmental-technician-engineer-entry-level-air-quality-focus-hybrid-_r-101988"
       ],
       "recent_jobs": [
         {
-          "id": "gdit-wd5-myworkdayjobs-com-external_career_site-job-usa-va-ashburn-java-developer-dhs-or-cbp-public-trust-or-top-secret-preferred_rq213447-1",
-          "title": "Java Developer",
-          "company": "General Dynamics Information Technology",
-          "posted_at": "2026-01-29T22:50:34.642Z"
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4996335008",
+          "title": "Strategic Account Executive, Digital Native Business",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T23:33:53.630Z"
         },
         {
-          "id": "brownhealth-wd12-myworkdayjobs-com-external_careers-job-brown-university-health-applications-analyst_jr-80453",
-          "title": "Applications Analyst",
-          "company": "Brown University Health",
-          "posted_at": "2026-01-29T22:50:36.440Z"
+          "id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-java-_jr104035-1",
+          "title": "Software Engineer 1 - Java",
+          "company": "Apex Fintech Solutions",
+          "posted_at": "2026-01-29T23:33:55.440Z"
         },
         {
-          "id": "job-boards-greenhouse-io-discord-jobs-8324792002",
-          "title": "Technical Sourcer (Temporary)",
-          "company": "discord",
-          "posted_at": "2026-01-29T22:50:38.177Z"
+          "id": "barr-wd1-myworkdayjobs-com-barrcareers-job-edina-mn-environmental-technician-engineer-entry-level-air-quality-focus-hybrid-_r-101988",
+          "title": "Environmental Technician/Engineer – Entry Level - Air Quality Focus",
+          "company": "Barr",
+          "posted_at": "2026-01-29T23:34:00.892Z"
+        }
+      ]
+    },
+    "🗽・new-york-jobs": {
+      "channel_id": "1462988831530680422",
+      "count": 1,
+      "jobs": [
+        "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-java-_jr104035-1"
+      ],
+      "recent_jobs": [
+        {
+          "id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-java-_jr104035-1",
+          "title": "Software Engineer 1 - Java",
+          "company": "Apex Fintech Solutions",
+          "posted_at": "2026-01-29T23:33:57.133Z"
+        }
+      ]
+    },
+    "📊・data-science-jobs": {
+      "channel_id": "1462988721828794531",
+      "count": 2,
+      "jobs": [
+        "job-boards-greenhouse-io-airtable-jobs-7845291002",
+        "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-ecommerce-data-analyst_r260722-1"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-airtable-jobs-7845291002",
+          "title": "Software Engineer, Product Backend (2-8 YOE)",
+          "company": "airtable",
+          "posted_at": "2026-01-29T23:34:05.589Z"
+        },
+        {
+          "id": "uline-wd1-myworkdayjobs-com-en-us-uline_careers-job-pleasant-prairie-wi-associate-ecommerce-data-analyst_r260722-1",
+          "title": "Associate Ecommerce Data Analyst",
+          "company": "Uline",
+          "posted_at": "2026-01-29T23:34:07.276Z"
         }
       ]
     }
   },
-  "multi_channel_routing": [],
+  "multi_channel_routing": [
+    {
+      "job_id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineer-i-java-_jr104035-1",
+      "company": "Apex Fintech Solutions",
+      "title": "Software Engineer 1 - Java",
+      "channels": [
+        "💻・tech-jobs",
+        "🗽・new-york-jobs"
+      ],
+      "posted_at": "2026-01-29T23:33:55.440Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "jobs-lever-co-spotify-0a0d280d-81b0-4758-bb43-fce3bee48937",
-        "title": "Manager, Commercial Promotion Partnerships",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:50:14.958Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-80246bd3-bb5f-48aa-9997-bcf5640f3809",
-        "title": "Associate Director, Monetization Strategy",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:50:14.958Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096878008",
-        "title": "Research Product Manager, Labs",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4562813008",
+        "title": "Application Security Engineering Manager",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:50:14.958Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8307850002",
-        "title": "Mid-Market Customer Success Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:50:14.958Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8307843002",
-        "title": "Mid-Market Customer Success Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:50:14.958Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8307799002",
-        "title": "Mid-Market Customer Success Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-29T22:50:14.958Z"
+        "timestamp": "2026-01-29T23:33:36.528Z"
       }
     ],
     "already_posted": [],
