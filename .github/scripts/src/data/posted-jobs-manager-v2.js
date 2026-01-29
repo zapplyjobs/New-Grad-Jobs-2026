@@ -123,13 +123,29 @@ class PostedJobsManagerV2 {
   /**
    * Check if job has been posted before (with reopening detection)
    *
-   * @param {string} jobId - Unique job identifier (hash of company+title+URL)
+   * EMERGENCY FIX 2026-01-29: Hybrid ID check to handle ID mismatch bug
+   * - Checks both URL-based IDs (from job fetcher) and SHA256 IDs (from database)
+   * - Prevents jobs from being stuck in pending queue indefinitely
+   * - See: BUG_REPORT_ID_MISMATCH.md for full details
+   *
+   * @param {string} jobId - Unique job identifier (URL-based from utils.js)
    * @param {object} jobData - Full job data from API (includes sourceDate)
    * @returns {boolean} - true if already posted (skip), false if new/reopening (post it)
    */
   hasBeenPosted(jobId, jobData = null) {
-    // Find all instances of this job
-    const instances = this.data.jobs.filter(job => job.jobId === jobId);
+    // Find all instances of this job (using URL-based ID)
+    let instances = this.data.jobs.filter(job => job.jobId === jobId);
+
+    // EMERGENCY FIX: Also check with SHA256 ID (database format)
+    // This handles the ID mismatch bug where job fetcher uses URL-based IDs
+    // but database uses SHA256 hash IDs
+    if (instances.length === 0 && jobData) {
+      const sha256Id = this.generateJobId(jobData);
+      instances = this.data.jobs.filter(job => job.jobId === sha256Id);
+      if (instances.length > 0) {
+        console.log(`🔧 ID mismatch detected: URL-based "${jobId.substring(0, 40)}..." not found, but found as SHA256 "${sha256Id}"`);
+      }
+    }
 
     if (instances.length === 0) {
       // Never posted before
@@ -315,18 +331,32 @@ class PostedJobsManagerV2 {
   /**
    * Check if job has been posted to a specific channel (NEW for multi-channel tracking)
    *
-   * @param {object} jobData - Full job data from API
+   * EMERGENCY FIX 2026-01-29: Hybrid ID check to handle ID mismatch bug
+   * - Checks both URL-based IDs (from job.id field) and SHA256 IDs (from database)
+   * - Prevents jobs from being incorrectly marked as "already posted to channel"
+   * - See: BUG_REPORT_ID_MISMATCH.md for full details
+   *
+   * @param {object} jobData - Full job data from API (may include job.id with URL-based ID)
    * @param {string} channelId - Discord channel ID to check
    * @returns {boolean} - true if already posted to this channel
    */
   hasBeenPostedToChannel(jobData, channelId) {
-    const jobId = this.generateJobId(jobData);
+    const sha256Id = this.generateJobId(jobData);
+    const cutoffDate = new Date(Date.now() - this.activeWindowDays * 24 * 60 * 60 * 1000);
 
-    // Find active job record
-    const jobRecord = this.data.jobs.find(job =>
-      job.jobId === jobId &&
-      new Date(job.postedToDiscord) > new Date(Date.now() - this.activeWindowDays * 24 * 60 * 60 * 1000)
+    // First try: Find by SHA256 ID (database format)
+    let jobRecord = this.data.jobs.find(job =>
+      job.jobId === sha256Id &&
+      new Date(job.postedToDiscord) > cutoffDate
     );
+
+    // Second try: Find by URL-based ID (job fetcher format)
+    if (!jobRecord && jobData.id) {
+      jobRecord = this.data.jobs.find(job =>
+        job.jobId === jobData.id &&
+        new Date(job.postedToDiscord) > cutoffDate
+      );
+    }
 
     if (!jobRecord) {
       return false;
