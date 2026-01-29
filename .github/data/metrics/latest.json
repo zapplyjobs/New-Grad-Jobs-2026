@@ -1,109 +1,109 @@
 {
-  "generated": "2026-01-29T20:04:24.578Z",
+  "generated": "2026-01-29T20:16:52.446Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T20:04:24.578Z",
-  "period_end": "2026-01-29T20:04:24.578Z",
+  "period_start": "2026-01-22T20:16:52.446Z",
+  "period_end": "2026-01-29T20:16:52.446Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 1,
+    "filtered_jobs": 5,
     "channels_active": 3
   },
   "by_channel": {
     "💻・tech-jobs": {
       "channel_id": "1462988605306834987",
-      "count": 8,
+      "count": 6,
       "jobs": [
-        "www-brex-com-careers-8075296002",
-        "job-boards-greenhouse-io-vercel-jobs-5042174004",
-        "job-boards-greenhouse-io-vercel-jobs-5065840004",
-        "job-boards-greenhouse-io-vercel-jobs-5199830004",
-        "job-boards-greenhouse-io-vercel-jobs-5686511004",
-        "job-boards-greenhouse-io-vercel-jobs-5613601004",
-        "job-boards-greenhouse-io-vercel-jobs-5624231004",
-        "job-boards-greenhouse-io-vercel-jobs-5633124004"
+        "job-boards-greenhouse-io-vercel-jobs-5649459004",
+        "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-tx-mckinney-513wd-2501-w-university-dr-wing-d-bldg-xmlname-2026-full-time-software-engineer-i-onsite-tx-_01819777",
+        "job-boards-greenhouse-io-anthropic-jobs-5097159008",
+        "job-boards-greenhouse-io-anthropic-jobs-4595463008",
+        "boards-greenhouse-io-figma-jobs-5575026004",
+        "job-boards-greenhouse-io-amplitude-jobs-8225014002"
       ],
       "recent_jobs": [
         {
-          "id": "www-brex-com-careers-8075296002",
-          "title": "Sales Recruiter (12-month contract)",
-          "company": "brex",
-          "posted_at": "2026-01-29T20:03:52.022Z"
+          "id": "job-boards-greenhouse-io-vercel-jobs-5649459004",
+          "title": "Software Engineer - Trust & Safety",
+          "company": "vercel",
+          "posted_at": "2026-01-29T20:16:22.846Z"
         },
         {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5042174004",
-          "title": "Enterprise Account Executive",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:03:53.905Z"
+          "id": "globalhr-wd5-myworkdayjobs-com-rec_rtx_ext_gateway-job-us-tx-mckinney-513wd-2501-w-university-dr-wing-d-bldg-xmlname-2026-full-time-software-engineer-i-onsite-tx-_01819777",
+          "title": "2026 Full-time - Software Engineer I",
+          "company": "RTX",
+          "posted_at": "2026-01-29T20:16:24.526Z"
         },
         {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5065840004",
-          "title": "Vercel Development Representative, Commercial",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:03:55.629Z"
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5097159008",
+          "title": "Business Systems Analyst - Security Workforce",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T20:16:26.242Z"
         },
         {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5199830004",
-          "title": "Head of Product Marketing ",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:03:57.306Z"
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4595463008",
+          "title": "Security Software Engineer, D&R Platform",
+          "company": "anthropic",
+          "posted_at": "2026-01-29T20:16:27.920Z"
         },
         {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5686511004",
-          "title": "Recruiting Coordinator (Contract)",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:03:59.039Z"
+          "id": "boards-greenhouse-io-figma-jobs-5575026004",
+          "title": "Executive Assistant, Product Support ",
+          "company": "figma",
+          "posted_at": "2026-01-29T20:16:29.611Z"
         },
         {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5613601004",
-          "title": "Software Engineer, Growth",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:04:02.196Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5624231004",
-          "title": "Startup Account Executive",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:04:03.872Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5633124004",
-          "title": "Technical Support Engineer, Vercel Marketplaces ",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:04:06.889Z"
-        }
-      ]
-    },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
-      "count": 1,
-      "jobs": [
-        "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-data-engineer_r0821166"
-      ],
-      "recent_jobs": [
-        {
-          "id": "cvshealth-wd1-myworkdayjobs-com-cvs_health_careers-job-tx-irving-associate-data-engineer_r0821166",
-          "title": "Associate Data Engineer",
-          "company": "CVS Health",
-          "posted_at": "2026-01-29T20:04:11.685Z"
+          "id": "job-boards-greenhouse-io-amplitude-jobs-8225014002",
+          "title": "Software Engineer 1 - Data Pipeline",
+          "company": "Amplitude",
+          "posted_at": "2026-01-29T20:16:31.328Z"
         }
       ]
     },
     "🤖・ai-jobs": {
       "channel_id": "1462988662168879217",
-      "count": 1,
+      "count": 3,
       "jobs": [
-        "job-boards-greenhouse-io-vercel-jobs-5579431004"
+        "osu-wd1-myworkdayjobs-com-osucareers-job-wooster-campus-research-associate_r144192-1",
+        "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-aviation-operations-and-machine-learning-ai-in-the-school-of-graduate-studies-daytona-beach-campus_r309969",
+        "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-big-data-analytics-and-aviation-safety-in-the-school-of-graduate-studies_r309967"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-vercel-jobs-5579431004",
-          "title": "Fraud Specialist",
-          "company": "vercel",
-          "posted_at": "2026-01-29T20:04:16.452Z"
+          "id": "osu-wd1-myworkdayjobs-com-osucareers-job-wooster-campus-research-associate_r144192-1",
+          "title": "Research Associate",
+          "company": "Ohio State University",
+          "posted_at": "2026-01-29T20:16:36.061Z"
+        },
+        {
+          "id": "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-aviation-operations-and-machine-learning-ai-in-the-school-of-graduate-studies-daytona-beach-campus_r309969",
+          "title": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the. - Daytona Beach Campus",
+          "company": "Embry-Riddle Aeronautical University",
+          "posted_at": "2026-01-29T20:16:37.846Z"
+        },
+        {
+          "id": "embryriddle-wd1-myworkdayjobs-com-external-job-daytona-beach-fl-tenure-track-faculty-position-with-a-focus-on-big-data-analytics-and-aviation-safety-in-the-school-of-graduate-studies_r309967",
+          "title": "Assistant Professor",
+          "company": "Embry-Riddle Aeronautical University",
+          "posted_at": "2026-01-29T20:16:39.608Z"
+        }
+      ]
+    },
+    "💰・finance-jobs": {
+      "channel_id": "1462988755156734023",
+      "count": 1,
+      "jobs": [
+        "job-boards-greenhouse-io-verkada-jobs-5035425007"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-verkada-jobs-5035425007",
+          "title": "Enterprise Account Executive (NOVA - SLED)",
+          "company": "verkada",
+          "posted_at": "2026-01-29T20:16:44.345Z"
         }
       ]
     }
@@ -113,11 +113,39 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7441084",
-        "title": "Staff Software Engineer - Payroll Platform",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8393510002",
+        "title": "Senior Brand Designer",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-29T20:03:51.464Z"
+        "timestamp": "2026-01-29T20:16:22.335Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5676402004",
+        "title": "Director, Technical Accounting & Financial Reporting",
+        "company": "vercel",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:16:22.335Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-7595422002",
+        "title": "Staff Brand Designer, Magic",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:16:22.336Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096924008",
+        "title": "Regional State and Local Affairs Lead, Midwestern States",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:16:22.336Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5067098008",
+        "title": "Research Engineer, Frontier Red Team (Hardware Lead)",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-29T20:16:22.336Z"
       }
     ],
     "already_posted": [],
