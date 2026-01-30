@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T16:34:08.368Z",
+  "generated": "2026-01-30T16:55:03.209Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T16:34:08.368Z",
-  "period_end": "2026-01-30T16:34:08.368Z",
+  "period_start": "2026-01-23T16:55:03.209Z",
+  "period_end": "2026-01-30T16:55:03.209Z",
   "summary": {
-    "total_jobs_posted": 638,
-    "unique_jobs": 547,
-    "multi_channel_postings": 182,
-    "unique_multi_channel_jobs": 91,
+    "total_jobs_posted": 649,
+    "unique_jobs": 557,
+    "multi_channel_postings": 184,
+    "unique_multi_channel_jobs": 92,
     "failed_postings": 0,
-    "filtered_jobs": 28,
+    "filtered_jobs": 25,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 429,
+      "count": 435,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -445,45 +445,15 @@
         "791ddd74ae79f335",
         "9c6d4b5e5d3180d1",
         "c1905f2e104ed8fe",
-        "ed8c64ba89ab6b70"
+        "ed8c64ba89ab6b70",
+        "e47a17bcc93d96f7",
+        "1ced13a4df587678",
+        "77f7ec862a27eece",
+        "8347de206bea233c",
+        "b2d1955105ea9f1d",
+        "310c63c636f32536"
       ],
       "recent_jobs": [
-        {
-          "id": "69db6d2b0374e1eb",
-          "title": "Technical Escalations Engineer 3 (Internal Developer Portal) - US-East",
-          "company": "datadog",
-          "posted_at": "2026-01-30T16:18:16.096Z"
-        },
-        {
-          "id": "693bf1cde49fcad9",
-          "title": "Technical Support Engineer 2, Premier - Denver",
-          "company": "datadog",
-          "posted_at": "2026-01-30T16:18:19.637Z"
-        },
-        {
-          "id": "b9302d58b8d0dbc2",
-          "title": "Entry Level Developer - Contract",
-          "company": "Equiti",
-          "posted_at": "2026-01-30T16:18:21.494Z"
-        },
-        {
-          "id": "7b1ef4eafa034420",
-          "title": "Research Professional",
-          "company": "University of Chicago",
-          "posted_at": "2026-01-30T16:18:25.042Z"
-        },
-        {
-          "id": "a544560a9dd5e9fb",
-          "title": "Master's University Grad Machine Learning Engineer 2026 - USA",
-          "company": "Pinterest",
-          "posted_at": "2026-01-30T16:18:29.937Z"
-        },
-        {
-          "id": "b733181d6d03de14",
-          "title": "Data Engineer 1 - Databricks - Aws",
-          "company": "The Travelers Companies",
-          "posted_at": "2026-01-30T16:18:31.694Z"
-        },
         {
           "id": "791ddd74ae79f335",
           "title": "Software Engineer - AI & Full Stack Development",
@@ -507,12 +477,48 @@
           "title": "Software Engineer - AI & Full Stack Development",
           "company": "KLA",
           "posted_at": "2026-01-30T16:33:44.689Z"
+        },
+        {
+          "id": "e47a17bcc93d96f7",
+          "title": "Enterprise Solutions Engineer, Greater Atlanta Area",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:44.858Z"
+        },
+        {
+          "id": "1ced13a4df587678",
+          "title": "Enterprise Solutions Engineer, Northeast",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:46.645Z"
+        },
+        {
+          "id": "77f7ec862a27eece",
+          "title": "Enterprise Solutions Engineer, Rocky Mountains",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:50.051Z"
+        },
+        {
+          "id": "8347de206bea233c",
+          "title": "Enterprise Solutions Engineer, Southeast",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:51.793Z"
+        },
+        {
+          "id": "b2d1955105ea9f1d",
+          "title": "Enterprise Solutions Engineer, Southern California",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:53.516Z"
+        },
+        {
+          "id": "310c63c636f32536",
+          "title": "Enterprise Solutions Engineer, West Coast",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:55.246Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 61,
+      "count": 62,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -574,15 +580,10 @@
         "9e2c0ba7d9af32d7",
         "25c80bc0c4655f79",
         "28094dea45227c69",
-        "69db6d2b0374e1eb"
+        "69db6d2b0374e1eb",
+        "1ced13a4df587678"
       ],
       "recent_jobs": [
-        {
-          "id": "4cdf6ee5a3f00ba7",
-          "title": "People Analyst II",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:33:41.161Z"
-        },
         {
           "id": "aa421259a2f91452",
           "title": "Mid Market Account Executive",
@@ -636,12 +637,18 @@
           "title": "Technical Escalations Engineer 3 (Internal Developer Portal) - US-East",
           "company": "datadog",
           "posted_at": "2026-01-30T16:18:16.096Z"
+        },
+        {
+          "id": "1ced13a4df587678",
+          "title": "Enterprise Solutions Engineer, Northeast",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:46.645Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 118,
+      "count": 122,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -760,33 +767,13 @@
         "aa922a8b8071ea92",
         "a9a3c1247563d8b4",
         "9edbb467e9393434",
-        "d193a08215df2c0d"
+        "d193a08215df2c0d",
+        "c17d919beddde79b",
+        "4a95e5d061ef216e",
+        "2118766a0e356edb",
+        "b18dfcd28b33fa0b"
       ],
       "recent_jobs": [
-        {
-          "id": "50929f84f9515735",
-          "title": "Field CTO - Media & Entertainment",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:18:25.738Z"
-        },
-        {
-          "id": "0f0610bfbc86412f",
-          "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:18:28.514Z"
-        },
-        {
-          "id": "9e2c0ba7d9af32d7",
-          "title": "Services Architect 3 - New York",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:54:09.720Z"
-        },
-        {
-          "id": "d3b2fe4a453d574d",
-          "title": "Entry Level Bridge Inspector",
-          "company": "Gannett Fleming",
-          "posted_at": "2026-01-30T16:33:49.406Z"
-        },
         {
           "id": "3aae5f780ebf437d",
           "title": "Enterprise Account Executive (West - State)",
@@ -822,6 +809,30 @@
           "title": "Channel Development Representative, West (Salt Lake City)",
           "company": "verkada",
           "posted_at": "2026-01-30T16:34:00.341Z"
+        },
+        {
+          "id": "c17d919beddde79b",
+          "title": "Enterprise Account Executive (Chicago - SLED)",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:34.646Z"
+        },
+        {
+          "id": "4a95e5d061ef216e",
+          "title": "Enterprise Account Executive (Colorado - SLED)",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:36.447Z"
+        },
+        {
+          "id": "2118766a0e356edb",
+          "title": "Enterprise Account Executive (Kansas - SLED)",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:38.139Z"
+        },
+        {
+          "id": "b18dfcd28b33fa0b",
+          "title": "Enterprise Account Executive (SoCal - Corporate)",
+          "company": "verkada",
+          "posted_at": "2026-01-30T16:54:39.981Z"
         }
       ]
     },
@@ -1430,102 +1441,81 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4950449007",
-        "title": "National Channel Sales Manager, Convergint (East)",
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4185105007",
+        "title": "Solutions Engineering Manager, Select & Territory",
         "company": "verkada",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4945720007",
-        "title": "National Channel Sales Manager, Convergint (East)",
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-5023333007",
+        "title": "Sr Channel Sales Manager, Midwest",
         "company": "verkada",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4824487007",
-        "title": "National Channel Sales Manager, Midwest",
-        "company": "verkada",
+        "job_id": "boards-greenhouse-io-figma-jobs-5707695004",
+        "title": "Technical Program Manager, AI Research",
+        "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4387668007",
-        "title": "Regional Sales Manager, Mid-Market",
-        "company": "verkada",
+        "job_id": "www-coinbase-com-careers-positions-7409945",
+        "title": "Manager, On-Site Executive IT Support (Residential Operations)",
+        "company": "coinbase",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-5025464007",
-        "title": "Regional Sales Manager, Mid-Market, Austin",
-        "company": "verkada",
+        "job_id": "www-brex-com-careers-8381523002",
+        "title": "Senior Software Engineer, Full-Stack",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4648144007",
-        "title": "Senior Channel Marketing Manager, Northeast (Remote)",
-        "company": "verkada",
+        "job_id": "imh-wd108-myworkdayjobs-com-intermountaincareers-job-selecthealth-murray-data-architect-senior_r160772",
+        "title": "Data Architect Senior",
+        "company": "Intermountain Healthcare",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-5018825007",
-        "title": "Senior Field Marketing Manager (Enterprise SLED East)",
-        "company": "verkada",
+        "job_id": "www-brex-com-careers-8380681002",
+        "title": "Senior Marketing Operations Manager, Product-Led Growth",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4583696007",
-        "title": "Senior Field Marketing Manager (Federal / State)",
-        "company": "verkada",
+        "job_id": "www-brex-com-careers-8372636002",
+        "title": "Senior Marketing Operations Manager, Product-Led Growth",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4949028007",
-        "title": "Senior Project Engineer, Global Services",
-        "company": "verkada",
+        "job_id": "www-brex-com-careers-8372597002",
+        "title": "Senior Marketing Operations Manager, B2B Sales",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4949035007",
-        "title": "Senior Project Engineer, Global Services",
-        "company": "verkada",
+        "job_id": "www-brex-com-careers-8380680002",
+        "title": "Senior Marketing Operations Manager, B2B Sales",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4945152007",
-        "title": "Senior Project Engineer, Global Services",
-        "company": "verkada",
+        "job_id": "jobs-lever-co-spotify-7aa8f2c1-eaa7-445a-a2ed-9e1be3ae2dd4",
+        "title": "Senior Fullstack Engineer - Backstage Portal, Data Experience",
+        "company": "spotify",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4949024007",
-        "title": "Senior Project Engineer, Global Services",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4985491007",
-        "title": "Senior Project Engineer, Global Services",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4949027007",
-        "title": "Senior Project Engineer, Global Services",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T16:33:37.300Z"
+        "timestamp": "2026-01-30T16:54:34.185Z"
       }
     ],
     "already_posted": [],
@@ -1536,98 +1526,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.290Z"
+        "timestamp": "2026-01-30T16:54:34.175Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.291Z"
+        "timestamp": "2026-01-30T16:54:34.175Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.291Z"
+        "timestamp": "2026-01-30T16:54:34.176Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.291Z"
+        "timestamp": "2026-01-30T16:54:34.176Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.291Z"
+        "timestamp": "2026-01-30T16:54:34.176Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.292Z"
+        "timestamp": "2026-01-30T16:54:34.176Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.292Z"
+        "timestamp": "2026-01-30T16:54:34.176Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.292Z"
+        "timestamp": "2026-01-30T16:54:34.177Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.292Z"
+        "timestamp": "2026-01-30T16:54:34.177Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.293Z"
+        "timestamp": "2026-01-30T16:54:34.177Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.293Z"
+        "timestamp": "2026-01-30T16:54:34.177Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.293Z"
+        "timestamp": "2026-01-30T16:54:34.178Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.293Z"
+        "timestamp": "2026-01-30T16:54:34.178Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:33:37.293Z"
+        "timestamp": "2026-01-30T16:54:34.178Z"
       }
     ]
   }
