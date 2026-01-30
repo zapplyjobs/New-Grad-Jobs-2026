@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T23:03:09.074Z",
+  "generated": "2026-01-30T23:15:46.951Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T23:03:09.074Z",
-  "period_end": "2026-01-30T23:03:09.074Z",
+  "period_start": "2026-01-23T23:15:46.951Z",
+  "period_end": "2026-01-30T23:15:46.951Z",
   "summary": {
-    "total_jobs_posted": 892,
-    "unique_jobs": 758,
-    "multi_channel_postings": 268,
-    "unique_multi_channel_jobs": 134,
+    "total_jobs_posted": 903,
+    "unique_jobs": 768,
+    "multi_channel_postings": 270,
+    "unique_multi_channel_jobs": 135,
     "failed_postings": 0,
-    "filtered_jobs": 15,
+    "filtered_jobs": 17,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 584,
+      "count": 591,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -600,51 +600,16 @@
         "0855451e81865715",
         "1e51b6d30bc3b079",
         "2763b96c7a8f6b0c",
-        "002d16df4ae644eb"
+        "002d16df4ae644eb",
+        "bf37f48ae7697a6d",
+        "3616c12b89f1e77f",
+        "d580349f4f0c4f63",
+        "3adc428b09046513",
+        "abc504f1287871fe",
+        "45853d5f41716df2",
+        "d63a7f3907d49925"
       ],
       "recent_jobs": [
-        {
-          "id": "613bd15288a08663",
-          "title": "Software Engineer (Web Performance), v0",
-          "company": "vercel",
-          "posted_at": "2026-01-30T22:50:37.862Z"
-        },
-        {
-          "id": "3e78b0c9db5b8a43",
-          "title": "Vercel Development Representative, Majors",
-          "company": "vercel",
-          "posted_at": "2026-01-30T22:50:39.613Z"
-        },
-        {
-          "id": "ec9a963d8cf101a9",
-          "title": "Vercel Development Representative, Majors, v0",
-          "company": "vercel",
-          "posted_at": "2026-01-30T22:50:42.808Z"
-        },
-        {
-          "id": "b64d5af30cb073ba",
-          "title": "Software Engineer, Web Platform",
-          "company": "figma",
-          "posted_at": "2026-01-30T22:50:47.618Z"
-        },
-        {
-          "id": "6e27ef9d91808270",
-          "title": "Data Engineer",
-          "company": "Cribl",
-          "posted_at": "2026-01-30T23:02:37.502Z"
-        },
-        {
-          "id": "e87d8a25b79d9194",
-          "title": "Associate Software Developer",
-          "company": "General Atomics",
-          "posted_at": "2026-01-30T23:02:44.327Z"
-        },
-        {
-          "id": "0855451e81865715",
-          "title": "Hydrologist 1",
-          "company": "Las Vegas Valley Water District",
-          "posted_at": "2026-01-30T23:02:46.160Z"
-        },
         {
           "id": "1e51b6d30bc3b079",
           "title": "Account Executive, Enterprise - Figma Weave (New York, United States)",
@@ -662,12 +627,54 @@
           "title": "Personal Property Pricing Specialist",
           "company": "Verisk",
           "posted_at": "2026-01-30T23:02:53.551Z"
+        },
+        {
+          "id": "bf37f48ae7697a6d",
+          "title": "Machine Learning Analyst",
+          "company": "Bracebridge Capital",
+          "posted_at": "2026-01-30T23:15:17.904Z"
+        },
+        {
+          "id": "3616c12b89f1e77f",
+          "title": "Associate – Platforms & Technology",
+          "company": "Canvas Worldwide",
+          "posted_at": "2026-01-30T23:15:19.648Z"
+        },
+        {
+          "id": "d580349f4f0c4f63",
+          "title": "Research Scientist Graduate - Foundation Model - Generative AI",
+          "company": "ByteDance",
+          "posted_at": "2026-01-30T23:15:21.389Z"
+        },
+        {
+          "id": "3adc428b09046513",
+          "title": "Candidate Experience Coordinator (12-month Contract)",
+          "company": "brex",
+          "posted_at": "2026-01-30T23:15:26.334Z"
+        },
+        {
+          "id": "abc504f1287871fe",
+          "title": "Software Engineer – New Grad - 2026 Start",
+          "company": "Zip",
+          "posted_at": "2026-01-30T23:15:28.122Z"
+        },
+        {
+          "id": "45853d5f41716df2",
+          "title": "Software Engineer - Full Stack",
+          "company": "American Express",
+          "posted_at": "2026-01-30T23:15:29.930Z"
+        },
+        {
+          "id": "d63a7f3907d49925",
+          "title": "Applications Analyst Associate",
+          "company": "VCU Health",
+          "posted_at": "2026-01-30T23:15:31.688Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 94,
+      "count": 95,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -762,15 +769,10 @@
         "26f03a24c8ea36cb",
         "788968c350953047",
         "1fb4eb94302a8603",
-        "1e51b6d30bc3b079"
+        "1e51b6d30bc3b079",
+        "32865b0c6ae53053"
       ],
       "recent_jobs": [
-        {
-          "id": "b342328c8415bff5",
-          "title": "Software Engineer 1 – New Grad - Fullstack - Risk Engineering",
-          "company": "Flex",
-          "posted_at": "2026-01-30T21:47:35.811Z"
-        },
         {
           "id": "6cd751f2915643a2",
           "title": "Business Controller Intern",
@@ -824,12 +826,18 @@
           "title": "Account Executive, Enterprise - Figma Weave (New York, United States)",
           "company": "figma",
           "posted_at": "2026-01-30T23:02:48.043Z"
+        },
+        {
+          "id": "32865b0c6ae53053",
+          "title": "Technology Analyst Program",
+          "company": "Fiserv",
+          "posted_at": "2026-01-30T23:15:36.512Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 174,
+      "count": 177,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -1004,27 +1012,12 @@
         "18fd166114c9e0e5",
         "30b4002c9184ab7c",
         "0c1d0828750a04c2",
-        "a2e179b60d71c514"
+        "a2e179b60d71c514",
+        "2f54df63b7b9f17f",
+        "b510b7ffa0192f5a",
+        "32865b0c6ae53053"
       ],
       "recent_jobs": [
-        {
-          "id": "cc6a74aa82207315",
-          "title": "Select Major Account Executive EST/CST - Orlando, FL",
-          "company": "samsara",
-          "posted_at": "2026-01-30T22:12:16.517Z"
-        },
-        {
-          "id": "b25802d146b76802",
-          "title": "Consultant - Digital Transformation and Reporting",
-          "company": "The Hartford ",
-          "posted_at": "2026-01-30T22:12:18.513Z"
-        },
-        {
-          "id": "c4a21957e2ad97a6",
-          "title": "Select Major Account Executive EST/CST - Raleigh, NC",
-          "company": "samsara",
-          "posted_at": "2026-01-30T22:31:35.053Z"
-        },
         {
           "id": "2f736c219772ab28",
           "title": "Select Major Account Executive EST/CST - San Antonio, TX",
@@ -1066,6 +1059,24 @@
           "title": "Data Analyst - Lending",
           "company": "Chime",
           "posted_at": "2026-01-30T23:03:00.299Z"
+        },
+        {
+          "id": "2f54df63b7b9f17f",
+          "title": "Select Major Account Executive EST/CST - Tampa, FL",
+          "company": "samsara",
+          "posted_at": "2026-01-30T23:15:11.292Z"
+        },
+        {
+          "id": "b510b7ffa0192f5a",
+          "title": "Future Opportunities: Early Career Sales Talent",
+          "company": "gusto",
+          "posted_at": "2026-01-30T23:15:13.048Z"
+        },
+        {
+          "id": "32865b0c6ae53053",
+          "title": "Technology Analyst Program",
+          "company": "Fiserv",
+          "posted_at": "2026-01-30T23:15:36.512Z"
         }
       ]
     },
@@ -1684,11 +1695,25 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7524662",
-        "title": "Staff Data Scientist - Product",
+        "job_id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate-mathematics_r138207",
+        "title": "Postdoctoral Research Associate - Mathematics",
+        "company": "Northeastern University",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T23:15:10.681Z"
+      },
+      {
+        "job_id": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891",
+        "title": "Postdoctoral Scholar - Interdisciplinary Data Science",
+        "company": "University of Nevada Las Vegas (UNLV)",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T23:15:10.681Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7460250",
+        "title": "People Technology Delivery Manager",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T23:02:30.047Z"
+        "timestamp": "2026-01-30T23:15:10.681Z"
       }
     ],
     "already_posted": [],
@@ -1699,98 +1724,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.037Z"
+        "timestamp": "2026-01-30T23:15:10.672Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.038Z"
+        "timestamp": "2026-01-30T23:15:10.672Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.038Z"
+        "timestamp": "2026-01-30T23:15:10.673Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.038Z"
+        "timestamp": "2026-01-30T23:15:10.673Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.039Z"
+        "timestamp": "2026-01-30T23:15:10.673Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.039Z"
+        "timestamp": "2026-01-30T23:15:10.674Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.039Z"
+        "timestamp": "2026-01-30T23:15:10.674Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.040Z"
+        "timestamp": "2026-01-30T23:15:10.674Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.040Z"
+        "timestamp": "2026-01-30T23:15:10.674Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.040Z"
+        "timestamp": "2026-01-30T23:15:10.675Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.040Z"
+        "timestamp": "2026-01-30T23:15:10.675Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.041Z"
+        "timestamp": "2026-01-30T23:15:10.675Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.041Z"
+        "timestamp": "2026-01-30T23:15:10.675Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:02:30.041Z"
+        "timestamp": "2026-01-30T23:15:10.675Z"
       }
     ]
   }
