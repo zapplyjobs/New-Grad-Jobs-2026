@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-30T17:36:52.753Z",
+  "generated": "2026-01-30T18:02:59.695Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T17:36:52.753Z",
-  "period_end": "2026-01-30T17:36:52.753Z",
+  "period_start": "2026-01-23T18:02:59.695Z",
+  "period_end": "2026-01-30T18:02:59.695Z",
   "summary": {
-    "total_jobs_posted": 679,
-    "unique_jobs": 577,
-    "multi_channel_postings": 204,
-    "unique_multi_channel_jobs": 102,
+    "total_jobs_posted": 691,
+    "unique_jobs": 587,
+    "multi_channel_postings": 208,
+    "unique_multi_channel_jobs": 104,
     "failed_postings": 0,
     "filtered_jobs": 16,
     "channels_active": 4
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 448,
+      "count": 454,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -464,45 +464,15 @@
         "83c43f83d954c4f4",
         "6c5ae36ad940289b",
         "b10ec06361f987e2",
-        "4f6bf38a3c85ea44"
+        "4f6bf38a3c85ea44",
+        "1234a286a6b48112",
+        "a0c6c9c53dc21975",
+        "44691aa5c77fbb00",
+        "df71eaab8f7055ec",
+        "254fd3d4bafe3a74",
+        "1c52002db945f534"
       ],
       "recent_jobs": [
-        {
-          "id": "07033cd71c246065",
-          "title": "2026 Summer Internship, Machine Learning Engineering (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T17:21:31.853Z"
-        },
-        {
-          "id": "28fc5e79e2c1b642",
-          "title": "2026 Summer Internship, Machine Learning Engineering - PhD (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T17:21:35.462Z"
-        },
-        {
-          "id": "dafd01262200dcfd",
-          "title": "Bus Systems Analysis Associate",
-          "company": "United Parcel Service (UPS)",
-          "posted_at": "2026-01-30T17:36:10.005Z"
-        },
-        {
-          "id": "472e8fff31fc171b",
-          "title": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
-          "company": "Invisible Technologies AI",
-          "posted_at": "2026-01-30T17:36:11.801Z"
-        },
-        {
-          "id": "fbcfcce4475bc6b8",
-          "title": "Mission Systems Software Engineer - Full Stack - Mission Operations",
-          "company": "Lynk",
-          "posted_at": "2026-01-30T17:36:15.361Z"
-        },
-        {
-          "id": "37b0908e611effa8",
-          "title": "Software Engineer",
-          "company": "StarCompliance",
-          "posted_at": "2026-01-30T17:36:20.362Z"
-        },
         {
           "id": "83c43f83d954c4f4",
           "title": "2026 Summer Internship, Talent Acquisition (New York City)",
@@ -526,12 +496,48 @@
           "title": "Software Engineer - C++ - Object-Oriented Design/Object-Oriented Programming",
           "company": "KLA Corporation",
           "posted_at": "2026-01-30T17:36:32.756Z"
+        },
+        {
+          "id": "1234a286a6b48112",
+          "title": "Data Labeling Specialist - Imagery",
+          "company": "Rhombus Power",
+          "posted_at": "2026-01-30T18:02:36.690Z"
+        },
+        {
+          "id": "a0c6c9c53dc21975",
+          "title": "Entry-Level AI Generalist",
+          "company": "Invisible Technologies AI",
+          "posted_at": "2026-01-30T18:02:38.584Z"
+        },
+        {
+          "id": "44691aa5c77fbb00",
+          "title": "Associate Reverse Engineer",
+          "company": "Carnegie Mellon University",
+          "posted_at": "2026-01-30T18:02:42.486Z"
+        },
+        {
+          "id": "df71eaab8f7055ec",
+          "title": "New Graduate Engineer - Software - Starlink",
+          "company": "SpaceX",
+          "posted_at": "2026-01-30T18:02:47.289Z"
+        },
+        {
+          "id": "254fd3d4bafe3a74",
+          "title": "Associate Software Engineer",
+          "company": "Globus Medical",
+          "posted_at": "2026-01-30T18:02:49.075Z"
+        },
+        {
+          "id": "1c52002db945f534",
+          "title": "Software Engineer",
+          "company": "AeroVironment",
+          "posted_at": "2026-01-30T18:02:50.867Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 70,
+      "count": 71,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -602,15 +608,10 @@
         "28fc5e79e2c1b642",
         "83c43f83d954c4f4",
         "6c5ae36ad940289b",
-        "b10ec06361f987e2"
+        "b10ec06361f987e2",
+        "401911d52f4e7746"
       ],
       "recent_jobs": [
-        {
-          "id": "69db6d2b0374e1eb",
-          "title": "Technical Escalations Engineer 3 (Internal Developer Portal) - US-East",
-          "company": "datadog",
-          "posted_at": "2026-01-30T16:18:16.096Z"
-        },
         {
           "id": "1ced13a4df587678",
           "title": "Enterprise Solutions Engineer, Northeast",
@@ -664,12 +665,18 @@
           "title": "2026 Summer Internship, Legal- J.D. (New York City)",
           "company": "spotify",
           "posted_at": "2026-01-30T17:36:29.288Z"
+        },
+        {
+          "id": "401911d52f4e7746",
+          "title": "Digital Analyst",
+          "company": "TelevisaUnivision",
+          "posted_at": "2026-01-30T18:02:23.437Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 129,
+      "count": 133,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -799,33 +806,13 @@
         "3ab2e73effb653e4",
         "cd6578737e46de2e",
         "0a31b9b8dc371231",
-        "62483dde68f23ef4"
+        "62483dde68f23ef4",
+        "b2e48071f546dc57",
+        "401911d52f4e7746",
+        "007aa9ac19d0fda5",
+        "e33b87c3e9521963"
       ],
       "recent_jobs": [
-        {
-          "id": "4a95e5d061ef216e",
-          "title": "Enterprise Account Executive (Colorado - SLED)",
-          "company": "verkada",
-          "posted_at": "2026-01-30T16:54:36.447Z"
-        },
-        {
-          "id": "2118766a0e356edb",
-          "title": "Enterprise Account Executive (Kansas - SLED)",
-          "company": "verkada",
-          "posted_at": "2026-01-30T16:54:38.139Z"
-        },
-        {
-          "id": "b18dfcd28b33fa0b",
-          "title": "Enterprise Account Executive (SoCal - Corporate)",
-          "company": "verkada",
-          "posted_at": "2026-01-30T16:54:39.981Z"
-        },
-        {
-          "id": "c0e6517a4dcc8305",
-          "title": "Sales Development Representative (AAE), New York City ",
-          "company": "verkada",
-          "posted_at": "2026-01-30T17:21:02.489Z"
-        },
         {
           "id": "c658bd2d6af65c70",
           "title": "Sales Development Representative (AAE), Phoenix",
@@ -861,12 +848,36 @@
           "title": "Account Executive, E-Commerce ",
           "company": "brex",
           "posted_at": "2026-01-30T17:36:42.471Z"
+        },
+        {
+          "id": "b2e48071f546dc57",
+          "title": "Account Executive, E-Commerce ",
+          "company": "brex",
+          "posted_at": "2026-01-30T18:02:21.611Z"
+        },
+        {
+          "id": "401911d52f4e7746",
+          "title": "Digital Analyst",
+          "company": "TelevisaUnivision",
+          "posted_at": "2026-01-30T18:02:23.437Z"
+        },
+        {
+          "id": "007aa9ac19d0fda5",
+          "title": "Developer",
+          "company": "Axle",
+          "posted_at": "2026-01-30T18:02:30.088Z"
+        },
+        {
+          "id": "e33b87c3e9521963",
+          "title": "Business Intelligence Analyst",
+          "company": "Hub Group",
+          "posted_at": "2026-01-30T18:02:31.871Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 32,
+      "count": 33,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -899,15 +910,10 @@
         "fd8b015e4a6dd685",
         "b9302d58b8d0dbc2",
         "472e8fff31fc171b",
-        "62483dde68f23ef4"
+        "62483dde68f23ef4",
+        "a0c6c9c53dc21975"
       ],
       "recent_jobs": [
-        {
-          "id": "b5ec497e15672006",
-          "title": "Enterprise Sales Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:09:01.005Z"
-        },
         {
           "id": "8fc538ea165a51d4",
           "title": "Enterprise Security Sales Specialist",
@@ -961,6 +967,12 @@
           "title": "Account Executive, E-Commerce ",
           "company": "brex",
           "posted_at": "2026-01-30T17:36:42.471Z"
+        },
+        {
+          "id": "a0c6c9c53dc21975",
+          "title": "Entry-Level AI Generalist",
+          "company": "Invisible Technologies AI",
+          "posted_at": "2026-01-30T18:02:38.584Z"
         }
       ]
     }
@@ -1471,18 +1483,18 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-brex-com-careers-8378840002",
-        "title": "Senior GRC Lead",
-        "company": "brex",
+        "job_id": "www-samsara-com-company-careers-roles-7291576",
+        "title": "Director, Sales Commissions",
+        "company": "samsara",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T17:36:09.422Z"
+        "timestamp": "2026-01-30T18:02:20.913Z"
       },
       {
-        "job_id": "www-brex-com-careers-8378792002",
-        "title": "Senior GRC Lead",
-        "company": "brex",
+        "job_id": "www-samsara-com-company-careers-roles-7412433",
+        "title": "Director, Sales Commissions",
+        "company": "samsara",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T17:36:09.422Z"
+        "timestamp": "2026-01-30T18:02:20.913Z"
       }
     ],
     "already_posted": [],
@@ -1493,98 +1505,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.412Z"
+        "timestamp": "2026-01-30T18:02:20.903Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.412Z"
+        "timestamp": "2026-01-30T18:02:20.904Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.412Z"
+        "timestamp": "2026-01-30T18:02:20.904Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.413Z"
+        "timestamp": "2026-01-30T18:02:20.904Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.413Z"
+        "timestamp": "2026-01-30T18:02:20.904Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.413Z"
+        "timestamp": "2026-01-30T18:02:20.905Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.413Z"
+        "timestamp": "2026-01-30T18:02:20.905Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.413Z"
+        "timestamp": "2026-01-30T18:02:20.905Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.414Z"
+        "timestamp": "2026-01-30T18:02:20.905Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.414Z"
+        "timestamp": "2026-01-30T18:02:20.906Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.414Z"
+        "timestamp": "2026-01-30T18:02:20.906Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.414Z"
+        "timestamp": "2026-01-30T18:02:20.906Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.415Z"
+        "timestamp": "2026-01-30T18:02:20.906Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T17:36:09.415Z"
+        "timestamp": "2026-01-30T18:02:20.906Z"
       }
     ]
   }
