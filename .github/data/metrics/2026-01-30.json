@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T20:18:10.003Z",
+  "generated": "2026-01-30T20:32:46.667Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T20:18:10.003Z",
-  "period_end": "2026-01-30T20:18:10.003Z",
+  "period_start": "2026-01-23T20:32:46.667Z",
+  "period_end": "2026-01-30T20:32:46.667Z",
   "summary": {
-    "total_jobs_posted": 770,
-    "unique_jobs": 652,
-    "multi_channel_postings": 236,
-    "unique_multi_channel_jobs": 118,
+    "total_jobs_posted": 777,
+    "unique_jobs": 658,
+    "multi_channel_postings": 238,
+    "unique_multi_channel_jobs": 119,
     "failed_postings": 0,
-    "filtered_jobs": 20,
+    "filtered_jobs": 25,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 505,
+      "count": 510,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -521,39 +521,14 @@
         "1a226c81897508d3",
         "3e8ac719e8789b65",
         "8f66ed1d58f31918",
-        "59aac2c3eb1c4828"
+        "59aac2c3eb1c4828",
+        "52625152cac309ca",
+        "24b83e27a80676a6",
+        "c9d98e1d902d773b",
+        "2bb26d748f440a6f",
+        "63ff7554599eac96"
       ],
       "recent_jobs": [
-        {
-          "id": "2e805bcc6f1d1618",
-          "title": "Backend Software Engineer – University Graduate",
-          "company": "Verkada",
-          "posted_at": "2026-01-30T20:04:46.599Z"
-        },
-        {
-          "id": "b6ea0214add5505e",
-          "title": "Account Executive, Commercial",
-          "company": "samsara",
-          "posted_at": "2026-01-30T20:17:29.680Z"
-        },
-        {
-          "id": "1d8b18f36098b52a",
-          "title": "Mid-Market Account Executive - PubSec",
-          "company": "samsara",
-          "posted_at": "2026-01-30T20:17:31.496Z"
-        },
-        {
-          "id": "2b5e3069e113554e",
-          "title": "Android Software Engineer, Ad Formats",
-          "company": "reddit",
-          "posted_at": "2026-01-30T20:17:41.312Z"
-        },
-        {
-          "id": "a705d729696cd70d",
-          "title": "Client Account Executive, Mid-Market (App Dev)",
-          "company": "reddit",
-          "posted_at": "2026-01-30T20:17:43.121Z"
-        },
         {
           "id": "9d50f55fac433d99",
           "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
@@ -583,12 +558,42 @@
           "title": "Counsel, Product & Platform Compliance",
           "company": "reddit",
           "posted_at": "2026-01-30T20:18:00.013Z"
+        },
+        {
+          "id": "52625152cac309ca",
+          "title": "Account Executive, Commercial - (Phoenix, AR)",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:32:21.178Z"
+        },
+        {
+          "id": "24b83e27a80676a6",
+          "title": "Mid-Market Account Executive - PubSec",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:32:22.946Z"
+        },
+        {
+          "id": "c9d98e1d902d773b",
+          "title": "Android Software Engineer, Ad Formats",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:32:32.518Z"
+        },
+        {
+          "id": "2bb26d748f440a6f",
+          "title": "iOS Software Engineer, Ad Formats",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:32:36.613Z"
+        },
+        {
+          "id": "63ff7554599eac96",
+          "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:32:38.570Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 80,
+      "count": 81,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -669,15 +674,10 @@
         "a705d729696cd70d",
         "1a226c81897508d3",
         "3e8ac719e8789b65",
-        "59aac2c3eb1c4828"
+        "59aac2c3eb1c4828",
+        "c9d98e1d902d773b"
       ],
       "recent_jobs": [
-        {
-          "id": "401911d52f4e7746",
-          "title": "Digital Analyst",
-          "company": "TelevisaUnivision",
-          "posted_at": "2026-01-30T18:02:23.437Z"
-        },
         {
           "id": "0b2c46ce888f4614",
           "title": "2026 Summer Internship, Marketing, Customer Success/Sales & Editorial  (New York City)",
@@ -731,12 +731,18 @@
           "title": "Counsel, Product & Platform Compliance",
           "company": "reddit",
           "posted_at": "2026-01-30T20:18:00.013Z"
+        },
+        {
+          "id": "c9d98e1d902d773b",
+          "title": "Android Software Engineer, Ad Formats",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:32:32.518Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 147,
+      "count": 148,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -884,15 +890,10 @@
         "eb6bcde684bbd0ba",
         "ba0149d360279443",
         "a602ab5679924f27",
-        "48a49d7e8d781227"
+        "48a49d7e8d781227",
+        "64370370ab4853f8"
       ],
       "recent_jobs": [
-        {
-          "id": "559b7668501d5415",
-          "title": "Core Enterprise Account Executive EST/CST - Remote - Dallas, TX",
-          "company": "samsara",
-          "posted_at": "2026-01-30T18:55:31.420Z"
-        },
         {
           "id": "fb072b1557ac46c9",
           "title": "Select Major Account Executive EST/CST",
@@ -946,6 +947,12 @@
           "title": "Select Major Account Executive EST/CST - Columbia, SC",
           "company": "samsara",
           "posted_at": "2026-01-30T20:17:36.550Z"
+        },
+        {
+          "id": "64370370ab4853f8",
+          "title": "Select Major Account Executive EST/CST - Dallas, TX",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:32:27.753Z"
         }
       ]
     },
@@ -1562,46 +1569,81 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531536",
-        "title": "Client Account Manager, Large Customer Sales (Auto)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T20:17:29.129Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7489210",
-        "title": "Client Account Manager, Mid-Market (B2B Services)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T20:17:29.129Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7254586",
-        "title": "Director, Global 3rd Party Partnerships",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T20:17:29.129Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7519923",
-        "title": "Director, Mid-Market Sales (B2B Services)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T20:17:29.129Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532202",
-        "title": "Director, Mid-Market Sales (B2B Services)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T20:17:29.129Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532238",
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7519917",
         "title": "Director, Mid-Market Sales (Goods - Shopping)",
         "company": "reddit",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T20:17:29.129Z"
+        "timestamp": "2026-01-30T20:32:20.638Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532242",
+        "title": "Director, Mid-Market Sales (Goods - Shopping)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7510898",
+        "title": "Internal Communications Senior Manager (Global Sales)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7370711",
+        "title": "Senior Android Engineer, Apps Platform (Performance)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7370708",
+        "title": "Senior Android Engineer, Apps Platform (Performance)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531467",
+        "title": "Senior Client Account Manager, Mid-Market (Goods)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531469",
+        "title": "Senior Client Account Manager, Mid-Market (Goods - Acquisitions)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531245",
+        "title": "Senior Client Partner, Large Customer Sales (Auto)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7536129",
+        "title": "Senior Client Partner, Large Customer Sales (Finance)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7454499",
+        "title": "Senior Client Partner, Large Customer Sales (Retail Beauty)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7348119",
+        "title": "Senior iOS Software Engineer, iOS Platform",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:32:20.639Z"
       }
     ],
     "already_posted": [],
@@ -1612,98 +1654,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.122Z"
+        "timestamp": "2026-01-30T20:32:20.631Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.122Z"
+        "timestamp": "2026-01-30T20:32:20.631Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.122Z"
+        "timestamp": "2026-01-30T20:32:20.631Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.122Z"
+        "timestamp": "2026-01-30T20:32:20.631Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.123Z"
+        "timestamp": "2026-01-30T20:32:20.632Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.123Z"
+        "timestamp": "2026-01-30T20:32:20.632Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.123Z"
+        "timestamp": "2026-01-30T20:32:20.632Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.123Z"
+        "timestamp": "2026-01-30T20:32:20.632Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.124Z"
+        "timestamp": "2026-01-30T20:32:20.633Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.124Z"
+        "timestamp": "2026-01-30T20:32:20.633Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.124Z"
+        "timestamp": "2026-01-30T20:32:20.633Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.124Z"
+        "timestamp": "2026-01-30T20:32:20.633Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.125Z"
+        "timestamp": "2026-01-30T20:32:20.634Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:17:29.125Z"
+        "timestamp": "2026-01-30T20:32:20.634Z"
       }
     ]
   }
