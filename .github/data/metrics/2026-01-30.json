@@ -1,109 +1,109 @@
 {
-  "generated": "2026-01-30T02:45:26.240Z",
+  "generated": "2026-01-30T03:41:49.465Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T02:45:26.240Z",
-  "period_end": "2026-01-30T02:45:26.240Z",
+  "period_start": "2026-01-23T03:41:49.465Z",
+  "period_end": "2026-01-30T03:41:49.465Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 8,
+    "filtered_jobs": 11,
     "channels_active": 3
   },
   "by_channel": {
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 2,
-      "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-5066977008",
-        "job-boards-greenhouse-io-anthropic-jobs-5074052008"
-      ],
-      "recent_jobs": [
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5066977008",
-          "title": "Biological Safety Research Scientist",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:44:55.493Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5074052008",
-          "title": "Commercial Counsel, GTM",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:44:57.362Z"
-        }
-      ]
-    },
     "💰・finance-jobs": {
       "channel_id": "1462988755156734023",
-      "count": 7,
+      "count": 3,
       "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-4939815008",
-        "job-boards-greenhouse-io-anthropic-jobs-5045003008",
-        "job-boards-greenhouse-io-anthropic-jobs-5045006008",
-        "job-boards-greenhouse-io-anthropic-jobs-5044994008",
-        "job-boards-greenhouse-io-anthropic-jobs-4983107008",
-        "job-boards-greenhouse-io-anthropic-jobs-4973549008",
-        "job-boards-greenhouse-io-anthropic-jobs-4986778008"
+        "job-boards-greenhouse-io-anthropic-jobs-5077227008",
+        "job-boards-greenhouse-io-anthropic-jobs-5017273008",
+        "job-boards-greenhouse-io-anthropic-jobs-5011703008"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4939815008",
-          "title": "Business Development Representative",
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5077227008",
+          "title": "Content Designer, Enterprise Growth",
           "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:02.248Z"
+          "posted_at": "2026-01-30T03:41:19.797Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5045003008",
-          "title": "Commercial Counsel, Colo & Networks",
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5017273008",
+          "title": "Corporate Finance & Strategy, Planning & Reporting",
           "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:03.964Z"
+          "posted_at": "2026-01-30T03:41:21.466Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5045006008",
-          "title": "Commercial Counsel, Compute & Infrastructure",
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5011703008",
+          "title": "Corporate Legal Specialist",
           "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:05.720Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5044994008",
-          "title": "Commercial Counsel, Datacenters & Construction",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:07.426Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4983107008",
-          "title": "Commercial Counsel, Partnerships & Alliances",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:09.176Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4973549008",
-          "title": "Compensation Systems and Infrastructure",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:10.888Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4986778008",
-          "title": "Compute Transactions & Partnerships",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:12.607Z"
+          "posted_at": "2026-01-30T03:41:23.269Z"
         }
       ]
     },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
-      "count": 1,
+    "🤖・ai-jobs": {
+      "channel_id": "1462988662168879217",
+      "count": 2,
       "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-4801218008"
+        "job-boards-greenhouse-io-anthropic-jobs-5059367008",
+        "job-boards-greenhouse-io-anthropic-jobs-5015340008"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4801218008",
-          "title": "Capacity Engineer, Compute",
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5059367008",
+          "title": "Corporate Counsel, M&A",
           "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:17.792Z"
+          "posted_at": "2026-01-30T03:41:28.068Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5015340008",
+          "title": "Developer Relations, MCP",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:29.982Z"
+        }
+      ]
+    },
+    "💻・tech-jobs": {
+      "channel_id": "1462988605306834987",
+      "count": 5,
+      "jobs": [
+        "job-boards-greenhouse-io-anthropic-jobs-5079916008",
+        "job-boards-greenhouse-io-anthropic-jobs-4493001008",
+        "job-boards-greenhouse-io-anthropic-jobs-4959324008",
+        "job-boards-greenhouse-io-anthropic-jobs-4959331008",
+        "job-boards-greenhouse-io-anthropic-jobs-4959334008"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5079916008",
+          "title": "Emerging Account Executive- Startups",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:34.699Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4493001008",
+          "title": "Enterprise Account Executive, Digital Native Business",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:36.379Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4959324008",
+          "title": "Enterprise Account Executive, DOD/IC",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:38.105Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4959331008",
+          "title": "Enterprise Account Executive, Federal Civilian Sales",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:39.825Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4959334008",
+          "title": "Enterprise Account Executive, Federal Partners Sales",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:41.535Z"
         }
       ]
     }
@@ -113,46 +113,67 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4781798008",
-        "title": "Founding Developer Relations Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5054819008",
+        "title": "Manager, Account Executive - Enterprise Sales (Industries)",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T02:44:54.799Z"
+        "timestamp": "2026-01-30T03:41:19.297Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4747937008",
-        "title": "Global Partner Lead, Deloitte",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4914907008",
+        "title": "Manager, Customer Success",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T02:44:54.799Z"
+        "timestamp": "2026-01-30T03:41:19.297Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5018233008",
-        "title": "Global Partner Sales Manager, Systems Integrators",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4976328008",
+        "title": "Manager, Growth Account Executive",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T02:44:54.799Z"
+        "timestamp": "2026-01-30T03:41:19.298Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4930182008",
-        "title": "Global Real Estate Design & Construction Manager",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5041319008",
+        "title": "Manager, IT Support & Operations",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T02:44:54.799Z"
+        "timestamp": "2026-01-30T03:41:19.298Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5043437008",
-        "title": "Global Technology Partner Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4947472008",
+        "title": "Manager of Associate Solutions Architecture, Applied AI ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T02:44:54.799Z"
+        "timestamp": "2026-01-30T03:41:19.298Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5081491008",
-        "title": "Internal Mobility Program Manager",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4964610008",
+        "title": "Manager of Solutions Architecture, Applied AI (Industries)",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T02:44:54.799Z"
+        "timestamp": "2026-01-30T03:41:19.298Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4973175008",
+        "title": "Manager of Solutions Architecture, Applied AI (Public Sector)",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T03:41:19.298Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4880880008",
+        "title": "Manager, Startup Account Executive",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T03:41:19.298Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4958721008",
+        "title": "Manager, Strategic Account Executive - Digital Native Sales",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T03:41:19.298Z"
       }
     ],
     "already_posted": [],
@@ -163,14 +184,14 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:44:54.797Z"
+        "timestamp": "2026-01-30T03:41:19.294Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:44:54.798Z"
+        "timestamp": "2026-01-30T03:41:19.296Z"
       }
     ]
   }
