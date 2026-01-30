@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T09:37:22.783Z",
+  "generated": "2026-01-30T09:59:04.217Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T09:37:22.783Z",
-  "period_end": "2026-01-30T09:37:22.783Z",
+  "period_start": "2026-01-23T09:59:04.217Z",
+  "period_end": "2026-01-30T09:59:04.217Z",
   "summary": {
-    "total_jobs_posted": 404,
-    "unique_jobs": 369,
-    "multi_channel_postings": 70,
-    "unique_multi_channel_jobs": 35,
+    "total_jobs_posted": 415,
+    "unique_jobs": 379,
+    "multi_channel_postings": 72,
+    "unique_multi_channel_jobs": 36,
     "failed_postings": 0,
-    "filtered_jobs": 15,
+    "filtered_jobs": 14,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 292,
+      "count": 299,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -308,51 +308,16 @@
         "da28a727fc5d8b88",
         "87ea0e2125f12e3b",
         "cd8fe9e0af373d6b",
-        "d5ab566f2d5b6faf"
+        "d5ab566f2d5b6faf",
+        "0800b0f4be99fd60",
+        "c096bab07faeb095",
+        "eb0239b0c2781f42",
+        "6a83028478ecf71b",
+        "ea32ca942f876689",
+        "1548e840fb7dcf86",
+        "14dc091d5a0bc2ad"
       ],
       "recent_jobs": [
-        {
-          "id": "a289f8f9948527f6",
-          "title": "Social Content Creator, Intern",
-          "company": "duolingo",
-          "posted_at": "2026-01-30T09:20:46.882Z"
-        },
-        {
-          "id": "d5a618fb3fa696d4",
-          "title": "Enterprise Sales Engineer",
-          "company": "datadog",
-          "posted_at": "2026-01-30T09:20:50.427Z"
-        },
-        {
-          "id": "26a891ab33e35201",
-          "title": "Research Technician",
-          "company": "Mass General Brigham",
-          "posted_at": "2026-01-30T09:36:50.412Z"
-        },
-        {
-          "id": "9f7ef423c962754a",
-          "title": "Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-30T09:36:52.164Z"
-        },
-        {
-          "id": "bcc4c2493d8bebaa",
-          "title": "Deep Learning Kernel Software Performance Architect – New College Grad 2026",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-30T09:36:53.919Z"
-        },
-        {
-          "id": "5996741ebeb67a6d",
-          "title": "Software Engineer – New College Grad 2026 - DL Libraries Infrastructure",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-30T09:36:55.641Z"
-        },
-        {
-          "id": "da28a727fc5d8b88",
-          "title": "Data Engineer 1 - Databricks - Aws",
-          "company": "The Travelers Companies",
-          "posted_at": "2026-01-30T09:36:57.502Z"
-        },
         {
           "id": "87ea0e2125f12e3b",
           "title": "Innovation Engineer - Smai",
@@ -370,6 +335,48 @@
           "title": "Software Engineer 1",
           "company": "USAA",
           "posted_at": "2026-01-30T09:37:14.266Z"
+        },
+        {
+          "id": "0800b0f4be99fd60",
+          "title": "Power and Performance Engineer",
+          "company": "Intel",
+          "posted_at": "2026-01-30T09:58:31.565Z"
+        },
+        {
+          "id": "c096bab07faeb095",
+          "title": "Research Statistician 1",
+          "company": "College Board",
+          "posted_at": "2026-01-30T09:58:33.362Z"
+        },
+        {
+          "id": "eb0239b0c2781f42",
+          "title": "Early Career Geologist",
+          "company": "WSP",
+          "posted_at": "2026-01-30T09:58:37.285Z"
+        },
+        {
+          "id": "6a83028478ecf71b",
+          "title": "Data Visualization Analyst / Associate",
+          "company": "JP Morgan Chase",
+          "posted_at": "2026-01-30T09:58:39.192Z"
+        },
+        {
+          "id": "ea32ca942f876689",
+          "title": "Technical Sourcer (Contract)",
+          "company": "airtable",
+          "posted_at": "2026-01-30T09:58:40.872Z"
+        },
+        {
+          "id": "1548e840fb7dcf86",
+          "title": "Software Engineer, Infrastructure (8+ YOE)",
+          "company": "airtable",
+          "posted_at": "2026-01-30T09:58:42.630Z"
+        },
+        {
+          "id": "14dc091d5a0bc2ad",
+          "title": "Software Engineer, Infrastructure (2-8 YOE)",
+          "company": "airtable",
+          "posted_at": "2026-01-30T09:58:44.418Z"
         }
       ]
     },
@@ -472,7 +479,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 77,
+      "count": 80,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -550,27 +557,12 @@
         "6de0e820e860e0e7",
         "46062013ac689ffe",
         "9e61cc5fb3a1ec34",
-        "9305de8d703c1463"
+        "9305de8d703c1463",
+        "15d72323aee81faf",
+        "8620aad8b39f161b",
+        "5f4e93982b353630"
       ],
       "recent_jobs": [
-        {
-          "id": "46f43076f51727e5",
-          "title": "Strategic Account Executive, Asset & Wealth Management",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T08:17:19.361Z"
-        },
-        {
-          "id": "053f220477fc3721",
-          "title": "Strategic Account Executive, Investment Banking & Capital Markets",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T08:17:21.083Z"
-        },
-        {
-          "id": "b98b615e9aa0b1fe",
-          "title": "Support Operations Analyst",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T08:32:57.976Z"
-        },
         {
           "id": "8d277e652b817236",
           "title": "Support Operations Specialist, Content & Knowledge Management",
@@ -612,19 +604,38 @@
           "title": "Data Analyst Research Neurology kl",
           "company": "Mass General Brigham",
           "posted_at": "2026-01-30T09:37:07.775Z"
+        },
+        {
+          "id": "15d72323aee81faf",
+          "title": "Software Engineer – New Grad",
+          "company": "Perpay",
+          "posted_at": "2026-01-30T09:58:49.302Z"
+        },
+        {
+          "id": "8620aad8b39f161b",
+          "title": "Data Engineer 3",
+          "company": "Yum! Brands",
+          "posted_at": "2026-01-30T09:58:51.021Z"
+        },
+        {
+          "id": "5f4e93982b353630",
+          "title": "Enterprise Account Executive (Salt Lake City - SLED)",
+          "company": "verkada",
+          "posted_at": "2026-01-30T09:58:56.108Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 6,
+      "count": 7,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
         "3fc9e5e673ad9a41",
         "38acb8b92d7249c0",
-        "d5a618fb3fa696d4"
+        "d5a618fb3fa696d4",
+        "c096bab07faeb095"
       ],
       "recent_jobs": [
         {
@@ -662,6 +673,12 @@
           "title": "Enterprise Sales Engineer",
           "company": "datadog",
           "posted_at": "2026-01-30T09:20:50.427Z"
+        },
+        {
+          "id": "c096bab07faeb095",
+          "title": "Research Statistician 1",
+          "company": "College Board",
+          "posted_at": "2026-01-30T09:58:33.362Z"
         }
       ]
     }
@@ -1016,66 +1033,41 @@
         "channel-14629893"
       ],
       "posted_at": "2026-01-30T09:20:50.427Z"
+    },
+    {
+      "job_id": "c096bab07faeb095",
+      "company": "College Board",
+      "title": "Research Statistician 1",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-30T09:58:33.362Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-brex-com-careers-8389641002",
-        "title": "Senior Manager, National Technology Partners ",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7560326",
-        "title": "Senior Product Manager - Notebooks",
+        "job_id": "careers-datadoghq-com-detail-7558056",
+        "title": "Staff Software Engineer – Fabric",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
+        "timestamp": "2026-01-30T09:58:31.042Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8187999002",
-        "title": "Director of Engineering, Developer Ecosystem",
-        "company": "discord",
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4964446007",
+        "title": "Sales Strategy and Operations Division Lead",
+        "company": "verkada",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
+        "timestamp": "2026-01-30T09:58:31.042Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7560494",
-        "title": "Manager I, Engineering - Applied AI - Natural Language & Conversational Interfaces",
-        "company": "datadog",
+        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-environmental-data-science-and-artificial-intelligence-_r-089857-1",
+        "title": "Postdoctoral Researcher",
+        "company": "Prairie View A&M University",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8389421002",
-        "title": "Director, Enterprise Sales",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8074909002",
-        "title": "Director, Enterprise Sales",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8074910002",
-        "title": "Director, Enterprise Sales",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8074913002",
-        "title": "Director, Enterprise Sales",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T09:36:49.809Z"
+        "timestamp": "2026-01-30T09:58:31.042Z"
       }
     ],
     "already_posted": [],
@@ -1086,49 +1078,77 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T09:36:49.803Z"
+        "timestamp": "2026-01-30T09:58:31.033Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T09:36:49.803Z"
+        "timestamp": "2026-01-30T09:58:31.033Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T09:36:49.803Z"
+        "timestamp": "2026-01-30T09:58:31.033Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T09:36:49.804Z"
+        "timestamp": "2026-01-30T09:58:31.033Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T09:36:49.804Z"
+        "timestamp": "2026-01-30T09:58:31.035Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T09:36:49.805Z"
+        "timestamp": "2026-01-30T09:58:31.035Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T09:36:49.805Z"
+        "timestamp": "2026-01-30T09:58:31.035Z"
+      },
+      {
+        "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
+        "title": "Analyst – Audience Activation",
+        "company": "FOX",
+        "reason": "already_posted",
+        "timestamp": "2026-01-30T09:58:31.041Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
+        "title": "Meteorologist 1",
+        "company": "AccuWeather",
+        "reason": "already_posted",
+        "timestamp": "2026-01-30T09:58:31.042Z"
+      },
+      {
+        "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
+        "title": "Analyst – People Analytics",
+        "company": "DaVita",
+        "reason": "already_posted",
+        "timestamp": "2026-01-30T09:58:31.042Z"
+      },
+      {
+        "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
+        "title": "Quality and Insights Analyst",
+        "company": "Asurion",
+        "reason": "already_posted",
+        "timestamp": "2026-01-30T09:58:31.042Z"
       }
     ]
   }
