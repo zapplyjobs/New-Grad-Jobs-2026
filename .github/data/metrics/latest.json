@@ -1,213 +1,804 @@
 {
-  "generated": "2026-01-30T04:29:48.874Z",
+  "generated": "2026-01-30T04:35:05.752Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T04:29:48.874Z",
-  "period_end": "2026-01-30T04:29:48.874Z",
+  "period_start": "2026-01-23T04:35:05.752Z",
+  "period_end": "2026-01-30T04:35:05.752Z",
   "summary": {
-    "total_jobs_posted": 10,
-    "unique_jobs": 10,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 266,
+    "unique_jobs": 239,
+    "multi_channel_postings": 54,
+    "unique_multi_channel_jobs": 27,
     "failed_postings": 0,
-    "filtered_jobs": 12,
+    "filtered_jobs": 0,
     "channels_active": 4
   },
   "by_channel": {
-    "💻・tech-jobs": {
+    "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 5,
+      "count": 180,
       "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-5074997008",
-        "job-boards-greenhouse-io-anthropic-jobs-4493035008",
-        "job-boards-greenhouse-io-anthropic-jobs-5074995008",
-        "job-boards-greenhouse-io-anthropic-jobs-4959329008",
-        "job-boards-greenhouse-io-anthropic-jobs-4520279008"
+        "2d7774b91bcf8821",
+        "f4f442f9cac04952",
+        "bc0a20b10663c94f",
+        "c8357eb905fbf4c2",
+        "fb3aa13843322bcc",
+        "d9dcadbd1806b987",
+        "39b0f6bb80eda677",
+        "baaa80f457de33f1",
+        "745bcc3e8c69148b",
+        "6d8e9f56d3faf57d",
+        "1409992ce6f78208",
+        "a6df6701af9d017f",
+        "064fd3e3e90f4bac",
+        "e79f1ca4b39a8be8",
+        "259f25d1b8205753",
+        "98dcd17f26272d45",
+        "1350e279e5527b88",
+        "b24e59b476e85eb5",
+        "d6b0cc580d11b6e0",
+        "17d35dd5e56d94f5",
+        "97c3624d13169416",
+        "369c9eded44f059e",
+        "f5f2b2f3979950ef",
+        "06795d5f5f475ea5",
+        "f42a1711be5e2f06",
+        "c8be1d6f7ea02d2a",
+        "1027d639bd2f91ae",
+        "f95533d3f335de4a",
+        "6f90b7f48a5e9614",
+        "eb31b65f2b125660",
+        "d90db86d11c7376e",
+        "b23ac78da86c0517",
+        "f61e5f3b68f52006",
+        "40dd5b270fa77c57",
+        "6a65c3769824914e",
+        "0db6f2cd989caf2f",
+        "176420f182aa7c72",
+        "aebb97c22e881b44",
+        "d72e69283f58baf4",
+        "a0a216e9a267660a",
+        "9cedb05ba6910a6e",
+        "8a2ad56d66c70a51",
+        "50381ec6f153d497",
+        "79f830d545a88a4d",
+        "4fa6b2d2f913bd94",
+        "d8fb3945fff110d0",
+        "63fa7feac74e18e4",
+        "e25399a694294c30",
+        "1b680f8c9509a69e",
+        "67d2fab777dcb16b",
+        "9c30bc6e9763974a",
+        "cc154ddd68f9dccc",
+        "33dd41c7345b35e1",
+        "dd9177af344c32e9",
+        "ac953bcf97efac55",
+        "12be5682372a2b44",
+        "a0e3e5aae5196ee0",
+        "d5429323d65230f9",
+        "d008ea5f275c1200",
+        "89dbb1d8f91a8347",
+        "302091e9f163b4fc",
+        "3c57ba57993b7d43",
+        "a12cc3d07a5ad8c1",
+        "9aa2fdd396ffb95a",
+        "5706ec3c1dcd9548",
+        "d2e33343635b4a23",
+        "ebf86512d79f84c5",
+        "2036c314a0e79039",
+        "3fc9e5e673ad9a41",
+        "06d7ac1cec409c4f",
+        "d0f67123726be881",
+        "792f237e31f76721",
+        "e3b64f1c2514a95b",
+        "668320062b686724",
+        "38dec1fbc6db99ba",
+        "2104bbb1e82153e6",
+        "f572f12c823b44b0",
+        "a1033cf36e15fbe0",
+        "2aa665d29423c6a7",
+        "4423ae9570a361f5",
+        "5d1187e67340a5b4",
+        "e34b04b33ef8a505",
+        "98ea5fb288943d08",
+        "83e0b58cd054b82c",
+        "68ab27af8598e0e9",
+        "41cf3286e58c0348",
+        "75a3848db8e287cb",
+        "4b0d9d7185ab4ab0",
+        "9bd5fb87db73fd9b",
+        "87bc798aad11d15d",
+        "db5f9e7af5347681",
+        "87469c2b302ddb6a",
+        "35bd133fa6a0201b",
+        "5b487680afa2252d",
+        "c742d3268f16f7b5",
+        "fca294811e0eae75",
+        "8e8213128e8595c1",
+        "08fc0b5908fd370a",
+        "1aeb8dc803fcc165",
+        "1213646f2891d448",
+        "c36424dc400618af",
+        "e6b3d0dbea313704",
+        "784f03f1e7ed1d03",
+        "76aef3383dd3ecc0",
+        "a266544e9c09c751",
+        "cf9ab4ddf1b8867e",
+        "b12929bd47d80604",
+        "75ec3e9c2e2b8992",
+        "f3b88256a0538518",
+        "d4ec07e5bafe6969",
+        "44291738e2d5d323",
+        "97c3a5d12bd4fd67",
+        "a33e297c64c76235",
+        "5503ae8bdd12f36c",
+        "3ee28697ea6d7443",
+        "4ba57595c8b5fdcf",
+        "814e352a948616d6",
+        "c3f7f5ebf83a7e2d",
+        "e0dbb98e40797433",
+        "c2c7bc39d6458996",
+        "64d2b854a5c4dc76",
+        "bb1aa88453bec2d4",
+        "1a594f923d2cc409",
+        "42e3b9ade24a4d19",
+        "cfea32a8bc973bf8",
+        "cdfa9b3b2f553acd",
+        "4b4b092918cb3c1f",
+        "3a391b90681035d0",
+        "0174c90e862dc7b5",
+        "c3ec089463c8723f",
+        "c9ad07195203630c",
+        "be3eafde94f9bba6",
+        "9aa96f297553d5b9",
+        "239b46289aead103",
+        "d825fbefbcf12e0e",
+        "06e2698d13a043c4",
+        "798615dfc778a5f7",
+        "e16a70b0626e41ff",
+        "68f3d0055b9e0b77",
+        "4058dfc425f6378f",
+        "e93aa2173c56006a",
+        "e2b918d33942c5c9",
+        "02a7eab7b266c2ee",
+        "51bf3af3f8a90430",
+        "3541a8c0cfa71105",
+        "ee895bafb49c05ed",
+        "f11a12517ce21163",
+        "8c8fd21168695bd8",
+        "9a2986921f46aeb0",
+        "2b8cbc89874248d5",
+        "3d09b5c0325b25e4",
+        "0a6b558cdb061cf4",
+        "e92dd6da22151024",
+        "7559efa21fe5bdb7",
+        "d4c09d37c625d51c",
+        "6ed79a9157c96f0e",
+        "9916becf857131df",
+        "c452ebc4b4f390c8",
+        "4feddc338d9cd197",
+        "4c7b43eae5c3114f",
+        "6dacb871910f4b4d",
+        "77ad009cb5c78757",
+        "09c92654f318c38c",
+        "ea4d148767d3689b",
+        "ef0bf8f982cd982d",
+        "eddec7bc3624b924",
+        "1b389f5f142fbf5a",
+        "9ca703cd44eb9639",
+        "6b1e51779733727b",
+        "2bd83299b1930fc6",
+        "a14617c82897de1c",
+        "5b6fa6fbbc34f534",
+        "5f1d15dbcd7a9df3",
+        "8dd1179dfd170802",
+        "69d6ddaef94bc1ce",
+        "0a2f5219163c46af",
+        "2ce867d27249b2d0",
+        "312b4545c21d84cb",
+        "60440be5708f4c4f",
+        "aac052cc9fcbe497"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5074997008",
+          "id": "a14617c82897de1c",
+          "title": "Enterprise Account Executive, Federal Civilian Sales",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:39.801Z"
+        },
+        {
+          "id": "5b6fa6fbbc34f534",
+          "title": "Enterprise Account Executive, Federal Partners Sales",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:41.514Z"
+        },
+        {
+          "id": "5f1d15dbcd7a9df3",
           "title": "Enterprise Account Executive, Healthcare",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:15.994Z"
+          "posted_at": "2026-01-30T04:29:15.959Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4493035008",
+          "id": "8dd1179dfd170802",
           "title": "Enterprise Account Executive, Industries",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:17.830Z"
+          "posted_at": "2026-01-30T04:29:17.804Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5074995008",
+          "id": "69d6ddaef94bc1ce",
           "title": "Enterprise Account Executive, Life Sciences",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:19.508Z"
+          "posted_at": "2026-01-30T04:29:19.483Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4959329008",
+          "id": "0a2f5219163c46af",
           "title": "Enterprise Account Executive, State & Local Sales",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:21.216Z"
+          "posted_at": "2026-01-30T04:29:21.194Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4520279008",
+          "id": "2ce867d27249b2d0",
           "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:23.006Z"
-        }
-      ]
-    },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
-      "count": 1,
-      "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-4532887008"
-      ],
-      "recent_jobs": [
+          "posted_at": "2026-01-30T04:29:22.984Z"
+        },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4532887008",
-          "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:27.848Z"
-        }
-      ]
-    },
-    "💰・finance-jobs": {
-      "channel_id": "1462988755156734023",
-      "count": 1,
-      "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-5069207008"
-      ],
-      "recent_jobs": [
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5069207008",
-          "title": "Financial Reporting Accountant",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:32.566Z"
-        }
-      ]
-    },
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 3,
-      "jobs": [
-        "job-boards-greenhouse-io-anthropic-jobs-4985877008",
-        "job-boards-greenhouse-io-anthropic-jobs-5079562008",
-        "job-boards-greenhouse-io-anthropic-jobs-4973158008"
-      ],
-      "recent_jobs": [
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4985877008",
+          "id": "312b4545c21d84cb",
           "title": "Forward Deployed Engineer, Applied AI",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:37.274Z"
+          "posted_at": "2026-01-30T04:29:37.246Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-5079562008",
+          "id": "60440be5708f4c4f",
           "title": "Forward Deployed Engineer, Applied AI (Federal Civilian) ",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:39.035Z"
+          "posted_at": "2026-01-30T04:29:39.011Z"
         },
         {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4973158008",
+          "id": "aac052cc9fcbe497",
           "title": "Google GTM Cosell Partnerships",
           "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:40.761Z"
+          "posted_at": "2026-01-30T04:29:40.733Z"
+        }
+      ]
+    },
+    "channel-14629888": {
+      "channel_id": "1462988831530680422",
+      "count": 22,
+      "jobs": [
+        "f4f442f9cac04952",
+        "c8357eb905fbf4c2",
+        "b24e59b476e85eb5",
+        "d6b0cc580d11b6e0",
+        "d90db86d11c7376e",
+        "f61e5f3b68f52006",
+        "643915d8cf345741",
+        "9aa61c7ccf9e3db1",
+        "cc154ddd68f9dccc",
+        "23e16cb3d9b587ef",
+        "9aa2fdd396ffb95a",
+        "d2e33343635b4a23",
+        "f7623b06c9d2da4f",
+        "06d7ac1cec409c4f",
+        "d0f67123726be881",
+        "668320062b686724",
+        "31283c19812c10d3",
+        "d4ec07e5bafe6969",
+        "224d2f0156a18034",
+        "bb1aa88453bec2d4",
+        "e16a70b0626e41ff",
+        "6ed79a9157c96f0e"
+      ],
+      "recent_jobs": [
+        {
+          "id": "f7623b06c9d2da4f",
+          "title": "Associate Operations & Modeling Rail Planner/Analyst",
+          "company": "WSP",
+          "posted_at": "2026-01-29T19:37:30.225Z"
+        },
+        {
+          "id": "06d7ac1cec409c4f",
+          "title": "Container Runtime Engineer",
+          "company": "datadog",
+          "posted_at": "2026-01-29T19:52:10.432Z"
+        },
+        {
+          "id": "d0f67123726be881",
+          "title": "Product Designer II, Actions",
+          "company": "datadog",
+          "posted_at": "2026-01-29T19:52:14.164Z"
+        },
+        {
+          "id": "668320062b686724",
+          "title": "Sourcer II",
+          "company": "datadog",
+          "posted_at": "2026-01-29T19:52:21.895Z"
+        },
+        {
+          "id": "31283c19812c10d3",
+          "title": "IT Internal Auditor II - NYC",
+          "company": "datadog",
+          "posted_at": "2026-01-29T19:52:38.026Z"
+        },
+        {
+          "id": "d4ec07e5bafe6969",
+          "title": "Software Engineer Data/AI/Intelligent Systems 2 - Full Time - United States",
+          "company": "Cisco",
+          "posted_at": "2026-01-29T22:04:59.430Z"
+        },
+        {
+          "id": "224d2f0156a18034",
+          "title": "Associate Data Engineer",
+          "company": "qode.world",
+          "posted_at": "2026-01-29T22:15:05.686Z"
+        },
+        {
+          "id": "bb1aa88453bec2d4",
+          "title": "Mobile Engineer",
+          "company": "vercel",
+          "posted_at": "2026-01-29T22:32:27.183Z"
+        },
+        {
+          "id": "e16a70b0626e41ff",
+          "title": "Software Engineer 1 - Java",
+          "company": "Apex Fintech Solutions",
+          "posted_at": "2026-01-29T23:33:55.421Z"
+        },
+        {
+          "id": "6ed79a9157c96f0e",
+          "title": "Temporary Informatics and Data Analyst - Qmps",
+          "company": "Cornell University",
+          "posted_at": "2026-01-30T01:52:08.230Z"
+        }
+      ]
+    },
+    "channel-14629887": {
+      "channel_id": "1462988721828794531",
+      "count": 59,
+      "jobs": [
+        "1515e2d31bd8a292",
+        "4024fc363d657d74",
+        "cd5532b5c0e88185",
+        "37929c2df28e0a82",
+        "070dd6fd23f55776",
+        "643915d8cf345741",
+        "9aa61c7ccf9e3db1",
+        "212052ee4b58de19",
+        "afce88e51d9f0be8",
+        "23e16cb3d9b587ef",
+        "f7623b06c9d2da4f",
+        "590f1d0c2befb7fd",
+        "a77502af5e530a3a",
+        "b5122365e1bcf4ea",
+        "31283c19812c10d3",
+        "37ae4f9d5cb97a33",
+        "b20681ff4769f025",
+        "861f373b7dc06c1f",
+        "ecbe3281d399d631",
+        "55f6e22020b6cb4d",
+        "51713c6224eae042",
+        "96f3540af7f35f6e",
+        "63c6b7541802d5d5",
+        "ed9b85abcf061dd5",
+        "304604f4e09b048f",
+        "5f9eefbcbd640b17",
+        "2c3fc544b5e1dbec",
+        "0f15695008729022",
+        "224d2f0156a18034",
+        "e836feec5171b132",
+        "8f5ff5a0012d9118",
+        "38acb8b92d7249c0",
+        "93e2e989d8f2eefa",
+        "facb7a09e2969beb",
+        "17def344fef67262",
+        "ee95bf450c20defb",
+        "6788d73bd5bb9bd0",
+        "5e7260f8d2dda442",
+        "e7086a84ee068342",
+        "1b1fdd589064c25e",
+        "231158c1b30102fc",
+        "a8631dfb29cfc305",
+        "8661b39711306f02",
+        "c9409adbec959354",
+        "a2378f7efeee689d",
+        "8af4333f131e54e3",
+        "0025ddb5fbf66351",
+        "46655020d51c7f4e",
+        "55e8dd99e3f56654",
+        "338d0b23b6ff95a8",
+        "e2bca6068c4bf8b5",
+        "96a926e1fe686c06",
+        "2f6dcee36539654a",
+        "a9733ba1a6f492c1",
+        "f3f4e08a716e5941",
+        "fdc243d2412e97e6",
+        "3b56aea296550a21",
+        "737e68f4c133537a",
+        "3da0b54a38da310e"
+      ],
+      "recent_jobs": [
+        {
+          "id": "338d0b23b6ff95a8",
+          "title": "Commercial Counsel, Datacenters & Construction",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T02:45:07.401Z"
+        },
+        {
+          "id": "e2bca6068c4bf8b5",
+          "title": "Commercial Counsel, Partnerships & Alliances",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T02:45:09.152Z"
+        },
+        {
+          "id": "96a926e1fe686c06",
+          "title": "Compensation Systems and Infrastructure",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T02:45:10.867Z"
+        },
+        {
+          "id": "2f6dcee36539654a",
+          "title": "Compute Transactions & Partnerships",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T02:45:12.583Z"
+        },
+        {
+          "id": "a9733ba1a6f492c1",
+          "title": "Capacity Engineer, Compute",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T02:45:17.768Z"
+        },
+        {
+          "id": "f3f4e08a716e5941",
+          "title": "Content Designer, Enterprise Growth",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:19.771Z"
+        },
+        {
+          "id": "fdc243d2412e97e6",
+          "title": "Corporate Finance & Strategy, Planning & Reporting",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:21.444Z"
+        },
+        {
+          "id": "3b56aea296550a21",
+          "title": "Corporate Legal Specialist",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T03:41:23.248Z"
+        },
+        {
+          "id": "737e68f4c133537a",
+          "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T04:29:27.819Z"
+        },
+        {
+          "id": "3da0b54a38da310e",
+          "title": "Financial Reporting Accountant",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T04:29:32.540Z"
+        }
+      ]
+    },
+    "channel-14629893": {
+      "channel_id": "1462989305181114450",
+      "count": 5,
+      "jobs": [
+        "06795d5f5f475ea5",
+        "40dd5b270fa77c57",
+        "63fa7feac74e18e4",
+        "3fc9e5e673ad9a41",
+        "38acb8b92d7249c0"
+      ],
+      "recent_jobs": [
+        {
+          "id": "06795d5f5f475ea5",
+          "title": "Quality and Insights Analyst",
+          "company": "Asurion",
+          "posted_at": "2026-01-28T21:22:40.268Z"
+        },
+        {
+          "id": "40dd5b270fa77c57",
+          "title": "Software Engineer 1",
+          "company": "RTX",
+          "posted_at": "2026-01-29T18:20:05.908Z"
+        },
+        {
+          "id": "63fa7feac74e18e4",
+          "title": "Associate Software Engineer",
+          "company": "Precisely",
+          "posted_at": "2026-01-29T18:53:55.438Z"
+        },
+        {
+          "id": "3fc9e5e673ad9a41",
+          "title": "Sales Recruiter (12-month contract)",
+          "company": "brex",
+          "posted_at": "2026-01-29T19:52:06.962Z"
+        },
+        {
+          "id": "38acb8b92d7249c0",
+          "title": "Expansion Account Executive, Enterprise",
+          "company": "brex",
+          "posted_at": "2026-01-29T22:32:08.786Z"
         }
       ]
     }
   },
-  "multi_channel_routing": [],
+  "multi_channel_routing": [
+    {
+      "job_id": "f4f442f9cac04952",
+      "company": "Morgan Stanley",
+      "title": "Java Developer - Associate",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-24T15:54:53.944Z"
+    },
+    {
+      "job_id": "c8357eb905fbf4c2",
+      "company": "Affirm",
+      "title": "Software Engineer – Early Career",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-24T15:54:59.688Z"
+    },
+    {
+      "job_id": "b24e59b476e85eb5",
+      "company": "FOX",
+      "title": "Analyst – Audience Activation",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-28T21:22:22.951Z"
+    },
+    {
+      "job_id": "d6b0cc580d11b6e0",
+      "company": "AccuWeather",
+      "title": "Meteorologist 1",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-28T21:22:26.531Z"
+    },
+    {
+      "job_id": "06795d5f5f475ea5",
+      "company": "Asurion",
+      "title": "Quality and Insights Analyst",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-28T21:22:40.268Z"
+    },
+    {
+      "job_id": "d90db86d11c7376e",
+      "company": "spotify",
+      "title": "Client Partner - Financial Services",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T18:19:52.327Z"
+    },
+    {
+      "job_id": "f61e5f3b68f52006",
+      "company": "figma",
+      "title": "Designer Advocate - Figma Weave (New York, United States)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T18:20:00.734Z"
+    },
+    {
+      "job_id": "40dd5b270fa77c57",
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-29T18:20:05.908Z"
+    },
+    {
+      "job_id": "643915d8cf345741",
+      "company": "brex",
+      "title": "Startups Ambassador",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T18:36:14.391Z"
+    },
+    {
+      "job_id": "9aa61c7ccf9e3db1",
+      "company": "verkada",
+      "title": "Tradeshow Associate",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T18:36:18.045Z"
+    },
+    {
+      "job_id": "63fa7feac74e18e4",
+      "company": "Precisely",
+      "title": "Associate Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-29T18:53:55.438Z"
+    },
+    {
+      "job_id": "cc154ddd68f9dccc",
+      "company": "Chicago Trading Company",
+      "title": "Associate C++ Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:25:23.152Z"
+    },
+    {
+      "job_id": "23e16cb3d9b587ef",
+      "company": "Clay",
+      "title": "GTM Data Scientist",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:25:45.174Z"
+    },
+    {
+      "job_id": "9aa2fdd396ffb95a",
+      "company": "datadog",
+      "title": "Vice President, GTM Enablement & Business Value - NYC",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:37:17.947Z"
+    },
+    {
+      "job_id": "d2e33343635b4a23",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:37:23.658Z"
+    },
+    {
+      "job_id": "f7623b06c9d2da4f",
+      "company": "WSP",
+      "title": "Associate Operations & Modeling Rail Planner/Analyst",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:37:30.225Z"
+    },
+    {
+      "job_id": "3fc9e5e673ad9a41",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-29T19:52:06.962Z"
+    },
+    {
+      "job_id": "06d7ac1cec409c4f",
+      "company": "datadog",
+      "title": "Container Runtime Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:52:10.432Z"
+    },
+    {
+      "job_id": "d0f67123726be881",
+      "company": "datadog",
+      "title": "Product Designer II, Actions",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:52:14.164Z"
+    },
+    {
+      "job_id": "668320062b686724",
+      "company": "datadog",
+      "title": "Sourcer II",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:52:21.895Z"
+    },
+    {
+      "job_id": "31283c19812c10d3",
+      "company": "datadog",
+      "title": "IT Internal Auditor II - NYC",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T19:52:38.026Z"
+    },
+    {
+      "job_id": "d4ec07e5bafe6969",
+      "company": "Cisco",
+      "title": "Software Engineer Data/AI/Intelligent Systems 2 - Full Time - United States",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T22:04:59.430Z"
+    },
+    {
+      "job_id": "224d2f0156a18034",
+      "company": "qode.world",
+      "title": "Associate Data Engineer",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T22:15:05.686Z"
+    },
+    {
+      "job_id": "38acb8b92d7249c0",
+      "company": "brex",
+      "title": "Expansion Account Executive, Enterprise",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-29T22:32:08.786Z"
+    },
+    {
+      "job_id": "bb1aa88453bec2d4",
+      "company": "vercel",
+      "title": "Mobile Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T22:32:27.183Z"
+    },
+    {
+      "job_id": "e16a70b0626e41ff",
+      "company": "Apex Fintech Solutions",
+      "title": "Software Engineer 1 - Java",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-29T23:33:55.421Z"
+    },
+    {
+      "job_id": "6ed79a9157c96f0e",
+      "company": "Cornell University",
+      "title": "Temporary Informatics and Data Analyst - Qmps",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T01:52:08.230Z"
+    }
+  ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5043460008",
-        "title": "Partner Development Manager, Build Partners",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.355Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5061729008",
-        "title": "Partner Marketing Lead, GSIs",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.355Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4966206008",
-        "title": "Partner Marketing Manager, Cloud Partners",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.355Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4979661008",
-        "title": "Policy Communications Manager",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.355Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5066951008",
-        "title": "Policy Manager, Chemical Weapons and High Yield Explosives",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.355Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5074933008",
-        "title": "Policy Manager, Harmful Persuasion ",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.355Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5078114008",
-        "title": "Principal Threat Intelligence Lead",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.355Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4936029008",
-        "title": "Product Manager, API ",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.356Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4985920008",
-        "title": "Product Manager, Claude Code",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.356Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4858247008",
-        "title": "Product Manager, Claude Code (Enterprise)",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T04:29:15.356Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": [
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
-        "title": "Developer Campaign Marketer, Claude Code",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-01-30T04:29:15.350Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
-        "title": "Head of Azure Partnership",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-01-30T04:29:15.353Z"
-      }
-    ]
+    "other": []
   }
 }

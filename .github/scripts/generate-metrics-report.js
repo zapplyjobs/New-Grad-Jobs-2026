@@ -3,12 +3,12 @@
 /**
  * Metrics Report Generator
  *
- * Aggregates job posting data from multiple sources:
- * - posted_jobs.json (database of all posted jobs)
- * - discord-posts-*.jsonl logs (recent posting activity)
- * - routing-encrypted.json (channel routing decisions)
+ * Aggregates job posting data from posted_jobs.json database:
+ * - Primary source: posted_jobs.json (all posted jobs with channel info)
+ * - Secondary: discord-posts-*.jsonl logs (if available, for failures/filtered)
+ * - Optional: routing-encrypted.json (channel routing decisions)
  *
- * Generates comprehensive JSON report for Claude debugging:
+ * Generates comprehensive JSON report for debugging:
  * - Per-channel job counts and listings
  * - Multi-channel routing analysis (same job → multiple channels)
  * - Failure tracking (what failed, why, when)
@@ -214,59 +214,63 @@ function generateMetricsReport(options = {}) {
   const byChannel = {};
   const multiChannelJobs = {}; // Track jobs posted to multiple channels
 
-  // Process Discord logs
-  discordLogs.forEach(log => {
-    if (log.status !== 'SUCCESS') return;
+  // Build per-channel statistics from posted_jobs.json
+  // Each job has a discordPosts object with channelId -> postInfo mapping
+  recentJobs.forEach(job => {
+    Object.entries(job.discordPosts || {}).forEach(([channelId, postInfo]) => {
+      const channelName = getChannelName(channelId, channelMapping);
 
-    const channelId = log.channel_id;
-    const channelName = log.channel_name || getChannelName(channelId, channelMapping);
+      if (!byChannel[channelName]) {
+        byChannel[channelName] = {
+          channel_id: channelId,
+          count: 0,
+          jobs: [],
+          recent_jobs: []
+        };
+      }
 
-    if (!byChannel[channelName]) {
-      byChannel[channelName] = {
-        channel_id: channelId,
-        count: 0,
-        jobs: [],
-        recent_jobs: []
-      };
-    }
+      byChannel[channelName].count++;
+      if (!byChannel[channelName].jobs.includes(job.jobId)) {
+        byChannel[channelName].jobs.push(job.jobId);
+      }
 
-    byChannel[channelName].count++;
-    if (!byChannel[channelName].jobs.includes(log.jobId)) {
-      byChannel[channelName].jobs.push(log.jobId);
-    }
+      // Track multi-channel routing
+      if (!multiChannelJobs[job.jobId]) {
+        multiChannelJobs[job.jobId] = {
+          job_id: job.jobId,
+          company: job.company,
+          title: job.title,
+          channels: [],
+          posted_at: job.postedToDiscord
+        };
+      }
 
-    // Track multi-channel routing
-    if (!multiChannelJobs[log.jobId]) {
-      multiChannelJobs[log.jobId] = {
-        job_id: log.jobId,
-        company: log.company,
-        title: log.title,
-        channels: [],
-        posted_at: log.timestamp
-      };
-    }
-
-    if (!multiChannelJobs[log.jobId].channels.includes(channelName)) {
-      multiChannelJobs[log.jobId].channels.push(channelName);
-    }
+      if (!multiChannelJobs[job.jobId].channels.includes(channelName)) {
+        multiChannelJobs[job.jobId].channels.push(channelName);
+      }
+    });
   });
 
-  // Add recent job details to each channel (last 10 jobs)
+  // Add recent job details to each channel (last 10 jobs, sorted by postedAt)
   Object.keys(byChannel).forEach(channelName => {
-    const channelLogs = discordLogs
-      .filter(log => {
-        const name = log.channel_name || getChannelName(log.channel_id, channelMapping);
-        return name === channelName && log.status === 'SUCCESS';
+    const channelJobs = recentJobs
+      .filter(job => {
+        // Check if job was posted to this channel
+        return Object.keys(job.discordPosts || {}).some(channelId => {
+          const name = getChannelName(channelId, channelMapping);
+          return name === channelName;
+        });
       })
+      .sort((a, b) => new Date(a.postedToDiscord) - new Date(b.postedToDiscord))
       .slice(-10)
-      .map(log => ({
-        id: log.jobId,
-        title: log.title,
-        company: log.company,
-        posted_at: log.timestamp
+      .map(job => ({
+        id: job.jobId,
+        title: job.title,
+        company: job.company,
+        posted_at: job.postedToDiscord
       }));
 
-    byChannel[channelName].recent_jobs = channelLogs;
+    byChannel[channelName].recent_jobs = channelJobs;
   });
 
   // Find jobs posted to multiple channels
@@ -312,10 +316,18 @@ function generateMetricsReport(options = {}) {
     )
   };
 
-  // Calculate summary statistics
-  const uniqueJobs = new Set(discordLogs.filter(l => l.status === 'SUCCESS').map(l => l.jobId));
+  // Calculate summary statistics from posted_jobs.json
+  // Count total postings (each channel post counts separately)
+  let totalPostings = 0;
+  recentJobs.forEach(job => {
+    totalPostings += Object.keys(job.discordPosts || {}).length;
+  });
+
+  // Count unique jobs
+  const uniqueJobs = new Set(recentJobs.map(j => j.jobId));
+
   const summary = {
-    total_jobs_posted: discordLogs.filter(l => l.status === 'SUCCESS').length,
+    total_jobs_posted: totalPostings,
     unique_jobs: uniqueJobs.size,
     multi_channel_postings: multiChannelRouting.reduce((sum, job) => sum + job.channels.length, 0),
     unique_multi_channel_jobs: multiChannelRouting.length,
