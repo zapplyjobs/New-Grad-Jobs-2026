@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T19:20:12.278Z",
+  "generated": "2026-01-30T19:36:00.831Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T19:20:12.278Z",
-  "period_end": "2026-01-30T19:20:12.278Z",
+  "period_start": "2026-01-23T19:36:00.831Z",
+  "period_end": "2026-01-30T19:36:00.831Z",
   "summary": {
-    "total_jobs_posted": 727,
-    "unique_jobs": 617,
+    "total_jobs_posted": 732,
+    "unique_jobs": 622,
     "multi_channel_postings": 220,
     "unique_multi_channel_jobs": 110,
     "failed_postings": 0,
-    "filtered_jobs": 16,
+    "filtered_jobs": 18,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 476,
+      "count": 480,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -492,33 +492,13 @@
         "5e8bd5fa918266e1",
         "b45936afda504318",
         "3df9f1fc6cfae09c",
-        "aaa54e4d973c46a3"
+        "aaa54e4d973c46a3",
+        "cc800850e5f36bc6",
+        "ee7c8a81700794c7",
+        "dbcd0d268423dbe2",
+        "2234386b503762f8"
       ],
       "recent_jobs": [
-        {
-          "id": "b3a5dd1b34e789c1",
-          "title": "Enterprise Implementation Consultant",
-          "company": "samsara",
-          "posted_at": "2026-01-30T18:34:34.060Z"
-        },
-        {
-          "id": "1a72a69f9551ebea",
-          "title": "Hardware Solutions Firmware Engineer",
-          "company": "samsara",
-          "posted_at": "2026-01-30T18:34:37.501Z"
-        },
-        {
-          "id": "5396b9503a1ac0b3",
-          "title": "Mid-Market Account Development Representative - Outbound",
-          "company": "samsara",
-          "posted_at": "2026-01-30T18:34:39.235Z"
-        },
-        {
-          "id": "0a646b9209512a00",
-          "title": " Mid-Market Account Executive - PubSec",
-          "company": "samsara",
-          "posted_at": "2026-01-30T18:34:41.050Z"
-        },
         {
           "id": "13aa90297f014960",
           "title": "Account Executive, Commercial",
@@ -554,6 +534,30 @@
           "title": "Mid-Market Account Executive - PubSec",
           "company": "samsara",
           "posted_at": "2026-01-30T19:19:54.497Z"
+        },
+        {
+          "id": "cc800850e5f36bc6",
+          "title": "Account Executive, Commercial",
+          "company": "samsara",
+          "posted_at": "2026-01-30T19:35:38.947Z"
+        },
+        {
+          "id": "ee7c8a81700794c7",
+          "title": "Mid-Market Account Executive - PubSec",
+          "company": "samsara",
+          "posted_at": "2026-01-30T19:35:40.747Z"
+        },
+        {
+          "id": "dbcd0d268423dbe2",
+          "title": "Software Engineer II - Mobile Platform",
+          "company": "samsara",
+          "posted_at": "2026-01-30T19:35:42.521Z"
+        },
+        {
+          "id": "2234386b503762f8",
+          "title": "Solutions Integration Engineer III",
+          "company": "samsara",
+          "posted_at": "2026-01-30T19:35:52.228Z"
         }
       ]
     },
@@ -700,7 +704,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 141,
+      "count": 142,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -842,15 +846,10 @@
         "559b7668501d5415",
         "fb072b1557ac46c9",
         "a2b0d531e1913c61",
-        "ebf98eda288bfdd8"
+        "ebf98eda288bfdd8",
+        "c4ac457a1e146407"
       ],
       "recent_jobs": [
-        {
-          "id": "007aa9ac19d0fda5",
-          "title": "Developer",
-          "company": "Axle",
-          "posted_at": "2026-01-30T18:02:30.088Z"
-        },
         {
           "id": "e33b87c3e9521963",
           "title": "Business Intelligence Analyst",
@@ -904,6 +903,12 @@
           "title": "Select Major Account Executive EST/CST",
           "company": "samsara",
           "posted_at": "2026-01-30T19:20:04.198Z"
+        },
+        {
+          "id": "c4ac457a1e146407",
+          "title": "Select Major Account Executive EST/CST - Atlanta, GA",
+          "company": "samsara",
+          "posted_at": "2026-01-30T19:35:47.388Z"
         }
       ]
     },
@@ -1519,18 +1524,32 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-samsara-com-company-careers-roles-7460051",
-        "title": "Senior Hardware Reliability Engineer",
-        "company": "samsara",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T19:19:52.167Z"
-      },
-      {
-        "job_id": "www-samsara-com-company-careers-roles-7291574",
+        "job_id": "www-samsara-com-company-careers-roles-7274312",
         "title": "Senior Hardware Systems Engineer",
         "company": "samsara",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T19:19:52.167Z"
+        "timestamp": "2026-01-30T19:35:38.336Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7266361",
+        "title": "Senior Software Engineer, Connected Workflows",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T19:35:38.336Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7306934",
+        "title": "Senior Staff Hardware Systems Engineer",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T19:35:38.336Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7266465",
+        "title": "Senior Systems EPM",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T19:35:38.337Z"
       }
     ],
     "already_posted": [],
@@ -1541,98 +1560,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.159Z"
+        "timestamp": "2026-01-30T19:35:38.329Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.159Z"
+        "timestamp": "2026-01-30T19:35:38.330Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.160Z"
+        "timestamp": "2026-01-30T19:35:38.330Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.160Z"
+        "timestamp": "2026-01-30T19:35:38.330Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.160Z"
+        "timestamp": "2026-01-30T19:35:38.330Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.160Z"
+        "timestamp": "2026-01-30T19:35:38.331Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.161Z"
+        "timestamp": "2026-01-30T19:35:38.331Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.161Z"
+        "timestamp": "2026-01-30T19:35:38.331Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.161Z"
+        "timestamp": "2026-01-30T19:35:38.331Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.162Z"
+        "timestamp": "2026-01-30T19:35:38.331Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.162Z"
+        "timestamp": "2026-01-30T19:35:38.332Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.162Z"
+        "timestamp": "2026-01-30T19:35:38.332Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.162Z"
+        "timestamp": "2026-01-30T19:35:38.332Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:19:52.162Z"
+        "timestamp": "2026-01-30T19:35:38.332Z"
       }
     ]
   }
