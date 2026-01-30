@@ -1,109 +1,117 @@
 {
-  "generated": "2026-01-30T00:18:07.982Z",
+  "generated": "2026-01-30T01:00:07.096Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T00:18:07.982Z",
-  "period_end": "2026-01-30T00:18:07.982Z",
+  "period_start": "2026-01-23T01:00:07.096Z",
+  "period_end": "2026-01-30T01:00:07.096Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 6,
-    "channels_active": 3
+    "filtered_jobs": 14,
+    "channels_active": 4
   },
   "by_channel": {
-    "💻・tech-jobs": {
-      "channel_id": "1462988605306834987",
-      "count": 5,
+    "🤖・ai-jobs": {
+      "channel_id": "1462988662168879217",
+      "count": 6,
       "jobs": [
-        "sanford-wd5-myworkdayjobs-com-sanfordhealth-job-nd-fargo-occupational-therapist-adult-php_r-0247726",
-        "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-everett-wa-application-developer-scientific-applications-entry-level-associate-or-mid-level-_jr2025488280",
-        "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-chicago-illinois-cat-digital-cat-technology-software-engineer_r0000346434-1",
-        "redfin-wd1-myworkdayjobs-com-redfin_careers-job-wa-seattle-software-developer-i-one-stop-shop_59698-2",
-        "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-irving-tx-engineering-associate-auto-lending_r-517644"
+        "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-phoenix-az-engineering-associate-database-engineering-automation_r-517684",
+        "careers-huntingtoningalls-com-job-newport-news-engineer-model-based-1-virg-1359422800",
+        "jobs-jobvite-com-isoftstone-job-o0mgxfwj",
+        "jobs-ashbyhq-com-jerry-ai-b9353cb7-adba-4d9c-96a1-52aa47d08a13-application",
+        "jobs-ashbyhq-com-jerry-ai-d5ca8eec-9694-4a42-9162-532029431be6-application",
+        "job-boards-greenhouse-io-anthropic-jobs-4969394008"
       ],
       "recent_jobs": [
         {
-          "id": "sanford-wd5-myworkdayjobs-com-sanfordhealth-job-nd-fargo-occupational-therapist-adult-php_r-0247726",
-          "title": "Occupational Therapist - Adult PHP",
-          "company": "Sanford Health",
-          "posted_at": "2026-01-30T00:17:38.070Z"
-        },
-        {
-          "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-everett-wa-application-developer-scientific-applications-entry-level-associate-or-mid-level-_jr2025488280",
-          "title": "Application Developer - Scientific Applications",
-          "company": "The Boeing Company",
-          "posted_at": "2026-01-30T00:17:39.735Z"
-        },
-        {
-          "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-chicago-illinois-cat-digital-cat-technology-software-engineer_r0000346434-1",
-          "title": "Software Engineer",
-          "company": "Caterpillar Inc.",
-          "posted_at": "2026-01-30T00:17:41.530Z"
-        },
-        {
-          "id": "redfin-wd1-myworkdayjobs-com-redfin_careers-job-wa-seattle-software-developer-i-one-stop-shop_59698-2",
-          "title": "Software Developer 1 - One Stop Shop",
-          "company": "Redfin",
-          "posted_at": "2026-01-30T00:17:43.517Z"
-        },
-        {
-          "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-irving-tx-engineering-associate-auto-lending_r-517644",
-          "title": "Engineering Associate - Auto Lending",
+          "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-phoenix-az-engineering-associate-database-engineering-automation_r-517684",
+          "title": "Engineering Associate - Database Engineering & Automation",
           "company": "Wells Fargo",
-          "posted_at": "2026-01-30T00:17:45.154Z"
+          "posted_at": "2026-01-30T00:59:34.471Z"
+        },
+        {
+          "id": "careers-huntingtoningalls-com-job-newport-news-engineer-model-based-1-virg-1359422800",
+          "title": "Engineer Model-Based 1",
+          "company": "Huntington Ingalls Industries",
+          "posted_at": "2026-01-30T00:59:36.162Z"
+        },
+        {
+          "id": "jobs-jobvite-com-isoftstone-job-o0mgxfwj",
+          "title": "Data Analyst",
+          "company": "iSoftStone",
+          "posted_at": "2026-01-30T00:59:38.044Z"
+        },
+        {
+          "id": "jobs-ashbyhq-com-jerry-ai-b9353cb7-adba-4d9c-96a1-52aa47d08a13-application",
+          "title": "Associate Software Engineer",
+          "company": "Jerry",
+          "posted_at": "2026-01-30T00:59:39.717Z"
+        },
+        {
+          "id": "jobs-ashbyhq-com-jerry-ai-d5ca8eec-9694-4a42-9162-532029431be6-application",
+          "title": "Software Engineer - Entry",
+          "company": "Jerry",
+          "posted_at": "2026-01-30T00:59:41.475Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4969394008",
+          "title": "People Partner, Research",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T00:59:43.140Z"
         }
       ]
     },
     "📊・data-science-jobs": {
       "channel_id": "1462988721828794531",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "job-boards-greenhouse-io-klaviyocampus-jobs-7602542003",
-        "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-herndon-va-software-engineers-associate-or-experienced-_jr2026491832"
+        "jobs-royalcaribbeangroup-com-job-miami-data-analyst-fl-33131-1348510500"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-klaviyocampus-jobs-7602542003",
-          "title": "Software Engineer 1",
-          "company": "Klaviyo",
-          "posted_at": "2026-01-30T00:17:49.851Z"
-        },
-        {
-          "id": "boeing-wd1-myworkdayjobs-com-external_careers-job-usa-herndon-va-software-engineers-associate-or-experienced-_jr2026491832",
-          "title": "Software Engineer - Associate",
-          "company": "The Boeing Company",
-          "posted_at": "2026-01-30T00:17:51.690Z"
+          "id": "jobs-royalcaribbeangroup-com-job-miami-data-analyst-fl-33131-1348510500",
+          "title": "Data Analyst",
+          "company": "Royal Caribbean Group",
+          "posted_at": "2026-01-30T00:59:47.897Z"
         }
       ]
     },
-    "🤖・ai-jobs": {
-      "channel_id": "1462988662168879217",
-      "count": 3,
+    "💻・tech-jobs": {
+      "channel_id": "1462988605306834987",
+      "count": 2,
       "jobs": [
-        "job-boards-greenhouse-io-latitude-jobs-7565129",
-        "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-chicago-illinois-cat-digital-cat-technology-data-scientist-technical-analyst_r0000346431",
-        "mcafee-wd1-myworkdayjobs-com-external-job-united-states-ai-training-data-acquisition-analyst-spanish-speaker_jr0032255-1"
+        "careers-westinghousenuclear-com-job-norwell-it-software-engineer-analyst-ma-02061-1359224300",
+        "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211920"
       ],
       "recent_jobs": [
         {
-          "id": "job-boards-greenhouse-io-latitude-jobs-7565129",
-          "title": "Triage Associate 1",
-          "company": "Latitude AI",
-          "posted_at": "2026-01-30T00:17:56.737Z"
+          "id": "careers-westinghousenuclear-com-job-norwell-it-software-engineer-analyst-ma-02061-1359224300",
+          "title": "IT Software Engineer Analyst",
+          "company": "Westinghouse Electric Company",
+          "posted_at": "2026-01-30T00:59:52.686Z"
         },
         {
-          "id": "cat-wd5-myworkdayjobs-com-caterpillarcareers-job-chicago-illinois-cat-digital-cat-technology-data-scientist-technical-analyst_r0000346431",
-          "title": "Data Scientist / Technical Analyst - Data Scientist/Technical Analyst",
-          "company": "Caterpillar Inc.",
-          "posted_at": "2026-01-30T00:17:58.422Z"
-        },
+          "id": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211920",
+          "title": "EA Sports Academy Software Engineer",
+          "company": "Electronic Arts",
+          "posted_at": "2026-01-30T00:59:54.404Z"
+        }
+      ]
+    },
+    "💰・finance-jobs": {
+      "channel_id": "1462988755156734023",
+      "count": 1,
+      "jobs": [
+        "careers-stifel-icims-com-jobs-8724-job"
+      ],
+      "recent_jobs": [
         {
-          "id": "mcafee-wd1-myworkdayjobs-com-external-job-united-states-ai-training-data-acquisition-analyst-spanish-speaker_jr0032255-1",
-          "title": "AI Training Data Acquisition Analyst - Spanish Speaker",
-          "company": "McAfee",
-          "posted_at": "2026-01-30T00:18:00.103Z"
+          "id": "careers-stifel-icims-com-jobs-8724-job",
+          "title": "Bank Systems Analyst",
+          "company": "Stifel",
+          "posted_at": "2026-01-30T00:59:59.193Z"
         }
       ]
     }
@@ -113,50 +121,107 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4987662008",
-        "title": "Contracts Manager",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4971331008",
+        "title": "Customer Trust Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:17:37.303Z"
+        "timestamp": "2026-01-30T00:59:33.880Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5017818008",
-        "title": "Corporate Communications Manager ",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5059602008",
+        "title": "Data Center Physical Security Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:17:37.303Z"
+        "timestamp": "2026-01-30T00:59:33.880Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4997951008",
-        "title": "Customer Success Manager, Beneficial Deployments",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023731008",
+        "title": "Data Center Strategic Sourcing Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:17:37.303Z"
+        "timestamp": "2026-01-30T00:59:33.880Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5062733008",
-        "title": "Customer Success Manager, Digital Native Business",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4946314008",
+        "title": "Data Operations Manager, Computer Use & Tool Use",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:17:37.303Z"
+        "timestamp": "2026-01-30T00:59:33.880Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5062393008",
-        "title": "Customer Success Manager, Digital Native Businesses ",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4965218008",
+        "title": "Director, Accounting Operations",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:17:37.303Z"
+        "timestamp": "2026-01-30T00:59:33.880Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082455008",
-        "title": "Customer Success Manager- Strategics",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5077105008",
+        "title": "Director, Compute Infrastructure Procurement ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:17:37.303Z"
+        "timestamp": "2026-01-30T00:59:33.880Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4959525008",
+        "title": "Director, Order Management & Billing",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T00:59:33.880Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5017903008",
+        "title": "Engagement Manager, Applied AI",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T00:59:33.880Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4721383008",
+        "title": "Engineering Manager, Claude Developer Platform",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T00:59:33.880Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026197008",
+        "title": "Engineering Manager, Claude Services",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T00:59:33.880Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5068272008",
+        "title": "Engineering Manager, Cloud Inference Azure",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T00:59:33.880Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4897424008",
+        "title": "Engineering Manager, Cloud Security",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T00:59:33.881Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5071506008",
+        "title": "Engineering Manager, Detection and Response",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T00:59:33.881Z"
       }
     ],
     "already_posted": [],
     "invalid_data": [],
-    "other": []
+    "other": [
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
+        "title": "Developer Campaign Marketer, Claude Code",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-01-30T00:59:33.879Z"
+      }
+    ]
   }
 }
