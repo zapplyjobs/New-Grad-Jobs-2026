@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T22:12:52.744Z",
+  "generated": "2026-01-30T22:32:07.457Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T22:12:52.744Z",
-  "period_end": "2026-01-30T22:12:52.744Z",
+  "period_start": "2026-01-23T22:32:07.457Z",
+  "period_end": "2026-01-30T22:32:07.457Z",
   "summary": {
-    "total_jobs_posted": 859,
-    "unique_jobs": 728,
+    "total_jobs_posted": 869,
+    "unique_jobs": 738,
     "multi_channel_postings": 262,
     "unique_multi_channel_jobs": 131,
     "failed_postings": 0,
-    "filtered_jobs": 21,
+    "filtered_jobs": 20,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 562,
+      "count": 571,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -578,68 +578,77 @@
         "8affbe0c47925608",
         "b4bde7f26f18e607",
         "2881cf8500ddbb59",
-        "788968c350953047"
+        "788968c350953047",
+        "c030c8d2bfcf5c5b",
+        "d15d9473837e6f0f",
+        "32d09b180d624893",
+        "5e6a74c3cbac6efb",
+        "a45f3c5eed279820",
+        "be9b6b1f52be5d09",
+        "c90de3a69255ff33",
+        "8dc4fe04306ebb19",
+        "a8cf9dbaa64b8e10"
       ],
       "recent_jobs": [
-        {
-          "id": "defe343ff4f87281",
-          "title": "Associate Product Engineer",
-          "company": "Snyk",
-          "posted_at": "2026-01-30T21:59:11.464Z"
-        },
-        {
-          "id": "590f8c838a4b205e",
-          "title": "Software Engineer",
-          "company": "Alarm.com",
-          "posted_at": "2026-01-30T21:59:13.282Z"
-        },
-        {
-          "id": "031528952f23c6e3",
-          "title": "Junior Software Developer - Active TS/SCI with Poly Required",
-          "company": "General Dynamics Information Technology",
-          "posted_at": "2026-01-30T22:12:23.230Z"
-        },
-        {
-          "id": "83d76fe2a38fbadf",
-          "title": "Junior Java Developer",
-          "company": "mthree",
-          "posted_at": "2026-01-30T22:12:25.082Z"
-        },
-        {
-          "id": "26f03a24c8ea36cb",
-          "title": "2026 Technology Early Career Development Program-Full Stack Development",
-          "company": "Healthfirst",
-          "posted_at": "2026-01-30T22:12:29.362Z"
-        },
-        {
-          "id": "10e4395e6a99e8eb",
-          "title": "Master Data Coordinator",
-          "company": "Born Primitive",
-          "posted_at": "2026-01-30T22:12:32.831Z"
-        },
-        {
-          "id": "8affbe0c47925608",
-          "title": "Software Engineer 1",
-          "company": "Microsoft",
-          "posted_at": "2026-01-30T22:12:34.621Z"
-        },
-        {
-          "id": "b4bde7f26f18e607",
-          "title": "Account Executive, Commercial Install Base ",
-          "company": "vercel",
-          "posted_at": "2026-01-30T22:12:36.374Z"
-        },
-        {
-          "id": "2881cf8500ddbb59",
-          "title": "University - Software Engineer",
-          "company": "Booz Allen",
-          "posted_at": "2026-01-30T22:12:41.137Z"
-        },
         {
           "id": "788968c350953047",
           "title": "Data Science Analyst 2 - Full Time - United States",
           "company": "Cisco",
           "posted_at": "2026-01-30T22:12:42.881Z"
+        },
+        {
+          "id": "c030c8d2bfcf5c5b",
+          "title": "AI Engineer",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:40.005Z"
+        },
+        {
+          "id": "d15d9473837e6f0f",
+          "title": " IT Infrastructure Engineer ",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:41.830Z"
+        },
+        {
+          "id": "32d09b180d624893",
+          "title": "Product Engineer – v0",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:43.629Z"
+        },
+        {
+          "id": "5e6a74c3cbac6efb",
+          "title": "Commercial Account Executive, Greenfield ",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:48.582Z"
+        },
+        {
+          "id": "a45f3c5eed279820",
+          "title": "Content Engineer",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:50.378Z"
+        },
+        {
+          "id": "be9b6b1f52be5d09",
+          "title": "Sales Engineer",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:52.238Z"
+        },
+        {
+          "id": "c90de3a69255ff33",
+          "title": "Sales Engineer, Startups ",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:55.645Z"
+        },
+        {
+          "id": "8dc4fe04306ebb19",
+          "title": "Software Engineer, AI SDK",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:57.392Z"
+        },
+        {
+          "id": "a8cf9dbaa64b8e10",
+          "title": "Software Engineer, CDN",
+          "company": "vercel",
+          "posted_at": "2026-01-30T22:31:59.242Z"
         }
       ]
     },
@@ -805,7 +814,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 166,
+      "count": 167,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -972,15 +981,10 @@
         "21f4ee4aa0b3f0cb",
         "fc206c0dd88d3350",
         "cc6a74aa82207315",
-        "b25802d146b76802"
+        "b25802d146b76802",
+        "c4a21957e2ad97a6"
       ],
       "recent_jobs": [
-        {
-          "id": "36cd2ae57056ab07",
-          "title": "Account Executive, Mid Market",
-          "company": "brex",
-          "posted_at": "2026-01-30T21:32:06.864Z"
-        },
         {
           "id": "cb3609ee6a323c7c",
           "title": "Software Systems Engineer",
@@ -1034,6 +1038,12 @@
           "title": "Consultant - Digital Transformation and Reporting",
           "company": "The Hartford ",
           "posted_at": "2026-01-30T22:12:18.513Z"
+        },
+        {
+          "id": "c4a21957e2ad97a6",
+          "title": "Select Major Account Executive EST/CST - Raleigh, NC",
+          "company": "samsara",
+          "posted_at": "2026-01-30T22:31:35.053Z"
         }
       ]
     },
@@ -1651,53 +1661,46 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5589398004",
-        "title": "Product Manager - Accounts",
-        "company": "vercel",
+        "job_id": "www-brex-com-careers-8372631002",
+        "title": "Senior Marketing Operations Manager, Product-Led Growth",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T22:12:15.991Z"
+        "timestamp": "2026-01-30T22:31:34.340Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5753944004",
-        "title": "Senior Accountant",
-        "company": "vercel",
+        "job_id": "www-brex-com-careers-8372627002",
+        "title": "Senior Marketing Operations Manager, B2B Sales",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T22:12:15.991Z"
+        "timestamp": "2026-01-30T22:31:34.340Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5759817004",
-        "title": "Senior Manager, FP&A Systems",
-        "company": "vercel",
+        "job_id": "www-brex-com-careers-8366663002",
+        "title": "BizOps Lead, BD",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T22:12:15.991Z"
+        "timestamp": "2026-01-30T22:31:34.340Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5611652004",
-        "title": "Senior Partner Marketing Manager",
-        "company": "vercel",
+        "job_id": "www-brex-com-careers-8366662002",
+        "title": "BizOps Lead, BD",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T22:12:15.991Z"
+        "timestamp": "2026-01-30T22:31:34.340Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5722132004",
-        "title": "Staff Product Marketing Manager, v0",
-        "company": "vercel",
+        "job_id": "www-brex-com-careers-8362761002",
+        "title": " BizOps Lead, BD",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T22:12:15.991Z"
+        "timestamp": "2026-01-30T22:31:34.340Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5743232004",
-        "title": "Strategic Finance Manager, GTM",
-        "company": "vercel",
+        "job_id": "jobs-lever-co-spotify-4ca11c51-6c3f-4272-b5b5-6f4564165f0c",
+        "title": "Manager, Global Yield Programs & Incentives",
+        "company": "spotify",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T22:12:15.991Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7339537",
-        "title": "Senior Offline Media Manager",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T22:12:15.991Z"
+        "timestamp": "2026-01-30T22:31:34.340Z"
       }
     ],
     "already_posted": [],
@@ -1708,98 +1711,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.982Z"
+        "timestamp": "2026-01-30T22:31:34.330Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.982Z"
+        "timestamp": "2026-01-30T22:31:34.330Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.983Z"
+        "timestamp": "2026-01-30T22:31:34.331Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.983Z"
+        "timestamp": "2026-01-30T22:31:34.331Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.983Z"
+        "timestamp": "2026-01-30T22:31:34.331Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.983Z"
+        "timestamp": "2026-01-30T22:31:34.332Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.984Z"
+        "timestamp": "2026-01-30T22:31:34.332Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.984Z"
+        "timestamp": "2026-01-30T22:31:34.332Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.984Z"
+        "timestamp": "2026-01-30T22:31:34.332Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.985Z"
+        "timestamp": "2026-01-30T22:31:34.333Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.985Z"
+        "timestamp": "2026-01-30T22:31:34.333Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.985Z"
+        "timestamp": "2026-01-30T22:31:34.333Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.986Z"
+        "timestamp": "2026-01-30T22:31:34.334Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T22:12:15.986Z"
+        "timestamp": "2026-01-30T22:31:34.334Z"
       }
     ]
   }
