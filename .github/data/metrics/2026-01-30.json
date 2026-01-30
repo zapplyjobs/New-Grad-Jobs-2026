@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T08:56:26.993Z",
+  "generated": "2026-01-30T09:21:05.770Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T08:56:26.993Z",
-  "period_end": "2026-01-30T08:56:26.993Z",
+  "period_start": "2026-01-23T09:21:05.770Z",
+  "period_end": "2026-01-30T09:21:05.770Z",
   "summary": {
-    "total_jobs_posted": 379,
-    "unique_jobs": 349,
-    "multi_channel_postings": 60,
-    "unique_multi_channel_jobs": 30,
+    "total_jobs_posted": 394,
+    "unique_jobs": 359,
+    "multi_channel_postings": 70,
+    "unique_multi_channel_jobs": 35,
     "failed_postings": 0,
-    "filtered_jobs": 17,
+    "filtered_jobs": 12,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 275,
+      "count": 284,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -291,74 +291,83 @@
         "76e8d639610e4300",
         "f7523de18ff8196e",
         "d15f0df5685b2f3a",
-        "814a229f2d32d75b"
+        "814a229f2d32d75b",
+        "32d573c1ac98265c",
+        "f3a9bfbb5f23051a",
+        "ba9db10a61525929",
+        "6820e7f9a973a7ab",
+        "6b7e31ceefc7c6eb",
+        "888532439bf0d113",
+        "73e5496d13f6e2d9",
+        "a289f8f9948527f6",
+        "d5a618fb3fa696d4"
       ],
       "recent_jobs": [
-        {
-          "id": "284a526a847da489",
-          "title": "Technical Recruiter, Specialized",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T08:33:09.595Z"
-        },
-        {
-          "id": "a3eae847feb5057f",
-          "title": "Technical Scaled Abuse Threat Investigator",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T08:33:11.332Z"
-        },
-        {
-          "id": "9ea29f84c577fc72",
-          "title": "Threat Collections Engineer",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T08:55:55.624Z"
-        },
-        {
-          "id": "3e132d627ec327b1",
-          "title": "TPU Kernel Engineer",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T08:55:57.417Z"
-        },
-        {
-          "id": "cfa445eeb1e760d7",
-          "title": "AI Data Specialist",
-          "company": "RWS",
-          "posted_at": "2026-01-30T08:55:59.163Z"
-        },
-        {
-          "id": "3969156426134822",
-          "title": "Design Operations Strategist",
-          "company": "figma",
-          "posted_at": "2026-01-30T08:56:11.779Z"
-        },
-        {
-          "id": "76e8d639610e4300",
-          "title": "Research Assistant - S3D - School of Computer Science",
-          "company": "Carnegie Mellon University",
-          "posted_at": "2026-01-30T08:56:13.576Z"
-        },
-        {
-          "id": "f7523de18ff8196e",
-          "title": "Control Room Operator",
-          "company": "Invenergy",
-          "posted_at": "2026-01-30T08:56:15.266Z"
-        },
-        {
-          "id": "d15f0df5685b2f3a",
-          "title": "Integrity Analyst 1",
-          "company": "ONEOK",
-          "posted_at": "2026-01-30T08:56:16.955Z"
-        },
         {
           "id": "814a229f2d32d75b",
           "title": "Engineering Associate - Auto Lending",
           "company": "Wells Fargo",
           "posted_at": "2026-01-30T08:56:18.679Z"
+        },
+        {
+          "id": "32d573c1ac98265c",
+          "title": "AI Data Specialist - South Carolina - US",
+          "company": "RWS",
+          "posted_at": "2026-01-30T09:20:25.651Z"
+        },
+        {
+          "id": "f3a9bfbb5f23051a",
+          "title": "AI Data Specialist - Missouri - US",
+          "company": "RWS",
+          "posted_at": "2026-01-30T09:20:27.460Z"
+        },
+        {
+          "id": "ba9db10a61525929",
+          "title": "AI Data Specialist - Ohio - US",
+          "company": "RWS",
+          "posted_at": "2026-01-30T09:20:29.248Z"
+        },
+        {
+          "id": "6820e7f9a973a7ab",
+          "title": "AI Data Specialist - Alabama - US",
+          "company": "RWS",
+          "posted_at": "2026-01-30T09:20:31.055Z"
+        },
+        {
+          "id": "6b7e31ceefc7c6eb",
+          "title": "Head of Brand Campaigns",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:35.938Z"
+        },
+        {
+          "id": "888532439bf0d113",
+          "title": "Influencer Marketing, Intern",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:39.513Z"
+        },
+        {
+          "id": "73e5496d13f6e2d9",
+          "title": "QA Specialist, New Graduate",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:43.025Z"
+        },
+        {
+          "id": "a289f8f9948527f6",
+          "title": "Social Content Creator, Intern",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:46.882Z"
+        },
+        {
+          "id": "d5a618fb3fa696d4",
+          "title": "Enterprise Sales Engineer",
+          "company": "datadog",
+          "posted_at": "2026-01-30T09:20:50.427Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 25,
+      "count": 29,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -384,33 +393,13 @@
         "6ed79a9157c96f0e",
         "0b2439f327b93576",
         "5a640b8a3a310c3b",
-        "b9ba2494d26b0a23"
+        "b9ba2494d26b0a23",
+        "6b7e31ceefc7c6eb",
+        "888532439bf0d113",
+        "73e5496d13f6e2d9",
+        "a289f8f9948527f6"
       ],
       "recent_jobs": [
-        {
-          "id": "668320062b686724",
-          "title": "Sourcer II",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:21.895Z"
-        },
-        {
-          "id": "31283c19812c10d3",
-          "title": "IT Internal Auditor II - NYC",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:38.026Z"
-        },
-        {
-          "id": "d4ec07e5bafe6969",
-          "title": "Software Engineer Data/AI/Intelligent Systems 2 - Full Time - United States",
-          "company": "Cisco",
-          "posted_at": "2026-01-29T22:04:59.430Z"
-        },
-        {
-          "id": "224d2f0156a18034",
-          "title": "Associate Data Engineer",
-          "company": "qode.world",
-          "posted_at": "2026-01-29T22:15:05.686Z"
-        },
         {
           "id": "bb1aa88453bec2d4",
           "title": "Mobile Engineer",
@@ -446,12 +435,36 @@
           "title": "Strategic Account Executive, Insurance",
           "company": "anthropic",
           "posted_at": "2026-01-30T08:17:10.940Z"
+        },
+        {
+          "id": "6b7e31ceefc7c6eb",
+          "title": "Head of Brand Campaigns",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:35.938Z"
+        },
+        {
+          "id": "888532439bf0d113",
+          "title": "Influencer Marketing, Intern",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:39.513Z"
+        },
+        {
+          "id": "73e5496d13f6e2d9",
+          "title": "QA Specialist, New Graduate",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:43.025Z"
+        },
+        {
+          "id": "a289f8f9948527f6",
+          "title": "Social Content Creator, Intern",
+          "company": "duolingo",
+          "posted_at": "2026-01-30T09:20:46.882Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 74,
+      "count": 75,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -526,15 +539,10 @@
         "8d277e652b817236",
         "076392afab92b394",
         "b18b5e7af525a8df",
-        "6de0e820e860e0e7"
+        "6de0e820e860e0e7",
+        "46062013ac689ffe"
       ],
       "recent_jobs": [
-        {
-          "id": "c3ce575848ce9be1",
-          "title": "Recruiting Data Engineering & Analytics",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:22:19.455Z"
-        },
         {
           "id": "f4f1b9747d6ab867",
           "title": "Revenue Accounting",
@@ -588,18 +596,25 @@
           "title": "Sales Development Representative (AAE), Salt Lake City",
           "company": "verkada",
           "posted_at": "2026-01-30T08:56:05.853Z"
+        },
+        {
+          "id": "46062013ac689ffe",
+          "title": "Application Analyst",
+          "company": "Mass General Brigham",
+          "posted_at": "2026-01-30T09:20:57.008Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 5,
+      "count": 6,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
         "3fc9e5e673ad9a41",
-        "38acb8b92d7249c0"
+        "38acb8b92d7249c0",
+        "d5a618fb3fa696d4"
       ],
       "recent_jobs": [
         {
@@ -631,6 +646,12 @@
           "title": "Expansion Account Executive, Enterprise",
           "company": "brex",
           "posted_at": "2026-01-29T22:32:08.786Z"
+        },
+        {
+          "id": "d5a618fb3fa696d4",
+          "title": "Enterprise Sales Engineer",
+          "company": "datadog",
+          "posted_at": "2026-01-30T09:20:50.427Z"
         }
       ]
     }
@@ -935,80 +956,95 @@
         "channel-14629888"
       ],
       "posted_at": "2026-01-30T08:17:10.940Z"
+    },
+    {
+      "job_id": "6b7e31ceefc7c6eb",
+      "company": "duolingo",
+      "title": "Head of Brand Campaigns",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T09:20:35.938Z"
+    },
+    {
+      "job_id": "888532439bf0d113",
+      "company": "duolingo",
+      "title": "Influencer Marketing, Intern",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T09:20:39.513Z"
+    },
+    {
+      "job_id": "73e5496d13f6e2d9",
+      "company": "duolingo",
+      "title": "QA Specialist, New Graduate",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T09:20:43.025Z"
+    },
+    {
+      "job_id": "a289f8f9948527f6",
+      "company": "duolingo",
+      "title": "Social Content Creator, Intern",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T09:20:46.882Z"
+    },
+    {
+      "job_id": "d5a618fb3fa696d4",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-30T09:20:50.427Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5691965004",
-        "title": "Director, Product Counseling",
-        "company": "vercel",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-7982552002",
+        "title": "Senior Solutions Consultant",
+        "company": "airtable",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.661Z"
+        "timestamp": "2026-01-30T09:20:25.165Z"
       },
       {
-        "job_id": "careers-westinghousenuclear-com-job-cranberry-township-new-grad-leadership-engineer-computer-engineering-nc-1359127900",
-        "title": "Graduate Leadership Engineer - Computer Engineering",
-        "company": "Westinghouse Electric Company",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8009894002",
+        "title": "Lead Solutions Consultant",
+        "company": "airtable",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.661Z"
+        "timestamp": "2026-01-30T09:20:25.165Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8200328002",
-        "title": "Senior Software Engineer- Database Infrastructure",
-        "company": "discord",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8293251002",
+        "title": "Engineering Manager, AI Platform ",
+        "company": "airtable",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.661Z"
+        "timestamp": "2026-01-30T09:20:25.165Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7511460",
-        "title": "Workforce Management Contact Routing Lead",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8385135002",
+        "title": "Engineering Manager, AI Product",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T09:20:25.165Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7272738",
+        "title": "Benefits Customer Onboarding Manager",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.661Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8182912002",
-        "title": "Senior Software Engineer, Consumer Revenue",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.661Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7134111",
-        "title": "Data Science Senior Manager",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.661Z"
-      },
-      {
-        "job_id": "ameriprise-wd5-myworkdayjobs-com-en-us-ameriprise-job-minneapolis-minnesota-technology-leadership-development-program-associate_r25_0000002820",
-        "title": "Technology Leadership Development Program Associate",
-        "company": "Ameriprise Financial",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.661Z"
-      },
-      {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-msd-experimental-condensed-matter-physics_421675",
-        "title": "Postdoctoral Appointee - MSD Experimental Condensed Matter Physics",
-        "company": "Argonne National Laboratory",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.662Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8390148002",
-        "title": "Senior Manager, Business Development",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.662Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-7962890002",
-        "title": "Senior Manager, Business Development (Embedded Finance)",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T08:55:54.662Z"
+        "timestamp": "2026-01-30T09:20:25.165Z"
       }
     ],
     "already_posted": [],
@@ -1019,49 +1055,49 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:55:54.655Z"
+        "timestamp": "2026-01-30T09:20:25.158Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:55:54.655Z"
+        "timestamp": "2026-01-30T09:20:25.159Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:55:54.655Z"
+        "timestamp": "2026-01-30T09:20:25.159Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:55:54.658Z"
+        "timestamp": "2026-01-30T09:20:25.162Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:55:54.659Z"
+        "timestamp": "2026-01-30T09:20:25.162Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:55:54.659Z"
+        "timestamp": "2026-01-30T09:20:25.162Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:55:54.659Z"
+        "timestamp": "2026-01-30T09:20:25.162Z"
       }
     ]
   }
