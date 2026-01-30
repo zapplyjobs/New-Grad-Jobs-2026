@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T12:01:12.724Z",
+  "generated": "2026-01-30T12:17:15.399Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T12:01:12.724Z",
-  "period_end": "2026-01-30T12:01:12.724Z",
+  "period_start": "2026-01-23T12:17:15.399Z",
+  "period_end": "2026-01-30T12:17:15.399Z",
   "summary": {
-    "total_jobs_posted": 487,
-    "unique_jobs": 439,
-    "multi_channel_postings": 96,
-    "unique_multi_channel_jobs": 48,
+    "total_jobs_posted": 499,
+    "unique_jobs": 449,
+    "multi_channel_postings": 100,
+    "unique_multi_channel_jobs": 50,
     "failed_postings": 0,
-    "filtered_jobs": 17,
+    "filtered_jobs": 16,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 344,
+      "count": 352,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -360,57 +360,17 @@
         "1433cc9c67a5b6e7",
         "657b1eb1357923b5",
         "4a39c7e085dcc152",
-        "23b64dddb0359fc3"
+        "23b64dddb0359fc3",
+        "dd04af1d3ca5599d",
+        "789957eaddbdc707",
+        "c48cfbbf03dc82ae",
+        "879ec20fb73e7b85",
+        "8b135844c5e0f367",
+        "6b7fd78b517f6cc1",
+        "f55463d659ea11ba",
+        "976676c50bb42f14"
       ],
       "recent_jobs": [
-        {
-          "id": "7b664da16ff5f52d",
-          "title": "Applied Scientist 1 - SPB Advertiser Guidance",
-          "company": "Amazon",
-          "posted_at": "2026-01-30T11:48:24.512Z"
-        },
-        {
-          "id": "91798fbf6cac7dad",
-          "title": "Associate Content Author",
-          "company": "Critical Mass",
-          "posted_at": "2026-01-30T11:48:36.168Z"
-        },
-        {
-          "id": "9c55ec446dc6f2f9",
-          "title": "Researcher, Core Product Strategy",
-          "company": "figma",
-          "posted_at": "2026-01-30T12:00:34.883Z"
-        },
-        {
-          "id": "fb26f6d6d19da1f4",
-          "title": "Strategic Account Executive (SLED)",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:00:36.596Z"
-        },
-        {
-          "id": "bf492d923312496f",
-          "title": "Strategic Account Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:00:40.018Z"
-        },
-        {
-          "id": "7e21e31c57223ffd",
-          "title": "RPA Developer - Consultant",
-          "company": "Baker Tilly",
-          "posted_at": "2026-01-30T12:00:43.468Z"
-        },
-        {
-          "id": "1433cc9c67a5b6e7",
-          "title": "Software Engineer - Loans Origination",
-          "company": "SoFi",
-          "posted_at": "2026-01-30T12:00:45.196Z"
-        },
-        {
-          "id": "657b1eb1357923b5",
-          "title": "Engineer 1 - Software Engineering-\"Fixed-Term Contract\"",
-          "company": "ASM International",
-          "posted_at": "2026-01-30T12:00:46.929Z"
-        },
         {
           "id": "4a39c7e085dcc152",
           "title": "Data Scientist - Machine Learning & Deep Learning",
@@ -422,6 +382,54 @@
           "title": "Research Fellow in Cardiovascular MRI Physics",
           "company": "Beth Israel Lahey Health",
           "posted_at": "2026-01-30T12:00:58.186Z"
+        },
+        {
+          "id": "dd04af1d3ca5599d",
+          "title": "Strategic Account Executive (SLED)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T12:16:44.016Z"
+        },
+        {
+          "id": "789957eaddbdc707",
+          "title": "Strategic Account Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T12:16:47.965Z"
+        },
+        {
+          "id": "c48cfbbf03dc82ae",
+          "title": "Strategic Account Executive (FED)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T12:16:49.704Z"
+        },
+        {
+          "id": "879ec20fb73e7b85",
+          "title": "Security Product Engineer 1 - ArcGIS Enterprise",
+          "company": "Esri",
+          "posted_at": "2026-01-30T12:16:53.228Z"
+        },
+        {
+          "id": "8b135844c5e0f367",
+          "title": "Software Developer 1",
+          "company": "Redfin",
+          "posted_at": "2026-01-30T12:16:55.031Z"
+        },
+        {
+          "id": "6b7fd78b517f6cc1",
+          "title": "Software Engineer 1 - Applications",
+          "company": "AeroVironment",
+          "posted_at": "2026-01-30T12:16:56.771Z"
+        },
+        {
+          "id": "f55463d659ea11ba",
+          "title": "Associate Specialist - Engineering",
+          "company": "Merck",
+          "posted_at": "2026-01-30T12:16:58.471Z"
+        },
+        {
+          "id": "976676c50bb42f14",
+          "title": "Engineering Administrator",
+          "company": "IEM",
+          "posted_at": "2026-01-30T12:17:00.605Z"
         }
       ]
     },
@@ -530,7 +538,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 95,
+      "count": 97,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -626,21 +634,11 @@
         "a88e44122e470523",
         "69e95e7c5bfaeaa8",
         "698db97d67e14658",
-        "c839d94b4229a3f5"
+        "c839d94b4229a3f5",
+        "2358a0a13b538419",
+        "68c3b4bab8623f61"
       ],
       "recent_jobs": [
-        {
-          "id": "4390f164f3590ca2",
-          "title": "Enterprise Sales Account Executive,  State (Virginia)",
-          "company": "verkada",
-          "posted_at": "2026-01-30T10:32:42.307Z"
-        },
-        {
-          "id": "fec4890377d06a1b",
-          "title": "Enterprise Sales Account Executive,  State",
-          "company": "verkada",
-          "posted_at": "2026-01-30T10:32:44.129Z"
-        },
         {
           "id": "ec82164949ddd5be",
           "title": "Account Executive, Territory (Mid-Market)",
@@ -688,12 +686,24 @@
           "title": "Digital Analyst",
           "company": "TelevisaUnivision",
           "posted_at": "2026-01-30T12:01:02.905Z"
+        },
+        {
+          "id": "2358a0a13b538419",
+          "title": "Data Scientist 1",
+          "company": "Esri",
+          "posted_at": "2026-01-30T12:17:05.361Z"
+        },
+        {
+          "id": "68c3b4bab8623f61",
+          "title": "Data Engineer Graduate - Dpus - Global Live",
+          "company": "TikTok",
+          "posted_at": "2026-01-30T12:17:07.155Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 13,
+      "count": 15,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -707,21 +717,11 @@
         "6776d496047c5adc",
         "095d8ced98508da3",
         "fb26f6d6d19da1f4",
-        "bf492d923312496f"
+        "bf492d923312496f",
+        "dd04af1d3ca5599d",
+        "c48cfbbf03dc82ae"
       ],
       "recent_jobs": [
-        {
-          "id": "3fc9e5e673ad9a41",
-          "title": "Sales Recruiter (12-month contract)",
-          "company": "brex",
-          "posted_at": "2026-01-29T19:52:06.962Z"
-        },
-        {
-          "id": "38acb8b92d7249c0",
-          "title": "Expansion Account Executive, Enterprise",
-          "company": "brex",
-          "posted_at": "2026-01-29T22:32:08.786Z"
-        },
         {
           "id": "d5a618fb3fa696d4",
           "title": "Enterprise Sales Engineer",
@@ -769,6 +769,18 @@
           "title": "Strategic Account Executive",
           "company": "datadog",
           "posted_at": "2026-01-30T12:00:40.018Z"
+        },
+        {
+          "id": "dd04af1d3ca5599d",
+          "title": "Strategic Account Executive (SLED)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T12:16:44.016Z"
+        },
+        {
+          "id": "c48cfbbf03dc82ae",
+          "title": "Strategic Account Executive (FED)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T12:16:49.704Z"
         }
       ]
     }
@@ -1253,31 +1265,44 @@
         "channel-14629888"
       ],
       "posted_at": "2026-01-30T12:01:02.905Z"
+    },
+    {
+      "job_id": "dd04af1d3ca5599d",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-30T12:16:44.016Z"
+    },
+    {
+      "job_id": "c48cfbbf03dc82ae",
+      "company": "datadog",
+      "title": "Strategic Account Executive (FED)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-30T12:16:49.704Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7528860",
-        "title": "Sr Staff Software Engineer, Gusto Pro",
-        "company": "gusto",
+        "job_id": "www-samsara-com-company-careers-roles-7536651",
+        "title": "Regional Sales Director, Enterprise Select-South East US",
+        "company": "samsara",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:00:34.385Z"
+        "timestamp": "2026-01-30T12:16:43.475Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5777374004",
-        "title": "Product Lead, v0",
-        "company": "vercel",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8362661002",
+        "title": "Strategic Sourcing Manager",
+        "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:00:34.385Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7467275",
-        "title": "Senior Accountant (Platform Accounting)",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:00:34.385Z"
+        "timestamp": "2026-01-30T12:16:43.475Z"
       }
     ],
     "already_posted": [],
@@ -1288,98 +1313,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.378Z"
+        "timestamp": "2026-01-30T12:16:43.468Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.378Z"
+        "timestamp": "2026-01-30T12:16:43.469Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.378Z"
+        "timestamp": "2026-01-30T12:16:43.469Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.379Z"
+        "timestamp": "2026-01-30T12:16:43.469Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.379Z"
+        "timestamp": "2026-01-30T12:16:43.469Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.379Z"
+        "timestamp": "2026-01-30T12:16:43.470Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.379Z"
+        "timestamp": "2026-01-30T12:16:43.470Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.379Z"
+        "timestamp": "2026-01-30T12:16:43.470Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.380Z"
+        "timestamp": "2026-01-30T12:16:43.470Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.380Z"
+        "timestamp": "2026-01-30T12:16:43.470Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.380Z"
+        "timestamp": "2026-01-30T12:16:43.471Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.380Z"
+        "timestamp": "2026-01-30T12:16:43.471Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.381Z"
+        "timestamp": "2026-01-30T12:16:43.471Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:00:34.381Z"
+        "timestamp": "2026-01-30T12:16:43.471Z"
       }
     ]
   }
