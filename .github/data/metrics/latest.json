@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T04:35:05.752Z",
+  "generated": "2026-01-30T05:05:58.004Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T04:35:05.752Z",
-  "period_end": "2026-01-30T04:35:05.752Z",
+  "period_start": "2026-01-23T05:05:58.004Z",
+  "period_end": "2026-01-30T05:05:58.004Z",
   "summary": {
-    "total_jobs_posted": 266,
-    "unique_jobs": 239,
-    "multi_channel_postings": 54,
-    "unique_multi_channel_jobs": 27,
+    "total_jobs_posted": 277,
+    "unique_jobs": 249,
+    "multi_channel_postings": 56,
+    "unique_multi_channel_jobs": 28,
     "failed_postings": 0,
-    "filtered_jobs": 0,
+    "filtered_jobs": 12,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 180,
+      "count": 186,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -196,45 +196,15 @@
         "2ce867d27249b2d0",
         "312b4545c21d84cb",
         "60440be5708f4c4f",
-        "aac052cc9fcbe497"
+        "aac052cc9fcbe497",
+        "03b655e46ca679b2",
+        "6fe06c4a385ab7b8",
+        "0b2439f327b93576",
+        "2b0b4ddd84bb500f",
+        "d59b0766f489e92f",
+        "06cdacdcf65ee238"
       ],
       "recent_jobs": [
-        {
-          "id": "a14617c82897de1c",
-          "title": "Enterprise Account Executive, Federal Civilian Sales",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T03:41:39.801Z"
-        },
-        {
-          "id": "5b6fa6fbbc34f534",
-          "title": "Enterprise Account Executive, Federal Partners Sales",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T03:41:41.514Z"
-        },
-        {
-          "id": "5f1d15dbcd7a9df3",
-          "title": "Enterprise Account Executive, Healthcare",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:15.959Z"
-        },
-        {
-          "id": "8dd1179dfd170802",
-          "title": "Enterprise Account Executive, Industries",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:17.804Z"
-        },
-        {
-          "id": "69d6ddaef94bc1ce",
-          "title": "Enterprise Account Executive, Life Sciences",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:19.483Z"
-        },
-        {
-          "id": "0a2f5219163c46af",
-          "title": "Enterprise Account Executive, State & Local Sales",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:21.194Z"
-        },
         {
           "id": "2ce867d27249b2d0",
           "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
@@ -258,12 +228,48 @@
           "title": "Google GTM Cosell Partnerships",
           "company": "anthropic",
           "posted_at": "2026-01-30T04:29:40.733Z"
+        },
+        {
+          "id": "03b655e46ca679b2",
+          "title": "Growth Account Executive",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:28.537Z"
+        },
+        {
+          "id": "6fe06c4a385ab7b8",
+          "title": "Head of GTM Narrative ",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:30.462Z"
+        },
+        {
+          "id": "0b2439f327b93576",
+          "title": "Head of Insurance, GTM Sales",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:32.202Z"
+        },
+        {
+          "id": "2b0b4ddd84bb500f",
+          "title": "Head of Product Communications",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:35.734Z"
+        },
+        {
+          "id": "d59b0766f489e92f",
+          "title": "Incentive Compensation System Engineer",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:37.443Z"
+        },
+        {
+          "id": "06cdacdcf65ee238",
+          "title": "Infrastructure Engineer, Sandboxing",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:39.312Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 22,
+      "count": 23,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -286,15 +292,10 @@
         "224d2f0156a18034",
         "bb1aa88453bec2d4",
         "e16a70b0626e41ff",
-        "6ed79a9157c96f0e"
+        "6ed79a9157c96f0e",
+        "0b2439f327b93576"
       ],
       "recent_jobs": [
-        {
-          "id": "f7623b06c9d2da4f",
-          "title": "Associate Operations & Modeling Rail Planner/Analyst",
-          "company": "WSP",
-          "posted_at": "2026-01-29T19:37:30.225Z"
-        },
         {
           "id": "06d7ac1cec409c4f",
           "title": "Container Runtime Engineer",
@@ -348,12 +349,18 @@
           "title": "Temporary Informatics and Data Analyst - Qmps",
           "company": "Cornell University",
           "posted_at": "2026-01-30T01:52:08.230Z"
+        },
+        {
+          "id": "0b2439f327b93576",
+          "title": "Head of Insurance, GTM Sales",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:32.202Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 59,
+      "count": 63,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -413,33 +420,13 @@
         "fdc243d2412e97e6",
         "3b56aea296550a21",
         "737e68f4c133537a",
-        "3da0b54a38da310e"
+        "3da0b54a38da310e",
+        "fdf2804bd0494b87",
+        "f000e8fcaa975a80",
+        "06af23f9bc1b6900",
+        "30182ad44ab9f90c"
       ],
       "recent_jobs": [
-        {
-          "id": "338d0b23b6ff95a8",
-          "title": "Commercial Counsel, Datacenters & Construction",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:07.401Z"
-        },
-        {
-          "id": "e2bca6068c4bf8b5",
-          "title": "Commercial Counsel, Partnerships & Alliances",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:09.152Z"
-        },
-        {
-          "id": "96a926e1fe686c06",
-          "title": "Compensation Systems and Infrastructure",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:10.867Z"
-        },
-        {
-          "id": "2f6dcee36539654a",
-          "title": "Compute Transactions & Partnerships",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T02:45:12.583Z"
-        },
         {
           "id": "a9733ba1a6f492c1",
           "title": "Capacity Engineer, Compute",
@@ -475,6 +462,30 @@
           "title": "Financial Reporting Accountant",
           "company": "anthropic",
           "posted_at": "2026-01-30T04:29:32.540Z"
+        },
+        {
+          "id": "fdf2804bd0494b87",
+          "title": "Head of Asset & Wealth Management, GTM Sales",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:44.369Z"
+        },
+        {
+          "id": "f000e8fcaa975a80",
+          "title": "Head of Enterprise Support",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:46.163Z"
+        },
+        {
+          "id": "06af23f9bc1b6900",
+          "title": "Head of Infrastructure Accounting ",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:47.882Z"
+        },
+        {
+          "id": "30182ad44ab9f90c",
+          "title": "Head of IT SOX",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T05:05:49.658Z"
         }
       ]
     },
@@ -792,13 +803,109 @@
         "channel-14629888"
       ],
       "posted_at": "2026-01-30T01:52:08.230Z"
+    },
+    {
+      "job_id": "0b2439f327b93576",
+      "company": "anthropic",
+      "title": "Head of Insurance, GTM Sales",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T05:05:32.202Z"
     }
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5024981008",
+        "title": "Product Manager, Claude Code Growth",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5077197008",
+        "title": "Product Manager, Revenue Platform",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5055669008",
+        "title": "Product Marketing Lead, Agents",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4996752008",
+        "title": "Product Marketing Manager, Claude Code",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4971429008",
+        "title": "Product Operations Manager",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5055264008",
+        "title": "Product Operations Manager, Claude Code",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4992055008",
+        "title": "Product Operations Manager, Public Sector ",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4992071008",
+        "title": "Product Operations Manager, Research Product ",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.013Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5067283008",
+        "title": "Product Policy Manager, Frontier Risk",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.014Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5073388008",
+        "title": "Program Manager, Responsible Scaling Policy",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T05:05:28.014Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
-    "other": []
+    "other": [
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
+        "title": "Developer Campaign Marketer, Claude Code",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-01-30T05:05:28.008Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
+        "title": "Head of Azure Partnership",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-01-30T05:05:28.009Z"
+      }
+    ]
   }
 }
