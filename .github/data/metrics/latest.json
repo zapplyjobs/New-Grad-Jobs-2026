@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T12:55:57.707Z",
+  "generated": "2026-01-30T14:03:28.133Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T12:55:57.707Z",
-  "period_end": "2026-01-30T12:55:57.707Z",
+  "period_start": "2026-01-23T14:03:28.133Z",
+  "period_end": "2026-01-30T14:03:28.133Z",
   "summary": {
-    "total_jobs_posted": 525,
-    "unique_jobs": 467,
-    "multi_channel_postings": 116,
-    "unique_multi_channel_jobs": 58,
+    "total_jobs_posted": 541,
+    "unique_jobs": 477,
+    "multi_channel_postings": 128,
+    "unique_multi_channel_jobs": 64,
     "failed_postings": 0,
-    "filtered_jobs": 35,
+    "filtered_jobs": 33,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 365,
+      "count": 374,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -381,74 +381,83 @@
         "a92cb05f18187a8b",
         "16b9f4c45672c103",
         "134e9971c4990337",
-        "624574085400e708"
+        "624574085400e708",
+        "972bc286a9bcc289",
+        "f1e7beb0eb4365f6",
+        "878b22e664a5233c",
+        "34fe655b32ee3e93",
+        "473518b6b79e6733",
+        "9ca76292a8c8ef53",
+        "f3317430189edbed",
+        "dfccfffd8fb036d7",
+        "b3ec48193dcd8dd6"
       ],
       "recent_jobs": [
-        {
-          "id": "2d5bf3b5c7211397",
-          "title": "Survey Office Technician",
-          "company": "NV5 Global",
-          "posted_at": "2026-01-30T12:33:40.485Z"
-        },
-        {
-          "id": "1752149f9c33ab78",
-          "title": "Key Accounts Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:33:42.220Z"
-        },
-        {
-          "id": "3cfd5849ee1fb676",
-          "title": "GTM Engineer ",
-          "company": "vercel",
-          "posted_at": "2026-01-30T12:33:43.916Z"
-        },
-        {
-          "id": "4295898c179fe0ac",
-          "title": "Enterprise Sales Executive (SLED)",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:33:45.655Z"
-        },
-        {
-          "id": "21f964bba9908c45",
-          "title": "2026 Summer Internship, Trust & Safety (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T12:34:00.149Z"
-        },
-        {
-          "id": "aeb8cd8b79aed6ad",
-          "title": "Strategic Account Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:55:23.438Z"
-        },
-        {
-          "id": "a92cb05f18187a8b",
-          "title": "Key Accounts Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:55:27.226Z"
-        },
-        {
-          "id": "16b9f4c45672c103",
-          "title": " Enterprise Sales Executive (SLED)",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:55:30.788Z"
-        },
-        {
-          "id": "134e9971c4990337",
-          "title": "Enterprise Sales Executive ",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:55:34.485Z"
-        },
         {
           "id": "624574085400e708",
           "title": "Content Technologist (Temporary)",
           "company": "discord",
           "posted_at": "2026-01-30T12:55:39.456Z"
+        },
+        {
+          "id": "972bc286a9bcc289",
+          "title": "Strategic Account Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:02:45.781Z"
+        },
+        {
+          "id": "f1e7beb0eb4365f6",
+          "title": "Enterprise Sales Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:02:49.489Z"
+        },
+        {
+          "id": "878b22e664a5233c",
+          "title": "Software Engineer, Mobile",
+          "company": "discord",
+          "posted_at": "2026-01-30T14:02:53.282Z"
+        },
+        {
+          "id": "34fe655b32ee3e93",
+          "title": "Software Engineer - Realtime Infrastructure",
+          "company": "discord",
+          "posted_at": "2026-01-30T14:02:55.089Z"
+        },
+        {
+          "id": "473518b6b79e6733",
+          "title": "Builder Evangelist ",
+          "company": "airtable",
+          "posted_at": "2026-01-30T14:02:56.952Z"
+        },
+        {
+          "id": "9ca76292a8c8ef53",
+          "title": "Recruiter II - Technical Solutions",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:02:58.748Z"
+        },
+        {
+          "id": "f3317430189edbed",
+          "title": "Area Vice President, Enterprise Sales - Public Sector",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:03:02.499Z"
+        },
+        {
+          "id": "dfccfffd8fb036d7",
+          "title": "AI Research Engineer – Datadog AI Research (DAIR)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:03:14.200Z"
+        },
+        {
+          "id": "b3ec48193dcd8dd6",
+          "title": "AI Research Scientist – Datadog AI Research (DAIR)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:03:17.689Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 39,
+      "count": 43,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -488,33 +497,13 @@
         "7b88f972a9896407",
         "21f964bba9908c45",
         "a92cb05f18187a8b",
-        "134e9971c4990337"
+        "134e9971c4990337",
+        "972bc286a9bcc289",
+        "9ca76292a8c8ef53",
+        "dfccfffd8fb036d7",
+        "b3ec48193dcd8dd6"
       ],
       "recent_jobs": [
-        {
-          "id": "710f958fe13dd501",
-          "title": "Account Executive, Territory (Mid-Market)",
-          "company": "verkada",
-          "posted_at": "2026-01-30T10:17:45.937Z"
-        },
-        {
-          "id": "6ba47f01486955fe",
-          "title": "Account Executive, Embedded Finance",
-          "company": "brex",
-          "posted_at": "2026-01-30T10:32:38.831Z"
-        },
-        {
-          "id": "7344d67c09eeefb3",
-          "title": "Associate Value Engineer - AI-Driven Data Science & Analytics",
-          "company": "Celonis",
-          "posted_at": "2026-01-30T10:33:04.309Z"
-        },
-        {
-          "id": "a9ad4c6cb459d9a0",
-          "title": "Security Sales Engineer - US East",
-          "company": "datadog",
-          "posted_at": "2026-01-30T11:23:09.939Z"
-        },
         {
           "id": "37288ce8dee3c305",
           "title": "Expansion Account Executive, Enterprise",
@@ -550,12 +539,36 @@
           "title": "Enterprise Sales Executive ",
           "company": "datadog",
           "posted_at": "2026-01-30T12:55:34.485Z"
+        },
+        {
+          "id": "972bc286a9bcc289",
+          "title": "Strategic Account Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:02:45.781Z"
+        },
+        {
+          "id": "9ca76292a8c8ef53",
+          "title": "Recruiter II - Technical Solutions",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:02:58.748Z"
+        },
+        {
+          "id": "dfccfffd8fb036d7",
+          "title": "AI Research Engineer – Datadog AI Research (DAIR)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:03:14.200Z"
+        },
+        {
+          "id": "b3ec48193dcd8dd6",
+          "title": "AI Research Scientist – Datadog AI Research (DAIR)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:03:17.689Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 102,
+      "count": 103,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -658,15 +671,10 @@
         "0de7e2ce6469ce6f",
         "5a338c47eabdb7c2",
         "dfee747217079d23",
-        "c0d91c4a9c5c742d"
+        "c0d91c4a9c5c742d",
+        "26f1a7e718d687dd"
       ],
       "recent_jobs": [
-        {
-          "id": "69e95e7c5bfaeaa8",
-          "title": "Sales Recruiter, EDR",
-          "company": "verkada",
-          "posted_at": "2026-01-30T11:48:31.283Z"
-        },
         {
           "id": "698db97d67e14658",
           "title": "Indirect Channel Sales Analyst",
@@ -720,12 +728,18 @@
           "title": "Product Designer, Notifications",
           "company": "discord",
           "posted_at": "2026-01-30T12:55:49.660Z"
+        },
+        {
+          "id": "26f1a7e718d687dd",
+          "title": "Software Engineer, Payments",
+          "company": "discord",
+          "posted_at": "2026-01-30T14:03:09.376Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 19,
+      "count": 21,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -745,21 +759,11 @@
         "7e0b4af39e321d1e",
         "aeb8cd8b79aed6ad",
         "16b9f4c45672c103",
-        "624574085400e708"
+        "624574085400e708",
+        "f1e7beb0eb4365f6",
+        "f3317430189edbed"
       ],
       "recent_jobs": [
-        {
-          "id": "6776d496047c5adc",
-          "title": "Inbound ADR - ATL",
-          "company": "samsara",
-          "posted_at": "2026-01-30T10:32:52.398Z"
-        },
-        {
-          "id": "095d8ced98508da3",
-          "title": "Software Engineer 1",
-          "company": "Ophelia",
-          "posted_at": "2026-01-30T11:23:20.397Z"
-        },
         {
           "id": "fb26f6d6d19da1f4",
           "title": "Strategic Account Executive (SLED)",
@@ -807,6 +811,18 @@
           "title": "Content Technologist (Temporary)",
           "company": "discord",
           "posted_at": "2026-01-30T12:55:39.456Z"
+        },
+        {
+          "id": "f1e7beb0eb4365f6",
+          "title": "Enterprise Sales Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:02:49.489Z"
+        },
+        {
+          "id": "f3317430189edbed",
+          "title": "Area Vice President, Enterprise Sales - Public Sector",
+          "company": "datadog",
+          "posted_at": "2026-01-30T14:03:02.499Z"
         }
       ]
     }
@@ -1317,151 +1333,137 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8103520002",
-        "title": "Senior Director, Internal Audit",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8348158002",
+        "title": "Staff Product Manager, Growth & SEO",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8335879002",
-        "title": "Senior Financial Analyst",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8362678002",
+        "title": "Staff Product Manager, Payments",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8316122002",
-        "title": "Senior Financial Reporting and Technical Accountant",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8370535002",
+        "title": "Staff Software Engineer, Design Systems",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8369048002",
-        "title": "Senior Manager, Commercial Policy",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8326060002",
+        "title": "Staff Software Engineer, Machine Learning (Safety)",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8350416002",
-        "title": "Senior Manager, Stock Administration",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8245153002",
+        "title": "Staff Software Engineer, Mobile Architecture",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8346194002",
-        "title": "Senior Privacy Counsel",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8244749002",
+        "title": "Staff Software Engineer, New Gaming Features",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8190428002",
-        "title": "Senior Product Design Manager, Player & Developer Experience",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8177912002",
+        "title": "Staff Software Engineer, Platform Security",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8332358002",
-        "title": "Senior Product Manager, Commerce",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8337817002",
+        "title": "Staff Software Engineer, Player Experience",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8323992002",
-        "title": "Senior Product Marketing Manager, Nitro",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8101803002",
+        "title": "Staff Software Engineer, Quest Experiences",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8332350002",
-        "title": "Senior Program Manager, Product & Platform Compliance",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8344197002",
+        "title": "Staff Software Engineer - Safety Experience",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8101842002",
-        "title": "Senior Software Engineer, Ads",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8214127002",
+        "title": "Staff Software Engineer, Safety Processing",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8177757002",
-        "title": "Senior Software Engineer, Ads",
-        "company": "discord",
+        "job_id": "careers-datadoghq-com-detail-7232590",
+        "title": "Customer Success Manager - Denver",
+        "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8369339002",
-        "title": "Senior Software Engineer, Machine Learning (Safety)",
-        "company": "discord",
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7453346",
+        "title": "Senior Client Partner, Mid-Market (B2B Services) ",
+        "company": "reddit",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8245138002",
-        "title": "Senior Software Engineer, Mobile Architecture",
-        "company": "discord",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7357003",
+        "title": "Product Marketing Lead, PEO",
+        "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8352070002",
-        "title": "Senior Software Engineer - Notifications",
-        "company": "discord",
+        "job_id": "careers-datadoghq-com-detail-7474659",
+        "title": "Manager II, Engineering - Runtime",
+        "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8136321002",
-        "title": "Senior Software Engineer - Platform Infrastructure",
-        "company": "discord",
+        "job_id": "careers-datadoghq-com-detail-7524815",
+        "title": "Product Marketing Manager (Serverless Monitoring)",
+        "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8377133002",
-        "title": "Senior Software Engineer - Safety Experience",
-        "company": "discord",
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5777178004",
+        "title": "Director of Engineering, v0",
+        "company": "vercel",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8377248002",
-        "title": "Senior Software Engineer - Safety Processing",
-        "company": "discord",
+        "job_id": "careers-datadoghq-com-detail-7544365",
+        "title": "Senior Product Manager - Flex Logs",
+        "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8362697002",
-        "title": "Senior Software Engineer - SEO",
-        "company": "discord",
+        "job_id": "careers-datadoghq-com-detail-7312439",
+        "title": "Business Value Manager - Enterprise East",
+        "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.007Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8324819002",
-        "title": "Senior Technical Program Manager, Safety",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.008Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8375488002",
-        "title": "Senior Technical Recruiter (Temporary)",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T12:55:23.008Z"
+        "timestamp": "2026-01-30T14:02:45.161Z"
       }
     ],
     "already_posted": [],
@@ -1472,98 +1474,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.998Z"
+        "timestamp": "2026-01-30T14:02:45.153Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.998Z"
+        "timestamp": "2026-01-30T14:02:45.154Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.999Z"
+        "timestamp": "2026-01-30T14:02:45.154Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.999Z"
+        "timestamp": "2026-01-30T14:02:45.154Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.999Z"
+        "timestamp": "2026-01-30T14:02:45.154Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.999Z"
+        "timestamp": "2026-01-30T14:02:45.155Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.999Z"
+        "timestamp": "2026-01-30T14:02:45.155Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:22.999Z"
+        "timestamp": "2026-01-30T14:02:45.155Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:23.000Z"
+        "timestamp": "2026-01-30T14:02:45.155Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:23.000Z"
+        "timestamp": "2026-01-30T14:02:45.155Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:23.000Z"
+        "timestamp": "2026-01-30T14:02:45.156Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:23.000Z"
+        "timestamp": "2026-01-30T14:02:45.156Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:23.001Z"
+        "timestamp": "2026-01-30T14:02:45.156Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T12:55:23.001Z"
+        "timestamp": "2026-01-30T14:02:45.156Z"
       }
     ]
   }
