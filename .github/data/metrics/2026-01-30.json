@@ -1,102 +1,102 @@
 {
-  "generated": "2026-01-30T01:00:07.096Z",
+  "generated": "2026-01-30T01:52:43.442Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T01:00:07.096Z",
-  "period_end": "2026-01-30T01:00:07.096Z",
+  "period_start": "2026-01-23T01:52:43.442Z",
+  "period_end": "2026-01-30T01:52:43.442Z",
   "summary": {
-    "total_jobs_posted": 10,
+    "total_jobs_posted": 11,
     "unique_jobs": 10,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "multi_channel_postings": 2,
+    "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
-    "filtered_jobs": 14,
-    "channels_active": 4
+    "filtered_jobs": 12,
+    "channels_active": 5
   },
   "by_channel": {
     "🤖・ai-jobs": {
       "channel_id": "1462988662168879217",
-      "count": 6,
+      "count": 5,
       "jobs": [
-        "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-phoenix-az-engineering-associate-database-engineering-automation_r-517684",
-        "careers-huntingtoningalls-com-job-newport-news-engineer-model-based-1-virg-1359422800",
-        "jobs-jobvite-com-isoftstone-job-o0mgxfwj",
-        "jobs-ashbyhq-com-jerry-ai-b9353cb7-adba-4d9c-96a1-52aa47d08a13-application",
-        "jobs-ashbyhq-com-jerry-ai-d5ca8eec-9694-4a42-9162-532029431be6-application",
-        "job-boards-greenhouse-io-anthropic-jobs-4969394008"
+        "cornell-wd1-myworkdayjobs-com-cornellpositions-job-ithaca-main-campus-temporary-informatics-and-data-analyst-qmps_wdr-00056753-1",
+        "job-boards-greenhouse-io-anthropic-jobs-5070908008",
+        "job-boards-greenhouse-io-anthropic-jobs-5068226008",
+        "job-boards-greenhouse-io-anthropic-jobs-5073277008",
+        "job-boards-greenhouse-io-anthropic-jobs-5062955008"
       ],
       "recent_jobs": [
         {
-          "id": "wd1-myworkdaysite-com-recruiting-wf-wellsfargojobs-job-phoenix-az-engineering-associate-database-engineering-automation_r-517684",
-          "title": "Engineering Associate - Database Engineering & Automation",
-          "company": "Wells Fargo",
-          "posted_at": "2026-01-30T00:59:34.471Z"
+          "id": "cornell-wd1-myworkdayjobs-com-cornellpositions-job-ithaca-main-campus-temporary-informatics-and-data-analyst-qmps_wdr-00056753-1",
+          "title": "Temporary Informatics and Data Analyst - Qmps",
+          "company": "Cornell University",
+          "posted_at": "2026-01-30T01:52:08.255Z"
         },
         {
-          "id": "careers-huntingtoningalls-com-job-newport-news-engineer-model-based-1-virg-1359422800",
-          "title": "Engineer Model-Based 1",
-          "company": "Huntington Ingalls Industries",
-          "posted_at": "2026-01-30T00:59:36.162Z"
-        },
-        {
-          "id": "jobs-jobvite-com-isoftstone-job-o0mgxfwj",
-          "title": "Data Analyst",
-          "company": "iSoftStone",
-          "posted_at": "2026-01-30T00:59:38.044Z"
-        },
-        {
-          "id": "jobs-ashbyhq-com-jerry-ai-b9353cb7-adba-4d9c-96a1-52aa47d08a13-application",
-          "title": "Associate Software Engineer",
-          "company": "Jerry",
-          "posted_at": "2026-01-30T00:59:39.717Z"
-        },
-        {
-          "id": "jobs-ashbyhq-com-jerry-ai-d5ca8eec-9694-4a42-9162-532029431be6-application",
-          "title": "Software Engineer - Entry",
-          "company": "Jerry",
-          "posted_at": "2026-01-30T00:59:41.475Z"
-        },
-        {
-          "id": "job-boards-greenhouse-io-anthropic-jobs-4969394008",
-          "title": "People Partner, Research",
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5070908008",
+          "title": "Red Team Engineer, Safeguards",
           "company": "anthropic",
-          "posted_at": "2026-01-30T00:59:43.140Z"
+          "posted_at": "2026-01-30T01:52:11.708Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5068226008",
+          "title": "Applied AI Engineer, Beneficial Deployments",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T01:52:13.488Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5073277008",
+          "title": "Applied AI Engineer (Startups)",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T01:52:15.183Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-5062955008",
+          "title": "Applied Safety Research Engineer, Safeguards",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T01:52:16.931Z"
         }
       ]
     },
-    "📊・data-science-jobs": {
-      "channel_id": "1462988721828794531",
+    "🗽・new-york-jobs": {
+      "channel_id": "1462988831530680422",
       "count": 1,
       "jobs": [
-        "jobs-royalcaribbeangroup-com-job-miami-data-analyst-fl-33131-1348510500"
+        "cornell-wd1-myworkdayjobs-com-cornellpositions-job-ithaca-main-campus-temporary-informatics-and-data-analyst-qmps_wdr-00056753-1"
       ],
       "recent_jobs": [
         {
-          "id": "jobs-royalcaribbeangroup-com-job-miami-data-analyst-fl-33131-1348510500",
-          "title": "Data Analyst",
-          "company": "Royal Caribbean Group",
-          "posted_at": "2026-01-30T00:59:47.897Z"
+          "id": "cornell-wd1-myworkdayjobs-com-cornellpositions-job-ithaca-main-campus-temporary-informatics-and-data-analyst-qmps_wdr-00056753-1",
+          "title": "Temporary Informatics and Data Analyst - Qmps",
+          "company": "Cornell University",
+          "posted_at": "2026-01-30T01:52:10.028Z"
         }
       ]
     },
     "💻・tech-jobs": {
       "channel_id": "1462988605306834987",
-      "count": 2,
+      "count": 3,
       "jobs": [
-        "careers-westinghousenuclear-com-job-norwell-it-software-engineer-analyst-ma-02061-1359224300",
-        "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211920"
+        "job-boards-greenhouse-io-airtable-jobs-8391589002",
+        "job-boards-greenhouse-io-gusto-jobs-7551561",
+        "job-boards-greenhouse-io-anthropic-jobs-4502508008"
       ],
       "recent_jobs": [
         {
-          "id": "careers-westinghousenuclear-com-job-norwell-it-software-engineer-analyst-ma-02061-1359224300",
-          "title": "IT Software Engineer Analyst",
-          "company": "Westinghouse Electric Company",
-          "posted_at": "2026-01-30T00:59:52.686Z"
+          "id": "job-boards-greenhouse-io-airtable-jobs-8391589002",
+          "title": "Account Executive, SLED",
+          "company": "airtable",
+          "posted_at": "2026-01-30T01:52:21.706Z"
         },
         {
-          "id": "jobs-ea-com-en_us-careers-jobdetail-ea-sports-academy-software-engineer-211920",
-          "title": "EA Sports Academy Software Engineer",
-          "company": "Electronic Arts",
-          "posted_at": "2026-01-30T00:59:54.404Z"
+          "id": "job-boards-greenhouse-io-gusto-jobs-7551561",
+          "title": "Software Engineering Apprenticeship (Summer 2026)",
+          "company": "gusto",
+          "posted_at": "2026-01-30T01:52:23.464Z"
+        },
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4502508008",
+          "title": "Application Security Engineer",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T01:52:25.290Z"
         }
       ]
     },
@@ -104,112 +104,124 @@
       "channel_id": "1462988755156734023",
       "count": 1,
       "jobs": [
-        "careers-stifel-icims-com-jobs-8724-job"
+        "job-boards-greenhouse-io-verkada-jobs-4140679007"
       ],
       "recent_jobs": [
         {
-          "id": "careers-stifel-icims-com-jobs-8724-job",
-          "title": "Bank Systems Analyst",
-          "company": "Stifel",
-          "posted_at": "2026-01-30T00:59:59.193Z"
+          "id": "job-boards-greenhouse-io-verkada-jobs-4140679007",
+          "title": "Enterprise Development Representative",
+          "company": "verkada",
+          "posted_at": "2026-01-30T01:52:30.184Z"
+        }
+      ]
+    },
+    "📊・data-science-jobs": {
+      "channel_id": "1462988721828794531",
+      "count": 1,
+      "jobs": [
+        "job-boards-greenhouse-io-anthropic-jobs-4956672008"
+      ],
+      "recent_jobs": [
+        {
+          "id": "job-boards-greenhouse-io-anthropic-jobs-4956672008",
+          "title": "Analytics Data Engineer",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T01:52:34.905Z"
         }
       ]
     }
   },
-  "multi_channel_routing": [],
+  "multi_channel_routing": [
+    {
+      "job_id": "cornell-wd1-myworkdayjobs-com-cornellpositions-job-ithaca-main-campus-temporary-informatics-and-data-analyst-qmps_wdr-00056753-1",
+      "company": "Cornell University",
+      "title": "Temporary Informatics and Data Analyst - Qmps",
+      "channels": [
+        "🤖・ai-jobs",
+        "🗽・new-york-jobs"
+      ],
+      "posted_at": "2026-01-30T01:52:08.255Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4971331008",
-        "title": "Customer Trust Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4741102008",
+        "title": "Engineering Manager, Inference",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.681Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5059602008",
-        "title": "Data Center Physical Security Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4741104008",
+        "title": "Engineering Manager, ML Acceleration",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.681Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023731008",
-        "title": "Data Center Strategic Sourcing Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4949199008",
+        "title": "Engineering Manager, Networking",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.681Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4946314008",
-        "title": "Data Operations Manager, Computer Use & Tool Use",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4889396008",
+        "title": "Engineering Manager, Product Platform & Accounts Platform",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4965218008",
-        "title": "Director, Accounting Operations",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4980436008",
+        "title": " [Expression of Interest] Research Manager, Interpretability",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5077105008",
-        "title": "Director, Compute Infrastructure Procurement ",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4934940008",
+        "title": "Field Marketing Manager, Industries",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4959525008",
-        "title": "Director, Order Management & Billing",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026192008",
+        "title": "Field Marketing Manager, Startups",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5017903008",
-        "title": "Engagement Manager, Applied AI",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5060653008",
+        "title": "Finance Systems, Finance & Strategy Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4721383008",
-        "title": "Engineering Manager, Claude Developer Platform",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4991194008",
+        "title": "Finance Systems, Senior Business Systems Analyst",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026197008",
-        "title": "Engineering Manager, Claude Services",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5064245008",
+        "title": "Finance Systems, Tax Technology Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5068272008",
-        "title": "Engineering Manager, Cloud Inference Azure",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4831485008",
+        "title": "Finance Variable Compensation Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.880Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4897424008",
-        "title": "Engineering Manager, Cloud Security",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.881Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5071506008",
-        "title": "Engineering Manager, Detection and Response",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T00:59:33.881Z"
+        "timestamp": "2026-01-30T01:52:07.682Z"
       }
     ],
     "already_posted": [],
@@ -220,7 +232,7 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T00:59:33.879Z"
+        "timestamp": "2026-01-30T01:52:07.680Z"
       }
     ]
   }
