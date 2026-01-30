@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T11:23:42.346Z",
+  "generated": "2026-01-30T11:33:07.147Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T11:23:42.346Z",
-  "period_end": "2026-01-30T11:23:42.346Z",
+  "period_start": "2026-01-23T11:33:07.147Z",
+  "period_end": "2026-01-30T11:33:07.147Z",
   "summary": {
-    "total_jobs_posted": 454,
-    "unique_jobs": 409,
+    "total_jobs_posted": 464,
+    "unique_jobs": 419,
     "multi_channel_postings": 90,
     "unique_multi_channel_jobs": 45,
     "failed_postings": 0,
-    "filtered_jobs": 20,
+    "filtered_jobs": 16,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 320,
+      "count": 328,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -336,57 +336,17 @@
         "504f7209e65a437a",
         "095d8ced98508da3",
         "6881789b67149ad1",
-        "d4bf2e30754fe60c"
+        "d4bf2e30754fe60c",
+        "533135737930f35a",
+        "22885ef3f8782a1f",
+        "426eb9a75586781c",
+        "0c53ef0bd2b06a27",
+        "8b64c49f78aff0bb",
+        "8dfb21f9bc618248",
+        "71c19e129dbc4047",
+        "f384f1247fb412d0"
       ],
       "recent_jobs": [
-        {
-          "id": "6231582dfbbae925",
-          "title": "Customer Success Specialist",
-          "company": "coinbase",
-          "posted_at": "2026-01-30T10:33:02.546Z"
-        },
-        {
-          "id": "7344d67c09eeefb3",
-          "title": "Associate Value Engineer - AI-Driven Data Science & Analytics",
-          "company": "Celonis",
-          "posted_at": "2026-01-30T10:33:04.309Z"
-        },
-        {
-          "id": "a9ad4c6cb459d9a0",
-          "title": "Security Sales Engineer - US East",
-          "company": "datadog",
-          "posted_at": "2026-01-30T11:23:09.939Z"
-        },
-        {
-          "id": "5f2d302e9844b0ee",
-          "title": "Sales Enablement Learning Partner - Expansion Sales",
-          "company": "gusto",
-          "posted_at": "2026-01-30T11:23:13.490Z"
-        },
-        {
-          "id": "1fe511f86cdb82a2",
-          "title": "Strategic Account Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T11:23:15.209Z"
-        },
-        {
-          "id": "de1848be88b26805",
-          "title": "Sr. Sales Enablement Specialist",
-          "company": "samsara",
-          "posted_at": "2026-01-30T11:23:16.993Z"
-        },
-        {
-          "id": "504f7209e65a437a",
-          "title": "Technical Recruiter, Product & Design",
-          "company": "figma",
-          "posted_at": "2026-01-30T11:23:18.697Z"
-        },
-        {
-          "id": "095d8ced98508da3",
-          "title": "Software Engineer 1",
-          "company": "Ophelia",
-          "posted_at": "2026-01-30T11:23:20.397Z"
-        },
         {
           "id": "6881789b67149ad1",
           "title": "Recruiter, Sales & GTM",
@@ -398,6 +358,54 @@
           "title": "Enterprise Solutions Engineer, Mid-West, SLED",
           "company": "verkada",
           "posted_at": "2026-01-30T11:23:25.806Z"
+        },
+        {
+          "id": "533135737930f35a",
+          "title": "Software Engineer, Ads",
+          "company": "discord",
+          "posted_at": "2026-01-30T11:32:42.961Z"
+        },
+        {
+          "id": "22885ef3f8782a1f",
+          "title": "Forward-Deployed Engineer ",
+          "company": "vercel",
+          "posted_at": "2026-01-30T11:32:44.760Z"
+        },
+        {
+          "id": "426eb9a75586781c",
+          "title": "Analyst - Merchant Data Platform",
+          "company": "Visa",
+          "posted_at": "2026-01-30T11:32:46.490Z"
+        },
+        {
+          "id": "0c53ef0bd2b06a27",
+          "title": "Research Assistant - Retirement Security Project - Economic Studies",
+          "company": "The Brookings Institution",
+          "posted_at": "2026-01-30T11:32:48.390Z"
+        },
+        {
+          "id": "8b64c49f78aff0bb",
+          "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
+          "company": "datadog",
+          "posted_at": "2026-01-30T11:32:50.236Z"
+        },
+        {
+          "id": "8dfb21f9bc618248",
+          "title": "Data Verification/Acquisition Technician 1",
+          "company": "Amentum",
+          "posted_at": "2026-01-30T11:32:52.115Z"
+        },
+        {
+          "id": "71c19e129dbc4047",
+          "title": "GDELT Consultant",
+          "company": "Rhombus Power",
+          "posted_at": "2026-01-30T11:32:56.897Z"
+        },
+        {
+          "id": "f384f1247fb412d0",
+          "title": "Research Scientist – PhD New College Grad 2026 - Human‑AI Perception and Interaction Research",
+          "company": "NVIDIA",
+          "posted_at": "2026-01-30T11:32:58.685Z"
         }
       ]
     },
@@ -505,7 +513,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 89,
+      "count": 91,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -595,21 +603,11 @@
         "4390f164f3590ca2",
         "fec4890377d06a1b",
         "ec82164949ddd5be",
-        "37288ce8dee3c305"
+        "37288ce8dee3c305",
+        "dddb14a43a41898f",
+        "59d7c169b091e9b0"
       ],
       "recent_jobs": [
-        {
-          "id": "5f4e93982b353630",
-          "title": "Enterprise Account Executive (Salt Lake City - SLED)",
-          "company": "verkada",
-          "posted_at": "2026-01-30T09:58:56.108Z"
-        },
-        {
-          "id": "710f958fe13dd501",
-          "title": "Account Executive, Territory (Mid-Market)",
-          "company": "verkada",
-          "posted_at": "2026-01-30T10:17:45.937Z"
-        },
         {
           "id": "6dd033c796c0e72d",
           "title": "Enterprise Account Executive (Indiana  - SLED)",
@@ -657,6 +655,18 @@
           "title": "Expansion Account Executive, Enterprise",
           "company": "brex",
           "posted_at": "2026-01-30T11:23:32.401Z"
+        },
+        {
+          "id": "dddb14a43a41898f",
+          "title": "Account Executive, Territory (Mid-Market)",
+          "company": "verkada",
+          "posted_at": "2026-01-30T11:32:36.253Z"
+        },
+        {
+          "id": "59d7c169b091e9b0",
+          "title": "Enterprise Sales Account Executive,  State (Southeast)",
+          "company": "verkada",
+          "posted_at": "2026-01-30T11:32:38.077Z"
         }
       ]
     },
@@ -1196,46 +1206,18 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7027020",
-        "title": "Principal Software Engineer - Pay Group Engineering",
-        "company": "gusto",
+        "job_id": "careers-datadoghq-com-detail-7492312",
+        "title": "Major Account Manager",
+        "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T11:23:09.368Z"
+        "timestamp": "2026-01-30T11:32:35.727Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8348129002",
-        "title": "Senior Software Engineer, Platform Security",
-        "company": "discord",
+        "job_id": "careers-datadoghq-com-detail-7409198",
+        "title": "Major Account Manager",
+        "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T11:23:09.368Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8332382002",
-        "title": "Senior Security Software Engineer, Detection and Response",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T11:23:09.368Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7408219",
-        "title": "Product Partnerships Deal Lead",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T11:23:09.368Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5776152004",
-        "title": "Product Marketing Manager, Builder Audience",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T11:23:09.368Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8112880002",
-        "title": "Senior Software Engineer, Data Platform",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T11:23:09.368Z"
+        "timestamp": "2026-01-30T11:32:35.727Z"
       }
     ],
     "already_posted": [],
@@ -1246,98 +1228,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.360Z"
+        "timestamp": "2026-01-30T11:32:35.719Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.361Z"
+        "timestamp": "2026-01-30T11:32:35.719Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.361Z"
+        "timestamp": "2026-01-30T11:32:35.720Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.361Z"
+        "timestamp": "2026-01-30T11:32:35.720Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.361Z"
+        "timestamp": "2026-01-30T11:32:35.720Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.362Z"
+        "timestamp": "2026-01-30T11:32:35.720Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.362Z"
+        "timestamp": "2026-01-30T11:32:35.720Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.364Z"
+        "timestamp": "2026-01-30T11:32:35.721Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.364Z"
+        "timestamp": "2026-01-30T11:32:35.721Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.364Z"
+        "timestamp": "2026-01-30T11:32:35.721Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.365Z"
+        "timestamp": "2026-01-30T11:32:35.721Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.365Z"
+        "timestamp": "2026-01-30T11:32:35.722Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.365Z"
+        "timestamp": "2026-01-30T11:32:35.722Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:23:09.365Z"
+        "timestamp": "2026-01-30T11:32:35.722Z"
       }
     ]
   }
