@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T07:12:20.908Z",
+  "generated": "2026-01-30T07:37:34.962Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T07:12:20.908Z",
-  "period_end": "2026-01-30T07:12:20.908Z",
+  "period_start": "2026-01-23T07:37:34.962Z",
+  "period_end": "2026-01-30T07:37:34.962Z",
   "summary": {
-    "total_jobs_posted": 328,
-    "unique_jobs": 299,
+    "total_jobs_posted": 338,
+    "unique_jobs": 309,
     "multi_channel_postings": 58,
     "unique_multi_channel_jobs": 29,
     "failed_postings": 0,
-    "filtered_jobs": 8,
+    "filtered_jobs": 12,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 232,
+      "count": 242,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -248,68 +248,78 @@
         "8d475ad93d2c410e",
         "fab7d67cd083f061",
         "03acadb1d15e2927",
-        "b8032906f1679747"
+        "b8032906f1679747",
+        "65247f255e58e861",
+        "125235fa0abea4a8",
+        "72c7bee82e538211",
+        "c43756794b7b2d2a",
+        "8ec469206490f432",
+        "61b2797cd8b2d4c2",
+        "165dd31fcb366e2b",
+        "0c7f3536ccaf363a",
+        "be111ba6129c4499",
+        "bc9f8c873b8eeb30"
       ],
       "recent_jobs": [
         {
-          "id": "6b243261a4e760b8",
-          "title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
+          "id": "65247f255e58e861",
+          "title": "SMB Account Executive, Industries",
           "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:35.645Z"
+          "posted_at": "2026-01-30T07:37:08.002Z"
         },
         {
-          "id": "6b4889d418262a96",
-          "title": "Research Engineer, Reward Models Platform",
+          "id": "125235fa0abea4a8",
+          "title": "Software Engineer, Android",
           "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:40.367Z"
+          "posted_at": "2026-01-30T07:37:09.691Z"
         },
         {
-          "id": "da77145a42557323",
-          "title": "Research Engineer, Universes",
+          "id": "72c7bee82e538211",
+          "title": "Software Engineer, Business Technology ",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:11:50.432Z"
+          "posted_at": "2026-01-30T07:37:11.534Z"
         },
         {
-          "id": "89417b9de780efdc",
-          "title": "Research Scientist, Interpretability",
+          "id": "c43756794b7b2d2a",
+          "title": "Software Engineer, Cybersecurity Products",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:11:52.092Z"
+          "posted_at": "2026-01-30T07:37:13.273Z"
         },
         {
-          "id": "7f8ff408df45e862",
-          "title": "Research Scientist, Societal Impacts",
+          "id": "8ec469206490f432",
+          "title": "Software Engineer, Desktop",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:11:53.850Z"
+          "posted_at": "2026-01-30T07:37:15.125Z"
         },
         {
-          "id": "aa53d77d5a39cc7c",
-          "title": "Security GRC Specialist, Public Sector",
+          "id": "61b2797cd8b2d4c2",
+          "title": "Software Engineer, Enterprise Foundations",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:11:55.551Z"
+          "posted_at": "2026-01-30T07:37:16.827Z"
         },
         {
-          "id": "8d475ad93d2c410e",
-          "title": "Security Risk & Compliance, Cloud & Data Centers",
+          "id": "165dd31fcb366e2b",
+          "title": "Software Engineer, Growth",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:11:57.279Z"
+          "posted_at": "2026-01-30T07:37:18.627Z"
         },
         {
-          "id": "fab7d67cd083f061",
-          "title": "Salesforce Administrator",
+          "id": "0c7f3536ccaf363a",
+          "title": "Software Engineer, Accelerator Build Infrastructure",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:12:08.792Z"
+          "posted_at": "2026-01-30T07:37:23.467Z"
         },
         {
-          "id": "03acadb1d15e2927",
-          "title": "Security Development Project Specialist",
+          "id": "be111ba6129c4499",
+          "title": "Software Engineer, Beneficial Deployments ",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:12:11.112Z"
+          "posted_at": "2026-01-30T07:37:25.220Z"
         },
         {
-          "id": "b8032906f1679747",
-          "title": "Security Engineer, Detection & Response",
+          "id": "bc9f8c873b8eeb30",
+          "title": "Software Engineer, Claude Code",
           "company": "anthropic",
-          "posted_at": "2026-01-30T07:12:12.917Z"
+          "posted_at": "2026-01-30T07:37:26.899Z"
         }
       ]
     },
@@ -880,39 +890,67 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4561282008",
-        "title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4985093008",
+        "title": " Strategy and Messaging Communications Lead, Narrative",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:11:50.003Z"
+        "timestamp": "2026-01-30T07:37:07.512Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4970463008",
-        "title": "Staff+ Software Engineer, Databases",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5066981008",
+        "title": "Technical Policy Manager, Cyber Harms ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:11:50.003Z"
+        "timestamp": "2026-01-30T07:37:07.512Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4941204008",
-        "title": "Staff+ Software Engineer, Data Infrastructure",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5055672008",
+        "title": "Technical Product Marketing Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:11:50.003Z"
+        "timestamp": "2026-01-30T07:37:07.512Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4970314008",
-        "title": "Staff+ Software Engineer, Infrastructure",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5062968008",
+        "title": "Technical Program Manager, Claude Experiences",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:11:50.003Z"
+        "timestamp": "2026-01-30T07:37:07.512Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023089008",
-        "title": "Staff Software Engineer, Platform",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5013743008",
+        "title": "Technical Program Manager, Data Center Infrastructure",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:11:50.003Z"
+        "timestamp": "2026-01-30T07:37:07.512Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5078403008",
+        "title": "Technical Program Manager, Enterprise Readiness",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T07:37:07.512Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4913784008",
+        "title": "Technical Program Manager, Inference",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T07:37:07.512Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5062960008",
+        "title": "Technical Program Manager, Launches",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T07:37:07.512Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5018714008",
+        "title": "Technical Program Manager, Model Evaluations",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T07:37:07.512Z"
       }
     ],
     "already_posted": [],
@@ -923,21 +961,21 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:11:49.997Z"
+        "timestamp": "2026-01-30T07:37:07.506Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:11:49.997Z"
+        "timestamp": "2026-01-30T07:37:07.506Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:11:50.001Z"
+        "timestamp": "2026-01-30T07:37:07.509Z"
       }
     ]
   }

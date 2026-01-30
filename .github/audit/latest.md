@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-01-30T07:12:20.757Z
+**Timestamp:** 2026-01-30T07:37:34.813Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 10
@@ -8,291 +8,292 @@
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-01-30T07:11:48.808Z] ========================================
-[2026-01-30T07:11:48.809Z] Discord Bot Execution Log
-[2026-01-30T07:11:48.809Z] Environment: GitHub Actions
-[2026-01-30T07:11:48.810Z] Node Version: v20.20.0
-[2026-01-30T07:11:48.810Z] ========================================
-[2026-01-30T07:11:48.810Z] Environment Variables Check:
-[2026-01-30T07:11:48.810Z] DISCORD_TOKEN: ✅ Set
-[2026-01-30T07:11:48.810Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.810Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-01-30T07:11:48.810Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-01-30T07:11:48.810Z] 
+[2026-01-30T07:37:06.127Z] ========================================
+[2026-01-30T07:37:06.129Z] Discord Bot Execution Log
+[2026-01-30T07:37:06.129Z] Environment: GitHub Actions
+[2026-01-30T07:37:06.129Z] Node Version: v20.20.0
+[2026-01-30T07:37:06.130Z] ========================================
+[2026-01-30T07:37:06.130Z] Environment Variables Check:
+[2026-01-30T07:37:06.130Z] DISCORD_TOKEN: ✅ Set
+[2026-01-30T07:37:06.130Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.130Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-01-30T07:37:06.130Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-01-30T07:37:06.130Z] 
 Multi-Channel Configuration:
-[2026-01-30T07:11:48.810Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.810Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] DISCORD_PM_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] DISCORD_HR_CHANNEL_ID: ✅ Set
-[2026-01-30T07:11:48.811Z] 
+[2026-01-30T07:37:06.130Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.130Z] DISCORD_SALES_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.130Z] DISCORD_MARKETING_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.131Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.131Z] DISCORD_HEALTHCARE_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.131Z] DISCORD_PRODUCT_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.131Z] DISCORD_SUPPLY_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.131Z] DISCORD_PM_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.131Z] DISCORD_HR_CHANNEL_ID: ✅ Set
+[2026-01-30T07:37:06.131Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-01-30T07:11:48.811Z] 
+[2026-01-30T07:37:06.131Z] 
 Data Files Check:
-[2026-01-30T07:11:48.812Z] .github/data/new_jobs.json: ✅ Exists (10 items, 195849 bytes)
-[2026-01-30T07:11:48.824Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1872787 bytes)
-[2026-01-30T07:11:48.824Z] 
+[2026-01-30T07:37:06.132Z] .github/data/new_jobs.json: ✅ Exists (10 items, 178258 bytes)
+[2026-01-30T07:37:06.145Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 1953713 bytes)
+[2026-01-30T07:37:06.145Z] 
 ========================================
-[2026-01-30T07:11:48.824Z] Starting Enhanced Discord Bot...
-[2026-01-30T07:11:48.824Z] ========================================
-[2026-01-30T07:11:49.359Z] [BOT] ✅ Loaded V2 database: 289 jobs
-[2026-01-30T07:11:49.874Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-01-30T07:11:49.875Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-01-30T07:37:06.145Z] Starting Enhanced Discord Bot...
+[2026-01-30T07:37:06.145Z] ========================================
+[2026-01-30T07:37:06.702Z] [BOT] ✅ Loaded V2 database: 299 jobs
+[2026-01-30T07:37:07.386Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-01-30T07:37:07.387Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-01-30T07:11:49.875Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-01-30T07:11:49.996Z] [BOT] ✅ Loaded pending queue: 2921 total (2611 pending, 50 enriched, 260 posted)
+[2026-01-30T07:37:07.387Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-01-30T07:37:07.506Z] [BOT] ✅ Loaded pending queue: 2923 total (2603 pending, 50 enriched, 270 posted)
 [BOT] 📬 Found 50 enriched jobs ready to post from pending queue
 [BOT] 🔍 Sample enriched job: Developer Campaign Marketer, Claude Code at anthropic
-[2026-01-30T07:11:49.997Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "1350e279e5527b88"
+🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "1350e279e5527b88"
 ⏭️  Skipping duplicate: JID_848dc8c3 (posted within 7 days)
 ⏭️ Skipping already posted: Developer Campaign Marketer, Claude Code at anthropic
-[2026-01-30T07:11:49.997Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "1409992ce6f78208"
+🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "1409992ce6f78208"
 ⏭️  Skipping duplicate: JID_424b6201 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_99999c05 at anthropic
-[2026-01-30T07:11:50.001Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "c8be1d6f7ea02d2a"
-[2026-01-30T07:11:50.001Z] [BOT] ⏭️  Skipping duplicate: JID_3676a5c1 (posted within 7 days)
+[2026-01-30T07:37:07.509Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "c8be1d6f7ea02d2a"
+[2026-01-30T07:37:07.510Z] [BOT] ⏭️  Skipping duplicate: JID_3676a5c1 (posted within 7 days)
 ⏭️ Skipping already posted: Solutions Architect, Applied AI (National Security) at anthropic
-[2026-01-30T07:11:50.002Z] [BOT] 📬 Found 47 new jobs (3 already posted)...
-[2026-01-30T07:11:50.003Z] [BOT] 🚫 Skipping blacklisted job: Staff Software Engineer, Claude Developer Platform (Full Stack) at anthropic
-[2026-01-30T07:11:50.003Z] [BOT] 🚫 Skipping blacklisted job: Staff+ Software Engineer, Databases at anthropic
-🚫 Skipping blacklisted job: Staff+ Software Engineer, Data Infrastructure at anthropic
-🚫 Skipping blacklisted job: Staff+ Software Engineer, Infrastructure at anthropic
-🚫 Skipping blacklisted job: Staff Software Engineer, Platform at anthropic
-[2026-01-30T07:11:50.108Z] [BOT] ✅ Loaded pending queue: 2921 total (2611 pending, 50 enriched, 260 posted)
-[2026-01-30T07:11:50.277Z] [BOT] ✅ Saved pending queue: 2916 total (2611 pending, 45 enriched, 260 posted)
-🗑️ Removed 5 blacklisted jobs from pending queue
-[2026-01-30T07:11:50.278Z] [BOT] 📋 After blacklist filter: 42 jobs (5 blacklisted)
-📋 After data quality filter: 42 jobs (0 invalid)
-[2026-01-30T07:11:50.279Z] [BOT] 📋 After multi-location grouping: 42 unique jobs to post
-[2026-01-30T07:11:50.279Z] [BOT] ⏸️ Limiting to 10 jobs this run, 37 deferred for next run
-[2026-01-30T07:11:50.279Z] [BOT] 📤 Posting 10 jobs...
-[2026-01-30T07:11:50.279Z] [BOT] 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-01-30T07:11:50.283Z] [BOT] 📌 Posting 5 jobs to #🤖・ai-jobs
-[2026-01-30T07:11:50.283Z] [BOT] 📍 [ROUTING] "Research Engineer, Universes" @ anthropic
-[2026-01-30T07:11:50.283Z] [BOT] Category: AI (matched: "AI/ML")
-   Channel: 🤖・ai-jobs (1462...9217)
-   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-01-30T07:11:50.301Z] [BOT ERROR] (node:2577) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-01-30T07:37:07.511Z] [BOT] 📬 Found 47 new jobs (3 already posted)...
+[2026-01-30T07:37:07.512Z] [BOT] 🚫 Skipping blacklisted job:  Strategy and Messaging Communications Lead, Narrative at anthropic
+[2026-01-30T07:37:07.512Z] [BOT] 🚫 Skipping blacklisted job: Technical Policy Manager, Cyber Harms  at anthropic
+🚫 Skipping blacklisted job: Technical Product Marketing Lead at anthropic
+🚫 Skipping blacklisted job: Technical Program Manager, Claude Experiences at anthropic
+🚫 Skipping blacklisted job: Technical Program Manager, Data Center Infrastructure at anthropic
+[2026-01-30T07:37:07.512Z] [BOT] 🚫 Skipping blacklisted job: Technical Program Manager, Enterprise Readiness at anthropic
+🚫 Skipping blacklisted job: Technical Program Manager, Inference at anthropic
+[2026-01-30T07:37:07.512Z] [BOT] 🚫 Skipping blacklisted job: Technical Program Manager, Launches at anthropic
+🚫 Skipping blacklisted job: Technical Program Manager, Model Evaluations at anthropic
+[2026-01-30T07:37:07.606Z] [BOT] ✅ Loaded pending queue: 2923 total (2603 pending, 50 enriched, 270 posted)
+[2026-01-30T07:37:07.775Z] [BOT] ✅ Saved pending queue: 2914 total (2603 pending, 41 enriched, 270 posted)
+🗑️ Removed 9 blacklisted jobs from pending queue
+[2026-01-30T07:37:07.776Z] [BOT] 📋 After blacklist filter: 38 jobs (9 blacklisted)
+📋 After data quality filter: 38 jobs (0 invalid)
+[2026-01-30T07:37:07.777Z] [BOT] 📋 After multi-location grouping: 38 unique jobs to post
+[2026-01-30T07:37:07.777Z] [BOT] ⏸️ Limiting to 10 jobs this run, 37 deferred for next run
+📤 Posting 10 jobs...
+🔀 Multi-channel mode enabled - routing jobs to appropriate forums
+[2026-01-30T07:37:07.780Z] [BOT] 📌 Posting 7 jobs to #💻・tech-jobs
+[2026-01-30T07:37:07.781Z] [BOT] 📍 [ROUTING] "SMB Account Executive, Industries" @ anthropic
+[2026-01-30T07:37:07.781Z] [BOT] Category: TECH (default)
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-01-30T07:37:07.798Z] [BOT ERROR] (node:2480) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-01-30T07:11:50.431Z] [BOT] ✅ Posted message: Research Engineer, Universes @ anthropic in #🤖・ai-jobs
-[2026-01-30T07:11:50.431Z] [BOT] ✅ Industry: Research Engineer, Universes @ anthropic
-[2026-01-30T07:11:50.432Z] [BOT] 💾 Added channel posting: Research Engineer, Universes @ anthropic → category channel (1 total channels)
-[2026-01-30T07:11:50.432Z] [BOT] 💾 BEFORE MERGE: 290 jobs in memory (cached)
-[2026-01-30T07:11:50.440Z] [BOT] ✅ Loaded V2 database: 289 jobs
-💾 DISK STATE: 289 jobs on disk
-[2026-01-30T07:11:50.440Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=290
-[2026-01-30T07:11:50.441Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-01-30T07:11:50.441Z] [BOT] 💾 AFTER MERGE: 290 jobs (merged disk + memory)
-[2026-01-30T07:11:50.441Z] [BOT] ✅ No jobs to archive (all 290 jobs within 7-day window)
-[2026-01-30T07:11:50.465Z] [BOT] 💾 Saved posted_jobs.json: 290 active jobs
+[2026-01-30T07:37:08.002Z] [BOT] ✅ Posted message: SMB Account Executive, Industries @ anthropic in #💻・tech-jobs
+[2026-01-30T07:37:08.002Z] [BOT] ✅ Industry: SMB Account Executive, Industries @ anthropic
+[2026-01-30T07:37:08.002Z] [BOT] 💾 Added channel posting: SMB Account Executive, Industries @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:08.003Z] [BOT] 💾 BEFORE MERGE: 300 jobs in memory (cached)
+[2026-01-30T07:37:08.010Z] [BOT] ✅ Loaded V2 database: 299 jobs
+💾 DISK STATE: 299 jobs on disk
+[2026-01-30T07:37:08.011Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=300
+[2026-01-30T07:37:08.012Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-01-30T07:37:08.012Z] [BOT] 💾 AFTER MERGE: 300 jobs (merged disk + memory)
+[2026-01-30T07:37:08.012Z] [BOT] ✅ No jobs to archive (all 300 jobs within 7-day window)
+[2026-01-30T07:37:08.033Z] [BOT] 💾 Saved posted_jobs.json: 300 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-30T07:11:51.968Z] [BOT] 📍 [ROUTING] "Research Scientist, Interpretability" @ anthropic
-[2026-01-30T07:11:51.968Z] [BOT] Category: AI (matched: "AI/ML")
-   Channel: 🤖・ai-jobs (1462...9217)
-[2026-01-30T07:11:52.092Z] [BOT] ✅ Posted message: Research Scientist, Interpretability @ anthropic in #🤖・ai-jobs
-[2026-01-30T07:11:52.092Z] [BOT] ✅ Industry: Research Scientist, Interpretability @ anthropic
-[2026-01-30T07:11:52.092Z] [BOT] 💾 Added channel posting: Research Scientist, Interpretability @ anthropic → category channel (1 total channels)
-[2026-01-30T07:11:52.092Z] [BOT] 💾 BEFORE MERGE: 291 jobs in memory (cached)
-[2026-01-30T07:11:52.099Z] [BOT] ✅ Loaded V2 database: 290 jobs
-[2026-01-30T07:11:52.099Z] [BOT] 💾 DISK STATE: 290 jobs on disk
-💾 DEBUG: Iterating cached memory jobs - length=291
-[2026-01-30T07:11:52.100Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-01-30T07:11:52.100Z] [BOT] 💾 AFTER MERGE: 291 jobs (merged disk + memory)
-[2026-01-30T07:11:52.100Z] [BOT] ✅ No jobs to archive (all 291 jobs within 7-day window)
-[2026-01-30T07:11:52.121Z] [BOT] 💾 Saved posted_jobs.json: 291 active jobs
+[2026-01-30T07:37:09.534Z] [BOT] 📍 [ROUTING] "Software Engineer, Android" @ anthropic
+   Category: TECH (matched: "software")
+[2026-01-30T07:37:09.534Z] [BOT] Channel: 💻・tech-jobs (1462...4987)
+[2026-01-30T07:37:09.691Z] [BOT] ✅ Posted message: Software Engineer, Android @ anthropic in #💻・tech-jobs
+[2026-01-30T07:37:09.691Z] [BOT] ✅ Industry: Software Engineer, Android @ anthropic
+[2026-01-30T07:37:09.691Z] [BOT] 💾 Added channel posting: Software Engineer, Android @ anthropic → category channel (1 total channels)
+💾 BEFORE MERGE: 301 jobs in memory (cached)
+[2026-01-30T07:37:09.698Z] [BOT] ✅ Loaded V2 database: 300 jobs
+[2026-01-30T07:37:09.698Z] [BOT] 💾 DISK STATE: 300 jobs on disk
+💾 DEBUG: Iterating cached memory jobs - length=301
+[2026-01-30T07:37:09.699Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-01-30T07:37:09.699Z] [BOT] 💾 AFTER MERGE: 301 jobs (merged disk + memory)
+[2026-01-30T07:37:09.699Z] [BOT] ✅ No jobs to archive (all 301 jobs within 7-day window)
+[2026-01-30T07:37:09.718Z] [BOT] 💾 Saved posted_jobs.json: 301 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-30T07:11:53.623Z] [BOT] 📍 [ROUTING] "Research Scientist, Societal Impacts" @ anthropic
+[2026-01-30T07:37:11.220Z] [BOT] 📍 [ROUTING] "Software Engineer, Business Technology " @ anthropic
+   Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-01-30T07:37:11.534Z] [BOT] ✅ Posted message: Software Engineer, Business Technology  @ anthropic in #💻・tech-jobs
+  ✅ Industry: Software Engineer, Business Technology  @ anthropic
+[2026-01-30T07:37:11.534Z] [BOT] 💾 Added channel posting: Software Engineer, Business Technology  @ anthropic → category channel (1 total channels)
+💾 BEFORE MERGE: 302 jobs in memory (cached)
+[2026-01-30T07:37:11.540Z] [BOT] ✅ Loaded V2 database: 301 jobs
+💾 DISK STATE: 301 jobs on disk
+[2026-01-30T07:37:11.541Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=302
+[2026-01-30T07:37:11.541Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 302 jobs (merged disk + memory)
+[2026-01-30T07:37:11.542Z] [BOT] ✅ No jobs to archive (all 302 jobs within 7-day window)
+[2026-01-30T07:37:11.560Z] [BOT] 💾 Saved posted_jobs.json: 302 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-30T07:37:13.062Z] [BOT] 📍 [ROUTING] "Software Engineer, Cybersecurity Products" @ anthropic
+   Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-01-30T07:37:13.273Z] [BOT] ✅ Posted message: Software Engineer, Cybersecurity Products @ anthropic in #💻・tech-jobs
+[2026-01-30T07:37:13.274Z] [BOT] ✅ Industry: Software Engineer, Cybersecurity Products @ anthropic
+[2026-01-30T07:37:13.274Z] [BOT] 💾 Added channel posting: Software Engineer, Cybersecurity Products @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:13.274Z] [BOT] 💾 BEFORE MERGE: 303 jobs in memory (cached)
+[2026-01-30T07:37:13.280Z] [BOT] ✅ Loaded V2 database: 302 jobs
+💾 DISK STATE: 302 jobs on disk
+[2026-01-30T07:37:13.280Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=303
+[2026-01-30T07:37:13.281Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 303 jobs (merged disk + memory)
+[2026-01-30T07:37:13.282Z] [BOT] ✅ No jobs to archive (all 303 jobs within 7-day window)
+[2026-01-30T07:37:13.301Z] [BOT] 💾 Saved posted_jobs.json: 303 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-30T07:37:14.804Z] [BOT] 📍 [ROUTING] "Software Engineer, Desktop" @ anthropic
+   Category: TECH (matched: "software")
+[2026-01-30T07:37:14.804Z] [BOT] Channel: 💻・tech-jobs (1462...4987)
+[2026-01-30T07:37:15.125Z] [BOT] ✅ Posted message: Software Engineer, Desktop @ anthropic in #💻・tech-jobs
+  ✅ Industry: Software Engineer, Desktop @ anthropic
+[2026-01-30T07:37:15.126Z] [BOT] 💾 Added channel posting: Software Engineer, Desktop @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:15.126Z] [BOT] 💾 BEFORE MERGE: 304 jobs in memory (cached)
+[2026-01-30T07:37:15.132Z] [BOT] ✅ Loaded V2 database: 303 jobs
+[2026-01-30T07:37:15.132Z] [BOT] 💾 DISK STATE: 303 jobs on disk
+💾 DEBUG: Iterating cached memory jobs - length=304
+[2026-01-30T07:37:15.133Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-01-30T07:37:15.133Z] [BOT] 💾 AFTER MERGE: 304 jobs (merged disk + memory)
+[2026-01-30T07:37:15.133Z] [BOT] ✅ No jobs to archive (all 304 jobs within 7-day window)
+[2026-01-30T07:37:15.152Z] [BOT] 💾 Saved posted_jobs.json: 304 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-30T07:37:16.653Z] [BOT] 📍 [ROUTING] "Software Engineer, Enterprise Foundations" @ anthropic
+   Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-01-30T07:37:16.827Z] [BOT] ✅ Posted message: Software Engineer, Enterprise Foundations @ anthropic in #💻・tech-jobs
+  ✅ Industry: Software Engineer, Enterprise Foundations @ anthropic
+[2026-01-30T07:37:16.827Z] [BOT] 💾 Added channel posting: Software Engineer, Enterprise Foundations @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:16.827Z] [BOT] 💾 BEFORE MERGE: 305 jobs in memory (cached)
+[2026-01-30T07:37:16.838Z] [BOT] ✅ Loaded V2 database: 304 jobs
+💾 DISK STATE: 304 jobs on disk
+[2026-01-30T07:37:16.838Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=305
+[2026-01-30T07:37:16.839Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-01-30T07:37:16.839Z] [BOT] 💾 AFTER MERGE: 305 jobs (merged disk + memory)
+[2026-01-30T07:37:16.839Z] [BOT] ✅ No jobs to archive (all 305 jobs within 7-day window)
+[2026-01-30T07:37:16.864Z] [BOT] 💾 Saved posted_jobs.json: 305 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-30T07:37:18.366Z] [BOT] 📍 [ROUTING] "Software Engineer, Growth" @ anthropic
+[2026-01-30T07:37:18.366Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-01-30T07:37:18.627Z] [BOT] ✅ Posted message: Software Engineer, Growth @ anthropic in #💻・tech-jobs
+[2026-01-30T07:37:18.627Z] [BOT] ✅ Industry: Software Engineer, Growth @ anthropic
+[2026-01-30T07:37:18.627Z] [BOT] 💾 Added channel posting: Software Engineer, Growth @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:18.628Z] [BOT] 💾 BEFORE MERGE: 306 jobs in memory (cached)
+[2026-01-30T07:37:18.637Z] [BOT] ✅ Loaded V2 database: 305 jobs
+💾 DISK STATE: 305 jobs on disk
+[2026-01-30T07:37:18.638Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=306
+[2026-01-30T07:37:18.638Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-01-30T07:37:18.639Z] [BOT] 💾 AFTER MERGE: 306 jobs (merged disk + memory)
+[2026-01-30T07:37:18.639Z] [BOT] ✅ No jobs to archive (all 306 jobs within 7-day window)
+[2026-01-30T07:37:18.663Z] [BOT] 💾 Saved posted_jobs.json: 306 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-01-30T07:37:23.165Z] [BOT] 📌 Posting 3 jobs to #🤖・ai-jobs
+[2026-01-30T07:37:23.166Z] [BOT] 📍 [ROUTING] "Software Engineer, Accelerator Build Infrastructure" @ anthropic
    Category: AI (matched: "machine learning")
    Channel: 🤖・ai-jobs (1462...9217)
-[2026-01-30T07:11:53.623Z] [BOT] ⚠️  Multiple matches: aiMatch, dsMatch (using ai)
-[2026-01-30T07:11:53.850Z] [BOT] ✅ Posted message: Research Scientist, Societal Impacts @ anthropic in #🤖・ai-jobs
-  ✅ Industry: Research Scientist, Societal Impacts @ anthropic
-[2026-01-30T07:11:53.850Z] [BOT] 💾 Added channel posting: Research Scientist, Societal Impacts @ anthropic → category channel (1 total channels)
-💾 BEFORE MERGE: 292 jobs in memory (cached)
-[2026-01-30T07:11:53.857Z] [BOT] ✅ Loaded V2 database: 291 jobs
-💾 DISK STATE: 291 jobs on disk
-[2026-01-30T07:11:53.857Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=292
-[2026-01-30T07:11:53.858Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-💾 AFTER MERGE: 292 jobs (merged disk + memory)
-[2026-01-30T07:11:53.858Z] [BOT] ✅ No jobs to archive (all 292 jobs within 7-day window)
-[2026-01-30T07:11:53.876Z] [BOT] 💾 Saved posted_jobs.json: 292 active jobs
+[2026-01-30T07:37:23.166Z] [BOT] ⚠️  Multiple matches: aiMatch, techMatch (using ai)
+[2026-01-30T07:37:23.467Z] [BOT] ✅ Posted message: Software Engineer, Accelerator Build Infrastructure @ anthropic in #🤖・ai-jobs
+  ✅ Industry: Software Engineer, Accelerator Build Infrastructure @ anthropic
+[2026-01-30T07:37:23.468Z] [BOT] 💾 Added channel posting: Software Engineer, Accelerator Build Infrastructure @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:23.468Z] [BOT] 💾 BEFORE MERGE: 307 jobs in memory (cached)
+[2026-01-30T07:37:23.474Z] [BOT] ✅ Loaded V2 database: 306 jobs
+💾 DISK STATE: 306 jobs on disk
+[2026-01-30T07:37:23.474Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=307
+[2026-01-30T07:37:23.475Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-01-30T07:37:23.475Z] [BOT] 💾 AFTER MERGE: 307 jobs (merged disk + memory)
+[2026-01-30T07:37:23.475Z] [BOT] ✅ No jobs to archive (all 307 jobs within 7-day window)
+[2026-01-30T07:37:23.501Z] [BOT] 💾 Saved posted_jobs.json: 307 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-30T07:11:55.378Z] [BOT] 📍 [ROUTING] "Security GRC Specialist, Public Sector" @ anthropic
-[2026-01-30T07:11:55.378Z] [BOT] Category: AI (matched: "artificial intelligence")
+[2026-01-30T07:37:25.003Z] [BOT] 📍 [ROUTING] "Software Engineer, Beneficial Deployments " @ anthropic
+[2026-01-30T07:37:25.003Z] [BOT] Category: AI (matched: "AI/ML")
    Channel: 🤖・ai-jobs (1462...9217)
    ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-01-30T07:11:55.551Z] [BOT] ✅ Posted message: Security GRC Specialist, Public Sector @ anthropic in #🤖・ai-jobs
-[2026-01-30T07:11:55.551Z] [BOT] ✅ Industry: Security GRC Specialist, Public Sector @ anthropic
-[2026-01-30T07:11:55.551Z] [BOT] 💾 Added channel posting: Security GRC Specialist, Public Sector @ anthropic → category channel (1 total channels)
-[2026-01-30T07:11:55.552Z] [BOT] 💾 BEFORE MERGE: 293 jobs in memory (cached)
-[2026-01-30T07:11:55.558Z] [BOT] ✅ Loaded V2 database: 292 jobs
-💾 DISK STATE: 292 jobs on disk
-[2026-01-30T07:11:55.558Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=293
-[2026-01-30T07:11:55.559Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-💾 AFTER MERGE: 293 jobs (merged disk + memory)
-[2026-01-30T07:11:55.559Z] [BOT] ✅ No jobs to archive (all 293 jobs within 7-day window)
-[2026-01-30T07:11:55.578Z] [BOT] 💾 Saved posted_jobs.json: 293 active jobs
+[2026-01-30T07:37:25.220Z] [BOT] ✅ Posted message: Software Engineer, Beneficial Deployments  @ anthropic in #🤖・ai-jobs
+  ✅ Industry: Software Engineer, Beneficial Deployments  @ anthropic
+[2026-01-30T07:37:25.220Z] [BOT] 💾 Added channel posting: Software Engineer, Beneficial Deployments  @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:25.220Z] [BOT] 💾 BEFORE MERGE: 308 jobs in memory (cached)
+[2026-01-30T07:37:25.226Z] [BOT] ✅ Loaded V2 database: 307 jobs
+💾 DISK STATE: 307 jobs on disk
+[2026-01-30T07:37:25.227Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=308
+[2026-01-30T07:37:25.227Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 308 jobs (merged disk + memory)
+[2026-01-30T07:37:25.228Z] [BOT] ✅ No jobs to archive (all 308 jobs within 7-day window)
+[2026-01-30T07:37:25.248Z] [BOT] 💾 Saved posted_jobs.json: 308 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-30T07:11:57.080Z] [BOT] 📍 [ROUTING] "Security Risk & Compliance, Cloud & Data Centers" @ anthropic
-   Category: AI (matched: "artificial intelligence")
-   Channel: 🤖・ai-jobs (1462...9217)
+[2026-01-30T07:37:26.749Z] [BOT] 📍 [ROUTING] "Software Engineer, Claude Code" @ anthropic
+   Category: AI (matched: "AI/ML")
+[2026-01-30T07:37:26.749Z] [BOT] Channel: 🤖・ai-jobs (1462...9217)
    ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-01-30T07:11:57.279Z] [BOT] ✅ Posted message: Security Risk & Compliance, Cloud & Data Centers @ anthropic in #🤖・ai-jobs
-  ✅ Industry: Security Risk & Compliance, Cloud & Data Centers @ anthropic
-[2026-01-30T07:11:57.280Z] [BOT] 💾 Added channel posting: Security Risk & Compliance, Cloud & Data Centers @ anthropic → category channel (1 total channels)
-[2026-01-30T07:11:57.280Z] [BOT] 💾 BEFORE MERGE: 294 jobs in memory (cached)
-[2026-01-30T07:11:57.286Z] [BOT] ✅ Loaded V2 database: 293 jobs
-💾 DISK STATE: 293 jobs on disk
-[2026-01-30T07:11:57.286Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=294
-[2026-01-30T07:11:57.287Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-01-30T07:11:57.287Z] [BOT] 💾 AFTER MERGE: 294 jobs (merged disk + memory)
-[2026-01-30T07:11:57.287Z] [BOT] ✅ No jobs to archive (all 294 jobs within 7-day window)
-[2026-01-30T07:11:57.305Z] [BOT] 💾 Saved posted_jobs.json: 294 active jobs
+[2026-01-30T07:37:26.899Z] [BOT] ✅ Posted message: Software Engineer, Claude Code @ anthropic in #🤖・ai-jobs
+  ✅ Industry: Software Engineer, Claude Code @ anthropic
+[2026-01-30T07:37:26.899Z] [BOT] 💾 Added channel posting: Software Engineer, Claude Code @ anthropic → category channel (1 total channels)
+[2026-01-30T07:37:26.899Z] [BOT] 💾 BEFORE MERGE: 309 jobs in memory (cached)
+[2026-01-30T07:37:26.909Z] [BOT] ✅ Loaded V2 database: 308 jobs
+💾 DISK STATE: 308 jobs on disk
+[2026-01-30T07:37:26.909Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=309
+[2026-01-30T07:37:26.910Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 309 jobs (merged disk + memory)
+[2026-01-30T07:37:26.910Z] [BOT] ✅ No jobs to archive (all 309 jobs within 7-day window)
+[2026-01-30T07:37:26.932Z] [BOT] 💾 Saved posted_jobs.json: 309 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-30T07:12:01.807Z] [BOT] 📌 Posting 2 jobs to #💰・finance-jobs
-[2026-01-30T07:12:01.808Z] [BOT] 📍 [ROUTING] "Revenue Accounting" @ anthropic
-[2026-01-30T07:12:01.808Z] [BOT] Category: FINANCE (matched: "finance")
-   Channel: 💰・finance-jobs (1462...4023)
-[2026-01-30T07:12:02.174Z] [BOT] ✅ Posted message: Revenue Accounting @ anthropic in #💰・finance-jobs
-[2026-01-30T07:12:02.174Z] [BOT] ✅ Industry: Revenue Accounting @ anthropic
-[2026-01-30T07:12:02.174Z] [BOT] 💾 Added channel posting: Revenue Accounting @ anthropic → category channel (1 total channels)
-💾 BEFORE MERGE: 295 jobs in memory (cached)
-[2026-01-30T07:12:02.184Z] [BOT] ✅ Loaded V2 database: 294 jobs
-[2026-01-30T07:12:02.184Z] [BOT] 💾 DISK STATE: 294 jobs on disk
-💾 DEBUG: Iterating cached memory jobs - length=295
-[2026-01-30T07:12:02.185Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-01-30T07:12:02.185Z] [BOT] 💾 AFTER MERGE: 295 jobs (merged disk + memory)
-[2026-01-30T07:12:02.185Z] [BOT] ✅ No jobs to archive (all 295 jobs within 7-day window)
-[2026-01-30T07:12:02.210Z] [BOT] 💾 Saved posted_jobs.json: 295 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-30T07:12:03.711Z] [BOT] 📍 [ROUTING] "Revenue Systems Solution Architect" @ anthropic
-[2026-01-30T07:12:03.712Z] [BOT] Category: FINANCE (matched: "finance")
-   Channel: 💰・finance-jobs (1462...4023)
-[2026-01-30T07:12:03.858Z] [BOT] ✅ Posted message: Revenue Systems Solution Architect @ anthropic in #💰・finance-jobs
-[2026-01-30T07:12:03.858Z] [BOT] ✅ Industry: Revenue Systems Solution Architect @ anthropic
-[2026-01-30T07:12:03.858Z] [BOT] 💾 Added channel posting: Revenue Systems Solution Architect @ anthropic → category channel (1 total channels)
-💾 BEFORE MERGE: 296 jobs in memory (cached)
-[2026-01-30T07:12:03.865Z] [BOT] ✅ Loaded V2 database: 295 jobs
-💾 DISK STATE: 295 jobs on disk
-[2026-01-30T07:12:03.865Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=296
-[2026-01-30T07:12:03.866Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-💾 AFTER MERGE: 296 jobs (merged disk + memory)
-[2026-01-30T07:12:03.866Z] [BOT] ✅ No jobs to archive (all 296 jobs within 7-day window)
-[2026-01-30T07:12:03.890Z] [BOT] 💾 Saved posted_jobs.json: 296 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-30T07:12:08.392Z] [BOT] 📌 Posting 3 jobs to #💻・tech-jobs
-[2026-01-30T07:12:08.393Z] [BOT] 📍 [ROUTING] "Salesforce Administrator" @ anthropic
-   Category: TECH (default)
-   Channel: 💻・tech-jobs (1462...4987)
-[2026-01-30T07:12:08.792Z] [BOT] ✅ Posted message: Salesforce Administrator @ anthropic in #💻・tech-jobs
-  ✅ Industry: Salesforce Administrator @ anthropic
-[2026-01-30T07:12:08.792Z] [BOT] 💾 Added channel posting: Salesforce Administrator @ anthropic → category channel (1 total channels)
-[2026-01-30T07:12:08.792Z] [BOT] 💾 BEFORE MERGE: 297 jobs in memory (cached)
-[2026-01-30T07:12:08.798Z] [BOT] ✅ Loaded V2 database: 296 jobs
-💾 DISK STATE: 296 jobs on disk
-[2026-01-30T07:12:08.798Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=297
-[2026-01-30T07:12:08.799Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-💾 AFTER MERGE: 297 jobs (merged disk + memory)
-[2026-01-30T07:12:08.800Z] [BOT] ✅ No jobs to archive (all 297 jobs within 7-day window)
-[2026-01-30T07:12:08.820Z] [BOT] 💾 Saved posted_jobs.json: 297 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-30T07:12:10.322Z] [BOT] 📍 [ROUTING] "Security Development Project Specialist" @ anthropic
-   Category: TECH (matched: "security")
-   Channel: 💻・tech-jobs (1462...4987)
-[2026-01-30T07:12:11.112Z] [BOT] ✅ Posted message: Security Development Project Specialist @ anthropic in #💻・tech-jobs
-  ✅ Industry: Security Development Project Specialist @ anthropic
-[2026-01-30T07:12:11.112Z] [BOT] 💾 Added channel posting: Security Development Project Specialist @ anthropic → category channel (1 total channels)
-[2026-01-30T07:12:11.112Z] [BOT] 💾 BEFORE MERGE: 298 jobs in memory (cached)
-[2026-01-30T07:12:11.121Z] [BOT] ✅ Loaded V2 database: 297 jobs
-[2026-01-30T07:12:11.121Z] [BOT] 💾 DISK STATE: 297 jobs on disk
-💾 DEBUG: Iterating cached memory jobs - length=298
-[2026-01-30T07:12:11.122Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-01-30T07:12:11.122Z] [BOT] 💾 AFTER MERGE: 298 jobs (merged disk + memory)
-[2026-01-30T07:12:11.122Z] [BOT] ✅ No jobs to archive (all 298 jobs within 7-day window)
-[2026-01-30T07:12:11.144Z] [BOT] 💾 Saved posted_jobs.json: 298 active jobs
-[2026-01-30T07:12:11.144Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-01-30T07:12:12.646Z] [BOT] 📍 [ROUTING] "Security Engineer, Detection & Response" @ anthropic
-[2026-01-30T07:12:12.646Z] [BOT] Category: TECH (matched: "engineer/engineering")
-   Channel: 💻・tech-jobs (1462...4987)
-[2026-01-30T07:12:12.917Z] [BOT] ✅ Posted message: Security Engineer, Detection & Response @ anthropic in #💻・tech-jobs
-[2026-01-30T07:12:12.918Z] [BOT] ✅ Industry: Security Engineer, Detection & Response @ anthropic
-[2026-01-30T07:12:12.918Z] [BOT] 💾 Added channel posting: Security Engineer, Detection & Response @ anthropic → category channel (1 total channels)
-[2026-01-30T07:12:12.918Z] [BOT] 💾 BEFORE MERGE: 299 jobs in memory (cached)
-[2026-01-30T07:12:12.925Z] [BOT] ✅ Loaded V2 database: 298 jobs
-💾 DISK STATE: 298 jobs on disk
-[2026-01-30T07:12:12.925Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=299
-[2026-01-30T07:12:12.926Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-01-30T07:12:12.926Z] [BOT] 💾 AFTER MERGE: 299 jobs (merged disk + memory)
-[2026-01-30T07:12:12.926Z] [BOT] ✅ No jobs to archive (all 299 jobs within 7-day window)
-[2026-01-30T07:12:12.945Z] [BOT] 💾 Saved posted_jobs.json: 299 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-01-30T07:12:17.449Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
-[2026-01-30T07:12:17.449Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "da77145a42557323"
-⏭️  Skipping duplicate: JID_585dec62 (posted within 7 days)
-[2026-01-30T07:12:17.450Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "89417b9de780efdc"
-⏭️  Skipping duplicate: JID_15566316 (posted within 7 days)
-[2026-01-30T07:12:17.450Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "7f8ff408df45e862"
-⏭️  Skipping duplicate: JID_afefa6f3 (posted within 7 days)
-[2026-01-30T07:12:17.450Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "f4f1b9747d6ab867"
-⏭️  Skipping duplicate: JID_fb667c9c (posted within 7 days)
-[2026-01-30T07:12:17.450Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "8eb27e24dc28d39d"
-⏭️  Skipping duplicate: JID_1fe49bb0 (posted within 7 days)
-[2026-01-30T07:12:17.450Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "fab7d67cd083f061"
-⏭️  Skipping duplicate: JID_bb39dd9d (posted within 7 days)
-🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "03acadb1d15e2927"
-⏭️  Skipping duplicate: JID_68413eab (posted within 7 days)
-🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "b8032906f1679747"
-⏭️  Skipping duplicate: JID_9c0c7605 (posted within 7 days)
-🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "aa53d77d5a39cc7c"
-⏭️  Skipping duplicate: JID_16d85b73 (posted within 7 days)
-[2026-01-30T07:12:17.450Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "8d475ad93d2c410e"
-⏭️  Skipping duplicate: JID_010358d4 (posted within 7 days)
-[2026-01-30T07:12:17.562Z] [BOT] ✅ Loaded pending queue: 2916 total (2611 pending, 45 enriched, 260 posted)
-[2026-01-30T07:12:17.750Z] [BOT] ✅ Saved pending queue: 2916 total (2611 pending, 35 enriched, 270 posted)
-[2026-01-30T07:12:17.750Z] [BOT] 📋 Updated queue: marked 10 jobs as posted
+[2026-01-30T07:37:31.434Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
+[2026-01-30T07:37:31.435Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "65247f255e58e861"
+[2026-01-30T07:37:31.435Z] [BOT] ⏭️  Skipping duplicate: JID_b288fb7c (posted within 7 days)
+[2026-01-30T07:37:31.435Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "0c7f3536ccaf363a"
+⏭️  Skipping duplicate: JID_00920064 (posted within 7 days)
+[2026-01-30T07:37:31.435Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "125235fa0abea4a8"
+⏭️  Skipping duplicate: JID_18e6eb79 (posted within 7 days)
+[2026-01-30T07:37:31.435Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "be111ba6129c4499"
+⏭️  Skipping duplicate: JID_691589b6 (posted within 7 days)
+[2026-01-30T07:37:31.435Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "72c7bee82e538211"
+⏭️  Skipping duplicate: JID_d0f6433e (posted within 7 days)
+[2026-01-30T07:37:31.435Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "bc9f8c873b8eeb30"
+[2026-01-30T07:37:31.436Z] [BOT] ⏭️  Skipping duplicate: JID_310f7e64 (posted within 7 days)
+[2026-01-30T07:37:31.436Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "c43756794b7b2d2a"
+⏭️  Skipping duplicate: JID_39398126 (posted within 7 days)
+[2026-01-30T07:37:31.436Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "8ec469206490f432"
+⏭️  Skipping duplicate: JID_d04e5201 (posted within 7 days)
+[2026-01-30T07:37:31.436Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "61b2797cd8b2d4c2"
+⏭️  Skipping duplicate: JID_7b2bffcb (posted within 7 days)
+[2026-01-30T07:37:31.436Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "165dd31fcb366e2b"
+[2026-01-30T07:37:31.436Z] [BOT] ⏭️  Skipping duplicate: JID_f718e68a (posted within 7 days)
+[2026-01-30T07:37:31.540Z] [BOT] ✅ Loaded pending queue: 2914 total (2603 pending, 41 enriched, 270 posted)
+[2026-01-30T07:37:31.731Z] [BOT] ✅ Saved pending queue: 2914 total (2603 pending, 31 enriched, 280 posted)
+[2026-01-30T07:37:31.731Z] [BOT] 📋 Updated queue: marked 10 jobs as posted
 ✅ All posting operations complete, cleaning up...
-[2026-01-30T07:12:17.833Z] [BOT] 📂 Loaded 10351 existing routing entries
-[2026-01-30T07:12:17.951Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+[2026-01-30T07:37:31.814Z] [BOT] 📂 Loaded 10361 existing routing entries
+[2026-01-30T07:37:31.931Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
    New entries: 10
-   Total entries: 10361
-   Timestamp: 2026-01-30T07:12:17.909Z
-[2026-01-30T07:12:17.951Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_7339b971.jsonl
-[2026-01-30T07:12:17.951Z] [BOT] Total attempts: 18
-   Successful: 10
+[2026-01-30T07:37:31.931Z] [BOT] Total entries: 10371
+   Timestamp: 2026-01-30T07:37:31.890Z
+[2026-01-30T07:37:31.932Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_7339b971.jsonl
+   Total attempts: 22
+[2026-01-30T07:37:31.932Z] [BOT] Successful: 10
    Failed: 0
-   Skipped: 8
-[2026-01-30T07:12:17.951Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+   Skipped: 12
+[2026-01-30T07:37:31.932Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
    Last cleanup: Never
-[2026-01-30T07:12:17.952Z] [BOT] Total posts: 10
-   Channels used: 3
+   Total posts: 10
+   Channels used: 2
    Top channels:
-     1. #🤖・ai-jobs: 5 posts
-[2026-01-30T07:12:17.952Z] [BOT] 2. #💻・tech-jobs: 3 posts
-     3. #💰・finance-jobs: 2 posts
-[2026-01-30T07:12:17.952Z] [BOT] [STATS] Channel stats saved
-[2026-01-30T07:12:17.952Z] [BOT] 💾 Saving posted jobs database...
-💾 BEFORE MERGE: 299 jobs in memory (cached)
-[2026-01-30T07:12:17.958Z] [BOT] ✅ Loaded V2 database: 299 jobs
-💾 DISK STATE: 299 jobs on disk
-[2026-01-30T07:12:17.959Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=299
-[2026-01-30T07:12:17.960Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-01-30T07:12:17.960Z] [BOT] 💾 AFTER MERGE: 299 jobs (merged disk + memory)
-✅ No jobs to archive (all 299 jobs within 7-day window)
-[2026-01-30T07:12:17.980Z] [BOT] 💾 Saved posted_jobs.json: 299 active jobs
+[2026-01-30T07:37:31.932Z] [BOT] 1. #💻・tech-jobs: 7 posts
+     2. #🤖・ai-jobs: 3 posts
+[2026-01-30T07:37:31.932Z] [BOT] [STATS] Channel stats saved
+💾 Saving posted jobs database...
+💾 BEFORE MERGE: 309 jobs in memory (cached)
+[2026-01-30T07:37:31.939Z] [BOT] ✅ Loaded V2 database: 309 jobs
+💾 DISK STATE: 309 jobs on disk
+[2026-01-30T07:37:31.939Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=309
+[2026-01-30T07:37:31.940Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 309 jobs (merged disk + memory)
+[2026-01-30T07:37:31.940Z] [BOT] ✅ No jobs to archive (all 309 jobs within 7-day window)
+[2026-01-30T07:37:31.960Z] [BOT] 💾 Saved posted_jobs.json: 309 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-01-30T07:12:17.980Z] [BOT] ✅ Database saved successfully
-[2026-01-30T07:12:20.011Z] 
+[2026-01-30T07:37:31.960Z] [BOT] ✅ Database saved successfully
+[2026-01-30T07:37:33.992Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2577) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2480) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
