@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T07:58:07.835Z",
+  "generated": "2026-01-30T08:17:29.571Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T07:58:07.835Z",
-  "period_end": "2026-01-30T07:58:07.835Z",
+  "period_start": "2026-01-23T08:17:29.571Z",
+  "period_end": "2026-01-30T08:17:29.571Z",
   "summary": {
-    "total_jobs_posted": 348,
-    "unique_jobs": 319,
-    "multi_channel_postings": 58,
-    "unique_multi_channel_jobs": 29,
+    "total_jobs_posted": 359,
+    "unique_jobs": 329,
+    "multi_channel_postings": 60,
+    "unique_multi_channel_jobs": 30,
     "failed_postings": 0,
-    "filtered_jobs": 16,
+    "filtered_jobs": 14,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 252,
+      "count": 260,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -268,57 +268,17 @@
         "f3364ae6c0bfe734",
         "c51812475489cfd2",
         "d43ebdd001bc7535",
-        "860212b9a5c9f3c5"
+        "860212b9a5c9f3c5",
+        "a6cd7e71280b369b",
+        "677edbad742d0427",
+        "ffb55c48b71d94ae",
+        "7a5a0148cb6e9e91",
+        "647f4ea2091c8cc7",
+        "d972ca93153806b4",
+        "b9ba2494d26b0a23",
+        "07d2c3c8d9cec190"
       ],
       "recent_jobs": [
-        {
-          "id": "be711265d741ad25",
-          "title": "Software Engineer, iOS",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:40.022Z"
-        },
-        {
-          "id": "84024d3b89355c3a",
-          "title": "Software Engineer, ML Networking",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:41.740Z"
-        },
-        {
-          "id": "1efbfb254bb42bde",
-          "title": "Software Engineer, Public Sector",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:43.471Z"
-        },
-        {
-          "id": "f3a3e59a06755563",
-          "title": "Software Engineer, Python Language",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:45.182Z"
-        },
-        {
-          "id": "cf4b05a9ccc483e3",
-          "title": "Software Engineer, Safeguards",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:47.065Z"
-        },
-        {
-          "id": "70bd8d4d81293ca1",
-          "title": "Software Engineer, Sandboxing (Systems)",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:48.754Z"
-        },
-        {
-          "id": "f3364ae6c0bfe734",
-          "title": "Software Engineer, Labs",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:53.572Z"
-        },
-        {
-          "id": "c51812475489cfd2",
-          "title": "Software Engineer, Platform",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T07:57:55.398Z"
-        },
         {
           "id": "d43ebdd001bc7535",
           "title": "Solutions Architect, Applied AI (Beneficial Deployments)",
@@ -330,12 +290,60 @@
           "title": "Solutions Architect, Applied AI (Digital Native Business)",
           "company": "anthropic",
           "posted_at": "2026-01-30T07:57:59.102Z"
+        },
+        {
+          "id": "a6cd7e71280b369b",
+          "title": "Solutions Architect, Applied AI (Federal Civilian)",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:16:56.887Z"
+        },
+        {
+          "id": "677edbad742d0427",
+          "title": "Solutions Architect, Applied AI (Industries)",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:16:58.781Z"
+        },
+        {
+          "id": "ffb55c48b71d94ae",
+          "title": "Solutions Architect, Applied AI (Startups)",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:00.518Z"
+        },
+        {
+          "id": "7a5a0148cb6e9e91",
+          "title": "Startup Partnerships ",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:02.484Z"
+        },
+        {
+          "id": "647f4ea2091c8cc7",
+          "title": "Startup Account Executive",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:07.435Z"
+        },
+        {
+          "id": "d972ca93153806b4",
+          "title": "Strategic Account Executive, Industries",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:09.183Z"
+        },
+        {
+          "id": "b9ba2494d26b0a23",
+          "title": "Strategic Account Executive, Insurance",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:10.940Z"
+        },
+        {
+          "id": "07d2c3c8d9cec190",
+          "title": "Strategic Account Executive, LATAM Financial Services",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:14.495Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 24,
+      "count": 25,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -360,15 +368,10 @@
         "e16a70b0626e41ff",
         "6ed79a9157c96f0e",
         "0b2439f327b93576",
-        "5a640b8a3a310c3b"
+        "5a640b8a3a310c3b",
+        "b9ba2494d26b0a23"
       ],
       "recent_jobs": [
-        {
-          "id": "d0f67123726be881",
-          "title": "Product Designer II, Actions",
-          "company": "datadog",
-          "posted_at": "2026-01-29T19:52:14.164Z"
-        },
         {
           "id": "668320062b686724",
           "title": "Sourcer II",
@@ -422,12 +425,18 @@
           "title": "Nonprofit Account Executive",
           "company": "anthropic",
           "posted_at": "2026-01-30T05:56:07.911Z"
+        },
+        {
+          "id": "b9ba2494d26b0a23",
+          "title": "Strategic Account Executive, Insurance",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:10.940Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 67,
+      "count": 69,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -495,21 +504,11 @@
         "16e3939e12c08e95",
         "c3ce575848ce9be1",
         "f4f1b9747d6ab867",
-        "8eb27e24dc28d39d"
+        "8eb27e24dc28d39d",
+        "46f43076f51727e5",
+        "053f220477fc3721"
       ],
       "recent_jobs": [
-        {
-          "id": "737e68f4c133537a",
-          "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:27.819Z"
-        },
-        {
-          "id": "3da0b54a38da310e",
-          "title": "Financial Reporting Accountant",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T04:29:32.540Z"
-        },
         {
           "id": "fdf2804bd0494b87",
           "title": "Head of Asset & Wealth Management, GTM Sales",
@@ -557,6 +556,18 @@
           "title": "Revenue Systems Solution Architect",
           "company": "anthropic",
           "posted_at": "2026-01-30T07:12:03.858Z"
+        },
+        {
+          "id": "46f43076f51727e5",
+          "title": "Strategic Account Executive, Asset & Wealth Management",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:19.361Z"
+        },
+        {
+          "id": "053f220477fc3721",
+          "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T08:17:21.083Z"
         }
       ]
     },
@@ -894,101 +905,97 @@
         "channel-14629888"
       ],
       "posted_at": "2026-01-30T05:56:07.911Z"
+    },
+    {
+      "job_id": "b9ba2494d26b0a23",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Insurance",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T08:17:10.940Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4960417008",
-        "title": "Technical Program Manager, Safeguards",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.338Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4989788008",
-        "title": "Technical Program Manager, Security",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.338Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5066957008",
-        "title": "Technical Program Manager, Security - Detection & Response",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.338Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8335473002",
-        "title": "Enterprise Customer Success Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.338Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8335464002",
-        "title": "Enterprise Customer Success Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.338Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8335456002",
-        "title": "Enterprise Customer Success Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.338Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8335440002",
-        "title": "Enterprise Customer Success Manager",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.338Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7434475",
-        "title": "Senior Data Scientist - Gusto 401(k)",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.339Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7565135",
-        "title": "Manager I, Engineering - CCM Optimize ",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.339Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7496207",
-        "title": "Staff Product Designer, Visual Systems",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.339Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7182907",
-        "title": "Staff Product Designer, Bits AI",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.339Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5781036004",
-        "title": "Director, Product Foundations",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.339Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7523806",
+        "job_id": "careers-datadoghq-com-detail-7538558",
         "title": "Lead Counsel - Public Sector",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T07:57:39.339Z"
+        "timestamp": "2026-01-30T08:16:56.208Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8389679002",
+        "title": "Senior Manager, National Technology Partners",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.208Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7560857",
+        "title": "Senior Accountant - NYC",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.208Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8207887002",
+        "title": "Ad Sales Lead",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.208Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8290478002",
+        "title": "Director of Learning Design, Immersive Language Learning",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.209Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8205129002",
+        "title": "Director of Learning Design, New Subjects",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.209Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-7996986002",
+        "title": "Director of Performance Marketing",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.209Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8390634002",
+        "title": "Director of Product Management, Growth",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.209Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8326489002",
+        "title": "Director of Product Management, Learning",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.209Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8385137002",
+        "title": "Engineering Manager, Chess",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.209Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8331172002",
+        "title": "Product Marketing Manager, Duolingo Chess",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T08:16:56.209Z"
       }
     ],
     "already_posted": [],
@@ -999,21 +1006,21 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:57:39.332Z"
+        "timestamp": "2026-01-30T08:16:56.203Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:57:39.333Z"
+        "timestamp": "2026-01-30T08:16:56.203Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:57:39.335Z"
+        "timestamp": "2026-01-30T08:16:56.204Z"
       }
     ]
   }
