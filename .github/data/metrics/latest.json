@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T21:18:16.990Z",
+  "generated": "2026-01-30T21:32:40.003Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T21:18:16.990Z",
-  "period_end": "2026-01-30T21:18:16.990Z",
+  "period_start": "2026-01-23T21:32:40.003Z",
+  "period_end": "2026-01-30T21:32:40.003Z",
   "summary": {
-    "total_jobs_posted": 810,
-    "unique_jobs": 688,
-    "multi_channel_postings": 244,
-    "unique_multi_channel_jobs": 122,
+    "total_jobs_posted": 821,
+    "unique_jobs": 698,
+    "multi_channel_postings": 246,
+    "unique_multi_channel_jobs": 123,
     "failed_postings": 0,
-    "filtered_jobs": 15,
+    "filtered_jobs": 14,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 533,
+      "count": 540,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -549,51 +549,16 @@
         "30701c7f6a1c0e8f",
         "c75c96606d3e8a26",
         "47dd6d2a0106b6b6",
-        "5732b7e1a43b9840"
+        "5732b7e1a43b9840",
+        "c08505241fe0ff59",
+        "ee9e730f9ee71d23",
+        "0f7747c082949ea5",
+        "a9191e50ebd88449",
+        "910d368d57d55a49",
+        "5a6272125e279140",
+        "67f4722b0dae0aac"
       ],
       "recent_jobs": [
-        {
-          "id": "a152bf1fb58f683b",
-          "title": "Database Conversion - ETL - Programmer",
-          "company": "National Information Solutions Cooperative (NISC)",
-          "posted_at": "2026-01-30T21:05:16.178Z"
-        },
-        {
-          "id": "172edfe43629c310",
-          "title": "Software Engineer - AI & Full Stack Development",
-          "company": "KLA",
-          "posted_at": "2026-01-30T21:05:17.944Z"
-        },
-        {
-          "id": "57e0b82b1117de74",
-          "title": "Mid-Market Account Executive - PubSec",
-          "company": "samsara",
-          "posted_at": "2026-01-30T21:17:44.555Z"
-        },
-        {
-          "id": "d73095432b39350c",
-          "title": "Software Developer - Provisioning",
-          "company": "National Information Solutions Cooperative (NISC)",
-          "posted_at": "2026-01-30T21:17:46.336Z"
-        },
-        {
-          "id": "712f13e8f53e23bc",
-          "title": "IT Services Academy Program - Software Analyst",
-          "company": "JM Family",
-          "posted_at": "2026-01-30T21:17:48.116Z"
-        },
-        {
-          "id": "8ef06b714d4b05bf",
-          "title": "IT Services Academy Program-Software Analyst",
-          "company": "JM Family",
-          "posted_at": "2026-01-30T21:17:49.889Z"
-        },
-        {
-          "id": "30701c7f6a1c0e8f",
-          "title": "Software Engineer 1 - Aws",
-          "company": "The Travelers Companies",
-          "posted_at": "2026-01-30T21:17:51.675Z"
-        },
         {
           "id": "c75c96606d3e8a26",
           "title": "Product Designer",
@@ -611,6 +576,48 @@
           "title": "2026 Summer Internship, Engineering & Data Science (New York City)",
           "company": "spotify",
           "posted_at": "2026-01-30T21:18:06.938Z"
+        },
+        {
+          "id": "c08505241fe0ff59",
+          "title": "Associate Engineer - Cloud Development",
+          "company": "Resmed",
+          "posted_at": "2026-01-30T21:32:13.316Z"
+        },
+        {
+          "id": "ee9e730f9ee71d23",
+          "title": "Engineer – Cloud Development",
+          "company": "Resmed",
+          "posted_at": "2026-01-30T21:32:15.344Z"
+        },
+        {
+          "id": "0f7747c082949ea5",
+          "title": "Software Engineer 1 - Multiple Teams",
+          "company": "The Travelers Companies",
+          "posted_at": "2026-01-30T21:32:17.055Z"
+        },
+        {
+          "id": "a9191e50ebd88449",
+          "title": "Platform Enabling Software Engineer",
+          "company": "Intel",
+          "posted_at": "2026-01-30T21:32:18.799Z"
+        },
+        {
+          "id": "910d368d57d55a49",
+          "title": "IT Warehouse System Developer",
+          "company": "Corning",
+          "posted_at": "2026-01-30T21:32:20.573Z"
+        },
+        {
+          "id": "5a6272125e279140",
+          "title": "Triage Associate 1",
+          "company": "Latitude AI",
+          "posted_at": "2026-01-30T21:32:30.106Z"
+        },
+        {
+          "id": "67f4722b0dae0aac",
+          "title": "Associate Software Engineer Graduate",
+          "company": "Encord",
+          "posted_at": "2026-01-30T21:32:31.944Z"
         }
       ]
     },
@@ -768,7 +775,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 155,
+      "count": 158,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -924,27 +931,12 @@
         "e71922524ee96bcc",
         "ad11e3c9d2f11a69",
         "c54d91e177b42e54",
-        "2f0c0b8cc2958f32"
+        "2f0c0b8cc2958f32",
+        "84bf89e6525d7e29",
+        "36cd2ae57056ab07",
+        "cb3609ee6a323c7c"
       ],
       "recent_jobs": [
-        {
-          "id": "a602ab5679924f27",
-          "title": "Select Major Account Executive EST/CST - Charlotte, NC",
-          "company": "samsara",
-          "posted_at": "2026-01-30T20:04:34.512Z"
-        },
-        {
-          "id": "48a49d7e8d781227",
-          "title": "Select Major Account Executive EST/CST - Columbia, SC",
-          "company": "samsara",
-          "posted_at": "2026-01-30T20:17:36.550Z"
-        },
-        {
-          "id": "64370370ab4853f8",
-          "title": "Select Major Account Executive EST/CST - Dallas, TX",
-          "company": "samsara",
-          "posted_at": "2026-01-30T20:32:27.753Z"
-        },
         {
           "id": "3b1f5f7332ddd3cf",
           "title": "Select Major Account Executive EST/CST - Hartford, CT",
@@ -986,12 +978,30 @@
           "title": "Account Executive, Mid Market",
           "company": "brex",
           "posted_at": "2026-01-30T21:18:02.005Z"
+        },
+        {
+          "id": "84bf89e6525d7e29",
+          "title": "Select Major Account Executive EST/CST - Miami, FL",
+          "company": "samsara",
+          "posted_at": "2026-01-30T21:32:04.990Z"
+        },
+        {
+          "id": "36cd2ae57056ab07",
+          "title": "Account Executive, Mid Market",
+          "company": "brex",
+          "posted_at": "2026-01-30T21:32:06.864Z"
+        },
+        {
+          "id": "cb3609ee6a323c7c",
+          "title": "Software Systems Engineer",
+          "company": "The Boeing Company",
+          "posted_at": "2026-01-30T21:32:25.397Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 38,
+      "count": 39,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1030,15 +1040,10 @@
         "0262778e71d3abb4",
         "843fdf1f9d9b7c7f",
         "b3a5dd1b34e789c1",
-        "ba0149d360279443"
+        "ba0149d360279443",
+        "36cd2ae57056ab07"
       ],
       "recent_jobs": [
-        {
-          "id": "fd8b015e4a6dd685",
-          "title": "Strategic Account Executive (SLED)",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:54:03.029Z"
-        },
         {
           "id": "b9302d58b8d0dbc2",
           "title": "Entry Level Developer - Contract",
@@ -1092,6 +1097,12 @@
           "title": "Sr. Sales Operations and Strategy Analyst",
           "company": "samsara",
           "posted_at": "2026-01-30T19:53:00.183Z"
+        },
+        {
+          "id": "36cd2ae57056ab07",
+          "title": "Account Executive, Mid Market",
+          "company": "brex",
+          "posted_at": "2026-01-30T21:32:06.864Z"
         }
       ]
     }
@@ -1600,15 +1611,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "www-brex-com-careers-7892186002",
-        "title": "Senior Data Scientist, Finance ",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T21:17:44.003Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -1617,98 +1620,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.992Z"
+        "timestamp": "2026-01-30T21:32:04.747Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.992Z"
+        "timestamp": "2026-01-30T21:32:04.748Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.993Z"
+        "timestamp": "2026-01-30T21:32:04.748Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.993Z"
+        "timestamp": "2026-01-30T21:32:04.748Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.993Z"
+        "timestamp": "2026-01-30T21:32:04.749Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.993Z"
+        "timestamp": "2026-01-30T21:32:04.749Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.994Z"
+        "timestamp": "2026-01-30T21:32:04.749Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.994Z"
+        "timestamp": "2026-01-30T21:32:04.749Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.994Z"
+        "timestamp": "2026-01-30T21:32:04.750Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.994Z"
+        "timestamp": "2026-01-30T21:32:04.751Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.995Z"
+        "timestamp": "2026-01-30T21:32:04.751Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.995Z"
+        "timestamp": "2026-01-30T21:32:04.751Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.995Z"
+        "timestamp": "2026-01-30T21:32:04.751Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:17:43.995Z"
+        "timestamp": "2026-01-30T21:32:04.752Z"
       }
     ]
   }
