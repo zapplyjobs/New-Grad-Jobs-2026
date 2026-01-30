@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T19:53:23.637Z",
+  "generated": "2026-01-30T20:04:54.835Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T19:53:23.637Z",
-  "period_end": "2026-01-30T19:53:23.637Z",
+  "period_start": "2026-01-23T20:04:54.835Z",
+  "period_end": "2026-01-30T20:04:54.835Z",
   "summary": {
-    "total_jobs_posted": 745,
-    "unique_jobs": 632,
-    "multi_channel_postings": 226,
-    "unique_multi_channel_jobs": 113,
+    "total_jobs_posted": 756,
+    "unique_jobs": 642,
+    "multi_channel_postings": 228,
+    "unique_multi_channel_jobs": 114,
     "failed_postings": 0,
-    "filtered_jobs": 16,
+    "filtered_jobs": 14,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 487,
+      "count": 496,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -503,74 +503,83 @@
         "ed333368683b05d9",
         "8b4b7ab525db08dd",
         "1fed3bc04e76268f",
-        "f63bc2ef99e06a98"
+        "f63bc2ef99e06a98",
+        "a1d807130c32aeab",
+        "f2960aba76947ad5",
+        "77acfa8ac77f9268",
+        "1a72ff756bd9b880",
+        "7eddc2c9a30f7f6c",
+        "256f69e4dcd45a96",
+        "a6c4ab6df45bc6b2",
+        "e85a0df011c2e576",
+        "2e805bcc6f1d1618"
       ],
       "recent_jobs": [
-        {
-          "id": "ee7c8a81700794c7",
-          "title": "Mid-Market Account Executive - PubSec",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:35:40.747Z"
-        },
-        {
-          "id": "dbcd0d268423dbe2",
-          "title": "Software Engineer II - Mobile Platform",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:35:42.521Z"
-        },
-        {
-          "id": "2234386b503762f8",
-          "title": "Solutions Integration Engineer III",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:35:52.228Z"
-        },
-        {
-          "id": "6d5f1725af464489",
-          "title": "Account Executive, Commercial",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:52:48.390Z"
-        },
-        {
-          "id": "c7ea89357384a34f",
-          "title": "Mid-Market Account Executive - PubSec",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:52:50.169Z"
-        },
-        {
-          "id": "f5693d5a0c217cab",
-          "title": "University Recruiter",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:52:51.920Z"
-        },
-        {
-          "id": "ed333368683b05d9",
-          "title": "Business Data Analyst",
-          "company": "Insurify",
-          "posted_at": "2026-01-30T19:53:06.804Z"
-        },
-        {
-          "id": "8b4b7ab525db08dd",
-          "title": "USA – Service Delivery Center - Business Technology - Associate Analyst",
-          "company": "Ernst & Young",
-          "posted_at": "2026-01-30T19:53:08.505Z"
-        },
-        {
-          "id": "1fed3bc04e76268f",
-          "title": "Tax - Multiple Teams",
-          "company": "Ernst & Young",
-          "posted_at": "2026-01-30T19:53:10.237Z"
-        },
         {
           "id": "f63bc2ef99e06a98",
           "title": "USA – Tax - Indirect Tax - State Income Tax",
           "company": "Ernst & Young",
           "posted_at": "2026-01-30T19:53:13.805Z"
+        },
+        {
+          "id": "a1d807130c32aeab",
+          "title": "Account Executive, Commercial",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:04:21.198Z"
+        },
+        {
+          "id": "f2960aba76947ad5",
+          "title": "Mid-Market Account Executive - PubSec",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:04:23.074Z"
+        },
+        {
+          "id": "77acfa8ac77f9268",
+          "title": "Product Engineer",
+          "company": "Cardinal Health",
+          "posted_at": "2026-01-30T20:04:24.853Z"
+        },
+        {
+          "id": "1a72ff756bd9b880",
+          "title": "Entry Level Software Developer",
+          "company": "mthree",
+          "posted_at": "2026-01-30T20:04:26.572Z"
+        },
+        {
+          "id": "7eddc2c9a30f7f6c",
+          "title": "Software Developer",
+          "company": "Nokia",
+          "posted_at": "2026-01-30T20:04:29.701Z"
+        },
+        {
+          "id": "256f69e4dcd45a96",
+          "title": "Applied Researcher 1 - AI Foundations",
+          "company": "Capital One",
+          "posted_at": "2026-01-30T20:04:39.510Z"
+        },
+        {
+          "id": "a6c4ab6df45bc6b2",
+          "title": "Frontend Software Engineer – University Graduate 2026",
+          "company": "Verkada",
+          "posted_at": "2026-01-30T20:04:43.064Z"
+        },
+        {
+          "id": "e85a0df011c2e576",
+          "title": "Security Software Engineer – University Graduate 2026",
+          "company": "Verkada",
+          "posted_at": "2026-01-30T20:04:44.786Z"
+        },
+        {
+          "id": "2e805bcc6f1d1618",
+          "title": "Backend Software Engineer – University Graduate",
+          "company": "Verkada",
+          "posted_at": "2026-01-30T20:04:46.599Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 75,
+      "count": 76,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -646,15 +655,10 @@
         "0b2c46ce888f4614",
         "a04800ab88196406",
         "1fed3bc04e76268f",
-        "f63bc2ef99e06a98"
+        "f63bc2ef99e06a98",
+        "256f69e4dcd45a96"
       ],
       "recent_jobs": [
-        {
-          "id": "07033cd71c246065",
-          "title": "2026 Summer Internship, Machine Learning Engineering (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T17:21:31.853Z"
-        },
         {
           "id": "28fc5e79e2c1b642",
           "title": "2026 Summer Internship, Machine Learning Engineering - PhD (New York City)",
@@ -708,12 +712,18 @@
           "title": "USA – Tax - Indirect Tax - State Income Tax",
           "company": "Ernst & Young",
           "posted_at": "2026-01-30T19:53:13.805Z"
+        },
+        {
+          "id": "256f69e4dcd45a96",
+          "title": "Applied Researcher 1 - AI Foundations",
+          "company": "Capital One",
+          "posted_at": "2026-01-30T20:04:39.510Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 145,
+      "count": 146,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -859,15 +869,10 @@
         "c4ac457a1e146407",
         "884f57545761a921",
         "eb6bcde684bbd0ba",
-        "ba0149d360279443"
+        "ba0149d360279443",
+        "a602ab5679924f27"
       ],
       "recent_jobs": [
-        {
-          "id": "a04800ab88196406",
-          "title": "Account Executive, E-Commerce ",
-          "company": "brex",
-          "posted_at": "2026-01-30T18:34:16.899Z"
-        },
         {
           "id": "a823607854aa69d6",
           "title": "Core Enterprise Account Executive EST/CST - Remote - Chicago, IL",
@@ -921,6 +926,12 @@
           "title": "Sr. Sales Operations and Strategy Analyst",
           "company": "samsara",
           "posted_at": "2026-01-30T19:53:00.183Z"
+        },
+        {
+          "id": "a602ab5679924f27",
+          "title": "Select Major Account Executive EST/CST - Charlotte, NC",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:04:34.512Z"
         }
       ]
     },
@@ -1535,22 +1546,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "eyglobal-yello-co-jobs-mtneo4nt4nnx0mujbis29g",
-        "title": "USA – Tax - Business Tax Services - Federal Tax Advisory','Fta','Jd/LLM','Staff 2",
-        "company": "Ernst & Young",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T19:52:47.744Z"
-      },
-      {
-        "job_id": "eyglobal-yello-co-jobs-y_ehdevk9fkm4afzsocccw",
-        "title": "USA – Tax - Indirect Tax - Technology Staff",
-        "company": "Ernst & Young",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T19:52:47.744Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -1559,98 +1555,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.737Z"
+        "timestamp": "2026-01-30T20:04:20.775Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.737Z"
+        "timestamp": "2026-01-30T20:04:20.775Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.737Z"
+        "timestamp": "2026-01-30T20:04:20.775Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.738Z"
+        "timestamp": "2026-01-30T20:04:20.776Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.738Z"
+        "timestamp": "2026-01-30T20:04:20.776Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.738Z"
+        "timestamp": "2026-01-30T20:04:20.776Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.738Z"
+        "timestamp": "2026-01-30T20:04:20.776Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.738Z"
+        "timestamp": "2026-01-30T20:04:20.776Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.739Z"
+        "timestamp": "2026-01-30T20:04:20.777Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.739Z"
+        "timestamp": "2026-01-30T20:04:20.777Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.739Z"
+        "timestamp": "2026-01-30T20:04:20.777Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.740Z"
+        "timestamp": "2026-01-30T20:04:20.777Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.740Z"
+        "timestamp": "2026-01-30T20:04:20.778Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T19:52:47.740Z"
+        "timestamp": "2026-01-30T20:04:20.778Z"
       }
     ]
   }
