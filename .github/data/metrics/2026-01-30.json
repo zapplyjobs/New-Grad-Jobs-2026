@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T06:40:48.292Z",
+  "generated": "2026-01-30T07:12:20.908Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T06:40:48.292Z",
-  "period_end": "2026-01-30T06:40:48.292Z",
+  "period_start": "2026-01-23T07:12:20.908Z",
+  "period_end": "2026-01-30T07:12:20.908Z",
   "summary": {
-    "total_jobs_posted": 318,
-    "unique_jobs": 289,
+    "total_jobs_posted": 328,
+    "unique_jobs": 299,
     "multi_channel_postings": 58,
     "unique_multi_channel_jobs": 29,
     "failed_postings": 0,
-    "filtered_jobs": 7,
+    "filtered_jobs": 8,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 224,
+      "count": 232,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -240,57 +240,17 @@
         "f076b82c6cb0fb6c",
         "f51ba5b866634910",
         "6b243261a4e760b8",
-        "6b4889d418262a96"
+        "6b4889d418262a96",
+        "da77145a42557323",
+        "89417b9de780efdc",
+        "7f8ff408df45e862",
+        "aa53d77d5a39cc7c",
+        "8d475ad93d2c410e",
+        "fab7d67cd083f061",
+        "03acadb1d15e2927",
+        "b8032906f1679747"
       ],
       "recent_jobs": [
-        {
-          "id": "12f59dd48b23600e",
-          "title": "Research Engineer, Pre-training",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:22.065Z"
-        },
-        {
-          "id": "7eacfa794bd5e611",
-          "title": "Research Engineer, Pretraining Scaling",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:23.874Z"
-        },
-        {
-          "id": "170e8aa99b9e4dcb",
-          "title": "Research Engineer, Production Model Post Training",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:25.523Z"
-        },
-        {
-          "id": "811cbe0f189dac94",
-          "title": "Research Engineer/Research Scientist, Audio",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:27.204Z"
-        },
-        {
-          "id": "7a711c0d97a9b4dd",
-          "title": "Research Engineer / Research Scientist, Biology & Life Sciences",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:28.956Z"
-        },
-        {
-          "id": "85be46524b61d1d7",
-          "title": "Research Engineer / Research Scientist, Vision",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:30.643Z"
-        },
-        {
-          "id": "f076b82c6cb0fb6c",
-          "title": "Research Engineer, Reward Models Training",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:32.306Z"
-        },
-        {
-          "id": "f51ba5b866634910",
-          "title": "Research Engineer / Scientist, Alignment Science",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T06:40:34.003Z"
-        },
         {
           "id": "6b243261a4e760b8",
           "title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
@@ -302,6 +262,54 @@
           "title": "Research Engineer, Reward Models Platform",
           "company": "anthropic",
           "posted_at": "2026-01-30T06:40:40.367Z"
+        },
+        {
+          "id": "da77145a42557323",
+          "title": "Research Engineer, Universes",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:11:50.432Z"
+        },
+        {
+          "id": "89417b9de780efdc",
+          "title": "Research Scientist, Interpretability",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:11:52.092Z"
+        },
+        {
+          "id": "7f8ff408df45e862",
+          "title": "Research Scientist, Societal Impacts",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:11:53.850Z"
+        },
+        {
+          "id": "aa53d77d5a39cc7c",
+          "title": "Security GRC Specialist, Public Sector",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:11:55.551Z"
+        },
+        {
+          "id": "8d475ad93d2c410e",
+          "title": "Security Risk & Compliance, Cloud & Data Centers",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:11:57.279Z"
+        },
+        {
+          "id": "fab7d67cd083f061",
+          "title": "Salesforce Administrator",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:12:08.792Z"
+        },
+        {
+          "id": "03acadb1d15e2927",
+          "title": "Security Development Project Specialist",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:12:11.112Z"
+        },
+        {
+          "id": "b8032906f1679747",
+          "title": "Security Engineer, Detection & Response",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:12:12.917Z"
         }
       ]
     },
@@ -399,7 +407,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 65,
+      "count": 67,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -465,21 +473,11 @@
         "06af23f9bc1b6900",
         "30182ad44ab9f90c",
         "16e3939e12c08e95",
-        "c3ce575848ce9be1"
+        "c3ce575848ce9be1",
+        "f4f1b9747d6ab867",
+        "8eb27e24dc28d39d"
       ],
       "recent_jobs": [
-        {
-          "id": "fdc243d2412e97e6",
-          "title": "Corporate Finance & Strategy, Planning & Reporting",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T03:41:21.444Z"
-        },
-        {
-          "id": "3b56aea296550a21",
-          "title": "Corporate Legal Specialist",
-          "company": "anthropic",
-          "posted_at": "2026-01-30T03:41:23.248Z"
-        },
         {
           "id": "737e68f4c133537a",
           "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
@@ -527,6 +525,18 @@
           "title": "Recruiting Data Engineering & Analytics",
           "company": "anthropic",
           "posted_at": "2026-01-30T06:22:19.455Z"
+        },
+        {
+          "id": "f4f1b9747d6ab867",
+          "title": "Revenue Accounting",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:12:02.174Z"
+        },
+        {
+          "id": "8eb27e24dc28d39d",
+          "title": "Revenue Systems Solution Architect",
+          "company": "anthropic",
+          "posted_at": "2026-01-30T07:12:03.858Z"
         }
       ]
     },
@@ -870,32 +880,39 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4973067008",
-        "title": "Staff Infrastructure Engineer, Pre-training",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4561282008",
+        "title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T06:40:21.528Z"
+        "timestamp": "2026-01-30T07:11:50.003Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4946308008",
-        "title": "Staff Machine Learning Engineer, Virtual Collaborator",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4970463008",
+        "title": "Staff+ Software Engineer, Databases",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T06:40:21.528Z"
+        "timestamp": "2026-01-30T07:11:50.003Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4593216008",
-        "title": "Staff Research Engineer, Discovery Team",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4941204008",
+        "title": "Staff+ Software Engineer, Data Infrastructure",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T06:40:21.528Z"
+        "timestamp": "2026-01-30T07:11:50.003Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4988878008",
-        "title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4970314008",
+        "title": "Staff+ Software Engineer, Infrastructure",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T06:40:21.529Z"
+        "timestamp": "2026-01-30T07:11:50.003Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023089008",
+        "title": "Staff Software Engineer, Platform",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T07:11:50.003Z"
       }
     ],
     "already_posted": [],
@@ -906,21 +923,21 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:40:21.522Z"
+        "timestamp": "2026-01-30T07:11:49.997Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:40:21.523Z"
+        "timestamp": "2026-01-30T07:11:49.997Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:40:21.527Z"
+        "timestamp": "2026-01-30T07:11:50.001Z"
       }
     ]
   }
