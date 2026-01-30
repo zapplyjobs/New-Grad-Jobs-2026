@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T20:04:54.835Z",
+  "generated": "2026-01-30T20:18:10.003Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T20:04:54.835Z",
-  "period_end": "2026-01-30T20:04:54.835Z",
+  "period_start": "2026-01-23T20:18:10.003Z",
+  "period_end": "2026-01-30T20:18:10.003Z",
   "summary": {
-    "total_jobs_posted": 756,
-    "unique_jobs": 642,
-    "multi_channel_postings": 228,
-    "unique_multi_channel_jobs": 114,
+    "total_jobs_posted": 770,
+    "unique_jobs": 652,
+    "multi_channel_postings": 236,
+    "unique_multi_channel_jobs": 118,
     "failed_postings": 0,
-    "filtered_jobs": 14,
+    "filtered_jobs": 20,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 496,
+      "count": 505,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -512,74 +512,83 @@
         "256f69e4dcd45a96",
         "a6c4ab6df45bc6b2",
         "e85a0df011c2e576",
-        "2e805bcc6f1d1618"
+        "2e805bcc6f1d1618",
+        "b6ea0214add5505e",
+        "1d8b18f36098b52a",
+        "2b5e3069e113554e",
+        "a705d729696cd70d",
+        "9d50f55fac433d99",
+        "1a226c81897508d3",
+        "3e8ac719e8789b65",
+        "8f66ed1d58f31918",
+        "59aac2c3eb1c4828"
       ],
       "recent_jobs": [
-        {
-          "id": "f63bc2ef99e06a98",
-          "title": "USA – Tax - Indirect Tax - State Income Tax",
-          "company": "Ernst & Young",
-          "posted_at": "2026-01-30T19:53:13.805Z"
-        },
-        {
-          "id": "a1d807130c32aeab",
-          "title": "Account Executive, Commercial",
-          "company": "samsara",
-          "posted_at": "2026-01-30T20:04:21.198Z"
-        },
-        {
-          "id": "f2960aba76947ad5",
-          "title": "Mid-Market Account Executive - PubSec",
-          "company": "samsara",
-          "posted_at": "2026-01-30T20:04:23.074Z"
-        },
-        {
-          "id": "77acfa8ac77f9268",
-          "title": "Product Engineer",
-          "company": "Cardinal Health",
-          "posted_at": "2026-01-30T20:04:24.853Z"
-        },
-        {
-          "id": "1a72ff756bd9b880",
-          "title": "Entry Level Software Developer",
-          "company": "mthree",
-          "posted_at": "2026-01-30T20:04:26.572Z"
-        },
-        {
-          "id": "7eddc2c9a30f7f6c",
-          "title": "Software Developer",
-          "company": "Nokia",
-          "posted_at": "2026-01-30T20:04:29.701Z"
-        },
-        {
-          "id": "256f69e4dcd45a96",
-          "title": "Applied Researcher 1 - AI Foundations",
-          "company": "Capital One",
-          "posted_at": "2026-01-30T20:04:39.510Z"
-        },
-        {
-          "id": "a6c4ab6df45bc6b2",
-          "title": "Frontend Software Engineer – University Graduate 2026",
-          "company": "Verkada",
-          "posted_at": "2026-01-30T20:04:43.064Z"
-        },
-        {
-          "id": "e85a0df011c2e576",
-          "title": "Security Software Engineer – University Graduate 2026",
-          "company": "Verkada",
-          "posted_at": "2026-01-30T20:04:44.786Z"
-        },
         {
           "id": "2e805bcc6f1d1618",
           "title": "Backend Software Engineer – University Graduate",
           "company": "Verkada",
           "posted_at": "2026-01-30T20:04:46.599Z"
+        },
+        {
+          "id": "b6ea0214add5505e",
+          "title": "Account Executive, Commercial",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:17:29.680Z"
+        },
+        {
+          "id": "1d8b18f36098b52a",
+          "title": "Mid-Market Account Executive - PubSec",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:17:31.496Z"
+        },
+        {
+          "id": "2b5e3069e113554e",
+          "title": "Android Software Engineer, Ad Formats",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:41.312Z"
+        },
+        {
+          "id": "a705d729696cd70d",
+          "title": "Client Account Executive, Mid-Market (App Dev)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:43.121Z"
+        },
+        {
+          "id": "9d50f55fac433d99",
+          "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:48.052Z"
+        },
+        {
+          "id": "1a226c81897508d3",
+          "title": "Client Account Executive, Mid-Market Sales (B2C Services)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:49.881Z"
+        },
+        {
+          "id": "3e8ac719e8789b65",
+          "title": "Client Partner, Mid-Market (Agency Acquisitions)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:54.732Z"
+        },
+        {
+          "id": "8f66ed1d58f31918",
+          "title": "Client Partner, Mid-Market (Services Acquisitions)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:58.270Z"
+        },
+        {
+          "id": "59aac2c3eb1c4828",
+          "title": "Counsel, Product & Platform Compliance",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:18:00.013Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 76,
+      "count": 80,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -656,33 +665,13 @@
         "a04800ab88196406",
         "1fed3bc04e76268f",
         "f63bc2ef99e06a98",
-        "256f69e4dcd45a96"
+        "256f69e4dcd45a96",
+        "a705d729696cd70d",
+        "1a226c81897508d3",
+        "3e8ac719e8789b65",
+        "59aac2c3eb1c4828"
       ],
       "recent_jobs": [
-        {
-          "id": "28fc5e79e2c1b642",
-          "title": "2026 Summer Internship, Machine Learning Engineering - PhD (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T17:21:35.462Z"
-        },
-        {
-          "id": "83c43f83d954c4f4",
-          "title": "2026 Summer Internship, Talent Acquisition (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T17:36:22.116Z"
-        },
-        {
-          "id": "6c5ae36ad940289b",
-          "title": "2026 Summer Internship, Business Strategy and Product Management - MBA (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T17:36:25.677Z"
-        },
-        {
-          "id": "b10ec06361f987e2",
-          "title": "2026 Summer Internship, Legal- J.D. (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-30T17:36:29.288Z"
-        },
         {
           "id": "401911d52f4e7746",
           "title": "Digital Analyst",
@@ -718,12 +707,36 @@
           "title": "Applied Researcher 1 - AI Foundations",
           "company": "Capital One",
           "posted_at": "2026-01-30T20:04:39.510Z"
+        },
+        {
+          "id": "a705d729696cd70d",
+          "title": "Client Account Executive, Mid-Market (App Dev)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:43.121Z"
+        },
+        {
+          "id": "1a226c81897508d3",
+          "title": "Client Account Executive, Mid-Market Sales (B2C Services)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:49.881Z"
+        },
+        {
+          "id": "3e8ac719e8789b65",
+          "title": "Client Partner, Mid-Market (Agency Acquisitions)",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:17:54.732Z"
+        },
+        {
+          "id": "59aac2c3eb1c4828",
+          "title": "Counsel, Product & Platform Compliance",
+          "company": "reddit",
+          "posted_at": "2026-01-30T20:18:00.013Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 146,
+      "count": 147,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -870,15 +883,10 @@
         "884f57545761a921",
         "eb6bcde684bbd0ba",
         "ba0149d360279443",
-        "a602ab5679924f27"
+        "a602ab5679924f27",
+        "48a49d7e8d781227"
       ],
       "recent_jobs": [
-        {
-          "id": "a823607854aa69d6",
-          "title": "Core Enterprise Account Executive EST/CST - Remote - Chicago, IL",
-          "company": "samsara",
-          "posted_at": "2026-01-30T18:34:45.783Z"
-        },
         {
           "id": "559b7668501d5415",
           "title": "Core Enterprise Account Executive EST/CST - Remote - Dallas, TX",
@@ -932,6 +940,12 @@
           "title": "Select Major Account Executive EST/CST - Charlotte, NC",
           "company": "samsara",
           "posted_at": "2026-01-30T20:04:34.512Z"
+        },
+        {
+          "id": "48a49d7e8d781227",
+          "title": "Select Major Account Executive EST/CST - Columbia, SC",
+          "company": "samsara",
+          "posted_at": "2026-01-30T20:17:36.550Z"
         }
       ]
     },
@@ -1546,7 +1560,50 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531536",
+        "title": "Client Account Manager, Large Customer Sales (Auto)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:17:29.129Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7489210",
+        "title": "Client Account Manager, Mid-Market (B2B Services)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:17:29.129Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7254586",
+        "title": "Director, Global 3rd Party Partnerships",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:17:29.129Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7519923",
+        "title": "Director, Mid-Market Sales (B2B Services)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:17:29.129Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532202",
+        "title": "Director, Mid-Market Sales (B2B Services)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:17:29.129Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532238",
+        "title": "Director, Mid-Market Sales (Goods - Shopping)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T20:17:29.129Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -1555,98 +1612,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.775Z"
+        "timestamp": "2026-01-30T20:17:29.122Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.775Z"
+        "timestamp": "2026-01-30T20:17:29.122Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.775Z"
+        "timestamp": "2026-01-30T20:17:29.122Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.776Z"
+        "timestamp": "2026-01-30T20:17:29.122Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.776Z"
+        "timestamp": "2026-01-30T20:17:29.123Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.776Z"
+        "timestamp": "2026-01-30T20:17:29.123Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.776Z"
+        "timestamp": "2026-01-30T20:17:29.123Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.776Z"
+        "timestamp": "2026-01-30T20:17:29.123Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.777Z"
+        "timestamp": "2026-01-30T20:17:29.124Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.777Z"
+        "timestamp": "2026-01-30T20:17:29.124Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.777Z"
+        "timestamp": "2026-01-30T20:17:29.124Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.777Z"
+        "timestamp": "2026-01-30T20:17:29.124Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.778Z"
+        "timestamp": "2026-01-30T20:17:29.125Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T20:04:20.778Z"
+        "timestamp": "2026-01-30T20:17:29.125Z"
       }
     ]
   }
