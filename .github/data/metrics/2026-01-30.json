@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T21:05:36.709Z",
+  "generated": "2026-01-30T21:18:16.990Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T21:05:36.709Z",
-  "period_end": "2026-01-30T21:05:36.709Z",
+  "period_start": "2026-01-23T21:18:16.990Z",
+  "period_end": "2026-01-30T21:18:16.990Z",
   "summary": {
-    "total_jobs_posted": 799,
-    "unique_jobs": 678,
-    "multi_channel_postings": 242,
-    "unique_multi_channel_jobs": 121,
+    "total_jobs_posted": 810,
+    "unique_jobs": 688,
+    "multi_channel_postings": 244,
+    "unique_multi_channel_jobs": 122,
     "failed_postings": 0,
-    "filtered_jobs": 16,
+    "filtered_jobs": 15,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 525,
+      "count": 533,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -541,57 +541,17 @@
         "e2d66c2799d49036",
         "d63c9e1103633434",
         "a152bf1fb58f683b",
-        "172edfe43629c310"
+        "172edfe43629c310",
+        "57e0b82b1117de74",
+        "d73095432b39350c",
+        "712f13e8f53e23bc",
+        "8ef06b714d4b05bf",
+        "30701c7f6a1c0e8f",
+        "c75c96606d3e8a26",
+        "47dd6d2a0106b6b6",
+        "5732b7e1a43b9840"
       ],
       "recent_jobs": [
-        {
-          "id": "57f742b7224c1c0a",
-          "title": "Android Software Engineer, Ad Formats",
-          "company": "reddit",
-          "posted_at": "2026-01-30T20:51:47.915Z"
-        },
-        {
-          "id": "eb031f60c64fee14",
-          "title": "iOS Software Engineer, Ad Formats",
-          "company": "reddit",
-          "posted_at": "2026-01-30T20:51:49.687Z"
-        },
-        {
-          "id": "43f33bf6b35e76e1",
-          "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
-          "company": "reddit",
-          "posted_at": "2026-01-30T20:51:53.287Z"
-        },
-        {
-          "id": "0a729562f0b6e24b",
-          "title": "IT Software Engineering - Data Engineer",
-          "company": "Fidelity Investments",
-          "posted_at": "2026-01-30T20:51:55.044Z"
-        },
-        {
-          "id": "e66d5af727d7566f",
-          "title": "Mid-Market Account Executive - PubSec",
-          "company": "samsara",
-          "posted_at": "2026-01-30T21:05:01.006Z"
-        },
-        {
-          "id": "04d2144fad2273f7",
-          "title": "Software Engineer 1 - Aws",
-          "company": "The Travelers Companies",
-          "posted_at": "2026-01-30T21:05:02.809Z"
-        },
-        {
-          "id": "e2d66c2799d49036",
-          "title": "Software Developer - Provisioning",
-          "company": "National Information Solutions Cooperative (NISC)",
-          "posted_at": "2026-01-30T21:05:04.679Z"
-        },
-        {
-          "id": "d63c9e1103633434",
-          "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
-          "company": "reddit",
-          "posted_at": "2026-01-30T21:05:14.414Z"
-        },
         {
           "id": "a152bf1fb58f683b",
           "title": "Database Conversion - ETL - Programmer",
@@ -603,12 +563,60 @@
           "title": "Software Engineer - AI & Full Stack Development",
           "company": "KLA",
           "posted_at": "2026-01-30T21:05:17.944Z"
+        },
+        {
+          "id": "57e0b82b1117de74",
+          "title": "Mid-Market Account Executive - PubSec",
+          "company": "samsara",
+          "posted_at": "2026-01-30T21:17:44.555Z"
+        },
+        {
+          "id": "d73095432b39350c",
+          "title": "Software Developer - Provisioning",
+          "company": "National Information Solutions Cooperative (NISC)",
+          "posted_at": "2026-01-30T21:17:46.336Z"
+        },
+        {
+          "id": "712f13e8f53e23bc",
+          "title": "IT Services Academy Program - Software Analyst",
+          "company": "JM Family",
+          "posted_at": "2026-01-30T21:17:48.116Z"
+        },
+        {
+          "id": "8ef06b714d4b05bf",
+          "title": "IT Services Academy Program-Software Analyst",
+          "company": "JM Family",
+          "posted_at": "2026-01-30T21:17:49.889Z"
+        },
+        {
+          "id": "30701c7f6a1c0e8f",
+          "title": "Software Engineer 1 - Aws",
+          "company": "The Travelers Companies",
+          "posted_at": "2026-01-30T21:17:51.675Z"
+        },
+        {
+          "id": "c75c96606d3e8a26",
+          "title": "Product Designer",
+          "company": "clerk",
+          "posted_at": "2026-01-30T21:17:53.627Z"
+        },
+        {
+          "id": "47dd6d2a0106b6b6",
+          "title": "Software Engineer – Early Career",
+          "company": "Affirm",
+          "posted_at": "2026-01-30T21:17:55.403Z"
+        },
+        {
+          "id": "5732b7e1a43b9840",
+          "title": "2026 Summer Internship, Engineering & Data Science (New York City)",
+          "company": "spotify",
+          "posted_at": "2026-01-30T21:18:06.938Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 83,
+      "count": 84,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -692,15 +700,10 @@
         "59aac2c3eb1c4828",
         "c9d98e1d902d773b",
         "eb031f60c64fee14",
-        "ad11e3c9d2f11a69"
+        "ad11e3c9d2f11a69",
+        "5732b7e1a43b9840"
       ],
       "recent_jobs": [
-        {
-          "id": "1fed3bc04e76268f",
-          "title": "Tax - Multiple Teams",
-          "company": "Ernst & Young",
-          "posted_at": "2026-01-30T19:53:10.237Z"
-        },
         {
           "id": "f63bc2ef99e06a98",
           "title": "USA – Tax - Indirect Tax - State Income Tax",
@@ -754,12 +757,18 @@
           "title": "Data Analyst",
           "company": "Barkley",
           "posted_at": "2026-01-30T21:05:26.559Z"
+        },
+        {
+          "id": "5732b7e1a43b9840",
+          "title": "2026 Summer Internship, Engineering & Data Science (New York City)",
+          "company": "spotify",
+          "posted_at": "2026-01-30T21:18:06.938Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 153,
+      "count": 155,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -913,21 +922,11 @@
         "c865c67642a25d26",
         "92afe75c6dc4f39d",
         "e71922524ee96bcc",
-        "ad11e3c9d2f11a69"
+        "ad11e3c9d2f11a69",
+        "c54d91e177b42e54",
+        "2f0c0b8cc2958f32"
       ],
       "recent_jobs": [
-        {
-          "id": "eb6bcde684bbd0ba",
-          "title": "Sr Enterprise Renewals Account Executive",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:52:58.466Z"
-        },
-        {
-          "id": "ba0149d360279443",
-          "title": "Sr. Sales Operations and Strategy Analyst",
-          "company": "samsara",
-          "posted_at": "2026-01-30T19:53:00.183Z"
-        },
         {
           "id": "a602ab5679924f27",
           "title": "Select Major Account Executive EST/CST - Charlotte, NC",
@@ -975,6 +974,18 @@
           "title": "Data Analyst",
           "company": "Barkley",
           "posted_at": "2026-01-30T21:05:26.559Z"
+        },
+        {
+          "id": "c54d91e177b42e54",
+          "title": "Select Major Account Executive EST/CST - Jacksonville, FL",
+          "company": "samsara",
+          "posted_at": "2026-01-30T21:18:00.201Z"
+        },
+        {
+          "id": "2f0c0b8cc2958f32",
+          "title": "Account Executive, Mid Market",
+          "company": "brex",
+          "posted_at": "2026-01-30T21:18:02.005Z"
         }
       ]
     },
@@ -1591,18 +1602,11 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-foundation-models-with-federated-learning_421653",
-        "title": "Postdoctoral Appointee - Foundation Models with Federated Learning",
-        "company": "Argonne National Laboratory",
+        "job_id": "www-brex-com-careers-7892186002",
+        "title": "Senior Data Scientist, Finance ",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T21:05:00.072Z"
-      },
-      {
-        "job_id": "nshe-wd1-myworkdayjobs-com-unr-external-job-university-of-nevada-reno-main-campus-postdoctoral-scholar-high-energy-density-hed-physics_r0150275",
-        "title": "Postdoctoral Scholar - Multiple Teams",
-        "company": "University of Nevada Reno",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-30T21:05:00.072Z"
+        "timestamp": "2026-01-30T21:17:44.003Z"
       }
     ],
     "already_posted": [],
@@ -1613,98 +1617,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.065Z"
+        "timestamp": "2026-01-30T21:17:43.992Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.065Z"
+        "timestamp": "2026-01-30T21:17:43.992Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.065Z"
+        "timestamp": "2026-01-30T21:17:43.993Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.066Z"
+        "timestamp": "2026-01-30T21:17:43.993Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.066Z"
+        "timestamp": "2026-01-30T21:17:43.993Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.066Z"
+        "timestamp": "2026-01-30T21:17:43.993Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.066Z"
+        "timestamp": "2026-01-30T21:17:43.994Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.066Z"
+        "timestamp": "2026-01-30T21:17:43.994Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.067Z"
+        "timestamp": "2026-01-30T21:17:43.994Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.067Z"
+        "timestamp": "2026-01-30T21:17:43.994Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.067Z"
+        "timestamp": "2026-01-30T21:17:43.995Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.067Z"
+        "timestamp": "2026-01-30T21:17:43.995Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.068Z"
+        "timestamp": "2026-01-30T21:17:43.995Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T21:05:00.068Z"
+        "timestamp": "2026-01-30T21:17:43.995Z"
       }
     ]
   }
