@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T15:09:28.454Z",
+  "generated": "2026-01-30T15:18:38.498Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T15:09:28.454Z",
-  "period_end": "2026-01-30T15:09:28.454Z",
+  "period_start": "2026-01-23T15:18:38.498Z",
+  "period_end": "2026-01-30T15:18:38.498Z",
   "summary": {
-    "total_jobs_posted": 569,
-    "unique_jobs": 497,
-    "multi_channel_postings": 144,
-    "unique_multi_channel_jobs": 72,
+    "total_jobs_posted": 583,
+    "unique_jobs": 507,
+    "multi_channel_postings": 152,
+    "unique_multi_channel_jobs": 76,
     "failed_postings": 0,
-    "filtered_jobs": 25,
+    "filtered_jobs": 26,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 391,
+      "count": 397,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -407,45 +407,15 @@
         "9809cfd6780d1b76",
         "8fc538ea165a51d4",
         "4c63844a7f907c01",
-        "7943cad093f2b869"
+        "7943cad093f2b869",
+        "4aafab5d6e9bd3f4",
+        "6acbfa18a378e076",
+        "833dc10821c66a54",
+        "aef0a0ec36c92b9e",
+        "3a75464e97e9f126",
+        "eb5893ccabfbef8a"
       ],
       "recent_jobs": [
-        {
-          "id": "790a57ab96f8532a",
-          "title": "Coordinator, Business Recruiting - Contract",
-          "company": "datadog",
-          "posted_at": "2026-01-30T14:20:16.126Z"
-        },
-        {
-          "id": "aa33b713c4fd0ca3",
-          "title": "Strategic Account Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:08:50.327Z"
-        },
-        {
-          "id": "1b46f9330d5c4f03",
-          "title": "Commercial Account Executive - LATAM (Portuguese Speaking)",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:08:54.094Z"
-        },
-        {
-          "id": "77ec81e16184d5ce",
-          "title": "Employee Relation Specialist - Workplace Investigations",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:08:55.814Z"
-        },
-        {
-          "id": "3e11e20a09ea3ac3",
-          "title": "Enterprise Sales Engineer - South Africa",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:08:59.259Z"
-        },
-        {
-          "id": "b5ec497e15672006",
-          "title": "Enterprise Sales Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T15:09:01.005Z"
-        },
         {
           "id": "9809cfd6780d1b76",
           "title": "Enterprise Sales Executive (FED)",
@@ -469,12 +439,48 @@
           "title": "Executive Assistant I - NYC",
           "company": "datadog",
           "posted_at": "2026-01-30T15:09:11.622Z"
+        },
+        {
+          "id": "4aafab5d6e9bd3f4",
+          "title": "Strategic Account Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:02.392Z"
+        },
+        {
+          "id": "6acbfa18a378e076",
+          "title": "Enterprise Sales Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:05.978Z"
+        },
+        {
+          "id": "833dc10821c66a54",
+          "title": "Enterprise Sales Executive (FED)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:09.565Z"
+        },
+        {
+          "id": "aef0a0ec36c92b9e",
+          "title": "Enterprise Security Sales Specialist",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:13.494Z"
+        },
+        {
+          "id": "3a75464e97e9f126",
+          "title": "Federal Support Engineer 2 - Denver",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:15.261Z"
+        },
+        {
+          "id": "eb5893ccabfbef8a",
+          "title": "Federal Support Engineer 3 - Denver",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:17.411Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 48,
+      "count": 49,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -523,15 +529,10 @@
         "790a57ab96f8532a",
         "77ec81e16184d5ce",
         "7943cad093f2b869",
-        "a0f6b95bcc774933"
+        "a0f6b95bcc774933",
+        "0f0610bfbc86412f"
       ],
       "recent_jobs": [
-        {
-          "id": "134e9971c4990337",
-          "title": "Enterprise Sales Executive ",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:55:34.485Z"
-        },
         {
           "id": "972bc286a9bcc289",
           "title": "Strategic Account Executive",
@@ -585,12 +586,18 @@
           "title": "Deal Desk Analyst",
           "company": "datadog",
           "posted_at": "2026-01-30T15:09:18.449Z"
+        },
+        {
+          "id": "0f0610bfbc86412f",
+          "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:28.514Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 106,
+      "count": 110,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -697,33 +704,13 @@
         "26f1a7e718d687dd",
         "2b9be70de8d5269b",
         "b902b7ff503a1d34",
-        "a0f6b95bcc774933"
+        "a0f6b95bcc774933",
+        "d532aa4618edadb3",
+        "eb11e4fa970e997f",
+        "50929f84f9515735",
+        "0f0610bfbc86412f"
       ],
       "recent_jobs": [
-        {
-          "id": "68c3b4bab8623f61",
-          "title": "Data Engineer Graduate - Dpus - Global Live",
-          "company": "TikTok",
-          "posted_at": "2026-01-30T12:17:07.155Z"
-        },
-        {
-          "id": "877d8a86a0ae71ae",
-          "title": "Data Scientist",
-          "company": "American Bureau of Shipping",
-          "posted_at": "2026-01-30T12:33:50.527Z"
-        },
-        {
-          "id": "0de7e2ce6469ce6f",
-          "title": "Head of Sales and GTM Operations",
-          "company": "gusto",
-          "posted_at": "2026-01-30T12:33:55.410Z"
-        },
-        {
-          "id": "5a338c47eabdb7c2",
-          "title": "Account Executive - Media & Entertainment",
-          "company": "discord",
-          "posted_at": "2026-01-30T12:55:46.074Z"
-        },
         {
           "id": "dfee747217079d23",
           "title": "Developer Operations Analyst",
@@ -759,12 +746,36 @@
           "title": "Deal Desk Analyst",
           "company": "datadog",
           "posted_at": "2026-01-30T15:09:18.449Z"
+        },
+        {
+          "id": "d532aa4618edadb3",
+          "title": "Deal Desk Analyst - Denver",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:22.237Z"
+        },
+        {
+          "id": "eb11e4fa970e997f",
+          "title": "Field CISO",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:23.996Z"
+        },
+        {
+          "id": "50929f84f9515735",
+          "title": "Field CTO - Media & Entertainment",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:25.738Z"
+        },
+        {
+          "id": "0f0610bfbc86412f",
+          "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:28.514Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 24,
+      "count": 27,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -789,27 +800,12 @@
         "f3317430189edbed",
         "aa33b713c4fd0ca3",
         "b5ec497e15672006",
-        "8fc538ea165a51d4"
+        "8fc538ea165a51d4",
+        "4aafab5d6e9bd3f4",
+        "6acbfa18a378e076",
+        "833dc10821c66a54"
       ],
       "recent_jobs": [
-        {
-          "id": "c48cfbbf03dc82ae",
-          "title": "Strategic Account Executive (FED)",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:16:49.704Z"
-        },
-        {
-          "id": "7e0b4af39e321d1e",
-          "title": "Strategic Account Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:33:34.805Z"
-        },
-        {
-          "id": "aeb8cd8b79aed6ad",
-          "title": "Strategic Account Executive",
-          "company": "datadog",
-          "posted_at": "2026-01-30T12:55:23.438Z"
-        },
         {
           "id": "16b9f4c45672c103",
           "title": " Enterprise Sales Executive (SLED)",
@@ -851,6 +847,24 @@
           "title": "Enterprise Security Sales Specialist",
           "company": "datadog",
           "posted_at": "2026-01-30T15:09:06.454Z"
+        },
+        {
+          "id": "4aafab5d6e9bd3f4",
+          "title": "Strategic Account Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:02.392Z"
+        },
+        {
+          "id": "6acbfa18a378e076",
+          "title": "Enterprise Sales Executive",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:05.978Z"
+        },
+        {
+          "id": "833dc10821c66a54",
+          "title": "Enterprise Sales Executive (FED)",
+          "company": "datadog",
+          "posted_at": "2026-01-30T15:18:09.565Z"
         }
       ]
     }
@@ -1361,81 +1375,88 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "careers-datadoghq-com-detail-7476902",
-        "title": "Field Marketing Manager (LATAM South)",
+        "job_id": "careers-datadoghq-com-detail-7456376",
+        "title": "Manager, Commercial Sales Engineering (AMER - West)",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7357271",
-        "title": "Global Safety & Security Senior Manager - NYC",
+        "job_id": "careers-datadoghq-com-detail-7254173",
+        "title": "Manager, Customer Success - Denver",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7534733",
-        "title": "GTM Strategy and Operations Senior Associate - AMER Commercial & Mid Market",
+        "job_id": "careers-datadoghq-com-detail-7488348",
+        "title": "Manager, Customer Success - Denver",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7514855",
-        "title": "GTM Strategy and Operations Senior Associate - Product Strategy",
+        "job_id": "careers-datadoghq-com-detail-7414003",
+        "title": "Manager I, Developer Advocacy",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7477194",
-        "title": "Leadership Training Manager",
+        "job_id": "careers-datadoghq-com-detail-7308805",
+        "title": "Manager I, Engineering - Cloud Security - Findings Prioritization",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7481495",
-        "title": "Lead UX Designer - New York",
+        "job_id": "careers-datadoghq-com-detail-6881788",
+        "title": "Manager I, Engineering - Infrastructure Remediation",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7484777",
-        "title": "Manager 1, Technical Account Management - Denver",
+        "job_id": "careers-datadoghq-com-detail-7308940",
+        "title": "Manager I, Engineering - Language Platform",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7472529",
-        "title": "Manager 1, Technical Account Management - New York",
+        "job_id": "careers-datadoghq-com-detail-7482671",
+        "title": "Manager II, Engineering - Bits AI Security Analyst",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.796Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7380289",
-        "title": "Manager 1, Technical Escalations Engineering - US-East",
+        "job_id": "careers-datadoghq-com-detail-6632056",
+        "title": "Manager, Networking",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.797Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7496250",
-        "title": "Manager 2, Premier Support Engineering -  Boston",
+        "job_id": "careers-datadoghq-com-detail-7467678",
+        "title": "Manager, People Analytics Data Platform",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.797Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7512337",
-        "title": "Manager, Commercial Sales Engineering (AMER - East)",
+        "job_id": "careers-datadoghq-com-detail-7476873",
+        "title": "Partner Marketing Manager (Public Sector)",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-01-30T15:08:49.810Z"
+        "timestamp": "2026-01-30T15:18:01.797Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-6746794",
+        "title": "Principal Partner Manager - Cloud Alliances (AWS)",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-30T15:18:01.797Z"
       }
     ],
     "already_posted": [],
@@ -1446,98 +1467,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.802Z"
+        "timestamp": "2026-01-30T15:18:01.790Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.802Z"
+        "timestamp": "2026-01-30T15:18:01.790Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.802Z"
+        "timestamp": "2026-01-30T15:18:01.790Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.802Z"
+        "timestamp": "2026-01-30T15:18:01.790Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.803Z"
+        "timestamp": "2026-01-30T15:18:01.791Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.803Z"
+        "timestamp": "2026-01-30T15:18:01.791Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.803Z"
+        "timestamp": "2026-01-30T15:18:01.791Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.803Z"
+        "timestamp": "2026-01-30T15:18:01.791Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.803Z"
+        "timestamp": "2026-01-30T15:18:01.791Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.804Z"
+        "timestamp": "2026-01-30T15:18:01.792Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.804Z"
+        "timestamp": "2026-01-30T15:18:01.792Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.804Z"
+        "timestamp": "2026-01-30T15:18:01.792Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.804Z"
+        "timestamp": "2026-01-30T15:18:01.792Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:08:49.804Z"
+        "timestamp": "2026-01-30T15:18:01.792Z"
       }
     ]
   }
