@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-31T16:33:18.692Z",
+  "generated": "2026-01-31T16:52:06.756Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T16:33:18.692Z",
-  "period_end": "2026-01-31T16:33:18.692Z",
+  "period_start": "2026-01-24T16:52:06.756Z",
+  "period_end": "2026-01-31T16:52:06.756Z",
   "summary": {
-    "total_jobs_posted": 1486,
-    "unique_jobs": 1257,
-    "multi_channel_postings": 458,
-    "unique_multi_channel_jobs": 229,
+    "total_jobs_posted": 1499,
+    "unique_jobs": 1267,
+    "multi_channel_postings": 464,
+    "unique_multi_channel_jobs": 232,
     "failed_postings": 0,
     "filtered_jobs": 16,
     "channels_active": 4
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 994,
+      "count": 1004,
       "jobs": [
         "745bcc3e8c69148b",
         "6d8e9f56d3faf57d",
@@ -1010,68 +1010,78 @@
         "77176bcd8e16c90d",
         "9ecea6b24f5a496c",
         "b75a27297be8ec1e",
-        "f8dfdfb254a97143"
+        "f8dfdfb254a97143",
+        "b8ac9481317e09ad",
+        "f02fcfe2a47ebf88",
+        "17031c01473d3433",
+        "e2beacc5485809c9",
+        "cf22995a3de73284",
+        "f1211e78754c6a70",
+        "cc3e7607b8298d02",
+        "12cd9efbe7593c91",
+        "b978771af65b9872",
+        "f789a82456a1a4fa"
       ],
       "recent_jobs": [
         {
-          "id": "d9dcadbd1806b987",
-          "title": "Technology - Application Development",
-          "company": "Citi",
-          "posted_at": "2026-01-31T16:15:48.701Z"
+          "id": "b8ac9481317e09ad",
+          "title": "Software Engineer",
+          "company": "Q2",
+          "posted_at": "2026-01-31T16:51:31.773Z"
         },
         {
-          "id": "39b0f6bb80eda677",
-          "title": "Developer Technology Engineer – New College Grad - Public Sector",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-31T16:15:50.499Z"
+          "id": "f02fcfe2a47ebf88",
+          "title": "Associate Software Engineer",
+          "company": "Amae Health",
+          "posted_at": "2026-01-31T16:51:33.626Z"
         },
         {
-          "id": "baaa80f457de33f1",
-          "title": "Technology - Application Development - Full Time Analyst",
-          "company": "Citi",
-          "posted_at": "2026-01-31T16:15:52.317Z"
+          "id": "17031c01473d3433",
+          "title": "Software Development Engineer I",
+          "company": "Optimum",
+          "posted_at": "2026-01-31T16:51:38.807Z"
         },
         {
-          "id": "d6ee5dc5285cde42",
-          "title": "Software Engineer, AI Product",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:32:56.088Z"
+          "id": "e2beacc5485809c9",
+          "title": "Entry Level Software Developer",
+          "company": "SkillStorm",
+          "posted_at": "2026-01-31T16:51:42.515Z"
         },
         {
-          "id": "675924a641ca7ca2",
-          "title": "Software Engineer, Machine Learning",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:32:57.978Z"
+          "id": "cf22995a3de73284",
+          "title": "Entry Level Software Developer",
+          "company": "Amentum",
+          "posted_at": "2026-01-31T16:51:44.318Z"
         },
         {
-          "id": "d8e4046228ddc1f0",
-          "title": "Software Engineer, Production Engineering",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:33:02.978Z"
+          "id": "f1211e78754c6a70",
+          "title": "Integration Engineer",
+          "company": "Apple",
+          "posted_at": "2026-01-31T16:51:46.059Z"
         },
         {
-          "id": "77176bcd8e16c90d",
-          "title": "Security Engineer",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:33:04.832Z"
+          "id": "cc3e7607b8298d02",
+          "title": "Software Engineer, Early Career",
+          "company": "IMC",
+          "posted_at": "2026-01-31T16:51:51.068Z"
         },
         {
-          "id": "9ecea6b24f5a496c",
-          "title": "Account Executive, Federal",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:33:06.676Z"
+          "id": "12cd9efbe7593c91",
+          "title": "Backend Engineer, New Grad",
+          "company": "AppLovin",
+          "posted_at": "2026-01-31T16:51:52.867Z"
         },
         {
-          "id": "b75a27297be8ec1e",
-          "title": "Account Executive, Mid-Market",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:33:08.483Z"
+          "id": "b978771af65b9872",
+          "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time)",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T16:51:54.727Z"
         },
         {
-          "id": "f8dfdfb254a97143",
-          "title": "Early Career Software Engineer",
-          "company": "Citizen Health",
-          "posted_at": "2026-01-31T16:33:10.278Z"
+          "id": "f789a82456a1a4fa",
+          "title": "Physical Design Engineer - Machine Learning",
+          "company": "Apple",
+          "posted_at": "2026-01-31T16:51:58.332Z"
         }
       ]
     },
@@ -1408,7 +1418,7 @@
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 163,
+      "count": 166,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1572,27 +1582,12 @@
         "1029a1ec7f47038c",
         "69b16a8f6a1a3668",
         "e610e21d9f832f62",
-        "c8357eb905fbf4c2"
+        "c8357eb905fbf4c2",
+        "f02fcfe2a47ebf88",
+        "17031c01473d3433",
+        "b978771af65b9872"
       ],
       "recent_jobs": [
-        {
-          "id": "03c8b7dbdaa3d9de",
-          "title": "Inside Sales Representative - Early Career (2026)",
-          "company": "figma",
-          "posted_at": "2026-01-31T13:25:32.527Z"
-        },
-        {
-          "id": "ffa671d7c67d2217",
-          "title": "Full Stack Software Engineer Graduate",
-          "company": "PermitFlow",
-          "posted_at": "2026-01-31T13:25:36.203Z"
-        },
-        {
-          "id": "d25682443af2da58",
-          "title": "AI Product Specialist",
-          "company": "Regal",
-          "posted_at": "2026-01-31T13:25:48.560Z"
-        },
         {
           "id": "525cdf9656221bb4",
           "title": "2026 Summer Internship, Research Scientist - PhD (New York City)",
@@ -1634,6 +1629,24 @@
           "title": "Software Engineer – Early Career",
           "company": "Affirm",
           "posted_at": "2026-01-31T16:15:36.613Z"
+        },
+        {
+          "id": "f02fcfe2a47ebf88",
+          "title": "Associate Software Engineer",
+          "company": "Amae Health",
+          "posted_at": "2026-01-31T16:51:33.626Z"
+        },
+        {
+          "id": "17031c01473d3433",
+          "title": "Software Development Engineer I",
+          "company": "Optimum",
+          "posted_at": "2026-01-31T16:51:38.807Z"
+        },
+        {
+          "id": "b978771af65b9872",
+          "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time)",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T16:51:54.727Z"
         }
       ]
     },
@@ -2278,18 +2291,18 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "jj-wd5-myworkdayjobs-com-jj-job-titusville-new-jersey-united-states-of-america-postdoctoral-researcher-computer-vision-ai-ml-radiology-oncology_r-042914-1",
-        "title": "Postdoctoral Researcher - Computer Vision - AI/ML Radiology and Oncology",
-        "company": "Johnson & Johnson",
+        "job_id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-lignin-valorization_r13974-1",
+        "title": "Postdoctoral Researcher",
+        "company": "National Renewable Energy Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T16:32:46.695Z"
+        "timestamp": "2026-01-31T16:51:31.241Z"
       },
       {
-        "job_id": "jobs-lever-co-nominal-b34c4e06-2965-4ced-ad55-ebe66253b7b6",
-        "title": "Accounting Manager",
-        "company": "nominal",
+        "job_id": "careers-parkhill-icims-com-jobs-1350-job",
+        "title": "Senior Lidar Specialist",
+        "company": "Parkhill",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T16:32:46.695Z"
+        "timestamp": "2026-01-31T16:51:31.241Z"
       }
     ],
     "already_posted": [],
@@ -2300,98 +2313,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.682Z"
+        "timestamp": "2026-01-31T16:51:31.227Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.682Z"
+        "timestamp": "2026-01-31T16:51:31.227Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.682Z"
+        "timestamp": "2026-01-31T16:51:31.228Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.683Z"
+        "timestamp": "2026-01-31T16:51:31.228Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.683Z"
+        "timestamp": "2026-01-31T16:51:31.228Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.684Z"
+        "timestamp": "2026-01-31T16:51:31.229Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.684Z"
+        "timestamp": "2026-01-31T16:51:31.229Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.684Z"
+        "timestamp": "2026-01-31T16:51:31.229Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.685Z"
+        "timestamp": "2026-01-31T16:51:31.230Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.685Z"
+        "timestamp": "2026-01-31T16:51:31.230Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.685Z"
+        "timestamp": "2026-01-31T16:51:31.230Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.685Z"
+        "timestamp": "2026-01-31T16:51:31.231Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.686Z"
+        "timestamp": "2026-01-31T16:51:31.231Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:32:46.686Z"
+        "timestamp": "2026-01-31T16:51:31.231Z"
       }
     ]
   }
