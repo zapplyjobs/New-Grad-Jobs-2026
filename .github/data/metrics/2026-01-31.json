@@ -1,11 +1,11 @@
 {
-  "generated": "2026-01-31T20:31:55.434Z",
+  "generated": "2026-01-31T20:47:48.418Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T20:31:55.434Z",
-  "period_end": "2026-01-31T20:31:55.434Z",
+  "period_start": "2026-01-24T20:47:48.418Z",
+  "period_end": "2026-01-31T20:47:48.418Z",
   "summary": {
-    "total_jobs_posted": 1661,
-    "unique_jobs": 1417,
+    "total_jobs_posted": 1671,
+    "unique_jobs": 1427,
     "multi_channel_postings": 488,
     "unique_multi_channel_jobs": 244,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1143,
+      "count": 1152,
       "jobs": [
         "745bcc3e8c69148b",
         "6d8e9f56d3faf57d",
@@ -1159,74 +1159,83 @@
         "2f05a7dd512ff316",
         "4808989ece28cc9d",
         "e79d2c5cf92880b5",
-        "0afe97dcfb86d0da"
+        "0afe97dcfb86d0da",
+        "e43906bae5e8568c",
+        "ddc2504ffb2d44bf",
+        "566c0337eb2805cc",
+        "54b717fe6bb2db58",
+        "e622144a5ef78547",
+        "c3d483599e942d74",
+        "f2b7f383d5452b39",
+        "fbfb7958c0f13ea0",
+        "222490dedd48c12e"
       ],
       "recent_jobs": [
-        {
-          "id": "7236373a5929affe",
-          "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - Phd",
-          "company": "ByteDance",
-          "posted_at": "2026-01-31T20:31:26.612Z"
-        },
-        {
-          "id": "8d0dbfdcb636a886",
-          "title": "General Hire: Machine Learning Engineer Graduate - Data and Eng - Usds",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T20:31:28.685Z"
-        },
-        {
-          "id": "e51743d3cd28002f",
-          "title": "Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T20:31:30.670Z"
-        },
-        {
-          "id": "f10b255b43705044",
-          "title": "Machine Learning Engineer Graduate - 2026 Start and BS/MS",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T20:31:32.513Z"
-        },
-        {
-          "id": "fbfd4087fefec724",
-          "title": "Graduate Software Engineer - Multiple Teams",
-          "company": "ByteDance",
-          "posted_at": "2026-01-31T20:31:34.380Z"
-        },
-        {
-          "id": "a96f58c69de562df",
-          "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
-          "company": "ByteDance",
-          "posted_at": "2026-01-31T20:31:36.252Z"
-        },
-        {
-          "id": "2f05a7dd512ff316",
-          "title": "Partial Hospitalization Program - PHP - Therapist",
-          "company": "Lifepoint Health",
-          "posted_at": "2026-01-31T20:31:41.142Z"
-        },
-        {
-          "id": "4808989ece28cc9d",
-          "title": "Graduate Software Engineer - Data Arch - E-commerce",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T20:31:42.954Z"
-        },
-        {
-          "id": "e79d2c5cf92880b5",
-          "title": "Software Engineer Graduate - Monetization Technology - Brand Ads",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T20:31:44.883Z"
-        },
         {
           "id": "0afe97dcfb86d0da",
           "title": "Software Engineer Graduate - Ads Infrastructure",
           "company": "TikTok",
           "posted_at": "2026-01-31T20:31:46.674Z"
+        },
+        {
+          "id": "e43906bae5e8568c",
+          "title": "Graduate Algorithm Engineer - Intelligent Multimedia Streaming Strategy - Bachelor of Science/Master of Science",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:22.732Z"
+        },
+        {
+          "id": "ddc2504ffb2d44bf",
+          "title": "Software Engineer Graduate - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:24.618Z"
+        },
+        {
+          "id": "566c0337eb2805cc",
+          "title": "Software Engineer Graduate - Data Arch - AI/ML Infrastructure",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:26.746Z"
+        },
+        {
+          "id": "54b717fe6bb2db58",
+          "title": "Graduate Software Engineer - Data Arch - Shorttext Rec",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:28.647Z"
+        },
+        {
+          "id": "e622144a5ef78547",
+          "title": "Software Engineer Graduate - Global CRM - 2026 Start','BS/MS",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:32.052Z"
+        },
+        {
+          "id": "c3d483599e942d74",
+          "title": "Graduate Software Engineer - Experimentation and Evaluation",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:33.888Z"
+        },
+        {
+          "id": "f2b7f383d5452b39",
+          "title": "Software Engineer Graduate - Ads Infrastructure-MLDP - BS/MS",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:35.750Z"
+        },
+        {
+          "id": "fbfb7958c0f13ea0",
+          "title": "Research Engineer Graduate Online Architecture-2026 Start - PhD",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:37.745Z"
+        },
+        {
+          "id": "222490dedd48c12e",
+          "title": "Software Engineer Graduate - Monetization Technology - Tiktok Ads Creator Monetization",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T20:47:39.611Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 274,
+      "count": 275,
       "jobs": [
         "4024fc363d657d74",
         "cd5532b5c0e88185",
@@ -1501,15 +1510,10 @@
         "1e2d32cd4f5bc00e",
         "18e32312bb4bebcd",
         "d45eca65fb33101a",
-        "0b83025d35bfb7d9"
+        "0b83025d35bfb7d9",
+        "b90f0409e2400997"
       ],
       "recent_jobs": [
-        {
-          "id": "1a1693f8179fcb77",
-          "title": "Data Analyst",
-          "company": "Marmon Holdings",
-          "posted_at": "2026-01-31T17:32:13.510Z"
-        },
         {
           "id": "7483fc6fa26f56aa",
           "title": "Data Science - Analyst",
@@ -1563,6 +1567,12 @@
           "title": "Data Scientist - TikTok Ads",
           "company": "TikTok",
           "posted_at": "2026-01-31T20:12:53.786Z"
+        },
+        {
+          "id": "b90f0409e2400997",
+          "title": "Data Scientist",
+          "company": "Vertiv",
+          "posted_at": "2026-01-31T20:47:17.683Z"
         }
       ]
     },
@@ -2460,98 +2470,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.304Z"
+        "timestamp": "2026-01-31T20:47:17.243Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.305Z"
+        "timestamp": "2026-01-31T20:47:17.243Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.305Z"
+        "timestamp": "2026-01-31T20:47:17.244Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.305Z"
+        "timestamp": "2026-01-31T20:47:17.244Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.306Z"
+        "timestamp": "2026-01-31T20:47:17.245Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.306Z"
+        "timestamp": "2026-01-31T20:47:17.245Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.306Z"
+        "timestamp": "2026-01-31T20:47:17.245Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.307Z"
+        "timestamp": "2026-01-31T20:47:17.245Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.307Z"
+        "timestamp": "2026-01-31T20:47:17.246Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.307Z"
+        "timestamp": "2026-01-31T20:47:17.246Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.308Z"
+        "timestamp": "2026-01-31T20:47:17.246Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.308Z"
+        "timestamp": "2026-01-31T20:47:17.247Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.308Z"
+        "timestamp": "2026-01-31T20:47:17.247Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T20:31:26.308Z"
+        "timestamp": "2026-01-31T20:47:17.247Z"
       }
     ]
   }
