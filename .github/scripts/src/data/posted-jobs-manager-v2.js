@@ -165,7 +165,24 @@ class PostedJobsManagerV2 {
     }
 
     // All instances are archived (>7 days old)
-    // Check if this is a reopening (fresh source date)
+    // Check if job was posted before - use archived sourceDate for age checking
+    const existingInstances = instances.sort((a, b) =>
+      new Date(a.sourceDate || a.postedToDiscord) - new Date(b.sourceDate || b.postedToDiscord)
+    );
+
+    if (existingInstances.length > 0) {
+      const originalInstance = existingInstances[0];
+      const originalDate = new Date(originalInstance.sourceDate || originalInstance.postedToDiscord);
+      const daysSinceOriginalPost = (Date.now() - originalDate.getTime()) / (1000 * 60 * 60 * 24);
+
+      // Reject jobs that are too old from their ORIGINAL posting, regardless of "refreshes"
+      if (daysSinceOriginalPost > 7) {
+        console.log(`⏭️  Skipping old job: ${jobId} (original posting ${Math.floor(daysSinceOriginalPost)} days ago, max is 7)`);
+        return true;
+      }
+    }
+
+    // Check if this is a reopening (fresh source date from API)
     if (jobData && jobData.job_posted_at_datetime_utc) {
       const sourceDate = new Date(jobData.job_posted_at_datetime_utc);
       const daysSinceSourcePost = (Date.now() - sourceDate.getTime()) / (1000 * 60 * 60 * 24);
