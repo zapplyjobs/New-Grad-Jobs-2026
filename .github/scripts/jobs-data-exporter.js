@@ -14,7 +14,10 @@ class JobsDataExporter {
   constructor() {
     this.dataDir = path.join(process.cwd(), '.github', 'data');
     this.outputPath = path.join(this.dataDir, 'jobs-data-encrypted.json');
-    this.password = process.env.LOG_ENCRYPT_PASSWORD || 'default-password-change-me';
+    this.password = process.env.LOG_ENCRYPT_PASSWORD;
+    if (!this.password) {
+      throw new Error('LOG_ENCRYPT_PASSWORD environment variable is required');
+    }
 
     if (!fs.existsSync(this.dataDir)) {
       fs.mkdirSync(this.dataDir, { recursive: true });
