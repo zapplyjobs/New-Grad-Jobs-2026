@@ -82,9 +82,9 @@ function generateTags(job) {
     }
   }
 
-  // Limit to max 5 tags total to avoid clutter
-  if (tags.length > 5) {
-    tags.length = 5;
+  // Limit to max 8 tags for consistency with Internships repo
+  if (tags.length > 8) {
+    tags.length = 8;
   }
 
   // Role category tags (only if not already added via tech stack)
