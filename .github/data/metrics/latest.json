@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-31T23:02:23.557Z",
+  "generated": "2026-01-31T23:15:10.425Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T23:02:23.557Z",
-  "period_end": "2026-01-31T23:02:23.557Z",
+  "period_start": "2026-01-24T23:15:10.425Z",
+  "period_end": "2026-01-31T23:15:10.425Z",
   "summary": {
-    "total_jobs_posted": 1761,
-    "unique_jobs": 1507,
+    "total_jobs_posted": 1771,
+    "unique_jobs": 1517,
     "multi_channel_postings": 508,
     "unique_multi_channel_jobs": 254,
     "failed_postings": 0,
-    "filtered_jobs": 15,
+    "filtered_jobs": 8,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1225,
+      "count": 1234,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1241,68 +1241,77 @@
         "dbdfa9eec3c1c783",
         "0883cd8583ddb7c6",
         "27202554263f1815",
-        "1b9c96ae99f36736"
+        "1b9c96ae99f36736",
+        "b8755610f092c964",
+        "9ece6dc48fd14907",
+        "314e01fb647e8e88",
+        "bf021f5c0cdac234",
+        "a4ab01d04422179b",
+        "7eb7f7c3ce56063b",
+        "aea86b44a3c3a9b4",
+        "3e5b1afccba46432",
+        "d3281af5e5fc0e1f"
       ],
       "recent_jobs": [
-        {
-          "id": "1350e279e5527b88",
-          "title": "Developer Campaign Marketer, Claude Code",
-          "company": "anthropic",
-          "posted_at": "2026-01-31T23:01:54.533Z"
-        },
-        {
-          "id": "064fd3e3e90f4bac",
-          "title": "AI ML Engineer - RTL Power Optimization",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-31T23:01:56.376Z"
-        },
-        {
-          "id": "e79f1ca4b39a8be8",
-          "title": "Graduate Software Engineer - AI",
-          "company": "Loop",
-          "posted_at": "2026-01-31T23:01:58.322Z"
-        },
-        {
-          "id": "259f25d1b8205753",
-          "title": "2026 New Grad - Software Engineer - Full-Stack",
-          "company": "Loop",
-          "posted_at": "2026-01-31T23:02:00.158Z"
-        },
-        {
-          "id": "98dcd17f26272d45",
-          "title": "AI / Automation & Governance Owner",
-          "company": "gusto",
-          "posted_at": "2026-01-31T23:02:01.977Z"
-        },
-        {
-          "id": "1409992ce6f78208",
-          "title": "Head of Azure Partnership",
-          "company": "anthropic",
-          "posted_at": "2026-01-31T23:02:06.980Z"
-        },
-        {
-          "id": "dbdfa9eec3c1c783",
-          "title": "Minor League Affiliate Technology Coordinator",
-          "company": "Major League Baseball",
-          "posted_at": "2026-01-31T23:02:08.892Z"
-        },
-        {
-          "id": "0883cd8583ddb7c6",
-          "title": "Associate Software Engineer",
-          "company": "Metron",
-          "posted_at": "2026-01-31T23:02:10.843Z"
-        },
-        {
-          "id": "27202554263f1815",
-          "title": "Large Model Optimization Engineer Graduate - PICO Perception - 2026 Start (to be cleaned)",
-          "company": "ByteDance",
-          "posted_at": "2026-01-31T23:02:12.659Z"
-        },
         {
           "id": "1b9c96ae99f36736",
           "title": "Advanced Degree Software Engineer - Fusion",
           "company": "Oracle",
           "posted_at": "2026-01-31T23:02:14.699Z"
+        },
+        {
+          "id": "b8755610f092c964",
+          "title": "Geotypical Production Analyst 1",
+          "company": "Aechelon Technology",
+          "posted_at": "2026-01-31T23:14:38.685Z"
+        },
+        {
+          "id": "9ece6dc48fd14907",
+          "title": "Agent Engineer",
+          "company": "Assort Health",
+          "posted_at": "2026-01-31T23:14:40.597Z"
+        },
+        {
+          "id": "314e01fb647e8e88",
+          "title": "Data Conversion Specialist 1",
+          "company": "Tekion",
+          "posted_at": "2026-01-31T23:14:42.423Z"
+        },
+        {
+          "id": "bf021f5c0cdac234",
+          "title": "Application Support Engineer",
+          "company": "Dexterity",
+          "posted_at": "2026-01-31T23:14:44.259Z"
+        },
+        {
+          "id": "a4ab01d04422179b",
+          "title": "Software Engineer 0",
+          "company": "Wyetech",
+          "posted_at": "2026-01-31T23:14:46.092Z"
+        },
+        {
+          "id": "7eb7f7c3ce56063b",
+          "title": "B-Crew Dockman - 7",
+          "company": "Universal ",
+          "posted_at": "2026-01-31T23:14:51.001Z"
+        },
+        {
+          "id": "aea86b44a3c3a9b4",
+          "title": "Software Engineer - Starship Quality",
+          "company": "SpaceX",
+          "posted_at": "2026-01-31T23:14:53.012Z"
+        },
+        {
+          "id": "3e5b1afccba46432",
+          "title": "Material Handler I",
+          "company": "Owens & Minor",
+          "posted_at": "2026-01-31T23:14:54.824Z"
+        },
+        {
+          "id": "d3281af5e5fc0e1f",
+          "title": "Baseball Operations Associate Analyst",
+          "company": "SF Giants",
+          "posted_at": "2026-01-31T23:14:56.653Z"
         }
       ]
     },
@@ -1698,7 +1707,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 282,
+      "count": 283,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -1981,15 +1990,10 @@
         "fa5de1b48a896633",
         "75815b79c47979fb",
         "360398fa0fcce78c",
-        "fe2e5ffb4e9a3d7d"
+        "fe2e5ffb4e9a3d7d",
+        "7c4da3e29666cafe"
       ],
       "recent_jobs": [
-        {
-          "id": "0b83025d35bfb7d9",
-          "title": "Data Scientist - TikTok Ads",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T20:12:53.786Z"
-        },
         {
           "id": "b90f0409e2400997",
           "title": "Data Scientist",
@@ -2043,6 +2047,12 @@
           "title": "Data Analyst 1",
           "company": "EKN Engineering",
           "posted_at": "2026-01-31T22:48:09.215Z"
+        },
+        {
+          "id": "7c4da3e29666cafe",
+          "title": "Data Analytics Engineer 1 - Future Opening",
+          "company": "GCI",
+          "posted_at": "2026-01-31T23:15:01.487Z"
         }
       ]
     }
@@ -2551,57 +2561,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "jobs-ashbyhq-com-supabase-4ac110be-208a-4d68-8db2-6c170867b8e7",
-        "title": "Customer Solution Architect Team Lead (EMEA)",
-        "company": "supabase",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:01:53.861Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
-        "title": "Staff Research Engineer - Music",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:01:53.861Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
-        "title": "Senior Research Engineer - Music",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:01:53.861Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e",
-        "title": "Principal Research Scientist - Music",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:01:53.861Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969",
-        "title": "Staff Research Scientist - Music",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:01:53.861Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
-        "title": "Senior Research Scientist - Music",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:01:53.861Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a",
-        "title": "Senior Content Accountant",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:01:53.861Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -2610,56 +2570,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.851Z"
+        "timestamp": "2026-01-31T23:14:38.397Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.852Z"
+        "timestamp": "2026-01-31T23:14:38.398Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.852Z"
+        "timestamp": "2026-01-31T23:14:38.398Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.853Z"
+        "timestamp": "2026-01-31T23:14:38.399Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.853Z"
+        "timestamp": "2026-01-31T23:14:38.399Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.853Z"
+        "timestamp": "2026-01-31T23:14:38.399Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.854Z"
+        "timestamp": "2026-01-31T23:14:38.400Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:01:53.854Z"
+        "timestamp": "2026-01-31T23:14:38.400Z"
       }
     ]
   }
