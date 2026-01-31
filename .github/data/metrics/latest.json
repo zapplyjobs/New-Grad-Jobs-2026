@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-31T14:48:15.180Z",
+  "generated": "2026-01-31T15:00:37.514Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T14:48:15.180Z",
-  "period_end": "2026-01-31T14:48:15.180Z",
+  "period_start": "2026-01-24T15:00:37.514Z",
+  "period_end": "2026-01-31T15:00:37.514Z",
   "summary": {
-    "total_jobs_posted": 1418,
-    "unique_jobs": 1196,
-    "multi_channel_postings": 444,
-    "unique_multi_channel_jobs": 222,
+    "total_jobs_posted": 1431,
+    "unique_jobs": 1206,
+    "multi_channel_postings": 450,
+    "unique_multi_channel_jobs": 225,
     "failed_postings": 0,
-    "filtered_jobs": 22,
+    "filtered_jobs": 24,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 940,
+      "count": 949,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -956,74 +956,83 @@
         "d9f5d77115259dd5",
         "7d87cb4825d9f37b",
         "32a6f41ae061ef2f",
-        "52199891b4ba399e"
+        "52199891b4ba399e",
+        "b2f389041cc2db22",
+        "149d086e90b892af",
+        "43820924839a03ed",
+        "25b46d6265a165d1",
+        "07e0590c0df6d7ed",
+        "2e1bc31299ef8fd9",
+        "52e16732fd1d0e2d",
+        "947009eb60a0ea04",
+        "c2602e4752474030"
       ],
       "recent_jobs": [
-        {
-          "id": "97b62531115cf6ff",
-          "title": "Entry Level Software Engineer",
-          "company": "BAE Systems",
-          "posted_at": "2026-01-31T14:47:45.198Z"
-        },
-        {
-          "id": "d1fa7657b9c04af3",
-          "title": "Brand Designer",
-          "company": "nominal",
-          "posted_at": "2026-01-31T14:47:47.133Z"
-        },
-        {
-          "id": "59b0abf5f2145d79",
-          "title": "Sustaining Product Engineer",
-          "company": "NOV",
-          "posted_at": "2026-01-31T14:47:49.079Z"
-        },
-        {
-          "id": "937c60a837a228a0",
-          "title": "Developer Productivity Engineer",
-          "company": "supabase",
-          "posted_at": "2026-01-31T14:47:50.867Z"
-        },
-        {
-          "id": "7159a776e79df03f",
-          "title": "Operations Research Analyst-Foundational",
-          "company": "KBR",
-          "posted_at": "2026-01-31T14:47:52.639Z"
-        },
-        {
-          "id": "d83fcb13f085478f",
-          "title": "Seismic Imaging Analyst",
-          "company": "Viridien",
-          "posted_at": "2026-01-31T14:47:54.416Z"
-        },
-        {
-          "id": "d9f5d77115259dd5",
-          "title": "Graduate Research Scientist in Code Generation",
-          "company": "ByteDance",
-          "posted_at": "2026-01-31T14:47:59.348Z"
-        },
-        {
-          "id": "7d87cb4825d9f37b",
-          "title": "AI Engineer",
-          "company": "Boston Consulting Group",
-          "posted_at": "2026-01-31T14:48:01.221Z"
-        },
-        {
-          "id": "32a6f41ae061ef2f",
-          "title": "Machine Learning Engineer/Scientist - Multi Modality",
-          "company": "Altos Labs",
-          "posted_at": "2026-01-31T14:48:03.027Z"
-        },
         {
           "id": "52199891b4ba399e",
           "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
           "company": "Brookhaven Lab",
           "posted_at": "2026-01-31T14:48:04.800Z"
+        },
+        {
+          "id": "b2f389041cc2db22",
+          "title": "Process Development Engineer 3 - Data Enablement and Analytics - DEA/PMPD",
+          "company": "Regeneron Pharmaceuticals",
+          "posted_at": "2026-01-31T14:59:59.477Z"
+        },
+        {
+          "id": "149d086e90b892af",
+          "title": "Mathematician",
+          "company": "Light & Wonder",
+          "posted_at": "2026-01-31T15:00:03.573Z"
+        },
+        {
+          "id": "43820924839a03ed",
+          "title": "Operations Research Analyst-Foundational",
+          "company": "KBR",
+          "posted_at": "2026-01-31T15:00:05.450Z"
+        },
+        {
+          "id": "25b46d6265a165d1",
+          "title": "Entry Level Software Engineer",
+          "company": "Amentum",
+          "posted_at": "2026-01-31T15:00:07.475Z"
+        },
+        {
+          "id": "07e0590c0df6d7ed",
+          "title": "Mandarin Language Specialist (USA-based)",
+          "company": "Perle",
+          "posted_at": "2026-01-31T15:00:09.316Z"
+        },
+        {
+          "id": "2e1bc31299ef8fd9",
+          "title": "Farsi Language Specialist",
+          "company": "Perle",
+          "posted_at": "2026-01-31T15:00:13.107Z"
+        },
+        {
+          "id": "52e16732fd1d0e2d",
+          "title": "Security Engineer",
+          "company": "nominal",
+          "posted_at": "2026-01-31T15:00:17.080Z"
+        },
+        {
+          "id": "947009eb60a0ea04",
+          "title": "Assistant Professor",
+          "company": "Howard University",
+          "posted_at": "2026-01-31T15:00:21.949Z"
+        },
+        {
+          "id": "c2602e4752474030",
+          "title": "Assistant or Associate Research Professor",
+          "company": "PennState University",
+          "posted_at": "2026-01-31T15:00:23.882Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 160,
+      "count": 161,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -1184,15 +1193,10 @@
         "ffa671d7c67d2217",
         "d25682443af2da58",
         "525cdf9656221bb4",
-        "52199891b4ba399e"
+        "52199891b4ba399e",
+        "b2f389041cc2db22"
       ],
       "recent_jobs": [
-        {
-          "id": "29c3eec16f38ab3a",
-          "title": "Enterprise Support Engineer, AMER",
-          "company": "retool",
-          "posted_at": "2026-01-31T11:57:43.059Z"
-        },
         {
           "id": "9b6665d651a96307",
           "title": "Mixed Methods Researcher - Music Mission",
@@ -1246,12 +1250,18 @@
           "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
           "company": "Brookhaven Lab",
           "posted_at": "2026-01-31T14:48:04.800Z"
+        },
+        {
+          "id": "b2f389041cc2db22",
+          "title": "Process Development Engineer 3 - Data Enablement and Analytics - DEA/PMPD",
+          "company": "Regeneron Pharmaceuticals",
+          "posted_at": "2026-01-31T14:59:59.477Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 256,
+      "count": 257,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -1508,15 +1518,10 @@
         "562454cec2b487f7",
         "e182a05ff27e8581",
         "7ee5606f6e309c91",
-        "789c3aaa47ceb5b9"
+        "789c3aaa47ceb5b9",
+        "69322013fb0168cb"
       ],
       "recent_jobs": [
-        {
-          "id": "be622f6ec29e0704",
-          "title": "Product Line Management Data Science",
-          "company": "Applied Materials",
-          "posted_at": "2026-01-31T12:15:39.036Z"
-        },
         {
           "id": "acfc006c2104f94b",
           "title": "Linux System Administrator",
@@ -1570,12 +1575,18 @@
           "title": "Research Engineering/Scientist Associate 1",
           "company": "University of Texas - Austin",
           "posted_at": "2026-01-31T14:13:36.243Z"
+        },
+        {
+          "id": "69322013fb0168cb",
+          "title": "Research Professional",
+          "company": "University of Chicago",
+          "posted_at": "2026-01-31T15:00:28.747Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 62,
+      "count": 64,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1638,21 +1649,11 @@
         "7dee505e21b4c552",
         "19ba5a4c33925e18",
         "0d19116ac069c302",
-        "b0aa701881cbcf57"
+        "b0aa701881cbcf57",
+        "07e0590c0df6d7ed",
+        "2e1bc31299ef8fd9"
       ],
       "recent_jobs": [
-        {
-          "id": "00384d38a70be243",
-          "title": "Junior Data Engineer",
-          "company": "Sayari",
-          "posted_at": "2026-01-31T07:33:43.553Z"
-        },
-        {
-          "id": "8f1d4a5b6f2b69de",
-          "title": "Cantonese Language Specialist",
-          "company": "Perle",
-          "posted_at": "2026-01-31T09:33:39.545Z"
-        },
         {
           "id": "4541b1a8ddce8579",
           "title": "Commercial Account Executive",
@@ -1700,6 +1701,18 @@
           "title": "Founding Engineer",
           "company": "TrueBuilt",
           "posted_at": "2026-01-31T14:32:15.704Z"
+        },
+        {
+          "id": "07e0590c0df6d7ed",
+          "title": "Mandarin Language Specialist (USA-based)",
+          "company": "Perle",
+          "posted_at": "2026-01-31T15:00:09.316Z"
+        },
+        {
+          "id": "2e1bc31299ef8fd9",
+          "title": "Farsi Language Specialist",
+          "company": "Perle",
+          "posted_at": "2026-01-31T15:00:13.107Z"
         }
       ]
     }
@@ -2210,11 +2223,25 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-cosmology-spherex-galaxy-clusters-_421458-1",
-        "title": "Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters",
+        "job_id": "lsu-wd1-myworkdayjobs-com-lsu-job-2056-digital-media-center-postdoctoral-researcher_r00111205",
+        "title": "Postdoctoral Researcher",
+        "company": "Louisiana State University (LSU)",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T14:59:58.766Z"
+      },
+      {
+        "job_id": "lsu-wd1-myworkdayjobs-com-lsu-job-3051-digital-media-center-postdoctoral-researcher_r00111216",
+        "title": "Postdoctoral Researcher",
+        "company": "Louisiana State University (LSU)",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T14:59:58.766Z"
+      },
+      {
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-coastal-urban-flooding_421450",
+        "title": "Postdoctoral Appointee - Coastal-urban Flooding",
         "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T14:47:44.452Z"
+        "timestamp": "2026-01-31T14:59:58.766Z"
       }
     ],
     "already_posted": [],
@@ -2225,147 +2252,147 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.441Z"
+        "timestamp": "2026-01-31T14:59:58.754Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.441Z"
+        "timestamp": "2026-01-31T14:59:58.755Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.442Z"
+        "timestamp": "2026-01-31T14:59:58.755Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.442Z"
+        "timestamp": "2026-01-31T14:59:58.756Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.442Z"
+        "timestamp": "2026-01-31T14:59:58.756Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.443Z"
+        "timestamp": "2026-01-31T14:59:58.756Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.443Z"
+        "timestamp": "2026-01-31T14:59:58.757Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.443Z"
+        "timestamp": "2026-01-31T14:59:58.757Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.443Z"
+        "timestamp": "2026-01-31T14:59:58.757Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.444Z"
+        "timestamp": "2026-01-31T14:59:58.757Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.444Z"
+        "timestamp": "2026-01-31T14:59:58.758Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.444Z"
+        "timestamp": "2026-01-31T14:59:58.758Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.444Z"
+        "timestamp": "2026-01-31T14:59:58.758Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.445Z"
+        "timestamp": "2026-01-31T14:59:58.758Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-stratacareers-jobs-7542763003",
         "title": "Analyst – Data Integration",
         "company": "Strata Decision Technology",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.445Z"
+        "timestamp": "2026-01-31T14:59:58.758Z"
       },
       {
         "job_id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581",
         "title": "Technology - Application Development",
         "company": "Citi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.445Z"
+        "timestamp": "2026-01-31T14:59:58.759Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-developer-technology-engineer-public-sector-new-college-grad-2026_jr2008990",
         "title": "Developer Technology Engineer – New College Grad - Public Sector",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.446Z"
+        "timestamp": "2026-01-31T14:59:58.759Z"
       },
       {
         "job_id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-technology-application-development-full-time-analyst-tampa-usa-2026_25920348",
         "title": "Technology - Application Development - Full Time Analyst",
         "company": "Citi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.446Z"
+        "timestamp": "2026-01-31T14:59:58.759Z"
       },
       {
         "job_id": "wd3-myworkdaysite-com-recruiting-magna-magna-job-goleta-california-us-software-engineer-i-thermal-cameras_r00193769",
         "title": "Software Engineer 1 - Thermal Camera",
         "company": "Magna",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.446Z"
+        "timestamp": "2026-01-31T14:59:58.759Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-affirm-jobs-7485072003",
         "title": "Software Engineer – Early Career",
         "company": "Affirm",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.446Z"
+        "timestamp": "2026-01-31T14:59:58.759Z"
       },
       {
         "job_id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1",
         "title": "Postdoctoral Research Associate",
         "company": "Texas A&M University - Corpus Christi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T14:47:44.447Z"
+        "timestamp": "2026-01-31T14:59:58.760Z"
       }
     ]
   }
