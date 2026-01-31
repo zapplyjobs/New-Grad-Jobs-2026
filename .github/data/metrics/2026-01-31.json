@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-31T23:31:53.249Z",
+  "generated": "2026-01-31T23:46:44.908Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T23:31:53.249Z",
-  "period_end": "2026-01-31T23:31:53.249Z",
+  "period_start": "2026-01-24T23:46:44.908Z",
+  "period_end": "2026-01-31T23:46:44.908Z",
   "summary": {
-    "total_jobs_posted": 1781,
-    "unique_jobs": 1527,
-    "multi_channel_postings": 508,
-    "unique_multi_channel_jobs": 254,
+    "total_jobs_posted": 1792,
+    "unique_jobs": 1537,
+    "multi_channel_postings": 510,
+    "unique_multi_channel_jobs": 255,
     "failed_postings": 0,
     "filtered_jobs": 9,
     "channels_active": 4
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1244,
+      "count": 1253,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1260,68 +1260,77 @@
         "993cc34a04e18bd0",
         "dc9b55c3e4762a16",
         "fc0860d4a1f2c02f",
-        "67c71abb25b5d873"
+        "67c71abb25b5d873",
+        "79563022c538321c",
+        "974e735fac9ec20c",
+        "4c376c753b08621b",
+        "9b4a794c67a8a950",
+        "61374c92437e3f45",
+        "106ae8ec259f2891",
+        "ca8213d91a563ba9",
+        "ba70dd2ab3f682ae",
+        "b50701287e553c19"
       ],
       "recent_jobs": [
-        {
-          "id": "93d9957aeddf901c",
-          "title": "Technology Associate",
-          "company": "Chubb",
-          "posted_at": "2026-01-31T23:31:25.050Z"
-        },
-        {
-          "id": "d395a5f2fde88c5e",
-          "title": "Software Engineer 1",
-          "company": "General Dynamics Mission Systems",
-          "posted_at": "2026-01-31T23:31:26.887Z"
-        },
-        {
-          "id": "67e32855fcd091ec",
-          "title": "Java DevSecOps Software Engineer",
-          "company": "Trace3",
-          "posted_at": "2026-01-31T23:31:28.699Z"
-        },
-        {
-          "id": "e15bab50a4de2fe3",
-          "title": "Material Handler",
-          "company": "Mass General Brigham",
-          "posted_at": "2026-01-31T23:31:30.529Z"
-        },
-        {
-          "id": "298ac7c7d5bd293a",
-          "title": "Entry Level Software Engineer",
-          "company": "Amentum",
-          "posted_at": "2026-01-31T23:31:32.394Z"
-        },
-        {
-          "id": "784336d974ba4dcc",
-          "title": "Advanced Degree Software Engineer - Oracle Health and Analytics",
-          "company": "Oracle",
-          "posted_at": "2026-01-31T23:31:34.332Z"
-        },
-        {
-          "id": "993cc34a04e18bd0",
-          "title": "Software Engineer I - C++ and Payments Systems",
-          "company": "Fidelity National Information Services",
-          "posted_at": "2026-01-31T23:31:36.170Z"
-        },
-        {
-          "id": "dc9b55c3e4762a16",
-          "title": "Software Engineer – New Grad - Forward Deployed AI",
-          "company": "Promise",
-          "posted_at": "2026-01-31T23:31:41.019Z"
-        },
-        {
-          "id": "fc0860d4a1f2c02f",
-          "title": "Database Engineer 0",
-          "company": "Wyetech",
-          "posted_at": "2026-01-31T23:31:43.298Z"
-        },
         {
           "id": "67c71abb25b5d873",
           "title": "Software Engineer – Forward Deployed AI (New Grad)",
           "company": "Promise",
           "posted_at": "2026-01-31T23:31:45.068Z"
+        },
+        {
+          "id": "79563022c538321c",
+          "title": "Software Engineer – New Grad - Forward Deployed AI",
+          "company": "Promise",
+          "posted_at": "2026-01-31T23:46:11.823Z"
+        },
+        {
+          "id": "974e735fac9ec20c",
+          "title": "Software Engineer – Forward Deployed AI (New Grad)",
+          "company": "Promise",
+          "posted_at": "2026-01-31T23:46:13.686Z"
+        },
+        {
+          "id": "4c376c753b08621b",
+          "title": "Junior Full Stack Software Engineer",
+          "company": "Radiance Technologies",
+          "posted_at": "2026-01-31T23:46:18.538Z"
+        },
+        {
+          "id": "9b4a794c67a8a950",
+          "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+          "company": "Oracle",
+          "posted_at": "2026-01-31T23:46:20.363Z"
+        },
+        {
+          "id": "61374c92437e3f45",
+          "title": "Software Development Engineer",
+          "company": "Adobe",
+          "posted_at": "2026-01-31T23:46:22.503Z"
+        },
+        {
+          "id": "106ae8ec259f2891",
+          "title": "Growth Engineering - Mobile",
+          "company": "ElevenLabs",
+          "posted_at": "2026-01-31T23:46:24.371Z"
+        },
+        {
+          "id": "ca8213d91a563ba9",
+          "title": "Software Engineer",
+          "company": "DraftKings",
+          "posted_at": "2026-01-31T23:46:26.187Z"
+        },
+        {
+          "id": "ba70dd2ab3f682ae",
+          "title": "Software Engineer",
+          "company": "Microsoft",
+          "posted_at": "2026-01-31T23:46:29.949Z"
+        },
+        {
+          "id": "b50701287e553c19",
+          "title": "Associate Software Test Engineer",
+          "company": "Insulet",
+          "posted_at": "2026-01-31T23:46:31.802Z"
         }
       ]
     },
@@ -1575,7 +1584,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 74,
+      "count": 75,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1650,15 +1659,10 @@
         "ad0dec2a7287f7c8",
         "9b788ab167c83be9",
         "f4e29bb5988b77d7",
-        "9377290890d45289"
+        "9377290890d45289",
+        "ca8213d91a563ba9"
       ],
       "recent_jobs": [
-        {
-          "id": "85ded0e1efc10a7a",
-          "title": "Search Quality Rater - English",
-          "company": "RWS",
-          "posted_at": "2026-01-31T15:12:51.708Z"
-        },
         {
           "id": "2ef9ca16bc02332a",
           "title": "Game Developer",
@@ -1712,12 +1716,18 @@
           "title": "Japanese Speaker - AI Trainer",
           "company": "Invisible Technologies",
           "posted_at": "2026-01-31T22:47:53.488Z"
+        },
+        {
+          "id": "ca8213d91a563ba9",
+          "title": "Software Engineer",
+          "company": "DraftKings",
+          "posted_at": "2026-01-31T23:46:26.187Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 283,
+      "count": 284,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2001,15 +2011,10 @@
         "75815b79c47979fb",
         "360398fa0fcce78c",
         "fe2e5ffb4e9a3d7d",
-        "7c4da3e29666cafe"
+        "7c4da3e29666cafe",
+        "fdc59f4d78d5fe94"
       ],
       "recent_jobs": [
-        {
-          "id": "b90f0409e2400997",
-          "title": "Data Scientist",
-          "company": "Vertiv",
-          "posted_at": "2026-01-31T20:47:17.683Z"
-        },
         {
           "id": "c29bc65df5649b8c",
           "title": "Engineering Students Seeking Full-Time Employment",
@@ -2063,6 +2068,12 @@
           "title": "Data Analytics Engineer 1 - Future Opening",
           "company": "GCI",
           "posted_at": "2026-01-31T23:15:01.487Z"
+        },
+        {
+          "id": "fdc59f4d78d5fe94",
+          "title": "Data Analyst I Bioinformatician Rheumatology",
+          "company": "Mass General Brigham",
+          "posted_at": "2026-01-31T23:46:36.729Z"
         }
       ]
     }
@@ -2573,11 +2584,11 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "jobs-lever-co-spotify-dbe8398a-1e65-401a-ac49-52c88a7530d3",
-        "title": "Finance Program Manager",
-        "company": "spotify",
+        "job_id": "jobs-ashbyhq-com-clerk-2b701338-d869-49aa-9223-fca71967e9a9",
+        "title": "Senior Software Engineer, Growth",
+        "company": "clerk",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T23:31:24.453Z"
+        "timestamp": "2026-01-31T23:46:11.296Z"
       }
     ],
     "already_posted": [],
@@ -2588,56 +2599,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.437Z"
+        "timestamp": "2026-01-31T23:46:11.280Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.438Z"
+        "timestamp": "2026-01-31T23:46:11.281Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.438Z"
+        "timestamp": "2026-01-31T23:46:11.282Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.438Z"
+        "timestamp": "2026-01-31T23:46:11.282Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.439Z"
+        "timestamp": "2026-01-31T23:46:11.282Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.439Z"
+        "timestamp": "2026-01-31T23:46:11.283Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.439Z"
+        "timestamp": "2026-01-31T23:46:11.283Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:31:24.440Z"
+        "timestamp": "2026-01-31T23:46:11.283Z"
       }
     ]
   }
