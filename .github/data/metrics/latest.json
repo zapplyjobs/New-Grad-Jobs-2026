@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-31T23:15:10.425Z",
+  "generated": "2026-01-31T23:31:53.249Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T23:15:10.425Z",
-  "period_end": "2026-01-31T23:15:10.425Z",
+  "period_start": "2026-01-24T23:31:53.249Z",
+  "period_end": "2026-01-31T23:31:53.249Z",
   "summary": {
-    "total_jobs_posted": 1771,
-    "unique_jobs": 1517,
+    "total_jobs_posted": 1781,
+    "unique_jobs": 1527,
     "multi_channel_postings": 508,
     "unique_multi_channel_jobs": 254,
     "failed_postings": 0,
-    "filtered_jobs": 8,
+    "filtered_jobs": 9,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1234,
+      "count": 1244,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1250,68 +1250,78 @@
         "7eb7f7c3ce56063b",
         "aea86b44a3c3a9b4",
         "3e5b1afccba46432",
-        "d3281af5e5fc0e1f"
+        "d3281af5e5fc0e1f",
+        "93d9957aeddf901c",
+        "d395a5f2fde88c5e",
+        "67e32855fcd091ec",
+        "e15bab50a4de2fe3",
+        "298ac7c7d5bd293a",
+        "784336d974ba4dcc",
+        "993cc34a04e18bd0",
+        "dc9b55c3e4762a16",
+        "fc0860d4a1f2c02f",
+        "67c71abb25b5d873"
       ],
       "recent_jobs": [
         {
-          "id": "1b9c96ae99f36736",
-          "title": "Advanced Degree Software Engineer - Fusion",
+          "id": "93d9957aeddf901c",
+          "title": "Technology Associate",
+          "company": "Chubb",
+          "posted_at": "2026-01-31T23:31:25.050Z"
+        },
+        {
+          "id": "d395a5f2fde88c5e",
+          "title": "Software Engineer 1",
+          "company": "General Dynamics Mission Systems",
+          "posted_at": "2026-01-31T23:31:26.887Z"
+        },
+        {
+          "id": "67e32855fcd091ec",
+          "title": "Java DevSecOps Software Engineer",
+          "company": "Trace3",
+          "posted_at": "2026-01-31T23:31:28.699Z"
+        },
+        {
+          "id": "e15bab50a4de2fe3",
+          "title": "Material Handler",
+          "company": "Mass General Brigham",
+          "posted_at": "2026-01-31T23:31:30.529Z"
+        },
+        {
+          "id": "298ac7c7d5bd293a",
+          "title": "Entry Level Software Engineer",
+          "company": "Amentum",
+          "posted_at": "2026-01-31T23:31:32.394Z"
+        },
+        {
+          "id": "784336d974ba4dcc",
+          "title": "Advanced Degree Software Engineer - Oracle Health and Analytics",
           "company": "Oracle",
-          "posted_at": "2026-01-31T23:02:14.699Z"
+          "posted_at": "2026-01-31T23:31:34.332Z"
         },
         {
-          "id": "b8755610f092c964",
-          "title": "Geotypical Production Analyst 1",
-          "company": "Aechelon Technology",
-          "posted_at": "2026-01-31T23:14:38.685Z"
+          "id": "993cc34a04e18bd0",
+          "title": "Software Engineer I - C++ and Payments Systems",
+          "company": "Fidelity National Information Services",
+          "posted_at": "2026-01-31T23:31:36.170Z"
         },
         {
-          "id": "9ece6dc48fd14907",
-          "title": "Agent Engineer",
-          "company": "Assort Health",
-          "posted_at": "2026-01-31T23:14:40.597Z"
+          "id": "dc9b55c3e4762a16",
+          "title": "Software Engineer – New Grad - Forward Deployed AI",
+          "company": "Promise",
+          "posted_at": "2026-01-31T23:31:41.019Z"
         },
         {
-          "id": "314e01fb647e8e88",
-          "title": "Data Conversion Specialist 1",
-          "company": "Tekion",
-          "posted_at": "2026-01-31T23:14:42.423Z"
-        },
-        {
-          "id": "bf021f5c0cdac234",
-          "title": "Application Support Engineer",
-          "company": "Dexterity",
-          "posted_at": "2026-01-31T23:14:44.259Z"
-        },
-        {
-          "id": "a4ab01d04422179b",
-          "title": "Software Engineer 0",
+          "id": "fc0860d4a1f2c02f",
+          "title": "Database Engineer 0",
           "company": "Wyetech",
-          "posted_at": "2026-01-31T23:14:46.092Z"
+          "posted_at": "2026-01-31T23:31:43.298Z"
         },
         {
-          "id": "7eb7f7c3ce56063b",
-          "title": "B-Crew Dockman - 7",
-          "company": "Universal ",
-          "posted_at": "2026-01-31T23:14:51.001Z"
-        },
-        {
-          "id": "aea86b44a3c3a9b4",
-          "title": "Software Engineer - Starship Quality",
-          "company": "SpaceX",
-          "posted_at": "2026-01-31T23:14:53.012Z"
-        },
-        {
-          "id": "3e5b1afccba46432",
-          "title": "Material Handler I",
-          "company": "Owens & Minor",
-          "posted_at": "2026-01-31T23:14:54.824Z"
-        },
-        {
-          "id": "d3281af5e5fc0e1f",
-          "title": "Baseball Operations Associate Analyst",
-          "company": "SF Giants",
-          "posted_at": "2026-01-31T23:14:56.653Z"
+          "id": "67c71abb25b5d873",
+          "title": "Software Engineer – Forward Deployed AI (New Grad)",
+          "company": "Promise",
+          "posted_at": "2026-01-31T23:31:45.068Z"
         }
       ]
     },
@@ -2561,7 +2571,15 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "jobs-lever-co-spotify-dbe8398a-1e65-401a-ac49-52c88a7530d3",
+        "title": "Finance Program Manager",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T23:31:24.453Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -2570,56 +2588,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.397Z"
+        "timestamp": "2026-01-31T23:31:24.437Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.398Z"
+        "timestamp": "2026-01-31T23:31:24.438Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.398Z"
+        "timestamp": "2026-01-31T23:31:24.438Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.399Z"
+        "timestamp": "2026-01-31T23:31:24.438Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.399Z"
+        "timestamp": "2026-01-31T23:31:24.439Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.399Z"
+        "timestamp": "2026-01-31T23:31:24.439Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.400Z"
+        "timestamp": "2026-01-31T23:31:24.439Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T23:14:38.400Z"
+        "timestamp": "2026-01-31T23:31:24.440Z"
       }
     ]
   }
