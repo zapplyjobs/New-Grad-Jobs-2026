@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-31T04:26:41.872Z",
+  "generated": "2026-01-31T05:00:47.359Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T04:26:41.872Z",
-  "period_end": "2026-01-31T04:26:41.872Z",
+  "period_start": "2026-01-24T05:00:47.359Z",
+  "period_end": "2026-01-31T05:00:47.359Z",
   "summary": {
-    "total_jobs_posted": 1006,
-    "unique_jobs": 858,
-    "multi_channel_postings": 296,
-    "unique_multi_channel_jobs": 148,
+    "total_jobs_posted": 1017,
+    "unique_jobs": 868,
+    "multi_channel_postings": 298,
+    "unique_multi_channel_jobs": 149,
     "failed_postings": 0,
-    "filtered_jobs": 15,
+    "filtered_jobs": 19,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 668,
+      "count": 677,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -684,68 +684,77 @@
         "93a9ac54665ad7f2",
         "6ec6bd926c7efafa",
         "4b08083eb14a40dc",
-        "2a418ec47bcaa128"
+        "2a418ec47bcaa128",
+        "4d5ded6dde6ae299",
+        "319df094d552d8e2",
+        "e1969aa729767fea",
+        "f17fa5801ef49df2",
+        "63ebc9441b3a83e9",
+        "3d42034bc7d9cbfc",
+        "06825d7f5cfb9327",
+        "ae6f8b7099e54d2c",
+        "97457f968cb7babf"
       ],
       "recent_jobs": [
-        {
-          "id": "785de85c3cb34f4c",
-          "title": "Associate Systems Analyst-IT Sales & Trade Portfolio",
-          "company": "Conagra Brands",
-          "posted_at": "2026-01-31T03:40:27.231Z"
-        },
-        {
-          "id": "7bd1df8c51556ab7",
-          "title": "GM, Surfaces Personalization",
-          "company": "spotify",
-          "posted_at": "2026-01-31T03:40:32.140Z"
-        },
-        {
-          "id": "6c9a93c732c33c70",
-          "title": "BI Developer",
-          "company": "SMX",
-          "posted_at": "2026-01-31T04:26:08.849Z"
-        },
-        {
-          "id": "83e464a4f78115e8",
-          "title": "Entry Level Software Engineer",
-          "company": "Amentum",
-          "posted_at": "2026-01-31T04:26:10.581Z"
-        },
-        {
-          "id": "e5040725a1a333a4",
-          "title": "Full-Stack Software Engineer – New Grad",
-          "company": "SpruceID",
-          "posted_at": "2026-01-31T04:26:12.354Z"
-        },
-        {
-          "id": "7314afe563133f7e",
-          "title": "Software Developer 1",
-          "company": "Oracle",
-          "posted_at": "2026-01-31T04:26:15.970Z"
-        },
-        {
-          "id": "93a9ac54665ad7f2",
-          "title": "Software Engineer II, Frontend Platform ",
-          "company": "brex",
-          "posted_at": "2026-01-31T04:26:17.736Z"
-        },
-        {
-          "id": "6ec6bd926c7efafa",
-          "title": "Medical Simulation Technician",
-          "company": "Ohio State University",
-          "posted_at": "2026-01-31T04:26:21.577Z"
-        },
-        {
-          "id": "4b08083eb14a40dc",
-          "title": "Software Engineer 1",
-          "company": "Twitch",
-          "posted_at": "2026-01-31T04:26:23.603Z"
-        },
         {
           "id": "2a418ec47bcaa128",
           "title": "Knowledge Engineer/Scientist - PhD",
           "company": "Procter & Gamble (P&G)",
           "posted_at": "2026-01-31T04:26:28.503Z"
+        },
+        {
+          "id": "4d5ded6dde6ae299",
+          "title": "Software Engineer 1",
+          "company": "Twitch",
+          "posted_at": "2026-01-31T05:00:19.969Z"
+        },
+        {
+          "id": "319df094d552d8e2",
+          "title": "Research Engineer – PhD New College Grad - Architecture",
+          "company": "NVIDIA",
+          "posted_at": "2026-01-31T05:00:21.704Z"
+        },
+        {
+          "id": "e1969aa729767fea",
+          "title": "Software Engineer 1",
+          "company": "Intuit",
+          "posted_at": "2026-01-31T05:00:23.556Z"
+        },
+        {
+          "id": "f17fa5801ef49df2",
+          "title": "ATS Technology Development Program",
+          "company": "Allstate Insurance Company",
+          "posted_at": "2026-01-31T05:00:25.303Z"
+        },
+        {
+          "id": "63ebc9441b3a83e9",
+          "title": "Alternative Data Management - Analyst",
+          "company": "iCapital Network",
+          "posted_at": "2026-01-31T05:00:27.052Z"
+        },
+        {
+          "id": "3d42034bc7d9cbfc",
+          "title": "Software Engineer",
+          "company": "Q2",
+          "posted_at": "2026-01-31T05:00:28.793Z"
+        },
+        {
+          "id": "06825d7f5cfb9327",
+          "title": "Search Quality Rater",
+          "company": "Welocalize",
+          "posted_at": "2026-01-31T05:00:30.571Z"
+        },
+        {
+          "id": "ae6f8b7099e54d2c",
+          "title": "Developer 2 - Programming",
+          "company": "Western Digital",
+          "posted_at": "2026-01-31T05:00:34.222Z"
+        },
+        {
+          "id": "97457f968cb7babf",
+          "title": "Research Analyst",
+          "company": "Jones Lang LaSalle (JLL)",
+          "posted_at": "2026-01-31T05:00:39.065Z"
         }
       ]
     },
@@ -924,7 +933,7 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 190,
+      "count": 191,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -1115,15 +1124,10 @@
         "0e2bba7365478113",
         "36a314fad5b04fdc",
         "8252f547fa83505d",
-        "279976a6caf6482b"
+        "279976a6caf6482b",
+        "7b15732f93176cff"
       ],
       "recent_jobs": [
-        {
-          "id": "ef0fb004dd0cd13f",
-          "title": "Future Opportunities: Accountant Sales Talent",
-          "company": "gusto",
-          "posted_at": "2026-01-31T00:26:01.841Z"
-        },
         {
           "id": "d0221afebabf65b1",
           "title": "Head of Sales Compensation",
@@ -1177,12 +1181,18 @@
           "title": "Web Content Strategist",
           "company": "figma",
           "posted_at": "2026-01-31T04:26:33.311Z"
+        },
+        {
+          "id": "7b15732f93176cff",
+          "title": "Litigation and Risk Counsel",
+          "company": "brex",
+          "posted_at": "2026-01-31T05:00:15.113Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 43,
+      "count": 44,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1226,15 +1236,10 @@
         "6e27ef9d91808270",
         "4bb201ba96551b6a",
         "d030af9ec83298aa",
-        "e5040725a1a333a4"
+        "e5040725a1a333a4",
+        "06825d7f5cfb9327"
       ],
       "recent_jobs": [
-        {
-          "id": "a22ff0985e68a4da",
-          "title": "Customer Success Associate",
-          "company": "samsara",
-          "posted_at": "2026-01-30T18:18:16.012Z"
-        },
         {
           "id": "0262778e71d3abb4",
           "title": "Enterprise Account Development Representative - Outbound",
@@ -1288,6 +1293,12 @@
           "title": "Full-Stack Software Engineer – New Grad",
           "company": "SpruceID",
           "posted_at": "2026-01-31T04:26:12.354Z"
+        },
+        {
+          "id": "06825d7f5cfb9327",
+          "title": "Search Quality Rater",
+          "company": "Welocalize",
+          "posted_at": "2026-01-31T05:00:30.571Z"
         }
       ]
     }
@@ -1798,11 +1809,39 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5732415004",
-        "title": "Director, Product Marketing ",
-        "company": "figma",
+        "job_id": "amazon-jobs-en-jobs-3150951-agentic-ai-teacher-agi-ds-agi-ds",
+        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+        "company": "Amazon",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T04:26:01.474Z"
+        "timestamp": "2026-01-31T05:00:14.232Z"
+      },
+      {
+        "job_id": "amazon-jobs-en-jobs-3150957-agentic-ai-teacher-agi-ds-agi-ds",
+        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+        "company": "Amazon",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T05:00:14.232Z"
+      },
+      {
+        "job_id": "amazon-jobs-en-jobs-3150961-agentic-ai-teacher-agi-ds-agi-ds",
+        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+        "company": "Amazon",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T05:00:14.232Z"
+      },
+      {
+        "job_id": "amazon-jobs-en-jobs-3150950-agentic-ai-teacher-agi-ds-agi-ds",
+        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+        "company": "Amazon",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T05:00:14.232Z"
+      },
+      {
+        "job_id": "amazon-jobs-en-jobs-3150954-agentic-ai-teacher-agi-ds-agi-ds",
+        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+        "company": "Amazon",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T05:00:14.232Z"
       }
     ],
     "already_posted": [],
@@ -1813,98 +1852,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.464Z"
+        "timestamp": "2026-01-31T05:00:14.223Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.465Z"
+        "timestamp": "2026-01-31T05:00:14.223Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.465Z"
+        "timestamp": "2026-01-31T05:00:14.223Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.465Z"
+        "timestamp": "2026-01-31T05:00:14.223Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.466Z"
+        "timestamp": "2026-01-31T05:00:14.224Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.466Z"
+        "timestamp": "2026-01-31T05:00:14.224Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.466Z"
+        "timestamp": "2026-01-31T05:00:14.224Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.467Z"
+        "timestamp": "2026-01-31T05:00:14.225Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.467Z"
+        "timestamp": "2026-01-31T05:00:14.225Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.467Z"
+        "timestamp": "2026-01-31T05:00:14.225Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.467Z"
+        "timestamp": "2026-01-31T05:00:14.225Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.468Z"
+        "timestamp": "2026-01-31T05:00:14.226Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.468Z"
+        "timestamp": "2026-01-31T05:00:14.226Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T04:26:01.468Z"
+        "timestamp": "2026-01-31T05:00:14.226Z"
       }
     ]
   }
