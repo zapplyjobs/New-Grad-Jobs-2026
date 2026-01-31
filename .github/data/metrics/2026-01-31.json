@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-31T02:45:34.103Z",
+  "generated": "2026-01-31T03:40:48.770Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T02:45:34.103Z",
-  "period_end": "2026-01-31T02:45:34.103Z",
+  "period_start": "2026-01-24T03:40:48.770Z",
+  "period_end": "2026-01-31T03:40:48.770Z",
   "summary": {
-    "total_jobs_posted": 982,
-    "unique_jobs": 838,
-    "multi_channel_postings": 288,
-    "unique_multi_channel_jobs": 144,
+    "total_jobs_posted": 993,
+    "unique_jobs": 848,
+    "multi_channel_postings": 290,
+    "unique_multi_channel_jobs": 145,
     "failed_postings": 0,
     "filtered_jobs": 17,
     "channels_active": 4
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 653,
+      "count": 660,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -669,51 +669,16 @@
         "c7d2e232b6c07863",
         "70c09c7f2bc59ee8",
         "71ebecc97738a9a9",
-        "867ca712c54d046a"
+        "867ca712c54d046a",
+        "5add81740bbeecdf",
+        "b5235678ed5259bc",
+        "3349a94aa13679ea",
+        "43e1149e47835ad1",
+        "82269d1f7cd64b5a",
+        "785de85c3cb34f4c",
+        "7bd1df8c51556ab7"
       ],
       "recent_jobs": [
-        {
-          "id": "2971c9e9c62140e9",
-          "title": "C++ Software Engineer",
-          "company": "Cadence Design Systems",
-          "posted_at": "2026-01-31T02:45:02.328Z"
-        },
-        {
-          "id": "0d9bdbe090e0225f",
-          "title": "Geospatial Analyst",
-          "company": "Vantor",
-          "posted_at": "2026-01-31T02:45:04.205Z"
-        },
-        {
-          "id": "9fe4ae73555c6bad",
-          "title": "Assoc Analyst Technology",
-          "company": "Medline",
-          "posted_at": "2026-01-31T02:45:06.045Z"
-        },
-        {
-          "id": "11ea62eaa75f23e9",
-          "title": "Software Engineer 1 - Aws",
-          "company": "The Travelers Companies",
-          "posted_at": "2026-01-31T02:45:07.871Z"
-        },
-        {
-          "id": "180d635026e868b1",
-          "title": "Associate Game Designer - Technical - Contingent",
-          "company": "PlayStation",
-          "posted_at": "2026-01-31T02:45:09.689Z"
-        },
-        {
-          "id": "d030af9ec83298aa",
-          "title": "Associate Technical Consultant - ServiceNow",
-          "company": "Perficient",
-          "posted_at": "2026-01-31T02:45:11.513Z"
-        },
-        {
-          "id": "c7d2e232b6c07863",
-          "title": "Software Engineer Support Analyst Graduate",
-          "company": "Hewlett Packard Enterprise",
-          "posted_at": "2026-01-31T02:45:15.162Z"
-        },
         {
           "id": "70c09c7f2bc59ee8",
           "title": "Field Application Engineer – New College Graduate - Ncg",
@@ -731,12 +696,54 @@
           "title": "Analyst - Government & Public Services - AI & Data Engineering",
           "company": "Deloitte",
           "posted_at": "2026-01-31T02:45:25.553Z"
+        },
+        {
+          "id": "5add81740bbeecdf",
+          "title": "Research Assistant in Geomorphology-GEOSCI",
+          "company": "PennState University",
+          "posted_at": "2026-01-31T03:40:18.199Z"
+        },
+        {
+          "id": "b5235678ed5259bc",
+          "title": "Product Analyst-Gen AI Automation",
+          "company": "United Parcel Service (UPS)",
+          "posted_at": "2026-01-31T03:40:19.963Z"
+        },
+        {
+          "id": "3349a94aa13679ea",
+          "title": "Business Systems Analyst - International",
+          "company": "Uline",
+          "posted_at": "2026-01-31T03:40:21.784Z"
+        },
+        {
+          "id": "43e1149e47835ad1",
+          "title": "Software Engineer 1 - Builder",
+          "company": "Amazon",
+          "posted_at": "2026-01-31T03:40:23.628Z"
+        },
+        {
+          "id": "82269d1f7cd64b5a",
+          "title": "Software Engineer 1",
+          "company": "Cox",
+          "posted_at": "2026-01-31T03:40:25.421Z"
+        },
+        {
+          "id": "785de85c3cb34f4c",
+          "title": "Associate Systems Analyst-IT Sales & Trade Portfolio",
+          "company": "Conagra Brands",
+          "posted_at": "2026-01-31T03:40:27.231Z"
+        },
+        {
+          "id": "7bd1df8c51556ab7",
+          "title": "GM, Surfaces Personalization",
+          "company": "spotify",
+          "posted_at": "2026-01-31T03:40:32.140Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 102,
+      "count": 103,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -839,15 +846,10 @@
         "d5fd462a9297a0fb",
         "947a9feaa178945a",
         "91dc47e805122982",
-        "70c09c7f2bc59ee8"
+        "70c09c7f2bc59ee8",
+        "7bd1df8c51556ab7"
       ],
       "recent_jobs": [
-        {
-          "id": "1fb4eb94302a8603",
-          "title": "Software Engineer, CI/CD",
-          "company": "vercel",
-          "posted_at": "2026-01-30T22:50:30.748Z"
-        },
         {
           "id": "1e51b6d30bc3b079",
           "title": "Account Executive, Enterprise - Figma Weave (New York, United States)",
@@ -901,12 +903,18 @@
           "title": "Field Application Engineer – New College Graduate - Ncg",
           "company": "Sandisk",
           "posted_at": "2026-01-31T02:45:16.915Z"
+        },
+        {
+          "id": "7bd1df8c51556ab7",
+          "title": "GM, Surfaces Personalization",
+          "company": "spotify",
+          "posted_at": "2026-01-31T03:40:32.140Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 185,
+      "count": 188,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -1092,27 +1100,12 @@
         "d0221afebabf65b1",
         "0caa0c3e33b678ac",
         "91dc47e805122982",
-        "76e2b6a6ebb8b7c7"
+        "76e2b6a6ebb8b7c7",
+        "6f237fae3da21a4d",
+        "0e2bba7365478113",
+        "36a314fad5b04fdc"
       ],
       "recent_jobs": [
-        {
-          "id": "b510b7ffa0192f5a",
-          "title": "Future Opportunities: Early Career Sales Talent",
-          "company": "gusto",
-          "posted_at": "2026-01-30T23:15:13.048Z"
-        },
-        {
-          "id": "32865b0c6ae53053",
-          "title": "Technology Analyst Program",
-          "company": "Fiserv",
-          "posted_at": "2026-01-30T23:15:36.512Z"
-        },
-        {
-          "id": "16a872da8e3ea057",
-          "title": "Data Scientist 1: Network and Contracts",
-          "company": "Oscar Health",
-          "posted_at": "2026-01-30T23:32:06.555Z"
-        },
         {
           "id": "4e79685dbacb6172",
           "title": "People Technology Workday Developer",
@@ -1154,6 +1147,24 @@
           "title": "FAST Configuration Analyst",
           "company": "Capco",
           "posted_at": "2026-01-31T01:01:15.286Z"
+        },
+        {
+          "id": "6f237fae3da21a4d",
+          "title": "Technical Recruiter, Data Science",
+          "company": "figma",
+          "posted_at": "2026-01-31T03:40:11.522Z"
+        },
+        {
+          "id": "0e2bba7365478113",
+          "title": "Entry-Level Data Analyst",
+          "company": "Camping World",
+          "posted_at": "2026-01-31T03:40:13.315Z"
+        },
+        {
+          "id": "36a314fad5b04fdc",
+          "title": "Litigation and Risk Counsel",
+          "company": "brex",
+          "posted_at": "2026-01-31T03:40:40.155Z"
         }
       ]
     },
@@ -1774,25 +1785,25 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191",
-        "title": "Engineer 1 – Senior Engineer – Senior Engineer 2 – Principal Engineer System Protection - Principal Engineer System Protection",
-        "company": "Berkshire Hathaway Energy",
+        "job_id": "www-brex-com-careers-8360086002",
+        "title": "Tax Director",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T02:45:01.799Z"
+        "timestamp": "2026-01-31T03:40:10.629Z"
       },
       {
-        "job_id": "jobs-lever-co-spotify-0d21c06c-31f7-4898-b34b-b7bcd1518335",
-        "title": "Senior Staff Machine Learning Engineer - Home",
-        "company": "spotify",
+        "job_id": "www-brex-com-careers-8307573002",
+        "title": "Tax Director",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T02:45:01.799Z"
+        "timestamp": "2026-01-31T03:40:10.629Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8350839002",
-        "title": "Senior Contracts Manager, Procurement and AI",
-        "company": "airtable",
+        "job_id": "boards-greenhouse-io-figma-jobs-5739002004",
+        "title": "GTM Strategy Manager ",
+        "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T02:45:01.799Z"
+        "timestamp": "2026-01-31T03:40:10.630Z"
       }
     ],
     "already_posted": [],
@@ -1803,98 +1814,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.789Z"
+        "timestamp": "2026-01-31T03:40:10.619Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.790Z"
+        "timestamp": "2026-01-31T03:40:10.619Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.790Z"
+        "timestamp": "2026-01-31T03:40:10.620Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.790Z"
+        "timestamp": "2026-01-31T03:40:10.620Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.790Z"
+        "timestamp": "2026-01-31T03:40:10.620Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.791Z"
+        "timestamp": "2026-01-31T03:40:10.620Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.791Z"
+        "timestamp": "2026-01-31T03:40:10.621Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.791Z"
+        "timestamp": "2026-01-31T03:40:10.621Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.791Z"
+        "timestamp": "2026-01-31T03:40:10.621Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.792Z"
+        "timestamp": "2026-01-31T03:40:10.621Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.792Z"
+        "timestamp": "2026-01-31T03:40:10.622Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.792Z"
+        "timestamp": "2026-01-31T03:40:10.622Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.792Z"
+        "timestamp": "2026-01-31T03:40:10.622Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T02:45:01.792Z"
+        "timestamp": "2026-01-31T03:40:10.622Z"
       }
     ]
   }
