@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-31T06:53:53.556Z",
+  "generated": "2026-01-31T07:19:04.988Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T06:53:53.556Z",
-  "period_end": "2026-01-31T06:53:53.556Z",
+  "period_start": "2026-01-24T07:19:04.988Z",
+  "period_end": "2026-01-31T07:19:04.988Z",
   "summary": {
-    "total_jobs_posted": 1082,
-    "unique_jobs": 918,
-    "multi_channel_postings": 328,
-    "unique_multi_channel_jobs": 164,
+    "total_jobs_posted": 1096,
+    "unique_jobs": 928,
+    "multi_channel_postings": 336,
+    "unique_multi_channel_jobs": 168,
     "failed_postings": 0,
     "filtered_jobs": 16,
     "channels_active": 4
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 716,
+      "count": 723,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -732,51 +732,16 @@
         "54888438fdb90bf0",
         "96557dce390e3b9f",
         "a4f6137a7281d3fe",
-        "1f96889daf69b4be"
+        "1f96889daf69b4be",
+        "ea2e876ff152d6e9",
+        "4170992ffd92f586",
+        "25a1db86d32f5144",
+        "b16dd00ccbd75f6b",
+        "bde8c6c8b3ce43e7",
+        "ef8e7a78787892c1",
+        "78388b153e4387fd"
       ],
       "recent_jobs": [
-        {
-          "id": "2c55805654a54a82",
-          "title": "Business Data Analyst",
-          "company": "Certik",
-          "posted_at": "2026-01-31T06:35:50.461Z"
-        },
-        {
-          "id": "a0a4e4472596def1",
-          "title": "Backend Engineer  - Data Infrastructure",
-          "company": "spotify",
-          "posted_at": "2026-01-31T06:35:54.166Z"
-        },
-        {
-          "id": "a298a948c0f083d3",
-          "title": "Consulting Associate - Engineering or Geology",
-          "company": "ERM",
-          "posted_at": "2026-01-31T06:53:22.660Z"
-        },
-        {
-          "id": "d2107bba30165518",
-          "title": "Atc – Software and Platform Analyst",
-          "company": "Accenture",
-          "posted_at": "2026-01-31T06:53:24.480Z"
-        },
-        {
-          "id": "6edb672f8cc03222",
-          "title": "Research Scientist Graduate - 3D/4D Generation - 2026 Start",
-          "company": "ByteDance",
-          "posted_at": "2026-01-31T06:53:28.079Z"
-        },
-        {
-          "id": "d57503037fda7723",
-          "title": "Software Engineer - Manufacturing Integration",
-          "company": "Voyager Technologies",
-          "posted_at": "2026-01-31T06:53:29.861Z"
-        },
-        {
-          "id": "54888438fdb90bf0",
-          "title": "Software Engineer - AI Automation - Internal Tools",
-          "company": "Voyager Technologies",
-          "posted_at": "2026-01-31T06:53:31.706Z"
-        },
         {
           "id": "96557dce390e3b9f",
           "title": "Software Developer",
@@ -794,12 +759,54 @@
           "title": "AI Software Engineer - Agents - Ace",
           "company": "Voyager Technologies",
           "posted_at": "2026-01-31T06:53:40.125Z"
+        },
+        {
+          "id": "ea2e876ff152d6e9",
+          "title": "Software Engineer - Full Stack Entry - Mid",
+          "company": "KBR",
+          "posted_at": "2026-01-31T07:18:37.483Z"
+        },
+        {
+          "id": "4170992ffd92f586",
+          "title": "Android Sales Expert",
+          "company": "2020 Companies",
+          "posted_at": "2026-01-31T07:18:41.150Z"
+        },
+        {
+          "id": "25a1db86d32f5144",
+          "title": "Appian Associate Technical Consultant",
+          "company": "Perficient",
+          "posted_at": "2026-01-31T07:18:42.935Z"
+        },
+        {
+          "id": "b16dd00ccbd75f6b",
+          "title": "Associate – Application Engineer",
+          "company": "BlackRock",
+          "posted_at": "2026-01-31T07:18:44.761Z"
+        },
+        {
+          "id": "bde8c6c8b3ce43e7",
+          "title": "Associate Software Engineer (Temporary)",
+          "company": "Warner Bros.",
+          "posted_at": "2026-01-31T07:18:48.283Z"
+        },
+        {
+          "id": "ef8e7a78787892c1",
+          "title": "FP&A Analyst, Strategic Planning",
+          "company": "spotify",
+          "posted_at": "2026-01-31T07:18:53.039Z"
+        },
+        {
+          "id": "78388b153e4387fd",
+          "title": "AI Developer I- Call Center",
+          "company": "First Financial Bank",
+          "posted_at": "2026-01-31T07:18:56.703Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 113,
+      "count": 116,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -913,27 +920,12 @@
         "8c695a7f82eb486f",
         "2c55805654a54a82",
         "a0a4e4472596def1",
-        "d2107bba30165518"
+        "d2107bba30165518",
+        "694389e60c237705",
+        "b16dd00ccbd75f6b",
+        "ef8e7a78787892c1"
       ],
       "recent_jobs": [
-        {
-          "id": "8252f547fa83505d",
-          "title": "Litigation and Risk Counsel",
-          "company": "brex",
-          "posted_at": "2026-01-31T04:26:02.253Z"
-        },
-        {
-          "id": "93a9ac54665ad7f2",
-          "title": "Software Engineer II, Frontend Platform ",
-          "company": "brex",
-          "posted_at": "2026-01-31T04:26:17.736Z"
-        },
-        {
-          "id": "2419f2f2cf46a801",
-          "title": "Accounting Intern",
-          "company": "coinbase",
-          "posted_at": "2026-01-31T05:53:30.711Z"
-        },
         {
           "id": "9a6e9592e77db8a5",
           "title": "Associate Technical Consultant",
@@ -975,12 +967,30 @@
           "title": "Atc – Software and Platform Analyst",
           "company": "Accenture",
           "posted_at": "2026-01-31T06:53:24.480Z"
+        },
+        {
+          "id": "694389e60c237705",
+          "title": "Data Scientist I - Hybrid",
+          "company": "Radian",
+          "posted_at": "2026-01-31T07:18:30.966Z"
+        },
+        {
+          "id": "b16dd00ccbd75f6b",
+          "title": "Associate – Application Engineer",
+          "company": "BlackRock",
+          "posted_at": "2026-01-31T07:18:44.761Z"
+        },
+        {
+          "id": "ef8e7a78787892c1",
+          "title": "FP&A Analyst, Strategic Planning",
+          "company": "spotify",
+          "posted_at": "2026-01-31T07:18:53.039Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 202,
+      "count": 205,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -1183,27 +1193,12 @@
         "eee9c6ee0cf3d957",
         "0c8cad67d126641e",
         "1b5ace6c3c1105dc",
-        "e576c29ddc58fb7f"
+        "e576c29ddc58fb7f",
+        "e2fa5362fd609baf",
+        "2c7054aba4012b1e",
+        "694389e60c237705"
       ],
       "recent_jobs": [
-        {
-          "id": "cd17edfa6a30656f",
-          "title": "Data Scientist, Product Analytics",
-          "company": "airtable",
-          "posted_at": "2026-01-31T05:25:27.879Z"
-        },
-        {
-          "id": "a3eb69aa2e36b4b8",
-          "title": "NetSuite Implementation Consultant",
-          "company": "Crowe",
-          "posted_at": "2026-01-31T05:25:55.412Z"
-        },
-        {
-          "id": "ba5cc96531fffe2b",
-          "title": "Technical Consultant",
-          "company": "brex",
-          "posted_at": "2026-01-31T05:53:37.246Z"
-        },
         {
           "id": "2ffd60db5d353b4c",
           "title": "Associate Technical Consultant",
@@ -1245,12 +1240,30 @@
           "title": "Predoctoral Scholar",
           "company": "University of Chicago",
           "posted_at": "2026-01-31T06:53:45.023Z"
+        },
+        {
+          "id": "e2fa5362fd609baf",
+          "title": "Manufacturing Data Analyst",
+          "company": "PPG Industries",
+          "posted_at": "2026-01-31T07:18:27.365Z"
+        },
+        {
+          "id": "2c7054aba4012b1e",
+          "title": "Data Scientist",
+          "company": "CACI",
+          "posted_at": "2026-01-31T07:18:29.123Z"
+        },
+        {
+          "id": "694389e60c237705",
+          "title": "Data Scientist I - Hybrid",
+          "company": "Radian",
+          "posted_at": "2026-01-31T07:18:30.966Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 51,
+      "count": 52,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1302,15 +1315,10 @@
         "2ffd60db5d353b4c",
         "2e44a2bb4b516fc8",
         "3207ebb8af5e0a7d",
-        "1b5ace6c3c1105dc"
+        "1b5ace6c3c1105dc",
+        "ea2e876ff152d6e9"
       ],
       "recent_jobs": [
-        {
-          "id": "d030af9ec83298aa",
-          "title": "Associate Technical Consultant - ServiceNow",
-          "company": "Perficient",
-          "posted_at": "2026-01-31T02:45:11.513Z"
-        },
         {
           "id": "e5040725a1a333a4",
           "title": "Full-Stack Software Engineer – New Grad",
@@ -1364,6 +1372,12 @@
           "title": "Technical Consultant",
           "company": "brex",
           "posted_at": "2026-01-31T06:53:15.883Z"
+        },
+        {
+          "id": "ea2e876ff152d6e9",
+          "title": "Software Engineer - Full Stack Entry - Mid",
+          "company": "KBR",
+          "posted_at": "2026-01-31T07:18:37.483Z"
         }
       ]
     }
@@ -1874,18 +1888,18 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-trustworthy-artificial-intelligence-2_r-089885-1",
-        "title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
-        "company": "Prairie View A&M University",
+        "job_id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808",
+        "title": "Senior Software Engineer",
+        "company": "Oracle",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T06:53:15.340Z"
+        "timestamp": "2026-01-31T07:18:26.815Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5739572004",
-        "title": "Sales Enablement Manager ",
-        "company": "figma",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-7968990002",
+        "title": "People Analytics Lead",
+        "company": "airtable",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T06:53:15.340Z"
+        "timestamp": "2026-01-31T07:18:26.815Z"
       }
     ],
     "already_posted": [],
@@ -1896,98 +1910,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.328Z"
+        "timestamp": "2026-01-31T07:18:26.803Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.328Z"
+        "timestamp": "2026-01-31T07:18:26.803Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.328Z"
+        "timestamp": "2026-01-31T07:18:26.804Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.329Z"
+        "timestamp": "2026-01-31T07:18:26.804Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.329Z"
+        "timestamp": "2026-01-31T07:18:26.804Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.329Z"
+        "timestamp": "2026-01-31T07:18:26.805Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.329Z"
+        "timestamp": "2026-01-31T07:18:26.805Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.330Z"
+        "timestamp": "2026-01-31T07:18:26.805Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.330Z"
+        "timestamp": "2026-01-31T07:18:26.805Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.330Z"
+        "timestamp": "2026-01-31T07:18:26.806Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.330Z"
+        "timestamp": "2026-01-31T07:18:26.806Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.331Z"
+        "timestamp": "2026-01-31T07:18:26.806Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.331Z"
+        "timestamp": "2026-01-31T07:18:26.806Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T06:53:15.331Z"
+        "timestamp": "2026-01-31T07:18:26.807Z"
       }
     ]
   }
