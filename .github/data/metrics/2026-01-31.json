@@ -1,11 +1,11 @@
 {
-  "generated": "2026-01-31T16:16:05.219Z",
+  "generated": "2026-01-31T16:33:18.692Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T16:16:05.219Z",
-  "period_end": "2026-01-31T16:16:05.219Z",
+  "period_start": "2026-01-24T16:33:18.692Z",
+  "period_end": "2026-01-31T16:33:18.692Z",
   "summary": {
-    "total_jobs_posted": 1476,
-    "unique_jobs": 1247,
+    "total_jobs_posted": 1486,
+    "unique_jobs": 1257,
     "multi_channel_postings": 458,
     "unique_multi_channel_jobs": 229,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 987,
+      "count": 994,
       "jobs": [
         "745bcc3e8c69148b",
         "6d8e9f56d3faf57d",
@@ -1003,51 +1003,16 @@
         "2eeabc4d5e81621c",
         "d9dcadbd1806b987",
         "39b0f6bb80eda677",
-        "baaa80f457de33f1"
+        "baaa80f457de33f1",
+        "d6ee5dc5285cde42",
+        "675924a641ca7ca2",
+        "d8e4046228ddc1f0",
+        "77176bcd8e16c90d",
+        "9ecea6b24f5a496c",
+        "b75a27297be8ec1e",
+        "f8dfdfb254a97143"
       ],
       "recent_jobs": [
-        {
-          "id": "1efca1133fe66b53",
-          "title": "Integration Engineer, AI",
-          "company": "figma",
-          "posted_at": "2026-01-31T15:58:19.037Z"
-        },
-        {
-          "id": "2d7774b91bcf8821",
-          "title": "Analyst – Data Integration",
-          "company": "Strata Decision Technology",
-          "posted_at": "2026-01-31T16:15:32.949Z"
-        },
-        {
-          "id": "bc0a20b10663c94f",
-          "title": "Software Engineer 1 - Thermal Camera",
-          "company": "Magna",
-          "posted_at": "2026-01-31T16:15:34.794Z"
-        },
-        {
-          "id": "c8357eb905fbf4c2",
-          "title": "Software Engineer – Early Career",
-          "company": "Affirm",
-          "posted_at": "2026-01-31T16:15:36.613Z"
-        },
-        {
-          "id": "5ea042d0c83e7cb5",
-          "title": "Associate Solutions Consultant",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:15:40.221Z"
-        },
-        {
-          "id": "fa9000ba6d208039",
-          "title": "Account Executive, Strategic",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:15:42.060Z"
-        },
-        {
-          "id": "2eeabc4d5e81621c",
-          "title": "Software Engineer, C++",
-          "company": "figma",
-          "posted_at": "2026-01-31T16:15:43.964Z"
-        },
         {
           "id": "d9dcadbd1806b987",
           "title": "Technology - Application Development",
@@ -1065,12 +1030,54 @@
           "title": "Technology - Application Development - Full Time Analyst",
           "company": "Citi",
           "posted_at": "2026-01-31T16:15:52.317Z"
+        },
+        {
+          "id": "d6ee5dc5285cde42",
+          "title": "Software Engineer, AI Product",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:32:56.088Z"
+        },
+        {
+          "id": "675924a641ca7ca2",
+          "title": "Software Engineer, Machine Learning",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:32:57.978Z"
+        },
+        {
+          "id": "d8e4046228ddc1f0",
+          "title": "Software Engineer, Production Engineering",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:33:02.978Z"
+        },
+        {
+          "id": "77176bcd8e16c90d",
+          "title": "Security Engineer",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:33:04.832Z"
+        },
+        {
+          "id": "9ecea6b24f5a496c",
+          "title": "Account Executive, Federal",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:33:06.676Z"
+        },
+        {
+          "id": "b75a27297be8ec1e",
+          "title": "Account Executive, Mid-Market",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:33:08.483Z"
+        },
+        {
+          "id": "f8dfdfb254a97143",
+          "title": "Early Career Software Engineer",
+          "company": "Citizen Health",
+          "posted_at": "2026-01-31T16:33:10.278Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 260,
+      "count": 263,
       "jobs": [
         "4024fc363d657d74",
         "cd5532b5c0e88185",
@@ -1331,27 +1338,12 @@
         "f04cc1be6994681a",
         "4c0f499cb2ee204b",
         "37274976b5ddf1fd",
-        "7d3a23fe8184259e"
+        "7d3a23fe8184259e",
+        "43a19ec07b2678c7",
+        "fa177833c3f56d3d",
+        "95c2490410f30829"
       ],
       "recent_jobs": [
-        {
-          "id": "58db3b829ad1ac45",
-          "title": "Business Intelligence Developer 1",
-          "company": "Sierra Space",
-          "posted_at": "2026-01-31T13:25:21.862Z"
-        },
-        {
-          "id": "562454cec2b487f7",
-          "title": "Associate Data Analyst",
-          "company": "SageSure",
-          "posted_at": "2026-01-31T13:25:23.699Z"
-        },
-        {
-          "id": "e182a05ff27e8581",
-          "title": "Data Analyst",
-          "company": "Magna",
-          "posted_at": "2026-01-31T13:53:29.890Z"
-        },
         {
           "id": "7ee5606f6e309c91",
           "title": "Data Scientist - Algorithms Pricing - Optimization",
@@ -1393,6 +1385,24 @@
           "title": "Data Scientist  ",
           "company": "figma",
           "posted_at": "2026-01-31T16:15:57.068Z"
+        },
+        {
+          "id": "43a19ec07b2678c7",
+          "title": "Software Engineer, Graphics & Media",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:32:47.372Z"
+        },
+        {
+          "id": "fa177833c3f56d3d",
+          "title": "Software Engineer, Growth & Monetization",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:32:49.363Z"
+        },
+        {
+          "id": "95c2490410f30829",
+          "title": "Data Engineer",
+          "company": "figma",
+          "posted_at": "2026-01-31T16:32:51.204Z"
         }
       ]
     },
@@ -2268,18 +2278,18 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1",
-        "title": "Postdoctoral Research Associate",
-        "company": "Texas A&M University - Corpus Christi",
+        "job_id": "jj-wd5-myworkdayjobs-com-jj-job-titusville-new-jersey-united-states-of-america-postdoctoral-researcher-computer-vision-ai-ml-radiology-oncology_r-042914-1",
+        "title": "Postdoctoral Researcher - Computer Vision - AI/ML Radiology and Oncology",
+        "company": "Johnson & Johnson",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T16:15:32.385Z"
+        "timestamp": "2026-01-31T16:32:46.695Z"
       },
       {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-cosmological-physics-advanced-computing-cpac-_421370",
-        "title": "Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC",
-        "company": "Argonne National Laboratory",
+        "job_id": "jobs-lever-co-nominal-b34c4e06-2965-4ced-ad55-ebe66253b7b6",
+        "title": "Accounting Manager",
+        "company": "nominal",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T16:15:32.385Z"
+        "timestamp": "2026-01-31T16:32:46.695Z"
       }
     ],
     "already_posted": [],
@@ -2290,98 +2300,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.371Z"
+        "timestamp": "2026-01-31T16:32:46.682Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.371Z"
+        "timestamp": "2026-01-31T16:32:46.682Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.372Z"
+        "timestamp": "2026-01-31T16:32:46.682Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.372Z"
+        "timestamp": "2026-01-31T16:32:46.683Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.373Z"
+        "timestamp": "2026-01-31T16:32:46.683Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.373Z"
+        "timestamp": "2026-01-31T16:32:46.684Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.373Z"
+        "timestamp": "2026-01-31T16:32:46.684Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.373Z"
+        "timestamp": "2026-01-31T16:32:46.684Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.374Z"
+        "timestamp": "2026-01-31T16:32:46.685Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.374Z"
+        "timestamp": "2026-01-31T16:32:46.685Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.374Z"
+        "timestamp": "2026-01-31T16:32:46.685Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.375Z"
+        "timestamp": "2026-01-31T16:32:46.685Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.375Z"
+        "timestamp": "2026-01-31T16:32:46.686Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:15:32.375Z"
+        "timestamp": "2026-01-31T16:32:46.686Z"
       }
     ]
   }
