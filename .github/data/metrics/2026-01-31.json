@@ -1,11 +1,11 @@
 {
-  "generated": "2026-01-31T22:48:17.958Z",
+  "generated": "2026-01-31T23:02:23.557Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T22:48:17.958Z",
-  "period_end": "2026-01-31T22:48:17.958Z",
+  "period_start": "2026-01-24T23:02:23.557Z",
+  "period_end": "2026-01-31T23:02:23.557Z",
   "summary": {
-    "total_jobs_posted": 1751,
-    "unique_jobs": 1497,
+    "total_jobs_posted": 1761,
+    "unique_jobs": 1507,
     "multi_channel_postings": 508,
     "unique_multi_channel_jobs": 254,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1215,
+      "count": 1225,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1231,68 +1231,78 @@
         "79810f049c9d7f6f",
         "226ef20c2ddfd491",
         "9377290890d45289",
-        "cff2d9c11b0318dd"
+        "cff2d9c11b0318dd",
+        "1350e279e5527b88",
+        "064fd3e3e90f4bac",
+        "e79f1ca4b39a8be8",
+        "259f25d1b8205753",
+        "98dcd17f26272d45",
+        "1409992ce6f78208",
+        "dbdfa9eec3c1c783",
+        "0883cd8583ddb7c6",
+        "27202554263f1815",
+        "1b9c96ae99f36736"
       ],
       "recent_jobs": [
         {
-          "id": "be7131071251c943",
-          "title": "Fullstack Software Engineer Graduate - Ads Interface and Platform - BS/MS",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T22:32:56.297Z"
+          "id": "1350e279e5527b88",
+          "title": "Developer Campaign Marketer, Claude Code",
+          "company": "anthropic",
+          "posted_at": "2026-01-31T23:01:54.533Z"
         },
         {
-          "id": "e77e05909dc43cd1",
-          "title": "Digital Technology Engineer",
-          "company": "NTT Data",
-          "posted_at": "2026-01-31T22:32:58.160Z"
+          "id": "064fd3e3e90f4bac",
+          "title": "AI ML Engineer - RTL Power Optimization",
+          "company": "NVIDIA",
+          "posted_at": "2026-01-31T23:01:56.376Z"
         },
         {
-          "id": "60292f7ac3bf4b86",
-          "title": "Software Engineer Graduate - AI Platform - 2026 Start",
+          "id": "e79f1ca4b39a8be8",
+          "title": "Graduate Software Engineer - AI",
+          "company": "Loop",
+          "posted_at": "2026-01-31T23:01:58.322Z"
+        },
+        {
+          "id": "259f25d1b8205753",
+          "title": "2026 New Grad - Software Engineer - Full-Stack",
+          "company": "Loop",
+          "posted_at": "2026-01-31T23:02:00.158Z"
+        },
+        {
+          "id": "98dcd17f26272d45",
+          "title": "AI / Automation & Governance Owner",
+          "company": "gusto",
+          "posted_at": "2026-01-31T23:02:01.977Z"
+        },
+        {
+          "id": "1409992ce6f78208",
+          "title": "Head of Azure Partnership",
+          "company": "anthropic",
+          "posted_at": "2026-01-31T23:02:06.980Z"
+        },
+        {
+          "id": "dbdfa9eec3c1c783",
+          "title": "Minor League Affiliate Technology Coordinator",
+          "company": "Major League Baseball",
+          "posted_at": "2026-01-31T23:02:08.892Z"
+        },
+        {
+          "id": "0883cd8583ddb7c6",
+          "title": "Associate Software Engineer",
+          "company": "Metron",
+          "posted_at": "2026-01-31T23:02:10.843Z"
+        },
+        {
+          "id": "27202554263f1815",
+          "title": "Large Model Optimization Engineer Graduate - PICO Perception - 2026 Start (to be cleaned)",
           "company": "ByteDance",
-          "posted_at": "2026-01-31T22:32:59.965Z"
+          "posted_at": "2026-01-31T23:02:12.659Z"
         },
         {
-          "id": "b02796054d42dde0",
-          "title": "Programmer Analyst",
-          "company": "Orion Systems Integrators",
-          "posted_at": "2026-01-31T22:47:40.275Z"
-        },
-        {
-          "id": "f4e29bb5988b77d7",
-          "title": "Account Executive (USA)",
-          "company": "supabase",
-          "posted_at": "2026-01-31T22:47:42.204Z"
-        },
-        {
-          "id": "842e14601afb5f15",
-          "title": "Software Engineer - AI Productization",
-          "company": "Lenovo",
-          "posted_at": "2026-01-31T22:47:45.904Z"
-        },
-        {
-          "id": "79810f049c9d7f6f",
-          "title": "Recruiting Coordinator",
-          "company": "nominal",
-          "posted_at": "2026-01-31T22:47:47.863Z"
-        },
-        {
-          "id": "226ef20c2ddfd491",
-          "title": "Software Developer - Asset Management - SWE I','Government",
-          "company": "AT&T",
-          "posted_at": "2026-01-31T22:47:51.677Z"
-        },
-        {
-          "id": "9377290890d45289",
-          "title": "Japanese Speaker - AI Trainer",
-          "company": "Invisible Technologies",
-          "posted_at": "2026-01-31T22:47:53.488Z"
-        },
-        {
-          "id": "cff2d9c11b0318dd",
-          "title": "Perception and Autonomy Engineer",
-          "company": "Saronic",
-          "posted_at": "2026-01-31T22:48:00.275Z"
+          "id": "1b9c96ae99f36736",
+          "title": "Advanced Degree Software Engineer - Fusion",
+          "company": "Oracle",
+          "posted_at": "2026-01-31T23:02:14.699Z"
         }
       ]
     },
@@ -2543,113 +2553,113 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-research-associate-machine-learning-in-high-energy-physics-detector-operations_421270",
-        "title": "Postdoctoral Research Associate",
-        "company": "Argonne National Laboratory",
+        "job_id": "jobs-ashbyhq-com-supabase-4ac110be-208a-4d68-8db2-6c170867b8e7",
+        "title": "Customer Solution Architect Team Lead (EMEA)",
+        "company": "supabase",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T22:47:39.315Z"
+        "timestamp": "2026-01-31T23:01:53.861Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
+        "title": "Staff Research Engineer - Music",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T23:01:53.861Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
+        "title": "Senior Research Engineer - Music",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T23:01:53.861Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-e7ead7e0-5033-4058-9bbf-006811a5147e",
+        "title": "Principal Research Scientist - Music",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T23:01:53.861Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-33114d31-b3d0-4bbb-bf7c-ab32596e8969",
+        "title": "Staff Research Scientist - Music",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T23:01:53.861Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
+        "title": "Senior Research Scientist - Music",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T23:01:53.861Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a",
+        "title": "Senior Content Accountant",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T23:01:53.861Z"
       }
     ],
     "already_posted": [],
     "invalid_data": [],
     "other": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026189008",
-        "title": "Developer Campaign Marketer, Claude Code",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.300Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
-        "title": "Head of Azure Partnership",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.301Z"
-      },
-      {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.301Z"
-      },
-      {
-        "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
-        "title": "AI ML Engineer - RTL Power Optimization",
-        "company": "NVIDIA",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.302Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
-        "title": "Graduate Software Engineer - AI",
-        "company": "Loop",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.303Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
-        "title": "2026 New Grad - Software Engineer - Full-Stack",
-        "company": "Loop",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.303Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
-        "title": "AI / Automation & Governance Owner",
-        "company": "gusto",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.303Z"
+        "timestamp": "2026-01-31T23:01:53.851Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.303Z"
+        "timestamp": "2026-01-31T23:01:53.852Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.304Z"
+        "timestamp": "2026-01-31T23:01:53.852Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.304Z"
+        "timestamp": "2026-01-31T23:01:53.853Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.304Z"
+        "timestamp": "2026-01-31T23:01:53.853Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.305Z"
+        "timestamp": "2026-01-31T23:01:53.853Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.305Z"
+        "timestamp": "2026-01-31T23:01:53.854Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T22:47:39.305Z"
+        "timestamp": "2026-01-31T23:01:53.854Z"
       }
     ]
   }
