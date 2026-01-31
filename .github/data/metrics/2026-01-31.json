@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-31T18:15:14.429Z",
+  "generated": "2026-01-31T18:33:42.039Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T18:15:14.429Z",
-  "period_end": "2026-01-31T18:15:14.429Z",
+  "period_start": "2026-01-24T18:33:42.039Z",
+  "period_end": "2026-01-31T18:33:42.039Z",
   "summary": {
-    "total_jobs_posted": 1567,
-    "unique_jobs": 1327,
-    "multi_channel_postings": 480,
-    "unique_multi_channel_jobs": 240,
+    "total_jobs_posted": 1579,
+    "unique_jobs": 1337,
+    "multi_channel_postings": 484,
+    "unique_multi_channel_jobs": 242,
     "failed_postings": 0,
-    "filtered_jobs": 16,
+    "filtered_jobs": 23,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1059,
+      "count": 1068,
       "jobs": [
         "745bcc3e8c69148b",
         "6d8e9f56d3faf57d",
@@ -1075,74 +1075,83 @@
         "ffffe1d133a9c5c2",
         "e3203c589c4f5b0b",
         "4f7ddf5669f5fbbd",
-        "c5f61b22ef63839d"
+        "c5f61b22ef63839d",
+        "6cf6aa83e12b6dc9",
+        "14cdb5e080ed500e",
+        "ec81efb5b3dbc967",
+        "651acb5b0014c788",
+        "802145304bb83476",
+        "d97a14a496912895",
+        "454c483370523d70",
+        "0e8436e4db7bd580",
+        "07db342d467cb238"
       ],
       "recent_jobs": [
-        {
-          "id": "a7462b8603972a7f",
-          "title": "Research Scientist in Large Language Model - Doubao-PhD Graduates-2025 Start",
-          "company": "ByteDance",
-          "posted_at": "2026-01-31T17:59:21.376Z"
-        },
-        {
-          "id": "d970c8e4bb430b59",
-          "title": "Analyst Advanced Analytics",
-          "company": "Horizon media",
-          "posted_at": "2026-01-31T18:14:37.429Z"
-        },
-        {
-          "id": "82bb5d3c54c1eab1",
-          "title": "Software Engineer - Infrastructure",
-          "company": "nominal",
-          "posted_at": "2026-01-31T18:14:41.189Z"
-        },
-        {
-          "id": "39049c0ee47d97bc",
-          "title": "Application Engineer - IT Racks and Cabinets",
-          "company": "Vertiv",
-          "posted_at": "2026-01-31T18:14:44.927Z"
-        },
-        {
-          "id": "04b33d6153ff08d9",
-          "title": "Investments Operational Support Analyst - Document/Data Management",
-          "company": "Pacific Life",
-          "posted_at": "2026-01-31T18:14:46.833Z"
-        },
-        {
-          "id": "4bdb50fe476e6f40",
-          "title": "Software Engineer - Inference AI/ML",
-          "company": "CoreWeave",
-          "posted_at": "2026-01-31T18:14:48.618Z"
-        },
-        {
-          "id": "ffffe1d133a9c5c2",
-          "title": "University Graduate - Applied Science",
-          "company": "Adobe",
-          "posted_at": "2026-01-31T18:14:58.365Z"
-        },
-        {
-          "id": "e3203c589c4f5b0b",
-          "title": "Artificial Intelligence",
-          "company": "University of Miami",
-          "posted_at": "2026-01-31T18:15:00.449Z"
-        },
-        {
-          "id": "4f7ddf5669f5fbbd",
-          "title": "Assistant Professor - Data Science",
-          "company": "Texas A&M University - Corpus Christi",
-          "posted_at": "2026-01-31T18:15:02.337Z"
-        },
         {
           "id": "c5f61b22ef63839d",
           "title": "Data Scientist – Early Career - Research - PhD",
           "company": "Google",
           "posted_at": "2026-01-31T18:15:04.223Z"
+        },
+        {
+          "id": "6cf6aa83e12b6dc9",
+          "title": "Software Engineer",
+          "company": "Warp",
+          "posted_at": "2026-01-31T18:33:06.252Z"
+        },
+        {
+          "id": "14cdb5e080ed500e",
+          "title": "Cloud Platform Engineer I",
+          "company": "EBSCO",
+          "posted_at": "2026-01-31T18:33:10.007Z"
+        },
+        {
+          "id": "ec81efb5b3dbc967",
+          "title": "2026] Software Engineer – Early Career - Security",
+          "company": "Roblox",
+          "posted_at": "2026-01-31T18:33:11.840Z"
+        },
+        {
+          "id": "651acb5b0014c788",
+          "title": "Software Engineer I C#",
+          "company": "McDonald's",
+          "posted_at": "2026-01-31T18:33:13.932Z"
+        },
+        {
+          "id": "802145304bb83476",
+          "title": "Data Governance Specialist",
+          "company": "Steampunk",
+          "posted_at": "2026-01-31T18:33:15.751Z"
+        },
+        {
+          "id": "d97a14a496912895",
+          "title": "Transportation Planner 1",
+          "company": "Michael Baker International",
+          "posted_at": "2026-01-31T18:33:17.676Z"
+        },
+        {
+          "id": "454c483370523d70",
+          "title": "Associate Firmware Engineer",
+          "company": "Vertiv",
+          "posted_at": "2026-01-31T18:33:19.615Z"
+        },
+        {
+          "id": "0e8436e4db7bd580",
+          "title": "Entry Level Developer - Contract",
+          "company": "Equiti",
+          "posted_at": "2026-01-31T18:33:21.479Z"
+        },
+        {
+          "id": "07db342d467cb238",
+          "title": "Engineering Scientist Associate",
+          "company": "University of Texas - Austin",
+          "posted_at": "2026-01-31T18:33:28.422Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 268,
+      "count": 269,
       "jobs": [
         "4024fc363d657d74",
         "cd5532b5c0e88185",
@@ -1411,15 +1420,10 @@
         "1a1693f8179fcb77",
         "7483fc6fa26f56aa",
         "a4e951dce8aa5c2d",
-        "2868812ea2a40132"
+        "2868812ea2a40132",
+        "3ea758c2d024d1d4"
       ],
       "recent_jobs": [
-        {
-          "id": "37274976b5ddf1fd",
-          "title": "Strategic Finance, Finance Systems & Automation",
-          "company": "figma",
-          "posted_at": "2026-01-31T15:58:12.395Z"
-        },
         {
           "id": "7d3a23fe8184259e",
           "title": "Data Scientist  ",
@@ -1473,6 +1477,12 @@
           "title": "Operations Analyst",
           "company": "Fortive",
           "posted_at": "2026-01-31T18:14:53.459Z"
+        },
+        {
+          "id": "3ea758c2d024d1d4",
+          "title": "Data Engineer Graduate - Data Platform - Global Live",
+          "company": "TikTok",
+          "posted_at": "2026-01-31T18:33:33.319Z"
         }
       ]
     },
@@ -1719,7 +1729,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 67,
+      "count": 69,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1787,21 +1797,11 @@
         "2e1bc31299ef8fd9",
         "85ded0e1efc10a7a",
         "2ef9ca16bc02332a",
-        "76744a212eeaff72"
+        "76744a212eeaff72",
+        "6cf6aa83e12b6dc9",
+        "0e8436e4db7bd580"
       ],
       "recent_jobs": [
-        {
-          "id": "fdde4eb855c13abd",
-          "title": "Outbound Sales Development Representative",
-          "company": "brex",
-          "posted_at": "2026-01-31T11:01:10.625Z"
-        },
-        {
-          "id": "7dee505e21b4c552",
-          "title": "Support Specialist I (Remote)",
-          "company": "brex",
-          "posted_at": "2026-01-31T11:15:16.992Z"
-        },
         {
           "id": "19ba5a4c33925e18",
           "title": "Associate – Data Cloud Solutions",
@@ -1849,6 +1849,18 @@
           "title": "Software Development",
           "company": "Zoom",
           "posted_at": "2026-01-31T17:04:08.143Z"
+        },
+        {
+          "id": "6cf6aa83e12b6dc9",
+          "title": "Software Engineer",
+          "company": "Warp",
+          "posted_at": "2026-01-31T18:33:06.252Z"
+        },
+        {
+          "id": "0e8436e4db7bd580",
+          "title": "Entry Level Developer - Contract",
+          "company": "Equiti",
+          "posted_at": "2026-01-31T18:33:21.479Z"
         }
       ]
     }
@@ -2359,18 +2371,67 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-post-doctoral-fellow_r0003237",
-        "title": "Post-Doctoral Fellow",
-        "company": "Worcester Polytechnic Institute",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-scientific-machine-learning-for-surrogate-modeling-and-power-grid-dynamics_421104",
+        "title": "Postdoctoral Appointee",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T18:14:36.262Z"
+        "timestamp": "2026-01-31T18:33:05.629Z"
       },
       {
-        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293",
-        "title": "Software Engineer/Principal Software Engineer - Aht",
-        "company": "Northrop Grumman",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-medium-energy-physics_421234",
+        "title": "Postdoctoral Appointee - Medium Energy Physics",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T18:14:36.262Z"
+        "timestamp": "2026-01-31T18:33:05.629Z"
+      },
+      {
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-physics-informed-ai-for-microelectronics-materials_421205",
+        "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
+        "company": "Argonne National Laboratory",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T18:33:05.629Z"
+      },
+      {
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ai-for-coherent-x-ray-imaging_421292-1",
+        "title": "Postdoctoral Appointee - AI for Coherent X-ray Imaging",
+        "company": "Argonne National Laboratory",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T18:33:05.629Z"
+      },
+      {
+        "job_id": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715",
+        "title": "Postdoctoral Associate",
+        "company": "University of Maryland - College Park",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T18:33:05.629Z"
+      },
+      {
+        "job_id": "onto-wd1-myworkdayjobs-com-onto_careers-job-wilmington-ma-upton-senior-software-engineer_r-4963",
+        "title": "Senior Software Engineer",
+        "company": "Onto Innovation",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T18:33:05.629Z"
+      },
+      {
+        "job_id": "woundedwarriorproject-wd5-myworkdayjobs-com-wwp-job-jacksonville-fl-senior-salesforce-marketing-cloud-developer_r14110",
+        "title": "Senior Salesforce Marketing Cloud Developer",
+        "company": "Wounded Warrior Project",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T18:33:05.629Z"
+      },
+      {
+        "job_id": "lsu-wd1-myworkdayjobs-com-lsu-job-3255-patrick-f-taylor-hall-postdoctoral-researcher_r00109651",
+        "title": "Postdoctoral Researcher",
+        "company": "Louisiana State University (LSU)",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T18:33:05.629Z"
+      },
+      {
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-in-future-runoff-and-reservoir-evaporation-projections-for-texas-river-basins_r_00034762-1",
+        "title": "Postdoctoral Fellow in Future Runoff and Reservoir Evaporation Projections for Texas River Basins",
+        "company": "University of Texas - Austin",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T18:33:05.629Z"
       }
     ],
     "already_posted": [],
@@ -2381,98 +2442,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.248Z"
+        "timestamp": "2026-01-31T18:33:05.617Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.249Z"
+        "timestamp": "2026-01-31T18:33:05.618Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.249Z"
+        "timestamp": "2026-01-31T18:33:05.618Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.249Z"
+        "timestamp": "2026-01-31T18:33:05.619Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.250Z"
+        "timestamp": "2026-01-31T18:33:05.619Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.250Z"
+        "timestamp": "2026-01-31T18:33:05.619Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.250Z"
+        "timestamp": "2026-01-31T18:33:05.620Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.251Z"
+        "timestamp": "2026-01-31T18:33:05.620Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.251Z"
+        "timestamp": "2026-01-31T18:33:05.620Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.251Z"
+        "timestamp": "2026-01-31T18:33:05.621Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.252Z"
+        "timestamp": "2026-01-31T18:33:05.621Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.252Z"
+        "timestamp": "2026-01-31T18:33:05.621Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.252Z"
+        "timestamp": "2026-01-31T18:33:05.622Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:14:36.252Z"
+        "timestamp": "2026-01-31T18:33:05.622Z"
       }
     ]
   }
