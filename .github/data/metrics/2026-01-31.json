@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-31T15:46:16.595Z",
+  "generated": "2026-01-31T15:58:27.386Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T15:46:16.595Z",
-  "period_end": "2026-01-31T15:46:16.595Z",
+  "period_start": "2026-01-24T15:58:27.386Z",
+  "period_end": "2026-01-31T15:58:27.386Z",
   "summary": {
-    "total_jobs_posted": 1466,
-    "unique_jobs": 1236,
-    "multi_channel_postings": 460,
-    "unique_multi_channel_jobs": 230,
+    "total_jobs_posted": 1465,
+    "unique_jobs": 1237,
+    "multi_channel_postings": 456,
+    "unique_multi_channel_jobs": 228,
     "failed_postings": 0,
     "filtered_jobs": 29,
     "channels_active": 4
@@ -15,16 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 977,
+      "count": 978,
       "jobs": [
-        "2d7774b91bcf8821",
-        "f4f442f9cac04952",
-        "bc0a20b10663c94f",
-        "c8357eb905fbf4c2",
-        "fb3aa13843322bcc",
-        "d9dcadbd1806b987",
-        "39b0f6bb80eda677",
-        "baaa80f457de33f1",
         "745bcc3e8c69148b",
         "6d8e9f56d3faf57d",
         "1409992ce6f78208",
@@ -993,308 +985,84 @@
         "2ef9ca16bc02332a",
         "645773d83906c282",
         "eb521b6fa3b6e8f6",
-        "2f2ec3fbca54b2d8"
+        "2f2ec3fbca54b2d8",
+        "b1818b391f47fae5",
+        "8672996c22b226ac",
+        "2062a6d4b44440ea",
+        "0c8b62b11c601a10",
+        "7307ea78ac5036c4",
+        "c792cc640ff2247c",
+        "41024b2298657a9a",
+        "1ea38b894dee6ce9",
+        "1efca1133fe66b53"
       ],
       "recent_jobs": [
-        {
-          "id": "eafb105d21e0fc39",
-          "title": "Software Engineer 2 - Full Stack and Application Development",
-          "company": "Cisco",
-          "posted_at": "2026-01-31T15:32:11.575Z"
-        },
-        {
-          "id": "0959bb144b9514bd",
-          "title": "AI Data Specialist - AI Data Specialist Team",
-          "company": "RWS",
-          "posted_at": "2026-01-31T15:45:38.671Z"
-        },
-        {
-          "id": "69b16a8f6a1a3668",
-          "title": "Software Engineer Data/AI/Intelligent Systems 1",
-          "company": "Cisco",
-          "posted_at": "2026-01-31T15:45:40.580Z"
-        },
-        {
-          "id": "09a2db0313143373",
-          "title": "AI Product Engineer – New Grad",
-          "company": "Lightfield",
-          "posted_at": "2026-01-31T15:45:44.309Z"
-        },
-        {
-          "id": "40fea00a8ae42aeb",
-          "title": "Software Engineer Security & Automation 1",
-          "company": "Cisco",
-          "posted_at": "2026-01-31T15:45:46.252Z"
-        },
-        {
-          "id": "e610e21d9f832f62",
-          "title": "Global Head of Sales Operations & Strategy",
-          "company": "spotify",
-          "posted_at": "2026-01-31T15:45:48.294Z"
-        },
-        {
-          "id": "2ef9ca16bc02332a",
-          "title": "Game Developer",
-          "company": "Akima",
-          "posted_at": "2026-01-31T15:45:54.889Z"
-        },
-        {
-          "id": "645773d83906c282",
-          "title": "Associate Software Development Engineer",
-          "company": "CVS Health",
-          "posted_at": "2026-01-31T15:45:58.719Z"
-        },
-        {
-          "id": "eb521b6fa3b6e8f6",
-          "title": "Software Engineer, Distributed Systems",
-          "company": "figma",
-          "posted_at": "2026-01-31T15:46:00.533Z"
-        },
         {
           "id": "2f2ec3fbca54b2d8",
           "title": "Configuration and Data Management Specialist - Configuration and Data Management Specialist",
           "company": "Barrios",
           "posted_at": "2026-01-31T15:46:02.421Z"
-        }
-      ]
-    },
-    "channel-14629888": {
-      "channel_id": "1462988831530680422",
-      "count": 164,
-      "jobs": [
-        "f4f442f9cac04952",
-        "c8357eb905fbf4c2",
-        "b24e59b476e85eb5",
-        "d6b0cc580d11b6e0",
-        "d90db86d11c7376e",
-        "f61e5f3b68f52006",
-        "643915d8cf345741",
-        "9aa61c7ccf9e3db1",
-        "cc154ddd68f9dccc",
-        "23e16cb3d9b587ef",
-        "9aa2fdd396ffb95a",
-        "d2e33343635b4a23",
-        "f7623b06c9d2da4f",
-        "06d7ac1cec409c4f",
-        "d0f67123726be881",
-        "668320062b686724",
-        "31283c19812c10d3",
-        "d4ec07e5bafe6969",
-        "224d2f0156a18034",
-        "bb1aa88453bec2d4",
-        "e16a70b0626e41ff",
-        "6ed79a9157c96f0e",
-        "0b2439f327b93576",
-        "5a640b8a3a310c3b",
-        "b9ba2494d26b0a23",
-        "6b7e31ceefc7c6eb",
-        "888532439bf0d113",
-        "73e5496d13f6e2d9",
-        "a289f8f9948527f6",
-        "710f958fe13dd501",
-        "6ba47f01486955fe",
-        "7344d67c09eeefb3",
-        "a9ad4c6cb459d9a0",
-        "37288ce8dee3c305",
-        "c839d94b4229a3f5",
-        "7b88f972a9896407",
-        "21f964bba9908c45",
-        "a92cb05f18187a8b",
-        "134e9971c4990337",
-        "972bc286a9bcc289",
-        "9ca76292a8c8ef53",
-        "dfccfffd8fb036d7",
-        "b3ec48193dcd8dd6",
-        "13caab15a9bc0830",
-        "790a57ab96f8532a",
-        "77ec81e16184d5ce",
-        "7943cad093f2b869",
-        "a0f6b95bcc774933",
-        "0f0610bfbc86412f",
-        "a198383ad7c335b0",
-        "01467a5ec6c87926",
-        "4cdf6ee5a3f00ba7",
-        "aa421259a2f91452",
-        "7ce27b3602faebe3",
-        "99aaa8142b5ac957",
-        "08d3918e39adfad5",
-        "f33574306fc73002",
-        "9e2c0ba7d9af32d7",
-        "25c80bc0c4655f79",
-        "28094dea45227c69",
-        "69db6d2b0374e1eb",
-        "1ced13a4df587678",
-        "c0e6517a4dcc8305",
-        "eecba62fdee82b1e",
-        "894667c0f4616ab0",
-        "07033cd71c246065",
-        "28fc5e79e2c1b642",
-        "83c43f83d954c4f4",
-        "6c5ae36ad940289b",
-        "b10ec06361f987e2",
-        "401911d52f4e7746",
-        "0b2c46ce888f4614",
-        "a04800ab88196406",
-        "1fed3bc04e76268f",
-        "f63bc2ef99e06a98",
-        "256f69e4dcd45a96",
-        "a705d729696cd70d",
-        "1a226c81897508d3",
-        "3e8ac719e8789b65",
-        "59aac2c3eb1c4828",
-        "c9d98e1d902d773b",
-        "eb031f60c64fee14",
-        "ad11e3c9d2f11a69",
-        "5732b7e1a43b9840",
-        "b342328c8415bff5",
-        "6cd751f2915643a2",
-        "21f4ee4aa0b3f0cb",
-        "70e7659eca188c16",
-        "ec1ee1f3f31da87f",
-        "83d76fe2a38fbadf",
-        "26f03a24c8ea36cb",
-        "788968c350953047",
-        "1fb4eb94302a8603",
-        "1e51b6d30bc3b079",
-        "32865b0c6ae53053",
-        "dd02f010041afb88",
-        "8b3df2b0ba595dbc",
-        "16a872da8e3ea057",
-        "d5fd462a9297a0fb",
-        "947a9feaa178945a",
-        "91dc47e805122982",
-        "70c09c7f2bc59ee8",
-        "7bd1df8c51556ab7",
-        "8252f547fa83505d",
-        "93a9ac54665ad7f2",
-        "2419f2f2cf46a801",
-        "9a6e9592e77db8a5",
-        "6752bd03842e36c6",
-        "eee9c6ee0cf3d957",
-        "8c695a7f82eb486f",
-        "2c55805654a54a82",
-        "a0a4e4472596def1",
-        "d2107bba30165518",
-        "694389e60c237705",
-        "b16dd00ccbd75f6b",
-        "ef8e7a78787892c1",
-        "33b113cda7c7d96a",
-        "d772cea62ff6f4b0",
-        "ad28b13361c45f6d",
-        "5d3f31eefe5de282",
-        "f3255cb790bc2991",
-        "3b8623d7ae5e706c",
-        "784fce6433dbf5d8",
-        "0e8da9dbad3bc5fa",
-        "a5439bc6d2386f1c",
-        "0d1aed8c45906366",
-        "dd710b5a130bf352",
-        "53db1ad06d52955f",
-        "75773b6274f4cf6a",
-        "79ad098617be1571",
-        "7c501100d0509dfc",
-        "dfe4d35f0b45a99c",
-        "672c5929143072f9",
-        "fcd2bf81dd8b1629",
-        "8d9e64262f870c83",
-        "97baf100d2b83f01",
-        "95ebb7c824547151",
-        "92a33504b277922e",
-        "c604f9681424f37f",
-        "ff03fafb9dd60780",
-        "2af8d452f4373f76",
-        "2c8f4bd8d13a56ad",
-        "8eec4559ef5cb6bd",
-        "845d23c2ccf50166",
-        "e68106b4d8110f96",
-        "699ca6eb64b5ea3a",
-        "5bf2c8e03d19a57d",
-        "0ff803622f80c0a7",
-        "dcf4866464061748",
-        "9955b7635a89ed98",
-        "29c3eec16f38ab3a",
-        "9b6665d651a96307",
-        "a111f649dd6fa394",
-        "5921db34d8d80c8e",
-        "562454cec2b487f7",
-        "03c8b7dbdaa3d9de",
-        "ffa671d7c67d2217",
-        "d25682443af2da58",
-        "525cdf9656221bb4",
-        "52199891b4ba399e",
-        "b2f389041cc2db22",
-        "1029a1ec7f47038c",
-        "69b16a8f6a1a3668",
-        "e610e21d9f832f62"
-      ],
-      "recent_jobs": [
-        {
-          "id": "562454cec2b487f7",
-          "title": "Associate Data Analyst",
-          "company": "SageSure",
-          "posted_at": "2026-01-31T13:25:23.699Z"
         },
         {
-          "id": "03c8b7dbdaa3d9de",
-          "title": "Inside Sales Representative - Early Career (2026)",
+          "id": "b1818b391f47fae5",
+          "title": "Graduate Software Engineer",
+          "company": "Malvern Panalytical",
+          "posted_at": "2026-01-31T15:57:56.619Z"
+        },
+        {
+          "id": "8672996c22b226ac",
+          "title": "Entry-Level Software Engineer",
+          "company": "Space Dynamics Laboratory",
+          "posted_at": "2026-01-31T15:57:58.409Z"
+        },
+        {
+          "id": "2062a6d4b44440ea",
+          "title": "Business Systems Architect, AI",
           "company": "figma",
-          "posted_at": "2026-01-31T13:25:32.527Z"
+          "posted_at": "2026-01-31T15:58:00.256Z"
         },
         {
-          "id": "ffa671d7c67d2217",
-          "title": "Full Stack Software Engineer Graduate",
-          "company": "PermitFlow",
-          "posted_at": "2026-01-31T13:25:36.203Z"
+          "id": "0c8b62b11c601a10",
+          "title": "Corporate Development & Strategy, M&A Integration",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:58:02.081Z"
         },
         {
-          "id": "d25682443af2da58",
-          "title": "AI Product Specialist",
-          "company": "Regal",
-          "posted_at": "2026-01-31T13:25:48.560Z"
+          "id": "7307ea78ac5036c4",
+          "title": "Account Executive, SMB ",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:58:03.924Z"
         },
         {
-          "id": "525cdf9656221bb4",
-          "title": "2026 Summer Internship, Research Scientist - PhD (New York City)",
-          "company": "spotify",
-          "posted_at": "2026-01-31T14:32:02.879Z"
+          "id": "c792cc640ff2247c",
+          "title": "Software Engineer, Full Stack",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:58:05.746Z"
         },
         {
-          "id": "52199891b4ba399e",
-          "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
-          "company": "Brookhaven Lab",
-          "posted_at": "2026-01-31T14:48:04.800Z"
+          "id": "41024b2298657a9a",
+          "title": "Technical Learning Specialist",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:58:07.511Z"
         },
         {
-          "id": "b2f389041cc2db22",
-          "title": "Process Development Engineer 3 - Data Enablement and Analytics - DEA/PMPD",
-          "company": "Regeneron Pharmaceuticals",
-          "posted_at": "2026-01-31T14:59:59.477Z"
+          "id": "1ea38b894dee6ce9",
+          "title": "Software Engineer, AI Platforms",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:58:17.208Z"
         },
         {
-          "id": "1029a1ec7f47038c",
-          "title": "Software Engineer Backend/Platform Systems 1",
-          "company": "Cisco",
-          "posted_at": "2026-01-31T15:31:53.449Z"
-        },
-        {
-          "id": "69b16a8f6a1a3668",
-          "title": "Software Engineer Data/AI/Intelligent Systems 1",
-          "company": "Cisco",
-          "posted_at": "2026-01-31T15:45:40.580Z"
-        },
-        {
-          "id": "e610e21d9f832f62",
-          "title": "Global Head of Sales Operations & Strategy",
-          "company": "spotify",
-          "posted_at": "2026-01-31T15:45:48.294Z"
+          "id": "1efca1133fe66b53",
+          "title": "Integration Engineer, AI",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:58:19.037Z"
         }
       ]
     },
     "channel-14629887": {
-      "channel_id": "1462988721828794531",
+      "channel_id": "1462988755156734023",
       "count": 259,
       "jobs": [
-        "1515e2d31bd8a292",
         "4024fc363d657d74",
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -1552,15 +1320,10 @@
         "789c3aaa47ceb5b9",
         "69322013fb0168cb",
         "f04cc1be6994681a",
-        "4c0f499cb2ee204b"
+        "4c0f499cb2ee204b",
+        "37274976b5ddf1fd"
       ],
       "recent_jobs": [
-        {
-          "id": "ed041b149e2d2ae9",
-          "title": "Business Intelligence Developer",
-          "company": "Auto-Owners Insurance",
-          "posted_at": "2026-01-31T12:54:25.811Z"
-        },
         {
           "id": "2eb0510072bd9ebe",
           "title": "Human Performance Data Scientist 1",
@@ -1614,6 +1377,242 @@
           "title": "Data Analyst",
           "company": "Integration Innovation (i3)",
           "posted_at": "2026-01-31T15:46:07.698Z"
+        },
+        {
+          "id": "37274976b5ddf1fd",
+          "title": "Strategic Finance, Finance Systems & Automation",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:58:12.395Z"
+        }
+      ]
+    },
+    "channel-14629888": {
+      "channel_id": "1462988831530680422",
+      "count": 162,
+      "jobs": [
+        "b24e59b476e85eb5",
+        "d6b0cc580d11b6e0",
+        "d90db86d11c7376e",
+        "f61e5f3b68f52006",
+        "643915d8cf345741",
+        "9aa61c7ccf9e3db1",
+        "cc154ddd68f9dccc",
+        "23e16cb3d9b587ef",
+        "9aa2fdd396ffb95a",
+        "d2e33343635b4a23",
+        "f7623b06c9d2da4f",
+        "06d7ac1cec409c4f",
+        "d0f67123726be881",
+        "668320062b686724",
+        "31283c19812c10d3",
+        "d4ec07e5bafe6969",
+        "224d2f0156a18034",
+        "bb1aa88453bec2d4",
+        "e16a70b0626e41ff",
+        "6ed79a9157c96f0e",
+        "0b2439f327b93576",
+        "5a640b8a3a310c3b",
+        "b9ba2494d26b0a23",
+        "6b7e31ceefc7c6eb",
+        "888532439bf0d113",
+        "73e5496d13f6e2d9",
+        "a289f8f9948527f6",
+        "710f958fe13dd501",
+        "6ba47f01486955fe",
+        "7344d67c09eeefb3",
+        "a9ad4c6cb459d9a0",
+        "37288ce8dee3c305",
+        "c839d94b4229a3f5",
+        "7b88f972a9896407",
+        "21f964bba9908c45",
+        "a92cb05f18187a8b",
+        "134e9971c4990337",
+        "972bc286a9bcc289",
+        "9ca76292a8c8ef53",
+        "dfccfffd8fb036d7",
+        "b3ec48193dcd8dd6",
+        "13caab15a9bc0830",
+        "790a57ab96f8532a",
+        "77ec81e16184d5ce",
+        "7943cad093f2b869",
+        "a0f6b95bcc774933",
+        "0f0610bfbc86412f",
+        "a198383ad7c335b0",
+        "01467a5ec6c87926",
+        "4cdf6ee5a3f00ba7",
+        "aa421259a2f91452",
+        "7ce27b3602faebe3",
+        "99aaa8142b5ac957",
+        "08d3918e39adfad5",
+        "f33574306fc73002",
+        "9e2c0ba7d9af32d7",
+        "25c80bc0c4655f79",
+        "28094dea45227c69",
+        "69db6d2b0374e1eb",
+        "1ced13a4df587678",
+        "c0e6517a4dcc8305",
+        "eecba62fdee82b1e",
+        "894667c0f4616ab0",
+        "07033cd71c246065",
+        "28fc5e79e2c1b642",
+        "83c43f83d954c4f4",
+        "6c5ae36ad940289b",
+        "b10ec06361f987e2",
+        "401911d52f4e7746",
+        "0b2c46ce888f4614",
+        "a04800ab88196406",
+        "1fed3bc04e76268f",
+        "f63bc2ef99e06a98",
+        "256f69e4dcd45a96",
+        "a705d729696cd70d",
+        "1a226c81897508d3",
+        "3e8ac719e8789b65",
+        "59aac2c3eb1c4828",
+        "c9d98e1d902d773b",
+        "eb031f60c64fee14",
+        "ad11e3c9d2f11a69",
+        "5732b7e1a43b9840",
+        "b342328c8415bff5",
+        "6cd751f2915643a2",
+        "21f4ee4aa0b3f0cb",
+        "70e7659eca188c16",
+        "ec1ee1f3f31da87f",
+        "83d76fe2a38fbadf",
+        "26f03a24c8ea36cb",
+        "788968c350953047",
+        "1fb4eb94302a8603",
+        "1e51b6d30bc3b079",
+        "32865b0c6ae53053",
+        "dd02f010041afb88",
+        "8b3df2b0ba595dbc",
+        "16a872da8e3ea057",
+        "d5fd462a9297a0fb",
+        "947a9feaa178945a",
+        "91dc47e805122982",
+        "70c09c7f2bc59ee8",
+        "7bd1df8c51556ab7",
+        "8252f547fa83505d",
+        "93a9ac54665ad7f2",
+        "2419f2f2cf46a801",
+        "9a6e9592e77db8a5",
+        "6752bd03842e36c6",
+        "eee9c6ee0cf3d957",
+        "8c695a7f82eb486f",
+        "2c55805654a54a82",
+        "a0a4e4472596def1",
+        "d2107bba30165518",
+        "694389e60c237705",
+        "b16dd00ccbd75f6b",
+        "ef8e7a78787892c1",
+        "33b113cda7c7d96a",
+        "d772cea62ff6f4b0",
+        "ad28b13361c45f6d",
+        "5d3f31eefe5de282",
+        "f3255cb790bc2991",
+        "3b8623d7ae5e706c",
+        "784fce6433dbf5d8",
+        "0e8da9dbad3bc5fa",
+        "a5439bc6d2386f1c",
+        "0d1aed8c45906366",
+        "dd710b5a130bf352",
+        "53db1ad06d52955f",
+        "75773b6274f4cf6a",
+        "79ad098617be1571",
+        "7c501100d0509dfc",
+        "dfe4d35f0b45a99c",
+        "672c5929143072f9",
+        "fcd2bf81dd8b1629",
+        "8d9e64262f870c83",
+        "97baf100d2b83f01",
+        "95ebb7c824547151",
+        "92a33504b277922e",
+        "c604f9681424f37f",
+        "ff03fafb9dd60780",
+        "2af8d452f4373f76",
+        "2c8f4bd8d13a56ad",
+        "8eec4559ef5cb6bd",
+        "845d23c2ccf50166",
+        "e68106b4d8110f96",
+        "699ca6eb64b5ea3a",
+        "5bf2c8e03d19a57d",
+        "0ff803622f80c0a7",
+        "dcf4866464061748",
+        "9955b7635a89ed98",
+        "29c3eec16f38ab3a",
+        "9b6665d651a96307",
+        "a111f649dd6fa394",
+        "5921db34d8d80c8e",
+        "562454cec2b487f7",
+        "03c8b7dbdaa3d9de",
+        "ffa671d7c67d2217",
+        "d25682443af2da58",
+        "525cdf9656221bb4",
+        "52199891b4ba399e",
+        "b2f389041cc2db22",
+        "1029a1ec7f47038c",
+        "69b16a8f6a1a3668",
+        "e610e21d9f832f62"
+      ],
+      "recent_jobs": [
+        {
+          "id": "562454cec2b487f7",
+          "title": "Associate Data Analyst",
+          "company": "SageSure",
+          "posted_at": "2026-01-31T13:25:23.699Z"
+        },
+        {
+          "id": "03c8b7dbdaa3d9de",
+          "title": "Inside Sales Representative - Early Career (2026)",
+          "company": "figma",
+          "posted_at": "2026-01-31T13:25:32.527Z"
+        },
+        {
+          "id": "ffa671d7c67d2217",
+          "title": "Full Stack Software Engineer Graduate",
+          "company": "PermitFlow",
+          "posted_at": "2026-01-31T13:25:36.203Z"
+        },
+        {
+          "id": "d25682443af2da58",
+          "title": "AI Product Specialist",
+          "company": "Regal",
+          "posted_at": "2026-01-31T13:25:48.560Z"
+        },
+        {
+          "id": "525cdf9656221bb4",
+          "title": "2026 Summer Internship, Research Scientist - PhD (New York City)",
+          "company": "spotify",
+          "posted_at": "2026-01-31T14:32:02.879Z"
+        },
+        {
+          "id": "52199891b4ba399e",
+          "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
+          "company": "Brookhaven Lab",
+          "posted_at": "2026-01-31T14:48:04.800Z"
+        },
+        {
+          "id": "b2f389041cc2db22",
+          "title": "Process Development Engineer 3 - Data Enablement and Analytics - DEA/PMPD",
+          "company": "Regeneron Pharmaceuticals",
+          "posted_at": "2026-01-31T14:59:59.477Z"
+        },
+        {
+          "id": "1029a1ec7f47038c",
+          "title": "Software Engineer Backend/Platform Systems 1",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T15:31:53.449Z"
+        },
+        {
+          "id": "69b16a8f6a1a3668",
+          "title": "Software Engineer Data/AI/Intelligent Systems 1",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T15:45:40.580Z"
+        },
+        {
+          "id": "e610e21d9f832f62",
+          "title": "Global Head of Sales Operations & Strategy",
+          "company": "spotify",
+          "posted_at": "2026-01-31T15:45:48.294Z"
         }
       ]
     },
@@ -1753,26 +1752,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "f4f442f9cac04952",
-      "company": "Morgan Stanley",
-      "title": "Java Developer - Associate",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-01-24T15:54:53.944Z"
-    },
-    {
-      "job_id": "c8357eb905fbf4c2",
-      "company": "Affirm",
-      "title": "Software Engineer – Early Career",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-01-24T15:54:59.688Z"
-    },
     {
       "job_id": "b24e59b476e85eb5",
       "company": "FOX",
@@ -2252,66 +2231,86 @@
         "channel-14629893"
       ],
       "posted_at": "2026-01-30T12:16:49.704Z"
+    },
+    {
+      "job_id": "7b88f972a9896407",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-01-30T12:33:31.085Z"
+    },
+    {
+      "job_id": "7e0b4af39e321d1e",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-01-30T12:33:34.805Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5701839004",
-        "title": "Product Manager, Sites",
+        "job_id": "boards-greenhouse-io-figma-jobs-5632187004",
+        "title": "Product Manager, Creation Engine",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.938Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5694470004",
-        "title": "Product Manager, CMS",
+        "job_id": "boards-greenhouse-io-figma-jobs-5641078004",
+        "title": "Product Manager, Scale",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.938Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5693075004",
-        "title": "Product Manager, Growth",
+        "job_id": "boards-greenhouse-io-figma-jobs-5579903004",
+        "title": "Director, Software Engineering - Growth",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.939Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5661397004",
-        "title": "Director, Design - Communication Tools",
+        "job_id": "boards-greenhouse-io-figma-jobs-5600388004",
+        "title": "Director, Software Engineering - Product Platform",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.939Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5678196004",
-        "title": "Manager, Software Engineering - Expressive AI",
+        "job_id": "boards-greenhouse-io-figma-jobs-5574247004",
+        "title": "Product Manager, AI",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.939Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5654898004",
-        "title": "Manager, Software Engineering - Collaboration Tools",
+        "job_id": "boards-greenhouse-io-figma-jobs-5564202004",
+        "title": "Manager, Mid-Market Sales ",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.939Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5659927004",
-        "title": "Sales Onboarding Program Manager",
+        "job_id": "boards-greenhouse-io-figma-jobs-5565447004",
+        "title": "Senior Account Executive, SMB",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.939Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5628218004",
-        "title": "Demo Strategy & Effectiveness Manager ",
+        "job_id": "boards-greenhouse-io-figma-jobs-5505263004",
+        "title": "Product Manager, Design Tools",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:45:37.939Z"
+        "timestamp": "2026-01-31T15:57:56.037Z"
       }
     ],
     "already_posted": [],
@@ -2322,147 +2321,147 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.923Z"
+        "timestamp": "2026-01-31T15:57:56.023Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.923Z"
+        "timestamp": "2026-01-31T15:57:56.024Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.924Z"
+        "timestamp": "2026-01-31T15:57:56.024Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.924Z"
+        "timestamp": "2026-01-31T15:57:56.025Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.924Z"
+        "timestamp": "2026-01-31T15:57:56.025Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.925Z"
+        "timestamp": "2026-01-31T15:57:56.025Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.925Z"
+        "timestamp": "2026-01-31T15:57:56.026Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.925Z"
+        "timestamp": "2026-01-31T15:57:56.026Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.925Z"
+        "timestamp": "2026-01-31T15:57:56.026Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.926Z"
+        "timestamp": "2026-01-31T15:57:56.027Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.926Z"
+        "timestamp": "2026-01-31T15:57:56.027Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.926Z"
+        "timestamp": "2026-01-31T15:57:56.027Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.927Z"
+        "timestamp": "2026-01-31T15:57:56.028Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.927Z"
+        "timestamp": "2026-01-31T15:57:56.028Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-stratacareers-jobs-7542763003",
         "title": "Analyst – Data Integration",
         "company": "Strata Decision Technology",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.927Z"
+        "timestamp": "2026-01-31T15:57:56.028Z"
       },
       {
         "job_id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581",
         "title": "Technology - Application Development",
         "company": "Citi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.927Z"
+        "timestamp": "2026-01-31T15:57:56.028Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-developer-technology-engineer-public-sector-new-college-grad-2026_jr2008990",
         "title": "Developer Technology Engineer – New College Grad - Public Sector",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.928Z"
+        "timestamp": "2026-01-31T15:57:56.029Z"
       },
       {
         "job_id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-technology-application-development-full-time-analyst-tampa-usa-2026_25920348",
         "title": "Technology - Application Development - Full Time Analyst",
         "company": "Citi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.928Z"
+        "timestamp": "2026-01-31T15:57:56.029Z"
       },
       {
         "job_id": "wd3-myworkdaysite-com-recruiting-magna-magna-job-goleta-california-us-software-engineer-i-thermal-cameras_r00193769",
         "title": "Software Engineer 1 - Thermal Camera",
         "company": "Magna",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.928Z"
+        "timestamp": "2026-01-31T15:57:56.029Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-affirm-jobs-7485072003",
         "title": "Software Engineer – Early Career",
         "company": "Affirm",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.928Z"
+        "timestamp": "2026-01-31T15:57:56.030Z"
       },
       {
         "job_id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1",
         "title": "Postdoctoral Research Associate",
         "company": "Texas A&M University - Corpus Christi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:45:37.929Z"
+        "timestamp": "2026-01-31T15:57:56.030Z"
       }
     ]
   }
