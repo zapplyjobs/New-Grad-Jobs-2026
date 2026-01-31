@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-31T10:49:25.122Z",
+  "generated": "2026-01-31T11:01:26.214Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T10:49:25.122Z",
-  "period_end": "2026-01-31T10:49:25.122Z",
+  "period_start": "2026-01-24T11:01:26.214Z",
+  "period_end": "2026-01-31T11:01:26.214Z",
   "summary": {
-    "total_jobs_posted": 1266,
-    "unique_jobs": 1068,
-    "multi_channel_postings": 396,
-    "unique_multi_channel_jobs": 198,
+    "total_jobs_posted": 1278,
+    "unique_jobs": 1076,
+    "multi_channel_postings": 404,
+    "unique_multi_channel_jobs": 202,
     "failed_postings": 0,
-    "filtered_jobs": 24,
+    "filtered_jobs": 31,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 838,
+      "count": 841,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -854,27 +854,12 @@
         "4f8727aeba737b1a",
         "fd46a24abc9ba1dc",
         "426656d939b09061",
-        "e18b6334ad67880d"
+        "e18b6334ad67880d",
+        "fdde4eb855c13abd",
+        "845d23c2ccf50166",
+        "d818ff3287365327"
       ],
       "recent_jobs": [
-        {
-          "id": "7de1b279c08f5225",
-          "title": "User Researcher Intern",
-          "company": "coinbase",
-          "posted_at": "2026-01-31T10:31:27.151Z"
-        },
-        {
-          "id": "c604f9681424f37f",
-          "title": "Machine Learning Engineer",
-          "company": "spotify",
-          "posted_at": "2026-01-31T10:31:28.940Z"
-        },
-        {
-          "id": "ff03fafb9dd60780",
-          "title": "Market Risk Analytics Associate, Stress Testing and AI Integration",
-          "company": "Morgan Stanley",
-          "posted_at": "2026-01-31T10:31:35.666Z"
-        },
         {
           "id": "23941b51c15e47a1",
           "title": "Applied Scientist - AI & Robotics (PhD) - Early Career",
@@ -916,12 +901,30 @@
           "title": "Product and Regulatory Counsel",
           "company": "brex",
           "posted_at": "2026-01-31T10:48:53.229Z"
+        },
+        {
+          "id": "fdde4eb855c13abd",
+          "title": "Outbound Sales Development Representative",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:10.625Z"
+        },
+        {
+          "id": "845d23c2ccf50166",
+          "title": "Product and Regulatory Counsel",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:14.130Z"
+        },
+        {
+          "id": "d818ff3287365327",
+          "title": "Software Engineer II, Product ",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:17.733Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 142,
+      "count": 144,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -1064,21 +1067,11 @@
         "c604f9681424f37f",
         "ff03fafb9dd60780",
         "2af8d452f4373f76",
-        "2c8f4bd8d13a56ad"
+        "2c8f4bd8d13a56ad",
+        "8eec4559ef5cb6bd",
+        "845d23c2ccf50166"
       ],
       "recent_jobs": [
-        {
-          "id": "672c5929143072f9",
-          "title": "Integrations Engineer",
-          "company": "Merge",
-          "posted_at": "2026-01-31T09:33:34.185Z"
-        },
-        {
-          "id": "fcd2bf81dd8b1629",
-          "title": "Data Analyst",
-          "company": "CharterUP",
-          "posted_at": "2026-01-31T09:49:41.560Z"
-        },
         {
           "id": "8d9e64262f870c83",
           "title": "GM, AI Foundation",
@@ -1126,12 +1119,24 @@
           "title": "Enterprise Implementation Consultant, Financial Saas",
           "company": "brex",
           "posted_at": "2026-01-31T10:49:09.165Z"
+        },
+        {
+          "id": "8eec4559ef5cb6bd",
+          "title": "Enterprise Account Executive",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:00:58.325Z"
+        },
+        {
+          "id": "845d23c2ccf50166",
+          "title": "Product and Regulatory Counsel",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:14.130Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 230,
+      "count": 235,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -1362,39 +1367,14 @@
         "c8e68582831dc93b",
         "2c8f4bd8d13a56ad",
         "0846c682aa0df5d3",
-        "0b60c09fd85f7b07"
+        "0b60c09fd85f7b07",
+        "8fccc292d79b56db",
+        "d121f11a2025fdf9",
+        "8eec4559ef5cb6bd",
+        "dc287352440c43d9",
+        "20173b2982b7ce17"
       ],
       "recent_jobs": [
-        {
-          "id": "59b7f76e7b89a2b5",
-          "title": "Data Analyst",
-          "company": "LexisNexis Risk Solutions",
-          "posted_at": "2026-01-31T10:12:12.424Z"
-        },
-        {
-          "id": "bc944db40d788f4c",
-          "title": "Software Engineer 1 - Backend - Healthcare",
-          "company": "Whoop",
-          "posted_at": "2026-01-31T10:12:14.165Z"
-        },
-        {
-          "id": "9fa7d080b2bd0794",
-          "title": "Junior Business & Technology Analyst",
-          "company": "Axos Bank",
-          "posted_at": "2026-01-31T10:31:49.573Z"
-        },
-        {
-          "id": "e606f443c74510fb",
-          "title": "Associate Technical Consultant",
-          "company": "brex",
-          "posted_at": "2026-01-31T10:48:58.138Z"
-        },
-        {
-          "id": "2af8d452f4373f76",
-          "title": "Banking Specialist",
-          "company": "brex",
-          "posted_at": "2026-01-31T10:48:59.958Z"
-        },
         {
           "id": "4541b1a8ddce8579",
           "title": "Commercial Account Executive",
@@ -1424,12 +1404,42 @@
           "title": "Implementation Consultant II",
           "company": "brex",
           "posted_at": "2026-01-31T10:49:14.640Z"
+        },
+        {
+          "id": "8fccc292d79b56db",
+          "title": "Banking Specialist",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:00:54.716Z"
+        },
+        {
+          "id": "d121f11a2025fdf9",
+          "title": "Commercial Account Executive",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:00:56.532Z"
+        },
+        {
+          "id": "8eec4559ef5cb6bd",
+          "title": "Enterprise Account Executive",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:00:58.325Z"
+        },
+        {
+          "id": "dc287352440c43d9",
+          "title": "Enterprise Implementation Consultant, Financial Saas",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:02.055Z"
+        },
+        {
+          "id": "20173b2982b7ce17",
+          "title": "Implementation Consultant II",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:05.663Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 56,
+      "count": 58,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1486,21 +1496,11 @@
         "00384d38a70be243",
         "8f1d4a5b6f2b69de",
         "4541b1a8ddce8579",
-        "0b60c09fd85f7b07"
+        "0b60c09fd85f7b07",
+        "dc287352440c43d9",
+        "fdde4eb855c13abd"
       ],
       "recent_jobs": [
-        {
-          "id": "3ac8d2fdc59353b8",
-          "title": "Search Quality Rater - English - Florida",
-          "company": "RWS",
-          "posted_at": "2026-01-31T05:53:14.870Z"
-        },
-        {
-          "id": "2ffd60db5d353b4c",
-          "title": "Associate Technical Consultant",
-          "company": "brex",
-          "posted_at": "2026-01-31T05:53:39.039Z"
-        },
         {
           "id": "2e44a2bb4b516fc8",
           "title": "Software Engineer 1",
@@ -1548,6 +1548,18 @@
           "title": "Implementation Consultant II",
           "company": "brex",
           "posted_at": "2026-01-31T10:49:14.640Z"
+        },
+        {
+          "id": "dc287352440c43d9",
+          "title": "Enterprise Implementation Consultant, Financial Saas",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:02.055Z"
+        },
+        {
+          "id": "fdde4eb855c13abd",
+          "title": "Outbound Sales Development Representative",
+          "company": "brex",
+          "posted_at": "2026-01-31T11:01:10.625Z"
         }
       ]
     }
@@ -2058,74 +2070,123 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-brex-com-careers-8148601002",
-        "title": "Sales Manager, Startups",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8148593002",
-        "title": "Sales Manager, Startups",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8324890002",
-        "title": "Senior Accountant",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8324892002",
-        "title": "Senior Accountant",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8324893002",
-        "title": "Senior Accountant",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8324879002",
-        "title": "Senior Accountant",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8249885002",
-        "title": "Senior Application Security Engineer",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8249884002",
-        "title": "Senior Application Security Engineer",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8249658002",
-        "title": "Senior Application Security Engineer",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8299931002",
+        "job_id": "www-brex-com-careers-8299930002",
         "title": "Senior Engineering Manager, Acquisition",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T10:48:48.871Z"
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8299907002",
+        "title": "Senior Engineering Manager, Acquisition",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8330495002",
+        "title": "Senior Engineering Manager, Activation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8330492002",
+        "title": "Senior Engineering Manager, Activation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8184122002",
+        "title": "Senior Engineering Manager, Risk Management",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8184695002",
+        "title": "Senior Engineering Manager, Risk Management ",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8184694002",
+        "title": "Senior Engineering Manager, Risk Management ",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8075285002",
+        "title": "Senior GTM Recruiter",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8073147002",
+        "title": "Senior GTM Recruiter",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8093385002",
+        "title": "Senior GTM Recruiter",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8222783002",
+        "title": " Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8215986002",
+        "title": "Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8216086002",
+        "title": "Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8216085002",
+        "title": "Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8213577002",
+        "title": "Senior Software Engineer, Full-Stack",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-7521386002",
+        "title": "Senior Software Engineer, Product ",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8198574002",
+        "title": "Staff Brand Designer, Interactive",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T11:00:54.100Z"
       }
     ],
     "already_posted": [],
@@ -2136,98 +2197,98 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.861Z"
+        "timestamp": "2026-01-31T11:00:54.089Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.862Z"
+        "timestamp": "2026-01-31T11:00:54.090Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.862Z"
+        "timestamp": "2026-01-31T11:00:54.090Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.862Z"
+        "timestamp": "2026-01-31T11:00:54.090Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.863Z"
+        "timestamp": "2026-01-31T11:00:54.091Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.863Z"
+        "timestamp": "2026-01-31T11:00:54.091Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.863Z"
+        "timestamp": "2026-01-31T11:00:54.091Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.864Z"
+        "timestamp": "2026-01-31T11:00:54.092Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.864Z"
+        "timestamp": "2026-01-31T11:00:54.092Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.864Z"
+        "timestamp": "2026-01-31T11:00:54.092Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.865Z"
+        "timestamp": "2026-01-31T11:00:54.092Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.865Z"
+        "timestamp": "2026-01-31T11:00:54.093Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.865Z"
+        "timestamp": "2026-01-31T11:00:54.093Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T10:48:48.865Z"
+        "timestamp": "2026-01-31T11:00:54.093Z"
       }
     ]
   }
