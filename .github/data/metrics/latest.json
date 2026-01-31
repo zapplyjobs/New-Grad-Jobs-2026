@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-31T15:13:21.232Z",
+  "generated": "2026-01-31T15:32:25.292Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T15:13:21.232Z",
-  "period_end": "2026-01-31T15:13:21.232Z",
+  "period_start": "2026-01-24T15:32:25.292Z",
+  "period_end": "2026-01-31T15:32:25.292Z",
   "summary": {
-    "total_jobs_posted": 1442,
-    "unique_jobs": 1216,
-    "multi_channel_postings": 452,
-    "unique_multi_channel_jobs": 226,
+    "total_jobs_posted": 1453,
+    "unique_jobs": 1226,
+    "multi_channel_postings": 454,
+    "unique_multi_channel_jobs": 227,
     "failed_postings": 0,
-    "filtered_jobs": 22,
+    "filtered_jobs": 26,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 959,
+      "count": 968,
       "jobs": [
         "2d7774b91bcf8821",
         "f4f442f9cac04952",
@@ -975,74 +975,83 @@
         "e97fca399e81c067",
         "09957feeebb285bf",
         "0f1ea6a5816d1195",
-        "e8497eb4376047fb"
+        "e8497eb4376047fb",
+        "f7ad74b9fb7c3e75",
+        "1029a1ec7f47038c",
+        "438880e70e27add3",
+        "c37934c7417b42f5",
+        "c9dea2b844fbca5d",
+        "8b0e89441d268a5b",
+        "fc94d260eb3951d9",
+        "8a31490e834c490e",
+        "eafb105d21e0fc39"
       ],
       "recent_jobs": [
-        {
-          "id": "85ded0e1efc10a7a",
-          "title": "Search Quality Rater - English",
-          "company": "RWS",
-          "posted_at": "2026-01-31T15:12:51.708Z"
-        },
-        {
-          "id": "f33216ce0fbb7171",
-          "title": "AV Engineer (Contractor)",
-          "company": "instacart",
-          "posted_at": "2026-01-31T15:12:55.314Z"
-        },
-        {
-          "id": "e10172da905a77e2",
-          "title": "Product Designer, AI Models",
-          "company": "figma",
-          "posted_at": "2026-01-31T15:12:57.077Z"
-        },
-        {
-          "id": "b63070d744f8c531",
-          "title": "Product Designer - Design, Dev, & AI Tools",
-          "company": "figma",
-          "posted_at": "2026-01-31T15:12:58.918Z"
-        },
-        {
-          "id": "2f60886187a965d7",
-          "title": "Product Designer, Growth & Monetization",
-          "company": "figma",
-          "posted_at": "2026-01-31T15:13:00.989Z"
-        },
-        {
-          "id": "e7f0fc04c621ba85",
-          "title": "Systems Software Engineer",
-          "company": "Apple",
-          "posted_at": "2026-01-31T15:13:02.855Z"
-        },
-        {
-          "id": "e97fca399e81c067",
-          "title": "Software Engineer 1",
-          "company": "T-Rex Solutions",
-          "posted_at": "2026-01-31T15:13:04.765Z"
-        },
-        {
-          "id": "09957feeebb285bf",
-          "title": "Associate Software Engineer",
-          "company": "Talroo",
-          "posted_at": "2026-01-31T15:13:06.517Z"
-        },
-        {
-          "id": "0f1ea6a5816d1195",
-          "title": "AI Data Specialist - Maryland - US",
-          "company": "RWS",
-          "posted_at": "2026-01-31T15:13:11.304Z"
-        },
         {
           "id": "e8497eb4376047fb",
           "title": "AI Data Specialist",
           "company": "RWS",
           "posted_at": "2026-01-31T15:13:13.066Z"
+        },
+        {
+          "id": "f7ad74b9fb7c3e75",
+          "title": "AI Data Specialist",
+          "company": "RWS",
+          "posted_at": "2026-01-31T15:31:51.484Z"
+        },
+        {
+          "id": "1029a1ec7f47038c",
+          "title": "Software Engineer Backend/Platform Systems 1",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T15:31:53.449Z"
+        },
+        {
+          "id": "438880e70e27add3",
+          "title": "Product Designer ",
+          "company": "figma",
+          "posted_at": "2026-01-31T15:32:00.084Z"
+        },
+        {
+          "id": "c37934c7417b42f5",
+          "title": "Entry Configuration Management Engineering Technician",
+          "company": "Amentum",
+          "posted_at": "2026-01-31T15:32:01.886Z"
+        },
+        {
+          "id": "c9dea2b844fbca5d",
+          "title": "Analyst  Data Management - Fixed Income Indices",
+          "company": "S&P Global ",
+          "posted_at": "2026-01-31T15:32:04.050Z"
+        },
+        {
+          "id": "8b0e89441d268a5b",
+          "title": "Application Engineer - Drilling Solutions",
+          "company": "NOV",
+          "posted_at": "2026-01-31T15:32:05.870Z"
+        },
+        {
+          "id": "fc94d260eb3951d9",
+          "title": "Digital Design Engineer",
+          "company": "Rambus",
+          "posted_at": "2026-01-31T15:32:07.870Z"
+        },
+        {
+          "id": "8a31490e834c490e",
+          "title": "Media Operations Technical Associate - Java Development",
+          "company": "The National Football League",
+          "posted_at": "2026-01-31T15:32:09.741Z"
+        },
+        {
+          "id": "eafb105d21e0fc39",
+          "title": "Software Engineer 2 - Full Stack and Application Development",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T15:32:11.575Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 161,
+      "count": 162,
       "jobs": [
         "f4f442f9cac04952",
         "c8357eb905fbf4c2",
@@ -1204,15 +1213,10 @@
         "d25682443af2da58",
         "525cdf9656221bb4",
         "52199891b4ba399e",
-        "b2f389041cc2db22"
+        "b2f389041cc2db22",
+        "1029a1ec7f47038c"
       ],
       "recent_jobs": [
-        {
-          "id": "9b6665d651a96307",
-          "title": "Mixed Methods Researcher - Music Mission",
-          "company": "spotify",
-          "posted_at": "2026-01-31T11:57:48.724Z"
-        },
         {
           "id": "a111f649dd6fa394",
           "title": "Research Technician",
@@ -1266,12 +1270,18 @@
           "title": "Process Development Engineer 3 - Data Enablement and Analytics - DEA/PMPD",
           "company": "Regeneron Pharmaceuticals",
           "posted_at": "2026-01-31T14:59:59.477Z"
+        },
+        {
+          "id": "1029a1ec7f47038c",
+          "title": "Software Engineer Backend/Platform Systems 1",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T15:31:53.449Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 257,
+      "count": 258,
       "jobs": [
         "1515e2d31bd8a292",
         "4024fc363d657d74",
@@ -1529,15 +1539,10 @@
         "e182a05ff27e8581",
         "7ee5606f6e309c91",
         "789c3aaa47ceb5b9",
-        "69322013fb0168cb"
+        "69322013fb0168cb",
+        "f04cc1be6994681a"
       ],
       "recent_jobs": [
-        {
-          "id": "acfc006c2104f94b",
-          "title": "Linux System Administrator",
-          "company": "The Boeing Company",
-          "posted_at": "2026-01-31T12:15:40.950Z"
-        },
         {
           "id": "baaef47f3bdcb26f",
           "title": "Analytics/Dashboarding Analyst - Ada",
@@ -1591,6 +1596,12 @@
           "title": "Research Professional",
           "company": "University of Chicago",
           "posted_at": "2026-01-31T15:00:28.747Z"
+        },
+        {
+          "id": "f04cc1be6994681a",
+          "title": "Program Administrator - Community Centered Data Science",
+          "company": "University of Chicago",
+          "posted_at": "2026-01-31T15:32:16.425Z"
         }
       ]
     },
@@ -2234,11 +2245,39 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5711923004",
-        "title": "Manager, Field Marketing",
+        "job_id": "jobs-ashbyhq-com-clerk-be4962fc-0c3e-47c3-b77e-71e48d62a376",
+        "title": "Product Manager, Billing",
+        "company": "clerk",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T15:31:50.843Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5696205004",
+        "title": "Manager, Mid-Market Sales",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-01-31T15:12:51.201Z"
+        "timestamp": "2026-01-31T15:31:50.843Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5696366004",
+        "title": "Manager, Software Engineering - Creation Engine",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T15:31:50.843Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5697641004",
+        "title": "Manager, Solutions Consulting",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T15:31:50.844Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5705600004",
+        "title": "Partner Manager, Scaled",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-01-31T15:31:50.844Z"
       }
     ],
     "already_posted": [],
@@ -2249,147 +2288,147 @@
         "title": "Developer Campaign Marketer, Claude Code",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.186Z"
+        "timestamp": "2026-01-31T15:31:50.828Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082397008",
         "title": "Head of Azure Partnership",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.187Z"
+        "timestamp": "2026-01-31T15:31:50.828Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.187Z"
+        "timestamp": "2026-01-31T15:31:50.829Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-ai-ml-engineer-rtl-power-optimization-new-college-grad-2026_jr2011172",
         "title": "AI ML Engineer - RTL Power Optimization",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.187Z"
+        "timestamp": "2026-01-31T15:31:50.829Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780584004",
         "title": "Graduate Software Engineer - AI",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.188Z"
+        "timestamp": "2026-01-31T15:31:50.829Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-loop-jobs-5780582004",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
         "company": "Loop",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.188Z"
+        "timestamp": "2026-01-31T15:31:50.830Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-gusto-jobs-7522735",
         "title": "AI / Automation & Governance Owner",
         "company": "gusto",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.188Z"
+        "timestamp": "2026-01-31T15:31:50.830Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.188Z"
+        "timestamp": "2026-01-31T15:31:50.830Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.189Z"
+        "timestamp": "2026-01-31T15:31:50.831Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.189Z"
+        "timestamp": "2026-01-31T15:31:50.831Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.189Z"
+        "timestamp": "2026-01-31T15:31:50.831Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.190Z"
+        "timestamp": "2026-01-31T15:31:50.831Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.190Z"
+        "timestamp": "2026-01-31T15:31:50.832Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.190Z"
+        "timestamp": "2026-01-31T15:31:50.832Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-stratacareers-jobs-7542763003",
         "title": "Analyst – Data Integration",
         "company": "Strata Decision Technology",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.190Z"
+        "timestamp": "2026-01-31T15:31:50.832Z"
       },
       {
         "job_id": "citi-wd5-myworkdayjobs-com-2-job-jacksonville-florida-united-states-technology-application-development-full-time-analyst-jacksonville-usa-2026_25920581",
         "title": "Technology - Application Development",
         "company": "Citi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.191Z"
+        "timestamp": "2026-01-31T15:31:50.833Z"
       },
       {
         "job_id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-developer-technology-engineer-public-sector-new-college-grad-2026_jr2008990",
         "title": "Developer Technology Engineer – New College Grad - Public Sector",
         "company": "NVIDIA",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.191Z"
+        "timestamp": "2026-01-31T15:31:50.833Z"
       },
       {
         "job_id": "citi-wd5-myworkdayjobs-com-2-job-tampa-florida-united-states-technology-application-development-full-time-analyst-tampa-usa-2026_25920348",
         "title": "Technology - Application Development - Full Time Analyst",
         "company": "Citi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.191Z"
+        "timestamp": "2026-01-31T15:31:50.833Z"
       },
       {
         "job_id": "wd3-myworkdaysite-com-recruiting-magna-magna-job-goleta-california-us-software-engineer-i-thermal-cameras_r00193769",
         "title": "Software Engineer 1 - Thermal Camera",
         "company": "Magna",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.191Z"
+        "timestamp": "2026-01-31T15:31:50.833Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-affirm-jobs-7485072003",
         "title": "Software Engineer – Early Career",
         "company": "Affirm",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.191Z"
+        "timestamp": "2026-01-31T15:31:50.834Z"
       },
       {
         "job_id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1",
         "title": "Postdoctoral Research Associate",
         "company": "Texas A&M University - Corpus Christi",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T15:12:51.192Z"
+        "timestamp": "2026-01-31T15:31:50.834Z"
       }
     ]
   }
