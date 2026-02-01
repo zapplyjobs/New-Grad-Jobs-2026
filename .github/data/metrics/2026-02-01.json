@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T10:53:34.275Z",
+  "generated": "2026-02-01T11:04:23.328Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T10:53:34.275Z",
-  "period_end": "2026-02-01T10:53:34.275Z",
+  "period_start": "2026-01-25T11:04:23.328Z",
+  "period_end": "2026-02-01T11:04:23.328Z",
   "summary": {
-    "total_jobs_posted": 2239,
-    "unique_jobs": 1787,
-    "multi_channel_postings": 904,
-    "unique_multi_channel_jobs": 452,
+    "total_jobs_posted": 2259,
+    "unique_jobs": 1797,
+    "multi_channel_postings": 924,
+    "unique_multi_channel_jobs": 462,
     "failed_postings": 0,
-    "filtered_jobs": 10,
+    "filtered_jobs": 8,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1477,
+      "count": 1486,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1493,74 +1493,83 @@
         "4b8d0aa6575ecd55",
         "ed3719199c7bf014",
         "6e6b07c6fa4adb80",
-        "691bfacd56afbecd"
+        "691bfacd56afbecd",
+        "653a1bc572ad38d1",
+        "2723acdcbbad6e36",
+        "39381e1163556946",
+        "115b9eab48e2ce6c",
+        "ae73e5a12a3d4396",
+        "a4c9c51a1d52c3ea",
+        "0f4d159c8a6a5cca",
+        "62b9b23b5bfa74ed",
+        "4a5cd0282882dfd8"
       ],
       "recent_jobs": [
-        {
-          "id": "13b0b84d496aead4",
-          "title": "Software Engineer, TensorRT Specialized Platforms",
-          "company": "NVIDIA",
-          "posted_at": "2026-02-01T10:52:46.304Z"
-        },
-        {
-          "id": "f0ba6ddf4e6a1a09",
-          "title": "Software Engineer (Summer 2026 New Grad)",
-          "company": "Commure",
-          "posted_at": "2026-02-01T10:52:50.105Z"
-        },
-        {
-          "id": "378dcafbdb8bebbe",
-          "title": "Developer Relations Engineer (San Francisco, CA)",
-          "company": "supabase",
-          "posted_at": "2026-02-01T10:52:53.785Z"
-        },
-        {
-          "id": "360ae57f32da3016",
-          "title": "Software Engineer",
-          "company": "Fidelity",
-          "posted_at": "2026-02-01T10:52:57.548Z"
-        },
-        {
-          "id": "dff7acbb7b510ab7",
-          "title": "Product Applications Engineer",
-          "company": "Analog Devices",
-          "posted_at": "2026-02-01T10:53:01.231Z"
-        },
-        {
-          "id": "34ca572016c010c0",
-          "title": "Software Engineer Graduate - AI Applications",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T10:53:05.012Z"
-        },
-        {
-          "id": "4b8d0aa6575ecd55",
-          "title": "GE Vernova Advanced Research 2026 Edison Rotational Program",
-          "company": "GE Vernova",
-          "posted_at": "2026-02-01T10:53:11.921Z"
-        },
-        {
-          "id": "ed3719199c7bf014",
-          "title": "Computer Vision & Machine Learning, Junior",
-          "company": "Allen Control Systems",
-          "posted_at": "2026-02-01T10:53:15.574Z"
-        },
-        {
-          "id": "6e6b07c6fa4adb80",
-          "title": "Machine Learning Graduate - 2026 Start",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T10:53:19.691Z"
-        },
         {
           "id": "691bfacd56afbecd",
           "title": "Support Engineer",
           "company": "Zuma",
           "posted_at": "2026-02-01T10:53:23.536Z"
+        },
+        {
+          "id": "653a1bc572ad38d1",
+          "title": "Deutsche Bank Graduate Programme - Technology - Data and Innovation",
+          "company": "Deutsche Bank",
+          "posted_at": "2026-02-01T11:03:31.610Z"
+        },
+        {
+          "id": "2723acdcbbad6e36",
+          "title": "Associate Value Engineer (Industrial Engineering & AI Applications)",
+          "company": "Celonis",
+          "posted_at": "2026-02-01T11:03:36.611Z"
+        },
+        {
+          "id": "39381e1163556946",
+          "title": "Associate Value Engineer (AI for Supply Chain)",
+          "company": "Celonis",
+          "posted_at": "2026-02-01T11:03:40.466Z"
+        },
+        {
+          "id": "115b9eab48e2ce6c",
+          "title": "Associate, Software Engineer",
+          "company": "Epsilon",
+          "posted_at": "2026-02-01T11:03:44.238Z"
+        },
+        {
+          "id": "ae73e5a12a3d4396",
+          "title": "Software Engineer - Identity",
+          "company": "Zip",
+          "posted_at": "2026-02-01T11:03:48.084Z"
+        },
+        {
+          "id": "a4c9c51a1d52c3ea",
+          "title": "AI System Engineer",
+          "company": "NVIDIA",
+          "posted_at": "2026-02-01T11:03:51.705Z"
+        },
+        {
+          "id": "0f4d159c8a6a5cca",
+          "title": "Software Engineer – Early Career - PhD - Infrastructure",
+          "company": "Google",
+          "posted_at": "2026-02-01T11:03:58.607Z"
+        },
+        {
+          "id": "62b9b23b5bfa74ed",
+          "title": "Machine Learning Engineer Graduate - Tiktok Recommendation-Live - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T11:04:02.580Z"
+        },
+        {
+          "id": "4a5cd0282882dfd8",
+          "title": "2026 University Graduate - Machine Learning Engineer",
+          "company": "Adobe",
+          "posted_at": "2026-02-01T11:04:06.265Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 266,
+      "count": 274,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1827,57 +1836,17 @@
         "34ca572016c010c0",
         "4b8d0aa6575ecd55",
         "6e6b07c6fa4adb80",
-        "691bfacd56afbecd"
+        "691bfacd56afbecd",
+        "653a1bc572ad38d1",
+        "2723acdcbbad6e36",
+        "39381e1163556946",
+        "ae73e5a12a3d4396",
+        "a4c9c51a1d52c3ea",
+        "0f4d159c8a6a5cca",
+        "62b9b23b5bfa74ed",
+        "c083a0d54b6a3f43"
       ],
       "recent_jobs": [
-        {
-          "id": "bc8db8832bb50d78",
-          "title": "Security Software Engineer I",
-          "company": "Aurora",
-          "posted_at": "2026-02-01T10:33:54.978Z"
-        },
-        {
-          "id": "cd3cd1296ab68d2a",
-          "title": "Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T10:34:01.590Z"
-        },
-        {
-          "id": "13b0b84d496aead4",
-          "title": "Software Engineer, TensorRT Specialized Platforms",
-          "company": "NVIDIA",
-          "posted_at": "2026-02-01T10:52:46.304Z"
-        },
-        {
-          "id": "f0ba6ddf4e6a1a09",
-          "title": "Software Engineer (Summer 2026 New Grad)",
-          "company": "Commure",
-          "posted_at": "2026-02-01T10:52:50.105Z"
-        },
-        {
-          "id": "378dcafbdb8bebbe",
-          "title": "Developer Relations Engineer (San Francisco, CA)",
-          "company": "supabase",
-          "posted_at": "2026-02-01T10:52:53.785Z"
-        },
-        {
-          "id": "dff7acbb7b510ab7",
-          "title": "Product Applications Engineer",
-          "company": "Analog Devices",
-          "posted_at": "2026-02-01T10:53:01.231Z"
-        },
-        {
-          "id": "34ca572016c010c0",
-          "title": "Software Engineer Graduate - AI Applications",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T10:53:05.012Z"
-        },
-        {
-          "id": "4b8d0aa6575ecd55",
-          "title": "GE Vernova Advanced Research 2026 Edison Rotational Program",
-          "company": "GE Vernova",
-          "posted_at": "2026-02-01T10:53:11.921Z"
-        },
         {
           "id": "6e6b07c6fa4adb80",
           "title": "Machine Learning Graduate - 2026 Start",
@@ -1889,12 +1858,60 @@
           "title": "Support Engineer",
           "company": "Zuma",
           "posted_at": "2026-02-01T10:53:23.536Z"
+        },
+        {
+          "id": "653a1bc572ad38d1",
+          "title": "Deutsche Bank Graduate Programme - Technology - Data and Innovation",
+          "company": "Deutsche Bank",
+          "posted_at": "2026-02-01T11:03:31.610Z"
+        },
+        {
+          "id": "2723acdcbbad6e36",
+          "title": "Associate Value Engineer (Industrial Engineering & AI Applications)",
+          "company": "Celonis",
+          "posted_at": "2026-02-01T11:03:36.611Z"
+        },
+        {
+          "id": "39381e1163556946",
+          "title": "Associate Value Engineer (AI for Supply Chain)",
+          "company": "Celonis",
+          "posted_at": "2026-02-01T11:03:40.466Z"
+        },
+        {
+          "id": "ae73e5a12a3d4396",
+          "title": "Software Engineer - Identity",
+          "company": "Zip",
+          "posted_at": "2026-02-01T11:03:48.084Z"
+        },
+        {
+          "id": "a4c9c51a1d52c3ea",
+          "title": "AI System Engineer",
+          "company": "NVIDIA",
+          "posted_at": "2026-02-01T11:03:51.705Z"
+        },
+        {
+          "id": "0f4d159c8a6a5cca",
+          "title": "Software Engineer – Early Career - PhD - Infrastructure",
+          "company": "Google",
+          "posted_at": "2026-02-01T11:03:58.607Z"
+        },
+        {
+          "id": "62b9b23b5bfa74ed",
+          "title": "Machine Learning Engineer Graduate - Tiktok Recommendation-Live - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T11:04:02.580Z"
+        },
+        {
+          "id": "c083a0d54b6a3f43",
+          "title": "Data Scientist Graduate - Tiktok UG-Mid Platform - 2026 Start (to be filtered)",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T11:04:13.069Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 170,
+      "count": 171,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2065,15 +2082,10 @@
         "d491e1a1d62f1061",
         "44698e2ec607c16b",
         "360ae57f32da3016",
-        "ed3719199c7bf014"
+        "ed3719199c7bf014",
+        "115b9eab48e2ce6c"
       ],
       "recent_jobs": [
-        {
-          "id": "571343088974ad3a",
-          "title": "Associate Software Development Engineer",
-          "company": "CVS Health",
-          "posted_at": "2026-02-01T10:04:19.778Z"
-        },
         {
           "id": "e9c43e5f9da5e2b2",
           "title": "Entry Level Software Engineer",
@@ -2127,12 +2139,18 @@
           "title": "Computer Vision & Machine Learning, Junior",
           "company": "Allen Control Systems",
           "posted_at": "2026-02-01T10:53:15.574Z"
+        },
+        {
+          "id": "115b9eab48e2ce6c",
+          "title": "Associate, Software Engineer",
+          "company": "Epsilon",
+          "posted_at": "2026-02-01T11:03:44.238Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 310,
+      "count": 311,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2443,15 +2461,10 @@
         "d5f565da67f2981e",
         "789386e9934d52fb",
         "c64c3ee0fa2b078a",
-        "4ec74a5eaf9f2ce3"
+        "4ec74a5eaf9f2ce3",
+        "c083a0d54b6a3f43"
       ],
       "recent_jobs": [
-        {
-          "id": "f7c3058db14ecddf",
-          "title": "Internal Technical Consultant",
-          "company": "Appian",
-          "posted_at": "2026-02-01T06:25:47.935Z"
-        },
         {
           "id": "92b51cb9f2700d49",
           "title": "Associate Application Developer - Appian Platform",
@@ -2505,12 +2518,18 @@
           "title": "Implementation Analyst",
           "company": "Alfa Financial Software ",
           "posted_at": "2026-02-01T10:14:50.491Z"
+        },
+        {
+          "id": "c083a0d54b6a3f43",
+          "title": "Data Scientist Graduate - Tiktok UG-Mid Platform - 2026 Start (to be filtered)",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T11:04:13.069Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 16,
+      "count": 17,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2527,15 +2546,10 @@
         "74687fce785a8088",
         "2f7bcb4bcd2b7a8b",
         "92df9e5213d131f1",
-        "7d40e176dc1ae50c"
+        "7d40e176dc1ae50c",
+        "4a5cd0282882dfd8"
       ],
       "recent_jobs": [
-        {
-          "id": "352b726114ab53d9",
-          "title": "Research Engineer Graduate - Seed-Infra-Inference-US - PhD",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T07:26:35.644Z"
-        },
         {
           "id": "cfb05456e045ab95",
           "title": "Graduate Research Engineer",
@@ -2589,6 +2603,12 @@
           "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
           "company": "Oracle",
           "posted_at": "2026-02-01T10:14:09.224Z"
+        },
+        {
+          "id": "4a5cd0282882dfd8",
+          "title": "2026 University Graduate - Machine Learning Engineer",
+          "company": "Adobe",
+          "posted_at": "2026-02-01T11:04:06.265Z"
         }
       ]
     }
@@ -3097,22 +3117,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-fellow_r115210-1",
-        "title": "Postdoctoral Research Fellow",
-        "company": "Northeastern",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T10:52:45.671Z"
-      },
-      {
-        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-researcher-aerosols-and-hydroclimate-risk_r_00041495",
-        "title": "Postdoctoral Researcher - Aerosols and hydroclimate risk",
-        "company": "University of Texas - Austin",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T10:52:45.671Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -3121,56 +3126,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.654Z"
+        "timestamp": "2026-02-01T11:03:31.370Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.655Z"
+        "timestamp": "2026-02-01T11:03:31.370Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.655Z"
+        "timestamp": "2026-02-01T11:03:31.371Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.656Z"
+        "timestamp": "2026-02-01T11:03:31.371Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.656Z"
+        "timestamp": "2026-02-01T11:03:31.372Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.656Z"
+        "timestamp": "2026-02-01T11:03:31.372Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.657Z"
+        "timestamp": "2026-02-01T11:03:31.372Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T10:52:45.657Z"
+        "timestamp": "2026-02-01T11:03:31.373Z"
       }
     ]
   }
