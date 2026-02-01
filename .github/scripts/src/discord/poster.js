@@ -19,6 +19,54 @@ const { generateJobId } = require('../../job-fetcher/utils');
 // Load company data for tier detection
 const companies = JSON.parse(fs.readFileSync(path.join(__dirname, '../../job-fetcher', 'companies.json'), 'utf8'));
 
+// State name to abbreviation mapping for consistent location formatting
+const STATE_ABBREVIATIONS = {
+  'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR', 'california': 'CA',
+  'colorado': 'CO', 'connecticut': 'CT', 'delaware': 'DE', 'florida': 'FL', 'georgia': 'GA',
+  'hawaii': 'HI', 'idaho': 'ID', 'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA',
+  'kansas': 'KS', 'kentucky': 'KY', 'louisiana': 'LA', 'maine': 'ME', 'maryland': 'MD',
+  'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN', 'mississippi': 'MS', 'missouri': 'MO',
+  'montana': 'MT', 'nebraska': 'NE', 'nevada': 'NV', 'new hampshire': 'NH', 'new jersey': 'NJ',
+  'new mexico': 'NM', 'new york': 'NY', 'north carolina': 'NC', 'north dakota': 'ND', 'ohio': 'OH',
+  'oklahoma': 'OK', 'oregon': 'OR', 'pennsylvania': 'PA', 'rhode island': 'RI', 'south carolina': 'SC',
+  'south dakota': 'SD', 'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT', 'vermont': 'VT',
+  'virginia': 'VA', 'washington': 'WA', 'west virginia': 'WV', 'wisconsin': 'WI', 'wyoming': 'WY',
+  'district of columbia': 'DC'
+};
+
+/**
+ * Format location for consistent display
+ * @param {string} city - Job city
+ * @param {string} state - Job state
+ * @returns {string} Formatted location string
+ */
+function formatLocation(city, state) {
+  // If city is explicitly "Remote", just return "Remote"
+  if (city && city.toLowerCase() === 'remote') {
+    return 'Remote';
+  }
+
+  // Convert state to abbreviation if it's a full state name
+  let stateAbbr = state;
+  if (state) {
+    const stateLower = state.toLowerCase().trim();
+    stateAbbr = STATE_ABBREVIATIONS[stateLower] || state;
+  }
+
+  // If no city but has state, just show state
+  if (!city || city.trim() === '' || city.toLowerCase() === 'not specified') {
+    return stateAbbr || 'Remote';
+  }
+
+  // If has city and state, show "City, ST"
+  if (stateAbbr) {
+    return `${city}, ${stateAbbr}`;
+  }
+
+  // If only city, show city
+  return city;
+}
+
 /**
  * Generate tags for a job based on title, description, and company
  * @param {Object} job - Job object
@@ -68,6 +116,7 @@ function generateTags(job) {
   const techStack = {
     // High-priority keywords (title match preferred)
     'machine learning': 'ML', 'ai': 'AI', 'data science': 'DataScience',
+    'digital engineer': 'SWE', 'digital engineering': 'SWE',
     'ios': 'iOS', 'android': 'Android', 'mobile': 'Mobile',
     'frontend': 'Frontend', 'backend': 'Backend', 'fullstack': 'FullStack',
     'devops': 'DevOps', 'security': 'Security', 'blockchain': 'Blockchain',
@@ -157,9 +206,7 @@ function buildJobEmbed(job, options = {}) {
         name: '📍 Location',
         value: job._multipleLocations && job._multipleLocations.length > 1
           ? job._multipleLocations.map(loc => loc.charAt(0).toUpperCase() + loc.slice(1)).join(', ')
-          : (job.job_city && job.job_city.toLowerCase() === 'remote')
-            ? 'Remote'
-            : `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`,
+          : formatLocation(job.job_city, job.job_state),
         inline: true
       },
       { name: '💰 Posted', value: postedValue, inline: true }
