@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T00:01:14.393Z",
+  "generated": "2026-02-01T00:30:05.600Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T00:01:14.393Z",
-  "period_end": "2026-02-01T00:01:14.393Z",
+  "period_start": "2026-01-25T00:30:05.600Z",
+  "period_end": "2026-02-01T00:30:05.600Z",
   "summary": {
-    "total_jobs_posted": 1805,
-    "unique_jobs": 1547,
-    "multi_channel_postings": 516,
-    "unique_multi_channel_jobs": 258,
+    "total_jobs_posted": 1817,
+    "unique_jobs": 1557,
+    "multi_channel_postings": 520,
+    "unique_multi_channel_jobs": 260,
     "failed_postings": 0,
-    "filtered_jobs": 8,
+    "filtered_jobs": 9,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1263,
+      "count": 1273,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1279,74 +1279,84 @@
         "2d9ad150af9c343e",
         "f1a9e40c1b5c025d",
         "1815cf6721324498",
-        "e6ce64f3505e9353"
+        "e6ce64f3505e9353",
+        "e711ebe44bd94248",
+        "01db66d10e759565",
+        "99d803f0747c09ad",
+        "42d931a20dc478c1",
+        "bd12b404b8d31b88",
+        "1c61d8c187b76ba3",
+        "2d1e4254666d0b86",
+        "4ff4370a8215f6f6",
+        "c568d18ca0f509ae",
+        "22e5aa5df3557be1"
       ],
       "recent_jobs": [
         {
-          "id": "e8957d7f012c1364",
-          "title": "Junior Software QA Engineer",
-          "company": "Logitech",
-          "posted_at": "2026-02-01T00:00:40.657Z"
-        },
-        {
-          "id": "05bedcaff886294b",
-          "title": "Graduate Environmental Engineer",
-          "company": "GHD",
-          "posted_at": "2026-02-01T00:00:42.486Z"
-        },
-        {
-          "id": "cc0f3137368a6045",
-          "title": "Visual Perception Algorithm Engineer Graduate - Human Body Perception Direction",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T00:00:44.332Z"
-        },
-        {
-          "id": "e7e1e729f3e9b841",
-          "title": "Marketing Science Analyst - February 16th - 2026 Start",
-          "company": "Analytic Partners",
-          "posted_at": "2026-02-01T00:00:46.305Z"
-        },
-        {
-          "id": "06edaede43684216",
-          "title": "Jr. Software Engineer",
-          "company": "Spot & Tango",
-          "posted_at": "2026-02-01T00:00:48.230Z"
-        },
-        {
-          "id": "bd4f977e36115c06",
-          "title": "Learning Technology Specialist",
-          "company": "Wieland",
-          "posted_at": "2026-02-01T00:00:51.824Z"
-        },
-        {
-          "id": "2d9ad150af9c343e",
-          "title": "Demo Engineer, Software Development",
-          "company": "Shopify",
-          "posted_at": "2026-02-01T00:00:53.670Z"
-        },
-        {
-          "id": "f1a9e40c1b5c025d",
-          "title": "Java Developer",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T00:00:57.681Z"
-        },
-        {
-          "id": "1815cf6721324498",
+          "id": "e711ebe44bd94248",
           "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
           "company": "Veeva Systems",
-          "posted_at": "2026-02-01T00:01:02.496Z"
+          "posted_at": "2026-02-01T00:29:33.830Z"
         },
         {
-          "id": "e6ce64f3505e9353",
-          "title": "Marketing Analytics - Data Analyst - Adp",
+          "id": "01db66d10e759565",
+          "title": "Associate Software Engineer – Seeking 2026 Grads",
           "company": "Veeva Systems",
-          "posted_at": "2026-02-01T00:01:04.290Z"
+          "posted_at": "2026-02-01T00:29:35.807Z"
+        },
+        {
+          "id": "99d803f0747c09ad",
+          "title": "Software Engineer 1",
+          "company": "Intuit",
+          "posted_at": "2026-02-01T00:29:37.555Z"
+        },
+        {
+          "id": "42d931a20dc478c1",
+          "title": "Research Engineer - Cbrn",
+          "company": "DeepMind",
+          "posted_at": "2026-02-01T00:29:39.410Z"
+        },
+        {
+          "id": "bd12b404b8d31b88",
+          "title": "AI Deployment Analyst",
+          "company": "Silna Health",
+          "posted_at": "2026-02-01T00:29:41.280Z"
+        },
+        {
+          "id": "1c61d8c187b76ba3",
+          "title": "Technical Consultant",
+          "company": "Groundswell",
+          "posted_at": "2026-02-01T00:29:48.080Z"
+        },
+        {
+          "id": "2d1e4254666d0b86",
+          "title": "Software Engineer 1 SAS Programmer",
+          "company": "Truist Bank",
+          "posted_at": "2026-02-01T00:29:49.893Z"
+        },
+        {
+          "id": "4ff4370a8215f6f6",
+          "title": "Application Software Engineer",
+          "company": "SpaceX",
+          "posted_at": "2026-02-01T00:29:51.774Z"
+        },
+        {
+          "id": "c568d18ca0f509ae",
+          "title": "Account Executive , USA ",
+          "company": "supabase",
+          "posted_at": "2026-02-01T00:29:53.568Z"
+        },
+        {
+          "id": "22e5aa5df3557be1",
+          "title": " Account Executive, EMEA",
+          "company": "supabase",
+          "posted_at": "2026-02-01T00:29:57.276Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 182,
+      "count": 183,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1529,15 +1539,10 @@
         "fa5de1b48a896633",
         "79810f049c9d7f6f",
         "06edaede43684216",
-        "e6ce64f3505e9353"
+        "e6ce64f3505e9353",
+        "bd12b404b8d31b88"
       ],
       "recent_jobs": [
-        {
-          "id": "c5f61b22ef63839d",
-          "title": "Data Scientist – Early Career - Research - PhD",
-          "company": "Google",
-          "posted_at": "2026-01-31T18:15:04.223Z"
-        },
         {
           "id": "18e32312bb4bebcd",
           "title": "2026 BNY Analyst Program-Engineering - Data Science",
@@ -1591,12 +1596,18 @@
           "title": "Marketing Analytics - Data Analyst - Adp",
           "company": "Veeva Systems",
           "posted_at": "2026-02-01T00:01:04.290Z"
+        },
+        {
+          "id": "bd12b404b8d31b88",
+          "title": "AI Deployment Analyst",
+          "company": "Silna Health",
+          "posted_at": "2026-02-01T00:29:41.280Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 76,
+      "count": 77,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1673,15 +1684,10 @@
         "f4e29bb5988b77d7",
         "9377290890d45289",
         "ca8213d91a563ba9",
-        "2d9ad150af9c343e"
+        "2d9ad150af9c343e",
+        "c568d18ca0f509ae"
       ],
       "recent_jobs": [
-        {
-          "id": "76744a212eeaff72",
-          "title": "Software Development",
-          "company": "Zoom",
-          "posted_at": "2026-01-31T17:04:08.143Z"
-        },
         {
           "id": "6cf6aa83e12b6dc9",
           "title": "Software Engineer",
@@ -1735,6 +1741,12 @@
           "title": "Demo Engineer, Software Development",
           "company": "Shopify",
           "posted_at": "2026-02-01T00:00:53.670Z"
+        },
+        {
+          "id": "c568d18ca0f509ae",
+          "title": "Account Executive , USA ",
+          "company": "supabase",
+          "posted_at": "2026-02-01T00:29:53.568Z"
         }
       ]
     },
@@ -2595,7 +2607,15 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "lbl-taleo-net-careersection-5-jobdetail-ftl",
+        "title": "Hoffman Distinguished Postdoctoral Fellow - Nuclear Nonproliferation",
+        "company": "Lawrence Berkeley National Laboratory",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T00:29:33.169Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -2604,56 +2624,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.281Z"
+        "timestamp": "2026-02-01T00:29:33.153Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.282Z"
+        "timestamp": "2026-02-01T00:29:33.153Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.282Z"
+        "timestamp": "2026-02-01T00:29:33.154Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.282Z"
+        "timestamp": "2026-02-01T00:29:33.154Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.283Z"
+        "timestamp": "2026-02-01T00:29:33.155Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.283Z"
+        "timestamp": "2026-02-01T00:29:33.155Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.283Z"
+        "timestamp": "2026-02-01T00:29:33.155Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T00:00:40.284Z"
+        "timestamp": "2026-02-01T00:29:33.156Z"
       }
     ]
   }
