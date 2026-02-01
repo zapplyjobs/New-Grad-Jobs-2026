@@ -151,6 +151,48 @@ function generateJobFingerprint(job) {
 }
 
 /**
+ * Generate MINIMAL job fingerprint for Simplify.jobs deduplication
+ *
+ * CRITICAL: This is LESS aggressive than generateJobFingerprint()
+ * - Normalizes ONLY trailing dashes/whitespace (not team suffixes)
+ * - Preserves meaningful job distinctions (Backend vs Frontend, etc.)
+ * - Handles minor title variations (capitalization, trailing symbols)
+ *
+ * Use case: Simplify.jobs returns same job with slight title variations
+ * Example: "Software Engineer" vs "Software Engineer - " should match
+ * BUT: "Software Engineer - Backend" vs "Software Engineer - Frontend" should NOT match
+ */
+function generateMinimalJobFingerprint(job) {
+    // Extract and normalize title
+    let title = (job.title || job.job_title || '').toLowerCase().trim();
+
+    // MINIMAL normalization: only trailing dashes/whitespace
+    // Do NOT remove team suffixes - they are meaningful!
+    title = title
+        .replace(/[-_\s]+$/, '')  // Remove trailing dashes, underscores, whitespace
+        .replace(/\s+/g, ' ')       // Normalize internal whitespace
+        .trim();
+
+    // Normalize company name (minimal)
+    const company = (job.company_name || job.employer_name || '')
+        .toLowerCase()
+        .trim()
+        .replace(/\s+(inc\.?|llc|corp\.?|ltd\.?)$/i, '');  // Remove legal suffixes only
+
+    // Normalize location (city only, no state/country)
+    let location = '';
+    if (job.locations && Array.isArray(job.locations) && job.locations.length > 0) {
+        location = job.locations[0].split(',')[0]; // Take city part only
+    } else {
+        location = (job.job_city || '').split(',')[0];
+    }
+    location = location.toLowerCase().trim();
+
+    // Create minimal fingerprint (company::title::location format)
+    return `${company}::${title}::${location}`;
+}
+
+/**
  * Convert old job ID format to new standardized format
  * This helps with migration from the old inconsistent ID system
  */
@@ -530,6 +572,7 @@ module.exports = {
     generateJobId,
     generateEnhancedId,
     generateJobFingerprint,
+    generateMinimalJobFingerprint,
     migrateOldJobId,
     normalizeCompanyName,
     getCompanyEmoji,

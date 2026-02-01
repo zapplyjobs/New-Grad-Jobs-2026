@@ -7,6 +7,7 @@ const {
     COMPANY_BY_NAME,
     generateJobId,
     generateJobFingerprint,
+    generateMinimalJobFingerprint,
     migrateOldJobId,
     normalizeCompanyName,
     getCompanyEmoji,
@@ -565,24 +566,41 @@ function savePendingQueue(queue) {
 /**
  * Enhanced cleanup: Remove posted jobs and deduplicate queue
  * @param {Array} queue - Pending posts queue
- * @param {Set} postedIds - Set of job IDs already posted to Discord
+ * @param {Object} postedStore - { ids: Set<jobId>, fingerprints: Set<fingerprint> }
  * @returns {Array} Cleaned and deduplicated queue
  */
-function cleanupPostedFromQueue(queue, postedIds) {
+function cleanupPostedFromQueue(queue, postedStore) {
     const beforeCount = queue.length;
 
-    // Step 1: Remove jobs already posted to Discord
-    const notPosted = queue.filter(item => !postedIds.has(item.job.id));
+    // Step 1: Remove jobs already posted to Discord (check BOTH ID AND fingerprint)
+    const notPosted = queue.filter(item => {
+        const jobId = item.job.id;
+        const fingerprint = generateMinimalJobFingerprint(item.job);
+
+        // Skip if ID or fingerprint already posted
+        if (postedStore.ids.has(jobId)) {
+            return false;
+        }
+        if (postedStore.fingerprints.has(fingerprint)) {
+            console.log(`🔍 Fingerprint match: ${item.job.title} @ ${item.job.company} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
+            return false;
+        }
+        return true;
+    });
     const removedPosted = beforeCount - notPosted.length;
 
-    // Step 2: Deduplicate by job ID (keep first occurrence, FIFO)
-    const seen = new Set();
+    // Step 2: Deduplicate by job ID AND fingerprint (keep first occurrence, FIFO)
+    const seenIds = new Set();
+    const seenFingerprints = new Set();
     const deduplicated = notPosted.filter(item => {
         const id = item.job.id;
-        if (seen.has(id)) {
+        const fingerprint = generateMinimalJobFingerprint(item.job);
+
+        if (seenIds.has(id) || seenFingerprints.has(fingerprint)) {
             return false; // Duplicate, skip
         }
-        seen.add(id);
+        seenIds.add(id);
+        seenFingerprints.add(fingerprint);
         return true; // First occurrence, keep
     });
 
@@ -717,25 +735,41 @@ function loadPostedJobsStore() {
     try {
         if (!fs.existsSync(postedPath)) {
             console.log('ℹ️ No existing posted_jobs.json found - starting fresh');
-            return new Set();
+            return { ids: new Set(), fingerprints: new Set() };
         }
 
         const fileContent = fs.readFileSync(postedPath, 'utf8');
         if (!fileContent.trim()) {
             console.log('⚠️ Empty posted_jobs.json file - starting fresh');
-            return new Set();
+            return { ids: new Set(), fingerprints: new Set() };
         }
 
         const postedData = JSON.parse(fileContent);
 
         // Handle V2 format (current): {version: 2, jobs: [...], lastUpdated: "...", metadata: {}}
         if (postedData.version === 2 && Array.isArray(postedData.jobs)) {
-            const validPostedJobs = postedData.jobs
-                .map(job => job.jobId || job.id)
-                .filter(id => typeof id === 'string' && id.trim().length > 0);
+            const ids = new Set();
+            const fingerprints = new Set();
 
-            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V2 format)`);
-            return new Set(validPostedJobs);
+            postedData.jobs.forEach(job => {
+                const jobId = job.jobId || job.id;
+                if (typeof jobId === 'string' && jobId.trim().length > 0) {
+                    ids.add(jobId);
+                }
+
+                // Generate fingerprint from stored job data for deduplication
+                if (job.company && job.title) {
+                    const fingerprint = generateMinimalJobFingerprint({
+                        title: job.title,
+                        company_name: job.company,
+                        job_city: job.job_city || ''
+                    });
+                    fingerprints.add(fingerprint);
+                }
+            });
+
+            console.log(`✅ Loaded ${ids.size} previously posted jobs (${fingerprints.size} fingerprints) for deduplication (V2 format)`);
+            return { ids, fingerprints };
         }
 
         // Handle V1 format (backwards compatibility): [...]
@@ -747,17 +781,17 @@ function loadPostedJobsStore() {
             }
 
             console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V1 format)`);
-            return new Set(validPostedJobs);
+            return { ids: new Set(validPostedJobs), fingerprints: new Set() };
         }
 
         console.log('⚠️ Invalid posted_jobs.json format - starting fresh');
-        return new Set();
+        return { ids: new Set(), fingerprints: new Set() };
 
     } catch (error) {
         console.error('❌ Error loading posted_jobs.json:', error.message);
         console.log('ℹ️ Starting with empty posted jobs set');
 
-        return new Set();
+        return { ids: new Set(), fingerprints: new Set() };
     }
 }
 
@@ -772,7 +806,7 @@ async function processJobs() {
         // Load posted jobs for accurate deduplication
         // Use posted_jobs.json (what we've successfully posted to Discord)
         // instead of seen_jobs.json (what we've fetched from APIs)
-        const postedIds = loadPostedJobsStore();
+        const postedStore = loadPostedJobsStore(); // Returns { ids, fingerprints }
         const { seenIds, seenFingerprints } = loadSeenJobsStore(); // Returns {seenIds: Set, seenFingerprints: Set}
 
         // Load job dates store
@@ -832,37 +866,46 @@ async function processJobs() {
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
         let queue = loadPendingQueue();
-        queue = cleanupPostedFromQueue(queue, postedIds);
+        queue = cleanupPostedFromQueue(queue, postedStore);
 
         // Create sets of job IDs and fingerprints already in queue to prevent duplicate additions
         const queueIds = new Set(queue.map(item => item.job.id));
-        const queueFingerprints = new Set(queue.map(item => generateJobFingerprint(item.job)));
+        const queueFingerprints = new Set(queue.map(item => generateMinimalJobFingerprint(item.job)));
 
-        // STEP 2: Filter for truly NEW jobs (deduplication against BOTH seen_jobs.json AND queue)
+        // STEP 2: Filter for truly NEW jobs (deduplication against posted jobs, seen_jobs.json, AND queue)
         // This ensures we don't add the same job to queue multiple times
         // Log EVERY deduplication check for debugging
         const freshJobs = currentJobs.filter(job => {
-            // Layer 1: URL-based ID check (existing)
-            const isInSeenById = seenIds.has(job.id);
-            const isInQueueById = queueIds.has(job.id);
+            const jobId = job.id;
+            const fingerprint = generateMinimalJobFingerprint(job);
 
-            // Layer 2: Content fingerprint check (NEW - catches duplicates with different IDs)
-            const jobFingerprint = generateJobFingerprint(job);
-            const isInSeenByFingerprint = seenFingerprints.has(jobFingerprint);
-            const isInQueueByFingerprint = queueFingerprints.has(jobFingerprint);
+            // Check against already-posted jobs (by ID or fingerprint)
+            const isPostedId = postedStore.ids.has(jobId);
+            const isPostedFingerprint = postedStore.fingerprints.has(fingerprint);
 
-            // Combined duplicate check
-            const isDuplicate = isInSeenById || isInQueueById ||
-                               isInSeenByFingerprint || isInQueueByFingerprint;
+            // Check against seen jobs (fetched from APIs before)
+            const isInSeen = seenIds.has(jobId);
 
-            // Determine match method and reason for logging
-            const matchMethod = isInSeenById || isInQueueById ? 'id' :
-                               isInSeenByFingerprint || isInQueueByFingerprint ? 'fingerprint' : null;
-            const reason = (isInSeenById || isInSeenByFingerprint) ? 'seen_jobs' :
-                          (isInQueueById || isInQueueByFingerprint) ? 'pending_queue' : null;
+            // Check against pending queue
+            const isInQueue = queueIds.has(jobId);
+            const isInQueueByFingerprint = queueFingerprints.has(fingerprint);
 
-            // Log this check with enhanced metadata
-            dedupLogger.logCheck(job, job.id, isDuplicate, null, reason, matchMethod, jobFingerprint);
+            // Job is duplicate if ANY check matches
+            const isDuplicate = isPostedId || isPostedFingerprint || isInSeen || isInQueue || isInQueueByFingerprint;
+
+            // Log this check
+            let reason = null;
+            if (isPostedFingerprint) reason = 'posted_fingerprint';
+            else if (isPostedId) reason = 'posted_id';
+            else if (isInSeen) reason = 'seen_jobs';
+            else if (isInQueueByFingerprint) reason = 'queue_fingerprint';
+            else if (isInQueue) reason = 'pending_queue';
+
+            if (isDuplicate && isPostedFingerprint) {
+                console.log(`🔍 Fingerprint blocked fresh job: ${job.title} @ ${job.company} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
+            }
+
+            dedupLogger.logCheck(job, jobId, isDuplicate, fingerprint, reason);
 
             return !isDuplicate;
         });
