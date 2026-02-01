@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T14:28:08.724Z",
+  "generated": "2026-02-01T14:37:05.162Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T14:28:08.724Z",
-  "period_end": "2026-02-01T14:28:08.724Z",
+  "period_start": "2026-01-25T14:37:05.162Z",
+  "period_end": "2026-02-01T14:37:05.162Z",
   "summary": {
-    "total_jobs_posted": 2493,
-    "unique_jobs": 1917,
-    "multi_channel_postings": 1152,
-    "unique_multi_channel_jobs": 576,
+    "total_jobs_posted": 2513,
+    "unique_jobs": 1927,
+    "multi_channel_postings": 1172,
+    "unique_multi_channel_jobs": 586,
     "failed_postings": 0,
-    "filtered_jobs": 8,
+    "filtered_jobs": 9,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1592,
+      "count": 1601,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1608,74 +1608,83 @@
         "496c98f3c28692c3",
         "be7ccd327d584e73",
         "7b305287eb01e5ee",
-        "1a00e79d54ef7487"
+        "1a00e79d54ef7487",
+        "6531afed4c5e7819",
+        "66a53c382e106d77",
+        "8d89cbf963dc1516",
+        "3a7f043b61022109",
+        "468292ae274d5e37",
+        "6ab81e0f19a712e5",
+        "b41b7cecad193b2f",
+        "6827463e1174676d",
+        "dae3378a7392f9c8"
       ],
       "recent_jobs": [
-        {
-          "id": "4560752799a4fc98",
-          "title": "SAS Administrator",
-          "company": "US Tech Solutions",
-          "posted_at": "2026-02-01T14:17:09.098Z"
-        },
-        {
-          "id": "c61300391e9cf9a5",
-          "title": "Campus ML Engineer (Full-Time)",
-          "company": "Jump Trading",
-          "posted_at": "2026-02-01T14:17:18.178Z"
-        },
-        {
-          "id": "5ec57e677d7fc646",
-          "title": "Campus AI Researcher (Full-Time)",
-          "company": "Jump Trading",
-          "posted_at": "2026-02-01T14:17:21.782Z"
-        },
-        {
-          "id": "4328dea3722ee0c7",
-          "title": "Hiring for OPT/H4EAD/GC",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:20.434Z"
-        },
-        {
-          "id": "6d8bf83cfa7e96a2",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:24.240Z"
-        },
-        {
-          "id": "3cafb5640fe39fd0",
-          "title": "SAP ERP Analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T14:27:28.036Z"
-        },
-        {
-          "id": "496c98f3c28692c3",
-          "title": "Java Informatica MicroStrategy Training",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:31.796Z"
-        },
-        {
-          "id": "be7ccd327d584e73",
-          "title": "Embedded Software Engineer",
-          "company": "Applied Intuition",
-          "posted_at": "2026-02-01T14:27:35.618Z"
-        },
-        {
-          "id": "7b305287eb01e5ee",
-          "title": "Entry Level Software Developer",
-          "company": "Gannett Fleming",
-          "posted_at": "2026-02-01T14:27:39.379Z"
-        },
         {
           "id": "1a00e79d54ef7487",
           "title": "Training and Placement on Java Informatica Microstrategy Tableau",
           "company": "AG Technologies",
           "posted_at": "2026-02-01T14:27:41.226Z"
+        },
+        {
+          "id": "6531afed4c5e7819",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:14.889Z"
+        },
+        {
+          "id": "66a53c382e106d77",
+          "title": "Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:18.587Z"
+        },
+        {
+          "id": "8d89cbf963dc1516",
+          "title": "Test Analyst - Java - Selenium",
+          "company": "Avance Consulting",
+          "posted_at": "2026-02-01T14:36:23.675Z"
+        },
+        {
+          "id": "3a7f043b61022109",
+          "title": "Entry Level Informatica Developer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:28.352Z"
+        },
+        {
+          "id": "468292ae274d5e37",
+          "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:32.136Z"
+        },
+        {
+          "id": "6ab81e0f19a712e5",
+          "title": "Frontend Developer - Angular",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T14:36:36.018Z"
+        },
+        {
+          "id": "b41b7cecad193b2f",
+          "title": "Software Engineer - Software Development - Backend",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:39.748Z"
+        },
+        {
+          "id": "6827463e1174676d",
+          "title": "Software Engineer - New Grad",
+          "company": "Applied Intuition",
+          "posted_at": "2026-02-01T14:36:43.459Z"
+        },
+        {
+          "id": "dae3378a7392f9c8",
+          "title": "Graduate 2025 Software Engineer I, US",
+          "company": "Uber",
+          "posted_at": "2026-02-01T14:36:47.367Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 325,
+      "count": 330,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2001,39 +2010,14 @@
         "eb375ad554d9d17f",
         "2d17f7763b94e497",
         "be7ccd327d584e73",
-        "aee0021d2c647aaa"
+        "aee0021d2c647aaa",
+        "6531afed4c5e7819",
+        "468292ae274d5e37",
+        "6ab81e0f19a712e5",
+        "6827463e1174676d",
+        "dae3378a7392f9c8"
       ],
       "recent_jobs": [
-        {
-          "id": "45b306e7f48b5d02",
-          "title": "Machine Learning Research Scientist - Hsu & Konermann Labs",
-          "company": "Arc Institute",
-          "posted_at": "2026-02-01T12:56:51.159Z"
-        },
-        {
-          "id": "b423a2e0c6d633cf",
-          "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force - Java Full Stack - Web Logic and Sales Force",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:57.983Z"
-        },
-        {
-          "id": "9ff14f05ca440f01",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:53:36.336Z"
-        },
-        {
-          "id": "58906b8d4feef95b",
-          "title": "Helix Data Creator",
-          "company": "Figure",
-          "posted_at": "2026-02-01T13:53:44.066Z"
-        },
-        {
-          "id": "54c24722402575a4",
-          "title": "Software Engineer I (ALDP)",
-          "company": "Apex Fintech Solutions",
-          "posted_at": "2026-02-01T13:53:47.637Z"
-        },
         {
           "id": "4c5dbc98644878a0",
           "title": "Entry Level Software Engineer",
@@ -2063,12 +2047,42 @@
           "title": "SQL data analyst",
           "company": "360 IT Professionals",
           "posted_at": "2026-02-01T14:27:54.768Z"
+        },
+        {
+          "id": "6531afed4c5e7819",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:14.889Z"
+        },
+        {
+          "id": "468292ae274d5e37",
+          "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:32.136Z"
+        },
+        {
+          "id": "6ab81e0f19a712e5",
+          "title": "Frontend Developer - Angular",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T14:36:36.018Z"
+        },
+        {
+          "id": "6827463e1174676d",
+          "title": "Software Engineer - New Grad",
+          "company": "Applied Intuition",
+          "posted_at": "2026-02-01T14:36:43.459Z"
+        },
+        {
+          "id": "dae3378a7392f9c8",
+          "title": "Graduate 2025 Software Engineer I, US",
+          "company": "Uber",
+          "posted_at": "2026-02-01T14:36:47.367Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 222,
+      "count": 226,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2291,33 +2305,13 @@
         "496c98f3c28692c3",
         "1a00e79d54ef7487",
         "b9741757cf6922a1",
-        "f9cf3518ba91c17e"
+        "f9cf3518ba91c17e",
+        "66a53c382e106d77",
+        "3a7f043b61022109",
+        "b41b7cecad193b2f",
+        "0119bde4a2c2ff92"
       ],
       "recent_jobs": [
-        {
-          "id": "4560752799a4fc98",
-          "title": "SAS Administrator",
-          "company": "US Tech Solutions",
-          "posted_at": "2026-02-01T14:17:09.098Z"
-        },
-        {
-          "id": "c61300391e9cf9a5",
-          "title": "Campus ML Engineer (Full-Time)",
-          "company": "Jump Trading",
-          "posted_at": "2026-02-01T14:17:18.178Z"
-        },
-        {
-          "id": "5ec57e677d7fc646",
-          "title": "Campus AI Researcher (Full-Time)",
-          "company": "Jump Trading",
-          "posted_at": "2026-02-01T14:17:21.782Z"
-        },
-        {
-          "id": "4328dea3722ee0c7",
-          "title": "Hiring for OPT/H4EAD/GC",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:20.434Z"
-        },
         {
           "id": "6d8bf83cfa7e96a2",
           "title": "Hiring Entry Level Software Engineer",
@@ -2353,12 +2347,36 @@
           "title": "MDM Data Analyst 1",
           "company": "US Tech Solutions",
           "posted_at": "2026-02-01T14:27:58.460Z"
+        },
+        {
+          "id": "66a53c382e106d77",
+          "title": "Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:18.587Z"
+        },
+        {
+          "id": "3a7f043b61022109",
+          "title": "Entry Level Informatica Developer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:28.352Z"
+        },
+        {
+          "id": "b41b7cecad193b2f",
+          "title": "Software Engineer - Software Development - Backend",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:36:39.748Z"
+        },
+        {
+          "id": "0119bde4a2c2ff92",
+          "title": "PPM Data Scientist/Statistician 1",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T14:36:54.326Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 325,
+      "count": 326,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2684,15 +2702,10 @@
         "2d17f7763b94e497",
         "b9741757cf6922a1",
         "aee0021d2c647aaa",
-        "f9cf3518ba91c17e"
+        "f9cf3518ba91c17e",
+        "0119bde4a2c2ff92"
       ],
       "recent_jobs": [
-        {
-          "id": "c44384c10096de57",
-          "title": "Software Engineer - Python - Cloud",
-          "company": "Canonical",
-          "posted_at": "2026-02-01T11:59:38.982Z"
-        },
         {
           "id": "871754ac9ea10874",
           "title": "Entry Level Business/Data Analyst",
@@ -2746,12 +2759,18 @@
           "title": "MDM Data Analyst 1",
           "company": "US Tech Solutions",
           "posted_at": "2026-02-01T14:27:58.460Z"
+        },
+        {
+          "id": "0119bde4a2c2ff92",
+          "title": "PPM Data Scientist/Statistician 1",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T14:36:54.326Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 29,
+      "count": 30,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2781,15 +2800,10 @@
         "14ec0c1b70867b7f",
         "50f27332076adff9",
         "43417e80d17ce718",
-        "6cb786fb8540fa43"
+        "6cb786fb8540fa43",
+        "8d89cbf963dc1516"
       ],
       "recent_jobs": [
-        {
-          "id": "036ff24e83f0302d",
-          "title": "Software Engineer Graduate - Cloud Native Infrastructure - 2026 Start','BS/MS",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:33:57.490Z"
-        },
         {
           "id": "7cf09cd750ba744a",
           "title": "Graduate Software Engineer - Cloud Native Infrastructure",
@@ -2843,6 +2857,12 @@
           "title": "Software Engineer: Microsoft AI Development Acceleration Program",
           "company": "Microsoft",
           "posted_at": "2026-02-01T12:56:18.663Z"
+        },
+        {
+          "id": "8d89cbf963dc1516",
+          "title": "Test Analyst - Java - Selenium",
+          "company": "Avance Consulting",
+          "posted_at": "2026-02-01T14:36:23.675Z"
         }
       ]
     }
@@ -3351,7 +3371,15 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "jobs-lever-co-spotify-12ee8cee-7192-4704-9f51-029a7d85c732",
+        "title": "Global Sr. Manager, Experiential & Content Production",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T14:36:14.248Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -3360,56 +3388,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.072Z"
+        "timestamp": "2026-02-01T14:36:14.230Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.072Z"
+        "timestamp": "2026-02-01T14:36:14.231Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.073Z"
+        "timestamp": "2026-02-01T14:36:14.232Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.073Z"
+        "timestamp": "2026-02-01T14:36:14.232Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.074Z"
+        "timestamp": "2026-02-01T14:36:14.232Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.074Z"
+        "timestamp": "2026-02-01T14:36:14.233Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.074Z"
+        "timestamp": "2026-02-01T14:36:14.233Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:27:20.075Z"
+        "timestamp": "2026-02-01T14:36:14.233Z"
       }
     ]
   }
