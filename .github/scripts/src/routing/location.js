@@ -42,6 +42,11 @@ function getJobLocationChannel(job) {
     'san bruno': 'bay-area',
     'menlo park': 'bay-area',
     'redwood city': 'bay-area',
+    'santa rosa': 'bay-area',
+    'napa': 'bay-area',
+    'vallejo': 'bay-area',
+    'concord': 'bay-area',
+    'walnut creek': 'bay-area',
 
     // NYC Metro Area -> new-york
     'new york': 'new-york',
@@ -55,6 +60,8 @@ function getJobLocationChannel(job) {
     'hoboken': 'new-york',
     'white plains': 'new-york',
     'yonkers': 'new-york',
+    'long island city': 'new-york',
+    'astoria': 'new-york',
 
     // Seattle/PNW Metro Area -> pacific-northwest
     'seattle': 'pacific-northwest',
@@ -64,6 +71,9 @@ function getJobLocationChannel(job) {
     'renton': 'pacific-northwest',
     'kent': 'pacific-northwest',
     'redmond': 'pacific-northwest',
+    'kirkland': 'pacific-northwest',
+    'bothell': 'pacific-northwest',
+    'vancouver': 'pacific-northwest',
 
     // SoCal -> southern-california (Internships only, other-usa for New-Grad)
     'los angeles': 'southern-california',
@@ -82,6 +92,11 @@ function getJobLocationChannel(job) {
     'carlsbad': 'southern-california',
     'el cajon': 'southern-california',
     'la jolla': 'southern-california',
+    'huntington beach': 'southern-california',
+    'newport beach': 'southern-california',
+    'costa mesa': 'southern-california',
+    'fullerton': 'southern-california',
+    'garden grove': 'southern-california',
   };
 
   // City abbreviations
@@ -144,19 +159,33 @@ function getJobLocationChannel(job) {
         state === 'oh' || state === 'ohio' ||
         state === 'pa' || state === 'pennsylvania' ||
         state === 'mn' || state === 'minnesota' ||
-        state === 'wi' || state === 'wisconsin') {
+        state === 'wi' || state === 'wisconsin' ||
+        state === 'ct' || state === 'connecticut' ||
+        state === 'in' || state === 'indiana' ||
+        state === 'ks' || state === 'kansas' ||
+        state === 'ky' || state === 'kentucky' ||
+        state === 'la' || state === 'louisiana' ||
+        state === 'mo' || state === 'missouri' ||
+        state === 'nj' || state === 'new jersey' ||
+        state === 'ok' || state === 'oklahoma' ||
+        state === 'sc' || state === 'south carolina') {
       // All other US states -> other-usa
       return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
   }
 
-  // 5. Remote USA - Only if explicitly remote AND US-based
-  // Check for remote indicators in LOCATION fields (job_city, job_state) OR strong remote keywords
+  // 5. Remote USA - Check for remote indicators
+  // Jobs are considered "Remote USA" if they have remote keywords
+  // AND don't have non-US location indicators (like "London" or "Toronto")
   const isRemoteLocation = city.includes('remote') || state.includes('remote');
-  const hasStrongRemoteKeyword = /\b(remote|work from home|wfh|distributed|anywhere|location independent)\b/.test(combined);
-  const isUSBased = /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined);
+  const hasStrongRemoteKeyword = /\b(remote|work from home|wfh|distributed|anywhere|location independent)\b/i.test(combined);
+  const isUSBased = /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/i.test(combined);
 
-  if ((isRemoteLocation || hasStrongRemoteKeyword) && isUSBased) {
+  // Detect non-US locations (common countries/cities that would indicate non-US remote)
+  const hasNonUSLocation = /\b(london|paris|berlin|toronto|vancouver|montreal|sydney|melbourne|tokyo|singapore|hong kong|dubai|mumbai|bangalore)\b/i.test(combined);
+
+  // Remote jobs without explicit non-US locations go to remote-usa
+  if ((isRemoteLocation || hasStrongRemoteKeyword) && !hasNonUSLocation) {
     return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
