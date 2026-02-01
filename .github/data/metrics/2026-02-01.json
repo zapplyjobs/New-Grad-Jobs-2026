@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T08:37:04.494Z",
+  "generated": "2026-02-01T08:56:41.469Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T08:37:04.494Z",
-  "period_end": "2026-02-01T08:37:04.494Z",
+  "period_start": "2026-01-25T08:56:41.469Z",
+  "period_end": "2026-02-01T08:56:41.469Z",
   "summary": {
-    "total_jobs_posted": 2083,
-    "unique_jobs": 1707,
-    "multi_channel_postings": 752,
-    "unique_multi_channel_jobs": 376,
+    "total_jobs_posted": 2102,
+    "unique_jobs": 1717,
+    "multi_channel_postings": 770,
+    "unique_multi_channel_jobs": 385,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1401,
+      "count": 1411,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1417,74 +1417,84 @@
         "05f5215a95a4d060",
         "03f7bb224e18162d",
         "ab7890b8151ac497",
-        "c698191143392ea2"
+        "c698191143392ea2",
+        "922933710b4afd38",
+        "3f3ca27589281f2f",
+        "9ada02a6206b8677",
+        "0639ddd5b3da0e76",
+        "929b50c775759f65",
+        "9f4c0f522b1c5aba",
+        "26605a34d3ee0fdc",
+        "7f04b9fd4244745b",
+        "c6a4fabd37f556f9",
+        "9d2739a544282814"
       ],
       "recent_jobs": [
         {
-          "id": "eb7cbe19b8bfe949",
-          "title": "Mission Operations Engineer",
+          "id": "922933710b4afd38",
+          "title": "Product Designer",
           "company": "nominal",
-          "posted_at": "2026-02-01T08:36:17.931Z"
+          "posted_at": "2026-02-01T08:55:59.425Z"
         },
         {
-          "id": "308f2f3f62288ac5",
-          "title": "Software Engineer",
-          "company": "EliseAI",
-          "posted_at": "2026-02-01T08:36:19.914Z"
+          "id": "3f3ca27589281f2f",
+          "title": "Entry-Level Software Engineer",
+          "company": "Credence",
+          "posted_at": "2026-02-01T08:56:01.261Z"
         },
         {
-          "id": "3af85540998f1fc1",
-          "title": "Engineer 1 - Full Stack, Store POS+",
-          "company": "Nordstrom",
-          "posted_at": "2026-02-01T08:36:23.636Z"
+          "id": "9ada02a6206b8677",
+          "title": "Software Engineer I",
+          "company": "Jerry",
+          "posted_at": "2026-02-01T08:56:04.945Z"
         },
         {
-          "id": "5c70eaa2de07eb70",
-          "title": "Cybersecurity Analyst",
-          "company": "Jane Street",
-          "posted_at": "2026-02-01T08:36:27.366Z"
+          "id": "0639ddd5b3da0e76",
+          "title": "Software Engineer I",
+          "company": "Thorlabs",
+          "posted_at": "2026-02-01T08:56:08.827Z"
         },
         {
-          "id": "75db6c977c095440",
-          "title": "Geoint Analyst – Entry Level",
-          "company": "WiSC Enterprises, LLC",
-          "posted_at": "2026-02-01T08:36:31.062Z"
+          "id": "929b50c775759f65",
+          "title": "Developer Technology Engineer, AI",
+          "company": "NVIDIA",
+          "posted_at": "2026-02-01T08:56:12.408Z"
         },
         {
-          "id": "aac4ddc81a672ebf",
-          "title": "Solutions Analyst - Enterprise Asset Management - Eam",
-          "company": "KCI Technologies",
-          "posted_at": "2026-02-01T08:36:34.782Z"
+          "id": "9f4c0f522b1c5aba",
+          "title": "Assistant Scientist - Cnm",
+          "company": "Argonne National Laboratory",
+          "posted_at": "2026-02-01T08:56:16.046Z"
         },
         {
-          "id": "05f5215a95a4d060",
-          "title": "Technical Advisor",
-          "company": "WiSC Enterprises, LLC",
-          "posted_at": "2026-02-01T08:36:38.411Z"
+          "id": "26605a34d3ee0fdc",
+          "title": "Software Engineer – Early Career",
+          "company": "Trexquant",
+          "posted_at": "2026-02-01T08:56:19.825Z"
         },
         {
-          "id": "03f7bb224e18162d",
-          "title": "Entry Level Software Developer",
-          "company": "Dayton Freight Lines",
-          "posted_at": "2026-02-01T08:36:42.100Z"
+          "id": "7f04b9fd4244745b",
+          "title": "Associate Software Engineer",
+          "company": "Jahnel Group",
+          "posted_at": "2026-02-01T08:56:23.592Z"
         },
         {
-          "id": "ab7890b8151ac497",
-          "title": "IT Data Solutions Developer Associate",
-          "company": "Advocate Health Care",
-          "posted_at": "2026-02-01T08:36:45.752Z"
+          "id": "c6a4fabd37f556f9",
+          "title": "Associate, Software Engineer",
+          "company": "Epsilon",
+          "posted_at": "2026-02-01T08:56:27.289Z"
         },
         {
-          "id": "c698191143392ea2",
-          "title": "Faculty Fellow",
-          "company": "Susquehanna International Group (SIG)",
-          "posted_at": "2026-02-01T08:36:54.136Z"
+          "id": "9d2739a544282814",
+          "title": "Jr. Software Engineer",
+          "company": "Bumble Engineering",
+          "posted_at": "2026-02-01T08:56:31.198Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 228,
+      "count": 231,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1713,27 +1723,12 @@
         "827a1344bd768a15",
         "52da0813bec53143",
         "308f2f3f62288ac5",
-        "5c70eaa2de07eb70"
+        "5c70eaa2de07eb70",
+        "9ada02a6206b8677",
+        "929b50c775759f65",
+        "7f04b9fd4244745b"
       ],
       "recent_jobs": [
-        {
-          "id": "15ffdb69e69a8625",
-          "title": "AI Research Engineer",
-          "company": "Duolingo",
-          "posted_at": "2026-02-01T07:51:33.658Z"
-        },
-        {
-          "id": "4aafc0019c0cbd15",
-          "title": "BNY Analyst Program-Engineering - Developer",
-          "company": "BNY",
-          "posted_at": "2026-02-01T08:05:51.589Z"
-        },
-        {
-          "id": "3eca60b66677840e",
-          "title": "Founder in Residence - Embedfi - SMB Hardware Leasing",
-          "company": "AI Fund",
-          "posted_at": "2026-02-01T08:06:22.322Z"
-        },
         {
           "id": "d266bf5984375ad8",
           "title": "BNY Analyst Program-Engineering - Data Science",
@@ -1775,12 +1770,30 @@
           "title": "Cybersecurity Analyst",
           "company": "Jane Street",
           "posted_at": "2026-02-01T08:36:27.366Z"
+        },
+        {
+          "id": "9ada02a6206b8677",
+          "title": "Software Engineer I",
+          "company": "Jerry",
+          "posted_at": "2026-02-01T08:56:04.945Z"
+        },
+        {
+          "id": "929b50c775759f65",
+          "title": "Developer Technology Engineer, AI",
+          "company": "NVIDIA",
+          "posted_at": "2026-02-01T08:56:12.408Z"
+        },
+        {
+          "id": "7f04b9fd4244745b",
+          "title": "Associate Software Engineer",
+          "company": "Jahnel Group",
+          "posted_at": "2026-02-01T08:56:23.592Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 137,
+      "count": 143,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1918,45 +1931,15 @@
         "05f5215a95a4d060",
         "03f7bb224e18162d",
         "ab7890b8151ac497",
-        "c698191143392ea2"
+        "c698191143392ea2",
+        "3f3ca27589281f2f",
+        "0639ddd5b3da0e76",
+        "9f4c0f522b1c5aba",
+        "26605a34d3ee0fdc",
+        "c6a4fabd37f556f9",
+        "9d2739a544282814"
       ],
       "recent_jobs": [
-        {
-          "id": "199750a442582541",
-          "title": "Artificial Intelligence Graduate",
-          "company": "AVEVA",
-          "posted_at": "2026-02-01T08:06:18.610Z"
-        },
-        {
-          "id": "3f7640184bc3f022",
-          "title": "Software Development Engineer 1 - Engineering - Development",
-          "company": "Boston Scientific",
-          "posted_at": "2026-02-01T08:22:44.689Z"
-        },
-        {
-          "id": "bebf72de68465bcb",
-          "title": "Associate Software Software Engineer",
-          "company": "Red Hat",
-          "posted_at": "2026-02-01T08:22:48.541Z"
-        },
-        {
-          "id": "5939d7b4f9d5569a",
-          "title": "Data Analyst - Insights and Product Analytics",
-          "company": "Gartner",
-          "posted_at": "2026-02-01T08:23:04.029Z"
-        },
-        {
-          "id": "75db6c977c095440",
-          "title": "Geoint Analyst – Entry Level",
-          "company": "WiSC Enterprises, LLC",
-          "posted_at": "2026-02-01T08:36:31.062Z"
-        },
-        {
-          "id": "aac4ddc81a672ebf",
-          "title": "Solutions Analyst - Enterprise Asset Management - Eam",
-          "company": "KCI Technologies",
-          "posted_at": "2026-02-01T08:36:34.782Z"
-        },
         {
           "id": "05f5215a95a4d060",
           "title": "Technical Advisor",
@@ -1980,6 +1963,42 @@
           "title": "Faculty Fellow",
           "company": "Susquehanna International Group (SIG)",
           "posted_at": "2026-02-01T08:36:54.136Z"
+        },
+        {
+          "id": "3f3ca27589281f2f",
+          "title": "Entry-Level Software Engineer",
+          "company": "Credence",
+          "posted_at": "2026-02-01T08:56:01.261Z"
+        },
+        {
+          "id": "0639ddd5b3da0e76",
+          "title": "Software Engineer I",
+          "company": "Thorlabs",
+          "posted_at": "2026-02-01T08:56:08.827Z"
+        },
+        {
+          "id": "9f4c0f522b1c5aba",
+          "title": "Assistant Scientist - Cnm",
+          "company": "Argonne National Laboratory",
+          "posted_at": "2026-02-01T08:56:16.046Z"
+        },
+        {
+          "id": "26605a34d3ee0fdc",
+          "title": "Software Engineer – Early Career",
+          "company": "Trexquant",
+          "posted_at": "2026-02-01T08:56:19.825Z"
+        },
+        {
+          "id": "c6a4fabd37f556f9",
+          "title": "Associate, Software Engineer",
+          "company": "Epsilon",
+          "posted_at": "2026-02-01T08:56:27.289Z"
+        },
+        {
+          "id": "9d2739a544282814",
+          "title": "Jr. Software Engineer",
+          "company": "Bumble Engineering",
+          "posted_at": "2026-02-01T08:56:31.198Z"
         }
       ]
     },
@@ -2950,56 +2969,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.672Z"
+        "timestamp": "2026-02-01T08:55:59.141Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.673Z"
+        "timestamp": "2026-02-01T08:55:59.141Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.673Z"
+        "timestamp": "2026-02-01T08:55:59.141Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.673Z"
+        "timestamp": "2026-02-01T08:55:59.142Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.674Z"
+        "timestamp": "2026-02-01T08:55:59.142Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.674Z"
+        "timestamp": "2026-02-01T08:55:59.143Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.674Z"
+        "timestamp": "2026-02-01T08:55:59.143Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:36:17.675Z"
+        "timestamp": "2026-02-01T08:55:59.143Z"
       }
     ]
   }
