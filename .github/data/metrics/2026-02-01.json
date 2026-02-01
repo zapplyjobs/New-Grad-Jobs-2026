@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T15:48:07.894Z",
+  "generated": "2026-02-01T16:00:59.675Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T15:48:07.894Z",
-  "period_end": "2026-02-01T15:48:07.894Z",
+  "period_start": "2026-01-25T16:00:59.675Z",
+  "period_end": "2026-02-01T16:00:59.675Z",
   "summary": {
-    "total_jobs_posted": 2628,
-    "unique_jobs": 1987,
-    "multi_channel_postings": 1282,
-    "unique_multi_channel_jobs": 641,
+    "total_jobs_posted": 2647,
+    "unique_jobs": 1997,
+    "multi_channel_postings": 1300,
+    "unique_multi_channel_jobs": 650,
     "failed_postings": 0,
-    "filtered_jobs": 9,
+    "filtered_jobs": 8,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1654,
+      "count": 1663,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1670,74 +1670,83 @@
         "24848808030cc4e8",
         "c744ed8bbf7078d8",
         "6ed68d57896d1bfd",
-        "193baf77c2b7c311"
+        "193baf77c2b7c311",
+        "cd781a41c7f30c16",
+        "77ed8ff980947cfd",
+        "a14c6524c6607738",
+        "ac6fcdde605c5928",
+        "c22abf2c9d6f1d71",
+        "323a66e66393cc91",
+        "cd11172f6b6c9375",
+        "7d35c52f582844c9",
+        "96ef4a323e48c755"
       ],
       "recent_jobs": [
-        {
-          "id": "0cf038c01cfd3ce0",
-          "title": "Graduate Machine Learning Engineer - Multiple Teams",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:34:41.015Z"
-        },
-        {
-          "id": "2f8a9d02b85de08c",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:47:17.811Z"
-        },
-        {
-          "id": "ab06492718a702cf",
-          "title": "Graduate Research Scientist - Multiple Teams",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:19.687Z"
-        },
-        {
-          "id": "1593f2edaf8e65aa",
-          "title": "General Hire – Research Scientist Graduate - Tiktok Recommendation-Next Gen Recommendation - PhD",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:23.729Z"
-        },
-        {
-          "id": "9ee3d35388a674d0",
-          "title": "Software Engineer Graduate - Applied Machine Learning - Inference",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T15:47:30.536Z"
-        },
-        {
-          "id": "4b06dd9c4cdfb78b",
-          "title": "Engineer Graduate - Machine Learning Engineer - Data Search TikTok",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:34.453Z"
-        },
-        {
-          "id": "24848808030cc4e8",
-          "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:38.137Z"
-        },
-        {
-          "id": "c744ed8bbf7078d8",
-          "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start - PhD",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:41.980Z"
-        },
-        {
-          "id": "6ed68d57896d1bfd",
-          "title": "Machine Learning Engineer Graduate - Monetization Technology - GenAI",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:45.801Z"
-        },
         {
           "id": "193baf77c2b7c311",
           "title": "Graduate Engineer - Machine Learning - Data-Search-Tiktok Recommendation",
           "company": "TikTok",
           "posted_at": "2026-02-01T15:47:49.637Z"
+        },
+        {
+          "id": "cd781a41c7f30c16",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T16:00:07.949Z"
+        },
+        {
+          "id": "77ed8ff980947cfd",
+          "title": "Graduate Research Scientist - Monetization GenAI",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:10.362Z"
+        },
+        {
+          "id": "a14c6524c6607738",
+          "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
+          "company": "Boston Scientific",
+          "posted_at": "2026-02-01T16:00:14.378Z"
+        },
+        {
+          "id": "ac6fcdde605c5928",
+          "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:18.224Z"
+        },
+        {
+          "id": "c22abf2c9d6f1d71",
+          "title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:22.404Z"
+        },
+        {
+          "id": "323a66e66393cc91",
+          "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - San Jose",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:29.434Z"
+        },
+        {
+          "id": "cd11172f6b6c9375",
+          "title": "Engineer Graduate - Machine Learning Engineer Graduate-Data-Search-Tiktok - 2026 Start alternating BS/MS",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:33.338Z"
+        },
+        {
+          "id": "7d35c52f582844c9",
+          "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:37.200Z"
+        },
+        {
+          "id": "96ef4a323e48c755",
+          "title": "Machine Learning Engineer Graduate - Ads Targeting",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:41.135Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 354,
+      "count": 361,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2092,51 +2101,16 @@
         "4b06dd9c4cdfb78b",
         "6ed68d57896d1bfd",
         "193baf77c2b7c311",
-        "aa0747ea8347bcc6"
+        "aa0747ea8347bcc6",
+        "77ed8ff980947cfd",
+        "c22abf2c9d6f1d71",
+        "323a66e66393cc91",
+        "cd11172f6b6c9375",
+        "7d35c52f582844c9",
+        "96ef4a323e48c755",
+        "859aa1ffc1e086f2"
       ],
       "recent_jobs": [
-        {
-          "id": "a5a17c9585ddd0ed",
-          "title": "General Hire – Machine Learning Engineer Graduate - PhD",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:34:33.559Z"
-        },
-        {
-          "id": "70ad2585030e6f21",
-          "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:34:37.264Z"
-        },
-        {
-          "id": "0cf038c01cfd3ce0",
-          "title": "Graduate Machine Learning Engineer - Multiple Teams",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:34:41.015Z"
-        },
-        {
-          "id": "ab06492718a702cf",
-          "title": "Graduate Research Scientist - Multiple Teams",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:19.687Z"
-        },
-        {
-          "id": "1593f2edaf8e65aa",
-          "title": "General Hire – Research Scientist Graduate - Tiktok Recommendation-Next Gen Recommendation - PhD",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:23.729Z"
-        },
-        {
-          "id": "9ee3d35388a674d0",
-          "title": "Software Engineer Graduate - Applied Machine Learning - Inference",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T15:47:30.536Z"
-        },
-        {
-          "id": "4b06dd9c4cdfb78b",
-          "title": "Engineer Graduate - Machine Learning Engineer - Data Search TikTok",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:34.453Z"
-        },
         {
           "id": "6ed68d57896d1bfd",
           "title": "Machine Learning Engineer Graduate - Monetization Technology - GenAI",
@@ -2154,12 +2128,54 @@
           "title": "Graduate Data Engineer - Data Platfrom TikTok BP - BS/MS",
           "company": "TikTok",
           "posted_at": "2026-02-01T15:47:57.047Z"
+        },
+        {
+          "id": "77ed8ff980947cfd",
+          "title": "Graduate Research Scientist - Monetization GenAI",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:10.362Z"
+        },
+        {
+          "id": "c22abf2c9d6f1d71",
+          "title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:22.404Z"
+        },
+        {
+          "id": "323a66e66393cc91",
+          "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - San Jose",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:29.434Z"
+        },
+        {
+          "id": "cd11172f6b6c9375",
+          "title": "Engineer Graduate - Machine Learning Engineer Graduate-Data-Search-Tiktok - 2026 Start alternating BS/MS",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:33.338Z"
+        },
+        {
+          "id": "7d35c52f582844c9",
+          "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:37.200Z"
+        },
+        {
+          "id": "96ef4a323e48c755",
+          "title": "Machine Learning Engineer Graduate - Ads Targeting",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:41.135Z"
+        },
+        {
+          "id": "859aa1ffc1e086f2",
+          "title": "Data Engineer Graduate - E-commerce",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:48.224Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 249,
+      "count": 250,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2409,15 +2425,10 @@
         "36ae9ddff9e863ed",
         "048211c8770e61f8",
         "7d0ab4cfc82227fd",
-        "58d92f6839e6051a"
+        "58d92f6839e6051a",
+        "a14c6524c6607738"
       ],
       "recent_jobs": [
-        {
-          "id": "973feb7dd3f29c06",
-          "title": "Software Engineering, Associate",
-          "company": "Peraton",
-          "posted_at": "2026-02-01T15:14:14.030Z"
-        },
         {
           "id": "6a9e396442a42da4",
           "title": "Software Engineer",
@@ -2471,12 +2482,18 @@
           "title": "Software Developer I - AI Developer",
           "company": "Iowa State University",
           "posted_at": "2026-02-01T15:25:50.594Z"
+        },
+        {
+          "id": "a14c6524c6607738",
+          "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
+          "company": "Boston Scientific",
+          "posted_at": "2026-02-01T16:00:14.378Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 333,
+      "count": 334,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2810,15 +2827,10 @@
         "dce8400d39561314",
         "7d251fbc36cfff78",
         "f69a06733e66b2c6",
-        "aa0747ea8347bcc6"
+        "aa0747ea8347bcc6",
+        "859aa1ffc1e086f2"
       ],
       "recent_jobs": [
-        {
-          "id": "aee0021d2c647aaa",
-          "title": "SQL data analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T14:27:54.768Z"
-        },
         {
           "id": "f9cf3518ba91c17e",
           "title": "MDM Data Analyst 1",
@@ -2872,12 +2884,18 @@
           "title": "Graduate Data Engineer - Data Platfrom TikTok BP - BS/MS",
           "company": "TikTok",
           "posted_at": "2026-02-01T15:47:57.047Z"
+        },
+        {
+          "id": "859aa1ffc1e086f2",
+          "title": "Data Engineer Graduate - E-commerce",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:48.224Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 38,
+      "count": 39,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2916,15 +2934,10 @@
         "e6d6bdac8d7b5eb4",
         "c6f4552b7ac1150f",
         "24848808030cc4e8",
-        "c744ed8bbf7078d8"
+        "c744ed8bbf7078d8",
+        "ac6fcdde605c5928"
       ],
       "recent_jobs": [
-        {
-          "id": "6cb786fb8540fa43",
-          "title": "Software Engineer: Microsoft AI Development Acceleration Program",
-          "company": "Microsoft",
-          "posted_at": "2026-02-01T12:56:18.663Z"
-        },
         {
           "id": "8d89cbf963dc1516",
           "title": "Test Analyst - Java - Selenium",
@@ -2978,6 +2991,12 @@
           "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start - PhD",
           "company": "TikTok",
           "posted_at": "2026-02-01T15:47:41.980Z"
+        },
+        {
+          "id": "ac6fcdde605c5928",
+          "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:00:18.224Z"
         }
       ]
     }
@@ -3486,15 +3505,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-postdoctoral-fellow-in-water-systems-ml-_r_00041178-1",
-        "title": "Postdoctoral Fellow in Water Systems - Ml",
-        "company": "University of Texas - Austin",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T15:47:17.027Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -3503,56 +3514,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.008Z"
+        "timestamp": "2026-02-01T16:00:05.587Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.009Z"
+        "timestamp": "2026-02-01T16:00:05.588Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.010Z"
+        "timestamp": "2026-02-01T16:00:05.589Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.010Z"
+        "timestamp": "2026-02-01T16:00:05.589Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.010Z"
+        "timestamp": "2026-02-01T16:00:05.590Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.011Z"
+        "timestamp": "2026-02-01T16:00:05.590Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.011Z"
+        "timestamp": "2026-02-01T16:00:05.590Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:47:17.011Z"
+        "timestamp": "2026-02-01T16:00:05.591Z"
       }
     ]
   }
