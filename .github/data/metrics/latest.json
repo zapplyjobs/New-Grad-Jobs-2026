@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T14:52:03.775Z",
+  "generated": "2026-02-01T15:04:52.724Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T14:52:03.775Z",
-  "period_end": "2026-02-01T14:52:03.775Z",
+  "period_start": "2026-01-25T15:04:52.724Z",
+  "period_end": "2026-02-01T15:04:52.724Z",
   "summary": {
-    "total_jobs_posted": 2531,
-    "unique_jobs": 1937,
-    "multi_channel_postings": 1188,
-    "unique_multi_channel_jobs": 594,
+    "total_jobs_posted": 2551,
+    "unique_jobs": 1947,
+    "multi_channel_postings": 1208,
+    "unique_multi_channel_jobs": 604,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1607,
+      "count": 1616,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1623,74 +1623,83 @@
         "db2c220827bcef5c",
         "0e4f28a93e0059d4",
         "f2db20563111cf3d",
-        "0f08ad90023b7e6a"
+        "0f08ad90023b7e6a",
+        "cb0a7bf16287f79c",
+        "5f89f14e97ca818a",
+        "9853e4391ec1aeb3",
+        "af1cedc9feca62a7",
+        "6d080e6c98664d6a",
+        "f4e65c42f2d8f250",
+        "f7bc268bdad7b7c8",
+        "bc64c6d4d51ef5c0",
+        "2235122b18edc0ff"
       ],
       "recent_jobs": [
-        {
-          "id": "6ab81e0f19a712e5",
-          "title": "Frontend Developer - Angular",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T14:36:36.018Z"
-        },
-        {
-          "id": "b41b7cecad193b2f",
-          "title": "Software Engineer - Software Development - Backend",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:39.748Z"
-        },
-        {
-          "id": "6827463e1174676d",
-          "title": "Software Engineer - New Grad",
-          "company": "Applied Intuition",
-          "posted_at": "2026-02-01T14:36:43.459Z"
-        },
-        {
-          "id": "dae3378a7392f9c8",
-          "title": "Graduate 2025 Software Engineer I, US",
-          "company": "Uber",
-          "posted_at": "2026-02-01T14:36:47.367Z"
-        },
-        {
-          "id": "8284ccf76d242985",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:51:19.176Z"
-        },
-        {
-          "id": "89f6946ef1d8fe10",
-          "title": "Software Engineering AMTS – New Grad",
-          "company": "Salesforce",
-          "posted_at": "2026-02-01T14:51:22.966Z"
-        },
-        {
-          "id": "db2c220827bcef5c",
-          "title": "Software Engineer Graduate - Developer Infra - BS/MS",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T14:51:26.790Z"
-        },
-        {
-          "id": "0e4f28a93e0059d4",
-          "title": "Java Developer",
-          "company": "Artech Information System",
-          "posted_at": "2026-02-01T14:51:30.666Z"
-        },
-        {
-          "id": "f2db20563111cf3d",
-          "title": "Entry Level Controls & Software Test Engineer",
-          "company": "Solar Turbines",
-          "posted_at": "2026-02-01T14:51:34.560Z"
-        },
         {
           "id": "0f08ad90023b7e6a",
           "title": "Junior AI-Assisted Software Engineer",
           "company": "SS&C",
           "posted_at": "2026-02-01T14:51:36.487Z"
+        },
+        {
+          "id": "cb0a7bf16287f79c",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:01.301Z"
+        },
+        {
+          "id": "5f89f14e97ca818a",
+          "title": "Programmer Analyst-.Net Programmer - US Citizen",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T15:04:05.456Z"
+        },
+        {
+          "id": "9853e4391ec1aeb3",
+          "title": "Hiring Recent graduated students for full time jobs",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:09.081Z"
+        },
+        {
+          "id": "af1cedc9feca62a7",
+          "title": "Salesforce OBIEE ETL Training and Placement",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:12.757Z"
+        },
+        {
+          "id": "6d080e6c98664d6a",
+          "title": "Hiring Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:16.489Z"
+        },
+        {
+          "id": "f4e65c42f2d8f250",
+          "title": "Training & Placement on Informatica/ Microstrategy",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:20.272Z"
+        },
+        {
+          "id": "f7bc268bdad7b7c8",
+          "title": "Software Engineer Position",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:23.915Z"
+        },
+        {
+          "id": "bc64c6d4d51ef5c0",
+          "title": "Software Engineer, Connected Warfare",
+          "company": "Anduril Industries",
+          "posted_at": "2026-02-01T15:04:38.214Z"
+        },
+        {
+          "id": "2235122b18edc0ff",
+          "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+          "company": "Anduril Industries",
+          "posted_at": "2026-02-01T15:04:42.006Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 333,
+      "count": 335,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2024,21 +2033,11 @@
         "dae3378a7392f9c8",
         "89f6946ef1d8fe10",
         "db2c220827bcef5c",
-        "dce8400d39561314"
+        "dce8400d39561314",
+        "5f89f14e97ca818a",
+        "6d080e6c98664d6a"
       ],
       "recent_jobs": [
-        {
-          "id": "be7ccd327d584e73",
-          "title": "Embedded Software Engineer",
-          "company": "Applied Intuition",
-          "posted_at": "2026-02-01T14:27:35.618Z"
-        },
-        {
-          "id": "aee0021d2c647aaa",
-          "title": "SQL data analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T14:27:54.768Z"
-        },
         {
           "id": "6531afed4c5e7819",
           "title": "Hiring Entry Level Software Engineer",
@@ -2086,12 +2085,24 @@
           "title": "Entry Level Business/Data Analyst",
           "company": "360 IT Professionals",
           "posted_at": "2026-02-01T14:51:52.894Z"
+        },
+        {
+          "id": "5f89f14e97ca818a",
+          "title": "Programmer Analyst-.Net Programmer - US Citizen",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T15:04:05.456Z"
+        },
+        {
+          "id": "6d080e6c98664d6a",
+          "title": "Hiring Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:16.489Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 231,
+      "count": 239,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2323,57 +2334,17 @@
         "0e4f28a93e0059d4",
         "0f08ad90023b7e6a",
         "ca3325ec87d3509d",
-        "468b878c271ef832"
+        "468b878c271ef832",
+        "cb0a7bf16287f79c",
+        "9853e4391ec1aeb3",
+        "af1cedc9feca62a7",
+        "f4e65c42f2d8f250",
+        "f7bc268bdad7b7c8",
+        "7d251fbc36cfff78",
+        "bc64c6d4d51ef5c0",
+        "2235122b18edc0ff"
       ],
       "recent_jobs": [
-        {
-          "id": "f9cf3518ba91c17e",
-          "title": "MDM Data Analyst 1",
-          "company": "US Tech Solutions",
-          "posted_at": "2026-02-01T14:27:58.460Z"
-        },
-        {
-          "id": "66a53c382e106d77",
-          "title": "Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:18.587Z"
-        },
-        {
-          "id": "3a7f043b61022109",
-          "title": "Entry Level Informatica Developer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:28.352Z"
-        },
-        {
-          "id": "b41b7cecad193b2f",
-          "title": "Software Engineer - Software Development - Backend",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:39.748Z"
-        },
-        {
-          "id": "0119bde4a2c2ff92",
-          "title": "PPM Data Scientist/Statistician 1",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T14:36:54.326Z"
-        },
-        {
-          "id": "8284ccf76d242985",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:51:19.176Z"
-        },
-        {
-          "id": "0e4f28a93e0059d4",
-          "title": "Java Developer",
-          "company": "Artech Information System",
-          "posted_at": "2026-02-01T14:51:30.666Z"
-        },
-        {
-          "id": "0f08ad90023b7e6a",
-          "title": "Junior AI-Assisted Software Engineer",
-          "company": "SS&C",
-          "posted_at": "2026-02-01T14:51:36.487Z"
-        },
         {
           "id": "ca3325ec87d3509d",
           "title": ".Net Developer",
@@ -2385,12 +2356,60 @@
           "title": "PPM Data Scientist/Statistician 1",
           "company": "Prosidian Consulting",
           "posted_at": "2026-02-01T14:51:49.039Z"
+        },
+        {
+          "id": "cb0a7bf16287f79c",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:01.301Z"
+        },
+        {
+          "id": "9853e4391ec1aeb3",
+          "title": "Hiring Recent graduated students for full time jobs",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:09.081Z"
+        },
+        {
+          "id": "af1cedc9feca62a7",
+          "title": "Salesforce OBIEE ETL Training and Placement",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:12.757Z"
+        },
+        {
+          "id": "f4e65c42f2d8f250",
+          "title": "Training & Placement on Informatica/ Microstrategy",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:20.272Z"
+        },
+        {
+          "id": "f7bc268bdad7b7c8",
+          "title": "Software Engineer Position",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:04:23.915Z"
+        },
+        {
+          "id": "7d251fbc36cfff78",
+          "title": "Geospatial Analyst 1",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T15:04:30.782Z"
+        },
+        {
+          "id": "bc64c6d4d51ef5c0",
+          "title": "Software Engineer, Connected Warfare",
+          "company": "Anduril Industries",
+          "posted_at": "2026-02-01T15:04:38.214Z"
+        },
+        {
+          "id": "2235122b18edc0ff",
+          "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+          "company": "Anduril Industries",
+          "posted_at": "2026-02-01T15:04:42.006Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 330,
+      "count": 331,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2721,15 +2740,10 @@
         "fe1b836d5bde0c12",
         "ca3325ec87d3509d",
         "468b878c271ef832",
-        "dce8400d39561314"
+        "dce8400d39561314",
+        "7d251fbc36cfff78"
       ],
       "recent_jobs": [
-        {
-          "id": "eec77954bddfab32",
-          "title": "Geospatial Analyst 2",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T12:33:27.229Z"
-        },
         {
           "id": "2d17f7763b94e497",
           "title": "Technology Analyst - Cocoa",
@@ -2783,6 +2797,12 @@
           "title": "Entry Level Business/Data Analyst",
           "company": "360 IT Professionals",
           "posted_at": "2026-02-01T14:51:52.894Z"
+        },
+        {
+          "id": "7d251fbc36cfff78",
+          "title": "Geospatial Analyst 1",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T15:04:30.782Z"
         }
       ]
     },
@@ -3398,56 +3418,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.770Z"
+        "timestamp": "2026-02-01T15:04:01.048Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.770Z"
+        "timestamp": "2026-02-01T15:04:01.049Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.771Z"
+        "timestamp": "2026-02-01T15:04:01.050Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.771Z"
+        "timestamp": "2026-02-01T15:04:01.050Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.772Z"
+        "timestamp": "2026-02-01T15:04:01.050Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.772Z"
+        "timestamp": "2026-02-01T15:04:01.051Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.773Z"
+        "timestamp": "2026-02-01T15:04:01.051Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:51:18.773Z"
+        "timestamp": "2026-02-01T15:04:01.052Z"
       }
     ]
   }
