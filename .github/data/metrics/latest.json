@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T07:27:18.121Z",
+  "generated": "2026-02-01T07:52:01.602Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T07:27:18.121Z",
-  "period_end": "2026-02-01T07:27:18.121Z",
+  "period_start": "2026-01-25T07:52:01.602Z",
+  "period_end": "2026-02-01T07:52:01.602Z",
   "summary": {
-    "total_jobs_posted": 2008,
-    "unique_jobs": 1667,
-    "multi_channel_postings": 682,
-    "unique_multi_channel_jobs": 341,
+    "total_jobs_posted": 2027,
+    "unique_jobs": 1677,
+    "multi_channel_postings": 700,
+    "unique_multi_channel_jobs": 350,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1363,
+      "count": 1373,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1379,74 +1379,84 @@
         "4b4179147143d35e",
         "f9802153fc3abb6c",
         "2606aa0cea0b21dc",
-        "72c1f2df0cd706c4"
+        "72c1f2df0cd706c4",
+        "0fc3e1378bd8d7a4",
+        "a89597564739a222",
+        "36267e95be95f4ee",
+        "921c7a11c0a99df3",
+        "8afcca2b9e18629d",
+        "15ffdb69e69a8625",
+        "5e3da7e9c906e73b",
+        "055063dcd45bdd0c",
+        "8abdb7480ccab3f6",
+        "013c2001ffecc5f0"
       ],
       "recent_jobs": [
         {
-          "id": "bbeed1e85e4632b2",
-          "title": "Research Engineer Graduate - Seed-Infra-Platform-US - 2026 Start\",\"PhD",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T07:26:31.955Z"
-        },
-        {
-          "id": "352b726114ab53d9",
-          "title": "Research Engineer Graduate - Seed-Infra-Inference-US - PhD",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T07:26:35.644Z"
-        },
-        {
-          "id": "b9a319dca719b5d5",
+          "id": "0fc3e1378bd8d7a4",
           "title": "Enterprise Account Executive",
           "company": "nominal",
-          "posted_at": "2026-02-01T07:26:39.378Z"
+          "posted_at": "2026-02-01T07:51:16.807Z"
         },
         {
-          "id": "9dab3640c19f727c",
-          "title": "Technical Account Executive",
-          "company": "clerk",
-          "posted_at": "2026-02-01T07:26:42.971Z"
+          "id": "a89597564739a222",
+          "title": "Macy's Tech Early Careers - Software Engineer",
+          "company": "Macy's",
+          "posted_at": "2026-02-01T07:51:18.648Z"
         },
         {
-          "id": "cfb05456e045ab95",
-          "title": "Graduate Research Engineer",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T07:26:49.556Z"
+          "id": "36267e95be95f4ee",
+          "title": "Product Support Engineer",
+          "company": "nominal",
+          "posted_at": "2026-02-01T07:51:22.490Z"
         },
         {
-          "id": "b979d22790549418",
-          "title": "New Grads 2026 - Software Engineer - Computer Vision",
-          "company": "WeRide",
-          "posted_at": "2026-02-01T07:26:53.300Z"
+          "id": "921c7a11c0a99df3",
+          "title": "Software Engineer I",
+          "company": "Jerry",
+          "posted_at": "2026-02-01T07:51:26.245Z"
         },
         {
-          "id": "4b4179147143d35e",
-          "title": "New Grads 2026 - General Software Engineer",
-          "company": "WeRide",
-          "posted_at": "2026-02-01T07:26:57.149Z"
+          "id": "8afcca2b9e18629d",
+          "title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
+          "company": "Northrop Grumman",
+          "posted_at": "2026-02-01T07:51:30.071Z"
         },
         {
-          "id": "f9802153fc3abb6c",
-          "title": "Research Assistant",
-          "company": "Northeastern",
-          "posted_at": "2026-02-01T07:27:00.765Z"
+          "id": "15ffdb69e69a8625",
+          "title": "AI Research Engineer",
+          "company": "Duolingo",
+          "posted_at": "2026-02-01T07:51:33.658Z"
         },
         {
-          "id": "2606aa0cea0b21dc",
-          "title": "Machine Learning Engineer – Entry Level",
-          "company": "Toyota Connected",
-          "posted_at": "2026-02-01T07:27:04.474Z"
+          "id": "5e3da7e9c906e73b",
+          "title": "Early-Career Subsurface Modeler",
+          "company": "Geosyntec Consultants",
+          "posted_at": "2026-02-01T07:51:37.367Z"
         },
         {
-          "id": "72c1f2df0cd706c4",
-          "title": "Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer",
-          "company": "PingWind",
-          "posted_at": "2026-02-01T07:27:08.033Z"
+          "id": "055063dcd45bdd0c",
+          "title": "Data Analyst",
+          "company": "Gartner",
+          "posted_at": "2026-02-01T07:51:44.047Z"
+        },
+        {
+          "id": "8abdb7480ccab3f6",
+          "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T07:51:47.652Z"
+        },
+        {
+          "id": "013c2001ffecc5f0",
+          "title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T07:51:51.339Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 216,
+      "count": 219,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1663,27 +1673,12 @@
         "b9a319dca719b5d5",
         "9dab3640c19f727c",
         "b979d22790549418",
-        "4b4179147143d35e"
+        "4b4179147143d35e",
+        "36267e95be95f4ee",
+        "921c7a11c0a99df3",
+        "15ffdb69e69a8625"
       ],
       "recent_jobs": [
-        {
-          "id": "e3a6676bd7d9e9d1",
-          "title": "Software Engineer, Fullstack",
-          "company": "Notion",
-          "posted_at": "2026-02-01T06:03:06.264Z"
-        },
-        {
-          "id": "ac5714c4476808e9",
-          "title": "Software Engineer",
-          "company": "Figma",
-          "posted_at": "2026-02-01T06:03:09.905Z"
-        },
-        {
-          "id": "29ed58ed6c5ba107",
-          "title": "Software Engineer - Backend",
-          "company": "OpenAI",
-          "posted_at": "2026-02-01T06:03:37.873Z"
-        },
         {
           "id": "b6e29d7342ed3633",
           "title": "Analyst Rotational Program – Software Engineering",
@@ -1725,12 +1720,30 @@
           "title": "New Grads 2026 - General Software Engineer",
           "company": "WeRide",
           "posted_at": "2026-02-01T07:26:57.149Z"
+        },
+        {
+          "id": "36267e95be95f4ee",
+          "title": "Product Support Engineer",
+          "company": "nominal",
+          "posted_at": "2026-02-01T07:51:22.490Z"
+        },
+        {
+          "id": "921c7a11c0a99df3",
+          "title": "Software Engineer I",
+          "company": "Jerry",
+          "posted_at": "2026-02-01T07:51:26.245Z"
+        },
+        {
+          "id": "15ffdb69e69a8625",
+          "title": "AI Research Engineer",
+          "company": "Duolingo",
+          "posted_at": "2026-02-01T07:51:33.658Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 117,
+      "count": 121,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1848,33 +1861,13 @@
         "6b4f0265de22630c",
         "f9802153fc3abb6c",
         "2606aa0cea0b21dc",
-        "72c1f2df0cd706c4"
+        "72c1f2df0cd706c4",
+        "a89597564739a222",
+        "8afcca2b9e18629d",
+        "5e3da7e9c906e73b",
+        "055063dcd45bdd0c"
       ],
       "recent_jobs": [
-        {
-          "id": "c45ed1b4d7431675",
-          "title": "Software Engineer – New College Graduate",
-          "company": "SIFT",
-          "posted_at": "2026-02-01T06:26:09.298Z"
-        },
-        {
-          "id": "fd9773b16e720a64",
-          "title": "Data Science Engineer",
-          "company": "W.R. Berkley",
-          "posted_at": "2026-02-01T06:26:19.877Z"
-        },
-        {
-          "id": "45b231e1a449a778",
-          "title": "Software Engineer",
-          "company": "Sift",
-          "posted_at": "2026-02-01T06:57:31.881Z"
-        },
-        {
-          "id": "0596049a5e34ebc7",
-          "title": "Cloud Support Engineer I (Support Response)",
-          "company": "Lambda",
-          "posted_at": "2026-02-01T06:57:35.716Z"
-        },
         {
           "id": "55000d4d1a8d922c",
           "title": "Analyst, Data & Software Engineering",
@@ -1910,6 +1903,30 @@
           "title": "Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer",
           "company": "PingWind",
           "posted_at": "2026-02-01T07:27:08.033Z"
+        },
+        {
+          "id": "a89597564739a222",
+          "title": "Macy's Tech Early Careers - Software Engineer",
+          "company": "Macy's",
+          "posted_at": "2026-02-01T07:51:18.648Z"
+        },
+        {
+          "id": "8afcca2b9e18629d",
+          "title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
+          "company": "Northrop Grumman",
+          "posted_at": "2026-02-01T07:51:30.071Z"
+        },
+        {
+          "id": "5e3da7e9c906e73b",
+          "title": "Early-Career Subsurface Modeler",
+          "company": "Geosyntec Consultants",
+          "posted_at": "2026-02-01T07:51:37.367Z"
+        },
+        {
+          "id": "055063dcd45bdd0c",
+          "title": "Data Analyst",
+          "company": "Gartner",
+          "posted_at": "2026-02-01T07:51:44.047Z"
         }
       ]
     },
@@ -2287,7 +2304,7 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 8,
+      "count": 10,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2296,7 +2313,9 @@
         "00f0a8636dcaf1b3",
         "bbeed1e85e4632b2",
         "352b726114ab53d9",
-        "cfb05456e045ab95"
+        "cfb05456e045ab95",
+        "8abdb7480ccab3f6",
+        "013c2001ffecc5f0"
       ],
       "recent_jobs": [
         {
@@ -2346,6 +2365,18 @@
           "title": "Graduate Research Engineer",
           "company": "ByteDance",
           "posted_at": "2026-02-01T07:26:49.556Z"
+        },
+        {
+          "id": "8abdb7480ccab3f6",
+          "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T07:51:47.652Z"
+        },
+        {
+          "id": "013c2001ffecc5f0",
+          "title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T07:51:51.339Z"
         }
       ]
     }
@@ -2863,56 +2894,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.636Z"
+        "timestamp": "2026-02-01T07:51:16.414Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.637Z"
+        "timestamp": "2026-02-01T07:51:16.414Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.637Z"
+        "timestamp": "2026-02-01T07:51:16.415Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.638Z"
+        "timestamp": "2026-02-01T07:51:16.415Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.638Z"
+        "timestamp": "2026-02-01T07:51:16.415Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.638Z"
+        "timestamp": "2026-02-01T07:51:16.416Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.639Z"
+        "timestamp": "2026-02-01T07:51:16.416Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T07:26:31.639Z"
+        "timestamp": "2026-02-01T07:51:16.417Z"
       }
     ]
   }
