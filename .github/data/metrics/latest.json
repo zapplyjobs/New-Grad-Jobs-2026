@@ -1,15 +1,15 @@
 {
-  "generated": "2026-02-01T21:33:57.612Z",
+  "generated": "2026-02-01T21:47:43.140Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T21:33:57.612Z",
-  "period_end": "2026-02-01T21:33:57.612Z",
+  "period_start": "2026-01-25T21:47:43.140Z",
+  "period_end": "2026-02-01T21:47:43.140Z",
   "summary": {
-    "total_jobs_posted": 3029,
-    "unique_jobs": 2198,
-    "multi_channel_postings": 1662,
-    "unique_multi_channel_jobs": 831,
+    "total_jobs_posted": 3031,
+    "unique_jobs": 2199,
+    "multi_channel_postings": 1664,
+    "unique_multi_channel_jobs": 832,
     "failed_postings": 0,
-    "filtered_jobs": 38,
+    "filtered_jobs": 47,
     "channels_active": 5
   },
   "by_channel": {
@@ -2441,7 +2441,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 319,
+      "count": 320,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2761,15 +2761,10 @@
         "c88874a7f2b40d13",
         "8d073202433896e8",
         "2b0d7ea6dd8a58d2",
-        "e48d8283f8f75b0e"
+        "e48d8283f8f75b0e",
+        "b41627ff762c5027"
       ],
       "recent_jobs": [
-        {
-          "id": "7deaad990e184756",
-          "title": "Air Handling Unit Application Engineer",
-          "company": "Johnson Controls",
-          "posted_at": "2026-02-01T20:08:30.792Z"
-        },
         {
           "id": "40b605b802d95caa",
           "title": "GIS Analyst",
@@ -2823,12 +2818,18 @@
           "title": "Data Scientist 2",
           "company": "Gopuff",
           "posted_at": "2026-02-01T21:33:18.222Z"
+        },
+        {
+          "id": "b41627ff762c5027",
+          "title": "Upmarket Account Executive",
+          "company": "brex",
+          "posted_at": "2026-02-01T21:47:32.439Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 349,
+      "count": 350,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -3178,15 +3179,10 @@
         "10413df630ebfa64",
         "8d073202433896e8",
         "82c8f9da0d86d648",
-        "7201e28ee3618395"
+        "7201e28ee3618395",
+        "b41627ff762c5027"
       ],
       "recent_jobs": [
-        {
-          "id": "6540ebf6e41aadda",
-          "title": "Data Analyst",
-          "company": "Horizon media",
-          "posted_at": "2026-02-01T19:32:59.283Z"
-        },
         {
           "id": "bdb9febc418ba6fa",
           "title": "Data Analyst",
@@ -3240,6 +3236,12 @@
           "title": "Upmarket Account Executive",
           "company": "brex",
           "posted_at": "2026-02-01T21:33:32.261Z"
+        },
+        {
+          "id": "b41627ff762c5027",
+          "title": "Upmarket Account Executive",
+          "company": "brex",
+          "posted_at": "2026-02-01T21:47:32.439Z"
         }
       ]
     },
@@ -3889,270 +3891,333 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "boards-greenhouse-io-cloudflare-jobs-7514944",
-        "title": "Senior Security Compliance Specialist (DoD)",
-        "company": "cloudflare",
+        "job_id": "jobs-lever-co-ion-beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa-apply",
+        "title": "Software Developer - 2026 Leadership Development Program - Houston",
+        "company": "ION Group",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.416Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297",
-        "title": "Space Payload 1&T – Engineer/Principal Engineer",
-        "company": "Northrop Grumman",
+        "job_id": "boards-greenhouse-io-figma-jobs-5732508004",
+        "title": "Manager, Product Marketing ",
+        "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.416Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191",
-        "title": "Engineer 1 – Senior Engineer – Senior Engineer 2 – Principal Engineer System Protection - Principal Engineer System Protection",
-        "company": "Berkshire Hathaway Energy",
+        "job_id": "boards-greenhouse-io-figma-jobs-5728495004",
+        "title": "Director, Federal Sales",
+        "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.416Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8350839002",
-        "title": "Senior Contracts Manager, Procurement and AI",
-        "company": "airtable",
+        "job_id": "www-coinbase-com-careers-positions-6984450",
+        "title": "Associate Manager, EDD Compliance",
+        "company": "coinbase",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.416Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "www-brex-com-careers-8360086002",
-        "title": "Tax Director",
+        "job_id": "www-coinbase-com-careers-positions-7394927",
+        "title": "Associate Manager, Quality Compliance",
+        "company": "coinbase",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.976Z"
+      },
+      {
+        "job_id": "www-coinbase-com-careers-positions-6984453",
+        "title": "Associate Manager, Transaction Monitoring Compliance",
+        "company": "coinbase",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.976Z"
+      },
+      {
+        "job_id": "www-coinbase-com-careers-positions-6984439",
+        "title": "Lead EDD Compliance Analyst",
+        "company": "coinbase",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.976Z"
+      },
+      {
+        "job_id": "www-coinbase-com-careers-positions-6852375",
+        "title": "Senior AML Investigations Trainer",
+        "company": "coinbase",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.976Z"
+      },
+      {
+        "job_id": "wustl-wd1-myworkdayjobs-com-external-job-washington-university-danforth-campus-postdoctoral-research-associate-physics_jr91660",
+        "title": "Postdoctoral Research Associate - Physics",
+        "company": "Wash U",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.976Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8303858002",
+        "title": " Accounting Manager, Legal Entity Controllership",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "www-brex-com-careers-8307573002",
-        "title": "Tax Director",
+        "job_id": "www-brex-com-careers-8303852002",
+        "title": "Accounting Manager, Legal Entity Controllership",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5739002004",
-        "title": "GTM Strategy Manager ",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5732415004",
-        "title": "Director, Product Marketing ",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "amazon-jobs-en-jobs-3150951-agentic-ai-teacher-agi-ds-agi-ds",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "company": "Amazon",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061",
-        "title": "Director's Fellowship Postdoctoral Researcher",
-        "company": "National Renewable Energy Laboratory",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gallup-jobs-4077186009",
-        "title": "Senior Backend Developer",
-        "company": "Gallup",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
-        "title": "Director of Sales, Scaled Vendor Sales",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-trustworthy-artificial-intelligence-2_r-089885-1",
-        "title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
-        "company": "Prairie View A&M University",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5739572004",
-        "title": "Sales Enablement Manager ",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808",
-        "title": "Senior Software Engineer",
-        "company": "Oracle",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-7968990002",
-        "title": "People Analytics Lead",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8199012002",
-        "title": "Product Manager, AI",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8245333002",
-        "title": "Product Manager, Omni Analysis & Q&A",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8292724002",
-        "title": "Scaled Customer Success Manager",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8230656002",
-        "title": "Senior Enterprise Marketing Manager",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8229185002",
-        "title": "Senior Manager, Finance Systems",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8235618002",
-        "title": "Senior Manager, People Systems",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5737291004",
-        "title": "Legal Operations Lead, CLM & Technology",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
-        "title": "Senior Manager, Music Label Deal Analysis - FP&A",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5735644004",
-        "title": "Senior Technical Revenue Manager",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767",
-        "title": "Senior Data Scientist",
-        "company": "Walmart",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-edwards-afb-data-insight-analyst-or-principal-data-insight-analyst_r10213256",
-        "title": "Data Insight Analyst - Principal Data Insight Analyst",
-        "company": "Northrop Grumman",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.417Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5737778004",
-        "title": "Strategic Program Manager",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5737701004",
-        "title": "Manager, Figma for Education ",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8332016002",
-        "title": "Staff Economist",
+        "job_id": "www-brex-com-careers-8302391002",
+        "title": "Accounting Manager, Legal Entity Controllership",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5735296004",
-        "title": "Compliance Manager, Customer Trust & Third Party Risk",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5734651004",
-        "title": "Senior Manager, Revenue Transformation",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8339283002",
-        "title": "Senior Security Operations Engineer ",
+        "job_id": "www-brex-com-careers-8303855002",
+        "title": "Accounting Manager, Legal Entity Controllership",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "www-brex-com-careers-8339277002",
-        "title": "Senior Security Operations Engineer ",
+        "job_id": "www-brex-com-careers-8316251002",
+        "title": "Compliance Manager (Card & Rewards)",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "www-brex-com-careers-8339252002",
-        "title": "Senior Security Operations Engineer ",
+        "job_id": "www-brex-com-careers-8316257002",
+        "title": "Compliance Manager (Card & Rewards)",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
+        "timestamp": "2026-02-01T21:47:31.976Z"
       },
       {
-        "job_id": "jobs-lever-co-spotify-1c59f08a-6f03-451e-a4d5-966684acef74",
-        "title": "Associate Director, Programmatic Platform Operations",
-        "company": "spotify",
+        "job_id": "www-brex-com-careers-8316256002",
+        "title": "Compliance Manager (Card & Rewards)",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
+        "timestamp": "2026-02-01T21:47:31.977Z"
       },
       {
-        "job_id": "apply-workable-com-scitec-j-301788b4bf-apply",
-        "title": "Associate / Staff Mission Data Analyst",
-        "company": "SciTec",
+        "job_id": "www-brex-com-careers-8330477002",
+        "title": "Engineering Manager, Security Engineering ",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
+        "timestamp": "2026-02-01T21:47:31.977Z"
       },
       {
-        "job_id": "jobs-ashbyhq-com-supabase-66bab062-b769-43cf-ac3c-a2630257624c",
-        "title": "Customer Solution Architect Team Lead (AMER)",
-        "company": "supabase",
+        "job_id": "www-brex-com-careers-8330465002",
+        "title": "Engineering Manager, Security Engineering ",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T21:33:05.418Z"
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8324892002",
+        "title": "Senior Accountant",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8324893002",
+        "title": "Senior Accountant",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8324890002",
+        "title": "Senior Accountant",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8324879002",
+        "title": "Senior Accountant",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8249885002",
+        "title": "Senior Application Security Engineer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8249884002",
+        "title": "Senior Application Security Engineer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8249658002",
+        "title": "Senior Application Security Engineer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8299931002",
+        "title": "Senior Engineering Manager, Acquisition",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8299907002",
+        "title": "Senior Engineering Manager, Acquisition",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8299930002",
+        "title": "Senior Engineering Manager, Acquisition",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8330492002",
+        "title": "Senior Engineering Manager, Activation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8330495002",
+        "title": "Senior Engineering Manager, Activation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8184122002",
+        "title": "Senior Engineering Manager, Risk Management",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8184694002",
+        "title": "Senior Engineering Manager, Risk Management ",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8184695002",
+        "title": "Senior Engineering Manager, Risk Management ",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8075285002",
+        "title": "Senior GTM Recruiter",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8073147002",
+        "title": "Senior GTM Recruiter",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8093385002",
+        "title": "Senior GTM Recruiter",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8222783002",
+        "title": " Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8215986002",
+        "title": "Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8216086002",
+        "title": "Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8216085002",
+        "title": "Senior Manager, Implementation",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8213577002",
+        "title": "Senior Software Engineer, Full-Stack",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-7521386002",
+        "title": "Senior Software Engineer, Product ",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8198574002",
+        "title": "Staff Brand Designer, Interactive",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-7669111002",
+        "title": "Staff Product Designer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8124973002",
+        "title": "Staff Product Designer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003",
+        "title": "Staff Engineer I, Software Process Engineering",
+        "company": "Samsung",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.977Z"
+      },
+      {
+        "job_id": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362",
+        "title": "Staff Analytics Engineer",
+        "company": "gohighlevel",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T21:47:31.978Z"
       }
     ],
     "already_posted": [],
