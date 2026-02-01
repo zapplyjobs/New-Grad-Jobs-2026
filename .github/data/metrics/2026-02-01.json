@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T08:23:14.867Z",
+  "generated": "2026-02-01T08:37:04.494Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T08:23:14.867Z",
-  "period_end": "2026-02-01T08:23:14.867Z",
+  "period_start": "2026-01-25T08:37:04.494Z",
+  "period_end": "2026-02-01T08:37:04.494Z",
   "summary": {
-    "total_jobs_posted": 2064,
-    "unique_jobs": 1697,
-    "multi_channel_postings": 734,
-    "unique_multi_channel_jobs": 367,
+    "total_jobs_posted": 2083,
+    "unique_jobs": 1707,
+    "multi_channel_postings": 752,
+    "unique_multi_channel_jobs": 376,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1391,
+      "count": 1401,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1407,74 +1407,84 @@
         "bebf72de68465bcb",
         "827a1344bd768a15",
         "52da0813bec53143",
-        "5939d7b4f9d5569a"
+        "5939d7b4f9d5569a",
+        "eb7cbe19b8bfe949",
+        "308f2f3f62288ac5",
+        "3af85540998f1fc1",
+        "5c70eaa2de07eb70",
+        "75db6c977c095440",
+        "aac4ddc81a672ebf",
+        "05f5215a95a4d060",
+        "03f7bb224e18162d",
+        "ab7890b8151ac497",
+        "c698191143392ea2"
       ],
       "recent_jobs": [
         {
-          "id": "199750a442582541",
-          "title": "Artificial Intelligence Graduate",
-          "company": "AVEVA",
-          "posted_at": "2026-02-01T08:06:18.610Z"
-        },
-        {
-          "id": "3eca60b66677840e",
-          "title": "Founder in Residence - Embedfi - SMB Hardware Leasing",
-          "company": "AI Fund",
-          "posted_at": "2026-02-01T08:06:22.322Z"
-        },
-        {
-          "id": "986b8c4f0ae297b5",
-          "title": "Associate Software Engineer",
-          "company": "CoStar",
-          "posted_at": "2026-02-01T08:22:36.962Z"
-        },
-        {
-          "id": "7aa53a1ae4df0f30",
-          "title": "Software Engineer – New Grad",
-          "company": "Eventual",
-          "posted_at": "2026-02-01T08:22:38.895Z"
-        },
-        {
-          "id": "bd179346956fd475",
-          "title": "Application Development Engineer I",
-          "company": "Centene",
-          "posted_at": "2026-02-01T08:22:42.763Z"
-        },
-        {
-          "id": "3f7640184bc3f022",
-          "title": "Software Development Engineer 1 - Engineering - Development",
-          "company": "Boston Scientific",
-          "posted_at": "2026-02-01T08:22:44.689Z"
-        },
-        {
-          "id": "bebf72de68465bcb",
-          "title": "Associate Software Software Engineer",
-          "company": "Red Hat",
-          "posted_at": "2026-02-01T08:22:48.541Z"
-        },
-        {
-          "id": "827a1344bd768a15",
+          "id": "eb7cbe19b8bfe949",
           "title": "Mission Operations Engineer",
           "company": "nominal",
-          "posted_at": "2026-02-01T08:22:52.328Z"
+          "posted_at": "2026-02-01T08:36:17.931Z"
         },
         {
-          "id": "52da0813bec53143",
-          "title": "Multilingual Tutor",
-          "company": "xAI",
-          "posted_at": "2026-02-01T08:22:56.188Z"
+          "id": "308f2f3f62288ac5",
+          "title": "Software Engineer",
+          "company": "EliseAI",
+          "posted_at": "2026-02-01T08:36:19.914Z"
         },
         {
-          "id": "5939d7b4f9d5569a",
-          "title": "Data Analyst - Insights and Product Analytics",
-          "company": "Gartner",
-          "posted_at": "2026-02-01T08:23:04.029Z"
+          "id": "3af85540998f1fc1",
+          "title": "Engineer 1 - Full Stack, Store POS+",
+          "company": "Nordstrom",
+          "posted_at": "2026-02-01T08:36:23.636Z"
+        },
+        {
+          "id": "5c70eaa2de07eb70",
+          "title": "Cybersecurity Analyst",
+          "company": "Jane Street",
+          "posted_at": "2026-02-01T08:36:27.366Z"
+        },
+        {
+          "id": "75db6c977c095440",
+          "title": "Geoint Analyst – Entry Level",
+          "company": "WiSC Enterprises, LLC",
+          "posted_at": "2026-02-01T08:36:31.062Z"
+        },
+        {
+          "id": "aac4ddc81a672ebf",
+          "title": "Solutions Analyst - Enterprise Asset Management - Eam",
+          "company": "KCI Technologies",
+          "posted_at": "2026-02-01T08:36:34.782Z"
+        },
+        {
+          "id": "05f5215a95a4d060",
+          "title": "Technical Advisor",
+          "company": "WiSC Enterprises, LLC",
+          "posted_at": "2026-02-01T08:36:38.411Z"
+        },
+        {
+          "id": "03f7bb224e18162d",
+          "title": "Entry Level Software Developer",
+          "company": "Dayton Freight Lines",
+          "posted_at": "2026-02-01T08:36:42.100Z"
+        },
+        {
+          "id": "ab7890b8151ac497",
+          "title": "IT Data Solutions Developer Associate",
+          "company": "Advocate Health Care",
+          "posted_at": "2026-02-01T08:36:45.752Z"
+        },
+        {
+          "id": "c698191143392ea2",
+          "title": "Faculty Fellow",
+          "company": "Susquehanna International Group (SIG)",
+          "posted_at": "2026-02-01T08:36:54.136Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 226,
+      "count": 228,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1701,21 +1711,11 @@
         "7f3a56e1f83e574d",
         "7aa53a1ae4df0f30",
         "827a1344bd768a15",
-        "52da0813bec53143"
+        "52da0813bec53143",
+        "308f2f3f62288ac5",
+        "5c70eaa2de07eb70"
       ],
       "recent_jobs": [
-        {
-          "id": "36267e95be95f4ee",
-          "title": "Product Support Engineer",
-          "company": "nominal",
-          "posted_at": "2026-02-01T07:51:22.490Z"
-        },
-        {
-          "id": "921c7a11c0a99df3",
-          "title": "Software Engineer I",
-          "company": "Jerry",
-          "posted_at": "2026-02-01T07:51:26.245Z"
-        },
         {
           "id": "15ffdb69e69a8625",
           "title": "AI Research Engineer",
@@ -1763,12 +1763,24 @@
           "title": "Multilingual Tutor",
           "company": "xAI",
           "posted_at": "2026-02-01T08:22:56.188Z"
+        },
+        {
+          "id": "308f2f3f62288ac5",
+          "title": "Software Engineer",
+          "company": "EliseAI",
+          "posted_at": "2026-02-01T08:36:19.914Z"
+        },
+        {
+          "id": "5c70eaa2de07eb70",
+          "title": "Cybersecurity Analyst",
+          "company": "Jane Street",
+          "posted_at": "2026-02-01T08:36:27.366Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 131,
+      "count": 137,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1900,45 +1912,15 @@
         "199750a442582541",
         "3f7640184bc3f022",
         "bebf72de68465bcb",
-        "5939d7b4f9d5569a"
+        "5939d7b4f9d5569a",
+        "75db6c977c095440",
+        "aac4ddc81a672ebf",
+        "05f5215a95a4d060",
+        "03f7bb224e18162d",
+        "ab7890b8151ac497",
+        "c698191143392ea2"
       ],
       "recent_jobs": [
-        {
-          "id": "f94a5d094bdb49ec",
-          "title": "AI Research Engineer",
-          "company": "Duolingo",
-          "posted_at": "2026-02-01T08:05:47.836Z"
-        },
-        {
-          "id": "d6da4b6c6534cd2c",
-          "title": "Engineering Assistant I – Software",
-          "company": "BAE Systems",
-          "posted_at": "2026-02-01T08:05:55.252Z"
-        },
-        {
-          "id": "83b03400b471e19a",
-          "title": "Analyst, Data & Software Engineering",
-          "company": "Ovative Group",
-          "posted_at": "2026-02-01T08:06:00.771Z"
-        },
-        {
-          "id": "aa5cd9ba61777d33",
-          "title": "Associate Software Engineer",
-          "company": "NAVEX",
-          "posted_at": "2026-02-01T08:06:04.567Z"
-        },
-        {
-          "id": "1bccc08b1ffb7fa6",
-          "title": "Associate Software Engineer",
-          "company": "Light & Wonder",
-          "posted_at": "2026-02-01T08:06:08.122Z"
-        },
-        {
-          "id": "932665f86092e42e",
-          "title": "CLI Engineer",
-          "company": "supabase",
-          "posted_at": "2026-02-01T08:06:11.984Z"
-        },
         {
           "id": "199750a442582541",
           "title": "Artificial Intelligence Graduate",
@@ -1962,6 +1944,42 @@
           "title": "Data Analyst - Insights and Product Analytics",
           "company": "Gartner",
           "posted_at": "2026-02-01T08:23:04.029Z"
+        },
+        {
+          "id": "75db6c977c095440",
+          "title": "Geoint Analyst – Entry Level",
+          "company": "WiSC Enterprises, LLC",
+          "posted_at": "2026-02-01T08:36:31.062Z"
+        },
+        {
+          "id": "aac4ddc81a672ebf",
+          "title": "Solutions Analyst - Enterprise Asset Management - Eam",
+          "company": "KCI Technologies",
+          "posted_at": "2026-02-01T08:36:34.782Z"
+        },
+        {
+          "id": "05f5215a95a4d060",
+          "title": "Technical Advisor",
+          "company": "WiSC Enterprises, LLC",
+          "posted_at": "2026-02-01T08:36:38.411Z"
+        },
+        {
+          "id": "03f7bb224e18162d",
+          "title": "Entry Level Software Developer",
+          "company": "Dayton Freight Lines",
+          "posted_at": "2026-02-01T08:36:42.100Z"
+        },
+        {
+          "id": "ab7890b8151ac497",
+          "title": "IT Data Solutions Developer Associate",
+          "company": "Advocate Health Care",
+          "posted_at": "2026-02-01T08:36:45.752Z"
+        },
+        {
+          "id": "c698191143392ea2",
+          "title": "Faculty Fellow",
+          "company": "Susquehanna International Group (SIG)",
+          "posted_at": "2026-02-01T08:36:54.136Z"
         }
       ]
     },
@@ -2341,7 +2359,7 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 10,
+      "count": 11,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2352,15 +2370,10 @@
         "352b726114ab53d9",
         "cfb05456e045ab95",
         "8abdb7480ccab3f6",
-        "013c2001ffecc5f0"
+        "013c2001ffecc5f0",
+        "3af85540998f1fc1"
       ],
       "recent_jobs": [
-        {
-          "id": "d8a4656d77603db6",
-          "title": "Software Engineer 1 - Multiple Teams",
-          "company": "DoorDash",
-          "posted_at": "2026-02-01T03:46:59.085Z"
-        },
         {
           "id": "72155fe011ee2af3",
           "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
@@ -2414,6 +2427,12 @@
           "title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search",
           "company": "TikTok",
           "posted_at": "2026-02-01T07:51:51.339Z"
+        },
+        {
+          "id": "3af85540998f1fc1",
+          "title": "Engineer 1 - Full Stack, Store POS+",
+          "company": "Nordstrom",
+          "posted_at": "2026-02-01T08:36:23.636Z"
         }
       ]
     }
@@ -2931,56 +2950,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.821Z"
+        "timestamp": "2026-02-01T08:36:17.672Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.822Z"
+        "timestamp": "2026-02-01T08:36:17.673Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.822Z"
+        "timestamp": "2026-02-01T08:36:17.673Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.823Z"
+        "timestamp": "2026-02-01T08:36:17.673Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.823Z"
+        "timestamp": "2026-02-01T08:36:17.674Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.824Z"
+        "timestamp": "2026-02-01T08:36:17.674Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.824Z"
+        "timestamp": "2026-02-01T08:36:17.674Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:22:25.824Z"
+        "timestamp": "2026-02-01T08:36:17.675Z"
       }
     ]
   }
