@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T15:14:57.675Z",
+  "generated": "2026-02-01T15:26:04.956Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T15:14:57.675Z",
-  "period_end": "2026-02-01T15:14:57.675Z",
+  "period_start": "2026-01-25T15:26:04.956Z",
+  "period_end": "2026-02-01T15:26:04.956Z",
   "summary": {
-    "total_jobs_posted": 2569,
-    "unique_jobs": 1957,
-    "multi_channel_postings": 1224,
-    "unique_multi_channel_jobs": 612,
+    "total_jobs_posted": 2589,
+    "unique_jobs": 1967,
+    "multi_channel_postings": 1244,
+    "unique_multi_channel_jobs": 622,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1625,
+      "count": 1635,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1641,68 +1641,78 @@
         "652edd6dcc4fbf97",
         "1bbca90dd21684f9",
         "77f31e66ffc873cb",
-        "1dacd65c454969a5"
+        "1dacd65c454969a5",
+        "0defcccd980ae93a",
+        "56e323f5f77babcb",
+        "7f5a7b0fd6022d5a",
+        "70c6845660571fc1",
+        "36ae9ddff9e863ed",
+        "048211c8770e61f8",
+        "7b1ca6e75e5d3ffe",
+        "7d0ab4cfc82227fd",
+        "58d92f6839e6051a",
+        "e6d6bdac8d7b5eb4"
       ],
       "recent_jobs": [
         {
-          "id": "2235122b18edc0ff",
-          "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
-          "company": "Anduril Industries",
-          "posted_at": "2026-02-01T15:04:42.006Z"
-        },
-        {
-          "id": "b0ca0804d4bfd790",
+          "id": "0defcccd980ae93a",
           "title": "Hiring Entry Level Software Engineer",
           "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:14:10.175Z"
+          "posted_at": "2026-02-01T15:25:17.122Z"
         },
         {
-          "id": "973feb7dd3f29c06",
-          "title": "Software Engineering, Associate",
-          "company": "Peraton",
-          "posted_at": "2026-02-01T15:14:14.030Z"
+          "id": "56e323f5f77babcb",
+          "title": "Software Developer",
+          "company": "Cook Systems",
+          "posted_at": "2026-02-01T15:25:20.873Z"
         },
         {
-          "id": "7e6eb1c706953372",
-          "title": "Associate Software Engineer",
-          "company": "Moog",
-          "posted_at": "2026-02-01T15:14:17.801Z"
+          "id": "7f5a7b0fd6022d5a",
+          "title": "Embedded Software Engineer",
+          "company": "Emerson",
+          "posted_at": "2026-02-01T15:25:24.885Z"
         },
         {
-          "id": "6a9e396442a42da4",
-          "title": "Software Engineer",
-          "company": "BMO",
-          "posted_at": "2026-02-01T15:14:19.986Z"
+          "id": "70c6845660571fc1",
+          "title": "Software Engineer I",
+          "company": "Ping Identity",
+          "posted_at": "2026-02-01T15:25:28.729Z"
         },
         {
-          "id": "11d1e08a77bd90fd",
-          "title": "Software Engineer Graduate Social - 2026 Start",
+          "id": "36ae9ddff9e863ed",
+          "title": "Associate Engineer, Software",
+          "company": "Royal Carribean Group",
+          "posted_at": "2026-02-01T15:25:32.565Z"
+        },
+        {
+          "id": "048211c8770e61f8",
+          "title": "Junior Full Stack Software Engineer",
+          "company": "Radiance Technologies",
+          "posted_at": "2026-02-01T15:25:36.332Z"
+        },
+        {
+          "id": "7b1ca6e75e5d3ffe",
+          "title": "Undergrad Software Engineer",
+          "company": "Oracle",
+          "posted_at": "2026-02-01T15:25:39.991Z"
+        },
+        {
+          "id": "7d0ab4cfc82227fd",
+          "title": "Forward Deployed Software Engineer I",
+          "company": "Maxar",
+          "posted_at": "2026-02-01T15:25:43.816Z"
+        },
+        {
+          "id": "58d92f6839e6051a",
+          "title": "Software Developer I - AI Developer",
+          "company": "Iowa State University",
+          "posted_at": "2026-02-01T15:25:50.594Z"
+        },
+        {
+          "id": "e6d6bdac8d7b5eb4",
+          "title": "Machine Learning Engineer Graduate - Search Local Services team",
           "company": "TikTok",
-          "posted_at": "2026-02-01T15:14:23.863Z"
-        },
-        {
-          "id": "652edd6dcc4fbf97",
-          "title": "Product Security Engineer - Security Assurance",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:14:25.803Z"
-        },
-        {
-          "id": "1bbca90dd21684f9",
-          "title": "SDET, Software Development Engineer in Test",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:14:29.503Z"
-        },
-        {
-          "id": "77f31e66ffc873cb",
-          "title": "Research Scientist, Robotics Research",
-          "company": "NVIDIA",
-          "posted_at": "2026-02-01T15:14:33.209Z"
-        },
-        {
-          "id": "1dacd65c454969a5",
-          "title": "Machine Learning Engineer - Search E-Commerce",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:14:40.479Z"
+          "posted_at": "2026-02-01T15:25:54.344Z"
         }
       ]
     },
@@ -2114,7 +2124,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 241,
+      "count": 249,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2356,57 +2366,17 @@
         "bc64c6d4d51ef5c0",
         "2235122b18edc0ff",
         "973feb7dd3f29c06",
-        "6a9e396442a42da4"
+        "6a9e396442a42da4",
+        "0defcccd980ae93a",
+        "56e323f5f77babcb",
+        "7f5a7b0fd6022d5a",
+        "70c6845660571fc1",
+        "36ae9ddff9e863ed",
+        "048211c8770e61f8",
+        "7d0ab4cfc82227fd",
+        "58d92f6839e6051a"
       ],
       "recent_jobs": [
-        {
-          "id": "cb0a7bf16287f79c",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:04:01.301Z"
-        },
-        {
-          "id": "9853e4391ec1aeb3",
-          "title": "Hiring Recent graduated students for full time jobs",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:04:09.081Z"
-        },
-        {
-          "id": "af1cedc9feca62a7",
-          "title": "Salesforce OBIEE ETL Training and Placement",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:04:12.757Z"
-        },
-        {
-          "id": "f4e65c42f2d8f250",
-          "title": "Training & Placement on Informatica/ Microstrategy",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:04:20.272Z"
-        },
-        {
-          "id": "f7bc268bdad7b7c8",
-          "title": "Software Engineer Position",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:04:23.915Z"
-        },
-        {
-          "id": "7d251fbc36cfff78",
-          "title": "Geospatial Analyst 1",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T15:04:30.782Z"
-        },
-        {
-          "id": "bc64c6d4d51ef5c0",
-          "title": "Software Engineer, Connected Warfare",
-          "company": "Anduril Industries",
-          "posted_at": "2026-02-01T15:04:38.214Z"
-        },
-        {
-          "id": "2235122b18edc0ff",
-          "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
-          "company": "Anduril Industries",
-          "posted_at": "2026-02-01T15:04:42.006Z"
-        },
         {
           "id": "973feb7dd3f29c06",
           "title": "Software Engineering, Associate",
@@ -2418,6 +2388,54 @@
           "title": "Software Engineer",
           "company": "BMO",
           "posted_at": "2026-02-01T15:14:19.986Z"
+        },
+        {
+          "id": "0defcccd980ae93a",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:25:17.122Z"
+        },
+        {
+          "id": "56e323f5f77babcb",
+          "title": "Software Developer",
+          "company": "Cook Systems",
+          "posted_at": "2026-02-01T15:25:20.873Z"
+        },
+        {
+          "id": "7f5a7b0fd6022d5a",
+          "title": "Embedded Software Engineer",
+          "company": "Emerson",
+          "posted_at": "2026-02-01T15:25:24.885Z"
+        },
+        {
+          "id": "70c6845660571fc1",
+          "title": "Software Engineer I",
+          "company": "Ping Identity",
+          "posted_at": "2026-02-01T15:25:28.729Z"
+        },
+        {
+          "id": "36ae9ddff9e863ed",
+          "title": "Associate Engineer, Software",
+          "company": "Royal Carribean Group",
+          "posted_at": "2026-02-01T15:25:32.565Z"
+        },
+        {
+          "id": "048211c8770e61f8",
+          "title": "Junior Full Stack Software Engineer",
+          "company": "Radiance Technologies",
+          "posted_at": "2026-02-01T15:25:36.332Z"
+        },
+        {
+          "id": "7d0ab4cfc82227fd",
+          "title": "Forward Deployed Software Engineer I",
+          "company": "Maxar",
+          "posted_at": "2026-02-01T15:25:43.816Z"
+        },
+        {
+          "id": "58d92f6839e6051a",
+          "title": "Software Developer I - AI Developer",
+          "company": "Iowa State University",
+          "posted_at": "2026-02-01T15:25:50.594Z"
         }
       ]
     },
@@ -2823,7 +2841,7 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 33,
+      "count": 35,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2857,21 +2875,11 @@
         "8d89cbf963dc1516",
         "652edd6dcc4fbf97",
         "77f31e66ffc873cb",
-        "1dacd65c454969a5"
+        "1dacd65c454969a5",
+        "7b1ca6e75e5d3ffe",
+        "e6d6bdac8d7b5eb4"
       ],
       "recent_jobs": [
-        {
-          "id": "3015ef2f43c07677",
-          "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:59:49.566Z"
-        },
-        {
-          "id": "444c952c81d13d66",
-          "title": "Machine Learning Graduate - Ecommerce Recommendation - 2026 Start",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:59:53.553Z"
-        },
         {
           "id": "14ec0c1b70867b7f",
           "title": "PPM Data Scientist/Statistician 1 - WA",
@@ -2919,6 +2927,18 @@
           "title": "Machine Learning Engineer - Search E-Commerce",
           "company": "TikTok",
           "posted_at": "2026-02-01T15:14:40.479Z"
+        },
+        {
+          "id": "7b1ca6e75e5d3ffe",
+          "title": "Undergrad Software Engineer",
+          "company": "Oracle",
+          "posted_at": "2026-02-01T15:25:39.991Z"
+        },
+        {
+          "id": "e6d6bdac8d7b5eb4",
+          "title": "Machine Learning Engineer Graduate - Search Local Services team",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:25:54.344Z"
         }
       ]
     }
@@ -3436,56 +3456,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.952Z"
+        "timestamp": "2026-02-01T15:25:16.728Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.953Z"
+        "timestamp": "2026-02-01T15:25:16.729Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.954Z"
+        "timestamp": "2026-02-01T15:25:16.729Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.954Z"
+        "timestamp": "2026-02-01T15:25:16.730Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.954Z"
+        "timestamp": "2026-02-01T15:25:16.730Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.955Z"
+        "timestamp": "2026-02-01T15:25:16.730Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.955Z"
+        "timestamp": "2026-02-01T15:25:16.731Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:14:09.956Z"
+        "timestamp": "2026-02-01T15:25:16.731Z"
       }
     ]
   }
