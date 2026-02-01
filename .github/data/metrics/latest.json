@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T12:00:03.721Z",
+  "generated": "2026-02-01T12:16:16.046Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T12:00:03.721Z",
-  "period_end": "2026-02-01T12:00:03.721Z",
+  "period_start": "2026-01-25T12:16:16.046Z",
+  "period_end": "2026-02-01T12:16:16.046Z",
   "summary": {
-    "total_jobs_posted": 2357,
-    "unique_jobs": 1847,
-    "multi_channel_postings": 1020,
-    "unique_multi_channel_jobs": 510,
+    "total_jobs_posted": 2377,
+    "unique_jobs": 1857,
+    "multi_channel_postings": 1040,
+    "unique_multi_channel_jobs": 520,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1531,
+      "count": 1537,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1547,45 +1547,15 @@
         "b93b44c1687d8992",
         "c3f358e46411c086",
         "3015ef2f43c07677",
-        "444c952c81d13d66"
+        "444c952c81d13d66",
+        "1a64de5d6de8b1d6",
+        "111ccab8d73c0470",
+        "80c6492640a8a050",
+        "761c73dd161fe413",
+        "50f27332076adff9",
+        "bd9da85c4ff7b7fd"
       ],
       "recent_jobs": [
-        {
-          "id": "777615021b0953c4",
-          "title": "Software Engineer Graduate (Foundation Platform)",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T11:50:08.215Z"
-        },
-        {
-          "id": "e413e7a771cda036",
-          "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:59:17.306Z"
-        },
-        {
-          "id": "e58366835f51154a",
-          "title": "Product Security Engineer",
-          "company": "Chime",
-          "posted_at": "2026-02-01T11:59:21.113Z"
-        },
-        {
-          "id": "4b6c3baa0b184f43",
-          "title": "Manufacturing Software Engineer, Test Program Applications & Automation",
-          "company": "GlobalFoundries",
-          "posted_at": "2026-02-01T11:59:24.870Z"
-        },
-        {
-          "id": "2f585646d136aef1",
-          "title": "Junior Software Developer",
-          "company": "qode.world",
-          "posted_at": "2026-02-01T11:59:26.890Z"
-        },
-        {
-          "id": "95d9adbd68cb820a",
-          "title": "Junior Computational Linguist",
-          "company": "Harris",
-          "posted_at": "2026-02-01T11:59:30.524Z"
-        },
         {
           "id": "b93b44c1687d8992",
           "title": "SAS Programmer",
@@ -1609,12 +1579,48 @@
           "title": "Machine Learning Graduate - Ecommerce Recommendation - 2026 Start",
           "company": "ByteDance",
           "posted_at": "2026-02-01T11:59:53.553Z"
+        },
+        {
+          "id": "1a64de5d6de8b1d6",
+          "title": "Machine Learning Graduate - Ecommerce Recommendation - BS/MS",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T12:15:22.006Z"
+        },
+        {
+          "id": "111ccab8d73c0470",
+          "title": "Data Analyst - Product & Marketing",
+          "company": "The League",
+          "posted_at": "2026-02-01T12:15:25.899Z"
+        },
+        {
+          "id": "80c6492640a8a050",
+          "title": "Graduate Engineer - Machine Learning Engineer - Local Services Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T12:15:29.644Z"
+        },
+        {
+          "id": "761c73dd161fe413",
+          "title": "Data Security Analyst - Cisco Certified - Linux",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:51.337Z"
+        },
+        {
+          "id": "50f27332076adff9",
+          "title": "Software Engineer Graduate - Iaas AI Infra - 2026 Start PhD",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T12:15:54.982Z"
+        },
+        {
+          "id": "bd9da85c4ff7b7fd",
+          "title": "Salesforce BA",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:58.912Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 300,
+      "count": 305,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1915,39 +1921,14 @@
         "58258f645d46c2a2",
         "777615021b0953c4",
         "e58366835f51154a",
-        "c3f358e46411c086"
+        "c3f358e46411c086",
+        "1a64de5d6de8b1d6",
+        "80c6492640a8a050",
+        "871754ac9ea10874",
+        "a01157c6bc8ebec5",
+        "761c73dd161fe413"
       ],
       "recent_jobs": [
-        {
-          "id": "803fb674be7e3195",
-          "title": "Software Engineer Graduate - Cloud Native Infrastructure - 2026 Start','BS/MS",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:49:32.947Z"
-        },
-        {
-          "id": "c29d17df759516bc",
-          "title": "Graduate Software Engineer - Cloud Native Infrastructure",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:49:36.922Z"
-        },
-        {
-          "id": "496bfd932c2d3894",
-          "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:49:45.269Z"
-        },
-        {
-          "id": "61174bcaa59760c2",
-          "title": "Network Engineer Graduate (Physical Network Infra)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:49:49.065Z"
-        },
-        {
-          "id": "22c62b81a4dccb4b",
-          "title": "Software Engineer Graduate (Edge Platform)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T11:49:52.814Z"
-        },
         {
           "id": "348cbd8455b47d7f",
           "title": "Software Engineer Graduate (Commerce Ads)",
@@ -1977,12 +1958,42 @@
           "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
           "company": "ByteDance",
           "posted_at": "2026-02-01T11:59:45.739Z"
+        },
+        {
+          "id": "1a64de5d6de8b1d6",
+          "title": "Machine Learning Graduate - Ecommerce Recommendation - BS/MS",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T12:15:22.006Z"
+        },
+        {
+          "id": "80c6492640a8a050",
+          "title": "Graduate Engineer - Machine Learning Engineer - Local Services Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T12:15:29.644Z"
+        },
+        {
+          "id": "871754ac9ea10874",
+          "title": "Entry Level Business/Data Analyst",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:36.689Z"
+        },
+        {
+          "id": "a01157c6bc8ebec5",
+          "title": "Data Analyst",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:44.473Z"
+        },
+        {
+          "id": "761c73dd161fe413",
+          "title": "Data Security Analyst - Cisco Certified - Linux",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:51.337Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 185,
+      "count": 188,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2168,27 +2179,12 @@
         "bd06abc2a55da67d",
         "2f585646d136aef1",
         "b93b44c1687d8992",
-        "c44384c10096de57"
+        "c44384c10096de57",
+        "111ccab8d73c0470",
+        "bd9da85c4ff7b7fd",
+        "8d83c8c77631ba72"
       ],
       "recent_jobs": [
-        {
-          "id": "f1bf10235abe743a",
-          "title": "Software Engineer - E",
-          "company": "KLA Corporation",
-          "posted_at": "2026-02-01T11:13:36.972Z"
-        },
-        {
-          "id": "350e29488d6880c0",
-          "title": "Application Engineer",
-          "company": "Waystar",
-          "posted_at": "2026-02-01T11:13:40.924Z"
-        },
-        {
-          "id": "5dbe80ef9252fe25",
-          "title": "Data Scientist I",
-          "company": "GEICO",
-          "posted_at": "2026-02-01T11:13:51.340Z"
-        },
         {
           "id": "1428b32f4408b1da",
           "title": "Data Science Graduate",
@@ -2230,12 +2226,30 @@
           "title": "Software Engineer - Python - Cloud",
           "company": "Canonical",
           "posted_at": "2026-02-01T11:59:38.982Z"
+        },
+        {
+          "id": "111ccab8d73c0470",
+          "title": "Data Analyst - Product & Marketing",
+          "company": "The League",
+          "posted_at": "2026-02-01T12:15:25.899Z"
+        },
+        {
+          "id": "bd9da85c4ff7b7fd",
+          "title": "Salesforce BA",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:58.912Z"
+        },
+        {
+          "id": "8d83c8c77631ba72",
+          "title": "Analyst 2 - Technical Analysis",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T12:16:05.620Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 316,
+      "count": 320,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2552,33 +2566,13 @@
         "5dbe80ef9252fe25",
         "32e905a1f28d4f8f",
         "c26fae79481f3423",
-        "c44384c10096de57"
+        "c44384c10096de57",
+        "871754ac9ea10874",
+        "14ec0c1b70867b7f",
+        "a01157c6bc8ebec5",
+        "8d83c8c77631ba72"
       ],
       "recent_jobs": [
-        {
-          "id": "d5f565da67f2981e",
-          "title": "Junior Data Analyst",
-          "company": "CSC",
-          "posted_at": "2026-02-01T09:34:48.861Z"
-        },
-        {
-          "id": "789386e9934d52fb",
-          "title": "Data Operations Associate",
-          "company": "Arch",
-          "posted_at": "2026-02-01T10:03:57.856Z"
-        },
-        {
-          "id": "c64c3ee0fa2b078a",
-          "title": "Data Science Graduate - Advertisement Team - PhD",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T10:14:43.734Z"
-        },
-        {
-          "id": "4ec74a5eaf9f2ce3",
-          "title": "Implementation Analyst",
-          "company": "Alfa Financial Software ",
-          "posted_at": "2026-02-01T10:14:50.491Z"
-        },
         {
           "id": "c083a0d54b6a3f43",
           "title": "Data Scientist Graduate - Tiktok UG-Mid Platform - 2026 Start (to be filtered)",
@@ -2614,12 +2608,36 @@
           "title": "Software Engineer - Python - Cloud",
           "company": "Canonical",
           "posted_at": "2026-02-01T11:59:38.982Z"
+        },
+        {
+          "id": "871754ac9ea10874",
+          "title": "Entry Level Business/Data Analyst",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:36.689Z"
+        },
+        {
+          "id": "14ec0c1b70867b7f",
+          "title": "PPM Data Scientist/Statistician 1 - WA",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T12:15:40.555Z"
+        },
+        {
+          "id": "a01157c6bc8ebec5",
+          "title": "Data Analyst",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T12:15:44.473Z"
+        },
+        {
+          "id": "8d83c8c77631ba72",
+          "title": "Analyst 2 - Technical Analysis",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T12:16:05.620Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 25,
+      "count": 27,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2645,21 +2663,11 @@
         "0c987c4e792dd1d6",
         "e413e7a771cda036",
         "3015ef2f43c07677",
-        "444c952c81d13d66"
+        "444c952c81d13d66",
+        "14ec0c1b70867b7f",
+        "50f27332076adff9"
       ],
       "recent_jobs": [
-        {
-          "id": "7d40e176dc1ae50c",
-          "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
-          "company": "Oracle",
-          "posted_at": "2026-02-01T10:14:09.224Z"
-        },
-        {
-          "id": "4a5cd0282882dfd8",
-          "title": "2026 University Graduate - Machine Learning Engineer",
-          "company": "Adobe",
-          "posted_at": "2026-02-01T11:04:06.265Z"
-        },
         {
           "id": "be89a2cc9544e248",
           "title": "2026 University Graduate - Software Engineer",
@@ -2707,6 +2715,18 @@
           "title": "Machine Learning Graduate - Ecommerce Recommendation - 2026 Start",
           "company": "ByteDance",
           "posted_at": "2026-02-01T11:59:53.553Z"
+        },
+        {
+          "id": "14ec0c1b70867b7f",
+          "title": "PPM Data Scientist/Statistician 1 - WA",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T12:15:40.555Z"
+        },
+        {
+          "id": "50f27332076adff9",
+          "title": "Software Engineer Graduate - Iaas AI Infra - 2026 Start PhD",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T12:15:54.982Z"
         }
       ]
     }
@@ -3224,56 +3244,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.074Z"
+        "timestamp": "2026-02-01T12:15:21.657Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.075Z"
+        "timestamp": "2026-02-01T12:15:21.657Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.076Z"
+        "timestamp": "2026-02-01T12:15:21.658Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.076Z"
+        "timestamp": "2026-02-01T12:15:21.658Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.076Z"
+        "timestamp": "2026-02-01T12:15:21.658Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.077Z"
+        "timestamp": "2026-02-01T12:15:21.659Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.077Z"
+        "timestamp": "2026-02-01T12:15:21.659Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T11:59:17.077Z"
+        "timestamp": "2026-02-01T12:15:21.659Z"
       }
     ]
   }
