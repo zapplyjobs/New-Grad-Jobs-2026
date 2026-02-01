@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T06:26:30.748Z",
+  "generated": "2026-02-01T06:58:19.528Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T06:26:30.748Z",
-  "period_end": "2026-02-01T06:26:30.748Z",
+  "period_start": "2026-01-25T06:58:19.528Z",
+  "period_end": "2026-02-01T06:58:19.528Z",
   "summary": {
-    "total_jobs_posted": 1969,
-    "unique_jobs": 1647,
-    "multi_channel_postings": 644,
-    "unique_multi_channel_jobs": 322,
+    "total_jobs_posted": 1988,
+    "unique_jobs": 1657,
+    "multi_channel_postings": 662,
+    "unique_multi_channel_jobs": 331,
     "failed_postings": 0,
-    "filtered_jobs": 9,
+    "filtered_jobs": 8,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1344,
+      "count": 1353,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1360,74 +1360,83 @@
         "912fd1c8cbbe1e98",
         "c45ed1b4d7431675",
         "66e0b770a6fce1ed",
-        "fd9773b16e720a64"
+        "fd9773b16e720a64",
+        "985911f21f91ef75",
+        "45b231e1a449a778",
+        "0596049a5e34ebc7",
+        "55000d4d1a8d922c",
+        "b6e29d7342ed3633",
+        "25b900d9cac3b99b",
+        "3337d26ba6c7a8f6",
+        "f969f4c238312c3f",
+        "00f0a8636dcaf1b3"
       ],
       "recent_jobs": [
-        {
-          "id": "c96ce7d505434781",
-          "title": "Software Operations Engineer I",
-          "company": "Medtronic",
-          "posted_at": "2026-02-01T06:03:20.241Z"
-        },
-        {
-          "id": "29a350944642d150",
-          "title": "Engineer I - AI Business Engineer",
-          "company": "Western Alliance Bancorporation",
-          "posted_at": "2026-02-01T06:03:24.067Z"
-        },
-        {
-          "id": "23947d33b5dae77b",
-          "title": "Junior Software Developer - Go Lang",
-          "company": "mthree",
-          "posted_at": "2026-02-01T06:03:27.696Z"
-        },
-        {
-          "id": "dd45340c23e2154f",
-          "title": "C++ Software Engineer",
-          "company": "Wolverine Trading",
-          "posted_at": "2026-02-01T06:03:32.542Z"
-        },
-        {
-          "id": "29ed58ed6c5ba107",
-          "title": "Software Engineer - Backend",
-          "company": "OpenAI",
-          "posted_at": "2026-02-01T06:03:37.873Z"
-        },
-        {
-          "id": "a574520d83ecbb5e",
-          "title": "Associate Software Engineer",
-          "company": "Southwest Airlines",
-          "posted_at": "2026-02-01T06:26:03.726Z"
-        },
-        {
-          "id": "912fd1c8cbbe1e98",
-          "title": "Junior Software Developer - Java/Scala",
-          "company": "mthree",
-          "posted_at": "2026-02-01T06:26:07.409Z"
-        },
-        {
-          "id": "c45ed1b4d7431675",
-          "title": "Software Engineer – New College Graduate",
-          "company": "SIFT",
-          "posted_at": "2026-02-01T06:26:09.298Z"
-        },
-        {
-          "id": "66e0b770a6fce1ed",
-          "title": "University Graduate - Machine Learning Engineer",
-          "company": "Adobe",
-          "posted_at": "2026-02-01T06:26:16.115Z"
-        },
         {
           "id": "fd9773b16e720a64",
           "title": "Data Science Engineer",
           "company": "W.R. Berkley",
           "posted_at": "2026-02-01T06:26:19.877Z"
+        },
+        {
+          "id": "985911f21f91ef75",
+          "title": "Associate Software Engineer",
+          "company": "CoStar Group",
+          "posted_at": "2026-02-01T06:57:29.895Z"
+        },
+        {
+          "id": "45b231e1a449a778",
+          "title": "Software Engineer",
+          "company": "Sift",
+          "posted_at": "2026-02-01T06:57:31.881Z"
+        },
+        {
+          "id": "0596049a5e34ebc7",
+          "title": "Cloud Support Engineer I (Support Response)",
+          "company": "Lambda",
+          "posted_at": "2026-02-01T06:57:35.716Z"
+        },
+        {
+          "id": "55000d4d1a8d922c",
+          "title": "Analyst, Data & Software Engineering",
+          "company": "Ovative Group",
+          "posted_at": "2026-02-01T06:57:39.606Z"
+        },
+        {
+          "id": "b6e29d7342ed3633",
+          "title": "Analyst Rotational Program – Software Engineering",
+          "company": "TD",
+          "posted_at": "2026-02-01T06:57:43.534Z"
+        },
+        {
+          "id": "25b900d9cac3b99b",
+          "title": "Software Engineer – New Grad",
+          "company": "Applied Intuition",
+          "posted_at": "2026-02-01T06:57:47.236Z"
+        },
+        {
+          "id": "3337d26ba6c7a8f6",
+          "title": "Data/Ai Engineer Intern",
+          "company": "Jade Global",
+          "posted_at": "2026-02-01T06:57:54.077Z"
+        },
+        {
+          "id": "f969f4c238312c3f",
+          "title": "Machine Learning Engineer Graduate - Brand Ads",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T06:57:57.866Z"
+        },
+        {
+          "id": "00f0a8636dcaf1b3",
+          "title": "2026 University Graduate - Machine Learning Engineer",
+          "company": "Adobe",
+          "posted_at": "2026-02-01T06:58:01.630Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 209,
+      "count": 212,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1637,27 +1646,12 @@
         "daa6d9bad5d7573c",
         "e3a6676bd7d9e9d1",
         "ac5714c4476808e9",
-        "29ed58ed6c5ba107"
+        "29ed58ed6c5ba107",
+        "b6e29d7342ed3633",
+        "25b900d9cac3b99b",
+        "f969f4c238312c3f"
       ],
       "recent_jobs": [
-        {
-          "id": "6cd973da5e35b966",
-          "title": "Pricing Engineer",
-          "company": "Yuzu Health",
-          "posted_at": "2026-02-01T05:04:07.486Z"
-        },
-        {
-          "id": "e43d5d9c3f38f471",
-          "title": "Product Engineer",
-          "company": "Yuzu Health",
-          "posted_at": "2026-02-01T05:04:11.631Z"
-        },
-        {
-          "id": "cc196dbddf01f18d",
-          "title": "Software Engineer, Agent",
-          "company": "Sierra",
-          "posted_at": "2026-02-01T05:04:22.340Z"
-        },
         {
           "id": "66c66e3653380be2",
           "title": "Software Engineering, Associate",
@@ -1699,12 +1693,30 @@
           "title": "Software Engineer - Backend",
           "company": "OpenAI",
           "posted_at": "2026-02-01T06:03:37.873Z"
+        },
+        {
+          "id": "b6e29d7342ed3633",
+          "title": "Analyst Rotational Program – Software Engineering",
+          "company": "TD",
+          "posted_at": "2026-02-01T06:57:43.534Z"
+        },
+        {
+          "id": "25b900d9cac3b99b",
+          "title": "Software Engineer – New Grad",
+          "company": "Applied Intuition",
+          "posted_at": "2026-02-01T06:57:47.236Z"
+        },
+        {
+          "id": "f969f4c238312c3f",
+          "title": "Machine Learning Engineer Graduate - Brand Ads",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T06:57:57.866Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 109,
+      "count": 114,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1814,39 +1826,14 @@
         "96a610123fe76f8e",
         "a574520d83ecbb5e",
         "c45ed1b4d7431675",
-        "fd9773b16e720a64"
+        "fd9773b16e720a64",
+        "45b231e1a449a778",
+        "0596049a5e34ebc7",
+        "55000d4d1a8d922c",
+        "3337d26ba6c7a8f6",
+        "6b4f0265de22630c"
       ],
       "recent_jobs": [
-        {
-          "id": "29a350944642d150",
-          "title": "Engineer I - AI Business Engineer",
-          "company": "Western Alliance Bancorporation",
-          "posted_at": "2026-02-01T06:03:24.067Z"
-        },
-        {
-          "id": "dd45340c23e2154f",
-          "title": "C++ Software Engineer",
-          "company": "Wolverine Trading",
-          "posted_at": "2026-02-01T06:03:32.542Z"
-        },
-        {
-          "id": "c3f694b9f34e2b8c",
-          "title": "Associate Data Engineer",
-          "company": "Southwest Airlines",
-          "posted_at": "2026-02-01T06:25:40.471Z"
-        },
-        {
-          "id": "26380439e37a49b5",
-          "title": "Associate Business Applications Engineer",
-          "company": "Appian",
-          "posted_at": "2026-02-01T06:25:44.172Z"
-        },
-        {
-          "id": "f7c3058db14ecddf",
-          "title": "Internal Technical Consultant",
-          "company": "Appian",
-          "posted_at": "2026-02-01T06:25:47.935Z"
-        },
         {
           "id": "92b51cb9f2700d49",
           "title": "Associate Application Developer - Appian Platform",
@@ -1876,12 +1863,42 @@
           "title": "Data Science Engineer",
           "company": "W.R. Berkley",
           "posted_at": "2026-02-01T06:26:19.877Z"
+        },
+        {
+          "id": "45b231e1a449a778",
+          "title": "Software Engineer",
+          "company": "Sift",
+          "posted_at": "2026-02-01T06:57:31.881Z"
+        },
+        {
+          "id": "0596049a5e34ebc7",
+          "title": "Cloud Support Engineer I (Support Response)",
+          "company": "Lambda",
+          "posted_at": "2026-02-01T06:57:35.716Z"
+        },
+        {
+          "id": "55000d4d1a8d922c",
+          "title": "Analyst, Data & Software Engineering",
+          "company": "Ovative Group",
+          "posted_at": "2026-02-01T06:57:39.606Z"
+        },
+        {
+          "id": "3337d26ba6c7a8f6",
+          "title": "Data/Ai Engineer Intern",
+          "company": "Jade Global",
+          "posted_at": "2026-02-01T06:57:54.077Z"
+        },
+        {
+          "id": "6b4f0265de22630c",
+          "title": "Data Scientist I - (DSAP)",
+          "company": "RELX",
+          "posted_at": "2026-02-01T06:58:08.465Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 303,
+      "count": 304,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2185,15 +2202,10 @@
         "26380439e37a49b5",
         "f7c3058db14ecddf",
         "92b51cb9f2700d49",
-        "96a610123fe76f8e"
+        "96a610123fe76f8e",
+        "6b4f0265de22630c"
       ],
       "recent_jobs": [
-        {
-          "id": "f3ea6d01ad86ce48",
-          "title": "Information Systems - IT - Cyber Engineer & Data Science",
-          "company": "Honeywell",
-          "posted_at": "2026-02-01T05:41:01.002Z"
-        },
         {
           "id": "3c03a4a44a1e44c7",
           "title": "Associate Data Engineer",
@@ -2247,17 +2259,24 @@
           "title": "Graduate Engineering Program",
           "company": "NorthMark Strategies",
           "posted_at": "2026-02-01T06:25:56.829Z"
+        },
+        {
+          "id": "6b4f0265de22630c",
+          "title": "Data Scientist I - (DSAP)",
+          "company": "RELX",
+          "posted_at": "2026-02-01T06:58:08.465Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 4,
+      "count": 5,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
         "b45ac21fd3c7685e",
-        "66e0b770a6fce1ed"
+        "66e0b770a6fce1ed",
+        "00f0a8636dcaf1b3"
       ],
       "recent_jobs": [
         {
@@ -2283,6 +2302,12 @@
           "title": "University Graduate - Machine Learning Engineer",
           "company": "Adobe",
           "posted_at": "2026-02-01T06:26:16.115Z"
+        },
+        {
+          "id": "00f0a8636dcaf1b3",
+          "title": "2026 University Graduate - Machine Learning Engineer",
+          "company": "Adobe",
+          "posted_at": "2026-02-01T06:58:01.630Z"
         }
       ]
     }
@@ -2791,15 +2816,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "jobs-lever-co-gohighlevel-622eb0de-6216-4d98-b8b6-1b199efef94e",
-        "title": "Manager, Digital Marketing",
-        "company": "gohighlevel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T06:25:39.793Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -2808,56 +2825,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.776Z"
+        "timestamp": "2026-02-01T06:57:29.304Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.777Z"
+        "timestamp": "2026-02-01T06:57:29.304Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.777Z"
+        "timestamp": "2026-02-01T06:57:29.305Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.778Z"
+        "timestamp": "2026-02-01T06:57:29.305Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.778Z"
+        "timestamp": "2026-02-01T06:57:29.305Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.778Z"
+        "timestamp": "2026-02-01T06:57:29.306Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.779Z"
+        "timestamp": "2026-02-01T06:57:29.306Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:25:39.779Z"
+        "timestamp": "2026-02-01T06:57:29.306Z"
       }
     ]
   }
