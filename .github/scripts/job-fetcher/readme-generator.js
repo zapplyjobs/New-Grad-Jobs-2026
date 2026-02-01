@@ -623,18 +623,17 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) 
 }
 
 // Update README file
-async function updateReadme(allJobs, existingArchivedJobs = [], internshipData, stats) {
+async function updateReadme(currentJobs, existingArchivedJobs = [], internshipData, stats) {
   try {
     console.log("📝 Generating README content...");
-    
-    // Filter jobs by age - only show jobs from last 7 days as current
-    const { currentJobs, archivedJobs: newArchivedJobs } = filterJobsByAge(allJobs);
-    
-    // Combine new archived jobs with existing archived jobs
-    const archivedJobs = [...newArchivedJobs, ...existingArchivedJobs];
-    
-    console.log(`📅 Jobs filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
-    
+
+    // Jobs are already filtered by processJobs() - no need to re-filter
+    // currentJobs: jobs <7 days old, existingArchivedJobs: jobs >7 days old
+
+    const archivedJobs = existingArchivedJobs;
+
+    console.log(`📅 Using pre-filtered jobs: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
+
     const readmeContent = await generateReadme(
       currentJobs,
       archivedJobs,
