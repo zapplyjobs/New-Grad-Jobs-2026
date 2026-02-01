@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T15:26:04.956Z",
+  "generated": "2026-02-01T15:34:51.107Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T15:26:04.956Z",
-  "period_end": "2026-02-01T15:26:04.956Z",
+  "period_start": "2026-01-25T15:34:51.107Z",
+  "period_end": "2026-02-01T15:34:51.107Z",
   "summary": {
-    "total_jobs_posted": 2589,
-    "unique_jobs": 1967,
-    "multi_channel_postings": 1244,
-    "unique_multi_channel_jobs": 622,
+    "total_jobs_posted": 2609,
+    "unique_jobs": 1977,
+    "multi_channel_postings": 1264,
+    "unique_multi_channel_jobs": 632,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1635,
+      "count": 1645,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1651,74 +1651,84 @@
         "7b1ca6e75e5d3ffe",
         "7d0ab4cfc82227fd",
         "58d92f6839e6051a",
-        "e6d6bdac8d7b5eb4"
+        "e6d6bdac8d7b5eb4",
+        "324e4dfad4ee2160",
+        "0eeb7e66768da69b",
+        "2a9c9372493ee2f1",
+        "8d43895990936cb0",
+        "512759372d793bc6",
+        "97af5183f2d2b87f",
+        "c6f4552b7ac1150f",
+        "a5a17c9585ddd0ed",
+        "70ad2585030e6f21",
+        "0cf038c01cfd3ce0"
       ],
       "recent_jobs": [
         {
-          "id": "0defcccd980ae93a",
+          "id": "324e4dfad4ee2160",
           "title": "Hiring Entry Level Software Engineer",
           "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:25:17.122Z"
+          "posted_at": "2026-02-01T15:34:04.354Z"
         },
         {
-          "id": "56e323f5f77babcb",
-          "title": "Software Developer",
-          "company": "Cook Systems",
-          "posted_at": "2026-02-01T15:25:20.873Z"
+          "id": "0eeb7e66768da69b",
+          "title": "Graduate Researcher - Applied Machine Learning - Enterprise",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T15:34:10.947Z"
         },
         {
-          "id": "7f5a7b0fd6022d5a",
-          "title": "Embedded Software Engineer",
-          "company": "Emerson",
-          "posted_at": "2026-02-01T15:25:24.885Z"
+          "id": "2a9c9372493ee2f1",
+          "title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T15:34:14.787Z"
         },
         {
-          "id": "70c6845660571fc1",
-          "title": "Software Engineer I",
-          "company": "Ping Identity",
-          "posted_at": "2026-02-01T15:25:28.729Z"
+          "id": "8d43895990936cb0",
+          "title": "Software Engineer Graduate - Applied Machine Learning",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T15:34:18.498Z"
         },
         {
-          "id": "36ae9ddff9e863ed",
-          "title": "Associate Engineer, Software",
-          "company": "Royal Carribean Group",
-          "posted_at": "2026-02-01T15:25:32.565Z"
-        },
-        {
-          "id": "048211c8770e61f8",
-          "title": "Junior Full Stack Software Engineer",
-          "company": "Radiance Technologies",
-          "posted_at": "2026-02-01T15:25:36.332Z"
-        },
-        {
-          "id": "7b1ca6e75e5d3ffe",
-          "title": "Undergrad Software Engineer",
-          "company": "Oracle",
-          "posted_at": "2026-02-01T15:25:39.991Z"
-        },
-        {
-          "id": "7d0ab4cfc82227fd",
-          "title": "Forward Deployed Software Engineer I",
-          "company": "Maxar",
-          "posted_at": "2026-02-01T15:25:43.816Z"
-        },
-        {
-          "id": "58d92f6839e6051a",
-          "title": "Software Developer I - AI Developer",
-          "company": "Iowa State University",
-          "posted_at": "2026-02-01T15:25:50.594Z"
-        },
-        {
-          "id": "e6d6bdac8d7b5eb4",
-          "title": "Machine Learning Engineer Graduate - Search Local Services team",
+          "id": "512759372d793bc6",
+          "title": "Engineer Graduate - Machine Learning Engineer Graduate-Search E-Commerce - 2026 Start",
           "company": "TikTok",
-          "posted_at": "2026-02-01T15:25:54.344Z"
+          "posted_at": "2026-02-01T15:34:22.288Z"
+        },
+        {
+          "id": "97af5183f2d2b87f",
+          "title": "Graduate Engineer - Machine Learning Engineer - Data Search TikTok Recommendation",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:26.000Z"
+        },
+        {
+          "id": "c6f4552b7ac1150f",
+          "title": "Engineer Graduate: - Machine Learning Engineer - Local Services Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:29.843Z"
+        },
+        {
+          "id": "a5a17c9585ddd0ed",
+          "title": "General Hire – Machine Learning Engineer Graduate - PhD",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:33.559Z"
+        },
+        {
+          "id": "70ad2585030e6f21",
+          "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:37.264Z"
+        },
+        {
+          "id": "0cf038c01cfd3ce0",
+          "title": "Graduate Machine Learning Engineer - Multiple Teams",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:41.015Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 338,
+      "count": 347,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2057,68 +2067,77 @@
         "6d080e6c98664d6a",
         "b0ca0804d4bfd790",
         "1bbca90dd21684f9",
-        "f69a06733e66b2c6"
+        "f69a06733e66b2c6",
+        "324e4dfad4ee2160",
+        "0eeb7e66768da69b",
+        "2a9c9372493ee2f1",
+        "8d43895990936cb0",
+        "512759372d793bc6",
+        "97af5183f2d2b87f",
+        "a5a17c9585ddd0ed",
+        "70ad2585030e6f21",
+        "0cf038c01cfd3ce0"
       ],
       "recent_jobs": [
-        {
-          "id": "6827463e1174676d",
-          "title": "Software Engineer - New Grad",
-          "company": "Applied Intuition",
-          "posted_at": "2026-02-01T14:36:43.459Z"
-        },
-        {
-          "id": "dae3378a7392f9c8",
-          "title": "Graduate 2025 Software Engineer I, US",
-          "company": "Uber",
-          "posted_at": "2026-02-01T14:36:47.367Z"
-        },
-        {
-          "id": "89f6946ef1d8fe10",
-          "title": "Software Engineering AMTS – New Grad",
-          "company": "Salesforce",
-          "posted_at": "2026-02-01T14:51:22.966Z"
-        },
-        {
-          "id": "db2c220827bcef5c",
-          "title": "Software Engineer Graduate - Developer Infra - BS/MS",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T14:51:26.790Z"
-        },
-        {
-          "id": "dce8400d39561314",
-          "title": "Entry Level Business/Data Analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T14:51:52.894Z"
-        },
-        {
-          "id": "5f89f14e97ca818a",
-          "title": "Programmer Analyst-.Net Programmer - US Citizen",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T15:04:05.456Z"
-        },
-        {
-          "id": "6d080e6c98664d6a",
-          "title": "Hiring Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:04:16.489Z"
-        },
-        {
-          "id": "b0ca0804d4bfd790",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T15:14:10.175Z"
-        },
-        {
-          "id": "1bbca90dd21684f9",
-          "title": "SDET, Software Development Engineer in Test",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:14:29.503Z"
-        },
         {
           "id": "f69a06733e66b2c6",
           "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
           "company": "Celonis",
           "posted_at": "2026-02-01T15:14:47.184Z"
+        },
+        {
+          "id": "324e4dfad4ee2160",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T15:34:04.354Z"
+        },
+        {
+          "id": "0eeb7e66768da69b",
+          "title": "Graduate Researcher - Applied Machine Learning - Enterprise",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T15:34:10.947Z"
+        },
+        {
+          "id": "2a9c9372493ee2f1",
+          "title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T15:34:14.787Z"
+        },
+        {
+          "id": "8d43895990936cb0",
+          "title": "Software Engineer Graduate - Applied Machine Learning",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T15:34:18.498Z"
+        },
+        {
+          "id": "512759372d793bc6",
+          "title": "Engineer Graduate - Machine Learning Engineer Graduate-Search E-Commerce - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:22.288Z"
+        },
+        {
+          "id": "97af5183f2d2b87f",
+          "title": "Graduate Engineer - Machine Learning Engineer - Data Search TikTok Recommendation",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:26.000Z"
+        },
+        {
+          "id": "a5a17c9585ddd0ed",
+          "title": "General Hire – Machine Learning Engineer Graduate - PhD",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:33.559Z"
+        },
+        {
+          "id": "70ad2585030e6f21",
+          "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:37.264Z"
+        },
+        {
+          "id": "0cf038c01cfd3ce0",
+          "title": "Graduate Machine Learning Engineer - Multiple Teams",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:41.015Z"
         }
       ]
     },
@@ -2841,7 +2860,7 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 35,
+      "count": 36,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2877,15 +2896,10 @@
         "77f31e66ffc873cb",
         "1dacd65c454969a5",
         "7b1ca6e75e5d3ffe",
-        "e6d6bdac8d7b5eb4"
+        "e6d6bdac8d7b5eb4",
+        "c6f4552b7ac1150f"
       ],
       "recent_jobs": [
-        {
-          "id": "14ec0c1b70867b7f",
-          "title": "PPM Data Scientist/Statistician 1 - WA",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T12:15:40.555Z"
-        },
         {
           "id": "50f27332076adff9",
           "title": "Software Engineer Graduate - Iaas AI Infra - 2026 Start PhD",
@@ -2939,6 +2953,12 @@
           "title": "Machine Learning Engineer Graduate - Search Local Services team",
           "company": "TikTok",
           "posted_at": "2026-02-01T15:25:54.344Z"
+        },
+        {
+          "id": "c6f4552b7ac1150f",
+          "title": "Engineer Graduate: - Machine Learning Engineer - Local Services Search",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T15:34:29.843Z"
         }
       ]
     }
@@ -3456,56 +3476,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.728Z"
+        "timestamp": "2026-02-01T15:34:03.869Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.729Z"
+        "timestamp": "2026-02-01T15:34:03.870Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.729Z"
+        "timestamp": "2026-02-01T15:34:03.870Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.730Z"
+        "timestamp": "2026-02-01T15:34:03.871Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.730Z"
+        "timestamp": "2026-02-01T15:34:03.871Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.730Z"
+        "timestamp": "2026-02-01T15:34:03.871Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.731Z"
+        "timestamp": "2026-02-01T15:34:03.872Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T15:25:16.731Z"
+        "timestamp": "2026-02-01T15:34:03.872Z"
       }
     ]
   }
