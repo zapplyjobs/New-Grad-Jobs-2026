@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T13:27:23.348Z",
+  "generated": "2026-02-01T13:54:18.250Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T13:27:23.348Z",
-  "period_end": "2026-02-01T13:27:23.348Z",
+  "period_start": "2026-01-25T13:54:18.250Z",
+  "period_end": "2026-02-01T13:54:18.250Z",
   "summary": {
-    "total_jobs_posted": 2436,
-    "unique_jobs": 1887,
-    "multi_channel_postings": 1098,
-    "unique_multi_channel_jobs": 549,
+    "total_jobs_posted": 2455,
+    "unique_jobs": 1897,
+    "multi_channel_postings": 1116,
+    "unique_multi_channel_jobs": 558,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1566,
+      "count": 1576,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1582,74 +1582,84 @@
         "4c17049af66df71e",
         "869664af7afe0d9b",
         "a02c83262fd18fe6",
-        "965a9e3f5056bdb9"
+        "965a9e3f5056bdb9",
+        "64b17795680ea085",
+        "9ff14f05ca440f01",
+        "6ae65044bfbe1d44",
+        "58906b8d4feef95b",
+        "54c24722402575a4",
+        "571b30b7532cbb59",
+        "78132fb154337cc1",
+        "85c918d066c4e0ee",
+        "33ea329c5dcc0093",
+        "4c5dbc98644878a0"
       ],
       "recent_jobs": [
         {
-          "id": "f06146c7dbdec198",
-          "title": "Java Informatica MicroStrategy Training",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:37.411Z"
-        },
-        {
-          "id": "adc582f16c1651f9",
+          "id": "64b17795680ea085",
           "title": "Hiring for OPT/H4EAD/GC",
           "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:41.220Z"
+          "posted_at": "2026-02-01T13:53:32.490Z"
         },
         {
-          "id": "733678369ef80434",
-          "title": "Software Engineer openings for OPT/GC/EAD",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:45.033Z"
-        },
-        {
-          "id": "d4dede0c2d90b80d",
-          "title": "Training and Placement on Java Informatica Fullstack",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:48.781Z"
-        },
-        {
-          "id": "8768c32b84d5088b",
-          "title": "OBIEE Salesforce Training and Placement",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:54.078Z"
-        },
-        {
-          "id": "b423a2e0c6d633cf",
-          "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force - Java Full Stack - Web Logic and Sales Force",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:57.983Z"
-        },
-        {
-          "id": "4c17049af66df71e",
+          "id": "9ff14f05ca440f01",
           "title": "Hiring Entry Level Software Engineer",
           "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:27:01.797Z"
+          "posted_at": "2026-02-01T13:53:36.336Z"
         },
         {
-          "id": "869664af7afe0d9b",
+          "id": "6ae65044bfbe1d44",
+          "title": "Entry Level software engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T13:53:40.060Z"
+        },
+        {
+          "id": "58906b8d4feef95b",
+          "title": "Helix Data Creator",
+          "company": "Figure",
+          "posted_at": "2026-02-01T13:53:44.066Z"
+        },
+        {
+          "id": "54c24722402575a4",
+          "title": "Software Engineer I (ALDP)",
+          "company": "Apex Fintech Solutions",
+          "posted_at": "2026-02-01T13:53:47.637Z"
+        },
+        {
+          "id": "571b30b7532cbb59",
+          "title": "Junior Software Engineer",
+          "company": "Folia Health",
+          "posted_at": "2026-02-01T13:53:51.333Z"
+        },
+        {
+          "id": "78132fb154337cc1",
+          "title": "Associate Software Engineer",
+          "company": "Veterans United Home Loans",
+          "posted_at": "2026-02-01T13:53:55.075Z"
+        },
+        {
+          "id": "85c918d066c4e0ee",
+          "title": "Junior Software Developer",
+          "company": "TekSynap",
+          "posted_at": "2026-02-01T13:53:58.792Z"
+        },
+        {
+          "id": "33ea329c5dcc0093",
+          "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+          "company": "Amazon",
+          "posted_at": "2026-02-01T13:54:00.781Z"
+        },
+        {
+          "id": "4c5dbc98644878a0",
           "title": "Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:27:05.548Z"
-        },
-        {
-          "id": "a02c83262fd18fe6",
-          "title": "Hiring Entry Level Software Engineer - ",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:27:09.400Z"
-        },
-        {
-          "id": "965a9e3f5056bdb9",
-          "title": "Entry Level Software Engineers",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:27:13.135Z"
+          "company": "BRM",
+          "posted_at": "2026-02-01T13:54:08.064Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 317,
+      "count": 321,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1967,33 +1977,13 @@
         "c8b7902e9c36c5d8",
         "9f6b638604ccf38e",
         "45b306e7f48b5d02",
-        "b423a2e0c6d633cf"
+        "b423a2e0c6d633cf",
+        "9ff14f05ca440f01",
+        "58906b8d4feef95b",
+        "54c24722402575a4",
+        "4c5dbc98644878a0"
       ],
       "recent_jobs": [
-        {
-          "id": "9f0a2bedef1c5a48",
-          "title": "Software Engineer I",
-          "company": "Jerry",
-          "posted_at": "2026-02-01T12:33:55.121Z"
-        },
-        {
-          "id": "c07e849fc10a2ebb",
-          "title": "Graduate Software Engineer - Applied Machine Learning - Mldev",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T12:34:05.849Z"
-        },
-        {
-          "id": "001ee6a40d7e1cb0",
-          "title": "Algorithm Developer (Quant Researcher) – 2026 Grads",
-          "company": "Hudson River Trading",
-          "posted_at": "2026-02-01T12:56:22.227Z"
-        },
-        {
-          "id": "aacd89e996319d57",
-          "title": "Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T12:56:25.937Z"
-        },
         {
           "id": "1207beed771fba32",
           "title": "Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)",
@@ -2029,12 +2019,36 @@
           "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force - Java Full Stack - Web Logic and Sales Force",
           "company": "AG Technologies",
           "posted_at": "2026-02-01T13:26:57.983Z"
+        },
+        {
+          "id": "9ff14f05ca440f01",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T13:53:36.336Z"
+        },
+        {
+          "id": "58906b8d4feef95b",
+          "title": "Helix Data Creator",
+          "company": "Figure",
+          "posted_at": "2026-02-01T13:53:44.066Z"
+        },
+        {
+          "id": "54c24722402575a4",
+          "title": "Software Engineer I (ALDP)",
+          "company": "Apex Fintech Solutions",
+          "posted_at": "2026-02-01T13:53:47.637Z"
+        },
+        {
+          "id": "4c5dbc98644878a0",
+          "title": "Entry Level Software Engineer",
+          "company": "BRM",
+          "posted_at": "2026-02-01T13:54:08.064Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 203,
+      "count": 208,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2238,39 +2252,14 @@
         "4c17049af66df71e",
         "869664af7afe0d9b",
         "a02c83262fd18fe6",
-        "965a9e3f5056bdb9"
+        "965a9e3f5056bdb9",
+        "64b17795680ea085",
+        "6ae65044bfbe1d44",
+        "571b30b7532cbb59",
+        "78132fb154337cc1",
+        "33ea329c5dcc0093"
       ],
       "recent_jobs": [
-        {
-          "id": "c44977f041ea8a0a",
-          "title": "Java Developer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T12:56:33.420Z"
-        },
-        {
-          "id": "f06146c7dbdec198",
-          "title": "Java Informatica MicroStrategy Training",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:37.411Z"
-        },
-        {
-          "id": "adc582f16c1651f9",
-          "title": "Hiring for OPT/H4EAD/GC",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:41.220Z"
-        },
-        {
-          "id": "733678369ef80434",
-          "title": "Software Engineer openings for OPT/GC/EAD",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:45.033Z"
-        },
-        {
-          "id": "d4dede0c2d90b80d",
-          "title": "Training and Placement on Java Informatica Fullstack",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T13:26:48.781Z"
-        },
         {
           "id": "8768c32b84d5088b",
           "title": "OBIEE Salesforce Training and Placement",
@@ -2300,6 +2289,36 @@
           "title": "Entry Level Software Engineers",
           "company": "AG Technologies",
           "posted_at": "2026-02-01T13:27:13.135Z"
+        },
+        {
+          "id": "64b17795680ea085",
+          "title": "Hiring for OPT/H4EAD/GC",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T13:53:32.490Z"
+        },
+        {
+          "id": "6ae65044bfbe1d44",
+          "title": "Entry Level software engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T13:53:40.060Z"
+        },
+        {
+          "id": "571b30b7532cbb59",
+          "title": "Junior Software Engineer",
+          "company": "Folia Health",
+          "posted_at": "2026-02-01T13:53:51.333Z"
+        },
+        {
+          "id": "78132fb154337cc1",
+          "title": "Associate Software Engineer",
+          "company": "Veterans United Home Loans",
+          "posted_at": "2026-02-01T13:53:55.075Z"
+        },
+        {
+          "id": "33ea329c5dcc0093",
+          "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+          "company": "Amazon",
+          "posted_at": "2026-02-01T13:54:00.781Z"
         }
       ]
     },
@@ -3303,56 +3322,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.007Z"
+        "timestamp": "2026-02-01T13:53:32.118Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.007Z"
+        "timestamp": "2026-02-01T13:53:32.118Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.008Z"
+        "timestamp": "2026-02-01T13:53:32.119Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.008Z"
+        "timestamp": "2026-02-01T13:53:32.119Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.008Z"
+        "timestamp": "2026-02-01T13:53:32.120Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.009Z"
+        "timestamp": "2026-02-01T13:53:32.120Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.009Z"
+        "timestamp": "2026-02-01T13:53:32.120Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T13:26:37.010Z"
+        "timestamp": "2026-02-01T13:53:32.121Z"
       }
     ]
   }
