@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T03:47:13.445Z",
+  "generated": "2026-02-01T04:23:22.697Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T03:47:13.445Z",
-  "period_end": "2026-02-01T03:47:13.445Z",
+  "period_start": "2026-01-25T04:23:22.697Z",
+  "period_end": "2026-02-01T04:23:22.697Z",
   "summary": {
-    "total_jobs_posted": 1874,
-    "unique_jobs": 1597,
-    "multi_channel_postings": 554,
-    "unique_multi_channel_jobs": 277,
+    "total_jobs_posted": 1893,
+    "unique_jobs": 1607,
+    "multi_channel_postings": 572,
+    "unique_multi_channel_jobs": 286,
     "failed_postings": 0,
-    "filtered_jobs": 10,
+    "filtered_jobs": 8,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1308,
+      "count": 1317,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1324,74 +1324,83 @@
         "26fa78dd0a4c8a2c",
         "c4adcc72241bb15b",
         "d8a4656d77603db6",
-        "3d6feb7e3b5aa005"
+        "3d6feb7e3b5aa005",
+        "f83af2f6c3b936da",
+        "eff865ddc38a41cd",
+        "74a946a2aabdbdf6",
+        "0b5895dfc2ddd521",
+        "7af9ece5e3153fb6",
+        "8b0bc47c8c7bbdfa",
+        "073cbebf6dcc4858",
+        "d1a233a17357aaab",
+        "4ec8f0929e1c043d"
       ],
       "recent_jobs": [
-        {
-          "id": "ef1e6c42d2797ce6",
-          "title": "Machine Learning Fellowship",
-          "company": "10a Labs",
-          "posted_at": "2026-02-01T03:46:29.365Z"
-        },
-        {
-          "id": "0dbca9683bf1be95",
-          "title": "Entry Level Engineer",
-          "company": "Rogo",
-          "posted_at": "2026-02-01T03:46:33.346Z"
-        },
-        {
-          "id": "636f3ac7cff42b8c",
-          "title": "Assistant Professor",
-          "company": "Worcester Polytechnic Institute",
-          "posted_at": "2026-02-01T03:46:37.085Z"
-        },
-        {
-          "id": "41c7dc245fadd1f1",
-          "title": "Mercury Ignite Data Science Graduate Development Program",
-          "company": "Mercury Insurance",
-          "posted_at": "2026-02-01T03:46:40.812Z"
-        },
-        {
-          "id": "03e3b761caeb518f",
-          "title": "Executive Assistant",
-          "company": "nominal",
-          "posted_at": "2026-02-01T03:46:47.755Z"
-        },
-        {
-          "id": "31acd88fa78e38df",
-          "title": "Associate Software Engineer",
-          "company": "Garner Health",
-          "posted_at": "2026-02-01T03:46:49.606Z"
-        },
-        {
-          "id": "26fa78dd0a4c8a2c",
-          "title": "Software Engineer",
-          "company": "Microsoft",
-          "posted_at": "2026-02-01T03:46:53.352Z"
-        },
-        {
-          "id": "c4adcc72241bb15b",
-          "title": "Software Developer Associate - TS/SCI w/Poly",
-          "company": "General Dynamics Information Technology",
-          "posted_at": "2026-02-01T03:46:55.253Z"
-        },
-        {
-          "id": "d8a4656d77603db6",
-          "title": "Software Engineer 1 - Multiple Teams",
-          "company": "DoorDash",
-          "posted_at": "2026-02-01T03:46:59.085Z"
-        },
         {
           "id": "3d6feb7e3b5aa005",
           "title": "Junior Software Engineer",
           "company": "General Dynamics Mission Systems",
           "posted_at": "2026-02-01T03:47:02.825Z"
+        },
+        {
+          "id": "f83af2f6c3b936da",
+          "title": "Software Engineer I",
+          "company": "Fanatics",
+          "posted_at": "2026-02-01T04:22:37.551Z"
+        },
+        {
+          "id": "eff865ddc38a41cd",
+          "title": "Graduate Geoscientist",
+          "company": "GHD",
+          "posted_at": "2026-02-01T04:22:42.515Z"
+        },
+        {
+          "id": "74a946a2aabdbdf6",
+          "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T04:22:46.302Z"
+        },
+        {
+          "id": "0b5895dfc2ddd521",
+          "title": "Software Engineer 1 - Technology",
+          "company": "American Express",
+          "posted_at": "2026-02-01T04:22:49.974Z"
+        },
+        {
+          "id": "7af9ece5e3153fb6",
+          "title": "Campus Graduate - Software Engineer II - Technology",
+          "company": "American Express",
+          "posted_at": "2026-02-01T04:22:53.760Z"
+        },
+        {
+          "id": "8b0bc47c8c7bbdfa",
+          "title": "Software Engineer - New Grad - Summer 2026",
+          "company": "Replit",
+          "posted_at": "2026-02-01T04:23:00.541Z"
+        },
+        {
+          "id": "073cbebf6dcc4858",
+          "title": "Software Engineer – New Grad - Summer 2026",
+          "company": "Replit",
+          "posted_at": "2026-02-01T04:23:04.482Z"
+        },
+        {
+          "id": "d1a233a17357aaab",
+          "title": "New Grads 2026 - Data Engineer",
+          "company": "WeRide",
+          "posted_at": "2026-02-01T04:23:08.164Z"
+        },
+        {
+          "id": "4ec8f0929e1c043d",
+          "title": "Data Scientist - Growth Analytics (Performance Marketing)",
+          "company": "spotify",
+          "posted_at": "2026-02-01T04:23:11.850Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 192,
+      "count": 196,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1584,33 +1593,13 @@
         "be7e17229c98d4fb",
         "ef1e6c42d2797ce6",
         "0dbca9683bf1be95",
-        "31acd88fa78e38df"
+        "31acd88fa78e38df",
+        "74a946a2aabdbdf6",
+        "7af9ece5e3153fb6",
+        "d1a233a17357aaab",
+        "4ec8f0929e1c043d"
       ],
       "recent_jobs": [
-        {
-          "id": "bd12b404b8d31b88",
-          "title": "AI Deployment Analyst",
-          "company": "Silna Health",
-          "posted_at": "2026-02-01T00:29:41.280Z"
-        },
-        {
-          "id": "921cfb32a6f89b2f",
-          "title": "Payroll Specialist",
-          "company": "spotify",
-          "posted_at": "2026-02-01T01:09:10.713Z"
-        },
-        {
-          "id": "2b480db9c2262d8d",
-          "title": "Associate Software Engineer",
-          "company": "Morgan Stanley",
-          "posted_at": "2026-02-01T01:09:22.950Z"
-        },
-        {
-          "id": "c26ea0bd8c442fce",
-          "title": "Full Stack Engineer – Early Career",
-          "company": "Glide",
-          "posted_at": "2026-02-01T01:09:30.233Z"
-        },
         {
           "id": "8df8ff215d359266",
           "title": "Product Designer - Early Career",
@@ -1646,12 +1635,36 @@
           "title": "Associate Software Engineer",
           "company": "Garner Health",
           "posted_at": "2026-02-01T03:46:49.606Z"
+        },
+        {
+          "id": "74a946a2aabdbdf6",
+          "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T04:22:46.302Z"
+        },
+        {
+          "id": "7af9ece5e3153fb6",
+          "title": "Campus Graduate - Software Engineer II - Technology",
+          "company": "American Express",
+          "posted_at": "2026-02-01T04:22:53.760Z"
+        },
+        {
+          "id": "d1a233a17357aaab",
+          "title": "New Grads 2026 - Data Engineer",
+          "company": "WeRide",
+          "posted_at": "2026-02-01T04:23:08.164Z"
+        },
+        {
+          "id": "4ec8f0929e1c043d",
+          "title": "Data Scientist - Growth Analytics (Performance Marketing)",
+          "company": "spotify",
+          "posted_at": "2026-02-01T04:23:11.850Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 84,
+      "count": 89,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1736,39 +1749,14 @@
         "636f3ac7cff42b8c",
         "41c7dc245fadd1f1",
         "c4adcc72241bb15b",
-        "3d6feb7e3b5aa005"
+        "3d6feb7e3b5aa005",
+        "f83af2f6c3b936da",
+        "eff865ddc38a41cd",
+        "0b5895dfc2ddd521",
+        "8b0bc47c8c7bbdfa",
+        "073cbebf6dcc4858"
       ],
       "recent_jobs": [
-        {
-          "id": "ca8213d91a563ba9",
-          "title": "Software Engineer",
-          "company": "DraftKings",
-          "posted_at": "2026-01-31T23:46:26.187Z"
-        },
-        {
-          "id": "2d9ad150af9c343e",
-          "title": "Demo Engineer, Software Development",
-          "company": "Shopify",
-          "posted_at": "2026-02-01T00:00:53.670Z"
-        },
-        {
-          "id": "c568d18ca0f509ae",
-          "title": "Account Executive , USA ",
-          "company": "supabase",
-          "posted_at": "2026-02-01T00:29:53.568Z"
-        },
-        {
-          "id": "514c96736cf865c8",
-          "title": "Cloud Support Engineer I (Support Response) - Weekend Shift",
-          "company": "Lambda",
-          "posted_at": "2026-02-01T02:05:42.985Z"
-        },
-        {
-          "id": "a2241e6c9912a989",
-          "title": "Computer Vision Specialist - AI Trainer",
-          "company": "Invisible Technologies",
-          "posted_at": "2026-02-01T03:13:46.241Z"
-        },
         {
           "id": "69bf648a2c8e17b3",
           "title": "Homography Specialist - AI Trainer",
@@ -1798,12 +1786,42 @@
           "title": "Junior Software Engineer",
           "company": "General Dynamics Mission Systems",
           "posted_at": "2026-02-01T03:47:02.825Z"
+        },
+        {
+          "id": "f83af2f6c3b936da",
+          "title": "Software Engineer I",
+          "company": "Fanatics",
+          "posted_at": "2026-02-01T04:22:37.551Z"
+        },
+        {
+          "id": "eff865ddc38a41cd",
+          "title": "Graduate Geoscientist",
+          "company": "GHD",
+          "posted_at": "2026-02-01T04:22:42.515Z"
+        },
+        {
+          "id": "0b5895dfc2ddd521",
+          "title": "Software Engineer 1 - Technology",
+          "company": "American Express",
+          "posted_at": "2026-02-01T04:22:49.974Z"
+        },
+        {
+          "id": "8b0bc47c8c7bbdfa",
+          "title": "Software Engineer - New Grad - Summer 2026",
+          "company": "Replit",
+          "posted_at": "2026-02-01T04:23:00.541Z"
+        },
+        {
+          "id": "073cbebf6dcc4858",
+          "title": "Software Engineer – New Grad - Summer 2026",
+          "company": "Replit",
+          "posted_at": "2026-02-01T04:23:04.482Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 289,
+      "count": 290,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2093,15 +2111,10 @@
         "afa2ef3149d0027f",
         "e7332de26aa0f6c7",
         "20807c3c4a71e0c5",
-        "e3a61030c2f2cfde"
+        "e3a61030c2f2cfde",
+        "1b52d4df2b2a8094"
       ],
       "recent_jobs": [
-        {
-          "id": "75815b79c47979fb",
-          "title": "Data Scientist - TikTok Shop AMS Data Science",
-          "company": "TikTok",
-          "posted_at": "2026-01-31T22:48:05.387Z"
-        },
         {
           "id": "360398fa0fcce78c",
           "title": "Data Engineer I",
@@ -2155,6 +2168,12 @@
           "title": "Associate Data Scientist",
           "company": "Garner Health",
           "posted_at": "2026-02-01T03:13:28.949Z"
+        },
+        {
+          "id": "1b52d4df2b2a8094",
+          "title": "Data Analyst I - Consumer Loan Analytics",
+          "company": "Nelnet",
+          "posted_at": "2026-02-01T04:22:32.666Z"
         }
       ]
     },
@@ -2678,22 +2697,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-credit-_r-079402",
-        "title": "Postdoctoral Researcher",
-        "company": "Prairie View A&M University",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T03:46:28.742Z"
-      },
-      {
-        "job_id": "jobs-lever-co-gohighlevel-b4af6df2-340f-44e5-a047-de30299159d1",
-        "title": "Manager - BDR",
-        "company": "gohighlevel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T03:46:28.743Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -2702,56 +2706,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.727Z"
+        "timestamp": "2026-02-01T04:22:32.360Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.728Z"
+        "timestamp": "2026-02-01T04:22:32.361Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.728Z"
+        "timestamp": "2026-02-01T04:22:32.361Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.728Z"
+        "timestamp": "2026-02-01T04:22:32.362Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.729Z"
+        "timestamp": "2026-02-01T04:22:32.362Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.729Z"
+        "timestamp": "2026-02-01T04:22:32.363Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.730Z"
+        "timestamp": "2026-02-01T04:22:32.363Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:46:28.730Z"
+        "timestamp": "2026-02-01T04:22:32.363Z"
       }
     ]
   }
