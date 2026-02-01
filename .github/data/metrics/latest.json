@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T16:36:18.520Z",
+  "generated": "2026-02-01T16:52:40.852Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T16:36:18.520Z",
-  "period_end": "2026-02-01T16:36:18.520Z",
+  "period_start": "2026-01-25T16:52:40.852Z",
+  "period_end": "2026-02-01T16:52:40.852Z",
   "summary": {
-    "total_jobs_posted": 2707,
-    "unique_jobs": 2027,
-    "multi_channel_postings": 1360,
-    "unique_multi_channel_jobs": 680,
+    "total_jobs_posted": 2727,
+    "unique_jobs": 2037,
+    "multi_channel_postings": 1380,
+    "unique_multi_channel_jobs": 690,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1690,
+      "count": 1700,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1706,74 +1706,84 @@
         "73d47c698e80cd9d",
         "d2f8de0a0d2b57ba",
         "72b48173036febeb",
-        "85d0444384c459f5"
+        "85d0444384c459f5",
+        "68332b6ceb85ddc3",
+        "124ddb1a72c850d6",
+        "05d7acc8863b22a0",
+        "c317b32a0ce812ec",
+        "5ebac0e8ff3290cd",
+        "fb91706ec222735f",
+        "6dbd2b5b3cb4f8b1",
+        "b4a69045f015202b",
+        "88c542cf408fb526",
+        "1814be7a08f5055c"
       ],
       "recent_jobs": [
         {
-          "id": "1900034132109f01",
+          "id": "68332b6ceb85ddc3",
           "title": "Hiring Entry Level Software Engineer",
           "company": "AG Technologies",
-          "posted_at": "2026-02-01T16:35:30.447Z"
+          "posted_at": "2026-02-01T16:51:51.368Z"
         },
         {
-          "id": "b98d4d354c4e32fd",
-          "title": "AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T16:35:34.222Z"
-        },
-        {
-          "id": "3423de9bd3126fd8",
-          "title": "Junior Software Developer - Modeling & Simulation",
-          "company": "SimIS",
-          "posted_at": "2026-02-01T16:35:38.117Z"
-        },
-        {
-          "id": "1e5da81b2a92c607",
-          "title": "Software Engineer Graduate - Data Security-US",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T16:35:41.907Z"
-        },
-        {
-          "id": "40887d95f26f7436",
-          "title": "Software Engineer - Frontend",
-          "company": "Ramp",
-          "posted_at": "2026-02-01T16:35:45.582Z"
-        },
-        {
-          "id": "7a7641f47c7f92e6",
-          "title": "3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T16:35:49.348Z"
-        },
-        {
-          "id": "73d47c698e80cd9d",
-          "title": "Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS)",
+          "id": "124ddb1a72c850d6",
+          "title": "Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS)",
           "company": "TikTok",
-          "posted_at": "2026-02-01T16:35:53.303Z"
+          "posted_at": "2026-02-01T16:51:55.122Z"
         },
         {
-          "id": "d2f8de0a0d2b57ba",
-          "title": "Software Engineer, Risk and Response - 2026 Start (BS/ MS)",
+          "id": "05d7acc8863b22a0",
+          "title": "Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)",
           "company": "TikTok",
-          "posted_at": "2026-02-01T16:35:57.177Z"
+          "posted_at": "2026-02-01T16:51:58.946Z"
         },
         {
-          "id": "72b48173036febeb",
-          "title": "Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)",
+          "id": "c317b32a0ce812ec",
+          "title": "Software Engineer I - PAAS",
+          "company": "Qualtrics",
+          "posted_at": "2026-02-01T16:52:03.227Z"
+        },
+        {
+          "id": "5ebac0e8ff3290cd",
+          "title": "Associate Software Developer",
+          "company": "MetroStar",
+          "posted_at": "2026-02-01T16:52:07.020Z"
+        },
+        {
+          "id": "fb91706ec222735f",
+          "title": "Software Engineer, Autonomy",
+          "company": "Nuro",
+          "posted_at": "2026-02-01T16:52:10.830Z"
+        },
+        {
+          "id": "6dbd2b5b3cb4f8b1",
+          "title": "Product Security Engineer (University Grad)",
+          "company": "Meta",
+          "posted_at": "2026-02-01T16:52:14.945Z"
+        },
+        {
+          "id": "b4a69045f015202b",
+          "title": "Business Systems Analyst - Application Development",
+          "company": "Global Lending Services",
+          "posted_at": "2026-02-01T16:52:18.855Z"
+        },
+        {
+          "id": "88c542cf408fb526",
+          "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
           "company": "TikTok",
-          "posted_at": "2026-02-01T16:36:00.918Z"
+          "posted_at": "2026-02-01T16:52:23.064Z"
         },
         {
-          "id": "85d0444384c459f5",
-          "title": "Entry Level Software Engineer",
-          "company": "BRM",
-          "posted_at": "2026-02-01T16:36:08.235Z"
+          "id": "1814be7a08f5055c",
+          "title": "Machine Learning Engineer",
+          "company": "Qualtrics",
+          "posted_at": "2026-02-01T16:52:30.131Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 382,
+      "count": 385,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2156,27 +2166,12 @@
         "7a7641f47c7f92e6",
         "73d47c698e80cd9d",
         "72b48173036febeb",
-        "85d0444384c459f5"
+        "85d0444384c459f5",
+        "124ddb1a72c850d6",
+        "fb91706ec222735f",
+        "88c542cf408fb526"
       ],
       "recent_jobs": [
-        {
-          "id": "21c9fcd74f60cd29",
-          "title": "Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T16:26:23.680Z"
-        },
-        {
-          "id": "50d8a1c847dd6fdf",
-          "title": "Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T16:26:31.401Z"
-        },
-        {
-          "id": "ea38a29e83173363",
-          "title": "Data Science Graduate - Advertisement Team - BS/MS",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T16:26:43.732Z"
-        },
         {
           "id": "b98d4d354c4e32fd",
           "title": "AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd",
@@ -2218,12 +2213,30 @@
           "title": "Entry Level Software Engineer",
           "company": "BRM",
           "posted_at": "2026-02-01T16:36:08.235Z"
+        },
+        {
+          "id": "124ddb1a72c850d6",
+          "title": "Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS)",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:51:55.122Z"
+        },
+        {
+          "id": "fb91706ec222735f",
+          "title": "Software Engineer, Autonomy",
+          "company": "Nuro",
+          "posted_at": "2026-02-01T16:52:10.830Z"
+        },
+        {
+          "id": "88c542cf408fb526",
+          "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:52:23.064Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 253,
+      "count": 256,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2477,27 +2490,12 @@
         "a14c6524c6607738",
         "aa8606d4e7dc18ad",
         "1900034132109f01",
-        "3423de9bd3126fd8"
+        "3423de9bd3126fd8",
+        "68332b6ceb85ddc3",
+        "5ebac0e8ff3290cd",
+        "b4a69045f015202b"
       ],
       "recent_jobs": [
-        {
-          "id": "7f5a7b0fd6022d5a",
-          "title": "Embedded Software Engineer",
-          "company": "Emerson",
-          "posted_at": "2026-02-01T15:25:24.885Z"
-        },
-        {
-          "id": "70c6845660571fc1",
-          "title": "Software Engineer I",
-          "company": "Ping Identity",
-          "posted_at": "2026-02-01T15:25:28.729Z"
-        },
-        {
-          "id": "36ae9ddff9e863ed",
-          "title": "Associate Engineer, Software",
-          "company": "Royal Carribean Group",
-          "posted_at": "2026-02-01T15:25:32.565Z"
-        },
         {
           "id": "048211c8770e61f8",
           "title": "Junior Full Stack Software Engineer",
@@ -2539,6 +2537,24 @@
           "title": "Junior Software Developer - Modeling & Simulation",
           "company": "SimIS",
           "posted_at": "2026-02-01T16:35:38.117Z"
+        },
+        {
+          "id": "68332b6ceb85ddc3",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T16:51:51.368Z"
+        },
+        {
+          "id": "5ebac0e8ff3290cd",
+          "title": "Associate Software Developer",
+          "company": "MetroStar",
+          "posted_at": "2026-02-01T16:52:07.020Z"
+        },
+        {
+          "id": "b4a69045f015202b",
+          "title": "Business Systems Analyst - Application Development",
+          "company": "Global Lending Services",
+          "posted_at": "2026-02-01T16:52:18.855Z"
         }
       ]
     },
@@ -2949,7 +2965,7 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 45,
+      "count": 49,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2995,33 +3011,13 @@
         "f5a8b63e203a7d0b",
         "f541fef2035a10bd",
         "43a2ebbb6f9ad95f",
-        "d2f8de0a0d2b57ba"
+        "d2f8de0a0d2b57ba",
+        "05d7acc8863b22a0",
+        "c317b32a0ce812ec",
+        "6dbd2b5b3cb4f8b1",
+        "1814be7a08f5055c"
       ],
       "recent_jobs": [
-        {
-          "id": "c6f4552b7ac1150f",
-          "title": "Engineer Graduate: - Machine Learning Engineer - Local Services Search",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:34:29.843Z"
-        },
-        {
-          "id": "24848808030cc4e8",
-          "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:38.137Z"
-        },
-        {
-          "id": "c744ed8bbf7078d8",
-          "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start - PhD",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T15:47:41.980Z"
-        },
-        {
-          "id": "ac6fcdde605c5928",
-          "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T16:00:18.224Z"
-        },
         {
           "id": "0f2012759e66c41d",
           "title": "Engineer Graduate: – Machine Learning Engineer Graduate - Search E-Commerce - Seattle 2026 Start PhD",
@@ -3057,6 +3053,30 @@
           "title": "Software Engineer, Risk and Response - 2026 Start (BS/ MS)",
           "company": "TikTok",
           "posted_at": "2026-02-01T16:35:57.177Z"
+        },
+        {
+          "id": "05d7acc8863b22a0",
+          "title": "Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T16:51:58.946Z"
+        },
+        {
+          "id": "c317b32a0ce812ec",
+          "title": "Software Engineer I - PAAS",
+          "company": "Qualtrics",
+          "posted_at": "2026-02-01T16:52:03.227Z"
+        },
+        {
+          "id": "6dbd2b5b3cb4f8b1",
+          "title": "Product Security Engineer (University Grad)",
+          "company": "Meta",
+          "posted_at": "2026-02-01T16:52:14.945Z"
+        },
+        {
+          "id": "1814be7a08f5055c",
+          "title": "Machine Learning Engineer",
+          "company": "Qualtrics",
+          "posted_at": "2026-02-01T16:52:30.131Z"
         }
       ]
     }
@@ -3574,56 +3594,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.613Z"
+        "timestamp": "2026-02-01T16:51:51.118Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.614Z"
+        "timestamp": "2026-02-01T16:51:51.118Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.614Z"
+        "timestamp": "2026-02-01T16:51:51.119Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.614Z"
+        "timestamp": "2026-02-01T16:51:51.120Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.615Z"
+        "timestamp": "2026-02-01T16:51:51.120Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.615Z"
+        "timestamp": "2026-02-01T16:51:51.120Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.616Z"
+        "timestamp": "2026-02-01T16:51:51.121Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T16:35:29.616Z"
+        "timestamp": "2026-02-01T16:51:51.121Z"
       }
     ]
   }
