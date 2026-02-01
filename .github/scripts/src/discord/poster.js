@@ -172,14 +172,13 @@ function buildJobEmbed(job, options = {}) {
   // Note: Don't include emoji in title for forum posts as Discord handles it differently
   const title = job.job_title;
 
-  // Determine posted date display (show both Discord and Company dates if significantly different)
+  // Determine posted date display (always show both Discord and Company dates)
   const now = new Date();
   const companyDate = job.job_posted_at_datetime_utc ? new Date(job.job_posted_at_datetime_utc) : null;
-  const daysDifference = companyDate ? Math.floor((now - companyDate) / (1000 * 60 * 60 * 24)) : 0;
 
   let postedValue;
-  if (daysDifference > 7 && companyDate) {
-    // Show both dates when >7 days apart (helps users understand job freshness)
+  if (companyDate) {
+    // Always show both dates so users can see when job was posted by company vs when posted to Discord
     const discordDateStr = now.toLocaleDateString('en-US', {
       month: 'short',
       day: 'numeric',
@@ -192,7 +191,7 @@ function buildJobEmbed(job, options = {}) {
     });
     postedValue = `Discord: ${discordDateStr}\nCompany: ${companyDateStr}`;
   } else {
-    // Show single date if recent or no company date
+    // Fallback for jobs without company date
     postedValue = formatPostedDate(job.job_posted_at_datetime_utc);
   }
 
