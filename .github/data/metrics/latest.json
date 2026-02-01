@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T08:56:41.469Z",
+  "generated": "2026-02-01T09:18:46.605Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T08:56:41.469Z",
-  "period_end": "2026-02-01T08:56:41.469Z",
+  "period_start": "2026-01-25T09:18:46.605Z",
+  "period_end": "2026-02-01T09:18:46.605Z",
   "summary": {
-    "total_jobs_posted": 2102,
-    "unique_jobs": 1717,
-    "multi_channel_postings": 770,
-    "unique_multi_channel_jobs": 385,
+    "total_jobs_posted": 2122,
+    "unique_jobs": 1727,
+    "multi_channel_postings": 790,
+    "unique_multi_channel_jobs": 395,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1411,
+      "count": 1421,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1427,74 +1427,84 @@
         "26605a34d3ee0fdc",
         "7f04b9fd4244745b",
         "c6a4fabd37f556f9",
-        "9d2739a544282814"
+        "9d2739a544282814",
+        "a3515697f41c3d28",
+        "4a425be3fff947b1",
+        "19215e2e2c39415d",
+        "27b74852297129c1",
+        "3c7c54242d4ce09e",
+        "1dcb719e7e6baf12",
+        "2fc215545bd80d35",
+        "68abfadd05e5dac9",
+        "e5aa399b22c5819a",
+        "aa84578c56a98c44"
       ],
       "recent_jobs": [
         {
-          "id": "922933710b4afd38",
-          "title": "Product Designer",
-          "company": "nominal",
-          "posted_at": "2026-02-01T08:55:59.425Z"
-        },
-        {
-          "id": "3f3ca27589281f2f",
-          "title": "Entry-Level Software Engineer",
-          "company": "Credence",
-          "posted_at": "2026-02-01T08:56:01.261Z"
-        },
-        {
-          "id": "9ada02a6206b8677",
-          "title": "Software Engineer I",
-          "company": "Jerry",
-          "posted_at": "2026-02-01T08:56:04.945Z"
-        },
-        {
-          "id": "0639ddd5b3da0e76",
-          "title": "Software Engineer I",
-          "company": "Thorlabs",
-          "posted_at": "2026-02-01T08:56:08.827Z"
-        },
-        {
-          "id": "929b50c775759f65",
-          "title": "Developer Technology Engineer, AI",
-          "company": "NVIDIA",
-          "posted_at": "2026-02-01T08:56:12.408Z"
-        },
-        {
-          "id": "9f4c0f522b1c5aba",
-          "title": "Assistant Scientist - Cnm",
-          "company": "Argonne National Laboratory",
-          "posted_at": "2026-02-01T08:56:16.046Z"
-        },
-        {
-          "id": "26605a34d3ee0fdc",
-          "title": "Software Engineer – Early Career",
-          "company": "Trexquant",
-          "posted_at": "2026-02-01T08:56:19.825Z"
-        },
-        {
-          "id": "7f04b9fd4244745b",
-          "title": "Associate Software Engineer",
-          "company": "Jahnel Group",
-          "posted_at": "2026-02-01T08:56:23.592Z"
-        },
-        {
-          "id": "c6a4fabd37f556f9",
+          "id": "a3515697f41c3d28",
           "title": "Associate, Software Engineer",
           "company": "Epsilon",
-          "posted_at": "2026-02-01T08:56:27.289Z"
+          "posted_at": "2026-02-01T09:18:00.237Z"
         },
         {
-          "id": "9d2739a544282814",
-          "title": "Jr. Software Engineer",
-          "company": "Bumble Engineering",
-          "posted_at": "2026-02-01T08:56:31.198Z"
+          "id": "4a425be3fff947b1",
+          "title": "Graduate Software Applications Engineer",
+          "company": "Arm Limited",
+          "posted_at": "2026-02-01T09:18:04.008Z"
+        },
+        {
+          "id": "19215e2e2c39415d",
+          "title": "Infrastructure Engineer",
+          "company": "Epic",
+          "posted_at": "2026-02-01T09:18:07.788Z"
+        },
+        {
+          "id": "27b74852297129c1",
+          "title": "Associate Software Developer",
+          "company": "Diverge Health",
+          "posted_at": "2026-02-01T09:18:11.560Z"
+        },
+        {
+          "id": "3c7c54242d4ce09e",
+          "title": "Associate Software Engineer",
+          "company": "Extra Space Storage",
+          "posted_at": "2026-02-01T09:18:15.194Z"
+        },
+        {
+          "id": "1dcb719e7e6baf12",
+          "title": "Associate Software Engineer",
+          "company": "Labcorp",
+          "posted_at": "2026-02-01T09:18:18.858Z"
+        },
+        {
+          "id": "2fc215545bd80d35",
+          "title": "Software Engineer - Entry-Level - C++",
+          "company": "Akuna Capital",
+          "posted_at": "2026-02-01T09:18:22.494Z"
+        },
+        {
+          "id": "68abfadd05e5dac9",
+          "title": "Software Engineer – New Grad",
+          "company": "Scale AI",
+          "posted_at": "2026-02-01T09:18:29.197Z"
+        },
+        {
+          "id": "e5aa399b22c5819a",
+          "title": "Systems Engineer",
+          "company": "Badger Meter",
+          "posted_at": "2026-02-01T09:18:32.837Z"
+        },
+        {
+          "id": "aa84578c56a98c44",
+          "title": "R&D Machine Learning Engineer - Engineering Scientist Associate",
+          "company": "University of Texas - Austin",
+          "posted_at": "2026-02-01T09:18:36.525Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 231,
+      "count": 232,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1726,15 +1736,10 @@
         "5c70eaa2de07eb70",
         "9ada02a6206b8677",
         "929b50c775759f65",
-        "7f04b9fd4244745b"
+        "7f04b9fd4244745b",
+        "68abfadd05e5dac9"
       ],
       "recent_jobs": [
-        {
-          "id": "d266bf5984375ad8",
-          "title": "BNY Analyst Program-Engineering - Data Science",
-          "company": "BNY",
-          "posted_at": "2026-02-01T08:22:26.150Z"
-        },
         {
           "id": "7f3a56e1f83e574d",
           "title": "Reference Data Analyst Junior",
@@ -1788,12 +1793,18 @@
           "title": "Associate Software Engineer",
           "company": "Jahnel Group",
           "posted_at": "2026-02-01T08:56:23.592Z"
+        },
+        {
+          "id": "68abfadd05e5dac9",
+          "title": "Software Engineer – New Grad",
+          "company": "Scale AI",
+          "posted_at": "2026-02-01T09:18:29.197Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 143,
+      "count": 152,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1937,68 +1948,77 @@
         "9f4c0f522b1c5aba",
         "26605a34d3ee0fdc",
         "c6a4fabd37f556f9",
-        "9d2739a544282814"
+        "9d2739a544282814",
+        "a3515697f41c3d28",
+        "4a425be3fff947b1",
+        "19215e2e2c39415d",
+        "27b74852297129c1",
+        "3c7c54242d4ce09e",
+        "1dcb719e7e6baf12",
+        "2fc215545bd80d35",
+        "e5aa399b22c5819a",
+        "aa84578c56a98c44"
       ],
       "recent_jobs": [
-        {
-          "id": "05f5215a95a4d060",
-          "title": "Technical Advisor",
-          "company": "WiSC Enterprises, LLC",
-          "posted_at": "2026-02-01T08:36:38.411Z"
-        },
-        {
-          "id": "03f7bb224e18162d",
-          "title": "Entry Level Software Developer",
-          "company": "Dayton Freight Lines",
-          "posted_at": "2026-02-01T08:36:42.100Z"
-        },
-        {
-          "id": "ab7890b8151ac497",
-          "title": "IT Data Solutions Developer Associate",
-          "company": "Advocate Health Care",
-          "posted_at": "2026-02-01T08:36:45.752Z"
-        },
-        {
-          "id": "c698191143392ea2",
-          "title": "Faculty Fellow",
-          "company": "Susquehanna International Group (SIG)",
-          "posted_at": "2026-02-01T08:36:54.136Z"
-        },
-        {
-          "id": "3f3ca27589281f2f",
-          "title": "Entry-Level Software Engineer",
-          "company": "Credence",
-          "posted_at": "2026-02-01T08:56:01.261Z"
-        },
-        {
-          "id": "0639ddd5b3da0e76",
-          "title": "Software Engineer I",
-          "company": "Thorlabs",
-          "posted_at": "2026-02-01T08:56:08.827Z"
-        },
-        {
-          "id": "9f4c0f522b1c5aba",
-          "title": "Assistant Scientist - Cnm",
-          "company": "Argonne National Laboratory",
-          "posted_at": "2026-02-01T08:56:16.046Z"
-        },
-        {
-          "id": "26605a34d3ee0fdc",
-          "title": "Software Engineer – Early Career",
-          "company": "Trexquant",
-          "posted_at": "2026-02-01T08:56:19.825Z"
-        },
-        {
-          "id": "c6a4fabd37f556f9",
-          "title": "Associate, Software Engineer",
-          "company": "Epsilon",
-          "posted_at": "2026-02-01T08:56:27.289Z"
-        },
         {
           "id": "9d2739a544282814",
           "title": "Jr. Software Engineer",
           "company": "Bumble Engineering",
           "posted_at": "2026-02-01T08:56:31.198Z"
+        },
+        {
+          "id": "a3515697f41c3d28",
+          "title": "Associate, Software Engineer",
+          "company": "Epsilon",
+          "posted_at": "2026-02-01T09:18:00.237Z"
+        },
+        {
+          "id": "4a425be3fff947b1",
+          "title": "Graduate Software Applications Engineer",
+          "company": "Arm Limited",
+          "posted_at": "2026-02-01T09:18:04.008Z"
+        },
+        {
+          "id": "19215e2e2c39415d",
+          "title": "Infrastructure Engineer",
+          "company": "Epic",
+          "posted_at": "2026-02-01T09:18:07.788Z"
+        },
+        {
+          "id": "27b74852297129c1",
+          "title": "Associate Software Developer",
+          "company": "Diverge Health",
+          "posted_at": "2026-02-01T09:18:11.560Z"
+        },
+        {
+          "id": "3c7c54242d4ce09e",
+          "title": "Associate Software Engineer",
+          "company": "Extra Space Storage",
+          "posted_at": "2026-02-01T09:18:15.194Z"
+        },
+        {
+          "id": "1dcb719e7e6baf12",
+          "title": "Associate Software Engineer",
+          "company": "Labcorp",
+          "posted_at": "2026-02-01T09:18:18.858Z"
+        },
+        {
+          "id": "2fc215545bd80d35",
+          "title": "Software Engineer - Entry-Level - C++",
+          "company": "Akuna Capital",
+          "posted_at": "2026-02-01T09:18:22.494Z"
+        },
+        {
+          "id": "e5aa399b22c5819a",
+          "title": "Systems Engineer",
+          "company": "Badger Meter",
+          "posted_at": "2026-02-01T09:18:32.837Z"
+        },
+        {
+          "id": "aa84578c56a98c44",
+          "title": "R&D Machine Learning Engineer - Engineering Scientist Associate",
+          "company": "University of Texas - Austin",
+          "posted_at": "2026-02-01T09:18:36.525Z"
         }
       ]
     },
@@ -2969,56 +2989,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.141Z"
+        "timestamp": "2026-02-01T09:17:59.967Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.141Z"
+        "timestamp": "2026-02-01T09:17:59.967Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.141Z"
+        "timestamp": "2026-02-01T09:17:59.968Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.142Z"
+        "timestamp": "2026-02-01T09:17:59.968Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.142Z"
+        "timestamp": "2026-02-01T09:17:59.969Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.143Z"
+        "timestamp": "2026-02-01T09:17:59.969Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.143Z"
+        "timestamp": "2026-02-01T09:17:59.969Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T08:55:59.143Z"
+        "timestamp": "2026-02-01T09:17:59.969Z"
       }
     ]
   }
