@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T09:53:11.006Z",
+  "generated": "2026-02-01T10:04:30.640Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T09:53:11.006Z",
-  "period_end": "2026-02-01T09:53:11.006Z",
+  "period_start": "2026-01-25T10:04:30.640Z",
+  "period_end": "2026-02-01T10:04:30.640Z",
   "summary": {
-    "total_jobs_posted": 2160,
-    "unique_jobs": 1747,
-    "multi_channel_postings": 826,
-    "unique_multi_channel_jobs": 413,
+    "total_jobs_posted": 2179,
+    "unique_jobs": 1757,
+    "multi_channel_postings": 844,
+    "unique_multi_channel_jobs": 422,
     "failed_postings": 0,
-    "filtered_jobs": 8,
+    "filtered_jobs": 9,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1440,
+      "count": 1449,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1456,74 +1456,83 @@
         "2e8b4b13a46c0bfd",
         "2f7bcb4bcd2b7a8b",
         "1c9a3c5111baa4ac",
-        "a1702bd05d399c11"
+        "a1702bd05d399c11",
+        "98369b4b17c3e364",
+        "0de22e818d7074ab",
+        "4763ae49578425cd",
+        "68edebda45059429",
+        "8d82bab05f5ddefa",
+        "92df9e5213d131f1",
+        "84e9def876ecae34",
+        "997711078f4def83",
+        "571343088974ad3a"
       ],
       "recent_jobs": [
-        {
-          "id": "f3423655b4ccf3f2",
-          "title": "New Graduate Engineer, Software (Starlink)",
-          "company": "SpaceX",
-          "posted_at": "2026-02-01T09:52:22.339Z"
-        },
-        {
-          "id": "3d45c9e5f8287439",
-          "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
-          "company": "The Cigna Group",
-          "posted_at": "2026-02-01T09:52:26.337Z"
-        },
-        {
-          "id": "755367370d247cfd",
-          "title": "Software Engineer",
-          "company": "Stripe",
-          "posted_at": "2026-02-01T09:52:30.230Z"
-        },
-        {
-          "id": "42b9227e74d3f718",
-          "title": "Software Engineer I",
-          "company": "Jerry",
-          "posted_at": "2026-02-01T09:52:33.939Z"
-        },
-        {
-          "id": "74687fce785a8088",
-          "title": "Software Engineer – New Grad",
-          "company": "Stripe",
-          "posted_at": "2026-02-01T09:52:37.657Z"
-        },
-        {
-          "id": "c3a137ee0af71e56",
-          "title": "Software Engineer",
-          "company": "SpaceX",
-          "posted_at": "2026-02-01T09:52:41.407Z"
-        },
-        {
-          "id": "2e8b4b13a46c0bfd",
-          "title": "Software Developer",
-          "company": "IBM",
-          "posted_at": "2026-02-01T09:52:45.139Z"
-        },
-        {
-          "id": "2f7bcb4bcd2b7a8b",
-          "title": "Associate AI Engineer",
-          "company": "T-Mobile",
-          "posted_at": "2026-02-01T09:52:52.442Z"
-        },
-        {
-          "id": "1c9a3c5111baa4ac",
-          "title": "Software Engineer – University Grad",
-          "company": "Glean",
-          "posted_at": "2026-02-01T09:52:56.445Z"
-        },
         {
           "id": "a1702bd05d399c11",
           "title": "Software Engineer",
           "company": "Ivo",
           "posted_at": "2026-02-01T09:53:00.293Z"
+        },
+        {
+          "id": "98369b4b17c3e364",
+          "title": "Technology Development Program (TECDP) - Artificial Intelligence",
+          "company": "The Cigna Group",
+          "posted_at": "2026-02-01T10:03:39.935Z"
+        },
+        {
+          "id": "0de22e818d7074ab",
+          "title": "AI Trainer for Thermodynamics - Freelance - Remote",
+          "company": "Alignerr",
+          "posted_at": "2026-02-01T10:03:43.712Z"
+        },
+        {
+          "id": "4763ae49578425cd",
+          "title": "Software Engineer – New Grad - Agent",
+          "company": "Sierra",
+          "posted_at": "2026-02-01T10:03:47.399Z"
+        },
+        {
+          "id": "68edebda45059429",
+          "title": "Machine Learning Engineer – New Grad",
+          "company": "Netic",
+          "posted_at": "2026-02-01T10:03:51.161Z"
+        },
+        {
+          "id": "8d82bab05f5ddefa",
+          "title": "F-22 Pilot Training Entry-Level Software Engineer – Simulation",
+          "company": "Boeing",
+          "posted_at": "2026-02-01T10:04:06.434Z"
+        },
+        {
+          "id": "92df9e5213d131f1",
+          "title": "Software Engineer",
+          "company": "Databricks",
+          "posted_at": "2026-02-01T10:04:10.403Z"
+        },
+        {
+          "id": "84e9def876ecae34",
+          "title": "Solutions.Platforms.Engineered – Entry Level Rotation Program - Spe",
+          "company": "Solar Turbines",
+          "posted_at": "2026-02-01T10:04:14.156Z"
+        },
+        {
+          "id": "997711078f4def83",
+          "title": "Customer Solution Architect (EMEA)",
+          "company": "supabase",
+          "posted_at": "2026-02-01T10:04:16.005Z"
+        },
+        {
+          "id": "571343088974ad3a",
+          "title": "Associate Software Development Engineer",
+          "company": "CVS Health",
+          "posted_at": "2026-02-01T10:04:19.778Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 242,
+      "count": 246,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1766,33 +1775,13 @@
         "755367370d247cfd",
         "42b9227e74d3f718",
         "1c9a3c5111baa4ac",
-        "a1702bd05d399c11"
+        "a1702bd05d399c11",
+        "4763ae49578425cd",
+        "68edebda45059429",
+        "789386e9934d52fb",
+        "8d82bab05f5ddefa"
       ],
       "recent_jobs": [
-        {
-          "id": "bd4dd9d76aec7bab",
-          "title": "Software Engineer - New Grad",
-          "company": "Decagon",
-          "posted_at": "2026-02-01T09:34:19.571Z"
-        },
-        {
-          "id": "b949aad22af5fbae",
-          "title": "Software Engineer – 2026 New Grad",
-          "company": "WhatNot",
-          "posted_at": "2026-02-01T09:34:29.071Z"
-        },
-        {
-          "id": "7a6e06a2e16523d2",
-          "title": "Founding Full Stack Engineer",
-          "company": "OffDeal",
-          "posted_at": "2026-02-01T09:34:32.790Z"
-        },
-        {
-          "id": "566ceb14245f2f14",
-          "title": "Software Engineer",
-          "company": "Brellium",
-          "posted_at": "2026-02-01T09:34:36.657Z"
-        },
         {
           "id": "88cb8d384ee92003",
           "title": "Machine Learning Engineer",
@@ -1828,12 +1817,36 @@
           "title": "Software Engineer",
           "company": "Ivo",
           "posted_at": "2026-02-01T09:53:00.293Z"
+        },
+        {
+          "id": "4763ae49578425cd",
+          "title": "Software Engineer – New Grad - Agent",
+          "company": "Sierra",
+          "posted_at": "2026-02-01T10:03:47.399Z"
+        },
+        {
+          "id": "68edebda45059429",
+          "title": "Machine Learning Engineer – New Grad",
+          "company": "Netic",
+          "posted_at": "2026-02-01T10:03:51.161Z"
+        },
+        {
+          "id": "789386e9934d52fb",
+          "title": "Data Operations Associate",
+          "company": "Arch",
+          "posted_at": "2026-02-01T10:03:57.856Z"
+        },
+        {
+          "id": "8d82bab05f5ddefa",
+          "title": "F-22 Pilot Training Entry-Level Software Engineer – Simulation",
+          "company": "Boeing",
+          "posted_at": "2026-02-01T10:04:06.434Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 157,
+      "count": 161,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1991,33 +2004,13 @@
         "ad8059fc2493a067",
         "3d45c9e5f8287439",
         "c3a137ee0af71e56",
-        "2e8b4b13a46c0bfd"
+        "2e8b4b13a46c0bfd",
+        "98369b4b17c3e364",
+        "0de22e818d7074ab",
+        "997711078f4def83",
+        "571343088974ad3a"
       ],
       "recent_jobs": [
-        {
-          "id": "3c7c54242d4ce09e",
-          "title": "Associate Software Engineer",
-          "company": "Extra Space Storage",
-          "posted_at": "2026-02-01T09:18:15.194Z"
-        },
-        {
-          "id": "1dcb719e7e6baf12",
-          "title": "Associate Software Engineer",
-          "company": "Labcorp",
-          "posted_at": "2026-02-01T09:18:18.858Z"
-        },
-        {
-          "id": "2fc215545bd80d35",
-          "title": "Software Engineer - Entry-Level - C++",
-          "company": "Akuna Capital",
-          "posted_at": "2026-02-01T09:18:22.494Z"
-        },
-        {
-          "id": "e5aa399b22c5819a",
-          "title": "Systems Engineer",
-          "company": "Badger Meter",
-          "posted_at": "2026-02-01T09:18:32.837Z"
-        },
         {
           "id": "aa84578c56a98c44",
           "title": "R&D Machine Learning Engineer - Engineering Scientist Associate",
@@ -2053,12 +2046,36 @@
           "title": "Software Developer",
           "company": "IBM",
           "posted_at": "2026-02-01T09:52:45.139Z"
+        },
+        {
+          "id": "98369b4b17c3e364",
+          "title": "Technology Development Program (TECDP) - Artificial Intelligence",
+          "company": "The Cigna Group",
+          "posted_at": "2026-02-01T10:03:39.935Z"
+        },
+        {
+          "id": "0de22e818d7074ab",
+          "title": "AI Trainer for Thermodynamics - Freelance - Remote",
+          "company": "Alignerr",
+          "posted_at": "2026-02-01T10:03:43.712Z"
+        },
+        {
+          "id": "997711078f4def83",
+          "title": "Customer Solution Architect (EMEA)",
+          "company": "supabase",
+          "posted_at": "2026-02-01T10:04:16.005Z"
+        },
+        {
+          "id": "571343088974ad3a",
+          "title": "Associate Software Development Engineer",
+          "company": "CVS Health",
+          "posted_at": "2026-02-01T10:04:19.778Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 307,
+      "count": 308,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2366,15 +2383,10 @@
         "6b4f0265de22630c",
         "d266bf5984375ad8",
         "7f3a56e1f83e574d",
-        "d5f565da67f2981e"
+        "d5f565da67f2981e",
+        "789386e9934d52fb"
       ],
       "recent_jobs": [
-        {
-          "id": "ac5714c4476808e9",
-          "title": "Software Engineer",
-          "company": "Figma",
-          "posted_at": "2026-02-01T06:03:09.905Z"
-        },
         {
           "id": "c3f694b9f34e2b8c",
           "title": "Associate Data Engineer",
@@ -2428,12 +2440,18 @@
           "title": "Junior Data Analyst",
           "company": "CSC",
           "posted_at": "2026-02-01T09:34:48.861Z"
+        },
+        {
+          "id": "789386e9934d52fb",
+          "title": "Data Operations Associate",
+          "company": "Arch",
+          "posted_at": "2026-02-01T10:03:57.856Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 14,
+      "count": 15,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2448,15 +2466,10 @@
         "3af85540998f1fc1",
         "f3423655b4ccf3f2",
         "74687fce785a8088",
-        "2f7bcb4bcd2b7a8b"
+        "2f7bcb4bcd2b7a8b",
+        "92df9e5213d131f1"
       ],
       "recent_jobs": [
-        {
-          "id": "00f0a8636dcaf1b3",
-          "title": "2026 University Graduate - Machine Learning Engineer",
-          "company": "Adobe",
-          "posted_at": "2026-02-01T06:58:01.630Z"
-        },
         {
           "id": "bbeed1e85e4632b2",
           "title": "Research Engineer Graduate - Seed-Infra-Platform-US - 2026 Start\",\"PhD",
@@ -2510,6 +2523,12 @@
           "title": "Associate AI Engineer",
           "company": "T-Mobile",
           "posted_at": "2026-02-01T09:52:52.442Z"
+        },
+        {
+          "id": "92df9e5213d131f1",
+          "title": "Software Engineer",
+          "company": "Databricks",
+          "posted_at": "2026-02-01T10:04:10.403Z"
         }
       ]
     }
@@ -3018,7 +3037,15 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow_r_00029121",
+        "title": "Postdoctoral Fellow",
+        "company": "University of Texas - Austin",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T10:03:39.262Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -3027,56 +3054,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.117Z"
+        "timestamp": "2026-02-01T10:03:39.246Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.118Z"
+        "timestamp": "2026-02-01T10:03:39.246Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.119Z"
+        "timestamp": "2026-02-01T10:03:39.247Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.119Z"
+        "timestamp": "2026-02-01T10:03:39.247Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.119Z"
+        "timestamp": "2026-02-01T10:03:39.248Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.120Z"
+        "timestamp": "2026-02-01T10:03:39.248Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.120Z"
+        "timestamp": "2026-02-01T10:03:39.248Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:52:22.121Z"
+        "timestamp": "2026-02-01T10:03:39.249Z"
       }
     ]
   }
