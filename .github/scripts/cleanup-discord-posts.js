@@ -1,24 +1,23 @@
 #!/usr/bin/env node
 
 /**
- * Discord Channel Cleanup Script (FIXED VERSION)
+ * Discord Channel Cleanup Script (TEXT CHANNELS VERSION)
  * Deletes job posts from specified Discord channels
  *
- * FIXES:
- * 1. Fetches ALL archived threads (not just 100)
- * 2. Adds monitoring for thread counts before/after
- * 3. Better logging for debugging
+ * UPDATED 2026-02-02: Switched from forum threads to text messages
+ * - Now handles text messages instead of forum threads
+ * - Bulk deletion for efficiency (Discord allows bulk delete for messages < 14 days old)
  *
  * Usage:
  *   - Set DELETE_ALL_CHANNELS=true to clean all category channels
  *   - Set specific CHANNEL_IDS (comma-separated) to clean specific channels
  *   - Set HOURS_AGO to delete posts from last N hours (newer posts)
- *   - Set OLDER_THAN_HOURS to delete posts older than N hours (older posts) - e.g., 168 for 7 days
+ *   - Set OLDER_THAN_HOURS to delete posts older than N hours (older posts) - e.g., 336 for 14 days
  *   - Set DRY_RUN=true to preview without deleting
  *   - Note: Cannot use both HOURS_AGO and OLDER_THAN_HOURS at the same time
  */
 
-const { Client, GatewayIntentBits } = require('discord.js');
+const { Client, GatewayIntentBits, Collection } = require('discord.js');
 const ChannelStatsManager = require('./channel-stats');
 const postStats = new ChannelStatsManager();
 
@@ -71,7 +70,7 @@ const client = new Client({
 });
 
 /**
- * Delete messages from a channel
+ * Delete messages from a text channel
  * @param {Object} channel - Discord channel object
  * @param {Object} timeFilter - Time filtering options
  * @param {Date|null} timeFilter.newerThan - Delete posts newer than this time
@@ -86,74 +85,86 @@ async function cleanupChannel(channel, timeFilter = {}) {
   let skippedCount = 0;
 
   try {
-    // Fetch active threads
-    const threads = await channel.threads.fetchActive();
-    const allThreads = threads.threads;
-    const initialActiveCount = allThreads.size;
-
-    console.log(`📊 Initial scan: ${initialActiveCount} active threads`);
-
-    // Fetch ALL archived threads (paginate through all pages)
+    // Fetch all messages (paginate through all messages in channel)
+    const allMessages = new Collection();
+    let lastMessageId = null;
     let hasMore = true;
-    let fetchedArchived = 0;
-    let lastThreadId = null;
 
-    console.log('🔄 Fetching archived threads...');
+    console.log('🔄 Fetching messages...');
     while (hasMore) {
       const options = { limit: 100 };
-      if (lastThreadId) {
-        options.before = lastThreadId;
+      if (lastMessageId) {
+        options.before = lastMessageId;
       }
 
-      const archivedThreads = await channel.threads.fetchArchived(options);
-      archivedThreads.threads.forEach((thread, id) => {
-        allThreads.set(id, thread);
-        lastThreadId = id;
+      const messages = await channel.messages.fetch(options);
+      messages.forEach((message) => {
+        allMessages.set(message.id, message);
+        lastMessageId = message.id;
       });
 
-      fetchedArchived += archivedThreads.threads.size;
-      hasMore = archivedThreads.hasMore;
+      hasMore = messages.size === 100;
 
-      if (archivedThreads.threads.size > 0) {
-        console.log(`   📦 Fetched ${archivedThreads.threads.size} archived threads (total: ${fetchedArchived})`);
+      if (messages.size > 0) {
+        console.log(`   📦 Fetched ${messages.size} messages (total: ${allMessages.size})`);
       }
 
       // Discord rate limiting: wait between pagination requests
       if (hasMore) {
         await new Promise(resolve => setTimeout(resolve, 500));
       }
+
+      // Safety limit: don't fetch more than 5000 messages at once
+      if (allMessages.size >= 5000) {
+        console.log(`   ⚠️  Reached safety limit of 5000 messages`);
+        break;
+      }
     }
 
-    console.log(`📋 Total threads in channel: ${allThreads.size} (${initialActiveCount} active + ${fetchedArchived} archived)`);
+    console.log(`📋 Total messages in channel: ${allMessages.size}`);
     console.log('');
 
-    // Process threads
-    for (const [threadId, thread] of allThreads) {
+    // Filter messages based on time criteria
+    const messagesToDelete = [];
+    for (const [messageId, message] of allMessages) {
       scannedCount++;
 
-      // Check if thread is within time range
+      // Skip bot's own messages (don't delete the bot's status/error messages)
+      if (message.author.bot) {
+        skippedCount++;
+        continue;
+      }
+
       // For "newer than" mode (HOURS_AGO): delete if created AFTER cutoff
-      if (timeFilter.newerThan && thread.createdTimestamp < timeFilter.newerThan.getTime()) {
+      if (timeFilter.newerThan && message.createdTimestamp < timeFilter.newerThan.getTime()) {
         skippedCount++;
         continue;
       }
 
       // For "older than" mode (OLDER_THAN_HOURS): delete if created BEFORE cutoff
-      if (timeFilter.olderThan && thread.createdTimestamp > timeFilter.olderThan.getTime()) {
+      if (timeFilter.olderThan && message.createdTimestamp > timeFilter.olderThan.getTime()) {
         skippedCount++;
         continue;
       }
 
-      const createdDate = new Date(thread.createdTimestamp);
-      console.log(`   📌 Thread: "${thread.name}" (created ${createdDate.toLocaleString()})`);
+      const createdDate = new Date(message.createdTimestamp);
+      console.log(`   📌 Message: "${message.content.substring(0, 50)}..." (created ${createdDate.toLocaleString()})`);
 
+      messagesToDelete.push(message);
+    }
+
+    console.log(`\n   🎯 Messages to delete: ${messagesToDelete.length}`);
+    console.log('');
+
+    // Delete messages
+    for (const message of messagesToDelete) {
       if (DRY_RUN) {
-        console.log(`   🔍 [DRY RUN] Would delete thread`);
+        console.log(`   🔍 [DRY RUN] Would delete message`);
         deletedCount++;
       } else {
         try {
-          await thread.delete();
-          console.log(`   ✅ Deleted thread`);
+          await message.delete();
+          console.log(`   ✅ Deleted message`);
           deletedCount++;
 
           // Rate limit: Wait 1 second between deletions
@@ -170,8 +181,8 @@ async function cleanupChannel(channel, timeFilter = {}) {
 
   console.log('');
   console.log(`📊 Channel summary:`);
-  console.log(`   Total threads: ${scannedCount}`);
-  console.log(`   Skipped (too new): ${skippedCount}`);
+  console.log(`   Total messages: ${scannedCount}`);
+  console.log(`   Skipped: ${skippedCount}`);
   console.log(`   Deleted: ${deletedCount}`);
   console.log(`   Remaining: ${scannedCount - deletedCount}`);
 
@@ -187,7 +198,7 @@ async function cleanupChannel(channel, timeFilter = {}) {
  * Main cleanup function
  */
 async function cleanup() {
-  console.log('🚀 Discord Channel Cleanup Script (FIXED VERSION)');
+  console.log('🚀 Discord Channel Cleanup Script (TEXT CHANNELS VERSION)');
   console.log('==================================\n');
 
   if (!DISCORD_TOKEN) {
@@ -208,7 +219,7 @@ async function cleanup() {
     console.error('❌ SAFETY ERROR: Cannot delete ALL posts without NUCLEAR_MODE enabled!');
     console.error('');
     console.error('For routine cleanup, use time filters:');
-    console.error('  - OLDER_THAN_HOURS=168 (delete posts older than 7 days)');
+    console.error('  - OLDER_THAN_HOURS=336 (delete posts older than 14 days)');
     console.error('  - HOURS_AGO=24 (delete posts from last 24 hours)');
     console.error('');
     console.error('For full deletion (⚠️ DANGER), set NUCLEAR_MODE=true');
@@ -217,7 +228,7 @@ async function cleanup() {
 
   if (NUCLEAR_MODE) {
     console.log('⚠️  ⚠️  ⚠️  NUCLEAR MODE ENABLED ⚠️  ⚠️  ⚠️');
-    console.log('🔥 Will delete ALL threads regardless of age');
+    console.log('🔥 Will delete ALL messages regardless of age');
     console.log('');
   }
 
@@ -326,9 +337,9 @@ async function cleanup() {
   console.log('📊 CLEANUP SUMMARY');
   console.log('==================================');
   console.log(`Channels processed: ${channelsToClean.length}`);
-  console.log(`Total threads scanned: ${totalScanned}`);
-  console.log(`Total threads deleted: ${totalDeleted}`);
-  console.log(`Total threads remaining: ${totalRemaining}`);
+  console.log(`Total messages scanned: ${totalScanned}`);
+  console.log(`Total messages deleted: ${totalDeleted}`);
+  console.log(`Total messages remaining: ${totalRemaining}`);
   if (DRY_RUN) {
     console.log('🔍 DRY RUN: No actual deletions were made');
   }
