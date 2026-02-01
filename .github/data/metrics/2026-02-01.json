@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T01:09:47.004Z",
+  "generated": "2026-02-01T02:06:03.635Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T01:09:47.004Z",
-  "period_end": "2026-02-01T01:09:47.004Z",
+  "period_start": "2026-01-25T02:06:03.635Z",
+  "period_end": "2026-02-01T02:06:03.635Z",
   "summary": {
-    "total_jobs_posted": 1830,
-    "unique_jobs": 1567,
-    "multi_channel_postings": 526,
-    "unique_multi_channel_jobs": 263,
+    "total_jobs_posted": 1842,
+    "unique_jobs": 1577,
+    "multi_channel_postings": 530,
+    "unique_multi_channel_jobs": 265,
     "failed_postings": 0,
-    "filtered_jobs": 13,
+    "filtered_jobs": 9,
     "channels_active": 4
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1282,
+      "count": 1291,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1298,74 +1298,83 @@
         "80849431039182b0",
         "8d7c7cf91a4c5c05",
         "c26ea0bd8c442fce",
-        "4c1f8c6deb91a594"
+        "4c1f8c6deb91a594",
+        "c91652187c70cdd9",
+        "40378fef85eabc89",
+        "e686255ec022be38",
+        "8df8ff215d359266",
+        "40beaf6d537fe2fb",
+        "6ee3e17a13b75535",
+        "f87e8e28bf65c445",
+        "514c96736cf865c8",
+        "9449a3598db0d112"
       ],
       "recent_jobs": [
-        {
-          "id": "22e5aa5df3557be1",
-          "title": " Account Executive, EMEA",
-          "company": "supabase",
-          "posted_at": "2026-02-01T00:29:57.276Z"
-        },
-        {
-          "id": "921cfb32a6f89b2f",
-          "title": "Payroll Specialist",
-          "company": "spotify",
-          "posted_at": "2026-02-01T01:09:10.713Z"
-        },
-        {
-          "id": "6c8004b2b9116b80",
-          "title": "Software Engineer – New Grads: Fall 2025/Spring 2026",
-          "company": "Divergent Technologies",
-          "posted_at": "2026-02-01T01:09:14.296Z"
-        },
-        {
-          "id": "4518d073b49f7183",
-          "title": "Scientific Data Engineer",
-          "company": "Uncountable",
-          "posted_at": "2026-02-01T01:09:16.190Z"
-        },
-        {
-          "id": "4a5686cb13cf1b33",
-          "title": "Software Engineer - Kernels",
-          "company": "MatX",
-          "posted_at": "2026-02-01T01:09:21.026Z"
-        },
-        {
-          "id": "2b480db9c2262d8d",
-          "title": "Associate Software Engineer",
-          "company": "Morgan Stanley",
-          "posted_at": "2026-02-01T01:09:22.950Z"
-        },
-        {
-          "id": "80849431039182b0",
-          "title": "Software Engineer - Hardware Test & Automation - Optical Payloads",
-          "company": "SpaceX",
-          "posted_at": "2026-02-01T01:09:26.631Z"
-        },
-        {
-          "id": "8d7c7cf91a4c5c05",
-          "title": "Frontend Engineer – New Grad",
-          "company": "D3",
-          "posted_at": "2026-02-01T01:09:28.404Z"
-        },
-        {
-          "id": "c26ea0bd8c442fce",
-          "title": "Full Stack Engineer – Early Career",
-          "company": "Glide",
-          "posted_at": "2026-02-01T01:09:30.233Z"
-        },
         {
           "id": "4c1f8c6deb91a594",
           "title": "Software Engineer I - Remote Assist",
           "company": "Aurora Innovation",
           "posted_at": "2026-02-01T01:09:33.833Z"
+        },
+        {
+          "id": "c91652187c70cdd9",
+          "title": "Software Engineer I - Remote Assist",
+          "company": "Aurora Innovation",
+          "posted_at": "2026-02-01T02:05:27.960Z"
+        },
+        {
+          "id": "40378fef85eabc89",
+          "title": "Software Engineer - Rust / Bevy / WebGPU",
+          "company": "nominal",
+          "posted_at": "2026-02-01T02:05:29.865Z"
+        },
+        {
+          "id": "e686255ec022be38",
+          "title": "Software Engineer – Systems & Real-Time (RTOS / HIL)",
+          "company": "nominal",
+          "posted_at": "2026-02-01T02:05:31.663Z"
+        },
+        {
+          "id": "8df8ff215d359266",
+          "title": "Product Designer - Early Career",
+          "company": "nominal",
+          "posted_at": "2026-02-01T02:05:33.613Z"
+        },
+        {
+          "id": "40beaf6d537fe2fb",
+          "title": "Product Engineer",
+          "company": "Appian",
+          "posted_at": "2026-02-01T02:05:37.549Z"
+        },
+        {
+          "id": "6ee3e17a13b75535",
+          "title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
+          "company": "Caris",
+          "posted_at": "2026-02-01T02:05:39.370Z"
+        },
+        {
+          "id": "f87e8e28bf65c445",
+          "title": "Software Development",
+          "company": "Hewlett Packard (HP)",
+          "posted_at": "2026-02-01T02:05:41.194Z"
+        },
+        {
+          "id": "514c96736cf865c8",
+          "title": "Cloud Support Engineer I (Support Response) - Weekend Shift",
+          "company": "Lambda",
+          "posted_at": "2026-02-01T02:05:42.985Z"
+        },
+        {
+          "id": "9449a3598db0d112",
+          "title": "Software Engineer – Early Career - Cloud Infrastructure",
+          "company": "Fireworks AI",
+          "posted_at": "2026-02-01T02:05:54.917Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 186,
+      "count": 187,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1552,15 +1561,10 @@
         "bd12b404b8d31b88",
         "921cfb32a6f89b2f",
         "2b480db9c2262d8d",
-        "c26ea0bd8c442fce"
+        "c26ea0bd8c442fce",
+        "8df8ff215d359266"
       ],
       "recent_jobs": [
-        {
-          "id": "51ea68ed2e422c22",
-          "title": "Software Engineer – 2026 Grads - C++ or Python",
-          "company": "Hudson River Trading",
-          "posted_at": "2026-01-31T21:31:42.967Z"
-        },
         {
           "id": "608dacae2c5255ee",
           "title": "Healthcare Analyst",
@@ -1614,12 +1618,18 @@
           "title": "Full Stack Engineer – Early Career",
           "company": "Glide",
           "posted_at": "2026-02-01T01:09:30.233Z"
+        },
+        {
+          "id": "8df8ff215d359266",
+          "title": "Product Designer - Early Career",
+          "company": "nominal",
+          "posted_at": "2026-02-01T02:05:33.613Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 77,
+      "count": 78,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1697,15 +1707,10 @@
         "9377290890d45289",
         "ca8213d91a563ba9",
         "2d9ad150af9c343e",
-        "c568d18ca0f509ae"
+        "c568d18ca0f509ae",
+        "514c96736cf865c8"
       ],
       "recent_jobs": [
-        {
-          "id": "6cf6aa83e12b6dc9",
-          "title": "Software Engineer",
-          "company": "Warp",
-          "posted_at": "2026-01-31T18:33:06.252Z"
-        },
         {
           "id": "0e8436e4db7bd580",
           "title": "Entry Level Developer - Contract",
@@ -1759,12 +1764,18 @@
           "title": "Account Executive , USA ",
           "company": "supabase",
           "posted_at": "2026-02-01T00:29:53.568Z"
+        },
+        {
+          "id": "514c96736cf865c8",
+          "title": "Cloud Support Engineer I (Support Response) - Weekend Shift",
+          "company": "Lambda",
+          "posted_at": "2026-02-01T02:05:42.985Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 285,
+      "count": 286,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2050,15 +2061,10 @@
         "fe2e5ffb4e9a3d7d",
         "7c4da3e29666cafe",
         "fdc59f4d78d5fe94",
-        "6a876634dfb837f9"
+        "6a876634dfb837f9",
+        "afa2ef3149d0027f"
       ],
       "recent_jobs": [
-        {
-          "id": "670cc7d6ce9d1ada",
-          "title": "Business Intelligence Analyst 1",
-          "company": "Western & Southern Financial Group",
-          "posted_at": "2026-01-31T21:45:45.009Z"
-        },
         {
           "id": "04f303de11b69983",
           "title": "Asset and Wealth Management Analyst",
@@ -2112,6 +2118,12 @@
           "title": "Junior Software Engineer - Software Engineer",
           "company": "Figma",
           "posted_at": "2026-02-01T01:09:38.692Z"
+        },
+        {
+          "id": "afa2ef3149d0027f",
+          "title": "Data Scientist Graduate - Tiktok Shop Business Product DS - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T02:05:50.026Z"
         }
       ]
     }
@@ -2622,39 +2634,11 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow-department-of-computer-science_r_00042583",
-        "title": "Postdoctoral Fellow - Department of Computer Science",
-        "company": "University of Texas - Austin",
+        "job_id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoc-machine-learning_jr102052",
+        "title": "Postdoc – Machine Learning",
+        "company": "Brookhaven Lab",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T01:09:10.193Z"
-      },
-      {
-        "job_id": "jobs-lever-co-nominal-bcd14783-d2ae-4d09-a6ba-39330aa0f9fc",
-        "title": "Area Director - Sales",
-        "company": "nominal",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T01:09:10.193Z"
-      },
-      {
-        "job_id": "jobs-lever-co-nominal-205eb559-b828-4463-a9ff-b61d92e8c85d",
-        "title": "Area Director - Sales",
-        "company": "nominal",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T01:09:10.193Z"
-      },
-      {
-        "job_id": "jobs-lever-co-nominal-168a8af0-dc24-411d-a1bb-06c53ed9fac3",
-        "title": "Area Director - Sales",
-        "company": "nominal",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T01:09:10.193Z"
-      },
-      {
-        "job_id": "jobs-lever-co-nominal-4e0ed22d-5e64-4090-adc4-0a9d76401b30",
-        "title": "Lead Sales Engineer",
-        "company": "nominal",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T01:09:10.193Z"
+        "timestamp": "2026-02-01T02:05:27.303Z"
       }
     ],
     "already_posted": [],
@@ -2665,56 +2649,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.176Z"
+        "timestamp": "2026-02-01T02:05:27.287Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.176Z"
+        "timestamp": "2026-02-01T02:05:27.287Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.176Z"
+        "timestamp": "2026-02-01T02:05:27.288Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.177Z"
+        "timestamp": "2026-02-01T02:05:27.288Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.177Z"
+        "timestamp": "2026-02-01T02:05:27.289Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.178Z"
+        "timestamp": "2026-02-01T02:05:27.289Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.178Z"
+        "timestamp": "2026-02-01T02:05:27.290Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T01:09:10.178Z"
+        "timestamp": "2026-02-01T02:05:27.290Z"
       }
     ]
   }
