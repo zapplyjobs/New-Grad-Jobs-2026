@@ -53,6 +53,10 @@ async function fetchAPIJobs(company) {
  * @returns {Promise<Array>} Array of job objects
  */
 async function fetchExternalJobsData() {
+  // Simplify.jobs DISABLED (2026-02-02) - High duplicate rate, being phased out
+  console.log('⏸️  Simplify.jobs DISABLED - skipping external data source');
+  return [];
+
   const dataSourceUrl = process.env.PRIMARY_DATA_SOURCE_URL;
 
   if (!dataSourceUrl) {
