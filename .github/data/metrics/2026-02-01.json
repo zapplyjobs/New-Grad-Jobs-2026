@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T09:35:07.702Z",
+  "generated": "2026-02-01T09:53:11.006Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T09:35:07.702Z",
-  "period_end": "2026-02-01T09:35:07.702Z",
+  "period_start": "2026-01-25T09:53:11.006Z",
+  "period_end": "2026-02-01T09:53:11.006Z",
   "summary": {
-    "total_jobs_posted": 2140,
-    "unique_jobs": 1737,
-    "multi_channel_postings": 806,
-    "unique_multi_channel_jobs": 403,
+    "total_jobs_posted": 2160,
+    "unique_jobs": 1747,
+    "multi_channel_postings": 826,
+    "unique_multi_channel_jobs": 413,
     "failed_postings": 0,
     "filtered_jobs": 8,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1430,
+      "count": 1440,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1446,74 +1446,84 @@
         "566ceb14245f2f14",
         "ad8059fc2493a067",
         "88cb8d384ee92003",
-        "2d5f2f4b39cfd66e"
+        "2d5f2f4b39cfd66e",
+        "f3423655b4ccf3f2",
+        "3d45c9e5f8287439",
+        "755367370d247cfd",
+        "42b9227e74d3f718",
+        "74687fce785a8088",
+        "c3a137ee0af71e56",
+        "2e8b4b13a46c0bfd",
+        "2f7bcb4bcd2b7a8b",
+        "1c9a3c5111baa4ac",
+        "a1702bd05d399c11"
       ],
       "recent_jobs": [
         {
-          "id": "aa84578c56a98c44",
-          "title": "R&D Machine Learning Engineer - Engineering Scientist Associate",
-          "company": "University of Texas - Austin",
-          "posted_at": "2026-02-01T09:18:36.525Z"
-        },
-        {
-          "id": "bd4dd9d76aec7bab",
-          "title": "Software Engineer - New Grad",
-          "company": "Decagon",
-          "posted_at": "2026-02-01T09:34:19.571Z"
-        },
-        {
-          "id": "101c37ccf633bd6c",
-          "title": "Digital Engineering Rotational Aspire",
-          "company": "American Bureau of Shipping",
-          "posted_at": "2026-02-01T09:34:23.334Z"
-        },
-        {
-          "id": "5658dcd098726423",
-          "title": "Government Contracts Strategist",
-          "company": "nominal",
-          "posted_at": "2026-02-01T09:34:27.123Z"
-        },
-        {
-          "id": "b949aad22af5fbae",
-          "title": "Software Engineer – 2026 New Grad",
-          "company": "WhatNot",
-          "posted_at": "2026-02-01T09:34:29.071Z"
-        },
-        {
-          "id": "7a6e06a2e16523d2",
-          "title": "Founding Full Stack Engineer",
-          "company": "OffDeal",
-          "posted_at": "2026-02-01T09:34:32.790Z"
-        },
-        {
-          "id": "566ceb14245f2f14",
-          "title": "Software Engineer",
-          "company": "Brellium",
-          "posted_at": "2026-02-01T09:34:36.657Z"
-        },
-        {
-          "id": "ad8059fc2493a067",
-          "title": "New Graduate Engineer, Software (Starship)",
+          "id": "f3423655b4ccf3f2",
+          "title": "New Graduate Engineer, Software (Starlink)",
           "company": "SpaceX",
-          "posted_at": "2026-02-01T09:34:42.107Z"
+          "posted_at": "2026-02-01T09:52:22.339Z"
         },
         {
-          "id": "88cb8d384ee92003",
-          "title": "Machine Learning Engineer",
-          "company": "Cantina",
-          "posted_at": "2026-02-01T09:34:53.730Z"
+          "id": "3d45c9e5f8287439",
+          "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+          "company": "The Cigna Group",
+          "posted_at": "2026-02-01T09:52:26.337Z"
         },
         {
-          "id": "2d5f2f4b39cfd66e",
-          "title": "OSTP Software Developer",
-          "company": "Kitware",
-          "posted_at": "2026-02-01T09:34:57.449Z"
+          "id": "755367370d247cfd",
+          "title": "Software Engineer",
+          "company": "Stripe",
+          "posted_at": "2026-02-01T09:52:30.230Z"
+        },
+        {
+          "id": "42b9227e74d3f718",
+          "title": "Software Engineer I",
+          "company": "Jerry",
+          "posted_at": "2026-02-01T09:52:33.939Z"
+        },
+        {
+          "id": "74687fce785a8088",
+          "title": "Software Engineer – New Grad",
+          "company": "Stripe",
+          "posted_at": "2026-02-01T09:52:37.657Z"
+        },
+        {
+          "id": "c3a137ee0af71e56",
+          "title": "Software Engineer",
+          "company": "SpaceX",
+          "posted_at": "2026-02-01T09:52:41.407Z"
+        },
+        {
+          "id": "2e8b4b13a46c0bfd",
+          "title": "Software Developer",
+          "company": "IBM",
+          "posted_at": "2026-02-01T09:52:45.139Z"
+        },
+        {
+          "id": "2f7bcb4bcd2b7a8b",
+          "title": "Associate AI Engineer",
+          "company": "T-Mobile",
+          "posted_at": "2026-02-01T09:52:52.442Z"
+        },
+        {
+          "id": "1c9a3c5111baa4ac",
+          "title": "Software Engineer – University Grad",
+          "company": "Glean",
+          "posted_at": "2026-02-01T09:52:56.445Z"
+        },
+        {
+          "id": "a1702bd05d399c11",
+          "title": "Software Engineer",
+          "company": "Ivo",
+          "posted_at": "2026-02-01T09:53:00.293Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 238,
+      "count": 242,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1752,33 +1762,13 @@
         "7a6e06a2e16523d2",
         "566ceb14245f2f14",
         "88cb8d384ee92003",
-        "2d5f2f4b39cfd66e"
+        "2d5f2f4b39cfd66e",
+        "755367370d247cfd",
+        "42b9227e74d3f718",
+        "1c9a3c5111baa4ac",
+        "a1702bd05d399c11"
       ],
       "recent_jobs": [
-        {
-          "id": "9ada02a6206b8677",
-          "title": "Software Engineer I",
-          "company": "Jerry",
-          "posted_at": "2026-02-01T08:56:04.945Z"
-        },
-        {
-          "id": "929b50c775759f65",
-          "title": "Developer Technology Engineer, AI",
-          "company": "NVIDIA",
-          "posted_at": "2026-02-01T08:56:12.408Z"
-        },
-        {
-          "id": "7f04b9fd4244745b",
-          "title": "Associate Software Engineer",
-          "company": "Jahnel Group",
-          "posted_at": "2026-02-01T08:56:23.592Z"
-        },
-        {
-          "id": "68abfadd05e5dac9",
-          "title": "Software Engineer – New Grad",
-          "company": "Scale AI",
-          "posted_at": "2026-02-01T09:18:29.197Z"
-        },
         {
           "id": "bd4dd9d76aec7bab",
           "title": "Software Engineer - New Grad",
@@ -1814,12 +1804,36 @@
           "title": "OSTP Software Developer",
           "company": "Kitware",
           "posted_at": "2026-02-01T09:34:57.449Z"
+        },
+        {
+          "id": "755367370d247cfd",
+          "title": "Software Engineer",
+          "company": "Stripe",
+          "posted_at": "2026-02-01T09:52:30.230Z"
+        },
+        {
+          "id": "42b9227e74d3f718",
+          "title": "Software Engineer I",
+          "company": "Jerry",
+          "posted_at": "2026-02-01T09:52:33.939Z"
+        },
+        {
+          "id": "1c9a3c5111baa4ac",
+          "title": "Software Engineer – University Grad",
+          "company": "Glean",
+          "posted_at": "2026-02-01T09:52:56.445Z"
+        },
+        {
+          "id": "a1702bd05d399c11",
+          "title": "Software Engineer",
+          "company": "Ivo",
+          "posted_at": "2026-02-01T09:53:00.293Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 154,
+      "count": 157,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1974,27 +1988,12 @@
         "e5aa399b22c5819a",
         "aa84578c56a98c44",
         "101c37ccf633bd6c",
-        "ad8059fc2493a067"
+        "ad8059fc2493a067",
+        "3d45c9e5f8287439",
+        "c3a137ee0af71e56",
+        "2e8b4b13a46c0bfd"
       ],
       "recent_jobs": [
-        {
-          "id": "4a425be3fff947b1",
-          "title": "Graduate Software Applications Engineer",
-          "company": "Arm Limited",
-          "posted_at": "2026-02-01T09:18:04.008Z"
-        },
-        {
-          "id": "19215e2e2c39415d",
-          "title": "Infrastructure Engineer",
-          "company": "Epic",
-          "posted_at": "2026-02-01T09:18:07.788Z"
-        },
-        {
-          "id": "27b74852297129c1",
-          "title": "Associate Software Developer",
-          "company": "Diverge Health",
-          "posted_at": "2026-02-01T09:18:11.560Z"
-        },
         {
           "id": "3c7c54242d4ce09e",
           "title": "Associate Software Engineer",
@@ -2036,6 +2035,24 @@
           "title": "New Graduate Engineer, Software (Starship)",
           "company": "SpaceX",
           "posted_at": "2026-02-01T09:34:42.107Z"
+        },
+        {
+          "id": "3d45c9e5f8287439",
+          "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+          "company": "The Cigna Group",
+          "posted_at": "2026-02-01T09:52:26.337Z"
+        },
+        {
+          "id": "c3a137ee0af71e56",
+          "title": "Software Engineer",
+          "company": "SpaceX",
+          "posted_at": "2026-02-01T09:52:41.407Z"
+        },
+        {
+          "id": "2e8b4b13a46c0bfd",
+          "title": "Software Developer",
+          "company": "IBM",
+          "posted_at": "2026-02-01T09:52:45.139Z"
         }
       ]
     },
@@ -2416,7 +2433,7 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 11,
+      "count": 14,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -2428,27 +2445,12 @@
         "cfb05456e045ab95",
         "8abdb7480ccab3f6",
         "013c2001ffecc5f0",
-        "3af85540998f1fc1"
+        "3af85540998f1fc1",
+        "f3423655b4ccf3f2",
+        "74687fce785a8088",
+        "2f7bcb4bcd2b7a8b"
       ],
       "recent_jobs": [
-        {
-          "id": "72155fe011ee2af3",
-          "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T05:03:48.433Z"
-        },
-        {
-          "id": "b45ac21fd3c7685e",
-          "title": "Associate AI Engineer",
-          "company": "T-Mobile",
-          "posted_at": "2026-02-01T05:04:18.482Z"
-        },
-        {
-          "id": "66e0b770a6fce1ed",
-          "title": "University Graduate - Machine Learning Engineer",
-          "company": "Adobe",
-          "posted_at": "2026-02-01T06:26:16.115Z"
-        },
         {
           "id": "00f0a8636dcaf1b3",
           "title": "2026 University Graduate - Machine Learning Engineer",
@@ -2490,6 +2492,24 @@
           "title": "Engineer 1 - Full Stack, Store POS+",
           "company": "Nordstrom",
           "posted_at": "2026-02-01T08:36:23.636Z"
+        },
+        {
+          "id": "f3423655b4ccf3f2",
+          "title": "New Graduate Engineer, Software (Starlink)",
+          "company": "SpaceX",
+          "posted_at": "2026-02-01T09:52:22.339Z"
+        },
+        {
+          "id": "74687fce785a8088",
+          "title": "Software Engineer – New Grad",
+          "company": "Stripe",
+          "posted_at": "2026-02-01T09:52:37.657Z"
+        },
+        {
+          "id": "2f7bcb4bcd2b7a8b",
+          "title": "Associate AI Engineer",
+          "company": "T-Mobile",
+          "posted_at": "2026-02-01T09:52:52.442Z"
         }
       ]
     }
@@ -3007,56 +3027,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.019Z"
+        "timestamp": "2026-02-01T09:52:22.117Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.020Z"
+        "timestamp": "2026-02-01T09:52:22.118Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.020Z"
+        "timestamp": "2026-02-01T09:52:22.119Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.021Z"
+        "timestamp": "2026-02-01T09:52:22.119Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.021Z"
+        "timestamp": "2026-02-01T09:52:22.119Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.021Z"
+        "timestamp": "2026-02-01T09:52:22.120Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.022Z"
+        "timestamp": "2026-02-01T09:52:22.120Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T09:34:19.022Z"
+        "timestamp": "2026-02-01T09:52:22.121Z"
       }
     ]
   }
