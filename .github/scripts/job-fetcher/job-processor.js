@@ -565,14 +565,29 @@ function savePendingQueue(queue) {
 /**
  * Enhanced cleanup: Remove posted jobs and deduplicate queue
  * @param {Array} queue - Pending posts queue
- * @param {Set} postedIds - Set of job IDs already posted to Discord
+ * @param {Object} postedStore - { ids: Set, fingerprints: Set } of already posted jobs
  * @returns {Array} Cleaned and deduplicated queue
  */
-function cleanupPostedFromQueue(queue, postedIds) {
+function cleanupPostedFromQueue(queue, postedStore) {
     const beforeCount = queue.length;
 
-    // Step 1: Remove jobs already posted to Discord
-    const notPosted = queue.filter(item => !postedIds.has(item.job.id));
+    // Step 1: Remove jobs already posted to Discord (by ID OR fingerprint)
+    const notPosted = queue.filter(item => {
+        const jobId = item.job.id;
+        const fingerprint = generateJobFingerprint(item.job);
+
+        // Skip if job ID is already posted
+        if (postedStore.ids.has(jobId)) {
+            return false;
+        }
+
+        // Skip if fingerprint is already posted (catches title variations)
+        if (postedStore.fingerprints.has(fingerprint)) {
+            return false;
+        }
+
+        return true;
+    });
     const removedPosted = beforeCount - notPosted.length;
 
     // Step 2: Deduplicate by job ID (keep first occurrence, FIFO)
@@ -717,47 +732,54 @@ function loadPostedJobsStore() {
     try {
         if (!fs.existsSync(postedPath)) {
             console.log('ℹ️ No existing posted_jobs.json found - starting fresh');
-            return new Set();
+            return { ids: new Set(), fingerprints: new Set() };
         }
 
         const fileContent = fs.readFileSync(postedPath, 'utf8');
         if (!fileContent.trim()) {
             console.log('⚠️ Empty posted_jobs.json file - starting fresh');
-            return new Set();
+            return { ids: new Set(), fingerprints: new Set() };
         }
 
         const postedData = JSON.parse(fileContent);
 
         // Handle V2 format (current): {version: 2, jobs: [...], lastUpdated: "...", metadata: {}}
         if (postedData.version === 2 && Array.isArray(postedData.jobs)) {
-            const validPostedJobs = postedData.jobs
+            const ids = postedData.jobs
                 .map(job => job.jobId || job.id)
                 .filter(id => typeof id === 'string' && id.trim().length > 0);
 
-            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V2 format)`);
-            return new Set(validPostedJobs);
+            // Extract fingerprints for duplicate detection (handles title variations)
+            const fingerprints = postedData.jobs
+                .map(job => {
+                    if (job.job_fingerprint) return job.job_fingerprint;
+                    // Generate fingerprint on-the-fly for jobs without it
+                    if (job.title || job.job_title) {
+                        return generateJobFingerprint(job);
+                    }
+                    return null;
+                })
+                .filter(fp => fp && typeof fp === 'string' && fp.trim().length > 0);
+
+            console.log(`✅ Loaded ${ids.size} previously posted jobs (V2 format) with ${fingerprints.size} fingerprints for deduplication`);
+            return { ids: new Set(ids), fingerprints: new Set(fingerprints) };
         }
 
         // Handle V1 format (backwards compatibility): [...]
         if (Array.isArray(postedData)) {
             const validPostedJobs = postedData.filter(id => typeof id === 'string' && id.trim().length > 0);
-
-            if (validPostedJobs.length !== postedData.length) {
-                console.log(`⚠️ Filtered ${postedData.length - validPostedJobs.length} invalid entries from posted_jobs.json`);
-            }
-
-            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V1 format)`);
-            return new Set(validPostedJobs);
+            console.log(`⚠️ Converting legacy posted_jobs.json format (V1)`);
+            return { ids: new Set(validPostedJobs), fingerprints: new Set() };
         }
 
         console.log('⚠️ Invalid posted_jobs.json format - starting fresh');
-        return new Set();
+        return { ids: new Set(), fingerprints: new Set() };
 
     } catch (error) {
         console.error('❌ Error loading posted_jobs.json:', error.message);
         console.log('ℹ️ Starting with empty posted jobs set');
 
-        return new Set();
+        return { ids: new Set(), fingerprints: new Set() };
     }
 }
 
@@ -772,7 +794,7 @@ async function processJobs() {
         // Load posted jobs for accurate deduplication
         // Use posted_jobs.json (what we've successfully posted to Discord)
         // instead of seen_jobs.json (what we've fetched from APIs)
-        const postedIds = loadPostedJobsStore();
+        const postedStore = loadPostedJobsStore(); // Returns { ids: Set, fingerprints: Set }
         const { seenIds, seenFingerprints } = loadSeenJobsStore(); // Returns {seenIds: Set, seenFingerprints: Set}
 
         // Load job dates store
@@ -832,7 +854,7 @@ async function processJobs() {
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
         let queue = loadPendingQueue();
-        queue = cleanupPostedFromQueue(queue, postedIds);
+        queue = cleanupPostedFromQueue(queue, postedStore);
 
         // Create sets of job IDs and fingerprints already in queue to prevent duplicate additions
         const queueIds = new Set(queue.map(item => item.job.id));
