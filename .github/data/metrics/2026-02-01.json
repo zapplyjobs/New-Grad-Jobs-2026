@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T02:06:03.635Z",
+  "generated": "2026-02-01T03:14:06.005Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T02:06:03.635Z",
-  "period_end": "2026-02-01T02:06:03.635Z",
+  "period_start": "2026-01-25T03:14:06.005Z",
+  "period_end": "2026-02-01T03:14:06.005Z",
   "summary": {
-    "total_jobs_posted": 1842,
-    "unique_jobs": 1577,
-    "multi_channel_postings": 530,
-    "unique_multi_channel_jobs": 265,
+    "total_jobs_posted": 1856,
+    "unique_jobs": 1587,
+    "multi_channel_postings": 538,
+    "unique_multi_channel_jobs": 269,
     "failed_postings": 0,
     "filtered_jobs": 9,
     "channels_active": 4
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1291,
+      "count": 1298,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1307,51 +1307,16 @@
         "6ee3e17a13b75535",
         "f87e8e28bf65c445",
         "514c96736cf865c8",
-        "9449a3598db0d112"
+        "9449a3598db0d112",
+        "66712381ee01717a",
+        "be7e17229c98d4fb",
+        "a2241e6c9912a989",
+        "69bf648a2c8e17b3",
+        "a802b4bb85f94ddb",
+        "fbe3db8818c65f3a",
+        "69ac65f7da74320b"
       ],
       "recent_jobs": [
-        {
-          "id": "4c1f8c6deb91a594",
-          "title": "Software Engineer I - Remote Assist",
-          "company": "Aurora Innovation",
-          "posted_at": "2026-02-01T01:09:33.833Z"
-        },
-        {
-          "id": "c91652187c70cdd9",
-          "title": "Software Engineer I - Remote Assist",
-          "company": "Aurora Innovation",
-          "posted_at": "2026-02-01T02:05:27.960Z"
-        },
-        {
-          "id": "40378fef85eabc89",
-          "title": "Software Engineer - Rust / Bevy / WebGPU",
-          "company": "nominal",
-          "posted_at": "2026-02-01T02:05:29.865Z"
-        },
-        {
-          "id": "e686255ec022be38",
-          "title": "Software Engineer – Systems & Real-Time (RTOS / HIL)",
-          "company": "nominal",
-          "posted_at": "2026-02-01T02:05:31.663Z"
-        },
-        {
-          "id": "8df8ff215d359266",
-          "title": "Product Designer - Early Career",
-          "company": "nominal",
-          "posted_at": "2026-02-01T02:05:33.613Z"
-        },
-        {
-          "id": "40beaf6d537fe2fb",
-          "title": "Product Engineer",
-          "company": "Appian",
-          "posted_at": "2026-02-01T02:05:37.549Z"
-        },
-        {
-          "id": "6ee3e17a13b75535",
-          "title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
-          "company": "Caris",
-          "posted_at": "2026-02-01T02:05:39.370Z"
-        },
         {
           "id": "f87e8e28bf65c445",
           "title": "Software Development",
@@ -1369,12 +1334,54 @@
           "title": "Software Engineer – Early Career - Cloud Infrastructure",
           "company": "Fireworks AI",
           "posted_at": "2026-02-01T02:05:54.917Z"
+        },
+        {
+          "id": "66712381ee01717a",
+          "title": "Associate Software Engineer - Clinical Systems (External Apps)",
+          "company": "Caris",
+          "posted_at": "2026-02-01T03:13:35.845Z"
+        },
+        {
+          "id": "be7e17229c98d4fb",
+          "title": "Associate – Entry Level",
+          "company": "Secretariat",
+          "posted_at": "2026-02-01T03:13:37.822Z"
+        },
+        {
+          "id": "a2241e6c9912a989",
+          "title": "Computer Vision Specialist - AI Trainer",
+          "company": "Invisible Technologies",
+          "posted_at": "2026-02-01T03:13:46.241Z"
+        },
+        {
+          "id": "69bf648a2c8e17b3",
+          "title": "Homography Specialist - AI Trainer",
+          "company": "Invisible Technologies",
+          "posted_at": "2026-02-01T03:13:49.915Z"
+        },
+        {
+          "id": "a802b4bb85f94ddb",
+          "title": "Software Engineer, Test & Infrastructure I",
+          "company": "Vail Systems",
+          "posted_at": "2026-02-01T03:13:53.512Z"
+        },
+        {
+          "id": "fbe3db8818c65f3a",
+          "title": "Machine Learning Engineer - AI Research (PhD)",
+          "company": "General Motors",
+          "posted_at": "2026-02-01T03:13:55.294Z"
+        },
+        {
+          "id": "69ac65f7da74320b",
+          "title": "Software Engineer - Test & Infrastructure I",
+          "company": "Vail Systems",
+          "posted_at": "2026-02-01T03:13:57.286Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 187,
+      "count": 189,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1562,21 +1569,11 @@
         "921cfb32a6f89b2f",
         "2b480db9c2262d8d",
         "c26ea0bd8c442fce",
-        "8df8ff215d359266"
+        "8df8ff215d359266",
+        "e3a61030c2f2cfde",
+        "be7e17229c98d4fb"
       ],
       "recent_jobs": [
-        {
-          "id": "608dacae2c5255ee",
-          "title": "Healthcare Analyst",
-          "company": "Essen Health Care",
-          "posted_at": "2026-01-31T22:13:09.846Z"
-        },
-        {
-          "id": "fa5de1b48a896633",
-          "title": "Data Scientist",
-          "company": "Trillium",
-          "posted_at": "2026-01-31T22:13:13.432Z"
-        },
         {
           "id": "79810f049c9d7f6f",
           "title": "Recruiting Coordinator",
@@ -1624,12 +1621,24 @@
           "title": "Product Designer - Early Career",
           "company": "nominal",
           "posted_at": "2026-02-01T02:05:33.613Z"
+        },
+        {
+          "id": "e3a61030c2f2cfde",
+          "title": "Associate Data Scientist",
+          "company": "Garner Health",
+          "posted_at": "2026-02-01T03:13:28.949Z"
+        },
+        {
+          "id": "be7e17229c98d4fb",
+          "title": "Associate – Entry Level",
+          "company": "Secretariat",
+          "posted_at": "2026-02-01T03:13:37.822Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 78,
+      "count": 80,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1708,21 +1717,11 @@
         "ca8213d91a563ba9",
         "2d9ad150af9c343e",
         "c568d18ca0f509ae",
-        "514c96736cf865c8"
+        "514c96736cf865c8",
+        "a2241e6c9912a989",
+        "69bf648a2c8e17b3"
       ],
       "recent_jobs": [
-        {
-          "id": "0e8436e4db7bd580",
-          "title": "Entry Level Developer - Contract",
-          "company": "Equiti",
-          "posted_at": "2026-01-31T18:33:21.479Z"
-        },
-        {
-          "id": "6ccbd88c6ceac3c6",
-          "title": "Product Designer",
-          "company": "railway",
-          "posted_at": "2026-01-31T18:53:21.149Z"
-        },
         {
           "id": "ad0dec2a7287f7c8",
           "title": "Integrations Analyst 1/2",
@@ -1770,12 +1769,24 @@
           "title": "Cloud Support Engineer I (Support Response) - Weekend Shift",
           "company": "Lambda",
           "posted_at": "2026-02-01T02:05:42.985Z"
+        },
+        {
+          "id": "a2241e6c9912a989",
+          "title": "Computer Vision Specialist - AI Trainer",
+          "company": "Invisible Technologies",
+          "posted_at": "2026-02-01T03:13:46.241Z"
+        },
+        {
+          "id": "69bf648a2c8e17b3",
+          "title": "Homography Specialist - AI Trainer",
+          "company": "Invisible Technologies",
+          "posted_at": "2026-02-01T03:13:49.915Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 286,
+      "count": 289,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2062,27 +2073,12 @@
         "7c4da3e29666cafe",
         "fdc59f4d78d5fe94",
         "6a876634dfb837f9",
-        "afa2ef3149d0027f"
+        "afa2ef3149d0027f",
+        "e7332de26aa0f6c7",
+        "20807c3c4a71e0c5",
+        "e3a61030c2f2cfde"
       ],
       "recent_jobs": [
-        {
-          "id": "04f303de11b69983",
-          "title": "Asset and Wealth Management Analyst",
-          "company": "Goldman Sachs",
-          "posted_at": "2026-01-31T21:58:26.676Z"
-        },
-        {
-          "id": "608dacae2c5255ee",
-          "title": "Healthcare Analyst",
-          "company": "Essen Health Care",
-          "posted_at": "2026-01-31T22:13:09.846Z"
-        },
-        {
-          "id": "fa5de1b48a896633",
-          "title": "Data Scientist",
-          "company": "Trillium",
-          "posted_at": "2026-01-31T22:13:13.432Z"
-        },
         {
           "id": "75815b79c47979fb",
           "title": "Data Scientist - TikTok Shop AMS Data Science",
@@ -2124,6 +2120,24 @@
           "title": "Data Scientist Graduate - Tiktok Shop Business Product DS - 2026 Start",
           "company": "TikTok",
           "posted_at": "2026-02-01T02:05:50.026Z"
+        },
+        {
+          "id": "e7332de26aa0f6c7",
+          "title": "Data Scientist Graduate - Tiktok Shop Business Product DS - 2026 Start",
+          "company": "TikTok",
+          "posted_at": "2026-02-01T03:13:25.322Z"
+        },
+        {
+          "id": "20807c3c4a71e0c5",
+          "title": "Business Systems Analyst - Data Warehouse",
+          "company": "Global Lending Services",
+          "posted_at": "2026-02-01T03:13:27.153Z"
+        },
+        {
+          "id": "e3a61030c2f2cfde",
+          "title": "Associate Data Scientist",
+          "company": "Garner Health",
+          "posted_at": "2026-02-01T03:13:28.949Z"
         }
       ]
     }
@@ -2634,11 +2648,11 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoc-machine-learning_jr102052",
-        "title": "Postdoc – Machine Learning",
-        "company": "Brookhaven Lab",
+        "job_id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000072094-1",
+        "title": "Postdoctoral Scholar",
+        "company": "PennState University",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T02:05:27.303Z"
+        "timestamp": "2026-02-01T03:13:24.612Z"
       }
     ],
     "already_posted": [],
@@ -2649,56 +2663,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.287Z"
+        "timestamp": "2026-02-01T03:13:24.595Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.287Z"
+        "timestamp": "2026-02-01T03:13:24.596Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.288Z"
+        "timestamp": "2026-02-01T03:13:24.596Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.288Z"
+        "timestamp": "2026-02-01T03:13:24.597Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.289Z"
+        "timestamp": "2026-02-01T03:13:24.597Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.289Z"
+        "timestamp": "2026-02-01T03:13:24.597Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.290Z"
+        "timestamp": "2026-02-01T03:13:24.597Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:05:27.290Z"
+        "timestamp": "2026-02-01T03:13:24.598Z"
       }
     ]
   }
