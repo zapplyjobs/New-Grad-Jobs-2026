@@ -42,11 +42,8 @@ function getJobLocationChannel(job) {
     'san bruno': 'bay-area',
     'menlo park': 'bay-area',
     'redwood city': 'bay-area',
-    'santa rosa': 'bay-area',
-    'napa': 'bay-area',
-    'vallejo': 'bay-area',
-    'concord': 'bay-area',
-    'walnut creek': 'bay-area',
+    'milpitas': 'bay-area',
+    'frisco': 'bay-area',
 
     // NYC Metro Area -> new-york
     'new york': 'new-york',
@@ -92,11 +89,7 @@ function getJobLocationChannel(job) {
     'carlsbad': 'southern-california',
     'el cajon': 'southern-california',
     'la jolla': 'southern-california',
-    'huntington beach': 'southern-california',
-    'newport beach': 'southern-california',
-    'costa mesa': 'southern-california',
-    'fullerton': 'southern-california',
-    'garden grove': 'southern-california',
+    'culver city': 'southern-california',
   };
 
   // City abbreviations
