@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T14:37:05.162Z",
+  "generated": "2026-02-01T14:52:03.775Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T14:37:05.162Z",
-  "period_end": "2026-02-01T14:37:05.162Z",
+  "period_start": "2026-01-25T14:52:03.775Z",
+  "period_end": "2026-02-01T14:52:03.775Z",
   "summary": {
-    "total_jobs_posted": 2513,
-    "unique_jobs": 1927,
-    "multi_channel_postings": 1172,
-    "unique_multi_channel_jobs": 586,
+    "total_jobs_posted": 2531,
+    "unique_jobs": 1937,
+    "multi_channel_postings": 1188,
+    "unique_multi_channel_jobs": 594,
     "failed_postings": 0,
-    "filtered_jobs": 9,
+    "filtered_jobs": 8,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1601,
+      "count": 1607,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1617,45 +1617,15 @@
         "6ab81e0f19a712e5",
         "b41b7cecad193b2f",
         "6827463e1174676d",
-        "dae3378a7392f9c8"
+        "dae3378a7392f9c8",
+        "8284ccf76d242985",
+        "89f6946ef1d8fe10",
+        "db2c220827bcef5c",
+        "0e4f28a93e0059d4",
+        "f2db20563111cf3d",
+        "0f08ad90023b7e6a"
       ],
       "recent_jobs": [
-        {
-          "id": "1a00e79d54ef7487",
-          "title": "Training and Placement on Java Informatica Microstrategy Tableau",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:41.226Z"
-        },
-        {
-          "id": "6531afed4c5e7819",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:14.889Z"
-        },
-        {
-          "id": "66a53c382e106d77",
-          "title": "Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:18.587Z"
-        },
-        {
-          "id": "8d89cbf963dc1516",
-          "title": "Test Analyst - Java - Selenium",
-          "company": "Avance Consulting",
-          "posted_at": "2026-02-01T14:36:23.675Z"
-        },
-        {
-          "id": "3a7f043b61022109",
-          "title": "Entry Level Informatica Developer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:28.352Z"
-        },
-        {
-          "id": "468292ae274d5e37",
-          "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:36:32.136Z"
-        },
         {
           "id": "6ab81e0f19a712e5",
           "title": "Frontend Developer - Angular",
@@ -1679,12 +1649,48 @@
           "title": "Graduate 2025 Software Engineer I, US",
           "company": "Uber",
           "posted_at": "2026-02-01T14:36:47.367Z"
+        },
+        {
+          "id": "8284ccf76d242985",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:51:19.176Z"
+        },
+        {
+          "id": "89f6946ef1d8fe10",
+          "title": "Software Engineering AMTS – New Grad",
+          "company": "Salesforce",
+          "posted_at": "2026-02-01T14:51:22.966Z"
+        },
+        {
+          "id": "db2c220827bcef5c",
+          "title": "Software Engineer Graduate - Developer Infra - BS/MS",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T14:51:26.790Z"
+        },
+        {
+          "id": "0e4f28a93e0059d4",
+          "title": "Java Developer",
+          "company": "Artech Information System",
+          "posted_at": "2026-02-01T14:51:30.666Z"
+        },
+        {
+          "id": "f2db20563111cf3d",
+          "title": "Entry Level Controls & Software Test Engineer",
+          "company": "Solar Turbines",
+          "posted_at": "2026-02-01T14:51:34.560Z"
+        },
+        {
+          "id": "0f08ad90023b7e6a",
+          "title": "Junior AI-Assisted Software Engineer",
+          "company": "SS&C",
+          "posted_at": "2026-02-01T14:51:36.487Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 330,
+      "count": 333,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2015,27 +2021,12 @@
         "468292ae274d5e37",
         "6ab81e0f19a712e5",
         "6827463e1174676d",
-        "dae3378a7392f9c8"
+        "dae3378a7392f9c8",
+        "89f6946ef1d8fe10",
+        "db2c220827bcef5c",
+        "dce8400d39561314"
       ],
       "recent_jobs": [
-        {
-          "id": "4c5dbc98644878a0",
-          "title": "Entry Level Software Engineer",
-          "company": "BRM",
-          "posted_at": "2026-02-01T13:54:08.064Z"
-        },
-        {
-          "id": "eb375ad554d9d17f",
-          "title": "Software Engineer I - Aldp",
-          "company": "Apex Fintech Solutions",
-          "posted_at": "2026-02-01T14:17:05.366Z"
-        },
-        {
-          "id": "2d17f7763b94e497",
-          "title": "Technology Analyst - Cocoa",
-          "company": "Avance Consulting",
-          "posted_at": "2026-02-01T14:17:28.464Z"
-        },
         {
           "id": "be7ccd327d584e73",
           "title": "Embedded Software Engineer",
@@ -2077,12 +2068,30 @@
           "title": "Graduate 2025 Software Engineer I, US",
           "company": "Uber",
           "posted_at": "2026-02-01T14:36:47.367Z"
+        },
+        {
+          "id": "89f6946ef1d8fe10",
+          "title": "Software Engineering AMTS – New Grad",
+          "company": "Salesforce",
+          "posted_at": "2026-02-01T14:51:22.966Z"
+        },
+        {
+          "id": "db2c220827bcef5c",
+          "title": "Software Engineer Graduate - Developer Infra - BS/MS",
+          "company": "ByteDance",
+          "posted_at": "2026-02-01T14:51:26.790Z"
+        },
+        {
+          "id": "dce8400d39561314",
+          "title": "Entry Level Business/Data Analyst",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T14:51:52.894Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 226,
+      "count": 231,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2309,39 +2318,14 @@
         "66a53c382e106d77",
         "3a7f043b61022109",
         "b41b7cecad193b2f",
-        "0119bde4a2c2ff92"
+        "0119bde4a2c2ff92",
+        "8284ccf76d242985",
+        "0e4f28a93e0059d4",
+        "0f08ad90023b7e6a",
+        "ca3325ec87d3509d",
+        "468b878c271ef832"
       ],
       "recent_jobs": [
-        {
-          "id": "6d8bf83cfa7e96a2",
-          "title": "Hiring Entry Level Software Engineer",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:24.240Z"
-        },
-        {
-          "id": "3cafb5640fe39fd0",
-          "title": "SAP ERP Analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T14:27:28.036Z"
-        },
-        {
-          "id": "496c98f3c28692c3",
-          "title": "Java Informatica MicroStrategy Training",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:31.796Z"
-        },
-        {
-          "id": "1a00e79d54ef7487",
-          "title": "Training and Placement on Java Informatica Microstrategy Tableau",
-          "company": "AG Technologies",
-          "posted_at": "2026-02-01T14:27:41.226Z"
-        },
-        {
-          "id": "b9741757cf6922a1",
-          "title": "GIS Analyst - Environmental Consulting and Management Services",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T14:27:48.013Z"
-        },
         {
           "id": "f9cf3518ba91c17e",
           "title": "MDM Data Analyst 1",
@@ -2371,12 +2355,42 @@
           "title": "PPM Data Scientist/Statistician 1",
           "company": "Prosidian Consulting",
           "posted_at": "2026-02-01T14:36:54.326Z"
+        },
+        {
+          "id": "8284ccf76d242985",
+          "title": "Hiring Entry Level Software Engineer",
+          "company": "AG Technologies",
+          "posted_at": "2026-02-01T14:51:19.176Z"
+        },
+        {
+          "id": "0e4f28a93e0059d4",
+          "title": "Java Developer",
+          "company": "Artech Information System",
+          "posted_at": "2026-02-01T14:51:30.666Z"
+        },
+        {
+          "id": "0f08ad90023b7e6a",
+          "title": "Junior AI-Assisted Software Engineer",
+          "company": "SS&C",
+          "posted_at": "2026-02-01T14:51:36.487Z"
+        },
+        {
+          "id": "ca3325ec87d3509d",
+          "title": ".Net Developer",
+          "company": "Artech Information System",
+          "posted_at": "2026-02-01T14:51:45.268Z"
+        },
+        {
+          "id": "468b878c271ef832",
+          "title": "PPM Data Scientist/Statistician 1",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T14:51:49.039Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 326,
+      "count": 330,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2703,33 +2717,13 @@
         "b9741757cf6922a1",
         "aee0021d2c647aaa",
         "f9cf3518ba91c17e",
-        "0119bde4a2c2ff92"
+        "0119bde4a2c2ff92",
+        "fe1b836d5bde0c12",
+        "ca3325ec87d3509d",
+        "468b878c271ef832",
+        "dce8400d39561314"
       ],
       "recent_jobs": [
-        {
-          "id": "871754ac9ea10874",
-          "title": "Entry Level Business/Data Analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T12:15:36.689Z"
-        },
-        {
-          "id": "14ec0c1b70867b7f",
-          "title": "PPM Data Scientist/Statistician 1 - WA",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T12:15:40.555Z"
-        },
-        {
-          "id": "a01157c6bc8ebec5",
-          "title": "Data Analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T12:15:44.473Z"
-        },
-        {
-          "id": "8d83c8c77631ba72",
-          "title": "Analyst 2 - Technical Analysis",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T12:16:05.620Z"
-        },
         {
           "id": "eec77954bddfab32",
           "title": "Geospatial Analyst 2",
@@ -2765,6 +2759,30 @@
           "title": "PPM Data Scientist/Statistician 1",
           "company": "Prosidian Consulting",
           "posted_at": "2026-02-01T14:36:54.326Z"
+        },
+        {
+          "id": "fe1b836d5bde0c12",
+          "title": "Data analyst - Applications L1",
+          "company": "Artech Information System",
+          "posted_at": "2026-02-01T14:51:43.365Z"
+        },
+        {
+          "id": "ca3325ec87d3509d",
+          "title": ".Net Developer",
+          "company": "Artech Information System",
+          "posted_at": "2026-02-01T14:51:45.268Z"
+        },
+        {
+          "id": "468b878c271ef832",
+          "title": "PPM Data Scientist/Statistician 1",
+          "company": "Prosidian Consulting",
+          "posted_at": "2026-02-01T14:51:49.039Z"
+        },
+        {
+          "id": "dce8400d39561314",
+          "title": "Entry Level Business/Data Analyst",
+          "company": "360 IT Professionals",
+          "posted_at": "2026-02-01T14:51:52.894Z"
         }
       ]
     },
@@ -3371,15 +3389,7 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [
-      {
-        "job_id": "jobs-lever-co-spotify-12ee8cee-7192-4704-9f51-029a7d85c732",
-        "title": "Global Sr. Manager, Experiential & Content Production",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T14:36:14.248Z"
-      }
-    ],
+    "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -3388,56 +3398,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.230Z"
+        "timestamp": "2026-02-01T14:51:18.770Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.231Z"
+        "timestamp": "2026-02-01T14:51:18.770Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.232Z"
+        "timestamp": "2026-02-01T14:51:18.771Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.232Z"
+        "timestamp": "2026-02-01T14:51:18.771Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.232Z"
+        "timestamp": "2026-02-01T14:51:18.772Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.233Z"
+        "timestamp": "2026-02-01T14:51:18.772Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.233Z"
+        "timestamp": "2026-02-01T14:51:18.773Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T14:36:14.233Z"
+        "timestamp": "2026-02-01T14:51:18.773Z"
       }
     ]
   }
