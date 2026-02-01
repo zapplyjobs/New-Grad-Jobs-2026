@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T19:12:45.676Z",
+  "generated": "2026-02-01T19:33:11.368Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T19:12:45.676Z",
-  "period_end": "2026-02-01T19:12:45.676Z",
+  "period_start": "2026-01-25T19:33:11.368Z",
+  "period_end": "2026-02-01T19:33:11.368Z",
   "summary": {
-    "total_jobs_posted": 2931,
-    "unique_jobs": 2147,
-    "multi_channel_postings": 1568,
-    "unique_multi_channel_jobs": 784,
+    "total_jobs_posted": 2950,
+    "unique_jobs": 2157,
+    "multi_channel_postings": 1586,
+    "unique_multi_channel_jobs": 793,
     "failed_postings": 0,
-    "filtered_jobs": 24,
+    "filtered_jobs": 34,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1808,
+      "count": 1816,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1824,57 +1824,17 @@
         "c41f36b7be31d4d0",
         "b0f1c320dad3b99d",
         "b2a0e5957c2bd21c",
-        "22b67685631e3673"
+        "22b67685631e3673",
+        "32e214656199cb08",
+        "6c082057487ece5f",
+        "3a6fe6eaab884073",
+        "9a2aa83d21bd3c15",
+        "40f38d2bb8285022",
+        "f56333a67044a87e",
+        "29668ec70becc8d7",
+        "6a9671410f9fc68c"
       ],
       "recent_jobs": [
-        {
-          "id": "ead9d53bf90f853b",
-          "title": "CNO Analyst/Programmer",
-          "company": "Wyetech",
-          "posted_at": "2026-02-01T18:55:48.776Z"
-        },
-        {
-          "id": "3ae862c8bc540972",
-          "title": "AI Machine Learning Engineer 2",
-          "company": "Cisco",
-          "posted_at": "2026-02-01T18:55:52.526Z"
-        },
-        {
-          "id": "629e2f9a9e656755",
-          "title": "Software Engineer – New Grad",
-          "company": "Palantir",
-          "posted_at": "2026-02-01T19:11:54.500Z"
-        },
-        {
-          "id": "4a2a0e95c8945262",
-          "title": "Graduate & Entry-Level Roles",
-          "company": "Gradial",
-          "posted_at": "2026-02-01T19:11:58.428Z"
-        },
-        {
-          "id": "8304ef3765865bca",
-          "title": "R&D Software Engineer - Esa",
-          "company": "University of Texas - Austin",
-          "posted_at": "2026-02-01T19:12:02.329Z"
-        },
-        {
-          "id": "499d511fb7fbd3d6",
-          "title": "AI-First Software Engineer – Entry Level",
-          "company": "Nymbus",
-          "posted_at": "2026-02-01T19:12:06.118Z"
-        },
-        {
-          "id": "c41f36b7be31d4d0",
-          "title": "Software Engineer 1 - Lrx Core",
-          "company": "Crunchyroll",
-          "posted_at": "2026-02-01T19:12:10.184Z"
-        },
-        {
-          "id": "b0f1c320dad3b99d",
-          "title": "Software Engineer MTS",
-          "company": "Salesforce",
-          "posted_at": "2026-02-01T19:12:14.050Z"
-        },
         {
           "id": "b2a0e5957c2bd21c",
           "title": "Associate Machine Learning Engineer",
@@ -1886,12 +1846,60 @@
           "title": "AI Engineer 2",
           "company": "VCU Health",
           "posted_at": "2026-02-01T19:12:24.789Z"
+        },
+        {
+          "id": "32e214656199cb08",
+          "title": "Software Engineer – New Grad",
+          "company": "Palantir",
+          "posted_at": "2026-02-01T19:32:22.636Z"
+        },
+        {
+          "id": "6c082057487ece5f",
+          "title": "System Software Engineer",
+          "company": "Intel",
+          "posted_at": "2026-02-01T19:32:26.655Z"
+        },
+        {
+          "id": "3a6fe6eaab884073",
+          "title": "Software Development Specialist 3",
+          "company": "Brigham Young University - Provo",
+          "posted_at": "2026-02-01T19:32:30.526Z"
+        },
+        {
+          "id": "9a2aa83d21bd3c15",
+          "title": "Interface Support Specialist",
+          "company": "TruBridge",
+          "posted_at": "2026-02-01T19:32:34.487Z"
+        },
+        {
+          "id": "40f38d2bb8285022",
+          "title": "Associate Programmer Analyst",
+          "company": "The Boeing Company",
+          "posted_at": "2026-02-01T19:32:38.183Z"
+        },
+        {
+          "id": "f56333a67044a87e",
+          "title": "Software Engineer New Grad",
+          "company": "8VC",
+          "posted_at": "2026-02-01T19:32:41.919Z"
+        },
+        {
+          "id": "29668ec70becc8d7",
+          "title": "Systems Software Engineer - GPU",
+          "company": "NVIDIA",
+          "posted_at": "2026-02-01T19:32:48.810Z"
+        },
+        {
+          "id": "6a9671410f9fc68c",
+          "title": "Associate Machine Learning Engineer",
+          "company": "Tubi",
+          "posted_at": "2026-02-01T19:32:52.541Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 425,
+      "count": 428,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2317,27 +2325,12 @@
         "629e2f9a9e656755",
         "c41f36b7be31d4d0",
         "b0f1c320dad3b99d",
-        "48036a9050d52cda"
+        "48036a9050d52cda",
+        "6c082057487ece5f",
+        "f56333a67044a87e",
+        "6a9671410f9fc68c"
       ],
       "recent_jobs": [
-        {
-          "id": "8e5f896d41279145",
-          "title": "Software Engineer, Windows - Claude Code",
-          "company": "anthropic",
-          "posted_at": "2026-02-01T18:35:45.761Z"
-        },
-        {
-          "id": "dc4f03442e12b39f",
-          "title": "Early Career Geologist",
-          "company": "WSP",
-          "posted_at": "2026-02-01T18:35:53.522Z"
-        },
-        {
-          "id": "4f910d5d587f2fdd",
-          "title": "Finance AI Engineer",
-          "company": "anthropic",
-          "posted_at": "2026-02-01T18:36:04.306Z"
-        },
         {
           "id": "2283519a65ae2631",
           "title": "Asset & Wealth Management - Software Engineer - Associate",
@@ -2379,12 +2372,30 @@
           "title": "Data Scientist 1 - Integrity",
           "company": "Tinder",
           "posted_at": "2026-02-01T19:12:35.452Z"
+        },
+        {
+          "id": "6c082057487ece5f",
+          "title": "System Software Engineer",
+          "company": "Intel",
+          "posted_at": "2026-02-01T19:32:26.655Z"
+        },
+        {
+          "id": "f56333a67044a87e",
+          "title": "Software Engineer New Grad",
+          "company": "8VC",
+          "posted_at": "2026-02-01T19:32:41.919Z"
+        },
+        {
+          "id": "6a9671410f9fc68c",
+          "title": "Associate Machine Learning Engineer",
+          "company": "Tubi",
+          "posted_at": "2026-02-01T19:32:52.541Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 298,
+      "count": 302,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2683,33 +2694,13 @@
         "ead9d53bf90f853b",
         "8304ef3765865bca",
         "499d511fb7fbd3d6",
-        "fcec9eda08c0d2b0"
+        "fcec9eda08c0d2b0",
+        "32e214656199cb08",
+        "3a6fe6eaab884073",
+        "9a2aa83d21bd3c15",
+        "bdb9febc418ba6fa"
       ],
       "recent_jobs": [
-        {
-          "id": "8a59fac4015f6363",
-          "title": "Software Engineer - Ref. M-2537",
-          "company": "ALTEN Technology",
-          "posted_at": "2026-02-01T18:35:49.786Z"
-        },
-        {
-          "id": "bee55aecfae73abb",
-          "title": "Entry-Level Full Stack Web Developer",
-          "company": "Space Dynamics Laboratory",
-          "posted_at": "2026-02-01T18:35:57.254Z"
-        },
-        {
-          "id": "d668c4712415caee",
-          "title": "Software Engineer – Entry Level",
-          "company": "General Dynamics Mission Systems",
-          "posted_at": "2026-02-01T18:55:21.296Z"
-        },
-        {
-          "id": "fceb5da92d1bde0c",
-          "title": "Application Engineer - Industrial OE Ame",
-          "company": "MANN+HUMMEL",
-          "posted_at": "2026-02-01T18:55:28.879Z"
-        },
         {
           "id": "0e54777c03759921",
           "title": "Software Developer",
@@ -2745,12 +2736,36 @@
           "title": "Data Associate",
           "company": "The Movement Cooperative",
           "posted_at": "2026-02-01T19:12:31.605Z"
+        },
+        {
+          "id": "32e214656199cb08",
+          "title": "Software Engineer – New Grad",
+          "company": "Palantir",
+          "posted_at": "2026-02-01T19:32:22.636Z"
+        },
+        {
+          "id": "3a6fe6eaab884073",
+          "title": "Software Development Specialist 3",
+          "company": "Brigham Young University - Provo",
+          "posted_at": "2026-02-01T19:32:30.526Z"
+        },
+        {
+          "id": "9a2aa83d21bd3c15",
+          "title": "Interface Support Specialist",
+          "company": "TruBridge",
+          "posted_at": "2026-02-01T19:32:34.487Z"
+        },
+        {
+          "id": "bdb9febc418ba6fa",
+          "title": "Data Analyst",
+          "company": "Johnson & Johnson",
+          "posted_at": "2026-02-01T19:33:01.156Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 339,
+      "count": 341,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -3090,21 +3105,11 @@
         "ea38a29e83173363",
         "43a2ebbb6f9ad95f",
         "fcec9eda08c0d2b0",
-        "48036a9050d52cda"
+        "48036a9050d52cda",
+        "6540ebf6e41aadda",
+        "bdb9febc418ba6fa"
       ],
       "recent_jobs": [
-        {
-          "id": "dce8400d39561314",
-          "title": "Entry Level Business/Data Analyst",
-          "company": "360 IT Professionals",
-          "posted_at": "2026-02-01T14:51:52.894Z"
-        },
-        {
-          "id": "7d251fbc36cfff78",
-          "title": "Geospatial Analyst 1",
-          "company": "Prosidian Consulting",
-          "posted_at": "2026-02-01T15:04:30.782Z"
-        },
         {
           "id": "f69a06733e66b2c6",
           "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
@@ -3152,12 +3157,24 @@
           "title": "Data Scientist 1 - Integrity",
           "company": "Tinder",
           "posted_at": "2026-02-01T19:12:35.452Z"
+        },
+        {
+          "id": "6540ebf6e41aadda",
+          "title": "Data Analyst",
+          "company": "Horizon media",
+          "posted_at": "2026-02-01T19:32:59.283Z"
+        },
+        {
+          "id": "bdb9febc418ba6fa",
+          "title": "Data Analyst",
+          "company": "Johnson & Johnson",
+          "posted_at": "2026-02-01T19:33:01.156Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 61,
+      "count": 63,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -3219,21 +3236,11 @@
         "18085e3552e4def8",
         "4a2a0e95c8945262",
         "b2a0e5957c2bd21c",
-        "22b67685631e3673"
+        "22b67685631e3673",
+        "40f38d2bb8285022",
+        "29668ec70becc8d7"
       ],
       "recent_jobs": [
-        {
-          "id": "495b3110b62ac617",
-          "title": "Software Engineer - Fullstack",
-          "company": "Microsoft",
-          "posted_at": "2026-02-01T17:22:26.827Z"
-        },
-        {
-          "id": "9779323fe5392932",
-          "title": "Software Engineer",
-          "company": "Hertz",
-          "posted_at": "2026-02-01T17:32:00.615Z"
-        },
         {
           "id": "54a2fa3885cdc64a",
           "title": "Scout Search Quality Rater",
@@ -3281,6 +3288,18 @@
           "title": "AI Engineer 2",
           "company": "VCU Health",
           "posted_at": "2026-02-01T19:12:24.789Z"
+        },
+        {
+          "id": "40f38d2bb8285022",
+          "title": "Associate Programmer Analyst",
+          "company": "The Boeing Company",
+          "posted_at": "2026-02-01T19:32:38.183Z"
+        },
+        {
+          "id": "29668ec70becc8d7",
+          "title": "Systems Software Engineer - GPU",
+          "company": "NVIDIA",
+          "posted_at": "2026-02-01T19:32:48.810Z"
         }
       ]
     }
@@ -3791,172 +3810,242 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5068272008",
-        "title": "Engineering Manager, Cloud Inference Azure",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4947472008",
+        "title": "Manager of Associate Solutions Architecture, Applied AI ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.211Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4897424008",
-        "title": "Engineering Manager, Cloud Security",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4964610008",
+        "title": "Manager of Solutions Architecture, Applied AI (Industries)",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5071506008",
-        "title": "Engineering Manager, Detection and Response",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4973175008",
+        "title": "Manager of Solutions Architecture, Applied AI (Public Sector)",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4741102008",
-        "title": "Engineering Manager, Inference",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4880880008",
+        "title": "Manager, Startup Account Executive",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4741104008",
-        "title": "Engineering Manager, ML Acceleration",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4958721008",
+        "title": "Manager, Strategic Account Executive - Digital Native Sales",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4949199008",
-        "title": "Engineering Manager, Networking",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5043460008",
+        "title": "Partner Development Manager, Build Partners",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4889396008",
-        "title": "Engineering Manager, Product Platform & Accounts Platform",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4966206008",
+        "title": "Partner Marketing Lead, Cloud Partners",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4980436008",
-        "title": " [Expression of Interest] Research Manager, Interpretability",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5061729008",
+        "title": "Partner Marketing Lead, GSIs",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4934940008",
-        "title": "Field Marketing Manager, Industries",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4979661008",
+        "title": "Policy Communications Manager",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5026192008",
-        "title": "Field Marketing Manager, Startups",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5066951008",
+        "title": "Policy Manager, Chemical Weapons and High Yield Explosives",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5060653008",
-        "title": "Finance Systems, Finance & Strategy Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5074933008",
+        "title": "Policy Manager, Harmful Persuasion ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4991194008",
-        "title": "Finance Systems, Senior Business Systems Analyst",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5078114008",
+        "title": "Principal Threat Intelligence Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5064245008",
-        "title": "Finance Systems, Tax Technology Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4936029008",
+        "title": "Product Manager, API ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4831485008",
-        "title": "Finance Variable Compensation Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4985920008",
+        "title": "Product Manager, Claude Code",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5095927008",
-        "title": "Segment Marketing Manager, Commercial",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4858247008",
+        "title": "Product Manager, Claude Code (Enterprise)",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4781798008",
-        "title": "Founding Developer Relations Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5024981008",
+        "title": "Product Manager, Claude Code Growth",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4747937008",
-        "title": "Global Partner Lead, Deloitte",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5077197008",
+        "title": "Product Manager, Revenue Platform",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5018233008",
-        "title": "Global Partner Sales Manager, Systems Integrators",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5055669008",
+        "title": "Product Marketing Lead, Agents",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5043437008",
-        "title": "Global Technology Partner Lead",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4996752008",
+        "title": "Product Marketing Manager, Claude Code",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5081491008",
-        "title": "Internal Mobility Program Manager",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4971429008",
+        "title": "Product Operations Manager",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5054819008",
-        "title": "Manager, Account Executive - Enterprise Sales (Industries)",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5055264008",
+        "title": "Product Operations Manager, Claude Code",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.212Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4914907008",
-        "title": "Manager, Customer Success",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4992055008",
+        "title": "Product Operations Manager, Public Sector ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.213Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4976328008",
-        "title": "Manager, Growth Account Executive",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4992071008",
+        "title": "Product Operations Manager, Research Product ",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.213Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5041319008",
-        "title": "Manager, IT Support & Operations",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5067283008",
+        "title": "Product Policy Manager, Frontier Risk",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T19:11:53.876Z"
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5073388008",
+        "title": "Program Manager, Responsible Scaling Policy",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "jobs-lever-co-gohighlevel-f4e3f809-b276-43ee-a48a-b7448fe75a66",
+        "title": "Director - IT Compliance",
+        "company": "gohighlevel",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4946306008",
+        "title": "Research Operations & Strategy Lead, Coding & Cybersecurity Data",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4986738008",
+        "title": "Segment Marketing Manager, Startups",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5055794008",
+        "title": "Segment Marketing Manager, Strategic Accounts",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5024835008",
+        "title": "Senior Research Scientist, Reward Models",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5095630008",
+        "title": "Senior Software Engineer, Continuous Integration ",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4632118008",
+        "title": "Senior Software Engineer, Infrastructure ",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4981828008",
+        "title": "Senior+ Software Engineer, Research Tools",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5065894008",
+        "title": "Senior / Staff Software Engineer - Autonomous Agent Infrastructure",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T19:32:22.213Z"
       }
     ],
     "already_posted": [],
