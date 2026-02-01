@@ -11,19 +11,19 @@ const {
   formatLocation,
 } = require("./utils");
 
-// Filter jobs by age (2 weeks = 14 days)
+// Filter jobs by age (1 week = 7 days)
 function filterJobsByAge(allJobs) {
-  const twoWeeksAgo = new Date();
-  twoWeeksAgo.setDate(twoWeeksAgo.getDate() - 14);
+  const oneWeekAgo = new Date();
+  oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
 
   const currentJobs = allJobs.filter(job => {
     const jobDate = new Date(job.job_posted_at_datetime_utc);
-    return jobDate >= twoWeeksAgo;
+    return jobDate >= oneWeekAgo;
   });
 
   const archivedJobs = allJobs.filter(job => {
     const jobDate = new Date(job.job_posted_at_datetime_utc);
-    return jobDate < twoWeeksAgo;
+    return jobDate < oneWeekAgo;
   });
 
   return { currentJobs, archivedJobs };
