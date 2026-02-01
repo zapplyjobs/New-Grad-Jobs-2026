@@ -582,7 +582,7 @@ function cleanupPostedFromQueue(queue, postedStore) {
             return false;
         }
         if (postedStore.fingerprints.has(fingerprint)) {
-            console.log(`🔍 Fingerprint match: ${item.job.title} @ ${item.job.company} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
+            console.log(`🔍 Fingerprint match: ${item.job.job_title} @ ${item.job.employer_name} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
             return false;
         }
         return true;
@@ -902,7 +902,7 @@ async function processJobs() {
             else if (isInQueue) reason = 'pending_queue';
 
             if (isDuplicate && isPostedFingerprint) {
-                console.log(`🔍 Fingerprint blocked fresh job: ${job.title} @ ${job.company} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
+                console.log(`🔍 Fingerprint blocked fresh job: ${job.job_title} @ ${job.employer_name} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
             }
 
             dedupLogger.logCheck(job, jobId, isDuplicate, fingerprint, reason);
