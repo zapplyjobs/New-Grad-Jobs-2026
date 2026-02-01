@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-02-01T16:26:58.083Z
+**Timestamp:** 2026-02-01T16:36:18.316Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 10
@@ -8,440 +8,431 @@
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-02-01T16:26:03.027Z] ========================================
-[2026-02-01T16:26:03.029Z] Discord Bot Execution Log
-[2026-02-01T16:26:03.029Z] Environment: GitHub Actions
-[2026-02-01T16:26:03.029Z] Node Version: v20.20.0
-[2026-02-01T16:26:03.029Z] ========================================
-[2026-02-01T16:26:03.029Z] Environment Variables Check:
-[2026-02-01T16:26:03.029Z] DISCORD_TOKEN: ✅ Set
-[2026-02-01T16:26:03.029Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-02-01T16:26:03.030Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-02-01T16:26:03.030Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-02-01T16:26:03.030Z] 
+[2026-02-01T16:35:28.200Z] ========================================
+[2026-02-01T16:35:28.202Z] Discord Bot Execution Log
+[2026-02-01T16:35:28.202Z] Environment: GitHub Actions
+[2026-02-01T16:35:28.202Z] Node Version: v20.20.0
+[2026-02-01T16:35:28.202Z] ========================================
+[2026-02-01T16:35:28.202Z] Environment Variables Check:
+[2026-02-01T16:35:28.203Z] DISCORD_TOKEN: ✅ Set
+[2026-02-01T16:35:28.203Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-02-01T16:35:28.203Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-02-01T16:35:28.203Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-02-01T16:35:28.203Z] 
 Multi-Channel Configuration:
-[2026-02-01T16:26:03.030Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-02-01T16:26:03.030Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
-[2026-02-01T16:26:03.030Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
-[2026-02-01T16:26:03.030Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-02-01T16:26:03.030Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
-[2026-02-01T16:26:03.030Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
-[2026-02-01T16:26:03.030Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
-[2026-02-01T16:26:03.030Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
-[2026-02-01T16:26:03.030Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
-[2026-02-01T16:26:03.030Z] 
+[2026-02-01T16:35:28.203Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-02-01T16:35:28.203Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
+[2026-02-01T16:35:28.203Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
+[2026-02-01T16:35:28.203Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-02-01T16:35:28.203Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
+[2026-02-01T16:35:28.204Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
+[2026-02-01T16:35:28.204Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
+[2026-02-01T16:35:28.204Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
+[2026-02-01T16:35:28.204Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
+[2026-02-01T16:35:28.204Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-02-01T16:26:03.031Z] 
+[2026-02-01T16:35:28.204Z] 
 Data Files Check:
-[2026-02-01T16:26:03.031Z] .github/data/new_jobs.json: ✅ Exists (10 items, 59423 bytes)
-[2026-02-01T16:26:03.082Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 10163267 bytes)
-[2026-02-01T16:26:03.082Z] 
+[2026-02-01T16:35:28.205Z] .github/data/new_jobs.json: ✅ Exists (10 items, 59416 bytes)
+[2026-02-01T16:35:28.257Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 10176097 bytes)
+[2026-02-01T16:35:28.257Z] 
 ========================================
-[2026-02-01T16:26:03.082Z] Starting Enhanced Discord Bot...
-[2026-02-01T16:26:03.082Z] ========================================
-[2026-02-01T16:26:03.683Z] [BOT] ✅ Loaded V2 database: 2007 jobs
-[2026-02-01T16:26:04.393Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-02-01T16:26:04.393Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-02-01T16:35:28.257Z] Starting Enhanced Discord Bot...
+[2026-02-01T16:35:28.257Z] ========================================
+[2026-02-01T16:35:28.819Z] [BOT] ✅ Loaded V2 database: 2017 jobs
+[2026-02-01T16:35:29.501Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-02-01T16:35:29.502Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-02-01T16:26:04.394Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-02-01T16:26:04.531Z] [BOT] ✅ Loaded pending queue: 2947 total (900 pending, 50 enriched, 1997 posted)
-[2026-02-01T16:26:04.531Z] [BOT] [BOT] 📬 Found 50 enriched jobs ready to post from pending queue
+[2026-02-01T16:35:29.502Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-02-01T16:35:29.611Z] [BOT] ✅ Loaded pending queue: 2946 total (889 pending, 50 enriched, 2007 posted)
+[2026-02-01T16:35:29.612Z] [BOT] [BOT] 📬 Found 50 enriched jobs ready to post from pending queue
 [BOT] 🔍 Sample enriched job: Solutions Architect, Applied AI (National Security) at anthropic
-[2026-02-01T16:26:04.532Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "c8be1d6f7ea02d2a"
-[2026-02-01T16:26:04.533Z] [BOT] ⏭️  Skipping duplicate: JID_3676a5c1 (posted within 7 days)
-[2026-02-01T16:26:04.533Z] [BOT] ⏭️ Skipping already posted: Solutions Architect, Applied AI (National Security) at anthropic
-[2026-02-01T16:26:04.533Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_0c7f0d43..." not found, but found as SHA256 "b24e59b476e85eb5"
-[2026-02-01T16:26:04.533Z] [BOT] ⏭️  Skipping duplicate: JID_1791b707-activation_r50030922 (posted within 7 days)
+[2026-02-01T16:35:29.613Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "c8be1d6f7ea02d2a"
+[2026-02-01T16:35:29.613Z] [BOT] ⏭️  Skipping duplicate: JID_3676a5c1 (posted within 7 days)
+⏭️ Skipping already posted: Solutions Architect, Applied AI (National Security) at anthropic
+[2026-02-01T16:35:29.613Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_0c7f0d43..." not found, but found as SHA256 "b24e59b476e85eb5"
+[2026-02-01T16:35:29.614Z] [BOT] ⏭️  Skipping duplicate: JID_1791b707-activation_r50030922 (posted within 7 days)
 ⏭️ Skipping already posted: Analyst – Audience Activation at FOX
-[2026-02-01T16:26:04.534Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_f394cd34..." not found, but found as SHA256 "d6b0cc580d11b6e0"
-⏭️  Skipping duplicate: JID_ebf8aeb1 (posted within 7 days)
+[2026-02-01T16:35:29.614Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_f394cd34..." not found, but found as SHA256 "d6b0cc580d11b6e0"
+[2026-02-01T16:35:29.614Z] [BOT] ⏭️  Skipping duplicate: JID_ebf8aeb1 (posted within 7 days)
 ⏭️ Skipping already posted: Meteorologist 1 at AccuWeather
-[2026-02-01T16:26:04.534Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_e2bf8ab8-dkc_externa..." not found, but found as SHA256 "97c3624d13169416"
+[2026-02-01T16:35:29.615Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_e2bf8ab8-dkc_externa..." not found, but found as SHA256 "97c3624d13169416"
 ⏭️  Skipping duplicate: JID_e2bf8ab8-dkc_external-JID_22319e29-analytics_r0437932 (posted within 7 days)
 ⏭️ Skipping already posted: Analyst – People Analytics at DaVita
-[2026-02-01T16:26:04.534Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_3d7432ca..." not found, but found as SHA256 "06795d5f5f475ea5"
-[2026-02-01T16:26:04.535Z] [BOT] ⏭️  Skipping duplicate: JID_fd3aa3ff-asurioncareers_us-JID_aed1d49f-analyst_asu0018284 (posted within 7 days)
-⏭️ Skipping already posted: ROLE_c4681636 at Asurion
-[2026-02-01T16:26:04.535Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_98c6a169-erm_careers-jo..." not found, but found as SHA256 "cd5532b5c0e88185"
+[2026-02-01T16:35:29.615Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_3d7432ca..." not found, but found as SHA256 "06795d5f5f475ea5"
+⏭️  Skipping duplicate: JID_fd3aa3ff-asurioncareers_us-JID_aed1d49f-analyst_asu0018284 (posted within 7 days)
+[2026-02-01T16:35:29.615Z] [BOT] ⏭️ Skipping already posted: ROLE_c4681636 at Asurion
+[2026-02-01T16:35:29.615Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_98c6a169-erm_careers-jo..." not found, but found as SHA256 "cd5532b5c0e88185"
 ⏭️  Skipping duplicate: JID_98c6a169-erm_careers-JID_1b0e2d50-_r00027643-1 (posted within 7 days)
 ⏭️ Skipping already posted: Consulting Associate – Entry Level - EHS Management Information Systems at ERM
-[2026-02-01T16:26:04.535Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_832e1d5c-..." not found, but found as SHA256 "369c9eded44f059e"
+[2026-02-01T16:35:29.616Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_832e1d5c-..." not found, but found as SHA256 "369c9eded44f059e"
 ⏭️  Skipping duplicate: JID_09c7a369 (posted within 7 days)
-⏭️ Skipping already posted: Software Engineer – New Grad Friendly - IOS at NewsBreak
-[2026-02-01T16:26:04.535Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_6312b0b9-bah_jobs-job-c..." not found, but found as SHA256 "f5f2b2f3979950ef"
-[2026-02-01T16:26:04.536Z] [BOT] ⏭️  Skipping duplicate: JID_6312b0b9-bah_jobs-JID_f5bf3c35-developer_r0232566-1 (posted within 7 days)
-⏭️ Skipping already posted: ROLE_c2d85098 at Booz Allen
-[2026-02-01T16:26:04.551Z] [BOT] 📬 Found 42 new jobs (8 already posted)...
-[2026-02-01T16:26:04.551Z] [BOT] 🚫 Skipping blacklisted job: Graduate Leadership Program - AI & Software Engineering at PMG
-[2026-02-01T16:26:04.674Z] [BOT] ✅ Loaded pending queue: 2947 total (900 pending, 50 enriched, 1997 posted)
-[2026-02-01T16:26:04.881Z] [BOT] ✅ Saved pending queue: 2946 total (900 pending, 49 enriched, 1997 posted)
-🗑️ Removed 1 blacklisted jobs from pending queue
-[2026-02-01T16:26:04.882Z] [BOT] 📋 After blacklist filter: 41 jobs (1 blacklisted)
-📋 After data quality filter: 41 jobs (0 invalid)
-[2026-02-01T16:26:04.883Z] [BOT] 📋 After multi-location grouping: 38 unique jobs to post
-[2026-02-01T16:26:04.883Z] [BOT] (3 grouped as same job with different locations)
-📍 1 jobs with multiple locations:
-[2026-02-01T16:26:04.883Z] [BOT] - Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies: san francisco, flower mound, dallas, new york
+[2026-02-01T16:35:29.616Z] [BOT] ⏭️ Skipping already posted: Software Engineer – New Grad Friendly - IOS at NewsBreak
+[2026-02-01T16:35:29.616Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_6312b0b9-bah_jobs-job-c..." not found, but found as SHA256 "f5f2b2f3979950ef"
+⏭️  Skipping duplicate: JID_6312b0b9-bah_jobs-JID_f5bf3c35-developer_r0232566-1 (posted within 7 days)
+[2026-02-01T16:35:29.616Z] [BOT] ⏭️ Skipping already posted: ROLE_c2d85098 at Booz Allen
+[2026-02-01T16:35:29.630Z] [BOT] 📬 Found 42 new jobs (8 already posted)...
+[2026-02-01T16:35:29.631Z] [BOT] 📋 After blacklist filter: 42 jobs (0 blacklisted)
+[2026-02-01T16:35:29.631Z] [BOT] 📋 After data quality filter: 42 jobs (0 invalid)
+[2026-02-01T16:35:29.632Z] [BOT] 📋 After multi-location grouping: 37 unique jobs to post
+[2026-02-01T16:35:29.632Z] [BOT] (5 grouped as same job with different locations)
+📍 3 jobs with multiple locations:
+[2026-02-01T16:35:29.632Z] [BOT] - Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies: flower mound, dallas, new york
+   - Junior Software Engineer @ mthree: salt lake, united states
+   - Graduate Machine Learning Engineer - E-Commerce Governance - PhD @ ByteDance: seattle, san jose
 ⏸️ Limiting to 10 jobs this run, 32 deferred for next run
 📤 Posting 10 jobs...
-🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-02-01T16:26:04.885Z] [BOT] 📌 Posting 3 jobs to #💻・tech-jobs
-[2026-02-01T16:26:04.886Z] [BOT] 📍 [ROUTING] "Hiring Entry Level Software Engineer" @ ORG_9af9eef3 Technologies
-[2026-02-01T16:26:04.886Z] [BOT] Category: TECH (matched: "software")
+[2026-02-01T16:35:29.632Z] [BOT] 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
+[2026-02-01T16:35:29.634Z] [BOT] 📌 Posting 9 jobs to #💻・tech-jobs
+[2026-02-01T16:35:29.635Z] [BOT] 📍 [ROUTING] "Hiring Entry Level Software Engineer" @ ORG_9af9eef3 Technologies
+[2026-02-01T16:35:29.635Z] [BOT] Category: TECH (matched: "software")
    Channel: 💻・tech-jobs (1462...4987)
-[2026-02-01T16:26:04.904Z] [BOT ERROR] (node:2638) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-02-01T16:35:29.653Z] [BOT ERROR] (node:2648) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-02-01T16:26:05.316Z] [BOT] ✅ Posted message: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies in #💻・tech-jobs
-[2026-02-01T16:26:05.317Z] [BOT] ✅ Industry: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies
-[2026-02-01T16:26:05.318Z] [BOT] 💾 Added channel posting: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies → category channel (1 total channels)
-[2026-02-01T16:26:05.318Z] [BOT] 💾 BEFORE MERGE: 2008 jobs in memory (cached)
-[2026-02-01T16:26:05.360Z] [BOT] ✅ Loaded V2 database: 2007 jobs
-💾 DISK STATE: 2007 jobs on disk
-[2026-02-01T16:26:05.360Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2008
-[2026-02-01T16:26:05.365Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:05.365Z] [BOT] 💾 AFTER MERGE: 2008 jobs (merged disk + memory)
-[2026-02-01T16:26:05.366Z] [BOT] ✅ No jobs to archive (all 2008 jobs within 7-day window)
-[2026-02-01T16:26:05.472Z] [BOT] 💾 Saved posted_jobs.json: 2008 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:07.165Z] [BOT] ✅ Posted message: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies in #🌉・JID_739bbc0b
-[2026-02-01T16:26:07.165Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
-[2026-02-01T16:26:07.166Z] [BOT] 💾 Added channel posting: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies → location channel (2 total channels)
-[2026-02-01T16:26:07.166Z] [BOT] 💾 BEFORE MERGE: 2008 jobs in memory (cached)
-[2026-02-01T16:26:07.201Z] [BOT] ✅ Loaded V2 database: 2008 jobs
-[2026-02-01T16:26:07.201Z] [BOT] 💾 DISK STATE: 2008 jobs on disk
-[2026-02-01T16:26:07.202Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2008
-[2026-02-01T16:26:07.206Z] [BOT] 🔀 Deep merged: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies (disk: 1 channels → merged: 2 channels)
-💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-[2026-02-01T16:26:07.206Z] [BOT] 💾 AFTER MERGE: 2008 jobs (merged disk + memory)
-[2026-02-01T16:26:07.207Z] [BOT] ✅ No jobs to archive (all 2008 jobs within 7-day window)
-[2026-02-01T16:26:07.311Z] [BOT] 💾 Saved posted_jobs.json: 2008 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:08.813Z] [BOT] 📍 [ROUTING] "Software Developer" @ ORG_6ab523c5 Rings
-   Category: TECH (matched: "software")
-[2026-02-01T16:26:08.813Z] [BOT] Channel: 💻・tech-jobs (1462...4987)
-[2026-02-01T16:26:08.980Z] [BOT] ✅ Posted message: Software Developer @ ORG_6ab523c5 Rings in #💻・tech-jobs
-[2026-02-01T16:26:08.980Z] [BOT] ✅ Industry: Software Developer @ ORG_6ab523c5 Rings
-[2026-02-01T16:26:08.981Z] [BOT] 💾 Added channel posting: Software Developer @ ORG_6ab523c5 Rings → category channel (1 total channels)
-[2026-02-01T16:26:08.981Z] [BOT] 💾 BEFORE MERGE: 2009 jobs in memory (cached)
-[2026-02-01T16:26:09.017Z] [BOT] ✅ Loaded V2 database: 2008 jobs
-💾 DISK STATE: 2008 jobs on disk
-[2026-02-01T16:26:09.017Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2009
-[2026-02-01T16:26:09.021Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:09.021Z] [BOT] 💾 AFTER MERGE: 2009 jobs (merged disk + memory)
-[2026-02-01T16:26:09.022Z] [BOT] ✅ No jobs to archive (all 2009 jobs within 7-day window)
-[2026-02-01T16:26:09.126Z] [BOT] 💾 Saved posted_jobs.json: 2009 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:10.837Z] [BOT] ✅ Posted message: Software Developer @ ORG_6ab523c5 Rings in #🗽・JID_98d4f0de
-  ✅ Location: 🗽・JID_98d4f0de
-[2026-02-01T16:26:10.838Z] [BOT] 💾 Added channel posting: Software Developer @ ORG_6ab523c5 Rings → location channel (2 total channels)
-[2026-02-01T16:26:10.838Z] [BOT] 💾 BEFORE MERGE: 2009 jobs in memory (cached)
-[2026-02-01T16:26:10.873Z] [BOT] ✅ Loaded V2 database: 2009 jobs
-💾 DISK STATE: 2009 jobs on disk
-[2026-02-01T16:26:10.873Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2009
-[2026-02-01T16:26:10.877Z] [BOT] 🔀 Deep merged: Software Developer @ ORG_6ab523c5 Rings (disk: 1 channels → merged: 2 channels)
-[2026-02-01T16:26:10.877Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-💾 AFTER MERGE: 2009 jobs (merged disk + memory)
-[2026-02-01T16:26:10.878Z] [BOT] ✅ No jobs to archive (all 2009 jobs within 7-day window)
-[2026-02-01T16:26:10.984Z] [BOT] 💾 Saved posted_jobs.json: 2009 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:12.485Z] [BOT] 📍 [ROUTING] "Software Engineer - New Grad" @ ORG_eb0050f7
-   Category: TECH (matched: "software")
-[2026-02-01T16:26:12.486Z] [BOT] Channel: 💻・tech-jobs (1462...4987)
-[2026-02-01T16:26:12.715Z] [BOT] ✅ Posted message: Software Engineer - New Grad @ ORG_eb0050f7 in #💻・tech-jobs
-  ✅ Industry: Software Engineer - New Grad @ ORG_eb0050f7
-[2026-02-01T16:26:12.716Z] [BOT] 💾 Added channel posting: Software Engineer - New Grad @ ORG_eb0050f7 → category channel (1 total channels)
-[2026-02-01T16:26:12.716Z] [BOT] 💾 BEFORE MERGE: 2010 jobs in memory (cached)
-[2026-02-01T16:26:12.757Z] [BOT] ✅ Loaded V2 database: 2009 jobs
-💾 DISK STATE: 2009 jobs on disk
-[2026-02-01T16:26:12.757Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2010
-[2026-02-01T16:26:12.761Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:12.761Z] [BOT] 💾 AFTER MERGE: 2010 jobs (merged disk + memory)
-[2026-02-01T16:26:12.763Z] [BOT] ✅ No jobs to archive (all 2010 jobs within 7-day window)
-[2026-02-01T16:26:12.878Z] [BOT] 💾 Saved posted_jobs.json: 2010 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:14.711Z] [BOT] ✅ Posted message: Software Engineer - New Grad @ ORG_eb0050f7 in #📍・JID_6daed763
-  ✅ Location: 📍・JID_6daed763
-[2026-02-01T16:26:14.712Z] [BOT] 💾 Added channel posting: Software Engineer - New Grad @ ORG_eb0050f7 → location channel (2 total channels)
-[2026-02-01T16:26:14.712Z] [BOT] 💾 BEFORE MERGE: 2010 jobs in memory (cached)
-[2026-02-01T16:26:14.746Z] [BOT] ✅ Loaded V2 database: 2010 jobs
-💾 DISK STATE: 2010 jobs on disk
-[2026-02-01T16:26:14.746Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2010
-[2026-02-01T16:26:14.749Z] [BOT] 🔀 Deep merged: Software Engineer - New Grad @ ORG_eb0050f7 (disk: 1 channels → merged: 2 channels)
-💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-[2026-02-01T16:26:14.749Z] [BOT] 💾 AFTER MERGE: 2010 jobs (merged disk + memory)
-[2026-02-01T16:26:14.751Z] [BOT] ✅ No jobs to archive (all 2010 jobs within 7-day window)
-[2026-02-01T16:26:14.862Z] [BOT] 💾 Saved posted_jobs.json: 2010 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:19.359Z] [BOT] 📌 Posting 5 jobs to #🤖・ai-jobs
-[2026-02-01T16:26:19.361Z] [BOT] 📍 [ROUTING] "General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD" @ ORG_1bb6fcfb
-   Category: AI (matched: "machine learning")
-   Channel: 🤖・ai-jobs (1462...9217)
-[2026-02-01T16:26:19.361Z] [BOT] ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-02-01T16:26:19.626Z] [BOT] ✅ Posted message: General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD @ ORG_1bb6fcfb in #🤖・ai-jobs
-  ✅ Industry: General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD @ ORG_1bb6fcfb
-[2026-02-01T16:26:19.627Z] [BOT] 💾 Added channel posting: General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD @ ORG_1bb6fcfb → category channel (1 total channels)
-[2026-02-01T16:26:19.627Z] [BOT] 💾 BEFORE MERGE: 2011 jobs in memory (cached)
-[2026-02-01T16:26:19.661Z] [BOT] ✅ Loaded V2 database: 2010 jobs
-💾 DISK STATE: 2010 jobs on disk
-[2026-02-01T16:26:19.661Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2011
-[2026-02-01T16:26:19.665Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:19.665Z] [BOT] 💾 AFTER MERGE: 2011 jobs (merged disk + memory)
-[2026-02-01T16:26:19.666Z] [BOT] ✅ No jobs to archive (all 2011 jobs within 7-day window)
-[2026-02-01T16:26:19.759Z] [BOT] 💾 Saved posted_jobs.json: 2011 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:21.776Z] [BOT] ✅ Posted message: General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD @ ORG_1bb6fcfb in #🌉・JID_739bbc0b
-  ✅ Location: 🌉・JID_739bbc0b
-[2026-02-01T16:26:21.777Z] [BOT] 💾 Added channel posting: General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD @ ORG_1bb6fcfb → location channel (2 total channels)
-[2026-02-01T16:26:21.777Z] [BOT] 💾 BEFORE MERGE: 2011 jobs in memory (cached)
-[2026-02-01T16:26:21.828Z] [BOT] ✅ Loaded V2 database: 2011 jobs
-💾 DISK STATE: 2011 jobs on disk
-💾 DEBUG: Iterating cached memory jobs - length=2011
-[2026-02-01T16:26:21.831Z] [BOT] 🔀 Deep merged: General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
-[2026-02-01T16:26:21.831Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-💾 AFTER MERGE: 2011 jobs (merged disk + memory)
-[2026-02-01T16:26:21.832Z] [BOT] ✅ No jobs to archive (all 2011 jobs within 7-day window)
-[2026-02-01T16:26:21.925Z] [BOT] 💾 Saved posted_jobs.json: 2011 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:23.428Z] [BOT] 📍 [ROUTING] "Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS" @ ORG_1bb6fcfb
-   Category: AI (matched: "machine learning")
-[2026-02-01T16:26:23.428Z] [BOT] Channel: 🤖・ai-jobs (1462...9217)
-   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-02-01T16:26:23.680Z] [BOT] ✅ Posted message: Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS @ ORG_1bb6fcfb in #🤖・ai-jobs
-  ✅ Industry: Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS @ ORG_1bb6fcfb
-[2026-02-01T16:26:23.681Z] [BOT] 💾 Added channel posting: Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS @ ORG_1bb6fcfb → category channel (1 total channels)
-[2026-02-01T16:26:23.681Z] [BOT] 💾 BEFORE MERGE: 2012 jobs in memory (cached)
-[2026-02-01T16:26:23.716Z] [BOT] ✅ Loaded V2 database: 2011 jobs
-💾 DISK STATE: 2011 jobs on disk
-[2026-02-01T16:26:23.716Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2012
-[2026-02-01T16:26:23.719Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:23.719Z] [BOT] 💾 AFTER MERGE: 2012 jobs (merged disk + memory)
-[2026-02-01T16:26:23.720Z] [BOT] ✅ No jobs to archive (all 2012 jobs within 7-day window)
-[2026-02-01T16:26:23.831Z] [BOT] 💾 Saved posted_jobs.json: 2012 active jobs
-[2026-02-01T16:26:23.831Z] [BOT] ✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:25.547Z] [BOT] ✅ Posted message: Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS @ ORG_1bb6fcfb in #🌉・JID_739bbc0b
-[2026-02-01T16:26:25.548Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
-[2026-02-01T16:26:25.548Z] [BOT] 💾 Added channel posting: Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS @ ORG_1bb6fcfb → location channel (2 total channels)
-[2026-02-01T16:26:25.548Z] [BOT] 💾 BEFORE MERGE: 2012 jobs in memory (cached)
-[2026-02-01T16:26:25.582Z] [BOT] ✅ Loaded V2 database: 2012 jobs
-💾 DISK STATE: 2012 jobs on disk
-[2026-02-01T16:26:25.582Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2012
-[2026-02-01T16:26:25.586Z] [BOT] 🔀 Deep merged: Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
-💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-[2026-02-01T16:26:25.586Z] [BOT] 💾 AFTER MERGE: 2012 jobs (merged disk + memory)
-[2026-02-01T16:26:25.587Z] [BOT] ✅ No jobs to archive (all 2012 jobs within 7-day window)
-[2026-02-01T16:26:25.685Z] [BOT] 💾 Saved posted_jobs.json: 2012 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:27.187Z] [BOT] 📍 [ROUTING] "Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety" @ ORG_1bb6fcfb
-   Category: AI (matched: "machine learning")
-   Channel: 🤖・ai-jobs (1462...9217)
-[2026-02-01T16:26:27.187Z] [BOT] ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-02-01T16:26:27.382Z] [BOT] ✅ Posted message: Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety @ ORG_1bb6fcfb in #🤖・ai-jobs
-  ✅ Industry: Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety @ ORG_1bb6fcfb
-[2026-02-01T16:26:27.383Z] [BOT] 💾 Added channel posting: Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety @ ORG_1bb6fcfb → category channel (1 total channels)
-[2026-02-01T16:26:27.383Z] [BOT] 💾 BEFORE MERGE: 2013 jobs in memory (cached)
-[2026-02-01T16:26:27.418Z] [BOT] ✅ Loaded V2 database: 2012 jobs
-💾 DISK STATE: 2012 jobs on disk
-[2026-02-01T16:26:27.418Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2013
-[2026-02-01T16:26:27.421Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:27.421Z] [BOT] 💾 AFTER MERGE: 2013 jobs (merged disk + memory)
-[2026-02-01T16:26:27.422Z] [BOT] ✅ No jobs to archive (all 2013 jobs within 7-day window)
-[2026-02-01T16:26:27.526Z] [BOT] 💾 Saved posted_jobs.json: 2013 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:29.469Z] [BOT] ✅ Posted message: Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety @ ORG_1bb6fcfb in #🌲・JID_efdf5921
-[2026-02-01T16:26:29.469Z] [BOT] ✅ Location: 🌲・JID_efdf5921
-[2026-02-01T16:26:29.469Z] [BOT] 💾 Added channel posting: Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety @ ORG_1bb6fcfb → location channel (2 total channels)
-[2026-02-01T16:26:29.469Z] [BOT] 💾 BEFORE MERGE: 2013 jobs in memory (cached)
-[2026-02-01T16:26:29.505Z] [BOT] ✅ Loaded V2 database: 2013 jobs
-💾 DISK STATE: 2013 jobs on disk
-[2026-02-01T16:26:29.505Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2013
-[2026-02-01T16:26:29.509Z] [BOT] 🔀 Deep merged: Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
-💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-[2026-02-01T16:26:29.509Z] [BOT] 💾 AFTER MERGE: 2013 jobs (merged disk + memory)
-[2026-02-01T16:26:29.510Z] [BOT] ✅ No jobs to archive (all 2013 jobs within 7-day window)
-[2026-02-01T16:26:29.615Z] [BOT] 💾 Saved posted_jobs.json: 2013 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:31.118Z] [BOT] 📍 [ROUTING] "Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM" @ ORG_1bb6fcfb
-   Category: AI (matched: "machine learning")
-   Channel: 🤖・ai-jobs (1462...9217)
-[2026-02-01T16:26:31.118Z] [BOT] ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-02-01T16:26:31.401Z] [BOT] ✅ Posted message: Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM @ ORG_1bb6fcfb in #🤖・ai-jobs
-  ✅ Industry: Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM @ ORG_1bb6fcfb
-[2026-02-01T16:26:31.402Z] [BOT] 💾 Added channel posting: Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM @ ORG_1bb6fcfb → category channel (1 total channels)
-[2026-02-01T16:26:31.402Z] [BOT] 💾 BEFORE MERGE: 2014 jobs in memory (cached)
-[2026-02-01T16:26:31.437Z] [BOT] ✅ Loaded V2 database: 2013 jobs
-💾 DISK STATE: 2013 jobs on disk
-[2026-02-01T16:26:31.437Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2014
-[2026-02-01T16:26:31.441Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:31.441Z] [BOT] 💾 AFTER MERGE: 2014 jobs (merged disk + memory)
-[2026-02-01T16:26:31.442Z] [BOT] ✅ No jobs to archive (all 2014 jobs within 7-day window)
-[2026-02-01T16:26:31.546Z] [BOT] 💾 Saved posted_jobs.json: 2014 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:35.120Z] [BOT] ✅ Posted message: Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM @ ORG_1bb6fcfb in #🌉・JID_739bbc0b
-  ✅ Location: 🌉・JID_739bbc0b
-[2026-02-01T16:26:35.121Z] [BOT] 💾 Added channel posting: Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM @ ORG_1bb6fcfb → location channel (2 total channels)
-[2026-02-01T16:26:35.121Z] [BOT] 💾 BEFORE MERGE: 2014 jobs in memory (cached)
-[2026-02-01T16:26:35.156Z] [BOT] ✅ Loaded V2 database: 2014 jobs
-💾 DISK STATE: 2014 jobs on disk
-[2026-02-01T16:26:35.156Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2014
-[2026-02-01T16:26:35.160Z] [BOT] 🔀 Deep merged: Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
-[2026-02-01T16:26:35.160Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-💾 AFTER MERGE: 2014 jobs (merged disk + memory)
-[2026-02-01T16:26:35.161Z] [BOT] ✅ No jobs to archive (all 2014 jobs within 7-day window)
-[2026-02-01T16:26:35.268Z] [BOT] 💾 Saved posted_jobs.json: 2014 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:36.769Z] [BOT] 📍 [ROUTING] "Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US" @ ORG_08c9a13c
-   Category: AI (matched: "machine learning")
-[2026-02-01T16:26:36.769Z] [BOT] Channel: 🤖・ai-jobs (1462...9217)
-   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-02-01T16:26:36.966Z] [BOT] ✅ Posted message: Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US @ ORG_08c9a13c in #🤖・ai-jobs
-  ✅ Industry: Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US @ ORG_08c9a13c
-[2026-02-01T16:26:36.967Z] [BOT] 💾 Added channel posting: Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US @ ORG_08c9a13c → category channel (1 total channels)
-[2026-02-01T16:26:36.967Z] [BOT] 💾 BEFORE MERGE: 2015 jobs in memory (cached)
-[2026-02-01T16:26:37.003Z] [BOT] ✅ Loaded V2 database: 2014 jobs
-💾 DISK STATE: 2014 jobs on disk
-[2026-02-01T16:26:37.003Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2015
-[2026-02-01T16:26:37.007Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:37.007Z] [BOT] 💾 AFTER MERGE: 2015 jobs (merged disk + memory)
-[2026-02-01T16:26:37.008Z] [BOT] ✅ No jobs to archive (all 2015 jobs within 7-day window)
-[2026-02-01T16:26:37.114Z] [BOT] 💾 Saved posted_jobs.json: 2015 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:38.839Z] [BOT] ✅ Posted message: Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US @ ORG_08c9a13c in #🌲・JID_efdf5921
-  ✅ Location: 🌲・JID_efdf5921
-[2026-02-01T16:26:38.839Z] [BOT] 💾 Added channel posting: Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US @ ORG_08c9a13c → location channel (2 total channels)
-[2026-02-01T16:26:38.839Z] [BOT] 💾 BEFORE MERGE: 2015 jobs in memory (cached)
-[2026-02-01T16:26:38.873Z] [BOT] ✅ Loaded V2 database: 2015 jobs
-💾 DISK STATE: 2015 jobs on disk
-[2026-02-01T16:26:38.874Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2015
-[2026-02-01T16:26:38.877Z] [BOT] 🔀 Deep merged: Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US @ ORG_08c9a13c (disk: 1 channels → merged: 2 channels)
-💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-[2026-02-01T16:26:38.877Z] [BOT] 💾 AFTER MERGE: 2015 jobs (merged disk + memory)
-[2026-02-01T16:26:38.879Z] [BOT] ✅ No jobs to archive (all 2015 jobs within 7-day window)
-[2026-02-01T16:26:38.969Z] [BOT] 💾 Saved posted_jobs.json: 2015 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:43.470Z] [BOT] 📌 Posting 2 jobs to #📊・JID_fb739488
-[2026-02-01T16:26:43.471Z] [BOT] 📍 [ROUTING] "Data Science Graduate - Advertisement Team - BS/MS" @ ORG_1bb6fcfb
-   Category: DATA-SCIENCE (matched: "data science")
-[2026-02-01T16:26:43.471Z] [BOT] Channel: 📊・JID_fb739488 (1462...4531)
-   ⚠️  Multiple matches: dsMatch, techMatch (using data-science)
-[2026-02-01T16:26:43.732Z] [BOT] ✅ Posted message: Data Science Graduate - Advertisement Team - BS/MS @ ORG_1bb6fcfb in #📊・JID_fb739488
-[2026-02-01T16:26:43.733Z] [BOT] ✅ Industry: Data Science Graduate - Advertisement Team - BS/MS @ ORG_1bb6fcfb
-[2026-02-01T16:26:43.733Z] [BOT] 💾 Added channel posting: Data Science Graduate - Advertisement Team - BS/MS @ ORG_1bb6fcfb → category channel (1 total channels)
-[2026-02-01T16:26:43.733Z] [BOT] 💾 BEFORE MERGE: 2016 jobs in memory (cached)
-[2026-02-01T16:26:43.767Z] [BOT] ✅ Loaded V2 database: 2015 jobs
-💾 DISK STATE: 2015 jobs on disk
-[2026-02-01T16:26:43.767Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2016
-[2026-02-01T16:26:43.770Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:43.770Z] [BOT] 💾 AFTER MERGE: 2016 jobs (merged disk + memory)
-[2026-02-01T16:26:43.771Z] [BOT] ✅ No jobs to archive (all 2016 jobs within 7-day window)
-[2026-02-01T16:26:43.866Z] [BOT] 💾 Saved posted_jobs.json: 2016 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:45.602Z] [BOT] ✅ Posted message: Data Science Graduate - Advertisement Team - BS/MS @ ORG_1bb6fcfb in #🌉・JID_739bbc0b
-  ✅ Location: 🌉・JID_739bbc0b
-[2026-02-01T16:26:45.603Z] [BOT] 💾 Added channel posting: Data Science Graduate - Advertisement Team - BS/MS @ ORG_1bb6fcfb → location channel (2 total channels)
-[2026-02-01T16:26:45.603Z] [BOT] 💾 BEFORE MERGE: 2016 jobs in memory (cached)
-[2026-02-01T16:26:45.637Z] [BOT] ✅ Loaded V2 database: 2016 jobs
-💾 DISK STATE: 2016 jobs on disk
-[2026-02-01T16:26:45.637Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2016
-[2026-02-01T16:26:45.641Z] [BOT] 🔀 Deep merged: Data Science Graduate - Advertisement Team - BS/MS @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
-[2026-02-01T16:26:45.641Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-💾 AFTER MERGE: 2016 jobs (merged disk + memory)
-[2026-02-01T16:26:45.642Z] [BOT] ✅ No jobs to archive (all 2016 jobs within 7-day window)
-[2026-02-01T16:26:45.744Z] [BOT] 💾 Saved posted_jobs.json: 2016 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:47.243Z] [BOT] 📍 [ROUTING] "Data Engineer Graduate - E-commerce - 2026 Start" @ ORG_1bb6fcfb
-[2026-02-01T16:26:47.243Z] [BOT] Category: DATA-SCIENCE (matched: "data engineering")
-   Channel: 📊・JID_fb739488 (1462...4531)
-   ⚠️  Multiple matches: dsMatch, techMatch (using data-science)
-[2026-02-01T16:26:47.505Z] [BOT] ✅ Posted message: Data Engineer Graduate - E-commerce - 2026 Start @ ORG_1bb6fcfb in #📊・JID_fb739488
-[2026-02-01T16:26:47.505Z] [BOT] ✅ Industry: Data Engineer Graduate - E-commerce - 2026 Start @ ORG_1bb6fcfb
-[2026-02-01T16:26:47.506Z] [BOT] 💾 Added channel posting: Data Engineer Graduate - E-commerce - 2026 Start @ ORG_1bb6fcfb → category channel (1 total channels)
-[2026-02-01T16:26:47.506Z] [BOT] 💾 BEFORE MERGE: 2017 jobs in memory (cached)
-[2026-02-01T16:26:47.541Z] [BOT] ✅ Loaded V2 database: 2016 jobs
-💾 DISK STATE: 2016 jobs on disk
-[2026-02-01T16:26:47.542Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2017
-[2026-02-01T16:26:47.545Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:47.545Z] [BOT] 💾 AFTER MERGE: 2017 jobs (merged disk + memory)
-[2026-02-01T16:26:47.547Z] [BOT] ✅ No jobs to archive (all 2017 jobs within 7-day window)
-[2026-02-01T16:26:47.642Z] [BOT] 💾 Saved posted_jobs.json: 2017 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:49.365Z] [BOT] ✅ Posted message: Data Engineer Graduate - E-commerce - 2026 Start @ ORG_1bb6fcfb in #🌲・JID_efdf5921
-  ✅ Location: 🌲・JID_efdf5921
-[2026-02-01T16:26:49.366Z] [BOT] 💾 Added channel posting: Data Engineer Graduate - E-commerce - 2026 Start @ ORG_1bb6fcfb → location channel (2 total channels)
-[2026-02-01T16:26:49.366Z] [BOT] 💾 BEFORE MERGE: 2017 jobs in memory (cached)
-[2026-02-01T16:26:49.401Z] [BOT] ✅ Loaded V2 database: 2017 jobs
+[2026-02-01T16:35:30.447Z] [BOT] ✅ Posted message: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies in #💻・tech-jobs
+[2026-02-01T16:35:30.447Z] [BOT] ✅ Industry: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies
+[2026-02-01T16:35:30.448Z] [BOT] 💾 Added channel posting: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies → category channel (1 total channels)
+[2026-02-01T16:35:30.449Z] [BOT] 💾 BEFORE MERGE: 2018 jobs in memory (cached)
+[2026-02-01T16:35:30.490Z] [BOT] ✅ Loaded V2 database: 2017 jobs
 💾 DISK STATE: 2017 jobs on disk
-[2026-02-01T16:26:49.401Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2017
-[2026-02-01T16:26:49.404Z] [BOT] 🔀 Deep merged: Data Engineer Graduate - E-commerce - 2026 Start @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
-💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-[2026-02-01T16:26:49.404Z] [BOT] 💾 AFTER MERGE: 2017 jobs (merged disk + memory)
-[2026-02-01T16:26:49.405Z] [BOT] ✅ No jobs to archive (all 2017 jobs within 7-day window)
-[2026-02-01T16:26:49.508Z] [BOT] 💾 Saved posted_jobs.json: 2017 active jobs
+[2026-02-01T16:35:30.490Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2018
+[2026-02-01T16:35:30.495Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:30.495Z] [BOT] 💾 AFTER MERGE: 2018 jobs (merged disk + memory)
+[2026-02-01T16:35:30.497Z] [BOT] ✅ No jobs to archive (all 2018 jobs within 7-day window)
+[2026-02-01T16:35:30.625Z] [BOT] 💾 Saved posted_jobs.json: 2018 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:54.011Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
-[2026-02-01T16:26:54.013Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_0ae9a3d4..." not found, but found as SHA256 "38e6689caace0707"
-[2026-02-01T16:26:54.013Z] [BOT] ⏭️  Skipping duplicate: JID_5c12bd95 (posted within 7 days)
-[2026-02-01T16:26:54.013Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_14a9c95a..." not found, but found as SHA256 "d0898f3c9886c268"
-[2026-02-01T16:26:54.013Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_4edc014c (posted within 7 days)
-[2026-02-01T16:26:54.013Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_02bef08f..." not found, but found as SHA256 "ea38a29e83173363"
-[2026-02-01T16:26:54.013Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_05d72209 (posted within 7 days)
-[2026-02-01T16:26:54.014Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_2671be32..." not found, but found as SHA256 "21c9fcd74f60cd29"
-⏭️  Skipping duplicate: JID_6796d1d6-CH_3e50c48f (posted within 7 days)
-[2026-02-01T16:26:54.014Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_0f7298b1..." not found, but found as SHA256 "f5a8b63e203a7d0b"
-[2026-02-01T16:26:54.014Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_c5f835f9 (posted within 7 days)
-[2026-02-01T16:26:54.014Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_f51c9228..." not found, but found as SHA256 "50d8a1c847dd6fdf"
-⏭️  Skipping duplicate: JID_6796d1d6-CH_a0cb7d9e (posted within 7 days)
-[2026-02-01T16:26:54.015Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_878b89f2..." not found, but found as SHA256 "43a2ebbb6f9ad95f"
-[2026-02-01T16:26:54.015Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_a77f3e49 (posted within 7 days)
-[2026-02-01T16:26:54.015Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_a4350fc2..." not found, but found as SHA256 "f541fef2035a10bd"
-⏭️  Skipping duplicate: JID_95ce1ea3-CH_eae81305-detail (posted within 7 days)
-[2026-02-01T16:26:54.015Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_829ebc53..." not found, but found as SHA256 "15b72d6131883762"
-[2026-02-01T16:26:54.015Z] [BOT] ⏭️  Skipping duplicate: JID_586e44dd (posted within 7 days)
-[2026-02-01T16:26:54.016Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_77a74504..." not found, but found as SHA256 "aa8606d4e7dc18ad"
-[2026-02-01T16:26:54.016Z] [BOT] ⏭️  Skipping duplicate: JID_dac17d8d (posted within 7 days)
-[2026-02-01T16:26:54.112Z] [BOT] ✅ Loaded pending queue: 2946 total (900 pending, 49 enriched, 1997 posted)
-[2026-02-01T16:26:54.316Z] [BOT] ✅ Saved pending queue: 2946 total (900 pending, 39 enriched, 2007 posted)
-[2026-02-01T16:26:54.317Z] [BOT] 📋 Updated queue: marked 10 jobs as posted
+[2026-02-01T16:35:32.362Z] [BOT] ✅ Posted message: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies in #📍・JID_6daed763
+  ✅ Location: 📍・JID_6daed763
+[2026-02-01T16:35:32.362Z] [BOT] 💾 Added channel posting: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies → location channel (2 total channels)
+[2026-02-01T16:35:32.362Z] [BOT] 💾 BEFORE MERGE: 2018 jobs in memory (cached)
+[2026-02-01T16:35:32.399Z] [BOT] ✅ Loaded V2 database: 2018 jobs
+[2026-02-01T16:35:32.399Z] [BOT] 💾 DISK STATE: 2018 jobs on disk
+[2026-02-01T16:35:32.400Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2018
+[2026-02-01T16:35:32.404Z] [BOT] 🔀 Deep merged: Hiring Entry Level Software Engineer @ ORG_9af9eef3 Technologies (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:32.404Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2018 jobs (merged disk + memory)
+[2026-02-01T16:35:32.405Z] [BOT] ✅ No jobs to archive (all 2018 jobs within 7-day window)
+[2026-02-01T16:35:32.511Z] [BOT] 💾 Saved posted_jobs.json: 2018 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:34.014Z] [BOT] 📍 [ROUTING] "AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd" @ ORG_08c9a13c
+[2026-02-01T16:35:34.015Z] [BOT] Category: TECH (matched: "machine learning")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:35:34.222Z] [BOT] ✅ Posted message: AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd @ ORG_08c9a13c in #💻・tech-jobs
+[2026-02-01T16:35:34.222Z] [BOT] ✅ Industry: AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd @ ORG_08c9a13c
+[2026-02-01T16:35:34.223Z] [BOT] 💾 Added channel posting: AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd @ ORG_08c9a13c → category channel (1 total channels)
+[2026-02-01T16:35:34.223Z] [BOT] 💾 BEFORE MERGE: 2019 jobs in memory (cached)
+[2026-02-01T16:35:34.256Z] [BOT] ✅ Loaded V2 database: 2018 jobs
+💾 DISK STATE: 2018 jobs on disk
+[2026-02-01T16:35:34.256Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2019
+[2026-02-01T16:35:34.261Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:34.261Z] [BOT] 💾 AFTER MERGE: 2019 jobs (merged disk + memory)
+[2026-02-01T16:35:34.262Z] [BOT] ✅ No jobs to archive (all 2019 jobs within 7-day window)
+[2026-02-01T16:35:34.360Z] [BOT] 💾 Saved posted_jobs.json: 2019 active jobs
+[2026-02-01T16:35:34.363Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:36.039Z] [BOT] ✅ Posted message: AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd @ ORG_08c9a13c in #🌉・JID_739bbc0b
+[2026-02-01T16:35:36.040Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
+[2026-02-01T16:35:36.040Z] [BOT] 💾 Added channel posting: AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd @ ORG_08c9a13c → location channel (2 total channels)
+💾 BEFORE MERGE: 2019 jobs in memory (cached)
+[2026-02-01T16:35:36.075Z] [BOT] ✅ Loaded V2 database: 2019 jobs
+💾 DISK STATE: 2019 jobs on disk
+[2026-02-01T16:35:36.075Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2019
+[2026-02-01T16:35:36.079Z] [BOT] 🔀 Deep merged: AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd @ ORG_08c9a13c (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:36.079Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2019 jobs (merged disk + memory)
+[2026-02-01T16:35:36.081Z] [BOT] ✅ No jobs to archive (all 2019 jobs within 7-day window)
+[2026-02-01T16:35:36.178Z] [BOT] 💾 Saved posted_jobs.json: 2019 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:37.679Z] [BOT] 📍 [ROUTING] "Junior Software Developer - Modeling & Simulation" @ ORG_528ee40d
+[2026-02-01T16:35:37.680Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:35:38.117Z] [BOT] ✅ Posted message: Junior Software Developer - Modeling & Simulation @ ORG_528ee40d in #💻・tech-jobs
+  ✅ Industry: Junior Software Developer - Modeling & Simulation @ ORG_528ee40d
+[2026-02-01T16:35:38.118Z] [BOT] 💾 Added channel posting: Junior Software Developer - Modeling & Simulation @ ORG_528ee40d → category channel (1 total channels)
+[2026-02-01T16:35:38.118Z] [BOT] 💾 BEFORE MERGE: 2020 jobs in memory (cached)
+[2026-02-01T16:35:38.153Z] [BOT] ✅ Loaded V2 database: 2019 jobs
+💾 DISK STATE: 2019 jobs on disk
+[2026-02-01T16:35:38.153Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2020
+[2026-02-01T16:35:38.157Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:38.157Z] [BOT] 💾 AFTER MERGE: 2020 jobs (merged disk + memory)
+[2026-02-01T16:35:38.159Z] [BOT] ✅ No jobs to archive (all 2020 jobs within 7-day window)
+[2026-02-01T16:35:38.275Z] [BOT] 💾 Saved posted_jobs.json: 2020 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:39.996Z] [BOT] ✅ Posted message: Junior Software Developer - Modeling & Simulation @ ORG_528ee40d in #📍・JID_6daed763
+  ✅ Location: 📍・JID_6daed763
+[2026-02-01T16:35:39.996Z] [BOT] 💾 Added channel posting: Junior Software Developer - Modeling & Simulation @ ORG_528ee40d → location channel (2 total channels)
+[2026-02-01T16:35:39.996Z] [BOT] 💾 BEFORE MERGE: 2020 jobs in memory (cached)
+[2026-02-01T16:35:40.030Z] [BOT] ✅ Loaded V2 database: 2020 jobs
+💾 DISK STATE: 2020 jobs on disk
+[2026-02-01T16:35:40.030Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2020
+[2026-02-01T16:35:40.035Z] [BOT] 🔀 Deep merged: Junior Software Developer - Modeling & Simulation @ ORG_528ee40d (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:40.035Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2020 jobs (merged disk + memory)
+[2026-02-01T16:35:40.036Z] [BOT] ✅ No jobs to archive (all 2020 jobs within 7-day window)
+[2026-02-01T16:35:40.143Z] [BOT] 💾 Saved posted_jobs.json: 2020 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:41.643Z] [BOT] 📍 [ROUTING] "Software Engineer Graduate - Data Security-US" @ ORG_08c9a13c
+[2026-02-01T16:35:41.643Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:35:41.907Z] [BOT] ✅ Posted message: Software Engineer Graduate - Data Security-US @ ORG_08c9a13c in #💻・tech-jobs
+  ✅ Industry: Software Engineer Graduate - Data Security-US @ ORG_08c9a13c
+[2026-02-01T16:35:41.908Z] [BOT] 💾 Added channel posting: Software Engineer Graduate - Data Security-US @ ORG_08c9a13c → category channel (1 total channels)
+[2026-02-01T16:35:41.908Z] [BOT] 💾 BEFORE MERGE: 2021 jobs in memory (cached)
+[2026-02-01T16:35:41.948Z] [BOT] ✅ Loaded V2 database: 2020 jobs
+💾 DISK STATE: 2020 jobs on disk
+[2026-02-01T16:35:41.948Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2021
+[2026-02-01T16:35:41.953Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:41.954Z] [BOT] 💾 AFTER MERGE: 2021 jobs (merged disk + memory)
+[2026-02-01T16:35:41.955Z] [BOT] ✅ No jobs to archive (all 2021 jobs within 7-day window)
+[2026-02-01T16:35:42.052Z] [BOT] 💾 Saved posted_jobs.json: 2021 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:43.725Z] [BOT] ✅ Posted message: Software Engineer Graduate - Data Security-US @ ORG_08c9a13c in #🌉・JID_739bbc0b
+[2026-02-01T16:35:43.725Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
+[2026-02-01T16:35:43.726Z] [BOT] 💾 Added channel posting: Software Engineer Graduate - Data Security-US @ ORG_08c9a13c → location channel (2 total channels)
+[2026-02-01T16:35:43.726Z] [BOT] 💾 BEFORE MERGE: 2021 jobs in memory (cached)
+[2026-02-01T16:35:43.760Z] [BOT] ✅ Loaded V2 database: 2021 jobs
+💾 DISK STATE: 2021 jobs on disk
+[2026-02-01T16:35:43.761Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2021
+[2026-02-01T16:35:43.764Z] [BOT] 🔀 Deep merged: Software Engineer Graduate - Data Security-US @ ORG_08c9a13c (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:43.764Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2021 jobs (merged disk + memory)
+[2026-02-01T16:35:43.765Z] [BOT] ✅ No jobs to archive (all 2021 jobs within 7-day window)
+[2026-02-01T16:35:43.881Z] [BOT] 💾 Saved posted_jobs.json: 2021 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:45.382Z] [BOT] 📍 [ROUTING] "Software Engineer - Frontend" @ ORG_70a5ae4a
+   Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:35:45.582Z] [BOT] ✅ Posted message: Software Engineer - Frontend @ ORG_70a5ae4a in #💻・tech-jobs
+  ✅ Industry: Software Engineer - Frontend @ ORG_70a5ae4a
+[2026-02-01T16:35:45.583Z] [BOT] 💾 Added channel posting: Software Engineer - Frontend @ ORG_70a5ae4a → category channel (1 total channels)
+[2026-02-01T16:35:45.583Z] [BOT] 💾 BEFORE MERGE: 2022 jobs in memory (cached)
+[2026-02-01T16:35:45.617Z] [BOT] ✅ Loaded V2 database: 2021 jobs
+💾 DISK STATE: 2021 jobs on disk
+[2026-02-01T16:35:45.617Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2022
+[2026-02-01T16:35:45.621Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:45.621Z] [BOT] 💾 AFTER MERGE: 2022 jobs (merged disk + memory)
+[2026-02-01T16:35:45.622Z] [BOT] ✅ No jobs to archive (all 2022 jobs within 7-day window)
+[2026-02-01T16:35:45.719Z] [BOT] 💾 Saved posted_jobs.json: 2022 active jobs
+[2026-02-01T16:35:45.722Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:47.403Z] [BOT] ✅ Posted message: Software Engineer - Frontend @ ORG_70a5ae4a in #🗽・JID_98d4f0de
+[2026-02-01T16:35:47.403Z] [BOT] ✅ Location: 🗽・JID_98d4f0de
+[2026-02-01T16:35:47.403Z] [BOT] 💾 Added channel posting: Software Engineer - Frontend @ ORG_70a5ae4a → location channel (2 total channels)
+[2026-02-01T16:35:47.404Z] [BOT] 💾 BEFORE MERGE: 2022 jobs in memory (cached)
+[2026-02-01T16:35:47.438Z] [BOT] ✅ Loaded V2 database: 2022 jobs
+[2026-02-01T16:35:47.438Z] [BOT] 💾 DISK STATE: 2022 jobs on disk
+[2026-02-01T16:35:47.438Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2022
+[2026-02-01T16:35:47.442Z] [BOT] 🔀 Deep merged: Software Engineer - Frontend @ ORG_70a5ae4a (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:47.442Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2022 jobs (merged disk + memory)
+[2026-02-01T16:35:47.443Z] [BOT] ✅ No jobs to archive (all 2022 jobs within 7-day window)
+[2026-02-01T16:35:47.549Z] [BOT] 💾 Saved posted_jobs.json: 2022 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:49.051Z] [BOT] 📍 [ROUTING] "3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS)" @ ORG_08c9a13c
+[2026-02-01T16:35:49.051Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:35:49.348Z] [BOT] ✅ Posted message: 3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS) @ ORG_08c9a13c in #💻・tech-jobs
+[2026-02-01T16:35:49.348Z] [BOT] ✅ Industry: 3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS) @ ORG_08c9a13c
+[2026-02-01T16:35:49.349Z] [BOT] 💾 Added channel posting: 3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS) @ ORG_08c9a13c → category channel (1 total channels)
+💾 BEFORE MERGE: 2023 jobs in memory (cached)
+[2026-02-01T16:35:49.383Z] [BOT] ✅ Loaded V2 database: 2022 jobs
+💾 DISK STATE: 2022 jobs on disk
+[2026-02-01T16:35:49.384Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2023
+[2026-02-01T16:35:49.387Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:49.387Z] [BOT] 💾 AFTER MERGE: 2023 jobs (merged disk + memory)
+[2026-02-01T16:35:49.388Z] [BOT] ✅ No jobs to archive (all 2023 jobs within 7-day window)
+[2026-02-01T16:35:49.481Z] [BOT] 💾 Saved posted_jobs.json: 2023 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:51.234Z] [BOT] ✅ Posted message: 3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS) @ ORG_08c9a13c in #🌉・JID_739bbc0b
+  ✅ Location: 🌉・JID_739bbc0b
+[2026-02-01T16:35:51.234Z] [BOT] 💾 Added channel posting: 3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS) @ ORG_08c9a13c → location channel (2 total channels)
+[2026-02-01T16:35:51.234Z] [BOT] 💾 BEFORE MERGE: 2023 jobs in memory (cached)
+[2026-02-01T16:35:51.278Z] [BOT] ✅ Loaded V2 database: 2023 jobs
+💾 DISK STATE: 2023 jobs on disk
+[2026-02-01T16:35:51.278Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2023
+[2026-02-01T16:35:51.282Z] [BOT] 🔀 Deep merged: 3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS) @ ORG_08c9a13c (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:51.283Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2023 jobs (merged disk + memory)
+[2026-02-01T16:35:51.284Z] [BOT] ✅ No jobs to archive (all 2023 jobs within 7-day window)
+[2026-02-01T16:35:51.392Z] [BOT] 💾 Saved posted_jobs.json: 2023 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:52.894Z] [BOT] 📍 [ROUTING] "Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS)" @ ORG_1bb6fcfb
+[2026-02-01T16:35:52.894Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:35:53.303Z] [BOT] ✅ Posted message: Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #💻・tech-jobs
+[2026-02-01T16:35:53.303Z] [BOT] ✅ Industry: Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb
+[2026-02-01T16:35:53.304Z] [BOT] 💾 Added channel posting: Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb → category channel (1 total channels)
+[2026-02-01T16:35:53.304Z] [BOT] 💾 BEFORE MERGE: 2024 jobs in memory (cached)
+[2026-02-01T16:35:53.337Z] [BOT] ✅ Loaded V2 database: 2023 jobs
+💾 DISK STATE: 2023 jobs on disk
+[2026-02-01T16:35:53.337Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2024
+[2026-02-01T16:35:53.341Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:53.341Z] [BOT] 💾 AFTER MERGE: 2024 jobs (merged disk + memory)
+[2026-02-01T16:35:53.342Z] [BOT] ✅ No jobs to archive (all 2024 jobs within 7-day window)
+[2026-02-01T16:35:53.443Z] [BOT] 💾 Saved posted_jobs.json: 2024 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:55.189Z] [BOT] ✅ Posted message: Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #🌉・JID_739bbc0b
+[2026-02-01T16:35:55.189Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
+[2026-02-01T16:35:55.190Z] [BOT] 💾 Added channel posting: Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb → location channel (2 total channels)
+💾 BEFORE MERGE: 2024 jobs in memory (cached)
+[2026-02-01T16:35:55.236Z] [BOT] ✅ Loaded V2 database: 2024 jobs
+[2026-02-01T16:35:55.236Z] [BOT] 💾 DISK STATE: 2024 jobs on disk
+[2026-02-01T16:35:55.239Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2024
+[2026-02-01T16:35:55.242Z] [BOT] 🔀 Deep merged: Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS) @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:55.242Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2024 jobs (merged disk + memory)
+[2026-02-01T16:35:55.244Z] [BOT] ✅ No jobs to archive (all 2024 jobs within 7-day window)
+[2026-02-01T16:35:55.336Z] [BOT] 💾 Saved posted_jobs.json: 2024 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:56.838Z] [BOT] 📍 [ROUTING] "Software Engineer, Risk and Response - 2026 Start (BS/ MS)" @ ORG_1bb6fcfb
+[2026-02-01T16:35:56.838Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:35:57.177Z] [BOT] ✅ Posted message: Software Engineer, Risk and Response - 2026 Start (BS/ MS) @ ORG_1bb6fcfb in #💻・tech-jobs
+[2026-02-01T16:35:57.178Z] [BOT] ✅ Industry: Software Engineer, Risk and Response - 2026 Start (BS/ MS) @ ORG_1bb6fcfb
+[2026-02-01T16:35:57.178Z] [BOT] 💾 Added channel posting: Software Engineer, Risk and Response - 2026 Start (BS/ MS) @ ORG_1bb6fcfb → category channel (1 total channels)
+[2026-02-01T16:35:57.178Z] [BOT] 💾 BEFORE MERGE: 2025 jobs in memory (cached)
+[2026-02-01T16:35:57.218Z] [BOT] ✅ Loaded V2 database: 2024 jobs
+💾 DISK STATE: 2024 jobs on disk
+💾 DEBUG: Iterating cached memory jobs - length=2025
+[2026-02-01T16:35:57.228Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:35:57.228Z] [BOT] 💾 AFTER MERGE: 2025 jobs (merged disk + memory)
+[2026-02-01T16:35:57.229Z] [BOT] ✅ No jobs to archive (all 2025 jobs within 7-day window)
+[2026-02-01T16:35:57.320Z] [BOT] 💾 Saved posted_jobs.json: 2025 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:35:59.025Z] [BOT] ✅ Posted message: Software Engineer, Risk and Response - 2026 Start (BS/ MS) @ ORG_1bb6fcfb in #🌲・JID_efdf5921
+  ✅ Location: 🌲・JID_efdf5921
+[2026-02-01T16:35:59.025Z] [BOT] 💾 Added channel posting: Software Engineer, Risk and Response - 2026 Start (BS/ MS) @ ORG_1bb6fcfb → location channel (2 total channels)
+[2026-02-01T16:35:59.025Z] [BOT] 💾 BEFORE MERGE: 2025 jobs in memory (cached)
+[2026-02-01T16:35:59.060Z] [BOT] ✅ Loaded V2 database: 2025 jobs
+💾 DISK STATE: 2025 jobs on disk
+[2026-02-01T16:35:59.060Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2025
+[2026-02-01T16:35:59.064Z] [BOT] 🔀 Deep merged: Software Engineer, Risk and Response - 2026 Start (BS/ MS) @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:35:59.064Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2025 jobs (merged disk + memory)
+[2026-02-01T16:35:59.065Z] [BOT] ✅ No jobs to archive (all 2025 jobs within 7-day window)
+[2026-02-01T16:35:59.170Z] [BOT] 💾 Saved posted_jobs.json: 2025 active jobs
+[2026-02-01T16:35:59.170Z] [BOT] ✅ Verified: Database file matches in-memory state
+[2026-02-01T16:36:00.671Z] [BOT] 📍 [ROUTING] "Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)" @ ORG_1bb6fcfb
+   Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-01T16:36:00.918Z] [BOT] ✅ Posted message: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #💻・tech-jobs
+[2026-02-01T16:36:00.919Z] [BOT] ✅ Industry: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb
+[2026-02-01T16:36:00.919Z] [BOT] 💾 Added channel posting: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb → category channel (1 total channels)
+[2026-02-01T16:36:00.919Z] [BOT] 💾 BEFORE MERGE: 2026 jobs in memory (cached)
+[2026-02-01T16:36:00.952Z] [BOT] ✅ Loaded V2 database: 2025 jobs
+💾 DISK STATE: 2025 jobs on disk
+[2026-02-01T16:36:00.953Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2026
+[2026-02-01T16:36:00.956Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:36:00.956Z] [BOT] 💾 AFTER MERGE: 2026 jobs (merged disk + memory)
+[2026-02-01T16:36:00.957Z] [BOT] ✅ No jobs to archive (all 2026 jobs within 7-day window)
+[2026-02-01T16:36:01.056Z] [BOT] 💾 Saved posted_jobs.json: 2026 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:36:03.282Z] [BOT] ✅ Posted message: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb in #🌉・JID_739bbc0b
+[2026-02-01T16:36:03.282Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
+[2026-02-01T16:36:03.282Z] [BOT] 💾 Added channel posting: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb → location channel (2 total channels)
+[2026-02-01T16:36:03.282Z] [BOT] 💾 BEFORE MERGE: 2026 jobs in memory (cached)
+[2026-02-01T16:36:03.317Z] [BOT] ✅ Loaded V2 database: 2026 jobs
+💾 DISK STATE: 2026 jobs on disk
+[2026-02-01T16:36:03.317Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2026
+[2026-02-01T16:36:03.321Z] [BOT] 🔀 Deep merged: Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) @ ORG_1bb6fcfb (disk: 1 channels → merged: 2 channels)
+[2026-02-01T16:36:03.321Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+💾 AFTER MERGE: 2026 jobs (merged disk + memory)
+[2026-02-01T16:36:03.322Z] [BOT] ✅ No jobs to archive (all 2026 jobs within 7-day window)
+[2026-02-01T16:36:03.424Z] [BOT] 💾 Saved posted_jobs.json: 2026 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:36:07.926Z] [BOT] 📌 Posting 1 jobs to #🤖・ai-jobs
+[2026-02-01T16:36:07.927Z] [BOT] 📍 [ROUTING] "Entry Level Software Engineer" @ ORG_64923ce3
+   Category: AI (matched: "AI/ML")
+   Channel: 🤖・ai-jobs (1462...9217)
+[2026-02-01T16:36:07.927Z] [BOT] ⚠️  Multiple matches: aiMatch, techMatch (using ai)
+[2026-02-01T16:36:08.235Z] [BOT] ✅ Posted message: Entry Level Software Engineer @ ORG_64923ce3 in #🤖・ai-jobs
+  ✅ Industry: Entry Level Software Engineer @ ORG_64923ce3
+[2026-02-01T16:36:08.235Z] [BOT] 💾 Added channel posting: Entry Level Software Engineer @ ORG_64923ce3 → category channel (1 total channels)
+💾 BEFORE MERGE: 2027 jobs in memory (cached)
+[2026-02-01T16:36:08.270Z] [BOT] ✅ Loaded V2 database: 2026 jobs
+💾 DISK STATE: 2026 jobs on disk
+[2026-02-01T16:36:08.270Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2027
+[2026-02-01T16:36:08.274Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:36:08.274Z] [BOT] 💾 AFTER MERGE: 2027 jobs (merged disk + memory)
+[2026-02-01T16:36:08.275Z] [BOT] ✅ No jobs to archive (all 2027 jobs within 7-day window)
+[2026-02-01T16:36:08.376Z] [BOT] 💾 Saved posted_jobs.json: 2027 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:36:10.102Z] [BOT] ✅ Posted message: Entry Level Software Engineer @ ORG_64923ce3 in #🌉・JID_739bbc0b
+  ✅ Location: 🌉・JID_739bbc0b
+[2026-02-01T16:36:10.102Z] [BOT] 💾 Added channel posting: Entry Level Software Engineer @ ORG_64923ce3 → location channel (2 total channels)
+[2026-02-01T16:36:10.103Z] [BOT] 💾 BEFORE MERGE: 2027 jobs in memory (cached)
+[2026-02-01T16:36:10.137Z] [BOT] ✅ Loaded V2 database: 2027 jobs
+💾 DISK STATE: 2027 jobs on disk
+[2026-02-01T16:36:10.137Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2027
+[2026-02-01T16:36:10.141Z] [BOT] 🔀 Deep merged: Entry Level Software Engineer @ ORG_64923ce3 (disk: 1 channels → merged: 2 channels)
+💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+[2026-02-01T16:36:10.141Z] [BOT] 💾 AFTER MERGE: 2027 jobs (merged disk + memory)
+[2026-02-01T16:36:10.142Z] [BOT] ✅ No jobs to archive (all 2027 jobs within 7-day window)
+[2026-02-01T16:36:10.257Z] [BOT] 💾 Saved posted_jobs.json: 2027 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-01T16:36:14.757Z] [BOT] 🎉 Posting complete! Successfully posted: 10, Failed: 0
+[2026-02-01T16:36:14.759Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_0ae9a3d4..." not found, but found as SHA256 "1900034132109f01"
+[2026-02-01T16:36:14.759Z] [BOT] ⏭️  Skipping duplicate: JID_0cb4a91e (posted within 7 days)
+[2026-02-01T16:36:14.760Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_6564bf36..." not found, but found as SHA256 "b98d4d354c4e32fd"
+⏭️  Skipping duplicate: JID_95ce1ea3-CH_dd747b4f-detail (posted within 7 days)
+🔧 ID mismatch detected: URL-based "JID_ff09ba9e..." not found, but found as SHA256 "85d0444384c459f5"
+⏭️  Skipping duplicate: JID_ea106f03 (posted within 7 days)
+[2026-02-01T16:36:14.760Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_67f4001e..." not found, but found as SHA256 "3423de9bd3126fd8"
+[2026-02-01T16:36:14.760Z] [BOT] ⏭️  Skipping duplicate: JID_0d10e4d3 (posted within 7 days)
+[2026-02-01T16:36:14.761Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_cdedce68..." not found, but found as SHA256 "1e5da81b2a92c607"
+[2026-02-01T16:36:14.761Z] [BOT] ⏭️  Skipping duplicate: JID_95ce1ea3-CH_40f1569e-detail (posted within 7 days)
+[2026-02-01T16:36:14.761Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_78fc15d5..." not found, but found as SHA256 "40887d95f26f7436"
+[2026-02-01T16:36:14.761Z] [BOT] ⏭️  Skipping duplicate: JID_4545fd68 (posted within 7 days)
+[2026-02-01T16:36:14.761Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_5959fe72..." not found, but found as SHA256 "7a7641f47c7f92e6"
+[2026-02-01T16:36:14.761Z] [BOT] ⏭️  Skipping duplicate: JID_95ce1ea3-CH_852b8909-detail (posted within 7 days)
+[2026-02-01T16:36:14.761Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_70c1753a..." not found, but found as SHA256 "73d47c698e80cd9d"
+⏭️  Skipping duplicate: JID_6796d1d6-CH_a429130b (posted within 7 days)
+[2026-02-01T16:36:14.762Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_a5a1aa7c..." not found, but found as SHA256 "d2f8de0a0d2b57ba"
+[2026-02-01T16:36:14.762Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_654c67bb (posted within 7 days)
+[2026-02-01T16:36:14.762Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_7d9107b1..." not found, but found as SHA256 "72b48173036febeb"
+[2026-02-01T16:36:14.762Z] [BOT] ⏭️  Skipping duplicate: JID_6796d1d6-CH_bc68ad0e (posted within 7 days)
+[2026-02-01T16:36:14.856Z] [BOT] ✅ Loaded pending queue: 2946 total (889 pending, 50 enriched, 2007 posted)
+[2026-02-01T16:36:15.051Z] [BOT] ✅ Saved pending queue: 2946 total (889 pending, 40 enriched, 2017 posted)
+[2026-02-01T16:36:15.051Z] [BOT] 📋 Updated queue: marked 10 jobs as posted
 ✅ All posting operations complete, cleaning up...
-[2026-02-01T16:26:54.407Z] [BOT] 📂 Loaded 12088 existing routing entries
-[2026-02-01T16:26:54.543Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-   New entries: 10
-[2026-02-01T16:26:54.543Z] [BOT] Total entries: 12098
-   Timestamp: 2026-02-01T16:26:54.494Z
-[2026-02-01T16:26:54.544Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_dc5dd3dc.jsonl
-   Total attempts: 29
+[2026-02-01T16:36:15.141Z] [BOT] 📂 Loaded 12098 existing routing entries
+[2026-02-01T16:36:15.274Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+[2026-02-01T16:36:15.275Z] [BOT] New entries: 10
+   Total entries: 12108
+   Timestamp: 2026-02-01T16:36:15.225Z
+[2026-02-01T16:36:15.275Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_dc5dd3dc.jsonl
+[2026-02-01T16:36:15.276Z] [BOT] Total attempts: 28
    Successful: 20
    Failed: 0
-   Skipped: 9
-📊 CHANNEL STATS SINCE LAST CLEANUP:
+   Skipped: 8
+[2026-02-01T16:36:15.276Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
    Last cleanup: Never
    Total posts: 20
-   Channels used: 7
+   Channels used: 6
    Top channels:
-[2026-02-01T16:26:54.544Z] [BOT] 1. #🌉・JID_739bbc0b: 5 posts
-     2. #🤖・ai-jobs: 5 posts
-     3. #💻・tech-jobs: 3 posts
-     4. #🌲・JID_efdf5921: 3 posts
-     5. #📊・JID_fb739488: 2 posts
-[2026-02-01T16:26:54.546Z] [BOT] [STATS] Channel stats saved
+[2026-02-01T16:36:15.276Z] [BOT] 1. #💻・tech-jobs: 9 posts
+     2. #🌉・JID_739bbc0b: 6 posts
+     3. #📍・JID_6daed763: 2 posts
+     4. #🗽・JID_98d4f0de: 1 posts
+[2026-02-01T16:36:15.276Z] [BOT] 5. #🌲・JID_efdf5921: 1 posts
+[2026-02-01T16:36:15.276Z] [BOT] [STATS] Channel stats saved
 💾 Saving posted jobs database...
-💾 BEFORE MERGE: 2017 jobs in memory (cached)
-[2026-02-01T16:26:54.587Z] [BOT] ✅ Loaded V2 database: 2017 jobs
-💾 DISK STATE: 2017 jobs on disk
-[2026-02-01T16:26:54.587Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2017
-[2026-02-01T16:26:54.591Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-01T16:26:54.591Z] [BOT] 💾 AFTER MERGE: 2017 jobs (merged disk + memory)
-[2026-02-01T16:26:54.592Z] [BOT] ✅ No jobs to archive (all 2017 jobs within 7-day window)
-[2026-02-01T16:26:54.694Z] [BOT] 💾 Saved posted_jobs.json: 2017 active jobs
+[2026-02-01T16:36:15.276Z] [BOT] 💾 BEFORE MERGE: 2027 jobs in memory (cached)
+[2026-02-01T16:36:15.319Z] [BOT] ✅ Loaded V2 database: 2027 jobs
+💾 DISK STATE: 2027 jobs on disk
+[2026-02-01T16:36:15.319Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2027
+[2026-02-01T16:36:15.323Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-01T16:36:15.323Z] [BOT] 💾 AFTER MERGE: 2027 jobs (merged disk + memory)
+[2026-02-01T16:36:15.324Z] [BOT] ✅ No jobs to archive (all 2027 jobs within 7-day window)
+[2026-02-01T16:36:15.426Z] [BOT] 💾 Saved posted_jobs.json: 2027 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-02-01T16:26:54.695Z] [BOT] ✅ Database saved successfully
-[2026-02-01T16:26:56.735Z] 
+[2026-02-01T16:36:15.426Z] [BOT] ✅ Database saved successfully
+[2026-02-01T16:36:17.460Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2638) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2648) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
