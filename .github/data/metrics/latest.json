@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-01T18:15:50.144Z",
+  "generated": "2026-02-01T18:25:33.001Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T18:15:50.144Z",
-  "period_end": "2026-02-01T18:15:50.144Z",
+  "period_start": "2026-01-25T18:25:33.001Z",
+  "period_end": "2026-02-01T18:25:33.001Z",
   "summary": {
-    "total_jobs_posted": 2857,
-    "unique_jobs": 2107,
-    "multi_channel_postings": 1500,
-    "unique_multi_channel_jobs": 750,
+    "total_jobs_posted": 2874,
+    "unique_jobs": 2117,
+    "multi_channel_postings": 1514,
+    "unique_multi_channel_jobs": 757,
     "failed_postings": 0,
-    "filtered_jobs": 23,
+    "filtered_jobs": 33,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1770,
+      "count": 1780,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1786,74 +1786,84 @@
         "b01a70cfdd117d74",
         "c6870a60a57d7f8a",
         "ddb4e7bd012d2522",
-        "d7623c2902728d44"
+        "d7623c2902728d44",
+        "24fb72b6b2501f37",
+        "d72ed631259ed94a",
+        "2563f611477a8838",
+        "c62ddf89133301a5",
+        "1895320a84f39c7e",
+        "c1c10c9ea78f037f",
+        "1474544508869130",
+        "c4ff08987404d10d",
+        "7d35099331b7faa5",
+        "f82a2630ec6cdd08"
       ],
       "recent_jobs": [
         {
-          "id": "50ecdf9a7757b5a2",
+          "id": "24fb72b6b2501f37",
           "title": "Software Engineer – New Grad - Defense",
           "company": "Palantir",
-          "posted_at": "2026-02-01T18:15:14.760Z"
+          "posted_at": "2026-02-01T18:24:53.206Z"
         },
         {
-          "id": "690db82e824225de",
-          "title": "Enterprise Account Executive",
-          "company": "nominal",
-          "posted_at": "2026-02-01T18:15:18.660Z"
+          "id": "d72ed631259ed94a",
+          "title": "Infra Engineer - Datacenters",
+          "company": "railway",
+          "posted_at": "2026-02-01T18:24:57.062Z"
         },
         {
-          "id": "1f765e34b627da42",
-          "title": "Mid-Market Account Executive",
-          "company": "nominal",
-          "posted_at": "2026-02-01T18:15:20.550Z"
-        },
-        {
-          "id": "aabb1679ef1cf97a",
-          "title": "Roboticist In Residence",
-          "company": "nominal",
-          "posted_at": "2026-02-01T18:15:22.493Z"
-        },
-        {
-          "id": "54ece3ee0616feb5",
-          "title": "Software Engineer - Mission Dev",
-          "company": "nominal",
-          "posted_at": "2026-02-01T18:15:24.434Z"
-        },
-        {
-          "id": "2e245511a8d553e4",
-          "title": "Mission Operations Engineer - USG/DoD",
-          "company": "nominal",
-          "posted_at": "2026-02-01T18:15:26.329Z"
-        },
-        {
-          "id": "b01a70cfdd117d74",
-          "title": "Instrumentation Engineer",
-          "company": "nominal",
-          "posted_at": "2026-02-01T18:15:28.386Z"
-        },
-        {
-          "id": "c6870a60a57d7f8a",
-          "title": "Support Engineer (APAC)",
+          "id": "2563f611477a8838",
+          "title": "Support Engineer (AMER)",
           "company": "supabase",
-          "posted_at": "2026-02-01T18:15:30.312Z"
+          "posted_at": "2026-02-01T18:25:00.975Z"
         },
         {
-          "id": "ddb4e7bd012d2522",
-          "title": "Cloud Infrastructure Engineer",
+          "id": "c62ddf89133301a5",
+          "title": "Developer Relations",
+          "company": "railway",
+          "posted_at": "2026-02-01T18:25:04.782Z"
+        },
+        {
+          "id": "1895320a84f39c7e",
+          "title": "Customer Solution Architect (US time zones)",
+          "company": "supabase",
+          "posted_at": "2026-02-01T18:25:08.672Z"
+        },
+        {
+          "id": "c1c10c9ea78f037f",
+          "title": "Software Engineer - Backend",
           "company": "nominal",
-          "posted_at": "2026-02-01T18:15:34.368Z"
+          "posted_at": "2026-02-01T18:25:12.506Z"
         },
         {
-          "id": "d7623c2902728d44",
-          "title": "Software Engineer Graduate - Applied Machine Learning - Mldev",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T18:15:39.335Z"
+          "id": "1474544508869130",
+          "title": "Deployment Systems Engineer",
+          "company": "nominal",
+          "posted_at": "2026-02-01T18:25:14.428Z"
+        },
+        {
+          "id": "c4ff08987404d10d",
+          "title": "Infrastructure Engineer",
+          "company": "railway",
+          "posted_at": "2026-02-01T18:25:16.363Z"
+        },
+        {
+          "id": "7d35099331b7faa5",
+          "title": "Mission Operations Engineer",
+          "company": "nominal",
+          "posted_at": "2026-02-01T18:25:20.180Z"
+        },
+        {
+          "id": "f82a2630ec6cdd08",
+          "title": "Platform Security Engineer, Operating Systems",
+          "company": "anthropic",
+          "posted_at": "2026-02-01T18:25:22.063Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 412,
+      "count": 413,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2266,15 +2276,10 @@
         "ec22d7083d6c7438",
         "9d505c1a75f75bdd",
         "50ecdf9a7757b5a2",
-        "d7623c2902728d44"
+        "d7623c2902728d44",
+        "f82a2630ec6cdd08"
       ],
       "recent_jobs": [
-        {
-          "id": "aba3bbc998c7a86c",
-          "title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
-          "company": "ByteDance",
-          "posted_at": "2026-02-01T17:48:17.351Z"
-        },
         {
           "id": "0efcf0372b4a5b02",
           "title": "Builder – New Grad - Software Engineer",
@@ -2328,12 +2333,18 @@
           "title": "Software Engineer Graduate - Applied Machine Learning - Mldev",
           "company": "ByteDance",
           "posted_at": "2026-02-01T18:15:39.335Z"
+        },
+        {
+          "id": "f82a2630ec6cdd08",
+          "title": "Platform Security Engineer, Operating Systems",
+          "company": "anthropic",
+          "posted_at": "2026-02-01T18:25:22.063Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 281,
+      "count": 287,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -2615,45 +2626,15 @@
         "7557de8acdcb6b28",
         "93e1f5db9d2c7ced",
         "aec126eccd9e85a9",
-        "c6870a60a57d7f8a"
+        "c6870a60a57d7f8a",
+        "24fb72b6b2501f37",
+        "d72ed631259ed94a",
+        "2563f611477a8838",
+        "c62ddf89133301a5",
+        "1895320a84f39c7e",
+        "c4ff08987404d10d"
       ],
       "recent_jobs": [
-        {
-          "id": "68db1a97657d17d6",
-          "title": "Software Engineer, Applications and Customer Solutions",
-          "company": "MemryX",
-          "posted_at": "2026-02-01T17:32:20.203Z"
-        },
-        {
-          "id": "6e9336d43461ec1a",
-          "title": "Software Engineer - Product",
-          "company": "Meta",
-          "posted_at": "2026-02-01T17:32:23.933Z"
-        },
-        {
-          "id": "38d606b9e8d4942a",
-          "title": "Enterprise Account Executive (USA)",
-          "company": "supabase",
-          "posted_at": "2026-02-01T17:32:28.085Z"
-        },
-        {
-          "id": "9d9f9b05fdc380d9",
-          "title": "Robot Operator",
-          "company": "Skild AI",
-          "posted_at": "2026-02-01T17:32:34.921Z"
-        },
-        {
-          "id": "b95d95c2d86775a8",
-          "title": "Application Engineer - Mandarin",
-          "company": "Zeeco",
-          "posted_at": "2026-02-01T17:47:50.901Z"
-        },
-        {
-          "id": "89c112222a3ac988",
-          "title": "Multigres Engineer",
-          "company": "supabase",
-          "posted_at": "2026-02-01T18:00:10.140Z"
-        },
         {
           "id": "7557de8acdcb6b28",
           "title": "Customer Solution Architect (APAC)",
@@ -2677,6 +2658,42 @@
           "title": "Support Engineer (APAC)",
           "company": "supabase",
           "posted_at": "2026-02-01T18:15:30.312Z"
+        },
+        {
+          "id": "24fb72b6b2501f37",
+          "title": "Software Engineer – New Grad - Defense",
+          "company": "Palantir",
+          "posted_at": "2026-02-01T18:24:53.206Z"
+        },
+        {
+          "id": "d72ed631259ed94a",
+          "title": "Infra Engineer - Datacenters",
+          "company": "railway",
+          "posted_at": "2026-02-01T18:24:57.062Z"
+        },
+        {
+          "id": "2563f611477a8838",
+          "title": "Support Engineer (AMER)",
+          "company": "supabase",
+          "posted_at": "2026-02-01T18:25:00.975Z"
+        },
+        {
+          "id": "c62ddf89133301a5",
+          "title": "Developer Relations",
+          "company": "railway",
+          "posted_at": "2026-02-01T18:25:04.782Z"
+        },
+        {
+          "id": "1895320a84f39c7e",
+          "title": "Customer Solution Architect (US time zones)",
+          "company": "supabase",
+          "posted_at": "2026-02-01T18:25:08.672Z"
+        },
+        {
+          "id": "c4ff08987404d10d",
+          "title": "Infrastructure Engineer",
+          "company": "railway",
+          "posted_at": "2026-02-01T18:25:16.363Z"
         }
       ]
     },
@@ -3717,170 +3734,239 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5098913008",
-        "title": "Operations Manager, Communications ",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5097831008",
+        "title": "Compliance Oversight Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.593Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5098975008",
-        "title": "Partnership Manager, AI for Science",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5023727008",
+        "title": "Data Center Facility Operations Lead",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.593Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5099163008",
-        "title": "Manager, Sales Development - Startups/Commercial",
-        "company": "anthropic",
+        "job_id": "careers-duolingo-com-jobs-8378704002",
+        "title": "Senior Product Writer",
+        "company": "duolingo",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.593Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5080796008",
-        "title": "Program Manager, AI for Science",
-        "company": "anthropic",
+        "job_id": "careers-duolingo-com-jobs-8385193002",
+        "title": "Senior Product Design Manager",
+        "company": "duolingo",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.593Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4990280007",
-        "title": "Sr. Tradeshow and Event Marketing Manager",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7535280",
-        "title": "Manager, Sales Development - LATAM (Portuguese Speaking)",
+        "job_id": "careers-datadoghq-com-detail-7572138",
+        "title": "Senior Endpoint Administrator - Enterprise IT Operations",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.593Z"
       },
       {
-        "job_id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoctoral-researcher_jr102228",
-        "title": "Postdoctoral Researcher",
-        "company": "Brookhaven Lab",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8387399002",
+        "title": "Senior Security GRC Manager",
+        "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.593Z"
       },
       {
-        "job_id": "www-brex-com-careers-8394456002",
-        "title": "Sales Account Manager I",
-        "company": "brex",
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5735397004",
+        "title": "Senior HRBP - EPD ",
+        "company": "vercel",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
       },
       {
-        "job_id": "www-brex-com-careers-8387049002",
-        "title": "Sales Account Manager I",
-        "company": "brex",
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8382154002",
+        "title": "Field Marketing Manager, Central",
+        "company": "airtable",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5099080008",
-        "title": "Transaction Manager",
-        "company": "anthropic",
+        "job_id": "boards-greenhouse-io-figma-jobs-5781632004",
+        "title": "Director, Sales Enablement ",
+        "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7306716",
-        "title": "Staff Software Engineer,  Infrastructure ",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7458337",
+        "title": "Staff Software Engineer, Product Engineer",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
       },
       {
-        "job_id": "www-brex-com-careers-8395068002",
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5543027004",
+        "title": "Sr. Customer Marketing Manager - Startups ",
+        "company": "vercel",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5735704004",
+        "title": "Staff Data Platform Engineer",
+        "company": "vercel",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7421455",
+        "title": "Technical Enterprise Client Success Manager - Symmetry",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-sunnyvale-ca-xmlname-usa-staff-data-scientist_r-2350734",
+        "title": "Staff - Data Scientist",
+        "company": "Walmart",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7554602",
+        "title": "Enterprise Customer Success Manager - Public Sector",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7472550",
+        "title": "Enterprise Customer Success Manager - Boston/New York",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7411889",
+        "title": "Technical Account Manager 2 - New York/Boston",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8393377002",
+        "title": "Director of Engineering, Security Operations",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8393583002",
         "title": "Engineering Manager, AI — Brex Assistant",
         "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8378479002",
-        "title": "Director, Safety Policy",
-        "company": "discord",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7413644",
+        "title": "Staff Software Engineer, Database Infrastructure",
+        "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
       },
       {
-        "job_id": "careers-datadoghq-com-detail-7555533",
-        "title": "Senior Product Manager, Cloud Network Monitoring",
-        "company": "datadog",
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5631091004",
+        "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+        "company": "vercel",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5097694008",
-        "title": "Manager, National Security Policy",
+        "job_id": "www-brex-com-careers-8393510002",
+        "title": "Senior Brand Designer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-vercel-jobs-5676402004",
+        "title": "Director, Technical Accounting & Financial Reporting",
+        "company": "vercel",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-7595422002",
+        "title": "Staff Brand Designer, Magic",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5096924008",
+        "title": "Regional State and Local Affairs Lead, Midwestern States",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T18:15:13.653Z"
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5067098008",
+        "title": "Research Engineer, Frontier Red Team (Hardware Lead)",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8299493002",
+        "title": "Staff Data Engineer, Ads",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8308138002",
+        "title": "Senior Data Scientist, Analytics",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.594Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8343795002",
+        "title": "Senior Data Scientist, Analytics - GTM Ads",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.595Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8371252002",
+        "title": "Senior Data Engineer, Analytics",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.595Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8174001002",
+        "title": "Data Science Manager, Safety",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.595Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8364479002",
+        "title": "Data Engineering Manager",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.595Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-6968454",
+        "title": "Major Accounts Manager",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-01T18:24:52.595Z"
       }
     ],
     "already_posted": [],
     "invalid_data": [],
-    "other": [
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5079511008",
-        "title": "Solutions Architect, Applied AI (National Security)",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.637Z"
-      },
-      {
-        "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
-        "title": "Analyst – Audience Activation",
-        "company": "FOX",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.638Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
-        "title": "Meteorologist 1",
-        "company": "AccuWeather",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.639Z"
-      },
-      {
-        "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
-        "title": "Analyst – People Analytics",
-        "company": "DaVita",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.639Z"
-      },
-      {
-        "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
-        "title": "Quality and Insights Analyst",
-        "company": "Asurion",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.640Z"
-      },
-      {
-        "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
-        "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
-        "company": "ERM",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.640Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
-        "title": "Software Engineer – New Grad Friendly - IOS",
-        "company": "NewsBreak",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.641Z"
-      },
-      {
-        "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
-        "title": "Software Developer",
-        "company": "Booz Allen",
-        "reason": "already_posted",
-        "timestamp": "2026-02-01T18:15:13.641Z"
-      }
-    ]
+    "other": []
   }
 }
