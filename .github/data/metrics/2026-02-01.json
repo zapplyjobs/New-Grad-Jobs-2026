@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-01T06:03:48.217Z",
+  "generated": "2026-02-01T06:26:30.748Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T06:03:48.217Z",
-  "period_end": "2026-02-01T06:03:48.217Z",
+  "period_start": "2026-01-25T06:26:30.748Z",
+  "period_end": "2026-02-01T06:26:30.748Z",
   "summary": {
-    "total_jobs_posted": 1950,
-    "unique_jobs": 1637,
-    "multi_channel_postings": 626,
-    "unique_multi_channel_jobs": 313,
+    "total_jobs_posted": 1969,
+    "unique_jobs": 1647,
+    "multi_channel_postings": 644,
+    "unique_multi_channel_jobs": 322,
     "failed_postings": 0,
     "filtered_jobs": 9,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1339,
+      "count": 1344,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1355,39 +1355,14 @@
         "29a350944642d150",
         "23947d33b5dae77b",
         "dd45340c23e2154f",
-        "29ed58ed6c5ba107"
+        "29ed58ed6c5ba107",
+        "a574520d83ecbb5e",
+        "912fd1c8cbbe1e98",
+        "c45ed1b4d7431675",
+        "66e0b770a6fce1ed",
+        "fd9773b16e720a64"
       ],
       "recent_jobs": [
-        {
-          "id": "66c66e3653380be2",
-          "title": "Software Engineering, Associate",
-          "company": "Peraton",
-          "posted_at": "2026-02-01T05:40:34.316Z"
-        },
-        {
-          "id": "c58cbbf24a5548ae",
-          "title": "General Hire – Research Scientist Graduate",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T05:40:38.062Z"
-        },
-        {
-          "id": "14e04c318e2481c6",
-          "title": "General Hire – Machine Learning Engineer Graduate - TikTok Recommendation",
-          "company": "TikTok",
-          "posted_at": "2026-02-01T05:40:44.919Z"
-        },
-        {
-          "id": "daa6d9bad5d7573c",
-          "title": "Software Engineer – New Grad - Agent",
-          "company": "Sierra",
-          "posted_at": "2026-02-01T05:40:48.506Z"
-        },
-        {
-          "id": "a7d75d6e7f1771ae",
-          "title": "Associate Software Engineer",
-          "company": "Southwest Airlines",
-          "posted_at": "2026-02-01T06:03:16.606Z"
-        },
         {
           "id": "c96ce7d505434781",
           "title": "Software Operations Engineer I",
@@ -1417,6 +1392,36 @@
           "title": "Software Engineer - Backend",
           "company": "OpenAI",
           "posted_at": "2026-02-01T06:03:37.873Z"
+        },
+        {
+          "id": "a574520d83ecbb5e",
+          "title": "Associate Software Engineer",
+          "company": "Southwest Airlines",
+          "posted_at": "2026-02-01T06:26:03.726Z"
+        },
+        {
+          "id": "912fd1c8cbbe1e98",
+          "title": "Junior Software Developer - Java/Scala",
+          "company": "mthree",
+          "posted_at": "2026-02-01T06:26:07.409Z"
+        },
+        {
+          "id": "c45ed1b4d7431675",
+          "title": "Software Engineer – New College Graduate",
+          "company": "SIFT",
+          "posted_at": "2026-02-01T06:26:09.298Z"
+        },
+        {
+          "id": "66e0b770a6fce1ed",
+          "title": "University Graduate - Machine Learning Engineer",
+          "company": "Adobe",
+          "posted_at": "2026-02-01T06:26:16.115Z"
+        },
+        {
+          "id": "fd9773b16e720a64",
+          "title": "Data Science Engineer",
+          "company": "W.R. Berkley",
+          "posted_at": "2026-02-01T06:26:19.877Z"
         }
       ]
     },
@@ -1699,7 +1704,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 101,
+      "count": 109,
       "jobs": [
         "06795d5f5f475ea5",
         "40dd5b270fa77c57",
@@ -1801,57 +1806,17 @@
         "a7d75d6e7f1771ae",
         "c96ce7d505434781",
         "29a350944642d150",
-        "dd45340c23e2154f"
+        "dd45340c23e2154f",
+        "c3f694b9f34e2b8c",
+        "26380439e37a49b5",
+        "f7c3058db14ecddf",
+        "92b51cb9f2700d49",
+        "96a610123fe76f8e",
+        "a574520d83ecbb5e",
+        "c45ed1b4d7431675",
+        "fd9773b16e720a64"
       ],
       "recent_jobs": [
-        {
-          "id": "e17ddafc6cd0c756",
-          "title": "Associate Software Engineer",
-          "company": "CoStar Group",
-          "posted_at": "2026-02-01T05:40:23.320Z"
-        },
-        {
-          "id": "592e77d461bdfa64",
-          "title": "Software Engineer 1 with AWS & Python",
-          "company": "Comcast",
-          "posted_at": "2026-02-01T05:40:26.933Z"
-        },
-        {
-          "id": "dfa9ff29fd6b0ddd",
-          "title": "Software Engineer 1 - iOS - iOS",
-          "company": "McDonald's",
-          "posted_at": "2026-02-01T05:40:30.638Z"
-        },
-        {
-          "id": "f6e2d4ffc4b3f103",
-          "title": "Data Developer",
-          "company": "Global Lending Services",
-          "posted_at": "2026-02-01T05:40:55.264Z"
-        },
-        {
-          "id": "3c03a4a44a1e44c7",
-          "title": "Associate Data Engineer",
-          "company": "Southwest Airlines",
-          "posted_at": "2026-02-01T06:02:58.753Z"
-        },
-        {
-          "id": "d47fe2240a18f5db",
-          "title": "Associate Data Scientist",
-          "company": "Southwest Airlines",
-          "posted_at": "2026-02-01T06:03:02.574Z"
-        },
-        {
-          "id": "a7d75d6e7f1771ae",
-          "title": "Associate Software Engineer",
-          "company": "Southwest Airlines",
-          "posted_at": "2026-02-01T06:03:16.606Z"
-        },
-        {
-          "id": "c96ce7d505434781",
-          "title": "Software Operations Engineer I",
-          "company": "Medtronic",
-          "posted_at": "2026-02-01T06:03:20.241Z"
-        },
         {
           "id": "29a350944642d150",
           "title": "Engineer I - AI Business Engineer",
@@ -1863,12 +1828,60 @@
           "title": "C++ Software Engineer",
           "company": "Wolverine Trading",
           "posted_at": "2026-02-01T06:03:32.542Z"
+        },
+        {
+          "id": "c3f694b9f34e2b8c",
+          "title": "Associate Data Engineer",
+          "company": "Southwest Airlines",
+          "posted_at": "2026-02-01T06:25:40.471Z"
+        },
+        {
+          "id": "26380439e37a49b5",
+          "title": "Associate Business Applications Engineer",
+          "company": "Appian",
+          "posted_at": "2026-02-01T06:25:44.172Z"
+        },
+        {
+          "id": "f7c3058db14ecddf",
+          "title": "Internal Technical Consultant",
+          "company": "Appian",
+          "posted_at": "2026-02-01T06:25:47.935Z"
+        },
+        {
+          "id": "92b51cb9f2700d49",
+          "title": "Associate Application Developer - Appian Platform",
+          "company": "Appian",
+          "posted_at": "2026-02-01T06:25:51.603Z"
+        },
+        {
+          "id": "96a610123fe76f8e",
+          "title": "Graduate Engineering Program",
+          "company": "NorthMark Strategies",
+          "posted_at": "2026-02-01T06:25:56.829Z"
+        },
+        {
+          "id": "a574520d83ecbb5e",
+          "title": "Associate Software Engineer",
+          "company": "Southwest Airlines",
+          "posted_at": "2026-02-01T06:26:03.726Z"
+        },
+        {
+          "id": "c45ed1b4d7431675",
+          "title": "Software Engineer – New College Graduate",
+          "company": "SIFT",
+          "posted_at": "2026-02-01T06:26:09.298Z"
+        },
+        {
+          "id": "fd9773b16e720a64",
+          "title": "Data Science Engineer",
+          "company": "W.R. Berkley",
+          "posted_at": "2026-02-01T06:26:19.877Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 298,
+      "count": 303,
       "jobs": [
         "cd5532b5c0e88185",
         "37929c2df28e0a82",
@@ -2167,39 +2180,14 @@
         "3c03a4a44a1e44c7",
         "d47fe2240a18f5db",
         "e3a6676bd7d9e9d1",
-        "ac5714c4476808e9"
+        "ac5714c4476808e9",
+        "c3f694b9f34e2b8c",
+        "26380439e37a49b5",
+        "f7c3058db14ecddf",
+        "92b51cb9f2700d49",
+        "96a610123fe76f8e"
       ],
       "recent_jobs": [
-        {
-          "id": "e3a61030c2f2cfde",
-          "title": "Associate Data Scientist",
-          "company": "Garner Health",
-          "posted_at": "2026-02-01T03:13:28.949Z"
-        },
-        {
-          "id": "1b52d4df2b2a8094",
-          "title": "Data Analyst I - Consumer Loan Analytics",
-          "company": "Nelnet",
-          "posted_at": "2026-02-01T04:22:32.666Z"
-        },
-        {
-          "id": "37734b5f33e874d8",
-          "title": "Bilingual Material Handling Automation Specialist - Korean & English",
-          "company": "LG Electronics",
-          "posted_at": "2026-02-01T05:04:29.262Z"
-        },
-        {
-          "id": "f6e2d4ffc4b3f103",
-          "title": "Data Developer",
-          "company": "Global Lending Services",
-          "posted_at": "2026-02-01T05:40:55.264Z"
-        },
-        {
-          "id": "5f64aa9506082c69",
-          "title": "Information Systems – Recent Grad/Full Time - IT - Cyber Engineer & Data Science",
-          "company": "Honeywell",
-          "posted_at": "2026-02-01T05:40:59.248Z"
-        },
         {
           "id": "f3ea6d01ad86ce48",
           "title": "Information Systems - IT - Cyber Engineer & Data Science",
@@ -2229,16 +2217,47 @@
           "title": "Software Engineer",
           "company": "Figma",
           "posted_at": "2026-02-01T06:03:09.905Z"
+        },
+        {
+          "id": "c3f694b9f34e2b8c",
+          "title": "Associate Data Engineer",
+          "company": "Southwest Airlines",
+          "posted_at": "2026-02-01T06:25:40.471Z"
+        },
+        {
+          "id": "26380439e37a49b5",
+          "title": "Associate Business Applications Engineer",
+          "company": "Appian",
+          "posted_at": "2026-02-01T06:25:44.172Z"
+        },
+        {
+          "id": "f7c3058db14ecddf",
+          "title": "Internal Technical Consultant",
+          "company": "Appian",
+          "posted_at": "2026-02-01T06:25:47.935Z"
+        },
+        {
+          "id": "92b51cb9f2700d49",
+          "title": "Associate Application Developer - Appian Platform",
+          "company": "Appian",
+          "posted_at": "2026-02-01T06:25:51.603Z"
+        },
+        {
+          "id": "96a610123fe76f8e",
+          "title": "Graduate Engineering Program",
+          "company": "NorthMark Strategies",
+          "posted_at": "2026-02-01T06:25:56.829Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 3,
+      "count": 4,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
-        "b45ac21fd3c7685e"
+        "b45ac21fd3c7685e",
+        "66e0b770a6fce1ed"
       ],
       "recent_jobs": [
         {
@@ -2258,6 +2277,12 @@
           "title": "Associate AI Engineer",
           "company": "T-Mobile",
           "posted_at": "2026-02-01T05:04:18.482Z"
+        },
+        {
+          "id": "66e0b770a6fce1ed",
+          "title": "University Graduate - Machine Learning Engineer",
+          "company": "Adobe",
+          "posted_at": "2026-02-01T06:26:16.115Z"
         }
       ]
     }
@@ -2768,11 +2793,11 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "main-princeton-icims-com-jobs-21017-job",
-        "title": "Senior Research Specialist 1",
-        "company": "Princeton University",
+        "job_id": "jobs-lever-co-gohighlevel-622eb0de-6216-4d98-b8b6-1b199efef94e",
+        "title": "Manager, Digital Marketing",
+        "company": "gohighlevel",
         "reason": "blacklisted",
-        "timestamp": "2026-02-01T06:02:58.129Z"
+        "timestamp": "2026-02-01T06:25:39.793Z"
       }
     ],
     "already_posted": [],
@@ -2783,56 +2808,56 @@
         "title": "Solutions Architect, Applied AI (National Security)",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.112Z"
+        "timestamp": "2026-02-01T06:25:39.776Z"
       },
       {
         "job_id": "fox-wd1-myworkdayjobs-com-domestic-job-new-york-new-york-usa-analyst-audience-activation_r50030922",
         "title": "Analyst – Audience Activation",
         "company": "FOX",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.112Z"
+        "timestamp": "2026-02-01T06:25:39.777Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-accuweather-jobs-7304640",
         "title": "Meteorologist 1",
         "company": "AccuWeather",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.113Z"
+        "timestamp": "2026-02-01T06:25:39.777Z"
       },
       {
         "job_id": "davita-wd1-myworkdayjobs-com-dkc_external-job-05555-casa-del-mundo-office-denver-hq-analyst-people-analytics_r0437932",
         "title": "Analyst – People Analytics",
         "company": "DaVita",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.113Z"
+        "timestamp": "2026-02-01T06:25:39.778Z"
       },
       {
         "job_id": "asurion-wd5-myworkdayjobs-com-asurioncareers_us-job-us-work-at-home-quality-insights-analyst_asu0018284",
         "title": "Quality and Insights Analyst",
         "company": "Asurion",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.114Z"
+        "timestamp": "2026-02-01T06:25:39.778Z"
       },
       {
         "job_id": "erm-wd3-myworkdayjobs-com-erm_careers-job-mexico-city-mexico-consulting-associate-ehs-management-information-systems-entry-level-_r00027643-1",
         "title": "Consulting Associate – Entry Level - EHS Management Information Systems",
         "company": "ERM",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.114Z"
+        "timestamp": "2026-02-01T06:25:39.778Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-newsbreak-jobs-4645712006",
         "title": "Software Engineer – New Grad Friendly - IOS",
         "company": "NewsBreak",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.114Z"
+        "timestamp": "2026-02-01T06:25:39.779Z"
       },
       {
         "job_id": "bah-wd1-myworkdayjobs-com-bah_jobs-job-charleston-sc-software-developer_r0232566-1",
         "title": "Software Developer",
         "company": "Booz Allen",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T06:02:58.115Z"
+        "timestamp": "2026-02-01T06:25:39.779Z"
       }
     ]
   }
