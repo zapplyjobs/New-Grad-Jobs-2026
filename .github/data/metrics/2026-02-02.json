@@ -1,15 +1,15 @@
 {
-  "generated": "2026-02-02T01:04:34.013Z",
+  "generated": "2026-02-02T01:44:20.392Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T01:04:34.013Z",
-  "period_end": "2026-02-02T01:04:34.013Z",
+  "period_start": "2026-01-26T01:44:20.392Z",
+  "period_end": "2026-02-02T01:44:20.392Z",
   "summary": {
     "total_jobs_posted": 3062,
     "unique_jobs": 2215,
     "multi_channel_postings": 1694,
     "unique_multi_channel_jobs": 847,
     "failed_postings": 0,
-    "filtered_jobs": 49,
+    "filtered_jobs": 50,
     "channels_active": 5
   },
   "by_channel": {
@@ -3922,340 +3922,347 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7488992",
-        "title": "Senior Software Engineer, Android Test Engineering",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.804Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7488991",
-        "title": "Senior Software Engineer, Android Test Engineering",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.804Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7488986",
-        "title": "Senior Software Engineer, Android Test Engineering",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7413993",
-        "title": "Senior IT Support Engineer, Snoo Operations & Support (SOS)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7336592",
-        "title": "Technical Support Manager ",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7454499",
-        "title": "Senior Client Partner, Large Customer Sales (Retail Beauty)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7254586",
-        "title": "Director, Global 3rd Party Partnerships",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7370711",
-        "title": "Senior Android Engineer, Apps Platform (Performance)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7370708",
-        "title": "Senior Android Engineer, Apps Platform (Performance)",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7348120",
-        "title": "Senior iOS Software Engineer, iOS Platform",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7348117",
-        "title": "Senior iOS Software Engineer, iOS Platform",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7348119",
-        "title": "Senior iOS Software Engineer, iOS Platform",
-        "company": "reddit",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "nshe-wd1-myworkdayjobs-com-unr-external-job-university-of-nevada-reno-main-campus-postdoctoral-scholar-high-energy-density-hed-physics_r0150275",
-        "title": "Postdoctoral Scholar - Multiple Teams",
-        "company": "University of Nevada Reno",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-7892186002",
-        "title": "Senior Data Scientist, Finance ",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5678141004",
-        "title": "Director of Partnerships, North America",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5650641004",
-        "title": "Director of Sales Engineering, AMER",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5719801004",
-        "title": "Director of Trust & Safety Engineering",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5701765004",
-        "title": "Engineering Manager, CDN",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5741089004",
-        "title": "Finance Manager",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5753933004",
-        "title": "FP&A Manager,  GTM",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5501424004",
-        "title": "GSI & Consultancies, Partner Lead",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5654653004",
-        "title": "Platform Abuse Operations Lead, Trust & Safety",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5589398004",
-        "title": "Product Manager - Accounts",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.805Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5753944004",
-        "title": "Senior Accountant",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5759817004",
-        "title": "Senior Manager, FP&A Systems",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5611652004",
-        "title": "Senior Partner Marketing Manager",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5722132004",
-        "title": "Staff Product Marketing Manager, v0",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5743232004",
-        "title": "Strategic Finance Manager, GTM",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7339537",
-        "title": "Senior Offline Media Manager",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-7101583",
+        "title": "Process and Controls Financial Manager",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.886Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-6963453",
-        "title": "Sr Staff Software Engineer, Entity Management",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-6678216",
+        "title": "Expansion Account Manager ",
         "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.886Z"
       },
       {
-        "job_id": "newrez-wd1-myworkdayjobs-com-nrz-job-tx-coppell-trail-rising-leaders-program-software-engineering_r8404",
-        "title": "TRAIL Rising Leaders Program - Software Engineering",
-        "company": "Newrez",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-6447954",
+        "title": "Principal Software Engineer - Payroll",
+        "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.886Z"
       },
       {
-        "job_id": "www-brex-com-careers-8372631002",
-        "title": "Senior Marketing Operations Manager, Product-Led Growth",
-        "company": "brex",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-6348898",
+        "title": "Corporate Development & Partnerships Deal Lead",
+        "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.886Z"
       },
       {
-        "job_id": "www-brex-com-careers-8372627002",
-        "title": "Senior Marketing Operations Manager, B2B Sales",
-        "company": "brex",
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-5959078",
+        "title": "Software Engineering Manager, Symmetry ",
+        "company": "gusto",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.886Z"
       },
       {
-        "job_id": "www-brex-com-careers-8366663002",
-        "title": "BizOps Lead, BD",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8366662002",
-        "title": "BizOps Lead, BD",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8362761002",
-        "title": " BizOps Lead, BD",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-4ca11c51-6c3f-4272-b5b5-6f4564165f0c",
-        "title": "Manager, Global Yield Programs & Incentives",
+        "job_id": "jobs-lever-co-spotify-67657e91-5424-429e-a6f2-0697ddc50234",
+        "title": "Manager, Partner Product and Delivery",
         "company": "spotify",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.886Z"
       },
       {
-        "job_id": "vaynermedia-com-careers",
-        "title": "Senior Associate - Analytics - Media",
-        "company": "VaynerMedia",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5752781004",
-        "title": "Director, Corporate & Securities Counsel",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
-      },
-      {
-        "job_id": "www-coinbase-com-careers-positions-7530570",
-        "title": "Associate Manager, Compliance",
+        "job_id": "www-coinbase-com-careers-positions-7269743",
+        "title": "Associate Product Manager Intern",
         "company": "coinbase",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.886Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7524662",
-        "title": "Staff Data Scientist - Product",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8367554002",
+        "title": "Engineering Manager, Salesforce",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
       },
       {
-        "job_id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate-mathematics_r138207",
-        "title": "Postdoctoral Research Associate - Mathematics",
-        "company": "Northeastern University",
+        "job_id": "www-brex-com-careers-8339005002",
+        "title": "Engineering Manager, Salesforce",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
       },
       {
-        "job_id": "nshe-wd1-myworkdayjobs-com-unlv-external-job-unlv1-main-campus-las-vegas-postdoctoral-scholar-interdisciplinary-data-science-college-of-engineering-r0144891-_r0144891",
-        "title": "Postdoctoral Scholar - Interdisciplinary Data Science",
-        "company": "University of Nevada Las Vegas (UNLV)",
+        "job_id": "www-brex-com-careers-8367552002",
+        "title": "Engineering Manager, GTM Engineering ",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7460250",
-        "title": "People Technology Delivery Manager",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8367549002",
+        "title": "Engineering Manager, GTM Engineering ",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7426379",
-        "title": "Senior Product Marketing Manager, HR Experiences",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8339037002",
+        "title": "Engineering Manager, GTM Engineering ",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7383685",
-        "title": "Senior Product Marketing Manager, Payroll GTM",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8340994002",
+        "title": "Staff Economist",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.806Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7295836",
-        "title": "Government Affairs Lead (Small Business Healthcare, Benefits, and HR Policy)",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8330487002",
+        "title": "Senior Engineering Manager, Activation",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.807Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7228256",
-        "title": "Corporate Tax Manager",
-        "company": "gusto",
+        "job_id": "www-brex-com-careers-8366671002",
+        "title": "BizOps Lead, BD",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T01:04:22.807Z"
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5748282004",
+        "title": "Community Marketing Manager - Figma Weave (New York, United States) ",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-sykesville-engineer-quality-principal-engineer-quality_r10218213",
+        "title": "Quality Engineer - Principal Quality Engineer",
+        "company": "Northrop Grumman",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5735636004",
+        "title": "Strategic Program Manager, Contingent Workforce",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-cloudflare-jobs-7514944",
+        "title": "Senior Security Compliance Specialist (DoD)",
+        "company": "cloudflare",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-maryland-linthicum-space-payload-i-t-engineer-principal-engineer_r10218297",
+        "title": "Space Payload 1&T – Engineer/Principal Engineer",
+        "company": "Northrop Grumman",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "fa-essf-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-10003191",
+        "title": "Engineer 1 – Senior Engineer – Senior Engineer 2 – Principal Engineer System Protection - Principal Engineer System Protection",
+        "company": "Berkshire Hathaway Energy",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8350839002",
+        "title": "Senior Contracts Manager, Procurement and AI",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8360086002",
+        "title": "Tax Director",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8307573002",
+        "title": "Tax Director",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5739002004",
+        "title": "GTM Strategy Manager ",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5732415004",
+        "title": "Director, Product Marketing ",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "amazon-jobs-en-jobs-3150951-agentic-ai-teacher-agi-ds-agi-ds",
+        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+        "company": "Amazon",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "nrel-wd5-myworkdayjobs-com-nrel-job-golden-co-director-s-fellowship-postdoctoral-researcher_r14061",
+        "title": "Director's Fellowship Postdoctoral Researcher",
+        "company": "National Renewable Energy Laboratory",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gallup-jobs-4077186009",
+        "title": "Senior Backend Developer",
+        "company": "Gallup",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-8e7a19e9-7897-46ff-a983-c2f1b6f1cdb8",
+        "title": "Director of Sales, Scaled Vendor Sales",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-trustworthy-artificial-intelligence-2_r-089885-1",
+        "title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
+        "company": "Prairie View A&M University",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.887Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5739572004",
+        "title": "Sales Enablement Manager ",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-320808",
+        "title": "Senior Software Engineer",
+        "company": "Oracle",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-7968990002",
+        "title": "People Analytics Lead",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8199012002",
+        "title": "Product Manager, AI",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8245333002",
+        "title": "Product Manager, Omni Analysis & Q&A",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8292724002",
+        "title": "Scaled Customer Success Manager",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8230656002",
+        "title": "Senior Enterprise Marketing Manager",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8229185002",
+        "title": "Senior Manager, Finance Systems",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-airtable-jobs-8235618002",
+        "title": "Senior Manager, People Systems",
+        "company": "airtable",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5737291004",
+        "title": "Legal Operations Lead, CLM & Technology",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
+        "title": "Senior Manager, Music Label Deal Analysis - FP&A",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5735644004",
+        "title": "Senior Technical Revenue Manager",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2343767",
+        "title": "Senior Data Scientist",
+        "company": "Walmart",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-edwards-afb-data-insight-analyst-or-principal-data-insight-analyst_r10213256",
+        "title": "Data Insight Analyst - Principal Data Insight Analyst",
+        "company": "Northrop Grumman",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5737778004",
+        "title": "Strategic Program Manager",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5737701004",
+        "title": "Manager, Figma for Education ",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8332016002",
+        "title": "Staff Economist",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5735296004",
+        "title": "Compliance Manager, Customer Trust & Third Party Risk",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T01:44:16.888Z"
       }
     ],
     "already_posted": [],
@@ -4266,7 +4273,7 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-02T01:04:22.786Z"
+        "timestamp": "2026-02-02T01:44:16.867Z"
       }
     ]
   }
