@@ -10,12 +10,12 @@
     "title": "Top Tech"
   },
   "enterprise": {
-    "companies": ["CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday", "ServiceNow", "SS&C", "Emerson", "Ping Identity", "Sentry"],
+    "companies": ["CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday", "ServiceNow", "SS&C", "Emerson", "Ping Identity", "Sentry", "RWS"],
     "emoji": "💻",
     "title": "Enterprise Software"
   },
   "startups": {
-    "companies": ["Booz Allen", "Guide house", "GDIT", "OpenAI", "Anthropic", "Figma", "Notion", "Discord", "Canva", "Miro", "Gitlab", "GitHub", "Vercel", "Supabase", "CrowdStrike", "Okta", "Unity", "Nuro", "Aurora Innovation", "Flexport", "Sigma Computing", "7shifts", "Remitly", "Parity", "Wonderschool", "HeyGen", "NewsBreak", "Pylon", "Prosidian Consulting", "Lumafield", "Cook Systems", "Unify", "Northslope Technologies", "Coalition", "mthree", "EvenUp", "Collective Hub", "Numeric", "N1", "Mandolin", "ClearEdge", "Ranger", "OpenEye", "MetroStar", "SimIS", "i3"],
+    "companies": ["Booz Allen", "Guide house", "GDIT", "OpenAI", "Anthropic", "Figma", "Notion", "Discord", "Canva", "Miro", "Gitlab", "GitHub", "Vercel", "Supabase", "CrowdStrike", "Okta", "Unity", "Nuro", "Aurora Innovation", "Flexport", "Sigma Computing", "7shifts", "Remitly", "Parity", "Wonderschool", "HeyGen", "NewsBreak", "Pylon", "Prosidian Consulting", "Lumafield", "Cook Systems", "Unify", "Northslope Technologies", "Coalition", "mthree", "EvenUp", "Collective Hub", "Numeric", "N1", "Mandolin", "ClearEdge", "Ranger", "OpenEye", "MetroStar", "SimIS", "i3", "Datadog", "Brex", "Airtable"],
     "emoji": "🚀",
     "title": "Startups & Growth"
   },
@@ -25,12 +25,12 @@
     "title": "Consumer & E-Commerce"
   },
   "fintech": {
-    "companies": ["JP Morgan Chase", "Stripe", "Coinbase", "Robinhood", "Square", "Plaid", "Affirm", "BMO", "The Travelers Companies", "Five Rings", "M&T Bank", "Citadel Securities", "Citadel", "Tower Research Capital", "Akuna Capital", "Capital Rx", "Acorns", "Kikoff", "Supernova Technology", "Ramp", "BRM", "Old Mission"],
+    "companies": ["JP Morgan Chase", "Stripe", "Coinbase", "Robinhood", "Square", "Plaid", "Affirm", "BMO", "The Travelers Companies", "Five Rings", "M&T Bank", "Citadel Securities", "Citadel", "Tower Research Capital", "Akuna Capital", "Capital Rx", "Acorns", "Kikoff", "Supernova Technology", "Ramp", "BRM", "Old Mission", "Wells Fargo"],
     "emoji": "💰",
     "title": "Financial & Fintech"
   },
   "defense": {
-    "companies": ["WAYMO", "SpaceX", "Palantir", "Blue Origin", "The Boeing Company", "Anduril Industries", "Shield AI", "Silvus Technologies", "General Dynamics", "Leidos", "Peraton", "Radiance Technologies", "Maxar", "Moog", "HNTB", "Amentum", "CACI", "Sev1Tech"],
+    "companies": ["WAYMO", "SpaceX", "Palantir", "Blue Origin", "The Boeing Company", "Anduril Industries", "Shield AI", "Silvus Technologies", "General Dynamics", "Leidos", "Peraton", "Radiance Technologies", "Maxar", "Moog", "HNTB", "Amentum", "CACI", "Sev1Tech", "Verkada", "RTX"],
     "emoji": "🛡️",
     "title": "Defense & Aerospace"
   },
