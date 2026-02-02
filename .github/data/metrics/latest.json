@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-02T02:34:19.886Z",
+  "generated": "2026-02-02T02:48:38.286Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T02:34:19.886Z",
-  "period_end": "2026-02-02T02:34:19.886Z",
+  "period_start": "2026-01-26T02:48:38.286Z",
+  "period_end": "2026-02-02T02:48:38.286Z",
   "summary": {
     "total_jobs_posted": 3062,
     "unique_jobs": 2215,
@@ -3922,347 +3922,347 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "www-brex-com-careers-8198574002",
-        "title": "Staff Brand Designer, Interactive",
-        "company": "brex",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ai-assisted-scientific-visualization-and-intelligent-data-exploration_421703-1",
+        "title": "Postdoctoral Appointee",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "www-brex-com-careers-7669111002",
-        "title": "Staff Product Designer",
-        "company": "brex",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-msd-experimental-condensed-matter-physics_421675",
+        "title": "Postdoctoral Appointee - MSD Experimental Condensed Matter Physics",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "www-brex-com-careers-8124973002",
-        "title": "Staff Product Designer",
-        "company": "brex",
+        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-pier-pioneering-advanced-materials-for-renewable-energy-1_r-089882-1",
+        "title": "Postdoctoral Researcher - Pier",
+        "company": "Prairie View A&M University",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "sec-wd3-myworkdayjobs-com-samsung_careers-job-645-clyde-avenue-mountain-view-ca-usa-staff-engineer-i-software-process-engineering_r112003",
-        "title": "Staff Engineer I, Software Process Engineering",
-        "company": "Samsung",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-foundation-models-with-federated-learning_421653",
+        "title": "Postdoctoral Appointee - Foundation Models with Federated Learning",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "jobs-lever-co-gohighlevel-47e51c81-6464-429a-a8a5-b15383da5362",
-        "title": "Staff Analytics Engineer",
-        "company": "gohighlevel",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-experimental-ai_421579",
+        "title": "Postdoctoral Appointee - Experimental AI",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "careers-dominionenergy-com-job-richmond-energy-supply-gms-analyst-associate-intermediate-or-senior-va-23219-1360811700",
-        "title": "Energy Supply GMS Analyst – Or Senior - Associate - Intermediate",
-        "company": "Dominion Energy",
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-ai-driven-precision-oncology_r_00039870-1",
+        "title": "Postdoctoral Fellow - AI Driven Precision Oncology",
+        "company": "University of Texas - Austin",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "careers-dominionenergy-com-job-glen-allen-load-forecasting-engineer-engineerseniorstaff-engineering-analytics-modeling-va-23060-1360725700",
-        "title": "Load Forecasting Engineer – Engineer/Senior/Staff - Engineering Analytics & Modeling",
-        "company": "Dominion Energy",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-energy-systems_420958",
+        "title": "Postdoctoral Appointee - Energy Systems",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5778796004",
-        "title": "Manager, Software Engineering - Interaction Design",
-        "company": "figma",
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-tmi-agentic-ai-texas-materials-institute-cockrell-school-of-engineering_r_00043444",
+        "title": "Postdoctoral Fellow - Agentic AI",
+        "company": "University of Texas - Austin",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.356Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-utah-roy-engineer-principal-engineer-mission-assurance-16584_r10216305",
-        "title": "Principal Mission Assurance Engineer",
-        "company": "Northrop Grumman",
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow_r_00030888",
+        "title": "Postdoctoral Fellow",
+        "company": "University of Texas - Austin",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.789Z"
       },
       {
-        "job_id": "jobs-lever-co-spotify-1ef1c258-c89b-40d5-b269-5808eb35ddb5",
-        "title": "Director of Sales, Emerging & Scaled (New Business)",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
-      },
-      {
-        "job_id": "walmart-wd5-myworkdayjobs-com-walmartexternal-job-bentonville-ar-senior-data-scientist_r-2367375-1",
-        "title": "Senior – Data Scientist",
-        "company": "Walmart",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
-      },
-      {
-        "job_id": "jobs-lever-co-spotify-e35594fa-1c62-487d-833f-774878b6e829",
-        "title": "Manager, Sales Operations – Commissions",
-        "company": "spotify",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5725192004",
-        "title": "Senior CES Operations Manager",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
-      },
-      {
-        "job_id": "nrel-wd5-myworkdayjobs-com-nrel-job-co-golden-postdoctoral-researcher-process-modeling-and-sustainability-analysis-for-plastics-upcycling-biorefining_r14058",
+        "job_id": "lsu-wd1-myworkdayjobs-com-lsu-job-2056-digital-media-center-postdoctoral-researcher_r00111205",
         "title": "Postdoctoral Researcher",
-        "company": "National Renewable Energy Laboratory",
+        "company": "Louisiana State University (LSU)",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-nebraska-bellevue-software-engineer-principal-software-engineer-aht-_r10216147",
-        "title": "Software Engineer / Principal Software Engineer - Aht",
+        "job_id": "wpi-wd5-myworkdayjobs-com-wpi_external_career_site-job-worcester-post-doctoral-fellow_r0003237",
+        "title": "Post-Doctoral Fellow",
+        "company": "Worcester Polytechnic Institute",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.790Z"
+      },
+      {
+        "job_id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-alabama-huntsville-software-engineer-principal-software-engineer-aht-_r10211293",
+        "title": "Software Engineer/Principal Software Engineer - Aht",
         "company": "Northrop Grumman",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5725496004",
-        "title": "Marketing Strategy Manager",
-        "company": "figma",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-medium-energy-physics_421234",
+        "title": "Postdoctoral Appointee - Medium Energy Physics",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5721796004",
-        "title": "Community Experiences Manager",
-        "company": "figma",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-physics-informed-ai-for-microelectronics-materials_421205",
+        "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5722244004",
-        "title": "Manager, Software Engineering - Billing",
-        "company": "figma",
+        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-ai-for-coherent-x-ray-imaging_421292-1",
+        "title": "Postdoctoral Appointee - AI for Coherent X-ray Imaging",
+        "company": "Argonne National Laboratory",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5722839004",
-        "title": "Manager, GTM Finance",
-        "company": "figma",
+        "job_id": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100715",
+        "title": "Postdoctoral Associate",
+        "company": "University of Maryland - College Park",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "tamus-wd1-myworkdayjobs-com-tamucc_external-job-corpus-christi-tx-postdoctoral-research-associate_r-089245-1",
-        "title": "Postdoctoral Research Associate",
-        "company": "Texas A&M University - Corpus Christi",
+        "job_id": "onto-wd1-myworkdayjobs-com-onto_careers-job-wilmington-ma-upton-senior-software-engineer_r-4963",
+        "title": "Senior Software Engineer",
+        "company": "Onto Innovation",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-neutrino-physics_req_0000073465-1",
-        "title": "Postdoctoral Scholar-Neutrino Physics",
+        "job_id": "woundedwarriorproject-wd5-myworkdayjobs-com-wwp-job-jacksonville-fl-senior-salesforce-marketing-cloud-developer_r14110",
+        "title": "Senior Salesforce Marketing Cloud Developer",
+        "company": "Wounded Warrior Project",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.790Z"
+      },
+      {
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-fellow-in-future-runoff-and-reservoir-evaporation-projections-for-texas-river-basins_r_00034762-1",
+        "title": "Postdoctoral Fellow in Future Runoff and Reservoir Evaporation Projections for Texas River Basins",
+        "company": "University of Texas - Austin",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.790Z"
+      },
+      {
+        "job_id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-experimental-ultrahigh-energy-neutrino-pueo-experiment_req_0000043392-2",
+        "title": "Postdoctoral Scholar - Experimental Ultrahigh Energy Neutrino - PUEO Experiment",
         "company": "PennState University",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-miami-fl-post-doctoral-scholar_r100087909",
-        "title": "Postdoctoral Scholar",
-        "company": "University of Miami",
+        "job_id": "www-uber-com-global-en-careers-list-148238",
+        "title": "Senior Scientist - Autonomous Mobility & Delivery",
+        "company": "Uber",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-cosmology-spherex-galaxy-clusters-_421458-1",
-        "title": "Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters",
-        "company": "Argonne National Laboratory",
+        "job_id": "jobs-l3harris-com-job-greenville-senior-associate-application-development-greenville-tx-tx-75402-1318855300",
+        "title": "Senior Associate - Application Development - Greenville TX",
+        "company": "L3Harris Technologies",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-coastal-urban-flooding_421450",
-        "title": "Postdoctoral Appointee - Coastal-urban Flooding",
-        "company": "Argonne National Laboratory",
+        "job_id": "umd-wd1-myworkdayjobs-com-umcp-job-university-of-maryland-college-park-post-doctoral-associate_jr100737",
+        "title": "Post-Doctoral Associate",
+        "company": "University of Maryland - College Park",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5711923004",
-        "title": "Manager, Field Marketing",
-        "company": "figma",
+        "job_id": "www-redventures-com-careers-positions-open",
+        "title": "Associate Data Science Product Manager",
+        "company": "Red Ventures",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "jobs-ashbyhq-com-clerk-be4962fc-0c3e-47c3-b77e-71e48d62a376",
-        "title": "Product Manager, Billing",
-        "company": "clerk",
+        "job_id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-researcher-survey-science-time-domain-astronomy_req_0000072795-2",
+        "title": "Postdoctoral Researcher - Survey Science/Time Domain Astronomy",
+        "company": "PennState University",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5696205004",
-        "title": "Manager, Mid-Market Sales",
-        "company": "figma",
+        "job_id": "eeho-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_45001-job-313247",
+        "title": "Senior Data Scientist",
+        "company": "Oracle",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.790Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5696366004",
-        "title": "Manager, Software Engineering - Creation Engine",
-        "company": "figma",
+        "job_id": "job-boards-greenhouse-io-archer56-jobs-7499031003",
+        "title": "Senior Software Engineer - Back End",
+        "company": "Archer",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
+        "timestamp": "2026-02-02T02:48:34.791Z"
       },
       {
-        "job_id": "boards-greenhouse-io-figma-jobs-5697641004",
-        "title": "Manager, Solutions Consulting",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5705600004",
-        "title": "Partner Manager, Scaled",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5701839004",
-        "title": "Product Manager, Sites",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.357Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5694470004",
-        "title": "Product Manager, CMS",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5693075004",
-        "title": "Product Manager, Growth",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5661397004",
-        "title": "Director, Design - Communication Tools",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5678196004",
-        "title": "Manager, Software Engineering - Expressive AI",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5654898004",
-        "title": "Manager, Software Engineering - Collaboration Tools",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5659927004",
-        "title": "Sales Onboarding Program Manager",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5628218004",
-        "title": "Demo Strategy & Effectiveness Manager ",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5632187004",
-        "title": "Product Manager, Creation Engine",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5641078004",
-        "title": "Product Manager, Scale",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5579903004",
-        "title": "Director, Software Engineering - Growth",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5600388004",
-        "title": "Director, Software Engineering - Product Platform",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5574247004",
-        "title": "Product Manager, AI",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5564202004",
-        "title": "Manager, Mid-Market Sales ",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5505263004",
-        "title": "Product Manager, Design Tools",
-        "company": "figma",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "argonne-wd1-myworkdayjobs-com-argonne_careers-job-lemont-il-usa-postdoctoral-appointee-cosmological-physics-advanced-computing-cpac-_421370",
-        "title": "Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC",
-        "company": "Argonne National Laboratory",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "jj-wd5-myworkdayjobs-com-jj-job-titusville-new-jersey-united-states-of-america-postdoctoral-researcher-computer-vision-ai-ml-radiology-oncology_r-042914-1",
-        "title": "Postdoctoral Researcher - Computer Vision - AI/ML Radiology and Oncology",
-        "company": "Johnson & Johnson",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "careers-parkhill-icims-com-jobs-1350-job",
-        "title": "Senior Lidar Specialist",
-        "company": "Parkhill",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
-      },
-      {
-        "job_id": "jobs-lever-co-gohighlevel-03469b50-e3b8-403f-a3a0-138a292b6954",
-        "title": "Sr. Director, Integrated Marketing",
+        "job_id": "jobs-lever-co-gohighlevel-f4d6ee97-8ed4-48a8-a5da-407c309f9614",
+        "title": "Events Partnerships Manager",
         "company": "gohighlevel",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T02:34:16.358Z"
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-ashbyhq-com-supabase-4ac110be-208a-4d68-8db2-6c170867b8e7",
+        "title": "Customer Solution Architect Team Lead (EMEA)",
+        "company": "supabase",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-d196c5ef-9eac-44ff-9e8a-c82965c7e71a",
+        "title": "Staff Research Engineer - Music",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
+        "title": "Senior Research Engineer - Music",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-32297d46-a347-4680-849c-1c56d0a2666a",
+        "title": "Senior Content Accountant",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-dbe8398a-1e65-401a-ac49-52c88a7530d3",
+        "title": "Finance Program Manager",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-ashbyhq-com-clerk-2b701338-d869-49aa-9223-fca71967e9a9",
+        "title": "Senior Software Engineer, Growth",
+        "company": "clerk",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "lbl-taleo-net-careersection-5-jobdetail-ftl",
+        "title": "Hoffman Distinguished Postdoctoral Fellow - Nuclear Nonproliferation",
+        "company": "Lawrence Berkeley National Laboratory",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-austin-tx-postdoctoral-fellow-department-of-computer-science_r_00042583",
+        "title": "Postdoctoral Fellow - Department of Computer Science",
+        "company": "University of Texas - Austin",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "bnl-wd1-myworkdayjobs-com-externa-job-upton-ny-postdoc-machine-learning_jr102052",
+        "title": "Postdoc – Machine Learning",
+        "company": "Brookhaven Lab",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar_req_0000072094-1",
+        "title": "Postdoctoral Scholar",
+        "company": "PennState University",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "tamus-wd1-myworkdayjobs-com-pvamu_external-job-prairie-view-tx-postdoctoral-researcher-credit-_r-079402",
+        "title": "Postdoctoral Researcher",
+        "company": "Prairie View A&M University",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-lever-co-gohighlevel-b4af6df2-340f-44e5-a047-de30299159d1",
+        "title": "Manager - BDR",
+        "company": "gohighlevel",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "main-princeton-icims-com-jobs-21017-job",
+        "title": "Senior Research Specialist 1",
+        "company": "Princeton University",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-lever-co-gohighlevel-622eb0de-6216-4d98-b8b6-1b199efef94e",
+        "title": "Manager, Digital Marketing",
+        "company": "gohighlevel",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "jobs-ashbyhq-com-supabase-7c1d5022-7a96-4e62-85e9-f5d586b6d34b",
+        "title": "Product Marketing Manager ",
+        "company": "supabase",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-ut-main-campus-postdoctoral-scholar-department-of-petroleum-and-geosystems-engineering-cockrell-school-of-engineering_r_00018034",
+        "title": "Postdoctoral Scholar - Petroleum and Geosystems Engineering - Cockrell School of Engineering",
+        "company": "University of Texas - Austin",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "utaustin-wd1-myworkdayjobs-com-utstaff-job-pickle-research-campus-seismology-postdoctoral-fellow_r_00028107",
+        "title": "Seismology Postdoctoral Fellow",
+        "company": "University of Texas - Austin",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "umiami-wd1-myworkdayjobs-com-umcareerstaff-job-coral-gables-fl-post-doctoral-associate_r100089997",
+        "title": "Postdoctoral Associate",
+        "company": "University of Miami",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "northeastern-wd1-myworkdayjobs-com-careers-job-boston-ma-main-campus-postdoctoral-research-associate_r132402",
+        "title": "Postdoctoral Research Associate",
+        "company": "Northeastern",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "psu-wd1-myworkdayjobs-com-psu_academic-job-penn-state-university-park-postdoctoral-scholar-department-of-physics-wissel-research-group_req_0000045022-1",
+        "title": "Postdoctoral Scholar - Department of Physics - Wissel Research Group",
+        "company": "PennState University",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4990280007",
+        "title": "Sr. Tradeshow and Event Marketing Manager",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T02:48:34.791Z"
       }
     ],
     "already_posted": [],
@@ -4273,7 +4273,7 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-02T02:34:16.337Z"
+        "timestamp": "2026-02-02T02:48:34.770Z"
       }
     ]
   }
