@@ -861,7 +861,9 @@ async function processJobs() {
         });
         
         // Filter current jobs (not older than a week)
-        const currentJobs = sortedJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at));
+        // Use job_posted_at_datetime_utc (ISO date) instead of job_posted_at (relative format)
+        // job_posted_at is static from when job was first fetched, but job_posted_at_datetime_utc is the actual posting date
+        const currentJobs = sortedJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
 
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
@@ -1010,7 +1012,8 @@ async function processJobs() {
         }
         
         // Calculate archived jobs
-        const archivedJobs = sortedJobs.filter(j => isJobOlderThanWeek(j.job_posted_at));
+        // Use job_posted_at_datetime_utc (ISO date) instead of job_posted_at (relative format)
+        const archivedJobs = sortedJobs.filter(j => isJobOlderThanWeek(j.job_posted_at_datetime_utc));
 
         console.log(`✅ Job processing complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
 
