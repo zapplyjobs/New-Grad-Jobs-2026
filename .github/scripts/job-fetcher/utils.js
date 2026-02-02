@@ -242,11 +242,30 @@ function formatTimeAgo(dateString) {
 
 function isJobOlderThanWeek(dateString) {
     if (!dateString) return false;
-    
+
+    // Handle relative date formats: 1d, 2w, 3mo, etc.
+    const match = String(dateString).match(/^(\d+)([hdwmo])$/i);
+    if (match) {
+      const value = parseInt(match[1]);
+      const unit = match[2].toLowerCase();
+
+      // Convert relative time to days
+      switch (unit) {
+        case 'h': return value >= 168; // 7 days = 168 hours
+        case 'd': return value >= 7;
+        case 'w': return true; // Any weeks >= 1 is older than 7 days
+        case 'mo': return true; // Any months >= 1 is older than 7 days
+        default: return false;
+      }
+    }
+
+    // Handle ISO date strings
     const date = new Date(dateString);
+    if (isNaN(date.getTime())) return false;
+
     const now = new Date();
     const diffInDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
-    
+
     return diffInDays >= 7;
 }
 

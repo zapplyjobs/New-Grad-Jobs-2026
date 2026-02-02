@@ -118,8 +118,10 @@ function generateJobTable(jobs) {
       companiesWithJobs.forEach(company => {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
-      
-      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
+
+      // Start collapsible category section
+      output += `<details>\n`;
+      output += `<summary><h3>${categoryData.emoji} <strong>${categoryData.title}</strong> (${totalJobs} positions)</h3></summary>\n\n`;
 
       // First handle companies with more than 10 jobs - each gets its own table/section
       const bigCompanies = companiesWithJobs.filter(
@@ -235,9 +237,12 @@ function generateJobTable(jobs) {
             output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
           });
         });
-        
+
         output += "\n";
       }
+
+      // End collapsible category section
+      output += `</details>\n\n`;
     }
   });
 
@@ -258,7 +263,9 @@ function generateJobTable(jobs) {
 
     console.log(`\n📝 DEBUG: Processing UNCATEGORIZED companies: ${uncategorizedCompanies.length} companies with ${totalUncategorizedJobs} jobs`);
 
-    output += `### 🏢 **Other Companies** (${totalUncategorizedJobs} positions)\n\n`;
+    // Start collapsible "Other Companies" section
+    output += `<details>\n`;
+    output += `<summary><h3>🏢 <strong>Other Companies</strong> (${totalUncategorizedJobs} positions)</h3></summary>\n\n`;
 
     // Handle large uncategorized companies (>10 jobs) separately
     const bigUncategorized = uncategorizedCompanies.filter(
@@ -374,6 +381,9 @@ function generateJobTable(jobs) {
 
       output += "\n";
     }
+
+    // End collapsible "Other Companies" section
+    output += `</details>\n\n`;
   }
 
   console.log(`\n🎉 DEBUG: Finished generating job table with ${Object.keys(jobsByCompany).length} companies processed (${categorizedCompanies.size} categorized + ${uncategorizedCompanies.length} uncategorized)`);
