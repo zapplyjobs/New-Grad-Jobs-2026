@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-02T07:56:21.263Z",
+  "generated": "2026-02-02T08:22:13.654Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T07:56:21.263Z",
-  "period_end": "2026-02-02T07:56:21.263Z",
+  "period_start": "2026-01-26T08:22:13.654Z",
+  "period_end": "2026-02-02T08:22:13.654Z",
   "summary": {
-    "total_jobs_posted": 3062,
-    "unique_jobs": 2215,
-    "multi_channel_postings": 1694,
-    "unique_multi_channel_jobs": 847,
+    "total_jobs_posted": 3066,
+    "unique_jobs": 2217,
+    "multi_channel_postings": 1698,
+    "unique_multi_channel_jobs": 849,
     "failed_postings": 0,
-    "filtered_jobs": 50,
+    "filtered_jobs": 48,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1862,
+      "count": 1864,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -1878,21 +1878,11 @@
         "7d8b1d99be0d8f77",
         "93ddb1caecf23e33",
         "8d4f4c9e700f6592",
-        "55b160a48d928e51"
+        "55b160a48d928e51",
+        "7bcd2ca95bfa2411",
+        "2c67bdbb7744b6fd"
       ],
       "recent_jobs": [
-        {
-          "id": "5d10ea8dbeb07322",
-          "title": "IP Legal Specialist",
-          "company": "anthropic",
-          "posted_at": "2026-02-01T22:15:16.059Z"
-        },
-        {
-          "id": "30a68e33de83b2a9",
-          "title": "Software Engineer 1",
-          "company": "Cisco",
-          "posted_at": "2026-02-01T22:33:29.853Z"
-        },
         {
           "id": "d1fb5ddbe9241e08",
           "title": "Software Engineer 2",
@@ -1940,12 +1930,24 @@
           "title": "Email Marketing Operations",
           "company": "figma",
           "posted_at": "2026-02-02T01:04:23.235Z"
+        },
+        {
+          "id": "7bcd2ca95bfa2411",
+          "title": "Technical Recruiter, Design",
+          "company": "figma",
+          "posted_at": "2026-02-02T08:21:59.782Z"
+        },
+        {
+          "id": "2c67bdbb7744b6fd",
+          "title": "Technical Recruiter, Product ",
+          "company": "figma",
+          "posted_at": "2026-02-02T08:22:03.439Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 454,
+      "count": 456,
       "jobs": [
         "b24e59b476e85eb5",
         "d6b0cc580d11b6e0",
@@ -2400,21 +2402,11 @@
         "7d8b1d99be0d8f77",
         "93ddb1caecf23e33",
         "8d4f4c9e700f6592",
-        "55b160a48d928e51"
+        "55b160a48d928e51",
+        "7bcd2ca95bfa2411",
+        "2c67bdbb7744b6fd"
       ],
       "recent_jobs": [
-        {
-          "id": "898d0c19f352c492",
-          "title": "Engineer 1 - Applied LLM Team",
-          "company": "Magnite",
-          "posted_at": "2026-02-01T22:00:33.669Z"
-        },
-        {
-          "id": "160a2a0c0ab9992e",
-          "title": "Upmarket Account Executive",
-          "company": "brex",
-          "posted_at": "2026-02-01T22:15:09.233Z"
-        },
         {
           "id": "5d10ea8dbeb07322",
           "title": "IP Legal Specialist",
@@ -2462,6 +2454,18 @@
           "title": "Email Marketing Operations",
           "company": "figma",
           "posted_at": "2026-02-02T01:04:23.235Z"
+        },
+        {
+          "id": "7bcd2ca95bfa2411",
+          "title": "Technical Recruiter, Design",
+          "company": "figma",
+          "posted_at": "2026-02-02T08:21:59.782Z"
+        },
+        {
+          "id": "2c67bdbb7744b6fd",
+          "title": "Technical Recruiter, Product ",
+          "company": "figma",
+          "posted_at": "2026-02-02T08:22:03.439Z"
         }
       ]
     },
@@ -3922,347 +3926,333 @@
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4949027007",
-        "title": "Senior Project Engineer, Global Services",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4185105007",
-        "title": "Solutions Engineering Manager, Select & Territory",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-5023333007",
-        "title": "Sr Channel Sales Manager, Midwest",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8399014002",
-        "title": "Senior Engineer, AI — Brex Assistant",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8398916002",
-        "title": "Senior Engineer, AI — Brex Assistant",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7579542",
-        "title": "Director, Engineering Operations",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-gusto-jobs-7357023",
-        "title": "Brand Marketing Director",
-        "company": "gusto",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103029008",
-        "title": "Staff Software Engineer, Build Systems",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7273649",
-        "title": "Staff Applied Scientist - Observability Data Platform",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.593Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7275644",
-        "title": "Staff Applied Scientist - Observability Data Platform",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7359328",
-        "title": "Senior Atlassian Administrator - Enterprise IT Operations",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7382522",
-        "title": "Senior Counsel, Corporate & M&A",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7406998",
-        "title": "Senior Customer Data Scientist",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7376371",
-        "title": "Senior Director, Product Design",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7496440",
-        "title": "Senior Enablement Manager, Emerging Technology",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7494521",
-        "title": "Senior Field Enablement Manager - Leadership Development",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7467351",
-        "title": "Senior FP&A Analyst - NYC",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7341691",
-        "title": "Senior Manager, People Business Partner - NYC",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7517513",
-        "title": "Senior Partner Manager - Channels (Public Sector)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7411148",
-        "title": "Senior Product Manager - Cost and Usage Experience",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7065807",
-        "title": "Senior Product Manager - Database AI Optimization",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7373098",
-        "title": "Senior Product Marketing Manager (AI Security)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7329541",
-        "title": "Senior Product Marketing Manager (Cloud Cost Management)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7516279",
-        "title": "Senior Sales Engineer - Key Accounts (West)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7440306",
-        "title": "Senior Security Engineer, Data Security",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7521096",
-        "title": "Senior Security Engineer - Threat Detection Engineering",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-3851935",
-        "title": "Senior Software Engineer ",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7107875",
-        "title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-4732393",
-        "title": "Senior Software Engineer - Frontend",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7107873",
-        "title": "Senior Software Engineer - IDE AI Experiences - LLM Engineer",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.594Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-6960503",
-        "title": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-5608424",
-        "title": "Senior Staff Software Engineer ",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7395012",
-        "title": "Senior Tax Accountant - NYC",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7446392",
-        "title": "Senior Technical Program Manager, Knowledge Systems",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-6958985",
-        "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-3210217",
-        "title": "Staff Software Engineer",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7375183",
-        "title": "Staff Software Engineer - Frontend",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7107437",
-        "title": "Staff Software Engineer - ML Observability",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7144531",
-        "title": "Staff Statistics Engineer - Feature Flagging and Experimentation",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-airtable-jobs-8077213002",
-        "title": "Senior Growth Marketing Manager, Builders",
-        "company": "airtable",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8210945002",
-        "title": "Director of Data and Analytics Engineering",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5553789004",
-        "title": "Senior Partner Solutions Engineer",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8396701002",
-        "title": "Senior Data Engineer - Ads ",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7558457",
-        "title": "Senior Software Engineer, Site Defense",
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7536129",
+        "title": "Senior Client Partner, Large Customer Sales (Finance)",
         "company": "reddit",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
+        "timestamp": "2026-02-02T08:21:59.412Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7558455",
-        "title": "Senior Software Engineer, Site Defense",
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531245",
+        "title": "Senior Client Partner, Large Customer Sales (Auto)",
         "company": "reddit",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
+        "timestamp": "2026-02-02T08:21:59.412Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-reddit-jobs-7542779",
-        "title": "Senior Software Engineer, Site Defense",
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531536",
+        "title": "Client Account Manager, Large Customer Sales (Auto)",
         "company": "reddit",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
+        "timestamp": "2026-02-02T08:21:59.412Z"
       },
       {
-        "job_id": "www-coinbase-com-careers-positions-7579665",
-        "title": "Lead Compliance Analyst",
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7531467",
+        "title": "Senior Client Account Manager, Mid-Market (Goods)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.412Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532242",
+        "title": "Director, Mid-Market Sales (Goods - Shopping)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.412Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7519917",
+        "title": "Director, Mid-Market Sales (Goods - Shopping)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.412Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532238",
+        "title": "Director, Mid-Market Sales (Goods - Shopping)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7511698",
+        "title": "Staff Software Engineer, Storage",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7519923",
+        "title": "Director, Mid-Market Sales (B2B Services)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7532202",
+        "title": "Director, Mid-Market Sales (B2B Services)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7510898",
+        "title": "Internal Communications Senior Manager (Global Sales)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7489210",
+        "title": "Client Account Manager, Mid-Market (B2B Services)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7488988",
+        "title": "Senior Software Engineer, Android Test Engineering",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5707695004",
+        "title": "Technical Program Manager, AI Research",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "www-coinbase-com-careers-positions-7409945",
+        "title": "Manager, On-Site Executive IT Support (Residential Operations)",
         "company": "coinbase",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
+        "timestamp": "2026-02-02T08:21:59.413Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5098567008",
-        "title": "Senior Technical Documentation Specialist, Claude Developer Platform",
-        "company": "anthropic",
+        "job_id": "www-brex-com-careers-8381523002",
+        "title": "Senior Software Engineer, Full-Stack",
+        "company": "brex",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
+        "timestamp": "2026-02-02T08:21:59.413Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5098565008",
-        "title": "Education Platform Engineering Lead",
-        "company": "anthropic",
+        "job_id": "imh-wd108-myworkdayjobs-com-intermountaincareers-job-selecthealth-murray-data-architect-senior_r160772",
+        "title": "Data Architect Senior",
+        "company": "Intermountain Healthcare",
         "reason": "blacklisted",
-        "timestamp": "2026-02-02T07:56:17.595Z"
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8380681002",
+        "title": "Senior Marketing Operations Manager, Product-Led Growth",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8372636002",
+        "title": "Senior Marketing Operations Manager, Product-Led Growth",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8372597002",
+        "title": "Senior Marketing Operations Manager, B2B Sales",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8380680002",
+        "title": "Senior Marketing Operations Manager, B2B Sales",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-7aa8f2c1-eaa7-445a-a2ed-9e1be3ae2dd4",
+        "title": "Senior Fullstack Engineer - Backstage Portal, Data Experience",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5765928004",
+        "title": "Customer Enablement Manager - Figma Weave (New York, United States)",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.413Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-08c35d47-692c-4c16-9297-b1b88ec4c69c",
+        "title": "Product Marketing Manager - Spotify for Artists, Campaign Kit",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8378840002",
+        "title": "Senior GRC Lead",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8378792002",
+        "title": "Senior GRC Lead",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7412433",
+        "title": "Director, Sales Commissions",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7291576",
+        "title": "Director, Sales Commissions",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7543335",
+        "title": "Manager Account Development - Atlanta",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-6605517",
+        "title": "Manager Account Development, Relocation to Atlanta",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7266313",
+        "title": "Manager II, Shipping and Receiving Logistics",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7285924",
+        "title": "Manager of Account Development",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7460051",
+        "title": "Senior Hardware Reliability Engineer",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7274312",
+        "title": "Senior Hardware Systems Engineer",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7291574",
+        "title": "Senior Hardware Systems Engineer",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7266361",
+        "title": "Senior Software Engineer, Connected Workflows",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7306934",
+        "title": "Senior Staff Hardware Systems Engineer",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "www-samsara-com-company-careers-roles-7266465",
+        "title": "Senior Systems EPM",
+        "company": "samsara",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "eyglobal-yello-co-jobs-mtneo4nt4nnx0mujbis29g",
+        "title": "USA – Tax - Business Tax Services - Federal Tax Advisory','Fta','Jd/LLM','Staff 2",
+        "company": "Ernst & Young",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "eyglobal-yello-co-jobs-y_ehdevk9fkm4afzsocccw",
+        "title": "USA – Tax - Indirect Tax - Technology Staff",
+        "company": "Ernst & Young",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-gusto-jobs-6963453",
+        "title": "Sr Staff Software Engineer, Entity Management",
+        "company": "gusto",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "newrez-wd1-myworkdayjobs-com-nrz-job-tx-coppell-trail-rising-leaders-program-software-engineering_r8404",
+        "title": "TRAIL Rising Leaders Program - Software Engineering",
+        "company": "Newrez",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7488992",
+        "title": "Senior Software Engineer, Android Test Engineering",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7488991",
+        "title": "Senior Software Engineer, Android Test Engineering",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7488986",
+        "title": "Senior Software Engineer, Android Test Engineering",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7413993",
+        "title": "Senior IT Support Engineer, Snoo Operations & Support (SOS)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7336592",
+        "title": "Technical Support Manager ",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-02T08:21:59.414Z"
       }
     ],
     "already_posted": [],
@@ -4273,7 +4263,7 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-02T07:56:17.574Z"
+        "timestamp": "2026-02-02T08:21:59.392Z"
       }
     ]
   }
