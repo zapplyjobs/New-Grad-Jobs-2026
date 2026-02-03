@@ -3,17 +3,22 @@
  * Orchestrates job collection from all configured sources
  *
  * Sources:
- * 1. API-based companies (legacy - currently disabled)
- * 2. Primary data source (aggregator)
+ * 1. jobs-data-2026 shared-data (PRIMARY - JSearch jobs)
+ * 2. API-based companies (legacy - currently disabled)
  * 3. ATS platforms (Greenhouse, Lever, Ashby, Workable)
- * 4. USAJobs API (Federal Government Jobs) - NEW
+ * 4. USAJobs API (Federal Government Jobs)
  */
 
+const fs = require('fs');
+const path = require('path');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
-const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
+const { fetchAPIJobs } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 const { fetchAllATSJobs } = require('./job-fetcher/sources');
 const { fetchUSAJobs } = require('./job-fetcher/sources/usajobs');
+
+// Path to shared data (filtered new grad jobs from jobs-data-2026)
+const SHARED_DATA_PATH = path.join(process.cwd(), '.github', 'data', 'shared-jobs-filtered.jsonl');
 
 /**
  * Delay helper for rate limiting
@@ -22,6 +27,62 @@ const { fetchUSAJobs } = require('./job-fetcher/sources/usajobs');
  */
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * Load jobs from shared data
+ * @returns {Array} - Array of job objects
+ */
+function loadSharedJobs() {
+  try {
+    if (!fs.existsSync(SHARED_DATA_PATH)) {
+      console.warn(`⚠️ Shared data file not found: ${SHARED_DATA_PATH}`);
+      return [];
+    }
+
+    const content = fs.readFileSync(SHARED_DATA_PATH, 'utf8');
+    const lines = content.trim().split('\n').filter(line => line);
+
+    const jobs = lines.map(line => {
+      try {
+        return JSON.parse(line);
+      } catch (error) {
+        console.warn(`⚠️ Failed to parse line: ${line.substring(0, 50)}...`);
+        return null;
+      }
+    }).filter(job => job !== null);
+
+    console.log(`📂 Loaded ${jobs.length} new grad jobs from shared data`);
+    return jobs;
+
+  } catch (error) {
+    console.error(`❌ Error loading shared jobs:`, error.message);
+    return [];
+  }
+}
+
+/**
+ * Convert shared job format to internal format
+ * @param {Object} job - Shared job object
+ * @returns {Object} - Internal job object
+ */
+function convertSharedJobToInternal(job) {
+  return {
+    // Core fields (shared data format)
+    job_id: job.id,
+    job_title: job.title,
+    employer_name: job.company,
+    job_city: job.location,
+    job_is_remote: job.remote,
+    job_apply_link: job.url,
+    job_posted_at_datetime_utc: job.posted_at,
+    job_description: job.description || '',
+    job_employment_type: job.employment_types || [],
+
+    // Source tracking
+    _source: 'shared-data',
+    _original_source: job.source,
+  };
 }
 
 /**
@@ -34,9 +95,16 @@ async function fetchAllJobs() {
 
   const allJobs = [];
 
-  // === Part 1: Fetch from API-based companies ===
-  // NOTE: Individual company APIs disabled - all data now from aggregator
-  // This section kept for potential future use if needed
+  // === Part 1: PRIMARY - Shared data from jobs-data-2026 ===
+  console.log('\n📡 Loading from shared-data (PRIMARY JSearch source)...');
+
+  const sharedJobs = loadSharedJobs();
+  const convertedJobs = sharedJobs.map(convertSharedJobToInternal);
+  allJobs.push(...convertedJobs);
+
+  console.log(`📊 After shared-data: ${allJobs.length} jobs total`);
+
+  // === Part 2: Fetch from API-based companies (optional) ===
   console.log('\n📡 Checking API-based companies...');
 
   const companies = getCompanies();
@@ -62,18 +130,7 @@ async function fetchAllJobs() {
     }
     console.log(`\n📊 API companies total: ${allJobs.length} jobs`);
   } else {
-    console.log(`   No API companies configured (using aggregator only)`);
-  }
-
-  // === Part 2: Fetch from primary data source ===
-  console.log('\n📡 Fetching from primary data source...');
-
-  try {
-    const externalJobs = await fetchExternalJobsData();
-    allJobs.push(...externalJobs);
-    console.log(`📊 After primary source: ${allJobs.length} jobs total`);
-  } catch (error) {
-    console.error(`❌ Primary data source failed:`, error.message);
+    console.log(`   No API companies configured`);
   }
 
   // === Part 3: Fetch from ATS platforms (Greenhouse, Lever, Ashby) ===
