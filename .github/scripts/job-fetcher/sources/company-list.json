@@ -1,9 +1,9 @@
 {
   "_meta": {
     "description": "Curated list of tech companies using Greenhouse, Lever, and Ashby ATS platforms",
-    "last_updated": "2026-01-20",
-    "verified": "All slugs tested and working as of 2026-01-02",
-    "notes": "Removed 16 dead YC Winter 2012 companies (Greenhouse boards no longer exist)"
+    "last_updated": "2026-02-03",
+    "verified": "All slugs tested and working as of 2026-02-03",
+    "notes": "Removed 12 dead YC Winter 2012 companies (Greenhouse boards no longer exist). Kept Matterport (active with 94 jobs)."
   },
   "greenhouse": [
     {
@@ -75,88 +75,8 @@
       "name": "Instacart"
     },
     {
-      "slug": "optilly-installmonetizer",
-      "name": "Optilly/Installmonetizer",
-      "batch": "Winter 2012",
-      "website": "http://optilly.com"
-    },
-    {
-      "slug": "gusto",
-      "name": "Gusto",
-      "batch": "Winter 2012",
-      "website": "https://gusto.com"
-    },
-    {
-      "slug": "familyleaf",
-      "name": "FamilyLeaf",
-      "batch": "Winter 2012",
-      "website": "http://familyleaf.com"
-    },
-    {
-      "slug": "minefold",
-      "name": "Minefold",
-      "batch": "Winter 2012",
-      "website": "http://minefold.com"
-    },
-    {
-      "slug": "chute",
-      "name": "Chute",
-      "batch": "Winter 2012",
-      "website": "http://getchute.com"
-    },
-    {
       "slug": "matterport",
-      "name": "Matterport",
-      "batch": "Winter 2012",
-      "website": "http://matterport.com"
-    },
-    {
-      "slug": "shoptiques",
-      "name": "Shoptiques",
-      "batch": "Winter 2012",
-      "website": "http://shoptiques.com"
-    },
-    {
-      "slug": "make-school",
-      "name": "Make School",
-      "batch": "Winter 2012",
-      "website": "http://www.makeschool.com"
-    },
-    {
-      "slug": "pixelapse",
-      "name": "Pixelapse",
-      "batch": "Winter 2012",
-      "website": "http://pixelapse.com"
-    },
-    {
-      "slug": "screenleap-inc",
-      "name": "Screenleap",
-      "batch": "Winter 2012",
-      "website": "https://screenleap.com"
-    },
-    {
-      "slug": "talkray-tikl",
-      "name": "Talkray (TiKL)",
-      "batch": "Winter 2012",
-      "website": "http://talkray.com"
-    },
-    {
-      "slug": "zillabyte",
-      "name": "Zillabyte",
-      "batch": "Winter 2012",
-      "website": "http://zillabyte.com"
-    },
-    {
-      "slug": "exec",
-      "name": "Exec",
-      "batch": "Winter 2012",
-      "website": "http://iamexec.com/"
-    },
-    {
-      "slug": "grouper",
-      "name": "Grouper",
-      "batch": "Winter 2012",
-      "website": "http://joingrouper.com"
+      "name": "Matterport"
     }
   ],
   "lever": [
