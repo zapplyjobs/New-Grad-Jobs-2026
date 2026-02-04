@@ -1,150 +1,206 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-02-04T00:41:01.746Z
+**Timestamp:** 2026-02-04T00:59:42.500Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 0
+- **Jobs Posted:** 2
 - **Jobs Failed:** 0
 - **Jobs Skipped:** 2
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-02-04T00:40:57.388Z] ========================================
-[2026-02-04T00:40:57.390Z] Discord Bot Execution Log
-[2026-02-04T00:40:57.390Z] Environment: GitHub Actions
-[2026-02-04T00:40:57.390Z] Node Version: v20.20.0
-[2026-02-04T00:40:57.390Z] ========================================
-[2026-02-04T00:40:57.390Z] Environment Variables Check:
-[2026-02-04T00:40:57.390Z] DISCORD_TOKEN: ✅ Set
-[2026-02-04T00:40:57.390Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-02-04T00:40:57.390Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-02-04T00:40:57.390Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-02-04T00:40:57.390Z] 
+[2026-02-04T00:59:28.110Z] ========================================
+[2026-02-04T00:59:28.112Z] Discord Bot Execution Log
+[2026-02-04T00:59:28.112Z] Environment: GitHub Actions
+[2026-02-04T00:59:28.112Z] Node Version: v20.20.0
+[2026-02-04T00:59:28.112Z] ========================================
+[2026-02-04T00:59:28.112Z] Environment Variables Check:
+[2026-02-04T00:59:28.112Z] DISCORD_TOKEN: ✅ Set
+[2026-02-04T00:59:28.112Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-02-04T00:59:28.112Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-02-04T00:59:28.112Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-02-04T00:59:28.112Z] 
 Multi-Channel Configuration:
-[2026-02-04T00:40:57.391Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-02-04T00:40:57.391Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
-[2026-02-04T00:40:57.391Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
-[2026-02-04T00:40:57.391Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-02-04T00:40:57.391Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
-[2026-02-04T00:40:57.391Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
-[2026-02-04T00:40:57.391Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
-[2026-02-04T00:40:57.391Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
-[2026-02-04T00:40:57.391Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
-[2026-02-04T00:40:57.391Z] 
+[2026-02-04T00:59:28.112Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-02-04T00:59:28.113Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
+[2026-02-04T00:59:28.113Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
+[2026-02-04T00:59:28.113Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-02-04T00:59:28.113Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
+[2026-02-04T00:59:28.113Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
+[2026-02-04T00:59:28.113Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
+[2026-02-04T00:59:28.113Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
+[2026-02-04T00:59:28.113Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
+[2026-02-04T00:59:28.113Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-02-04T00:40:57.391Z] 
+[2026-02-04T00:59:28.113Z] 
 Data Files Check:
-[2026-02-04T00:40:57.392Z] .github/data/new_jobs.json: ✅ Exists (10 items, 153568 bytes)
-[2026-02-04T00:40:57.452Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 11434202 bytes)
-[2026-02-04T00:40:57.452Z] 
+[2026-02-04T00:59:28.114Z] .github/data/new_jobs.json: ✅ Exists (10 items, 171784 bytes)
+[2026-02-04T00:59:28.188Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 11434202 bytes)
+[2026-02-04T00:59:28.189Z] 
 ========================================
-[2026-02-04T00:40:57.452Z] Starting Enhanced Discord Bot...
-[2026-02-04T00:40:57.452Z] ========================================
-[2026-02-04T00:40:58.062Z] [BOT] ✅ Loaded V2 database: 2260 jobs
-[2026-02-04T00:40:58.544Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-02-04T00:40:58.544Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-02-04T00:59:28.189Z] Starting Enhanced Discord Bot...
+[2026-02-04T00:59:28.189Z] ========================================
+[2026-02-04T00:59:28.714Z] [BOT] ✅ Loaded V2 database: 2260 jobs
+[2026-02-04T00:59:29.533Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-02-04T00:59:29.534Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-02-04T00:40:58.545Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-02-04T00:40:58.574Z] [BOT] ✅ Loaded pending queue: 316 total (266 pending, 50 enriched, 0 posted)
-[2026-02-04T00:40:58.575Z] [BOT] [BOT] 📬 Found 50 enriched jobs ready to post from pending queue
+[2026-02-04T00:59:29.534Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-02-04T00:59:29.563Z] [BOT] ✅ Loaded pending queue: 316 total (266 pending, 50 enriched, 0 posted)
+[2026-02-04T00:59:29.563Z] [BOT] [BOT] 📬 Found 50 enriched jobs ready to post from pending queue
 [BOT] 🔍 Sample enriched job: Research Engineer/Research Scientist, Audio at anthropic
-[2026-02-04T00:40:58.576Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "811cbe0f189dac94"
-[2026-02-04T00:40:58.576Z] [BOT] ⏭️  Skipping duplicate: JID_5b0ef192 (posted within 7 days)
-⏭️ Skipping already posted: Research Engineer/Research Scientist, Audio at anthropic
-[2026-02-04T00:40:58.577Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c9b660b0..." not found, but found as SHA256 "1752149f9c33ab78"
-⏭️  Skipping duplicate: JID_c9b660b0 (posted within 7 days)
+[2026-02-04T00:59:29.565Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "811cbe0f189dac94"
+[2026-02-04T00:59:29.565Z] [BOT] ⏭️  Skipping duplicate: JID_5b0ef192 (posted within 7 days)
+[2026-02-04T00:59:29.565Z] [BOT] ⏭️ Skipping already posted: Research Engineer/Research Scientist, Audio at anthropic
+[2026-02-04T00:59:29.565Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c9b660b0..." not found, but found as SHA256 "1752149f9c33ab78"
+[2026-02-04T00:59:29.566Z] [BOT] ⏭️  Skipping duplicate: JID_c9b660b0 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_b8aca988 at datadog
-[2026-02-04T00:40:58.595Z] [BOT] 📬 Found 48 new jobs (2 already posted)...
-[2026-02-04T00:40:58.596Z] [BOT] 🚫 Skipping blacklisted job: Manager, Mid-Market Sales (Client Account Executives) at reddit
-[2026-02-04T00:40:58.596Z] [BOT] 🚫 Skipping blacklisted job: Manager, Mid-Market Sales (Client Account Executives) at reddit
-🚫 Skipping blacklisted job: Senior Scaling Operations Program Manager at duolingo
-🚫 Skipping blacklisted job: Staff Data Scientist, Forecasting in Monetization at duolingo
-🚫 Skipping blacklisted job: Staff iOS Engineer, App Builds at duolingo
-🚫 Skipping blacklisted job: Staff Product Designer at duolingo
-🚫 Skipping blacklisted job: Manager, Software Engineering - Design Systems Management  at figma
-🚫 Skipping blacklisted job: Product Lead, Healthcare at anthropic
-[2026-02-04T00:40:58.596Z] [BOT] 🚫 Skipping blacklisted job: Manager I, Customer Success at samsara
-🚫 Skipping blacklisted job: Communications Manager at verkada
-🚫 Skipping blacklisted job: National Channel Sales Manager, Convergint (East) at verkada
-🚫 Skipping blacklisted job: National Channel Sales Manager, Convergint (East) at verkada
-🚫 Skipping blacklisted job: National Channel Sales Manager, Convergint (East) at verkada
-[2026-02-04T00:40:58.596Z] [BOT] 🚫 Skipping blacklisted job: Segment Marketing Manager, Commercial at anthropic
-🚫 Skipping blacklisted job: Director, Engineering Operations at datadog
-🚫 Skipping blacklisted job: Senior / Staff+ Software Engineer - Autonomous Agent Infrastructure at anthropic
-🚫 Skipping blacklisted job: Staff Software Engineer, Build Systems at anthropic
-🚫 Skipping blacklisted job: Senior Software Engineer, Build Systems at anthropic
-🚫 Skipping blacklisted job: Senior Endpoint Administrator - Enterprise IT Operations at datadog
-🚫 Skipping blacklisted job: Manager I, Engineering - Alerting Platform at datadog
-🚫 Skipping blacklisted job: Director, Channels - Global Systems Integrators at datadog
-[2026-02-04T00:40:58.597Z] [BOT] 🚫 Skipping blacklisted job: Talent Relations Manager - The Ringer at spotify
-🚫 Skipping blacklisted job: Engineering Manager, AI Platform  at airtable
-🚫 Skipping blacklisted job: Vendor Performance Manager, North America at reddit
-🚫 Skipping blacklisted job: Technical Program Manager, Safeguards at anthropic
-🚫 Skipping blacklisted job: Technical Program Manager, Security at anthropic
-🚫 Skipping blacklisted job: Staff + Senior Software Engineer, Cloud Inference at anthropic
-🚫 Skipping blacklisted job: Manager, Sales Development - Boston at datadog
-🚫 Skipping blacklisted job: Director of Data and Analytics Engineering at discord
-🚫 Skipping blacklisted job: Director of Engineering, Security Operations at discord
-🚫 Skipping blacklisted job: Senior Product Manager, Commerce at discord
-[2026-02-04T00:40:58.597Z] [BOT] 🚫 Skipping blacklisted job: Staff Data Engineer, Ads at discord
-🚫 Skipping blacklisted job: Enterprise Sales Enablement Manager at verkada
-🚫 Skipping blacklisted job: Senior Software Engineer, Connected Workflows at samsara
-🚫 Skipping blacklisted job: Ad Sales Lead at duolingo
-[2026-02-04T00:40:58.597Z] [BOT] 🚫 Skipping blacklisted job: Director of Learning Design, Immersive Language Learning at duolingo
-🚫 Skipping blacklisted job: Product Marketing Manager, Duolingo Math at duolingo
-🚫 Skipping blacklisted job: Senior Android Engineer at duolingo
-🚫 Skipping blacklisted job: Senior iOS Software Engineer at duolingo
-[2026-02-04T00:40:58.597Z] [BOT] 🚫 Skipping blacklisted job: Product Strategy & Operations, Lead  at anthropic
-🚫 Skipping blacklisted job: National Channel Sales Manager, Midwest at verkada
-[2026-02-04T00:40:58.597Z] [BOT] 🚫 Skipping blacklisted job: Regional Sales Manager, Mid-Market at verkada
-🚫 Skipping blacklisted job: Regional Sales Manager, Mid-Market, Austin at verkada
-🚫 Skipping blacklisted job: Senior Channel Marketing Manager, Northeast (Remote) at verkada
-🚫 Skipping blacklisted job: Senior Field Marketing Manager (Enterprise SLED East) at verkada
-[2026-02-04T00:40:58.597Z] [BOT] 🚫 Skipping blacklisted job: Senior Field Marketing Manager (Federal / State) at verkada
-🚫 Skipping blacklisted job: Program Manager, AI for Science at anthropic
-🚫 Skipping blacklisted job: Senior Manager, Large Customer Sales (Pharma) at reddit
-[2026-02-04T00:40:58.627Z] [BOT] ✅ Loaded pending queue: 316 total (266 pending, 50 enriched, 0 posted)
-[2026-02-04T00:40:58.659Z] [BOT] ✅ Saved pending queue: 268 total (266 pending, 2 enriched, 0 posted)
-🗑️ Removed 48 blacklisted jobs from pending queue
-[2026-02-04T00:40:58.660Z] [BOT] 📋 After blacklist filter: 0 jobs (48 blacklisted)
-📋 After data quality filter: 0 jobs (0 invalid)
-📋 After multi-location grouping: 0 unique jobs to post
-⏸️ Limiting to 10 jobs this run, 48 deferred for next run
-📤 Posting 0 jobs...
+[2026-02-04T00:59:29.579Z] [BOT] 📬 Found 48 new jobs (2 already posted)...
+[2026-02-04T00:59:29.579Z] [BOT] 🚫 Skipping blacklisted job: Senior Manager, Large Customer Sales (Tech & Telco) at reddit
+🚫 Skipping blacklisted job: Senior Client Partner, Large Customer Sales (Finance) at reddit
+[2026-02-04T00:59:29.579Z] [BOT] 🚫 Skipping blacklisted job: Senior Client Partner, Large Customer Sales (Auto) at reddit
+🚫 Skipping blacklisted job: Senior Manager, Large Customer Sales (Tech) at reddit
+🚫 Skipping blacklisted job: Client Account Manager, Large Customer Sales (Auto) at reddit
+🚫 Skipping blacklisted job: Director, Mid-Market Sales (Goods - Shopping) at reddit
+[2026-02-04T00:59:29.579Z] [BOT] 🚫 Skipping blacklisted job: Director, Mid-Market Sales (Goods - Shopping) at reddit
+🚫 Skipping blacklisted job: Director, Mid-Market Sales (Goods - Shopping) at reddit
+🚫 Skipping blacklisted job: Staff Software Engineer, Storage at reddit
+[2026-02-04T00:59:29.579Z] [BOT] 🚫 Skipping blacklisted job: Director, Mid-Market Sales (B2B Services) at reddit
+🚫 Skipping blacklisted job: Director, Mid-Market Sales (B2B Services) at reddit
+🚫 Skipping blacklisted job: Internal Communications Senior Manager (Global Sales) at reddit
+🚫 Skipping blacklisted job: Client Account Manager, Mid-Market (B2B Services) at reddit
+🚫 Skipping blacklisted job: Senior Software Engineer, Android Test Engineering at reddit
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Senior Software Engineer, Android Test Engineering at reddit
+🚫 Skipping blacklisted job: Senior Software Engineer, Android Test Engineering at reddit
+🚫 Skipping blacklisted job: Senior Software Engineer, Android Test Engineering at reddit
+🚫 Skipping blacklisted job: Senior IT Support Engineer, Snoo Operations & Support (SOS) at reddit
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Application Security Engineering Manager at anthropic
+🚫 Skipping blacklisted job: Compliance Oversight Lead at anthropic
+🚫 Skipping blacklisted job: Contracts Manager at anthropic
+🚫 Skipping blacklisted job: Corporate Communications Manager  at anthropic
+🚫 Skipping blacklisted job: Technical Support Manager  at reddit
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Senior Client Partner, Large Customer Sales (Retail Beauty) at reddit
+🚫 Skipping blacklisted job: Senior Marketing Events Manager, Partners at anthropic
+🚫 Skipping blacklisted job: Senior Accounts Payable Specialist at anthropic
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Technical Program Manager, Inference Performance at anthropic
+🚫 Skipping blacklisted job: Events Lead, Enterprise at anthropic
+🚫 Skipping blacklisted job: Senior Client Account Manager, Mid-Market (Goods - Shopping) at reddit
+🚫 Skipping blacklisted job: Staff AI Engineer - Simulation Environments at datadog
+🚫 Skipping blacklisted job: Major Account Manager at datadog
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Data Engineering Manager at discord
+🚫 Skipping blacklisted job: Data Science Manager, Safety at discord
+🚫 Skipping blacklisted job: Director, Safety Policy at discord
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Sales Operations Manager at discord
+🚫 Skipping blacklisted job: Senior Data Engineer, Analytics at discord
+🚫 Skipping blacklisted job: Senior Data Scientist, Analytics at discord
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Engineering Manager, Inference Developer Productivity at anthropic
+🚫 Skipping blacklisted job: Real Estate Portfolio Manager at anthropic
+🚫 Skipping blacklisted job: Senior Product Manager, In-App Purchases at duolingo
+🚫 Skipping blacklisted job: Engineering Manager, Machine Learning at reddit
+🚫 Skipping blacklisted job: Senior Education Platform Engineer at anthropic
+🚫 Skipping blacklisted job: Director of Strategic Finance, Product at vercel
+🚫 Skipping blacklisted job: Senior Partner Solutions Engineer at vercel
+🚫 Skipping blacklisted job: Senior Project Engineer, Global Services at verkada
+[2026-02-04T00:59:29.580Z] [BOT] 🚫 Skipping blacklisted job: Senior Project Engineer, Global Services at verkada
+[2026-02-04T00:59:29.616Z] [BOT] ✅ Loaded pending queue: 316 total (266 pending, 50 enriched, 0 posted)
+[2026-02-04T00:59:29.648Z] [BOT] ✅ Saved pending queue: 270 total (266 pending, 4 enriched, 0 posted)
+🗑️ Removed 46 blacklisted jobs from pending queue
+📋 After blacklist filter: 2 jobs (46 blacklisted)
+[2026-02-04T00:59:29.648Z] [BOT] 📋 After data quality filter: 2 jobs (0 invalid)
+[2026-02-04T00:59:29.649Z] [BOT] 📋 After multi-location grouping: 2 unique jobs to post
+[2026-02-04T00:59:29.649Z] [BOT] ⏸️ Limiting to 10 jobs this run, 46 deferred for next run
+📤 Posting 2 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-🎉 Posting complete! Successfully posted: 0, Failed: 0
-[2026-02-04T00:40:58.660Z] [BOT] ✅ All posting operations complete, cleaning up...
-[2026-02-04T00:40:58.660Z] [BOT] ℹ️ No routing entries to save
-[2026-02-04T00:40:58.661Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_46933226.jsonl
-   Total attempts: 50
-[2026-02-04T00:40:58.661Z] [BOT] Successful: 0
-   Failed: 0
-   Skipped: 50
-📊 CHANNEL STATS SINCE LAST CLEANUP:
-   Last cleanup: Never
-[2026-02-04T00:40:58.661Z] [BOT] Total posts: 0
-   Channels used: 0
-[2026-02-04T00:40:58.661Z] [BOT] [STATS] Channel stats saved
-💾 Saving posted jobs database...
-[2026-02-04T00:40:58.661Z] [BOT] 💾 BEFORE MERGE: 2260 jobs in memory (cached)
-[2026-02-04T00:40:58.705Z] [BOT] ✅ Loaded V2 database: 2260 jobs
-💾 DISK STATE: 2260 jobs on disk
-[2026-02-04T00:40:58.705Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2260
-[2026-02-04T00:40:58.710Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-04T00:40:58.710Z] [BOT] 💾 AFTER MERGE: 2260 jobs (merged disk + memory)
-[2026-02-04T00:40:58.712Z] [BOT] ✅ No jobs to archive (all 2260 jobs within 7-day window)
-[2026-02-04T00:40:58.852Z] [BOT] 💾 Saved posted_jobs.json: 2260 active jobs
-✅ Verified: Database file matches in-memory state
-✅ Database saved successfully
-[2026-02-04T00:40:58.853Z] [BOT ERROR] (node:2703) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-02-04T00:59:29.651Z] [BOT] 📌 Posting 2 jobs to #💻・tech-jobs
+[2026-02-04T00:59:29.652Z] [BOT] 📍 [ROUTING] "Security Engineer, Offensive Security" @ anthropic
+[2026-02-04T00:59:29.652Z] [BOT] Category: TECH (matched: "engineer/engineering")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-04T00:59:29.669Z] [BOT ERROR] (node:2550) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-02-04T00:41:00.873Z] 
+[2026-02-04T00:59:30.145Z] [BOT] ✅ Posted message: Security Engineer, Offensive Security @ anthropic in #💻・tech-jobs
+[2026-02-04T00:59:30.145Z] [BOT] ✅ Industry: Security Engineer, Offensive Security @ anthropic
+[2026-02-04T00:59:30.146Z] [BOT] 💾 Added channel posting: Security Engineer, Offensive Security @ anthropic → category channel (1 total channels)
+[2026-02-04T00:59:30.147Z] [BOT] 💾 BEFORE MERGE: 2261 jobs in memory (cached)
+[2026-02-04T00:59:30.207Z] [BOT] ✅ Loaded V2 database: 2260 jobs
+💾 DISK STATE: 2260 jobs on disk
+[2026-02-04T00:59:30.208Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2261
+[2026-02-04T00:59:30.213Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-04T00:59:30.213Z] [BOT] 💾 AFTER MERGE: 2261 jobs (merged disk + memory)
+[2026-02-04T00:59:30.215Z] [BOT] ✅ No jobs to archive (all 2261 jobs within 7-day window)
+[2026-02-04T00:59:30.360Z] [BOT] 💾 Saved posted_jobs.json: 2261 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-04T00:59:32.135Z] [BOT] ✅ Posted message: Security Engineer, Offensive Security @ anthropic in #🌉・JID_739bbc0b
+[2026-02-04T00:59:32.135Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
+[2026-02-04T00:59:32.135Z] [BOT] 💾 Added channel posting: Security Engineer, Offensive Security @ anthropic → location channel (2 total channels)
+[2026-02-04T00:59:32.135Z] [BOT] 💾 BEFORE MERGE: 2261 jobs in memory (cached)
+[2026-02-04T00:59:32.190Z] [BOT] ✅ Loaded V2 database: 2261 jobs
+💾 DISK STATE: 2261 jobs on disk
+[2026-02-04T00:59:32.191Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2261
+[2026-02-04T00:59:32.196Z] [BOT] 🔀 Deep merged: Security Engineer, Offensive Security @ anthropic (disk: 1 channels → merged: 2 channels)
+💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+[2026-02-04T00:59:32.196Z] [BOT] 💾 AFTER MERGE: 2261 jobs (merged disk + memory)
+[2026-02-04T00:59:32.197Z] [BOT] ✅ No jobs to archive (all 2261 jobs within 7-day window)
+[2026-02-04T00:59:32.322Z] [BOT] 💾 Saved posted_jobs.json: 2261 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-04T00:59:33.826Z] [BOT] 📍 [ROUTING] "Enterprise Solutions Engineer, Midwest, SLED" @ verkada
+[2026-02-04T00:59:33.826Z] [BOT] Category: TECH (matched: "engineer/engineering")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-04T00:59:34.104Z] [BOT] ✅ Posted message: Enterprise Solutions Engineer, Midwest, SLED @ verkada in #💻・tech-jobs
+[2026-02-04T00:59:34.104Z] [BOT] ✅ Industry: Enterprise Solutions Engineer, Midwest, SLED @ verkada
+[2026-02-04T00:59:34.105Z] [BOT] 💾 Added channel posting: Enterprise Solutions Engineer, Midwest, SLED @ verkada → category channel (1 total channels)
+[2026-02-04T00:59:34.105Z] [BOT] 💾 BEFORE MERGE: 2262 jobs in memory (cached)
+[2026-02-04T00:59:34.163Z] [BOT] ✅ Loaded V2 database: 2261 jobs
+💾 DISK STATE: 2261 jobs on disk
+[2026-02-04T00:59:34.164Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=2262
+[2026-02-04T00:59:34.169Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-04T00:59:34.169Z] [BOT] 💾 AFTER MERGE: 2262 jobs (merged disk + memory)
+[2026-02-04T00:59:34.171Z] [BOT] ✅ No jobs to archive (all 2262 jobs within 7-day window)
+[2026-02-04T00:59:34.301Z] [BOT] 💾 Saved posted_jobs.json: 2262 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-04T00:59:38.803Z] [BOT] 🎉 Posting complete! Successfully posted: 2, Failed: 0
+[2026-02-04T00:59:38.805Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "209eb24507ab67ac"
+[2026-02-04T00:59:38.805Z] [BOT] ⏭️  Skipping duplicate: JID_fbf27841 (posted within 7 days)
+[2026-02-04T00:59:38.805Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_10ced862..." not found, but found as SHA256 "fc778981a667b4c8"
+⏭️  Skipping duplicate: JID_152141f5 (posted within 7 days)
+[2026-02-04T00:59:38.829Z] [BOT] ✅ Loaded pending queue: 270 total (266 pending, 4 enriched, 0 posted)
+[2026-02-04T00:59:38.862Z] [BOT] ✅ Saved pending queue: 270 total (266 pending, 2 enriched, 2 posted)
+📋 Updated queue: marked 2 jobs as posted
+✅ All posting operations complete, cleaning up...
+[2026-02-04T00:59:38.969Z] [BOT] 📂 Loaded 12341 existing routing entries
+[2026-02-04T00:59:39.109Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 2
+   Total entries: 12343
+   Timestamp: 2026-02-04T00:59:39.060Z
+[2026-02-04T00:59:39.110Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_46933226.jsonl
+   Total attempts: 51
+   Successful: 3
+[2026-02-04T00:59:39.110Z] [BOT] Failed: 0
+   Skipped: 48
+[2026-02-04T00:59:39.110Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+   Last cleanup: Never
+   Total posts: 3
+   Channels used: 2
+[2026-02-04T00:59:39.110Z] [BOT] Top channels:
+     1. #💻・tech-jobs: 2 posts
+     2. #🌉・JID_739bbc0b: 1 posts
+[2026-02-04T00:59:39.110Z] [BOT] [STATS] Channel stats saved
+💾 Saving posted jobs database...
+💾 BEFORE MERGE: 2262 jobs in memory (cached)
+[2026-02-04T00:59:39.182Z] [BOT] ✅ Loaded V2 database: 2262 jobs
+💾 DISK STATE: 2262 jobs on disk
+💾 DEBUG: Iterating cached memory jobs - length=2262
+[2026-02-04T00:59:39.189Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-04T00:59:39.189Z] [BOT] 💾 AFTER MERGE: 2262 jobs (merged disk + memory)
+[2026-02-04T00:59:39.191Z] [BOT] ✅ No jobs to archive (all 2262 jobs within 7-day window)
+[2026-02-04T00:59:39.322Z] [BOT] 💾 Saved posted_jobs.json: 2262 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-04T00:59:39.322Z] [BOT] ✅ Database saved successfully
+[2026-02-04T00:59:41.343Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2703) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2550) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
