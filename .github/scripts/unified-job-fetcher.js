@@ -3,22 +3,16 @@
  * Orchestrates job collection from all configured sources
  *
  * Sources:
- * 1. jobs-data-2026 shared-data (PRIMARY - JSearch jobs)
- * 2. API-based companies (legacy - currently disabled)
- * 3. ATS platforms (Greenhouse, Lever, Ashby, Workable)
- * 4. USAJobs API (Federal Government Jobs)
+ * 1. API-based companies (legacy - currently disabled)
+ * 2. ATS platforms (Greenhouse, Lever, Ashby, Workable)
+ * 3. USAJobs API (Federal Government Jobs)
  */
 
-const fs = require('fs');
-const path = require('path');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 const { fetchAllATSJobs } = require('./job-fetcher/sources');
 const { fetchUSAJobs } = require('./job-fetcher/sources/usajobs');
-
-// Path to shared data (filtered new grad jobs from jobs-data-2026)
-const SHARED_DATA_PATH = path.join(process.cwd(), '.github', 'data', 'shared-jobs-filtered.jsonl');
 
 /**
  * Delay helper for rate limiting
@@ -27,62 +21,6 @@ const SHARED_DATA_PATH = path.join(process.cwd(), '.github', 'data', 'shared-job
  */
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-/**
- * Load jobs from shared data
- * @returns {Array} - Array of job objects
- */
-function loadSharedJobs() {
-  try {
-    if (!fs.existsSync(SHARED_DATA_PATH)) {
-      console.warn(`⚠️ Shared data file not found: ${SHARED_DATA_PATH}`);
-      return [];
-    }
-
-    const content = fs.readFileSync(SHARED_DATA_PATH, 'utf8');
-    const lines = content.trim().split('\n').filter(line => line);
-
-    const jobs = lines.map(line => {
-      try {
-        return JSON.parse(line);
-      } catch (error) {
-        console.warn(`⚠️ Failed to parse line: ${line.substring(0, 50)}...`);
-        return null;
-      }
-    }).filter(job => job !== null);
-
-    console.log(`📂 Loaded ${jobs.length} new grad jobs from shared data`);
-    return jobs;
-
-  } catch (error) {
-    console.error(`❌ Error loading shared jobs:`, error.message);
-    return [];
-  }
-}
-
-/**
- * Convert shared job format to internal format
- * @param {Object} job - Shared job object
- * @returns {Object} - Internal job object
- */
-function convertSharedJobToInternal(job) {
-  return {
-    // Core fields (shared data format)
-    job_id: job.id,
-    job_title: job.title,
-    employer_name: job.company,
-    job_city: job.location,
-    job_is_remote: job.remote,
-    job_apply_link: job.url,
-    job_posted_at_datetime_utc: job.posted_at,
-    job_description: job.description || '',
-    job_employment_type: job.employment_types || [],
-
-    // Source tracking
-    _source: 'shared-data',
-    _original_source: job.source,
-  };
 }
 
 /**
@@ -95,16 +33,9 @@ async function fetchAllJobs() {
 
   const allJobs = [];
 
-  // === Part 1: PRIMARY - Shared data from jobs-data-2026 ===
-  console.log('\n📡 Loading from shared-data (PRIMARY JSearch source)...');
-
-  const sharedJobs = loadSharedJobs();
-  const convertedJobs = sharedJobs.map(convertSharedJobToInternal);
-  allJobs.push(...convertedJobs);
-
-  console.log(`📊 After shared-data: ${allJobs.length} jobs total`);
-
-  // === Part 2: Fetch from API-based companies (optional) ===
+  // === Part 1: Fetch from API-based companies ===
+  // NOTE: Individual company APIs disabled - all data now from aggregator
+  // This section kept for potential future use if needed
   console.log('\n📡 Checking API-based companies...');
 
   const companies = getCompanies();
@@ -133,7 +64,7 @@ async function fetchAllJobs() {
     console.log(`   No API companies configured`);
   }
 
-  // === Part 3: Fetch from ATS platforms (Greenhouse, Lever, Ashby) ===
+  // === Part 2: Fetch from ATS platforms (Greenhouse, Lever, Ashby) ===
   console.log('\n📡 Fetching from ATS platforms...');
 
   try {
@@ -158,7 +89,7 @@ async function fetchAllJobs() {
     console.error(`❌ ATS sources failed:`, error.message);
   }
 
-  // === Part 4: Fetch from USAJobs API (Federal Government Jobs) ===
+  // === Part 3: Fetch from USAJobs API (Federal Government Jobs) ===
   console.log('\n📡 Fetching from USAJobs API...');
 
   try {
@@ -183,7 +114,7 @@ async function fetchAllJobs() {
     console.error(`❌ USAJobs failed:`, error.message);
   }
 
-  // === Part 5: Filter to US-only jobs ===
+  // === Part 4: Filter to US-only jobs ===
   console.log('\n🇺🇸 Filtering to US-only jobs...');
 
   const removedJobs = [];
@@ -201,7 +132,7 @@ async function fetchAllJobs() {
   console.log(`   Kept: ${usJobs.length} US jobs`);
   console.log(`   Removed: ${removedJobs.length} non-US jobs`);
 
-  // === Part 6: Remove duplicates ===
+  // === Part 5: Remove duplicates ===
   console.log('\n🔄 Removing duplicates...');
 
   const uniqueJobs = usJobs.filter((job, index, self) => {
@@ -212,7 +143,7 @@ async function fetchAllJobs() {
   const duplicatesRemoved = usJobs.length - uniqueJobs.length;
   console.log(`   Duplicates removed: ${duplicatesRemoved}`);
 
-  // === Part 7: Sort by posting date ===
+  // === Part 6: Sort by posting date ===
   uniqueJobs.sort((a, b) => {
     const dateA = new Date(a.job_posted_at_datetime_utc || 0);
     const dateB = new Date(b.job_posted_at_datetime_utc || 0);
