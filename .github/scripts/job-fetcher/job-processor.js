@@ -922,7 +922,8 @@ async function processJobs() {
         console.log(`📊 After merge: ${mergedJobs.length} total unique jobs`);
 
         // **CRITICAL FIX: Sort ALL jobs by date before any filtering**
-        const sortedJobs = jobsWithDates.sort((a, b) => {
+        // Use mergedJobs (persisted + fresh) not just jobsWithDates
+        const sortedJobs = mergedJobs.sort((a, b) => {
             // Convert relative dates back to timestamps for proper sorting
             const getTimestamp = (dateStr) => {
                 if (!dateStr) return 0;
