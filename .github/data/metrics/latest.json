@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-05T08:31:29.503Z",
+  "generated": "2026-02-05T08:54:50.717Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T08:31:29.503Z",
-  "period_end": "2026-02-05T08:31:29.503Z",
+  "period_start": "2026-01-29T08:54:50.717Z",
+  "period_end": "2026-02-05T08:54:50.717Z",
   "summary": {
-    "total_jobs_posted": 3255,
-    "unique_jobs": 2314,
-    "multi_channel_postings": 1882,
-    "unique_multi_channel_jobs": 941,
+    "total_jobs_posted": 3274,
+    "unique_jobs": 2324,
+    "multi_channel_postings": 1900,
+    "unique_multi_channel_jobs": 950,
     "failed_postings": 0,
     "filtered_jobs": 4,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1953,
+      "count": 1961,
       "jobs": [
         "1027d639bd2f91ae",
         "f95533d3f335de4a",
@@ -1969,57 +1969,17 @@
         "f3032188b1c27ed1",
         "846f8baa5886cb23",
         "2d04a5d9193f32c5",
-        "905753fc1da5e6a9"
+        "905753fc1da5e6a9",
+        "bcdeff5443a76a62",
+        "25198dc9554bf72b",
+        "d9138b6c16faf32d",
+        "03c8ee523f848473",
+        "20e3ba17b7428eb1",
+        "4ef104a4c2ec6474",
+        "6a4015036249b3a9",
+        "6c2b196bd3abc508"
       ],
       "recent_jobs": [
-        {
-          "id": "5f5fc845b65ad0b7",
-          "title": "(USA) Software Engineer III",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T08:30:48.101Z"
-        },
-        {
-          "id": "e637465af6a5ae72",
-          "title": "Advanced Software Engineer, Gameplay",
-          "company": "Warner Bros. Discovery",
-          "posted_at": "2026-02-05T08:30:50.023Z"
-        },
-        {
-          "id": "c2a5369b3e352b4c",
-          "title": "Junior Software Engineer / Devops at Vigilant Cyber Systems, Inc Raleigh, NC",
-          "company": "Vigilant Cyber Systems, Inc",
-          "posted_at": "2026-02-05T08:30:51.987Z"
-        },
-        {
-          "id": "a994963bfdb0bd2f",
-          "title": "Developer IV (test automation)",
-          "company": "Hansen Talent Group (HTG)",
-          "posted_at": "2026-02-05T08:30:55.696Z"
-        },
-        {
-          "id": "bfabc650ed4e0125",
-          "title": "Software Engineer II, Tax Product Development",
-          "company": "BDO USA",
-          "posted_at": "2026-02-05T08:30:59.396Z"
-        },
-        {
-          "id": "9f46fb237b6e0727",
-          "title": "Associate Software Engineer",
-          "company": "Globus Medical",
-          "posted_at": "2026-02-05T08:31:03.188Z"
-        },
-        {
-          "id": "f3032188b1c27ed1",
-          "title": "Software Engineering Assoicate",
-          "company": "Truven Health Analytics",
-          "posted_at": "2026-02-05T08:31:05.064Z"
-        },
-        {
-          "id": "846f8baa5886cb23",
-          "title": "Associate SW Tools Engineer /SDET/ /Hybrid - Acton/ MA/",
-          "company": "Insulet Corporation",
-          "posted_at": "2026-02-05T08:31:08.769Z"
-        },
         {
           "id": "2d04a5d9193f32c5",
           "title": "Junior Software Engineer",
@@ -2031,12 +1991,60 @@
           "title": "Research Engineer, Universes",
           "company": "Anthropic",
           "posted_at": "2026-02-05T08:31:19.465Z"
+        },
+        {
+          "id": "bcdeff5443a76a62",
+          "title": "(USA) Software Engineer III",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T08:53:56.360Z"
+        },
+        {
+          "id": "25198dc9554bf72b",
+          "title": "Only Full Time: SDET",
+          "company": "Visionary Innovative Technology Solutions LLC",
+          "posted_at": "2026-02-05T08:54:01.693Z"
+        },
+        {
+          "id": "d9138b6c16faf32d",
+          "title": "(USA) Software Engineer III",
+          "company": "Vizio",
+          "posted_at": "2026-02-05T08:54:03.610Z"
+        },
+        {
+          "id": "03c8ee523f848473",
+          "title": "Software Tool Verification",
+          "company": "JMD Technologies Inc.",
+          "posted_at": "2026-02-05T08:54:07.678Z"
+        },
+        {
+          "id": "20e3ba17b7428eb1",
+          "title": "Entry-Level Software Engineer for Warehouse Automation",
+          "company": "DEMATIC",
+          "posted_at": "2026-02-05T08:54:11.504Z"
+        },
+        {
+          "id": "4ef104a4c2ec6474",
+          "title": "Junior Software Engineer",
+          "company": "TEKsystems",
+          "posted_at": "2026-02-05T08:54:15.308Z"
+        },
+        {
+          "id": "6a4015036249b3a9",
+          "title": "Software Engineer - Machine Learning",
+          "company": "Celonis",
+          "posted_at": "2026-02-05T08:54:22.480Z"
+        },
+        {
+          "id": "6c2b196bd3abc508",
+          "title": "Entry Level - Software Engineering or Computer Science",
+          "company": "The MITRE Corporation",
+          "posted_at": "2026-02-05T08:54:26.264Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 507,
+      "count": 512,
       "jobs": [
         "d90db86d11c7376e",
         "f61e5f3b68f52006",
@@ -2544,39 +2552,14 @@
         "d5ea09b204899349",
         "b9b85c6471d4bd49",
         "7edf40b23f00a4a0",
-        "905753fc1da5e6a9"
+        "905753fc1da5e6a9",
+        "bcdeff5443a76a62",
+        "4ef104a4c2ec6474",
+        "6a4015036249b3a9",
+        "eb1cd1f33248af95",
+        "a5cd28a185375575"
       ],
       "recent_jobs": [
-        {
-          "id": "8664ace0d41e03aa",
-          "title": "Software Engineer - Mobility - S&P Global",
-          "company": "Jobs via eFinancialCareers",
-          "posted_at": "2026-02-05T07:18:32.325Z"
-        },
-        {
-          "id": "d776ed98eaa276a1",
-          "title": "F-22 Associate Software Engineering Technical Specialist",
-          "company": "Boeing",
-          "posted_at": "2026-02-05T07:18:36.182Z"
-        },
-        {
-          "id": "7a99b5ad63df0b42",
-          "title": "Software Engineer, Full Stack, Level 4",
-          "company": "Snap Inc.",
-          "posted_at": "2026-02-05T07:18:47.130Z"
-        },
-        {
-          "id": "34f4a978186081b6",
-          "title": "C++ Software Engineer- Global Market Maker",
-          "company": "Jobs via eFinancialCareers",
-          "posted_at": "2026-02-05T07:43:32.765Z"
-        },
-        {
-          "id": "a69c4c425ee40b40",
-          "title": "Distinguished Engineer",
-          "company": "Capital One",
-          "posted_at": "2026-02-05T07:43:36.467Z"
-        },
         {
           "id": "7c97db683347f1bc",
           "title": "(USA) Software Engineer III (Full Stack)",
@@ -2606,12 +2589,42 @@
           "title": "Research Engineer, Universes",
           "company": "Anthropic",
           "posted_at": "2026-02-05T08:31:19.465Z"
+        },
+        {
+          "id": "bcdeff5443a76a62",
+          "title": "(USA) Software Engineer III",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T08:53:56.360Z"
+        },
+        {
+          "id": "4ef104a4c2ec6474",
+          "title": "Junior Software Engineer",
+          "company": "TEKsystems",
+          "posted_at": "2026-02-05T08:54:15.308Z"
+        },
+        {
+          "id": "6a4015036249b3a9",
+          "title": "Software Engineer - Machine Learning",
+          "company": "Celonis",
+          "posted_at": "2026-02-05T08:54:22.480Z"
+        },
+        {
+          "id": "eb1cd1f33248af95",
+          "title": "Fullstack developers",
+          "company": "JSR Tech Consulting",
+          "posted_at": "2026-02-05T08:54:33.089Z"
+        },
+        {
+          "id": "a5cd28a185375575",
+          "title": "Software Engineer - Early Career",
+          "company": "Lockheed Martin",
+          "posted_at": "2026-02-05T08:54:40.034Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 362,
+      "count": 366,
       "jobs": [
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
@@ -2974,33 +2987,13 @@
         "bfabc650ed4e0125",
         "f3032188b1c27ed1",
         "846f8baa5886cb23",
-        "2d04a5d9193f32c5"
+        "2d04a5d9193f32c5",
+        "d9138b6c16faf32d",
+        "03c8ee523f848473",
+        "20e3ba17b7428eb1",
+        "6c2b196bd3abc508"
       ],
       "recent_jobs": [
-        {
-          "id": "b6dccdf9c4bee42d",
-          "title": "Junior Software Engineer",
-          "company": "Space Dynamics Laboratory",
-          "posted_at": "2026-02-05T08:07:51.301Z"
-        },
-        {
-          "id": "22049bd697e9259d",
-          "title": "Full Stack Software Engineer - Top-Secret with SCI eligibility",
-          "company": "Peraton",
-          "posted_at": "2026-02-05T08:07:55.329Z"
-        },
-        {
-          "id": "3924a8b81ffa39ef",
-          "title": "Junior Software Developer",
-          "company": "CACI",
-          "posted_at": "2026-02-05T08:08:05.741Z"
-        },
-        {
-          "id": "92c63d5df2cccb97",
-          "title": "Business Intelligence Software Engineer",
-          "company": "Asplundh Careers",
-          "posted_at": "2026-02-05T08:08:12.457Z"
-        },
         {
           "id": "c2a5369b3e352b4c",
           "title": "Junior Software Engineer / Devops at Vigilant Cyber Systems, Inc Raleigh, NC",
@@ -3036,12 +3029,36 @@
           "title": "Junior Software Engineer",
           "company": "AM Pierce and Associates",
           "posted_at": "2026-02-05T08:31:12.694Z"
+        },
+        {
+          "id": "d9138b6c16faf32d",
+          "title": "(USA) Software Engineer III",
+          "company": "Vizio",
+          "posted_at": "2026-02-05T08:54:03.610Z"
+        },
+        {
+          "id": "03c8ee523f848473",
+          "title": "Software Tool Verification",
+          "company": "JMD Technologies Inc.",
+          "posted_at": "2026-02-05T08:54:07.678Z"
+        },
+        {
+          "id": "20e3ba17b7428eb1",
+          "title": "Entry-Level Software Engineer for Warehouse Automation",
+          "company": "DEMATIC",
+          "posted_at": "2026-02-05T08:54:11.504Z"
+        },
+        {
+          "id": "6c2b196bd3abc508",
+          "title": "Entry Level - Software Engineering or Computer Science",
+          "company": "The MITRE Corporation",
+          "posted_at": "2026-02-05T08:54:26.264Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 361,
+      "count": 363,
       "jobs": [
         "37929c2df28e0a82",
         "070dd6fd23f55776",
@@ -3403,21 +3420,11 @@
         "b3cf540b4f342f96",
         "901eb27179689fae",
         "f4cbb23a58c5be7a",
-        "92c63d5df2cccb97"
+        "92c63d5df2cccb97",
+        "eb1cd1f33248af95",
+        "a5cd28a185375575"
       ],
       "recent_jobs": [
-        {
-          "id": "160a2a0c0ab9992e",
-          "title": "Upmarket Account Executive",
-          "company": "brex",
-          "posted_at": "2026-02-01T22:15:09.233Z"
-        },
-        {
-          "id": "03ba100fa9e79b37",
-          "title": "Production Data Engineer",
-          "company": "Susquehanna International Group (SIG)",
-          "posted_at": "2026-02-02T17:41:48.607Z"
-        },
         {
           "id": "b356b91fabda93d6",
           "title": "Software Engineer",
@@ -3465,6 +3472,18 @@
           "title": "Business Intelligence Software Engineer",
           "company": "Asplundh Careers",
           "posted_at": "2026-02-05T08:08:12.457Z"
+        },
+        {
+          "id": "eb1cd1f33248af95",
+          "title": "Fullstack developers",
+          "company": "JSR Tech Consulting",
+          "posted_at": "2026-02-05T08:54:33.089Z"
+        },
+        {
+          "id": "a5cd28a185375575",
+          "title": "Software Engineer - Early Career",
+          "company": "Lockheed Martin",
+          "posted_at": "2026-02-05T08:54:40.034Z"
         }
       ]
     },
@@ -4122,28 +4141,28 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:30:47.732Z"
+        "timestamp": "2026-02-05T08:53:56.136Z"
       },
       {
         "job_id": "careers-datadoghq-com-detail-7409247",
         "title": "Key Accounts Executive",
         "company": "datadog",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:30:47.732Z"
+        "timestamp": "2026-02-05T08:53:56.136Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:30:47.733Z"
+        "timestamp": "2026-02-05T08:53:56.137Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:30:47.733Z"
+        "timestamp": "2026-02-05T08:53:56.137Z"
       }
     ]
   }
