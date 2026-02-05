@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-05T10:24:07.057Z",
+  "generated": "2026-02-05T10:53:41.376Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T10:24:07.057Z",
-  "period_end": "2026-02-05T10:24:07.057Z",
+  "period_start": "2026-01-29T10:53:41.376Z",
+  "period_end": "2026-02-05T10:53:41.376Z",
   "summary": {
-    "total_jobs_posted": 3328,
-    "unique_jobs": 2354,
-    "multi_channel_postings": 1948,
-    "unique_multi_channel_jobs": 974,
+    "total_jobs_posted": 3333,
+    "unique_jobs": 2357,
+    "multi_channel_postings": 1952,
+    "unique_multi_channel_jobs": 976,
     "failed_postings": 0,
     "filtered_jobs": 4,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1986,
+      "count": 1989,
       "jobs": [
         "1027d639bd2f91ae",
         "f95533d3f335de4a",
@@ -2002,27 +2002,12 @@
         "520dfc64dd8dcedc",
         "0bc8435347a81976",
         "bb18e666f6c94546",
-        "9d1436584709fa34"
+        "9d1436584709fa34",
+        "7d46ff143b97c424",
+        "dae0be79767481dd",
+        "720671e713902a87"
       ],
       "recent_jobs": [
-        {
-          "id": "4552546c5e2bc5fe",
-          "title": "Entry Level Software Developer (Remote)",
-          "company": "SynergisticIT",
-          "posted_at": "2026-02-05T09:54:46.996Z"
-        },
-        {
-          "id": "4c4de0f6abbff7f9",
-          "title": "Field Engineering Specialist",
-          "company": "Arvist",
-          "posted_at": "2026-02-05T09:54:51.140Z"
-        },
-        {
-          "id": "9739217eb7812aba",
-          "title": "Software Engineer III - Fullstack",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T10:23:16.562Z"
-        },
         {
           "id": "e2db3db1d0095fcd",
           "title": "Junior Software Developer",
@@ -2064,6 +2049,24 @@
           "title": "AEGIS MISSILE SOFTWARE ENGINEER",
           "company": "IGNITE",
           "posted_at": "2026-02-05T10:23:46.073Z"
+        },
+        {
+          "id": "7d46ff143b97c424",
+          "title": "Software Engineer III",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T10:53:22.048Z"
+        },
+        {
+          "id": "dae0be79767481dd",
+          "title": "Junior Software Developer JavaScript 🏆",
+          "company": "EAi Technologies",
+          "posted_at": "2026-02-05T10:53:27.080Z"
+        },
+        {
+          "id": "720671e713902a87",
+          "title": "Full stack Software Engineer",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T10:53:30.949Z"
         }
       ]
     },
@@ -2656,7 +2659,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 381,
+      "count": 383,
       "jobs": [
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
@@ -3038,21 +3041,11 @@
         "520dfc64dd8dcedc",
         "9d1436584709fa34",
         "30219f4c038625e0",
-        "f41f7350593c18bb"
+        "f41f7350593c18bb",
+        "dae0be79767481dd",
+        "720671e713902a87"
       ],
       "recent_jobs": [
-        {
-          "id": "47b5f87947a336c0",
-          "title": "Software Engineer (Entry-Level) Recent Grad",
-          "company": "Drafted",
-          "posted_at": "2026-02-05T09:54:20.654Z"
-        },
-        {
-          "id": "43e82953ecfa04ee",
-          "title": "Network Savy CNO-Developer",
-          "company": "Fidelis Technologies",
-          "posted_at": "2026-02-05T09:54:28.621Z"
-        },
         {
           "id": "edb80f7a2bce481d",
           "title": "Kafka Engineer",
@@ -3100,6 +3093,18 @@
           "title": "Software Engineer - Android",
           "company": "Walmart",
           "posted_at": "2026-02-05T10:23:56.775Z"
+        },
+        {
+          "id": "dae0be79767481dd",
+          "title": "Junior Software Developer JavaScript 🏆",
+          "company": "EAi Technologies",
+          "posted_at": "2026-02-05T10:53:27.080Z"
+        },
+        {
+          "id": "720671e713902a87",
+          "title": "Full stack Software Engineer",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T10:53:30.949Z"
         }
       ]
     },
@@ -4195,28 +4200,28 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T10:23:16.297Z"
+        "timestamp": "2026-02-05T10:53:21.809Z"
       },
       {
         "job_id": "careers-datadoghq-com-detail-7409247",
         "title": "Key Accounts Executive",
         "company": "datadog",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T10:23:16.298Z"
+        "timestamp": "2026-02-05T10:53:21.809Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T10:23:16.298Z"
+        "timestamp": "2026-02-05T10:53:21.810Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T10:23:16.299Z"
+        "timestamp": "2026-02-05T10:53:21.810Z"
       }
     ]
   }
