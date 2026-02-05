@@ -1,24 +1,22 @@
 {
-  "generated": "2026-02-05T22:32:32.552Z",
+  "generated": "2026-02-05T22:53:57.455Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T22:32:32.552Z",
-  "period_end": "2026-02-05T22:32:32.552Z",
+  "period_start": "2026-01-29T22:53:57.455Z",
+  "period_end": "2026-02-05T22:53:57.455Z",
   "summary": {
-    "total_jobs_posted": 3211,
-    "unique_jobs": 2242,
-    "multi_channel_postings": 1938,
-    "unique_multi_channel_jobs": 969,
+    "total_jobs_posted": 3219,
+    "unique_jobs": 2241,
+    "multi_channel_postings": 1956,
+    "unique_multi_channel_jobs": 978,
     "failed_postings": 0,
-    "filtered_jobs": 4,
+    "filtered_jobs": 37,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629887": {
-      "channel_id": "1462988721828794531",
-      "count": 339,
+      "channel_id": "1462988755156734023",
+      "count": 340,
       "jobs": [
-        "17def344fef67262",
-        "ee95bf450c20defb",
         "6788d73bd5bb9bd0",
         "5e7260f8d2dda442",
         "e7086a84ee068342",
@@ -355,27 +353,12 @@
         "30219f4c038625e0",
         "f41f7350593c18bb",
         "4144ddafc5709012",
-        "9010070b5ff01d75"
+        "9010070b5ff01d75",
+        "b17136453ad2e54d",
+        "30788db9b3883331",
+        "7ce53bba4c3734ef"
       ],
       "recent_jobs": [
-        {
-          "id": "92c63d5df2cccb97",
-          "title": "Business Intelligence Software Engineer",
-          "company": "Asplundh Careers",
-          "posted_at": "2026-02-05T08:08:12.457Z"
-        },
-        {
-          "id": "eb1cd1f33248af95",
-          "title": "Fullstack developers",
-          "company": "JSR Tech Consulting",
-          "posted_at": "2026-02-05T08:54:33.089Z"
-        },
-        {
-          "id": "a5cd28a185375575",
-          "title": "Software Engineer - Early Career",
-          "company": "Lockheed Martin",
-          "posted_at": "2026-02-05T08:54:40.034Z"
-        },
         {
           "id": "dd13e1251ebab8e4",
           "title": "Boeing is hiring: Entry-Level F-22 Simulation Software Engineer in Berkeley",
@@ -417,22 +400,31 @@
           "title": "Software Engineer - iOS",
           "company": "Walmart",
           "posted_at": "2026-02-05T20:23:29.856Z"
+        },
+        {
+          "id": "b17136453ad2e54d",
+          "title": "Finance & Strategy, Compute Infrastructure",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:02.650Z"
+        },
+        {
+          "id": "30788db9b3883331",
+          "title": "Compliance Specialist, GRCP",
+          "company": "airtable",
+          "posted_at": "2026-02-05T22:53:06.621Z"
+        },
+        {
+          "id": "7ce53bba4c3734ef",
+          "title": "Sales Revenue Analyst - NYC",
+          "company": "datadog",
+          "posted_at": "2026-02-05T22:53:28.094Z"
         }
       ]
     },
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1903,
+      "count": 1901,
       "jobs": [
-        "cfea32a8bc973bf8",
-        "cdfa9b3b2f553acd",
-        "4b4b092918cb3c1f",
-        "3a391b90681035d0",
-        "0174c90e862dc7b5",
-        "c3ec089463c8723f",
-        "c9ad07195203630c",
-        "be3eafde94f9bba6",
-        "9aa96f297553d5b9",
         "239b46289aead103",
         "d825fbefbcf12e0e",
         "06e2698d13a043c4",
@@ -2326,51 +2318,16 @@
         "92333338245ff124",
         "6a3369d201d00380",
         "dc893ade0ea90789",
-        "429c7cdbd2155da6"
+        "429c7cdbd2155da6",
+        "88a2c8157511b87e",
+        "d816c597a2b66e72",
+        "7b80eea0325e9e78",
+        "aacb9b52faedc4fb",
+        "81914704784343ca",
+        "431c2acc397fc9a1",
+        "93a3c10ec5ef88b0"
       ],
       "recent_jobs": [
-        {
-          "id": "886c44f21282d690",
-          "title": "Software Engineer - Entry Level",
-          "company": "SynergisticIT",
-          "posted_at": "2026-02-05T15:23:28.860Z"
-        },
-        {
-          "id": "19d1af5c64abcc81",
-          "title": "Software Engineer, Level 1",
-          "company": "Independent Software, Inc.",
-          "posted_at": "2026-02-05T15:23:35.739Z"
-        },
-        {
-          "id": "70973bbaea24452a",
-          "title": "Integration Engineer - CSAM",
-          "company": "Jobs via Dice",
-          "posted_at": "2026-02-05T15:33:43.942Z"
-        },
-        {
-          "id": "9270ace916ee7af4",
-          "title": "Junior Software Engineer (Backend)",
-          "company": "Telcoin",
-          "posted_at": "2026-02-05T20:23:20.273Z"
-        },
-        {
-          "id": "84c46bb107da827c",
-          "title": "Software Developer, Full Stack",
-          "company": "Qulinary, Inc.",
-          "posted_at": "2026-02-05T20:23:22.979Z"
-        },
-        {
-          "id": "78b4813cd4233a56",
-          "title": "(USA) Software Engineer III",
-          "company": "Sam's Club",
-          "posted_at": "2026-02-05T20:23:36.673Z"
-        },
-        {
-          "id": "92333338245ff124",
-          "title": "Entry Level Data Engineer",
-          "company": "Jobs via Dice",
-          "posted_at": "2026-02-05T21:17:21.038Z"
-        },
         {
           "id": "6a3369d201d00380",
           "title": "Industrial Engineer (Entry or Associate)",
@@ -2388,12 +2345,54 @@
           "title": "Associate Engineer, Software Tools",
           "company": "Analog Devices, Inc.",
           "posted_at": "2026-02-05T22:32:22.698Z"
+        },
+        {
+          "id": "88a2c8157511b87e",
+          "title": "Head of Duolingo Store, Consumer Products",
+          "company": "duolingo",
+          "posted_at": "2026-02-05T22:53:13.939Z"
+        },
+        {
+          "id": "d816c597a2b66e72",
+          "title": "Software Engineer, Inference Deployment",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:15.763Z"
+        },
+        {
+          "id": "7b80eea0325e9e78",
+          "title": "DX Engineer",
+          "company": "vercel",
+          "posted_at": "2026-02-05T22:53:19.843Z"
+        },
+        {
+          "id": "aacb9b52faedc4fb",
+          "title": "Software Engineer, Encoding Libraries",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:34.828Z"
+        },
+        {
+          "id": "81914704784343ca",
+          "title": "Enablement Systems Engineer",
+          "company": "datadog",
+          "posted_at": "2026-02-05T22:53:38.532Z"
+        },
+        {
+          "id": "431c2acc397fc9a1",
+          "title": "Compute Efficiency Engineer",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:42.297Z"
+        },
+        {
+          "id": "93a3c10ec5ef88b0",
+          "title": "Software Engineer - Support Tooling (APAC/AMER)",
+          "company": "supabase",
+          "posted_at": "2026-02-05T22:53:47.309Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 504,
+      "count": 512,
       "jobs": [
         "e16a70b0626e41ff",
         "6ed79a9157c96f0e",
@@ -2898,57 +2897,17 @@
         "9739217eb7812aba",
         "fa0012a9a448a002",
         "bb18e666f6c94546",
-        "84c46bb107da827c"
+        "84c46bb107da827c",
+        "b17136453ad2e54d",
+        "30788db9b3883331",
+        "d816c597a2b66e72",
+        "7b80eea0325e9e78",
+        "7ce53bba4c3734ef",
+        "aacb9b52faedc4fb",
+        "81914704784343ca",
+        "431c2acc397fc9a1"
       ],
       "recent_jobs": [
-        {
-          "id": "eb1cd1f33248af95",
-          "title": "Fullstack developers",
-          "company": "JSR Tech Consulting",
-          "posted_at": "2026-02-05T08:54:33.089Z"
-        },
-        {
-          "id": "a5cd28a185375575",
-          "title": "Software Engineer - Early Career",
-          "company": "Lockheed Martin",
-          "posted_at": "2026-02-05T08:54:40.034Z"
-        },
-        {
-          "id": "49da3539687e0008",
-          "title": "Software Engineer II,III,IV",
-          "company": "Lthc",
-          "posted_at": "2026-02-05T09:24:51.479Z"
-        },
-        {
-          "id": "dd13e1251ebab8e4",
-          "title": "Boeing is hiring: Entry-Level F-22 Simulation Software Engineer in Berkeley",
-          "company": "Boeing",
-          "posted_at": "2026-02-05T09:25:00.314Z"
-        },
-        {
-          "id": "a3651871808e42db",
-          "title": "Junior Software Engineer (Recent Grads) - Enterprise AI Model Company",
-          "company": "Andiamo",
-          "posted_at": "2026-02-05T09:54:16.596Z"
-        },
-        {
-          "id": "c66b7ba91fb8e35a",
-          "title": "2026 New-Grad Entry Level Engineer Rotation Program (California/CCTP)",
-          "company": "Skanska",
-          "posted_at": "2026-02-05T09:54:24.537Z"
-        },
-        {
-          "id": "9739217eb7812aba",
-          "title": "Software Engineer III - Fullstack",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T10:23:16.562Z"
-        },
-        {
-          "id": "fa0012a9a448a002",
-          "title": "Software Engineer - C++",
-          "company": "Optiver",
-          "posted_at": "2026-02-05T10:23:26.432Z"
-        },
         {
           "id": "bb18e666f6c94546",
           "title": "(USA) Software Engineer III (Full Stack)",
@@ -2960,12 +2919,60 @@
           "title": "Software Developer, Full Stack",
           "company": "Qulinary, Inc.",
           "posted_at": "2026-02-05T20:23:22.979Z"
+        },
+        {
+          "id": "b17136453ad2e54d",
+          "title": "Finance & Strategy, Compute Infrastructure",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:02.650Z"
+        },
+        {
+          "id": "30788db9b3883331",
+          "title": "Compliance Specialist, GRCP",
+          "company": "airtable",
+          "posted_at": "2026-02-05T22:53:06.621Z"
+        },
+        {
+          "id": "d816c597a2b66e72",
+          "title": "Software Engineer, Inference Deployment",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:15.763Z"
+        },
+        {
+          "id": "7b80eea0325e9e78",
+          "title": "DX Engineer",
+          "company": "vercel",
+          "posted_at": "2026-02-05T22:53:19.843Z"
+        },
+        {
+          "id": "7ce53bba4c3734ef",
+          "title": "Sales Revenue Analyst - NYC",
+          "company": "datadog",
+          "posted_at": "2026-02-05T22:53:28.094Z"
+        },
+        {
+          "id": "aacb9b52faedc4fb",
+          "title": "Software Engineer, Encoding Libraries",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:34.828Z"
+        },
+        {
+          "id": "81914704784343ca",
+          "title": "Enablement Systems Engineer",
+          "company": "datadog",
+          "posted_at": "2026-02-05T22:53:38.532Z"
+        },
+        {
+          "id": "431c2acc397fc9a1",
+          "title": "Compute Efficiency Engineer",
+          "company": "anthropic",
+          "posted_at": "2026-02-05T22:53:42.297Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 389,
+      "count": 390,
       "jobs": [
         "d5a618fb3fa696d4",
         "c096bab07faeb095",
@@ -3355,15 +3362,10 @@
         "78b4813cd4233a56",
         "92333338245ff124",
         "dc893ade0ea90789",
-        "429c7cdbd2155da6"
+        "429c7cdbd2155da6",
+        "93a3c10ec5ef88b0"
       ],
       "recent_jobs": [
-        {
-          "id": "4144ddafc5709012",
-          "title": "Software Engineer - Android",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T12:40:53.569Z"
-        },
         {
           "id": "be83e9af65e045fb",
           "title": "Associate Project Engineer",
@@ -3417,6 +3419,12 @@
           "title": "Associate Engineer, Software Tools",
           "company": "Analog Devices, Inc.",
           "posted_at": "2026-02-05T22:32:22.698Z"
+        },
+        {
+          "id": "93a3c10ec5ef88b0",
+          "title": "Software Engineer - Support Tooling (APAC/AMER)",
+          "company": "supabase",
+          "posted_at": "2026-02-05T22:53:47.309Z"
         }
       ]
     },
@@ -4069,7 +4077,232 @@
   ],
   "failures": [],
   "filtered": {
-    "blacklisted": [],
+    "blacklisted": [
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5058714008",
+        "title": "Engineering Manager, UI Platform",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8350416002",
+        "title": "Senior Manager, Stock Administration",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8405007002",
+        "title": "Manager, Banking Specialists",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8404999002",
+        "title": "Manager, Banking Specialists",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5111783008",
+        "title": "Technical Program Manager, Infrastructure",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7555537",
+        "title": "Senior Product Manager - Custom Metrics",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8198574002",
+        "title": "Staff Brand Designer, Interactive",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-7595422002",
+        "title": "Staff Brand Designer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8393510002",
+        "title": "Senior Brand Designer",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7583449",
+        "title": "Senior Product Manager - Product Analytics",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8402852002",
+        "title": "Startups Partner Manager, Y Combinator",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "boards-greenhouse-io-figma-jobs-5792689004",
+        "title": "Manager, Software Engineering - Internal Tools",
+        "company": "figma",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103750008",
+        "title": "Engineering Manager, Inference Developer Productivity",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-e1df6feb-4fb8-4c47-bfe5-12c6d8f11145",
+        "title": "Product Marketing Manager, Targeting & Brand Safety",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7460368",
+        "title": "Senior Sales Engineer",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5100626008",
+        "title": "Senior Marketing Events Manager, Partners",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-e6246f08-7feb-4df1-94cd-a7f195296483",
+        "title": "Product Marketing Manager, Monetization",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "jobs-lever-co-spotify-f3919cc9-83f3-43b5-84ab-7fc55004bce5",
+        "title": "Product Marketing Manager, Measurement",
+        "company": "spotify",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5097490008",
+        "title": "Product Manager, Safeguards (Beneficial Deployments)",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5109452008",
+        "title": "Data Center Energy Lead",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7516279",
+        "title": "Senior Sales Engineer - Key Accounts",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.180Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4951696008",
+        "title": "Staff + Senior Software Engineer, Inference",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5099753008",
+        "title": "Manager, Forward Deployed Engineering",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8404566002",
+        "title": "Senior Product Creative Illustrator",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7582677",
+        "title": "Principal Partner Manager - Channels (Public Sector)",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7493743",
+        "title": "Senior People Analyst",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5107466008",
+        "title": "Staff + Senior Software Engineer, Cloud Inference",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "careers-duolingo-com-jobs-8290478002",
+        "title": "Director of Learning Design, Immersive Language Learning",
+        "company": "duolingo",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4962470008",
+        "title": "Finance Systems, PMO Lead",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5100613008",
+        "title": "Marketing Events Content Manager",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5100274008",
+        "title": "Marketing Events Lead, Enterprise",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8401077002",
+        "title": "Manager, Product Design - Engagement",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-05T22:53:02.181Z"
+      }
+    ],
     "already_posted": [],
     "invalid_data": [],
     "other": [
@@ -4078,28 +4311,35 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T22:32:18.287Z"
+        "timestamp": "2026-02-05T22:53:02.165Z"
       },
       {
         "job_id": "careers-datadoghq-com-detail-7409247",
         "title": "Key Accounts Executive",
         "company": "datadog",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T22:32:18.288Z"
+        "timestamp": "2026-02-05T22:53:02.166Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T22:32:18.289Z"
+        "timestamp": "2026-02-05T22:53:02.166Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T22:32:18.289Z"
+        "timestamp": "2026-02-05T22:53:02.167Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5065798008",
+        "title": "Recruiting Systems Analyst",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T22:53:02.176Z"
       }
     ]
   }
