@@ -1,15 +1,15 @@
 {
-  "generated": "2026-02-05T12:41:11.076Z",
+  "generated": "2026-02-05T12:59:49.570Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T12:41:11.076Z",
-  "period_end": "2026-02-05T12:41:11.076Z",
+  "period_start": "2026-01-29T12:59:49.570Z",
+  "period_end": "2026-02-05T12:59:49.570Z",
   "summary": {
     "total_jobs_posted": 3337,
     "unique_jobs": 2359,
     "multi_channel_postings": 1956,
     "unique_multi_channel_jobs": 978,
     "failed_postings": 0,
-    "filtered_jobs": 4,
+    "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
@@ -4198,35 +4198,6 @@
     "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": [
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5074815008",
-        "title": "Research Engineer/Research Scientist, Audio",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-02-05T12:40:53.341Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7409247",
-        "title": "Key Accounts Executive",
-        "company": "datadog",
-        "reason": "already_posted",
-        "timestamp": "2026-02-05T12:40:53.341Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
-        "title": "Enterprise Account Executive, State & Local Sales",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-02-05T12:40:53.342Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
-        "title": "IP Legal Specialist",
-        "company": "anthropic",
-        "reason": "already_posted",
-        "timestamp": "2026-02-05T12:40:53.342Z"
-      }
-    ]
+    "other": []
   }
 }
