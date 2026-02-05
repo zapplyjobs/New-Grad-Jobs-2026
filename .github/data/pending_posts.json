@@ -161,376 +161,6 @@
   },
   {
     "job": {
-      "job_id": "js-andiamo-detx3k_ozz0fyypvaaaaaa==",
-      "job_title": "Junior Software Engineer (Recent Grads) - Enterprise AI Model Company",
-      "employer_name": "Andiamo",
-      "job_city": "Santa Clara",
-      "job_state": "California",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/junior-software-engineer-recent-grads-enterprise-ai-model-company-at-andiamo-4328119116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-31T00:00:00.000Z",
-      "job_description": "Full Stack Software Engineer, AI Driven Enterprise Platforms&lt;br&gt;&lt;br&gt;This role offers the chance to help shape a new category of enterprise software focused on organizational intelligence and digital twin technology. You will work on a platform that connects data across complex ecosystems, transforms it into meaningful insight, and supports leaders as they make critical decisions at scale.&lt;br&gt;&lt;br&gt;The product addresses a challenge that every growing organization faces. Knowledge fades when teams change, leaders divide their attention, or operations scale quickly. This platform preserves institutional memory, execution patterns, and decision context, combining personalization with strong privacy and trust requirements expected in modern enterprise environments.&lt;br&gt;&lt;br&gt;The Role&lt;br&gt;&lt;br&gt;You will join a small, highly capable engineering team and play a central role in building core product experiences. This position is hands on and product focused, with most of your time spent crafting intuitive, high performance user interfaces and the remainder dedicated to the backend systems that power them. The work emphasizes thoughtful design, speed, and scalability from the start.&lt;br&gt;&lt;br&gt;What You Will Build&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Design and develop clean, scalable APIs that connect user facing applications to backend services.&lt;/li&gt;&lt;li&gt;Create fast, accessible, and responsive web applications using Next.js as the primary framework.&lt;/li&gt;&lt;li&gt;Ensure excellent performance across devices and browsers, with careful attention to usability and accessibility.&lt;/li&gt;&lt;li&gt;Continuously improve system reliability, scalability, and maintainability while supporting rapid product iteration.&lt;/li&gt;&lt;li&gt;Partner closely with product, design, and research teams to translate ideas into polished features.&lt;/li&gt;&lt;li&gt;Identify and resolve issues across the stack, from frontend rendering and state management to backend integration and deployment.&lt;/li&gt;&lt;li&gt;Participate actively in code reviews and architectural discussions, helping define standards and best practices.&lt;/li&gt;&lt;li&gt;Take concepts from early prototypes through production release, contributing to true zero to one product development.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;What You Bring&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;At least three years of professional experience as a full stack or frontend focused engineer.&lt;/li&gt;&lt;li&gt;A strong technical foundation through formal education or equivalent real world experience.&lt;/li&gt;&lt;li&gt;Deep hands on experience with Next.js and modern React based development.&lt;/li&gt;&lt;li&gt;Proficiency with TypeScript and modern styling approaches or CSS frameworks.&lt;/li&gt;&lt;li&gt;Practical backend experience, including API development, database interaction, and issue resolution.&lt;/li&gt;&lt;li&gt;A solid understanding of performance optimization and scalability in web applications.&lt;/li&gt;&lt;li&gt;Experience working in early stage environments or contributing to new product launches.&lt;/li&gt;&lt;li&gt;A self directed approach, comfortable making decisions, owning outcomes, and iterating with limited information.&lt;/li&gt;&lt;li&gt;Clear communication skills and a collaborative mindset.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;This position is ideal for an engineer who enjoys building foundational systems, shaping user experiences, and contributing directly to the growth of an ambitious AI driven enterprise platform.&lt;br&gt;&lt;br&gt;&lt;strong&gt;About Andiamo&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Talent Partners for the AI Revolution. As a globally recognized staffing and consulting firm, we specialize in placing the top 2% of technology and go-to-market professionals with the world’s largest and most well-known companies.&lt;br&gt;&lt;br&gt;For over 20 years, we've maintained the status of tier-one vendor for firms such as Palantir, Amazon, Fluidstack, Bloomberg, Relativity Space, Firefly, MasterCard, Visa, Two Sigma, Citadel, as well as other major financial services firms, elite hedge funds, Google-backed tech start-ups, and major software firms.&lt;br&gt;&lt;br&gt;Our talent solutions include Permanent Placement, Contract Staffing, Executive Search, and Dedicated Recruiting Services (RPO). Find out more at www.andiamogo.com",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-linkedin-com-jobs-view-junior-software-engineer-recent-grads-enterprise-ai-model-company-at-andiamo-4328119116",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T06:13:11.782Z",
-    "enrichedAt": "2026-02-05T08:07:31.596Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-drafted-s_gk5dgfo3xzu235aaaaaa==",
-      "job_title": "Software Engineer (Entry-Level) Recent Grad",
-      "employer_name": "Drafted",
-      "job_city": "Miami",
-      "job_state": "Florida",
-      "job_country": "United States",
-      "job_is_remote": true,
-      "job_apply_link": "https://builtin.com/job/software-engineer-entry-level-recent-grad/6792315?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
-      "job_description": "Our AI-powered fit analysis compares your resume with a job listing so you know if your skills & experience align.",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "remote",
-          "us"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "builtin-com-job-software-engineer-entry-level-recent-grad-6792315",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T06:13:11.782Z",
-    "enrichedAt": "2026-02-05T08:07:31.596Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-skanska-_wdtgqgvbejb86uuaaaaaa==",
-      "job_title": "2026 New-Grad Entry Level Engineer Rotation Program (California/CCTP)",
-      "employer_name": "Skanska",
-      "job_city": "Jurupa Valley",
-      "job_state": "California",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/2026-new-grad-entry-level-engineer-rotation-program-california-cctp-at-skanska-4350295091?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
-      "job_description": "Skanska is seeking recent graduates in the field of Civil Engineering, Construction Management and similar disciplines for full-time employment in our Skanska USA Civil West Core Competency Training Program (CCTP) beginning in 2026.&lt;br&gt;&lt;br&gt;The CCTP is not an internship; it is full-time employment in which the first two years are conducted as a formal rotational program designed to give entry-level engineers the opportunity to work in all areas of business which are critical to our success as a Best of Class Heavy Civil Contractor. Individuals will complete a 24-month program consisting of 3 rotations of 6-9 months each.&lt;br&gt;&lt;br&gt;At the completion of all rotations, the employee is assigned to a position that is the best fit for both the employee and Skanska based on the employee's individual strengths and ability to contribute to the company's bottom line. The sequence of the rotations will be tailored to the company's needs matched with the participant's strengths, weaknesses and development progress.&lt;br&gt;&lt;br&gt;Core business areas identified for rotations are:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt; Office/Field Engineer&lt;/li&gt;&lt;li&gt; Preconstruction/Estimating&lt;/li&gt;&lt;li&gt; Project/Cost Controls&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The CCTP goes far beyond moving employees through different areas of our corporate structure. Each employee in the program is under the instruction and guidance of experienced personnel during this program. In addition, the highest level of management will follow each employee's progress in order to develop our people in the shortest practical time into capable, productive managers, well versed in all aspects of our construction business.&lt;br&gt;&lt;br&gt;&lt;strong&gt;What You'll Do:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Receive, review, forward and track status of submittals&lt;/li&gt;&lt;li&gt; Initiate, prepare, review, track and distribute RFIs&lt;/li&gt;&lt;li&gt; Assist in management of project permit process&lt;/li&gt;&lt;li&gt; Assist in preparations of bid packages and procurement&lt;/li&gt;&lt;li&gt; Update construction schedule based on project team input, Trade Contractor progress and materials delivery&lt;/li&gt;&lt;li&gt; Change management systems, including soliciting, receiving, reviewing, and preparing quotations and change orders&lt;/li&gt;&lt;li&gt; Track and inspect material deliveries&lt;/li&gt;&lt;li&gt; Compile reports regarding the financial performance of the project&lt;/li&gt;&lt;li&gt; Assist in preparation of monthly owner project status reports, as required&lt;/li&gt;&lt;li&gt; Attend and/or lead project meetings, as directed by Project/Department Manager and record meeting minutes&lt;/li&gt;&lt;li&gt; Assist and/or complete project close-out&lt;/li&gt;&lt;li&gt; Perform quantity take-off and other estimating or pre-construction duties as required&lt;/li&gt;&lt;li&gt; Communicate and enforce Skanska Safety and Health Management Program&lt;/li&gt;&lt;li&gt; Demonstrate commitment to an Injury-Free Environment through own actions and mentoring others&lt;/li&gt;&lt;li&gt;Plan, coordinate, supervise and direct all planning and direct all planning and scheduling activities.&lt;/li&gt;&lt;li&gt; Provide development/implementation of project controls standards and procedures.&lt;/li&gt;&lt;li&gt; Interface/maintain liaison with project management, owner, subcontractors, etc. while maintaining effective relationships&lt;/li&gt;&lt;li&gt; Perform estimating or accounting activities&lt;/li&gt;&lt;li&gt; Additional duties as required&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;We're Looking for:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Ability to learn and adapt quickly to fast-paced, deadline-driven environment&lt;/li&gt;&lt;li&gt; Knowledge of basic phases of construction projects&lt;/li&gt;&lt;li&gt; Ability to read and interpret plans and specs&lt;/li&gt;&lt;li&gt; Proficiency in mathematics functions (geometry, basic algebra, and basic accounting) is preferred&lt;/li&gt;&lt;li&gt; Proficiency with computer programs such as MS Office suite, Outlook, AutoCAD, scheduling software&lt;/li&gt;&lt;li&gt; Strong written and verbal communication skills&lt;/li&gt;&lt;li&gt; Strong time management skills with the ability to deliver quality work within the expected timeframe&lt;/li&gt;&lt;li&gt; Effective organizational skills&lt;/li&gt;&lt;li&gt; Must be able to exercise positive and effective interpersonal skills in a diverse team environment&lt;/li&gt;&lt;li&gt; Must be committed to complying with all company policies, practices and standards of performance&lt;/li&gt;&lt;li&gt; Desire to pursue a long term career in the Heavy Civil Construction industry&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Education and/or Experience:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;a completed Bachelor's Degree in a field of study such as Construction Management; Engineering; Mechanical Engineering; Civil Engineering or related fields.&lt;/li&gt;&lt;li&gt;Open to new graduates between December 1, 2025 to June 30, 2026.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Developing Your Career:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Contribute to a sustainable future improving the lives of people, communities, and companies;&lt;/li&gt;&lt;li&gt; Collaborate in an open culture where sound values and dedicated people come together for greater results;&lt;/li&gt;&lt;li&gt; Thrive in a people-driven international company with countless opportunities to learn and group&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Salary Low&lt;br&gt;&lt;br&gt;&lt;/strong&gt;USD $66,700.00/Yr.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Salary High&lt;br&gt;&lt;br&gt;&lt;/strong&gt;USD $91,000.00/Yr.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Background Check Required&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Skanska is an Equal Employment Opportunity (EEO) Employer. We do not discriminate on the basis of race, color, religion, sex, national origin, disability, age, genetic information, citizenship, protected veteran status, or any other categories protected under applicable federal, state, and local laws.&lt;br&gt;&lt;br&gt;Skanska Equal Employment Opportunity&lt;br&gt;&lt;br&gt;Skanska uses knowledge &amp;amp; foresight to shape the way people live, work, and connect. More than 135 years in the making, we’re one of the world’s largest construction and project development companies. With operations in select markets throughout the Nordics, Europe, and the United States, global revenue totaled $15.9 billion in 2024.&lt;br&gt;&lt;br&gt;Skanska in the U.S. operates 28 offices across the country, with its headquarters in New York City. In 2024, the U.S. construction sector generated $8.2 billion in revenue, and the U.S. development sector’s net investments in commercial projects totaled $224 million.&lt;br&gt;&lt;br&gt;Together with our customers and the collective expertise of our 6,300 teammates in the U.S. and 26,300 globally, we create innovative and sustainable solutions that support healthy living beyond our lifetime.&lt;br&gt;&lt;br&gt;Skanska's Applicant Privacy Policy for California Residents&lt;br&gt;&lt;br&gt;&lt;strong&gt;Search Firm and Employment Agency Disclaimer &lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;em&gt;Search Firm and Employment Agency Disclaimer Skanska USA Human Resources (“Skanska HR”) provides HR services to the Skanska business units within the U.S.A.&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; including Skanska USA Civil Inc., Skanska USA Building Inc., Skanska USA Commercial Development Inc.&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; and Skanska Infrastructure Development Inc. (collectively “Skanska USA”). As such, Skanska HR is the sole authorized representative of Skanska USA to execute any agreements with search firms, employment agencies&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; or any employment vendor (“Vendor”). As a condition precedent to any entitlement for payment, a Vendor shall have both (1) &lt;/em&gt;&lt;em&gt;the &lt;/em&gt;&lt;em&gt;Skanska USA Placement Agreement and (2) an Engagement Job Order executed by an authorized Skanska HR representative. Absent the properly executed documents, Skanska HR shall have no obligation to make payment to the Vendor. Verbal or written communications from any employee of Skanska USA business units shall not be considered binding obligations. All resumes&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; whether unsolicited or solicited&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; shall be considered &lt;/em&gt;&lt;em&gt;the &lt;/em&gt;&lt;em&gt;property of Skanska HR.&lt;/em&gt;",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "general"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-linkedin-com-jobs-view-2026-new-grad-entry-level-engineer-rotation-program-california-cctp-at-skanska-4350295091",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T06:13:11.782Z",
-    "enrichedAt": "2026-02-05T08:07:31.596Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-stubhub-xlqavpjp0wabpeijaaaaaa==",
-      "job_title": "Software Engineer I - Open Distribution (New Grad)",
-      "employer_name": "StubHub",
-      "job_city": "Los Angeles",
-      "job_state": "California",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://jobright.ai/jobs/info/69600c117ebc25398eb5f513?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
-      "job_description": "<p>StubHub is on a mission to redefine the live event experience on a global scale. They are seeking a Software Engineer I for the Open Distribution team to contribute to the development of systems that power ticket transactions, utilizing AI-driven tools and modern engineering practices.</p><br><p>Responsibilities</p><ul><li>Use AI-assisted development tools (including Claude and other GenAI technologies) to support debugging, learning, documentation, and developer productivity</li><li>Implement features, enhancements, and bug fixes in backend services that support partner inventory ingestion, synchronization, and marketplace publishing</li><li>Learn and apply distributed systems concepts, including event-driven architectures, APIs, and data processing pipelines</li><li>Participate in code reviews, design discussions, pairing sessions, and team collaboration</li><li>Contribute to improving partner-facing APIs, error handling, and internal tooling</li><li>Learn how to diagnose production issues using logging, monitoring, and observability tools</li></ul><br><p>Skills</p><ul><li>Recent graduate or software engineer with up to ~2 years of experience (including internships, co-ops, or substantial academic projects)</li><li>Strong understanding of computer science fundamentals, including data structures and algorithms</li><li>Familiarity with at least one backend programming language like Java, Python, or Golang</li><li>Basic experience building or consuming APIs and experience working with LLM frameworks and AI Platforms such as Anthropic or ChatGPT either in school or on side projects</li><li>Bachelor's degree in Computer Science, Data Science, Engineering, or a related technical field, or equivalent hands-on experience</li></ul><br><p>Benefits</p><ul><li>401k</li><li>Premium Health, Vision, and Dental Insurance options</li><li>Paid time off</li><li>Paid parental leave</li></ul><br><p>Company Overview</p><li>StubHub is a ticket marketplace where users buy and sell tickets for sports, concerts, theater, and live events. It is a sub-organization of eBay. It was founded in 2000, and is headquartered in San Francisco, California, USA, with a workforce of 1001-5000 employees. Its website is http://www.stubhub.com.</li><br><p>Company H1B Sponsorship</p><li>StubHub has a track record of offering H1B sponsorships, with 35 in 2025, 20 in 2024, 20 in 2023, 4 in 2022, 4 in 2021, 33 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "jobright-ai-jobs-info-69600c117ebc25398eb5f513",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T06:13:11.782Z",
-    "enrichedAt": "2026-02-05T08:07:31.596Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-fidelis-technologies-afgdo6x0fnylmvmgaaaaaa==",
-      "job_title": "Network Savy CNO-Developer",
-      "employer_name": "Fidelis Technologies",
-      "job_city": "Annapolis Junction",
-      "job_state": "Maryland",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/network-savy-cno-developer-at-fidelis-technologies-4368505911?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-      "job_description": "&lt;strong&gt;Must have active TS/SI FS Polygraph&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Fidelis is looking for a new team member to support our Network device team to support the development of new and existing capabilities.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Requirements&lt;br&gt;&lt;br&gt;&lt;/strong&gt;5+ years of experience with C development and reverse engineering (CS2)&lt;br&gt;&lt;br&gt;10+ years of experience with C development and reverse engineering (CS3)&lt;br&gt;&lt;br&gt;Experience with CNO Development on Network Devices&lt;br&gt;&lt;br&gt;&lt;strong&gt;Candidates Should Have One Of More Of The Following&lt;br&gt;&lt;br&gt;&lt;/strong&gt;In-depth understanding of network protocols&lt;br&gt;&lt;br&gt;Experience with network device appliances (routers, switches, firewalls)&lt;br&gt;&lt;br&gt;Experience working in a Real Time Operating System environment",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "3_plus_years",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-linkedin-com-jobs-view-network-savy-cno-developer-at-fidelis-technologies-4368505911",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T07:15:12.971Z",
-    "enrichedAt": "2026-02-05T08:07:31.596Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-fresno-unified-school-district-5ivdwgmztwaipfvzaaaaaa==",
-      "job_title": "Software Engineer- Technology Services - 8 Hours",
-      "employer_name": "Fresno Unified School District",
-      "job_city": "Unknown",
-      "job_state": "",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-technology-services-8-hours-at-fresno-unified-school-district-4369076525?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-      "job_description": "The &lt;strong&gt;Software Engineer&lt;/strong&gt; under general direction of an assigned supervisor, performs activities required to analyze, design, develop, implement, install, support, maintain, patch, troubleshoot, and upgrade software on specific operating systems, utilities, and enterprise applications to provide reasonable, timely delivery of professional technology services to the District in support of student learning at a high level; lead other programming staff on major projects and serve as a technical resource to others to support the effective and efficient operations of the department.&lt;br&gt;&lt;br&gt;To view full job description, education requirements and licenses for this position visit:&lt;br&gt;&lt;br&gt;https://www.fresnounified.org/employment/job-descriptions&lt;br&gt;&lt;br&gt;&lt;strong&gt;This role will provide continuity for existing database, reporting, and integration solutions, with priority focus areas including T-SQL development, SSRS report support, and integrations and automations across enterprise financial/ERP, Human Capital Management (HCM), and student information systems.&lt;/strong&gt;",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "3_plus_years",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-linkedin-com-jobs-view-software-engineer-technology-services-8-hours-at-fresno-unified-school-district-4369076525",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T07:15:12.971Z",
-    "enrichedAt": "2026-02-05T08:07:31.596Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-synergisticit-ye4r9ij02aok-pyjaaaaaa==",
-      "job_title": "Entry Level Software Developer (Remote)",
-      "employer_name": "SynergisticIT",
-      "job_city": "West Palm Beach",
-      "job_state": "Florida",
-      "job_country": "United States",
-      "job_is_remote": true,
-      "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/66kIGfssZLztjJHbgeoy20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-      "job_description": "Entry Level Software Developer (Remote)SynergisticIT7 months agoWest Palm Beach, Florida, United StatesRemoteFull-timeBeginner Level (< 1 year)Apply to JobJob DescriptionPosition OverviewIn today’s challenging market—with over 150,000 tech layoffs in 2022 and more than 240,000 in 2023—jobseekers face intense competition. At SynergisticIT, with 12+ years of experience, we empower candidates to differentiate themselves by gaining exceptional skills. We don’t just focus on getting you a job; we make careers. We are seeking entry-level software programmers, Java full stack developers, Python/Java developers, data analysts/data scientists, and machine learning engineers for full-time positions. All positions are open for all visas and US citizens.Key ResponsibilitiesDemonstrate the requisite skills to start contributing from day one on client projects.Engage with top tech companies and work on advanced technologies.Adapt quickly in a fast-paced environment and deliver high-value solutions.Participate in skill enhancement programs and live project experiences when needed.Uphold excellent technical and communication standards in client interactions.Required QualificationsBachelor’s or Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT or related field.Highly motivated, self-learner, and technically inquisitive.Experience with Java and understanding of the software development life cycle including hands-on project work. Familiarity with Core Java, JavaScript, C++, Spring Boot, Microservices, Docker, Jenkins, and REST APIs is essential.For Data Science/Machine Learning roles: Knowledge of Statistics, SAS, Python, Computer Vision, and data visualization tools.Excellent written and verbal communication skills.Preferred QualificationsFor Data Science/Machine Learning positions: Experience or certifications in NLP, Text mining, Tableau, PowerBI, SAS, Tensorflow, or time series analysis.Additional industry or client project experience is a plus for software programming roles.Benefits & PerksVisa flexibility – All positions are open for all visas and US citizens.Assistance with STEM extension, H1B, and Green Card filing.Optional skill and technology enhancement programs for candidates looking to upgrade their industry experience.Opportunities to work with top tech companies such as Apple, Google, Paypal, and more.Exposure at renowned tech events including Oracle CloudWorld and Gartner Data Analytics Summit.Required SkillsC++Software Development Life CycleJavaScriptSpring BootDockerJavaJenkinsREST APIsExcellent CommunicationCore JavaMicroservices",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "remote",
-          "us"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "jobs-digitalhire-com-job-listing-opening-66kigfsszlztjjhbgeoy20",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T07:15:12.971Z",
-    "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-whatjobs-direct-lbb4vloclghhdjiiaaaaaa==",
-      "job_title": "Junior Software Developer - Remote",
-      "employer_name": "WhatJobs Direct",
-      "job_city": "Seattle",
-      "job_state": "Washington",
-      "job_country": "United States",
-      "job_is_remote": true,
-      "job_apply_link": "https://www.whatjobs.com/jobs/software-engineer?id=2437416208&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-      "job_description": "Our client, an innovative tech startup focused on developing cutting-edge SaaS solutions, is actively seeking motivated Junior Software Developers to join their fully remote team. This is an exceptional opportunity for aspiring developers to gain hands-on experience, contribute to impactful projects, and grow their careers in a collaborative, remote-first environment.<br><br>As a Junior Software Developer, you will work alongside experienced engineers, contributing to the design, development, testing, and deployment of our client's flagship products. You will be involved in the entire software development lifecycle, from conceptualization to deployment, and will have the chance to work with modern technologies and agile methodologies. This role requires a strong foundational understanding of programming principles, a passion for learning, and excellent problem-solving skills. You will be expected to write clean, efficient, and well-documented code, participate actively in code reviews, and contribute to team discussions.<br><br>Key responsibilities:<br>Assist in the design, coding, testing, and debugging of software applications. Collaborate with senior developers and product managers to understand project requirements and translate them into technical solutions. Write clean, maintainable, and efficient code in languages such as Python, Java, JavaScript, or similar. Participate in code reviews to ensure code quality and share knowledge with team members. Troubleshoot and resolve software defects and issues. Contribute to the development of new features and enhancements. Learn and apply new technologies and development practices. Assist in the documentation of software designs, processes, and user guides. Engage actively in agile development processes, including daily stand-ups and sprint planning. Support the testing and deployment phases of the software development lifecycle. <br>Qualifications:<br>Bachelor's degree in Computer Science, Software Engineering, or a related technical field, or equivalent practical experience. Foundational knowledge of programming concepts and data structures. Familiarity with at least one modern programming language (e.g., Python, Java, C#, JavaScript). Understanding of software development lifecycle (SDLC) and agile methodologies. Strong problem-solving and analytical skills. Excellent communication skills, with the ability to articulate technical concepts clearly in a remote setting. Eagerness to learn and adapt to new technologies and challenges. Ability to work independently and as part of a distributed team. Version control experience (e.g., Git) is a plus. Familiarity with cloud platforms (AWS, Azure, GCP) is a plus. This position is entirely remote, offering flexibility and the chance to work from anywhere. Our client provides a supportive and engaging work environment, opportunities for professional development, and a competitive salary and benefits package.",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "remote",
-          "us"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-whatjobs-com-jobs-software-engineer",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T07:15:12.971Z",
-    "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-rsa-tech-exilf8mab4lz7uccaaaaaa==",
-      "job_title": "Kafka Engineer",
-      "employer_name": "RSA Tech",
-      "job_city": "Hartford",
-      "job_state": "Connecticut",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/kafka-engineer-at-rsa-tech-4368269758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-      "job_description": "Note: Currently we are unable to sponsor. We Encourage to apply USC & GC****Job Title: Senior Kafka Engineer Experience: 9+ YearsLocation: Hartford, CT, Dallas TX, Chicago, IL | OnsiteRole SummaryWe are looking for a highly experienced Kafka Engineer with 9+ years of experience in designing, building, and operating large-scale Apache Kafka platforms. The role involves working on real-time data streaming, ETL pipelines, and cloud-native Kafka deployments on AWS.Key ResponsibilitiesDesign, implement, and manage Apache Kafka clusters (AWS MSK / Confluent)Build and maintain Kafka Connect pipelines for ETL and data integrationDevelop real-time stream processing using Kafka StreamsManage Schema Registry and ensure data compatibility and governanceMonitor, tune, and optimize Kafka performance and reliabilityEnsure high availability, security, and fault tolerance of streaming systemsRequired Skills9+ years of experience in data engineering / streaming platformsStrong expertise in Apache Kafka, Kafka Connect, Kafka StreamsHands-on experience with AWS (MSK, EC2, S3, IAM)Experience with ETL pipelines and real-time data processingKnowledge of Schema Registry (Avro/Protobuf/JSON)Strong troubleshooting and production support skills Show more Show less Seniority level Mid-Senior level Employment type Contract Job function Information Technology Industries Software Development and IT Services and IT Consulting",
-      "job_employment_type": "CONTRACTOR",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "general"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "3_plus_years",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-linkedin-com-jobs-view-kafka-engineer-at-rsa-tech-4368269758",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T07:15:12.971Z",
-    "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
-      "job_id": "js-arvist-uib_gjp1mpf0ioohaaaaaa==",
-      "job_title": "Field Engineering Specialist",
-      "employer_name": "Arvist",
-      "job_city": "Chicago",
-      "job_state": "Illinois",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/field-engineering-specialist-at-arvist-4367412035?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-31T00:00:00.000Z",
-      "job_description": "Direct message the job poster from Arvist Paul Brisson 🚚 📦 🌱 Paul Brisson 🚚 📦 🌱 Still a kid from a small town who isn't afraid to help make this world a better place. Company DescriptionArvist is at the forefront of transforming warehouse operations through AI and Computer Vision, enabling smarter, safer, and more efficient logistics. Our state-of-the-art autonomous platform integrates with existing cameras, sensors, and WMS data, requiring no major system overhauls while delivering immediate results. Serving industries like 3PL, food and beverage, pharmaceuticals, and manufacturing, we excel at enhancing quality control, safety, and productivity. With technologies built to drive shipment accuracy, detect real-time damage, and optimize intricate processes, Arvist ensures top-tier operational performance across warehouses. Our commitment to accessible and adaptable innovation helps clients reduce costs, boost efficiency, and embrace automation effortlessly.Role DescriptionThis full-time Field Engineering Tech role is an on-site position based in Chicago, IL. The successful candidate will provide expert field support, troubleshoot technical issues, conduct site implementations, and maintain system performance. Responsibilities also include delivering high-quality service to clients, coordinating with teams on technical projects, and ensuring timely issue resolution for efficient operations.QualificationsStrong skills in troubleshooting and identifying technical issues with a problem-solving mindsetEffective communication and interpersonal skills to liaise with clients and internal teamsHands-on experience in field service operations and providing on-site technical assistanceFamiliarity with delivering technical support and resolving system-related concernsProject management capabilities to handle timelines and ensure successful implementationsAbility to adapt to fast-paced environments and maintain attention to detailExperience with AI, Computer Vision, or automation systems is a plusBachelor’s degree in Engineering, IT, or related field preferred Show more Show less Seniority level Entry level Employment type Full-time Job function Management and Manufacturing Industries Transportation, Logistics, Supply Chain and Storage",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "general"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "3_plus_years",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-linkedin-com-jobs-view-field-engineering-specialist-at-arvist-4367412035",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T07:15:12.971Z",
-    "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": "2026-02-05T09:54:57.741Z"
-  },
-  {
-    "job": {
       "job_id": "js-walmart-rzun6uady8-ha_1haaaaaa==",
       "job_title": "Software Engineer III - Fullstack",
       "employer_name": "Walmart",
@@ -563,10 +193,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T07:15:12.971Z",
     "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -600,10 +230,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T07:42:48.542Z",
     "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -637,10 +267,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T07:42:48.542Z",
     "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -674,10 +304,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T07:42:48.542Z",
     "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -713,10 +343,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T07:42:48.542Z",
     "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -752,10 +382,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T07:42:48.542Z",
     "enrichedAt": "2026-02-05T08:30:43.877Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -789,10 +419,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T07:42:48.542Z",
     "enrichedAt": "2026-02-05T08:53:51.914Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -865,10 +495,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T09:53:42.205Z",
     "enrichedAt": "2026-02-05T09:54:11.990Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -904,10 +534,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T09:53:42.205Z",
     "enrichedAt": "2026-02-05T09:54:11.990Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
@@ -943,10 +573,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T09:53:42.205Z",
     "enrichedAt": "2026-02-05T09:54:11.990Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T10:24:03.449Z"
   },
   {
     "job": {
