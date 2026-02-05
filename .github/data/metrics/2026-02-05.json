@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-05T07:44:08.646Z",
+  "generated": "2026-02-05T08:08:22.468Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T07:44:08.646Z",
-  "period_end": "2026-02-05T07:44:08.646Z",
+  "period_start": "2026-01-29T08:08:22.468Z",
+  "period_end": "2026-02-05T08:08:22.468Z",
   "summary": {
-    "total_jobs_posted": 3220,
-    "unique_jobs": 2294,
-    "multi_channel_postings": 1852,
-    "unique_multi_channel_jobs": 926,
+    "total_jobs_posted": 3238,
+    "unique_jobs": 2304,
+    "multi_channel_postings": 1868,
+    "unique_multi_channel_jobs": 934,
     "failed_postings": 0,
     "filtered_jobs": 4,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1934,
+      "count": 1943,
       "jobs": [
         "1027d639bd2f91ae",
         "f95533d3f335de4a",
@@ -1950,74 +1950,83 @@
         "0bd7c236fa0c546b",
         "77e2d805c225dfbb",
         "0c01a2e40f8588dc",
-        "b9b85c6471d4bd49"
+        "b9b85c6471d4bd49",
+        "507a44898f0ce790",
+        "b15d4a9065a22927",
+        "81ea6c828900d751",
+        "7edf40b23f00a4a0",
+        "b6dccdf9c4bee42d",
+        "22049bd697e9259d",
+        "8c8ead1f99a1017d",
+        "3588a41f56880b48",
+        "3924a8b81ffa39ef"
       ],
       "recent_jobs": [
-        {
-          "id": "806da8ac84527644",
-          "title": "Junior Java Software Engineer",
-          "company": "GliaCell Technologies",
-          "posted_at": "2026-02-05T07:43:25.419Z"
-        },
-        {
-          "id": "454cbc1800f61c62",
-          "title": "Remote Software Developer (Junior)",
-          "company": "SynergisticIT",
-          "posted_at": "2026-02-05T07:43:29.062Z"
-        },
-        {
-          "id": "34f4a978186081b6",
-          "title": "C++ Software Engineer- Global Market Maker",
-          "company": "Jobs via eFinancialCareers",
-          "posted_at": "2026-02-05T07:43:32.765Z"
-        },
-        {
-          "id": "a69c4c425ee40b40",
-          "title": "Distinguished Engineer",
-          "company": "Capital One",
-          "posted_at": "2026-02-05T07:43:36.467Z"
-        },
-        {
-          "id": "7c97db683347f1bc",
-          "title": "(USA) Software Engineer III (Full Stack)",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T07:43:43.705Z"
-        },
-        {
-          "id": "d5ea09b204899349",
-          "title": "Software Engineer III",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T07:43:47.436Z"
-        },
-        {
-          "id": "0bd7c236fa0c546b",
-          "title": "Software Engineer with Boomi or Workato EXPERIENCE",
-          "company": "BravoTECH",
-          "posted_at": "2026-02-05T07:43:51.108Z"
-        },
-        {
-          "id": "77e2d805c225dfbb",
-          "title": "2026 Associate Software EngineerSoftware Engineer",
-          "company": "Northrop Grumman",
-          "posted_at": "2026-02-05T07:43:52.936Z"
-        },
-        {
-          "id": "0c01a2e40f8588dc",
-          "title": "AM Pierce and Associates is hiring: Junior Software Engineer in Lexington Park",
-          "company": "AM Pierce and Associates",
-          "posted_at": "2026-02-05T07:43:54.943Z"
-        },
         {
           "id": "b9b85c6471d4bd49",
           "title": "Slack Enginner",
           "company": "Akkodis",
           "posted_at": "2026-02-05T07:43:58.633Z"
+        },
+        {
+          "id": "507a44898f0ce790",
+          "title": "Jr. Software Engineer",
+          "company": "Rincon Research Corporation",
+          "posted_at": "2026-02-05T08:07:35.982Z"
+        },
+        {
+          "id": "b15d4a9065a22927",
+          "title": "Software Engineer 2 - CoreAI",
+          "company": "Microsoft",
+          "posted_at": "2026-02-05T08:07:39.841Z"
+        },
+        {
+          "id": "81ea6c828900d751",
+          "title": "Associate, Software Engineer; Greenville, TX",
+          "company": "Harris Geospatial Solutions",
+          "posted_at": "2026-02-05T08:07:43.761Z"
+        },
+        {
+          "id": "7edf40b23f00a4a0",
+          "title": "Junior iOS Software Engineer",
+          "company": "Jobright.ai",
+          "posted_at": "2026-02-05T08:07:47.348Z"
+        },
+        {
+          "id": "b6dccdf9c4bee42d",
+          "title": "Junior Software Engineer",
+          "company": "Space Dynamics Laboratory",
+          "posted_at": "2026-02-05T08:07:51.301Z"
+        },
+        {
+          "id": "22049bd697e9259d",
+          "title": "Full Stack Software Engineer - Top-Secret with SCI eligibility",
+          "company": "Peraton",
+          "posted_at": "2026-02-05T08:07:55.329Z"
+        },
+        {
+          "id": "8c8ead1f99a1017d",
+          "title": "(USA) Software Engineer III",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T08:08:02.047Z"
+        },
+        {
+          "id": "3588a41f56880b48",
+          "title": "Software Engineer III",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T08:08:03.909Z"
+        },
+        {
+          "id": "3924a8b81ffa39ef",
+          "title": "Junior Software Developer",
+          "company": "CACI",
+          "posted_at": "2026-02-05T08:08:05.741Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 505,
+      "count": 506,
       "jobs": [
         "d90db86d11c7376e",
         "f61e5f3b68f52006",
@@ -2523,15 +2532,10 @@
         "a69c4c425ee40b40",
         "7c97db683347f1bc",
         "d5ea09b204899349",
-        "b9b85c6471d4bd49"
+        "b9b85c6471d4bd49",
+        "7edf40b23f00a4a0"
       ],
       "recent_jobs": [
-        {
-          "id": "6ab12453b5478164",
-          "title": "Junior Solutions Engineer",
-          "company": "Bitmovin",
-          "posted_at": "2026-02-05T07:18:20.357Z"
-        },
         {
           "id": "3aba4bbabfa2a5e8",
           "title": "Fullstack Software Engineer",
@@ -2585,12 +2589,18 @@
           "title": "Slack Enginner",
           "company": "Akkodis",
           "posted_at": "2026-02-05T07:43:58.633Z"
+        },
+        {
+          "id": "7edf40b23f00a4a0",
+          "title": "Junior iOS Software Engineer",
+          "company": "Jobright.ai",
+          "posted_at": "2026-02-05T08:07:47.348Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 350,
+      "count": 356,
       "jobs": [
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
@@ -2941,45 +2951,15 @@
         "2731f669030b1dcc",
         "806da8ac84527644",
         "454cbc1800f61c62",
-        "0c01a2e40f8588dc"
+        "0c01a2e40f8588dc",
+        "507a44898f0ce790",
+        "81ea6c828900d751",
+        "b6dccdf9c4bee42d",
+        "22049bd697e9259d",
+        "3924a8b81ffa39ef",
+        "92c63d5df2cccb97"
       ],
       "recent_jobs": [
-        {
-          "id": "901eb27179689fae",
-          "title": "Java, Javascript, Python, NodeJS Software Engineer",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T06:43:56.500Z"
-        },
-        {
-          "id": "f4cbb23a58c5be7a",
-          "title": "Software Engineer–Systems (Associate/Experienced)",
-          "company": "Boeing",
-          "posted_at": "2026-02-05T06:44:00.271Z"
-        },
-        {
-          "id": "6e5c180ebeead92c",
-          "title": "Software Engineer, Flight + Plan",
-          "company": "Quindar",
-          "posted_at": "2026-02-05T07:18:08.945Z"
-        },
-        {
-          "id": "3b735c1963bae659",
-          "title": "Junior Software Engineer / Developer",
-          "company": "Saalex",
-          "posted_at": "2026-02-05T07:18:12.743Z"
-        },
-        {
-          "id": "c82f67e6beb40107",
-          "title": "Junior Software Engineer (3964)",
-          "company": "SMX",
-          "posted_at": "2026-02-05T07:18:16.549Z"
-        },
-        {
-          "id": "5281020b8ea66c6b",
-          "title": "Software Developer - TS/SCI Full Scope Poly",
-          "company": "Piper Companies",
-          "posted_at": "2026-02-05T07:18:24.711Z"
-        },
         {
           "id": "2731f669030b1dcc",
           "title": "Junior Software Engineer",
@@ -3003,12 +2983,48 @@
           "title": "AM Pierce and Associates is hiring: Junior Software Engineer in Lexington Park",
           "company": "AM Pierce and Associates",
           "posted_at": "2026-02-05T07:43:54.943Z"
+        },
+        {
+          "id": "507a44898f0ce790",
+          "title": "Jr. Software Engineer",
+          "company": "Rincon Research Corporation",
+          "posted_at": "2026-02-05T08:07:35.982Z"
+        },
+        {
+          "id": "81ea6c828900d751",
+          "title": "Associate, Software Engineer; Greenville, TX",
+          "company": "Harris Geospatial Solutions",
+          "posted_at": "2026-02-05T08:07:43.761Z"
+        },
+        {
+          "id": "b6dccdf9c4bee42d",
+          "title": "Junior Software Engineer",
+          "company": "Space Dynamics Laboratory",
+          "posted_at": "2026-02-05T08:07:51.301Z"
+        },
+        {
+          "id": "22049bd697e9259d",
+          "title": "Full Stack Software Engineer - Top-Secret with SCI eligibility",
+          "company": "Peraton",
+          "posted_at": "2026-02-05T08:07:55.329Z"
+        },
+        {
+          "id": "3924a8b81ffa39ef",
+          "title": "Junior Software Developer",
+          "company": "CACI",
+          "posted_at": "2026-02-05T08:08:05.741Z"
+        },
+        {
+          "id": "92c63d5df2cccb97",
+          "title": "Business Intelligence Software Engineer",
+          "company": "Asplundh Careers",
+          "posted_at": "2026-02-05T08:08:12.457Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 360,
+      "count": 361,
       "jobs": [
         "37929c2df28e0a82",
         "070dd6fd23f55776",
@@ -3369,15 +3385,10 @@
         "7c68661b6e455d65",
         "b3cf540b4f342f96",
         "901eb27179689fae",
-        "f4cbb23a58c5be7a"
+        "f4cbb23a58c5be7a",
+        "92c63d5df2cccb97"
       ],
       "recent_jobs": [
-        {
-          "id": "06511d7531717e1f",
-          "title": "Associate Data Scientist",
-          "company": "NextEra Energy",
-          "posted_at": "2026-02-01T22:00:15.104Z"
-        },
         {
           "id": "160a2a0c0ab9992e",
           "title": "Upmarket Account Executive",
@@ -3431,12 +3442,18 @@
           "title": "Software Engineer–Systems (Associate/Experienced)",
           "company": "Boeing",
           "posted_at": "2026-02-05T06:44:00.271Z"
+        },
+        {
+          "id": "92c63d5df2cccb97",
+          "title": "Business Intelligence Software Engineer",
+          "company": "Asplundh Careers",
+          "posted_at": "2026-02-05T08:08:12.457Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 71,
+      "count": 72,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -3508,15 +3525,10 @@
         "7201e28ee3618395",
         "77d62485b6311805",
         "3989d78eed406403",
-        "79ccf9b876fe6c3e"
+        "79ccf9b876fe6c3e",
+        "b15d4a9065a22927"
       ],
       "recent_jobs": [
-        {
-          "id": "40f38d2bb8285022",
-          "title": "Associate Programmer Analyst",
-          "company": "The Boeing Company",
-          "posted_at": "2026-02-01T19:32:38.183Z"
-        },
         {
           "id": "29668ec70becc8d7",
           "title": "Systems Software Engineer - GPU",
@@ -3570,6 +3582,12 @@
           "title": "Mobile Engineering Graduate",
           "company": "Expedia Group",
           "posted_at": "2026-02-01T21:33:46.899Z"
+        },
+        {
+          "id": "b15d4a9065a22927",
+          "title": "Software Engineer 2 - CoreAI",
+          "company": "Microsoft",
+          "posted_at": "2026-02-05T08:07:39.841Z"
         }
       ]
     }
@@ -4087,28 +4105,28 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T07:43:25.151Z"
+        "timestamp": "2026-02-05T08:07:35.692Z"
       },
       {
         "job_id": "careers-datadoghq-com-detail-7409247",
         "title": "Key Accounts Executive",
         "company": "datadog",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T07:43:25.152Z"
+        "timestamp": "2026-02-05T08:07:35.693Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T07:43:25.152Z"
+        "timestamp": "2026-02-05T08:07:35.693Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T07:43:25.153Z"
+        "timestamp": "2026-02-05T08:07:35.694Z"
       }
     ]
   }
