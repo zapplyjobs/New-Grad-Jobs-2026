@@ -158,42 +158,5 @@
     "addedAt": "2026-02-04T19:25:23.885Z",
     "enrichedAt": "2026-02-04T21:09:36.456Z",
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_id": "js-jobs-via-dice-3c7urssa79k3l02naaaaaa==",
-      "job_title": "Integration Engineer - CSAM",
-      "employer_name": "Jobs via Dice",
-      "job_city": "Bethesda",
-      "job_state": "Maryland",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/integration-engineer-csam-at-jobs-via-dice-4368965882?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-05T07:00:00.000Z",
-      "job_description": "&lt;strong&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/strong&gt;ECS is seeking an &lt;strong&gt;Integration Engineer - CSAM &lt;/strong&gt; to work in our &lt;strong&gt;Bethesda, MD &lt;/strong&gt; office/ &lt;strong&gt;remote&lt;/strong&gt; .&lt;br&gt;&lt;br&gt;&lt;strong&gt;Position Summary:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;ECS Federal is seeking an Integration Engineer to design and operate high-quality data flows for the Federal Agency's Cybersecurity Assessment and Management (CSAM) platform. This full-time role focuses on building and maintaining integrations from asset management tools, CMDBs, discovery tools, and governance systems; normalizing schemas; and automating tagging to enable continuous monitoring and Ongoing Authorization (OA). The engineer will also support OSCAL as a required skill to produce machine-readable compliance outputs (JSON/XML/YAML).&lt;br&gt;&lt;br&gt;&lt;strong&gt;Position Responsibilities:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Design, build, and maintain pipelines that feed data into CSAM from asset management tools, CMDBs, discovery tools, and governance systems.&lt;/li&gt;&lt;li&gt;Develop and operate API/ETL integrations, ensuring schema translation, normalization, and resilient error handling.&lt;/li&gt;&lt;li&gt;Automate tagging so systems inherit attributes needed for compliance and reporting.&lt;/li&gt;&lt;li&gt;Troubleshoot integration failures and coordinate with ICOs when data gaps or mapping issues occur.&lt;/li&gt;&lt;li&gt;Validate the quality, completeness, and accuracy of all data flowing into CSAM; implement QA checks and reconciliation routines.&lt;/li&gt;&lt;li&gt;Apply and enforce naming conventions, metadata standards, and attribute requirements across incoming data sources.&lt;/li&gt;&lt;li&gt;Support OSCAL pilots by outputting data in JSON/XML/YAML and aligning exported structures to required models.&lt;/li&gt;&lt;li&gt;Help reconcile ICO data structures into standardized OSCAL-aligned definitions and CSAM target schemas.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Salary Range: $115,000 - $135,000&lt;br&gt;&lt;br&gt;&lt;strong&gt;Required Skills&lt;br&gt;&lt;br&gt;&lt;/strong&gt;General Description of Benefits&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Strong written and verbal communication skills; able to brief stakeholders and collaborate with technical teams.&lt;/li&gt;&lt;li&gt;Hands-on experience building API and ETL integrations (e.g., REST-based pipelines, message queues, scheduled jobs) with robust error handling and monitoring.&lt;/li&gt;&lt;li&gt;Experience integrating asset, software, and configuration data sources into a GRC or enterprise system and performing schema translation and normalization.&lt;/li&gt;&lt;li&gt;Demonstrated ability to automate tagging so systems inherit compliance attributes consistently across data feeds.&lt;/li&gt;&lt;li&gt;Experience administering or working closely with teams operating Linux and Windows Server environments that host integration components.&lt;/li&gt;&lt;li&gt;Ability to troubleshoot integration failures end-to-end and coordinate with Information/Integration Coordinators (ICOs) to resolve data gaps.&lt;/li&gt;&lt;li&gt;Experience validating data quality, completeness, and accuracy; applying QA gates, reconciliation checks, and exception handling.&lt;/li&gt;&lt;li&gt;Familiarity with NIST RMF / SP 800-53 data elements used for ISCM, POA&amp;amp;M, and OA reporting (as applied within integration pipelines and metadata).&lt;/li&gt;&lt;li&gt;Required skill: familiarity with OSCAL to support generation of machine-readable SSP/assessment/POA&amp;amp;M outputs in JSON, XML, or YAML.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Certifications/Licenses:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Education: Bachelor's degree in Computer Science, MIS/IT, Engineering, Business/Econ, Information Security/IA, or related field (minimum). &lt;/li&gt;&lt;li&gt; Public Trust Tier 2S (moderate-risk) eligibility and ability to obtain/maintain HSPD-12 credentials, per client requirements. &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Desired Skills&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Prior CSAM (or equivalent federal GRC) integration experience; familiarity with CMDB/discovery tooling and asset governance systems.&lt;/li&gt;&lt;li&gt;Data quality engineering (profiling, reconciliation, exception queues) and dashboarding to support FISMA/ISCM reporting.&lt;/li&gt;&lt;li&gt;Experience producing and validating OSCAL artifacts from operational data sources.&lt;/li&gt;&lt;li&gt;Strong documentation practice (data dictionaries, mapping specifications, SOPs, runbooks).&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;#ECS1&lt;br&gt;&lt;br&gt;ECS is an equal opportunity employer and does not discriminate or allow discrimination on the basis any characteristic protected by law. All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, or local jurisdiction law.&lt;br&gt;&lt;br&gt;ECS is a leading mid-sized provider of technology services to the United States Federal Government. We are focused on people, values and purpose. Every day, our 3300+ employees focus on providing their technical talent to support the Federal Agencies and Departments of the US Government to serve, protect and defend the American People.",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "general"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "3_plus_years",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-linkedin-com-jobs-view-integration-engineer-csam-at-jobs-via-dice-4368965882",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T15:33:38.072Z",
-    "enrichedAt": "2026-02-05T15:33:38.991Z",
-    "postedAt": "2026-02-05T15:33:50.618Z"
   }
 ]
