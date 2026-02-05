@@ -138,6 +138,95 @@ function saveJobDatesStore(jobDates) {
 }
 
 /**
+ * Load current jobs store - persists jobs < 14 days old across workflow runs
+ * This ensures README shows all current jobs, not just jobs from current run
+ */
+function loadCurrentJobsStore() {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    const currentJobsPath = path.join(dataDir, 'current_jobs.json');
+
+    try {
+        if (!fs.existsSync(currentJobsPath)) {
+            console.log('ℹ️ No existing current_jobs.json found - starting fresh');
+            return [];
+        }
+
+        const fileContent = fs.readFileSync(currentJobsPath, 'utf8');
+        if (!fileContent.trim()) {
+            console.log('⚠️ Empty current_jobs.json file - starting fresh');
+            return [];
+        }
+
+        const jobs = JSON.parse(fileContent);
+        console.log(`✅ Loaded ${jobs.length} jobs from current_jobs.json`);
+        return jobs;
+
+    } catch (error) {
+        console.error('❌ Error loading current_jobs.json:', error.message);
+        return [];
+    }
+}
+
+/**
+ * Save current jobs store with atomic writes
+ * Stores all jobs that should appear in README (< 14 days old)
+ */
+function saveCurrentJobsStore(jobs) {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+
+    try {
+        if (!fs.existsSync(dataDir)) {
+            fs.mkdirSync(dataDir, { recursive: true });
+        }
+
+        const currentJobsPath = path.join(dataDir, 'current_jobs.json');
+        const tempPath = path.join(dataDir, 'current_jobs.tmp.json');
+
+        // Write to temporary file
+        fs.writeFileSync(tempPath, JSON.stringify(jobs, null, 2), 'utf8');
+
+        // Atomic rename
+        fs.renameSync(tempPath, currentJobsPath);
+
+        console.log(`✅ Saved ${jobs.length} jobs to current_jobs.json`);
+
+    } catch (error) {
+        console.error('❌ Error saving current_jobs.json:', error.message);
+    }
+}
+
+/**
+ * Merge persisted jobs with fresh jobs, removing duplicates
+ * Keeps the most recent version of each job
+ */
+function mergeJobs(persistedJobs, freshJobs) {
+    const jobMap = new Map();
+
+    // Add persisted jobs first
+    persistedJobs.forEach(job => {
+        if (job.id) {
+            jobMap.set(job.id, job);
+        }
+    });
+
+    // Add/update with fresh jobs (overwrites older data)
+    freshJobs.forEach(job => {
+        if (job.id) {
+            jobMap.set(job.id, job);
+        }
+    });
+
+    const mergedJobs = Array.from(jobMap.values());
+    const duplicatesRemoved = persistedJobs.length + freshJobs.length - mergedJobs.length;
+
+    if (duplicatesRemoved > 0) {
+        console.log(`🔄 Merged ${persistedJobs.length} persisted + ${freshJobs.length} fresh jobs → ${mergedJobs.length} unique (${duplicatesRemoved} duplicates removed)`);
+    }
+
+    return mergedJobs;
+}
+
+/**
  * Fill null dates with stored or new ISO datetimes, then convert to relative format
  */
 function fillJobDates(jobs, jobDatesStore) {
@@ -814,15 +903,24 @@ async function processJobs() {
 
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
-        
+
         // Fill null dates and convert to relative format
         const jobsWithDates = fillJobDates(allJobs, jobDatesStore);
-        
+
         // Add unique IDs for deduplication using standardized generation
         jobsWithDates.forEach(job => {
             job.id = generateJobId(job);
         });
-        
+
+        // **JOB PERSISTENCE: Load persisted jobs from previous runs**
+        // This ensures README shows all jobs < 14 days old, not just jobs from current run
+        const persistedJobs = loadCurrentJobsStore();
+        console.log(`📦 Job persistence: Loaded ${persistedJobs.length} persisted jobs from previous runs`);
+
+        // Merge persisted jobs with fresh jobs (fresh jobs overwrite older data)
+        const mergedJobs = mergeJobs(persistedJobs, jobsWithDates);
+        console.log(`📊 After merge: ${mergedJobs.length} total unique jobs`);
+
         // **CRITICAL FIX: Sort ALL jobs by date before any filtering**
         const sortedJobs = jobsWithDates.sort((a, b) => {
             // Convert relative dates back to timestamps for proper sorting
@@ -864,6 +962,10 @@ async function processJobs() {
         // Use job_posted_at_datetime_utc (ISO date) instead of job_posted_at (relative format)
         // job_posted_at is static from when job was first fetched, but job_posted_at_datetime_utc is the actual posting date
         const currentJobs = sortedJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+
+        // **JOB PERSISTENCE: Save current jobs for next run**
+        // This ensures jobs persist across workflow runs even if aggregator stops returning them
+        saveCurrentJobsStore(currentJobs);
 
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
@@ -912,7 +1014,7 @@ async function processJobs() {
             return !isDuplicate;
         });
 
-        console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 1 week old), ${freshJobs.length} new (not seen AND not in queue)`);
+        console.log(`📊 Processing summary: ${mergedJobs.length} merged jobs, ${currentJobs.length} current (< 14 days old), ${freshJobs.length} new (not seen AND not in queue)`);
 
         // Archive ALL current jobs for analytics (separate from deduplication)
         try {
@@ -1029,10 +1131,12 @@ async function processJobs() {
             const summary = {
                 timestamp: new Date().toISOString(),
                 total_fetched: allJobs.length,
+                persisted_jobs: persistedJobs.length,
+                merged_jobs: mergedJobs.length,
                 current_jobs: currentJobs.length,
                 archived_jobs: archivedJobs.length,
                 fresh_jobs: freshJobs.length,
-                duplicates_filtered: allJobs.length - freshJobs.length,
+                duplicates_filtered: mergedJobs.length - freshJobs.length,
                 queue_status: {
                     total: queue.length,
                     pending: queue.filter(i => i.status === 'pending').length,
@@ -1079,5 +1183,9 @@ module.exports = {
     loadPendingQueue,
     savePendingQueue,
     cleanupPostedFromQueue,
-    processJobs
+    processJobs,
+    // Job persistence functions
+    loadCurrentJobsStore,
+    saveCurrentJobsStore,
+    mergeJobs
 };
