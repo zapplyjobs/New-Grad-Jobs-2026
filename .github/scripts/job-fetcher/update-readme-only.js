@@ -23,43 +23,27 @@ async function main() {
         console.log('⚠️ NOTE: Scraping disabled - using existing job data');
         console.log('═'.repeat(50));
 
-        // Paths to data files (go up two levels from job-fetcher/ to .github/)
-        const newJobsPath = path.join(__dirname, '../../data/new_jobs.json');
-        const postedJobsPath = path.join(__dirname, '../../data/posted_jobs.json');
+        // Paths to data files
+        const newJobsPath = path.join(__dirname, '../data/new_jobs.json');
+        const postedJobsPath = path.join(__dirname, '../data/posted_jobs.json');
 
-        // Check if posted_jobs.json exists (primary data source - contains ALL stored jobs)
-        if (!fs.existsSync(postedJobsPath)) {
-            console.error('❌ Error: posted_jobs.json not found!');
-            console.error(`   Expected location: ${postedJobsPath}`);
+        // Check if new_jobs.json exists
+        if (!fs.existsSync(newJobsPath)) {
+            console.error('❌ Error: new_jobs.json not found!');
+            console.error(`   Expected location: ${newJobsPath}`);
             console.error('   Please run the full job fetcher first to populate job data.');
             console.error('');
             console.error('💡 Creating empty data file as placeholder...');
-            fs.mkdirSync(path.dirname(postedJobsPath), { recursive: true });
-            fs.writeFileSync(postedJobsPath, JSON.stringify({ version: 2, lastUpdated: new Date().toISOString(), jobs: [] }, null, 2), 'utf8');
-            console.log('   ✅ Created empty posted_jobs.json');
+            fs.mkdirSync(path.dirname(newJobsPath), { recursive: true });
+            fs.writeFileSync(newJobsPath, '[]', 'utf8');
+            console.log('   ✅ Created empty new_jobs.json');
         }
 
-        // Read existing job data from posted_jobs.json (contains ALL stored jobs)
-        console.log('📂 Reading existing job data from posted_jobs.json...');
-        const postedJobsData = JSON.parse(fs.readFileSync(postedJobsPath, 'utf8'));
+        // Read existing job data
+        console.log('📂 Reading existing job data...');
+        const allJobs = JSON.parse(fs.readFileSync(newJobsPath, 'utf8'));
 
-        // Convert posted_jobs format to readme-generator format
-        const allJobs = postedJobsData.jobs.map(job => ({
-            job_title: job.title,
-            employer_name: job.company,
-            job_city: job.job_city,
-            job_state: job.job_state,
-            job_country: job.job_country,
-            job_apply_link: job.sourceUrl,
-            job_posted_at_datetime_utc: job.sourceDate,
-            job_description: job.job_description || '',
-            job_employment_type: job.job_employment_type || 'FULLTIME',
-            job_id: job.jobId,
-            id: job.id,
-            job_source: job.job_source || 'unknown'
-        }));
-
-        console.log(`📊 Found ${allJobs.length} total jobs in posted_jobs.json`);
+        console.log(`📊 Found ${allJobs.length} jobs in new_jobs.json`);
 
         // Calculate stats
         const stats = {
