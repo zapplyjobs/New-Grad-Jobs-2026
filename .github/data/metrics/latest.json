@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-05T21:03:37.684Z",
+  "generated": "2026-02-05T21:17:32.147Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T21:03:37.684Z",
-  "period_end": "2026-02-05T21:03:37.684Z",
+  "period_start": "2026-01-29T21:17:32.147Z",
+  "period_end": "2026-02-05T21:17:32.147Z",
   "summary": {
-    "total_jobs_posted": 3236,
-    "unique_jobs": 2267,
-    "multi_channel_postings": 1938,
-    "unique_multi_channel_jobs": 969,
+    "total_jobs_posted": 3238,
+    "unique_jobs": 2268,
+    "multi_channel_postings": 1940,
+    "unique_multi_channel_jobs": 970,
     "failed_postings": 0,
-    "filtered_jobs": 0,
+    "filtered_jobs": 4,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1919,
+      "count": 1920,
       "jobs": [
         "a266544e9c09c751",
         "cf9ab4ddf1b8867e",
@@ -1935,15 +1935,10 @@
         "70973bbaea24452a",
         "9270ace916ee7af4",
         "84c46bb107da827c",
-        "78b4813cd4233a56"
+        "78b4813cd4233a56",
+        "92333338245ff124"
       ],
       "recent_jobs": [
-        {
-          "id": "dae0be79767481dd",
-          "title": "Junior Software Developer JavaScript 🏆",
-          "company": "EAi Technologies",
-          "posted_at": "2026-02-05T10:53:27.080Z"
-        },
         {
           "id": "720671e713902a87",
           "title": "Full stack Software Engineer",
@@ -1997,6 +1992,12 @@
           "title": "(USA) Software Engineer III",
           "company": "Sam's Club",
           "posted_at": "2026-02-05T20:23:36.673Z"
+        },
+        {
+          "id": "92333338245ff124",
+          "title": "Entry Level Data Engineer",
+          "company": "Jobs via Dice",
+          "posted_at": "2026-02-05T21:17:21.038Z"
         }
       ]
     },
@@ -2993,7 +2994,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 387,
+      "count": 388,
       "jobs": [
         "38acb8b92d7249c0",
         "d5a618fb3fa696d4",
@@ -3381,15 +3382,10 @@
         "19d1af5c64abcc81",
         "70973bbaea24452a",
         "9010070b5ff01d75",
-        "78b4813cd4233a56"
+        "78b4813cd4233a56",
+        "92333338245ff124"
       ],
       "recent_jobs": [
-        {
-          "id": "f41f7350593c18bb",
-          "title": "Software Engineer - Android",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T10:23:56.775Z"
-        },
         {
           "id": "dae0be79767481dd",
           "title": "Junior Software Developer JavaScript 🏆",
@@ -3443,6 +3439,12 @@
           "title": "(USA) Software Engineer III",
           "company": "Sam's Club",
           "posted_at": "2026-02-05T20:23:36.673Z"
+        },
+        {
+          "id": "92333338245ff124",
+          "title": "Entry Level Data Engineer",
+          "company": "Jobs via Dice",
+          "posted_at": "2026-02-05T21:17:21.038Z"
         }
       ]
     },
@@ -4097,6 +4099,35 @@
     "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": []
+    "other": [
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5074815008",
+        "title": "Research Engineer/Research Scientist, Audio",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T21:17:20.326Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7409247",
+        "title": "Key Accounts Executive",
+        "company": "datadog",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T21:17:20.327Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
+        "title": "Enterprise Account Executive, State & Local Sales",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T21:17:20.328Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
+        "title": "IP Legal Specialist",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T21:17:20.328Z"
+      }
+    ]
   }
 }

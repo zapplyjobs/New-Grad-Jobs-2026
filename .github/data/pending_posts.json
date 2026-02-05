@@ -158,5 +158,42 @@
     "addedAt": "2026-02-04T19:25:23.885Z",
     "enrichedAt": "2026-02-04T21:09:36.456Z",
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-jobs-via-dice-xrme9phlhvpjj3r8aaaaaa==",
+      "job_title": "Entry Level Data Engineer",
+      "employer_name": "Jobs via Dice",
+      "job_city": "Plano",
+      "job_state": "Texas",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.linkedin.com/jobs/view/entry-level-data-engineer-at-jobs-via-dice-4369106353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-05T13:00:00.000Z",
+      "job_description": "&lt;strong&gt;About Revature:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This is an excellent opportunity to launch your career in the tech industry. Revature has started more than &lt;strong&gt;15,000 tech careers&lt;/strong&gt;, providing comprehensive training to prepare new employees for client projects. No prior technical experience is required—we provide &lt;strong&gt;employer-paid training&lt;/strong&gt; designed to help you succeed.&lt;br&gt;&lt;br&gt;&lt;strong&gt;About the Role:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Data Engineers build and maintain the infrastructure that enables organizations to collect, store, and analyze data efficiently. As an Entry-Level Data Engineer at Revature, you will gain:&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits Of Working As a Data Engineer&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Strong Foundation in Data Infrastructure&lt;/li&gt;&lt;li&gt;Hands-on experience with tools and systems that power data pipelines, cloud environments, and analytics platforms.&lt;/li&gt;&lt;li&gt;Exposure to Scalable Technologies&lt;/li&gt;&lt;li&gt;Learn and work with technologies such as SQL, Python, Spark, and major cloud services (AWS, Azure, Google Cloud Platform).&lt;/li&gt;&lt;li&gt;Cross-Functional Collaboration&lt;/li&gt;&lt;li&gt;Collaborate with data analysts, data scientists, engineers, and product teams.&lt;/li&gt;&lt;li&gt;Career Growth &amp;amp; Specialization&lt;/li&gt;&lt;li&gt;Build a pathway toward advanced roles in data engineering, analytics, cloud engineering, or machine learning.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;What We’re Looking For&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree or higher&lt;/li&gt;&lt;li&gt;Legally authorized to work in the U.S. without current or future sponsorship&lt;/li&gt;&lt;li&gt;Strong desire to learn programming (no prior professional experience required)&lt;/li&gt;&lt;li&gt;Natural problem-solving ability with strong communication and interpersonal skills&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Benefits Of Joining Revature As An Entry-Level Data Engineer&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Start a tech career with no prior experience required&lt;/li&gt;&lt;li&gt;Competitive salary&lt;/li&gt;&lt;li&gt;Paid time off (PTO)&lt;/li&gt;&lt;li&gt;401(k)&lt;/li&gt;&lt;li&gt;Mentorship programs&lt;/li&gt;&lt;li&gt;Experience working with the largest companies in the U.S.&lt;/li&gt;&lt;li&gt;Career acceleration:&lt;/li&gt;&lt;li&gt;72% of Revature alumni receive an additional promotion&lt;/li&gt;&lt;li&gt;92% see significant salary increases after launching their Revature tech career&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Equal Opportunity Employer:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Revature (“Company”) is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race, religion, color, sex, pregnancy, childbirth or related medical conditions, sexual orientation, gender identity, national origin, disability, age, genetic information, marital status, veteran status, or any other status protected under applicable federal, state, or local laws. This policy applies to all terms and conditions of employment, including but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, benefits, compensation, and training. If you require accommodation to work, based on any of these protected factors, please notify the Human Resources Department, and the Company will evaluate the request and provide accommodation in accordance with applicable law.&lt;br&gt;&lt;br&gt;We seek to comply with all applicable federal, state, and local laws related to discrimination and will not tolerate interference with the ability of any of the Company's employees to perform their job duties. Our policy reflects and affirms the Company's commitment to the principles of fair employment and the elimination of all discriminatory practices.",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "entry_level",
+        "domains": [
+          "data_science"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "www-linkedin-com-jobs-view-entry-level-data-engineer-at-jobs-via-dice-4369106353",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-02-05T21:17:15.206Z",
+    "enrichedAt": "2026-02-05T21:17:16.138Z",
+    "postedAt": "2026-02-05T21:17:28.188Z"
   }
 ]
