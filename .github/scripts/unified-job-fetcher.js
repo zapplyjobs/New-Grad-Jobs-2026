@@ -3,9 +3,14 @@
  * Orchestrates job collection from all configured sources
  *
  * Sources:
- * 1. API-based companies (legacy - currently disabled)
- * 2. ATS platforms (Greenhouse, Lever, Ashby, Workable)
- * 3. USAJobs API (Federal Government Jobs)
+ * 1. Aggregator (jobs-data-2026) - When USE_AGGREGATOR=true
+ * 2. API-based companies (legacy - currently disabled)
+ * 3. ATS platforms (Greenhouse, Lever, Ashby, Workable)
+ * 4. USAJobs API (Federal Government Jobs)
+ *
+ * Feature Flag:
+ *   - USE_AGGREGATOR=true: Fetch from tagged aggregator feed
+ *   - USE_AGGREGATOR=false or unset: Fetch from ATS/USAJobs sources
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
@@ -13,6 +18,7 @@ const { fetchAPIJobs } = require('../../jobboard/src/backend/services/apiService
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 const { fetchAllATSJobs } = require('./job-fetcher/sources');
 const { fetchUSAJobs } = require('./job-fetcher/sources/usajobs');
+const { fetchAllJobs: fetchFromAggregator, isAggregatorEnabled } = require('./job-fetcher/aggregator-consumer');
 
 /**
  * Delay helper for rate limiting
@@ -30,6 +36,23 @@ function delay(ms) {
 async function fetchAllJobs() {
   console.log('🚀 Starting unified job collection...');
   console.log('━'.repeat(50));
+
+  // Check feature flag
+  const useAggregator = isAggregatorEnabled();
+
+  console.log(`\n🔧 Feature Flag: USE_AGGREGATOR=${useAggregator ? 'true' : 'false'}`);
+
+  // Use aggregator if enabled
+  if (useAggregator) {
+    console.log('📡 Mode: Tagged Aggregator Feed');
+    console.log('━'.repeat(50));
+    console.log('   Source: jobs-data-2026');
+    console.log('   Filter: employment=entry_level, domains=[all]');
+
+    return await fetchFromAggregator();
+  }
+
+  console.log('📡 Mode: ATS + USAJobs (legacy)');
 
   const allJobs = [];
 
@@ -154,11 +177,14 @@ async function fetchAllJobs() {
   console.log('\n' + '━'.repeat(50));
   console.log('✅ Job collection complete!');
   console.log(`📊 Final count: ${uniqueJobs.length} unique jobs`);
+  console.log(`📡 Source: ${useAggregator ? 'Aggregator' : 'ATS + USAJobs'}`);
   console.log('━'.repeat(50) + '\n');
 
   return uniqueJobs;
 }
 
 module.exports = {
-  fetchAllJobs
+  fetchAllJobs,
+  fetchFromAggregator,
+  isAggregatorEnabled: isAggregatorEnabled
 };
