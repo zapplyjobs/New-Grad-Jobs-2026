@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T20:23:46.814Z",
+  "generated": "2026-02-05T20:32:11.875Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T20:23:46.814Z",
-  "period_end": "2026-02-05T20:23:46.814Z",
+  "period_start": "2026-01-29T20:32:11.875Z",
+  "period_end": "2026-02-05T20:32:11.875Z",
   "summary": {
-    "total_jobs_posted": 3256,
-    "unique_jobs": 2287,
+    "total_jobs_posted": 3252,
+    "unique_jobs": 2283,
     "multi_channel_postings": 1938,
     "unique_multi_channel_jobs": 969,
     "failed_postings": 0,
@@ -15,12 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1931,
+      "count": 1927,
       "jobs": [
-        "35bd133fa6a0201b",
-        "5b487680afa2252d",
-        "c742d3268f16f7b5",
-        "fca294811e0eae75",
         "8e8213128e8595c1",
         "08fc0b5908fd370a",
         "1aeb8dc803fcc165",
@@ -4120,7 +4116,7 @@
         "title": "Software Engineer Director, Compute Infrastructure",
         "company": "LinkedIn",
         "reason": "blacklisted",
-        "timestamp": "2026-02-05T20:23:19.286Z"
+        "timestamp": "2026-02-05T20:32:08.675Z"
       }
     ],
     "already_posted": [],
@@ -4131,28 +4127,28 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T20:23:19.281Z"
+        "timestamp": "2026-02-05T20:32:08.671Z"
       },
       {
         "job_id": "careers-datadoghq-com-detail-7409247",
         "title": "Key Accounts Executive",
         "company": "datadog",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T20:23:19.282Z"
+        "timestamp": "2026-02-05T20:32:08.672Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T20:23:19.282Z"
+        "timestamp": "2026-02-05T20:32:08.673Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T20:23:19.283Z"
+        "timestamp": "2026-02-05T20:32:08.673Z"
       }
     ]
   }
