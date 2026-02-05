@@ -1,5 +1,5 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-02-05T21:50:05.022Z
+**Timestamp:** 2026-02-05T22:02:57.637Z
 **Exit Code:** ✅ Success
 ## Metrics
 - **Jobs Posted:** 0
@@ -8,60 +8,60 @@
 - **Database Saved:** ❌ No
 ## Sanitized Log Output
 ```
-[2026-02-05T21:50:03.000Z] ========================================
-[2026-02-05T21:50:03.001Z] Discord Bot Execution Log
-[2026-02-05T21:50:03.002Z] Environment: GitHub Actions
-[2026-02-05T21:50:03.002Z] Node Version: v20.20.0
-[2026-02-05T21:50:03.002Z] ========================================
-[2026-02-05T21:50:03.002Z] Environment Variables Check:
-[2026-02-05T21:50:03.002Z] DISCORD_TOKEN: ✅ Set
-[2026-02-05T21:50:03.002Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-02-05T21:50:03.002Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-02-05T21:50:03.002Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-02-05T21:50:03.002Z] 
+[2026-02-05T22:02:55.302Z] ========================================
+[2026-02-05T22:02:55.304Z] Discord Bot Execution Log
+[2026-02-05T22:02:55.304Z] Environment: GitHub Actions
+[2026-02-05T22:02:55.304Z] Node Version: v20.20.0
+[2026-02-05T22:02:55.304Z] ========================================
+[2026-02-05T22:02:55.304Z] Environment Variables Check:
+[2026-02-05T22:02:55.304Z] DISCORD_TOKEN: ✅ Set
+[2026-02-05T22:02:55.305Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-02-05T22:02:55.305Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-02-05T22:02:55.305Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-02-05T22:02:55.305Z] 
 Multi-Channel Configuration:
-[2026-02-05T21:50:03.002Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-02-05T21:50:03.003Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
-[2026-02-05T21:50:03.003Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
-[2026-02-05T21:50:03.003Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-02-05T21:50:03.003Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
-[2026-02-05T21:50:03.003Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
-[2026-02-05T21:50:03.003Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
-[2026-02-05T21:50:03.003Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
-[2026-02-05T21:50:03.003Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
-[2026-02-05T21:50:03.003Z] 
+[2026-02-05T22:02:55.305Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-02-05T22:02:55.305Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
+[2026-02-05T22:02:55.305Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
+[2026-02-05T22:02:55.305Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-02-05T22:02:55.305Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
+[2026-02-05T22:02:55.305Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
+[2026-02-05T22:02:55.305Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
+[2026-02-05T22:02:55.305Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
+[2026-02-05T22:02:55.306Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
+[2026-02-05T22:02:55.306Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-02-05T21:50:03.003Z] 
+[2026-02-05T22:02:55.306Z] 
 Data Files Check:
-[2026-02-05T21:50:03.004Z] .github/data/new_jobs.json: ✅ Exists (4 items, 69854 bytes)
-[2026-02-05T21:50:03.058Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 11477148 bytes)
-[2026-02-05T21:50:03.058Z] 
+[2026-02-05T22:02:55.306Z] .github/data/new_jobs.json: ✅ Exists (4 items, 69854 bytes)
+[2026-02-05T22:02:55.361Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 11477148 bytes)
+[2026-02-05T22:02:55.361Z] 
 ========================================
-[2026-02-05T21:50:03.058Z] Starting Enhanced Discord Bot...
-[2026-02-05T21:50:03.058Z] ========================================
-[2026-02-05T21:50:03.633Z] [BOT] ✅ Loaded V2 database: 2268 jobs
-[2026-02-05T21:50:04.186Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-🔍 DEBUG: GUILD_ID = "" (type: string)
-[2026-02-05T21:50:04.187Z] [BOT] 🔍 DEBUG: Bot is member of 1 guilds
+[2026-02-05T22:02:55.361Z] Starting Enhanced Discord Bot...
+[2026-02-05T22:02:55.361Z] ========================================
+[2026-02-05T22:02:55.932Z] [BOT] ✅ Loaded V2 database: 2268 jobs
+[2026-02-05T22:02:56.481Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+[2026-02-05T22:02:56.481Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-02-05T21:50:04.187Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-02-05T21:50:04.187Z] [BOT] ✅ Loaded pending queue: 4 total (0 pending, 4 enriched, 0 posted)
-[2026-02-05T21:50:04.187Z] [BOT] [BOT] 📬 Found 4 enriched jobs ready to post from pending queue
+[2026-02-05T22:02:56.481Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-02-05T22:02:56.482Z] [BOT] ✅ Loaded pending queue: 4 total (0 pending, 4 enriched, 0 posted)
+[2026-02-05T22:02:56.482Z] [BOT] [BOT] 📬 Found 4 enriched jobs ready to post from pending queue
 [BOT] 🔍 Sample enriched job: Research Engineer/Research Scientist, Audio at anthropic
-[2026-02-05T21:50:04.189Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "811cbe0f189dac94"
-[2026-02-05T21:50:04.189Z] [BOT] ⏭️  Skipping duplicate: JID_5b0ef192 (posted within 7 days)
-⏭️ Skipping already posted: Research Engineer/Research Scientist, Audio at anthropic
-[2026-02-05T21:50:04.189Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c9b660b0..." not found, but found as SHA256 "1752149f9c33ab78"
-[2026-02-05T21:50:04.190Z] [BOT] ⏭️  Skipping duplicate: JID_c9b660b0 (posted within 7 days)
+[2026-02-05T22:02:56.483Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "811cbe0f189dac94"
+[2026-02-05T22:02:56.483Z] [BOT] ⏭️  Skipping duplicate: JID_5b0ef192 (posted within 7 days)
+[2026-02-05T22:02:56.484Z] [BOT] ⏭️ Skipping already posted: Research Engineer/Research Scientist, Audio at anthropic
+[2026-02-05T22:02:56.484Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c9b660b0..." not found, but found as SHA256 "1752149f9c33ab78"
+[2026-02-05T22:02:56.484Z] [BOT] ⏭️  Skipping duplicate: JID_c9b660b0 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_b8aca988 at datadog
-[2026-02-05T21:50:04.190Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "860b70f12c622b3e"
+[2026-02-05T22:02:56.485Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "860b70f12c622b3e"
 ⏭️  Skipping duplicate: JID_7e4d456f (posted within 7 days)
 ⏭️ Skipping already posted: Enterprise Account Executive, State & Local Sales at anthropic
-[2026-02-05T21:50:04.191Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "5d10ea8dbeb07322"
-⏭️  Skipping duplicate: JID_f7992b83 (posted within 7 days)
+[2026-02-05T22:02:56.485Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "5d10ea8dbeb07322"
+[2026-02-05T22:02:56.485Z] [BOT] ⏭️  Skipping duplicate: JID_f7992b83 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_8670491d at anthropic
 ℹ️ No new jobs to post - all jobs have been posted already
-[2026-02-05T21:50:04.205Z] 
+[2026-02-05T22:02:56.499Z] 
 ========================================
 ```
 ## Errors Detected
