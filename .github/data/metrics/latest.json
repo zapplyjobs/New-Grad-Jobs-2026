@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-05T09:25:25.084Z",
+  "generated": "2026-02-05T09:55:01.898Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T09:25:25.084Z",
-  "period_end": "2026-02-05T09:25:25.084Z",
+  "period_start": "2026-01-29T09:55:01.898Z",
+  "period_end": "2026-02-05T09:55:01.898Z",
   "summary": {
-    "total_jobs_posted": 3292,
-    "unique_jobs": 2334,
-    "multi_channel_postings": 1916,
-    "unique_multi_channel_jobs": 958,
+    "total_jobs_posted": 3310,
+    "unique_jobs": 2344,
+    "multi_channel_postings": 1932,
+    "unique_multi_channel_jobs": 966,
     "failed_postings": 0,
     "filtered_jobs": 4,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1968,
+      "count": 1978,
       "jobs": [
         "1027d639bd2f91ae",
         "f95533d3f335de4a",
@@ -1984,74 +1984,84 @@
         "fabe6cf5d4d2bf29",
         "49da3539687e0008",
         "35fc7588365d2cec",
-        "8ee727fdb356049c"
+        "8ee727fdb356049c",
+        "a3651871808e42db",
+        "47b5f87947a336c0",
+        "c66b7ba91fb8e35a",
+        "43e82953ecfa04ee",
+        "6b63404dcc402dfa",
+        "7d87075d89d0f0a6",
+        "edb80f7a2bce481d",
+        "739c0c46ef31a4d6",
+        "4552546c5e2bc5fe",
+        "4c4de0f6abbff7f9"
       ],
       "recent_jobs": [
         {
-          "id": "4ef104a4c2ec6474",
-          "title": "Junior Software Engineer",
-          "company": "TEKsystems",
-          "posted_at": "2026-02-05T08:54:15.308Z"
+          "id": "a3651871808e42db",
+          "title": "Junior Software Engineer (Recent Grads) - Enterprise AI Model Company",
+          "company": "Andiamo",
+          "posted_at": "2026-02-05T09:54:16.596Z"
         },
         {
-          "id": "6a4015036249b3a9",
-          "title": "Software Engineer - Machine Learning",
-          "company": "Celonis",
-          "posted_at": "2026-02-05T08:54:22.480Z"
+          "id": "47b5f87947a336c0",
+          "title": "Software Engineer (Entry-Level) Recent Grad",
+          "company": "Drafted",
+          "posted_at": "2026-02-05T09:54:20.654Z"
         },
         {
-          "id": "6c2b196bd3abc508",
-          "title": "Entry Level - Software Engineering or Computer Science",
-          "company": "The MITRE Corporation",
-          "posted_at": "2026-02-05T08:54:26.264Z"
+          "id": "c66b7ba91fb8e35a",
+          "title": "2026 New-Grad Entry Level Engineer Rotation Program (California/CCTP)",
+          "company": "Skanska",
+          "posted_at": "2026-02-05T09:54:24.537Z"
         },
         {
-          "id": "066dc6fef70d4cb2",
-          "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
-          "company": "Genesis10",
-          "posted_at": "2026-02-05T09:24:37.663Z"
+          "id": "43e82953ecfa04ee",
+          "title": "Network Savy CNO-Developer",
+          "company": "Fidelis Technologies",
+          "posted_at": "2026-02-05T09:54:28.621Z"
         },
         {
-          "id": "bd535999aaa550c5",
-          "title": "Fulltime Engineer - University Recruiting",
-          "company": "Kansas City National Security Campus",
-          "posted_at": "2026-02-05T09:24:41.484Z"
+          "id": "6b63404dcc402dfa",
+          "title": "Software Engineer- Technology Services - 8 Hours",
+          "company": "Fresno Unified School District",
+          "posted_at": "2026-02-05T09:54:32.562Z"
         },
         {
-          "id": "c8f3f573d7c1c7a9",
-          "title": "Entry Level Software Engineer",
-          "company": "Boeing",
-          "posted_at": "2026-02-05T09:24:45.357Z"
+          "id": "7d87075d89d0f0a6",
+          "title": "Junior Software Developer - Remote",
+          "company": "WhatJobs Direct",
+          "posted_at": "2026-02-05T09:54:34.483Z"
         },
         {
-          "id": "fabe6cf5d4d2bf29",
-          "title": "2026 Full-time - Software Engineer I - Integration & Test - Onsite (MA)",
-          "company": "RTX",
-          "posted_at": "2026-02-05T09:24:47.212Z"
+          "id": "edb80f7a2bce481d",
+          "title": "Kafka Engineer",
+          "company": "RSA Tech",
+          "posted_at": "2026-02-05T09:54:38.217Z"
         },
         {
-          "id": "49da3539687e0008",
-          "title": "Software Engineer II,III,IV",
-          "company": "Lthc",
-          "posted_at": "2026-02-05T09:24:51.479Z"
+          "id": "739c0c46ef31a4d6",
+          "title": "Software Engineer I - Open Distribution (New Grad)",
+          "company": "StubHub",
+          "posted_at": "2026-02-05T09:54:45.106Z"
         },
         {
-          "id": "35fc7588365d2cec",
-          "title": "2026 Entry Level Software Engineer",
-          "company": "BAE Systems",
-          "posted_at": "2026-02-05T09:24:55.199Z"
-        },
-        {
-          "id": "8ee727fdb356049c",
-          "title": "Junior/Entry Level Software Developer",
+          "id": "4552546c5e2bc5fe",
+          "title": "Entry Level Software Developer (Remote)",
           "company": "SynergisticIT",
-          "posted_at": "2026-02-05T09:25:14.989Z"
+          "posted_at": "2026-02-05T09:54:46.996Z"
+        },
+        {
+          "id": "4c4de0f6abbff7f9",
+          "title": "Field Engineering Specialist",
+          "company": "Arvist",
+          "posted_at": "2026-02-05T09:54:51.140Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 514,
+      "count": 516,
       "jobs": [
         "d90db86d11c7376e",
         "f61e5f3b68f52006",
@@ -2566,21 +2576,11 @@
         "eb1cd1f33248af95",
         "a5cd28a185375575",
         "49da3539687e0008",
-        "dd13e1251ebab8e4"
+        "dd13e1251ebab8e4",
+        "a3651871808e42db",
+        "c66b7ba91fb8e35a"
       ],
       "recent_jobs": [
-        {
-          "id": "b9b85c6471d4bd49",
-          "title": "Slack Enginner",
-          "company": "Akkodis",
-          "posted_at": "2026-02-05T07:43:58.633Z"
-        },
-        {
-          "id": "7edf40b23f00a4a0",
-          "title": "Junior iOS Software Engineer",
-          "company": "Jobright.ai",
-          "posted_at": "2026-02-05T08:07:47.348Z"
-        },
         {
           "id": "905753fc1da5e6a9",
           "title": "Research Engineer, Universes",
@@ -2628,12 +2628,24 @@
           "title": "Boeing is hiring: Entry-Level F-22 Simulation Software Engineer in Berkeley",
           "company": "Boeing",
           "posted_at": "2026-02-05T09:25:00.314Z"
+        },
+        {
+          "id": "a3651871808e42db",
+          "title": "Junior Software Engineer (Recent Grads) - Enterprise AI Model Company",
+          "company": "Andiamo",
+          "posted_at": "2026-02-05T09:54:16.596Z"
+        },
+        {
+          "id": "c66b7ba91fb8e35a",
+          "title": "2026 New-Grad Entry Level Engineer Rotation Program (California/CCTP)",
+          "company": "Skanska",
+          "posted_at": "2026-02-05T09:54:24.537Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 371,
+      "count": 376,
       "jobs": [
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
@@ -3005,39 +3017,14 @@
         "fabe6cf5d4d2bf29",
         "386ee88b02f1499d",
         "073ddf24f0a7e14c",
-        "8ee727fdb356049c"
+        "8ee727fdb356049c",
+        "47b5f87947a336c0",
+        "43e82953ecfa04ee",
+        "edb80f7a2bce481d",
+        "4552546c5e2bc5fe",
+        "4c4de0f6abbff7f9"
       ],
       "recent_jobs": [
-        {
-          "id": "2d04a5d9193f32c5",
-          "title": "Junior Software Engineer",
-          "company": "AM Pierce and Associates",
-          "posted_at": "2026-02-05T08:31:12.694Z"
-        },
-        {
-          "id": "d9138b6c16faf32d",
-          "title": "(USA) Software Engineer III",
-          "company": "Vizio",
-          "posted_at": "2026-02-05T08:54:03.610Z"
-        },
-        {
-          "id": "03c8ee523f848473",
-          "title": "Software Tool Verification",
-          "company": "JMD Technologies Inc.",
-          "posted_at": "2026-02-05T08:54:07.678Z"
-        },
-        {
-          "id": "20e3ba17b7428eb1",
-          "title": "Entry-Level Software Engineer for Warehouse Automation",
-          "company": "DEMATIC",
-          "posted_at": "2026-02-05T08:54:11.504Z"
-        },
-        {
-          "id": "6c2b196bd3abc508",
-          "title": "Entry Level - Software Engineering or Computer Science",
-          "company": "The MITRE Corporation",
-          "posted_at": "2026-02-05T08:54:26.264Z"
-        },
         {
           "id": "bd535999aaa550c5",
           "title": "Fulltime Engineer - University Recruiting",
@@ -3067,6 +3054,36 @@
           "title": "Junior/Entry Level Software Developer",
           "company": "SynergisticIT",
           "posted_at": "2026-02-05T09:25:14.989Z"
+        },
+        {
+          "id": "47b5f87947a336c0",
+          "title": "Software Engineer (Entry-Level) Recent Grad",
+          "company": "Drafted",
+          "posted_at": "2026-02-05T09:54:20.654Z"
+        },
+        {
+          "id": "43e82953ecfa04ee",
+          "title": "Network Savy CNO-Developer",
+          "company": "Fidelis Technologies",
+          "posted_at": "2026-02-05T09:54:28.621Z"
+        },
+        {
+          "id": "edb80f7a2bce481d",
+          "title": "Kafka Engineer",
+          "company": "RSA Tech",
+          "posted_at": "2026-02-05T09:54:38.217Z"
+        },
+        {
+          "id": "4552546c5e2bc5fe",
+          "title": "Entry Level Software Developer (Remote)",
+          "company": "SynergisticIT",
+          "posted_at": "2026-02-05T09:54:46.996Z"
+        },
+        {
+          "id": "4c4de0f6abbff7f9",
+          "title": "Field Engineering Specialist",
+          "company": "Arvist",
+          "posted_at": "2026-02-05T09:54:51.140Z"
         }
       ]
     },
@@ -3506,7 +3523,7 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 73,
+      "count": 74,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -3580,15 +3597,10 @@
         "3989d78eed406403",
         "79ccf9b876fe6c3e",
         "b15d4a9065a22927",
-        "066dc6fef70d4cb2"
+        "066dc6fef70d4cb2",
+        "7d87075d89d0f0a6"
       ],
       "recent_jobs": [
-        {
-          "id": "5e22353315d2c696",
-          "title": "Software Engineer – New Graduate - Seattle",
-          "company": "Revefi",
-          "posted_at": "2026-02-01T19:48:15.782Z"
-        },
         {
           "id": "762ee50cb6c7ae65",
           "title": "Software Engineer - Ctj - Top Secret",
@@ -3642,6 +3654,12 @@
           "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
           "company": "Genesis10",
           "posted_at": "2026-02-05T09:24:37.663Z"
+        },
+        {
+          "id": "7d87075d89d0f0a6",
+          "title": "Junior Software Developer - Remote",
+          "company": "WhatJobs Direct",
+          "posted_at": "2026-02-05T09:54:34.483Z"
         }
       ]
     }
@@ -4159,28 +4177,28 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T09:24:37.387Z"
+        "timestamp": "2026-02-05T09:54:16.094Z"
       },
       {
         "job_id": "careers-datadoghq-com-detail-7409247",
         "title": "Key Accounts Executive",
         "company": "datadog",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T09:24:37.388Z"
+        "timestamp": "2026-02-05T09:54:16.095Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T09:24:37.388Z"
+        "timestamp": "2026-02-05T09:54:16.095Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T09:24:37.389Z"
+        "timestamp": "2026-02-05T09:54:16.096Z"
       }
     ]
   }
