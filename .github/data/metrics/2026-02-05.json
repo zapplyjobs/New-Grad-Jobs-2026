@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-05T12:18:56.600Z",
+  "generated": "2026-02-05T12:41:11.076Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T12:18:56.600Z",
-  "period_end": "2026-02-05T12:18:56.600Z",
+  "period_start": "2026-01-29T12:41:11.076Z",
+  "period_end": "2026-02-05T12:41:11.076Z",
   "summary": {
-    "total_jobs_posted": 3333,
-    "unique_jobs": 2357,
-    "multi_channel_postings": 1952,
-    "unique_multi_channel_jobs": 976,
+    "total_jobs_posted": 3337,
+    "unique_jobs": 2359,
+    "multi_channel_postings": 1956,
+    "unique_multi_channel_jobs": 978,
     "failed_postings": 0,
-    "filtered_jobs": 0,
+    "filtered_jobs": 4,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1989,
+      "count": 1990,
       "jobs": [
         "1027d639bd2f91ae",
         "f95533d3f335de4a",
@@ -2005,15 +2005,10 @@
         "9d1436584709fa34",
         "7d46ff143b97c424",
         "dae0be79767481dd",
-        "720671e713902a87"
+        "720671e713902a87",
+        "3f5785457da02a0c"
       ],
       "recent_jobs": [
-        {
-          "id": "e2db3db1d0095fcd",
-          "title": "Junior Software Developer",
-          "company": "SynergisticIT",
-          "posted_at": "2026-02-05T10:23:20.828Z"
-        },
         {
           "id": "fa0012a9a448a002",
           "title": "Software Engineer - C++",
@@ -2067,6 +2062,12 @@
           "title": "Full stack Software Engineer",
           "company": "Walmart",
           "posted_at": "2026-02-05T10:53:30.949Z"
+        },
+        {
+          "id": "3f5785457da02a0c",
+          "title": "Software Engineer, Applied AI (Seattle)",
+          "company": "Evertune",
+          "posted_at": "2026-02-05T12:41:00.633Z"
         }
       ]
     },
@@ -2659,7 +2660,7 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 383,
+      "count": 384,
       "jobs": [
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
@@ -3043,15 +3044,10 @@
         "30219f4c038625e0",
         "f41f7350593c18bb",
         "dae0be79767481dd",
-        "720671e713902a87"
+        "720671e713902a87",
+        "4144ddafc5709012"
       ],
       "recent_jobs": [
-        {
-          "id": "edb80f7a2bce481d",
-          "title": "Kafka Engineer",
-          "company": "RSA Tech",
-          "posted_at": "2026-02-05T09:54:38.217Z"
-        },
         {
           "id": "4552546c5e2bc5fe",
           "title": "Entry Level Software Developer (Remote)",
@@ -3105,12 +3101,18 @@
           "title": "Full stack Software Engineer",
           "company": "Walmart",
           "posted_at": "2026-02-05T10:53:30.949Z"
+        },
+        {
+          "id": "4144ddafc5709012",
+          "title": "Software Engineer - Android",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T12:40:53.569Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 368,
+      "count": 369,
       "jobs": [
         "37929c2df28e0a82",
         "070dd6fd23f55776",
@@ -3479,15 +3481,10 @@
         "386ee88b02f1499d",
         "073ddf24f0a7e14c",
         "30219f4c038625e0",
-        "f41f7350593c18bb"
+        "f41f7350593c18bb",
+        "4144ddafc5709012"
       ],
       "recent_jobs": [
-        {
-          "id": "901eb27179689fae",
-          "title": "Java, Javascript, Python, NodeJS Software Engineer",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T06:43:56.500Z"
-        },
         {
           "id": "f4cbb23a58c5be7a",
           "title": "Software Engineer–Systems (Associate/Experienced)",
@@ -3541,12 +3538,18 @@
           "title": "Software Engineer - Android",
           "company": "Walmart",
           "posted_at": "2026-02-05T10:23:56.775Z"
+        },
+        {
+          "id": "4144ddafc5709012",
+          "title": "Software Engineer - Android",
+          "company": "Walmart",
+          "posted_at": "2026-02-05T12:40:53.569Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 74,
+      "count": 75,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -3621,15 +3624,10 @@
         "79ccf9b876fe6c3e",
         "b15d4a9065a22927",
         "066dc6fef70d4cb2",
-        "7d87075d89d0f0a6"
+        "7d87075d89d0f0a6",
+        "3f5785457da02a0c"
       ],
       "recent_jobs": [
-        {
-          "id": "762ee50cb6c7ae65",
-          "title": "Software Engineer - Ctj - Top Secret",
-          "company": "Microsoft",
-          "posted_at": "2026-02-01T21:15:42.948Z"
-        },
         {
           "id": "394627fcaf536214",
           "title": "Program Coordinator - Gift Services & Data Management",
@@ -3683,6 +3681,12 @@
           "title": "Junior Software Developer - Remote",
           "company": "WhatJobs Direct",
           "posted_at": "2026-02-05T09:54:34.483Z"
+        },
+        {
+          "id": "3f5785457da02a0c",
+          "title": "Software Engineer, Applied AI (Seattle)",
+          "company": "Evertune",
+          "posted_at": "2026-02-05T12:41:00.633Z"
         }
       ]
     }
@@ -4194,6 +4198,35 @@
     "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": []
+    "other": [
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5074815008",
+        "title": "Research Engineer/Research Scientist, Audio",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T12:40:53.341Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7409247",
+        "title": "Key Accounts Executive",
+        "company": "datadog",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T12:40:53.341Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
+        "title": "Enterprise Account Executive, State & Local Sales",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T12:40:53.342Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
+        "title": "IP Legal Specialist",
+        "company": "anthropic",
+        "reason": "already_posted",
+        "timestamp": "2026-02-05T12:40:53.342Z"
+      }
+    ]
   }
 }
