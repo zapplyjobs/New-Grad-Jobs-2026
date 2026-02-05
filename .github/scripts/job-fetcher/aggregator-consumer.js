@@ -68,8 +68,9 @@ function filterNewGradJobs(jobs) {
       return false;
     }
 
-    // Must be tagged as entry_level (NOT internship or senior)
-    if (job.tags.employment !== 'entry_level') {
+    // Accept BOTH internships AND entry_level jobs (NOT senior/mid-level)
+    const validEmployment = ['internship', 'entry_level', 'no_experience', '3_plus_years'];
+    if (!job.tags.employment || !validEmployment.includes(job.tags.employment)) {
       return false;
     }
 
