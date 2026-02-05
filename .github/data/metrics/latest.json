@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-05T08:54:50.717Z",
+  "generated": "2026-02-05T09:25:25.084Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T08:54:50.717Z",
-  "period_end": "2026-02-05T08:54:50.717Z",
+  "period_start": "2026-01-29T09:25:25.084Z",
+  "period_end": "2026-02-05T09:25:25.084Z",
   "summary": {
-    "total_jobs_posted": 3274,
-    "unique_jobs": 2324,
-    "multi_channel_postings": 1900,
-    "unique_multi_channel_jobs": 950,
+    "total_jobs_posted": 3292,
+    "unique_jobs": 2334,
+    "multi_channel_postings": 1916,
+    "unique_multi_channel_jobs": 958,
     "failed_postings": 0,
     "filtered_jobs": 4,
     "channels_active": 5
@@ -15,7 +15,7 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1961,
+      "count": 1968,
       "jobs": [
         "1027d639bd2f91ae",
         "f95533d3f335de4a",
@@ -1977,51 +1977,16 @@
         "20e3ba17b7428eb1",
         "4ef104a4c2ec6474",
         "6a4015036249b3a9",
-        "6c2b196bd3abc508"
+        "6c2b196bd3abc508",
+        "066dc6fef70d4cb2",
+        "bd535999aaa550c5",
+        "c8f3f573d7c1c7a9",
+        "fabe6cf5d4d2bf29",
+        "49da3539687e0008",
+        "35fc7588365d2cec",
+        "8ee727fdb356049c"
       ],
       "recent_jobs": [
-        {
-          "id": "2d04a5d9193f32c5",
-          "title": "Junior Software Engineer",
-          "company": "AM Pierce and Associates",
-          "posted_at": "2026-02-05T08:31:12.694Z"
-        },
-        {
-          "id": "905753fc1da5e6a9",
-          "title": "Research Engineer, Universes",
-          "company": "Anthropic",
-          "posted_at": "2026-02-05T08:31:19.465Z"
-        },
-        {
-          "id": "bcdeff5443a76a62",
-          "title": "(USA) Software Engineer III",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T08:53:56.360Z"
-        },
-        {
-          "id": "25198dc9554bf72b",
-          "title": "Only Full Time: SDET",
-          "company": "Visionary Innovative Technology Solutions LLC",
-          "posted_at": "2026-02-05T08:54:01.693Z"
-        },
-        {
-          "id": "d9138b6c16faf32d",
-          "title": "(USA) Software Engineer III",
-          "company": "Vizio",
-          "posted_at": "2026-02-05T08:54:03.610Z"
-        },
-        {
-          "id": "03c8ee523f848473",
-          "title": "Software Tool Verification",
-          "company": "JMD Technologies Inc.",
-          "posted_at": "2026-02-05T08:54:07.678Z"
-        },
-        {
-          "id": "20e3ba17b7428eb1",
-          "title": "Entry-Level Software Engineer for Warehouse Automation",
-          "company": "DEMATIC",
-          "posted_at": "2026-02-05T08:54:11.504Z"
-        },
         {
           "id": "4ef104a4c2ec6474",
           "title": "Junior Software Engineer",
@@ -2039,12 +2004,54 @@
           "title": "Entry Level - Software Engineering or Computer Science",
           "company": "The MITRE Corporation",
           "posted_at": "2026-02-05T08:54:26.264Z"
+        },
+        {
+          "id": "066dc6fef70d4cb2",
+          "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
+          "company": "Genesis10",
+          "posted_at": "2026-02-05T09:24:37.663Z"
+        },
+        {
+          "id": "bd535999aaa550c5",
+          "title": "Fulltime Engineer - University Recruiting",
+          "company": "Kansas City National Security Campus",
+          "posted_at": "2026-02-05T09:24:41.484Z"
+        },
+        {
+          "id": "c8f3f573d7c1c7a9",
+          "title": "Entry Level Software Engineer",
+          "company": "Boeing",
+          "posted_at": "2026-02-05T09:24:45.357Z"
+        },
+        {
+          "id": "fabe6cf5d4d2bf29",
+          "title": "2026 Full-time - Software Engineer I - Integration & Test - Onsite (MA)",
+          "company": "RTX",
+          "posted_at": "2026-02-05T09:24:47.212Z"
+        },
+        {
+          "id": "49da3539687e0008",
+          "title": "Software Engineer II,III,IV",
+          "company": "Lthc",
+          "posted_at": "2026-02-05T09:24:51.479Z"
+        },
+        {
+          "id": "35fc7588365d2cec",
+          "title": "2026 Entry Level Software Engineer",
+          "company": "BAE Systems",
+          "posted_at": "2026-02-05T09:24:55.199Z"
+        },
+        {
+          "id": "8ee727fdb356049c",
+          "title": "Junior/Entry Level Software Developer",
+          "company": "SynergisticIT",
+          "posted_at": "2026-02-05T09:25:14.989Z"
         }
       ]
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 512,
+      "count": 514,
       "jobs": [
         "d90db86d11c7376e",
         "f61e5f3b68f52006",
@@ -2557,21 +2564,11 @@
         "4ef104a4c2ec6474",
         "6a4015036249b3a9",
         "eb1cd1f33248af95",
-        "a5cd28a185375575"
+        "a5cd28a185375575",
+        "49da3539687e0008",
+        "dd13e1251ebab8e4"
       ],
       "recent_jobs": [
-        {
-          "id": "7c97db683347f1bc",
-          "title": "(USA) Software Engineer III (Full Stack)",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T07:43:43.705Z"
-        },
-        {
-          "id": "d5ea09b204899349",
-          "title": "Software Engineer III",
-          "company": "Walmart",
-          "posted_at": "2026-02-05T07:43:47.436Z"
-        },
         {
           "id": "b9b85c6471d4bd49",
           "title": "Slack Enginner",
@@ -2619,12 +2616,24 @@
           "title": "Software Engineer - Early Career",
           "company": "Lockheed Martin",
           "posted_at": "2026-02-05T08:54:40.034Z"
+        },
+        {
+          "id": "49da3539687e0008",
+          "title": "Software Engineer II,III,IV",
+          "company": "Lthc",
+          "posted_at": "2026-02-05T09:24:51.479Z"
+        },
+        {
+          "id": "dd13e1251ebab8e4",
+          "title": "Boeing is hiring: Entry-Level F-22 Simulation Software Engineer in Berkeley",
+          "company": "Boeing",
+          "posted_at": "2026-02-05T09:25:00.314Z"
         }
       ]
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 366,
+      "count": 371,
       "jobs": [
         "40dd5b270fa77c57",
         "63fa7feac74e18e4",
@@ -2991,39 +3000,14 @@
         "d9138b6c16faf32d",
         "03c8ee523f848473",
         "20e3ba17b7428eb1",
-        "6c2b196bd3abc508"
+        "6c2b196bd3abc508",
+        "bd535999aaa550c5",
+        "fabe6cf5d4d2bf29",
+        "386ee88b02f1499d",
+        "073ddf24f0a7e14c",
+        "8ee727fdb356049c"
       ],
       "recent_jobs": [
-        {
-          "id": "c2a5369b3e352b4c",
-          "title": "Junior Software Engineer / Devops at Vigilant Cyber Systems, Inc Raleigh, NC",
-          "company": "Vigilant Cyber Systems, Inc",
-          "posted_at": "2026-02-05T08:30:51.987Z"
-        },
-        {
-          "id": "a994963bfdb0bd2f",
-          "title": "Developer IV (test automation)",
-          "company": "Hansen Talent Group (HTG)",
-          "posted_at": "2026-02-05T08:30:55.696Z"
-        },
-        {
-          "id": "bfabc650ed4e0125",
-          "title": "Software Engineer II, Tax Product Development",
-          "company": "BDO USA",
-          "posted_at": "2026-02-05T08:30:59.396Z"
-        },
-        {
-          "id": "f3032188b1c27ed1",
-          "title": "Software Engineering Assoicate",
-          "company": "Truven Health Analytics",
-          "posted_at": "2026-02-05T08:31:05.064Z"
-        },
-        {
-          "id": "846f8baa5886cb23",
-          "title": "Associate SW Tools Engineer /SDET/ /Hybrid - Acton/ MA/",
-          "company": "Insulet Corporation",
-          "posted_at": "2026-02-05T08:31:08.769Z"
-        },
         {
           "id": "2d04a5d9193f32c5",
           "title": "Junior Software Engineer",
@@ -3053,12 +3037,42 @@
           "title": "Entry Level - Software Engineering or Computer Science",
           "company": "The MITRE Corporation",
           "posted_at": "2026-02-05T08:54:26.264Z"
+        },
+        {
+          "id": "bd535999aaa550c5",
+          "title": "Fulltime Engineer - University Recruiting",
+          "company": "Kansas City National Security Campus",
+          "posted_at": "2026-02-05T09:24:41.484Z"
+        },
+        {
+          "id": "fabe6cf5d4d2bf29",
+          "title": "2026 Full-time - Software Engineer I - Integration & Test - Onsite (MA)",
+          "company": "RTX",
+          "posted_at": "2026-02-05T09:24:47.212Z"
+        },
+        {
+          "id": "386ee88b02f1499d",
+          "title": "Data Engineer - Entry Level",
+          "company": "InterWorks",
+          "posted_at": "2026-02-05T09:25:04.459Z"
+        },
+        {
+          "id": "073ddf24f0a7e14c",
+          "title": "Software Developer - Entry Level at CGI Technologies and Solutions, Inc. Knoxville, TN",
+          "company": "CGI Technologies and Solutions, Inc.",
+          "posted_at": "2026-02-05T09:25:08.246Z"
+        },
+        {
+          "id": "8ee727fdb356049c",
+          "title": "Junior/Entry Level Software Developer",
+          "company": "SynergisticIT",
+          "posted_at": "2026-02-05T09:25:14.989Z"
         }
       ]
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 363,
+      "count": 366,
       "jobs": [
         "37929c2df28e0a82",
         "070dd6fd23f55776",
@@ -3422,27 +3436,12 @@
         "f4cbb23a58c5be7a",
         "92c63d5df2cccb97",
         "eb1cd1f33248af95",
-        "a5cd28a185375575"
+        "a5cd28a185375575",
+        "dd13e1251ebab8e4",
+        "386ee88b02f1499d",
+        "073ddf24f0a7e14c"
       ],
       "recent_jobs": [
-        {
-          "id": "b356b91fabda93d6",
-          "title": "Software Engineer",
-          "company": "Clarivate",
-          "posted_at": "2026-02-02T18:09:52.711Z"
-        },
-        {
-          "id": "eed1139daa06c1b7",
-          "title": "Paid Social, Brand Campaigns",
-          "company": "anthropic",
-          "posted_at": "2026-02-03T01:04:10.937Z"
-        },
-        {
-          "id": "a692166b7a4dee3d",
-          "title": "Account Executive, Territory, Chicago",
-          "company": "verkada",
-          "posted_at": "2026-02-03T19:39:40.437Z"
-        },
         {
           "id": "7c68661b6e455d65",
           "title": "Head of Data Intelligence ",
@@ -3484,12 +3483,30 @@
           "title": "Software Engineer - Early Career",
           "company": "Lockheed Martin",
           "posted_at": "2026-02-05T08:54:40.034Z"
+        },
+        {
+          "id": "dd13e1251ebab8e4",
+          "title": "Boeing is hiring: Entry-Level F-22 Simulation Software Engineer in Berkeley",
+          "company": "Boeing",
+          "posted_at": "2026-02-05T09:25:00.314Z"
+        },
+        {
+          "id": "386ee88b02f1499d",
+          "title": "Data Engineer - Entry Level",
+          "company": "InterWorks",
+          "posted_at": "2026-02-05T09:25:04.459Z"
+        },
+        {
+          "id": "073ddf24f0a7e14c",
+          "title": "Software Developer - Entry Level at CGI Technologies and Solutions, Inc. Knoxville, TN",
+          "company": "CGI Technologies and Solutions, Inc.",
+          "posted_at": "2026-02-05T09:25:08.246Z"
         }
       ]
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 72,
+      "count": 73,
       "jobs": [
         "d8a4656d77603db6",
         "72155fe011ee2af3",
@@ -3562,15 +3579,10 @@
         "77d62485b6311805",
         "3989d78eed406403",
         "79ccf9b876fe6c3e",
-        "b15d4a9065a22927"
+        "b15d4a9065a22927",
+        "066dc6fef70d4cb2"
       ],
       "recent_jobs": [
-        {
-          "id": "29668ec70becc8d7",
-          "title": "Systems Software Engineer - GPU",
-          "company": "NVIDIA",
-          "posted_at": "2026-02-01T19:32:48.810Z"
-        },
         {
           "id": "5e22353315d2c696",
           "title": "Software Engineer – New Graduate - Seattle",
@@ -3624,6 +3636,12 @@
           "title": "Software Engineer 2 - CoreAI",
           "company": "Microsoft",
           "posted_at": "2026-02-05T08:07:39.841Z"
+        },
+        {
+          "id": "066dc6fef70d4cb2",
+          "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
+          "company": "Genesis10",
+          "posted_at": "2026-02-05T09:24:37.663Z"
         }
       ]
     }
@@ -4141,28 +4159,28 @@
         "title": "Research Engineer/Research Scientist, Audio",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:53:56.136Z"
+        "timestamp": "2026-02-05T09:24:37.387Z"
       },
       {
         "job_id": "careers-datadoghq-com-detail-7409247",
         "title": "Key Accounts Executive",
         "company": "datadog",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:53:56.136Z"
+        "timestamp": "2026-02-05T09:24:37.388Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5102665008",
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:53:56.137Z"
+        "timestamp": "2026-02-05T09:24:37.388Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-05T08:53:56.137Z"
+        "timestamp": "2026-02-05T09:24:37.389Z"
       }
     ]
   }
