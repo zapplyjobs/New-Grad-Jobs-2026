@@ -158,42 +158,5 @@
     "addedAt": "2026-02-04T19:25:23.885Z",
     "enrichedAt": "2026-02-04T21:09:36.456Z",
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_id": "js-virtualvocations-2uvyuoiwjf4tfe8uaaaaaa==",
-      "job_title": "Associate Project Engineer",
-      "employer_name": "VirtualVocations",
-      "job_city": "Lake Worth Beach",
-      "job_state": "Florida",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.talent.com/view?id=ff8ac8fe5674&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-      "job_description": "Apply for Associate Project Engineer in Lake Worth. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "entry_level",
-        "domains": [
-          "general"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "www-talent-com-view",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T14:15:00.706Z",
-    "enrichedAt": "2026-02-05T14:15:01.226Z",
-    "postedAt": "2026-02-05T14:15:12.908Z"
   }
 ]
