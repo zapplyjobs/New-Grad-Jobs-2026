@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-07T18:54:21.826Z",
+  "generated": "2026-02-07T19:09:46.979Z",
   "period": "last_7_days",
-  "period_start": "2026-01-31T18:54:21.826Z",
-  "period_end": "2026-02-07T18:54:21.826Z",
+  "period_start": "2026-01-31T19:09:46.979Z",
+  "period_end": "2026-02-07T19:09:46.979Z",
   "summary": {
-    "total_jobs_posted": 2145,
-    "unique_jobs": 1253,
-    "multi_channel_postings": 1784,
-    "unique_multi_channel_jobs": 892,
+    "total_jobs_posted": 2134,
+    "unique_jobs": 1243,
+    "multi_channel_postings": 1782,
+    "unique_multi_channel_jobs": 891,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,16 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 1075,
+      "count": 1067,
       "jobs": [
-        "849b380d686f213e",
-        "993dc5403fe046d6",
-        "a5530b0b07d33e93",
-        "d8f26ff632fe548e",
-        "921b2ae5a6ccadcc",
-        "f93f64e4e736ccd1",
-        "c5298eddd5508c07",
-        "614192fbb88bf172",
         "746c9d335d14d79b",
         "83a5a357725454cb",
         "b219d3621783cd9c",
@@ -1158,10 +1150,8 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 178,
+      "count": 176,
       "jobs": [
-        "1e2d32cd4f5bc00e",
-        "18e32312bb4bebcd",
         "d45eca65fb33101a",
         "0b83025d35bfb7d9",
         "b90f0409e2400997",
@@ -1404,9 +1394,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 433,
+      "count": 432,
       "jobs": [
-        "18e32312bb4bebcd",
         "ae4e3b255c1f7fc1",
         "3f5f8d02228313a4",
         "51ea68ed2e422c22",
@@ -2501,16 +2490,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "18e32312bb4bebcd",
-      "company": "The Bank of New York Mellon",
-      "title": "2026 BNY Analyst Program-Engineering - Data Science",
-      "channels": [
-        "channel-14629887",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-01-31T19:06:46.470Z"
-    },
-    {
       "job_id": "ae4e3b255c1f7fc1",
       "company": "Cantina",
       "title": "Full Stack Engineer",
@@ -2999,6 +2978,16 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T05:04:11.631Z"
+    },
+    {
+      "job_id": "b45ac21fd3c7685e",
+      "company": "T-Mobile",
+      "title": "Associate AI Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T05:04:18.482Z"
     }
   ],
   "failures": [],
