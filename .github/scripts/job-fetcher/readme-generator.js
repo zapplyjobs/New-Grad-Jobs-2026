@@ -478,7 +478,7 @@ async function updateReadme(currentJobs, existingArchivedJobs = [], internshipDa
     console.log("📝 Generating README content...");
 
     // Jobs are already filtered by processJobs() - no need to re-filter
-    // currentJobs: jobs <7 days old, existingArchivedJobs: jobs >7 days old
+    // currentJobs: jobs <14 days old, existingArchivedJobs: jobs >14 days old
 
     const archivedJobs = existingArchivedJobs;
 

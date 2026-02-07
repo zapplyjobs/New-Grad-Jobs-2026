@@ -1013,7 +1013,7 @@ async function processJobs() {
             return bTime - aTime;
         });
         
-        // Filter current jobs (not older than a week)
+        // Filter current jobs (not older than 14 days)
         // Use job_posted_at_datetime_utc (ISO date) instead of job_posted_at (relative format)
         // job_posted_at is static from when job was first fetched, but job_posted_at_datetime_utc is the actual posting date
         const currentJobs = sortedJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));

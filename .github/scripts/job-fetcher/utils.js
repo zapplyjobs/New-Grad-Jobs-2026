@@ -251,10 +251,10 @@ function isJobOlderThanWeek(dateString) {
 
       // Convert relative time to days
       switch (unit) {
-        case 'h': return value >= 168; // 7 days = 168 hours
-        case 'd': return value >= 7;
-        case 'w': return true; // Any weeks >= 1 is older than 7 days
-        case 'mo': return true; // Any months >= 1 is older than 7 days
+        case 'h': return value >= 336; // 14 days = 336 hours
+        case 'd': return value >= 14;
+        case 'w': return value >= 2; // 2+ weeks is >= 14 days
+        case 'mo': return true; // Any months >= 1 is older than 14 days
         default: return false;
       }
     }
@@ -266,7 +266,7 @@ function isJobOlderThanWeek(dateString) {
     const now = new Date();
     const diffInDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
 
-    return diffInDays >= 7;
+    return diffInDays >= 14;
 }
 
 function isUSOnlyJob(job) {
