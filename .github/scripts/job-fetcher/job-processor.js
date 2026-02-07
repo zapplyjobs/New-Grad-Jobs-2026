@@ -318,6 +318,56 @@ async function searchJobs(query, location = '') {
     }
 }
 
+/**
+ * Filter out healthcare/nursing jobs from New-Grad board
+ * New-Grad is for tech/business roles, not healthcare positions
+ */
+function filterHealthcareJobs(jobs) {
+    const healthcareKeywords = [
+        // Nursing roles
+        'nurse', 'nursing', 'rn ', 'registered nurse', 'lpn', 'cna',
+        'nurse practitioner', 'nurse anesthetist', 'nurse midwife',
+        'nursing assistant', 'patient care technician', 'patient care associate',
+
+        // Medical/healthcare roles
+        'medical assistant', 'physician assistant', 'pa ', 'medical technologist',
+        'radiologic technologist', 'sonographer', 'ultrasound', 'phlebotomist',
+        'physical therapist', 'occupational therapist', 'speech therapist',
+        'respiratory therapist', 'dialysis', 'pharmacist', 'clinical',
+
+        // Healthcare support
+        'healthcare', 'patient care', 'clinical', 'hospital', 'medical center',
+        ' Rehab aide', 'nurse extern', 'nurse intern', 'nursing internship',
+
+        // Medical specialties
+        'cardiovascular', 'orthopedic', 'pediatric nurse', 'oncology',
+        'labor and delivery', 'mother/baby', 'nicu', 'icu', 'emergency department',
+
+        // Related medical terms
+        'scrub', 'sterile processing', 'surgical tech', 'med-surg',
+        'telemetry', 'med-surg', 'stepdown', 'acute care'
+    ];
+
+    return jobs.filter(job => {
+        const title = (job.job_title || '').toLowerCase();
+        const description = (job.job_description || '').toLowerCase();
+        const combined = `${title} ${description}`;
+
+        // Check if any healthcare keyword appears
+        const hasHealthcareKeyword = healthcareKeywords.some(keyword =>
+            combined.includes(keyword.toLowerCase())
+        );
+
+        // Allow if it's clearly a tech role (e.g., "Software Engineer at Hospital")
+        const techKeywords = ['software', 'developer', 'engineer', 'data scientist',
+                             'data analyst', 'product manager', 'devops', 'sre'];
+        const isTechRole = techKeywords.some(kw => title.includes(kw));
+
+        // Filter out if healthcare keyword found AND not a tech role
+        return !(hasHealthcareKeyword && !isTechRole);
+    });
+}
+
 // Enhanced filtering with better company matching
 function filterTargetCompanyJobs(jobs) {
     console.log('🎯 Filtering for target companies...');
@@ -904,8 +954,12 @@ async function processJobs() {
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
 
+        // Filter out healthcare/nursing jobs (New-Grad is for tech roles, not healthcare)
+        const filteredJobs = filterHealthcareJobs(allJobs);
+        console.log(`🏥 Filtered out ${allJobs.length - filteredJobs.length} healthcare jobs`);
+
         // Fill null dates and convert to relative format
-        const jobsWithDates = fillJobDates(allJobs, jobDatesStore);
+        const jobsWithDates = fillJobDates(filteredJobs, jobDatesStore);
 
         // Add unique IDs for deduplication using standardized generation
         jobsWithDates.forEach(job => {
