@@ -79,7 +79,8 @@ class PostedJobsManagerV2 {
       jobs: [],
       metadata: {
         totalJobs: 0,
-        activeWindowDays: this.activeWindowDays
+        activeWindowDays: this.activeWindowDays,
+        channelJobNumbers: {} // Persist highest job number per channel (fixes non-sequential counter bug)
       }
     };
   }
@@ -114,6 +115,7 @@ class PostedJobsManagerV2 {
       metadata: {
         totalJobs: jobs.length,
         activeWindowDays: this.activeWindowDays,
+        channelJobNumbers: {}, // Will be initialized on first use
         migratedFromV1: true,
         migrationDate: now
       }
@@ -384,33 +386,51 @@ class PostedJobsManagerV2 {
   }
 
   /**
-   * Get the next job number for a specific channel (NEW for job numbering)
-   * Counts all jobs posted to this channel across all job records
+   * Get the next job number for a specific channel (FIXED: sequential across sessions)
+   *
+   * Uses persisted highest job number from metadata instead of recalculating from active jobs.
+   * This prevents counter jumps when jobs expire and are removed from active database.
    *
    * @param {string} channelId - Discord channel ID
    * @returns {number} - Next job number for this channel
    */
   getChannelJobNumber(channelId) {
-    // Check if we've already calculated the base count for this channel this session
-    if (!this.sessionChannelCounters[channelId]) {
-      // Count from active jobs
-      let count = 0;
-      for (const job of this.data.jobs) {
-        if (job.discordPosts && job.discordPosts[channelId]) {
-          count++;
+    // Initialize metadata structure if needed
+    if (!this.data.metadata.channelJobNumbers) {
+      this.data.metadata.channelJobNumbers = {};
+    }
+
+    // Check if we need to initialize this channel's counter
+    if (this.sessionChannelCounters[channelId] === undefined) {
+      // Load persisted highest job number from metadata
+      let persistedCount = this.data.metadata.channelJobNumbers[channelId] || 0;
+
+      // If no persisted value, calculate initial count from existing data
+      if (persistedCount === 0) {
+        let activeCount = 0;
+        for (const job of this.data.jobs) {
+          if (job.discordPosts && job.discordPosts[channelId]) {
+            activeCount++;
+          }
         }
+        const archiveCount = this.archiveChannelCounts[channelId] || 0;
+        persistedCount = activeCount + archiveCount;
+
+        console.log(`🔢 Initialized channel ${channelId} counter at ${persistedCount} (active: ${activeCount}, archive: ${archiveCount})`);
+      } else {
+        console.log(`🔢 Loaded persisted counter for channel ${channelId}: ${persistedCount}`);
       }
 
-      // Add cached archive count (pre-loaded at startup for performance)
-      const archiveCount = this.archiveChannelCounts[channelId] || 0;
-      count += archiveCount;
-
-      // Initialize session counter with base count
-      this.sessionChannelCounters[channelId] = count;
+      // Initialize session counter with persisted value
+      this.sessionChannelCounters[channelId] = persistedCount;
     }
 
     // Increment and return the next job number for this channel
     this.sessionChannelCounters[channelId]++;
+
+    // Persist the new highest value to metadata
+    this.data.metadata.channelJobNumbers[channelId] = this.sessionChannelCounters[channelId];
+
     return this.sessionChannelCounters[channelId];
   }
 
