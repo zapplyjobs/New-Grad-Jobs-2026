@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-07T22:24:52.016Z",
+  "generated": "2026-02-07T22:43:07.106Z",
   "period": "last_7_days",
-  "period_start": "2026-01-31T22:24:52.016Z",
-  "period_end": "2026-02-07T22:24:52.016Z",
+  "period_start": "2026-01-31T22:43:07.106Z",
+  "period_end": "2026-02-07T22:43:07.106Z",
   "summary": {
-    "total_jobs_posted": 1997,
-    "unique_jobs": 1113,
+    "total_jobs_posted": 1987,
+    "unique_jobs": 1103,
     "multi_channel_postings": 1768,
     "unique_multi_channel_jobs": 884,
     "failed_postings": 0,
@@ -14,19 +14,9 @@
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988662168879217",
-      "count": 945,
+      "channel_id": "1462988605306834987",
+      "count": 935,
       "jobs": [
-        "ccfb32db1ea75b6d",
-        "c5b992c9152aa586",
-        "e03f2ee0c9c7f015",
-        "e4f3047638ea81fa",
-        "00702bff7ba39d73",
-        "8515a219cc2d3e69",
-        "a0a2bd1758f888c9",
-        "be7131071251c943",
-        "e77e05909dc43cd1",
-        "60292f7ac3bf4b86",
         "b02796054d42dde0",
         "f4e29bb5988b77d7",
         "842e14601afb5f15",
