@@ -65,17 +65,38 @@ async function fetchAllJobs() {
     const { jobs: atsJobs, stats: atsStats } = await fetchAllATSJobs({ delayMs: 500 });
 
     // Normalize ATS jobs to match expected format
-    const normalizedATSJobs = atsJobs.map(job => ({
-      // Map to legacy format expected by downstream processors
-      job_title: job.title,
-      employer_name: job.company_name,
-      job_city: job.location,
-      job_apply_link: job.url,
-      job_posted_at_datetime_utc: job.posted_at,
-      job_description: job.description,
-      // Keep original fields for reference
-      ...job
-    }));
+    const normalizedATSJobs = atsJobs.map(job => {
+      // Parse location into city and state
+      let job_city = '';
+      let job_state = '';
+
+      const location = job.location || job.locations?.[0] || '';
+
+      if (location.toLowerCase() === 'remote') {
+        job_city = 'Remote';
+        job_state = '';
+      } else if (location.includes(',')) {
+        const parts = location.split(',').map(p => p.trim());
+        job_city = parts[0] || '';
+        job_state = parts[1] || '';
+      } else {
+        job_city = location || '';
+        job_state = '';
+      }
+
+      return {
+        // Map to legacy format expected by downstream processors
+        job_title: job.title,
+        employer_name: job.company_name,
+        job_city: job_city,
+        job_state: job_state,
+        job_apply_link: job.url,
+        job_posted_at_datetime_utc: job.posted_at,
+        job_description: job.description,
+        // Keep original fields for reference
+        ...job
+      };
+    });
 
     allJobs.push(...normalizedATSJobs);
     sources.push('ATS platforms');
