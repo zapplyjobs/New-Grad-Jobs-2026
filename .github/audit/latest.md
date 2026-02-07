@@ -1,195 +1,261 @@
 # Discord Bot Execution Audit
-**Timestamp:** 2026-02-07T14:33:55.200Z
+**Timestamp:** 2026-02-07T14:51:27.280Z
 **Exit Code:** ✅ Success
 ## Metrics
-- **Jobs Posted:** 1
+- **Jobs Posted:** 5
 - **Jobs Failed:** 0
 - **Jobs Skipped:** 2
 - **Database Saved:** ✅ Yes
 ## Sanitized Log Output
 ```
-[2026-02-07T14:33:43.747Z] ========================================
-[2026-02-07T14:33:43.749Z] Discord Bot Execution Log
-[2026-02-07T14:33:43.749Z] Environment: GitHub Actions
-[2026-02-07T14:33:43.749Z] Node Version: v20.20.0
-[2026-02-07T14:33:43.749Z] ========================================
-[2026-02-07T14:33:43.749Z] Environment Variables Check:
-[2026-02-07T14:33:43.749Z] DISCORD_TOKEN: ✅ Set
-[2026-02-07T14:33:43.749Z] DISCORD_CHANNEL_ID: ✅ Set
-[2026-02-07T14:33:43.749Z] DISCORD_CLIENT_ID: ❌ Not set
-[2026-02-07T14:33:43.750Z] DISCORD_GUILD_ID: ❌ Not set
-[2026-02-07T14:33:43.750Z] 
+[2026-02-07T14:51:04.840Z] ========================================
+[2026-02-07T14:51:04.841Z] Discord Bot Execution Log
+[2026-02-07T14:51:04.841Z] Environment: GitHub Actions
+[2026-02-07T14:51:04.841Z] Node Version: v20.20.0
+[2026-02-07T14:51:04.841Z] ========================================
+[2026-02-07T14:51:04.842Z] Environment Variables Check:
+[2026-02-07T14:51:04.842Z] DISCORD_TOKEN: ✅ Set
+[2026-02-07T14:51:04.842Z] DISCORD_CHANNEL_ID: ✅ Set
+[2026-02-07T14:51:04.842Z] DISCORD_CLIENT_ID: ❌ Not set
+[2026-02-07T14:51:04.842Z] DISCORD_GUILD_ID: ❌ Not set
+[2026-02-07T14:51:04.842Z] 
 Multi-Channel Configuration:
-[2026-02-07T14:33:43.750Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
-[2026-02-07T14:33:43.750Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
-[2026-02-07T14:33:43.750Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
-[2026-02-07T14:33:43.750Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
-[2026-02-07T14:33:43.750Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
-[2026-02-07T14:33:43.750Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
-[2026-02-07T14:33:43.750Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
-[2026-02-07T14:33:43.750Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
-[2026-02-07T14:33:43.750Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
-[2026-02-07T14:33:43.750Z] 
+[2026-02-07T14:51:04.842Z] DISCORD_TECH_CHANNEL_ID: ✅ Set
+[2026-02-07T14:51:04.842Z] DISCORD_SALES_CHANNEL_ID: ⭕ Not set
+[2026-02-07T14:51:04.842Z] DISCORD_MARKETING_CHANNEL_ID: ⭕ Not set
+[2026-02-07T14:51:04.842Z] DISCORD_FINANCE_CHANNEL_ID: ✅ Set
+[2026-02-07T14:51:04.842Z] DISCORD_HEALTHCARE_CHANNEL_ID: ⭕ Not set
+[2026-02-07T14:51:04.842Z] DISCORD_PRODUCT_CHANNEL_ID: ⭕ Not set
+[2026-02-07T14:51:04.842Z] DISCORD_SUPPLY_CHANNEL_ID: ⭕ Not set
+[2026-02-07T14:51:04.842Z] DISCORD_PM_CHANNEL_ID: ⭕ Not set
+[2026-02-07T14:51:04.842Z] DISCORD_HR_CHANNEL_ID: ⭕ Not set
+[2026-02-07T14:51:04.843Z] 
 Multi-Channel Mode: ✅ ENABLED
-[2026-02-07T14:33:43.750Z] 
+[2026-02-07T14:51:04.843Z] 
 Data Files Check:
-[2026-02-07T14:33:43.752Z] .github/data/new_jobs.json: ✅ Exists (10 items, 129535 bytes)
-[2026-02-07T14:33:43.783Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 6117979 bytes)
-[2026-02-07T14:33:43.783Z] 
+[2026-02-07T14:51:04.844Z] .github/data/new_jobs.json: ✅ Exists (10 items, 149360 bytes)
+[2026-02-07T14:51:04.882Z] .github/data/posted_jobs.json: ✅ Exists (4 items, 6078360 bytes)
+[2026-02-07T14:51:04.882Z] 
 ========================================
-[2026-02-07T14:33:43.783Z] Starting Enhanced Discord Bot...
-[2026-02-07T14:33:43.783Z] ========================================
-[2026-02-07T14:33:44.351Z] [BOT] ✅ Loaded V2 database: 1387 jobs
-[2026-02-07T14:33:44.945Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
-[2026-02-07T14:33:44.945Z] [BOT] 🔍 DEBUG: GUILD_ID = "" (type: string)
+[2026-02-07T14:51:04.882Z] Starting Enhanced Discord Bot...
+[2026-02-07T14:51:04.882Z] ========================================
+[2026-02-07T14:51:05.379Z] [BOT] ✅ Loaded V2 database: 1378 jobs
+[2026-02-07T14:51:05.971Z] [BOT] ✅ Enhanced Discord bot logged in as Zapply Jobs Bot#9522
+🔍 DEBUG: GUILD_ID = "" (type: string)
 🔍 DEBUG: Bot is member of 1 guilds
    - Zapply (CH_20db82b8)
-[2026-02-07T14:33:44.945Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-[2026-02-07T14:33:44.974Z] [BOT] ✅ Loaded pending queue: 406 total (356 pending, 50 enriched, 0 posted)
-[2026-02-07T14:33:44.974Z] [BOT] [BOT] 📬 Found 50 enriched jobs ready to post from pending queue
-[BOT] 🔍 Sample enriched job: Enterprise Account Executive, State & Local Sales at anthropic
-[2026-02-07T14:33:44.975Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "860b70f12c622b3e"
-[2026-02-07T14:33:44.976Z] [BOT] ⏭️  Skipping duplicate: JID_7e4d456f (posted within 7 days)
-[2026-02-07T14:33:44.976Z] [BOT] ⏭️ Skipping already posted: Enterprise Account Executive, State & Local Sales at anthropic
-[2026-02-07T14:33:44.976Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "5d10ea8dbeb07322"
-[2026-02-07T14:33:44.976Z] [BOT] ⏭️  Skipping duplicate: JID_f7992b83 (posted within 7 days)
+[2026-02-07T14:51:05.972Z] [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
+[2026-02-07T14:51:06.010Z] [BOT] ✅ Loaded pending queue: 405 total (355 pending, 50 enriched, 0 posted)
+[2026-02-07T14:51:06.011Z] [BOT] [BOT] 📬 Found 50 enriched jobs ready to post from pending queue
+[2026-02-07T14:51:06.011Z] [BOT] [BOT] 🔍 Sample enriched job: Enterprise Account Executive, State & Local Sales at anthropic
+[2026-02-07T14:51:06.012Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "860b70f12c622b3e"
+[2026-02-07T14:51:06.012Z] [BOT] ⏭️  Skipping duplicate: JID_7e4d456f (posted within 7 days)
+⏭️ Skipping already posted: Enterprise Account Executive, State & Local Sales at anthropic
+[2026-02-07T14:51:06.013Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "5d10ea8dbeb07322"
+[2026-02-07T14:51:06.013Z] [BOT] ⏭️  Skipping duplicate: JID_f7992b83 (posted within 7 days)
 ⏭️ Skipping already posted: ROLE_8670491d at anthropic
-[2026-02-07T14:33:44.988Z] [BOT] 📬 Found 48 new jobs (2 already posted)...
-[2026-02-07T14:33:44.989Z] [BOT] 🚫 Skipping blacklisted job: Staff AI Engineer - Simulation Environments at datadog
-[2026-02-07T14:33:44.989Z] [BOT] 🚫 Skipping blacklisted job: Segment Marketing Manager, Financial Services & Insurance at anthropic
-🚫 Skipping blacklisted job: Major Account Manager at datadog
-[2026-02-07T14:33:44.989Z] [BOT] 🚫 Skipping blacklisted job: Senior iOS Software Engineer at duolingo
-🚫 Skipping blacklisted job: Senior Product Design Manager at duolingo
-🚫 Skipping blacklisted job: Senior Product Manager, Ads at duolingo
-🚫 Skipping blacklisted job: Senior Product Manager, Learning at duolingo
-[2026-02-07T14:33:44.989Z] [BOT] 🚫 Skipping blacklisted job: Senior Product Manager, Math at duolingo
-🚫 Skipping blacklisted job: Senior Product Manager, Math at duolingo
-[2026-02-07T14:33:44.989Z] [BOT] 🚫 Skipping blacklisted job: Senior Product Manager, Score at duolingo
-[2026-02-07T14:33:44.989Z] [BOT] 🚫 Skipping blacklisted job: Senior Product Writer at duolingo
-🚫 Skipping blacklisted job: Senior Scaling Operations Program Manager at duolingo
-🚫 Skipping blacklisted job: Staff Android Engineer, Client Architecture at duolingo
-[2026-02-07T14:33:44.989Z] [BOT] 🚫 Skipping blacklisted job: Staff Data Scientist, Forecasting in Monetization at duolingo
-🚫 Skipping blacklisted job: Staff iOS Engineer, App Builds at duolingo
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Staff Product Designer at duolingo
-🚫 Skipping blacklisted job: Director, Product Management - Core Platforms at datadog
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Director, Enterprise Sales at brex
-🚫 Skipping blacklisted job: Manager, Software Engineering - Design Systems Management  at figma
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Senior Education Platform Engineer at anthropic
-🚫 Skipping blacklisted job: Field Marketing Manager, Central at airtable
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Revenue Accounting Manager - NYC at datadog
-🚫 Skipping blacklisted job: Communications Manager, Enterprise  at anthropic
-🚫 Skipping blacklisted job: Senior Channel Marketing Manager, Northeast (Remote) at verkada
-🚫 Skipping blacklisted job: Product Lead, Healthcare at anthropic
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Client Account Manager, Mid-Market (Agency Acquisitions) at reddit
-🚫 Skipping blacklisted job: Senior Product Manager - Product Analytics at datadog
-🚫 Skipping blacklisted job: Senior Manager, Ads, Revenue & Commerce Policy at discord
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Program Manager, Real Estate & Facilities  at figma
-🚫 Skipping blacklisted job: Global Partner Sales Manager - Systems Integrators at anthropic
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Engineering Manager, UI Platform at anthropic
-🚫 Skipping blacklisted job: Senior Manager, Stock Administration at discord
-[2026-02-07T14:33:44.990Z] [BOT] 🚫 Skipping blacklisted job: Manager, Banking Specialists at brex
-🚫 Skipping blacklisted job: Manager, Banking Specialists at brex
-🚫 Skipping blacklisted job: Technical Program Manager, Infrastructure at anthropic
-🚫 Skipping blacklisted job: Senior Product Manager - Custom Metrics at datadog
-[2026-02-07T14:33:44.991Z] [BOT] 🚫 Skipping blacklisted job: National Channel Sales Manager, Convergint (East) at verkada
-🚫 Skipping blacklisted job: National Channel Sales Manager, Midwest at verkada
-🚫 Skipping blacklisted job: Regional Sales Manager, Mid-Market at verkada
-[2026-02-07T14:33:44.991Z] [BOT] 🚫 Skipping blacklisted job: Regional Sales Manager, Mid-Market, Austin at verkada
-🚫 Skipping blacklisted job: Sales Strategy and Operations Division Lead at verkada
-[2026-02-07T14:33:44.991Z] [BOT] 🚫 Skipping blacklisted job: Senior Field Marketing Manager (Enterprise SLED East) at verkada
-🚫 Skipping blacklisted job: Senior Field Marketing Manager (Federal / State) at verkada
-[2026-02-07T14:33:44.991Z] [BOT] 🚫 Skipping blacklisted job: Senior Project Engineer, Global Services at verkada
-🚫 Skipping blacklisted job: Senior Project Engineer, Global Services at verkada
-[2026-02-07T14:33:44.991Z] [BOT] 🚫 Skipping blacklisted job: GRC Automation Lead  at anthropic
-🚫 Skipping blacklisted job: Senior Manager, Tax Operations, Provision, and Compliance at anthropic
-[2026-02-07T14:33:45.040Z] [BOT] ✅ Loaded pending queue: 406 total (356 pending, 50 enriched, 0 posted)
-[2026-02-07T14:33:45.073Z] [BOT] ✅ Saved pending queue: 359 total (356 pending, 3 enriched, 0 posted)
-🗑️ Removed 47 blacklisted jobs from pending queue
-[2026-02-07T14:33:45.074Z] [BOT] 📋 After blacklist filter: 1 jobs (47 blacklisted)
-📋 After data quality filter: 1 jobs (0 invalid)
-[2026-02-07T14:33:45.074Z] [BOT] 📋 After multi-location grouping: 1 unique jobs to post
-[2026-02-07T14:33:45.074Z] [BOT] ⏸️ Limiting to 10 jobs this run, 47 deferred for next run
-📤 Posting 1 jobs...
+[2026-02-07T14:51:06.022Z] [BOT] 📬 Found 48 new jobs (2 already posted)...
+[2026-02-07T14:51:06.022Z] [BOT] 🚫 Skipping blacklisted job: Manager, Sales Development - Boston at datadog
+🚫 Skipping blacklisted job: Staff Software Engineer, Continuous Integration  at anthropic
+🚫 Skipping blacklisted job: Data Engineering Manager at discord
+[2026-02-07T14:51:06.022Z] [BOT] 🚫 Skipping blacklisted job: Data Science Manager, Safety at discord
+🚫 Skipping blacklisted job: Director, Account Management at discord
+🚫 Skipping blacklisted job: Director of Data and Analytics Engineering at discord
+🚫 Skipping blacklisted job: Director of Engineering, Developer Ecosystem at discord
+🚫 Skipping blacklisted job: Director of Engineering, Security Operations at discord
+[2026-02-07T14:51:06.022Z] [BOT] 🚫 Skipping blacklisted job: Director, Safety Policy at discord
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Engineering Manager, Ads Formats at discord
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Engineering Manager, Engagement at discord
+🚫 Skipping blacklisted job: Finance Manager, Business Operations at discord
+🚫 Skipping blacklisted job: Group Product Marketing Manager, Developer Commerce Solutions at discord
+🚫 Skipping blacklisted job: Manager, Global Accounts Receivable at discord
+🚫 Skipping blacklisted job: Principal Software Engineer - Infrastructure at discord
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Rust/C++ Senior Software Engineer at discord
+🚫 Skipping blacklisted job: Sales Operations Manager at discord
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Senior Data Engineer - Ads  at discord
+🚫 Skipping blacklisted job: Senior Data Engineer, Analytics at discord
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Senior Data Scientist, Analytics at discord
+🚫 Skipping blacklisted job: Director, Finance Strategic Initiatives at anthropic
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Director of Strategic Finance, Product at vercel
+🚫 Skipping blacklisted job: Manager I, Customer Success at samsara
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Policy Manager, Chemical Weapons and High Yield Explosives at anthropic
+🚫 Skipping blacklisted job: Solutions Marketing Lead, Beneficial Deployments  at anthropic
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Solutions Marketing Lead, Public Sector at anthropic
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Software Engineering Manager, Growth at verkada
+🚫 Skipping blacklisted job: Senior Channel Marketing Manager, Southeast (Remote) at verkada
+🚫 Skipping blacklisted job: Senior Web Producer Manager at airtable
+🚫 Skipping blacklisted job: Campaign Marketing Manager, Claude Code at anthropic
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Staff Brand Designer, Interactive at brex
+🚫 Skipping blacklisted job: Staff Brand Designer at brex
+🚫 Skipping blacklisted job: Senior Brand Designer at brex
+🚫 Skipping blacklisted job: Startups Partner Manager, Y Combinator at brex
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Manager, Software Engineering - Internal Tools at figma
+🚫 Skipping blacklisted job: Engineering Manager, Inference Developer Productivity at anthropic
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Product Marketing Manager, Targeting & Brand Safety at spotify
+[2026-02-07T14:51:06.023Z] [BOT] 🚫 Skipping blacklisted job: Senior Sales Engineer at datadog
+🚫 Skipping blacklisted job: Senior Marketing Events Manager, Partners at anthropic
+🚫 Skipping blacklisted job: Product Marketing Manager, Monetization at spotify
+🚫 Skipping blacklisted job: Product Marketing Manager, Measurement at spotify
+🚫 Skipping blacklisted job: Product Manager, Safeguards (Beneficial Deployments) at anthropic
+[2026-02-07T14:51:06.024Z] [BOT] 🚫 Skipping blacklisted job: Senior Partner Manager - Channels - DACH   at datadog
+[2026-02-07T14:51:06.085Z] [BOT] ✅ Loaded pending queue: 405 total (355 pending, 50 enriched, 0 posted)
+[2026-02-07T14:51:06.122Z] [BOT] ✅ Saved pending queue: 362 total (355 pending, 7 enriched, 0 posted)
+🗑️ Removed 43 blacklisted jobs from pending queue
+📋 After blacklist filter: 5 jobs (43 blacklisted)
+[2026-02-07T14:51:06.122Z] [BOT] 📋 After data quality filter: 5 jobs (0 invalid)
+[2026-02-07T14:51:06.122Z] [BOT] 📋 After multi-location grouping: 5 unique jobs to post
+[2026-02-07T14:51:06.123Z] [BOT] ⏸️ Limiting to 10 jobs this run, 43 deferred for next run
+📤 Posting 5 jobs...
 🔀 Multi-channel mode enabled - routing jobs to appropriate forums
-[2026-02-07T14:33:45.075Z] [BOT] 📌 Posting 1 jobs to #🤖・ai-jobs
-[2026-02-07T14:33:45.076Z] [BOT] 📍 [ROUTING] "Software Engineer, AI Reliability" @ anthropic
-[2026-02-07T14:33:45.076Z] [BOT] Category: AI (matched: "AI/ML")
-   Channel: 🤖・ai-jobs (1462...9217)
-   ⚠️  Multiple matches: aiMatch, techMatch (using ai)
-[2026-02-07T14:33:45.077Z] [BOT] 🔢 Initialized channel CH_fff0e4bf counter at 371 (active: 371, archive: 0)
-[2026-02-07T14:33:45.094Z] [BOT ERROR] (node:2516) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+[2026-02-07T14:51:06.126Z] [BOT] 📌 Posting 3 jobs to #💰・finance-jobs
+[2026-02-07T14:51:06.127Z] [BOT] 📍 [ROUTING] " Marketing (Sales) Development Representative " @ verkada
+[2026-02-07T14:51:06.127Z] [BOT] Category: FINANCE (matched: "tax")
+   Channel: 💰・finance-jobs (1462...4023)
+[2026-02-07T14:51:06.127Z] [BOT] 🔢 Initialized channel CH_bd916e08 counter at 61 (active: 61, archive: 0)
+[2026-02-07T14:51:06.144Z] [BOT ERROR] (node:2867) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[2026-02-07T14:33:45.562Z] [BOT] ✅ Posted message: Software Engineer, AI Reliability @ anthropic in #🤖・ai-jobs
-[2026-02-07T14:33:45.562Z] [BOT] ✅ Industry: Software Engineer, AI Reliability @ anthropic
-[2026-02-07T14:33:45.563Z] [BOT] 💾 Added channel posting: Software Engineer, AI Reliability @ anthropic → category channel (1 total channels)
-[2026-02-07T14:33:45.563Z] [BOT] 💾 BEFORE MERGE: 1388 jobs in memory (cached)
-[2026-02-07T14:33:45.588Z] [BOT] ✅ Loaded V2 database: 1387 jobs
-💾 DISK STATE: 1387 jobs on disk
-[2026-02-07T14:33:45.589Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1388
-[2026-02-07T14:33:45.593Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-07T14:33:45.593Z] [BOT] 💾 AFTER MERGE: 1388 jobs (merged disk + memory)
-[2026-02-07T14:33:45.594Z] [BOT] 📁 Created archive directory: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/data/archive
-[2026-02-07T14:33:45.600Z] [BOT] 📦 Archived 10 jobs to 2026-01.json (10 total in archive)
-[2026-02-07T14:33:45.600Z] [BOT] ✅ Archiving complete: 10 archived, 1378 active
-[2026-02-07T14:33:45.685Z] [BOT] 💾 Saved posted_jobs.json: 1378 active jobs
-✅ Verified: Database file matches in-memory state
-[2026-02-07T14:33:47.187Z] [BOT] 🔢 Initialized channel CH_67225533 counter at 316 (active: 316, archive: 0)
-[2026-02-07T14:33:47.381Z] [BOT] ✅ Posted message: Software Engineer, AI Reliability @ anthropic in #🌉・JID_739bbc0b
-[2026-02-07T14:33:47.381Z] [BOT] ✅ Location: 🌉・JID_739bbc0b
-[2026-02-07T14:33:47.381Z] [BOT] 💾 Added channel posting: Software Engineer, AI Reliability @ anthropic → location channel (2 total channels)
-💾 BEFORE MERGE: 1378 jobs in memory (cached)
-[2026-02-07T14:33:47.402Z] [BOT] ✅ Loaded V2 database: 1378 jobs
+[2026-02-07T14:51:06.359Z] [BOT] ✅ Posted message:  Marketing (Sales) Development Representative  @ verkada in #💰・finance-jobs
+[2026-02-07T14:51:06.359Z] [BOT] ✅ Industry:  Marketing (Sales) Development Representative  @ verkada
+[2026-02-07T14:51:06.360Z] [BOT] 💾 Added channel posting:  Marketing (Sales) Development Representative  @ verkada → category channel (1 total channels)
+[2026-02-07T14:51:06.360Z] [BOT] 💾 BEFORE MERGE: 1379 jobs in memory (cached)
+[2026-02-07T14:51:06.393Z] [BOT] ✅ Loaded V2 database: 1378 jobs
 💾 DISK STATE: 1378 jobs on disk
-[2026-02-07T14:33:47.402Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1378
-[2026-02-07T14:33:47.405Z] [BOT] 🔀 Deep merged: Software Engineer, AI Reliability @ anthropic (disk: 1 channels → merged: 2 channels)
-[2026-02-07T14:33:47.405Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
-💾 AFTER MERGE: 1378 jobs (merged disk + memory)
-[2026-02-07T14:33:47.406Z] [BOT] ✅ No jobs to archive (all 1378 jobs within 7-day window)
-[2026-02-07T14:33:47.465Z] [BOT] 💾 Saved posted_jobs.json: 1378 active jobs
+[2026-02-07T14:51:06.393Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1379
+[2026-02-07T14:51:06.397Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-07T14:51:06.397Z] [BOT] 💾 AFTER MERGE: 1379 jobs (merged disk + memory)
+[2026-02-07T14:51:06.398Z] [BOT] 📁 Created archive directory: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/data/archive
+[2026-02-07T14:51:06.402Z] [BOT] 📦 Archived 10 jobs to 2026-01.json (10 total in archive)
+✅ Archiving complete: 10 archived, 1369 active
+[2026-02-07T14:51:06.477Z] [BOT] 💾 Saved posted_jobs.json: 1369 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-02-07T14:33:51.967Z] [BOT] 🎉 Posting complete! Successfully posted: 1, Failed: 0
-[2026-02-07T14:33:51.968Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_c1be21d2-..." not found, but found as SHA256 "e5e541a213193fcb"
-[2026-02-07T14:33:51.968Z] [BOT] ⏭️  Skipping duplicate: JID_6b890eae (posted within 7 days)
-[2026-02-07T14:33:51.988Z] [BOT] ✅ Loaded pending queue: 359 total (356 pending, 3 enriched, 0 posted)
-[2026-02-07T14:33:52.028Z] [BOT] ✅ Saved pending queue: 359 total (356 pending, 2 enriched, 1 posted)
-📋 Updated queue: marked 1 jobs as posted
-[2026-02-07T14:33:52.028Z] [BOT] ✅ All posting operations complete, cleaning up...
-[2026-02-07T14:33:52.141Z] [BOT] 📂 Loaded 12625 existing routing entries
-[2026-02-07T14:33:52.262Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
-   New entries: 1
-   Total entries: 12626
-   Timestamp: 2026-02-07T14:33:52.209Z
-[2026-02-07T14:33:52.263Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_303ba7bc.jsonl
-[2026-02-07T14:33:52.263Z] [BOT] Total attempts: 51
-   Successful: 2
+[2026-02-07T14:51:07.980Z] [BOT] 📍 [ROUTING] "(Sr) Associate, Strategic Finance & Business Operations" @ verkada
+   Category: FINANCE (matched: "finance")
+[2026-02-07T14:51:07.980Z] [BOT] Channel: 💰・finance-jobs (1462...4023)
+[2026-02-07T14:51:08.422Z] [BOT] ✅ Posted message: (Sr) Associate, Strategic Finance & Business Operations @ verkada in #💰・finance-jobs
+[2026-02-07T14:51:08.422Z] [BOT] ✅ Industry: (Sr) Associate, Strategic Finance & Business Operations @ verkada
+[2026-02-07T14:51:08.423Z] [BOT] 💾 Added channel posting: (Sr) Associate, Strategic Finance & Business Operations @ verkada → category channel (1 total channels)
+[2026-02-07T14:51:08.423Z] [BOT] 💾 BEFORE MERGE: 1370 jobs in memory (cached)
+[2026-02-07T14:51:08.452Z] [BOT] ✅ Loaded V2 database: 1369 jobs
+💾 DISK STATE: 1369 jobs on disk
+[2026-02-07T14:51:08.452Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1370
+[2026-02-07T14:51:08.455Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-07T14:51:08.455Z] [BOT] 💾 AFTER MERGE: 1370 jobs (merged disk + memory)
+[2026-02-07T14:51:08.456Z] [BOT] ✅ No jobs to archive (all 1370 jobs within 7-day window)
+[2026-02-07T14:51:08.521Z] [BOT] 💾 Saved posted_jobs.json: 1370 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-07T14:51:10.023Z] [BOT] 📍 [ROUTING] "Account Executive, Territory (Mid-Market)" @ verkada
+   Category: FINANCE (matched: "finance")
+   Channel: 💰・finance-jobs (1462...4023)
+[2026-02-07T14:51:10.415Z] [BOT] ✅ Posted message: Account Executive, Territory (Mid-Market) @ verkada in #💰・finance-jobs
+  ✅ Industry: Account Executive, Territory (Mid-Market) @ verkada
+[2026-02-07T14:51:10.416Z] [BOT] 💾 Added channel posting: Account Executive, Territory (Mid-Market) @ verkada → category channel (1 total channels)
+[2026-02-07T14:51:10.416Z] [BOT] 💾 BEFORE MERGE: 1371 jobs in memory (cached)
+[2026-02-07T14:51:10.444Z] [BOT] ✅ Loaded V2 database: 1370 jobs
+💾 DISK STATE: 1370 jobs on disk
+[2026-02-07T14:51:10.445Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1371
+[2026-02-07T14:51:10.448Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 1371 jobs (merged disk + memory)
+[2026-02-07T14:51:10.449Z] [BOT] ✅ No jobs to archive (all 1371 jobs within 7-day window)
+[2026-02-07T14:51:10.515Z] [BOT] 💾 Saved posted_jobs.json: 1371 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-07T14:51:15.018Z] [BOT] 📌 Posting 2 jobs to #💻・tech-jobs
+[2026-02-07T14:51:15.018Z] [BOT] 📍 [ROUTING] "Embedded Linux Software Engineer" @ verkada
+[2026-02-07T14:51:15.019Z] [BOT] Category: TECH (matched: "software")
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-07T14:51:15.019Z] [BOT] 🔢 Initialized channel CH_44b6ec5f counter at 831 (active: 831, archive: 0)
+[2026-02-07T14:51:15.457Z] [BOT] ✅ Posted message: Embedded Linux Software Engineer @ verkada in #💻・tech-jobs
+  ✅ Industry: Embedded Linux Software Engineer @ verkada
+[2026-02-07T14:51:15.458Z] [BOT] 💾 Added channel posting: Embedded Linux Software Engineer @ verkada → category channel (1 total channels)
+[2026-02-07T14:51:15.458Z] [BOT] 💾 BEFORE MERGE: 1372 jobs in memory (cached)
+[2026-02-07T14:51:15.486Z] [BOT] ✅ Loaded V2 database: 1371 jobs
+💾 DISK STATE: 1371 jobs on disk
+[2026-02-07T14:51:15.487Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1372
+[2026-02-07T14:51:15.489Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+[2026-02-07T14:51:15.490Z] [BOT] 💾 AFTER MERGE: 1372 jobs (merged disk + memory)
+[2026-02-07T14:51:15.490Z] [BOT] ✅ No jobs to archive (all 1372 jobs within 7-day window)
+[2026-02-07T14:51:15.556Z] [BOT] 💾 Saved posted_jobs.json: 1372 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-07T14:51:17.060Z] [BOT] 📍 [ROUTING] "Head of Duolingo Store, Consumer Products" @ duolingo
+[2026-02-07T14:51:17.060Z] [BOT] Category: TECH (default)
+   Channel: 💻・tech-jobs (1462...4987)
+[2026-02-07T14:51:17.286Z] [BOT] ✅ Posted message: Head of Duolingo Store, Consumer Products @ duolingo in #💻・tech-jobs
+[2026-02-07T14:51:17.286Z] [BOT] ✅ Industry: Head of Duolingo Store, Consumer Products @ duolingo
+[2026-02-07T14:51:17.287Z] [BOT] 💾 Added channel posting: Head of Duolingo Store, Consumer Products @ duolingo → category channel (1 total channels)
+[2026-02-07T14:51:17.287Z] [BOT] 💾 BEFORE MERGE: 1373 jobs in memory (cached)
+[2026-02-07T14:51:17.318Z] [BOT] ✅ Loaded V2 database: 1372 jobs
+💾 DISK STATE: 1372 jobs on disk
+[2026-02-07T14:51:17.319Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1373
+[2026-02-07T14:51:17.322Z] [BOT] 💾 MERGE STATS: 1 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 1373 jobs (merged disk + memory)
+[2026-02-07T14:51:17.323Z] [BOT] ✅ No jobs to archive (all 1373 jobs within 7-day window)
+[2026-02-07T14:51:17.401Z] [BOT] 💾 Saved posted_jobs.json: 1373 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-07T14:51:18.901Z] [BOT] 🔢 Initialized channel CH_4b72af5c counter at 302 (active: 302, archive: 0)
+[2026-02-07T14:51:19.115Z] [BOT] ✅ Posted message: Head of Duolingo Store, Consumer Products @ duolingo in #📍・JID_6daed763
+  ✅ Location: 📍・JID_6daed763
+[2026-02-07T14:51:19.116Z] [BOT] 💾 Added channel posting: Head of Duolingo Store, Consumer Products @ duolingo → location channel (2 total channels)
+[2026-02-07T14:51:19.116Z] [BOT] 💾 BEFORE MERGE: 1373 jobs in memory (cached)
+[2026-02-07T14:51:19.145Z] [BOT] ✅ Loaded V2 database: 1373 jobs
+💾 DISK STATE: 1373 jobs on disk
+[2026-02-07T14:51:19.145Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1373
+[2026-02-07T14:51:19.148Z] [BOT] 🔀 Deep merged: Head of Duolingo Store, Consumer Products @ duolingo (disk: 1 channels → merged: 2 channels)
+💾 MERGE STATS: 0 new, 0 updated, 1 deep-merged, 0 skipped
+[2026-02-07T14:51:19.148Z] [BOT] 💾 AFTER MERGE: 1373 jobs (merged disk + memory)
+[2026-02-07T14:51:19.149Z] [BOT] ✅ No jobs to archive (all 1373 jobs within 7-day window)
+[2026-02-07T14:51:19.212Z] [BOT] 💾 Saved posted_jobs.json: 1373 active jobs
+✅ Verified: Database file matches in-memory state
+[2026-02-07T14:51:23.715Z] [BOT] 🎉 Posting complete! Successfully posted: 5, Failed: 0
+[2026-02-07T14:51:23.716Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_fbd9d010..." not found, but found as SHA256 "cac405334264f755"
+[2026-02-07T14:51:23.716Z] [BOT] ⏭️  Skipping duplicate: JID_9614429e (posted within 7 days)
+[2026-02-07T14:51:23.717Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_da41ab0c..." not found, but found as SHA256 "d2313aca0398e4c2"
+[2026-02-07T14:51:23.717Z] [BOT] ⏭️  Skipping duplicate: JID_81577bfd (posted within 7 days)
+[2026-02-07T14:51:23.717Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_f0a6e8f9..." not found, but found as SHA256 "1dfc153a315531a7"
+[2026-02-07T14:51:23.717Z] [BOT] ⏭️  Skipping duplicate: JID_4f90521a (posted within 7 days)
+[2026-02-07T14:51:23.717Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_3cf5b472..." not found, but found as SHA256 "94bf609cf045c0a1"
+[2026-02-07T14:51:23.717Z] [BOT] ⏭️  Skipping duplicate: JID_3cf5b472 (posted within 7 days)
+[2026-02-07T14:51:23.718Z] [BOT] 🔧 ID mismatch detected: URL-based "JID_fbd9d010..." not found, but found as SHA256 "0445586edc5f6618"
+[2026-02-07T14:51:23.718Z] [BOT] ⏭️  Skipping duplicate: JID_748f5889 (posted within 7 days)
+[2026-02-07T14:51:23.747Z] [BOT] ✅ Loaded pending queue: 362 total (355 pending, 7 enriched, 0 posted)
+[2026-02-07T14:51:23.783Z] [BOT] ✅ Saved pending queue: 362 total (355 pending, 2 enriched, 5 posted)
+📋 Updated queue: marked 5 jobs as posted
+✅ All posting operations complete, cleaning up...
+[2026-02-07T14:51:23.906Z] [BOT] 📂 Loaded 12626 existing routing entries
+[2026-02-07T14:51:24.025Z] [BOT] 🔐 Encrypted routing log saved: /home/runner/work/New-Grad-Jobs-2026/New-Grad-Jobs-2026/.github/audit/routing-encrypted.json
+   New entries: 5
+   Total entries: 12631
+   Timestamp: 2026-02-07T14:51:23.979Z
+[2026-02-07T14:51:24.026Z] [BOT] 📝 Discord posting log saved: .github/logs/JID_303ba7bc.jsonl
+[2026-02-07T14:51:24.026Z] [BOT] Total attempts: 51
+   Successful: 6
    Failed: 0
-   Skipped: 49
-[2026-02-07T14:33:52.263Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
-[2026-02-07T14:33:52.263Z] [BOT] Last cleanup: Never
-   Total posts: 2
-   Channels used: 2
+   Skipped: 45
+[2026-02-07T14:51:24.026Z] [BOT] 📊 CHANNEL STATS SINCE LAST CLEANUP:
+   Last cleanup: Never
+   Total posts: 6
+[2026-02-07T14:51:24.026Z] [BOT] Channels used: 3
    Top channels:
-     1. #🤖・ai-jobs: 1 posts
-     2. #🌉・JID_739bbc0b: 1 posts
-[2026-02-07T14:33:52.264Z] [BOT] [STATS] Channel stats saved
-[2026-02-07T14:33:52.264Z] [BOT] 💾 Saving posted jobs database...
-💾 BEFORE MERGE: 1378 jobs in memory (cached)
-[2026-02-07T14:33:52.284Z] [BOT] ✅ Loaded V2 database: 1378 jobs
-💾 DISK STATE: 1378 jobs on disk
-[2026-02-07T14:33:52.284Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1378
-[2026-02-07T14:33:52.287Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
-[2026-02-07T14:33:52.287Z] [BOT] 💾 AFTER MERGE: 1378 jobs (merged disk + memory)
-[2026-02-07T14:33:52.288Z] [BOT] ✅ No jobs to archive (all 1378 jobs within 7-day window)
-[2026-02-07T14:33:52.345Z] [BOT] 💾 Saved posted_jobs.json: 1378 active jobs
+     1. #💰・finance-jobs: 3 posts
+     2. #💻・tech-jobs: 2 posts
+     3. #📍・JID_6daed763: 1 posts
+[2026-02-07T14:51:24.026Z] [BOT] [STATS] Channel stats saved
+[2026-02-07T14:51:24.026Z] [BOT] 💾 Saving posted jobs database...
+💾 BEFORE MERGE: 1373 jobs in memory (cached)
+[2026-02-07T14:51:24.054Z] [BOT] ✅ Loaded V2 database: 1373 jobs
+💾 DISK STATE: 1373 jobs on disk
+[2026-02-07T14:51:24.055Z] [BOT] 💾 DEBUG: Iterating cached memory jobs - length=1373
+[2026-02-07T14:51:24.058Z] [BOT] 💾 MERGE STATS: 0 new, 0 updated, 0 deep-merged, 0 skipped
+💾 AFTER MERGE: 1373 jobs (merged disk + memory)
+[2026-02-07T14:51:24.060Z] [BOT] ✅ No jobs to archive (all 1373 jobs within 7-day window)
+[2026-02-07T14:51:24.142Z] [BOT] 💾 Saved posted_jobs.json: 1373 active jobs
 ✅ Verified: Database file matches in-memory state
-[2026-02-07T14:33:52.345Z] [BOT] ✅ Database saved successfully
-[2026-02-07T14:33:54.368Z] 
+✅ Database saved successfully
+[2026-02-07T14:51:26.158Z] 
 ========================================
 ```
 ## Errors Detected
 - DISCORD_CLIENT_ID: ❌ Not set
 - DISCORD_GUILD_ID: ❌ Not set
 - [BOT ERROR] ⚠️ DISCORD_GUILD_ID not set
-- [BOT ERROR] (node:2516) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+- [BOT ERROR] (node:2867) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
 ---
 *Log sanitized for repository commit. Full logs available as GitHub Actions artifacts.*
