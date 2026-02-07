@@ -1,0 +1,27 @@
+{
+  "software_engineering": {
+    "title": "Software Engineering",
+    "emoji": "💻",
+    "keywords": ["software engineer", "software engineering", "software development", "software developer", "swe"]
+  },
+  "machine_learning_ai": {
+    "title": "Machine Learning & AI",
+    "emoji": "🤖",
+    "keywords": ["machine learning", "ml engineer", "ai engineer", "artificial intelligence", "deep learning", "computer vision", "nlp"]
+  },
+  "data_science_analytics": {
+    "title": "Data Science & Analytics",
+    "emoji": "📊",
+    "keywords": ["data science", "data scientist", "data analyst", "analytics", "business analyst", "statistician"]
+  },
+  "devops_infrastructure": {
+    "title": "DevOps & Infrastructure",
+    "emoji": "🔧",
+    "keywords": ["devops", "sre", "site reliability", "infrastructure", "cloud engineer", "platform engineer"]
+  },
+  "full_stack_frontend": {
+    "title": "Full Stack & Frontend",
+    "emoji": "🌐",
+    "keywords": ["full stack", "fullstack", "frontend", "front-end", "front end", "web developer", "react developer"]
+  }
+}
