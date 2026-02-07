@@ -17,8 +17,8 @@ const newJobsPath = path.join(dataDir, 'new_jobs.json');
 const postedJobsPath = path.join(dataDir, 'posted_jobs.json');
 const outputPath = path.join(dataDir, 'current_jobs.json');
 
-// Active window: 30 days (increased from 14 to capture more jobs)
-const ACTIVE_WINDOW_DAYS = 30;
+// Active window: 14 days (matches posted_jobs database retention)
+const ACTIVE_WINDOW_DAYS = 14;
 const ACTIVE_WINDOW_MS = ACTIVE_WINDOW_DAYS * 24 * 60 * 60 * 1000;
 
 /**
