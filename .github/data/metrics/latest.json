@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-07T11:47:11.100Z",
+  "generated": "2026-02-07T12:01:04.558Z",
   "period": "last_7_days",
-  "period_start": "2026-01-31T11:47:11.100Z",
-  "period_end": "2026-02-07T11:47:11.100Z",
+  "period_start": "2026-01-31T12:01:04.558Z",
+  "period_end": "2026-02-07T12:01:04.558Z",
   "summary": {
-    "total_jobs_posted": 2373,
-    "unique_jobs": 1456,
-    "multi_channel_postings": 1834,
-    "unique_multi_channel_jobs": 917,
+    "total_jobs_posted": 2362,
+    "unique_jobs": 1447,
+    "multi_channel_postings": 1830,
+    "unique_multi_channel_jobs": 915,
     "failed_postings": 0,
     "filtered_jobs": 49,
     "channels_active": 5
@@ -15,17 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 1271,
+      "count": 1262,
       "jobs": [
-        "9955b7635a89ed98",
-        "ed7a34cc543214c6",
-        "f9640f69ea678634",
-        "5f5b6a2b162e17b7",
-        "57ff654270539c69",
-        "29c3eec16f38ab3a",
-        "a4ccc2a05f920102",
-        "9b6665d651a96307",
-        "568ae2adf35eed48",
         "546292a4de27f586",
         "b8a1437e3a3af24a",
         "965069123a36b112",
@@ -1354,11 +1345,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988831530680422",
-      "count": 456,
+      "count": 454,
       "jobs": [
-        "9955b7635a89ed98",
-        "29c3eec16f38ab3a",
-        "9b6665d651a96307",
         "a111f649dd6fa394",
         "5921db34d8d80c8e",
         "562454cec2b487f7",
@@ -1811,15 +1799,10 @@
         "1f6ee511bbfd1973",
         "08ddb222c02dbd17",
         "314049a8e23f1f63",
-        "c8e68582831dc93b"
+        "c8e68582831dc93b",
+        "8eec4559ef5cb6bd"
       ],
       "recent_jobs": [
-        {
-          "id": "21f4ee4aa0b3f0cb",
-          "title": "Account Executive, Mid Market",
-          "company": "brex",
-          "posted_at": "2026-02-06T23:15:38.452Z"
-        },
         {
           "id": "6c33e77ad3080836",
           "title": "Business Systems Analyst ",
@@ -1873,6 +1856,12 @@
           "title": "Enterprise Account Executive",
           "company": "brex",
           "posted_at": "2026-02-07T11:47:01.205Z"
+        },
+        {
+          "id": "8eec4559ef5cb6bd",
+          "title": "Enterprise Account Executive",
+          "company": "brex",
+          "posted_at": "2026-02-07T12:00:54.280Z"
         }
       ]
     },
@@ -1880,7 +1869,6 @@
       "channel_id": "1462988721828794531",
       "count": 185,
       "jobs": [
-        "654fdeba61896a16",
         "be622f6ec29e0704",
         "acfc006c2104f94b",
         "baaef47f3bdcb26f",
@@ -2064,15 +2052,10 @@
         "21f4ee4aa0b3f0cb",
         "6c33e77ad3080836",
         "86875f6c9df11009",
-        "c8e68582831dc93b"
+        "c8e68582831dc93b",
+        "8eec4559ef5cb6bd"
       ],
       "recent_jobs": [
-        {
-          "id": "d02d168e74876b22",
-          "title": "Legal Counsel",
-          "company": "figma",
-          "posted_at": "2026-02-06T20:23:01.407Z"
-        },
         {
           "id": "9875365c117ce1fb",
           "title": "Internships in Data Science, Math, Statistics or Operations Research",
@@ -2126,6 +2109,12 @@
           "title": "Enterprise Account Executive",
           "company": "brex",
           "posted_at": "2026-02-07T11:47:01.205Z"
+        },
+        {
+          "id": "8eec4559ef5cb6bd",
+          "title": "Enterprise Account Executive",
+          "company": "brex",
+          "posted_at": "2026-02-07T12:00:54.280Z"
         }
       ]
     },
@@ -2729,36 +2718,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "9955b7635a89ed98",
-      "company": "Loft",
-      "title": "Analyst – Customer Insights",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-01-31T11:57:24.414Z"
-    },
-    {
-      "job_id": "29c3eec16f38ab3a",
-      "company": "retool",
-      "title": "Enterprise Support Engineer, AMER",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-01-31T11:57:43.059Z"
-    },
-    {
-      "job_id": "9b6665d651a96307",
-      "company": "spotify",
-      "title": "Mixed Methods Researcher - Music Mission",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-01-31T11:57:48.724Z"
-    },
-    {
       "job_id": "a111f649dd6fa394",
       "company": "Corning",
       "title": "Research Technician",
@@ -3227,339 +3186,369 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T00:00:48.230Z"
+    },
+    {
+      "job_id": "2d9ad150af9c343e",
+      "company": "Shopify",
+      "title": "Demo Engineer, Software Development",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T00:00:53.670Z"
+    },
+    {
+      "job_id": "e6ce64f3505e9353",
+      "company": "Veeva Systems",
+      "title": "Marketing Analytics - Data Analyst - Adp",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T00:01:04.290Z"
+    },
+    {
+      "job_id": "bd12b404b8d31b88",
+      "company": "Silna Health",
+      "title": "AI Deployment Analyst",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T00:29:41.280Z"
     }
   ],
   "failures": [],
   "filtered": {
     "blacklisted": [
       {
-        "job_id": "careers-datadoghq-com-detail-7583221",
-        "title": "Manager, Sales Development - Boston",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4980335008",
+        "title": "GRC Automation Lead ",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5106263008",
+        "title": "Senior Manager, Tax Operations, Provision, and Compliance",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8343795002",
+        "title": "Senior Data Scientist, Analytics - GTM Ads",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8328567002",
+        "title": "Senior Director, Corporate Development",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8103520002",
+        "title": "Senior Director, Internal Audit",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8335879002",
+        "title": "Senior Financial Analyst",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8316122002",
+        "title": "Senior Financial Reporting and Technical Accountant",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8346194002",
+        "title": "Senior Privacy Counsel",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8332358002",
+        "title": "Senior Product Manager, Commerce",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8323992002",
+        "title": "Senior Product Marketing Manager, Nitro",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8332350002",
+        "title": "Senior Program Manager, Product & Platform Compliance",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8387399002",
+        "title": "Senior Security GRC Manager",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8332382002",
+        "title": "Senior Security Software Engineer, Detection and Response",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8397423002",
+        "title": "Senior Software Engineer, Consumer Revenue",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8200328002",
+        "title": "Senior Software Engineer- Database Infrastructure",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8112880002",
+        "title": "Senior Software Engineer, Data Platform",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8369339002",
+        "title": "Senior Software Engineer, Machine Learning (Safety)",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8245138002",
+        "title": "Senior Software Engineer, Mobile Architecture",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8352070002",
+        "title": "Senior Software Engineer - Notifications",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8136321002",
+        "title": "Senior Software Engineer - Platform Infrastructure",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8348129002",
+        "title": "Senior Software Engineer, Platform Security",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8377133002",
+        "title": "Senior Software Engineer - Safety Experience",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.984Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8377248002",
+        "title": "Senior Software Engineer - Safety Processing",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8362697002",
+        "title": "Senior Software Engineer - SEO",
+        "company": "discord",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5113013008",
+        "title": "Communications Manager, Enterprise ",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4648144007",
+        "title": "Senior Channel Marketing Manager, Northeast (Remote)",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4961007008",
+        "title": "Product Lead, Healthcare",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-reddit-jobs-7594349",
+        "title": "Client Account Manager, Mid-Market (Agency Acquisitions)",
+        "company": "reddit",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7583449",
+        "title": "Senior Product Manager - Product Analytics",
         "company": "datadog",
         "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
+        "timestamp": "2026-02-07T12:00:53.985Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5107356008",
-        "title": "Staff Software Engineer, Continuous Integration ",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8364479002",
-        "title": "Data Engineering Manager",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8407814002",
+        "title": "Senior Manager, Ads, Revenue & Commerce Policy",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
+        "timestamp": "2026-02-07T12:00:53.985Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8174001002",
-        "title": "Data Science Manager, Safety",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8250803002",
-        "title": "Director, Account Management",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8210945002",
-        "title": "Director of Data and Analytics Engineering",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8187999002",
-        "title": "Director of Engineering, Developer Ecosystem",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8393377002",
-        "title": "Director of Engineering, Security Operations",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8378479002",
-        "title": "Director, Safety Policy",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8101770002",
-        "title": "Engineering Manager, Ads Formats",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8161010002",
-        "title": "Engineering Manager, Engagement",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8369113002",
-        "title": "Finance Manager, Business Operations",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8338009002",
-        "title": "Group Product Marketing Manager, Developer Commerce Solutions",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8321982002",
-        "title": "Manager, Global Accounts Receivable",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8400845002",
-        "title": "Principal Software Engineer - Infrastructure",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-7966411002",
-        "title": "Rust/C++ Senior Software Engineer",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.905Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8401063002",
-        "title": "Sales Operations Manager",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8396701002",
-        "title": "Senior Data Engineer - Ads ",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8371252002",
-        "title": "Senior Data Engineer, Analytics",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8308138002",
-        "title": "Senior Data Scientist, Analytics",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4931858008",
-        "title": "Director, Finance Strategic Initiatives",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-vercel-jobs-5766211004",
-        "title": "Director of Strategic Finance, Product",
-        "company": "vercel",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "www-samsara-com-company-careers-roles-7487344",
-        "title": "Manager I, Customer Success",
-        "company": "samsara",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4979661008",
-        "title": "Policy Communications Manager",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8409276002",
-        "title": "Copy of Senior Manager, Enterprise Customer Success",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8408803002",
-        "title": "Senior Manager, Enterprise Customer Success",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8409265002",
-        "title": "Senior Manager, Enterprise Customer Success",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "www-brex-com-careers-8409267002",
-        "title": "Senior Manager, Enterprise Customer Success",
-        "company": "brex",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8381876002",
-        "title": "Workplace Operations Program Manager",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5112640008",
-        "title": "TPM Manager, Compute & Infrastructure",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7594627",
-        "title": "Manager II, Engineering - AI Platform Training, Serving and Storage (NorAm)",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "careers-datadoghq-com-detail-7594556",
-        "title": "Senior Product Manager - AAA/Telemetry Optimization",
-        "company": "datadog",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "www-samsara-com-company-careers-roles-7274312",
-        "title": "Senior Hardware Systems Engineer",
-        "company": "samsara",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-cloudflare-jobs-7514944",
-        "title": "Senior Security Compliance Specialist (DoD)",
-        "company": "cloudflare",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5100613008",
-        "title": "Marketing Events Content Manager",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5100274008",
-        "title": "Marketing Events Lead, Enterprise",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8401077002",
-        "title": "Manager, Product Design - Engagement",
-        "company": "discord",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-4978920008",
-        "title": "Senior Accounts Payable Specialist",
-        "company": "anthropic",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.906Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4872410007",
-        "title": "Communications Manager",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-5035168007",
-        "title": "Enterprise Sales Enablement Manager",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4950450007",
-        "title": "National Channel Sales Manager, Convergint (East)",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-verkada-jobs-4950449007",
-        "title": "National Channel Sales Manager, Convergint (East)",
-        "company": "verkada",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
-      },
-      {
-        "job_id": "boards-greenhouse-io-figma-jobs-5787289004",
-        "title": "Director, Sales - Figma Weave (New York, United States)",
+        "job_id": "boards-greenhouse-io-figma-jobs-5792497004",
+        "title": "Program Manager, Real Estate & Facilities ",
         "company": "figma",
         "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
+        "timestamp": "2026-02-07T12:00:53.985Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5108854008",
-        "title": "Technical Program Manager, Marketing Technology",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5082402008",
+        "title": "Global Partner Sales Manager - Systems Integrators",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
+        "timestamp": "2026-02-07T12:00:53.985Z"
       },
       {
-        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5108644008",
-        "title": "Technical Program Manager, Reliability Engineering",
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5058714008",
+        "title": "Engineering Manager, UI Platform",
         "company": "anthropic",
         "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
+        "timestamp": "2026-02-07T12:00:53.985Z"
       },
       {
-        "job_id": "jobs-ashbyhq-com-supabase-2ab81e46-2e46-4120-938c-429b9f4aa7a7",
-        "title": "Field Marketing Manager ",
-        "company": "supabase",
-        "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
-      },
-      {
-        "job_id": "job-boards-greenhouse-io-discord-jobs-8177757002",
-        "title": "Senior Software Engineer, Ads",
+        "job_id": "job-boards-greenhouse-io-discord-jobs-8350416002",
+        "title": "Senior Manager, Stock Administration",
         "company": "discord",
         "reason": "blacklisted",
-        "timestamp": "2026-02-07T11:47:00.907Z"
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8405007002",
+        "title": "Manager, Banking Specialists",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "www-brex-com-careers-8404999002",
+        "title": "Manager, Banking Specialists",
+        "company": "brex",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-anthropic-jobs-5111783008",
+        "title": "Technical Program Manager, Infrastructure",
+        "company": "anthropic",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "careers-datadoghq-com-detail-7555537",
+        "title": "Senior Product Manager - Custom Metrics",
+        "company": "datadog",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4945720007",
+        "title": "National Channel Sales Manager, Convergint (East)",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4824487007",
+        "title": "National Channel Sales Manager, Midwest",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4387668007",
+        "title": "Regional Sales Manager, Mid-Market",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-5025464007",
+        "title": "Regional Sales Manager, Mid-Market, Austin",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4964446007",
+        "title": "Sales Strategy and Operations Division Lead",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-5018825007",
+        "title": "Senior Field Marketing Manager (Enterprise SLED East)",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4583696007",
+        "title": "Senior Field Marketing Manager (Federal / State)",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4949027007",
+        "title": "Senior Project Engineer, Global Services",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
+      },
+      {
+        "job_id": "job-boards-greenhouse-io-verkada-jobs-4985491007",
+        "title": "Senior Project Engineer, Global Services",
+        "company": "verkada",
+        "reason": "blacklisted",
+        "timestamp": "2026-02-07T12:00:53.985Z"
       }
     ],
     "already_posted": [],
@@ -3570,14 +3559,14 @@
         "title": "Enterprise Account Executive, State & Local Sales",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-07T11:47:00.892Z"
+        "timestamp": "2026-02-07T12:00:53.972Z"
       },
       {
         "job_id": "job-boards-greenhouse-io-anthropic-jobs-5103094008",
         "title": "IP Legal Specialist",
         "company": "anthropic",
         "reason": "already_posted",
-        "timestamp": "2026-02-07T11:47:00.893Z"
+        "timestamp": "2026-02-07T12:00:53.972Z"
       }
     ]
   }
