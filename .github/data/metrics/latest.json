@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T14:42:56.912Z",
+  "generated": "2026-02-08T14:56:15.319Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T14:42:56.912Z",
-  "period_end": "2026-02-08T14:42:56.912Z",
+  "period_start": "2026-02-01T14:56:15.319Z",
+  "period_end": "2026-02-08T14:56:15.319Z",
   "summary": {
-    "total_jobs_posted": 1212,
-    "unique_jobs": 663,
-    "multi_channel_postings": 1098,
-    "unique_multi_channel_jobs": 549,
+    "total_jobs_posted": 1194,
+    "unique_jobs": 653,
+    "multi_channel_postings": 1082,
+    "unique_multi_channel_jobs": 541,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,14 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 542,
+      "count": 536,
       "jobs": [
-        "8284ccf76d242985",
-        "89f6946ef1d8fe10",
-        "db2c220827bcef5c",
-        "0e4f28a93e0059d4",
-        "f2db20563111cf3d",
-        "0f08ad90023b7e6a",
         "cb0a7bf16287f79c",
         "5f89f14e97ca818a",
         "9853e4391ec1aeb3",
@@ -625,13 +619,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 222,
+      "count": 217,
       "jobs": [
-        "8284ccf76d242985",
-        "0e4f28a93e0059d4",
-        "0f08ad90023b7e6a",
-        "ca3325ec87d3509d",
-        "468b878c271ef832",
         "cb0a7bf16287f79c",
         "9853e4391ec1aeb3",
         "af1cedc9feca62a7",
@@ -915,11 +904,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 276,
+      "count": 273,
       "jobs": [
-        "89f6946ef1d8fe10",
-        "db2c220827bcef5c",
-        "dce8400d39561314",
         "5f89f14e97ca818a",
         "6d080e6c98664d6a",
         "b0ca0804d4bfd790",
@@ -1258,13 +1244,9 @@
       ]
     },
     "channel-14629887": {
-      "channel_id": "1462988721828794531",
-      "count": 121,
+      "channel_id": "1462988755156734023",
+      "count": 117,
       "jobs": [
-        "fe1b836d5bde0c12",
-        "ca3325ec87d3509d",
-        "468b878c271ef832",
-        "dce8400d39561314",
         "7d251fbc36cfff78",
         "f69a06733e66b2c6",
         "aa0747ea8347bcc6",
@@ -1567,86 +1549,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "8284ccf76d242985",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:51:19.176Z"
-    },
-    {
-      "job_id": "89f6946ef1d8fe10",
-      "company": "Salesforce",
-      "title": "Software Engineering AMTS – New Grad",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T14:51:22.966Z"
-    },
-    {
-      "job_id": "db2c220827bcef5c",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate - Developer Infra - BS/MS",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T14:51:26.790Z"
-    },
-    {
-      "job_id": "0e4f28a93e0059d4",
-      "company": "Artech Information System",
-      "title": "Java Developer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:51:30.666Z"
-    },
-    {
-      "job_id": "0f08ad90023b7e6a",
-      "company": "SS&C",
-      "title": "Junior AI-Assisted Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:51:36.487Z"
-    },
-    {
-      "job_id": "ca3325ec87d3509d",
-      "company": "Artech Information System",
-      "title": ".Net Developer",
-      "channels": [
-        "channel-14629887",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:51:45.268Z"
-    },
-    {
-      "job_id": "468b878c271ef832",
-      "company": "Prosidian Consulting",
-      "title": "PPM Data Scientist/Statistician 1",
-      "channels": [
-        "channel-14629887",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:51:49.039Z"
-    },
-    {
-      "job_id": "dce8400d39561314",
-      "company": "360 IT Professionals",
-      "title": "Entry Level Business/Data Analyst",
-      "channels": [
-        "channel-14629887",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T14:51:52.894Z"
-    },
     {
       "job_id": "cb0a7bf16287f79c",
       "company": "AG Technologies",
@@ -2066,6 +1968,86 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T15:47:34.453Z"
+    },
+    {
+      "job_id": "24848808030cc4e8",
+      "company": "TikTok",
+      "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T15:47:38.137Z"
+    },
+    {
+      "job_id": "c744ed8bbf7078d8",
+      "company": "TikTok",
+      "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start - PhD",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T15:47:41.980Z"
+    },
+    {
+      "job_id": "6ed68d57896d1bfd",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Monetization Technology - GenAI",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:47:45.801Z"
+    },
+    {
+      "job_id": "193baf77c2b7c311",
+      "company": "TikTok",
+      "title": "Graduate Engineer - Machine Learning - Data-Search-Tiktok Recommendation",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:47:49.637Z"
+    },
+    {
+      "job_id": "aa0747ea8347bcc6",
+      "company": "TikTok",
+      "title": "Graduate Data Engineer - Data Platfrom TikTok BP - BS/MS",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:47:57.047Z"
+    },
+    {
+      "job_id": "77ed8ff980947cfd",
+      "company": "TikTok",
+      "title": "Graduate Research Scientist - Monetization GenAI",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T16:00:10.362Z"
+    },
+    {
+      "job_id": "a14c6524c6607738",
+      "company": "Boston Scientific",
+      "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T16:00:14.378Z"
+    },
+    {
+      "job_id": "ac6fcdde605c5928",
+      "company": "TikTok",
+      "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T16:00:18.224Z"
     }
   ],
   "failures": [],
