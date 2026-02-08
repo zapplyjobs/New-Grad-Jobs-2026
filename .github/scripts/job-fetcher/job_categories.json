@@ -63,7 +63,10 @@
       "database administrator",
       "system administrator",
       "it operations",
-      "operations specialist"
+      "operations specialist",
+      "devops engineer",
+      "site reliability engineer",
+      "infrastructure engineer"
     ]
   },
   "product_design": {
@@ -111,10 +114,18 @@
       "hr",
       "human resources",
       "recruiter",
+      "talent acquisition",
+      "hr coordinator",
+      "hr specialist",
       "operations",
       "logistics",
       "supply chain",
       "marketing",
+      "marketing manager",
+      "marketing coordinator",
+      "content creator",
+      "content writer",
+      "social media",
       "communications",
       "legal",
       "lawyer",
@@ -125,7 +136,9 @@
       "accounting",
       "financial analyst",
       "enterprise account",
-      "account executive"
+      "account executive",
+      "sales executive",
+      "business analyst"
     ],
     "specialized_repos": {
       "hardware": "https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026",
