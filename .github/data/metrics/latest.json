@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T18:08:23.772Z",
+  "generated": "2026-02-08T18:26:12.007Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T18:08:23.772Z",
-  "period_end": "2026-02-08T18:08:23.772Z",
+  "period_start": "2026-02-01T18:26:12.007Z",
+  "period_end": "2026-02-08T18:26:12.007Z",
   "summary": {
-    "total_jobs_posted": 881,
-    "unique_jobs": 493,
-    "multi_channel_postings": 776,
-    "unique_multi_channel_jobs": 388,
+    "total_jobs_posted": 851,
+    "unique_jobs": 473,
+    "multi_channel_postings": 756,
+    "unique_multi_channel_jobs": 378,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,28 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 383,
+      "count": 363,
       "jobs": [
-        "50ecdf9a7757b5a2",
-        "690db82e824225de",
-        "1f765e34b627da42",
-        "aabb1679ef1cf97a",
-        "54ece3ee0616feb5",
-        "2e245511a8d553e4",
-        "b01a70cfdd117d74",
-        "c6870a60a57d7f8a",
-        "ddb4e7bd012d2522",
-        "d7623c2902728d44",
-        "24fb72b6b2501f37",
-        "d72ed631259ed94a",
-        "2563f611477a8838",
-        "c62ddf89133301a5",
-        "1895320a84f39c7e",
-        "c1c10c9ea78f037f",
-        "1474544508869130",
-        "c4ff08987404d10d",
-        "7d35099331b7faa5",
-        "f82a2630ec6cdd08",
         "e28f070f88fafc0e",
         "9490c0d961fe7c28",
         "5b1f2215b0f86079",
@@ -465,12 +445,9 @@
       ]
     },
     "channel-14629888": {
-      "channel_id": "1462988831530680422",
-      "count": 196,
+      "channel_id": "1462988811263934464",
+      "count": 193,
       "jobs": [
-        "50ecdf9a7757b5a2",
-        "d7623c2902728d44",
-        "f82a2630ec6cdd08",
         "e28f070f88fafc0e",
         "5b1f2215b0f86079",
         "8e5f896d41279145",
@@ -730,15 +707,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 168,
+      "count": 161,
       "jobs": [
-        "c6870a60a57d7f8a",
-        "24fb72b6b2501f37",
-        "d72ed631259ed94a",
-        "2563f611477a8838",
-        "c62ddf89133301a5",
-        "1895320a84f39c7e",
-        "c4ff08987404d10d",
         "94454dae5db7858d",
         "8a59fac4015f6363",
         "bee55aecfae73abb",
@@ -1237,106 +1207,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "50ecdf9a7757b5a2",
-      "company": "Palantir",
-      "title": "Software Engineer – New Grad - Defense",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:15:14.760Z"
-    },
-    {
-      "job_id": "c6870a60a57d7f8a",
-      "company": "supabase",
-      "title": "Support Engineer (APAC)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:15:30.312Z"
-    },
-    {
-      "job_id": "d7623c2902728d44",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate - Applied Machine Learning - Mldev",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:15:39.335Z"
-    },
-    {
-      "job_id": "24fb72b6b2501f37",
-      "company": "Palantir",
-      "title": "Software Engineer – New Grad - Defense",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:24:53.206Z"
-    },
-    {
-      "job_id": "d72ed631259ed94a",
-      "company": "railway",
-      "title": "Infra Engineer - Datacenters",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:24:57.062Z"
-    },
-    {
-      "job_id": "2563f611477a8838",
-      "company": "supabase",
-      "title": "Support Engineer (AMER)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:25:00.975Z"
-    },
-    {
-      "job_id": "c62ddf89133301a5",
-      "company": "railway",
-      "title": "Developer Relations",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:25:04.782Z"
-    },
-    {
-      "job_id": "1895320a84f39c7e",
-      "company": "supabase",
-      "title": "Customer Solution Architect (US time zones)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:25:08.672Z"
-    },
-    {
-      "job_id": "c4ff08987404d10d",
-      "company": "railway",
-      "title": "Infrastructure Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:25:16.363Z"
-    },
-    {
-      "job_id": "f82a2630ec6cdd08",
-      "company": "anthropic",
-      "title": "Platform Security Engineer, Operating Systems",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:25:22.063Z"
-    },
-    {
       "job_id": "e28f070f88fafc0e",
       "company": "Palantir",
       "title": "Software Engineer – New Grad - Defense",
@@ -1735,6 +1605,106 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-01T19:48:19.619Z"
+    },
+    {
+      "job_id": "83468ee55336f8c8",
+      "company": "Vanguard",
+      "title": "Entry Level Application Engineer - 2026 Start Date",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T19:48:26.396Z"
+    },
+    {
+      "job_id": "7e45254ff34afd86",
+      "company": "Twitch",
+      "title": "Sde 1 – Creator Monetization",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T19:48:30.172Z"
+    },
+    {
+      "job_id": "17821e47766b87f2",
+      "company": "KION Group",
+      "title": "Warehouse Automation Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T19:48:33.880Z"
+    },
+    {
+      "job_id": "83aff107e97b7f05",
+      "company": "Dematic",
+      "title": "Warehouse Automation Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T19:48:37.677Z"
+    },
+    {
+      "job_id": "80961d557582b72a",
+      "company": "Fidelity Investments",
+      "title": "Analyst – Investment Data Management",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T19:48:41.473Z"
+    },
+    {
+      "job_id": "e3cf31cb4ba709d0",
+      "company": "RWS",
+      "title": "AI Data Specialist - Wisconsin - US",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T19:58:27.242Z"
+    },
+    {
+      "job_id": "5e54bf74a13ef5d4",
+      "company": "RWS",
+      "title": "AI Data Specialist - West Virginia - US",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T19:58:30.983Z"
+    },
+    {
+      "job_id": "7deaad990e184756",
+      "company": "Johnson Controls",
+      "title": "Air Handling Unit Application Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T20:08:30.792Z"
+    },
+    {
+      "job_id": "b203d2d5456d7ea1",
+      "company": "anthropic",
+      "title": "Account Executive, Academic Medical Centers - Beneficial Deployments",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T20:08:37.675Z"
+    },
+    {
+      "job_id": "860b70f12c622b3e",
+      "company": "anthropic",
+      "title": "Enterprise Account Executive, State & Local Sales",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T20:18:07.665Z"
     }
   ],
   "failures": [],
