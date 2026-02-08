@@ -1,0 +1,132 @@
+{
+  "test_timestamp": "2026-02-08T05:29:38.037Z",
+  "test_summary": {
+    "total_jobs_in_current_json": 475,
+    "jobs_within_7_days": 350,
+    "jobs_after_senior_filter": 67,
+    "archived_jobs_older_than_7_days": 125
+  },
+  "categorization_results": {
+    "total_categorized": 67,
+    "tracked_in_set": 67,
+    "categories": [
+      {
+        "category": "Software Engineering",
+        "emoji": "💻",
+        "job_count": 40,
+        "keywords_sample": "software engineer, software engineering, software development, software developer, swe"
+      },
+      {
+        "category": "Other Jobs",
+        "emoji": "📂",
+        "job_count": 11,
+        "keywords_sample": "mechanical engineer, electrical engineer, civil engineer, chemical engineer, industrial engineer"
+      },
+      {
+        "category": "Data & AI",
+        "emoji": "🤖",
+        "job_count": 9,
+        "keywords_sample": "machine learning, ml engineer, ai engineer, artificial intelligence, deep learning"
+      },
+      {
+        "category": "DevOps & Infrastructure",
+        "emoji": "🔧",
+        "job_count": 7,
+        "keywords_sample": "devops, sre, site reliability, infrastructure, cloud engineer"
+      },
+      {
+        "category": "Product & Design",
+        "emoji": "🎨",
+        "job_count": 0,
+        "keywords_sample": "product manager, product owner, product analyst, technical product manager, ux designer"
+      }
+    ]
+  },
+  "id_field_analysis": {
+    "jobs_with_ids": 67,
+    "jobs_without_ids": 0,
+    "conclusion": "Jobs without IDs ARE included in README. The Set is for debugging only."
+  },
+  "sample_jobs": [
+    {
+      "title": "Manufacturing Software Engineer",
+      "company": "Emerson Electric",
+      "category": "Software Engineering",
+      "has_id": true
+    },
+    {
+      "title": "iOS Users - Join Project Mavara",
+      "company": "CrowdGen by Appen",
+      "category": "Data & AI",
+      "has_id": true
+    },
+    {
+      "title": "API Engineer (NASA or APAC)",
+      "company": "supabase",
+      "category": "DevOps & Infrastructure",
+      "has_id": true
+    },
+    {
+      "title": "Associate – Software Engineering: Java",
+      "company": "OCC",
+      "category": "Software Engineering",
+      "has_id": true
+    },
+    {
+      "title": "Workplace Generalist",
+      "company": "figma",
+      "category": "Other Jobs",
+      "has_id": true
+    },
+    {
+      "title": "AI Research Engineer, New PhD Graduate",
+      "company": "duolingo",
+      "category": "Software Engineering",
+      "has_id": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "reddit",
+      "category": "Software Engineering",
+      "has_id": true
+    },
+    {
+      "title": "Business Technology AI Engineer IV",
+      "company": "samsara",
+      "category": "Data & AI",
+      "has_id": true
+    },
+    {
+      "title": "Key Accounts Executive",
+      "company": "datadog",
+      "category": "DevOps & Infrastructure",
+      "has_id": true
+    },
+    {
+      "title": "Account Executive, AI Sales",
+      "company": "stripe",
+      "category": "Other Jobs",
+      "has_id": true
+    }
+  ],
+  "methodology_notes": [
+    "README generation uses 7-day age filter",
+    "Senior positions (Senior, Sr., Lead, Principal) are filtered out",
+    "Categorization is keyword-based, not ID-based",
+    "Default category for unmatched jobs: Software Engineering",
+    "The Set.add(job.id) at line 83 is for logging, not filtering"
+  ],
+  "verification": {
+    "deduplication_works_without_ids": true,
+    "categorization_covers_common_titles": true,
+    "jobs_without_ids_are_included": true
+  },
+  "issues_found": [
+    {
+      "type": "data_discrepancy",
+      "description": "README badge shows 128 jobs but test shows 67 jobs",
+      "likely_cause": "README was generated with different dataset or at different time",
+      "recommendation": "Re-run README generation workflow to update"
+    }
+  ]
+}

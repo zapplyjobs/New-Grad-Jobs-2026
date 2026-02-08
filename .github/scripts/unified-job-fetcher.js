@@ -3,20 +3,20 @@
  * Orchestrates job collection from all configured sources
  *
  * Sources (ALL used together):
- * 1. Aggregator (jobs-data-2026) - JSearch jobs via tagged feed
+ * 1. JSearch API (new-grad focused) - 90 jobs/day quota
  * 2. ATS platforms (Greenhouse, Lever, Ashby, Workable) - Company career pages
  * 3. API-based companies (legacy - currently disabled)
  *
- * Feature Flag:
- *   - USE_AGGREGATOR=true: Include aggregator feed (JSearch jobs)
- *   - USE_AGGREGATOR=false: ATS only
+ * Feature Flags:
+ *   - USE_JSEARCH=true: Include JSearch API (90 jobs/day)
+ *   - USE_JSEARCH=false: ATS only
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 const { fetchAllATSJobs } = require('./job-fetcher/sources');
-const { fetchAllJobs: fetchFromAggregator, isAggregatorEnabled } = require('./job-fetcher/aggregator-consumer');
+const { searchJSearchNewGrad } = require('./job-fetcher/jsearch-source');
 
 /**
  * Delay helper for rate limiting
@@ -38,22 +38,21 @@ async function fetchAllJobs() {
   const allJobs = [];
   const sources = [];
 
-  // === Source 1: Aggregator (JSearch jobs) ===
-  const useAggregator = isAggregatorEnabled();
-  console.log(`\n🔧 Feature Flag: USE_AGGREGATOR=${useAggregator ? 'true' : 'false'}`);
+  // === Source 1: JSearch API (90 jobs/day quota) ===
+  const useJSearch = process.env.USE_JSEARCH === 'true' || process.env.USE_JSEARCH === '1';
+  console.log(`\n🔧 Feature Flag: USE_JSEARCH=${useJSearch ? 'true' : 'false'}`);
 
-  if (useAggregator) {
-    console.log('\n📡 Fetching from Aggregator (JSearch)...');
-    console.log('   Source: jobs-data-2026');
-    console.log('   Filter: employment=entry_level, domains=[all]');
+  if (useJSearch) {
+    console.log('\n📡 Fetching from JSearch API...');
+    console.log('   Quota: 90 jobs/day (10 requests × 9 pages)');
 
     try {
-      const aggregatorJobs = await fetchFromAggregator();
-      allJobs.push(...aggregatorJobs);
-      sources.push('Aggregator (JSearch)');
-      console.log(`📊 Aggregator: ${aggregatorJobs.length} jobs`);
+      const jsearchJobs = await searchJSearchNewGrad();
+      allJobs.push(...jsearchJobs);
+      sources.push('JSearch API');
+      console.log(`📊 JSearch: ${jsearchJobs.length} jobs`);
     } catch (error) {
-      console.error(`❌ Aggregator failed:`, error.message);
+      console.error(`❌ JSearch failed:`, error.message);
     }
   }
 
@@ -181,7 +180,5 @@ async function fetchAllJobs() {
 }
 
 module.exports = {
-  fetchAllJobs,
-  fetchFromAggregator,
-  isAggregatorEnabled: isAggregatorEnabled
+  fetchAllJobs
 };

@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-02-07T23:57:25.373Z",
+  "totalJobs": 60,
+  "postedJobs": 60,
+  "unpostedJobs": 0,
+  "postingRate": "100.00",
+  "jobsWithDiscordPosts": 60,
+  "jobsWithZeroChannels": 0,
+  "jobsWithLegacyPost": 0,
+  "jobsNeverProcessed": 0,
+  "channelDistribution": {
+    "1462988605306834987": 27,
+    "1462989324071997504": 6,
+    "1462988721828794531": 3,
+    "1462988811263934464": 10,
+    "1462988662168879217": 11,
+    "1462988755156734023": 19,
+    "1462988831530680422": 2,
+    "1462989305181114450": 7
+  },
+  "companiesAffected": {},
+  "unpostedJobsSample": []
+}
