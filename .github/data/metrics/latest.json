@@ -1,30 +1,22 @@
 {
-  "generated": "2026-02-08T11:08:25.953Z",
+  "generated": "2026-02-08T11:24:11.645Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T11:08:25.953Z",
-  "period_end": "2026-02-08T11:08:25.953Z",
+  "period_start": "2026-02-01T11:24:11.645Z",
+  "period_end": "2026-02-08T11:24:11.645Z",
   "summary": {
-    "total_jobs_posted": 1466,
-    "unique_jobs": 793,
-    "multi_channel_postings": 1346,
-    "unique_multi_channel_jobs": 673,
+    "total_jobs_posted": 1446,
+    "unique_jobs": 783,
+    "multi_channel_postings": 1326,
+    "unique_multi_channel_jobs": 663,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988605306834987",
-      "count": 657,
+      "channel_id": "1462988662168879217",
+      "count": 649,
       "jobs": [
-        "55b0f111979aded0",
-        "be89a2cc9544e248",
-        "cc32f4153f513ceb",
-        "8a81ca2e5730622a",
-        "8bc334a9a8480b65",
-        "6b7c830449d47a5f",
-        "f1bf10235abe743a",
-        "350e29488d6880c0",
         "1428b32f4408b1da",
         "5add7717b31a197a",
         "05a1b2ac0dfe0945",
@@ -740,15 +732,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 277,
+      "count": 270,
       "jobs": [
-        "55b0f111979aded0",
-        "cc32f4153f513ceb",
-        "8a81ca2e5730622a",
-        "8bc334a9a8480b65",
-        "f1bf10235abe743a",
-        "350e29488d6880c0",
-        "5dbe80ef9252fe25",
         "1428b32f4408b1da",
         "bb44f1b987050dc4",
         "32e905a1f28d4f8f",
@@ -1085,9 +1070,8 @@
     },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 64,
+      "count": 63,
       "jobs": [
-        "be89a2cc9544e248",
         "5add7717b31a197a",
         "036ff24e83f0302d",
         "7cf09cd750ba744a",
@@ -1217,10 +1201,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 332,
+      "count": 330,
       "jobs": [
-        "6b7c830449d47a5f",
-        "cfac62d68e09f865",
         "05a1b2ac0dfe0945",
         "ae57f7f6665906aa",
         "34e79f3c16a2ac5c",
@@ -1617,10 +1599,8 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 136,
+      "count": 134,
       "jobs": [
-        "cfac62d68e09f865",
-        "5dbe80ef9252fe25",
         "32e905a1f28d4f8f",
         "c26fae79481f3423",
         "c44384c10096de57",
@@ -1821,106 +1801,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "55b0f111979aded0",
-      "company": "Deutsche Bank",
-      "title": "Deutsche Bank Graduate Programme - Technology - Data and Innovation",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:13:11.313Z"
-    },
-    {
-      "job_id": "be89a2cc9544e248",
-      "company": "Adobe",
-      "title": "2026 University Graduate - Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T11:13:15.009Z"
-    },
-    {
-      "job_id": "cc32f4153f513ceb",
-      "company": "Nodal",
-      "title": "Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:13:18.717Z"
-    },
-    {
-      "job_id": "8a81ca2e5730622a",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Cloud Engineer Graduate",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:13:22.477Z"
-    },
-    {
-      "job_id": "8bc334a9a8480b65",
-      "company": "IXL Learning",
-      "title": "Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:13:26.535Z"
-    },
-    {
-      "job_id": "6b7c830449d47a5f",
-      "company": "interface.ai",
-      "title": "Software Engineer I",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T11:13:30.240Z"
-    },
-    {
-      "job_id": "f1bf10235abe743a",
-      "company": "KLA Corporation",
-      "title": "Software Engineer - E",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:13:36.972Z"
-    },
-    {
-      "job_id": "350e29488d6880c0",
-      "company": "Waystar",
-      "title": "Application Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:13:40.924Z"
-    },
-    {
-      "job_id": "cfac62d68e09f865",
-      "company": "Onto Innovation",
-      "title": "Sales Data Analyst 1",
-      "channels": [
-        "channel-14629887",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T11:13:47.625Z"
-    },
-    {
-      "job_id": "5dbe80ef9252fe25",
-      "company": "GEICO",
-      "title": "Data Scientist I",
-      "channels": [
-        "channel-14629887",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:13:51.340Z"
-    },
     {
       "job_id": "1428b32f4408b1da",
       "company": "Hewlett Packard Enterprise",
@@ -2320,6 +2200,106 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-01T12:15:25.899Z"
+    },
+    {
+      "job_id": "80c6492640a8a050",
+      "company": "TikTok",
+      "title": "Graduate Engineer - Machine Learning Engineer - Local Services Search",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T12:15:29.644Z"
+    },
+    {
+      "job_id": "871754ac9ea10874",
+      "company": "360 IT Professionals",
+      "title": "Entry Level Business/Data Analyst",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T12:15:36.689Z"
+    },
+    {
+      "job_id": "14ec0c1b70867b7f",
+      "company": "Prosidian Consulting",
+      "title": "PPM Data Scientist/Statistician 1 - WA",
+      "channels": [
+        "channel-14629887",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T12:15:40.555Z"
+    },
+    {
+      "job_id": "a01157c6bc8ebec5",
+      "company": "360 IT Professionals",
+      "title": "Data Analyst",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T12:15:44.473Z"
+    },
+    {
+      "job_id": "761c73dd161fe413",
+      "company": "360 IT Professionals",
+      "title": "Data Security Analyst - Cisco Certified - Linux",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T12:15:51.337Z"
+    },
+    {
+      "job_id": "50f27332076adff9",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Iaas AI Infra - 2026 Start PhD",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T12:15:54.982Z"
+    },
+    {
+      "job_id": "bd9da85c4ff7b7fd",
+      "company": "360 IT Professionals",
+      "title": "Salesforce BA",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T12:15:58.912Z"
+    },
+    {
+      "job_id": "8d83c8c77631ba72",
+      "company": "Prosidian Consulting",
+      "title": "Analyst 2 - Technical Analysis",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T12:16:05.620Z"
+    },
+    {
+      "job_id": "eec77954bddfab32",
+      "company": "Prosidian Consulting",
+      "title": "Geospatial Analyst 2",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T12:33:27.229Z"
+    },
+    {
+      "job_id": "5aa17b9a8f1fb3ad",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - AI Infra Compute - 2026 Start-PhD",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T12:33:34.212Z"
     }
   ],
   "failures": [],
