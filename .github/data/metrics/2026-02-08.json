@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T13:19:22.512Z",
+  "generated": "2026-02-08T13:46:52.226Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T13:19:22.512Z",
-  "period_end": "2026-02-08T13:19:22.512Z",
+  "period_start": "2026-02-01T13:46:52.226Z",
+  "period_end": "2026-02-08T13:46:52.226Z",
   "summary": {
-    "total_jobs_posted": 1309,
-    "unique_jobs": 713,
-    "multi_channel_postings": 1192,
-    "unique_multi_channel_jobs": 596,
+    "total_jobs_posted": 1289,
+    "unique_jobs": 703,
+    "multi_channel_postings": 1172,
+    "unique_multi_channel_jobs": 586,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,18 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 587,
+      "count": 577,
       "jobs": [
-        "f06146c7dbdec198",
-        "adc582f16c1651f9",
-        "733678369ef80434",
-        "d4dede0c2d90b80d",
-        "8768c32b84d5088b",
-        "b423a2e0c6d633cf",
-        "4c17049af66df71e",
-        "869664af7afe0d9b",
-        "a02c83262fd18fe6",
-        "965a9e3f5056bdb9",
         "64b17795680ea085",
         "9ff14f05ca440f01",
         "6ae65044bfbe1d44",
@@ -670,17 +660,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 254,
+      "count": 245,
       "jobs": [
-        "f06146c7dbdec198",
-        "adc582f16c1651f9",
-        "733678369ef80434",
-        "d4dede0c2d90b80d",
-        "8768c32b84d5088b",
-        "4c17049af66df71e",
-        "869664af7afe0d9b",
-        "a02c83262fd18fe6",
-        "965a9e3f5056bdb9",
         "64b17795680ea085",
         "6ae65044bfbe1d44",
         "571b30b7532cbb59",
@@ -991,10 +972,9 @@
       ]
     },
     "channel-14629888": {
-      "channel_id": "1462988831530680422",
-      "count": 290,
+      "channel_id": "1462988811263934464",
+      "count": 289,
       "jobs": [
-        "b423a2e0c6d633cf",
         "9ff14f05ca440f01",
         "58906b8d4feef95b",
         "54c24722402575a4",
@@ -1665,106 +1645,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "f06146c7dbdec198",
-      "company": "AG Technologies",
-      "title": "Java Informatica MicroStrategy Training",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:26:37.411Z"
-    },
-    {
-      "job_id": "adc582f16c1651f9",
-      "company": "AG Technologies",
-      "title": "Hiring for OPT/H4EAD/GC",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:26:41.220Z"
-    },
-    {
-      "job_id": "733678369ef80434",
-      "company": "AG Technologies",
-      "title": "Software Engineer openings for OPT/GC/EAD",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:26:45.033Z"
-    },
-    {
-      "job_id": "d4dede0c2d90b80d",
-      "company": "AG Technologies",
-      "title": "Training and Placement on Java Informatica Fullstack",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:26:48.781Z"
-    },
-    {
-      "job_id": "8768c32b84d5088b",
-      "company": "AG Technologies",
-      "title": "OBIEE Salesforce Training and Placement",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:26:54.078Z"
-    },
-    {
-      "job_id": "b423a2e0c6d633cf",
-      "company": "AG Technologies",
-      "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force - Java Full Stack - Web Logic and Sales Force",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T13:26:57.983Z"
-    },
-    {
-      "job_id": "4c17049af66df71e",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:27:01.797Z"
-    },
-    {
-      "job_id": "869664af7afe0d9b",
-      "company": "AG Technologies",
-      "title": "Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:27:05.548Z"
-    },
-    {
-      "job_id": "a02c83262fd18fe6",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer - ",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:27:09.400Z"
-    },
-    {
-      "job_id": "965a9e3f5056bdb9",
-      "company": "AG Technologies",
-      "title": "Entry Level Software Engineers",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:27:13.135Z"
-    },
-    {
       "job_id": "64b17795680ea085",
       "company": "AG Technologies",
       "title": "Hiring for OPT/H4EAD/GC",
@@ -2163,6 +2043,106 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T14:51:26.790Z"
+    },
+    {
+      "job_id": "0e4f28a93e0059d4",
+      "company": "Artech Information System",
+      "title": "Java Developer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T14:51:30.666Z"
+    },
+    {
+      "job_id": "0f08ad90023b7e6a",
+      "company": "SS&C",
+      "title": "Junior AI-Assisted Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T14:51:36.487Z"
+    },
+    {
+      "job_id": "ca3325ec87d3509d",
+      "company": "Artech Information System",
+      "title": ".Net Developer",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T14:51:45.268Z"
+    },
+    {
+      "job_id": "468b878c271ef832",
+      "company": "Prosidian Consulting",
+      "title": "PPM Data Scientist/Statistician 1",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T14:51:49.039Z"
+    },
+    {
+      "job_id": "dce8400d39561314",
+      "company": "360 IT Professionals",
+      "title": "Entry Level Business/Data Analyst",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T14:51:52.894Z"
+    },
+    {
+      "job_id": "cb0a7bf16287f79c",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:01.301Z"
+    },
+    {
+      "job_id": "5f89f14e97ca818a",
+      "company": "360 IT Professionals",
+      "title": "Programmer Analyst-.Net Programmer - US Citizen",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:04:05.456Z"
+    },
+    {
+      "job_id": "9853e4391ec1aeb3",
+      "company": "AG Technologies",
+      "title": "Hiring Recent graduated students for full time jobs",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:09.081Z"
+    },
+    {
+      "job_id": "af1cedc9feca62a7",
+      "company": "AG Technologies",
+      "title": "Salesforce OBIEE ETL Training and Placement",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:12.757Z"
+    },
+    {
+      "job_id": "6d080e6c98664d6a",
+      "company": "AG Technologies",
+      "title": "Hiring Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:04:16.489Z"
     }
   ],
   "failures": [],
