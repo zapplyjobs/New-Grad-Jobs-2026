@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T08:44:52.945Z",
+  "generated": "2026-02-08T08:59:40.601Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T08:44:52.945Z",
-  "period_end": "2026-02-08T08:44:52.945Z",
+  "period_start": "2026-02-01T08:59:40.601Z",
+  "period_end": "2026-02-08T08:59:40.601Z",
   "summary": {
-    "total_jobs_posted": 1642,
-    "unique_jobs": 883,
-    "multi_channel_postings": 1518,
-    "unique_multi_channel_jobs": 759,
+    "total_jobs_posted": 1623,
+    "unique_jobs": 873,
+    "multi_channel_postings": 1500,
+    "unique_multi_channel_jobs": 750,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,18 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 742,
+      "count": 732,
       "jobs": [
-        "922933710b4afd38",
-        "3f3ca27589281f2f",
-        "9ada02a6206b8677",
-        "0639ddd5b3da0e76",
-        "929b50c775759f65",
-        "9f4c0f522b1c5aba",
-        "26605a34d3ee0fdc",
-        "7f04b9fd4244745b",
-        "c6a4fabd37f556f9",
-        "9d2739a544282814",
         "a3515697f41c3d28",
         "4a425be3fff947b1",
         "19215e2e2c39415d",
@@ -825,14 +815,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 311,
+      "count": 305,
       "jobs": [
-        "3f3ca27589281f2f",
-        "0639ddd5b3da0e76",
-        "9f4c0f522b1c5aba",
-        "26605a34d3ee0fdc",
-        "c6a4fabd37f556f9",
-        "9d2739a544282814",
         "a3515697f41c3d28",
         "4a425be3fff947b1",
         "19215e2e2c39415d",
@@ -1204,11 +1188,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 378,
+      "count": 375,
       "jobs": [
-        "9ada02a6206b8677",
-        "929b50c775759f65",
-        "7f04b9fd4244745b",
         "68abfadd05e5dac9",
         "bd4dd9d76aec7bab",
         "b949aad22af5fbae",
@@ -1998,96 +1979,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "3f3ca27589281f2f",
-      "company": "Credence",
-      "title": "Entry-Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T08:56:01.261Z"
-    },
-    {
-      "job_id": "9ada02a6206b8677",
-      "company": "Jerry",
-      "title": "Software Engineer I",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T08:56:04.945Z"
-    },
-    {
-      "job_id": "0639ddd5b3da0e76",
-      "company": "Thorlabs",
-      "title": "Software Engineer I",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T08:56:08.827Z"
-    },
-    {
-      "job_id": "929b50c775759f65",
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineer, AI",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T08:56:12.408Z"
-    },
-    {
-      "job_id": "9f4c0f522b1c5aba",
-      "company": "Argonne National Laboratory",
-      "title": "Assistant Scientist - Cnm",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T08:56:16.046Z"
-    },
-    {
-      "job_id": "26605a34d3ee0fdc",
-      "company": "Trexquant",
-      "title": "Software Engineer – Early Career",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T08:56:19.825Z"
-    },
-    {
-      "job_id": "7f04b9fd4244745b",
-      "company": "Jahnel Group",
-      "title": "Associate Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T08:56:23.592Z"
-    },
-    {
-      "job_id": "c6a4fabd37f556f9",
-      "company": "Epsilon",
-      "title": "Associate, Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T08:56:27.289Z"
-    },
-    {
-      "job_id": "9d2739a544282814",
-      "company": "Bumble Engineering",
-      "title": "Jr. Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T08:56:31.198Z"
-    },
-    {
       "job_id": "a3515697f41c3d28",
       "company": "Epsilon",
       "title": "Associate, Software Engineer",
@@ -2496,6 +2387,96 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-01T10:14:18.207Z"
+    },
+    {
+      "job_id": "15e2a7f0c5ec213b",
+      "company": "NVIDIA",
+      "title": "GPU Architecture Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T10:14:22.204Z"
+    },
+    {
+      "job_id": "63fad1de1acfa8ab",
+      "company": "NVIDIA",
+      "title": "OEM Account Applications Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T10:14:26.034Z"
+    },
+    {
+      "job_id": "4416a588331536a3",
+      "company": "TikTok",
+      "title": "AI/ML Software Engineer Graduate (Data Platform TikTok BP)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T10:14:29.891Z"
+    },
+    {
+      "job_id": "32c1fe54b5dc793e",
+      "company": "spotify",
+      "title": "Workday Payroll Specialist",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T10:14:36.803Z"
+    },
+    {
+      "job_id": "c64c3ee0fa2b078a",
+      "company": "TikTok",
+      "title": "Data Science Graduate - Advertisement Team - PhD",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T10:14:43.734Z"
+    },
+    {
+      "job_id": "4ec74a5eaf9f2ce3",
+      "company": "Alfa Financial Software ",
+      "title": "Implementation Analyst",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T10:14:50.491Z"
+    },
+    {
+      "job_id": "6f01a98f409ee118",
+      "company": "Oracle",
+      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T10:33:24.746Z"
+    },
+    {
+      "job_id": "fd99b36a046cc7f1",
+      "company": "Tesla",
+      "title": "Software Integration Engineer, Factory Firmware",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T10:33:28.580Z"
+    },
+    {
+      "job_id": "ba2406eea0277d89",
+      "company": "Tesla",
+      "title": "Kernel Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T10:33:32.238Z"
     }
   ],
   "failures": [],
