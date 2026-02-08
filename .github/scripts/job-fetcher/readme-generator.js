@@ -80,7 +80,7 @@ function generateJobTable(jobs) {
 
   jobs.forEach((job) => {
     const categoryKey = getJobCategoryFromKeywords(job.job_title, job.job_description);
-    categorizedJobs.add(job.job_id);
+    categorizedJobs.add(job.id);
 
     if (!jobsByCategory[categoryKey]) {
       jobsByCategory[categoryKey] = [];
