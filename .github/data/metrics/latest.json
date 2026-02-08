@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T13:46:52.226Z",
+  "generated": "2026-02-08T14:09:32.476Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T13:46:52.226Z",
-  "period_end": "2026-02-08T13:46:52.226Z",
+  "period_start": "2026-02-01T14:09:32.476Z",
+  "period_end": "2026-02-08T14:09:32.476Z",
   "summary": {
-    "total_jobs_posted": 1289,
-    "unique_jobs": 703,
-    "multi_channel_postings": 1172,
-    "unique_multi_channel_jobs": 586,
+    "total_jobs_posted": 1270,
+    "unique_jobs": 693,
+    "multi_channel_postings": 1154,
+    "unique_multi_channel_jobs": 577,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,18 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 577,
+      "count": 567,
       "jobs": [
-        "64b17795680ea085",
-        "9ff14f05ca440f01",
-        "6ae65044bfbe1d44",
-        "58906b8d4feef95b",
-        "54c24722402575a4",
-        "571b30b7532cbb59",
-        "78132fb154337cc1",
-        "85c918d066c4e0ee",
-        "33ea329c5dcc0093",
-        "4c5dbc98644878a0",
         "18f557b4e4a5b5d2",
         "74cf9b8368d8684b",
         "f5967b1e5900663b",
@@ -660,13 +650,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 245,
+      "count": 240,
       "jobs": [
-        "64b17795680ea085",
-        "6ae65044bfbe1d44",
-        "571b30b7532cbb59",
-        "78132fb154337cc1",
-        "33ea329c5dcc0093",
         "18f557b4e4a5b5d2",
         "f5967b1e5900663b",
         "afc08e2feb7e0c4d",
@@ -972,13 +957,9 @@
       ]
     },
     "channel-14629888": {
-      "channel_id": "1462988811263934464",
-      "count": 289,
+      "channel_id": "1462988831530680422",
+      "count": 285,
       "jobs": [
-        "9ff14f05ca440f01",
-        "58906b8d4feef95b",
-        "54c24722402575a4",
-        "4c5dbc98644878a0",
         "eb375ad554d9d17f",
         "2d17f7763b94e497",
         "be7ccd327d584e73",
@@ -1645,96 +1626,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "64b17795680ea085",
-      "company": "AG Technologies",
-      "title": "Hiring for OPT/H4EAD/GC",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:53:32.490Z"
-    },
-    {
-      "job_id": "9ff14f05ca440f01",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T13:53:36.336Z"
-    },
-    {
-      "job_id": "6ae65044bfbe1d44",
-      "company": "AG Technologies",
-      "title": "Entry Level software engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:53:40.060Z"
-    },
-    {
-      "job_id": "58906b8d4feef95b",
-      "company": "Figure",
-      "title": "Helix Data Creator",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T13:53:44.066Z"
-    },
-    {
-      "job_id": "54c24722402575a4",
-      "company": "Apex Fintech Solutions",
-      "title": "Software Engineer I (ALDP)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T13:53:47.637Z"
-    },
-    {
-      "job_id": "571b30b7532cbb59",
-      "company": "Folia Health",
-      "title": "Junior Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:53:51.333Z"
-    },
-    {
-      "job_id": "78132fb154337cc1",
-      "company": "Veterans United Home Loans",
-      "title": "Associate Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:53:55.075Z"
-    },
-    {
-      "job_id": "33ea329c5dcc0093",
-      "company": "Amazon",
-      "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T13:54:00.781Z"
-    },
-    {
-      "job_id": "4c5dbc98644878a0",
-      "company": "BRM",
-      "title": "Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T13:54:08.064Z"
-    },
-    {
       "job_id": "18f557b4e4a5b5d2",
       "company": "AG Technologies",
       "title": "Hiring for OPT/H4EAD/GC",
@@ -2143,6 +2034,96 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T15:04:16.489Z"
+    },
+    {
+      "job_id": "f4e65c42f2d8f250",
+      "company": "AG Technologies",
+      "title": "Training & Placement on Informatica/ Microstrategy",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:20.272Z"
+    },
+    {
+      "job_id": "f7bc268bdad7b7c8",
+      "company": "AG Technologies",
+      "title": "Software Engineer Position",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:23.915Z"
+    },
+    {
+      "job_id": "7d251fbc36cfff78",
+      "company": "Prosidian Consulting",
+      "title": "Geospatial Analyst 1",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:30.782Z"
+    },
+    {
+      "job_id": "bc64c6d4d51ef5c0",
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Connected Warfare",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:38.214Z"
+    },
+    {
+      "job_id": "2235122b18edc0ff",
+      "company": "Anduril Industries",
+      "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:04:42.006Z"
+    },
+    {
+      "job_id": "b0ca0804d4bfd790",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:14:10.175Z"
+    },
+    {
+      "job_id": "973feb7dd3f29c06",
+      "company": "Peraton",
+      "title": "Software Engineering, Associate",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:14:14.030Z"
+    },
+    {
+      "job_id": "6a9e396442a42da4",
+      "company": "BMO",
+      "title": "Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:14:19.986Z"
+    },
+    {
+      "job_id": "652edd6dcc4fbf97",
+      "company": "TikTok",
+      "title": "Product Security Engineer - Security Assurance",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T15:14:25.803Z"
     }
   ],
   "failures": [],
