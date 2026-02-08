@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T18:26:12.007Z",
+  "generated": "2026-02-08T18:46:05.198Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T18:26:12.007Z",
-  "period_end": "2026-02-08T18:26:12.007Z",
+  "period_start": "2026-02-01T18:46:05.198Z",
+  "period_end": "2026-02-08T18:46:05.198Z",
   "summary": {
-    "total_jobs_posted": 851,
-    "unique_jobs": 473,
-    "multi_channel_postings": 756,
-    "unique_multi_channel_jobs": 378,
+    "total_jobs_posted": 833,
+    "unique_jobs": 463,
+    "multi_channel_postings": 740,
+    "unique_multi_channel_jobs": 370,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,18 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 363,
+      "count": 353,
       "jobs": [
-        "e28f070f88fafc0e",
-        "9490c0d961fe7c28",
-        "5b1f2215b0f86079",
-        "94454dae5db7858d",
-        "8e5f896d41279145",
-        "8a59fac4015f6363",
-        "dc4f03442e12b39f",
-        "bee55aecfae73abb",
-        "4f910d5d587f2fdd",
-        "459800715a74ad35",
         "18085e3552e4def8",
         "d668c4712415caee",
         "2283519a65ae2631",
@@ -444,15 +434,328 @@
         }
       ]
     },
-    "channel-14629888": {
-      "channel_id": "1462988811263934464",
-      "count": 193,
+    "channel-14629892": {
+      "channel_id": "1462989279817891900",
+      "count": 24,
       "jobs": [
-        "e28f070f88fafc0e",
-        "5b1f2215b0f86079",
-        "8e5f896d41279145",
-        "dc4f03442e12b39f",
-        "4f910d5d587f2fdd",
+        "18085e3552e4def8",
+        "4a2a0e95c8945262",
+        "b2a0e5957c2bd21c",
+        "22b67685631e3673",
+        "40f38d2bb8285022",
+        "29668ec70becc8d7",
+        "5e22353315d2c696",
+        "762ee50cb6c7ae65",
+        "394627fcaf536214",
+        "11124fa3a63f7cc2",
+        "7201e28ee3618395",
+        "77d62485b6311805",
+        "3989d78eed406403",
+        "79ccf9b876fe6c3e",
+        "b15d4a9065a22927",
+        "066dc6fef70d4cb2",
+        "7d87075d89d0f0a6",
+        "3f5785457da02a0c",
+        "6a3369d201d00380",
+        "75a1c0ec18c60bba",
+        "6c24f0a5a27593e0",
+        "3aae5f780ebf437d",
+        "310c63c636f32536",
+        "2f0c0b8cc2958f32"
+      ],
+      "recent_jobs": [
+        {
+          "id": "b15d4a9065a22927",
+          "title": "Software Engineer 2 - CoreAI",
+          "company": "Microsoft",
+          "posted_at": "2026-02-05T08:07:39.841Z"
+        },
+        {
+          "id": "066dc6fef70d4cb2",
+          "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
+          "company": "Genesis10",
+          "posted_at": "2026-02-05T09:24:37.663Z"
+        },
+        {
+          "id": "7d87075d89d0f0a6",
+          "title": "Junior Software Developer - Remote",
+          "company": "WhatJobs Direct",
+          "posted_at": "2026-02-05T09:54:34.483Z"
+        },
+        {
+          "id": "3f5785457da02a0c",
+          "title": "Software Engineer, Applied AI (Seattle)",
+          "company": "Evertune",
+          "posted_at": "2026-02-05T12:41:00.633Z"
+        },
+        {
+          "id": "6a3369d201d00380",
+          "title": "Industrial Engineer (Entry or Associate)",
+          "company": "Boeing",
+          "posted_at": "2026-02-05T22:14:29.678Z"
+        },
+        {
+          "id": "75a1c0ec18c60bba",
+          "title": "Head of Duolingo Store, Consumer Products",
+          "company": "duolingo",
+          "posted_at": "2026-02-05T23:15:54.840Z"
+        },
+        {
+          "id": "6c24f0a5a27593e0",
+          "title": "Software Engineer II - Kentico",
+          "company": "BDO USA Experienced Career Site",
+          "posted_at": "2026-02-06T14:01:20.113Z"
+        },
+        {
+          "id": "3aae5f780ebf437d",
+          "title": "Enterprise Account Executive (West - State)",
+          "company": "verkada",
+          "posted_at": "2026-02-06T18:38:53.529Z"
+        },
+        {
+          "id": "310c63c636f32536",
+          "title": "Enterprise Solutions Engineer, West Coast",
+          "company": "verkada",
+          "posted_at": "2026-02-06T19:02:25.331Z"
+        },
+        {
+          "id": "2f0c0b8cc2958f32",
+          "title": "Account Executive, Mid Market",
+          "company": "brex",
+          "posted_at": "2026-02-06T22:33:29.253Z"
+        }
+      ]
+    },
+    "channel-14629893": {
+      "channel_id": "1462989324071997504",
+      "count": 158,
+      "jobs": [
+        "d668c4712415caee",
+        "fceb5da92d1bde0c",
+        "0e54777c03759921",
+        "98b45956c1d8d9ad",
+        "ead9d53bf90f853b",
+        "8304ef3765865bca",
+        "499d511fb7fbd3d6",
+        "fcec9eda08c0d2b0",
+        "32e214656199cb08",
+        "3a6fe6eaab884073",
+        "9a2aa83d21bd3c15",
+        "bdb9febc418ba6fa",
+        "41fea93df7cf96ab",
+        "83468ee55336f8c8",
+        "17821e47766b87f2",
+        "83aff107e97b7f05",
+        "80961d557582b72a",
+        "e3cf31cb4ba709d0",
+        "5e54bf74a13ef5d4",
+        "7deaad990e184756",
+        "40b605b802d95caa",
+        "c3151b075091df88",
+        "aee43831ac97562c",
+        "7ac7522aed29db2e",
+        "37535ecabfe75787",
+        "c88874a7f2b40d13",
+        "8d073202433896e8",
+        "2b0d7ea6dd8a58d2",
+        "e48d8283f8f75b0e",
+        "b41627ff762c5027",
+        "06511d7531717e1f",
+        "25322c69431acdac",
+        "a3f5b54f39927b0e",
+        "223b8498b30fabdd",
+        "6867ee079b792d13",
+        "52f4fe5ce4c4cf72",
+        "c0352a4c3bbebfb5",
+        "de0f18d834b5cfba",
+        "e8e50308b5fe1b98",
+        "e13b74ddd769538e",
+        "32550de200b9ab3e",
+        "2653285e551f6e0c",
+        "03ba100fa9e79b37",
+        "104aae53c17cef39",
+        "b356b91fabda93d6",
+        "7554ffe73d1ad728",
+        "f3cb0b99a9c528aa",
+        "ccb64e2adfc8acea",
+        "7c68661b6e455d65",
+        "e732a45d4a8329ff",
+        "a8214405427e3466",
+        "901eb27179689fae",
+        "f4cbb23a58c5be7a",
+        "6e5c180ebeead92c",
+        "3b735c1963bae659",
+        "c82f67e6beb40107",
+        "5281020b8ea66c6b",
+        "2731f669030b1dcc",
+        "806da8ac84527644",
+        "454cbc1800f61c62",
+        "0c01a2e40f8588dc",
+        "507a44898f0ce790",
+        "81ea6c828900d751",
+        "b6dccdf9c4bee42d",
+        "22049bd697e9259d",
+        "3924a8b81ffa39ef",
+        "92c63d5df2cccb97",
+        "c2a5369b3e352b4c",
+        "a994963bfdb0bd2f",
+        "bfabc650ed4e0125",
+        "f3032188b1c27ed1",
+        "846f8baa5886cb23",
+        "2d04a5d9193f32c5",
+        "d9138b6c16faf32d",
+        "03c8ee523f848473",
+        "20e3ba17b7428eb1",
+        "6c2b196bd3abc508",
+        "bd535999aaa550c5",
+        "fabe6cf5d4d2bf29",
+        "386ee88b02f1499d",
+        "073ddf24f0a7e14c",
+        "8ee727fdb356049c",
+        "47b5f87947a336c0",
+        "43e82953ecfa04ee",
+        "edb80f7a2bce481d",
+        "4552546c5e2bc5fe",
+        "4c4de0f6abbff7f9",
+        "e2db3db1d0095fcd",
+        "520dfc64dd8dcedc",
+        "9d1436584709fa34",
+        "30219f4c038625e0",
+        "f41f7350593c18bb",
+        "dae0be79767481dd",
+        "720671e713902a87",
+        "4144ddafc5709012",
+        "be83e9af65e045fb",
+        "886c44f21282d690",
+        "19d1af5c64abcc81",
+        "70973bbaea24452a",
+        "9010070b5ff01d75",
+        "78b4813cd4233a56",
+        "92333338245ff124",
+        "dc893ade0ea90789",
+        "429c7cdbd2155da6",
+        "93a3c10ec5ef88b0",
+        "a0553103b2ff0fee",
+        "25c465942c698ec2",
+        "858e3bba7ab408f1",
+        "c7fda4a6183e7a3e",
+        "659537b152636b89",
+        "03a61c3ae839c1e8",
+        "9f43cc461fcba2ed",
+        "0e55c2c5263bab00",
+        "5ed5cf3fc47eb846",
+        "9b644353b6ab04b5",
+        "7805c64a2c927696",
+        "7f6173c34f7603ef",
+        "178505444fced4d5",
+        "bd1efe2ef1890987",
+        "7be05deac8aabf85",
+        "e37cc2ce81869c6c",
+        "bdc60d7c4b6a40af",
+        "bb48789a6bca130b",
+        "1752149f9c33ab78",
+        "16b9f4c45672c103",
+        "08ce0e041aac9e43",
+        "d511781c1eb063cb",
+        "eadb13e48903e526",
+        "624574085400e708",
+        "cee5b2548101e92b",
+        "8ef2e6ac57cbcc12",
+        "f4d7777e212d798e",
+        "24be35b91ea87449",
+        "4ff5d4af3d4eb435",
+        "6987d6290ff8d0d5",
+        "d3134c264bd6426a",
+        "b3a5dd1b34e789c1",
+        "93dec56dab4fe7e2",
+        "9875365c117ce1fb",
+        "85ffcb544f3e4bd1",
+        "44c4d9473a5040a1",
+        "ba0149d360279443",
+        "9e21228b30fa38df",
+        "36cd2ae57056ab07",
+        "1b59c59205150bb6",
+        "5a8ed2a6d2f85aa7",
+        "d728e8c442bf9a39",
+        "bfe871cd3f406734",
+        "7b0445b4d117fecb",
+        "94bf609cf045c0a1",
+        "a143d0bfb61fb9b0",
+        "3a30743842c8634f",
+        "0829ef25b9dc3d25",
+        "ca3d85d909df1382",
+        "fb6621a81c2b4294",
+        "9200833e2f53b885",
+        "77b6a6c308b9008a",
+        "ec379b17ad1f36b3"
+      ],
+      "recent_jobs": [
+        {
+          "id": "7b0445b4d117fecb",
+          "title": "Expert Software Engineer",
+          "company": "Jefferson Health",
+          "posted_at": "2026-02-07T00:28:29.017Z"
+        },
+        {
+          "id": "94bf609cf045c0a1",
+          "title": "Head of Duolingo Store, Consumer Products",
+          "company": "duolingo",
+          "posted_at": "2026-02-07T14:51:17.286Z"
+        },
+        {
+          "id": "a143d0bfb61fb9b0",
+          "title": "Learning Scientist, Efficacy Research",
+          "company": "duolingo",
+          "posted_at": "2026-02-07T15:04:02.990Z"
+        },
+        {
+          "id": "3a30743842c8634f",
+          "title": "Backend Engineer - Access Control",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:18:42.995Z"
+        },
+        {
+          "id": "0829ef25b9dc3d25",
+          "title": "Backend Software Engineering Intern 2026",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:18:53.469Z"
+        },
+        {
+          "id": "ca3d85d909df1382",
+          "title": "Backend Software Engineer - University Graduate 2026",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:18:57.235Z"
+        },
+        {
+          "id": "fb6621a81c2b4294",
+          "title": "Embedded Software Engineer - Access Control",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:05.793Z"
+        },
+        {
+          "id": "9200833e2f53b885",
+          "title": "Embedded UI Engineer",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:09.343Z"
+        },
+        {
+          "id": "77b6a6c308b9008a",
+          "title": "Executive Assistant, Strategy & Operations",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:21.489Z"
+        },
+        {
+          "id": "ec379b17ad1f36b3",
+          "title": "Frontend Engineer - Search & Computer Vision",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:29.907Z"
+        }
+      ]
+    },
+    "channel-14629888": {
+      "channel_id": "1462988831530680422",
+      "count": 188,
+      "jobs": [
         "2283519a65ae2631",
         "34097aecf9f01363",
         "3ae862c8bc540972",
@@ -705,327 +1008,6 @@
         }
       ]
     },
-    "channel-14629893": {
-      "channel_id": "1462989305181114450",
-      "count": 161,
-      "jobs": [
-        "94454dae5db7858d",
-        "8a59fac4015f6363",
-        "bee55aecfae73abb",
-        "d668c4712415caee",
-        "fceb5da92d1bde0c",
-        "0e54777c03759921",
-        "98b45956c1d8d9ad",
-        "ead9d53bf90f853b",
-        "8304ef3765865bca",
-        "499d511fb7fbd3d6",
-        "fcec9eda08c0d2b0",
-        "32e214656199cb08",
-        "3a6fe6eaab884073",
-        "9a2aa83d21bd3c15",
-        "bdb9febc418ba6fa",
-        "41fea93df7cf96ab",
-        "83468ee55336f8c8",
-        "17821e47766b87f2",
-        "83aff107e97b7f05",
-        "80961d557582b72a",
-        "e3cf31cb4ba709d0",
-        "5e54bf74a13ef5d4",
-        "7deaad990e184756",
-        "40b605b802d95caa",
-        "c3151b075091df88",
-        "aee43831ac97562c",
-        "7ac7522aed29db2e",
-        "37535ecabfe75787",
-        "c88874a7f2b40d13",
-        "8d073202433896e8",
-        "2b0d7ea6dd8a58d2",
-        "e48d8283f8f75b0e",
-        "b41627ff762c5027",
-        "06511d7531717e1f",
-        "25322c69431acdac",
-        "a3f5b54f39927b0e",
-        "223b8498b30fabdd",
-        "6867ee079b792d13",
-        "52f4fe5ce4c4cf72",
-        "c0352a4c3bbebfb5",
-        "de0f18d834b5cfba",
-        "e8e50308b5fe1b98",
-        "e13b74ddd769538e",
-        "32550de200b9ab3e",
-        "2653285e551f6e0c",
-        "03ba100fa9e79b37",
-        "104aae53c17cef39",
-        "b356b91fabda93d6",
-        "7554ffe73d1ad728",
-        "f3cb0b99a9c528aa",
-        "ccb64e2adfc8acea",
-        "7c68661b6e455d65",
-        "e732a45d4a8329ff",
-        "a8214405427e3466",
-        "901eb27179689fae",
-        "f4cbb23a58c5be7a",
-        "6e5c180ebeead92c",
-        "3b735c1963bae659",
-        "c82f67e6beb40107",
-        "5281020b8ea66c6b",
-        "2731f669030b1dcc",
-        "806da8ac84527644",
-        "454cbc1800f61c62",
-        "0c01a2e40f8588dc",
-        "507a44898f0ce790",
-        "81ea6c828900d751",
-        "b6dccdf9c4bee42d",
-        "22049bd697e9259d",
-        "3924a8b81ffa39ef",
-        "92c63d5df2cccb97",
-        "c2a5369b3e352b4c",
-        "a994963bfdb0bd2f",
-        "bfabc650ed4e0125",
-        "f3032188b1c27ed1",
-        "846f8baa5886cb23",
-        "2d04a5d9193f32c5",
-        "d9138b6c16faf32d",
-        "03c8ee523f848473",
-        "20e3ba17b7428eb1",
-        "6c2b196bd3abc508",
-        "bd535999aaa550c5",
-        "fabe6cf5d4d2bf29",
-        "386ee88b02f1499d",
-        "073ddf24f0a7e14c",
-        "8ee727fdb356049c",
-        "47b5f87947a336c0",
-        "43e82953ecfa04ee",
-        "edb80f7a2bce481d",
-        "4552546c5e2bc5fe",
-        "4c4de0f6abbff7f9",
-        "e2db3db1d0095fcd",
-        "520dfc64dd8dcedc",
-        "9d1436584709fa34",
-        "30219f4c038625e0",
-        "f41f7350593c18bb",
-        "dae0be79767481dd",
-        "720671e713902a87",
-        "4144ddafc5709012",
-        "be83e9af65e045fb",
-        "886c44f21282d690",
-        "19d1af5c64abcc81",
-        "70973bbaea24452a",
-        "9010070b5ff01d75",
-        "78b4813cd4233a56",
-        "92333338245ff124",
-        "dc893ade0ea90789",
-        "429c7cdbd2155da6",
-        "93a3c10ec5ef88b0",
-        "a0553103b2ff0fee",
-        "25c465942c698ec2",
-        "858e3bba7ab408f1",
-        "c7fda4a6183e7a3e",
-        "659537b152636b89",
-        "03a61c3ae839c1e8",
-        "9f43cc461fcba2ed",
-        "0e55c2c5263bab00",
-        "5ed5cf3fc47eb846",
-        "9b644353b6ab04b5",
-        "7805c64a2c927696",
-        "7f6173c34f7603ef",
-        "178505444fced4d5",
-        "bd1efe2ef1890987",
-        "7be05deac8aabf85",
-        "e37cc2ce81869c6c",
-        "bdc60d7c4b6a40af",
-        "bb48789a6bca130b",
-        "1752149f9c33ab78",
-        "16b9f4c45672c103",
-        "08ce0e041aac9e43",
-        "d511781c1eb063cb",
-        "eadb13e48903e526",
-        "624574085400e708",
-        "cee5b2548101e92b",
-        "8ef2e6ac57cbcc12",
-        "f4d7777e212d798e",
-        "24be35b91ea87449",
-        "4ff5d4af3d4eb435",
-        "6987d6290ff8d0d5",
-        "d3134c264bd6426a",
-        "b3a5dd1b34e789c1",
-        "93dec56dab4fe7e2",
-        "9875365c117ce1fb",
-        "85ffcb544f3e4bd1",
-        "44c4d9473a5040a1",
-        "ba0149d360279443",
-        "9e21228b30fa38df",
-        "36cd2ae57056ab07",
-        "1b59c59205150bb6",
-        "5a8ed2a6d2f85aa7",
-        "d728e8c442bf9a39",
-        "bfe871cd3f406734",
-        "7b0445b4d117fecb",
-        "94bf609cf045c0a1",
-        "a143d0bfb61fb9b0",
-        "3a30743842c8634f",
-        "0829ef25b9dc3d25",
-        "ca3d85d909df1382",
-        "fb6621a81c2b4294",
-        "9200833e2f53b885",
-        "77b6a6c308b9008a",
-        "ec379b17ad1f36b3"
-      ],
-      "recent_jobs": [
-        {
-          "id": "7b0445b4d117fecb",
-          "title": "Expert Software Engineer",
-          "company": "Jefferson Health",
-          "posted_at": "2026-02-07T00:28:29.017Z"
-        },
-        {
-          "id": "94bf609cf045c0a1",
-          "title": "Head of Duolingo Store, Consumer Products",
-          "company": "duolingo",
-          "posted_at": "2026-02-07T14:51:17.286Z"
-        },
-        {
-          "id": "a143d0bfb61fb9b0",
-          "title": "Learning Scientist, Efficacy Research",
-          "company": "duolingo",
-          "posted_at": "2026-02-07T15:04:02.990Z"
-        },
-        {
-          "id": "3a30743842c8634f",
-          "title": "Backend Engineer - Access Control",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:18:42.995Z"
-        },
-        {
-          "id": "0829ef25b9dc3d25",
-          "title": "Backend Software Engineering Intern 2026",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:18:53.469Z"
-        },
-        {
-          "id": "ca3d85d909df1382",
-          "title": "Backend Software Engineer - University Graduate 2026",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:18:57.235Z"
-        },
-        {
-          "id": "fb6621a81c2b4294",
-          "title": "Embedded Software Engineer - Access Control",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:05.793Z"
-        },
-        {
-          "id": "9200833e2f53b885",
-          "title": "Embedded UI Engineer",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:09.343Z"
-        },
-        {
-          "id": "77b6a6c308b9008a",
-          "title": "Executive Assistant, Strategy & Operations",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:21.489Z"
-        },
-        {
-          "id": "ec379b17ad1f36b3",
-          "title": "Frontend Engineer - Search & Computer Vision",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:29.907Z"
-        }
-      ]
-    },
-    "channel-14629892": {
-      "channel_id": "1462989279817891900",
-      "count": 24,
-      "jobs": [
-        "18085e3552e4def8",
-        "4a2a0e95c8945262",
-        "b2a0e5957c2bd21c",
-        "22b67685631e3673",
-        "40f38d2bb8285022",
-        "29668ec70becc8d7",
-        "5e22353315d2c696",
-        "762ee50cb6c7ae65",
-        "394627fcaf536214",
-        "11124fa3a63f7cc2",
-        "7201e28ee3618395",
-        "77d62485b6311805",
-        "3989d78eed406403",
-        "79ccf9b876fe6c3e",
-        "b15d4a9065a22927",
-        "066dc6fef70d4cb2",
-        "7d87075d89d0f0a6",
-        "3f5785457da02a0c",
-        "6a3369d201d00380",
-        "75a1c0ec18c60bba",
-        "6c24f0a5a27593e0",
-        "3aae5f780ebf437d",
-        "310c63c636f32536",
-        "2f0c0b8cc2958f32"
-      ],
-      "recent_jobs": [
-        {
-          "id": "b15d4a9065a22927",
-          "title": "Software Engineer 2 - CoreAI",
-          "company": "Microsoft",
-          "posted_at": "2026-02-05T08:07:39.841Z"
-        },
-        {
-          "id": "066dc6fef70d4cb2",
-          "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
-          "company": "Genesis10",
-          "posted_at": "2026-02-05T09:24:37.663Z"
-        },
-        {
-          "id": "7d87075d89d0f0a6",
-          "title": "Junior Software Developer - Remote",
-          "company": "WhatJobs Direct",
-          "posted_at": "2026-02-05T09:54:34.483Z"
-        },
-        {
-          "id": "3f5785457da02a0c",
-          "title": "Software Engineer, Applied AI (Seattle)",
-          "company": "Evertune",
-          "posted_at": "2026-02-05T12:41:00.633Z"
-        },
-        {
-          "id": "6a3369d201d00380",
-          "title": "Industrial Engineer (Entry or Associate)",
-          "company": "Boeing",
-          "posted_at": "2026-02-05T22:14:29.678Z"
-        },
-        {
-          "id": "75a1c0ec18c60bba",
-          "title": "Head of Duolingo Store, Consumer Products",
-          "company": "duolingo",
-          "posted_at": "2026-02-05T23:15:54.840Z"
-        },
-        {
-          "id": "6c24f0a5a27593e0",
-          "title": "Software Engineer II - Kentico",
-          "company": "BDO USA Experienced Career Site",
-          "posted_at": "2026-02-06T14:01:20.113Z"
-        },
-        {
-          "id": "3aae5f780ebf437d",
-          "title": "Enterprise Account Executive (West - State)",
-          "company": "verkada",
-          "posted_at": "2026-02-06T18:38:53.529Z"
-        },
-        {
-          "id": "310c63c636f32536",
-          "title": "Enterprise Solutions Engineer, West Coast",
-          "company": "verkada",
-          "posted_at": "2026-02-06T19:02:25.331Z"
-        },
-        {
-          "id": "2f0c0b8cc2958f32",
-          "title": "Account Executive, Mid Market",
-          "company": "brex",
-          "posted_at": "2026-02-06T22:33:29.253Z"
-        }
-      ]
-    },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
       "count": 110,
@@ -1206,86 +1188,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "e28f070f88fafc0e",
-      "company": "Palantir",
-      "title": "Software Engineer – New Grad - Defense",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:35:32.063Z"
-    },
-    {
-      "job_id": "5b1f2215b0f86079",
-      "company": "anthropic",
-      "title": "Platform Hardware Security",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:35:38.091Z"
-    },
-    {
-      "job_id": "94454dae5db7858d",
-      "company": "samsara",
-      "title": "Pricing and Revenue Planner",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:35:41.921Z"
-    },
-    {
-      "job_id": "8e5f896d41279145",
-      "company": "anthropic",
-      "title": "Software Engineer, Windows - Claude Code",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:35:45.761Z"
-    },
-    {
-      "job_id": "8a59fac4015f6363",
-      "company": "ALTEN Technology",
-      "title": "Software Engineer - Ref. M-2537",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:35:49.786Z"
-    },
-    {
-      "job_id": "dc4f03442e12b39f",
-      "company": "WSP",
-      "title": "Early Career Geologist",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:35:53.522Z"
-    },
-    {
-      "job_id": "bee55aecfae73abb",
-      "company": "Space Dynamics Laboratory",
-      "title": "Entry-Level Full Stack Web Developer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T18:35:57.254Z"
-    },
-    {
-      "job_id": "4f910d5d587f2fdd",
-      "company": "anthropic",
-      "title": "Finance AI Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T18:36:04.306Z"
-    },
     {
       "job_id": "18085e3552e4def8",
       "company": "Palantir",
@@ -1705,6 +1607,86 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T20:18:07.665Z"
+    },
+    {
+      "job_id": "40b605b802d95caa",
+      "company": "Faith Technologies",
+      "title": "GIS Analyst",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T20:33:02.115Z"
+    },
+    {
+      "job_id": "c3151b075091df88",
+      "company": "Truist Bank",
+      "title": "Data Transaction Testing Analyst 2",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T20:33:14.025Z"
+    },
+    {
+      "job_id": "41e285190d713bc7",
+      "company": "anthropic",
+      "title": "Full Stack Software Engineer, Reinforcement Learning",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T20:49:31.078Z"
+    },
+    {
+      "job_id": "8d2a6c543101b03f",
+      "company": "anthropic",
+      "title": "Data Scientist, Claude Developer Platform",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T20:49:34.920Z"
+    },
+    {
+      "job_id": "b0a17fe10cfdc4b9",
+      "company": "anthropic",
+      "title": "Platform Security Engineering - Auditor",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T20:49:41.616Z"
+    },
+    {
+      "job_id": "356bfc0f3fdaf2d3",
+      "company": "datadog",
+      "title": "Visual Designer - Contract",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T21:02:00.615Z"
+    },
+    {
+      "job_id": "ecb50846115bfae1",
+      "company": "onXmaps",
+      "title": "Geospatial Data Operations Specialist - Fixed-Term - Montana or",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T21:15:39.039Z"
+    },
+    {
+      "job_id": "762ee50cb6c7ae65",
+      "company": "Microsoft",
+      "title": "Software Engineer - Ctj - Top Secret",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T21:15:42.948Z"
     }
   ],
   "failures": [],
