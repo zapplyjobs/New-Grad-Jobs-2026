@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T16:25:38.631Z",
+  "generated": "2026-02-08T16:44:39.066Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T16:25:38.631Z",
-  "period_end": "2026-02-08T16:25:38.631Z",
+  "period_start": "2026-02-01T16:44:39.066Z",
+  "period_end": "2026-02-08T16:44:39.066Z",
   "summary": {
-    "total_jobs_posted": 1058,
-    "unique_jobs": 583,
-    "multi_channel_postings": 950,
-    "unique_multi_channel_jobs": 475,
+    "total_jobs_posted": 1018,
+    "unique_jobs": 563,
+    "multi_channel_postings": 910,
+    "unique_multi_channel_jobs": 455,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,26 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 471,
+      "count": 453,
       "jobs": [
-        "38e6689caace0707",
-        "15b72d6131883762",
-        "aa8606d4e7dc18ad",
-        "d0898f3c9886c268",
-        "21c9fcd74f60cd29",
-        "f5a8b63e203a7d0b",
-        "50d8a1c847dd6fdf",
-        "f541fef2035a10bd",
-        "1900034132109f01",
-        "b98d4d354c4e32fd",
-        "3423de9bd3126fd8",
-        "1e5da81b2a92c607",
-        "40887d95f26f7436",
-        "7a7641f47c7f92e6",
-        "73d47c698e80cd9d",
-        "d2f8de0a0d2b57ba",
-        "72b48173036febeb",
-        "85d0444384c459f5",
         "68332b6ceb85ddc3",
         "124ddb1a72c850d6",
         "05d7acc8863b22a0",
@@ -552,23 +534,273 @@
         }
       ]
     },
+    "channel-14629893": {
+      "channel_id": "1462989324071997504",
+      "count": 195,
+      "jobs": [
+        "68332b6ceb85ddc3",
+        "5ebac0e8ff3290cd",
+        "b4a69045f015202b",
+        "7c110f73dfd52789",
+        "6d286a45f1f3b76a",
+        "e362af1cb5e0a841",
+        "c45c9e52a53b173e",
+        "4cb6f00859ffb7d4",
+        "bee5a40596b63b2e",
+        "19cbd1b572ed0d39",
+        "1dbccb98008c1bef",
+        "0832a5f24fe61acb",
+        "1c52bdb3709a614f",
+        "de1c092f749def40",
+        "d671c31c68981173",
+        "af1f6bd39d45e7d9",
+        "31bcecf48c4e2058",
+        "c2b2c51e2b40b592",
+        "68db1a97657d17d6",
+        "6e9336d43461ec1a",
+        "38d606b9e8d4942a",
+        "9d9f9b05fdc380d9",
+        "b95d95c2d86775a8",
+        "89c112222a3ac988",
+        "7557de8acdcb6b28",
+        "93e1f5db9d2c7ced",
+        "aec126eccd9e85a9",
+        "c6870a60a57d7f8a",
+        "24fb72b6b2501f37",
+        "d72ed631259ed94a",
+        "2563f611477a8838",
+        "c62ddf89133301a5",
+        "1895320a84f39c7e",
+        "c4ff08987404d10d",
+        "94454dae5db7858d",
+        "8a59fac4015f6363",
+        "bee55aecfae73abb",
+        "d668c4712415caee",
+        "fceb5da92d1bde0c",
+        "0e54777c03759921",
+        "98b45956c1d8d9ad",
+        "ead9d53bf90f853b",
+        "8304ef3765865bca",
+        "499d511fb7fbd3d6",
+        "fcec9eda08c0d2b0",
+        "32e214656199cb08",
+        "3a6fe6eaab884073",
+        "9a2aa83d21bd3c15",
+        "bdb9febc418ba6fa",
+        "41fea93df7cf96ab",
+        "83468ee55336f8c8",
+        "17821e47766b87f2",
+        "83aff107e97b7f05",
+        "80961d557582b72a",
+        "e3cf31cb4ba709d0",
+        "5e54bf74a13ef5d4",
+        "7deaad990e184756",
+        "40b605b802d95caa",
+        "c3151b075091df88",
+        "aee43831ac97562c",
+        "7ac7522aed29db2e",
+        "37535ecabfe75787",
+        "c88874a7f2b40d13",
+        "8d073202433896e8",
+        "2b0d7ea6dd8a58d2",
+        "e48d8283f8f75b0e",
+        "b41627ff762c5027",
+        "06511d7531717e1f",
+        "25322c69431acdac",
+        "a3f5b54f39927b0e",
+        "223b8498b30fabdd",
+        "6867ee079b792d13",
+        "52f4fe5ce4c4cf72",
+        "c0352a4c3bbebfb5",
+        "de0f18d834b5cfba",
+        "e8e50308b5fe1b98",
+        "e13b74ddd769538e",
+        "32550de200b9ab3e",
+        "2653285e551f6e0c",
+        "03ba100fa9e79b37",
+        "104aae53c17cef39",
+        "b356b91fabda93d6",
+        "7554ffe73d1ad728",
+        "f3cb0b99a9c528aa",
+        "ccb64e2adfc8acea",
+        "7c68661b6e455d65",
+        "e732a45d4a8329ff",
+        "a8214405427e3466",
+        "901eb27179689fae",
+        "f4cbb23a58c5be7a",
+        "6e5c180ebeead92c",
+        "3b735c1963bae659",
+        "c82f67e6beb40107",
+        "5281020b8ea66c6b",
+        "2731f669030b1dcc",
+        "806da8ac84527644",
+        "454cbc1800f61c62",
+        "0c01a2e40f8588dc",
+        "507a44898f0ce790",
+        "81ea6c828900d751",
+        "b6dccdf9c4bee42d",
+        "22049bd697e9259d",
+        "3924a8b81ffa39ef",
+        "92c63d5df2cccb97",
+        "c2a5369b3e352b4c",
+        "a994963bfdb0bd2f",
+        "bfabc650ed4e0125",
+        "f3032188b1c27ed1",
+        "846f8baa5886cb23",
+        "2d04a5d9193f32c5",
+        "d9138b6c16faf32d",
+        "03c8ee523f848473",
+        "20e3ba17b7428eb1",
+        "6c2b196bd3abc508",
+        "bd535999aaa550c5",
+        "fabe6cf5d4d2bf29",
+        "386ee88b02f1499d",
+        "073ddf24f0a7e14c",
+        "8ee727fdb356049c",
+        "47b5f87947a336c0",
+        "43e82953ecfa04ee",
+        "edb80f7a2bce481d",
+        "4552546c5e2bc5fe",
+        "4c4de0f6abbff7f9",
+        "e2db3db1d0095fcd",
+        "520dfc64dd8dcedc",
+        "9d1436584709fa34",
+        "30219f4c038625e0",
+        "f41f7350593c18bb",
+        "dae0be79767481dd",
+        "720671e713902a87",
+        "4144ddafc5709012",
+        "be83e9af65e045fb",
+        "886c44f21282d690",
+        "19d1af5c64abcc81",
+        "70973bbaea24452a",
+        "9010070b5ff01d75",
+        "78b4813cd4233a56",
+        "92333338245ff124",
+        "dc893ade0ea90789",
+        "429c7cdbd2155da6",
+        "93a3c10ec5ef88b0",
+        "a0553103b2ff0fee",
+        "25c465942c698ec2",
+        "858e3bba7ab408f1",
+        "c7fda4a6183e7a3e",
+        "659537b152636b89",
+        "03a61c3ae839c1e8",
+        "9f43cc461fcba2ed",
+        "0e55c2c5263bab00",
+        "5ed5cf3fc47eb846",
+        "9b644353b6ab04b5",
+        "7805c64a2c927696",
+        "7f6173c34f7603ef",
+        "178505444fced4d5",
+        "bd1efe2ef1890987",
+        "7be05deac8aabf85",
+        "e37cc2ce81869c6c",
+        "bdc60d7c4b6a40af",
+        "bb48789a6bca130b",
+        "1752149f9c33ab78",
+        "16b9f4c45672c103",
+        "08ce0e041aac9e43",
+        "d511781c1eb063cb",
+        "eadb13e48903e526",
+        "624574085400e708",
+        "cee5b2548101e92b",
+        "8ef2e6ac57cbcc12",
+        "f4d7777e212d798e",
+        "24be35b91ea87449",
+        "4ff5d4af3d4eb435",
+        "6987d6290ff8d0d5",
+        "d3134c264bd6426a",
+        "b3a5dd1b34e789c1",
+        "93dec56dab4fe7e2",
+        "9875365c117ce1fb",
+        "85ffcb544f3e4bd1",
+        "44c4d9473a5040a1",
+        "ba0149d360279443",
+        "9e21228b30fa38df",
+        "36cd2ae57056ab07",
+        "1b59c59205150bb6",
+        "5a8ed2a6d2f85aa7",
+        "d728e8c442bf9a39",
+        "bfe871cd3f406734",
+        "7b0445b4d117fecb",
+        "94bf609cf045c0a1",
+        "a143d0bfb61fb9b0",
+        "3a30743842c8634f",
+        "0829ef25b9dc3d25",
+        "ca3d85d909df1382",
+        "fb6621a81c2b4294",
+        "9200833e2f53b885",
+        "77b6a6c308b9008a",
+        "ec379b17ad1f36b3"
+      ],
+      "recent_jobs": [
+        {
+          "id": "7b0445b4d117fecb",
+          "title": "Expert Software Engineer",
+          "company": "Jefferson Health",
+          "posted_at": "2026-02-07T00:28:29.017Z"
+        },
+        {
+          "id": "94bf609cf045c0a1",
+          "title": "Head of Duolingo Store, Consumer Products",
+          "company": "duolingo",
+          "posted_at": "2026-02-07T14:51:17.286Z"
+        },
+        {
+          "id": "a143d0bfb61fb9b0",
+          "title": "Learning Scientist, Efficacy Research",
+          "company": "duolingo",
+          "posted_at": "2026-02-07T15:04:02.990Z"
+        },
+        {
+          "id": "3a30743842c8634f",
+          "title": "Backend Engineer - Access Control",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:18:42.995Z"
+        },
+        {
+          "id": "0829ef25b9dc3d25",
+          "title": "Backend Software Engineering Intern 2026",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:18:53.469Z"
+        },
+        {
+          "id": "ca3d85d909df1382",
+          "title": "Backend Software Engineer - University Graduate 2026",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:18:57.235Z"
+        },
+        {
+          "id": "fb6621a81c2b4294",
+          "title": "Embedded Software Engineer - Access Control",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:05.793Z"
+        },
+        {
+          "id": "9200833e2f53b885",
+          "title": "Embedded UI Engineer",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:09.343Z"
+        },
+        {
+          "id": "77b6a6c308b9008a",
+          "title": "Executive Assistant, Strategy & Operations",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:21.489Z"
+        },
+        {
+          "id": "ec379b17ad1f36b3",
+          "title": "Frontend Engineer - Search & Computer Vision",
+          "company": "verkada",
+          "posted_at": "2026-02-07T15:33:29.907Z"
+        }
+      ]
+    },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 237,
+      "count": 224,
       "jobs": [
-        "38e6689caace0707",
-        "15b72d6131883762",
-        "d0898f3c9886c268",
-        "21c9fcd74f60cd29",
-        "50d8a1c847dd6fdf",
-        "ea38a29e83173363",
-        "b98d4d354c4e32fd",
-        "1e5da81b2a92c607",
-        "40887d95f26f7436",
-        "7a7641f47c7f92e6",
-        "73d47c698e80cd9d",
-        "72b48173036febeb",
-        "85d0444384c459f5",
         "124ddb1a72c850d6",
         "fb91706ec222735f",
         "88c542cf408fb526",
@@ -857,280 +1089,10 @@
         }
       ]
     },
-    "channel-14629893": {
-      "channel_id": "1462989324071997504",
-      "count": 198,
-      "jobs": [
-        "aa8606d4e7dc18ad",
-        "1900034132109f01",
-        "3423de9bd3126fd8",
-        "68332b6ceb85ddc3",
-        "5ebac0e8ff3290cd",
-        "b4a69045f015202b",
-        "7c110f73dfd52789",
-        "6d286a45f1f3b76a",
-        "e362af1cb5e0a841",
-        "c45c9e52a53b173e",
-        "4cb6f00859ffb7d4",
-        "bee5a40596b63b2e",
-        "19cbd1b572ed0d39",
-        "1dbccb98008c1bef",
-        "0832a5f24fe61acb",
-        "1c52bdb3709a614f",
-        "de1c092f749def40",
-        "d671c31c68981173",
-        "af1f6bd39d45e7d9",
-        "31bcecf48c4e2058",
-        "c2b2c51e2b40b592",
-        "68db1a97657d17d6",
-        "6e9336d43461ec1a",
-        "38d606b9e8d4942a",
-        "9d9f9b05fdc380d9",
-        "b95d95c2d86775a8",
-        "89c112222a3ac988",
-        "7557de8acdcb6b28",
-        "93e1f5db9d2c7ced",
-        "aec126eccd9e85a9",
-        "c6870a60a57d7f8a",
-        "24fb72b6b2501f37",
-        "d72ed631259ed94a",
-        "2563f611477a8838",
-        "c62ddf89133301a5",
-        "1895320a84f39c7e",
-        "c4ff08987404d10d",
-        "94454dae5db7858d",
-        "8a59fac4015f6363",
-        "bee55aecfae73abb",
-        "d668c4712415caee",
-        "fceb5da92d1bde0c",
-        "0e54777c03759921",
-        "98b45956c1d8d9ad",
-        "ead9d53bf90f853b",
-        "8304ef3765865bca",
-        "499d511fb7fbd3d6",
-        "fcec9eda08c0d2b0",
-        "32e214656199cb08",
-        "3a6fe6eaab884073",
-        "9a2aa83d21bd3c15",
-        "bdb9febc418ba6fa",
-        "41fea93df7cf96ab",
-        "83468ee55336f8c8",
-        "17821e47766b87f2",
-        "83aff107e97b7f05",
-        "80961d557582b72a",
-        "e3cf31cb4ba709d0",
-        "5e54bf74a13ef5d4",
-        "7deaad990e184756",
-        "40b605b802d95caa",
-        "c3151b075091df88",
-        "aee43831ac97562c",
-        "7ac7522aed29db2e",
-        "37535ecabfe75787",
-        "c88874a7f2b40d13",
-        "8d073202433896e8",
-        "2b0d7ea6dd8a58d2",
-        "e48d8283f8f75b0e",
-        "b41627ff762c5027",
-        "06511d7531717e1f",
-        "25322c69431acdac",
-        "a3f5b54f39927b0e",
-        "223b8498b30fabdd",
-        "6867ee079b792d13",
-        "52f4fe5ce4c4cf72",
-        "c0352a4c3bbebfb5",
-        "de0f18d834b5cfba",
-        "e8e50308b5fe1b98",
-        "e13b74ddd769538e",
-        "32550de200b9ab3e",
-        "2653285e551f6e0c",
-        "03ba100fa9e79b37",
-        "104aae53c17cef39",
-        "b356b91fabda93d6",
-        "7554ffe73d1ad728",
-        "f3cb0b99a9c528aa",
-        "ccb64e2adfc8acea",
-        "7c68661b6e455d65",
-        "e732a45d4a8329ff",
-        "a8214405427e3466",
-        "901eb27179689fae",
-        "f4cbb23a58c5be7a",
-        "6e5c180ebeead92c",
-        "3b735c1963bae659",
-        "c82f67e6beb40107",
-        "5281020b8ea66c6b",
-        "2731f669030b1dcc",
-        "806da8ac84527644",
-        "454cbc1800f61c62",
-        "0c01a2e40f8588dc",
-        "507a44898f0ce790",
-        "81ea6c828900d751",
-        "b6dccdf9c4bee42d",
-        "22049bd697e9259d",
-        "3924a8b81ffa39ef",
-        "92c63d5df2cccb97",
-        "c2a5369b3e352b4c",
-        "a994963bfdb0bd2f",
-        "bfabc650ed4e0125",
-        "f3032188b1c27ed1",
-        "846f8baa5886cb23",
-        "2d04a5d9193f32c5",
-        "d9138b6c16faf32d",
-        "03c8ee523f848473",
-        "20e3ba17b7428eb1",
-        "6c2b196bd3abc508",
-        "bd535999aaa550c5",
-        "fabe6cf5d4d2bf29",
-        "386ee88b02f1499d",
-        "073ddf24f0a7e14c",
-        "8ee727fdb356049c",
-        "47b5f87947a336c0",
-        "43e82953ecfa04ee",
-        "edb80f7a2bce481d",
-        "4552546c5e2bc5fe",
-        "4c4de0f6abbff7f9",
-        "e2db3db1d0095fcd",
-        "520dfc64dd8dcedc",
-        "9d1436584709fa34",
-        "30219f4c038625e0",
-        "f41f7350593c18bb",
-        "dae0be79767481dd",
-        "720671e713902a87",
-        "4144ddafc5709012",
-        "be83e9af65e045fb",
-        "886c44f21282d690",
-        "19d1af5c64abcc81",
-        "70973bbaea24452a",
-        "9010070b5ff01d75",
-        "78b4813cd4233a56",
-        "92333338245ff124",
-        "dc893ade0ea90789",
-        "429c7cdbd2155da6",
-        "93a3c10ec5ef88b0",
-        "a0553103b2ff0fee",
-        "25c465942c698ec2",
-        "858e3bba7ab408f1",
-        "c7fda4a6183e7a3e",
-        "659537b152636b89",
-        "03a61c3ae839c1e8",
-        "9f43cc461fcba2ed",
-        "0e55c2c5263bab00",
-        "5ed5cf3fc47eb846",
-        "9b644353b6ab04b5",
-        "7805c64a2c927696",
-        "7f6173c34f7603ef",
-        "178505444fced4d5",
-        "bd1efe2ef1890987",
-        "7be05deac8aabf85",
-        "e37cc2ce81869c6c",
-        "bdc60d7c4b6a40af",
-        "bb48789a6bca130b",
-        "1752149f9c33ab78",
-        "16b9f4c45672c103",
-        "08ce0e041aac9e43",
-        "d511781c1eb063cb",
-        "eadb13e48903e526",
-        "624574085400e708",
-        "cee5b2548101e92b",
-        "8ef2e6ac57cbcc12",
-        "f4d7777e212d798e",
-        "24be35b91ea87449",
-        "4ff5d4af3d4eb435",
-        "6987d6290ff8d0d5",
-        "d3134c264bd6426a",
-        "b3a5dd1b34e789c1",
-        "93dec56dab4fe7e2",
-        "9875365c117ce1fb",
-        "85ffcb544f3e4bd1",
-        "44c4d9473a5040a1",
-        "ba0149d360279443",
-        "9e21228b30fa38df",
-        "36cd2ae57056ab07",
-        "1b59c59205150bb6",
-        "5a8ed2a6d2f85aa7",
-        "d728e8c442bf9a39",
-        "bfe871cd3f406734",
-        "7b0445b4d117fecb",
-        "94bf609cf045c0a1",
-        "a143d0bfb61fb9b0",
-        "3a30743842c8634f",
-        "0829ef25b9dc3d25",
-        "ca3d85d909df1382",
-        "fb6621a81c2b4294",
-        "9200833e2f53b885",
-        "77b6a6c308b9008a",
-        "ec379b17ad1f36b3"
-      ],
-      "recent_jobs": [
-        {
-          "id": "7b0445b4d117fecb",
-          "title": "Expert Software Engineer",
-          "company": "Jefferson Health",
-          "posted_at": "2026-02-07T00:28:29.017Z"
-        },
-        {
-          "id": "94bf609cf045c0a1",
-          "title": "Head of Duolingo Store, Consumer Products",
-          "company": "duolingo",
-          "posted_at": "2026-02-07T14:51:17.286Z"
-        },
-        {
-          "id": "a143d0bfb61fb9b0",
-          "title": "Learning Scientist, Efficacy Research",
-          "company": "duolingo",
-          "posted_at": "2026-02-07T15:04:02.990Z"
-        },
-        {
-          "id": "3a30743842c8634f",
-          "title": "Backend Engineer - Access Control",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:18:42.995Z"
-        },
-        {
-          "id": "0829ef25b9dc3d25",
-          "title": "Backend Software Engineering Intern 2026",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:18:53.469Z"
-        },
-        {
-          "id": "ca3d85d909df1382",
-          "title": "Backend Software Engineer - University Graduate 2026",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:18:57.235Z"
-        },
-        {
-          "id": "fb6621a81c2b4294",
-          "title": "Embedded Software Engineer - Access Control",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:05.793Z"
-        },
-        {
-          "id": "9200833e2f53b885",
-          "title": "Embedded UI Engineer",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:09.343Z"
-        },
-        {
-          "id": "77b6a6c308b9008a",
-          "title": "Executive Assistant, Strategy & Operations",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:21.489Z"
-        },
-        {
-          "id": "ec379b17ad1f36b3",
-          "title": "Frontend Engineer - Search & Computer Vision",
-          "company": "verkada",
-          "posted_at": "2026-02-07T15:33:29.907Z"
-        }
-      ]
-    },
     "channel-14629892": {
       "channel_id": "1462989279817891900",
-      "count": 40,
+      "count": 36,
       "jobs": [
-        "f5a8b63e203a7d0b",
-        "f541fef2035a10bd",
-        "43a2ebbb6f9ad95f",
-        "d2f8de0a0d2b57ba",
         "05d7acc8863b22a0",
         "c317b32a0ce812ec",
         "6dbd2b5b3cb4f8b1",
@@ -1233,10 +1195,8 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 112,
+      "count": 110,
       "jobs": [
-        "ea38a29e83173363",
-        "43a2ebbb6f9ad95f",
         "fcec9eda08c0d2b0",
         "48036a9050d52cda",
         "6540ebf6e41aadda",
@@ -1413,206 +1373,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "38e6689caace0707",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:26:05.317Z"
-    },
-    {
-      "job_id": "15b72d6131883762",
-      "company": "Five Rings",
-      "title": "Software Developer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:26:08.980Z"
-    },
-    {
-      "job_id": "aa8606d4e7dc18ad",
-      "company": "Reddit",
-      "title": "Software Engineer - New Grad",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T16:26:12.715Z"
-    },
-    {
-      "job_id": "d0898f3c9886c268",
-      "company": "TikTok",
-      "title": "General Hire – Machine Learning Scientist Graduate - Tiktok Recommendation - 2026 Start','PhD",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:26:19.626Z"
-    },
-    {
-      "job_id": "21c9fcd74f60cd29",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate - Trust and Safety - Usds','2025 Start','MS",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:26:23.680Z"
-    },
-    {
-      "job_id": "f5a8b63e203a7d0b",
-      "company": "TikTok",
-      "title": "Graduate Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
-      "channels": [
-        "channel-14629886",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T16:26:27.382Z"
-    },
-    {
-      "job_id": "50d8a1c847dd6fdf",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:26:31.401Z"
-    },
-    {
-      "job_id": "f541fef2035a10bd",
-      "company": "ByteDance",
-      "title": "Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US",
-      "channels": [
-        "channel-14629886",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T16:26:36.966Z"
-    },
-    {
-      "job_id": "ea38a29e83173363",
-      "company": "TikTok",
-      "title": "Data Science Graduate - Advertisement Team - BS/MS",
-      "channels": [
-        "channel-14629887",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:26:43.732Z"
-    },
-    {
-      "job_id": "43a2ebbb6f9ad95f",
-      "company": "TikTok",
-      "title": "Data Engineer Graduate - E-commerce - 2026 Start",
-      "channels": [
-        "channel-14629887",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T16:26:47.505Z"
-    },
-    {
-      "job_id": "1900034132109f01",
-      "company": "AG Technologies",
-      "title": "Hiring Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T16:35:30.447Z"
-    },
-    {
-      "job_id": "b98d4d354c4e32fd",
-      "company": "ByteDance",
-      "title": "AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:35:34.222Z"
-    },
-    {
-      "job_id": "3423de9bd3126fd8",
-      "company": "SimIS",
-      "title": "Junior Software Developer - Modeling & Simulation",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T16:35:38.117Z"
-    },
-    {
-      "job_id": "1e5da81b2a92c607",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate - Data Security-US",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:35:41.907Z"
-    },
-    {
-      "job_id": "40887d95f26f7436",
-      "company": "Ramp",
-      "title": "Software Engineer - Frontend",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:35:45.582Z"
-    },
-    {
-      "job_id": "7a7641f47c7f92e6",
-      "company": "ByteDance",
-      "title": "3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:35:49.348Z"
-    },
-    {
-      "job_id": "73d47c698e80cd9d",
-      "company": "TikTok",
-      "title": "Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:35:53.303Z"
-    },
-    {
-      "job_id": "d2f8de0a0d2b57ba",
-      "company": "TikTok",
-      "title": "Software Engineer, Risk and Response - 2026 Start (BS/ MS)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T16:35:57.177Z"
-    },
-    {
-      "job_id": "72b48173036febeb",
-      "company": "TikTok",
-      "title": "Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:36:00.918Z"
-    },
-    {
-      "job_id": "85d0444384c459f5",
-      "company": "BRM",
-      "title": "Entry Level Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T16:36:08.235Z"
-    },
     {
       "job_id": "68332b6ceb85ddc3",
       "company": "AG Technologies",
@@ -1912,6 +1672,206 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T17:12:58.779Z"
+    },
+    {
+      "job_id": "de1c092f749def40",
+      "company": "Black Canyon Consulting",
+      "title": "Software Developer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:22:07.292Z"
+    },
+    {
+      "job_id": "3e1a3124b162f6bd",
+      "company": "Jane Street",
+      "title": "Linux Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:22:11.097Z"
+    },
+    {
+      "job_id": "6798e466be96f46e",
+      "company": "Ranger",
+      "title": "Forward-Deployed Test Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:22:15.071Z"
+    },
+    {
+      "job_id": "d671c31c68981173",
+      "company": "supabase",
+      "title": "Partner Solutions Architect",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:22:19.064Z"
+    },
+    {
+      "job_id": "af1f6bd39d45e7d9",
+      "company": "DRW",
+      "title": "Software Developer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:22:22.851Z"
+    },
+    {
+      "job_id": "495b3110b62ac617",
+      "company": "Microsoft",
+      "title": "Software Engineer - Fullstack",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T17:22:26.827Z"
+    },
+    {
+      "job_id": "abf1e94cac666552",
+      "company": "ByteDance",
+      "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:22:33.873Z"
+    },
+    {
+      "job_id": "bde960d7fbf78213",
+      "company": "Citadel Securities",
+      "title": "Software Engineer – University Graduate",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:22:37.705Z"
+    },
+    {
+      "job_id": "9779323fe5392932",
+      "company": "Hertz",
+      "title": "Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T17:32:00.615Z"
+    },
+    {
+      "job_id": "31bcecf48c4e2058",
+      "company": "State Street",
+      "title": "Software Engineer I",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:32:04.418Z"
+    },
+    {
+      "job_id": "c2b2c51e2b40b592",
+      "company": "Zeiss",
+      "title": "Application Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:32:08.155Z"
+    },
+    {
+      "job_id": "7d8673ea8dec9152",
+      "company": "Candid Health",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:32:12.081Z"
+    },
+    {
+      "job_id": "c5247bd8e37ad65a",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Infrastructure",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:32:16.335Z"
+    },
+    {
+      "job_id": "68db1a97657d17d6",
+      "company": "MemryX",
+      "title": "Software Engineer, Applications and Customer Solutions",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:32:20.203Z"
+    },
+    {
+      "job_id": "6e9336d43461ec1a",
+      "company": "Meta",
+      "title": "Software Engineer - Product",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:32:23.933Z"
+    },
+    {
+      "job_id": "38d606b9e8d4942a",
+      "company": "supabase",
+      "title": "Enterprise Account Executive (USA)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:32:28.085Z"
+    },
+    {
+      "job_id": "9d9f9b05fdc380d9",
+      "company": "Skild AI",
+      "title": "Robot Operator",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:32:34.921Z"
+    },
+    {
+      "job_id": "a54acb0f7f8cb6ec",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Production Infrastructure",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:47:47.136Z"
+    },
+    {
+      "job_id": "b95d95c2d86775a8",
+      "company": "Zeeco",
+      "title": "Application Engineer - Mandarin",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T17:47:50.901Z"
+    },
+    {
+      "job_id": "49befa57f818418d",
+      "company": "Postman",
+      "title": "Forward Deployed Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T17:47:54.565Z"
     }
   ],
   "failures": [],
