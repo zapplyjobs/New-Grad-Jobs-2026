@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T14:09:32.476Z",
+  "generated": "2026-02-08T14:25:01.826Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T14:09:32.476Z",
-  "period_end": "2026-02-08T14:09:32.476Z",
+  "period_start": "2026-02-01T14:25:01.826Z",
+  "period_end": "2026-02-08T14:25:01.826Z",
   "summary": {
-    "total_jobs_posted": 1270,
-    "unique_jobs": 693,
-    "multi_channel_postings": 1154,
-    "unique_multi_channel_jobs": 577,
+    "total_jobs_posted": 1251,
+    "unique_jobs": 683,
+    "multi_channel_postings": 1136,
+    "unique_multi_channel_jobs": 568,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,17 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 567,
+      "count": 558,
       "jobs": [
-        "18f557b4e4a5b5d2",
-        "74cf9b8368d8684b",
-        "f5967b1e5900663b",
-        "afc08e2feb7e0c4d",
-        "37144c81e238b86e",
-        "eb375ad554d9d17f",
-        "4560752799a4fc98",
-        "c61300391e9cf9a5",
-        "5ec57e677d7fc646",
         "4328dea3722ee0c7",
         "6d8bf83cfa7e96a2",
         "3cafb5640fe39fd0",
@@ -650,15 +641,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 240,
+      "count": 233,
       "jobs": [
-        "18f557b4e4a5b5d2",
-        "f5967b1e5900663b",
-        "afc08e2feb7e0c4d",
-        "37144c81e238b86e",
-        "4560752799a4fc98",
-        "c61300391e9cf9a5",
-        "5ec57e677d7fc646",
         "4328dea3722ee0c7",
         "6d8bf83cfa7e96a2",
         "3cafb5640fe39fd0",
@@ -957,11 +941,9 @@
       ]
     },
     "channel-14629888": {
-      "channel_id": "1462988831530680422",
-      "count": 285,
+      "channel_id": "1462988811263934464",
+      "count": 283,
       "jobs": [
-        "eb375ad554d9d17f",
-        "2d17f7763b94e497",
         "be7ccd327d584e73",
         "aee0021d2c647aaa",
         "6531afed4c5e7819",
@@ -1311,9 +1293,8 @@
     },
     "channel-14629887": {
       "channel_id": "1462988755156734023",
-      "count": 126,
+      "count": 125,
       "jobs": [
-        "2d17f7763b94e497",
         "b9741757cf6922a1",
         "aee0021d2c647aaa",
         "f9cf3518ba91c17e",
@@ -1625,96 +1606,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "18f557b4e4a5b5d2",
-      "company": "AG Technologies",
-      "title": "Hiring for OPT/H4EAD/GC",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:16:47.439Z"
-    },
-    {
-      "job_id": "f5967b1e5900663b",
-      "company": "Citadel Securities",
-      "title": "C++ Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:16:54.143Z"
-    },
-    {
-      "job_id": "afc08e2feb7e0c4d",
-      "company": "Suno",
-      "title": "Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:16:57.816Z"
-    },
-    {
-      "job_id": "37144c81e238b86e",
-      "company": "Avance Consulting",
-      "title": "Application Software Developer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:17:01.717Z"
-    },
-    {
-      "job_id": "eb375ad554d9d17f",
-      "company": "Apex Fintech Solutions",
-      "title": "Software Engineer I - Aldp",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T14:17:05.366Z"
-    },
-    {
-      "job_id": "4560752799a4fc98",
-      "company": "US Tech Solutions",
-      "title": "SAS Administrator",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:17:09.098Z"
-    },
-    {
-      "job_id": "c61300391e9cf9a5",
-      "company": "Jump Trading",
-      "title": "Campus ML Engineer (Full-Time)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:17:18.178Z"
-    },
-    {
-      "job_id": "5ec57e677d7fc646",
-      "company": "Jump Trading",
-      "title": "Campus AI Researcher (Full-Time)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T14:17:21.782Z"
-    },
-    {
-      "job_id": "2d17f7763b94e497",
-      "company": "Avance Consulting",
-      "title": "Technology Analyst - Cocoa",
-      "channels": [
-        "channel-14629887",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T14:17:28.464Z"
-    },
     {
       "job_id": "4328dea3722ee0c7",
       "company": "AG Technologies",
@@ -2124,6 +2015,96 @@
         "channel-14629892"
       ],
       "posted_at": "2026-02-01T15:14:25.803Z"
+    },
+    {
+      "job_id": "1bbca90dd21684f9",
+      "company": "TikTok",
+      "title": "SDET, Software Development Engineer in Test",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:14:29.503Z"
+    },
+    {
+      "job_id": "77f31e66ffc873cb",
+      "company": "NVIDIA",
+      "title": "Research Scientist, Robotics Research",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T15:14:33.209Z"
+    },
+    {
+      "job_id": "1dacd65c454969a5",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer - Search E-Commerce",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T15:14:40.479Z"
+    },
+    {
+      "job_id": "f69a06733e66b2c6",
+      "company": "Celonis",
+      "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T15:14:47.184Z"
+    },
+    {
+      "job_id": "0defcccd980ae93a",
+      "company": "AG Technologies",
+      "title": "Hiring Entry Level Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:25:17.122Z"
+    },
+    {
+      "job_id": "56e323f5f77babcb",
+      "company": "Cook Systems",
+      "title": "Software Developer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:25:20.873Z"
+    },
+    {
+      "job_id": "7f5a7b0fd6022d5a",
+      "company": "Emerson",
+      "title": "Embedded Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:25:24.885Z"
+    },
+    {
+      "job_id": "70c6845660571fc1",
+      "company": "Ping Identity",
+      "title": "Software Engineer I",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:25:28.729Z"
+    },
+    {
+      "job_id": "36ae9ddff9e863ed",
+      "company": "Royal Carribean Group",
+      "title": "Associate Engineer, Software",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T15:25:32.565Z"
     }
   ],
   "failures": [],
