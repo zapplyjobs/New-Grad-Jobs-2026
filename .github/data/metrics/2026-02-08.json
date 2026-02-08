@@ -1,31 +1,22 @@
 {
-  "generated": "2026-02-08T11:50:54.966Z",
+  "generated": "2026-02-08T12:08:11.565Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T11:50:54.966Z",
-  "period_end": "2026-02-08T11:50:54.966Z",
+  "period_start": "2026-02-01T12:08:11.565Z",
+  "period_end": "2026-02-08T12:08:11.565Z",
   "summary": {
-    "total_jobs_posted": 1386,
-    "unique_jobs": 753,
-    "multi_channel_postings": 1266,
-    "unique_multi_channel_jobs": 633,
+    "total_jobs_posted": 1368,
+    "unique_jobs": 743,
+    "multi_channel_postings": 1250,
+    "unique_multi_channel_jobs": 625,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988605306834987",
-      "count": 621,
+      "channel_id": "1462988662168879217",
+      "count": 612,
       "jobs": [
-        "e413e7a771cda036",
-        "e58366835f51154a",
-        "4b6c3baa0b184f43",
-        "2f585646d136aef1",
-        "95d9adbd68cb820a",
-        "b93b44c1687d8992",
-        "c3f358e46411c086",
-        "3015ef2f43c07677",
-        "444c952c81d13d66",
         "1a64de5d6de8b1d6",
         "111ccab8d73c0470",
         "80c6492640a8a050",
@@ -702,139 +693,10 @@
         }
       ]
     },
-    "channel-14629892": {
-      "channel_id": "1462989279817891900",
-      "count": 59,
-      "jobs": [
-        "e413e7a771cda036",
-        "3015ef2f43c07677",
-        "444c952c81d13d66",
-        "14ec0c1b70867b7f",
-        "50f27332076adff9",
-        "43417e80d17ce718",
-        "6cb786fb8540fa43",
-        "8d89cbf963dc1516",
-        "652edd6dcc4fbf97",
-        "77f31e66ffc873cb",
-        "1dacd65c454969a5",
-        "7b1ca6e75e5d3ffe",
-        "e6d6bdac8d7b5eb4",
-        "c6f4552b7ac1150f",
-        "24848808030cc4e8",
-        "c744ed8bbf7078d8",
-        "ac6fcdde605c5928",
-        "0f2012759e66c41d",
-        "e54558ec3b063de6",
-        "f5a8b63e203a7d0b",
-        "f541fef2035a10bd",
-        "43a2ebbb6f9ad95f",
-        "d2f8de0a0d2b57ba",
-        "05d7acc8863b22a0",
-        "c317b32a0ce812ec",
-        "6dbd2b5b3cb4f8b1",
-        "1814be7a08f5055c",
-        "f3af6fc6713aedeb",
-        "e18fde55141e6f18",
-        "495b3110b62ac617",
-        "9779323fe5392932",
-        "54a2fa3885cdc64a",
-        "39fdf644f3be16e6",
-        "ca9325902f37847c",
-        "119b41f9cbb8af3b",
-        "18085e3552e4def8",
-        "4a2a0e95c8945262",
-        "b2a0e5957c2bd21c",
-        "22b67685631e3673",
-        "40f38d2bb8285022",
-        "29668ec70becc8d7",
-        "5e22353315d2c696",
-        "762ee50cb6c7ae65",
-        "394627fcaf536214",
-        "11124fa3a63f7cc2",
-        "7201e28ee3618395",
-        "77d62485b6311805",
-        "3989d78eed406403",
-        "79ccf9b876fe6c3e",
-        "b15d4a9065a22927",
-        "066dc6fef70d4cb2",
-        "7d87075d89d0f0a6",
-        "3f5785457da02a0c",
-        "6a3369d201d00380",
-        "75a1c0ec18c60bba",
-        "6c24f0a5a27593e0",
-        "3aae5f780ebf437d",
-        "310c63c636f32536",
-        "2f0c0b8cc2958f32"
-      ],
-      "recent_jobs": [
-        {
-          "id": "b15d4a9065a22927",
-          "title": "Software Engineer 2 - CoreAI",
-          "company": "Microsoft",
-          "posted_at": "2026-02-05T08:07:39.841Z"
-        },
-        {
-          "id": "066dc6fef70d4cb2",
-          "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
-          "company": "Genesis10",
-          "posted_at": "2026-02-05T09:24:37.663Z"
-        },
-        {
-          "id": "7d87075d89d0f0a6",
-          "title": "Junior Software Developer - Remote",
-          "company": "WhatJobs Direct",
-          "posted_at": "2026-02-05T09:54:34.483Z"
-        },
-        {
-          "id": "3f5785457da02a0c",
-          "title": "Software Engineer, Applied AI (Seattle)",
-          "company": "Evertune",
-          "posted_at": "2026-02-05T12:41:00.633Z"
-        },
-        {
-          "id": "6a3369d201d00380",
-          "title": "Industrial Engineer (Entry or Associate)",
-          "company": "Boeing",
-          "posted_at": "2026-02-05T22:14:29.678Z"
-        },
-        {
-          "id": "75a1c0ec18c60bba",
-          "title": "Head of Duolingo Store, Consumer Products",
-          "company": "duolingo",
-          "posted_at": "2026-02-05T23:15:54.840Z"
-        },
-        {
-          "id": "6c24f0a5a27593e0",
-          "title": "Software Engineer II - Kentico",
-          "company": "BDO USA Experienced Career Site",
-          "posted_at": "2026-02-06T14:01:20.113Z"
-        },
-        {
-          "id": "3aae5f780ebf437d",
-          "title": "Enterprise Account Executive (West - State)",
-          "company": "verkada",
-          "posted_at": "2026-02-06T18:38:53.529Z"
-        },
-        {
-          "id": "310c63c636f32536",
-          "title": "Enterprise Solutions Engineer, West Coast",
-          "company": "verkada",
-          "posted_at": "2026-02-06T19:02:25.331Z"
-        },
-        {
-          "id": "2f0c0b8cc2958f32",
-          "title": "Account Executive, Mid Market",
-          "company": "brex",
-          "posted_at": "2026-02-06T22:33:29.253Z"
-        }
-      ]
-    },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 308,
+      "count": 306,
       "jobs": [
-        "e58366835f51154a",
-        "c3f358e46411c086",
         "1a64de5d6de8b1d6",
         "80c6492640a8a050",
         "871754ac9ea10874",
@@ -1206,12 +1068,9 @@
       ]
     },
     "channel-14629893": {
-      "channel_id": "1462989324071997504",
-      "count": 266,
+      "channel_id": "1462989305181114450",
+      "count": 263,
       "jobs": [
-        "2f585646d136aef1",
-        "b93b44c1687d8992",
-        "c44384c10096de57",
         "111ccab8d73c0470",
         "bd9da85c4ff7b7fd",
         "8d83c8c77631ba72",
@@ -1541,9 +1400,8 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 132,
+      "count": 131,
       "jobs": [
-        "c44384c10096de57",
         "871754ac9ea10874",
         "14ec0c1b70867b7f",
         "a01157c6bc8ebec5",
@@ -1738,89 +1596,133 @@
           "posted_at": "2026-02-07T15:49:30.194Z"
         }
       ]
+    },
+    "channel-14629892": {
+      "channel_id": "1462989279817891900",
+      "count": 56,
+      "jobs": [
+        "14ec0c1b70867b7f",
+        "50f27332076adff9",
+        "43417e80d17ce718",
+        "6cb786fb8540fa43",
+        "8d89cbf963dc1516",
+        "652edd6dcc4fbf97",
+        "77f31e66ffc873cb",
+        "1dacd65c454969a5",
+        "7b1ca6e75e5d3ffe",
+        "e6d6bdac8d7b5eb4",
+        "c6f4552b7ac1150f",
+        "24848808030cc4e8",
+        "c744ed8bbf7078d8",
+        "ac6fcdde605c5928",
+        "0f2012759e66c41d",
+        "e54558ec3b063de6",
+        "f5a8b63e203a7d0b",
+        "f541fef2035a10bd",
+        "43a2ebbb6f9ad95f",
+        "d2f8de0a0d2b57ba",
+        "05d7acc8863b22a0",
+        "c317b32a0ce812ec",
+        "6dbd2b5b3cb4f8b1",
+        "1814be7a08f5055c",
+        "f3af6fc6713aedeb",
+        "e18fde55141e6f18",
+        "495b3110b62ac617",
+        "9779323fe5392932",
+        "54a2fa3885cdc64a",
+        "39fdf644f3be16e6",
+        "ca9325902f37847c",
+        "119b41f9cbb8af3b",
+        "18085e3552e4def8",
+        "4a2a0e95c8945262",
+        "b2a0e5957c2bd21c",
+        "22b67685631e3673",
+        "40f38d2bb8285022",
+        "29668ec70becc8d7",
+        "5e22353315d2c696",
+        "762ee50cb6c7ae65",
+        "394627fcaf536214",
+        "11124fa3a63f7cc2",
+        "7201e28ee3618395",
+        "77d62485b6311805",
+        "3989d78eed406403",
+        "79ccf9b876fe6c3e",
+        "b15d4a9065a22927",
+        "066dc6fef70d4cb2",
+        "7d87075d89d0f0a6",
+        "3f5785457da02a0c",
+        "6a3369d201d00380",
+        "75a1c0ec18c60bba",
+        "6c24f0a5a27593e0",
+        "3aae5f780ebf437d",
+        "310c63c636f32536",
+        "2f0c0b8cc2958f32"
+      ],
+      "recent_jobs": [
+        {
+          "id": "b15d4a9065a22927",
+          "title": "Software Engineer 2 - CoreAI",
+          "company": "Microsoft",
+          "posted_at": "2026-02-05T08:07:39.841Z"
+        },
+        {
+          "id": "066dc6fef70d4cb2",
+          "title": "Dev10 Entry Level Software Developer - Nationwide at Genesis10 Pasco, WA",
+          "company": "Genesis10",
+          "posted_at": "2026-02-05T09:24:37.663Z"
+        },
+        {
+          "id": "7d87075d89d0f0a6",
+          "title": "Junior Software Developer - Remote",
+          "company": "WhatJobs Direct",
+          "posted_at": "2026-02-05T09:54:34.483Z"
+        },
+        {
+          "id": "3f5785457da02a0c",
+          "title": "Software Engineer, Applied AI (Seattle)",
+          "company": "Evertune",
+          "posted_at": "2026-02-05T12:41:00.633Z"
+        },
+        {
+          "id": "6a3369d201d00380",
+          "title": "Industrial Engineer (Entry or Associate)",
+          "company": "Boeing",
+          "posted_at": "2026-02-05T22:14:29.678Z"
+        },
+        {
+          "id": "75a1c0ec18c60bba",
+          "title": "Head of Duolingo Store, Consumer Products",
+          "company": "duolingo",
+          "posted_at": "2026-02-05T23:15:54.840Z"
+        },
+        {
+          "id": "6c24f0a5a27593e0",
+          "title": "Software Engineer II - Kentico",
+          "company": "BDO USA Experienced Career Site",
+          "posted_at": "2026-02-06T14:01:20.113Z"
+        },
+        {
+          "id": "3aae5f780ebf437d",
+          "title": "Enterprise Account Executive (West - State)",
+          "company": "verkada",
+          "posted_at": "2026-02-06T18:38:53.529Z"
+        },
+        {
+          "id": "310c63c636f32536",
+          "title": "Enterprise Solutions Engineer, West Coast",
+          "company": "verkada",
+          "posted_at": "2026-02-06T19:02:25.331Z"
+        },
+        {
+          "id": "2f0c0b8cc2958f32",
+          "title": "Account Executive, Mid Market",
+          "company": "brex",
+          "posted_at": "2026-02-06T22:33:29.253Z"
+        }
+      ]
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "e413e7a771cda036",
-      "company": "ByteDance",
-      "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T11:59:17.306Z"
-    },
-    {
-      "job_id": "e58366835f51154a",
-      "company": "Chime",
-      "title": "Product Security Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T11:59:21.113Z"
-    },
-    {
-      "job_id": "2f585646d136aef1",
-      "company": "qode.world",
-      "title": "Junior Software Developer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:59:26.890Z"
-    },
-    {
-      "job_id": "b93b44c1687d8992",
-      "company": "Artech Information System",
-      "title": "SAS Programmer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:59:32.309Z"
-    },
-    {
-      "job_id": "c44384c10096de57",
-      "company": "Canonical",
-      "title": "Software Engineer - Python - Cloud",
-      "channels": [
-        "channel-14629887",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T11:59:38.982Z"
-    },
-    {
-      "job_id": "c3f358e46411c086",
-      "company": "ByteDance",
-      "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T11:59:45.739Z"
-    },
-    {
-      "job_id": "3015ef2f43c07677",
-      "company": "ByteDance",
-      "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
-      "channels": [
-        "channel-14629886",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T11:59:49.566Z"
-    },
-    {
-      "job_id": "444c952c81d13d66",
-      "company": "ByteDance",
-      "title": "Machine Learning Graduate - Ecommerce Recommendation - 2026 Start",
-      "channels": [
-        "channel-14629886",
-        "channel-14629892"
-      ],
-      "posted_at": "2026-02-01T11:59:53.553Z"
-    },
     {
       "job_id": "1a64de5d6de8b1d6",
       "company": "ByteDance",
@@ -2240,6 +2142,86 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-01T13:53:40.060Z"
+    },
+    {
+      "job_id": "58906b8d4feef95b",
+      "company": "Figure",
+      "title": "Helix Data Creator",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T13:53:44.066Z"
+    },
+    {
+      "job_id": "54c24722402575a4",
+      "company": "Apex Fintech Solutions",
+      "title": "Software Engineer I (ALDP)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T13:53:47.637Z"
+    },
+    {
+      "job_id": "571b30b7532cbb59",
+      "company": "Folia Health",
+      "title": "Junior Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T13:53:51.333Z"
+    },
+    {
+      "job_id": "78132fb154337cc1",
+      "company": "Veterans United Home Loans",
+      "title": "Associate Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T13:53:55.075Z"
+    },
+    {
+      "job_id": "33ea329c5dcc0093",
+      "company": "Amazon",
+      "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T13:54:00.781Z"
+    },
+    {
+      "job_id": "4c5dbc98644878a0",
+      "company": "BRM",
+      "title": "Entry Level Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T13:54:08.064Z"
+    },
+    {
+      "job_id": "18f557b4e4a5b5d2",
+      "company": "AG Technologies",
+      "title": "Hiring for OPT/H4EAD/GC",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T14:16:47.439Z"
+    },
+    {
+      "job_id": "f5967b1e5900663b",
+      "company": "Citadel Securities",
+      "title": "C++ Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T14:16:54.143Z"
     }
   ],
   "failures": [],
