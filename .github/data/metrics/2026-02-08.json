@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T10:43:14.667Z",
+  "generated": "2026-02-08T10:57:02.299Z",
   "period": "last_7_days",
-  "period_start": "2026-02-01T10:43:14.667Z",
-  "period_end": "2026-02-08T10:43:14.667Z",
+  "period_start": "2026-02-01T10:57:02.299Z",
+  "period_end": "2026-02-08T10:57:02.299Z",
   "summary": {
-    "total_jobs_posted": 1506,
-    "unique_jobs": 813,
-    "multi_channel_postings": 1386,
-    "unique_multi_channel_jobs": 693,
+    "total_jobs_posted": 1486,
+    "unique_jobs": 803,
+    "multi_channel_postings": 1366,
+    "unique_multi_channel_jobs": 683,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,18 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 676,
+      "count": 666,
       "jobs": [
-        "13b0b84d496aead4",
-        "f0ba6ddf4e6a1a09",
-        "378dcafbdb8bebbe",
-        "360ae57f32da3016",
-        "dff7acbb7b510ab7",
-        "34ca572016c010c0",
-        "4b8d0aa6575ecd55",
-        "ed3719199c7bf014",
-        "6e6b07c6fa4adb80",
-        "691bfacd56afbecd",
         "653a1bc572ad38d1",
         "2723acdcbbad6e36",
         "39381e1163556946",
@@ -758,17 +748,9 @@
       ]
     },
     "channel-14629888": {
-      "channel_id": "1462988811263934464",
-      "count": 348,
+      "channel_id": "1462988831530680422",
+      "count": 340,
       "jobs": [
-        "13b0b84d496aead4",
-        "f0ba6ddf4e6a1a09",
-        "378dcafbdb8bebbe",
-        "dff7acbb7b510ab7",
-        "34ca572016c010c0",
-        "4b8d0aa6575ecd55",
-        "6e6b07c6fa4adb80",
-        "691bfacd56afbecd",
         "653a1bc572ad38d1",
         "2723acdcbbad6e36",
         "39381e1163556946",
@@ -1175,10 +1157,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 280,
+      "count": 278,
       "jobs": [
-        "360ae57f32da3016",
-        "ed3719199c7bf014",
         "115b9eab48e2ce6c",
         "55b0f111979aded0",
         "cc32f4153f513ceb",
@@ -1862,106 +1842,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "13b0b84d496aead4",
-      "company": "NVIDIA",
-      "title": "Software Engineer, TensorRT Specialized Platforms",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:52:46.304Z"
-    },
-    {
-      "job_id": "f0ba6ddf4e6a1a09",
-      "company": "Commure",
-      "title": "Software Engineer (Summer 2026 New Grad)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:52:50.105Z"
-    },
-    {
-      "job_id": "378dcafbdb8bebbe",
-      "company": "supabase",
-      "title": "Developer Relations Engineer (San Francisco, CA)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:52:53.785Z"
-    },
-    {
-      "job_id": "360ae57f32da3016",
-      "company": "Fidelity",
-      "title": "Software Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T10:52:57.548Z"
-    },
-    {
-      "job_id": "dff7acbb7b510ab7",
-      "company": "Analog Devices",
-      "title": "Product Applications Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:53:01.231Z"
-    },
-    {
-      "job_id": "34ca572016c010c0",
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate - AI Applications",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:53:05.012Z"
-    },
-    {
-      "job_id": "4b8d0aa6575ecd55",
-      "company": "GE Vernova",
-      "title": "GE Vernova Advanced Research 2026 Edison Rotational Program",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:53:11.921Z"
-    },
-    {
-      "job_id": "ed3719199c7bf014",
-      "company": "Allen Control Systems",
-      "title": "Computer Vision & Machine Learning, Junior",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-01T10:53:15.574Z"
-    },
-    {
-      "job_id": "6e6b07c6fa4adb80",
-      "company": "ByteDance",
-      "title": "Machine Learning Graduate - 2026 Start",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:53:19.691Z"
-    },
-    {
-      "job_id": "691bfacd56afbecd",
-      "company": "Zuma",
-      "title": "Support Engineer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-01T10:53:23.536Z"
-    },
-    {
       "job_id": "653a1bc572ad38d1",
       "company": "Deutsche Bank",
       "title": "Deutsche Bank Graduate Programme - Technology - Data and Innovation",
@@ -2360,6 +2240,106 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-01T11:34:24.161Z"
+    },
+    {
+      "job_id": "803fb674be7e3195",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Cloud Native Infrastructure - 2026 Start','BS/MS",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:49:32.947Z"
+    },
+    {
+      "job_id": "c29d17df759516bc",
+      "company": "ByteDance",
+      "title": "Graduate Software Engineer - Cloud Native Infrastructure",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:49:36.922Z"
+    },
+    {
+      "job_id": "bd06abc2a55da67d",
+      "company": "Palantir",
+      "title": "Software Engineer – New Grad - Production Infrastructure",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-01T11:49:41.116Z"
+    },
+    {
+      "job_id": "496bfd932c2d3894",
+      "company": "ByteDance",
+      "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:49:45.269Z"
+    },
+    {
+      "job_id": "61174bcaa59760c2",
+      "company": "ByteDance",
+      "title": "Network Engineer Graduate (Physical Network Infra)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:49:49.065Z"
+    },
+    {
+      "job_id": "22c62b81a4dccb4b",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (Edge Platform)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:49:52.814Z"
+    },
+    {
+      "job_id": "0c987c4e792dd1d6",
+      "company": "ByteDance",
+      "title": "Site Reliability Engineer Graduate (Data Infrastructure)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-01T11:49:56.621Z"
+    },
+    {
+      "job_id": "348cbd8455b47d7f",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Commerce Ads)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:50:00.549Z"
+    },
+    {
+      "job_id": "58258f645d46c2a2",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Media Platform)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:50:04.242Z"
+    },
+    {
+      "job_id": "777615021b0953c4",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate (Foundation Platform)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-01T11:50:08.215Z"
     }
   ],
   "failures": [],
