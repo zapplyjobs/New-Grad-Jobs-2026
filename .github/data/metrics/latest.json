@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-09T14:13:14.517Z",
+  "generated": "2026-02-09T14:39:55.656Z",
   "period": "last_7_days",
-  "period_start": "2026-02-02T14:13:14.517Z",
-  "period_end": "2026-02-09T14:13:14.517Z",
+  "period_start": "2026-02-02T14:39:55.656Z",
+  "period_end": "2026-02-09T14:39:55.656Z",
   "summary": {
-    "total_jobs_posted": 643,
-    "unique_jobs": 365,
-    "multi_channel_postings": 556,
-    "unique_multi_channel_jobs": 278,
+    "total_jobs_posted": 641,
+    "unique_jobs": 364,
+    "multi_channel_postings": 554,
+    "unique_multi_channel_jobs": 277,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,9 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 271,
+      "count": 270,
       "jobs": [
-        "e13b74ddd769538e",
         "32550de200b9ab3e",
         "2653285e551f6e0c",
         "104aae53c17cef39",
@@ -353,10 +352,9 @@
       ]
     },
     "channel-14629893": {
-      "channel_id": "1462989305181114450",
-      "count": 119,
+      "channel_id": "1462989324071997504",
+      "count": 118,
       "jobs": [
-        "e13b74ddd769538e",
         "32550de200b9ab3e",
         "2653285e551f6e0c",
         "03ba100fa9e79b37",
@@ -999,16 +997,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "e13b74ddd769538e",
-      "company": "gohighlevel",
-      "title": "Software Development Engineer III - Location",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T14:35:09.401Z"
-    },
-    {
       "job_id": "32550de200b9ab3e",
       "company": "DV Trading",
       "title": "Junior Risk Developer",
@@ -1497,6 +1485,16 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T06:43:45.446Z"
+    },
+    {
+      "job_id": "65b0f2107b47bb40",
+      "company": "ATC",
+      "title": "Software Engineer (Ruby on Rails)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T06:43:49.442Z"
     }
   ],
   "failures": [],
