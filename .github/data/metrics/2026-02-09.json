@@ -1,25 +1,22 @@
 {
-  "generated": "2026-02-09T11:59:59.155Z",
+  "generated": "2026-02-09T12:30:02.236Z",
   "period": "last_7_days",
-  "period_start": "2026-02-02T11:59:59.155Z",
-  "period_end": "2026-02-09T11:59:59.155Z",
+  "period_start": "2026-02-02T12:30:02.236Z",
+  "period_end": "2026-02-09T12:30:02.236Z",
   "summary": {
-    "total_jobs_posted": 649,
-    "unique_jobs": 368,
-    "multi_channel_postings": 562,
-    "unique_multi_channel_jobs": 281,
+    "total_jobs_posted": 643,
+    "unique_jobs": 365,
+    "multi_channel_postings": 556,
+    "unique_multi_channel_jobs": 278,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988605306834987",
-      "count": 274,
+      "channel_id": "1462988662168879217",
+      "count": 271,
       "jobs": [
-        "c0352a4c3bbebfb5",
-        "de0f18d834b5cfba",
-        "e8e50308b5fe1b98",
         "e13b74ddd769538e",
         "32550de200b9ab3e",
         "2653285e551f6e0c",
@@ -357,11 +354,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 122,
+      "count": 119,
       "jobs": [
-        "c0352a4c3bbebfb5",
-        "de0f18d834b5cfba",
-        "e8e50308b5fe1b98",
         "e13b74ddd769538e",
         "32550de200b9ab3e",
         "2653285e551f6e0c",
@@ -1005,36 +999,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "c0352a4c3bbebfb5",
-      "company": "Greenheck Group",
-      "title": "Application Developer 1",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T12:07:05.510Z"
-    },
-    {
-      "job_id": "de0f18d834b5cfba",
-      "company": "RTX",
-      "title": "Software Engineer 1 - Integration & Test",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T12:07:09.442Z"
-    },
-    {
-      "job_id": "e8e50308b5fe1b98",
-      "company": "supabase",
-      "title": "API Engineer (NASA or APAC)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T12:07:13.130Z"
-    },
-    {
       "job_id": "e13b74ddd769538e",
       "company": "gohighlevel",
       "title": "Software Development Engineer III - Location",
@@ -1503,6 +1467,36 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-05T02:46:57.456Z"
+    },
+    {
+      "job_id": "b3cf540b4f342f96",
+      "company": "anthropic",
+      "title": "Finance & Strategy, Marketing Finance Business Partner",
+      "channels": [
+        "channel-14629887",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T05:47:13.338Z"
+    },
+    {
+      "job_id": "e732a45d4a8329ff",
+      "company": "Gravity IT Resources",
+      "title": "Jr. Java Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T06:43:41.679Z"
+    },
+    {
+      "job_id": "a8214405427e3466",
+      "company": "Jobs via Dice",
+      "title": "POS Engineer-Direct Hire-NO CTC/H1B",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T06:43:45.446Z"
     }
   ],
   "failures": [],
