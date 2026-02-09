@@ -1,24 +1,22 @@
 {
-  "generated": "2026-02-09T17:35:13.844Z",
+  "generated": "2026-02-09T18:04:23.587Z",
   "period": "last_7_days",
-  "period_start": "2026-02-02T17:35:13.844Z",
-  "period_end": "2026-02-09T17:35:13.844Z",
+  "period_start": "2026-02-02T18:04:23.587Z",
+  "period_end": "2026-02-09T18:04:23.587Z",
   "summary": {
-    "total_jobs_posted": 641,
-    "unique_jobs": 364,
-    "multi_channel_postings": 554,
-    "unique_multi_channel_jobs": 277,
+    "total_jobs_posted": 635,
+    "unique_jobs": 361,
+    "multi_channel_postings": 548,
+    "unique_multi_channel_jobs": 274,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988662168879217",
-      "count": 270,
+      "channel_id": "1462988605306834987",
+      "count": 268,
       "jobs": [
-        "32550de200b9ab3e",
-        "2653285e551f6e0c",
         "104aae53c17cef39",
         "08977040457b4138",
         "3d8c09fd356b880f",
@@ -353,11 +351,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989324071997504",
-      "count": 118,
+      "count": 115,
       "jobs": [
-        "32550de200b9ab3e",
-        "2653285e551f6e0c",
-        "03ba100fa9e79b37",
         "104aae53c17cef39",
         "b356b91fabda93d6",
         "7554ffe73d1ad728",
@@ -539,9 +534,8 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 94,
+      "count": 93,
       "jobs": [
-        "03ba100fa9e79b37",
         "b356b91fabda93d6",
         "eed1139daa06c1b7",
         "a692166b7a4dee3d",
@@ -996,36 +990,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "32550de200b9ab3e",
-      "company": "DV Trading",
-      "title": "Junior Risk Developer",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T17:41:37.786Z"
-    },
-    {
-      "job_id": "2653285e551f6e0c",
-      "company": "Wyetech",
-      "title": "Software Engineer 0",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T17:41:41.636Z"
-    },
-    {
-      "job_id": "03ba100fa9e79b37",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Production Data Engineer",
-      "channels": [
-        "channel-14629887",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T17:41:48.607Z"
-    },
     {
       "job_id": "104aae53c17cef39",
       "company": "OCC",
@@ -1495,6 +1459,36 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-05T06:43:49.442Z"
+    },
+    {
+      "job_id": "901eb27179689fae",
+      "company": "Walmart",
+      "title": "Java, Javascript, Python, NodeJS Software Engineer",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T06:43:56.500Z"
+    },
+    {
+      "job_id": "f4cbb23a58c5be7a",
+      "company": "Boeing",
+      "title": "Software Engineer–Systems (Associate/Experienced)",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T06:44:00.271Z"
+    },
+    {
+      "job_id": "778d8f9282e7d2e3",
+      "company": "Walmart",
+      "title": "Software Engineer III",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T06:44:06.950Z"
     }
   ],
   "failures": [],
