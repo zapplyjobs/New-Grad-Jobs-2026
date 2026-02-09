@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-09T11:33:21.550Z",
+  "generated": "2026-02-09T11:59:59.155Z",
   "period": "last_7_days",
-  "period_start": "2026-02-02T11:33:21.550Z",
-  "period_end": "2026-02-09T11:33:21.550Z",
+  "period_start": "2026-02-02T11:59:59.155Z",
+  "period_end": "2026-02-09T11:59:59.155Z",
   "summary": {
-    "total_jobs_posted": 653,
-    "unique_jobs": 370,
-    "multi_channel_postings": 566,
-    "unique_multi_channel_jobs": 283,
+    "total_jobs_posted": 649,
+    "unique_jobs": 368,
+    "multi_channel_postings": 562,
+    "unique_multi_channel_jobs": 281,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,10 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 276,
+      "count": 274,
       "jobs": [
-        "6867ee079b792d13",
-        "52f4fe5ce4c4cf72",
         "c0352a4c3bbebfb5",
         "de0f18d834b5cfba",
         "e8e50308b5fe1b98",
@@ -358,11 +356,9 @@
       ]
     },
     "channel-14629893": {
-      "channel_id": "1462989324071997504",
-      "count": 124,
+      "channel_id": "1462989305181114450",
+      "count": 122,
       "jobs": [
-        "6867ee079b792d13",
-        "52f4fe5ce4c4cf72",
         "c0352a4c3bbebfb5",
         "de0f18d834b5cfba",
         "e8e50308b5fe1b98",
@@ -1009,26 +1005,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "6867ee079b792d13",
-      "company": "Greenheck Group",
-      "title": "Application Developer 1",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T11:52:49.349Z"
-    },
-    {
-      "job_id": "52f4fe5ce4c4cf72",
-      "company": "CrowdGen by Appen",
-      "title": "iOS Users - Join Project Mavara",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-02T11:52:56.043Z"
-    },
-    {
       "job_id": "c0352a4c3bbebfb5",
       "company": "Greenheck Group",
       "title": "Application Developer 1",
@@ -1507,6 +1483,26 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-04T23:33:30.491Z"
+    },
+    {
+      "job_id": "0ab4398b8f649d13",
+      "company": "anthropic",
+      "title": "[P] Compute Efficiency Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T01:43:40.645Z"
+    },
+    {
+      "job_id": "79d3f90b12a37b45",
+      "company": "anthropic",
+      "title": "External Affairs, US Federal",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T02:46:57.456Z"
     }
   ],
   "failures": [],
