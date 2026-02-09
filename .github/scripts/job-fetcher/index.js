@@ -2,7 +2,7 @@
 
 /**
  * Main entry point for the job fetcher system
- * 
+ *
  * This module orchestrates the entire job fetching and processing pipeline:
  * 1. Fetches jobs from multiple sources (APIs + career pages)
  * 2. Filters and processes jobs for US positions
@@ -10,6 +10,7 @@
  * 4. Handles deduplication and archiving
  */
 
+const { logger, tryCatch } = require('../shared');
 const { processJobs } = require('./job-processor');
 const { updateReadme } = require('./readme-generator');
 const { fetchInternshipData, companies } = require('./utils');
@@ -17,39 +18,44 @@ const { fetchInternshipData, companies } = require('./utils');
 // Main execution function
 async function main() {
     try {
-        console.log('🚀 Starting Zapply job fetching system...');
-        console.log('═'.repeat(50));
-        
+        logger.start('Job fetching system', {
+            timestamp: new Date().toISOString()
+        });
+
         // Process all jobs (fetch, filter, deduplicate)
         const { currentJobs, archivedJobs, freshJobs, stats } = await processJobs();
-        
+
         // Fetch internship data
         const internshipData = await fetchInternshipData();
-        
+
         // Update README with current job state
         await updateReadme(currentJobs, archivedJobs, internshipData, stats);
-        
-        // Print final summary
-        console.log('\n🎉 Job fetching completed successfully!');
-        console.log('═'.repeat(50));
-        console.log(`📊 Final Stats:`);
-        console.log(`   • Current jobs: ${currentJobs.length}`);
-        console.log(`   • Fresh jobs: ${freshJobs.length}`);
-        console.log(`   • Archived jobs: ${archivedJobs.length}`);
-        console.log(`   • Companies: ${Object.keys(stats.totalByCompany).length}`);
-        console.log(`   • FAANG+ jobs: ${currentJobs.filter(job => 
+
+        // Calculate FAANG+ jobs count
+        const faangJobCount = currentJobs.filter(job =>
             companies.faang_plus.some(c => c.name === job.employer_name)
-        ).length}`);
-        
+        ).length;
+
+        // Log final summary
+        logger.complete('Job fetching completed successfully', {
+            current_jobs: currentJobs.length,
+            fresh_jobs: freshJobs.length,
+            archived_jobs: archivedJobs.length,
+            companies: Object.keys(stats.totalByCompany).length,
+            faang_plus_jobs: faangJobCount
+        });
+
         if (freshJobs.length > 0) {
-            console.log(`\n📬 ${freshJobs.length} new jobs prepared for Discord posting`);
+            logger.info('New jobs prepared for Discord posting', { count: freshJobs.length });
         } else {
-            console.log(`\nℹ️ No new jobs found - all positions already processed`);
+            logger.info('No new jobs found - all positions already processed');
         }
-        
+
     } catch (error) {
-        console.error('\n❌ Fatal error in job fetching system:', error);
-        console.error('Stack trace:', error.stack);
+        logger.fatal('Fatal error in job fetching system', {
+            error: error.message,
+            stack: error.stack
+        });
         process.exit(1);
     }
 }

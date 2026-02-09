@@ -9,10 +9,13 @@
  * - Query rotation (1 query per run)
  * - Rate limiting (1 request/day max)
  * - Graceful error handling
+ * - Socket hang up retry with exponential backoff
+ * - Structured logging
  */
 
 const fs = require('fs');
 const path = require('path');
+const { logger, withRetry, tryCatch, config } = require('../shared');
 
 // Configuration - JSearch API
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
@@ -64,14 +67,18 @@ const NEW_GRAD_QUERIES = [
 /**
  * Load or initialize usage tracking file
  */
-function loadUsageTracking() {
-    try {
+async function loadUsageTracking() {
+    return tryCatch(async () => {
         if (fs.existsSync(USAGE_FILE)) {
             const data = JSON.parse(fs.readFileSync(USAGE_FILE, 'utf8'));
             const today = new Date().toISOString().split('T')[0];
 
             // Reset counter if new day
             if (data.date !== today) {
+                logger.info('New day detected - resetting JSearch usage tracking', {
+                    old_date: data.date,
+                    new_date: today
+                });
                 return {
                     date: today,
                     requests: 0,
@@ -81,32 +88,49 @@ function loadUsageTracking() {
             }
             return data;
         }
-    } catch (error) {
-        console.error('⚠️ Error loading usage tracking:', error.message);
-    }
-
-    // Initialize new tracking file
-    return {
-        date: new Date().toISOString().split('T')[0],
-        requests: 0,
-        remaining: MAX_REQUESTS_PER_DAY,
-        queries_executed: []
-    };
+        return null;
+    }, 'Load JSearch usage tracking')().then(data => {
+        if (!data) {
+            logger.info('Initializing new JSearch usage tracking file');
+            return {
+                date: new Date().toISOString().split('T')[0],
+                requests: 0,
+                remaining: MAX_REQUESTS_PER_DAY,
+                queries_executed: []
+            };
+        }
+        return data;
+    }).catch(error => {
+        logger.error('Failed to load usage tracking - using defaults', { error: error.message });
+        return {
+            date: new Date().toISOString().split('T')[0],
+            requests: 0,
+            remaining: MAX_REQUESTS_PER_DAY,
+            queries_executed: []
+        };
+    });
 }
 
 /**
  * Save usage tracking
  */
-function saveUsageTracking(data) {
-    try {
+/**
+ * Save usage tracking
+ */
+async function saveUsageTracking(data) {
+    return tryCatch(async () => {
         const dir = path.dirname(USAGE_FILE);
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, { recursive: true });
         }
         fs.writeFileSync(USAGE_FILE, JSON.stringify(data, null, 2), 'utf8');
-    } catch (error) {
-        console.error('⚠️ Error saving usage tracking:', error.message);
-    }
+        logger.debug('JSearch usage tracking saved', {
+            requests: data.requests,
+            remaining: data.remaining
+        });
+    }, 'Save JSearch usage tracking')().catch(error => {
+        logger.error('Failed to save usage tracking', { error: error.message });
+    });
 }
 
 /**
@@ -188,7 +212,10 @@ function normalizeJSearchJobs(response) {
     } else if (Array.isArray(response.data)) {
         jobsArray = response.data;
     } else {
-        console.error('❌ Unexpected JSearch response format');
+        logger.error('Unexpected JSearch response format', {
+            has_data: !!response.data,
+            data_type: typeof response.data
+        });
         return [];
     }
 
@@ -214,7 +241,11 @@ function normalizeJSearchJobs(response) {
                 job_location: job.job_location || ''
             };
         } catch (error) {
-            console.error('⚠️ Error normalizing JSearch job:', error.message);
+            logger.warn('Error normalizing JSearch job - skipping', {
+                error: error.message,
+                job_id: job.job_id,
+                employer: job.employer_name
+            });
             return null;
         }
     }).filter(job => job !== null);
@@ -223,35 +254,53 @@ function normalizeJSearchJobs(response) {
 /**
  * Search JSearch API for new grad jobs
  * Target: 90 jobs/day (10 requests × 9 pages)
+ *
+ * Features:
+ * - Query rotation based on hour
+ * - Rate limiting enforcement
+ * - Exponential backoff retry for socket hang up errors
+ * - Structured logging
  */
 async function searchJSearchNewGrad() {
     // Check if API key is configured
     if (!JSEARCH_API_KEY) {
-        console.log('⚠️ JSEARCH_API_KEY not configured - skipping JSearch fetch');
-        console.log('   To enable: Add JSEARCH_API_KEY to repository secrets');
+        logger.warn('JSEARCH_API_KEY not configured - skipping JSearch fetch', {
+            hint: 'Add JSEARCH_API_KEY to repository secrets'
+        });
         return [];
     }
 
-    // Load usage tracking
-    const usage = loadUsageTracking();
+    // Load usage tracking (now async)
+    const usage = await loadUsageTracking();
 
     // Check rate limit
     if (usage.requests >= MAX_REQUESTS_PER_DAY) {
-        console.log(`⏸️ JSearch daily limit reached (${usage.requests}/${MAX_REQUESTS_PER_DAY}), skipping this run`);
+        logger.info('JSearch daily limit reached - skipping this run', {
+            requests: usage.requests,
+            max_requests: MAX_REQUESTS_PER_DAY,
+            remaining: usage.remaining
+        });
         return [];
     }
 
     // Log available quota for visibility
-    console.log(`📊 JSearch quota available: ${usage.remaining}/${MAX_REQUESTS_PER_DAY} requests remaining`);
+    logger.info('JSearch quota available', {
+        remaining: usage.remaining,
+        max_requests: MAX_REQUESTS_PER_DAY
+    });
+
+    // Rotate queries based on current hour (spreads requests across queries)
+    const currentHour = new Date().getUTCHours();
+    const queryIndex = currentHour % NEW_GRAD_QUERIES.length;
+    const query = NEW_GRAD_QUERIES[queryIndex];
+
+    logger.info('JSearch API request initiated', {
+        query,
+        request_number: usage.requests + 1,
+        max_requests: MAX_REQUESTS_PER_DAY
+    });
 
     try {
-        // Rotate queries based on current hour (spreads requests across queries)
-        const currentHour = new Date().getUTCHours();
-        const queryIndex = currentHour % NEW_GRAD_QUERIES.length;
-        const query = NEW_GRAD_QUERIES[queryIndex];
-
-        console.log(`📡 JSearch API - Query: "${query}" (${usage.requests + 1}/${MAX_REQUESTS_PER_DAY} today)`);
-
         // Build API request
         const url = new URL(JSEARCH_BASE_URL);
         url.searchParams.append('query', `${query} United States`);
@@ -262,16 +311,29 @@ async function searchJSearchNewGrad() {
         url.searchParams.append('employment_types', 'FULLTIME');  // Full-time roles
         url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
 
-        const response = await fetch(url.toString(), {
-            method: 'GET',
-            headers: {
-                'X-RapidAPI-Key': JSEARCH_API_KEY,
-                'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
-            }
-        });
+        // Fetch with retry logic for socket hang up errors (H7)
+        const response = await withRetry(
+            async () => {
+                return fetch(url.toString(), {
+                    method: 'GET',
+                    headers: {
+                        'X-RapidAPI-Key': JSEARCH_API_KEY,
+                        'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
+                    },
+                    // Add timeout to prevent hanging connections
+                    signal: AbortSignal.timeout(30000)  // 30 second timeout
+                });
+            },
+            'JSearch API fetch',
+            config.socketHangUp,  // Use centralized retry config
+            { query, url: url.toString() }
+        );
 
         if (!response.ok) {
-            console.error(`❌ JSearch API request failed: ${response.status} ${response.statusText}`);
+            logger.error('JSearch API request failed', {
+                status: response.status,
+                statusText: response.statusText
+            });
             return [];
         }
 
@@ -296,17 +358,25 @@ async function searchJSearchNewGrad() {
         // Calculate averages
         const avgJobsPerRequest = usage.metrics.total_jobs / usage.requests;
 
-        saveUsageTracking(usage);
+        await saveUsageTracking(usage);
 
-        console.log(`✅ JSearch returned ${jobs.length} jobs (avg ${avgJobsPerRequest.toFixed(1)} jobs/request)`);
-        console.log(`📊 Usage today: ${usage.requests}/${MAX_REQUESTS_PER_DAY} requests, ${usage.remaining} remaining`);
-        console.log(`📈 Total jobs fetched today: ${usage.metrics.total_jobs}`);
+        logger.info('JSearch fetch completed successfully', {
+            jobs_returned: jobs.length,
+            avg_jobs_per_request: avgJobsPerRequest.toFixed(1),
+            usage_requests: usage.requests,
+            usage_remaining: usage.remaining,
+            total_jobs_today: usage.metrics.total_jobs
+        });
 
         // Normalize jobs to internal format
         return normalizeJSearchJobs(data);
 
     } catch (error) {
-        console.error('❌ JSearch API error:', error.message);
+        logger.error('JSearch API error', {
+            error: error.message,
+            code: error.code,
+            query
+        });
         return [];
     }
 }
