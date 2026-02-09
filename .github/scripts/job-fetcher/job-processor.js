@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { logger, tryCatch } = require('../shared');
 const { fetchAllJobs } = require('../unified-job-fetcher');
 const {
     companies,
@@ -97,7 +98,7 @@ function loadJobDatesStore() {
         return JSON.parse(fileContent);
         
     } catch (error) {
-        console.error('Error loading job_dates.json:', error.message);
+        logger.error('Error loading job_dates.json', { error: error.message });
         return {};
     }
 }
@@ -133,7 +134,7 @@ function saveJobDatesStore(jobDates) {
         fs.renameSync(tempPath, datesPath);
         
     } catch (error) {
-        console.error('Error saving job_dates.json:', error.message);
+        logger.error('Error saving job_dates.json', { error: error.message });
     }
 }
 
@@ -147,22 +148,22 @@ function loadCurrentJobsStore() {
 
     try {
         if (!fs.existsSync(currentJobsPath)) {
-            console.log('ℹ️ No existing current_jobs.json found - starting fresh');
+            logger.info('No existing current_jobs.json found - starting fresh');
             return [];
         }
 
         const fileContent = fs.readFileSync(currentJobsPath, 'utf8');
         if (!fileContent.trim()) {
-            console.log('⚠️ Empty current_jobs.json file - starting fresh');
+            logger.warn('Empty current_jobs.json file - starting fresh');
             return [];
         }
 
         const jobs = JSON.parse(fileContent);
-        console.log(`✅ Loaded ${jobs.length} jobs from current_jobs.json`);
+        logger.info('Loaded jobs from current_jobs.json', { count: jobs.length });
         return jobs;
 
     } catch (error) {
-        console.error('❌ Error loading current_jobs.json:', error.message);
+        logger.error('Error loading current_jobs.json', { error: error.message });
         return [];
     }
 }
@@ -188,10 +189,10 @@ function saveCurrentJobsStore(jobs) {
         // Atomic rename
         fs.renameSync(tempPath, currentJobsPath);
 
-        console.log(`✅ Saved ${jobs.length} jobs to current_jobs.json`);
+        logger.info('Saved jobs to current_jobs.json', { count: jobs.length });
 
     } catch (error) {
-        console.error('❌ Error saving current_jobs.json:', error.message);
+        logger.error('Error saving current_jobs.json', { error: error.message });
     }
 }
 
@@ -220,7 +221,12 @@ function mergeJobs(persistedJobs, freshJobs) {
     const duplicatesRemoved = persistedJobs.length + freshJobs.length - mergedJobs.length;
 
     if (duplicatesRemoved > 0) {
-        console.log(`🔄 Merged ${persistedJobs.length} persisted + ${freshJobs.length} fresh jobs → ${mergedJobs.length} unique (${duplicatesRemoved} duplicates removed)`);
+        logger.info('Merged jobs with deduplication', {
+            persisted: persistedJobs.length,
+            fresh: freshJobs.length,
+            unique: mergedJobs.length,
+            duplicates_removed: duplicatesRemoved
+        });
     }
 
     return mergedJobs;
@@ -304,16 +310,16 @@ async function searchJobs(query, location = '') {
         });
         
         if (!response.ok) {
-            console.error(`API request failed for "${query}": ${response.status}`);
+            logger.error('API request failed', { query, status: response.status });
             return [];
         }
-        
+
         const data = await response.json();
         const jobs = data.data || [];
-        console.log(`Query "${query}" returned ${jobs.length} jobs`);
+        logger.debug('Query results', { query, count: jobs.length });
         return jobs;
     } catch (error) {
-        console.error(`Error searching for "${query}":`, error.message);
+        logger.error('Error searching for jobs', { query, error: error.message });
         return [];
     }
 }
@@ -370,20 +376,20 @@ function filterHealthcareJobs(jobs) {
 
 // Enhanced filtering with better company matching
 function filterTargetCompanyJobs(jobs) {
-    console.log('🎯 Filtering for target companies...');
-    
+    logger.info('Filtering for target companies');
+
     const targetJobs = jobs.filter(job => {
         const companyName = (job.employer_name || '').toLowerCase();
-        
+
         // Check against our comprehensive company list
         const isTargetCompany = COMPANY_BY_NAME[companyName] !== undefined;
-        
+
         if (isTargetCompany) {
             // Normalize company name for consistency
             job.employer_name = normalizeCompanyName(job.employer_name);
             return true;
         }
-        
+
         // Additional fuzzy matching for variations
         for (const company of ALL_COMPANIES) {
             for (const apiName of company.api_names) {
@@ -393,23 +399,25 @@ function filterTargetCompanyJobs(jobs) {
                 }
             }
         }
-        
+
         return false;
     });
-    
-    console.log(`✨ Filtered to ${targetJobs.length} target company jobs`);
-    console.log('🏢 Companies found:', [...new Set(targetJobs.map(j => j.employer_name))]);
-    
+
+    logger.info('Filtered to target company jobs', {
+        count: targetJobs.length,
+        companies: [...new Set(targetJobs.map(j => j.employer_name))]
+    });
+
     // Remove duplicates more intelligently
     const uniqueJobs = targetJobs.filter((job, index, self) => {
-        return index === self.findIndex(j => 
-            j.job_title === job.job_title && 
+        return index === self.findIndex(j =>
+            j.job_title === job.job_title &&
             j.employer_name === job.employer_name &&
             j.job_city === job.job_city
         );
     });
-    
-    console.log(`🧹 After deduplication: ${uniqueJobs.length} unique jobs`);
+
+    logger.info('After deduplication', { unique_jobs: uniqueJobs.length });
     
     // Sort by company tier and recency
     uniqueJobs.sort((a, b) => {
@@ -468,7 +476,10 @@ function writeNewJobsJson(jobs) {
     const deferredCount = originalCount - jobsToWrite.length;
 
     if (deferredCount > 0) {
-        console.log(`⏸️ Limiting to ${MAX_JOBS_PER_RUN} jobs this run, ${deferredCount} deferred (will be fetched in next run)`);
+        logger.info('Limiting jobs this run', {
+            max: MAX_JOBS_PER_RUN,
+            deferred: deferredCount
+        });
     }
 
     const dataDir = path.join(process.cwd(), '.github', 'data');
@@ -489,10 +500,10 @@ function writeNewJobsJson(jobs) {
         // Atomic rename - this prevents corruption if process is killed mid-write
         fs.renameSync(tempPath, outPath);
 
-        console.log(`✨ Wrote ${jobsToWrite.length} new jobs to ${outPath}`);
+        logger.info('Wrote new jobs to file', { count: jobsToWrite.length, path: outPath });
 
     } catch (error) {
-        console.error('❌ Error writing new_jobs.json:', error.message);
+        logger.error('Error writing new_jobs.json', { error: error.message });
 
         // Clean up temp file if it exists
         const tempPath = path.join(dataDir, 'new_jobs.tmp.json');
@@ -500,7 +511,7 @@ function writeNewJobsJson(jobs) {
             try {
                 fs.unlinkSync(tempPath);
             } catch (cleanupError) {
-                console.error('⚠️ Could not clean up temp file:', cleanupError.message);
+                logger.warn('Could not clean up temp file', { error: cleanupError.message });
             }
         }
 
@@ -537,7 +548,7 @@ function updateSeenJobsStore(jobs, seenIds) {
                 }
             }
         } catch (loadError) {
-            console.error('⚠️ Error loading existing seen_jobs.json:', loadError.message);
+            logger.warn('Error loading existing seen_jobs.json', { error: loadError.message });
         }
 
         // Add new jobs with current timestamp AND fingerprint
@@ -567,13 +578,16 @@ function updateSeenJobsStore(jobs, seenIds) {
         });
 
         if (expiredCount > 0) {
-            console.log(`🧹 Removed ${expiredCount} expired entries (>7 days old)`);
+            logger.debug('Removed expired entries from seen_jobs.json', { expired_count: expiredCount, days_old: 7 });
         }
 
         // Safety limit: keep only most recent 10,000 if we exceed
         let finalEntries = validEntries;
         if (Object.keys(validEntries).length > 10000) {
-            console.log(`⚠️ Exceeded 10,000 entries (${Object.keys(validEntries).length}), trimming to most recent 10,000`);
+            logger.warn('Exceeded 10,000 entries, trimming to most recent 10,000', {
+                current_count: Object.keys(validEntries).length,
+                max_count: 10000
+            });
 
             // Sort by timestamp (most recent first) and take top 10,000
             const sorted = Object.entries(validEntries)
@@ -588,17 +602,20 @@ function updateSeenJobsStore(jobs, seenIds) {
         fs.writeFileSync(tempPath, JSON.stringify(finalEntries, null, 2), 'utf8');
         fs.renameSync(tempPath, seenPath);
 
-        console.log(`✅ Updated seen_jobs.json: added ${jobs.length} new, ${Object.keys(finalEntries).length} total active`);
+        logger.info('Updated seen_jobs.json', {
+            added: jobs.length,
+            total_active: Object.keys(finalEntries).length
+        });
 
     } catch (error) {
-        console.error('❌ Error updating seen jobs store:', error.message);
+        logger.error('Error updating seen jobs store', { error: error.message });
 
         const tempPath = path.join(dataDir, 'seen_jobs.tmp.json');
         if (fs.existsSync(tempPath)) {
             try {
                 fs.unlinkSync(tempPath);
             } catch (cleanupError) {
-                console.error('⚠️ Could not clean up temp file:', cleanupError.message);
+                logger.warn('Could not clean up temp file', { error: cleanupError.message });
             }
         }
 
@@ -616,19 +633,19 @@ function loadPendingQueue() {
 
     try {
         if (!fs.existsSync(queuePath)) {
-            console.log('ℹ️ No existing pending_posts.json found - starting fresh');
+            logger.info('No existing pending_posts.json found - starting fresh');
             return [];
         }
 
         const fileContent = fs.readFileSync(queuePath, 'utf8');
         if (!fileContent.trim()) {
-            console.log('⚠️ Empty pending_posts.json file - starting fresh');
+            logger.warn('Empty pending_posts.json file - starting fresh');
             return [];
         }
 
         const queue = JSON.parse(fileContent);
         if (!Array.isArray(queue)) {
-            console.log('⚠️ Invalid pending_posts.json format - expected array, starting fresh');
+            logger.warn('Invalid pending_posts.json format - expected array, starting fresh');
             return [];
         }
 
@@ -642,15 +659,26 @@ function loadPendingQueue() {
         );
 
         if (validQueue.length !== queue.length) {
-            console.log(`⚠️ Filtered ${queue.length - validQueue.length} invalid entries from pending_posts.json`);
+            logger.warn('Filtered invalid entries from pending_posts.json', {
+                filtered: queue.length - validQueue.length
+            });
         }
 
-        console.log(`✅ Loaded pending queue: ${validQueue.length} total (${validQueue.filter(i => i.status === 'pending').length} pending, ${validQueue.filter(i => i.status === 'enriched').length} enriched, ${validQueue.filter(i => i.status === 'posted').length} posted)`);
+        const statusCounts = {
+            pending: validQueue.filter(i => i.status === 'pending').length,
+            enriched: validQueue.filter(i => i.status === 'enriched').length,
+            posted: validQueue.filter(i => i.status === 'posted').length
+        };
+
+        logger.info('Loaded pending queue', {
+            total: validQueue.length,
+            ...statusCounts
+        });
 
         return validQueue;
 
     } catch (error) {
-        console.error('❌ Error loading pending queue:', error.message);
+        logger.error('Error loading pending queue', { error: error.message });
         return [];
     }
 }
@@ -683,10 +711,13 @@ function savePendingQueue(queue) {
             posted: queue.filter(i => i.status === 'posted').length
         };
 
-        console.log(`✅ Saved pending queue: ${queue.length} total (${statusCounts.pending} pending, ${statusCounts.enriched} enriched, ${statusCounts.posted} posted)`);
+        logger.info('Saved pending queue', {
+            total: queue.length,
+            ...statusCounts
+        });
 
     } catch (error) {
-        console.error('❌ Error saving pending queue:', error.message);
+        logger.error('Error saving pending queue', { error: error.message });
 
         // Clean up temp file if it exists
         const tempPath = path.join(dataDir, 'pending_posts.tmp.json');
@@ -694,7 +725,7 @@ function savePendingQueue(queue) {
             try {
                 fs.unlinkSync(tempPath);
             } catch (cleanupError) {
-                console.error('⚠️ Could not clean up temp file:', cleanupError.message);
+                logger.warn('Could not clean up temp file', { error: cleanupError.message });
             }
         }
 
@@ -721,7 +752,11 @@ function cleanupPostedFromQueue(queue, postedStore) {
             return false;
         }
         if (postedStore.fingerprints.has(fingerprint)) {
-            console.log(`🔍 Fingerprint match: ${item.job.job_title} @ ${item.job.employer_name} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
+            logger.debug('Fingerprint match - skipping posted job', {
+                title: item.job.job_title,
+                company: item.job.employer_name,
+                fingerprint: fingerprint.substring(0, 50)
+            });
             return false;
         }
         return true;
@@ -747,7 +782,12 @@ function cleanupPostedFromQueue(queue, postedStore) {
     const totalRemoved = beforeCount - deduplicated.length;
 
     if (totalRemoved > 0) {
-        console.log(`🧹 Queue cleanup: removed ${removedPosted} already posted, ${removedDuplicates} duplicates (${totalRemoved} total, ${deduplicated.length} remaining)`);
+        logger.info('Queue cleanup', {
+            removed_posted: removedPosted,
+            removed_duplicates: removedDuplicates,
+            total_removed: totalRemoved,
+            remaining: deduplicated.length
+        });
     }
 
     return deduplicated;
@@ -760,13 +800,13 @@ function loadSeenJobsStore() {
 
     try {
         if (!fs.existsSync(seenPath)) {
-            console.log('ℹ️ No existing seen_jobs.json found - starting fresh');
+            logger.info('No existing seen_jobs.json found - starting fresh');
             return { seenIds: new Set(), seenFingerprints: new Set() };
         }
 
         const fileContent = fs.readFileSync(seenPath, 'utf8');
         if (!fileContent.trim()) {
-            console.log('⚠️ Empty seen_jobs.json file - starting fresh');
+            logger.warn('Empty seen_jobs.json file - starting fresh');
             return { seenIds: new Set(), seenFingerprints: new Set() };
         }
 
@@ -776,7 +816,7 @@ function loadSeenJobsStore() {
         let seenJobs;
         if (Array.isArray(seenData)) {
             // Legacy format: convert to new format (assume all are current)
-            console.log('⚠️ Converting legacy seen_jobs.json format to timestamped format');
+            logger.warn('Converting legacy seen_jobs.json format to timestamped format');
             seenJobs = {};
             const now = new Date().toISOString();
             seenData.forEach(id => {
@@ -803,10 +843,10 @@ function loadSeenJobsStore() {
         });
 
         if (expiredCount > 0) {
-            console.log(`🧹 Expired ${expiredCount} old entries from seen_jobs.json (>7 days)`);
+            logger.debug('Expired old entries from seen_jobs.json', { expired_count: expiredCount, days_old: 7 });
         }
 
-        console.log(`✅ Loaded ${Object.keys(validSeenJobs).length} recently seen jobs`);
+        logger.info('Loaded recently seen jobs', { count: Object.keys(validSeenJobs).length });
 
         // Build fingerprint set from stored data (if available)
         const seenIds = new Set();
@@ -822,7 +862,10 @@ function loadSeenJobsStore() {
             // Old format (string timestamp) - fingerprint will be empty, that's okay
         });
 
-        console.log(`📌 Loaded ${seenIds.size} job IDs and ${seenFingerprints.size} fingerprints`);
+        logger.debug('Loaded job IDs and fingerprints', {
+            ids_count: seenIds.size,
+            fingerprints_count: seenFingerprints.size
+        });
 
         // Migration check: if all IDs are in old format, we need to regenerate them
         // Old format contains commas and multiple dashes, new format doesn't
@@ -830,7 +873,7 @@ function loadSeenJobsStore() {
         const hasOldFormatIds = jobIds.some(id => id.includes(',') || id.includes('---'));
 
         if (hasOldFormatIds && jobIds.length > 0) {
-            console.log('⚠️ Detected old job ID format - migrating to new standardized format');
+            logger.warn('Detected old job ID format - migrating to new standardized format');
 
             // Migrate old IDs to new format to minimize re-posting
             const migratedIds = new Set();
@@ -841,7 +884,10 @@ function loadSeenJobsStore() {
                 migratedIds.add(newId);
             });
 
-            console.log(`📝 Migrated ${jobIds.length} old IDs to ${migratedIds.size} new format IDs`);
+            logger.info('Migrated old IDs to new format', {
+                old_count: jobIds.length,
+                new_count: migratedIds.size
+            });
 
             return { seenIds: migratedIds, seenFingerprints };
         }
@@ -850,16 +896,16 @@ function loadSeenJobsStore() {
         return { seenIds, seenFingerprints };
 
     } catch (error) {
-        console.error('❌ Error loading seen_jobs.json:', error.message);
-        console.log('ℹ️ Creating backup and starting fresh');
+        logger.error('Error loading seen_jobs.json', { error: error.message });
+        logger.info('Creating backup and starting fresh');
 
         // Create backup of corrupted file
         try {
             const backupPath = path.join(dataDir, `seen_jobs_backup_${Date.now()}.json`);
             fs.copyFileSync(seenPath, backupPath);
-            console.log(`📁 Backup created: ${backupPath}`);
+            logger.info('Backup created', { path: backupPath });
         } catch (backupError) {
-            console.error('⚠️ Could not create backup:', backupError.message);
+            logger.warn('Could not create backup', { error: backupError.message });
         }
 
         return { seenIds: new Set(), seenFingerprints: new Set() };
@@ -873,13 +919,13 @@ function loadPostedJobsStore() {
 
     try {
         if (!fs.existsSync(postedPath)) {
-            console.log('ℹ️ No existing posted_jobs.json found - starting fresh');
+            logger.info('No existing posted_jobs.json found - starting fresh');
             return { ids: new Set(), fingerprints: new Set() };
         }
 
         const fileContent = fs.readFileSync(postedPath, 'utf8');
         if (!fileContent.trim()) {
-            console.log('⚠️ Empty posted_jobs.json file - starting fresh');
+            logger.warn('Empty posted_jobs.json file - starting fresh');
             return { ids: new Set(), fingerprints: new Set() };
         }
 
@@ -907,7 +953,11 @@ function loadPostedJobsStore() {
                 }
             });
 
-            console.log(`✅ Loaded ${ids.size} previously posted jobs (${fingerprints.size} fingerprints) for deduplication (V2 format)`);
+            logger.info('Loaded previously posted jobs for deduplication', {
+                ids_count: ids.size,
+                fingerprints_count: fingerprints.size,
+                format: 'V2'
+            });
             return { ids, fingerprints };
         }
 
@@ -916,19 +966,24 @@ function loadPostedJobsStore() {
             const validPostedJobs = postedData.filter(id => typeof id === 'string' && id.trim().length > 0);
 
             if (validPostedJobs.length !== postedData.length) {
-                console.log(`⚠️ Filtered ${postedData.length - validPostedJobs.length} invalid entries from posted_jobs.json`);
+                logger.warn('Filtered invalid entries from posted_jobs.json', {
+                    filtered: postedData.length - validPostedJobs.length
+                });
             }
 
-            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V1 format)`);
+            logger.info('Loaded previously posted jobs for deduplication', {
+                count: validPostedJobs.length,
+                format: 'V1'
+            });
             return { ids: new Set(validPostedJobs), fingerprints: new Set() };
         }
 
-        console.log('⚠️ Invalid posted_jobs.json format - starting fresh');
+        logger.warn('Invalid posted_jobs.json format - starting fresh');
         return { ids: new Set(), fingerprints: new Set() };
 
     } catch (error) {
-        console.error('❌ Error loading posted_jobs.json:', error.message);
-        console.log('ℹ️ Starting with empty posted jobs set');
+        logger.error('Error loading posted_jobs.json', { error: error.message });
+        logger.info('Starting with empty posted jobs set');
 
         return { ids: new Set(), fingerprints: new Set() };
     }
@@ -936,7 +991,7 @@ function loadPostedJobsStore() {
 
 // Main job processing function
 async function processJobs() {
-    console.log('🚀 Starting job processing...');
+    logger.start('Job processing system');
 
     try {
         // Initialize deduplication logger
@@ -956,7 +1011,9 @@ async function processJobs() {
 
         // Filter out healthcare/nursing jobs (New-Grad is for tech roles, not healthcare)
         const filteredJobs = filterHealthcareJobs(allJobs);
-        console.log(`🏥 Filtered out ${allJobs.length - filteredJobs.length} healthcare jobs`);
+        logger.info('Filtered out healthcare jobs', {
+            filtered: allJobs.length - filteredJobs.length
+        });
 
         // Fill null dates and convert to relative format
         const jobsWithDates = fillJobDates(filteredJobs, jobDatesStore);
@@ -969,11 +1026,11 @@ async function processJobs() {
         // **JOB PERSISTENCE: Load persisted jobs from previous runs**
         // This ensures README shows all jobs < 14 days old, not just jobs from current run
         const persistedJobs = loadCurrentJobsStore();
-        console.log(`📦 Job persistence: Loaded ${persistedJobs.length} persisted jobs from previous runs`);
+        logger.info('Loaded persisted jobs from previous runs', { count: persistedJobs.length });
 
         // Merge persisted jobs with fresh jobs (fresh jobs overwrite older data)
         const mergedJobs = mergeJobs(persistedJobs, jobsWithDates);
-        console.log(`📊 After merge: ${mergedJobs.length} total unique jobs`);
+        logger.info('After merge', { total_unique_jobs: mergedJobs.length });
 
         // **CRITICAL FIX: Sort ALL jobs by date before any filtering**
         // Use mergedJobs (persisted + fresh) not just jobsWithDates
@@ -1061,7 +1118,11 @@ async function processJobs() {
             else if (isInQueue) reason = 'pending_queue';
 
             if (isDuplicate && isPostedFingerprint) {
-                console.log(`🔍 Fingerprint blocked fresh job: ${job.job_title} @ ${job.employer_name} (fingerprint: ${fingerprint.substring(0, 50)}...)`);
+                logger.debug('Fingerprint blocked fresh job', {
+                    title: job.job_title,
+                    company: job.employer_name,
+                    fingerprint: fingerprint.substring(0, 50)
+                });
             }
 
             dedupLogger.logCheck(job, jobId, isDuplicate, fingerprint, reason);
@@ -1069,13 +1130,17 @@ async function processJobs() {
             return !isDuplicate;
         });
 
-        console.log(`📊 Processing summary: ${mergedJobs.length} merged jobs, ${currentJobs.length} current (< 14 days old), ${freshJobs.length} new (not seen AND not in queue)`);
+        logger.info('Processing summary', {
+            merged_jobs: mergedJobs.length,
+            current_jobs: currentJobs.length,
+            fresh_jobs: freshJobs.length
+        });
 
         // Archive ALL current jobs for analytics (separate from deduplication)
         try {
             archiveJobs(currentJobs);
         } catch (archiveError) {
-            console.error('⚠️ Analytics archive failed (non-critical):', archiveError.message);
+            logger.warn('Analytics archive failed (non-critical)', { error: archiveError.message });
         }
 
         // STEP 3: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
@@ -1083,7 +1148,7 @@ async function processJobs() {
         if (freshJobs.length > 0) {
             freshJobs.forEach(job => seenIds.add(job.id));
             updateSeenJobsStore(freshJobs, seenIds);
-            console.log(`✅ Marked ${freshJobs.length} new jobs as seen`);
+            logger.info('Marked new jobs as seen', { count: freshJobs.length });
         }
 
         // STEP 4: Add ALL new jobs to queue with "pending" status
@@ -1099,7 +1164,7 @@ async function processJobs() {
         });
 
         if (freshJobs.length > 0) {
-            console.log(`📥 Added ${freshJobs.length} new jobs to pending queue`);
+            logger.info('Added new jobs to pending queue', { count: freshJobs.length });
         }
 
         // STEP 5: Select batch from queue (FIFO - oldest first)
@@ -1108,17 +1173,19 @@ async function processJobs() {
         const batch = pendingItems.slice(0, BATCH_SIZE);
 
         if (batch.length === 0) {
-            console.log('ℹ️ No jobs in queue to process');
+            logger.info('No jobs in queue to process');
             writeNewJobsJson([]);
         } else {
-            console.log(`\n🔄 Processing batch: ${batch.length} jobs (${queue.filter(i => i.status === 'pending').length} pending in queue total)`);
+            logger.info('Processing batch', {
+                batch_size: batch.length,
+                pending_total: queue.filter(i => i.status === 'pending').length
+            });
 
             // STEP 6: Enrich descriptions for jobs with "pending" status only
             const needEnrichment = batch.filter(item => item.status === 'pending');
 
             if (needEnrichment.length > 0) {
-                console.log(`\n📝 Fetching job descriptions for ${needEnrichment.length} jobs...`);
-                console.log('━'.repeat(60));
+                logger.info('Fetching job descriptions', { count: needEnrichment.length });
 
                 const enrichedJobs = await fetchDescriptionsBatch(
                     needEnrichment.map(item => item.job),
@@ -1133,19 +1200,20 @@ async function processJobs() {
                 const failCount = enrichedJobs.length - successCount;
                 const successRate = enrichedJobs.length > 0 ? ((successCount / enrichedJobs.length) * 100).toFixed(1) : '0.0';
 
-                console.log('━'.repeat(60));
-                console.log(`✅ Description fetching complete:`);
-                console.log(`   Success: ${successCount}/${enrichedJobs.length} (${successRate}%)`);
-                console.log(`   Failed: ${failCount}`);
-
                 // Breakdown by platform
                 const platformStats = {};
                 enrichedJobs.forEach(j => {
                     const platform = j.description_platform || 'unknown';
                     platformStats[platform] = (platformStats[platform] || 0) + 1;
                 });
-                console.log(`   Platforms: ${Object.entries(platformStats).map(([p, c]) => `${p}(${c})`).join(', ')}`);
-                console.log('━'.repeat(60) + '\n');
+
+                logger.info('Description fetching complete', {
+                    success: successCount,
+                    total: enrichedJobs.length,
+                    success_rate: `${successRate}%`,
+                    failed: failCount,
+                    platforms: platformStats
+                });
 
                 // Update queue items with enriched data and status
                 needEnrichment.forEach((item, i) => {
@@ -1154,7 +1222,7 @@ async function processJobs() {
                     item.enrichedAt = new Date().toISOString();
                 });
             } else {
-                console.log(`ℹ️ All ${batch.length} jobs in batch already enriched, skipping description fetch`);
+                logger.info('All jobs in batch already enriched', { count: batch.length });
             }
 
             // STEP 7: Write batch to new_jobs.json for Discord bot
@@ -1164,15 +1232,21 @@ async function processJobs() {
             // STEP 8: Save queue (don't remove items yet - Discord bot will mark as "posted")
             savePendingQueue(queue);
 
-            console.log(`✅ Batch ready for Discord bot: ${batchJobs.length} jobs`);
-            console.log(`📋 Queue status: ${queue.filter(i => i.status === 'pending').length} pending, ${queue.filter(i => i.status === 'enriched').length} enriched`);
+            logger.info('Batch ready for Discord bot', {
+                batch_jobs: batchJobs.length,
+                pending: queue.filter(i => i.status === 'pending').length,
+                enriched: queue.filter(i => i.status === 'enriched').length
+            });
         }
-        
+
         // Calculate archived jobs
         // Use job_posted_at_datetime_utc (ISO date) instead of job_posted_at (relative format)
         const archivedJobs = sortedJobs.filter(j => isJobOlderThanWeek(j.job_posted_at_datetime_utc));
 
-        console.log(`✅ Job processing complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
+        logger.complete('Job processing complete', {
+            current: currentJobs.length,
+            archived: archivedJobs.length
+        });
 
         // Save deduplication logs
         dedupLogger.save();
@@ -1201,7 +1275,7 @@ async function processJobs() {
             };
 
             fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2), 'utf8');
-            console.log(`📊 Job fetch summary saved: ${summaryPath}`);
+            logger.info('Job fetch summary saved', { path: summaryPath });
 
             // Collect pipeline metrics
             const { collectPipelineMetrics } = require('../src/monitoring/metrics-collector');
@@ -1211,7 +1285,7 @@ async function processJobs() {
                 duplicate_jobs: summary.duplicates_filtered
             });
         } catch (error) {
-            console.error('⚠️ Error saving job fetch summary:', error.message);
+            logger.warn('Error saving job fetch summary', { error: error.message });
         }
 
         return {
@@ -1222,7 +1296,10 @@ async function processJobs() {
         };
 
     } catch (error) {
-        console.error('❌ Error in job processing:', error);
+        logger.fatal('Error in job processing', {
+            error: error.message,
+            stack: error.stack
+        });
         throw error;
     }
 }

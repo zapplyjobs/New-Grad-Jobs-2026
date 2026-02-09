@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const jobCategories = require("./job_categories.json");
+const { logger } = require("../shared");
 const {
   companies,
   ALL_COMPANIES,
@@ -59,10 +60,10 @@ function getJobCategoryFromKeywords(jobTitle, jobDescription = '') {
 
 // Generate job table organized by job type categories
 function generateJobTable(jobs) {
-  console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
+  logger.debug('Starting generateJobTable', { total_jobs: jobs.length });
 
   jobs = filterOutSeniorPositions(jobs);
-  console.log(`🔍 DEBUG: After filtering seniors: ${jobs.length} jobs remaining`);
+  logger.debug('After filtering seniors', { remaining_jobs: jobs.length });
 
   if (jobs.length === 0) {
     return `| Company | Role | Location | Posted | Level | Apply |
@@ -70,9 +71,12 @@ function generateJobTable(jobs) {
 | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |`;
   }
 
-  console.log(`🏷️ DEBUG: Configured job categories:`);
-  Object.entries(jobCategories).forEach(([categoryKey, category]) => {
-    console.log(`  ${category.emoji} ${category.title}: ${category.keywords.join(', ')}`);
+  logger.debug('Configured job categories', {
+    categories: Object.entries(jobCategories).map(([categoryKey, category]) => ({
+      emoji: category.emoji,
+      title: category.title,
+      keywords: category.keywords.join(', ')
+    }))
   });
 
   // Categorize each job and group by category
@@ -91,9 +95,11 @@ function generateJobTable(jobs) {
     jobsByCategory[categoryKey].push(job);
   });
 
-  console.log(`\n📈 DEBUG: Jobs by category:`);
-  Object.entries(jobsByCategory).forEach(([categoryKey, categoryJobs]) => {
-    console.log(`  ${jobCategories[categoryKey]?.title || categoryKey}: ${categoryJobs.length} jobs`);
+  logger.debug('Jobs by category', {
+    by_category: Object.entries(jobsByCategory).map(([categoryKey, categoryJobs]) => ({
+      category: jobCategories[categoryKey]?.title || categoryKey,
+      count: categoryJobs.length
+    }))
   });
 
   let output = "";
@@ -107,7 +113,7 @@ function generateJobTable(jobs) {
     }
 
     const totalJobs = categoryJobs.length;
-    console.log(`\n📝 DEBUG: Processing category "${categoryData.title}" with ${totalJobs} jobs`);
+    logger.debug('Processing category', { category: categoryData.title, jobs: totalJobs });
 
     // Group jobs by company within this category
     const jobsByCompany = {};
@@ -218,7 +224,7 @@ function generateJobTable(jobs) {
     output += `</details>\n\n`;
   });
 
-  console.log(`\n🎉 DEBUG: Finished generating job table with ${categorizedJobs.size} jobs categorized`);
+  logger.debug('Finished generating job table', { categorized_jobs: categorizedJobs.size });
   return output;
 }
 function generateInternshipSection(internshipData) {
@@ -478,14 +484,17 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) 
 // Update README file
 async function updateReadme(currentJobs, existingArchivedJobs = [], internshipData, stats) {
   try {
-    console.log("📝 Generating README content...");
+    logger.info('Generating README content');
 
     // Jobs are already filtered by processJobs() - no need to re-filter
     // currentJobs: jobs <14 days old, existingArchivedJobs: jobs >14 days old
 
     const archivedJobs = existingArchivedJobs;
 
-    console.log(`📅 Using pre-filtered jobs: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
+    logger.info('Using pre-filtered jobs', {
+      current: currentJobs.length,
+      archived: archivedJobs.length
+    });
 
     const readmeContent = await generateReadme(
       currentJobs,
@@ -494,16 +503,17 @@ async function updateReadme(currentJobs, existingArchivedJobs = [], internshipDa
       stats
     );
     fs.writeFileSync(REPO_README_PATH, readmeContent, "utf8");
-    console.log(`✅ README.md updated with ${currentJobs.length} current jobs`);
 
-    console.log("\n📊 Summary:");
-    console.log(`- Total current: ${currentJobs.length}`);
-    console.log(`- Archived:      ${archivedJobs.length}`);
-    console.log(
-      `- Companies:     ${Object.keys(stats?.totalByCompany || {}).length}`
-    );
+    logger.info('README.md updated successfully', {
+      current_jobs: currentJobs.length,
+      archived_jobs: archivedJobs.length,
+      companies: Object.keys(stats?.totalByCompany || {}).length
+    });
   } catch (err) {
-    console.error("❌ Error updating README:", err);
+    logger.error('Error updating README', {
+      error: err.message,
+      stack: err.stack
+    });
     throw err;
   }
 }
