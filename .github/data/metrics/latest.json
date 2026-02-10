@@ -1,25 +1,22 @@
 {
-  "generated": "2026-02-10T19:21:48.442Z",
+  "generated": "2026-02-10T19:42:02.977Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T19:21:48.442Z",
-  "period_end": "2026-02-10T19:21:48.442Z",
+  "period_start": "2026-02-03T19:42:02.977Z",
+  "period_end": "2026-02-10T19:42:02.977Z",
   "summary": {
-    "total_jobs_posted": 599,
-    "unique_jobs": 342,
-    "multi_channel_postings": 514,
-    "unique_multi_channel_jobs": 257,
+    "total_jobs_posted": 592,
+    "unique_jobs": 338,
+    "multi_channel_postings": 508,
+    "unique_multi_channel_jobs": 254,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988605306834987",
-      "count": 251,
+      "channel_id": "1462988662168879217",
+      "count": 248,
       "jobs": [
-        "465eabd2bd4668ee",
-        "681a9f1193202c3c",
-        "ccb64e2adfc8acea",
         "ac95c655322fcab1",
         "54cbecf0d41eb2a6",
         "b1775ba9ace58f9f",
@@ -334,10 +331,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 136,
+      "count": 134,
       "jobs": [
-        "465eabd2bd4668ee",
-        "681a9f1193202c3c",
         "ac95c655322fcab1",
         "b1775ba9ace58f9f",
         "88814cd9ae6ccd7e",
@@ -537,10 +532,9 @@
       ]
     },
     "channel-14629887": {
-      "channel_id": "1462988755156734023",
-      "count": 91,
+      "channel_id": "1462988721828794531",
+      "count": 90,
       "jobs": [
-        "a692166b7a4dee3d",
         "7c68661b6e455d65",
         "b3cf540b4f342f96",
         "901eb27179689fae",
@@ -697,9 +691,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 111,
+      "count": 110,
       "jobs": [
-        "ccb64e2adfc8acea",
         "7c68661b6e455d65",
         "e732a45d4a8329ff",
         "a8214405427e3466",
@@ -954,36 +947,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "465eabd2bd4668ee",
-      "company": "samsara",
-      "title": "Sr. Sales Enablement Specialist - Onboarding",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T19:27:56.517Z"
-    },
-    {
-      "job_id": "681a9f1193202c3c",
-      "company": "coinbase",
-      "title": "Capital Formation, Coinbase Asset Management",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T19:39:33.647Z"
-    },
-    {
-      "job_id": "ccb64e2adfc8acea",
-      "company": "datadog",
-      "title": "Key Accounts Executive",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-03T19:39:45.332Z"
-    },
     {
       "job_id": "ac95c655322fcab1",
       "company": "anthropic",
@@ -1453,6 +1416,36 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T07:43:54.943Z"
+    },
+    {
+      "job_id": "b9b85c6471d4bd49",
+      "company": "Akkodis",
+      "title": "Slack Enginner",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T07:43:58.633Z"
+    },
+    {
+      "job_id": "507a44898f0ce790",
+      "company": "Rincon Research Corporation",
+      "title": "Jr. Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:07:35.982Z"
+    },
+    {
+      "job_id": "b15d4a9065a22927",
+      "company": "Microsoft",
+      "title": "Software Engineer 2 - CoreAI",
+      "channels": [
+        "channel-14629886",
+        "channel-14629892"
+      ],
+      "posted_at": "2026-02-05T08:07:39.841Z"
     }
   ],
   "failures": [],
