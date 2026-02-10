@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-10T20:32:10.027Z",
+  "generated": "2026-02-10T21:03:48.305Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T20:32:10.027Z",
-  "period_end": "2026-02-10T20:32:10.027Z",
+  "period_start": "2026-02-03T21:03:48.305Z",
+  "period_end": "2026-02-10T21:03:48.305Z",
   "summary": {
-    "total_jobs_posted": 592,
-    "unique_jobs": 338,
-    "multi_channel_postings": 508,
-    "unique_multi_channel_jobs": 254,
+    "total_jobs_posted": 589,
+    "unique_jobs": 336,
+    "multi_channel_postings": 506,
+    "unique_multi_channel_jobs": 253,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,10 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 248,
+      "count": 246,
       "jobs": [
-        "ac95c655322fcab1",
-        "54cbecf0d41eb2a6",
         "b1775ba9ace58f9f",
         "88814cd9ae6ccd7e",
         "99ba94f674d9dbb3",
@@ -331,9 +329,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 134,
+      "count": 133,
       "jobs": [
-        "ac95c655322fcab1",
         "b1775ba9ace58f9f",
         "88814cd9ae6ccd7e",
         "99ba94f674d9dbb3",
@@ -948,16 +945,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "ac95c655322fcab1",
-      "company": "anthropic",
-      "title": "Data Scientist, Generalist",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T20:34:46.630Z"
-    },
-    {
       "job_id": "b1775ba9ace58f9f",
       "company": "anthropic",
       "title": "Prompt Engineer, Agent Prompts & Evals",
@@ -1446,6 +1433,16 @@
         "channel-14629892"
       ],
       "posted_at": "2026-02-05T08:07:39.841Z"
+    },
+    {
+      "job_id": "81ea6c828900d751",
+      "company": "Harris Geospatial Solutions",
+      "title": "Associate, Software Engineer; Greenville, TX",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:07:43.761Z"
     }
   ],
   "failures": [],
