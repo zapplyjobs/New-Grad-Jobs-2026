@@ -23,23 +23,23 @@ async function main() {
         logger.start('README regeneration', { mode: 'existing data only' });
 
         // Paths to data files
-        const newJobsPath = path.join(__dirname, '../../data/new_jobs.json');
+        const currentJobsPath = path.join(__dirname, '../../data/current_jobs.json');
         const postedJobsPath = path.join(__dirname, '../../data/posted_jobs.json');
 
-        // Check if new_jobs.json exists
-        if (!fs.existsSync(newJobsPath)) {
-            logger.error('new_jobs.json not found', {
-                expected: newJobsPath,
+        // Check if current_jobs.json exists
+        if (!fs.existsSync(currentJobsPath)) {
+            logger.error('current_jobs.json not found', {
+                expected: currentJobsPath,
                 hint: 'Run full job fetcher first'
             });
             logger.info('Creating empty data file as placeholder');
-            fs.mkdirSync(path.dirname(newJobsPath), { recursive: true });
-            fs.writeFileSync(newJobsPath, '[]', 'utf8');
+            fs.mkdirSync(path.dirname(currentJobsPath), { recursive: true });
+            fs.writeFileSync(currentJobsPath, '[]', 'utf8');
         }
 
-        // Read existing job data
+        // Read existing job data (current_jobs.json contains all active jobs within 14 days)
         logger.info('Reading existing job data');
-        const allJobs = JSON.parse(fs.readFileSync(newJobsPath, 'utf8'));
+        const allJobs = JSON.parse(fs.readFileSync(currentJobsPath, 'utf8'));
 
         logger.info('Jobs loaded', { count: allJobs.length });
 
