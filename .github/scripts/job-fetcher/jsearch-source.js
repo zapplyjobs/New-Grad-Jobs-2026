@@ -1,13 +1,13 @@
 /**
  * JSearch API Integration for New-Grad-Jobs-2026
  *
- * Target: 90 jobs/day quota
- * Method: 1 request/day × 9 pages × 10 jobs = 90 jobs
+ * Quota: 80 API requests/day (10,000 requests/month quota)
+ * Configuration: 80 requests × 1 page × 10 jobs = 800 jobs/day
  *
  * Features:
  * - 27 new-grad-focused queries
- * - Query rotation (1 query per run)
- * - Rate limiting (1 request/day max)
+ * - Query rotation (spreads requests across different search terms)
+ * - Rate limiting (80 requests/day max)
  * - Graceful error handling
  * - Socket hang up retry with exponential backoff
  * - Structured logging
@@ -20,7 +20,7 @@ const { logger, withRetry, tryCatch, config } = require('../shared');
 // Configuration - JSearch API
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
-const MAX_REQUESTS_PER_DAY = 1;  // 90 jobs/day quota: 1 request × 9 pages × 10 jobs = 90 jobs
+const MAX_REQUESTS_PER_DAY = 80;  // 80 API requests/day (10,000 requests/month quota for New-Grad-Jobs-2026)
 const USAGE_FILE = path.join(process.cwd(), '.github', 'data', 'jsearch_usage.json');
 
 // New-grad specific queries (comprehensive coverage)
@@ -305,7 +305,7 @@ async function searchJSearchNewGrad() {
         const url = new URL(JSEARCH_BASE_URL);
         url.searchParams.append('query', `${query} United States`);
         url.searchParams.append('page', '1');
-        url.searchParams.append('num_pages', '9');  // 9 pages = 90 jobs per request (90/day quota)
+        url.searchParams.append('num_pages', '1');  // 1 page = 10 jobs per request (80 requests/day = 800 jobs/day)
         url.searchParams.append('date_posted', 'month');
         url.searchParams.append('country', 'us');  // US only
         url.searchParams.append('employment_types', 'FULLTIME');  // Full-time roles
