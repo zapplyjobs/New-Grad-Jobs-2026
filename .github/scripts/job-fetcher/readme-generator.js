@@ -188,47 +188,50 @@ function generateJobTable(jobs) {
 
     // Combine companies with <=10 jobs into one table
     const smallCompanies = Object.entries(jobsByCompany)
-      .filter(([_, companyJobs]) => companyJobs.length <= 10)
-      .sort((a, b) => a[0].localeCompare(b[0]));
+      .filter(([_, companyJobs]) => companyJobs.length <= 10);
 
     if (smallCompanies.length > 0) {
+      // Flatten all jobs from small companies and sort by date
+      const allSmallCompanyJobs = smallCompanies.flatMap(([companyName, companyJobs]) =>
+        companyJobs.map(job => ({ ...job, companyName }))
+      );
+
+      // Sort all jobs by date (newest first)
+      allSmallCompanyJobs.sort((a, b) => {
+        const dateA = new Date(a.job_posted_at_datetime_utc);
+        const dateB = new Date(b.job_posted_at_datetime_utc);
+        return dateB - dateA; // Newest first
+      });
+
       output += `| Company | Role | Location | Posted | Level | Apply |\n`;
       output += `|---------|------|----------|--------|-------|-------|\n`;
 
-      smallCompanies.forEach(([companyName, companyJobs]) => {
+      allSmallCompanyJobs.forEach((job) => {
+        const companyName = job.companyName;
         const emoji = getCompanyEmoji(companyName);
 
-        // Sort jobs by date (newest first)
-        const sortedJobs = companyJobs.sort((a, b) => {
-          const dateA = new Date(a.job_posted_at_datetime_utc);
-          const dateB = new Date(b.job_posted_at_datetime_utc);
-          return dateB - dateA; // Newest first
-        });
+        const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
+        const location = formatLocation(job.job_city, job.job_state);
+        const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+        const level = getExperienceLevel(job.job_title, job.job_description);
+        const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
-        sortedJobs.forEach((job) => {
-          const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
-          const location = formatLocation(job.job_city, job.job_state);
-          const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-          const level = getExperienceLevel(job.job_title, job.job_description);
-          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+        const levelShort = {
+          "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
+          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
+          "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+        }[level] || level;
 
-          const levelShort = {
-            "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
-            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-          }[level] || level;
+        let statusIndicator = "";
+        const description = (job.job_description || "").toLowerCase();
+        if (description.includes("no sponsorship") || description.includes("us citizen")) {
+          statusIndicator = " 🇺🇸";
+        }
+        if (description.includes("remote")) {
+          statusIndicator += " 🏠";
+        }
 
-          let statusIndicator = "";
-          const description = (job.job_description || "").toLowerCase();
-          if (description.includes("no sponsorship") || description.includes("us citizen")) {
-            statusIndicator = " 🇺🇸";
-          }
-          if (description.includes("remote")) {
-            statusIndicator += " 🏠";
-          }
-
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
-        });
+        output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
       });
 
       output += "\n";
@@ -400,9 +403,9 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" height="60" width="320"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" height="60"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" height="60" width="320"></a>
+  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" height="60"></a>
 </p>
 
 ---
@@ -414,11 +417,11 @@ Experience an advanced career journey with us! 🚀
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" height="60" width="280"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" height="60"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="60" width="140"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="60"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="60" width="140"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="60"></a>
 </p>
 
 ---
