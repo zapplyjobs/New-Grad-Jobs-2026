@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-10T02:43:28.978Z",
+  "generated": "2026-02-10T03:47:44.360Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T02:43:28.978Z",
-  "period_end": "2026-02-10T02:43:28.978Z",
+  "period_start": "2026-02-03T03:47:44.360Z",
+  "period_end": "2026-02-10T03:47:44.360Z",
   "summary": {
-    "total_jobs_posted": 610,
-    "unique_jobs": 348,
-    "multi_channel_postings": 524,
-    "unique_multi_channel_jobs": 262,
+    "total_jobs_posted": 608,
+    "unique_jobs": 347,
+    "multi_channel_postings": 522,
+    "unique_multi_channel_jobs": 261,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,9 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 257,
+      "count": 256,
       "jobs": [
-        "b90c8613d7d895ad",
         "e31f7b955ac49ebc",
         "7554ffe73d1ad728",
         "60a6819e35d1729f",
@@ -340,9 +339,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 139,
+      "count": 138,
       "jobs": [
-        "b90c8613d7d895ad",
         "e31f7b955ac49ebc",
         "9a05985666b3ce07",
         "465eabd2bd4668ee",
@@ -966,16 +964,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "b90c8613d7d895ad",
-      "company": "anthropic",
-      "title": "Research Scientist, Frontier Red Team (Emerging Risks)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T03:46:17.665Z"
-    },
-    {
       "job_id": "e31f7b955ac49ebc",
       "company": "vercel",
       "title": "Startup Account Executive, Install Base",
@@ -1464,6 +1452,16 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T07:43:29.062Z"
+    },
+    {
+      "job_id": "34f4a978186081b6",
+      "company": "Jobs via eFinancialCareers",
+      "title": "C++ Software Engineer- Global Market Maker",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T07:43:32.765Z"
     }
   ],
   "failures": [],
