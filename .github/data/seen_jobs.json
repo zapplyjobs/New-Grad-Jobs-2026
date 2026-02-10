@@ -203,10 +203,6 @@
     "timestamp": "2026-02-05T02:45:51.991Z",
     "fingerprint": "datadog::contracts manager::new york"
   },
-  "job-boards-greenhouse-io-gusto-jobs-7365755": {
-    "timestamp": "2026-02-03T18:26:35.896Z",
-    "fingerprint": "gusto::revenue analyst::san francisco"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-4933792008": {
     "timestamp": "2026-02-07T20:06:21.125Z",
     "fingerprint": "anthropic::research product manager::san francisco"
@@ -819,10 +815,6 @@
     "timestamp": "2026-02-07T14:09:39.413Z",
     "fingerprint": "discord::security software engineer, detection and response::san francisco bay area"
   },
-  "careers-datadoghq-com-detail-7409247": {
-    "timestamp": "2026-02-03T18:26:35.896Z",
-    "fingerprint": "datadog::key accounts executive::california"
-  },
   "job-boards-greenhouse-io-discord-jobs-8362661002": {
     "timestamp": "2026-02-07T14:19:58.040Z",
     "fingerprint": "discord::strategic sourcing manager::san francisco bay area"
@@ -974,10 +966,6 @@
   "job-boards-greenhouse-io-discord-jobs-8214127002": {
     "timestamp": "2026-02-07T14:19:58.040Z",
     "fingerprint": "discord::software engineer, safety processing::san francisco bay area"
-  },
-  "job-boards-greenhouse-io-gusto-jobs-7357003": {
-    "timestamp": "2026-02-03T18:26:35.896Z",
-    "fingerprint": "gusto::product marketing , peo::denver"
   },
   "careers-datadoghq-com-detail-7538717": {
     "timestamp": "2026-02-05T22:51:54.866Z",
@@ -1186,10 +1174,6 @@
   "job-boards-greenhouse-io-vercel-jobs-5678141004": {
     "timestamp": "2026-02-07T14:19:58.040Z",
     "fingerprint": "vercel::director of partnerships, north america::hybrid - san francisco"
-  },
-  "job-boards-greenhouse-io-gusto-jobs-6963453": {
-    "timestamp": "2026-02-03T18:26:35.896Z",
-    "fingerprint": "gusto::software engineer, entity management::san francisco"
   },
   "boards-greenhouse-io-cloudflare-jobs-7514944": {
     "timestamp": "2026-02-07T14:32:42.551Z",
@@ -3942,5 +3926,9 @@
   "www-talent-com-en-view": {
     "timestamp": "2026-02-10T18:08:52.891Z",
     "fingerprint": "virtualvocations::ui interaction designer::largo"
+  },
+  "job-boards-greenhouse-io-anthropic-jobs-5114812008": {
+    "timestamp": "2026-02-10T18:26:48.689Z",
+    "fingerprint": "anthropic::it engineering::san francisco"
   }
 }
