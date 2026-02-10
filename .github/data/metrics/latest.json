@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-10T22:29:30.747Z",
+  "generated": "2026-02-10T22:53:55.094Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T22:29:30.747Z",
-  "period_end": "2026-02-10T22:29:30.747Z",
+  "period_start": "2026-02-03T22:53:55.094Z",
+  "period_end": "2026-02-10T22:53:55.094Z",
   "summary": {
-    "total_jobs_posted": 585,
-    "unique_jobs": 334,
-    "multi_channel_postings": 502,
-    "unique_multi_channel_jobs": 251,
+    "total_jobs_posted": 579,
+    "unique_jobs": 331,
+    "multi_channel_postings": 496,
+    "unique_multi_channel_jobs": 248,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,11 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 244,
+      "count": 241,
       "jobs": [
-        "99ba94f674d9dbb3",
-        "52e908a003064449",
-        "333a5dd47d2c9b61",
         "51b1e4385d5c4e6a",
         "209eb24507ab67ac",
         "fc778981a667b4c8",
@@ -326,12 +323,9 @@
       ]
     },
     "channel-14629888": {
-      "channel_id": "1462988811263934464",
-      "count": 131,
+      "channel_id": "1462988831530680422",
+      "count": 128,
       "jobs": [
-        "99ba94f674d9dbb3",
-        "52e908a003064449",
-        "333a5dd47d2c9b61",
         "51b1e4385d5c4e6a",
         "209eb24507ab67ac",
         "29ec1adcb858c007",
@@ -941,36 +935,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "99ba94f674d9dbb3",
-      "company": "vercel",
-      "title": "Startup Growth Advisor (Account Executive, Greenfield)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T22:33:59.743Z"
-    },
-    {
-      "job_id": "52e908a003064449",
-      "company": "vercel",
-      "title": "Startup Growth Advisor (Account Executive, Install Base)",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T22:34:03.452Z"
-    },
-    {
-      "job_id": "333a5dd47d2c9b61",
-      "company": "samsara",
-      "title": "Electrical Engineering Co-Op",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T22:52:13.152Z"
-    },
-    {
       "job_id": "51b1e4385d5c4e6a",
       "company": "datadog",
       "title": "Technical Writer",
@@ -1439,6 +1403,36 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T08:07:51.301Z"
+    },
+    {
+      "job_id": "22049bd697e9259d",
+      "company": "Peraton",
+      "title": "Full Stack Software Engineer - Top-Secret with SCI eligibility",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:07:55.329Z"
+    },
+    {
+      "job_id": "3924a8b81ffa39ef",
+      "company": "CACI",
+      "title": "Junior Software Developer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:08:05.741Z"
+    },
+    {
+      "job_id": "92c63d5df2cccb97",
+      "company": "Asplundh Careers",
+      "title": "Business Intelligence Software Engineer",
+      "channels": [
+        "channel-14629887",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:08:12.457Z"
     }
   ],
   "failures": [],
