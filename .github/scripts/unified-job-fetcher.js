@@ -38,13 +38,13 @@ async function fetchAllJobs() {
   const allJobs = [];
   const sources = [];
 
-  // === Source 1: JSearch API (800 jobs/day quota) ===
+  // === Source 1: JSearch API (900 jobs/day quota) ===
   const useJSearch = process.env.USE_JSEARCH === 'true' || process.env.USE_JSEARCH === '1';
   console.log(`\n🔧 Feature Flag: USE_JSEARCH=${useJSearch ? 'true' : 'false'}`);
 
   if (useJSearch) {
     console.log('\n📡 Fetching from JSearch API...');
-    console.log('   Quota: 80 API requests/day (10,000 requests/month)');
+    console.log('   Quota: 90 requests/day (330 total/day across 7 repos)');
 
     try {
       const jsearchJobs = await searchJSearchNewGrad();

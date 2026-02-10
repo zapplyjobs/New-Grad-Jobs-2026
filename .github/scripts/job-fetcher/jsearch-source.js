@@ -1,13 +1,14 @@
 /**
  * JSearch API Integration for New-Grad-Jobs-2026
  *
- * Quota: 80 API requests/day (10,000 requests/month quota)
- * Configuration: 80 requests × 1 page × 10 jobs = 800 jobs/day
+ * Quota: 90 API requests/day (10,000 requests/month total across 7 repos)
+ * Configuration: 90 requests × 1 page × 10 jobs = 900 jobs/day
+ * Allocation: New-Grad (90) + Internships (90) + 5 others (30 each) = 330/day
  *
  * Features:
  * - 27 new-grad-focused queries
  * - Query rotation (spreads requests across different search terms)
- * - Rate limiting (80 requests/day max)
+ * - Rate limiting (90 requests/day max)
  * - Graceful error handling
  * - Socket hang up retry with exponential backoff
  * - Structured logging
@@ -20,7 +21,7 @@ const { logger, withRetry, tryCatch, config } = require('../shared');
 // Configuration - JSearch API
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
-const MAX_REQUESTS_PER_DAY = 80;  // 80 API requests/day (10,000 requests/month quota for New-Grad-Jobs-2026)
+const MAX_REQUESTS_PER_DAY = 90;  // 90 API requests/day (10,000 requests/month total: 90+90+30+30+30+30+30 = 330/day)
 const USAGE_FILE = path.join(process.cwd(), '.github', 'data', 'jsearch_usage.json');
 
 // New-grad specific queries (comprehensive coverage)
