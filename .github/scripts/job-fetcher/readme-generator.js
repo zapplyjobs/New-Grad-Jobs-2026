@@ -137,6 +137,13 @@ function generateJobTable(jobs) {
     bigCompanies.forEach(([companyName, companyJobs]) => {
       const emoji = getCompanyEmoji(companyName);
 
+      // Sort jobs by date (newest first)
+      const sortedJobs = companyJobs.sort((a, b) => {
+        const dateA = new Date(a.job_posted_at_datetime_utc);
+        const dateB = new Date(b.job_posted_at_datetime_utc);
+        return dateB - dateA; // Newest first
+      });
+
       if (companyJobs.length > 50) {
         output += `<details>\n`;
         output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
@@ -147,7 +154,7 @@ function generateJobTable(jobs) {
       output += `| Role | Location | Posted | Level | Apply |\n`;
       output += `|------|----------|--------|-------|-------|\n`;
 
-      companyJobs.forEach((job) => {
+      sortedJobs.forEach((job) => {
         const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
         const location = formatLocation(job.job_city, job.job_state);
         const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
@@ -191,7 +198,14 @@ function generateJobTable(jobs) {
       smallCompanies.forEach(([companyName, companyJobs]) => {
         const emoji = getCompanyEmoji(companyName);
 
-        companyJobs.forEach((job) => {
+        // Sort jobs by date (newest first)
+        const sortedJobs = companyJobs.sort((a, b) => {
+          const dateA = new Date(a.job_posted_at_datetime_utc);
+          const dateB = new Date(b.job_posted_at_datetime_utc);
+          return dateB - dateA; // Newest first
+        });
+
+        sortedJobs.forEach((job) => {
           const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
           const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
