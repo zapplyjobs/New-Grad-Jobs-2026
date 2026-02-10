@@ -33,15 +33,25 @@ function isJobActive(job) {
 
 /**
  * Generate URL-based fingerprint for deduplication
+ *
+ * NOTE: Uses URL ONLY for deduplication to handle cases where same job
+ * appears with updated titles (e.g., Greenhouse API updates job title)
+ *
+ * Example: Anthropic job 5098499008 appeared with 4 different titles:
+ * - "Data Scientist, Claude Developer Platform"
+ * - "Data Scientist, Product"
+ * - "Data Scientist, Generalist"
+ * - "Data Scientist"
+ *
+ * All are the same job (same URL), so dedupe by URL only.
  */
 function generateJobFingerprint(job) {
   const crypto = require('crypto');
   const url = job.url || job.job_apply_link || job.sourceUrl || '';
-  const title = (job.title || job.job_title || '').toLowerCase().trim();
-  const company = (job.company_name || job.company || job.employer_name || '').toLowerCase().trim();
 
-  const fingerprintData = `${url}|${title}|${company}`;
-  return crypto.createHash('sha256').update(fingerprintData).digest('hex');
+  // Use URL only - if URL matches, it's the same job
+  // (even if title/company differs due to API updates)
+  return crypto.createHash('sha256').update(url).digest('hex');
 }
 
 /**
