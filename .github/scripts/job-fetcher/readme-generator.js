@@ -423,55 +423,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 ---
 
-## 🆕 Latest Jobs (Last 24 Hours)
-
-${(() => {
-  // Get jobs from last 24 hours
-  const oneDayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
-  const latestJobs = currentJobs
-    .filter(job => new Date(job.job_posted_at_datetime_utc) > oneDayAgo)
-    .sort((a, b) => new Date(b.job_posted_at_datetime_utc) - new Date(a.job_posted_at_datetime_utc))
-    .slice(0, 10); // Show top 10 newest
-
-  if (latestJobs.length === 0) {
-    return `<p align="center"><em>No jobs posted in the last 24 hours. Check back soon!</em></p>\n`;
-  }
-
-  let output = `<p align="center">Showing ${latestJobs.length} newest job${latestJobs.length !== 1 ? 's' : ''}</p>\n\n`;
-  output += `| Company | Role | Location | Posted | Level | Apply |\n`;
-  output += `|---------|------|----------|--------|-------|-------|\n`;
-
-  latestJobs.forEach(job => {
-    const emoji = getCompanyEmoji(job.employer_name);
-    const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
-    const location = formatLocation(job.job_city, job.job_state);
-    const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-    const level = getExperienceLevel(job.job_title, job.job_description);
-    const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-
-    const levelShort = {
-      "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-      "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
-      "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-    }[level] || level;
-
-    let statusIndicator = "";
-    const description = (job.job_description || "").toLowerCase();
-    if (description.includes("no sponsorship") || description.includes("us citizen")) {
-      statusIndicator = " 🇺🇸";
-    }
-    if (description.includes("remote")) {
-      statusIndicator += " 🏠";
-    }
-
-    output += `| ${emoji} **${job.employer_name}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
-  });
-
-  return output;
-})()}
-
----
-
 ## Fresh Software Jobs 2026
 
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
