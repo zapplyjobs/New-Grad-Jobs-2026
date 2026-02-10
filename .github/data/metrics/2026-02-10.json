@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-10T22:03:12.718Z",
+  "generated": "2026-02-10T22:29:30.747Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T22:03:12.718Z",
-  "period_end": "2026-02-10T22:03:12.718Z",
+  "period_start": "2026-02-03T22:29:30.747Z",
+  "period_end": "2026-02-10T22:29:30.747Z",
   "summary": {
-    "total_jobs_posted": 587,
-    "unique_jobs": 335,
-    "multi_channel_postings": 504,
-    "unique_multi_channel_jobs": 252,
+    "total_jobs_posted": 585,
+    "unique_jobs": 334,
+    "multi_channel_postings": 502,
+    "unique_multi_channel_jobs": 251,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,9 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 245,
+      "count": 244,
       "jobs": [
-        "88814cd9ae6ccd7e",
         "99ba94f674d9dbb3",
         "52e908a003064449",
         "333a5dd47d2c9b61",
@@ -328,9 +327,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 132,
+      "count": 131,
       "jobs": [
-        "88814cd9ae6ccd7e",
         "99ba94f674d9dbb3",
         "52e908a003064449",
         "333a5dd47d2c9b61",
@@ -943,16 +941,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "88814cd9ae6ccd7e",
-      "company": "stripe",
-      "title": "Account Executive, AI Sales",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T22:17:08.846Z"
-    },
-    {
       "job_id": "99ba94f674d9dbb3",
       "company": "vercel",
       "title": "Startup Growth Advisor (Account Executive, Greenfield)",
@@ -1441,6 +1429,16 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-05T08:07:47.348Z"
+    },
+    {
+      "job_id": "b6dccdf9c4bee42d",
+      "company": "Space Dynamics Laboratory",
+      "title": "Junior Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:07:51.301Z"
     }
   ],
   "failures": [],
