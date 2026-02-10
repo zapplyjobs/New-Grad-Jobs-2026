@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-10T01:41:57.536Z",
+  "generated": "2026-02-10T02:43:28.978Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T01:41:57.536Z",
-  "period_end": "2026-02-10T01:41:57.536Z",
+  "period_start": "2026-02-03T02:43:28.978Z",
+  "period_end": "2026-02-10T02:43:28.978Z",
   "summary": {
-    "total_jobs_posted": 612,
-    "unique_jobs": 349,
-    "multi_channel_postings": 526,
-    "unique_multi_channel_jobs": 263,
+    "total_jobs_posted": 610,
+    "unique_jobs": 348,
+    "multi_channel_postings": 524,
+    "unique_multi_channel_jobs": 262,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,9 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 258,
+      "count": 257,
       "jobs": [
-        "b716f229c5852279",
         "b90c8613d7d895ad",
         "e31f7b955ac49ebc",
         "7554ffe73d1ad728",
@@ -341,9 +340,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 140,
+      "count": 139,
       "jobs": [
-        "b716f229c5852279",
         "b90c8613d7d895ad",
         "e31f7b955ac49ebc",
         "9a05985666b3ce07",
@@ -968,16 +966,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "b716f229c5852279",
-      "company": "stripe",
-      "title": "Account Executive, Bridge",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T01:43:26.859Z"
-    },
-    {
       "job_id": "b90c8613d7d895ad",
       "company": "anthropic",
       "title": "Research Scientist, Frontier Red Team (Emerging Risks)",
@@ -1466,6 +1454,16 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T07:43:25.419Z"
+    },
+    {
+      "job_id": "454cbc1800f61c62",
+      "company": "SynergisticIT",
+      "title": "Remote Software Developer (Junior)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T07:43:29.062Z"
     }
   ],
   "failures": [],
