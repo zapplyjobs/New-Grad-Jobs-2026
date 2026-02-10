@@ -107,10 +107,6 @@
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "discord::data science manager, safety::remote (u.s.)"
   },
-  "job-boards-greenhouse-io-gusto-jobs-5864071": {
-    "timestamp": "2026-02-03T19:26:45.726Z",
-    "fingerprint": "gusto::software engineer, payments and risk::denver"
-  },
   "www-coinbase-com-careers-positions-7549879": {
     "timestamp": "2026-02-07T20:06:21.125Z",
     "fingerprint": "coinbase::manager, corporate development::hybrid - new york"
@@ -219,10 +215,6 @@
     "timestamp": "2026-02-07T14:19:58.040Z",
     "fingerprint": "verkada::. tradeshow and event marketing manager::austin"
   },
-  "job-boards-greenhouse-io-gusto-jobs-7306716": {
-    "timestamp": "2026-02-03T19:26:45.726Z",
-    "fingerprint": "gusto::software engineer, infrastructure::denver"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-5023727008": {
     "timestamp": "2026-02-05T01:03:02.301Z",
     "fingerprint": "anthropic::data center facility operations::san francisco"
@@ -242,10 +234,6 @@
   "job-boards-greenhouse-io-vercel-jobs-5624231004": {
     "timestamp": "2026-02-03T20:53:53.234Z",
     "fingerprint": "vercel::startup growth advisor (account executive, greenfield)::hybrid - san francisco"
-  },
-  "job-boards-greenhouse-io-gusto-jobs-7421455": {
-    "timestamp": "2026-02-03T19:26:45.726Z",
-    "fingerprint": "gusto::technical enterprise client success manager::scottsdale"
   },
   "careers-datadoghq-com-detail-7554602": {
     "timestamp": "2026-02-07T14:19:58.040Z",
@@ -270,10 +258,6 @@
   "www-brex-com-careers-8393583002": {
     "timestamp": "2026-02-07T20:06:21.125Z",
     "fingerprint": "brex::engineering manager, ai — brex assistant::san francisco"
-  },
-  "job-boards-greenhouse-io-gusto-jobs-7413644": {
-    "timestamp": "2026-02-03T19:26:45.726Z",
-    "fingerprint": "gusto::software engineer, database infrastructure::denver"
   },
   "job-boards-greenhouse-io-vercel-jobs-5631091004": {
     "timestamp": "2026-02-07T20:06:21.125Z",
@@ -311,10 +295,6 @@
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "discord::data engineering manager::remote (u.s.)"
   },
-  "job-boards-greenhouse-io-gusto-jobs-7357589": {
-    "timestamp": "2026-02-03T19:26:45.726Z",
-    "fingerprint": "gusto::software engineer::san francisco"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-4887959008": {
     "timestamp": "2026-02-07T20:06:21.125Z",
     "fingerprint": "anthropic::software security engineer::new york city"
@@ -322,10 +302,6 @@
   "careers-duolingo-com-jobs-8393330002": {
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "duolingo::product manager, score::new york"
-  },
-  "careers-datadoghq-com-detail-7514534": {
-    "timestamp": "2026-02-03T19:26:45.726Z",
-    "fingerprint": "datadog::director, user research::new york"
   },
   "job-boards-greenhouse-io-anthropic-jobs-5096539008": {
     "timestamp": "2026-02-05T02:45:51.991Z",
@@ -1391,17 +1367,9 @@
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "datadog::manager, sales development::boston"
   },
-  "careers-datadoghq-com-detail-7137624": {
-    "timestamp": "2026-02-03T18:56:23.428Z",
-    "fingerprint": "datadog::sales development representative (denver)::denver"
-  },
   "careers-datadoghq-com-detail-7576941": {
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "datadog::major account manager::california"
-  },
-  "job-boards-greenhouse-io-anthropic-jobs-5107121008": {
-    "timestamp": "2026-02-03T19:38:10.862Z",
-    "fingerprint": "anthropic::prompt engineer, agent prompts & evals::san francisco"
   },
   "careers-datadoghq-com-detail-7555494": {
     "timestamp": "2026-02-07T14:19:58.040Z",
@@ -3930,5 +3898,21 @@
   "job-boards-greenhouse-io-anthropic-jobs-5114812008": {
     "timestamp": "2026-02-10T18:26:48.689Z",
     "fingerprint": "anthropic::it engineering::san francisco"
+  },
+  "careers-honda-com-us-en-job-9503-principal-communications-and-connectivity-software-engineer": {
+    "timestamp": "2026-02-10T20:07:16.008Z",
+    "fingerprint": "honda dev. and mfg. of am.,llc::communications and connectivity software engineer::raymond"
+  },
+  "explore-jobs-netflix-net-careers": {
+    "timestamp": "2026-02-10T20:07:16.008Z",
+    "fingerprint": "netflix::software engineer::los gatos"
+  },
+  "jobright-ai-jobs-info-6981a0687f40342e15dac2ae": {
+    "timestamp": "2026-02-10T20:07:16.008Z",
+    "fingerprint": "pratt miller::software developer::huntersville"
+  },
+  "careers-bldr-com-jobs-48912": {
+    "timestamp": "2026-02-10T20:07:16.008Z",
+    "fingerprint": "builders firstsource::engineer, it - software engineering & development hq it-application services::irving"
   }
 }
