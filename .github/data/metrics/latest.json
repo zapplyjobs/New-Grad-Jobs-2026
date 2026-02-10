@@ -1,23 +1,22 @@
 {
-  "generated": "2026-02-10T21:03:48.305Z",
+  "generated": "2026-02-10T21:31:46.247Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T21:03:48.305Z",
-  "period_end": "2026-02-10T21:03:48.305Z",
+  "period_start": "2026-02-03T21:31:46.247Z",
+  "period_end": "2026-02-10T21:31:46.247Z",
   "summary": {
-    "total_jobs_posted": 589,
-    "unique_jobs": 336,
-    "multi_channel_postings": 506,
-    "unique_multi_channel_jobs": 253,
+    "total_jobs_posted": 587,
+    "unique_jobs": 335,
+    "multi_channel_postings": 504,
+    "unique_multi_channel_jobs": 252,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988662168879217",
-      "count": 246,
+      "channel_id": "1462988605306834987",
+      "count": 245,
       "jobs": [
-        "b1775ba9ace58f9f",
         "88814cd9ae6ccd7e",
         "99ba94f674d9dbb3",
         "52e908a003064449",
@@ -329,9 +328,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 133,
+      "count": 132,
       "jobs": [
-        "b1775ba9ace58f9f",
         "88814cd9ae6ccd7e",
         "99ba94f674d9dbb3",
         "52e908a003064449",
@@ -945,16 +943,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "b1775ba9ace58f9f",
-      "company": "anthropic",
-      "title": "Prompt Engineer, Agent Prompts & Evals",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T21:21:10.507Z"
-    },
-    {
       "job_id": "88814cd9ae6ccd7e",
       "company": "stripe",
       "title": "Account Executive, AI Sales",
@@ -1443,6 +1431,16 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T08:07:43.761Z"
+    },
+    {
+      "job_id": "7edf40b23f00a4a0",
+      "company": "Jobright.ai",
+      "title": "Junior iOS Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T08:07:47.348Z"
     }
   ],
   "failures": [],
