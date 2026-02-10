@@ -89,7 +89,7 @@ async function loadUsageTracking() {
             return data;
         }
         return null;
-    }, 'Load JSearch usage tracking')().then(data => {
+    }, 'Load JSearch usage tracking').then(data => {
         if (!data) {
             logger.info('Initializing new JSearch usage tracking file');
             return {
@@ -128,7 +128,7 @@ async function saveUsageTracking(data) {
             requests: data.requests,
             remaining: data.remaining
         });
-    }, 'Save JSearch usage tracking')().catch(error => {
+    }, 'Save JSearch usage tracking').catch(error => {
         logger.error('Failed to save usage tracking', { error: error.message });
     });
 }
@@ -338,7 +338,7 @@ async function searchJSearchNewGrad() {
         }
 
         const data = await response.json();
-        const jobs = data.data || {};
+        const jobs = data.data || [];
 
         // Update usage tracking with detailed metrics
         usage.requests++;
