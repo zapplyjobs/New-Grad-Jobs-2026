@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-10T08:22:52.774Z",
+  "generated": "2026-02-10T08:50:28.130Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T08:22:52.774Z",
-  "period_end": "2026-02-10T08:22:52.774Z",
+  "period_start": "2026-02-03T08:50:28.130Z",
+  "period_end": "2026-02-10T08:50:28.130Z",
   "summary": {
-    "total_jobs_posted": 606,
-    "unique_jobs": 346,
-    "multi_channel_postings": 520,
-    "unique_multi_channel_jobs": 260,
+    "total_jobs_posted": 604,
+    "unique_jobs": 345,
+    "multi_channel_postings": 518,
+    "unique_multi_channel_jobs": 259,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,9 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988662168879217",
-      "count": 255,
+      "count": 254,
       "jobs": [
-        "7554ffe73d1ad728",
         "60a6819e35d1729f",
         "f3cb0b99a9c528aa",
         "9a05985666b3ce07",
@@ -338,9 +337,8 @@
     },
     "channel-14629893": {
       "channel_id": "1462989305181114450",
-      "count": 113,
+      "count": 112,
       "jobs": [
-        "7554ffe73d1ad728",
         "f3cb0b99a9c528aa",
         "ccb64e2adfc8acea",
         "7c68661b6e455d65",
@@ -962,16 +960,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "7554ffe73d1ad728",
-      "company": "gohighlevel",
-      "title": "Software Development Engineer III - Content Hub",
-      "channels": [
-        "channel-14629886",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-03T08:28:01.277Z"
-    },
-    {
       "job_id": "f3cb0b99a9c528aa",
       "company": "gohighlevel",
       "title": "Software Development Engineer III - Content Hub (Backend)",
@@ -1460,6 +1448,16 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-05T07:43:36.467Z"
+    },
+    {
+      "job_id": "7c97db683347f1bc",
+      "company": "Walmart",
+      "title": "(USA) Software Engineer III (Full Stack)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T07:43:43.705Z"
     }
   ],
   "failures": [],
