@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-10T18:55:34.079Z",
+  "generated": "2026-02-10T19:02:55.807Z",
   "period": "last_7_days",
-  "period_start": "2026-02-03T18:55:34.079Z",
-  "period_end": "2026-02-10T18:55:34.079Z",
+  "period_start": "2026-02-03T19:02:55.807Z",
+  "period_end": "2026-02-10T19:02:55.807Z",
   "summary": {
-    "total_jobs_posted": 601,
-    "unique_jobs": 343,
-    "multi_channel_postings": 516,
-    "unique_multi_channel_jobs": 258,
+    "total_jobs_posted": 599,
+    "unique_jobs": 342,
+    "multi_channel_postings": 514,
+    "unique_multi_channel_jobs": 257,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
@@ -15,9 +15,8 @@
   "by_channel": {
     "channel-14629886": {
       "channel_id": "1462988605306834987",
-      "count": 252,
+      "count": 251,
       "jobs": [
-        "9a05985666b3ce07",
         "465eabd2bd4668ee",
         "681a9f1193202c3c",
         "ccb64e2adfc8acea",
@@ -335,9 +334,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 137,
+      "count": 136,
       "jobs": [
-        "9a05985666b3ce07",
         "465eabd2bd4668ee",
         "681a9f1193202c3c",
         "ac95c655322fcab1",
@@ -957,16 +955,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "9a05985666b3ce07",
-      "company": "gusto",
-      "title": "Jr. Onboarding Associate",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-03T18:57:31.943Z"
-    },
-    {
       "job_id": "465eabd2bd4668ee",
       "company": "samsara",
       "title": "Sr. Sales Enablement Specialist - Onboarding",
@@ -1455,6 +1443,16 @@
         "channel-14629888"
       ],
       "posted_at": "2026-02-05T07:43:47.436Z"
+    },
+    {
+      "job_id": "0c01a2e40f8588dc",
+      "company": "AM Pierce and Associates",
+      "title": "AM Pierce and Associates is hiring: Junior Software Engineer in Lexington Park",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T07:43:54.943Z"
     }
   ],
   "failures": [],
