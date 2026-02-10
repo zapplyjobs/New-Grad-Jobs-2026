@@ -11,8 +11,10 @@ This document defines logging standards for the New-Grad-Jobs-2026 repository. A
 ## Logger Location
 
 ```javascript
-const logger = require('../lib/logger');
+const { logger } = require('../shared');
 ```
+
+**Note:** The logger is provided by the shared submodule at `.github/scripts/shared/lib/logger.js`
 
 ## Log Levels
 
