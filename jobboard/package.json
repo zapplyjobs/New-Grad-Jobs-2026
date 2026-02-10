@@ -10,6 +10,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "cheerio": "^1.0.0",
     "cors": "^2.8.5",
     "discord.js": "^14.0.0",
     "express": "^5.1.0",
