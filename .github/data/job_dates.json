@@ -1,0 +1,4172 @@
+{
+  "anthropic-data-scientist-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Data Scientist",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "discord-software-engineer,-data-platform-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Software Engineer, Data Platform",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "airtable-software-engineer,-new-grad-(2026)-san-francisco,-ca;-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Software Engineer, New Grad (2026)",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-android-software-engineer,-ad-formats-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Android Software Engineer, Ad Formats",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-android-software-engineer,-ad-formats-chicago,-il": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Android Software Engineer, Ad Formats",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-android-software-engineer,-ad-formats-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Android Software Engineer, Ad Formats",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-engineering-manager-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Engineering Manager",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-engineering-manager,-machine-learning-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Engineering Manager, Machine Learning",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-ios-software-engineer,-ad-formats-chicago,-il": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "iOS Software Engineer, Ad Formats",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-ios-software-engineer,-ad-formats-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "iOS Software Engineer, Ad Formats",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-ios-software-engineer,-i18n:-grow-global-and-local-communities-chicago,-il": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-ios-software-engineer,-i18n:-grow-global-and-local-communities-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-ios-software-engineer,-i18n:-grow-global-and-local-communities-los-angeles,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-machine-learning-engineer-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Machine Learning Engineer",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-android-engineer,-apps-platform-(performance)-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Android Engineer, Apps Platform (Performance)",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-android-engineer,-apps-platform-(performance)-chicago,-il": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Android Engineer, Apps Platform (Performance)",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-ios-software-engineer,-ios-platform-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior iOS Software Engineer, iOS Platform",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-ios-software-engineer,-ios-platform-los-angeles,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior iOS Software Engineer, iOS Platform",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-ios-software-engineer,-ios-platform-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior iOS Software Engineer, iOS Platform",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-software-engineer,-android-test-engineering-chicago,-il": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Software Engineer, Android Test Engineering",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-software-engineer,-android-test-engineering-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Software Engineer, Android Test Engineering",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-software-engineer,-android-test-engineering-los-angeles,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Software Engineer, Android Test Engineering",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-software-engineer,-android-test-engineering-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Software Engineer, Android Test Engineering",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-software-engineer,-site-defense-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Software Engineer, Site Defense",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-software-engineer,-site-defense-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Software Engineer, Site Defense",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-senior-software-engineer,-site-defense-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Software Engineer, Site Defense",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-software-engineer-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Software Engineer",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "reddit-staff-software-engineer,-storage-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Staff Software Engineer, Storage",
+    "company": "reddit",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "brex-director,-enterprise-sales-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Director, Enterprise Sales",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "datadog-mid-market-sales-engineer-(boston)-boston,-massachusetts,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Mid-Market Sales Engineer (Boston)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "brex-senior-manager,-business-development-(embedded-finance)-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Manager, Business Development (Embedded Finance)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "duolingo--senior-software-engineer,-backend-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": " Senior Software Engineer, Backend",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-computer-vision-software-engineer---university-graduate-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Computer Vision Software Engineer - University Graduate 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-director,-enterprise-solutions-engineering-remote": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Director, Enterprise Solutions Engineering",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-embedded-linux-software-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Embedded Linux Software Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-embedded-ui-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Embedded UI Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-hardware-engineer,-new-grad-2025-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Hardware Engineer, New Grad 2025",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-ios-engineering-intern---native-streaming-clients-team-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "iOS Engineering Intern - Native Streaming Clients Team 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-senior-backend-engineer---device-platform-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Backend Engineer - Device Platform",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-software-engineering-manager,-growth-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Software Engineering Manager, Growth",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-critical-accounts-program,-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Critical Accounts Program, Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-lead-product-manager,-new-alarms-product-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Lead Product Manager, New Alarms Product",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-senior-growth-product-manager-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Growth Product Manager",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-senior-technical-support-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Technical Support Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-staff-embedded-software-engineer---camera-firmware-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Staff Embedded Software Engineer - Camera Firmware",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-technical-support-engineering-intern---fall-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Technical Support Engineering Intern - Fall 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-senior-data-analyst-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Data Analyst",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-senior-frontend-engineer,-business-systems-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Frontend Engineer, Business Systems",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-senior-product-manager,-access-control-core-hardware-and-fleet-management-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Senior Product Manager, Access Control Core Hardware and Fleet Management",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-software-engineering-manager---cameras-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Software Engineering Manager - Cameras",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-systems-software-engineer---fleet-management-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Systems Software Engineer - Fleet Management",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-analytics-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.001Z",
+    "job_title": "Analytics Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.001Z"
+  },
+  "verkada-product-manager,-business-systems-&-analytics---people-systems-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Manager, Business Systems & Analytics - People Systems",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-product-manager,-platform-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Manager, Platform",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-project-engineer,-global-services-austin,-tx-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Project Engineer, Global Services",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-project-engineer,-global-services-new-york-city,-ny-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Project Engineer, Global Services",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-project-engineer,-global-services-philadelphia,-pa-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Project Engineer, Global Services",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-project-engineer,-global-services-austin,-tx-united-states;-new-york-city,-ny-united-states;-philadelphia,-pa-united-states;-tampa,-fl-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Project Engineer, Global Services",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-project-engineer,-global-services-tampa,-fl-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Project Engineer, Global Services",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-project-engineer,-global-services-chicago,-il-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Project Engineer, Global Services",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-backend-engineer---access-control-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Backend Engineer - Access Control",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-frontend-software-engineer---university-graduate-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Frontend Software Engineer - University Graduate 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-it-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "IT Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-security-software-engineer---university-graduate-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Security Software Engineer - University Graduate 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-android-engineer---alarms-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Android Engineer - Alarms",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-android-engineer---streaming-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Android Engineer - Streaming",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-software-engineering-manager,-data-protection-platform-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineering Manager, Data Protection Platform",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-staff-android-engineer---streaming-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff Android Engineer - Streaming",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-backend-software-engineering-intern-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Backend Software Engineering Intern 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-backend-software-engineer---university-graduate-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Backend Software Engineer - University Graduate 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-embedded-software-engineer---access-control-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Embedded Software Engineer - Access Control",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-enterprise-solutions-engineer,-west-coast-portland,-or-united-states;-san-mateo,-ca-united-states;-seattle,-wa-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Enterprise Solutions Engineer, West Coast",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-frontend-software-engineering-intern-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Frontend Software Engineering Intern 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-it-operations-specialist-(contractor)-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "IT Operations Specialist (Contractor)",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-software-engineer---workplace-products-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Software Engineer - Workplace Products",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-firmware-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Firmware Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-product-manager,-video-platform-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Manager, Video Platform",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-software-engineer,-business-systems-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Business Systems",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-software-engineer,-platform-infrastructure-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Platform Infrastructure",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-staff-frontend-engineer---interactive-maps-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff Frontend Engineer - Interactive Maps",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-technical-support-engineer---university-graduate-2026-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Technical Support Engineer - University Graduate 2026",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-lead-embedded-engineer---intercom-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Lead Embedded Engineer - Intercom",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-regional-sales-manager,-mid-market,-austin-austin,-tx-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Regional Sales Manager, Mid-Market, Austin",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-engineer---intercom-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Engineer - Intercom",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-staff-software-engineer,-business-systems-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior-Staff Software Engineer, Business Systems",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-staff+-software-engineer,-security-infrastructure-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff+ Software Engineer, Security Infrastructure",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-embedded-engineering-manager---alarms-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Embedded Engineering Manager - Alarms",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-engineer---camera-foundation-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Engineer - Camera Foundation",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-bsp-engineer---cameras-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior BSP Engineer - Cameras",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-frontend-engineer---access-control-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Frontend Engineer - Access Control",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-backend-engineer---alerts-and-operations-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Backend Engineer - Alerts and Operations",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-embedded-engineering-lead---streaming-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Embedded Engineering Lead - Streaming",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-enterprise-solutions-engineer,-southern-california-los-angeles,-ca-united-states;-orange-county,-ca-united-states;-san-diego,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Enterprise Solutions Engineer, Southern California",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-hardware-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Hardware Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-hardware-engineer-(summer-co-op)-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Hardware Engineer (Summer Co-op)",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-embedded-engineer---alarms-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Embedded Engineer - Alarms",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-product-designer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Designer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-software-engineer---c++-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - C++",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-software-engineer---camera-platform-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - Camera Platform",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-software-engineer,-data-platform-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Data Platform",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-staff-software-engineer,-engineering-productivity-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior-Staff Software Engineer, Engineering Productivity",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-staff-software-engineer,-platform-infrastructure-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior-Staff Software Engineer, Platform Infrastructure",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-staff-software-engineer,-tooling-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior-Staff Software Engineer, Tooling",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-site-reliability-engineer---infrastructure-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Site Reliability Engineer - Infrastructure",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-software-engineer---fleet-management-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer - Fleet Management",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-software-engineer---image-processing-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer - Image Processing",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-software-engineering-manager---alarms-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineering Manager - Alarms",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-solutions-engineer-st.-petersburg,-fl-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Solutions Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-staff-frontend-engineer,-growth-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff Frontend Engineer, Growth",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-frontend-engineer---search-&-computer-vision-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Frontend Engineer - Search & Computer Vision",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-engineer---alarms-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Engineer - Alarms",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-engineer---alerts-and-operations-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Engineer - Alerts and Operations",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-engineer---search-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Engineer - Search",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-backend-engineer---streaming-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Backend Engineer - Streaming",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-frontend-engineer---streaming-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Frontend Engineer - Streaming",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-software-engineer---computer-vision-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer - Computer Vision",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-solutions-engineer-austin,-tx-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Solutions Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-staff-frontend-engineer---alarms-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff Frontend Engineer - Alarms",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-staff+-product-security-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff+ Product Security Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-system-software-engineer---storage-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "System Software Engineer - Storage",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "duolingo-senior-engineering-manager,-monetization-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Engineering Manager, Monetization",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "duolingo-senior-engineering-manager,-monetization-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Engineering Manager, Monetization",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-data-engineer---ads--san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Data Engineer - Ads ",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-security-sales-engineer---us-east-georgia,-usa,-remote;-massachusetts,-usa,-remote;-new-york,-usa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Security Sales Engineer - US East",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-engineering-manager,-cloud-security-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Engineering Manager, Cloud Security",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-senior-product-manager---opentelemetry-collectors-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Manager - OpenTelemetry Collectors",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "spotify-full-stack-engineer---advertising-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Full Stack Engineer - Advertising",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "instacart-av-engineer-(contractor)-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "AV Engineer (Contractor)",
+    "company": "instacart",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-engineering-manager,-inference-developer-productivity-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Engineering Manager, Inference Developer Productivity",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-software-engineer,-ai-reliability-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, AI Reliability",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-software-engineer,-claude-code-new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Claude Code",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-software-engineer,-windows---claude-code-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Windows - Claude Code",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "coinbase-machine-learning-engineer-intern-hybrid---san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Machine Learning Engineer Intern",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer,-multi-cloud-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Multi Cloud",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-applied-ai-engineer,-life-sciences-(beneficial-deployments)-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Applied AI Engineer, Life Sciences (Beneficial Deployments)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-software-engineer,-human-data-interface-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Human Data Interface",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "samsara-solutions-integration-engineer-iii-remote---chicago": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Solutions Integration Engineer III",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "coinbase-lead-compliance-analyst-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Lead Compliance Analyst",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "brex-senior-software-engineer,-product--new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Product ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-forward-deployed-engineer,-custom-agents-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Forward Deployed Engineer, Custom Agents",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-workplace-operations-program-manager-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Workplace Operations Program Manager",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-product-manager-ii---bits-chat-&-agent-interface-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Manager II - Bits Chat & Agent Interface",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-manager-ii,-engineering---ai-platform-training,-serving-and-storage-(noram)-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Manager II, Engineering - AI Platform Training, Serving and Storage (NorAm)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-senior-product-manager---aaa/telemetry-optimization-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Manager - AAA/Telemetry Optimization",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "samsara-senior-hardware-systems-engineer-san-francisco,-ca,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Hardware Systems Engineer",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-senior-product-manager---product-analytics-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Manager - Product Analytics",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-[expression-of-interest]-research-engineer,-model-evaluations-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "[Expression of Interest] Research Engineer, Model Evaluations",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-data-center-controls-engineer-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Data Center Controls Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "spotify-data-scientist---music-mission-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Data Scientist - Music Mission",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-it-support-engineer-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "IT Support Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-engineering-manager,-ui-platform-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Engineering Manager, UI Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-manager,-stock-administration-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Manager, Stock Administration",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "brex-manager,-banking-specialists-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Manager, Banking Specialists",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "brex-manager,-banking-specialists-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Manager, Banking Specialists",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-software-engineer,-inference-deployment-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Inference Deployment",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-senior-product-manager---custom-metrics-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Manager - Custom Metrics",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-software-engineer,-encoding-libraries-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Encoding Libraries",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "figma-manager,-software-engineering---internal-tools-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Manager, Software Engineering - Internal Tools",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "spotify-product-marketing-manager,-targeting-&-brand-safety-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Marketing Manager, Targeting & Brand Safety",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-senior-sales-engineer-chicago,-illinois,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Sales Engineer",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "spotify-product-marketing-manager,-monetization-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Marketing Manager, Monetization",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "spotify-product-marketing-manager,-measurement-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Marketing Manager, Measurement",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-enablement-systems-engineer-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Enablement Systems Engineer",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-product-manager,-safeguards-(beneficial-deployments)-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Manager, Safeguards (Beneficial Deployments)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-senior-sales-engineer---key-accounts-illinois,-usa,-remote;-texas,-usa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Sales Engineer - Key Accounts",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-staff-+-senior-software-engineer,-inference-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff + Senior Software Engineer, Inference",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-manager,-forward-deployed-engineering-boston,-ma;-san-francisco,-ca-|-new-york-city,-ny;-seattle,-wa;-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Manager, Forward Deployed Engineering",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "vercel-dx-engineer-hybrid---san-francisco,-new-york-city,-austin": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "DX Engineer",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-model-quality-software-engineer,-claude-code-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Model Quality Software Engineer, Claude Code",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-product-creative-illustrator-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Creative Illustrator",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-compute-efficiency-engineer-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Compute Efficiency Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-staff-+-senior-software-engineer,-cloud-inference-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff + Senior Software Engineer, Cloud Inference",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "supabase-software-engineer---support-tooling-(apac/amer)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer - Support Tooling (APAC/AMER)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-manager,-product-design---engagement-san-francisco,-ca-or-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Manager, Product Design - Engagement",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-associate-solutions-engineering-program-manager-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Associate Solutions Engineering Program Manager",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-associate-solutions-engineer,-san-mateo-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Associate Solutions Engineer, San Mateo",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-backend-engineer,-growth-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Backend Engineer, Growth",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-enterprise-solutions-engineer,-greater-atlanta-area-atlanta,-ga-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Enterprise Solutions Engineer, Greater Atlanta Area",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-enterprise-solutions-engineer,-middle-east-dubai,-united-arab-emirates": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Enterprise Solutions Engineer, Middle East",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-enterprise-solutions-engineer,-midwest,-sled-chicago,-il-united-states;-detroit,-mi,-united-states;-minneapolis,-mn-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Enterprise Solutions Engineer, Midwest, SLED",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-enterprise-solutions-engineer,-rocky-mountains-denver,-co-united-states;-phoenix,-az-united-states;-salt-lake-city,-ut-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Enterprise Solutions Engineer, Rocky Mountains",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-global-solutions-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Global Solutions Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-gtm-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "GTM Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-hardware-engineering-program-manager-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Hardware Engineering Program Manager",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-hardware-sustaining-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Hardware Sustaining Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-product-design-mechanical-engineer-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Design Mechanical Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-software-engineer---business-systems-data-infrastructure-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - Business Systems Data Infrastructure",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-senior-staff-software-engineer,-salesforce-platform-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior-Staff Software Engineer, Salesforce Platform",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-solutions-engineer-salt-lake-city,-ut-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Solutions Engineer",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-solutions-engineering-director,-select-&-territory-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Solutions Engineering Director, Select & Territory",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-solutions-engineering-manager,-select-&-territory-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Solutions Engineering Manager, Select & Territory",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-solutions-engineering-manager,-select-&-territory-tempe,-az-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Solutions Engineering Manager, Select & Territory",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "verkada-vice-president-of-solutions-engineering,-select-&-territory-san-mateo,-ca-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Vice President of Solutions Engineering, Select & Territory",
+    "company": "verkada",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-senior-technical-curriculum-developer---cloud-infrastructure-california,-usa,-remote;-new-york,-usa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Technical Curriculum Developer - Cloud Infrastructure",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-software-engineer,-ui-platform-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, UI Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-technical-program-manager,-reliability-engineering-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Technical Program Manager, Reliability Engineering",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "supabase-field-marketing-manager--remote": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Field Marketing Manager ",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-recruiting-data-engineering-&-analytics-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Recruiting Data Engineering & Analytics",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer,-ads-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Ads",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer---web-platform-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - Web Platform",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-product-manager-ii---semantic-&-agentic-search-ai-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Manager II - Semantic & Agentic Search AI",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "figma-software-engineer,-developer-experience-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Developer Experience",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-security-engineer,-offensive-security-remote-friendly-(travel-required)-|-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Security Engineer, Offensive Security",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "airtable-analytics-engineer,-product-analytics-san-francisco,ca;-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Analytics Engineer, Product Analytics",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-product-manager,-safeguards-(privacy)--san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Product Manager, Safeguards (Privacy) ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "samsara-electrical-engineering-co-op-san-francisco---sf9": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Electrical Engineering Co-Op",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "datadog-staff-ai-engineer---simulation-environments-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff AI Engineer - Simulation Environments",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "spotify-2026-summer-internship,-research-scientist---phd-(new-york-city)-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "2026 Summer Internship, Research Scientist - PhD (New York City)",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-prompt-engineer,-agent-prompts-&-evals-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Prompt Engineer, Agent Prompts & Evals",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "airtable-software-engineer,-observability-san-francisco,-ca;-new-york,-ny;-remote-(seattle,-wa-only)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Observability",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "airtable-software-engineer,-infrastructure-(2-8-yoe)-san-francisco,-ca;-new-york,-ny;-remote---us-(seattle,-wa-only)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Infrastructure (2-8 YOE)",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "airtable-software-engineer,-infrastructure-(8+-yoe)-san-francisco,-ca;-new-york,-ny;-remote---us-(seattle,-wa-only)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Infrastructure (8+ YOE)",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-applied-ai-engineer-(startups)-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Applied AI Engineer (Startups)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "anthropic-staff-software-engineer,-continuous-integration--san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff Software Engineer, Continuous Integration ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-content-technologist-(temporary)-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Content Technologist (Temporary)",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-data-engineering-manager-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Data Engineering Manager",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-data-science-manager,-safety-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Data Science Manager, Safety",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-director,-account-management-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Director, Account Management",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-director-of-data-and-analytics-engineering-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Director of Data and Analytics Engineering",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-director-of-engineering,-developer-ecosystem-san-francisco-bay-area-or-remote": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Director of Engineering, Developer Ecosystem",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-director-of-engineering,-security-operations-san-francisco-bay-area-": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Director of Engineering, Security Operations",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-director,-safety-policy-san-francisco-bay-area-or-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Director, Safety Policy",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-engineering-manager,-ads-formats-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Engineering Manager, Ads Formats",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-engineering-manager,-engagement-san-francisco-bay-area-": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Engineering Manager, Engagement",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-group-product-marketing-manager,-developer-commerce-solutions-san-francisco-bay-area-or-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Group Product Marketing Manager, Developer Commerce Solutions",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-manager,-global-accounts-receivable-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Manager, Global Accounts Receivable",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-principal-software-engineer---infrastructure-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Principal Software Engineer - Infrastructure",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-rust/c++-senior-software-engineer-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Rust/C++ Senior Software Engineer",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-sales-operations-manager-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Sales Operations Manager",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-data-engineer,-analytics-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Data Engineer, Analytics",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-data-scientist,-analytics-san-francisco-bay-area-": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Data Scientist, Analytics",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-data-scientist,-analytics---gtm-ads-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Data Scientist, Analytics - GTM Ads",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-director,-corporate-development-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Director, Corporate Development",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-director,-internal-audit-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Director, Internal Audit",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-financial-analyst-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Financial Analyst",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-financial-reporting-and-technical-accountant-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Financial Reporting and Technical Accountant",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-privacy-counsel-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Privacy Counsel",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-product-manager,-commerce-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Manager, Commerce",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-product-marketing-manager,-nitro-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Product Marketing Manager, Nitro",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-security-grc-manager-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Security GRC Manager",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-security-software-engineer,-detection-and-response-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Security Software Engineer, Detection and Response",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer,-consumer-revenue-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Consumer Revenue",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer--database-infrastructure-san-francisco-bay-area-": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer- Database Infrastructure",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer,-machine-learning-(safety)-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Machine Learning (Safety)",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer,-mobile-architecture-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Mobile Architecture",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer---notifications-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - Notifications",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer---platform-infrastructure-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - Platform Infrastructure",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer,-platform-security-san-francisco-bay-area-": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer, Platform Security",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer---safety-experience-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - Safety Experience",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer---safety-processing-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - Safety Processing",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-software-engineer---seo-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Software Engineer - SEO",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-senior-technical-program-manager,-safety-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Senior Technical Program Manager, Safety",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-software-engineer,-ads-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Ads",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-software-engineer,-mobile-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Mobile",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-software-engineer,-payments-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer, Payments",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-software-engineer---realtime-infrastructure-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Software Engineer - Realtime Infrastructure",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-staff-data-engineer,-ads-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.002Z",
+    "job_title": "Staff Data Engineer, Ads",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.002Z"
+  },
+  "discord-staff-product-manager,-growth-&-seo-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Product Manager, Growth & SEO",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-product-manager,-payments-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Product Manager, Payments",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-design-systems-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Design Systems",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-machine-learning-(safety)-san-francisco-bay-area-or-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Machine Learning (Safety)",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-mobile-architecture-san-francisco-bay-area-": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Mobile Architecture",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-new-gaming-features-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, New Gaming Features",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-platform-security-san-francisco-bay-area-or-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Platform Security",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-player-experience-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Player Experience",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-quest-experiences-san-francisco-bay-area-or-remote-(u.s.)": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Quest Experiences",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer---safety-experience-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer - Safety Experience",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-staff-software-engineer,-safety-processing-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Safety Processing",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "discord-strategic-sourcing-manager-san-francisco-bay-area": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Strategic Sourcing Manager",
+    "company": "discord",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-senior-engineer,-ai---brex-assistant-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Engineer, AI - Brex Assistant",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-senior-engineer,-ai---brex-assistant-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Engineer, AI - Brex Assistant",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-product-marketing-lead,-startups-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Product Marketing Lead, Startups",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-security-software-engineer,-d&r-platform-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa;-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Security Software Engineer, D&R Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "samsara-software-engineer-ii---mobile-platform-san-francisco---sf9": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer II - Mobile Platform",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "samsara-senior-software-engineer,-connected-workflows-san-francisco---sf9": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Engineer, Connected Workflows",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-founding-design-engineer,-ai-capability-development,-education-labs-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Founding Design Engineer, AI Capability Development, Education Labs",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-in-app-purchases-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, In-App Purchases",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-ai-research-engineer,-new-phd-graduate-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "AI Research Engineer, New PhD Graduate",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-ai-research-engineer,-new-phd-graduate-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "AI Research Engineer, New PhD Graduate",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-engineering-manager,-chess-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, Chess",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-android-engineer-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Android Engineer",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-android-engineer-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Android Engineer",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-ios-engineer,-app-builds-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior iOS Engineer, App Builds",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-ios-engineer,-application-stability-&-performance-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior iOS Engineer, Application Stability & Performance",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-ios-software-engineer-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior iOS Software Engineer",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-ios-software-engineer-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior iOS Software Engineer",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-platform-engineering-manager-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Platform Engineering Manager",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-ads-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Ads",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-learning-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Learning",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-learning-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Learning",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-math-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Math",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-math-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Math",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-score-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Score",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-senior-product-manager,-score-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Score",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-staff-android-engineer,-client-architecture-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Android Engineer, Client Architecture",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-staff-data-scientist,-forecasting-in-monetization-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Data Scientist, Forecasting in Monetization",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-staff-data-scientist,-new-subjects-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Data Scientist, New Subjects",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-staff-ios-engineer,-app-builds-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff iOS Engineer, App Builds",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-staff-product-designer-pittsburgh,-pa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Product Designer",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "duolingo-staff-product-designer-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Product Designer",
+    "company": "duolingo",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-director,-enterprise-sales-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Director, Enterprise Sales",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "figma-manager,-software-engineering---design-systems-management--san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager, Software Engineering - Design Systems Management ",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-senior-education-platform-engineer-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Education Platform Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "airtable--people-systems-engineer,-airtable-specialist-san-francisco,-ca;-remote---west-coast": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": " People Systems Engineer, Airtable Specialist",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-software-engineer-ii,-frontend-são-paulo,-são-paulo,-brazil": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer II, Frontend",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-ai-engineer---apm-integrations-portugal,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior AI Engineer - APM Integrations",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "supabase-api-engineer-(nasa-or-apac)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "API Engineer (NASA or APAC)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer/research-scientist,-audio-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer/Research Scientist, Audio",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-senior-partner-solutions-engineer-hybrid---san-francisco,-new-york-city,-austin": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Partner Solutions Engineer",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-director,-engineering-operations-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Director, Engineering Operations",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-senior-/-staff+-software-engineer---autonomous-agent-infrastructure-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior / Staff+ Software Engineer - Autonomous Agent Infrastructure",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-platform-security-engineering---auditor-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Platform Security Engineering - Auditor",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff-software-engineer,-build-systems-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Build Systems",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-senior-software-engineer,-build-systems-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Engineer, Build Systems",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-salesforce-administrator-ii-são-paulo,-são-paulo,-brazil": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Salesforce Administrator II",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-full-stack-software-engineer,-reinforcement-learning-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Full Stack Software Engineer, Reinforcement Learning",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-software-engineer-ii,-operational-ai-são-paulo,-são-paulo,-brazil": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer II, Operational AI",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-i,-engineering---alerting-platform-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager I, Engineering - Alerting Platform",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "spotify-talent-relations-manager---the-ringer-los-angeles,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Talent Relations Manager - The Ringer",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "airtable-engineering-manager,-ai-platform--san-francisco,-ca;-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, AI Platform ",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-analytics-data-engineer-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Analytics Data Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-application-security-engineer-remote-friendly-(travel-required)-|-san-francisco,-ca-|-seattle,-wa-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Application Security Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-application-security-engineering-manager-new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Application Security Engineering Manager",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-applied-ai-engineer,-beneficial-deployments-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Applied AI Engineer, Beneficial Deployments",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-applied-ai-engineer-(digital-natives-business)--san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Applied AI Engineer (Digital Natives Business) ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-applied-safety-research-engineer,-safeguards-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Applied Safety Research Engineer, Safeguards",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-capacity-engineer,-compute-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Capacity Engineer, Compute",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-developer-relations,-mcp-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Developer Relations, MCP",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-engineering-manager,-claude-developer-platform-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, Claude Developer Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-engineering-manager,-detection-and-response-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, Detection and Response",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-engineering-manager,-inference-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, Inference",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-engineering-manager,-ml-acceleration-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, ML Acceleration",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-engineering-manager,-product-platform-&-accounts-platform-new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, Product Platform & Accounts Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-[expression-of-interest]-research-scientist/engineer,-alignment-finetuning-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-[expression-of-interest]-research-scientist/engineer,-honesty-new-york-city,-ny;-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-forward-deployed-engineer,-applied-ai-atlanta,-ga;-austin,-tx;-boston,-ma;-chicago,-il;-new-york-city,-ny-|-seattle,-wa;-san-francisco,-ca-|-new-york-city,-ny;-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Forward Deployed Engineer, Applied AI",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-forward-deployed-engineer,-applied-ai-(federal-civilian)--san-francisco,-ca-|-new-york-city,-ny-|-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Forward Deployed Engineer, Applied AI (Federal Civilian) ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-founding-developer-relations-lead-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Founding Developer Relations Lead",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-incentive-compensation-system-engineer-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Incentive Compensation System Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-infrastructure-engineer,-sandboxing-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Infrastructure Engineer, Sandboxing",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-it-systems-engineer-remote-friendly-(travel-required)-|-san-francisco,-ca-|-seattle,-wa-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "IT Systems Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-machine-learning-systems-engineer,-research-tools-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Machine Learning Systems Engineer, Research Tools",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-machine-learning-systems-engineer,-rl-engineering-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Machine Learning Systems Engineer, RL Engineering",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-ml-infrastructure-engineer,-safeguards-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "ML Infrastructure Engineer, Safeguards",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-ml/research-engineer,-safeguards-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "ML/Research Engineer, Safeguards",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-performance-engineer-new-york-city,-ny-|-seattle,-wa;-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Performance Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-performance-engineer,-gpu-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Performance Engineer, GPU",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-platform-security-engineer,-operating-systems-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Platform Security Engineer, Operating Systems",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-privacy-research-engineer,-safeguards-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Privacy Research Engineer, Safeguards",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-product-manager,-claude-code-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Product Manager, Claude Code",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-product-manager,-claude-code-(enterprise)-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Product Manager, Claude Code (Enterprise)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-product-manager,-claude-code-growth-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Product Manager, Claude Code Growth",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-red-team-engineer,-safeguards-remote-friendly-(travel-required)-|-san-francisco,-ca-|-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Red Team Engineer, Safeguards",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer-–-cybersecurity-rl-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer – Cybersecurity RL",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-discovery-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Discovery",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-frontier-red-team-(autonomy)-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer,  Frontier Red Team (Autonomy)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-frontier-red-team-(hardware-lead)-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Frontier Red Team (Hardware Lead)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-interpretability-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Interpretability",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-machine-learning-(reinforcement-learning)--san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Machine Learning (Reinforcement Learning) ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-pre-training-remote-friendly-(travel-required)-|-san-francisco,-ca-|-seattle,-wa-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Pre-training",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-pretraining-scaling-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Pretraining Scaling",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-production-model-post-training-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Production Model Post Training",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer-/-research-scientist,-biology-&-life-sciences-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer / Research Scientist, Biology & Life Sciences",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer-/-research-scientist,-vision-new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer / Research Scientist, Vision",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-reward-models-platform-remote-friendly-(travel-required)-|-san-francisco,-ca-|-seattle,-wa-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Reward Models Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-reward-models-training-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Reward Models Training",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer-/-scientist,-alignment-science-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer / Scientist, Alignment Science",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer-/-scientist,-frontier-red-team-(cyber)-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer-/-scientist,-societal-impacts-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer / Scientist, Societal Impacts",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-engineer,-universes-remote-friendly-(travel-required)-|-san-francisco,-ca-|-seattle,-wa-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Engineer, Universes",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-product-manager-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Product Manager",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-product-manager,-labs-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Product Manager, Labs",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-research-product-manager,-model-behaviors-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Research Product Manager, Model Behaviors",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-security-engineer,-detection-&-response-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa;-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-senior-software-engineer,-infrastructure--new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Engineer, Infrastructure ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-senior+-software-engineer,-research-tools-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior+ Software Engineer, Research Tools",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-senior-software-security-engineer-new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Security Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-accelerator-build-infrastructure-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Accelerator Build Infrastructure",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-android-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Android",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-beneficial-deployments--san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Beneficial Deployments ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-business-technology--remote-friendly-(travel-required)-|-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Business Technology ",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-cybersecurity-products-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa;-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Cybersecurity Products",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-desktop-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Desktop",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-enterprise-foundations-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Enterprise Foundations",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-growth-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Growth",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-ios-san-francisco,-ca,-new-york-city,-ny,-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, iOS",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-ml-networking-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, ML Networking",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-platform-new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-public-sector-san-francisco,-ca-|-new-york-city,-ny-|-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Public Sector",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-python-language-new-york-city,-ny;-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Python Language",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-safeguards-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Safeguards",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-sandboxing-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Sandboxing",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-software-engineer,-sandboxing-(systems)-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Sandboxing (Systems)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff-machine-learning-engineer,-virtual-collaborator-new-york-city,-ny;-san-francisco,-ca;-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Machine Learning Engineer, Virtual Collaborator",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff-research-engineer,-discovery-team-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Research Engineer, Discovery Team",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff-software-engineer,-claude-developer-platform-(backend)-new-york-city,-ny;-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff-software-engineer,-claude-developer-platform-(full-stack)-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff+-software-engineer,-databases-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff+ Software Engineer, Databases",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff+-software-engineer,-data-infrastructure-san-francisco,-ca-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff+ Software Engineer, Data Infrastructure",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff+-software-engineer,-infrastructure-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff+ Software Engineer, Infrastructure",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-staff-software-engineer,-platform-san-francisco,-ca-|-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer, Platform",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-threat-collections-engineer-remote-friendly-(travel-required)-|-san-francisco,-ca-|-washington,-dc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Threat Collections Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "anthropic-tpu-kernel-engineer-san-francisco,-ca-|-new-york-city,-ny-|-seattle,-wa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "TPU Kernel Engineer",
+    "company": "anthropic",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-engineering-manager,-application-security-platform-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, Application Security Platform",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-software-engineer,-deployment-infrastructure-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Deployment Infrastructure",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "coinbase-software-engineer-intern-hybrid---san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer Intern",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-product-manager,-cloud-network-monitoring-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager, Cloud Network Monitoring",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "coinbase-supervisor,-customer-success-team-(onsite---relocation-assistance-available)-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Supervisor, Customer Success Team (Onsite - Relocation Assistance Available)",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "spotify-client-partner---financial-services-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Client Partner - Financial Services",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-startups-ambassador-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Startups Ambassador",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-startups-ambassador-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Startups Ambassador",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-sales-recruiter-(12-month-contract)-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Sales Recruiter (12-month contract)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-sales-recruiter-(12-month-contract)-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Sales Recruiter (12-month contract)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-sales-recruiter-(12-month-contract)-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Sales Recruiter (12-month contract)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-container-runtime-engineer-boston,-massachusetts,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Container Runtime Engineer",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-engineering-manager,-ai-—-brex-assistant-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, AI — Brex Assistant",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-software-engineer-ii,-activation-são-paulo,-são-paulo,-brazil": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer II, Activation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-software-engineer,-growth-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Growth",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-staff-data-platform-engineer-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Data Platform Engineer",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-technical-support-engineer,-vercel-marketplaces--hybrid---san-francisco": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Technical Support Engineer, Vercel Marketplaces ",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-engineering-manager,-ai-—-brex-assistant-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, AI — Brex Assistant",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-manager-of-sales-engineering,-majors/commercial---amer-hybrid---san-francisco,-new-york-city,-austin": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "airtable-software-engineer,-product-frontend-(2-8-yoe)-san-francisco,-ca;-new-york,-ny;-remote-(seattle,-wa-only)": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Product Frontend (2-8 YOE)",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "airtable-software-engineer,-product-backend-(8+-yoe)-san-francisco,-ca;-remote-(seattle,-wa-only)": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Product Backend (8+ YOE)",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "supabase-commercial-counsel--remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Commercial Counsel ",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-mobile-engineer-hybrid---new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Mobile Engineer",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-staff-software-engineer-��-cloud-foundations-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer �� Cloud Foundations",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "spotify-senior-sales-engineer---backstage-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Sales Engineer - Backstage",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-software-engineer-ii,-product--são-paulo,-são-paulo,-brazil": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer II, Product ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "samsara-senior-product-design-engineer-ii-san-francisco---sf9": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Design Engineer II",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-partner-enablement-manager-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Partner Enablement Manager",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-partner-enablement-manager-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Partner Enablement Manager",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-partner-enablement-manager-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Partner Enablement Manager",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-partner-enablement-manager-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Partner Enablement Manager",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "airtable-software-engineer,-product-backend-(2-8-yoe)-san-francisco,-ca;-new-york,-ny;-remote-(seattle,-wa-only)": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Software Engineer, Product Backend (2-8 YOE)",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "coinbase-manager,-corporate-development-hybrid---new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager, Corporate Development",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "spotify-manager,-commercial-promotion-partnerships-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager, Commercial Promotion Partnerships",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "spotify-associate-director,-monetization-strategy-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Associate Director, Monetization Strategy",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-i,-engineering---ccm-optimize--new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager I, Engineering - CCM Optimize ",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-senior-manager,-national-technology-partners-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Manager, National Technology Partners",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-sales-engineer---majors-northeast-new-jersey,-usa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Sales Engineer - Majors Northeast",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-enterprise-sales-engineer-texas,-usa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Enterprise Sales Engineer",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-sales-engineer---majors-(uk)-united-kingdom,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Sales Engineer - Majors (UK)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-senior-manager,-business-development-(embedded-finance)-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Manager, Business Development (Embedded Finance)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "airtable-engineering-manager,-ai-product-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager, AI Product",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-senior-manager,-national-technology-partners--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Manager, National Technology Partners ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-product-manager---notebooks-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager - Notebooks",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-i,-engineering---applied-ai---natural-language-&-conversational-interfaces-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager I, Engineering - Applied AI - Natural Language & Conversational Interfaces",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "coinbase-customer-success-specialist-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Customer Success Specialist",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-director,-enterprise-sales-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Director, Enterprise Sales",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "brex-director,-enterprise-sales-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Director, Enterprise Sales",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-staff-software-engineer-–-fabric-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Staff Software Engineer – Fabric",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "figma-manager,-software-engineering---interaction-design-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager, Software Engineering - Interaction Design",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-forward-deployed-engineer--hybrid---san-francisco,-new-york-city,-austin": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Forward-Deployed Engineer ",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "gohighlevel-manager,-trial-experience---saas-dallas": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager, Trial Experience -  SaaS",
+    "company": "gohighlevel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-product-lead,-v0-hybrid---san-francisco": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Product Lead, v0",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-gtm-engineer--hybrid---san-francisco,-new-york-city,-austin": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "GTM Engineer ",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-ii,-engineering---runtime-boston,-massachusetts,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager II, Engineering - Runtime",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "vercel-director-of-engineering,-v0-hybrid---new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Director of Engineering, v0",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-product-manager---flex-logs-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager - Flex Logs",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-ai-research-engineer-–-datadog-ai-research-(dair)-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "AI Research Engineer – Datadog AI Research (DAIR)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-commercial-sales-engineer-(east)-boston,-massachusetts,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Commercial Sales Engineer (East)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-datadog-for-startups-engineering-lead-san-francisco,-california,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Datadog for Startups Engineering Lead",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-director,-security-sales-engineering-denver,-colorado,-usa;-new-york,-new-york,-usa;-san-francisco,-california,-usa;-seattle,-washington,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Director, Security Sales Engineering",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-engineering-manager-i---cyber-threat-intelligence-boston,-massachusetts,-usa;-denver,-colorado,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager I - Cyber Threat Intelligence",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-engineering-manager---security-incident-response-alabama,-usa,-remote;-arizona,-usa,-remote;-arkansas,-usa,-remote;-california,-usa,-remote;-colorado,-usa,-remote;-connecticut,-usa,-remote;-delaware,-usa,-remote;-florida,-usa,-remote;-georgia,-usa,-remote;-idaho,-usa,-remote;-illinois,-usa,-remote;-indiana,-usa,-remote;-iowa,-usa,-remote;-kansas,-usa,-remote;-kentucky,-usa,-remote;-louisiana,-usa,-remote;-maine,-usa,-remote;-maryland,-usa,-remote;-massachusetts,-usa,-remote;-michigan,-usa,-remote;-minnesota,-usa,-remote;-missouri,-usa,-remote;-montana,-usa,-remote;-nebraska,-usa,-remote;-nevada,-usa,-remote;-new-hampshire,-usa,-remote;-new-jersey,-usa,-remote;-new-mexico,-usa,-remote;-new-york,-usa,-remote;-north-carolina,-usa,-remote;-ohio,-usa,-remote;-oklahoma,-usa,-remote;-oregon,-usa,-remote;-pennsylvania,-usa,-remote;-rhode-island,-usa,-remote;-south-carolina,-usa,-remote;-tennessee,-usa,-remote;-texas,-usa,-remote;-utah,-usa,-remote;-vermont,-usa,-remote;-virginia,-usa,-remote;-washington,-usa,-remote;-wisconsin,-usa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Engineering Manager - Security Incident Response",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-enterprise-sales-engineer---south-africa-south-africa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Enterprise Sales Engineer - South Africa",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-enterprise-sales-engineer---spain-spain,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Enterprise Sales Engineer - Spain",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-enterprise-sales-engineer---uk-united-kingdom,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Enterprise Sales Engineer - UK",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-federal-support-engineer-2---denver-denver,-colorado,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Federal Support Engineer 2 - Denver",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-federal-support-engineer-3---denver-denver,-colorado,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Federal Support Engineer 3 - Denver",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-1,-technical-escalations-engineering---us-east-boston,-massachusetts,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager 1, Technical Escalations Engineering - US-East",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-2,-premier-support-engineering---boston-boston,-massachusetts,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager 2, Premier Support Engineering -  Boston",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager,-commercial-sales-engineering-(amer---west)-denver,-colorado,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager, Commercial Sales Engineering (AMER - West)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-i,-developer-advocacy-canada,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager I, Developer Advocacy",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-i,-developer-advocacy-california,-usa,-remote;-colorado,-usa,-remote;-massachusetts,-usa,-remote;-new-york,-usa,-remote": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager I, Developer Advocacy",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-i,-engineering---cloud-security---findings-prioritization-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager I, Engineering - Cloud Security - Findings Prioritization",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-manager-i,-engineering---infrastructure-remediation-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Manager I, Engineering - Infrastructure Remediation",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-premier-support-engineer-2-san-francisco,-california,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Premier Support Engineer 2",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-premier-support-engineer-2---new-york-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Premier Support Engineer 2 - New York",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-premier-support-engineer-3---nyc-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Premier Support Engineer 3 - NYC",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-product-manager-ii---incident-management-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Product Manager II - Incident Management",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-product-manager-ii---software-delivery-suite-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Product Manager II - Software Delivery Suite",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-sales-engineer-(customer-success)---boston-boston,-massachusetts,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Sales Engineer (Customer Success) - Boston",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-ai-engineer---apm-experiences-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior AI Engineer - APM Experiences",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-customer-data-scientist-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Customer Data Scientist",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-product-manager---cost-and-usage-experience-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager - Cost and Usage Experience",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-product-manager---database-ai-optimization-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Product Manager - Database AI Optimization",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-security-engineer---threat-detection-engineering-boston,-massachusetts,-usa;-denver,-colorado,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Security Engineer - Threat Detection Engineering",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-software-engineer--boston,-massachusetts,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Engineer ",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-software-engineer---ai-code-gen---agent-engineer-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-software-engineer---frontend-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Engineer - Frontend",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-software-engineer---ide-ai-experiences---llm-engineer-boston,-massachusetts,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Software Engineer - IDE AI Experiences - LLM Engineer",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-staff-genai-engineer---application-performance-monitoring-(apm)-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.003Z",
+    "job_title": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.003Z"
+  },
+  "datadog-senior-staff-software-engineer--new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Staff Software Engineer ",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "datadog-staff-genai-engineer---application-performance-monitoring-(apm)-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "datadog-staff-software-engineer-boston,-massachusetts,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Staff Software Engineer",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "datadog-staff-software-engineer---frontend-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Staff Software Engineer - Frontend",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "datadog-staff-software-engineer---ml-observability-boston,-massachusetts,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Staff Software Engineer - ML Observability",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "datadog-staff-statistics-engineer---feature-flagging-and-experimentation-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Staff Statistics Engineer - Feature Flagging and Experimentation",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "datadog-technical-escalations-engineer-3-(internal-developer-portal)---us-east-boston,-massachusetts,-usa;-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Technical Escalations Engineer 3 (Internal Developer Portal) - US-East",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "datadog-technical-support-engineer-2,-premier---denver-denver,-colorado,-usa": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Technical Support Engineer 2, Premier - Denver",
+    "company": "datadog",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-manager,-on-site-executive-it-support-(residential-operations)-hybrid---los-angeles,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Manager, On-Site Executive IT Support (Residential Operations)",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-software-engineer,-full-stack-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Software Engineer, Full-Stack",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-machine-learning-engineer---ad-forecasting-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Machine Learning Engineer - Ad Forecasting",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-marketing-operations-manager,-product-led-growth-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Marketing Operations Manager, Product-Led Growth",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-marketing-operations-manager,-product-led-growth-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Marketing Operations Manager, Product-Led Growth",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-marketing-operations-manager,-b2b-sales-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Marketing Operations Manager, B2B Sales",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-marketing-operations-manager,-b2b-sales-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Marketing Operations Manager, B2B Sales",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-senior-fullstack-engineer---backstage-portal,-data-experience-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Fullstack Engineer - Backstage Portal, Data Experience",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-product-marketing-manager---spotify-for-artists,-campaign-kit-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Marketing Manager - Spotify for Artists, Campaign Kit",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-account-executive,-e-commerce--salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Account Executive, E-Commerce ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-account-executive,-e-commerce--seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Account Executive, E-Commerce ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-account-executive,-e-commerce--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Account Executive, E-Commerce ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-account-executive,-e-commerce--new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Account Executive, E-Commerce ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-grc-lead-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior GRC Lead",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-grc-lead-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior GRC Lead",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "samsara-hardware-solutions-firmware-engineer-san-francisco,-ca,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Hardware Solutions Firmware Engineer",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "samsara-senior-hardware-reliability-engineer-san-francisco,-ca,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Hardware Reliability Engineer",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "samsara-senior-hardware-systems-engineer-san-francisco---sf9": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Hardware Systems Engineer",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "samsara-senior-staff-hardware-systems-engineer-san-francisco---sf9": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Staff Hardware Systems Engineer",
+    "company": "samsara",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "airtable-product-security-engineer-san-francisco,-ca;-remote-(seattle,-wa-only)": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Security Engineer",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-on‑site-it-support-engineer-(residential-operations)-hybrid---los-angeles,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "On‑Site IT Support Engineer (Residential Operations)",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-data-scientist,-finance--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Data Scientist, Finance ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-data-engineer-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Data Engineer",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-ai-engineer-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "AI Engineer",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-director-of-sales-engineering,-amer-hybrid---san-francisco,-new-york-city,-austin": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Director of Sales Engineering, AMER",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-director-of-trust-&-safety-engineering-hybrid---san-francisco": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Director of Trust & Safety Engineering",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-engineering-manager,-cdn-hybrid---san-francisco": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, CDN",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel--it-infrastructure-engineer--hybrid---san-francisco": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": " IT Infrastructure Engineer ",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-product-manager---accounts-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager - Accounts",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-sales-engineer-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Sales Engineer",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-sales-engineer,-startups--hybrid---san-francisco,-new-york-city,-austin": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Sales Engineer, Startups ",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-software-engineer,-ai-sdk-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, AI SDK",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-software-engineer,-cdn-hybrid---san-francisco,-new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, CDN",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-software-engineer,-ci/cd-hybrid---new-york-city": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, CI/CD",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "vercel-software-engineer,-support-platform-hybrid---san-francisco": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Support Platform",
+    "company": "vercel",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-marketing-operations-manager,-product-led-growth-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Marketing Operations Manager, Product-Led Growth",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-marketing-operations-manager,-b2b-sales-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Marketing Operations Manager, B2B Sales",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-web-platform-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Web Platform",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-bizops-lead,-bd-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "BizOps Lead, BD",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-bizops-lead,-bd-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "BizOps Lead, BD",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex--bizops-lead,-bd-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": " BizOps Lead, BD",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-manager,-global-yield-programs-&-incentives-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Manager, Global Yield Programs & Incentives",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-candidate-experience-coordinator-(12-month-contract)-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Candidate Experience Coordinator (12-month Contract)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-associate-manager,-compliance-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Associate Manager, Compliance",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-account-executive---backstage-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Account Executive - Backstage",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-research-scientist---personalization-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Research Scientist - Personalization",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-manager,-partner-product-and-delivery-miami,-fl": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Manager, Partner Product and Delivery",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-associate-product-manager-intern-hybrid---san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Associate Product Manager Intern",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-engineering-manager,-salesforce-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, Salesforce",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-engineering-manager,-salesforce-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, Salesforce",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-engineering-manager,-gtm-engineering--seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, GTM Engineering ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-engineering-manager,-gtm-engineering--new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, GTM Engineering ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-engineering-manager,-gtm-engineering--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, GTM Engineering ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-activation-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Activation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-bizops-lead,-bd-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "BizOps Lead, BD",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-software-engineer-ii,-credit-limit-engineering-são-paulo,-são-paulo,-brazil": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer II, Credit Limit Engineering",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-software-engineer-ii,-frontend-platform--new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer II, Frontend Platform ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-senior-staff-machine-learning-engineer---home-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Staff Machine Learning Engineer - Home",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-software-engineer-ii,-frontend-platform-são-paulo,-são-paulo,-brazil": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer II, Frontend Platform",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-content-designer,-music-mission-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Content Designer, Music Mission",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-financial-crimes-investigator-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Financial Crimes Investigator",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-software-engineer:-platform-services-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer: Platform Services",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-backend-engineer---data-infrastructure-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Backend Engineer  - Data Infrastructure",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-machine-learning-engineer-ii---p2p---personalization-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Machine Learning Engineer II - P2P - Personalization",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-platform-engineer:-general-compute-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Platform Engineer: General Compute",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "airtable-data-engineer-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Data Engineer",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "airtable-product-manager,-ai-san-francisco,-ca": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, AI",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "airtable-product-manager,-omni-analysis-&-q&a-san-francisco,-ca;-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, Omni Analysis & Q&A",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "airtable-software-engineer,-android-san-francisco,-ca;-new-york-city,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Android",
+    "company": "airtable",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-data-scientist---business-analytics-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Data Scientist  - Business Analytics",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-database-support-engineer-(apac)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Database Support Engineer (APAC)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-database-support-engineer-(emea)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Database Support Engineer (EMEA)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-database-support-engineer-(amer)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Database Support Engineer (AMER)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-machine-learning-engineer,-personalization-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Machine Learning Engineer, Personalization",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-security-operations-engineer--seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Security Operations Engineer ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-security-operations-engineer--new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Security Operations Engineer ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-security-operations-engineer--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Security Operations Engineer ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-associate-director,-programmatic-platform-operations-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Associate Director, Programmatic Platform Operations",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-gm,-ai-foundation-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "GM, AI Foundation",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-fp&a-analyst---ads-&-podcast-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "FP&A Analyst - Ads & Podcast",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-associate-manager,-edd-compliance-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Associate Manager, EDD Compliance",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-associate-manager,-quality-compliance-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Associate Manager, Quality Compliance",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-associate-manager,-transaction-monitoring-compliance-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Associate Manager, Transaction Monitoring Compliance",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-lead-edd-compliance-analyst-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Lead EDD Compliance Analyst",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-lead-tms-compliance-analyst--charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Lead TMS Compliance Analyst ",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-lead-tms-quality-compliance-analyst-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Lead TMS Quality Compliance Analyst",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "coinbase-tms-compliance-analyst-iii-charlotte,-nc": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "TMS Compliance Analyst III",
+    "company": "coinbase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-machine-learning-engineer-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Machine Learning Engineer",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-banking-specialist-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Banking Specialist",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-banking-specialist-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Banking Specialist",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-commercial-account-executive-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Commercial Account Executive",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-commercial-account-executive-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Commercial Account Executive",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-commercial-account-executive-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Commercial Account Executive",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-commercial-account-executive-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Commercial Account Executive",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-compliance-manager-(card-&-rewards)-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Compliance Manager (Card & Rewards)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-compliance-manager-(card-&-rewards)-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Compliance Manager (Card & Rewards)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-compliance-manager-(card-&-rewards)-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Compliance Manager (Card & Rewards)",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-engineering-manager,-security-engineering--new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, Security Engineering ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-engineering-manager,-security-engineering--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Engineering Manager, Security Engineering ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-enterprise-implementation-consultant,-financial-saas-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Enterprise Implementation Consultant, Financial Saas",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-enterprise-implementation-consultant,-financial-saas-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Enterprise Implementation Consultant, Financial Saas",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-enterprise-implementation-consultant,-financial-saas-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Enterprise Implementation Consultant, Financial Saas",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-enterprise-implementation-consultant,-financial-saas-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Enterprise Implementation Consultant, Financial Saas",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-product-and-regulatory-counsel-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product and Regulatory Counsel",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-product-and-regulatory-counsel-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product and Regulatory Counsel",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-product-and-regulatory-counsel-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product and Regulatory Counsel",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-product-and-regulatory-counsel-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product and Regulatory Counsel",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-application-security-engineer-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Application Security Engineer",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-application-security-engineer-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Application Security Engineer",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-application-security-engineer-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Application Security Engineer",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-acquisition-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Acquisition",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-acquisition-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Acquisition",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-acquisition-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Acquisition",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-activation-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Activation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-activation-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Activation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-risk-management-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Risk Management",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-risk-management--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Risk Management ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-engineering-manager,-risk-management--seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Engineering Manager, Risk Management ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-gtm-recruiter-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior GTM Recruiter",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-gtm-recruiter-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior GTM Recruiter",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-gtm-recruiter-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior GTM Recruiter",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex--senior-manager,-implementation-salt-lake-city,-utah,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": " Senior Manager, Implementation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-manager,-implementation-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Manager, Implementation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-manager,-implementation-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Manager, Implementation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-manager,-implementation-seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Manager, Implementation",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-senior-software-engineer,-full-stack-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Software Engineer, Full-Stack",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-software-engineer-ii,-product--san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer II, Product ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-software-engineer-ii,-product--new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer II, Product ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-software-engineer-ii,-product--seattle,-washington,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer II, Product ",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-startups-account-executive-san-francisco,-california,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Startups Account Executive",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "brex-startups-account-executive-new-york,-new-york,-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Startups Account Executive",
+    "company": "brex",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-director-of-sales,-emerging-&-scaled-(new-business)-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Director of Sales, Emerging & Scaled (New Business)",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-mixed-methods-researcher---music-mission-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Mixed Methods Researcher - Music Mission",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-manager,-software-engineering---billing-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Manager, Software Engineering - Billing",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-developer-productivity-engineer-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Developer Productivity Engineer",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-distributed-systems-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Distributed Systems",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-global-head-of-sales-operations-&-strategy-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Global Head of Sales Operations & Strategy",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "clerk-product-manager,-billing-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, Billing",
+    "company": "clerk",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-manager,-software-engineering---creation-engine-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Manager, Software Engineering - Creation Engine",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-product-manager,-sites-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, Sites",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-product-manager,-cms-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, CMS",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-product-manager,-growth-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, Growth",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-ai-platforms-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, AI Platforms",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-full-stack-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Full Stack",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-manager,-software-engineering---expressive-ai-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Manager, Software Engineering - Expressive AI",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-manager,-software-engineering---collaboration-tools-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Manager, Software Engineering - Collaboration Tools",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-product-manager,-creation-engine-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, Creation Engine",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-director,-software-engineering---growth-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Director, Software Engineering - Growth",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-director,-software-engineering---product-platform-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Director, Software Engineering - Product Platform",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-product-manager,-ai-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, AI",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-data-scientist--san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Data Scientist  ",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-c++-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, C++",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-graphics-&-media-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Graphics & Media",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-growth-&-monetization-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Growth & Monetization",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-ai-product-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, AI Product",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-production-engineering-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Production Engineering",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-security-engineer-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Security Engineer",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-software-engineer,-machine-learning-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Software Engineer, Machine Learning",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-product-manager,-design-tools-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Product Manager, Design Tools",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "figma-data-engineer-san-francisco,-ca-•-new-york,-ny-•-united-states": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Data Engineer",
+    "company": "figma",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-salesforce-engineer-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Salesforce Engineer",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-multigres-deployment-engineer-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Multigres Deployment Engineer",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-senior-machine-learning-engineer-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Machine Learning Engineer",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-finops-engineer-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "FinOps Engineer",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-postgres-engineer-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Postgres Engineer",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-staff-research-engineer---music-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Staff Research Engineer - Music",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-senior-research-engineer---music-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Research Engineer - Music",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-principal-research-scientist---music-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Principal Research Scientist - Music",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-staff-research-scientist---music-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Staff Research Scientist - Music",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-senior-research-scientist---music-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Research Scientist - Music",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-senior-content-accountant-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Content Accountant",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-finance-program-manager-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Finance Program Manager",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-payroll-specialist-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Payroll Specialist",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-data-scientist---growth-analytics-(performance-marketing)-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Data Scientist - Growth Analytics (Performance Marketing)",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-cli-engineer-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "CLI Engineer",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-workday-payroll-specialist-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Workday Payroll Specialist",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-developer-relations-engineer-(san-francisco,-ca)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Developer Relations Engineer (San Francisco, CA)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-senior-staff-machine-learning-engineer-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Senior Staff Machine Learning Engineer",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "spotify-global-sr.-manager,-experiential-&-content-production-new-york,-ny": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Global Sr. Manager, Experiential & Content Production",
+    "company": "spotify",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-platform-engineer:-kubernetes-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Platform Engineer: Kubernetes",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-support-engineer-(emea---weekends)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.004Z",
+    "job_title": "Support Engineer (EMEA - Weekends)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.004Z"
+  },
+  "supabase-support-engineer-(amer---weekends)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Support Engineer (AMER - Weekends)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "supabase-enterprise-account-executive-(usa)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Enterprise Account Executive (USA)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "supabase-multigres-engineer-remote": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Multigres Engineer",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "supabase-support-engineer-(emea)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Support Engineer (EMEA)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "supabase-support-engineer-(apac)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Support Engineer (APAC)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "railway-infra-engineer---datacenters-remote-(united-states)": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Infra Engineer - Datacenters",
+    "company": "railway",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "supabase-support-engineer-(amer)-remote": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Support Engineer (AMER)",
+    "company": "supabase",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "railway-developer-relations-remote-(united-states)": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Developer Relations",
+    "company": "railway",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "railway-infrastructure-engineer-remote-(united-states)": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Infrastructure Engineer",
+    "company": "railway",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "railway-senior-full-stack-engineer---product-remote-(united-states)": {
+    "assigned_date": "2026-02-10T12:51:27.005Z",
+    "job_title": "Senior Full-Stack Engineer - Product",
+    "company": "railway",
+    "first_seen": "2026-02-10T12:51:27.005Z"
+  },
+  "datadog-staff-software-engineer-–-cloud-foundations-new-york,-new-york,-usa": {
+    "assigned_date": "2026-02-10T14:05:29.120Z",
+    "job_title": "Staff Software Engineer – Cloud Foundations",
+    "company": "datadog",
+    "first_seen": "2026-02-10T14:05:29.120Z"
+  }
+}
