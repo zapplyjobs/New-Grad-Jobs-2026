@@ -1009,29 +1009,11 @@ async function processJobs() {
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
 
-        // DIAGNOSTIC: Count JSearch jobs at each stage
-        const jsearchCount = (jobs) => jobs.filter(j => j.job_source === 'jsearch').length;
-        const diagnosticData = {
-            total: allJobs.length,
-            jsearch: jsearchCount(allJobs),
-            sample_jsearch_titles: allJobs
-                .filter(j => j.job_source === 'jsearch')
-                .slice(0, 3)
-                .map(j => j.job_title)
-        };
-        console.log('[DIAGNOSTIC] After fetchAllJobs:', JSON.stringify(diagnosticData));
-        logger.info('[DIAGNOSTIC] After fetchAllJobs');
-
         // Filter out healthcare/nursing jobs (New-Grad is for tech roles, not healthcare)
         const filteredJobs = filterHealthcareJobs(allJobs);
-        const healthcareDiag = {
-            filtered: allJobs.length - filteredJobs.length,
-            jsearch_before: jsearchCount(allJobs),
-            jsearch_after: jsearchCount(filteredJobs),
-            jsearch_filtered: jsearchCount(allJobs) - jsearchCount(filteredJobs)
-        };
-        console.log('[DIAGNOSTIC] Healthcare filter:', JSON.stringify(healthcareDiag));
-        logger.info('Filtered out healthcare jobs');
+        logger.info('Filtered out healthcare jobs', {
+            filtered: allJobs.length - filteredJobs.length
+        });
 
         // Filter out Senior/Mid-Level jobs (New-Grad is for Entry-Level roles only)
         // EXCEPTION: Skip filter for JSearch jobs - they're already filtered by API (under_3_years_experience)
@@ -1045,24 +1027,11 @@ async function processJobs() {
             const level = getExperienceLevel(job.job_title, job.job_description);
             return level === 'Entry-Level';
         });
-        const experienceDiag = {
+        logger.info('Filtered out Senior/Mid-Level jobs', {
             before: filteredJobs.length,
             after: entryLevelJobs.length,
-            filtered: filteredJobs.length - entryLevelJobs.length,
-            jsearch_before: jsearchCount(filteredJobs),
-            jsearch_after: jsearchCount(entryLevelJobs),
-            jsearch_filtered: jsearchCount(filteredJobs) - jsearchCount(entryLevelJobs),
-            sample_jsearch_rejected: filteredJobs
-                .filter(j => j.job_source === 'jsearch')
-                .filter(j => getExperienceLevel(j.job_title, j.job_description) !== 'Entry-Level')
-                .slice(0, 3)
-                .map(j => ({
-                    title: j.job_title,
-                    classified_as: getExperienceLevel(j.job_title, j.job_description)
-                }))
-        };
-        console.log('[DIAGNOSTIC] Experience filter:', JSON.stringify(experienceDiag));
-        logger.info('Filtered out Senior/Mid-Level jobs');
+            filtered: filteredJobs.length - entryLevelJobs.length
+        });
 
         // Fill null dates and convert to relative format
         const jobsWithDates = fillJobDates(entryLevelJobs, jobDatesStore);
