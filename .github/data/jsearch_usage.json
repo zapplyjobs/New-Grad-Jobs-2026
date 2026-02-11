@@ -1,7 +1,7 @@
 {
   "date": "2026-02-11",
-  "requests": 28,
-  "remaining": 62,
+  "requests": 30,
+  "remaining": 60,
   "queries_executed": [
     "devops engineer",
     "cloud engineer",
@@ -30,7 +30,9 @@
     "site reliability engineer",
     "platform engineer",
     "platform engineer",
-    "product manager"
+    "product manager",
+    "product designer",
+    "ux designer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -103,8 +105,14 @@
       ],
       "site reliability engineer": [
         10
+      ],
+      "product designer": [
+        10
+      ],
+      "ux designer": [
+        10
       ]
     },
-    "total_jobs": 276
+    "total_jobs": 296
   }
 }
