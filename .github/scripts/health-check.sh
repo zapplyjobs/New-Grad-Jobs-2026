@@ -34,7 +34,7 @@ if [[ "${1:-}" == "--json" ]]; then
 fi
 
 ##
-# Get time since last commit in human-readable format
+# Get time since last workflow run in human-readable format
 ##
 get_last_run() {
     local repo_dir="$1"
@@ -44,9 +44,24 @@ get_last_run() {
     fi
 
     cd "$repo_dir"
-    local last_commit_time=$(git log -1 --format=%ct 2>/dev/null || echo "0")
-    local now=$(date +%s)
-    local diff=$((now - last_commit_time))
+
+    # Try to get last workflow run time using gh CLI
+    local last_run_time=""
+    if command -v gh &> /dev/null; then
+        last_run_time=$(gh run list --limit 1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
+    fi
+
+    # Fallback to git commit time if gh CLI fails
+    if [[ -z "$last_run_time" ]]; then
+        local last_commit_time=$(git log -1 --format=%ct 2>/dev/null || echo "0")
+        local now=$(date +%s)
+        local diff=$((now - last_commit_time))
+    else
+        # Convert ISO 8601 timestamp to Unix timestamp
+        local run_timestamp=$(date -d "$last_run_time" +%s 2>/dev/null || echo "0")
+        local now=$(date +%s)
+        local diff=$((now - run_timestamp))
+    fi
 
     if [[ $diff -lt 60 ]]; then
         echo "${diff}s ago"
@@ -92,7 +107,7 @@ check_repo() {
         current_count=$(jq 'length' "$current_jobs" 2>/dev/null || echo "0")
     fi
     if [[ -f "$seen_jobs" ]]; then
-        seen_count=$(jq 'if type == "array" then length else (.jobs | length) end' "$seen_jobs" 2>/dev/null || echo "0")
+        seen_count=$(jq 'if type == "array" then length else (. | keys | length) end' "$seen_jobs" 2>/dev/null || echo "0")
     fi
     if [[ -f "$pending_queue" ]]; then
         pending_count=$(jq 'length' "$pending_queue" 2>/dev/null || echo "0")

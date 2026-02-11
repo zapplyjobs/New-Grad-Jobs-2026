@@ -83,9 +83,9 @@ function countJobsBySource(jobs) {
             sources.jsearch++;
         } else if (urlLower.includes('greenhouse')) {
             sources.greenhouse++;
-        } else if (urlLower.includes('lever.co')) {
+        } else if (urlLower.includes('lever')) {
             sources.lever++;
-        } else if (urlLower.includes('ashbyhq.com')) {
+        } else if (urlLower.includes('ashby')) {
             sources.ashby++;
         } else if (urlLower.includes('myworkdayjobs.com')) {
             sources.myworkdayjobs++;
@@ -151,7 +151,7 @@ function generateMetrics() {
         },
         processing: {
             current_jobs: currentJobs.length,
-            seen_jobs_total: Array.isArray(seenJobs) ? seenJobs.length : (seenJobs.jobs || []).length,
+            seen_jobs_total: Array.isArray(seenJobs) ? seenJobs.length : Object.keys(seenJobs).length,
             fresh_this_run: newJobs.length,
             pending_queue: pendingQueue.length
         },
