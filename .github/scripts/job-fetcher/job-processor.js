@@ -1034,7 +1034,14 @@ async function processJobs() {
         logger.info('Filtered out healthcare jobs');
 
         // Filter out Senior/Mid-Level jobs (New-Grad is for Entry-Level roles only)
+        // EXCEPTION: Skip filter for JSearch jobs - they're already filtered by API (under_3_years_experience)
         const entryLevelJobs = filteredJobs.filter(job => {
+            // JSearch jobs already filtered at API level - trust the source
+            if (job.job_source === 'jsearch') {
+                return true;
+            }
+
+            // For other sources, apply experience level filter
             const level = getExperienceLevel(job.job_title, job.job_description);
             return level === 'Entry-Level';
         });
