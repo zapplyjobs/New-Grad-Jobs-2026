@@ -1,23 +1,22 @@
 {
-  "generated": "2026-02-11T08:22:45.596Z",
+  "generated": "2026-02-11T08:43:22.876Z",
   "period": "last_7_days",
-  "period_start": "2026-02-04T08:22:45.596Z",
-  "period_end": "2026-02-11T08:22:45.596Z",
+  "period_start": "2026-02-04T08:43:22.876Z",
+  "period_end": "2026-02-11T08:43:22.876Z",
   "summary": {
-    "total_jobs_posted": 566,
-    "unique_jobs": 324,
-    "multi_channel_postings": 484,
-    "unique_multi_channel_jobs": 242,
+    "total_jobs_posted": 564,
+    "unique_jobs": 323,
+    "multi_channel_postings": 482,
+    "unique_multi_channel_jobs": 241,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988662168879217",
-      "count": 235,
+      "channel_id": "1462988605306834987",
+      "count": 234,
       "jobs": [
-        "2f4b7be645c7b2ea",
         "49d14930ef47a987",
         "4b394fa186d2c0c1",
         "3c8c1e174f69572a",
@@ -318,9 +317,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 123,
+      "count": 122,
       "jobs": [
-        "2f4b7be645c7b2ea",
         "49d14930ef47a987",
         "4b394fa186d2c0c1",
         "3c8c1e174f69572a",
@@ -922,16 +920,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "2f4b7be645c7b2ea",
-      "company": "anthropic",
-      "title": "Data Scientist",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-04T08:36:04.594Z"
-    },
-    {
       "job_id": "49d14930ef47a987",
       "company": "anthropic",
       "title": "Enterprise Account Executive, State & Local Sales",
@@ -1420,6 +1408,16 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T08:31:12.694Z"
+    },
+    {
+      "job_id": "905753fc1da5e6a9",
+      "company": "Anthropic",
+      "title": "Research Engineer, Universes",
+      "channels": [
+        "channel-14629886",
+        "channel-14629888"
+      ],
+      "posted_at": "2026-02-05T08:31:19.465Z"
     }
   ],
   "failures": [],

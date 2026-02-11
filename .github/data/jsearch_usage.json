@@ -1,7 +1,7 @@
 {
   "date": "2026-02-11",
-  "requests": 20,
-  "remaining": 70,
+  "requests": 22,
+  "remaining": 68,
   "queries_executed": [
     "devops engineer",
     "cloud engineer",
@@ -22,11 +22,14 @@
     "android developer",
     "machine learning engineer",
     "data scientist",
-    "data engineer"
+    "data engineer",
+    "data engineer",
+    "devops engineer"
   ],
   "metrics": {
     "jobs_per_query": {
       "devops engineer": [
+        10,
         10
       ],
       "cloud engineer": [
@@ -82,9 +85,10 @@
         10
       ],
       "data engineer": [
+        10,
         10
       ]
     },
-    "total_jobs": 196
+    "total_jobs": 216
   }
 }
