@@ -284,93 +284,126 @@ async function searchJSearchNewGrad() {
         max_requests: MAX_REQUESTS_PER_DAY
     });
 
-    // Rotate queries based on current hour (spreads requests across queries)
+    // Make 2 requests per run to balance quota usage across the day
+    // Target: 90 requests / 48 runs = ~2 requests/run
+    // This distributes job flow evenly throughout the day
+    const REQUESTS_PER_RUN = 2;
     const currentHour = new Date().getUTCHours();
-    const queryIndex = currentHour % NEW_GRAD_QUERIES.length;
-    const query = NEW_GRAD_QUERIES[queryIndex];
+    const currentMinute = new Date().getUTCMinutes();
 
-    logger.info('JSearch API request initiated', {
-        query,
-        request_number: usage.requests + 1,
-        max_requests: MAX_REQUESTS_PER_DAY
+    // Rotate queries based on hour + minute for better distribution
+    const timeOffset = (currentHour * 4) + Math.floor(currentMinute / 15);
+    const queries = [
+        NEW_GRAD_QUERIES[timeOffset % NEW_GRAD_QUERIES.length],
+        NEW_GRAD_QUERIES[(timeOffset + 1) % NEW_GRAD_QUERIES.length]
+    ];
+
+    logger.info('JSearch API batch initiated', {
+        queries,
+        requests_this_run: REQUESTS_PER_RUN,
+        requests_used: usage.requests,
+        requests_remaining: usage.remaining
     });
 
     try {
-        // Build API request
-        const url = new URL(JSEARCH_BASE_URL);
-        url.searchParams.append('query', `${query} United States`);
-        url.searchParams.append('page', '1');
-        url.searchParams.append('num_pages', '1');  // 1 page = 10 jobs per request (80 requests/day = 800 jobs/day)
-        url.searchParams.append('date_posted', 'month');
-        url.searchParams.append('country', 'us');  // US only
-        url.searchParams.append('employment_types', 'FULLTIME');  // Full-time roles
-        url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
+        // Make multiple requests to spread quota throughout the day
+        const allJobs = [];
 
-        // Fetch with retry logic for socket hang up errors (H7)
-        const response = await withRetry(
-            async () => {
-                return fetch(url.toString(), {
-                    method: 'GET',
-                    headers: {
-                        'X-RapidAPI-Key': JSEARCH_API_KEY,
-                        'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
-                    },
-                    // Add timeout to prevent hanging connections
-                    signal: AbortSignal.timeout(30000)  // 30 second timeout
+        for (let i = 0; i < Math.min(REQUESTS_PER_RUN, usage.remaining); i++) {
+            const query = queries[i];
+
+            // Build API request
+            const url = new URL(JSEARCH_BASE_URL);
+            url.searchParams.append('query', `${query} United States`);
+            url.searchParams.append('page', '1');
+            url.searchParams.append('num_pages', '1');  // 1 page = 10 jobs per request
+            url.searchParams.append('date_posted', 'month');
+            url.searchParams.append('country', 'us');  // US only
+            url.searchParams.append('employment_types', 'FULLTIME');  // Full-time roles
+            url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
+
+            logger.info(`JSearch request ${i + 1}/${REQUESTS_PER_RUN}`, { query });
+
+            // Fetch with retry logic for socket hang up errors (H7)
+            const response = await withRetry(
+                async () => {
+                    return fetch(url.toString(), {
+                        method: 'GET',
+                        headers: {
+                            'X-RapidAPI-Key': JSEARCH_API_KEY,
+                            'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
+                        },
+                        // Add timeout to prevent hanging connections
+                        signal: AbortSignal.timeout(30000)  // 30 second timeout
+                    });
+                },
+                'JSearch API fetch',
+                config.socketHangUp,  // Use centralized retry config
+                { query, url: url.toString() }
+            );
+
+            if (!response.ok) {
+                logger.error('JSearch API request failed', {
+                    status: response.status,
+                    statusText: response.statusText,
+                    query
                 });
-            },
-            'JSearch API fetch',
-            config.socketHangUp,  // Use centralized retry config
-            { query, url: url.toString() }
-        );
+                continue;  // Skip to next request
+            }
 
-        if (!response.ok) {
-            logger.error('JSearch API request failed', {
-                status: response.status,
-                statusText: response.statusText
+            const data = await response.json();
+            const jobs = data.data || [];
+
+            // Update usage tracking with detailed metrics
+            usage.requests++;
+            usage.remaining = MAX_REQUESTS_PER_DAY - usage.requests;
+            usage.queries_executed.push(query);
+
+            // Add performance metrics
+            if (!usage.metrics) usage.metrics = {};
+            if (!usage.metrics.jobs_per_query) usage.metrics.jobs_per_query = {};
+            if (!usage.metrics.jobs_per_query[query]) usage.metrics.jobs_per_query[query] = [];
+            usage.metrics.jobs_per_query[query].push(jobs.length);
+
+            // Track total jobs fetched
+            if (!usage.metrics.total_jobs) usage.metrics.total_jobs = 0;
+            usage.metrics.total_jobs += jobs.length;
+
+            logger.info(`JSearch request ${i + 1} completed`, {
+                jobs_returned: jobs.length,
+                query
             });
-            return [];
+
+            // Normalize and accumulate jobs
+            const normalizedJobs = normalizeJSearchJobs(data);
+            allJobs.push(...normalizedJobs);
+
+            // Small delay between requests to avoid rate limiting
+            if (i < REQUESTS_PER_RUN - 1) {
+                await new Promise(resolve => setTimeout(resolve, 500));
+            }
         }
-
-        const data = await response.json();
-        const jobs = data.data || [];
-
-        // Update usage tracking with detailed metrics
-        usage.requests++;
-        usage.remaining = MAX_REQUESTS_PER_DAY - usage.requests;
-        usage.queries_executed.push(query);
-
-        // Add performance metrics
-        if (!usage.metrics) usage.metrics = {};
-        if (!usage.metrics.jobs_per_query) usage.metrics.jobs_per_query = {};
-        if (!usage.metrics.jobs_per_query[query]) usage.metrics.jobs_per_query[query] = [];
-        usage.metrics.jobs_per_query[query].push(jobs.length);
-
-        // Track total jobs fetched
-        if (!usage.metrics.total_jobs) usage.metrics.total_jobs = 0;
-        usage.metrics.total_jobs += jobs.length;
 
         // Calculate averages
         const avgJobsPerRequest = usage.metrics.total_jobs / usage.requests;
 
         await saveUsageTracking(usage);
 
-        logger.info('JSearch fetch completed successfully', {
-            jobs_returned: jobs.length,
+        logger.info('JSearch batch completed successfully', {
+            total_jobs: allJobs.length,
+            requests_made: Math.min(REQUESTS_PER_RUN, queries.length),
             avg_jobs_per_request: avgJobsPerRequest.toFixed(1),
             usage_requests: usage.requests,
             usage_remaining: usage.remaining,
             total_jobs_today: usage.metrics.total_jobs
         });
 
-        // Normalize jobs to internal format
-        return normalizeJSearchJobs(data);
+        return allJobs;
 
     } catch (error) {
         logger.error('JSearch API error', {
             error: error.message,
-            code: error.code,
-            query
+            code: error.code
         });
         return [];
     }
