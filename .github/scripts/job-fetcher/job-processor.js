@@ -22,6 +22,9 @@ const {
     delay
 } = require('./utils');
 
+// Pipeline tracing for debugging (zero overhead when disabled)
+const { PipelineTracer } = require('../shared/lib/instrumentation');
+
 const { convertDateToRelative } = require('../../../jobboard/src/backend/output/jobTransformer.js');
 
 // Description fetcher service
@@ -994,6 +997,10 @@ async function processJobs() {
     logger.start('Job processing system');
 
     try {
+        // Initialize pipeline tracer (only activates if DEBUG_MODE=true)
+        const DEBUG_MODE = process.env.DEBUG_MODE === 'true';
+        const tracer = new PipelineTracer(DEBUG_MODE);
+
         // Initialize deduplication logger
         const dedupLogger = new DeduplicationLogger();
 
@@ -1008,11 +1015,17 @@ async function processJobs() {
 
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
+        tracer.checkpoint('01_fetch_all_jobs', allJobs, {
+            target_companies: targetCompanies ? targetCompanies.length : 'all'
+        });
 
         // Filter out healthcare/nursing jobs (New-Grad is for tech roles, not healthcare)
         const filteredJobs = filterHealthcareJobs(allJobs);
         logger.info('Filtered out healthcare jobs', {
             filtered: allJobs.length - filteredJobs.length
+        });
+        tracer.checkpoint('02_after_healthcare_filter', filteredJobs, {
+            filtered_out: allJobs.length - filteredJobs.length
         });
 
         // Filter out Senior/Mid-Level jobs (New-Grad is for Entry-Level roles only)
@@ -1032,9 +1045,14 @@ async function processJobs() {
             after: entryLevelJobs.length,
             filtered: filteredJobs.length - entryLevelJobs.length
         });
+        tracer.checkpoint('03_after_experience_filter', entryLevelJobs, {
+            filtered_out: filteredJobs.length - entryLevelJobs.length,
+            jsearch_bypassed: filteredJobs.filter(j => j.job_source === 'jsearch').length
+        });
 
         // Fill null dates and convert to relative format
         const jobsWithDates = fillJobDates(entryLevelJobs, jobDatesStore);
+        tracer.checkpoint('04_after_fill_dates', jobsWithDates);
 
         // Add unique IDs for deduplication using standardized generation
         jobsWithDates.forEach(job => {
@@ -1049,6 +1067,10 @@ async function processJobs() {
         // Merge persisted jobs with fresh jobs (fresh jobs overwrite older data)
         const mergedJobs = mergeJobs(persistedJobs, jobsWithDates);
         logger.info('After merge', { total_unique_jobs: mergedJobs.length });
+        tracer.checkpoint('05_after_merge_persisted', mergedJobs, {
+            persisted_count: persistedJobs.length,
+            fresh_count: jobsWithDates.length
+        });
 
         // **CRITICAL FIX: Sort ALL jobs by date before any filtering**
         // Use mergedJobs (persisted + fresh) not just jobsWithDates
@@ -1092,6 +1114,10 @@ async function processJobs() {
         // Use job_posted_at_datetime_utc (ISO date) instead of job_posted_at (relative format)
         // job_posted_at is static from when job was first fetched, but job_posted_at_datetime_utc is the actual posting date
         const currentJobs = sortedJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+        tracer.checkpoint('06_after_ttl_filter', currentJobs, {
+            ttl_days: 14,
+            filtered_out: sortedJobs.length - currentJobs.length
+        });
 
         // **JOB PERSISTENCE: Save current jobs for next run**
         // This ensures jobs persist across workflow runs even if aggregator stops returning them
@@ -1146,6 +1172,10 @@ async function processJobs() {
             dedupLogger.logCheck(job, jobId, isDuplicate, fingerprint, reason);
 
             return !isDuplicate;
+        });
+        tracer.checkpoint('07_after_deduplication', freshJobs, {
+            dedup_stores: ['posted_jobs', 'seen_jobs', 'pending_queue'],
+            duplicates_removed: currentJobs.length - freshJobs.length
         });
 
         logger.info('Processing summary', {
@@ -1307,6 +1337,15 @@ async function processJobs() {
             logger.warn('Error saving job fetch summary', { error: error.message });
         }
 
+        // Final checkpoint: Before returning
+        tracer.checkpoint('08_final_output', currentJobs, {
+            fresh_jobs_added: freshJobs.length,
+            total_current: currentJobs.length
+        });
+
+        // Save trace file (zero-cost if disabled)
+        tracer.save();
+
         return {
             currentJobs,
             archivedJobs,
@@ -1315,6 +1354,11 @@ async function processJobs() {
         };
 
     } catch (error) {
+        // Save trace even on error (helps debug failures)
+        if (tracer) {
+            tracer.save();
+        }
+
         logger.fatal('Error in job processing', {
             error: error.message,
             stack: error.stack
