@@ -1011,30 +1011,34 @@ async function processJobs() {
 
         // DIAGNOSTIC: Count JSearch jobs at each stage
         const jsearchCount = (jobs) => jobs.filter(j => j.job_source === 'jsearch').length;
-        logger.info('[DIAGNOSTIC] After fetchAllJobs', {
+        const diagnosticData = {
             total: allJobs.length,
             jsearch: jsearchCount(allJobs),
             sample_jsearch_titles: allJobs
                 .filter(j => j.job_source === 'jsearch')
                 .slice(0, 3)
                 .map(j => j.job_title)
-        });
+        };
+        console.log('[DIAGNOSTIC] After fetchAllJobs:', JSON.stringify(diagnosticData));
+        logger.info('[DIAGNOSTIC] After fetchAllJobs');
 
         // Filter out healthcare/nursing jobs (New-Grad is for tech roles, not healthcare)
         const filteredJobs = filterHealthcareJobs(allJobs);
-        logger.info('Filtered out healthcare jobs', {
+        const healthcareDiag = {
             filtered: allJobs.length - filteredJobs.length,
             jsearch_before: jsearchCount(allJobs),
             jsearch_after: jsearchCount(filteredJobs),
             jsearch_filtered: jsearchCount(allJobs) - jsearchCount(filteredJobs)
-        });
+        };
+        console.log('[DIAGNOSTIC] Healthcare filter:', JSON.stringify(healthcareDiag));
+        logger.info('Filtered out healthcare jobs');
 
         // Filter out Senior/Mid-Level jobs (New-Grad is for Entry-Level roles only)
         const entryLevelJobs = filteredJobs.filter(job => {
             const level = getExperienceLevel(job.job_title, job.job_description);
             return level === 'Entry-Level';
         });
-        logger.info('Filtered out Senior/Mid-Level jobs', {
+        const experienceDiag = {
             before: filteredJobs.length,
             after: entryLevelJobs.length,
             filtered: filteredJobs.length - entryLevelJobs.length,
@@ -1049,7 +1053,9 @@ async function processJobs() {
                     title: j.job_title,
                     classified_as: getExperienceLevel(j.job_title, j.job_description)
                 }))
-        });
+        };
+        console.log('[DIAGNOSTIC] Experience filter:', JSON.stringify(experienceDiag));
+        logger.info('Filtered out Senior/Mid-Level jobs');
 
         // Fill null dates and convert to relative format
         const jobsWithDates = fillJobDates(entryLevelJobs, jobDatesStore);
