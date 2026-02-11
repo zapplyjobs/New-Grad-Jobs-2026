@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-02-11T13:29:58.772Z",
+  "workflow": {
+    "last_commit": "2026-02-11 07:11:21 -0600",
+    "commit_message": "fix: Remove zombie posted_jobs.json and conflicting workflow step"
+  },
+  "sources": {
+    "jsearch": 0,
+    "greenhouse": 201,
+    "lever": 9,
+    "ashby": 6,
+    "workday": 1,
+    "myworkdayjobs": 32,
+    "other": 216,
+    "total": 465
+  },
+  "processing": {
+    "current_jobs": 465,
+    "seen_jobs_total": 0,
+    "fresh_this_run": 20,
+    "pending_queue": 543
+  },
+  "quota": {
+    "jsearch": "42/90",
+    "jsearch_remaining": 48
+  },
+  "databases": {
+    "current_jobs_size": "2.9 MB",
+    "seen_jobs_size": "177.86 KB",
+    "pending_queue_size": "9.12 MB"
+  },
+  "health": {
+    "current_jobs_exists": true,
+    "seen_jobs_exists": true,
+    "jsearch_usage_exists": true,
+    "pending_queue_exists": true
+  },
+  "warnings": [
+    "Pending queue file size: 9.12 MB (performance impact)"
+  ],
+  "errors": []
+}
