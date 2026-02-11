@@ -56,13 +56,7 @@ const NEW_GRAD_QUERIES = [
     'new grad software engineer',
     'entry level developer',
     'junior developer',
-    'graduate software engineer',
-
-    // High-value roles
-    'staff engineer',
-    'senior software engineer',
-    'principal engineer',
-    'engineering manager'
+    'graduate software engineer'
 ];
 
 /**

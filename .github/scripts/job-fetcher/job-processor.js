@@ -1015,8 +1015,19 @@ async function processJobs() {
             filtered: allJobs.length - filteredJobs.length
         });
 
+        // Filter out Senior/Mid-Level jobs (New-Grad is for Entry-Level roles only)
+        const entryLevelJobs = filteredJobs.filter(job => {
+            const level = getExperienceLevel(job.job_title, job.job_description);
+            return level === 'Entry-Level';
+        });
+        logger.info('Filtered out Senior/Mid-Level jobs', {
+            before: filteredJobs.length,
+            after: entryLevelJobs.length,
+            filtered: filteredJobs.length - entryLevelJobs.length
+        });
+
         // Fill null dates and convert to relative format
-        const jobsWithDates = fillJobDates(filteredJobs, jobDatesStore);
+        const jobsWithDates = fillJobDates(entryLevelJobs, jobDatesStore);
 
         // Add unique IDs for deduplication using standardized generation
         jobsWithDates.forEach(job => {
