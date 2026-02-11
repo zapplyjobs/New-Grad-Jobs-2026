@@ -455,17 +455,21 @@ function getExperienceLevel(title, description = '') {
         return 'Senior';
     }
     
-    // Entry level indicators  
-    if (text.includes('entry') || text.includes('junior') || text.includes('jr.') || 
+    // Entry level indicators
+    if (text.includes('entry') || text.includes('junior') || text.includes('jr.') ||
         text.includes('new grad') || text.includes('graduate') || text.includes('university grad') ||
         text.includes('college grad') || text.includes(' grad ') || text.includes('recent grad') ||
-        text.includes('intern') || text.includes('associate') || text.includes('level 1') || 
+        text.includes('intern') || text.includes('associate') || text.includes('level 1') ||
         text.includes('l1') || text.includes('campus') || text.includes('student') ||
         text.includes('early career') || text.includes('0-2 years')) {
         return 'Entry-Level';
     }
-    
-    return 'Mid-Level';
+
+    // QUICK FIX 2026-02-11: Default to Entry-Level instead of Mid-Level
+    // Reason: JSearch API already filters for under_3_years_experience, so jobs without
+    // obvious keywords are likely entry-level. This prevents 100% rejection of JSearch jobs.
+    // TODO: Migrate to centralized aggregator where repos control their own filtering
+    return 'Entry-Level';
 }
 
 function getJobCategory(title, description = '') {
