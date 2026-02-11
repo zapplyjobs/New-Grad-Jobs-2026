@@ -1,7 +1,7 @@
 {
   "date": "2026-02-11",
-  "requests": 14,
-  "remaining": 76,
+  "requests": 16,
+  "remaining": 74,
   "queries_executed": [
     "devops engineer",
     "cloud engineer",
@@ -16,7 +16,9 @@
     "software developer",
     "full stack developer",
     "frontend developer",
-    "backend developer"
+    "backend developer",
+    "ios developer",
+    "android developer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -61,8 +63,14 @@
       ],
       "backend developer": [
         10
+      ],
+      "ios developer": [
+        10
+      ],
+      "android developer": [
+        10
       ]
     },
-    "total_jobs": 136
+    "total_jobs": 156
   }
 }
