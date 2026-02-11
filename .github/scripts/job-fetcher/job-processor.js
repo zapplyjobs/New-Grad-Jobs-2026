@@ -996,10 +996,11 @@ function loadPostedJobsStore() {
 async function processJobs() {
     logger.start('Job processing system');
 
+    // Initialize pipeline tracer (only activates if DEBUG_MODE=true)
+    const DEBUG_MODE = process.env.DEBUG_MODE === 'true';
+    const tracer = new PipelineTracer(DEBUG_MODE);
+
     try {
-        // Initialize pipeline tracer (only activates if DEBUG_MODE=true)
-        const DEBUG_MODE = process.env.DEBUG_MODE === 'true';
-        const tracer = new PipelineTracer(DEBUG_MODE);
 
         // Initialize deduplication logger
         const dedupLogger = new DeduplicationLogger();
