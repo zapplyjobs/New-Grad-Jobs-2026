@@ -119,10 +119,6 @@
     "timestamp": "2026-02-05T02:45:51.991Z",
     "fingerprint": "anthropic::manager, customer success::san francisco"
   },
-  "job-boards-greenhouse-io-anthropic-jobs-4947472008": {
-    "timestamp": "2026-02-04T00:02:43.606Z",
-    "fingerprint": "anthropic::regional head of early career associates, applied ai::san francisco"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-4973175008": {
     "timestamp": "2026-02-05T03:45:00.041Z",
     "fingerprint": "anthropic::manager of solutions architecture, applied ai (public sector)::san francisco"
@@ -234,10 +230,6 @@
   "careers-datadoghq-com-detail-7472550": {
     "timestamp": "2026-02-05T00:28:25.510Z",
     "fingerprint": "datadog::enterprise customer success manager::boston"
-  },
-  "careers-datadoghq-com-detail-7411889": {
-    "timestamp": "2026-02-04T10:09:38.707Z",
-    "fingerprint": "datadog::technical account manager::boston"
   },
   "job-boards-greenhouse-io-anthropic-jobs-5095484008": {
     "timestamp": "2026-02-05T01:42:37.311Z",
@@ -751,10 +743,6 @@
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "discord::director of engineering, developer ecosystem::san francisco bay area or remote"
   },
-  "job-boards-greenhouse-io-verkada-jobs-4351374007": {
-    "timestamp": "2026-02-03T23:36:20.035Z",
-    "fingerprint": "verkada::enterprise solutions engineer, midwest, sled::chicago"
-  },
   "job-boards-greenhouse-io-reddit-jobs-7524948": {
     "timestamp": "2026-02-07T14:32:42.551Z",
     "fingerprint": "reddit::manager, mid-market sales (client account executives)::san francisco"
@@ -1179,10 +1167,6 @@
     "timestamp": "2026-02-07T20:06:21.125Z",
     "fingerprint": "anthropic::software engineer, build systems::san francisco"
   },
-  "job-boards-greenhouse-io-anthropic-jobs-5098499008": {
-    "timestamp": "2026-02-04T06:24:58.614Z",
-    "fingerprint": "anthropic::data scientist::san francisco"
-  },
   "careers-datadoghq-com-detail-7579542": {
     "timestamp": "2026-02-07T20:06:21.125Z",
     "fingerprint": "datadog::director, engineering operations::new york"
@@ -1375,10 +1359,6 @@
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "datadog::product manager::new york"
   },
-  "job-boards-greenhouse-io-anthropic-jobs-5105509008": {
-    "timestamp": "2026-02-03T23:36:20.035Z",
-    "fingerprint": "anthropic::security engineer, offensive security::remote-friendly (travel-required) | san francisco"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-5100626008": {
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "anthropic::marketing events manager, partners::san francisco"
@@ -1399,14 +1379,6 @@
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "anthropic::manager, tax operations, provision, and compliance::remote-friendly (travel required) | san francisco"
   },
-  "jobs-ashbyhq-com-supabase-8d486be1-1d65-44e9-bcf9-ed75172ce32b": {
-    "timestamp": "2026-02-03T23:51:19.872Z",
-    "fingerprint": "supabase::head of data intelligence::remote"
-  },
-  "job-boards-greenhouse-io-anthropic-jobs-5105925008": {
-    "timestamp": "2026-02-04T00:02:43.606Z",
-    "fingerprint": "anthropic::insider risk investigator::san francisco"
-  },
   "boards-greenhouse-io-figma-jobs-5787289004": {
     "timestamp": "2026-02-07T14:32:42.551Z",
     "fingerprint": "figma::director, sales::new york"
@@ -1414,10 +1386,6 @@
   "job-boards-greenhouse-io-anthropic-jobs-4980335008": {
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "anthropic::grc automation::san francisco"
-  },
-  "boards-greenhouse-io-figma-jobs-5790627004": {
-    "timestamp": "2026-02-04T04:30:50.426Z",
-    "fingerprint": "figma::software engineer, developer experience::san francisco"
   },
   "job-boards-greenhouse-io-anthropic-jobs-5108347008": {
     "timestamp": "2026-02-04T14:25:56.239Z",
@@ -3894,5 +3862,9 @@
   "job-boards-greenhouse-io-verkada-jobs-4527394007": {
     "timestamp": "2026-02-10T23:35:37.385Z",
     "fingerprint": "verkada::. it systems engineer::san mateo"
+  },
+  "explore-jobs-netflix-net-careers-job-790313777659-solutions-software-engineer-5-los-angeles-california-united-states-of-america": {
+    "timestamp": "2026-02-11T10:56:40.968Z",
+    "fingerprint": "netflix::solutions software engineer::los angeles"
   }
 }
