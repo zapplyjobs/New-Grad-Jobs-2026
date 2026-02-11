@@ -1,24 +1,22 @@
 {
-  "generated": "2026-02-11T00:48:25.056Z",
+  "generated": "2026-02-11T01:42:53.615Z",
   "period": "last_7_days",
-  "period_start": "2026-02-04T00:48:25.056Z",
-  "period_end": "2026-02-11T00:48:25.056Z",
+  "period_start": "2026-02-04T01:42:53.615Z",
+  "period_end": "2026-02-11T01:42:53.615Z",
   "summary": {
-    "total_jobs_posted": 577,
-    "unique_jobs": 330,
-    "multi_channel_postings": 494,
-    "unique_multi_channel_jobs": 247,
+    "total_jobs_posted": 572,
+    "unique_jobs": 327,
+    "multi_channel_postings": 490,
+    "unique_multi_channel_jobs": 245,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988605306834987",
-      "count": 240,
+      "channel_id": "1462988662168879217",
+      "count": 238,
       "jobs": [
-        "209eb24507ab67ac",
-        "fc778981a667b4c8",
         "29ec1adcb858c007",
         "2b255aab2c8beec7",
         "4eea1f2146c4cad3",
@@ -323,9 +321,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 127,
+      "count": 126,
       "jobs": [
-        "209eb24507ab67ac",
         "29ec1adcb858c007",
         "2b255aab2c8beec7",
         "4eea1f2146c4cad3",
@@ -518,9 +515,8 @@
     },
     "channel-14629887": {
       "channel_id": "1462988721828794531",
-      "count": 90,
+      "count": 89,
       "jobs": [
-        "7c68661b6e455d65",
         "b3cf540b4f342f96",
         "901eb27179689fae",
         "f4cbb23a58c5be7a",
@@ -675,10 +671,9 @@
       ]
     },
     "channel-14629893": {
-      "channel_id": "1462989305181114450",
-      "count": 110,
+      "channel_id": "1462989324071997504",
+      "count": 109,
       "jobs": [
-        "7c68661b6e455d65",
         "e732a45d4a8329ff",
         "a8214405427e3466",
         "901eb27179689fae",
@@ -932,26 +927,6 @@
     }
   },
   "multi_channel_routing": [
-    {
-      "job_id": "209eb24507ab67ac",
-      "company": "anthropic",
-      "title": "Security Engineer, Offensive Security",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-04T00:59:30.145Z"
-    },
-    {
-      "job_id": "7c68661b6e455d65",
-      "company": "supabase",
-      "title": "Head of Data Intelligence ",
-      "channels": [
-        "channel-14629887",
-        "channel-14629893"
-      ],
-      "posted_at": "2026-02-04T01:42:49.712Z"
-    },
     {
       "job_id": "29ec1adcb858c007",
       "company": "anthropic",
@@ -1431,6 +1406,26 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T08:30:51.987Z"
+    },
+    {
+      "job_id": "a994963bfdb0bd2f",
+      "company": "Hansen Talent Group (HTG)",
+      "title": "Developer IV (test automation)",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:30:55.696Z"
+    },
+    {
+      "job_id": "bfabc650ed4e0125",
+      "company": "BDO USA",
+      "title": "Software Engineer II, Tax Product Development",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:30:59.396Z"
     }
   ],
   "failures": [],
