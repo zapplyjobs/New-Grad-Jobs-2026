@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-11",
+  "requests": 2,
+  "remaining": 88,
+  "queries_executed": [
+    "devops engineer",
+    "cloud engineer"
+  ],
+  "metrics": {
+    "jobs_per_query": {
+      "devops engineer": [
+        10
+      ],
+      "cloud engineer": [
+        10
+      ]
+    },
+    "total_jobs": 20
+  }
+}
