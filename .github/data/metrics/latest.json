@@ -1,23 +1,22 @@
 {
-  "generated": "2026-02-11T06:29:19.118Z",
+  "generated": "2026-02-11T06:58:26.446Z",
   "period": "last_7_days",
-  "period_start": "2026-02-04T06:29:19.118Z",
-  "period_end": "2026-02-11T06:29:19.118Z",
+  "period_start": "2026-02-04T06:58:26.446Z",
+  "period_end": "2026-02-11T06:58:26.446Z",
   "summary": {
-    "total_jobs_posted": 568,
-    "unique_jobs": 325,
-    "multi_channel_postings": 486,
-    "unique_multi_channel_jobs": 243,
+    "total_jobs_posted": 566,
+    "unique_jobs": 324,
+    "multi_channel_postings": 484,
+    "unique_multi_channel_jobs": 242,
     "failed_postings": 0,
     "filtered_jobs": 0,
     "channels_active": 5
   },
   "by_channel": {
     "channel-14629886": {
-      "channel_id": "1462988605306834987",
-      "count": 236,
+      "channel_id": "1462988662168879217",
+      "count": 235,
       "jobs": [
-        "4eea1f2146c4cad3",
         "2f4b7be645c7b2ea",
         "49d14930ef47a987",
         "4b394fa186d2c0c1",
@@ -319,9 +318,8 @@
     },
     "channel-14629888": {
       "channel_id": "1462988811263934464",
-      "count": 124,
+      "count": 123,
       "jobs": [
-        "4eea1f2146c4cad3",
         "2f4b7be645c7b2ea",
         "49d14930ef47a987",
         "4b394fa186d2c0c1",
@@ -924,16 +922,6 @@
   },
   "multi_channel_routing": [
     {
-      "job_id": "4eea1f2146c4cad3",
-      "company": "figma",
-      "title": "Software Engineer, Developer Experience",
-      "channels": [
-        "channel-14629886",
-        "channel-14629888"
-      ],
-      "posted_at": "2026-02-04T06:56:04.500Z"
-    },
-    {
       "job_id": "2f4b7be645c7b2ea",
       "company": "anthropic",
       "title": "Data Scientist",
@@ -1422,6 +1410,16 @@
         "channel-14629893"
       ],
       "posted_at": "2026-02-05T08:31:08.769Z"
+    },
+    {
+      "job_id": "2d04a5d9193f32c5",
+      "company": "AM Pierce and Associates",
+      "title": "Junior Software Engineer",
+      "channels": [
+        "channel-14629886",
+        "channel-14629893"
+      ],
+      "posted_at": "2026-02-05T08:31:12.694Z"
     }
   ],
   "failures": [],
