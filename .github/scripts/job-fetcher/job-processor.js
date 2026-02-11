@@ -1016,9 +1016,7 @@ async function processJobs() {
 
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
-        tracer.checkpoint('01_fetch_all_jobs', allJobs, {
-            target_companies: targetCompanies ? targetCompanies.length : 'all'
-        });
+        tracer.checkpoint('01_fetch_all_jobs', allJobs);
 
         // Filter out healthcare/nursing jobs (New-Grad is for tech roles, not healthcare)
         const filteredJobs = filterHealthcareJobs(allJobs);
