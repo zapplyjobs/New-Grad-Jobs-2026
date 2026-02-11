@@ -1009,10 +1009,24 @@ async function processJobs() {
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
 
+        // DIAGNOSTIC: Count JSearch jobs at each stage
+        const jsearchCount = (jobs) => jobs.filter(j => j.job_source === 'jsearch').length;
+        logger.info('[DIAGNOSTIC] After fetchAllJobs', {
+            total: allJobs.length,
+            jsearch: jsearchCount(allJobs),
+            sample_jsearch_titles: allJobs
+                .filter(j => j.job_source === 'jsearch')
+                .slice(0, 3)
+                .map(j => j.job_title)
+        });
+
         // Filter out healthcare/nursing jobs (New-Grad is for tech roles, not healthcare)
         const filteredJobs = filterHealthcareJobs(allJobs);
         logger.info('Filtered out healthcare jobs', {
-            filtered: allJobs.length - filteredJobs.length
+            filtered: allJobs.length - filteredJobs.length,
+            jsearch_before: jsearchCount(allJobs),
+            jsearch_after: jsearchCount(filteredJobs),
+            jsearch_filtered: jsearchCount(allJobs) - jsearchCount(filteredJobs)
         });
 
         // Filter out Senior/Mid-Level jobs (New-Grad is for Entry-Level roles only)
@@ -1023,7 +1037,18 @@ async function processJobs() {
         logger.info('Filtered out Senior/Mid-Level jobs', {
             before: filteredJobs.length,
             after: entryLevelJobs.length,
-            filtered: filteredJobs.length - entryLevelJobs.length
+            filtered: filteredJobs.length - entryLevelJobs.length,
+            jsearch_before: jsearchCount(filteredJobs),
+            jsearch_after: jsearchCount(entryLevelJobs),
+            jsearch_filtered: jsearchCount(filteredJobs) - jsearchCount(entryLevelJobs),
+            sample_jsearch_rejected: filteredJobs
+                .filter(j => j.job_source === 'jsearch')
+                .filter(j => getExperienceLevel(j.job_title, j.job_description) !== 'Entry-Level')
+                .slice(0, 3)
+                .map(j => ({
+                    title: j.job_title,
+                    classified_as: getExperienceLevel(j.job_title, j.job_description)
+                }))
         });
 
         // Fill null dates and convert to relative format
