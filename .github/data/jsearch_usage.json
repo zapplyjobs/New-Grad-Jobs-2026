@@ -1,7 +1,7 @@
 {
   "date": "2026-02-11",
-  "requests": 42,
-  "remaining": 48,
+  "requests": 44,
+  "remaining": 46,
   "queries_executed": [
     "devops engineer",
     "cloud engineer",
@@ -44,7 +44,9 @@
     "full stack developer",
     "frontend developer",
     "frontend developer",
-    "backend developer"
+    "backend developer",
+    "entry level developer",
+    "junior developer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -75,9 +77,11 @@
       ],
       "entry level developer": [
         6,
+        5,
         5
       ],
       "junior developer": [
+        10,
         10,
         10,
         10
@@ -137,6 +141,6 @@
         10
       ]
     },
-    "total_jobs": 411
+    "total_jobs": 426
   }
 }

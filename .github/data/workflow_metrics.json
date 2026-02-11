@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-02-11T14:00:18.391Z",
+  "timestamp": "2026-02-11T23:27:03.716Z",
   "workflow": {
-    "last_commit": "2026-02-11 07:33:16 -0600",
-    "commit_message": "feat: Add observability system - metrics dashboard and health check"
+    "last_commit": "2026-02-11 17:20:04 -0600",
+    "commit_message": "fix: Stage files individually to prevent git add failures"
   },
   "sources": {
     "jsearch": 0,
-    "greenhouse": 201,
-    "lever": 9,
-    "ashby": 6,
+    "greenhouse": 292,
+    "lever": 23,
+    "ashby": 8,
     "workday": 1,
     "myworkdayjobs": 32,
-    "other": 216,
-    "total": 465
+    "other": 254,
+    "total": 610
   },
   "processing": {
-    "current_jobs": 465,
-    "seen_jobs_total": 967,
+    "current_jobs": 610,
+    "seen_jobs_total": 1514,
     "fresh_this_run": 20,
-    "pending_queue": 543
+    "pending_queue": 1117
   },
   "quota": {
-    "jsearch": "42/90",
-    "jsearch_remaining": 48
+    "jsearch": "44/90",
+    "jsearch_remaining": 46
   },
   "databases": {
-    "current_jobs_size": "2.9 MB",
-    "seen_jobs_size": "177.86 KB",
-    "pending_queue_size": "9.12 MB"
+    "current_jobs_size": "5.7 MB",
+    "seen_jobs_size": "261.18 KB",
+    "pending_queue_size": "14.42 MB"
   },
   "health": {
     "current_jobs_exists": true,
@@ -36,7 +36,8 @@
     "pending_queue_exists": true
   },
   "warnings": [
-    "Pending queue file size: 9.12 MB (performance impact)"
+    "Pending queue large: 1117 jobs (consider increasing batch size)",
+    "Pending queue file size: 14.42 MB (performance impact)"
   ],
   "errors": []
 }
