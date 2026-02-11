@@ -436,14 +436,17 @@ function isUSOnlyJob(job) {
     if (cleanState.includes('united states')) {
         return true;
     }
-    
-    // If both city and state are empty, can't determine - exclude for safety
-    if (!cleanCity && !cleanState) {
-        return false;
-    }
-    
-    // Default to exclude if we can't determine (changed from include to be more selective)
-    return false;
+
+    // CRITICAL FIX 2026-02-11: Default to ALLOW when location is unknown
+    // Rationale:
+    // 1. JSearch API filters for US jobs at API level (job_requirements parameter)
+    // 2. ATS APIs (Greenhouse, Lever, Ashby, Workday) are US-focused companies
+    // 3. Better to over-include (user reports false positives) than under-include (miss valid jobs)
+    // 4. Previous behavior rejected 100% of JSearch jobs (411 fetched, 0 kept)
+    //
+    // If both city and state are empty, assume US unless we found non-US indicators above
+    // (we already checked for non-US countries/cities, so if we reach here, it's likely US)
+    return true;
 }
 
 function getExperienceLevel(title, description = '') {
