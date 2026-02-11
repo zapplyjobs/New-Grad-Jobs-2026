@@ -6,10 +6,18 @@ const path = require('path');
 /**
  * Deduplication Decision Logger
  * Tracks every duplicate check with decision (SKIP or POST)
+ * Summarizes output to reduce log verbosity
  */
 class DeduplicationLogger {
   constructor() {
     this.checks = [];
+    this.stats = {
+      posted_id: 0,
+      posted_fingerprint: 0,
+      seen_jobs: 0,
+      queue_fingerprint: 0,
+      pending_queue: 0
+    };
   }
 
   /**
@@ -34,9 +42,9 @@ class DeduplicationLogger {
 
     this.checks.push(entry);
 
-    // Log to console for immediate visibility
-    if (isDuplicate) {
-      console.log(`⏭️  [DEDUP SKIP] ${entry.company} - ${entry.title} (${reason})`);
+    // Collect statistics instead of logging each one
+    if (isDuplicate && reason && this.stats.hasOwnProperty(reason)) {
+      this.stats[reason]++;
     }
   }
 
@@ -86,6 +94,33 @@ class DeduplicationLogger {
       newJobs: newJobs,
       duplicateRate: this.checks.length > 0 ? (duplicates / this.checks.length * 100).toFixed(1) : 0
     };
+  }
+
+  /**
+   * Print deduplication summary (replaces verbose per-job logging)
+   * Reduces ~60 lines to 2 lines for typical runs
+   */
+  printSummary() {
+    const total = this.checks.length;
+    const duplicates = this.checks.filter(c => c.isDuplicate).length;
+    const newJobs = this.checks.filter(c => !c.isDuplicate).length;
+
+    if (duplicates === 0) {
+      console.log(`✅ Deduplication complete: ${total} jobs checked, 0 duplicates (all new)`);
+      return;
+    }
+
+    // Calculate total duplicates
+    const totalSkipped = Object.values(this.stats).reduce((sum, count) => sum + count, 0);
+
+    // Build breakdown string for non-zero categories
+    const breakdown = Object.entries(this.stats)
+      .filter(([reason, count]) => count > 0)
+      .map(([reason, count]) => `${reason}: ${count}`)
+      .join(', ');
+
+    console.log(`✅ Deduplication complete: ${total} jobs checked, ${totalSkipped} duplicates skipped`);
+    console.log(`   Breakdown: ${breakdown}`);
   }
 }
 

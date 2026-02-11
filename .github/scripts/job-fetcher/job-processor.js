@@ -1260,6 +1260,7 @@ async function processJobs() {
         });
 
         // Save deduplication logs
+        dedupLogger.printSummary();
         dedupLogger.save();
 
         // Save structured job fetch summary

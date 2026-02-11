@@ -34,8 +34,9 @@ module.exports = {
    * - Pro: 5,000 requests/day ($200/month)
    *
    * IMPORTANT: Set this based on your actual API plan to avoid rate limits
+   * Current: 90 requests/day allocated for New-Grad-Jobs-2026
    */
-  MAX_REQUESTS_PER_DAY: 100,
+  MAX_REQUESTS_PER_DAY: 90,
 
   /**
    * Number of pages to fetch per request
@@ -45,6 +46,7 @@ module.exports = {
    * - Free tier (100 req/day): 1-2 pages to stay within quota
    * - Basic tier (1000 req/day): 5-9 pages for better coverage
    * - Pro tier (5000 req/day): 9-10 pages for maximum coverage
+   * Current: 1 page per request (10 jobs) = 900 jobs/day potential
    */
   NUM_PAGES: 1,
 
@@ -67,43 +69,36 @@ module.exports = {
    * Remove queries that don't match your target audience.
    */
   SEARCH_QUERIES: [
-    // Core engineering roles
+    // New grad specific (HIGHEST PRIORITY - most relevant)
+    'new grad software engineer',
+    'entry level software engineer',
+    'junior software engineer',
+    'graduate software engineer',
+
+    // Entry-level variants
+    'entry level developer',
+    'junior developer',
+    'associate software engineer',
+    'entry level full stack developer',
+
+    // Core entry-level engineering
+    'entry level frontend developer',
+    'entry level backend developer',
+    'junior frontend developer',
+    'junior backend developer',
+
+    // Specialized entry-level roles
+    'entry level data scientist',
+    'junior data engineer',
+    'entry level machine learning engineer',
+    'junior devops engineer',
+
+    // General (filtered by job_requirements parameter)
     'software engineer',
     'software developer',
     'full stack developer',
     'frontend developer',
-    'backend developer',
-    'mobile developer',
-    'ios developer',
-    'android developer',
-
-    // Specialized tech roles
-    'machine learning engineer',
-    'data scientist',
-    'data engineer',
-    'devops engineer',
-    'cloud engineer',
-    'security engineer',
-    'site reliability engineer',
-    'platform engineer',
-
-    // Product & Design
-    'product manager',
-    'product designer',
-    'ux designer',
-    'ui designer',
-
-    // New grad specific
-    'new grad software engineer',
-    'entry level developer',
-    'junior developer',
-    'graduate software engineer',
-
-    // High-value roles
-    'staff engineer',
-    'senior software engineer',
-    'principal engineer',
-    'engineering manager'
+    'backend developer'
   ],
 
   // ============================================================================
@@ -134,10 +129,12 @@ module.exports = {
     /**
      * Experience level requirements
      *
-     * Current: Entry-level and early-career roles
-     * Remove for general job boards that include senior roles
+     * FIXED: Removed 'more_than_3_years_experience' which was causing senior jobs
+     * to be fetched and then filtered out (wasting quota)
+     *
+     * Current: Entry-level only (under 3 years or no experience required)
      */
-    job_requirements: 'under_3_years_experience,more_than_3_years_experience,no_experience'
+    job_requirements: 'under_3_years_experience,no_experience'
   },
 
   // ============================================================================
