@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-02-12T23:25:33.536Z",
+  "timestamp": "2026-02-12T23:41:41.180Z",
   "workflow": {
-    "last_commit": "2026-02-12 23:10:28 +0000",
-    "commit_message": "Update jobs - 2026-02-12 23:10 UTC"
+    "last_commit": "2026-02-12 17:40:13 -0600",
+    "commit_message": "Merge branch 'task15/phase2-fix-shared-library'"
   },
   "sources": {
     "jsearch": 0,
-    "greenhouse": 288,
+    "greenhouse": 286,
     "lever": 23,
     "ashby": 7,
     "workday": 1,
-    "myworkdayjobs": 31,
-    "other": 282,
-    "total": 632
+    "myworkdayjobs": 28,
+    "other": 281,
+    "total": 626
   },
   "processing": {
-    "current_jobs": 632,
+    "current_jobs": 626,
     "seen_jobs_total": 1381,
     "fresh_this_run": 20,
     "pending_queue": 1145
@@ -25,7 +25,7 @@
     "jsearch_remaining": 0
   },
   "databases": {
-    "current_jobs_size": "5.93 MB",
+    "current_jobs_size": "5.91 MB",
     "seen_jobs_size": "234.68 KB",
     "pending_queue_size": "14.6 MB"
   },
