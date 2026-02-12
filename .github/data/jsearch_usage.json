@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 34,
-  "remaining": 56,
+  "requests": 36,
+  "remaining": 54,
   "queries_executed": [
     "full stack developer",
     "frontend developer",
@@ -36,7 +36,9 @@
     "site reliability engineer",
     "platform engineer",
     "product manager",
-    "product designer"
+    "product designer",
+    "product designer",
+    "ux designer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -80,6 +82,7 @@
       ],
       "product designer": [
         10,
+        10,
         10
       ],
       "ui designer": [
@@ -117,8 +120,11 @@
       ],
       "platform engineer": [
         10
+      ],
+      "ux designer": [
+        10
       ]
     },
-    "total_jobs": 340
+    "total_jobs": 360
   }
 }
