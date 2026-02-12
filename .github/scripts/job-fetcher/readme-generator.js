@@ -1,6 +1,20 @@
 const fs = require("fs");
 const path = require("path");
-const jobCategories = require("./job_categories.json");
+
+// Load repo-specific config
+const config = require(path.join(process.cwd(), '.github/scripts/job-fetcher/config.js'));
+
+// Load repo-specific job categories
+const jobCategories = require(path.join(process.cwd(), '.github/scripts/job-fetcher/job_categories.json'));
+
+// Load validation and template rendering
+const { validateConfig } = require(path.join(__dirname, '../shared/lib/config-validator.js'));
+const { renderConfigTemplates } = require(path.join(__dirname, '../shared/lib/template-renderer.js'));
+
+// Validate config on load
+validateConfig(config, process.cwd());
+
+// Import shared utilities
 const { logger } = require("../shared");
 const {
   companies,
@@ -13,8 +27,8 @@ const {
   generateMinimalJobFingerprint,
 } = require("./utils");
 
-// Path to repo root README.md
-const REPO_README_PATH = path.join(__dirname, '../../../README.md');
+// Path to repo root README.md (use process.cwd() instead of __dirname)
+const REPO_README_PATH = path.join(process.cwd(), 'README.md');
 
 // Filter jobs by age (1 week = 7 days)
 function filterJobsByAge(allJobs) {
@@ -55,7 +69,7 @@ function getJobCategoryFromKeywords(jobTitle, jobDescription = '') {
     }
   }
 
-  return 'software_engineering'; // Default fallback
+  return config.defaultCategory; // From config (varies per repo)
 }
 
 // Generate job table organized by job type categories
@@ -252,7 +266,7 @@ function generateInternshipSection(internshipData) {
 
 ## SWE Internships 2026
 
-<img src="images/ngj-internships.png" alt="Software engineering internships for 2026.">
+<img src="images/${config.repoPrefix}-internships.png" alt="Software engineering internships for 2026.">
 
 ### 🏢 **FAANG+ Internship Programs**
 
@@ -273,7 +287,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](${source.url}) |`
+      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/${config.repoPrefix}-visit.png" width="75" alt="Visit button">](${source.url}) |`
   )
   .join("\n")}
 
@@ -362,6 +376,12 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   const topCategoryCount = topCategoryEntry?.[1] || 0;
   const topCategoryBadge = topCategory.replace(/\s+/g, '_').substring(0, 20);
 
+  // Render config templates with actual stats
+  const renderedConfig = renderConfigTemplates(config, {
+    totalCompanies,
+    currentJobs: currentJobs.length
+  });
+
   return `
 
 
@@ -369,23 +389,23 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 <div align="center">
 
 <!-- Banner -->
-<img src="images/ngj-heading.png" alt="New Grad Jobs 2026">
+<img src="images/${config.repoPrefix}-heading.png" alt="${config.headingImageAlt}">
 
-# New Grad Jobs 2026
+# ${config.title}
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
 ![${topCategory.substring(0, 15)}](https://img.shields.io/badge/${topCategoryBadge}-${topCategoryCount}-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-Updated job openings for new grads in SWE and other tech roles | 2026
+${config.tagline}
 
 </div>
 
-<p align="center">Welcome to an actively maintained collection of software engineering, tech, and IT jobs for new grads, data analysts, scientists, and entry-level software developers by <a href="https://zapply.jobs"><img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center"></a></p>
+<p align="center">${renderedConfig.descriptionLine1}${config.descriptionLine1.includes('Welcome') ? ' by <a href="https://zapply.jobs"><img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center"></a>' : ''}</p>
 
-> [!NOTE]
-> This repo tracks roles in the United States and remote positions across tech giants and fast-growing startups.
+${renderedConfig.descriptionLine2 ? `<p align="center">${renderedConfig.descriptionLine2}</p>\n\n` : ''}> [!${config.noteType}]
+> ${config.noteText}
 
 ---
 
@@ -426,15 +446,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 ---
 
-## Fresh Software Jobs 2026
+## ${config.jobsSectionHeader || 'Fresh Software Jobs 2026'}
 
-<img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/${config.repoPrefix}-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
+${config.features.internships && internshipData ? generateInternshipSection(internshipData) : ''}
+
 ---
 
-## More Resources
+${config.features.moreResources ? `## More Resources
 
 <img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
 
@@ -466,7 +488,7 @@ Check out our other repos for jobs and free resources:
 
 ---
 
-## Become a Contributor
+` : ''}## Become a Contributor
 
 <img src="images/contributor.png" alt="Become a Contributor">
 
