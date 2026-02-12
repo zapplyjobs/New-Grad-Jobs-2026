@@ -2,8 +2,8 @@
   "version": 1,
   "month": "2026_02",
   "created": "2026-02-09T03:55:19.756Z",
-  "lastUpdated": "2026-02-12T18:58:42.992Z",
-  "jobCount": 927,
+  "lastUpdated": "2026-02-12T19:30:15.678Z",
+  "jobCount": 928,
   "jobs": [
     {
       "id": "anthropic-enterprise-account-executive-state-local-sales",
@@ -10201,6 +10201,17 @@
       "dateSeen": "2026-02-12T18:58:42.991Z",
       "routedTo": null,
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7607696?gh_jid=7607696"
+    },
+    {
+      "id": "vercel-software-engineer-workflows",
+      "title": "Software Engineer, Workflows",
+      "company": "vercel",
+      "location": "Hybrid - San Francisco, New York City",
+      "category": "unknown",
+      "datePosted": "2026-02-12T14:09:28-05:00",
+      "dateSeen": "2026-02-12T19:30:15.677Z",
+      "routedTo": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5798416004"
     }
   ]
 }
