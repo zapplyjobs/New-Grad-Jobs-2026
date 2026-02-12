@@ -20,3 +20,4 @@
 {"timestamp":"2026-02-12T07:42:48.477Z","type":"pipeline","fetch_count":633,"new_jobs":0,"duplicate_jobs":772,"new_job_rate":0,"dedup_efficiency":"1.220"}
 {"timestamp":"2026-02-12T08:03:48.131Z","type":"pipeline","fetch_count":633,"new_jobs":0,"duplicate_jobs":777,"new_job_rate":0,"dedup_efficiency":"1.227"}
 {"timestamp":"2026-02-12T08:28:37.352Z","type":"pipeline","fetch_count":634,"new_jobs":1,"duplicate_jobs":775,"new_job_rate":"0.002","dedup_efficiency":"1.222"}
+{"timestamp":"2026-02-12T08:56:40.305Z","type":"pipeline","fetch_count":637,"new_jobs":3,"duplicate_jobs":775,"new_job_rate":"0.005","dedup_efficiency":"1.217"}
