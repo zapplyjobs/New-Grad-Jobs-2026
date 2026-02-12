@@ -46,3 +46,4 @@
 {"timestamp":"2026-02-12T19:30:15.795Z","type":"pipeline","fetch_count":643,"new_jobs":1,"duplicate_jobs":779,"new_job_rate":"0.002","dedup_efficiency":"1.212"}
 {"timestamp":"2026-02-12T19:53:42.374Z","type":"pipeline","fetch_count":645,"new_jobs":1,"duplicate_jobs":783,"new_job_rate":"0.002","dedup_efficiency":"1.214"}
 {"timestamp":"2026-02-12T20:13:14.764Z","type":"pipeline","fetch_count":645,"new_jobs":0,"duplicate_jobs":787,"new_job_rate":0,"dedup_efficiency":"1.220"}
+{"timestamp":"2026-02-12T20:29:52.548Z","type":"pipeline","fetch_count":646,"new_jobs":2,"duplicate_jobs":786,"new_job_rate":"0.003","dedup_efficiency":"1.217"}
