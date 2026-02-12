@@ -2,8 +2,8 @@
   "version": 1,
   "month": "2026_02",
   "created": "2026-02-09T03:55:19.756Z",
-  "lastUpdated": "2026-02-12T19:30:15.678Z",
-  "jobCount": 928,
+  "lastUpdated": "2026-02-12T19:53:42.248Z",
+  "jobCount": 930,
   "jobs": [
     {
       "id": "anthropic-enterprise-account-executive-state-local-sales",
@@ -10212,6 +10212,28 @@
       "dateSeen": "2026-02-12T19:30:15.677Z",
       "routedTo": null,
       "url": "https://job-boards.greenhouse.io/vercel/jobs/5798416004"
+    },
+    {
+      "id": "coinbase-product-manager",
+      "title": "Product Manager",
+      "company": "coinbase",
+      "location": "Remote - USA",
+      "category": "unknown",
+      "datePosted": "2026-02-12T14:43:20-05:00",
+      "dateSeen": "2026-02-12T19:53:42.247Z",
+      "routedTo": null,
+      "url": "https://www.coinbase.com/careers/positions/7588994?gh_jid=7588994"
+    },
+    {
+      "id": "virtualvocations-android-software-engineer",
+      "title": "Android Software Engineer",
+      "company": "VirtualVocations",
+      "location": "Manassas, Virginia",
+      "category": "unknown",
+      "datePosted": "2026-02-10T00:00:00.000Z",
+      "dateSeen": "2026-02-12T19:53:42.247Z",
+      "routedTo": null,
+      "url": "https://www.talent.com/view?id=bf91aedc279e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
     }
   ]
 }
