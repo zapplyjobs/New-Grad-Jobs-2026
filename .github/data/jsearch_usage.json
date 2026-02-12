@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 54,
-  "remaining": 36,
+  "requests": 56,
+  "remaining": 34,
   "queries_executed": [
     "full stack developer",
     "frontend developer",
@@ -56,7 +56,9 @@
     "machine learning engineer",
     "data scientist",
     "data engineer",
-    "devops engineer"
+    "devops engineer",
+    "cloud engineer",
+    "security engineer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -91,6 +93,7 @@
         10
       ],
       "security engineer": [
+        10,
         10,
         10
       ],
@@ -151,6 +154,7 @@
         10
       ],
       "cloud engineer": [
+        10,
         10
       ],
       "platform engineer": [
@@ -163,6 +167,6 @@
         6
       ]
     },
-    "total_jobs": 536
+    "total_jobs": 556
   }
 }
