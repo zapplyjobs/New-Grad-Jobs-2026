@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 62,
-  "remaining": 28,
+  "requests": 64,
+  "remaining": 26,
   "queries_executed": [
     "full stack developer",
     "frontend developer",
@@ -64,7 +64,9 @@
     "platform engineer",
     "product manager",
     "product designer",
-    "ux designer"
+    "ux designer",
+    "ui designer",
+    "new grad software engineer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -122,9 +124,11 @@
       ],
       "ui designer": [
         10,
+        10,
         10
       ],
       "new grad software engineer": [
+        10,
         10,
         10
       ],
@@ -179,6 +183,6 @@
         6
       ]
     },
-    "total_jobs": 616
+    "total_jobs": 636
   }
 }
