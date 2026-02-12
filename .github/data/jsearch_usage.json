@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 14,
-  "remaining": 76,
+  "requests": 16,
+  "remaining": 74,
   "queries_executed": [
     "full stack developer",
     "frontend developer",
@@ -16,7 +16,9 @@
     "ui designer",
     "new grad software engineer",
     "junior developer",
-    "graduate software engineer"
+    "graduate software engineer",
+    "software engineer",
+    "software developer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -61,8 +63,14 @@
       ],
       "graduate software engineer": [
         10
+      ],
+      "software engineer": [
+        10
+      ],
+      "software developer": [
+        10
       ]
     },
-    "total_jobs": 140
+    "total_jobs": 160
   }
 }
