@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-12T21:13:33.383Z",
+  "timestamp": "2026-02-12T21:30:46.051Z",
   "workflow": {
-    "last_commit": "2026-02-12 20:51:54 +0000",
-    "commit_message": "Update jobs - 2026-02-12 20:51 UTC"
+    "last_commit": "2026-02-12 21:13:34 +0000",
+    "commit_message": "Update jobs - 2026-02-12 21:13 UTC"
   },
   "sources": {
     "jsearch": 0,
@@ -21,11 +21,11 @@
     "pending_queue": 1144
   },
   "quota": {
-    "jsearch": "84/90",
-    "jsearch_remaining": 6
+    "jsearch": "86/90",
+    "jsearch_remaining": 4
   },
   "databases": {
-    "current_jobs_size": "6.01 MB",
+    "current_jobs_size": "6 MB",
     "seen_jobs_size": "234.9 KB",
     "pending_queue_size": "14.59 MB"
   },
@@ -38,7 +38,7 @@
   "warnings": [
     "Pending queue large: 1144 jobs (consider increasing batch size)",
     "Pending queue file size: 14.59 MB (performance impact)",
-    "JSearch quota low: 6 requests remaining"
+    "JSearch quota low: 4 requests remaining"
   ],
   "errors": []
 }
