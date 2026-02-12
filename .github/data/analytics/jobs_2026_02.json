@@ -2,8 +2,8 @@
   "version": 1,
   "month": "2026_02",
   "created": "2026-02-09T03:55:19.756Z",
-  "lastUpdated": "2026-02-12T18:29:47.196Z",
-  "jobCount": 925,
+  "lastUpdated": "2026-02-12T18:58:42.992Z",
+  "jobCount": 927,
   "jobs": [
     {
       "id": "anthropic-enterprise-account-executive-state-local-sales",
@@ -10179,6 +10179,28 @@
       "dateSeen": "2026-02-12T18:29:47.194Z",
       "routedTo": null,
       "url": "https://www.talent.com/en/view?id=2cba3205ed8b&trigger_from=related_jobs&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "id": "vercel-software-engineer-ai-gateway",
+      "title": "Software Engineer, AI Gateway",
+      "company": "vercel",
+      "location": "Hybrid - San Francisco, New York City",
+      "category": "unknown",
+      "datePosted": "2026-02-12T13:44:39-05:00",
+      "dateSeen": "2026-02-12T18:58:42.991Z",
+      "routedTo": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004"
+    },
+    {
+      "id": "cloudflare-systems-engineer",
+      "title": "Systems Engineer",
+      "company": "cloudflare",
+      "location": "Hybrid",
+      "category": "unknown",
+      "datePosted": "2026-02-12T13:35:16-05:00",
+      "dateSeen": "2026-02-12T18:58:42.991Z",
+      "routedTo": null,
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7607696?gh_jid=7607696"
     }
   ]
 }
