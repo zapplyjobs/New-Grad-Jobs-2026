@@ -1,14 +1,16 @@
 {
   "date": "2026-02-13",
-  "requests": 6,
-  "remaining": 84,
+  "requests": 8,
+  "remaining": 82,
   "queries_executed": [
     "frontend developer",
     "backend developer",
     "ios developer",
     "android developer",
     "data engineer",
-    "devops engineer"
+    "devops engineer",
+    "site reliability engineer",
+    "platform engineer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -29,8 +31,14 @@
       ],
       "devops engineer": [
         10
+      ],
+      "site reliability engineer": [
+        10
+      ],
+      "platform engineer": [
+        10
       ]
     },
-    "total_jobs": 50
+    "total_jobs": 70
   }
 }
