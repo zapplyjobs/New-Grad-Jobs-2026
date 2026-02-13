@@ -1115,14 +1115,6 @@
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "discord::manager, ads, revenue & commerce policy::san francisco bay area or remote (u.s.)"
   },
-  "job-boards-greenhouse-io-anthropic-jobs-4816199008": {
-    "timestamp": "2026-02-06T08:07:16.324Z",
-    "fingerprint": "anthropic::software engineer, claude code::san francisco"
-  },
-  "careers-cisco-com-global-en-job-ciscisglobal2000461externalenglobal-ai-machine-learning-engineer-ii-intern-united-states": {
-    "timestamp": "2026-02-06T08:32:08.813Z",
-    "fingerprint": "cisco::ai machine learning engineer (intern)::san jose"
-  },
   "www-linkedin-com-jobs-view-etl-programmer-at-jobs-via-dice-4369189857": {
     "timestamp": "2026-02-06T09:54:26.247Z",
     "fingerprint": "jobs via dice::etl programmer::atlanta"
@@ -5246,5 +5238,9 @@
   "careers-cargurus-com-us-en-job-7607795-senior-data-scientist": {
     "timestamp": "2026-02-13T08:03:14.149Z",
     "fingerprint": "cargurus::data scientist::boston"
+  },
+  "jobs-lever-co-spotify-6ea8d335-e16c-4eac-ac2c-0f4fe02f4b17": {
+    "timestamp": "2026-02-13T09:20:12.380Z",
+    "fingerprint": "spotify::content designer, personalization::new york"
   }
 }
