@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-13T03:44:36.382Z",
+  "timestamp": "2026-02-13T04:32:40.661Z",
   "workflow": {
-    "last_commit": "2026-02-13 02:44:57 +0000",
-    "commit_message": "Update jobs - 2026-02-13 02:44 UTC"
+    "last_commit": "2026-02-12 22:30:48 -0600",
+    "commit_message": "Fix health-check.sh time calculation bug"
   },
   "sources": {
     "jsearch": 0,
@@ -11,18 +11,18 @@
     "ashby": 6,
     "workday": 0,
     "myworkdayjobs": 20,
-    "other": 264,
-    "total": 594
+    "other": 265,
+    "total": 595
   },
   "processing": {
-    "current_jobs": 594,
+    "current_jobs": 595,
     "seen_jobs_total": 1381,
     "fresh_this_run": 20,
     "pending_queue": 1145
   },
   "quota": {
-    "jsearch": "8/90",
-    "jsearch_remaining": 82
+    "jsearch": "10/90",
+    "jsearch_remaining": 80
   },
   "databases": {
     "current_jobs_size": "5.76 MB",
