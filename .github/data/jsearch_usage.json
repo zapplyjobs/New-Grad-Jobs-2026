@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "requests": 62,
-  "remaining": 28,
+  "requests": 64,
+  "remaining": 26,
   "queries_executed": [
     "frontend developer",
     "backend developer",
@@ -64,7 +64,9 @@
     "security engineer",
     "site reliability engineer",
     "site reliability engineer",
-    "platform engineer"
+    "platform engineer",
+    "product manager",
+    "product designer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -172,13 +174,15 @@
         10
       ],
       "product manager": [
+        10,
         10
       ],
       "product designer": [
         10,
+        10,
         10
       ]
     },
-    "total_jobs": 610
+    "total_jobs": 630
   }
 }
