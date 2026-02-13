@@ -731,10 +731,6 @@
     "timestamp": "2026-02-07T20:06:21.125Z",
     "fingerprint": "datadog::product manager, cloud network monitoring::new york"
   },
-  "job-boards-greenhouse-io-anthropic-jobs-5095927008": {
-    "timestamp": "2026-02-06T19:25:12.213Z",
-    "fingerprint": "anthropic::segment marketing manager, commercial::new york city"
-  },
   "job-boards-greenhouse-io-discord-jobs-8397423002": {
     "timestamp": "2026-02-07T14:09:39.413Z",
     "fingerprint": "discord::software engineer, consumer revenue::san francisco bay area"
@@ -826,10 +822,6 @@
   "boards-greenhouse-io-figma-jobs-5787320004": {
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "figma::manager, software engineering::san francisco"
-  },
-  "job-boards-greenhouse-io-anthropic-jobs-5021568008": {
-    "timestamp": "2026-02-06T19:25:12.213Z",
-    "fingerprint": "anthropic::product strategy & operations,::san francisco"
   },
   "careers-duolingo-com-jobs-8400553002": {
     "timestamp": "2026-02-07T14:32:42.551Z",
@@ -1127,10 +1119,6 @@
     "timestamp": "2026-02-07T14:32:42.551Z",
     "fingerprint": "datadog::product manager::new york"
   },
-  "job-boards-greenhouse-io-verkada-jobs-4904906007": {
-    "timestamp": "2026-02-06T19:00:56.792Z",
-    "fingerprint": "verkada::enterprise account executive (san diego, orange county)::orange county"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-5026189008": {
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "anthropic::campaign marketing manager, claude code::san francisco"
@@ -1143,33 +1131,9 @@
     "timestamp": "2026-02-07T14:32:42.551Z",
     "fingerprint": "anthropic::tpm manager, compute & infrastructure::san francisco"
   },
-  "job-boards-greenhouse-io-anthropic-jobs-5074695008": {
-    "timestamp": "2026-02-06T19:00:56.792Z",
-    "fingerprint": "anthropic::forward deployed engineer, custom agents::san francisco"
-  },
-  "www-samsara-com-company-careers-roles-7266711": {
-    "timestamp": "2026-02-06T19:00:56.792Z",
-    "fingerprint": "samsara::enterprise implementation consultant::philadelphia"
-  },
-  "www-snagajob-com-jobs-1189894733": {
-    "timestamp": "2026-02-06T19:00:56.792Z",
-    "fingerprint": "oracle::java software engineer intern - oracle health & analytics - full-time::salt lake city"
-  },
-  "careers-vanderlande-com-all-jobs-software-engineer-intern-jr35550": {
-    "timestamp": "2026-02-06T19:00:56.792Z",
-    "fingerprint": "vanderlande careers::software engineer – intern::marietta"
-  },
-  "boards-greenhouse-io-figma-jobs-5795034004": {
-    "timestamp": "2026-02-06T19:25:12.213Z",
-    "fingerprint": "figma::legal counsel::san francisco"
-  },
   "job-boards-greenhouse-io-airtable-jobs-8324785002": {
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "airtable::web producer manager::san francisco"
-  },
-  "careers-mitre-org-us-en-job-r115478-internships-in-data-science-math-statistics-or-operations-research": {
-    "timestamp": "2026-02-06T19:25:12.213Z",
-    "fingerprint": "the mitre corporation::internships in data science, math, statistics or operations research::mclean"
   },
   "www-samsara-com-company-careers-roles-7312588": {
     "timestamp": "2026-02-06T20:05:48.411Z",
@@ -5006,5 +4970,9 @@
   "jobs-lever-co-spotify-ce5bba36-31e7-4980-b4a2-15bf16510b4d": {
     "timestamp": "2026-02-13T18:27:35.095Z",
     "fingerprint": "spotify::backend engineer::toronto"
+  },
+  "app-honestjobs-com-job-post-3dc11d37-354f-4687-a35a-ac37215f33ed": {
+    "timestamp": "2026-02-13T20:01:33.710Z",
+    "fingerprint": "honest jobs::(usa) , data scientist::sunnyvale"
   }
 }

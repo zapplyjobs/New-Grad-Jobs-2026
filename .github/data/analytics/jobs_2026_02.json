@@ -2,8 +2,8 @@
   "version": 1,
   "month": "2026_02",
   "created": "2026-02-09T03:55:19.756Z",
-  "lastUpdated": "2026-02-13T19:42:25.666Z",
-  "jobCount": 962,
+  "lastUpdated": "2026-02-13T20:01:33.701Z",
+  "jobCount": 963,
   "jobs": [
     {
       "id": "anthropic-enterprise-account-executive-state-local-sales",
@@ -10586,6 +10586,17 @@
       "dateSeen": "2026-02-13T19:42:25.665Z",
       "routedTo": null,
       "url": "https://www.talent.com/en/view?id=653deebe7778&trigger_from=related_jobs&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "id": "honest-jobs--usa-senior-data-scientist",
+      "title": "(USA) Senior, Data Scientist",
+      "company": "Honest Jobs",
+      "location": "Sunnyvale, California",
+      "category": "unknown",
+      "datePosted": "2026-02-02T00:00:00.000Z",
+      "dateSeen": "2026-02-13T20:01:33.700Z",
+      "routedTo": null,
+      "url": "https://app.honestjobs.com/job-post/3dc11d37-354f-4687-a35a-ac37215f33ed?utm_source=google&utm_medium=jobs&utm_campaign=apply&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
     }
   ]
 }
