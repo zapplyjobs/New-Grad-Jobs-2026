@@ -52,15 +52,16 @@ get_last_run() {
     fi
 
     # Fallback to git commit time if gh CLI fails
+    local diff=0
     if [[ -z "$last_run_time" ]]; then
         local last_commit_time=$(git log -1 --format=%ct 2>/dev/null || echo "0")
         local now=$(date +%s)
-        local diff=$((now - last_commit_time))
+        diff=$((now - last_commit_time))
     else
         # Convert ISO 8601 timestamp to Unix timestamp
         local run_timestamp=$(date -d "$last_run_time" +%s 2>/dev/null || echo "0")
         local now=$(date +%s)
-        local diff=$((now - run_timestamp))
+        diff=$((now - run_timestamp))
     fi
 
     if [[ $diff -lt 60 ]]; then
