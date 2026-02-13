@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "requests": 26,
-  "remaining": 64,
+  "requests": 28,
+  "remaining": 62,
   "queries_executed": [
     "frontend developer",
     "backend developer",
@@ -28,7 +28,9 @@
     "machine learning engineer",
     "data scientist",
     "data scientist",
-    "data engineer"
+    "data engineer",
+    "devops engineer",
+    "cloud engineer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -53,6 +55,7 @@
         10
       ],
       "devops engineer": [
+        10,
         10
       ],
       "site reliability engineer": [
@@ -97,8 +100,11 @@
       "data scientist": [
         10,
         10
+      ],
+      "cloud engineer": [
+        10
       ]
     },
-    "total_jobs": 250
+    "total_jobs": 270
   }
 }
