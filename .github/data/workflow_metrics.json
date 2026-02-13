@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-13T06:11:44.240Z",
+  "timestamp": "2026-02-13T06:39:19.099Z",
   "workflow": {
-    "last_commit": "2026-02-13 05:43:16 +0000",
-    "commit_message": "Update jobs - 2026-02-13 05:43 UTC"
+    "last_commit": "2026-02-13 06:11:45 +0000",
+    "commit_message": "Update jobs - 2026-02-13 06:11 UTC"
   },
   "sources": {
     "jsearch": 0,
@@ -11,23 +11,23 @@
     "ashby": 6,
     "workday": 0,
     "myworkdayjobs": 20,
-    "other": 266,
-    "total": 596
+    "other": 267,
+    "total": 597
   },
   "processing": {
-    "current_jobs": 596,
+    "current_jobs": 597,
     "seen_jobs_total": 1318,
     "fresh_this_run": 20,
-    "pending_queue": 1146
+    "pending_queue": 1147
   },
   "quota": {
-    "jsearch": "16/90",
-    "jsearch_remaining": 74
+    "jsearch": "18/90",
+    "jsearch_remaining": 72
   },
   "databases": {
     "current_jobs_size": "5.77 MB",
-    "seen_jobs_size": "222.64 KB",
-    "pending_queue_size": "14.6 MB"
+    "seen_jobs_size": "222.63 KB",
+    "pending_queue_size": "14.61 MB"
   },
   "health": {
     "current_jobs_exists": true,
@@ -36,8 +36,8 @@
     "pending_queue_exists": true
   },
   "warnings": [
-    "Pending queue large: 1146 jobs (consider increasing batch size)",
-    "Pending queue file size: 14.6 MB (performance impact)"
+    "Pending queue large: 1147 jobs (consider increasing batch size)",
+    "Pending queue file size: 14.61 MB (performance impact)"
   ],
   "errors": []
 }
