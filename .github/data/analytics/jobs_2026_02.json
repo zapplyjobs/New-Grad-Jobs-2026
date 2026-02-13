@@ -2,8 +2,8 @@
   "version": 1,
   "month": "2026_02",
   "created": "2026-02-09T03:55:19.756Z",
-  "lastUpdated": "2026-02-13T15:19:55.258Z",
-  "jobCount": 954,
+  "lastUpdated": "2026-02-13T15:40:33.408Z",
+  "jobCount": 955,
   "jobs": [
     {
       "id": "anthropic-enterprise-account-executive-state-local-sales",
@@ -10498,6 +10498,17 @@
       "dateSeen": "2026-02-13T15:19:55.257Z",
       "routedTo": null,
       "url": "https://www.talent.com/view?id=54ded7643831&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "id": "spotify-site-reliability-engineer-backstage",
+      "title": "Site Reliability Engineer - Backstage",
+      "company": "spotify",
+      "location": "New York, NY",
+      "category": "unknown",
+      "datePosted": "2026-02-05T16:14:24.357Z",
+      "dateSeen": "2026-02-13T15:40:33.407Z",
+      "routedTo": null,
+      "url": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb"
     }
   ]
 }

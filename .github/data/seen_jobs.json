@@ -751,10 +751,6 @@
     "timestamp": "2026-02-07T14:32:42.551Z",
     "fingerprint": "duolingo::director of product design::new york"
   },
-  "careers-datadoghq-com-detail-7484127": {
-    "timestamp": "2026-02-06T15:24:03.398Z",
-    "fingerprint": "datadog::director, channels::boston"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-5098565008": {
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "anthropic::education platform engineer::san francisco"
@@ -1123,14 +1119,6 @@
     "timestamp": "2026-02-11T23:27:02.875Z",
     "fingerprint": "spotify::data scientist::new york"
   },
-  "www-jobilize-com-job-us-dc-columbia-home-health-nursing-internship-washington-humana-hiring": {
-    "timestamp": "2026-02-06T14:25:41.928Z",
-    "fingerprint": "humana::home health nursing internship::washington"
-  },
-  "careers-datadoghq-com-detail-7449657": {
-    "timestamp": "2026-02-06T14:54:14.345Z",
-    "fingerprint": "datadog::coordinator, business recruiting::boston"
-  },
   "job-boards-greenhouse-io-discord-jobs-8177727002": {
     "timestamp": "2026-02-11T23:27:02.875Z",
     "fingerprint": "discord::software engineer, mobile::san francisco bay area"
@@ -1139,17 +1127,9 @@
     "timestamp": "2026-02-11T23:27:02.875Z",
     "fingerprint": "discord::software engineer, payments::san francisco bay area"
   },
-  "job-boards-greenhouse-io-discord-jobs-8328560002": {
-    "timestamp": "2026-02-06T14:54:14.345Z",
-    "fingerprint": "discord::software engineer::san francisco bay area"
-  },
   "job-boards-greenhouse-io-reddit-jobs-7594349": {
     "timestamp": "2026-02-07T14:49:57.034Z",
     "fingerprint": "reddit::client account manager, mid-market (agency acquisitions)::new york city"
-  },
-  "jobs-womenforhire-com-job-usa-fairfax-va-software-engineer-intern-053357": {
-    "timestamp": "2026-02-06T15:24:03.398Z",
-    "fingerprint": "airlines reporting corporation::software engineer intern::fairfax"
   },
   "www-snagajob-com-jobs-1189903072": {
     "timestamp": "2026-02-06T15:41:08.499Z",
@@ -5130,5 +5110,9 @@
   "careers-datadoghq-com-detail-7610352": {
     "timestamp": "2026-02-13T13:49:10.364Z",
     "fingerprint": "datadog::enterprise sales engineer::poland"
+  },
+  "jobs-lever-co-spotify-ad5ef898-b800-4213-a63e-e39a97df9cfb": {
+    "timestamp": "2026-02-13T15:40:33.418Z",
+    "fingerprint": "spotify::site reliability engineer::new york"
   }
 }
