@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "requests": 58,
-  "remaining": 32,
+  "requests": 60,
+  "remaining": 30,
   "queries_executed": [
     "frontend developer",
     "backend developer",
@@ -60,7 +60,9 @@
     "data engineer",
     "devops engineer",
     "devops engineer",
-    "cloud engineer"
+    "cloud engineer",
+    "security engineer",
+    "site reliability engineer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -95,6 +97,7 @@
         10
       ],
       "site reliability engineer": [
+        10,
         10,
         10,
         10
@@ -161,6 +164,7 @@
         10
       ],
       "security engineer": [
+        10,
         10
       ],
       "product manager": [
@@ -171,6 +175,6 @@
         10
       ]
     },
-    "total_jobs": 570
+    "total_jobs": 590
   }
 }
