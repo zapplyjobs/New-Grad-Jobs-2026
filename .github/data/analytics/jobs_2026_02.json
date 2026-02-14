@@ -2,8 +2,8 @@
   "version": 1,
   "month": "2026_02",
   "created": "2026-02-09T03:55:19.756Z",
-  "lastUpdated": "2026-02-14T09:27:01.089Z",
-  "jobCount": 975,
+  "lastUpdated": "2026-02-14T09:48:31.601Z",
+  "jobCount": 977,
   "jobs": [
     {
       "id": "anthropic-enterprise-account-executive-state-local-sales",
@@ -10729,6 +10729,28 @@
       "dateSeen": "2026-02-14T09:27:01.088Z",
       "routedTo": null,
       "url": "https://www.talent.com/en/view?id=51b924f87adf&trigger_from=related_jobs&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "id": "virtualvocations-mlops-platform-engineer",
+      "title": "MLOps Platform Engineer",
+      "company": "VirtualVocations",
+      "location": "Alexandria, Virginia",
+      "category": "unknown",
+      "datePosted": "2026-02-10T00:00:00.000Z",
+      "dateSeen": "2026-02-14T09:48:31.600Z",
+      "routedTo": null,
+      "url": "https://www.talent.com/view?id=a023efe2b5cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "id": "netflix-product-manager-vfx-solutions",
+      "title": "Product Manager - VFX Solutions",
+      "company": "Netflix",
+      "location": "Los Angeles, California",
+      "category": "unknown",
+      "datePosted": "2026-02-03T00:00:00.000Z",
+      "dateSeen": "2026-02-14T09:48:31.600Z",
+      "routedTo": null,
+      "url": "https://explore.jobs.netflix.net/careers/job/790312245481-product-manager-vfx-solutions-los-angeles-california-united-states-of-america?domain=netflix.com&microsite=netflix.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
     }
   ]
 }
