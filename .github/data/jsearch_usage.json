@@ -1,7 +1,7 @@
 {
   "date": "2026-02-14",
-  "requests": 64,
-  "remaining": 26,
+  "requests": 66,
+  "remaining": 24,
   "queries_executed": [
     "full stack developer",
     "frontend developer",
@@ -66,7 +66,9 @@
     "frontend developer",
     "backend developer",
     "mobile developer",
-    "ios developer"
+    "ios developer",
+    "ios developer",
+    "android developer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -86,6 +88,7 @@
         10
       ],
       "ios developer": [
+        10,
         10,
         10,
         10,
@@ -168,6 +171,7 @@
       ],
       "android developer": [
         10,
+        10,
         10
       ],
       "data engineer": [
@@ -183,6 +187,6 @@
         10
       ]
     },
-    "total_jobs": 640
+    "total_jobs": 660
   }
 }
