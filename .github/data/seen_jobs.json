@@ -1171,18 +1171,6 @@
     "timestamp": "2026-02-07T15:03:02.775Z",
     "fingerprint": "anthropic::solutions marketing , public sector::san francisco"
   },
-  "www-coinbase-com-careers-positions-7294075": {
-    "timestamp": "2026-02-07T10:32:39.755Z",
-    "fingerprint": "coinbase::machine learning engineer intern::hybrid - san francisco"
-  },
-  "www-brex-com-careers-7732107002": {
-    "timestamp": "2026-02-07T11:03:31.468Z",
-    "fingerprint": "brex::enterprise account executive::san francisco"
-  },
-  "www-brex-com-careers-7732133002": {
-    "timestamp": "2026-02-07T11:14:15.788Z",
-    "fingerprint": "brex::enterprise account executive::new york"
-  },
   "job-boards-greenhouse-io-anthropic-jobs-5113224008": {
     "timestamp": "2026-02-07T13:54:11.828Z",
     "fingerprint": "anthropic::software engineer, ai reliability::san francisco"
@@ -4882,5 +4870,9 @@
   "explore-jobs-netflix-net-careers-job-790312245481-product-manager-vfx-solutions-los-angeles-california-united-states-of-america": {
     "timestamp": "2026-02-14T09:48:31.610Z",
     "fingerprint": "netflix::product manager::los angeles"
+  },
+  "app-honestjobs-com-job-post-61cf25df-39da-483a-acdc-02c7198c62f9": {
+    "timestamp": "2026-02-14T11:54:55.939Z",
+    "fingerprint": "honest jobs::(usa) , software engineer | mle::sunnyvale"
   }
 }
