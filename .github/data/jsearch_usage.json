@@ -1,14 +1,16 @@
 {
   "date": "2026-02-14",
-  "requests": 6,
-  "remaining": 84,
+  "requests": 8,
+  "remaining": 82,
   "queries_executed": [
     "full stack developer",
     "frontend developer",
     "mobile developer",
     "ios developer",
     "machine learning engineer",
-    "data scientist"
+    "data scientist",
+    "cloud engineer",
+    "security engineer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -29,8 +31,14 @@
       ],
       "data scientist": [
         10
+      ],
+      "cloud engineer": [
+        10
+      ],
+      "security engineer": [
+        10
       ]
     },
-    "total_jobs": 60
+    "total_jobs": 80
   }
 }
