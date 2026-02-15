@@ -1,0 +1,69 @@
+{
+  "correlation_id": "local-1770842303014",
+  "run_url": "local-run",
+  "started_at": "2026-02-11T20:38:23.014Z",
+  "workflow": "unknown",
+  "repository": "unknown",
+  "trigger": "unknown",
+  "branch": "unknown",
+  "checkpoints": [
+    {
+      "stage": "fetch_all_jobs",
+      "timestamp": "2026-02-11T20:38:23.019Z",
+      "duration_ms": 5,
+      "counts": {
+        "total": 5,
+        "by_source": {
+          "jsearch": 2,
+          "greenhouse": 3
+        }
+      },
+      "metadata": {},
+      "sample_ids": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stage": "after_filter",
+      "timestamp": "2026-02-11T20:38:23.019Z",
+      "duration_ms": 5,
+      "counts": {
+        "total": 4,
+        "by_source": {
+          "jsearch": 2,
+          "greenhouse": 2
+        }
+      },
+      "metadata": {
+        "filtered_out": 1
+      },
+      "sample_ids": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stage": "after_experience",
+      "timestamp": "2026-02-11T20:38:23.019Z",
+      "duration_ms": 5,
+      "counts": {
+        "total": 2,
+        "by_source": {
+          "greenhouse": 2
+        }
+      },
+      "metadata": {
+        "jsearch_dropped": 2
+      },
+      "sample_ids": [
+        "3",
+        "4"
+      ]
+    }
+  ],
+  "completed_at": "2026-02-11T20:38:23.019Z",
+  "total_duration_ms": 5
+}
