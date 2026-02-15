@@ -1,10 +1,12 @@
 {
   "date": "2026-02-15",
-  "requests": 2,
-  "remaining": 88,
+  "requests": 4,
+  "remaining": 86,
   "queries_executed": [
     "full stack developer",
-    "frontend developer"
+    "frontend developer",
+    "frontend developer",
+    "backend developer"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -12,9 +14,13 @@
         10
       ],
       "frontend developer": [
+        10,
+        10
+      ],
+      "backend developer": [
         10
       ]
     },
-    "total_jobs": 20
+    "total_jobs": 40
   }
 }
