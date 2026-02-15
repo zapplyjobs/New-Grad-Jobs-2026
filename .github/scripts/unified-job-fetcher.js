@@ -1,50 +1,31 @@
 #!/usr/bin/env node
 
 /**
- * Unified Job Fetcher - Centralized Aggregator Integration
+ * Unified Job Fetcher - New-Grad-Jobs-2026
  *
- * This module provides a unified interface for fetching jobs.
- * Post-aggregator migration (2026-02-15), it simply fetches from
- * the centralized jobs-aggregator-private repository.
+ * Wrapper around shared aggregator-consumer library.
+ * Fetches ALL entry-level jobs from centralized aggregator.
  *
- * Previous approach (archived):
- * - Fetched from JSearch API + ATS sources directly
- * - Each repo had duplicate fetching logic
- *
- * New approach:
- * - Single centralized aggregator (jobs-aggregator-private)
- * - Repos consume from aggregator
- * - Aggregator handles JSearch + ATS + filtering + deduplication
+ * Architecture:
+ * - Uses shared library: .github/scripts/shared/lib/aggregator-consumer.js
+ * - No filters applied (accepts all entry-level jobs from aggregator)
+ * - Aggregator already filtered out senior-level positions
  */
 
-const { fetchAllJobs: fetchFromAggregator } = require('./job-fetcher/aggregator-consumer');
-const { logger } = require('./shared');
+const { createAggregatorConsumer } = require('./shared/lib/aggregator-consumer');
 
 /**
- * Fetch all jobs (from centralized aggregator)
+ * Fetch all entry-level jobs (from centralized aggregator)
  * @returns {Promise<Array>} Array of job objects
  */
 async function fetchAllJobs() {
-  logger.info('Fetching jobs from centralized aggregator');
+  // Create consumer with NO filters (accept all jobs from aggregator)
+  const consumer = createAggregatorConsumer({
+    filters: {}, // No filters - New-Grad accepts ALL entry-level jobs
+    verbose: true
+  });
 
-  try {
-    const jobs = await fetchFromAggregator();
-
-    logger.info('Jobs fetched from aggregator', {
-      count: jobs.length,
-      source: 'jobs-aggregator-private'
-    });
-
-    return jobs;
-  } catch (error) {
-    logger.error('Failed to fetch from aggregator', {
-      error: error.message,
-      fallback: 'Returning empty array'
-    });
-
-    // Return empty array on failure (don't crash workflow)
-    return [];
-  }
+  return await consumer.fetchJobs();
 }
 
 module.exports = { fetchAllJobs };
