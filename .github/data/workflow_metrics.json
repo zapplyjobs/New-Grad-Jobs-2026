@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-14T23:55:17.354Z",
+  "timestamp": "2026-02-15T00:32:28.326Z",
   "workflow": {
-    "last_commit": "2026-02-14 23:38:12 +0000",
-    "commit_message": "Update jobs - 2026-02-14 23:38 UTC"
+    "last_commit": "2026-02-14 23:55:18 +0000",
+    "commit_message": "Update jobs - 2026-02-14 23:55 UTC"
   },
   "sources": {
     "jsearch": 0,
@@ -11,21 +11,21 @@
     "ashby": 5,
     "workday": 0,
     "myworkdayjobs": 6,
-    "other": 246,
-    "total": 547
+    "other": 238,
+    "total": 539
   },
   "processing": {
-    "current_jobs": 547,
+    "current_jobs": 539,
     "seen_jobs_total": 812,
     "fresh_this_run": 20,
     "pending_queue": 1159
   },
   "quota": {
-    "jsearch": "90/90",
-    "jsearch_remaining": 0
+    "jsearch": "2/90",
+    "jsearch_remaining": 88
   },
   "databases": {
-    "current_jobs_size": "5.45 MB",
+    "current_jobs_size": "5.41 MB",
     "seen_jobs_size": "132.86 KB",
     "pending_queue_size": "14.7 MB"
   },
@@ -37,8 +37,7 @@
   },
   "warnings": [
     "Pending queue large: 1159 jobs (consider increasing batch size)",
-    "Pending queue file size: 14.7 MB (performance impact)",
-    "JSearch quota low: 0 requests remaining"
+    "Pending queue file size: 14.7 MB (performance impact)"
   ],
   "errors": []
 }
