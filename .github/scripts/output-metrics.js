@@ -132,12 +132,20 @@ function generateMetrics() {
     // Get last commit
     const lastCommit = getLastCommitInfo();
 
+    // Calculate data staleness
+    const now = Date.now();
+    const lastCommitTime = new Date(lastCommit.timestamp).getTime();
+    const dataAgeMs = now - lastCommitTime;
+    const dataAgeMinutes = Math.floor(dataAgeMs / 60000);
+
     // Build metrics object
     const metrics = {
         timestamp: new Date().toISOString(),
         workflow: {
             last_commit: lastCommit.timestamp,
-            commit_message: lastCommit.message
+            commit_message: lastCommit.message,
+            data_age_minutes: dataAgeMinutes,
+            data_is_stale: dataAgeMinutes > 60 // Flag if data older than 1 hour
         },
         sources: {
             jsearch: sources.jsearch,
@@ -177,6 +185,12 @@ function generateMetrics() {
     };
 
     // Add warnings based on thresholds
+
+    // Staleness warning - data older than 1 hour indicates fetch failures
+    if (dataAgeMinutes > 60) {
+        metrics.warnings.push(`Data is ${dataAgeMinutes} minutes old - possible fetch failure (expected: <20 min)`);
+    }
+
     if (pendingQueue.length > 1000) {
         metrics.warnings.push(`Pending queue large: ${pendingQueue.length} jobs (consider increasing batch size)`);
     }
@@ -194,6 +208,11 @@ function generateMetrics() {
 
     if (newJobs.length === 0 && currentJobs.length > 0) {
         metrics.warnings.push('No fresh jobs this run (all duplicates or no new postings)');
+    }
+
+    // Detect source anomalies (e.g., JSearch returning 0 when it should have jobs)
+    if (sources.jsearch === 0 && currentJobs.length > 0) {
+        metrics.warnings.push('JSearch returned 0 jobs - possible aggregator fetch failure or filtering issue');
     }
 
     // Check for errors

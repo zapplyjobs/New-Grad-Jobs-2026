@@ -30,8 +30,8 @@ const { convertDateToRelative } = require('../../../jobboard/src/backend/output/
 // Description fetcher service
 const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/services/descriptionFetchers');
 
-// Deduplication logger
-const DeduplicationLogger = require('../deduplication-logger');
+// Deduplication logger (archived during cleanup, now in archive/)
+const DeduplicationLogger = require('../archive/scripts/deduplication-logger');
 
 // Analytics archive for long-term data retention
 const { archiveJobs } = require('../src/data/analytics-archive');
