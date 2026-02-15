@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-15T15:12:57.351Z",
+  "timestamp": "2026-02-15T15:29:38.953Z",
   "workflow": {
-    "last_commit": "2026-02-15 15:00:04 +0000",
-    "commit_message": "Update jobs - 2026-02-15 15:00 UTC"
+    "last_commit": "2026-02-15 09:29:01 -0600",
+    "commit_message": "feat: Integrate with centralized aggregator (Phase 2A)"
   },
   "sources": {
     "jsearch": 0,
