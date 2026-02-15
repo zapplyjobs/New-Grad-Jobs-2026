@@ -12,9 +12,9 @@
 const https = require('https');
 const { logger, withRetry } = require('../shared');
 
-// Aggregator URLs
-const AGGREGATOR_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-data-2026/main/.github/data/jobs-shared.json';
-const METADATA_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-data-2026/main/.github/data/jobs-metadata.json';
+// Aggregator URLs (PRIVATE repo - requires authentication)
+const AGGREGATOR_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-aggregator-private/main/.github/data/all_jobs.json';
+const METADATA_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-aggregator-private/main/.github/data/jobs-metadata.json';
 
 /**
  * Fetch JSONL file from aggregator
@@ -23,7 +23,14 @@ const METADATA_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-data-202
 async function fetchJobsFromAggregator() {
   return withRetry(
     () => new Promise((resolve, reject) => {
-      https.get(AGGREGATOR_URL, (res) => {
+      // Get GitHub token for authentication (private repo access)
+      const token = process.env.GITHUB_TOKEN || process.env.GH_PAT;
+
+      const options = {
+        headers: token ? { 'Authorization': `token ${token}` } : {}
+      };
+
+      https.get(AGGREGATOR_URL, options, (res) => {
         if (res.statusCode !== 200) {
           reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
           return;
@@ -62,6 +69,10 @@ async function fetchJobsFromAggregator() {
  * Filter jobs for entry-level/new-grad positions across all domains
  * @param {Array} jobs - Array of tagged jobs from aggregator
  * @returns {Array} - Filtered entry-level jobs
+ *
+ * NOTE: According to centralized aggregator architecture (2026-02-15),
+ * New-Grad-Jobs-2026 accepts ALL jobs from aggregator (multi-category hub).
+ * The aggregator already filters out senior-level jobs, so we accept everything.
  */
 function filterNewGradJobs(jobs) {
   if (!Array.isArray(jobs)) {
@@ -69,24 +80,19 @@ function filterNewGradJobs(jobs) {
     return [];
   }
 
+  // Accept ALL jobs from aggregator (it already filtered senior-level)
+  // Keep basic validation to skip malformed jobs
   return jobs.filter(job => {
-    // Skip jobs without tags
-    if (!job.tags) {
+    // Must have basic required fields
+    if (!job.id || !job.title || !job.company_name || !job.url) {
+      logger.warn('Skipping job with missing required fields', {
+        id: job.id,
+        title: job.title,
+        company: job.company_name
+      });
       return false;
     }
 
-    // Accept BOTH internships AND entry_level jobs (NOT senior/mid-level)
-    const validEmployment = ['internship', 'entry_level', 'no_experience', '3_plus_years'];
-    if (!job.tags.employment || !validEmployment.includes(job.tags.employment)) {
-      return false;
-    }
-
-    // Must have at least one domain tag
-    if (!job.tags.domains || !Array.isArray(job.tags.domains) || job.tags.domains.length === 0) {
-      return false;
-    }
-
-    // Accept jobs with US location OR remote (no location filter for aggregator)
     return true;
   });
 }
@@ -95,18 +101,25 @@ function filterNewGradJobs(jobs) {
  * Convert aggregator job format to New-Grad-Jobs-2026 format
  */
 function convertJobFormat(aggregatorJob) {
+  // Extract location from aggregator's location object
+  const location = aggregatorJob.location || {};
+  const jobCity = location.city || aggregatorJob.job_city || '';
+  const jobState = location.state || location.region || '';
+  const jobCountry = location.country || 'US';
+
   return {
     job_id: aggregatorJob.id,
     job_title: aggregatorJob.title,
-    employer_name: aggregatorJob.company,
-    job_city: aggregatorJob.location?.city || '',
-    job_state: aggregatorJob.location?.state || '',
-    job_country: aggregatorJob.location?.country || '',
+    employer_name: aggregatorJob.company_name,
+    job_city: jobCity,
+    job_state: jobState,
+    job_country: jobCountry,
     job_description: aggregatorJob.description || '',
     job_apply_link: aggregatorJob.apply_url || aggregatorJob.url || '',
-    job_posted_at_datetime_utc: aggregatorJob.posted_date || new Date().toISOString(),
-    job_employment_type: aggregatorJob.employment_type || 'FULLTIME',
-    job_source: 'aggregator',
+    job_posted_at_datetime_utc: aggregatorJob.posted_at || new Date().toISOString(),
+    job_employment_type: aggregatorJob.employment_types?.[0] || 'FULLTIME',
+    job_source: aggregatorJob.source || 'aggregator',
+    fingerprint: aggregatorJob.fingerprint,
     tags: aggregatorJob.tags
   };
 }
