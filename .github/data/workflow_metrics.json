@@ -1,8 +1,10 @@
 {
-  "timestamp": "2026-02-15T21:26:09.123Z",
+  "timestamp": "2026-02-15T21:19:09.005Z",
   "workflow": {
-    "last_commit": "2026-02-15 21:11:19 +0000",
-    "commit_message": "Update jobs - 2026-02-15 21:11 UTC"
+    "last_commit": "2026-02-15 09:46:37 -0600",
+    "commit_message": "refactor: Migrate to shared aggregator-consumer library",
+    "data_age_minutes": 332,
+    "data_is_stale": true
   },
   "sources": {
     "jsearch": 0,
@@ -36,8 +38,10 @@
     "pending_queue_exists": true
   },
   "warnings": [
+    "Data is 332 minutes old - possible fetch failure (expected: <20 min)",
     "Pending queue large: 1159 jobs (consider increasing batch size)",
-    "Pending queue file size: 14.7 MB (performance impact)"
+    "Pending queue file size: 14.7 MB (performance impact)",
+    "JSearch returned 0 jobs - possible aggregator fetch failure or filtering issue"
   ],
   "errors": []
 }
