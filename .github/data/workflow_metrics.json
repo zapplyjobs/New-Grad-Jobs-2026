@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-18T22:03:39.790Z",
+  "timestamp": "2026-02-18T22:21:11.425Z",
   "workflow": {
-    "last_commit": "2026-02-18 21:48:23 +0000",
-    "commit_message": "Update jobs - 2026-02-18 21:48 UTC",
-    "data_age_minutes": 15,
+    "last_commit": "2026-02-18 22:03:40 +0000",
+    "commit_message": "Update jobs - 2026-02-18 22:03 UTC",
+    "data_age_minutes": 17,
     "data_is_stale": false
   },
   "sources": {
@@ -13,11 +13,11 @@
     "ashby": 1,
     "workday": 0,
     "myworkdayjobs": 0,
-    "other": 122,
-    "total": 351
+    "other": 121,
+    "total": 350
   },
   "processing": {
-    "current_jobs": 351,
+    "current_jobs": 350,
     "seen_jobs_total": 812,
     "fresh_this_run": 20,
     "pending_queue": 1159
@@ -27,7 +27,7 @@
     "jsearch_remaining": 86
   },
   "databases": {
-    "current_jobs_size": "4.28 MB",
+    "current_jobs_size": "4.27 MB",
     "seen_jobs_size": "132.86 KB",
     "pending_queue_size": "14.7 MB"
   },
