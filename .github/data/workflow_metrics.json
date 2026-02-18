@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-18T03:33:56.604Z",
+  "timestamp": "2026-02-18T03:47:23.587Z",
   "workflow": {
-    "last_commit": "2026-02-17 21:27:25 -0600",
-    "commit_message": "fix: stub out missing deduplication-logger to restore workflow",
-    "data_age_minutes": 6,
+    "last_commit": "2026-02-18 03:33:57 +0000",
+    "commit_message": "Update jobs - 2026-02-18 03:33 UTC",
+    "data_age_minutes": 13,
     "data_is_stale": false
   },
   "sources": {
