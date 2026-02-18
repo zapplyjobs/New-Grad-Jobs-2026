@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-02-15T21:19:09.005Z",
+  "timestamp": "2026-02-18T03:33:56.604Z",
   "workflow": {
-    "last_commit": "2026-02-15 09:46:37 -0600",
-    "commit_message": "refactor: Migrate to shared aggregator-consumer library",
-    "data_age_minutes": 332,
-    "data_is_stale": true
+    "last_commit": "2026-02-17 21:27:25 -0600",
+    "commit_message": "fix: stub out missing deduplication-logger to restore workflow",
+    "data_age_minutes": 6,
+    "data_is_stale": false
   },
   "sources": {
     "jsearch": 0,
-    "greenhouse": 269,
-    "lever": 21,
-    "ashby": 5,
+    "greenhouse": 225,
+    "lever": 15,
+    "ashby": 1,
     "workday": 0,
-    "myworkdayjobs": 6,
-    "other": 238,
-    "total": 539
+    "myworkdayjobs": 0,
+    "other": 130,
+    "total": 371
   },
   "processing": {
-    "current_jobs": 539,
+    "current_jobs": 371,
     "seen_jobs_total": 812,
     "fresh_this_run": 20,
     "pending_queue": 1159
@@ -27,7 +27,7 @@
     "jsearch_remaining": 86
   },
   "databases": {
-    "current_jobs_size": "5.41 MB",
+    "current_jobs_size": "4.42 MB",
     "seen_jobs_size": "132.86 KB",
     "pending_queue_size": "14.7 MB"
   },
@@ -38,7 +38,6 @@
     "pending_queue_exists": true
   },
   "warnings": [
-    "Data is 332 minutes old - possible fetch failure (expected: <20 min)",
     "Pending queue large: 1159 jobs (consider increasing batch size)",
     "Pending queue file size: 14.7 MB (performance impact)",
     "JSearch returned 0 jobs - possible aggregator fetch failure or filtering issue"
