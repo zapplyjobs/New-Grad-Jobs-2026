@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-02-18T22:21:11.425Z",
+  "timestamp": "2026-02-18T22:37:57.239Z",
   "workflow": {
-    "last_commit": "2026-02-18 22:03:40 +0000",
-    "commit_message": "Update jobs - 2026-02-18 22:03 UTC",
-    "data_age_minutes": 17,
+    "last_commit": "2026-02-18 22:21:12 +0000",
+    "commit_message": "Update jobs - 2026-02-18 22:21 UTC",
+    "data_age_minutes": 16,
     "data_is_stale": false
   },
   "sources": {
     "jsearch": 0,
-    "greenhouse": 215,
-    "lever": 13,
+    "greenhouse": 219,
+    "lever": 22,
     "ashby": 1,
     "workday": 0,
     "myworkdayjobs": 0,
-    "other": 121,
-    "total": 350
+    "other": 131,
+    "total": 373
   },
   "processing": {
-    "current_jobs": 350,
-    "seen_jobs_total": 812,
+    "current_jobs": 373,
+    "seen_jobs_total": 644,
     "fresh_this_run": 20,
-    "pending_queue": 1159
+    "pending_queue": 1173
   },
   "quota": {
     "jsearch": "4/90",
     "jsearch_remaining": 86
   },
   "databases": {
-    "current_jobs_size": "4.27 MB",
-    "seen_jobs_size": "132.86 KB",
-    "pending_queue_size": "14.7 MB"
+    "current_jobs_size": "3.54 MB",
+    "seen_jobs_size": "102.02 KB",
+    "pending_queue_size": "14.81 MB"
   },
   "health": {
     "current_jobs_exists": true,
@@ -38,8 +38,8 @@
     "pending_queue_exists": true
   },
   "warnings": [
-    "Pending queue large: 1159 jobs (consider increasing batch size)",
-    "Pending queue file size: 14.7 MB (performance impact)",
+    "Pending queue large: 1173 jobs (consider increasing batch size)",
+    "Pending queue file size: 14.81 MB (performance impact)",
     "JSearch returned 0 jobs - possible aggregator fetch failure or filtering issue"
   ],
   "errors": []
