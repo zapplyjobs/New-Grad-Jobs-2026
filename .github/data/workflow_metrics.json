@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-18T23:37:18.590Z",
+  "timestamp": "2026-02-18T23:43:55.519Z",
   "workflow": {
-    "last_commit": "2026-02-18 23:15:10 +0000",
-    "commit_message": "Update jobs - 2026-02-18 23:15 UTC",
-    "data_age_minutes": 22,
+    "last_commit": "2026-02-18 17:43:21 -0600",
+    "commit_message": "Wire to aggregator pipeline - no domain filter (all new-grad jobs)",
+    "data_age_minutes": 0,
     "data_is_stale": false
   },
   "sources": {
@@ -19,7 +19,7 @@
   "processing": {
     "current_jobs": 284,
     "seen_jobs_total": 644,
-    "fresh_this_run": 20,
+    "fresh_this_run": 795,
     "pending_queue": 1173
   },
   "quota": {
