@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-18T16:08:19.089Z",
+  "timestamp": "2026-02-18T16:40:07.898Z",
   "workflow": {
-    "last_commit": "2026-02-18 15:42:59 +0000",
-    "commit_message": "Update jobs - 2026-02-18 15:42 UTC",
-    "data_age_minutes": 25,
+    "last_commit": "2026-02-18 10:20:13 -0600",
+    "commit_message": "Update job-board-scripts submodule: aggregator URL + 14-day filter",
+    "data_age_minutes": 19,
     "data_is_stale": false
   },
   "sources": {
