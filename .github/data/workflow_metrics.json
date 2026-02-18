@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-02-18T14:09:57.844Z",
+  "timestamp": "2026-02-18T14:34:58.574Z",
   "workflow": {
-    "last_commit": "2026-02-18 07:23:25 -0600",
-    "commit_message": "fix: add ?ref=github to website button URL",
-    "data_age_minutes": 46,
+    "last_commit": "2026-02-18 14:09:58 +0000",
+    "commit_message": "Update jobs - 2026-02-18 14:09 UTC",
+    "data_age_minutes": 25,
     "data_is_stale": false
   },
   "sources": {
     "jsearch": 0,
     "greenhouse": 222,
-    "lever": 15,
+    "lever": 14,
     "ashby": 1,
     "workday": 0,
     "myworkdayjobs": 0,
-    "other": 128,
-    "total": 366
+    "other": 127,
+    "total": 364
   },
   "processing": {
-    "current_jobs": 366,
+    "current_jobs": 364,
     "seen_jobs_total": 812,
     "fresh_this_run": 20,
     "pending_queue": 1159
