@@ -27,7 +27,7 @@ async function main() {
 
     // Fetch all jobs from aggregator (no domain filter)
     const consumer = createAggregatorConsumer({
-      filters: {},
+      filters: { locations: ['us'] },
       verbose: true
     });
 
