@@ -7,12 +7,11 @@ const config = require(path.join(process.cwd(), '.github/scripts/job-fetcher/con
 // Load repo-specific job categories
 const jobCategories = require(path.join(process.cwd(), '.github/scripts/job-fetcher/job_categories.json'));
 
-// Load validation and template rendering
-const { validateConfig } = require(path.join(__dirname, '../shared/lib/config-validator.js'));
-const { renderConfigTemplates } = require(path.join(__dirname, '../shared/lib/template-renderer.js'));
-
-// Validate config on load
-validateConfig(config, process.cwd());
+// Inline template renderer (lib/template-renderer.js removed in N-6 cleanup)
+function renderConfigTemplates(cfg, vars) {
+  const render = (str) => !str ? str : str.replace(/{totalCompanies}/g, vars.totalCompanies).replace(/{currentJobs}/g, vars.currentJobs);
+  return { descriptionLine1: render(cfg.descriptionLine1), descriptionLine2: render(cfg.descriptionLine2) };
+}
 
 // Import shared utilities
 const { logger } = require("../shared");
