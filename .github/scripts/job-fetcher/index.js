@@ -31,7 +31,7 @@ async function main() {
       verbose: true
     });
 
-    const jobs = await consumer.fetchJobs();
+    const { jobs, diagnostics } = await consumer.fetchJobsWithDiagnostics();
 
     if (jobs.length === 0) {
       console.log('⚠️  No jobs fetched from aggregator');
@@ -64,6 +64,19 @@ async function main() {
       'utf8'
     );
     console.log(`💾 Saved ${currentJobs.length} jobs to new_jobs.json`);
+
+    // Write run metrics (OB-3)
+    const runMetrics = {
+      timestamp: new Date().toISOString(),
+      all_jobs_version: process.env.ALL_JOBS_SHA || null,
+      ...diagnostics
+    };
+    fs.writeFileSync(
+      path.join(dataDir, 'run_metrics.json'),
+      JSON.stringify(runMetrics, null, 2),
+      'utf8'
+    );
+    console.log(`📈 Metrics: total_fetched=${diagnostics.total_fetched} → 14day=${diagnostics.after_14day_filter} → tags=${diagnostics.after_tag_filter} → final=${diagnostics.final_count}`);
 
     // Update README
     await updateReadme(currentJobs, [], null, stats);
