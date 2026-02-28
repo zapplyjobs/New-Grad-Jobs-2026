@@ -27,20 +27,23 @@ const path = require('path');
 // Import shared utilities library
 const sharedUtils = require('../shared/lib/utils');
 
-// Load local company database for this repo
-const companies = JSON.parse(
-  fs.readFileSync(path.join(__dirname, 'companies.json'), 'utf8')
-);
+// Load company database if present (New-Grad and Internships repos have companies.json;
+// SEO repos do not — company emoji/career URL features degrade gracefully to defaults)
+let companies = {};
 
-// Initialize shared library with this repo's company data
-sharedUtils.initCompanyDatabase(companies);
+const companiesPath = path.join(__dirname, 'companies.json');
+if (fs.existsSync(companiesPath)) {
+  companies = JSON.parse(fs.readFileSync(companiesPath, 'utf8'));
+
+  // Only initialize for the expected format: {category: [{name, api_names}, ...]}
+  const firstCategory = Object.values(companies)[0];
+  if (Array.isArray(firstCategory)) {
+    sharedUtils.initCompanyDatabase(companies);
+  }
+}
 
 // Re-export all shared utilities
-// This maintains backwards compatibility - existing imports continue to work
 module.exports = {
   ...sharedUtils,
-
-  // Also export companies directly for backwards compatibility
-  // (some files may access `utils.companies` directly)
   companies
 };
