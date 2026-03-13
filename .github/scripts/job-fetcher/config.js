@@ -23,11 +23,11 @@ module.exports = {
 
   // Description paragraphs
   descriptionLine1: 'Welcome to an actively maintained collection of software engineering, tech, and IT jobs for new grads, data analysts, scientists, and entry-level software developers',
-  descriptionLine2: '',  // New-Grad doesn't have second line
+  descriptionLine2: '🇺🇸 Tracks roles in the United States and remote positions across tech giants and fast-growing startups.',
 
   // Note box
-  noteType: 'NOTE',
-  noteText: 'This repo tracks roles in the United States and remote positions across tech giants and fast-growing startups.',
+  noteType: 'TIP',
+  noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
   jobsSectionHeader: 'Fresh Software Jobs 2026',
