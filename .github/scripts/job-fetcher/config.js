@@ -22,8 +22,8 @@ module.exports = {
   tagline: 'Updated job openings for new grads in SWE and other tech roles | 2026',
 
   // Description paragraphs
-  descriptionLine1: 'Welcome to an actively maintained collection of software engineering, tech, and IT jobs for new grads, data analysts, scientists, and entry-level software developers',
-  descriptionLine2: '🇺🇸 Tracks roles in the United States and remote positions across tech giants and fast-growing startups.',
+  descriptionLine1: 'Updated job openings for new grads in SWE and other tech roles in the USA.',
+  descriptionLine2: '',
 
   // Note box
   noteType: 'TIP',
