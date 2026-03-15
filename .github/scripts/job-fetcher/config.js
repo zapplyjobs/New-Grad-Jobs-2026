@@ -19,7 +19,7 @@ module.exports = {
 
   // Branding text
   title: 'New Grad Jobs 2026',
-  tagline: '',
+  tagline: 'Updated job openings for new grads in SWE and other tech roles | 2026',
 
   // Description paragraphs
   descriptionLine1: 'Updated job openings for new grads in SWE and other tech roles in the USA.',
