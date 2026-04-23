@@ -17,6 +17,7 @@ const fs = require('fs');
 const path = require('path');
 const { createAggregatorConsumer } = require('../shared/lib/aggregator-consumer');
 const { updateReadme } = require('./readme-generator');
+const { filterJobsByLinkHealth } = require('./link-health-filter');
 
 const dataDir = path.join(process.cwd(), '.github', 'data');
 
@@ -47,11 +48,24 @@ async function main() {
       job_posted_at: job.job_posted_at_datetime_utc || job.job_posted_at || null
     }));
 
-    // Build stats for README
-    const stats = {
-      totalByCompany: {}
-    };
-    currentJobs.forEach(job => {
+    // Link health filtering: first strike -> pending, second strike -> blocked
+    // Keeps dead-link state in hidden internal folder under .github/.internal/link-health
+    let linkHealthSummary = null;
+    try {
+      const linkHealth = await filterJobsByLinkHealth(currentJobs, { concurrency: 20 });
+      currentJobs = linkHealth.jobs;
+      linkHealthSummary = linkHealth.summary;
+      console.log(
+        `🔗 Link health: checked ${linkHealthSummary.unique_urls_checked}, ` +
+        `blocked=${linkHealthSummary.blocked_total}, removed_now=${linkHealthSummary.removed_this_run}`
+      );
+    } catch (linkError) {
+      console.warn(`⚠️  Link health filter skipped due to error: ${linkError.message}`);
+    }
+
+    // Build stats for README (post-filter)
+    const stats = { totalByCompany: {} };
+    currentJobs.forEach((job) => {
       stats.totalByCompany[job.employer_name] =
         (stats.totalByCompany[job.employer_name] || 0) + 1;
     });
@@ -69,7 +83,8 @@ async function main() {
     const runMetrics = {
       timestamp: new Date().toISOString(),
       all_jobs_version: process.env.ALL_JOBS_SHA || null,
-      ...diagnostics
+      ...diagnostics,
+      link_health: linkHealthSummary || { status: 'skipped_or_failed' },
     };
     fs.writeFileSync(
       path.join(dataDir, 'run_metrics.json'),

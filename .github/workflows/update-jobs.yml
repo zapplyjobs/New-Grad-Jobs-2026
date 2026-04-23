@@ -7,6 +7,8 @@ on:
     paths:
       - '.github/scripts/job-fetcher/**'
       - '.github/scripts/write-current-jobs.js'
+      - '.github/scripts/shared'
+      - '.gitmodules'
 
 # Prevent concurrent runs to avoid git conflicts
 concurrency:
@@ -129,7 +131,7 @@ jobs:
               git reset --hard HEAD
             }
 
-            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/data/run_metrics.json .github/logs/ || true
+            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/data/run_metrics.json .github/.internal/link-health/ .github/logs/ || true
 
             JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
 
