@@ -31,7 +31,7 @@ module.exports = {
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
-  jobsSectionHeader: 'Fresh Software Jobs 2026',
+  jobsSectionHeader: 'Fresh New Grad Jobs 2026',
 
   // Feature flags
   features: {
