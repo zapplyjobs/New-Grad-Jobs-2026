@@ -20,6 +20,7 @@ module.exports = {
   // Branding text
   title: 'New Grad Jobs 2026',
   tagline: '',
+  jobCountBadgeLabel: 'New Grad Jobs',
 
   // Description paragraphs
   descriptionLine1: '🚀 Entry-level jobs across tech, finance, healthcare, and more for new graduates, updated in real time.',
